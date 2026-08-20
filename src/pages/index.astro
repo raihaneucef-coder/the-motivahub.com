@@ -7,32 +7,112 @@ const posts = (await getCollection("blog"))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<Layout title="Motiva Hub — Unlock your potential with the Daily Drive" description="Family camping, hiking, and nature guides — practical checklists and screen-free activities for real outdoor memories.">
+<Layout title="Motiva Hub — Unlock your potential with the Daily Drive" description="A premium editorial sanctuary for the outdoor family. Camping, hiking, sport and podcasts — practical guides for real outdoor memories.">
   <section class="hero">
     <div class="hero-img"></div>
     <div class="container">
-      <p class="kicker">An Editorial Sanctuary for Outdoor Families</p>
-      <h1>Family adventures in nature, without the stress</h1>
-      <p>Camping checklists, kid-friendly hikes, and screen-free activities — practical guides for families who want real outdoor memories.</p>
-      <a class="btn" href="/blog/">Read the Journal</a>
+      <p class="kicker">Daily Drive · Edition 2026</p>
+      <h1>Unlock your potential with the Daily Drive.</h1>
+      <p>A premium editorial sanctuary for the outdoor family. Mindset, habits and the long ascent — camping, hiking, sport and the quiet hours in between.</p>
+      <div class="hero-btns">
+        <a class="btn-pill" href="/blog/">Explore the Guides</a>
+        <a class="btn-pill btn-pill-outline" href="/blog/easy-family-hikes/">Start with Hiking</a>
+      </div>
     </div>
   </section>
 
-  <section class="section">
+  <section class="premise">
     <div class="container">
-      <span class="watermark">01</span>
-      <div class="section-head">
+      <p class="kicker">The Premise</p>
+      <h2>Motivation is a visitor.<br /><em>Discipline is a resident.</em></h2>
+      <p class="premise-sub">We do not chase the feeling — we build the routine. Small, repeated acts outdoors compound into an unrecognisable family life.</p>
+      <div class="pillars">
+        <div class="pillar">
+          <p class="pillar-word">Preparation</p>
+          <p>We strip away the noise to find the one checklist that matters.</p>
+        </div>
+        <div class="pillar">
+          <p class="pillar-word">Presence</p>
+          <p>Small, repeated adventures compound into memories that last.</p>
+        </div>
+        <div class="pillar">
+          <p class="pillar-word">Patience</p>
+          <p>The family that can hold its centre decides the shape of the day.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="feed-head">
+        <p class="kicker">The Intellectual Feed</p>
+        <a class="link-ochre" href="/blog/">All Topics →</a>
+      </div>
+      <div class="feed-list">
+        {
+          posts.map((post, i) => (
+            <a class="feed-item" href={`/blog/${post.id}/`}>
+              <span class="feed-num">{String(i + 1).padStart(2, "0")}</span>
+              <div class="feed-body">
+                <h3>{post.data.title.toUpperCase()}</h3>
+                <p class="feed-tag">{post.data.category}</p>
+                <p class="feed-desc">{post.data.description}</p>
+              </div>
+              <span class="feed-arrow">→</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="blueprint">
+    <div class="container">
+      <p class="kicker">The Blueprint</p>
+      <h2 class="bp-title">Practical <em>Guides</em></h2>
+      <p class="premise-sub">From abstract motivation to actionable steps. Each guide is a short, focused ascent.</p>
+      <div class="bp-grid">
+        <div class="bp-card">
+          <p class="bp-meta">5 Chapters · 25 Min</p>
+          <h3>The Camping Reset</h3>
+          <p>A complete first-trip system. Begin here if you have never camped with kids before.</p>
+          <a class="link-ochre" href="/blog/family-camping-guide/">Begin Guide →</a>
+        </div>
+        <div class="bp-card">
+          <p class="bp-meta">6 Chapters · 30 Min</p>
+          <h3>The Trail Habit</h3>
+          <p>Design hikes that make the right behaviour the path of least resistance. Less willpower, more walking.</p>
+          <a class="link-ochre" href="/blog/easy-family-hikes/">Begin Guide →</a>
+        </div>
+        <div class="bp-card">
+          <p class="bp-meta">4 Chapters · 20 Min</p>
+          <h3>The Home Workout Protocol</h3>
+          <p>A practical system for the mornings you do not feel like it — the only mornings that truly matter.</p>
+          <a class="link-ochre" href="/blog/home-workout-routine/">Begin Guide →</a>
+        </div>
+        <div class="bp-card">
+          <p class="bp-meta">5 Chapters · 28 Min</p>
+          <h3>The Road Trip Day</h3>
+          <p>Rebuild your car time around audio stories and quiet play. The single highest-leverage change for family travel.</p>
+          <a class="link-ochre" href="/blog/family-podcasts/">Begin Guide →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="journal">
+    <div class="container">
+      <div class="feed-head">
         <p class="kicker">The Journal</p>
-        <h2 class="section-title">The <em>Journal</em></h2>
-        <p class="section-sub">Every essay in the archive — click a title and read it in full.</p>
+        <a class="link-ochre" href="/blog/">All Essays →</a>
       </div>
       <div class="journal-list">
         {
-          posts.map((post, i) => (
+          posts.slice(0, 3).map((post) => (
             <a class="journal-item" href={`/blog/${post.id}/`}>
-              <span class="journal-num">{String(i + 1).padStart(2, "0")}</span>
               <div class="journal-body">
-                <p class="card-meta">{post.data.category} · {post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+                <p class="journal-meta">{post.data.category.toUpperCase()} · 7 MIN</p>
                 <h3>{post.data.title}</h3>
                 <p>{post.data.description}</p>
               </div>
@@ -44,29 +124,31 @@ const posts = (await getCollection("blog"))
     </div>
   </section>
 
-  <section class="section" style="background: var(--white);">
+  <section class="bookstand">
     <div class="container">
-      <span class="watermark">02</span>
-      <div class="section-head">
-        <p class="kicker">Departments</p>
-        <h2 class="section-title">What We Write <em>About</em></h2>
-      </div>
-      <div class="grid">
-        <article class="card">
-          <p class="card-num">01</p>
-          <h3>Camping</h3>
-          <p>Complete packing checklists, campfire safety, and meal plans that turn camping with kids from a disaster into a tradition.</p>
-        </article>
-        <article class="card">
-          <p class="card-num">02</p>
-          <h3>Hiking</h3>
-          <p>Easy trails, hiking games, and gear lists built for toddler legs and family pace — because kids hike for features, not views.</p>
-        </article>
-        <article class="card">
-          <p class="card-num">03</p>
-          <h3>Nature Play</h3>
-          <p>Screen-free activities that need nothing but a backyard. Mud kitchens, bug safaris, scavenger hunts — simple fun that works.</p>
-        </article>
+      <p class="kicker">The Wisdom Stack</p>
+      <h2 class="bp-title">The <em>Bookstand</em></h2>
+      <div class="bp-grid">
+        <div class="bp-card">
+          <p class="bp-meta">Outdoor Life</p>
+          <h3>The Family Camping Field Manual</h3>
+          <p>One book, every checklist, zero stress. The essential companion for the first season.</p>
+        </div>
+        <div class="bp-card">
+          <p class="bp-meta">Mindset</p>
+          <h3>The Two-Minute Ascent</h3>
+          <p>Habits are not finish lines but doorways. Shrink them until they become impossible to skip.</p>
+        </div>
+        <div class="bp-card">
+          <p class="bp-meta">Habits</p>
+          <h3>Identity Precedes Outcome</h3>
+          <p>You do not rise to the level of your goals; you fall to the level of your daily routine.</p>
+        </div>
+        <div class="bp-card">
+          <p class="bp-meta">Stoicism</p>
+          <h3>Waste No More Time</h3>
+          <p>"Waste no more time arguing what a good family looks like. Be one." — Marcus Aurelius.</p>
+        </div>
       </div>
     </div>
   </section>

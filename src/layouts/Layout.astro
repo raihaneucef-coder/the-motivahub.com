@@ -5,7 +5,6 @@ interface Props {
 }
 
 const { title, description } = Astro.props;
-const site = "https://familynature.vercel.app";
 ---
 
 <!doctype html>
@@ -27,28 +26,48 @@ const site = "https://familynature.vercel.app";
     <link rel="stylesheet" href="/styles/global.css" />
   </head>
   <body>
-    <header class="site-header">
-      <div class="container header-inner">
-        <a href="/" class="logo"><img src="/logo.jpg" alt="Motiva Hub" class="logo-img" /> <em>Motiva Hub</em></a>
-        <nav class="nav" aria-label="Main navigation">
-          <a href="/">Home</a>
-          <a href="/blog/">Blog</a>
-          <a href="/about/">About</a>
-          <a href="/contact/">Contact</a>
-        </nav>
+    <header class="site-header" id="site-header">
+      <div class="header-inner container">
+        <a href="/" class="logo">
+          <img src="/logo.jpg" alt="Motiva Hub" class="logo-img" />
+          <span class="logo-word">Motiva <em>Hub</em></span>
+        </a>
+        <button class="menu-btn" id="menu-btn" aria-label="Open menu">Menu</button>
       </div>
     </header>
+
+    <div class="overlay-menu" id="overlay-menu">
+      <div class="overlay-head container">
+        <a href="/" class="logo logo-cream">
+          <img src="/logo.jpg" alt="Motiva Hub" class="logo-img" />
+          <span class="logo-word">Motiva <em>Hub</em></span>
+        </a>
+        <button class="menu-btn menu-btn-cream" id="menu-close" aria-label="Close menu">Close</button>
+      </div>
+      <nav class="overlay-nav" aria-label="Fullscreen menu">
+        <a href="/">01 <span>Home</span></a>
+        <a href="/blog/">02 <span>Journal</span></a>
+        <a href="/blog/">03 <span>Topics</span></a>
+        <a href="/about/">04 <span>About</span></a>
+        <a href="/contact/">05 <span>Contact</span></a>
+      </nav>
+      <div class="overlay-foot container">
+        <button class="btn-pill btn-pill-cream" type="button">Subscribe</button>
+      </div>
+    </div>
+
     <main>
       <slot />
     </main>
+
     <footer class="site-footer">
       <div class="container footer-inner">
         <div>
           <p class="footer-logo"><img src="/logo.jpg" alt="Motiva Hub" class="logo-img" /> Motiva <em>Hub</em></p>
-          <p class="footer-tag">Family adventures in nature, together.</p>
+          <p class="footer-tag">The Daily Drive. Family adventures, delivered daily.</p>
         </div>
         <nav class="footer-nav" aria-label="Footer navigation">
-          <a href="/blog/">Blog</a>
+          <a href="/blog/">Journal</a>
           <a href="/about/">About</a>
           <a href="/contact/">Contact</a>
           <a href="/privacy/">Privacy Policy</a>
@@ -59,5 +78,36 @@ const site = "https://familynature.vercel.app";
         <p>© {new Date().getFullYear()} Motiva Hub. All rights reserved.</p>
       </div>
     </footer>
+
+    <script>
+      const header = document.getElementById("site-header");
+      const menuBtn = document.getElementById("menu-btn");
+      const menuClose = document.getElementById("menu-close");
+      const overlay = document.getElementById("overlay-menu");
+
+      const onScroll = () => {
+        if (window.scrollY > 40) {
+          header.classList.add("scrolled");
+        } else {
+          header.classList.remove("scrolled");
+        }
+      };
+      window.addEventListener("scroll", onScroll);
+      onScroll();
+
+      const openMenu = () => {
+        overlay.classList.add("open");
+        document.body.style.overflow = "hidden";
+      };
+      const closeMenu = () => {
+        overlay.classList.remove("open");
+        document.body.style.overflow = "";
+      };
+      menuBtn.addEventListener("click", openMenu);
+      menuClose.addEventListener("click", closeMenu);
+      overlay.addEventListener("click", (e) => {
+        if (e.target.tagName === "A") closeMenu();
+      });
+    </script>
   </body>
 </html>
