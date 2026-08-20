@@ -2,26 +2,37 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="Contact — Motiva Hub" description="Contact Motiva Hub — questions, suggestions, or collaboration requests.">
-  <section class="page-content container">
-    <h1>Contact Us</h1>
-    <p>
-      Have a question, a trail recommendation, or a topic you'd love us to cover? We read every message. Fill in the form and we'll get back to you within a few days.
-    </p>
-    <form action="mailto:hello@wildfamily.blog" method="post" enctype="text/plain">
-      <div class="form-group">
-        <label for="name">Your name</label>
-        <input type="text" id="name" name="name" required />
+<Layout title="Contact — Motiva Hub" description="Write to the desk. Pitches, corrections, quiet hellos.">
+  <section class="feed" style="padding-top: 140px;">
+    <div class="container">
+      <p class="kicker">Contact</p>
+      <h1 class="bp-title" style="margin-bottom: 20px;">Write to <em>the desk.</em></h1>
+      <p class="premise-sub" style="margin: 0 0 50px;">Pitches, corrections, quiet hellos. We read everything, slowly, and reply to most. Expect a thoughtful answer.</p>
+      <div class="contact-grid">
+        <div class="contact-block">
+          <p class="bp-meta">Editorial</p>
+          <h3>editor@motivahub.com</h3>
+        </div>
+        <div class="contact-block">
+          <p class="bp-meta">Press & Partnerships</p>
+          <h3>hello@motivahub.com</h3>
+        </div>
+        <div class="contact-block">
+          <p class="bp-meta">Studio</p>
+          <h3>The Quiet Floor<br />14 Ascent Lane<br />Marrakech 40000, Morocco</h3>
+        </div>
       </div>
-      <div class="form-group">
-        <label for="email">Your email</label>
-        <input type="email" id="email" name="email" required />
+      <div class="contact-form">
+        <p class="kicker">Newsletter</p>
+        <h2 class="bp-title" style="font-size: 1.8rem; margin-bottom: 12px;">One letter a week. <em>The Daily Drive,</em> delivered at dawn.</h2>
+        <form action="mailto:hello@motivahub.com" method="post" enctype="text/plain">
+          <div class="form-group">
+            <label for="email">Your email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <button type="submit" class="btn-pill">Subscribe</button>
+        </form>
       </div>
-      <div class="form-group">
-        <label for="message">Message</label>
-        <textarea id="message" name="message" rows="6" required></textarea>
-      </div>
-      <button type="submit" class="btn btn-submit">Send Message</button>
-    </form>
+    </div>
   </section>
 </Layout>

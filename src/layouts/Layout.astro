@@ -46,10 +46,12 @@ const { title, description } = Astro.props;
       </div>
       <nav class="overlay-nav" aria-label="Fullscreen menu">
         <a href="/">01 <span>Home</span></a>
-        <a href="/blog/">02 <span>Journal</span></a>
-        <a href="/blog/">03 <span>Topics</span></a>
-        <a href="/about/">04 <span>About</span></a>
-        <a href="/contact/">05 <span>Contact</span></a>
+        <a href="/about/">02 <span>About</span></a>
+        <a href="/topics/">03 <span>Topics</span></a>
+        <a href="/blog/">04 <span>Journal</span></a>
+        <a href="/books/">05 <span>Books</span></a>
+        <a href="/quotes/">06 <span>Quotes</span></a>
+        <a href="/contact/">07 <span>Contact</span></a>
       </nav>
       <div class="overlay-foot container">
         <button class="btn-pill btn-pill-cream" type="button">Subscribe</button>
@@ -67,8 +69,10 @@ const { title, description } = Astro.props;
           <p class="footer-tag">The Daily Drive. Family adventures, delivered daily.</p>
         </div>
         <nav class="footer-nav" aria-label="Footer navigation">
-          <a href="/blog/">Journal</a>
           <a href="/about/">About</a>
+          <a href="/blog/">Journal</a>
+          <a href="/topics/">Topics</a>
+          <a href="/quotes/">Quotes</a>
           <a href="/contact/">Contact</a>
           <a href="/privacy/">Privacy Policy</a>
           <a href="/terms/">Terms</a>

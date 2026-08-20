@@ -868,3 +868,80 @@ img { max-width: 100%; height: auto; }
   .feed-item { flex-direction: column; gap: 14px; }
   .feed-arrow { display: none; }
 }
+
+/* Quotes page */
+.quotes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 26px;
+}
+
+.quote-card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  padding: 40px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.quote-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 40px rgba(18, 18, 18, 0.08);
+}
+
+.quote-card p {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  flex: 1;
+}
+
+.quote-card cite {
+  font-style: normal;
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+/* About / Contact */
+.about-body h2 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.6rem;
+  margin: 40px 0 14px;
+}
+
+.about-body p { color: var(--muted); margin-bottom: 16px; max-width: 680px; }
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 26px;
+  margin-bottom: 70px;
+}
+
+.contact-block {
+  background: var(--white);
+  border: 1px solid var(--line);
+  padding: 32px 28px;
+}
+
+.contact-block h3 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.3rem;
+  line-height: 1.4;
+  color: var(--ink);
+}
+
+.contact-form {
+  max-width: 520px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.contact-form .form-group { margin-top: 20px; }
