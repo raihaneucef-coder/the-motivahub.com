@@ -15,7 +15,7 @@ const site = "https://familynature.vercel.app";
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌲</text></svg>" />
+    <link rel="icon" href="/logo.jpg" />
     <link rel="canonical" href={Astro.url.href} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -29,7 +29,7 @@ const site = "https://familynature.vercel.app";
   <body>
     <header class="site-header">
       <div class="container header-inner">
-        <a href="/" class="logo">Motiva <em>Hub</em></a>
+        <a href="/" class="logo"><img src="/logo.jpg" alt="Motiva Hub" class="logo-img" /> <em>Motiva Hub</em></a>
         <nav class="nav" aria-label="Main navigation">
           <a href="/">Home</a>
           <a href="/blog/">Blog</a>
@@ -44,7 +44,7 @@ const site = "https://familynature.vercel.app";
     <footer class="site-footer">
       <div class="container footer-inner">
         <div>
-          <p class="footer-logo">Motiva <em>Hub</em></p>
+          <p class="footer-logo"><img src="/logo.jpg" alt="Motiva Hub" class="logo-img" /> Motiva <em>Hub</em></p>
           <p class="footer-tag">Family adventures in nature, together.</p>
         </div>
         <nav class="footer-nav" aria-label="Footer navigation">
