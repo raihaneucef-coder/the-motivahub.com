@@ -5,7 +5,7 @@ import type { APIContext } from 'astro';
 export async function GET(context: APIContext) {
   const posts = (await getCollection('blog')).filter((p) => !p.data.draft);
   return rss({
-    title: 'Wild Family — Blog',
+    title: 'Motiva Hub — Blog',
     description: 'Family adventures in nature: camping guides, kid-friendly hikes, and screen-free activities.',
     site: context.site!,
     items: posts.map((post) => ({
