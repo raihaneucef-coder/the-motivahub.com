@@ -2,6 +2,6 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://wildfamily.vercel.app',
+  site: 'https://motiva-hub.vercel.app',
   integrations: [sitemap()],
 });
