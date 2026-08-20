@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://motiva-hub-you-d6e2.vercel.app/sitemap-index.xml
+Sitemap: https://motivahub.vercel.app/sitemap-index.xml
