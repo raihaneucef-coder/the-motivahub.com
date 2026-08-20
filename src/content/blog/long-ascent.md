@@ -2,7 +2,9 @@
 title: "The Long Ascent"
 description: "Growth is not a staircase but a mountain. The plateaus are not failures — they are the ground reorganising itself beneath you."
 pubDate: 2026-07-18
-category: "Personal Growth"
+readTime: "9 MIN"
+image: "/images/mountain.jpg"
+topic: "Personal Growth"
 ---
 
 Growth is not a staircase but a mountain. The plateaus are not failures — they are the ground reorganising itself beneath you.

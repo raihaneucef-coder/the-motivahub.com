@@ -1,31 +1,38 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import SectionHeader from "../components/SectionHeader.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import BookCard from "../components/BookCard.astro";
+import QuoteCard from "../components/QuoteCard.astro";
+import GoalTracker from "../components/GoalTracker.astro";
+import NewsletterSection from "../components/NewsletterSection.astro";
 import { getCollection } from "astro:content";
+import { books } from "../data/books";
+import { quotes, getDailyQuote } from "../data/quotes";
 
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const daily = getDailyQuote();
 ---
 
 <Layout title="Motiva Hub — Unlock your potential with the Daily Drive" description="A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.">
   <section class="hero">
-    <div class="hero-img"></div>
+    <img class="hero-photo" src="/images/hero.jpg" alt="Sunrise over mountains — the long ascent begins at dawn" />
     <div class="container">
-      <p class="kicker">Daily Drive · Edition 2026</p>
+      <p class="kicker">Motiva Hub · The Daily Drive</p>
       <h1>Unlock your potential with the Daily Drive.</h1>
       <p>A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.</p>
       <div class="hero-btns">
-        <a class="btn-pill" href="/blog/">Explore the Guides</a>
-        <a class="btn-pill btn-pill-outline" href="/topics/">Start with Mindset</a>
+        <a class="btn-pill" href="/journal/">Explore the Guides</a>
+        <a class="btn-pill btn-pill-outline" href="/objectives/">Start with Mindset</a>
       </div>
     </div>
   </section>
 
   <section class="premise">
     <div class="container">
-      <p class="kicker">The Premise</p>
-      <h2>Motivation is a visitor.<br /><em>Discipline is a resident.</em></h2>
-      <p class="premise-sub">We do not chase the feeling — we build the room it returns to. The long ascent is climbed one idea at a time.</p>
+      <SectionHeader kicker="The Premise" title="Motivation is a visitor. <em>Discipline is a resident.</em>" subtitle="We do not chase the feeling — we build the room it returns to. The long ascent is climbed one idea at a time." />
       <div class="pillars">
         <div class="pillar">
           <p class="pillar-word">Clarity</p>
@@ -43,155 +50,56 @@ const posts = (await getCollection("blog"))
     </div>
   </section>
 
+  <section class="goals-section" style="background: var(--white);">
+    <div class="container">
+      <GoalTracker />
+    </div>
+  </section>
+
   <section class="feed">
     <div class="container">
       <div class="feed-head">
-        <p class="kicker">The Intellectual Feed</p>
-        <a class="link-ochre" href="/topics/">All Topics →</a>
+        <p class="kicker">The Journal</p>
+        <a class="link-ochre" href="/journal/">All Essays →</a>
       </div>
-      <div class="feed-list">
-        <a class="feed-item" href="/blog/identity-precedes-outcome/">
-          <span class="feed-num">01</span>
-          <div class="feed-body">
-            <h3>The Architecture of Belief</h3>
-            <p class="feed-tag">Mindset</p>
-            <p class="feed-desc">Before any habit or discipline can take root, the mind must be reshaped. We examine the inner scaffolding that holds a life together.</p>
-          </div>
-          <span class="feed-arrow">→</span>
-        </a>
-        <a class="feed-item" href="/blog/two-minute-threshold/">
-          <span class="feed-num">02</span>
-          <div class="feed-body">
-            <h3>The Compound Interest of the Self</h3>
-            <p class="feed-tag">Habits</p>
-            <p class="feed-desc">Greatness is not a single act but a thousand small ones, repeated until they disappear into who you are.</p>
-          </div>
-          <span class="feed-arrow">→</span>
-        </a>
-        <a class="feed-item" href="/blog/when-motivation-leaves/">
-          <span class="feed-num">03</span>
-          <div class="feed-body">
-            <h3>The Bridge Between Want and Have</h3>
-            <p class="feed-tag">Discipline</p>
-            <p class="feed-desc">Motivation is a visitor; discipline is a resident. This is the practice of doing what you said you would, especially when you do not feel like it.</p>
-          </div>
-          <span class="feed-arrow">→</span>
-        </a>
-        <a class="feed-item" href="/blog/quiet-power-of-doing-less/">
-          <span class="feed-num">04</span>
-          <div class="feed-body">
-            <h3>Depth Over Motion</h3>
-            <p class="feed-tag">Productivity</p>
-            <p class="feed-desc">Busyness is the enemy of meaning. We rebuild the day around deep, uninterrupted work — protecting attention as the rarest asset.</p>
-          </div>
-          <span class="feed-arrow">→</span>
-        </a>
-        <a class="feed-item" href="/blog/long-ascent/">
-          <span class="feed-num">05</span>
-          <div class="feed-body">
-            <h3>The Long Ascent</h3>
-            <p class="feed-tag">Personal Growth</p>
-            <p class="feed-desc">Growth is rarely linear and never finished. We trace the slow climb — the plateaus, the setbacks, the quiet breakthroughs.</p>
-          </div>
-          <span class="feed-arrow">→</span>
-        </a>
-        <a class="feed-item" href="/blog/deep-work-ritual/">
-          <span class="feed-num">06</span>
-          <div class="feed-body">
-            <h3>The Rarest Currency</h3>
-            <p class="feed-tag">Deep Work</p>
-            <p class="feed-desc">In an age engineered for distraction, the capacity to focus without interruption has become both rare and valuable.</p>
-          </div>
-          <span class="feed-arrow">→</span>
-        </a>
+      <div class="grid">
+        {posts.slice(0, 3).map((post) => <ArticleCard post={post} />)}
       </div>
+    </div>
+  </section>
+
+  <section class="quote-band" style="background: var(--ink);">
+    <div class="container">
+      <p class="kicker" style="color: var(--gold-light);">The Daily Quote</p>
+      <blockquote class="band-quote">
+        <p>"{daily.quote}"</p>
+        <cite>— {daily.author}, {daily.source}</cite>
+      </blockquote>
+      <a class="link-ochre" href="/quotes/" style="color: var(--gold-light);">All Quotes →</a>
     </div>
   </section>
 
   <section class="blueprint">
     <div class="container">
-      <p class="kicker">The Blueprint</p>
-      <h2 class="bp-title">Practical <em>Guides</em></h2>
-      <p class="premise-sub">From abstract motivation to actionable steps. Each guide is a short, focused ascent.</p>
-      <div class="bp-grid">
-        <div class="bp-card">
-          <p class="bp-meta">5 Chapters · 25 Min</p>
-          <h3>The Mindset Reset</h3>
-          <p>A short course in rebuilding the inner narrative. Begin here if you have never deliberately worked on the way you speak to yourself.</p>
-          <a class="link-ochre" href="/blog/identity-precedes-outcome/">Begin Guide →</a>
-        </div>
-        <div class="bp-card">
-          <p class="bp-meta">6 Chapters · 30 Min</p>
-          <h3>The Habit Architecture</h3>
-          <p>Design environments that make the right behaviour the path of least resistance. Less willpower, more structure.</p>
-          <a class="link-ochre" href="/blog/two-minute-threshold/">Begin Guide →</a>
-        </div>
-        <div class="bp-card">
-          <p class="bp-meta">4 Chapters · 20 Min</p>
-          <h3>The Discipline Protocol</h3>
-          <p>A practical system for the mornings you do not feel like it — the only mornings that truly matter.</p>
-          <a class="link-ochre" href="/blog/when-motivation-leaves/">Begin Guide →</a>
-        </div>
-        <div class="bp-card">
-          <p class="bp-meta">5 Chapters · 28 Min</p>
-          <h3>The Deep Work Day</h3>
-          <p>Rebuild your calendar around ninety minutes of uninterrupted focus. The single highest-leverage change available to you.</p>
-          <a class="link-ochre" href="/blog/deep-work-ritual/">Begin Guide →</a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="journal">
-    <div class="container">
       <div class="feed-head">
-        <p class="kicker">The Journal</p>
-        <a class="link-ochre" href="/blog/">All Essays →</a>
+        <p class="kicker">The Wisdom Stack</p>
+        <a class="link-ochre" href="/books/">All Books →</a>
       </div>
-      <div class="journal-list">
-        {
-          posts.slice(0, 3).map((post) => (
-            <a class="journal-item" href={`/blog/${post.id}/`}>
-              <div class="journal-body">
-                <p class="journal-meta">{post.data.category.toUpperCase()} · {post.data.pubDate.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })} · 7 MIN</p>
-                <h3>{post.data.title}</h3>
-                <p>{post.data.description}</p>
-              </div>
-              <span class="journal-arrow">→</span>
-            </a>
-          ))
-        }
+      <div class="book-grid">
+        {books.slice(0, 3).map((book) => <BookCard book={book} />)}
       </div>
     </div>
   </section>
 
-  <section class="bookstand">
+  <section class="premise">
     <div class="container">
-      <p class="kicker">The Wisdom Stack</p>
-      <h2 class="bp-title">The <em>Bookstand</em></h2>
-      <p class="premise-sub">Six books we return to. Not the year's loudest titles, but the ones that earn their place on the shelf beside the bed.</p>
-      <div class="bp-grid">
-        <div class="bp-card">
-          <p class="bp-meta">Stoicism · c. 180 AD</p>
-          <h3>Meditations</h3>
-          <p>"The private notebook of an emperor writing to himself. The closest thing we have to a manual for the inner life."</p>
-        </div>
-        <div class="bp-card">
-          <p class="bp-meta">Habits · 2018</p>
-          <h3>Atomic Habits</h3>
-          <p>"The clearest modern argument that you do not rise to the level of your goals — you fall to the level of your systems."</p>
-        </div>
-        <div class="bp-card">
-          <p class="bp-meta">Focus · 2016</p>
-          <h3>Deep Work</h3>
-          <p>"The case for treating concentration as a craft. Focus without distraction is the superpower of the century."</p>
-        </div>
-        <div class="bp-card">
-          <p class="bp-meta">Philosophy · 2016</p>
-          <h3>The Daily Stoic</h3>
-          <p>"Three hundred and sixty-six meditations, one for each day. A practical doorway into a tradition that has guided disciplined minds for two thousand years."</p>
-        </div>
+      <SectionHeader kicker="The Long Ascent" title="One idea at a time. <em>Every day.</em>" subtitle="Join thousands of readers building a stronger mind, one Daily Drive at a time." />
+      <div class="hero-btns">
+        <a class="btn-pill" href="/objectives/">Set Today's Objectives</a>
+        <a class="btn-pill btn-pill-outline" href="/journal/">Read the Journal</a>
       </div>
     </div>
   </section>
+
+  <NewsletterSection />
 </Layout>

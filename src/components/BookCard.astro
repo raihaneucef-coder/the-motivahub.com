@@ -1,0 +1,19 @@
+---
+import type { Book } from "../data/books";
+
+interface Props {
+  book: Book;
+}
+const { book } = Astro.props;
+const href = book.affiliateUrl || `/books/#${book.id}`;
+---
+
+<article class="book-card" id={book.id}>
+  <img class="book-cover" src={book.cover} alt={`${book.title} cover`} loading="lazy" />
+  <div class="book-body">
+    <h3>{book.title}</h3>
+    <p class="book-desc">{book.description}</p>
+    <p class="book-reason"><strong>Why we recommend it:</strong> {book.reason}</p>
+    <a class="read-more" href={href} target={book.affiliateUrl ? "_blank" : undefined} rel={book.affiliateUrl ? "nofollow sponsored" : undefined}>View Book</a>
+  </div>
+</article>

@@ -1,0 +1,89 @@
+<div class="goals" data-goal-tracker>
+  <div class="goals-head">
+    <p class="kicker">The Daily Drive</p>
+    <h3>Today's Objectives</h3>
+    <p class="goals-sub">Three objectives. One day. Consistent progress.</p>
+  </div>
+  <div class="goals-progress">
+    <div class="goals-bar"><span data-goals-bar></span></div>
+    <p data-goals-count class="goals-count">0 of 3 complete</p>
+  </div>
+  <ul class="goals-list" data-goals-list></ul>
+  <form class="goals-add" data-goals-add>
+    <input type="text" maxlength="60" placeholder="Add an objective for today…" aria-label="New objective" data-goals-input />
+    <button type="submit" class="btn-pill" style="padding: 12px 22px; font-size: 0.72rem;">Add</button>
+  </form>
+  <p class="goals-note">Saved on this device. Resets with a new day.</p>
+</div>
+
+<script>
+  const MAX_GOALS = 3;
+  const KEY = "motivahub-objectives";
+
+  const todayKey = () => new Date().toISOString().slice(0, 10);
+  const load = () => {
+    try {
+      const raw = JSON.parse(localStorage.getItem(KEY) || "{}");
+      if (raw.day !== todayKey()) return [];
+      return raw.goals || [];
+    } catch { return []; }
+  };
+  const save = (goals) => {
+    localStorage.setItem(KEY, JSON.stringify({ day: todayKey(), goals }));
+  };
+
+  const root = document.querySelector("[data-goal-tracker]");
+  const listEl = root.querySelector("[data-goals-list]");
+  const barEl = root.querySelector("[data-goals-bar]");
+  const countEl = root.querySelector("[data-goals-count]");
+  const formEl = root.querySelector("[data-goals-add]");
+  const inputEl = root.querySelector("[data-goals-input]");
+
+  const render = () => {
+    const goals = load();
+    listEl.innerHTML = "";
+    goals.forEach((goal, i) => {
+      const li = document.createElement("li");
+      li.className = "goal-item" + (goal.done ? " done" : "");
+      li.innerHTML = `
+        <button class="goal-check" aria-label="Mark done" data-index="${i}">
+          <span>${goal.done ? "✓" : ""}</span>
+        </button>
+        <p>${goal.title.replace(/</g, "&lt;")}</p>
+        <button class="goal-remove" aria-label="Remove" data-remove="${i}">×</button>`;
+      listEl.appendChild(li);
+    });
+    const done = goals.filter((g) => g.done).length;
+    const pct = goals.length ? Math.round((done / goals.length) * 100) : 0;
+    barEl.style.width = pct + "%";
+    countEl.textContent = `${done} of ${goals.length} complete`;
+  };
+
+  formEl.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const goals = load();
+    const title = inputEl.value.trim();
+    if (!title || goals.length >= MAX_GOALS) return;
+    goals.push({ title, done: false });
+    save(goals);
+    inputEl.value = "";
+    render();
+  });
+
+  listEl.addEventListener("click", (e) => {
+    const goals = load();
+    const idx = e.target.closest("[data-index]")?.dataset.index;
+    const rem = e.target.closest("[data-remove]")?.dataset.remove;
+    if (idx !== undefined) {
+      goals[idx].done = !goals[idx].done;
+      save(goals);
+      render();
+    } else if (rem !== undefined) {
+      goals.splice(Number(rem), 1);
+      save(goals);
+      render();
+    }
+  });
+
+  render();
+</script>

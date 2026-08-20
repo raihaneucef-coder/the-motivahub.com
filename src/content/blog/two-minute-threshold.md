@@ -2,7 +2,9 @@
 title: "The Two-Minute Threshold"
 description: "A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever."
 pubDate: 2026-08-02
-category: "Habits"
+readTime: "5 MIN"
+image: "/images/books.jpg"
+topic: "Habits"
 ---
 
 A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever.

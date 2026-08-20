@@ -1,0 +1,16 @@
+---
+const { title = "Are you ready for the next level?", subtitle = "One letter each week. A single idea on mindset, discipline and the long ascent — delivered at dawn. No noise, no algorithms — just the idea." } = Astro.props;
+---
+
+<section class="newsletter">
+  <div class="container">
+    <p class="kicker">The Daily Drive · Newsletter</p>
+    <h2>{title}</h2>
+    <p class="newsletter-sub">{subtitle}</p>
+    <form action="mailto:hello@motivahub.com" method="post" enctype="text/plain" class="newsletter-form">
+      <input type="email" name="email" placeholder="Your email address" aria-label="Email address" required />
+      <button type="submit" class="btn-pill btn-pill-cream">Subscribe</button>
+    </form>
+    <p class="newsletter-note">No spam. Unsubscribe anytime.</p>
+  </div>
+</section>

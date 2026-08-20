@@ -1,0 +1,19 @@
+---
+interface Props {
+  count?: number;
+  title?: string;
+}
+const { count = 3, title = "Related Essays" } = Astro.props;
+---
+
+<section class="related">
+  <div class="container">
+    <div class="section-head">
+      <p class="kicker">Keep Reading</p>
+      <h2 class="section-title">{title}</h2>
+    </div>
+    <div class="grid">
+      <slot />
+    </div>
+  </div>
+</section>

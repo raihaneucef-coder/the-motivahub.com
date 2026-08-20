@@ -1,0 +1,26 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import TopicCard from "../../components/TopicCard.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
+import { topics } from "../../data/topics";
+---
+
+<Layout title="Topics — Motiva Hub" description="Five subjects. One ascent. Each topic is a doorway into a single, durable idea.">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Intellectual Feed</p>
+      <h1>Eight subjects. <em>One ascent.</em></h1>
+      <p>Each topic is a doorway into a single, durable idea. Enter wherever you are — they were designed to be returned to.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="topics-grid">
+        {topics.map((topic) => <TopicCard topic={topic} />)}
+      </div>
+    </div>
+  </section>
+
+  <NewsletterSection />
+</Layout>

@@ -1,0 +1,13 @@
+---
+import type { Quote } from "../data/quotes";
+
+interface Props {
+  quote: Quote;
+}
+const { quote } = Astro.props;
+---
+
+<blockquote class="quote-card">
+  <p>"{quote.quote}"</p>
+  <cite>— {quote.author}, {quote.source}</cite>
+</blockquote>

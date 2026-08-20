@@ -1,0 +1,42 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import GoalTracker from "../../components/GoalTracker.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
+---
+
+<Layout title="Objectives — Motiva Hub" description="Set up to three daily objectives. Consistent progress, one day at a time.">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">Objectives</p>
+      <h1>The <em>Daily Drive.</em></h1>
+      <p>Up to three objectives a day. Small, repeated acts compound into an unrecognisable life.</p>
+    </div>
+  </section>
+
+  <section class="goals-section">
+    <div class="container">
+      <GoalTracker />
+    </div>
+  </section>
+
+  <section class="premise">
+    <div class="container">
+      <div class="pillars">
+        <div class="pillar">
+          <p class="pillar-word">One</p>
+          <p>Choose the single most important objective of the day — the one that makes everything else easier.</p>
+        </div>
+        <div class="pillar">
+          <p class="pillar-word">Two</p>
+          <p>Keep it small enough to be unmissable. Momentum is built by completing, not by aiming high.</p>
+        </div>
+        <div class="pillar">
+          <p class="pillar-word">Three</p>
+          <p>Complete all three before the evening closes. The day is the unit of a life well lived.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <NewsletterSection />
+</Layout>

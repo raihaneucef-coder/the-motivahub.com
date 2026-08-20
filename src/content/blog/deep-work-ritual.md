@@ -2,7 +2,9 @@
 title: "The Deep Work Ritual"
 description: "Focus is not a mood you wait for — it is a room you build. Here is how to construct the conditions under which concentration becomes inevitable."
 pubDate: 2026-08-18
-category: "Deep Work"
+readTime: "8 MIN"
+image: "/images/path.jpg"
+topic: "Deep Work"
 ---
 
 Focus is not a mood you wait for — it is a room you build. Here is how to construct the conditions under which concentration becomes inevitable.

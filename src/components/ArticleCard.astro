@@ -1,0 +1,22 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  post: CollectionEntry<"blog">;
+  featured?: boolean;
+}
+const { post, featured = false } = Astro.props;
+---
+
+<article class={`card ${featured ? "card-featured" : ""}`}>
+  <a href={`/journal/${post.id}/`} class="card-img-link">
+    <img class="card-img" src={post.data.image} alt={post.data.title} loading="lazy" />
+  </a>
+  <div class="card-pad">
+    <p class="card-meta">{post.data.topic.toUpperCase()} · {post.data.readTime}</p>
+    <h3><a href={`/journal/${post.id}/`}>{post.data.title}</a></h3>
+    <p>{post.data.description}</p>
+    <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+    <a class="read-more" href={`/journal/${post.id}/`}>Read Article</a>
+  </div>
+</article>

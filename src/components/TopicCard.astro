@@ -1,0 +1,19 @@
+---
+import type { Topic } from "../data/topics";
+import { getCollection } from "astro:content";
+
+interface Props {
+  topic: Topic;
+}
+const { topic } = Astro.props;
+const posts = (await getCollection("blog")).filter((p) => !p.data.draft && p.data.topic.toLowerCase() === topic.id);
+---
+
+<a class="topic-card" href={`/journal/?topic=${topic.id}`}>
+  <div class="topic-top">
+    <h3>{topic.title}</h3>
+    <span class="topic-count">{posts.length} {posts.length === 1 ? "Essay" : "Essays"}</span>
+  </div>
+  <p>{topic.description}</p>
+  <span class="link-ochre">Explore →</span>
+</a>

@@ -1,0 +1,53 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import RelatedArticles from "../../components/RelatedArticles.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+  return posts
+    .filter((p) => !p.data.draft)
+    .map((post) => ({
+      params: { slug: post.id },
+      props: { post },
+    }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const all = (await getCollection("blog")).filter((p) => !p.data.draft).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const idx = all.findIndex((p) => p.id === post.id);
+const prev = all[idx + 1];
+const next = all[idx - 1];
+const related = all.filter((p) => p.id !== post.id && (p.data.topic === post.data.topic || p.data.topic.toLowerCase() === post.data.topic.toLowerCase())).slice(0, 3);
+const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.id).slice(0, 3);
+---
+
+<Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description}>
+  <article>
+    <header class="article-header">
+      <div class="container">
+        <p class="card-meta">{post.data.topic.toUpperCase()} · {post.data.readTime}</p>
+        <h1>{post.data.title}</h1>
+        <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+        <img class="article-img" src={post.data.image} alt={post.data.title} />
+      </div>
+    </header>
+
+    <div class="article-body container">
+      <Content />
+      <div class="article-nav">
+        {prev ? <a class="link-ochre" href={`/journal/${prev.id}/`}>← {prev.data.title}</a> : <span></span>}
+        <a class="link-ochre" href="/journal/">Return to Journal</a>
+        {next ? <a class="link-ochre" href={`/journal/${next.id}/`}>{next.data.title} →</a> : <span></span>}
+      </div>
+    </div>
+  </article>
+
+  <RelatedArticles>
+    {relatedPosts.map((p) => <ArticleCard post={p} />)}
+  </RelatedArticles>
+  <NewsletterSection />
+</Layout>

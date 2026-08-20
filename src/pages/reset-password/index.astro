@@ -1,0 +1,35 @@
+---
+import Layout from "../../layouts/Layout.astro";
+---
+
+<Layout title="Reset Password — Motiva Hub" description="Choose a new password for your Motiva Hub account.">
+  <section class="auth-section">
+    <div class="container">
+      <div class="auth-card">
+        <p class="kicker">The Daily Drive</p>
+        <h1>Choose a <em>new password.</em></h1>
+        <p class="auth-sub">Your new password should be at least 8 characters.</p>
+        <!--
+          AUTH INTEGRATION POINT:
+          Connect to your authentication service's
+          password update flow. The reset token usually
+          comes from the URL (?token=...).
+        -->
+        <form action="/reset-password/" method="post" class="auth-form">
+          <div class="form-group">
+            <label for="password">New password</label>
+            <input type="password" id="password" name="password" required minlength="8" />
+          </div>
+          <div class="form-group">
+            <label for="confirm">Confirm new password</label>
+            <input type="password" id="confirm" name="confirm" required minlength="8" />
+          </div>
+          <button type="submit" class="btn-pill" style="width: 100%;">Update Password</button>
+        </form>
+        <div class="auth-links">
+          <a href="/login/">← Back to login</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

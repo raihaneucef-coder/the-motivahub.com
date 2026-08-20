@@ -1,0 +1,53 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+const posts = (await getCollection("blog"))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const topics = [...new Set(posts.map((p) => p.data.topic))];
+const featured = posts.find((p) => p.data.featured) || posts[0];
+const rest = posts.filter((p) => p.id !== featured.id);
+const url = Astro.url;
+const activeTopic = url.searchParams.get("topic");
+const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() === activeTopic) : rest;
+---
+
+<Layout title="The Journal — Motiva Hub" description="Essays for the long climb. Mindset, habits, discipline, productivity, deep work — articles for the disciplined mind.">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Journal</p>
+      <h1>Essays for the <em>long climb.</em></h1>
+      <p>Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <article class="featured-card">
+        <a href={`/journal/${featured.id}/`} class="card-img-link">
+          <img class="card-img" src={featured.data.image} alt={featured.data.title} loading="lazy" />
+        </a>
+        <div class="card-pad">
+          <p class="card-meta">Featured · {featured.data.topic.toUpperCase()} · {featured.data.readTime}</p>
+          <h2><a href={`/journal/${featured.id}/`}>{featured.data.title}</a></h2>
+          <p>{featured.data.description}</p>
+          <p class="card-date">{featured.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+          <a class="read-more" href={`/journal/${featured.id}/`}>Read Essay</a>
+        </div>
+      </article>
+
+      <div class="topic-filter">
+        <a class={!activeTopic ? "active" : ""} href="/journal/">All</a>
+        {topics.map((t) => (
+          <a class={activeTopic === t.toLowerCase() ? "active" : ""} href={`/journal/?topic=${t.toLowerCase()}`}>{t}</a>
+        ))}
+      </div>
+
+      <div class="grid">
+        {filtered.map((post) => <ArticleCard post={post} />)}
+      </div>
+    </div>
+  </section>
+</Layout>

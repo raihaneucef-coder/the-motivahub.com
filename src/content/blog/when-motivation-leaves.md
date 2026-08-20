@@ -2,7 +2,9 @@
 title: "When Motivation Leaves"
 description: "Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day."
 pubDate: 2026-07-27
-category: "Discipline"
+readTime: "8 MIN"
+image: "/images/hero.jpg"
+topic: "Discipline"
 ---
 
 Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day.

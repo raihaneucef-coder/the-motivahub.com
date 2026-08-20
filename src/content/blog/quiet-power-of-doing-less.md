@@ -2,7 +2,9 @@
 title: "The Quiet Power of Doing Less"
 description: "We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters."
 pubDate: 2026-08-14
-category: "Productivity"
+readTime: "7 MIN"
+image: "/images/statue.jpg"
+topic: "Productivity"
 ---
 
 We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus.

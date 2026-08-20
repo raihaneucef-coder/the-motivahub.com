@@ -7,8 +7,10 @@ const blog = defineCollection({
     title: z.string(),
     description: z.string(),
     pubDate: z.coerce.date(),
-    category: z.string(),
-    image: z.string().optional().default('/images/hero.jpg'),
+    topic: z.string(),
+    readTime: z.string(),
+    image: z.string().default('/images/hero.jpg'),
+    featured: z.boolean().optional().default(false),
     draft: z.boolean().optional().default(false),
   }),
 });

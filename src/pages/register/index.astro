@@ -1,0 +1,39 @@
+---
+import Layout from "../../layouts/Layout.astro";
+---
+
+<Layout title="Register — Motiva Hub" description="Create your Motiva Hub account and begin the ascent.">
+  <section class="auth-section">
+    <div class="container">
+      <div class="auth-card">
+        <p class="kicker">The Daily Drive</p>
+        <h1>Begin the <em>ascent.</em></h1>
+        <p class="auth-sub">Create an account to save your objectives and progress.</p>
+        <!--
+          AUTH INTEGRATION POINT:
+          Connect this form to your authentication service
+          (e.g. Supabase Auth, Auth0, or a custom API) by
+          replacing the action URL and handling the response.
+        -->
+        <form action="/register/" method="post" class="auth-form">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required minlength="8" />
+          </div>
+          <button type="submit" class="btn-pill" style="width: 100%;">Create Account</button>
+        </form>
+        <div class="auth-links">
+          <a href="/login/">Already have an account? Log in →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

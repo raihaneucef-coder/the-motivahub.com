@@ -1,0 +1,26 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import QuoteCard from "../../components/QuoteCard.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
+import { quotes } from "../../data/quotes";
+---
+
+<Layout title="Quotes — Motiva Hub" description="Digital posters. Words that hold their weight — a daily dose of Stoic and motivational wisdom.">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">Digital Posters</p>
+      <h1>Words that <em>hold their weight.</em></h1>
+      <p>Minimalist typographic posters — designed to be sat with, not scrolled past.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="quotes-grid">
+        {quotes.map((q) => <QuoteCard quote={q} />)}
+      </div>
+    </div>
+  </section>
+
+  <NewsletterSection />
+</Layout>

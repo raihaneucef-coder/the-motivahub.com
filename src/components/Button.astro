@@ -1,0 +1,11 @@
+---
+interface Props {
+  href: string;
+  variant?: "solid" | "outline" | "cream";
+  children: any;
+}
+const { href, variant = "solid", children } = Astro.props;
+const cls = variant === "outline" ? "btn-pill btn-pill-outline" : variant === "cream" ? "btn-pill btn-pill-cream" : "btn-pill";
+---
+
+<a href={href} class={cls}><slot /></a>

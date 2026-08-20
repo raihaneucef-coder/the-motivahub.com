@@ -1,0 +1,30 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { books } from "../../data/books";
+import BookCard from "../../components/BookCard.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
+---
+
+<Layout title="The Bookstand — Motiva Hub" description="Six books we return to. A curated bookstand for the disciplined mind.">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Wisdom Stack</p>
+      <h1>A curated <em>bookstand.</em></h1>
+      <p>Not the year's loudest titles, but the ones that earn their place on the shelf beside the bed.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="book-grid">
+        {books.map((book) => <BookCard book={book} />)}
+      </div>
+      <p class="affiliate-note">
+        Affiliate disclosure: some "View Book" buttons may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. We only recommend books we actually read and return to.
+      </p>
+      <p class="book-note">Read one book this season — not six. Mark it heavily, return to it often, and let the rest of the shelf wait.</p>
+    </div>
+  </section>
+
+  <NewsletterSection />
+</Layout>

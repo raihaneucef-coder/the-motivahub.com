@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/blog/:path*", "destination": "/journal/:path*", "permanent": true },
+    { "source": "/blog", "destination": "/journal", "permanent": true },
+    { "source": "/goals", "destination": "/objectives", "permanent": true }
+  ]
+}
