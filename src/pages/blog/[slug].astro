@@ -23,6 +23,7 @@ const { Content } = await render(post);
         <p class="card-meta">{post.data.category} · {post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
         <h1>{post.data.title}</h1>
         <p>{post.data.description}</p>
+        <img class="article-img" src={post.data.image} alt={post.data.title} />
       </div>
     </header>
     <div class="article-body container">
