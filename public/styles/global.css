@@ -684,6 +684,12 @@ img { max-width: 100%; height: auto; }
 }
 
 .read-more:hover { color: var(--gold); }
+.read-more-disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  border-bottom-style: dashed;
+  pointer-events: none;
+}
 
 /* Featured card */
 .featured-card {

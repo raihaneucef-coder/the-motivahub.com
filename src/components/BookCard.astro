@@ -5,7 +5,7 @@ interface Props {
   book: Book;
 }
 const { book } = Astro.props;
-const href = book.affiliateUrl || `/books/#${book.id}`;
+const hasAffiliate = Boolean(book.affiliateUrl && book.affiliateUrl.trim().length > 0);
 ---
 
 <article class="book-card" id={book.id}>
@@ -14,6 +14,10 @@ const href = book.affiliateUrl || `/books/#${book.id}`;
     <h3>{book.title}</h3>
     <p class="book-desc">{book.description}</p>
     <p class="book-reason"><strong>Why we recommend it:</strong> {book.reason}</p>
-    <a class="read-more" href={href} target={book.affiliateUrl ? "_blank" : undefined} rel={book.affiliateUrl ? "nofollow sponsored" : undefined}>View Book</a>
+    {hasAffiliate ? (
+      <a class="read-more" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener">View Book</a>
+    ) : (
+      <span class="read-more read-more-disabled" aria-disabled="true" title="Affiliate link coming soon">View Book — Affiliate link coming soon</span>
+    )}
   </div>
 </article>
