@@ -1,0 +1,24 @@
+---
+interface Props {
+  kicker: string;
+  title: string;
+  subtitle: string;
+  image: string;
+  primaryCta: { label: string; href: string };
+  secondaryCta: { label: string; href: string };
+}
+const { kicker, title, subtitle, image, primaryCta, secondaryCta } = Astro.props;
+---
+
+<section class="hero">
+  <img class="hero-photo" src={image} alt="" loading="eager" />
+  <div class="container">
+    <p class="kicker">{kicker}</p>
+    <h1>{title}</h1>
+    <p>{subtitle}</p>
+    <div class="hero-btns">
+      <a class="btn-pill" href={primaryCta.href}>{primaryCta.label}</a>
+      <a class="btn-pill btn-pill-outline" href={secondaryCta.href}>{secondaryCta.label}</a>
+    </div>
+  </div>
+</section>

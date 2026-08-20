@@ -41,8 +41,8 @@ export const topics: Topic[] = [
     description: "Growth is rarely linear and never finished. We trace the slow climb — the plateaus, the setbacks, the quiet breakthroughs.",
   },
   {
-    id: "deep-work",
-    title: "Deep Work",
-    description: "In an age engineered for distraction, the capacity to focus without interruption has become both rare and valuable.",
+    id: "confidence",
+    title: "Confidence",
+    description: "Confidence is not born — it is built from evidence. Every kept promise to yourself is a brick in the wall of self-trust.",
   },
 ];

@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import Hero from "../components/Hero.astro";
 import SectionHeader from "../components/SectionHeader.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import BookCard from "../components/BookCard.astro";
@@ -17,18 +18,14 @@ const daily = getDailyQuote();
 ---
 
 <Layout title="Motiva Hub — Unlock your potential with the Daily Drive" description="A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.">
-  <section class="hero">
-    <img class="hero-photo" src="/images/hero.jpg" alt="Sunrise over mountains — the long ascent begins at dawn" />
-    <div class="container">
-      <p class="kicker">Motiva Hub · The Daily Drive</p>
-      <h1>Unlock your potential with the Daily Drive.</h1>
-      <p>A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.</p>
-      <div class="hero-btns">
-        <a class="btn-pill" href="/journal/">Explore the Guides</a>
-        <a class="btn-pill btn-pill-outline" href="/objectives/">Start with Mindset</a>
-      </div>
-    </div>
-  </section>
+  <Hero
+    kicker="Motiva Hub · The Daily Drive"
+    title="Unlock your potential with the Daily Drive."
+    subtitle="A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time."
+    image="/images/hero.jpg"
+    primaryCta={{ label: "Explore the Guides", href: "/journal/" }}
+    secondaryCta={{ label: "Start with Mindset", href: "/objectives/" }}
+  />
 
   <section class="premise">
     <div class="container">
