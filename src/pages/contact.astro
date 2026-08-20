@@ -1,0 +1,27 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Contact — Wild Family" description="Contact Wild Family — questions, suggestions, or collaboration requests.">
+  <section class="page-content container">
+    <h1>Contact Us</h1>
+    <p>
+      Have a question, a trail recommendation, or a topic you'd love us to cover? We read every message. Fill in the form and we'll get back to you within a few days.
+    </p>
+    <form action="mailto:hello@wildfamily.blog" method="post" enctype="text/plain">
+      <div class="form-group">
+        <label for="name">Your name</label>
+        <input type="text" id="name" name="name" required />
+      </div>
+      <div class="form-group">
+        <label for="email">Your email</label>
+        <input type="email" id="email" name="email" required />
+      </div>
+      <div class="form-group">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="6" required></textarea>
+      </div>
+      <button type="submit" class="btn btn-submit">Send Message</button>
+    </form>
+  </section>
+</Layout>

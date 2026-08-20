@@ -1,0 +1,28 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const posts = (await getCollection("blog"))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<Layout title="Blog — Wild Family" description="All our guides on family camping, kid-friendly hiking, and screen-free nature activities.">
+  <section class="section">
+    <div class="container">
+      <h1 class="section-title">The Blog</h1>
+      <p class="section-sub">Every article is tested by real kids, real mud, and real weekends. Pick a guide and get outside.</p>
+      <div class="grid">
+        {
+          posts.map((post) => (
+            <article class="card">
+              <p class="card-meta">{post.data.category} · {post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+              <h3><a href={`/blog/${post.id}/`}>{post.data.title}</a></h3>
+              <p>{post.data.description}</p>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</Layout>
