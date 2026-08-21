@@ -1,0 +1,40 @@
+---
+interface Props {
+  title: string;
+  description: string;
+}
+const { title, description } = Astro.props;
+// Current URL will be filled client-side from window.location.href
+---
+
+<div class="social-share" aria-label="Share this article">
+  <span class="social-label">Share</span>
+  <a class="social-btn" data-share="facebook" href="#" aria-label="Share on Facebook">Facebook</a>
+  <a class="social-btn" data-share="x" href="#" aria-label="Share on X">X</a>
+  <a class="social-btn" data-share="whatsapp" href="#" aria-label="Share on WhatsApp">WhatsApp</a>
+  <button class="social-btn" data-share="copy" type="button" aria-label="Copy link">Copy Link</button>
+  <span id="share-msg" class="social-msg" aria-live="polite"></span>
+</div>
+<script define:vars={{ title, description }}>
+  const root = document.currentScript?.closest('.social-share') || document.querySelector('.social-share');
+  if (root) {
+    const url = window.location.href;
+    const encUrl = encodeURIComponent(url);
+    const encTitle = encodeURIComponent(title);
+    const fb = root.querySelector('[data-share="facebook"]');
+    const x = root.querySelector('[data-share="x"]');
+    const wa = root.querySelector('[data-share="whatsapp"]');
+    const copyBtn = root.querySelector('[data-share="copy"]');
+    const msg = root.querySelector('#share-msg');
+    if (fb) fb.setAttribute('href', `https://www.facebook.com/sharer/sharer.php?u=${encUrl}`);
+    if (x) x.setAttribute('href', `https://twitter.com/intent/tweet?url=${encUrl}&text=${encTitle}`);
+    if (wa) wa.setAttribute('href', `https://wa.me/?text=${encTitle}%20${encUrl}`);
+    [fb, x, wa].forEach((a) => { if (a) { a.setAttribute('target','_blank'); a.setAttribute('rel','noopener'); }});
+    if (copyBtn && msg) {
+      copyBtn.addEventListener('click', async () => {
+        try { await navigator.clipboard.writeText(url); msg.textContent = 'Link copied!'; } catch { msg.textContent = url; }
+        setTimeout(()=> msg.textContent='', 2500);
+      });
+    }
+  }
+</script>

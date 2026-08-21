@@ -1,10 +1,15 @@
 ---
+import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
+
 interface Props {
   title: string;
   description: string;
+  image?: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, image = "/images/hero.jpg" } = Astro.props;
+const canonical = Astro.url.href;
+const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
 ---
 
 <!doctype html>
@@ -15,11 +20,24 @@ const { title, description } = Astro.props;
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="icon" href="/logo.jpg" />
-    <link rel="canonical" href={Astro.url.href} />
+    <link rel="canonical" href={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
     <meta name="robots" content="index, follow" />
+    {GSC_VERIFICATION && <meta name="google-site-verification" content={GSC_VERIFICATION} />}
+    {GA_ID && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
+        <script is:inline>{`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`}</script>
+      </>
+    )}
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
@@ -32,7 +50,14 @@ const { title, description } = Astro.props;
           <img src="/logo.jpg" alt="Motiva Hub" class="logo-img" />
           <span class="logo-word">Motiva <em>Hub</em></span>
         </a>
-        <button class="menu-btn" id="menu-btn" aria-label="Open menu">Menu</button>
+        <div class="header-actions">
+          <div class="lang-switcher" aria-label="Language switcher">
+            <button class="lang-btn active" data-lang="en" aria-label="Switch to English" aria-pressed="true">EN</button>
+            <span class="lang-sep">/</span>
+            <button class="lang-btn" data-lang="fr" aria-label="Passer en français" aria-pressed="false">FR</button>
+          </div>
+          <button class="menu-btn" id="menu-btn" aria-label="Open menu" data-i18n="menu">Menu</button>
+        </div>
       </div>
     </header>
 
@@ -42,16 +67,17 @@ const { title, description } = Astro.props;
           <img src="/logo.jpg" alt="Motiva Hub" class="logo-img" />
           <span class="logo-word">Motiva <em>Hub</em></span>
         </a>
-        <button class="menu-btn menu-btn-cream" id="menu-close" aria-label="Close menu">Close</button>
+        <button class="menu-btn menu-btn-cream" id="menu-close" aria-label="Close menu" data-i18n="close">Close</button>
       </div>
       <nav class="overlay-nav" aria-label="Fullscreen menu">
-        <a href="/">01 <span>Home</span></a>
-        <a href="/about/">02 <span>About</span></a>
-        <a href="/topics/">03 <span>Topics</span></a>
-        <a href="/journal/">04 <span>Journal</span></a>
-        <a href="/books/">05 <span>Books</span></a>
-        <a href="/quotes/">06 <span>Quotes</span></a>
-        <a href="/contact/">07 <span>Contact</span></a>
+        <a href="/">01 <span data-i18n="home">Home</span></a>
+        <a href="/about/">02 <span data-i18n="about">About</span></a>
+        <a href="/topics/">03 <span data-i18n="topics">Topics</span></a>
+        <a href="/journal/">04 <span data-i18n="journal">Journal</span></a>
+        <a href="/books/">05 <span data-i18n="books">Books</span></a>
+        <a href="/quotes/">06 <span data-i18n="quotes">Quotes</span></a>
+        <a href="/podcast/">07 <span data-i18n="podcast">Podcast</span></a>
+        <a href="/contact/">08 <span data-i18n="contact">Contact</span></a>
       </nav>
       <div class="overlay-foot container">
         <button class="btn-pill btn-pill-cream" type="button">Subscribe</button>
@@ -66,7 +92,7 @@ const { title, description } = Astro.props;
       <div class="container footer-inner">
         <div>
           <p class="footer-logo"><img src="/logo.jpg" alt="Motiva Hub" class="logo-img" /> Motiva <em>Hub</em></p>
-          <p class="footer-tag">The Daily Drive. Motivation, growth, and better habits, delivered daily.</p>
+          <p class="footer-tag" data-i18n="footerTag">The Daily Drive. Motivation, growth, and better habits, delivered daily.</p>
         </div>
         <nav class="footer-nav" aria-label="Footer navigation">
           <a href="/about/">About</a>
@@ -74,6 +100,7 @@ const { title, description } = Astro.props;
           <a href="/topics/">Topics</a>
           <a href="/books/">Books</a>
           <a href="/quotes/">Quotes</a>
+          <a href="/podcast/">Podcast</a>
           <a href="/objectives/">Objectives</a>
           <a href="/contact/">Contact</a>
           <a href="/privacy/">Privacy Policy</a>
@@ -115,6 +142,40 @@ const { title, description } = Astro.props;
       overlay.addEventListener("click", (e) => {
         if (e.target.tagName === "A") closeMenu();
       });
+    </script>
+    <script is:inline>
+      (function(){
+        const dict = {
+          en: { menu:"Menu", close:"Close", home:"Home", about:"About", topics:"Topics", journal:"Journal", books:"Books", quotes:"Quotes", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, growth, and better habits, delivered daily." },
+          fr: { menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, croissance et meilleures habitudes, chaque jour." }
+        };
+        function setLang(lang){
+          const t = dict[lang] || dict.en;
+          document.documentElement.lang = lang;
+          localStorage.setItem("lang", lang);
+          document.querySelectorAll("[data-i18n]").forEach(el=>{
+            const k = el.getAttribute("data-i18n");
+            if(k && t[k]) el.textContent = t[k];
+          });
+          document.querySelectorAll(".lang-btn").forEach(b=>{
+            const active = b.getAttribute("data-lang")===lang;
+            b.classList.toggle("active", active);
+            b.setAttribute("aria-pressed", active ? "true" : "false");
+          });
+        }
+        document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", ()=> setLang(b.getAttribute("data-lang")||"en")));
+        const saved = localStorage.getItem("lang") || "en";
+        setLang(saved);
+        window.setLang = setLang;
+      })();
+    </script>
+    <script is:inline>
+      window.trackAffiliateClick = function(bookId, bookTitle){
+        var payload = {event:"affiliate_click", bookId: bookId, bookTitle: bookTitle, timestamp: new Date().toISOString()};
+        try{console.debug("[affiliate_click]", payload);}catch(e){}
+        if (typeof window.gtag === "function") try{window.gtag("event","affiliate_click",{book_id:bookId, book_title:bookTitle});}catch(e){}
+        if (Array.isArray(window.dataLayer)) try{window.dataLayer.push(payload);}catch(e){}
+      };
     </script>
   </body>
 </html>

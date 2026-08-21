@@ -1,0 +1,29 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { podcasts } from "../../data/podcasts";
+import PodcastCard from "../../components/PodcastCard.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
+---
+
+<Layout title="Podcast — Motiva Hub" description="The Daily Drive — conversations on mindset, discipline and the long ascent.">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Daily Drive · Podcast</p>
+      <h1>The <em>podcast.</em></h1>
+      <p>Short conversations for the disciplined mind — mindset, habits and the work before the work.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="book-grid">
+        {podcasts.map((podcast) => <PodcastCard podcast={podcast} />)}
+      </div>
+      <p class="affiliate-note">
+        New episodes are added here first. When a podcastUrl is configured, the Listen button will open the real episode in a new tab.
+      </p>
+    </div>
+  </section>
+
+  <NewsletterSection />
+</Layout>

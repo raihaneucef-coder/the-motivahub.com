@@ -2,6 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
 import RelatedArticles from "../../components/RelatedArticles.astro";
+import SocialShare from "../../components/SocialShare.astro";
 import NewsletterSection from "../../components/NewsletterSection.astro";
 import { getCollection, render } from "astro:content";
 
@@ -25,7 +26,7 @@ const related = all.filter((p) => p.id !== post.id && (p.data.topic === post.dat
 const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.id).slice(0, 3);
 ---
 
-<Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description}>
+<Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description} image={post.data.image}>
   <article>
     <header class="article-header">
       <div class="container">
@@ -38,6 +39,7 @@ const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.
 
     <div class="article-body container">
       <Content />
+      <SocialShare title={post.data.title} description={post.data.description} />
       <div class="article-nav">
         {prev ? <a class="link-ochre" href={`/journal/${prev.id}/`}>← {prev.data.title}</a> : <span></span>}
         <a class="link-ochre" href="/journal/">Return to Journal</a>

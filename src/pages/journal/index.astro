@@ -2,16 +2,17 @@
 import Layout from "../../layouts/Layout.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
+import { topics as allTopics } from "../../data/topics";
 
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const topics = [...new Set(posts.map((p) => p.data.topic))];
+const topics = allTopics.map((t) => t.title);
 const featured = posts.find((p) => p.data.featured) || posts[0];
 const rest = posts.filter((p) => p.id !== featured.id);
 const url = Astro.url;
 const activeTopic = url.searchParams.get("topic");
-const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() === activeTopic) : rest;
+const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() === activeTopic.toLowerCase()) : rest;
 ---
 
 <Layout title="The Journal — Motiva Hub" description="Essays for the long climb. Mindset, habits, discipline, productivity, deep work — articles for the disciplined mind.">
@@ -38,6 +39,10 @@ const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() ===
         </div>
       </article>
 
+      <div style="max-width:520px;margin:0 auto 24px;">
+        <input id="journal-search" type="search" placeholder="Search by title, topic or keywords..." aria-label="Search articles" style="width:100%;padding:14px 16px;border:1px solid var(--line);background:var(--white);font-family:var(--sans);font-size:0.95rem;" />
+      </div>
+
       <div class="topic-filter">
         <a class={!activeTopic ? "active" : ""} href="/journal/">All</a>
         {topics.map((t) => (
@@ -45,9 +50,33 @@ const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() ===
         ))}
       </div>
 
-      <div class="grid">
-        {filtered.map((post) => <ArticleCard post={post} />)}
+      <div class="grid" id="journal-grid">
+        {filtered.map((post) => (
+          <div class="searchable" data-title={post.data.title.toLowerCase()} data-topic={post.data.topic.toLowerCase()} data-desc={post.data.description.toLowerCase()}>
+            <ArticleCard post={post} />
+          </div>
+        ))}
       </div>
+      <p id="no-results" hidden style="text-align:center;color:var(--muted);margin-top:32px;">No results found.</p>
+      <script>
+        const input = document.getElementById('journal-search') as HTMLInputElement | null;
+        const grid = document.getElementById('journal-grid');
+        const noRes = document.getElementById('no-results');
+        if (input && grid && noRes) {
+          const items = Array.from(grid.querySelectorAll('.searchable')) as HTMLElement[];
+          input.addEventListener('input', () => {
+            const q = input.value.trim().toLowerCase();
+            let vis = 0;
+            items.forEach((el) => {
+              const hay = (el.dataset.title || '') + ' ' + (el.dataset.topic || '') + ' ' + (el.dataset.desc || '');
+              const show = !q || hay.includes(q);
+              el.style.display = show ? '' : 'none';
+              if (show) vis++;
+            });
+            noRes.hidden = vis !== 0;
+          });
+        }
+      </script>
     </div>
   </section>
 </Layout>

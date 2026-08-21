@@ -15,7 +15,7 @@ const hasAffiliate = Boolean(book.affiliateUrl && book.affiliateUrl.trim().lengt
     <p class="book-desc">{book.description}</p>
     <p class="book-reason"><strong>Why we recommend it:</strong> {book.reason}</p>
     {hasAffiliate ? (
-      <a class="read-more" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener">View Book</a>
+      <a class="read-more" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">View Book</a>
     ) : (
       <span class="read-more read-more-disabled" aria-disabled="true" title="Affiliate link coming soon">View Book — Affiliate link coming soon</span>
     )}
