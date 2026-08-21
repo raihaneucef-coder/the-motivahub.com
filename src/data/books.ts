@@ -16,7 +16,7 @@ export const books: Book[] = [
   {
     id: "meditations",
     title: "Meditations",
-    cover: "/images/statue.jpg",
+    cover: "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg",
     description: "The private notebook of an emperor writing to himself.",
     reason: "The closest thing we have to a manual for the inner life.",
     affiliateUrl: "https://www.amazon.com/dp/0140449337",
@@ -26,7 +26,7 @@ export const books: Book[] = [
   {
     id: "atomic-habits",
     title: "Atomic Habits",
-    cover: "/images/journal.jpg",
+    cover: "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
     description: "A systems thinker's case for identity-based change.",
     reason: "The clearest modern argument that you do not rise to your goals — you fall to your systems.",
     affiliateUrl: "https://www.amazon.com/dp/0735211299",
@@ -36,7 +36,7 @@ export const books: Book[] = [
   {
     id: "deep-work",
     title: "Deep Work",
-    cover: "/images/desk.jpg",
+    cover: "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
     description: "The case for treating concentration as a craft.",
     reason: "Focus without distraction is the superpower of the century.",
     affiliateUrl: "https://www.amazon.com/dp/1455586692",
@@ -46,7 +46,7 @@ export const books: Book[] = [
   {
     id: "daily-stoic",
     title: "The Daily Stoic",
-    cover: "/images/candle.jpg",
+    cover: "https://covers.openlibrary.org/b/isbn/9780735211735-L.jpg",
     description: "Three hundred and sixty-six meditations, one for each day.",
     reason: "A practical doorway into a tradition that has guided disciplined minds for two thousand years.",
     affiliateUrl: "https://www.amazon.com/dp/0735211736",
@@ -56,7 +56,7 @@ export const books: Book[] = [
   {
     id: "cant-hurt-me",
     title: "Can't Hurt Me",
-    cover: "/images/sport.jpg",
+    cover: "https://covers.openlibrary.org/b/isbn/9781544512280-L.jpg",
     description: "An unflinching account of self-mastery forged in suffering.",
     reason: "Not a comfortable read, and not meant to be — it is fuel for the days you want to quit.",
     affiliateUrl: "https://www.amazon.com/dp/1544512287",
@@ -66,7 +66,7 @@ export const books: Book[] = [
   {
     id: "mans-search-for-meaning",
     title: "Man's Search for Meaning",
-    cover: "/images/mountain.jpg",
+    cover: "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
     description: "A psychiatrist's testament from the camps.",
     reason: "The last of the human freedoms — to choose one's attitude — cannot be taken away.",
     affiliateUrl: "https://www.amazon.com/dp/080701429X",
