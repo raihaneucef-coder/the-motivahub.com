@@ -842,7 +842,10 @@ img { max-width: 100%; height: auto; }
 .book-desc { font-size: 0.88rem; color: var(--muted); margin-bottom: 8px; }
 .book-reason { font-size: 0.85rem; color: var(--muted); flex: 1; }
 .book-reason strong { color: var(--ink); }
-.bookstand .book-card { background: transparent; border: none; display: flex; flex-direction: column; }
+.bookstand .book-grid { display: flex; gap: 28px; overflow-x: auto; padding-bottom: 16px; scroll-snap-type: x mandatory; scrollbar-width: thin; }
+.bookstand .book-grid::-webkit-scrollbar { height: 6px; }
+.bookstand .book-grid::-webkit-scrollbar-thumb { background: rgba(249,247,242,0.2); border-radius: 999px; }
+.bookstand .book-card { background: transparent; border: none; display: flex; flex-direction: column; flex: 0 0 300px; scroll-snap-align: start; }
 .bookstand .book-cover { width: 100%; height: 360px; }
 .bookstand .book-body { padding: 18px 0 0; }
 .bookstand .book-card h3 { color: var(--cream); }
