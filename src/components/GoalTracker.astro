@@ -1,19 +1,19 @@
 <div class="goals" data-goal-tracker>
   <div class="goals-head">
-    <p class="kicker">The Daily Drive</p>
-    <h3>Today's Objectives</h3>
-    <p class="goals-sub">Three objectives. One day. Consistent progress.</p>
+    <p class="kicker" data-i18n="goalsKicker">The Daily Drive</p>
+    <h3 data-i18n="goalsTitle">Today's Objectives</h3>
+    <p class="goals-sub" data-i18n="goalsSub">Three objectives. One day. Consistent progress.</p>
   </div>
   <div class="goals-progress">
     <div class="goals-bar"><span data-goals-bar></span></div>
-    <p data-goals-count class="goals-count">0 of 3 complete</p>
+    <p data-goals-count class="goals-count" data-i18n="goalsCount">0 of 3 complete</p>
   </div>
   <ul class="goals-list" data-goals-list></ul>
   <form class="goals-add" data-goals-add>
-    <input type="text" maxlength="60" placeholder="Add an objective for today…" aria-label="New objective" data-goals-input />
-    <button type="submit" class="btn-pill" style="padding: 12px 22px; font-size: 0.72rem;">Add</button>
+    <input type="text" maxlength="60" placeholder="Add an objective for today…" data-i18n-placeholder="goalsPlaceholder" aria-label="New objective" data-goals-input />
+    <button type="submit" class="btn-pill" style="padding: 12px 22px; font-size: 0.72rem;" data-i18n="goalsAdd">Add</button>
   </form>
-  <p class="goals-note">Saved on this device. Resets with a new day.</p>
+  <p class="goals-note" data-i18n="goalsNote">Saved on this device. Resets with a new day.</p>
 </div>
 
 <script>
@@ -56,8 +56,12 @@
     const done = goals.filter((g) => g.done).length;
     const pct = goals.length ? Math.round((done / goals.length) * 100) : 0;
     barEl.style.width = pct + "%";
-    countEl.textContent = `${done} of ${goals.length} complete`;
+    const isFr = (document.documentElement.lang === "fr") || (localStorage.getItem("lang") === "fr");
+    countEl.textContent = isFr ? `${done} sur ${goals.length} terminés` : `${done} of ${goals.length} complete`;
   };
+  window.addEventListener("langchange", render);
+  // also listen for storage so cross-tab updates lang
+  window.addEventListener("storage", (e) => { if (e.key === "lang") render(); });
 
   formEl.addEventListener("submit", (e) => {
     e.preventDefault();
