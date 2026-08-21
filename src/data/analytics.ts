@@ -2,7 +2,7 @@
 // Replace with your real Google Analytics / Search Console IDs when ready.
 // If empty, no tracking script is loaded and the site does NOT break.
 // Example: export const GA_ID = "G-XXXXXXXXXX";
-export const GA_ID = ""; // ← insert real GA4 ID here
+export const GA_ID = "G-QZLD9F4XSE";
 export const GSC_VERIFICATION = ""; // ← insert Search Console verification token here
 
 // Simple internal affiliate click tracking structure (ready for GA or other provider)
