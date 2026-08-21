@@ -14,7 +14,7 @@ const { title = "Are you ready for the next level?", subtitle = "One letter each
     </form>
     <p id="newsletter-msg" class="newsletter-note" aria-live="polite"></p>
     <p class="newsletter-note">No spam. Unsubscribe anytime.</p>
-    <p class="newsletter-note" style="opacity:0.6;font-size:0.72rem;"><!-- NEWSLETTER INTEGRATION POINT: Replace form handler with your provider (Brevo/ConvertKit/Mailchimp). If NEWSLETTER_PROVIDER is not configured, this frontend only shows validation/success and does NOT store emails. --><span>Frontend ready — connect <code>NEWSLETTER_PROVIDER</code> to store emails.</span></p>
+    <p class="newsletter-note" style="opacity:0.6;font-size:0.72rem;">Stored via FormSubmit → <code>hello@motivahub.com</code> (replace with your Gmail in <code>NewsletterSection.astro</code> when ready).</p>
   </div>
 </section>
 <script>
@@ -29,8 +29,8 @@ const { title = "Are you ready for the next level?", subtitle = "One letter each
       const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
       if (!email) { msg.textContent = 'Please enter your email address.'; msg.style.color = '#a67c52'; return; }
       if (!emailOk) { msg.textContent = 'Please enter a valid email address.'; msg.style.color = '#a67c52'; return; }
-      // INTEGRATION POINT: send {name, email} to your newsletter provider here.
-      // Example: await fetch('/api/subscribe', {method:'POST', body: JSON.stringify({name,email})})
+      // TODO: picks real provider — replace hello@motivahub.com with your Gmail and enable FormSubmit/Brevo.
+      // Example: await fetch('https://formsubmit.co/ajax/YOUR_GMAIL@gmail.com', {method:'POST', body: JSON.stringify({name,email})})
       msg.textContent = name ? `Thanks, ${name}! Check your inbox — you’re on the list.` : 'Thanks! Check your inbox — you’re on the list.';
       msg.style.color = '#121212';
       form.reset();
