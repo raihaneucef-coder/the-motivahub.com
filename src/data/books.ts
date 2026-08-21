@@ -36,7 +36,7 @@ export const books: Book[] = [
   {
     id: "deep-work",
     title: "Deep Work",
-    cover: "/images/mountain.jpg",
+    cover: "/images/desk.jpg",
     description: "The case for treating concentration as a craft.",
     reason: "Focus without distraction is the superpower of the century.",
     affiliateUrl: "https://www.amazon.com/dp/1455586692",
