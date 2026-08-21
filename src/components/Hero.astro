@@ -13,12 +13,12 @@ const { kicker, title, subtitle, image, primaryCta, secondaryCta } = Astro.props
 <section class="hero">
   <img class="hero-photo" src={image} alt="" loading="eager" />
   <div class="container">
-    <p class="kicker">{kicker}</p>
-    <h1>{title}</h1>
-    <p>{subtitle}</p>
+    <p class="kicker" data-i18n="heroKicker">{kicker}</p>
+    <h1 data-i18n="heroTitle">{title}</h1>
+    <p data-i18n="heroSubtitle">{subtitle}</p>
     <div class="hero-btns">
-      <a class="btn-pill" href={primaryCta.href}>{primaryCta.label}</a>
-      <a class="btn-pill btn-pill-outline" href={secondaryCta.href}>{secondaryCta.label}</a>
+      <a class="btn-pill" href={primaryCta.href} data-i18n="heroPrimary">{primaryCta.label}</a>
+      <a class="btn-pill btn-pill-outline" href={secondaryCta.href} data-i18n="heroSecondary">{secondaryCta.label}</a>
     </div>
   </div>
 </section>

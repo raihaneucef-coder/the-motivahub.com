@@ -146,8 +146,8 @@ const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
     <script is:inline>
       (function(){
         const dict = {
-          en: { menu:"Menu", close:"Close", home:"Home", about:"About", topics:"Topics", journal:"Journal", books:"Books", quotes:"Quotes", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, growth, and better habits, delivered daily." },
-          fr: { menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, croissance et meilleures habitudes, chaque jour." }
+          en: { menu:"Menu", close:"Close", home:"Home", about:"About", topics:"Topics", journal:"Journal", books:"Books", quotes:"Quotes", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, growth, and better habits, delivered daily.", heroKicker:"Motiva Hub · The Daily Drive", heroTitle:"Unlock your potential with the Daily Drive.", heroSubtitle:"A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.", heroPrimary:"Explore the Guides", heroSecondary:"Start with Mindset" },
+          fr: { menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, croissance et meilleures habitudes, chaque jour.", heroKicker:"Motiva Hub · Le Quotidien", heroTitle:"Libérez votre potentiel avec le Daily Drive.", heroSubtitle:"Un sanctuaire éditorial premium pour l'esprit discipliné. État d'esprit, habitudes et longue ascension — une idée à la fois.", heroPrimary:"Explorer les Guides", heroSecondary:"Commencer par l'État d'esprit" }
         };
         function setLang(lang){
           const t = dict[lang] || dict.en;
