@@ -18,9 +18,9 @@ const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() ===
 <Layout title="The Journal — Motiva Hub" description="Essays for the long climb. Mindset, habits, discipline, productivity, deep work — articles for the disciplined mind.">
   <section class="page-head">
     <div class="container">
-      <p class="kicker">The Journal</p>
-      <h1>Essays for the <em>long climb.</em></h1>
-      <p>Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.</p>
+      <p class="kicker" data-i18n="journalKicker">The Journal</p>
+      <h1 data-i18n="journalTitle">Essays for the <em>long climb.</em></h1>
+      <p data-i18n="journalSubtitle">Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.</p>
     </div>
   </section>
 
@@ -40,11 +40,11 @@ const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() ===
       </article>
 
       <div style="max-width:520px;margin:0 auto 24px;">
-        <input id="journal-search" type="search" placeholder="Search by title, topic or keywords..." aria-label="Search articles" style="width:100%;padding:14px 16px;border:1px solid var(--line);background:var(--white);font-family:var(--sans);font-size:0.95rem;" />
+        <input id="journal-search" type="search" placeholder="Search by title, topic or keywords..." data-i18n-placeholder="searchPlaceholder" aria-label="Search articles" style="width:100%;padding:14px 16px;border:1px solid var(--line);background:var(--white);font-family:var(--sans);font-size:0.95rem;" />
       </div>
 
       <div class="topic-filter">
-        <a class={!activeTopic ? "active" : ""} href="/journal/">All</a>
+        <a class={!activeTopic ? "active" : ""} href="/journal/" data-i18n="all">All</a>
         {topics.map((t) => (
           <a class={activeTopic === t.toLowerCase() ? "active" : ""} href={`/journal/?topic=${t.toLowerCase()}`}>{t}</a>
         ))}
@@ -57,7 +57,7 @@ const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() ===
           </div>
         ))}
       </div>
-      <p id="no-results" hidden style="text-align:center;color:var(--muted);margin-top:32px;">No results found.</p>
+      <p id="no-results" hidden style="text-align:center;color:var(--muted);margin-top:32px;" data-i18n="noResults">No results found.</p>
       <script>
         const input = document.getElementById('journal-search') as HTMLInputElement | null;
         const grid = document.getElementById('journal-grid');

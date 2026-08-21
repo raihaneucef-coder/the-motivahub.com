@@ -146,8 +146,8 @@ const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
     <script is:inline>
       (function(){
         const dict = {
-          en: { menu:"Menu", close:"Close", home:"Home", about:"About", topics:"Topics", journal:"Journal", books:"Books", quotes:"Quotes", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, growth, and better habits, delivered daily.", heroKicker:"Motiva Hub · The Daily Drive", heroTitle:"Unlock your potential with the Daily Drive.", heroSubtitle:"A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.", heroPrimary:"Explore the Guides", heroSecondary:"Start with Mindset" },
-          fr: { menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, croissance et meilleures habitudes, chaque jour.", heroKicker:"Motiva Hub · Le Quotidien", heroTitle:"Libérez votre potentiel avec le Daily Drive.", heroSubtitle:"Un sanctuaire éditorial premium pour l'esprit discipliné. État d'esprit, habitudes et longue ascension — une idée à la fois.", heroPrimary:"Explorer les Guides", heroSecondary:"Commencer par l'État d'esprit" }
+          en: { menu:"Menu", close:"Close", home:"Home", about:"About", topics:"Topics", journal:"Journal", books:"Books", quotes:"Quotes", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, growth, and better habits, delivered daily.", heroKicker:"Motiva Hub · The Daily Drive", heroTitle:"Unlock your potential with the Daily Drive.", heroSubtitle:"A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.", heroPrimary:"Explore the Guides", heroSecondary:"Start with Mindset", journalKicker:"The Journal", journalTitle:"Essays for the <em>long climb.</em>", journalSubtitle:"Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.", searchPlaceholder:"Search by title, topic or keywords...", all:"All", noResults:"No results found." },
+          fr: { menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, croissance et meilleures habitudes, chaque jour.", heroKicker:"Motiva Hub · Le Quotidien", heroTitle:"Libérez votre potentiel avec le Daily Drive.", heroSubtitle:"Un sanctuaire éditorial premium pour l'esprit discipliné. État d'esprit, habitudes et longue ascension — une idée à la fois.", heroPrimary:"Explorer les Guides", heroSecondary:"Commencer par l'État d'esprit", journalKicker:"Le Journal", journalTitle:"Essais pour la <em>longue ascension.</em>", journalSubtitle:"État d'esprit, habitudes, discipline, productivité, travail profond — à lire lentement.", searchPlaceholder:"Rechercher par titre, thème ou mots-clés...", all:"Tous", noResults:"Aucun résultat trouvé." }
         };
         function setLang(lang){
           const t = dict[lang] || dict.en;
@@ -155,7 +155,14 @@ const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
           localStorage.setItem("lang", lang);
           document.querySelectorAll("[data-i18n]").forEach(el=>{
             const k = el.getAttribute("data-i18n");
-            if(k && t[k]) el.textContent = t[k];
+            if(k && t[k]) {
+              if(t[k].indexOf("<") !== -1) el.innerHTML = t[k];
+              else el.textContent = t[k];
+            }
+          });
+          document.querySelectorAll("[data-i18n-placeholder]").forEach(el=>{
+            const k = el.getAttribute("data-i18n-placeholder");
+            if(k && t[k]) el.setAttribute("placeholder", t[k]);
           });
           document.querySelectorAll(".lang-btn").forEach(b=>{
             const active = b.getAttribute("data-lang")===lang;
