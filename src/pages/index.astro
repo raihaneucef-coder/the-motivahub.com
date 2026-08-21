@@ -4,11 +4,13 @@ import Hero from "../components/Hero.astro";
 import SectionHeader from "../components/SectionHeader.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import BookCard from "../components/BookCard.astro";
+import PodcastCard from "../components/PodcastCard.astro";
 import QuoteCard from "../components/QuoteCard.astro";
 import GoalTracker from "../components/GoalTracker.astro";
 import NewsletterSection from "../components/NewsletterSection.astro";
 import { getCollection } from "astro:content";
 import { books } from "../data/books";
+import { podcasts } from "../data/podcasts";
 import { quotes, getDailyQuote } from "../data/quotes";
 
 const posts = (await getCollection("blog"))
@@ -83,6 +85,18 @@ const daily = getDailyQuote();
       </div>
       <div class="book-grid">
         {books.slice(0, 8).map((book) => <BookCard book={book} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="feed-head">
+        <p class="kicker" data-i18n="podcastKicker">The Daily Drive · Podcast</p>
+        <a class="link-ochre" href="/podcast/">All Podcasts →</a>
+      </div>
+      <div class="book-grid">
+        {podcasts.slice(0, 3).map((p) => <PodcastCard podcast={p} />)}
       </div>
     </div>
   </section>
