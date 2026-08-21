@@ -17,6 +17,6 @@ const { post, featured = false } = Astro.props;
     <h3><a href={`/journal/${post.id}/`}>{post.data.title}</a></h3>
     <p>{post.data.description}</p>
     <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-    <a class="read-more" href={`/journal/${post.id}/`}>Read Article</a>
+    <a class="read-more" href={`/journal/${post.id}/`} data-i18n="readArticle">Read Article</a>
   </div>
 </article>

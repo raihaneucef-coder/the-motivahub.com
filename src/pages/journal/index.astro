@@ -35,7 +35,7 @@ const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() ===
           <h2><a href={`/journal/${featured.id}/`}>{featured.data.title}</a></h2>
           <p>{featured.data.description}</p>
           <p class="card-date">{featured.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-          <a class="read-more" href={`/journal/${featured.id}/`}>Read Essay</a>
+          <a class="read-more" href={`/journal/${featured.id}/`} data-i18n="readEssay">Read Essay</a>
         </div>
       </article>
 
