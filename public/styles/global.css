@@ -724,20 +724,28 @@ img { max-width: 100%; height: auto; }
   font-size: 0.72rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--ink);
+  color: var(--cream);
+  background: var(--ink);
   text-decoration: none;
-  border-bottom: 1px solid var(--gold);
-  padding-bottom: 4px;
+  border: 1px solid var(--ink);
+  padding: 10px 18px;
+  border-radius: 999px;
   align-self: flex-start;
+  transition: all 0.2s ease;
 }
 
-.read-more:hover { color: var(--gold); }
+.read-more:hover { background: var(--gold); border-color: var(--gold); color: var(--cream); }
 .read-more-disabled {
   opacity: 0.55;
   cursor: not-allowed;
-  border-bottom-style: dashed;
+  border-style: dashed;
+  background: transparent;
+  color: var(--ink);
   pointer-events: none;
 }
+.bookstand .read-more { background: var(--cream); color: var(--ink); border-color: var(--cream); }
+.bookstand .read-more:hover { background: var(--gold-light); border-color: var(--gold-light); }
+.bookstand .read-more-disabled { background: transparent; color: var(--cream); border-color: rgba(249,247,242,0.3); }
 
 /* Featured card */
 .featured-card {
