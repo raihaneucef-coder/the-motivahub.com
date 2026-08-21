@@ -9,9 +9,13 @@ const hasAffiliate = Boolean(book.affiliateUrl && book.affiliateUrl.trim().lengt
 ---
 
 <article class="book-card" id={book.id}>
-  <img class="book-cover" src={book.cover} alt={`${book.title} cover`} loading="lazy" />
+  <div style="position:relative; overflow:hidden;">
+    <img class="book-cover" src={book.cover} alt={`${book.title} cover`} loading="lazy" />
+    <span class="book-cat">{book.category}</span>
+  </div>
   <div class="book-body">
     <h3>{book.title}</h3>
+    <p class="book-author">{book.author}</p>
     <p class="book-desc">{book.description}</p>
     <p class="book-reason"><strong>Why we recommend it:</strong> {book.reason}</p>
     {hasAffiliate ? (
