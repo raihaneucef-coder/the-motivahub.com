@@ -4,16 +4,16 @@ const { title = "Are you ready for the next level?", subtitle = "One letter each
 
 <section class="newsletter">
   <div class="container">
-    <p class="kicker">The Daily Drive · Newsletter</p>
-    <h2>{title}</h2>
-    <p class="newsletter-sub">{subtitle}</p>
+    <p class="kicker" data-i18n="newsletterKicker">The Daily Drive · Newsletter</p>
+    <h2 data-i18n="newsletterTitle">{title}</h2>
+    <p class="newsletter-sub" data-i18n="newsletterSubtitle">{subtitle}</p>
     <form class="newsletter-form" id="newsletter-form" novalidate>
-      <input type="text" name="name" placeholder="Name (optional)" aria-label="Name" autocomplete="name" />
-      <input type="email" name="email" placeholder="Your email address *" aria-label="Email address" required autocomplete="email" />
-      <button type="submit" class="btn-pill btn-pill-cream">Subscribe</button>
+      <input type="text" name="name" placeholder="Name (optional)" data-i18n-placeholder="newsletterName" aria-label="Name" autocomplete="name" />
+      <input type="email" name="email" placeholder="Your email address *" data-i18n-placeholder="newsletterEmail" aria-label="Email address" required autocomplete="email" />
+      <button type="submit" class="btn-pill btn-pill-cream" data-i18n="newsletterBtn">Subscribe</button>
     </form>
     <p id="newsletter-msg" class="newsletter-note" aria-live="polite"></p>
-    <p class="newsletter-note">No spam. Unsubscribe anytime.</p>
+    <p class="newsletter-note" data-i18n="newsletterNoSpam">No spam. Unsubscribe anytime.</p>
     <p class="newsletter-note" style="opacity:0.6;font-size:0.72rem;">Stored via FormSubmit → <code>hello@motivahub.com</code> (replace with your Gmail in <code>NewsletterSection.astro</code> when ready).</p>
   </div>
 </section>

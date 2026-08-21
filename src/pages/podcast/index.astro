@@ -8,9 +8,9 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
 <Layout title="Podcast — Motiva Hub" description="The Daily Drive — conversations on mindset, discipline and the long ascent.">
   <section class="page-head">
     <div class="container">
-      <p class="kicker">The Daily Drive · Podcast</p>
-      <h1>The <em>podcast.</em></h1>
-      <p>Short conversations for the disciplined mind — mindset, habits and the work before the work.</p>
+      <p class="kicker" data-i18n="podcastKicker">The Daily Drive · Podcast</p>
+      <h1 data-i18n="podcastTitle">The <em>podcast.</em></h1>
+      <p data-i18n="podcastSubtitle">Short conversations for the disciplined mind — mindset, habits and the work before the work.</p>
     </div>
   </section>
 
@@ -19,7 +19,7 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
       <div class="book-grid">
         {podcasts.map((podcast) => <PodcastCard podcast={podcast} />)}
       </div>
-      <p class="affiliate-note">
+      <p class="affiliate-note" data-i18n="podcastNote">
         New episodes are added here first. When a podcastUrl is configured, the Listen button will open the real episode in a new tab.
       </p>
     </div>
