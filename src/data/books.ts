@@ -17,7 +17,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg",
     description: "The private notebook of an emperor writing to himself.",
     reason: "The closest thing we have to a manual for the inner life.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/0140449337",
   },
   {
     id: "atomic-habits",
@@ -25,7 +25,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
     description: "A systems thinker's case for identity-based change.",
     reason: "The clearest modern argument that you do not rise to your goals — you fall to your systems.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/0735211299",
   },
   {
     id: "deep-work",
@@ -33,7 +33,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
     description: "The case for treating concentration as a craft.",
     reason: "Focus without distraction is the superpower of the century.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/1455586692",
   },
   {
     id: "daily-stoic",
@@ -41,7 +41,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9780735211735-L.jpg",
     description: "Three hundred and sixty-six meditations, one for each day.",
     reason: "A practical doorway into a tradition that has guided disciplined minds for two thousand years.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/0735211736",
   },
   {
     id: "cant-hurt-me",
@@ -49,7 +49,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9781544512280-L.jpg",
     description: "An unflinching account of self-mastery forged in suffering.",
     reason: "Not a comfortable read, and not meant to be — it is fuel for the days you want to quit.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/1544512287",
   },
   {
     id: "mans-search-for-meaning",
@@ -57,7 +57,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
     description: "A psychiatrist's testament from the camps.",
     reason: "The last of the human freedoms — to choose one's attitude — cannot be taken away.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/080701429X",
   },
   // --- Tendance 2024-2026 ---
   {
@@ -66,7 +66,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
     description: "Timeless lessons on wealth, greed, and happiness.",
     reason: "Tendance mondiale — pourquoi l'argent est d'abord une histoire de comportement, pas de chiffres.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/0857197681",
   },
   {
     id: "mountain-is-you",
@@ -74,7 +74,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9781949759224-L.jpg",
     description: "The viral guide to turning self-sabotage into self-mastery.",
     reason: "Le plus tendance sur TikTok/BookTok — comment transformer l'auto-sabotage en force.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/1949759229",
   },
   {
     id: "subtle-art",
@@ -82,7 +82,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
     description: "A counterintuitive approach to living a good life.",
     reason: "Bestseller mondial — apprendre à choisir ce qui mérite votre attention.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/0062457713",
   },
   {
     id: "let-them-theory",
@@ -90,7 +90,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9781401991360-L.jpg",
     description: "Mel Robbins' 2024 phenomenon — let them, let me.",
     reason: "Tendance 2024-2025 — la phrase qui libère des milliers de lecteurs.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/1401991360",
   },
   {
     id: "courage-to-be-disliked",
@@ -98,7 +98,7 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9781501197277-L.jpg",
     description: "The Japanese phenomenon that shows you how to be free.",
     reason: "Viral au Japon et en Europe — le courage de déplaire pour enfin vivre libre.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/1501197274",
   },
   {
     id: "48-laws-of-power",
@@ -106,6 +106,6 @@ export const books: Book[] = [
     cover: "https://covers.openlibrary.org/b/isbn/9780140280197-L.jpg",
     description: "The ruthless and brilliant playbook for power.",
     reason: "Le plus tendance sur BookTok — 48 leçons qui ne laissent personne indifférent.",
-    affiliateUrl: "",
+    affiliateUrl: "https://www.amazon.com/dp/0140280197",
   },
 ];
