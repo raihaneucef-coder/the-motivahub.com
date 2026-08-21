@@ -59,7 +59,7 @@ const daily = getDailyQuote();
         <a class="link-ochre" href="/journal/">All Essays →</a>
       </div>
       <div class="grid">
-        {posts.slice(0, 3).map((post) => <ArticleCard post={post} />)}
+        {posts.slice(0, 6).map((post) => <ArticleCard post={post} />)}
       </div>
     </div>
   </section>
@@ -75,14 +75,14 @@ const daily = getDailyQuote();
     </div>
   </section>
 
-  <section class="blueprint">
+  <section class="bookstand">
     <div class="container">
       <div class="feed-head">
-        <p class="kicker">The Wisdom Stack</p>
-        <a class="link-ochre" href="/books/">All Books →</a>
+        <p class="kicker" style="color: var(--gold-light);">The Wisdom Stack — The Bookstand</p>
+        <a class="link-ochre" href="/books/" style="color: var(--gold-light);">All Books →</a>
       </div>
       <div class="book-grid">
-        {books.slice(0, 3).map((book) => <BookCard book={book} />)}
+        {books.slice(0, 4).map((book) => <BookCard book={book} />)}
       </div>
     </div>
   </section>
