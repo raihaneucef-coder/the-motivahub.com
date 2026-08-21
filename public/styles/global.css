@@ -161,10 +161,10 @@ img { max-width: 100%; height: auto; }
   text-align: center;
 }
 
-/* Hero — cream editorial, like original */
+/* Hero — dark editorial like base44 (stairs, person, light) */
 .hero {
-  background: var(--cream);
-  color: var(--ink);
+  background: #0a0a0a;
+  color: var(--cream);
   padding: 190px 0 110px;
   text-align: center;
   position: relative;
@@ -177,22 +177,21 @@ img { max-width: 100%; height: auto; }
   background-image: url("/images/hero.jpg");
   background-size: cover;
   background-position: center 40%;
-  opacity: 0.08;
+  opacity: 0.55;
 }
 
 .hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  opacity: 0.35;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.45), rgba(0,0,0,0.65));
   pointer-events: none;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.6'/%3E%3C/svg%3E");
 }
 
 .hero .container { position: relative; z-index: 1; }
 
 .hero .kicker {
-  color: var(--gold);
+  color: var(--gold-light);
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.75rem;
   letter-spacing: 0.3em;
@@ -208,15 +207,20 @@ img { max-width: 100%; height: auto; }
   max-width: 860px;
   margin: 0 auto 24px;
   font-style: italic;
+  color: var(--cream);
 }
 
 .hero p {
   font-size: 1.05rem;
   max-width: 620px;
   margin: 0 auto 44px;
-  color: var(--muted);
+  color: rgba(249,247,242,0.75);
   font-weight: 300;
 }
+.hero .btn-pill { background: var(--cream); color: var(--ink); }
+.hero .btn-pill:hover { background: var(--gold-light); }
+.hero .btn-pill-outline { background: transparent; border: 1px solid rgba(249,247,242,0.5); color: var(--cream); }
+.hero .btn-pill-outline:hover { border-color: var(--gold-light); color: var(--gold-light); background: transparent; }
 
 .hero-btns {
   display: flex;
@@ -354,6 +358,33 @@ img { max-width: 100%; height: auto; }
 }
 
 .premise h2 em { color: var(--gold); font-style: italic; }
+
+.premise-title {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(1.9rem, 4.5vw, 2.9rem);
+  line-height: 1.25;
+  max-width: 880px;
+  margin: 0 auto;
+  color: var(--ink);
+}
+
+.premise-title em { color: var(--gold); font-style: italic; }
+
+.premise-line {
+  height: 1px;
+  background: var(--line);
+  margin: 48px auto;
+  max-width: 880px;
+}
+
+.pillar-num {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  color: var(--gold);
+  margin-bottom: 10px;
+}
 
 .premise-sub {
   color: var(--muted);
