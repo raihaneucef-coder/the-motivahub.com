@@ -12,6 +12,15 @@ export interface Podcast {
 // All URLs are real, public, and have millions of views
 export const podcasts: Podcast[] = [
   {
+    id: "shi-heng-yi-focus-silent",
+    title: "Motivation Daily — Shi Heng Yi: Focus on Yourself & Stay Silent",
+    description: "Motiversity (essai) — Sagesse Shaolin sur le silence et la discipline. Tajribi — style B-roll sans visage.",
+    cover: "https://i.ytimg.com/vi/teJ_rMsFJn0/hqdefault.jpg",
+    date: "Aug 22, 2026",
+    duration: "17 min",
+    podcastUrl: "https://www.youtube.com/watch?v=teJ_rMsFJn0",
+  },
+  {
     id: "morning-drive-01",
     title: "Huberman Lab — How to Increase Motivation",
     description: "Andrew Huberman (4M+ subs) — science of dopamine and drive. Baynin w 3endo vuse tale3.",
