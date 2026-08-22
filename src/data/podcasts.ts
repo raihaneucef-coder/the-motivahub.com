@@ -14,7 +14,7 @@ export const podcasts: Podcast[] = [
   {
     id: "shi-heng-yi-focus-silent",
     title: "Motivation Daily — Shi Heng Yi: Focus on Yourself & Stay Silent",
-    description: "Motiversity (essai) — Sagesse Shaolin sur le silence et la discipline. Tajribi — style B-roll sans visage.",
+    description: "Motiversity — Sagesse Shaolin sur le silence et la discipline. Une leçon intemporelle sur la maîtrise de soi.",
     cover: "https://i.ytimg.com/vi/teJ_rMsFJn0/hqdefault.jpg",
     date: "Aug 22, 2026",
     duration: "17 min",
@@ -23,7 +23,7 @@ export const podcasts: Podcast[] = [
   {
     id: "morning-drive-01",
     title: "Huberman Lab — How to Increase Motivation",
-    description: "Andrew Huberman (4M+ subs) — science of dopamine and drive. Baynin w 3endo vuse tale3.",
+    description: "Andrew Huberman (4M+ subs) — science of dopamine and drive. Evidence-based strategies for focus and sustained motivation.",
     cover: "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/600x600bb.jpg",
     date: "Aug 20, 2026",
     duration: "58 min",
@@ -45,7 +45,7 @@ export const podcasts: Podcast[] = [
     cover: "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/c0/90/6ac090d3-9793-462e-e148-b4510afde8dc/mza_11738637425061101004.jpg/600x600bb.jpg",
     date: "Aug 04, 2026",
     duration: "42 min",
-    podcastUrl: "https://www.youtube.com/@JayShettyPodcast",
+    podcastUrl: "https://www.youtube.com/@jayshetty",
   },
   {
     id: "school-of-greatness-motivation",
