@@ -70,4 +70,19 @@ export const topics: Topic[] = [
     title: "Stories",
     description: "Proof over noise. Real people, real rises — curated news and human stories that raise the ceiling of what you believe is possible.",
   },
+  {
+    id: "finance",
+    title: "Finance",
+    description: "Money is a skill, not a secret. We learn how to earn, keep and grow it — so freedom stops being a wish and becomes a plan.",
+  },
+  {
+    id: "relationships",
+    title: "Relationships",
+    description: "No one climbs alone. We practice the art of connection — family, friendship and love as daily disciplines.",
+  },
+  {
+    id: "wellness",
+    title: "Wellness",
+    description: "Calm is a superpower. Breath, sleep and stillness — the quiet practices that keep the mind clear and the heart steady.",
+  },
 ];
