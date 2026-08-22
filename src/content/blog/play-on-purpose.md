@@ -1,7 +1,7 @@
 ---
 title: "Play On Purpose"
 description: "Leisure that leaves you emptier is not rest. Choose entertainment the way champions choose training — deliberately — and recovery becomes a weapon instead of a leak."
-pubDate: 2026-08-31
+pubDate: 2026-08-20
 topic: "Entertainment"
 readTime: "5 min read"
 image: "/images/blog/play-on-purpose.jpg"

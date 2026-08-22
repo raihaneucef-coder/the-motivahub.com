@@ -1,7 +1,7 @@
 ---
 title: "Community as Discipline — The Long Game of Belonging"
 description: "From business to sport, the most resilient people are never alone. Why the trending ijtima3i lesson of 2026 is: you go faster alone, but you last longer together."
-pubDate: 2026-08-24
+pubDate: 2026-08-11
 readTime: "8 MIN"
 image: "/images/blog/community-discipline.jpg"
 topic: "Confidence"

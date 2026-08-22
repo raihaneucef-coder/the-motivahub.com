@@ -1,7 +1,7 @@
 ---
 title: "Fuel Before Willpower"
 description: "Discipline is expensive when you run it on caffeine, sugar and good intentions. Eat in a way that makes the hard things cheaper — nutrition is not a diet, it is infrastructure."
-pubDate: 2026-08-29
+pubDate: 2026-08-18
 topic: "Nutrition"
 readTime: "5 min read"
 image: "/images/blog/fuel-before-willpower.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "The Social Muscle — Why Connection Is a Discipline"
 description: "The most viral social clip of 2026 is not about tactics — it is about showing up. Connection, like any muscle, grows only with reps."
-pubDate: 2026-08-23
+pubDate: 2026-08-10
 readTime: "7 MIN"
 image: "/images/blog/social-muscle.jpg"
 topic: "Personal Growth"

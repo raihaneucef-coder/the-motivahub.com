@@ -1,7 +1,7 @@
 ---
 title: "Can't Hurt Me — David Goggins and the 40% Rule"
 description: "The story of a man who went from 300 pounds and cockroaches to Navy SEAL — and the five brutal lessons that made him unstoppable."
-pubDate: 2026-08-27
+pubDate: 2026-08-15
 readTime: "9 MIN"
 image: "/images/blog/cant-hurt-me-review.jpg"
 topic: "Discipline"

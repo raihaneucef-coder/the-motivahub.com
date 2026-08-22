@@ -1,0 +1,42 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { topics } from "../../data/topics";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  return topics.map((t) => ({ params: { id: t.id }, props: { topic: t } }));
+}
+
+const { topic } = Astro.props;
+const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
+const posts = (await getCollection("blog"))
+  .filter((p) => !p.data.draft && norm(p.data.topic) === topic.id)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<Layout title={`${topic.title} — Motiva Hub`} description={topic.description}>
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker"><a href="/topics/" style="color:inherit;text-decoration:none;">Topics</a> · The Feed</p>
+      <h1>{topic.title} <em>— {posts.length} {posts.length === 1 ? "essay" : "essays"}.</em></h1>
+      <p>{topic.description}</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="grid">
+        {posts.map((post) => <ArticleCard post={post} />)}
+      </div>
+      {posts.length === 0 && (
+        <p style="text-align:center;color:var(--muted);margin-top:40px;">
+          The first essays for this topic are being prepared. Return soon.
+        </p>
+      )}
+      <p style="text-align:center;margin-top:48px;">
+        <a class="read-more" href="/journal/">← Back to all essays</a>
+      </p>
+    </div>
+  </section>
+</Layout>
