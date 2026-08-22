@@ -45,4 +45,29 @@ export const topics: Topic[] = [
     title: "Confidence",
     description: "Confidence is not born — it is built from evidence. Every kept promise to yourself is a brick in the wall of self-trust.",
   },
+  {
+    id: "sport",
+    title: "Sport",
+    description: "The body votes first. Before the mind can carry a dream, the body must be able to carry the mind.",
+  },
+  {
+    id: "nutrition",
+    title: "Nutrition",
+    description: "You cannot out-discipline a bad plate. Fuel is the quiet foundation under every strong day — eat so the hard things become cheaper.",
+  },
+  {
+    id: "travel",
+    title: "Travel",
+    description: "Go where you are a beginner again. New roads reset the ego and return you hungrier than you left.",
+  },
+  {
+    id: "entertainment",
+    title: "Entertainment",
+    description: "Rest is a skill, not a reward. Choose your leisure the way champions choose training — deliberately, and always leaving energy behind.",
+  },
+  {
+    id: "stories",
+    title: "Stories",
+    description: "Proof over noise. Real people, real rises — curated news and human stories that raise the ceiling of what you believe is possible.",
+  },
 ];
