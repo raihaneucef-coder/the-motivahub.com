@@ -3,7 +3,7 @@ title: "Identity Precedes Outcome"
 description: "You do not rise to the level of your goals; you fall to the level of your identity. Lasting change begins not with what you want, but with who you are."
 pubDate: 2026-08-09
 readTime: "6 MIN"
-image: "/images/sunrise.jpg"
+image: "/images/blog/identity-precedes-outcome.jpg"
 topic: "Mindset"
 ---
 

@@ -3,7 +3,7 @@ title: "The Athlete's Discipline — What Sport Teaches About the Long Game"
 description: "From Jocko to the CrossFit Games: why the most viral sport mindset of 2026 is not talent, but the discipline to do the boring work every day."
 pubDate: 2026-08-21
 readTime: "7 MIN"
-image: "/images/sport.jpg"
+image: "/images/blog/athlete-discipline.jpg"
 topic: "Discipline"
 ---
 

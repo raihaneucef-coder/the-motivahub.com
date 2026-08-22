@@ -3,7 +3,7 @@ title: "Atomic Habits — Tiny Changes, Remarkable Results"
 description: "James Clear's bestseller decoded: why systems beat goals, how identity drives behavior, and five lessons you can apply tonight."
 pubDate: 2026-08-26
 readTime: "9 MIN"
-image: "/images/candle.jpg"
+image: "/images/blog/atomic-habits-review.jpg"
 topic: "Habits"
 ---
 

@@ -3,7 +3,7 @@ title: "The Psychology of Money — Why Business Is a Behavior"
 description: "The most trending business lesson of 2024-2026: wealth is not a math problem, it is a story you tell yourself about risk and patience."
 pubDate: 2026-08-22
 readTime: "8 MIN"
-image: "/images/desk.jpg"
+image: "/images/blog/psychology-of-money-business.jpg"
 topic: "Success"
 ---
 

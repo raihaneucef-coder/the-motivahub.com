@@ -3,7 +3,7 @@ title: "Attention as Asset"
 description: "Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is."
 pubDate: 2026-07-10
 readTime: "6 MIN"
-image: "/images/desk.jpg"
+image: "/images/blog/attention-as-asset.jpg"
 topic: "Productivity"
 ---
 

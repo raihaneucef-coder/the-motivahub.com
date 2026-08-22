@@ -3,7 +3,7 @@ title: "The Quiet Power of Doing Less"
 description: "We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters."
 pubDate: 2026-08-14
 readTime: "7 MIN"
-image: "/images/statue.jpg"
+image: "/images/blog/quiet-power-of-doing-less.jpg"
 topic: "Productivity"
 ---
 

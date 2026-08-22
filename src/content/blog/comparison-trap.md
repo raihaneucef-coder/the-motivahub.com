@@ -3,7 +3,7 @@ title: "The Comparison Trap — Why Measuring Yourself Against Others Steals You
 description: "Scrolling someone else's highlight reel is the fastest way to abandon your own story. How to compare less, build more, and turn envy into direction."
 pubDate: 2026-08-26
 readTime: "6 MIN"
-image: "/images/statue.jpg"
+image: "/images/blog/comparison-trap.jpg"
 topic: "Mindset"
 ---
 

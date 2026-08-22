@@ -3,7 +3,7 @@ title: "The Viral Mindset Shift — How One Idea Changes Everything"
 description: "The most shared mindset clip of 2026 is 27 seconds long: identity precedes outcome. Here is the full story behind the most trending idea on motivation TikTok."
 pubDate: 2026-08-19
 readTime: "6 MIN"
-image: "/images/sunrise.jpg"
+image: "/images/blog/viral-mindset-shift.jpg"
 topic: "Mindset"
 ---
 

@@ -3,7 +3,7 @@ title: "The Secure Self — Why Focusing on Yourself Is the Safest Love"
 description: "You were told that focusing on yourself is selfish. The most secure love of 2026 says the opposite: you focus on yourself more than people because self-love is the only love that never leaves."
 pubDate: 2026-08-25
 readTime: "7 MIN"
-image: "/images/statue.jpg"
+image: "/images/blog/secure-self.jpg"
 topic: "Personal Growth"
 ---
 
