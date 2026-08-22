@@ -27,5 +27,6 @@ Unified cinematic treatment applied by Motiva Hub.
 - `viral-mindset-shift.jpg` — "Wakefield Fireworks 2014" by SFB579 Namaste — CC-BY via flickr — https://www.flickr.com/photos/50826080@N00/15500204077
 
 - `body-votes-first.jpg` — "Indoor Track and Field - Jim Mitchell Invitational at the Armory" by Steven Pisano — CC-BY via flickr — https://www.flickr.com/photos/45776673@N04/16226108471
-- `beginner-again.jpg` — "Conservationlands15 ... Point Arena-Stornetta Unit" by mypubliclands (Bureau of Land Management) — CC-BY via flickr — https://www.flickr.com/photos/91981596@N06/20402353208
 - `real-reason-you-procrastinate.jpg` — "Expensive time" by Robynlou8 — CC-BY via flickr — https://www.flickr.com/photos/38389614@N07/6808620972
+
+- `beginner-again.jpg` — "cold mountain" by paul bica — BY via flickr — https://www.flickr.com/photos/99771506@N00/6335746903
