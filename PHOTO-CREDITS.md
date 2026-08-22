@@ -21,7 +21,6 @@ Unified cinematic treatment applied by Motiva Hub.
 - `play-on-purpose.jpg` — "My Saturday 2" by AMagill — CC-BY via flickr — https://www.flickr.com/photos/85473033@N00/4985533732
 - `proof-over-noise.jpg` — "Coffee related (Free stock photo)" by trophygeek — CC-BY via flickr
 - `psychology-of-money-business.jpg` — "Metropolis" by dolbinator1000 — CC-BY via flickr — https://www.flickr.com/photos/126654539@N08/17154092340
-- `quiet-power-of-doing-less.jpg` — "Opposite" by Julien.Belli — CC-BY via flickr — https://www.flickr.com/photos/125615321@N04/16016879628
 - `social-muscle.jpg` — "climbing helping team work" by ujgmxxuy61 — CC-BY via flickr — https://www.flickr.com/
 - `two-minute-threshold.jpg` — "Empty Room" by gazrad — CC-BY via flickr — https://www.flickr.com/photos/14410773@N08/5911907728
 - `viral-mindset-shift.jpg` — "Wakefield Fireworks 2014" by SFB579 Namaste — CC-BY via flickr — https://www.flickr.com/photos/50826080@N00/15500204077
@@ -30,3 +29,4 @@ Unified cinematic treatment applied by Motiva Hub.
 - `real-reason-you-procrastinate.jpg` — "Expensive time" by Robynlou8 — CC-BY via flickr — https://www.flickr.com/photos/38389614@N07/6808620972
 
 - `beginner-again.jpg` — "cold mountain" by paul bica — BY via flickr — https://www.flickr.com/photos/99771506@N00/6335746903
+- `quiet-power-of-doing-less.jpg` — "early mist" by paul bica — BY via flickr — https://www.flickr.com/photos/99771506@N00/7787376598
