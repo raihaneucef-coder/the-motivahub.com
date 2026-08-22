@@ -31,7 +31,10 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
 
       <div class="contact-form">
         <p class="kicker" data-i18n="contactSendTitle">Send a Message</p>
-        <form action="mailto:raihaneucef@gmail.com" method="post" enctype="text/plain">
+        <form action="https://formsubmit.co/raihaneucef@gmail.com" method="POST">
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_subject" value="New message from Motiva Hub" />
+          <input type="hidden" name="_template" value="table" />
           <div class="form-group">
             <label for="name" data-i18n="contactName">Name</label>
             <input type="text" id="name" name="name" required />
@@ -45,7 +48,6 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
             <textarea id="message" name="message" rows="6" required></textarea>
           </div>
           <button type="submit" class="btn-pill" data-i18n="contactSend">Send to the Desk</button>
-          <p class="goals-note" style="margin-top: 14px;">The form opens your email app. To send through the website itself, connect a form backend (e.g. Formspree) by replacing the form action.</p>
         </form>
       </div>
     </div>
