@@ -14,7 +14,7 @@ export const podcasts: Podcast[] = [
   {
     id: "shi-heng-yi-focus-silent",
     title: "Motivation Daily — Shi Heng Yi: Focus on Yourself & Stay Silent",
-    description: "Motiversity — Sagesse Shaolin sur le silence et la discipline. Une leçon intemporelle sur la maîtrise de soi.",
+    description: "Motiversity — Shaolin wisdom on silence and discipline. A timeless lesson on self-mastery.",
     cover: "https://i.ytimg.com/vi/teJ_rMsFJn0/hqdefault.jpg",
     date: "Aug 22, 2026",
     duration: "17 min",
