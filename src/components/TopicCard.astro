@@ -6,10 +6,11 @@ interface Props {
   topic: Topic;
 }
 const { topic } = Astro.props;
-const posts = (await getCollection("blog")).filter((p) => !p.data.draft && p.data.topic.toLowerCase() === topic.id);
+const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
+const posts = (await getCollection("blog")).filter((p) => !p.data.draft && norm(p.data.topic) === topic.id);
 ---
 
-<a class="topic-card" href={`/journal/?topic=${topic.id}`}>
+<a class="topic-card" href={`/topics/${topic.id}/`}>
   <div class="topic-top">
     <h3>{topic.title}</h3>
     <span class="topic-count">{posts.length} {posts.length === 1 ? "Essay" : "Essays"}</span>

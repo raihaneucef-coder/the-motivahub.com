@@ -7,12 +7,8 @@ import { topics as allTopics } from "../../data/topics";
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const topics = allTopics.map((t) => t.title);
 const featured = posts.find((p) => p.data.featured) || posts[0];
 const rest = posts.filter((p) => p.id !== featured.id);
-const url = Astro.url;
-const activeTopic = url.searchParams.get("topic");
-const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() === activeTopic.toLowerCase()) : rest;
 ---
 
 <Layout title="The Journal — Motiva Hub" description="Essays for the long climb. Mindset, habits, discipline, productivity, deep work — articles for the disciplined mind.">
@@ -44,14 +40,14 @@ const filtered = activeTopic ? rest.filter((p) => p.data.topic.toLowerCase() ===
       </div>
 
       <div class="topic-filter">
-        <a class={!activeTopic ? "active" : ""} href="/journal/" data-i18n="all">All</a>
-        {topics.map((t) => (
-          <a class={activeTopic === t.toLowerCase() ? "active" : ""} href={`/journal/?topic=${t.toLowerCase()}`}>{t}</a>
+        <a class="active" href="/journal/" data-i18n="all">All</a>
+        {allTopics.map((t) => (
+          <a href={`/topics/${t.id}/`}>{t.title}</a>
         ))}
       </div>
 
       <div class="grid" id="journal-grid">
-        {filtered.map((post) => (
+        {rest.map((post) => (
           <div class="searchable" data-title={post.data.title.toLowerCase()} data-topic={post.data.topic.toLowerCase()} data-desc={post.data.description.toLowerCase()}>
             <ArticleCard post={post} />
           </div>

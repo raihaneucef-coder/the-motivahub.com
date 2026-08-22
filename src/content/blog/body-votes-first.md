@@ -1,7 +1,7 @@
 ---
 title: "The Body Votes First"
 description: "We treat fitness as optional maintenance, scheduled after the important work. It is not optional. The state of your body casts the deciding vote on how your mind shows up."
-pubDate: 2026-08-28
+pubDate: 2026-08-17
 topic: "Sport"
 readTime: "5 min read"
 image: "/images/blog/body-votes-first.jpg"

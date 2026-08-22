@@ -1,7 +1,7 @@
 ---
 title: "Go Where You Are a Beginner Again"
 description: "Travel is not escape — it is the fastest way to reset arrogance and remember how much there is left to learn. New roads return you hungrier than you left."
-pubDate: 2026-08-30
+pubDate: 2026-08-19
 topic: "Travel"
 readTime: "5 min read"
 image: "/images/blog/beginner-again.jpg"
