@@ -41,3 +41,15 @@
 - `attention-as-asset.jpg` — "Beam of light through the smoke" by Brett Levin Photography — BY via flickr — https://www.flickr.com/photos/51117559@N03/5875929248
 
 - `community-discipline.jpg` — "Backlit beach clouds - Credit to https://homegets.com/" by homegets.com — BY via flickr — https://www.flickr.com/photos/141436406@N04/42956969975
+
+- `cant-hurt-me-review.jpg` — "Los Mellizos" by Carlos Varela — BY via flickr — https://www.flickr.com/photos/39558803@N00/39375647721
+
+- `body-votes-first.jpg` — "Indoor Track and Field - Jim Mitchell Invitational at the Armory" by Steven Pisano — BY via flickr — https://www.flickr.com/photos/45776673@N04/16226108471
+
+- `community-discipline.jpg` — "Jumping Silhouettes" by Ant1_G — BY-ND via flickr — https://www.flickr.com/photos/56626682@N05/6913508663
+
+- `comparison-trap.jpg` — "Making the Man Sell" by CarbonNYC [in SF!] — BY via flickr — https://www.flickr.com/photos/15923063@N00/2996841020
+
+- `secure-self.jpg` — "Upward" by Llima — BY-ND via flickr — https://www.flickr.com/photos/83681952@N00/1351327769
+
+- `beginner-again.jpg` — "#conservationlands15 Social Media Takeover, August 15th, Bucket List - California, California Coastal National Monument, Point Arena-Stornetta Unit" by mypubliclands — BY via flickr — https://www.flickr.com/photos/91981596@N06/20402353208
