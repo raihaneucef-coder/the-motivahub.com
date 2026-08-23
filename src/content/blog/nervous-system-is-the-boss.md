@@ -1,7 +1,7 @@
 ---
 title: "Your Nervous System Is the Boss"
 description: "Your mind does not decide how you feel — your nervous system does. Learn to work with it, not against it."
-pubDate: 2026-08-28
+pubDate: 2026-08-12
 topic: "Wellness"
 readTime: "5 min read"
 image: "/images/blog/nervous-system-is-the-boss.jpg"

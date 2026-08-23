@@ -1,7 +1,7 @@
 ---
 title: "Love Is a Practice, Not a Feeling"
 description: "We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows."
-pubDate: 2026-08-26
+pubDate: 2026-08-10
 topic: "Relationships"
 readTime: "4 min read"
 image: "/images/blog/love-is-a-practice.jpg"

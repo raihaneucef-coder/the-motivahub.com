@@ -1,7 +1,7 @@
 ---
 title: "Confidence Is a Record, Not a Feeling"
 description: "Confidence is not a feeling you wait for — it is a record you build, one kept promise at a time."
-pubDate: 2026-09-03
+pubDate: 2026-08-22
 topic: "Confidence"
 readTime: "4 min read"
 image: "/images/blog/confidence-is-a-record-not-a-feeling.jpg"

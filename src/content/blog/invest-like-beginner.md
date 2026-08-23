@@ -1,7 +1,7 @@
 ---
 title: "Invest Like a Beginner, Think Like an Owner"
 description: "You don't need to be an expert to start investing — you need to start and stay. Ownership beats prediction."
-pubDate: 2026-08-29
+pubDate: 2026-08-13
 topic: "Finance"
 readTime: "5 min read"
 image: "/images/blog/invest-like-beginner.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Debt Is a Story You Can Rewrite"
 description: "Debt feels like a character flaw — it is not. It is a story with numbers. Rewrite the numbers and the story changes."
-pubDate: 2026-08-30
+pubDate: 2026-08-16
 topic: "Finance"
 readTime: "4 min read"
 image: "/images/blog/debt-is-a-story.jpg"

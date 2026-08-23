@@ -1,7 +1,7 @@
 ---
 title: "The Price of Freedom Is Paid Daily"
 description: "Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns."
-pubDate: 2026-08-24
+pubDate: 2026-08-22
 topic: "Finance"
 readTime: "4 min read"
 image: "/images/blog/price-of-freedom.jpg"

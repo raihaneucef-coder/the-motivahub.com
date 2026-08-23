@@ -1,7 +1,7 @@
 ---
 title: "Boundaries Are Love in Action"
 description: "A boundary is not a wall — it is a clear line that lets love move without resentment."
-pubDate: 2026-08-31
+pubDate: 2026-08-18
 topic: "Relationships"
 readTime: "4 min read"
 image: "/images/blog/boundaries-are-love.jpg"

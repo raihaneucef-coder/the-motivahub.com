@@ -1,7 +1,7 @@
 ---
 title: "Calm Is a Superpower"
 description: "In a loud world, calm is not passive — it is power held in reserve. Breath, sleep and stillness keep the mind clear."
-pubDate: 2026-08-27
+pubDate: 2026-08-11
 topic: "Wellness"
 readTime: "4 min read"
 image: "/images/blog/calm-is-a-superpower.jpg"
