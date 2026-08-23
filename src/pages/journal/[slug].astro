@@ -27,6 +27,18 @@ const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.
 ---
 
 <Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description} image={post.data.image}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: post.data.title,
+    description: post.data.description,
+    image: `https://motivahub.vercel.app${post.data.image}`,
+    datePublished: post.data.pubDate.toISOString(),
+    dateModified: post.data.pubDate.toISOString(),
+    author: { "@type": "Organization", name: "Motiva Hub" },
+    publisher: { "@type": "Organization", name: "Motiva Hub", logo: { "@type": "ImageObject", url: "https://motivahub.vercel.app/logo.jpg" } },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://motivahub.vercel.app/journal/${post.id}/` }
+  })} />
   <article>
     <header class="article-header">
       <div class="container">
