@@ -1,7 +1,7 @@
 ---
 title: "The Paycheck Trap: Why Earning More Isn't Enough"
 description: "A higher income feels like freedom until lifestyle rises with it. Learn how to keep the raise you just earned."
-pubDate: 2026-08-29
+pubDate: 2026-08-14
 topic: "Finance"
 readTime: "4 min read"
 image: "/images/blog/paycheck-trap.jpg"

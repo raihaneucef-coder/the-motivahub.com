@@ -1,7 +1,7 @@
 ---
 title: "The People Who Raise Your Floor"
 description: "You do not rise to the level of your goals — you fall to the level of the people around you. Choose the room that raises your floor."
-pubDate: 2026-08-25
+pubDate: 2026-08-22
 topic: "Relationships"
 readTime: "5 min read"
 image: "/images/blog/people-who-raise-your-floor.jpg"

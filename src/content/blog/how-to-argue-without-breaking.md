@@ -1,7 +1,7 @@
 ---
 title: "How to Argue Without Breaking"
 description: "Disagreement is not the enemy of love — distance is. Learn the art of arguing in a way that leaves you closer."
-pubDate: 2026-08-30
+pubDate: 2026-08-15
 topic: "Relationships"
 readTime: "5 min read"
 image: "/images/blog/how-to-argue-without-breaking.jpg"

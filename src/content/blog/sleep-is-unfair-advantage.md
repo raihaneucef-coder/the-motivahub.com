@@ -1,7 +1,7 @@
 ---
 title: "Sleep Is Your Unfair Advantage"
 description: "While others borrow from tomorrow with late nights, sleep repays you with focus, patience and better decisions."
-pubDate: 2026-09-01
+pubDate: 2026-08-20
 topic: "Wellness"
 readTime: "4 min read"
 image: "/images/blog/sleep-is-unfair-advantage.jpg"

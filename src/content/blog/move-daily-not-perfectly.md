@@ -1,7 +1,7 @@
 ---
 title: "Move Daily, Not Perfectly"
 description: "You do not need the perfect workout — you need a daily one that survives bad days."
-pubDate: 2026-09-02
+pubDate: 2026-08-21
 topic: "Wellness"
 readTime: "4 min read"
 image: "/images/blog/move-daily-not-perfectly.jpg"

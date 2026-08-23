@@ -1,7 +1,7 @@
 ---
 title: "Earn, Keep, Grow: The Three Jobs of Money"
 description: "Money is not one skill but three — earning, keeping and growing. Most people master only one. Freedom begins when you practice all three."
-pubDate: 2026-08-23
+pubDate: 2026-08-22
 topic: "Finance"
 readTime: "5 min read"
 image: "/images/blog/earn-keep-grow.jpg"

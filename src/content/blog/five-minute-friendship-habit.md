@@ -1,7 +1,7 @@
 ---
 title: "The Five-Minute Friendship Habit"
 description: "Friendship does not require weekends away — it requires five minutes of real attention, repeated."
-pubDate: 2026-08-31
+pubDate: 2026-08-17
 topic: "Relationships"
 readTime: "4 min read"
 image: "/images/blog/five-minute-friendship-habit.jpg"

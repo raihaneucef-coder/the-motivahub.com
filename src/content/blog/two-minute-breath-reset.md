@@ -1,7 +1,7 @@
 ---
 title: "The Two-Minute Breath Reset"
 description: "You cannot think your way calm — you breathe your way there. Two minutes is enough to change your state."
-pubDate: 2026-09-01
+pubDate: 2026-08-19
 topic: "Wellness"
 readTime: "3 min read"
 image: "/images/blog/two-minute-breath-reset.jpg"

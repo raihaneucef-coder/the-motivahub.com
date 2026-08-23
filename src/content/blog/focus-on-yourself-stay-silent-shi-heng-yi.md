@@ -1,7 +1,7 @@
 ---
 title: "Concentre-toi sur toi-même et reste silencieux — la leçon de Shi Heng Yi"
 description: "Dans un monde bruyant d'opinions et de comparaisons, le mouvement le plus puissant est de revenir à l'intérieur : focus, silence, discipline et maîtrise de soi."
-pubDate: 2026-08-24
+pubDate: 2026-08-22
 readTime: "6 MIN"
 image: "/images/blog/secure-self.jpg"
 topic: "Mindset"
