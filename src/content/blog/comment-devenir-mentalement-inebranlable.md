@@ -1,6 +1,6 @@
 ---
-title: "Comment devenir mentalement inébranlable — rien ne peut te briser"
-description: "D'après David Goggins : 5 règles froides pour forger un mental d'acier — contrôler tes émotions, choisir la discipline et t'exposer à l'inconfort jusqu'à devenir incassable."
+title: "How to Become Mentally Unbreakable — Nothing Can Break You"
+description: "From David Goggins: 5 cold rules to forge a steel mindset — control your emotions, choose discipline, and embrace discomfort until you become unbreakable."
 pubDate: 2026-08-22
 readTime: "7 MIN"
 image: "/images/blog/comment-devenir-mentalement-inebranlable.jpg"
