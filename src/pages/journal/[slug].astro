@@ -53,6 +53,7 @@ const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.
 
     <div class="article-body container">
       <Content />
+      <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} />
       <SocialShare title={post.data.title} description={post.data.description} />
       <div class="article-nav">
