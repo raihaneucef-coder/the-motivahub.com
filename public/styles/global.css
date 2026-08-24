@@ -146,6 +146,8 @@ img { max-width: 100%; height: auto; }
   display: flex;
   flex-direction: column;
   justify-content: center;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .overlay-nav a {
@@ -153,7 +155,7 @@ img { max-width: 100%; height: auto; }
   align-items: baseline;
   justify-content: space-between;
   border-bottom: 1px solid rgba(249, 247, 242, 0.1);
-  padding: 22px 4px;
+  padding: 18px 4px;
   color: var(--cream);
   text-decoration: none;
   font-size: 1.05rem;
