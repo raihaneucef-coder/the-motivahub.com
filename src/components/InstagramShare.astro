@@ -1,0 +1,133 @@
+---
+// InstagramShare.astro — Generate shareable quote images for Instagram
+interface Props {
+  quote: string;
+  author: string;
+}
+const { quote, author } = Astro.props;
+---
+
+<div class="ig-share" data-ig-share>
+  <div class="ig-preview" data-ig-preview>
+    <canvas data-ig-canvas width="1080" height="1080"></canvas>
+  </div>
+  <div class="ig-actions">
+    <button class="btn-pill" data-ig-download>Download Image</button>
+    <button class="btn-pill btn-pill-outline" data-ig-copy>Copy to Clipboard</button>
+  </div>
+  <p class="ig-note">Share this quote on Instagram, Stories, or anywhere.</p>
+</div>
+
+<script>
+  function generateQuoteImage(canvas: HTMLCanvasElement, quote: string, author: string) {
+    const ctx = canvas.getContext("2d");
+    if (!ctx) return;
+
+    const W = 1080;
+    const H = 1080;
+    canvas.width = W;
+    canvas.height = H;
+
+    // Background
+    ctx.fillStyle = "#121212";
+    ctx.fillRect(0, 0, W, H);
+
+    // Decorative lines
+    ctx.strokeStyle = "rgba(166, 124, 82, 0.15)";
+    ctx.lineWidth = 2;
+    for (let i = 0; i < 5; i++) {
+      ctx.beginPath();
+      ctx.moveTo(80 + i * 50, 80);
+      ctx.lineTo(80 + i * 50, H - 80);
+      ctx.stroke();
+    }
+
+    // Quote marks
+    ctx.fillStyle = "rgba(166, 124, 82, 0.2)";
+    ctx.font = "italic 200px 'Georgia', serif";
+    ctx.textAlign = "left";
+    ctx.fillText("\u201C", 100, 280);
+
+    // Quote text
+    ctx.fillStyle = "#f9f7f2";
+    ctx.font = "500 48px 'Georgia', serif";
+    ctx.textAlign = "center";
+
+    const maxWidth = W - 200;
+    const lineHeight = 70;
+    const words = quote.split(" ");
+    let line = "";
+    let y = 380;
+
+    for (const word of words) {
+      const testLine = line + word + " ";
+      const metrics = ctx.measureText(testLine);
+      if (metrics.width > maxWidth && line) {
+        ctx.fillText(line.trim(), W / 2, y);
+        line = word + " ";
+        y += lineHeight;
+      } else {
+        line = testLine;
+      }
+    }
+    ctx.fillText(line.trim(), W / 2, y);
+
+    // Author
+    ctx.fillStyle = "#a67c52";
+    ctx.font = "400 32px 'Georgia', serif";
+    ctx.textAlign = "center";
+    ctx.fillText(`— ${author}`, W / 2, y + 100);
+
+    // Brand
+    ctx.fillStyle = "rgba(166, 124, 82, 0.4)";
+    ctx.font = "600 24px 'Helvetica Neue', sans-serif";
+    ctx.letterSpacing = "4px";
+    ctx.fillText("MOTIVA HUB", W / 2, H - 80);
+  }
+
+  document.querySelectorAll("[data-ig-share]").forEach((container) => {
+    const canvas = container.querySelector("[data-ig-canvas]") as HTMLCanvasElement;
+    const downloadBtn = container.querySelector("[data-ig-download]");
+    const copyBtn = container.querySelector("[data-ig-copy]");
+
+    const quoteEl = container.closest("article") || container.closest(".quote-card");
+    const quoteText = quoteEl?.querySelector("p")?.textContent?.replace(/^["""]|["""]$/g, "") || "";
+    const authorText = quoteEl?.querySelector("cite")?.textContent?.replace(/^—\s*/, "") || "";
+
+    if (canvas && quoteText) {
+      generateQuoteImage(canvas, quoteText, authorText);
+    }
+
+    downloadBtn?.addEventListener("click", () => {
+      const link = document.createElement("a");
+      link.download = "motiva-hub-quote.png";
+      link.href = canvas.toDataURL("image/png");
+      link.click();
+    });
+
+    copyBtn?.addEventListener("click", async () => {
+      try {
+        const blob = await new Promise<Blob>((resolve) =>
+          canvas.toBlob((b) => resolve(b!), "image/png")
+        );
+        await navigator.clipboard.write([
+          new ClipboardItem({ "image/png": blob }),
+        ]);
+        if (copyBtn) copyBtn.textContent = "Copied!";
+        setTimeout(() => {
+          if (copyBtn) copyBtn.textContent = "Copy to Clipboard";
+        }, 2000);
+      } catch {
+        alert("Copy not supported in this browser. Use Download instead.");
+      }
+    });
+  });
+</script>
+
+<style>
+  .ig-share { margin: 2rem 0; padding: 1.5rem; background: var(--cream); border: 1px solid #e8e2d6; border-radius: 12px; }
+  .ig-preview { max-width: 320px; margin: 0 auto 1.5rem; border-radius: 8px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.12); }
+  .ig-preview canvas { width: 100%; height: auto; display: block; }
+  .ig-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .ig-note { text-align: center; font-size: 0.82rem; color: var(--muted); margin-top: 1rem; }
+</style>
