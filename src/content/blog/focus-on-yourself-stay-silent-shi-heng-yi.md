@@ -43,7 +43,7 @@ Demande-toi : quelle décision repousses-tu parce que tu as peur du jugement ? P
 
 <div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Approfondis la voie Shaolin</strong></p>
-<p><a href="https://www.amazon.com/dp/1529149755?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=shi-heng-yi" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Découvrir les enseignements Shaolin sur Amazon</a></p>
+<p><a href="https://www.amazon.fr/dp/1529149755?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=shi-heng-yi" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Découvrir les enseignements Shaolin sur Amazon</a></p>
 </div>
 
 ## 4. Fais les choses difficiles — en silence

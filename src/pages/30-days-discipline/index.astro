@@ -11,7 +11,8 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
       <p>A free challenge to build unshakable discipline. One small act per day — transforms your life by the end.</p>
       <div class="hero-btns" style="margin-top:1.5rem;">
         <a class="btn-pill" href="#day-1">Start Day 1</a>
-        <a class="btn-pill btn-pill-outline" href="#subscribe">Get the PDF</a>
+        <a class="btn-pill btn-pill-outline" href="/30-days-discipline.pdf" download>Download PDF</a>
+        <a class="btn-pill btn-pill-outline" href="#subscribe">Get via Email</a>
       </div>
     </div>
   </section>
@@ -356,7 +357,10 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
     <div class="container">
       <p class="kicker">GET THE PDF</p>
       <h2>Download "30 Days of Discipline"</h2>
-      <p class="newsletter-sub">Enter your email and receive the free PDF guide — printable, shareable, and ready to start.</p>
+      <p class="newsletter-sub">Enter your email and receive the free PDF guide — or download it directly below.</p>
+      <div class="hero-btns" style="margin-bottom:1.5rem;">
+        <a class="btn-pill" href="/30-days-discipline.pdf" download>Download PDF Now</a>
+      </div>
       <form class="newsletter-form" id="pdf-form" novalidate>
         <input type="text" name="name" placeholder="Name (optional)" aria-label="Name" autocomplete="name">
         <input type="email" name="email" placeholder="Your email address *" aria-label="Email address" required autocomplete="email">
