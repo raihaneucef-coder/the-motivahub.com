@@ -3,6 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
 import RelatedArticles from "../../components/RelatedArticles.astro";
 import SocialShare from "../../components/SocialShare.astro";
+import ToolCta from "../../components/ToolCta.astro";
 import NewsletterSection from "../../components/NewsletterSection.astro";
 import { getCollection, render } from "astro:content";
 
@@ -26,18 +27,18 @@ const related = all.filter((p) => p.id !== post.id && (p.data.topic === post.dat
 const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.id).slice(0, 3);
 ---
 
-<Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description} image={post.data.image}>
+<Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description} image={post.data.image} ogType="article">
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.data.title,
     description: post.data.description,
-    image: `https://motivahub.vercel.app${post.data.image}`,
+    image: `https://the-motivahub.com${post.data.image}`,
     datePublished: post.data.pubDate.toISOString(),
     dateModified: post.data.pubDate.toISOString(),
-    author: { "@type": "Organization", name: "Motiva Hub" },
-    publisher: { "@type": "Organization", name: "Motiva Hub", logo: { "@type": "ImageObject", url: "https://motivahub.vercel.app/logo.jpg" } },
-    mainEntityOfPage: { "@type": "WebPage", "@id": `https://motivahub.vercel.app/journal/${post.id}/` }
+    author: { "@type": "Person", name: "Youssef Raihane" },
+    publisher: { "@type": "Organization", name: "Motiva Hub", logo: { "@type": "ImageObject", url: "https://the-motivahub.com/logo.jpg" } },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://the-motivahub.com/journal/${post.id}/` }
   })} />
   <article>
     <header class="article-header">
@@ -51,6 +52,7 @@ const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.
 
     <div class="article-body container">
       <Content />
+      <ToolCta topic={post.data.topic} />
       <SocialShare title={post.data.title} description={post.data.description} />
       <div class="article-nav">
         {prev ? <a class="link-ochre" href={`/journal/${prev.id}/`}>← {prev.data.title}</a> : <span></span>}

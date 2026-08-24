@@ -1,0 +1,116 @@
+---
+interface Props {
+  topic?: string;
+}
+const { topic = "" } = Astro.props;
+
+const TOOLS = {
+  tracker: {
+    url: "/tracker/",
+    name: "Habit Tracker",
+    desc: "Track your streak, week by week. Small acts, visible progress.",
+  },
+  memento: {
+    url: "/memento-mori/",
+    name: "Memento Mori",
+    desc: "See your whole life in months. The stoic wake-up call.",
+  },
+  pdf: {
+    url: "/30-days-discipline/",
+    name: "30 Days of Discipline — Free PDF",
+    desc: "One page a day for one month. A different life on the other side.",
+  },
+};
+
+const t = topic.toLowerCase();
+let primary, secondary, headline;
+
+if (["discipline", "productivity", "goals"].includes(t)) {
+  headline = "Turn this essay into 30 days of action";
+  primary = TOOLS.pdf;
+  secondary = TOOLS.tracker;
+} else if (["habits", "wellness", "sport", "nutrition"].includes(t)) {
+  headline = "Track the habit, not the motivation";
+  primary = TOOLS.tracker;
+  secondary = TOOLS.pdf;
+} else if (["mindset", "personal growth", "success", "stories"].includes(t)) {
+  headline = "Time is the raw material of change";
+  primary = TOOLS.memento;
+  secondary = TOOLS.pdf;
+} else {
+  headline = "Free tools from Motiva Hub";
+  primary = TOOLS.memento;
+  secondary = TOOLS.tracker;
+}
+---
+
+<aside class="tool-cta" aria-label="Motiva Hub tools">
+  <p class="tool-cta-kicker">Free Tool · Motiva Hub</p>
+  <p class="tool-cta-headline">{headline}</p>
+  <div class="tool-cta-links">
+    <a href={primary.url} class="tool-cta-card tool-cta-primary">
+      <span class="tool-cta-name">{primary.name} →</span>
+      <span class="tool-cta-desc">{primary.desc}</span>
+    </a>
+    <a href={secondary.url} class="tool-cta-card">
+      <span class="tool-cta-name">{secondary.name} →</span>
+      <span class="tool-cta-desc">{secondary.desc}</span>
+    </a>
+  </div>
+</aside>
+
+<style>
+  .tool-cta {
+    margin: 48px auto 8px;
+    max-width: 720px;
+    border: 1px solid var(--line);
+    border-top: 3px solid var(--gold);
+    border-radius: 14px;
+    padding: 26px 28px;
+    background: var(--white);
+  }
+  .tool-cta-kicker {
+    font-family: var(--sans);
+    font-size: 11px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 6px;
+  }
+  .tool-cta-headline {
+    font-family: var(--serif);
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: 18px;
+  }
+  .tool-cta-links { display: grid; gap: 10px; }
+  .tool-cta-card {
+    display: block;
+    text-decoration: none;
+    padding: 14px 18px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    transition: border-color .2s ease, background .2s ease;
+  }
+  .tool-cta-card:hover { border-color: var(--gold); background: var(--cream); }
+  .tool-cta-primary { background: var(--cream); }
+  .tool-cta-name {
+    display: block;
+    font-family: var(--serif);
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .tool-cta-desc {
+    display: block;
+    font-family: var(--sans);
+    font-size: 13.5px;
+    color: var(--muted);
+    margin-top: 3px;
+  }
+  @media (max-width: 640px) {
+    .tool-cta { padding: 20px 16px; margin: 36px auto 4px; }
+    .tool-cta-headline { font-size: 22px; }
+  }
+</style>

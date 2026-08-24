@@ -5,9 +5,11 @@ interface Props {
   title: string;
   description: string;
   image?: string;
+  noindex?: boolean;
+  ogType?: string;
 }
 
-const { title, description, image = "/images/hero.jpg" } = Astro.props;
+const { title, description, image = "/images/hero.jpg", noindex = false, ogType = "website" } = Astro.props;
 const canonical = Astro.url.href;
 const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
 const gaSnippet = GA_ID
@@ -22,23 +24,28 @@ const gaSnippet = GA_ID
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="icon" href="/logo.jpg" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
     <link rel="canonical" href={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
+    <meta property="og:site_name" content="Motiva Hub" />
+    <meta property="og:locale" content="en_US" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content={noindex ? "noindex, nofollow" : "index, follow"} />
     <meta name="google-adsense-account" content="ca-pub-7700455846106476">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476" crossorigin="anonymous"></script>
     {GSC_VERIFICATION && <meta name="google-site-verification" content={GSC_VERIFICATION} />}
     <meta name="impact-site-verification" content="e2d5e2d9-5097-4b2d-b582-7d63c33ec316" />
-    <meta name="impact-site-verification" value="e2d5e2d9-5097-4b2d-b582-7d63c33ec316" />
     {GA_ID && (
       <>
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
@@ -89,7 +96,7 @@ const gaSnippet = GA_ID
         <a href="/memento-mori/">10 <span>Memento Mori</span></a>
       </nav>
       <div class="overlay-foot container">
-        <button class="btn-pill btn-pill-cream" type="button">Subscribe</button>
+        <button class="btn-pill btn-pill-cream" type="button" onclick="document.getElementById('newsletter')?.scrollIntoView({behavior:'smooth'}); document.getElementById('overlay-menu')?.classList.remove('open'); document.body.style.overflow='';">Subscribe</button>
       </div>
     </div>
 
@@ -211,6 +218,22 @@ const gaSnippet = GA_ID
         if (typeof window.gtag === "function") try{window.gtag("event","affiliate_click",{book_id:bookId, book_title:bookTitle});}catch(e){}
         if (Array.isArray(window.dataLayer)) try{window.dataLayer.push(payload);}catch(e){}
       };
+    </script>
+    <div id="cookie-consent" class="cookie-banner" style="display:none;">
+      <div class="cookie-inner">
+        <p>We use cookies to improve your experience and for analytics. By continuing, you agree to our <a href="/privacy/">Privacy Policy</a>.</p>
+        <div class="cookie-actions">
+          <button class="cookie-btn cookie-accept" onclick="acceptCookies()">Accept</button>
+          <button class="cookie-btn cookie-decline" onclick="declineCookies()">Decline</button>
+        </div>
+      </div>
+    </div>
+    <script is:inline>
+      function showCookieBanner(){document.getElementById('cookie-consent').style.display='flex';}
+      function hideCookieBanner(){document.getElementById('cookie-consent').style.display='none';}
+      function acceptCookies(){localStorage.setItem('cookie_consent','accepted');hideCookieBanner();}
+      function declineCookies(){localStorage.setItem('cookie_consent','declined');hideCookieBanner();}
+      if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,2000);
     </script>
   </body>
 </html>
