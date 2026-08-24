@@ -188,6 +188,21 @@ const gaSnippet = GA_ID
       })();
     </script>
     <script is:inline>
+      (function(){
+        try{
+          var US_TAGS = ["US","CA","PR"];
+          fetch("/api/geo").then(function(r){return r.json();}).then(function(d){
+            if(!d || US_TAGS.indexOf(d.country) === -1) return;
+            document.querySelectorAll('a[href*="amazon."]').forEach(function(a){
+              a.href = a.href
+                .replace("amazon.fr/dp", "amazon.com/dp")
+                .replace(/([?&])tag=[^&]*/, "$1tag=motivahub21-20");
+            });
+          }).catch(function(){});
+        }catch(e){}
+      })();
+    </script>
+    <script is:inline>
       window.trackAffiliateClick = function(bookId, bookTitle){
         var payload = {event:"affiliate_click", bookId: bookId, bookTitle: bookTitle, timestamp: new Date().toISOString()};
         try{console.debug("[affiliate_click]", payload);}catch(e){}
