@@ -1,5 +1,5 @@
 ---
-const { title = "Are you ready for the next level?", subtitle = "One letter each week. A single idea on mindset, discipline and the long ascent — delivered at dawn. No noise, no algorithms — just the idea." } = Astro.props;
+const { title = "Are you ready for the next level?", subtitle = "One letter each week. A single idea on mindset, discipline and the long ascent — delivered at dawn. No noise, no algorithms — just the idea.", showPdf = false } = Astro.props;
 ---
 
 <section class="newsletter">
@@ -7,10 +7,15 @@ const { title = "Are you ready for the next level?", subtitle = "One letter each
     <p class="kicker" data-i18n="newsletterKicker">The Daily Drive · Newsletter</p>
     <h2 data-i18n="newsletterTitle">{title}</h2>
     <p class="newsletter-sub" data-i18n="newsletterSubtitle">{subtitle}</p>
+    {showPdf && (
+      <div class="pdf-offer">
+        <p>🎁 <strong>Free:</strong> <a href="/30-days-discipline/">"30 Days of Discipline"</a> — a printable guide to build unshakable habits.</p>
+      </div>
+    )}
     <form class="newsletter-form" id="newsletter-form" novalidate>
       <input type="text" name="name" placeholder="Name (optional)" data-i18n-placeholder="newsletterName" aria-label="Name" autocomplete="name" />
       <input type="email" name="email" placeholder="Your email address *" data-i18n-placeholder="newsletterEmail" aria-label="Email address" required autocomplete="email" />
-      <button type="submit" class="btn-pill btn-pill-cream" data-i18n="newsletterBtn">Subscribe</button>
+      <button type="submit" class="btn-pill btn-pill-cream" data-i18n="newsletterBtn">{showPdf ? "Get the Free PDF" : "Subscribe"}</button>
     </form>
     <p id="newsletter-msg" class="newsletter-note" aria-live="polite"></p>
     <p class="newsletter-note" data-i18n="newsletterNoSpam">No spam. Unsubscribe anytime.</p>
