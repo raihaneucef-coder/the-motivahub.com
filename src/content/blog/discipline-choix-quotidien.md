@@ -3,7 +3,7 @@ title: "Discipline Is a Choice You Make Every Single Day"
 description: "Discipline is not a trait you are born with. It is a choice you make daily. Learn how to choose discipline over comfort, again and again."
 pubDate: 2026-08-24
 readTime: "6 MIN"
-image: "/images/blog/discipline-choix-quotidien.svg"
+image: "/images/blog/discipline-choix-quotidien.jpg"
 topic: "Discipline"
 ---
 

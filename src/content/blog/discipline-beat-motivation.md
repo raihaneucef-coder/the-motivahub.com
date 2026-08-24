@@ -3,7 +3,7 @@ title: "Discipline Beats Motivation — Every Single Time"
 description: "Motivation is a visitor. Discipline is a resident. Learn why relying on motivation guarantees failure and how to build discipline instead."
 pubDate: 2026-08-24
 readTime: "5 MIN"
-image: "/images/blog/discipline-beat-motivation.svg"
+image: "/images/blog/discipline-beat-motivation.jpg"
 topic: "Discipline"
 ---
 

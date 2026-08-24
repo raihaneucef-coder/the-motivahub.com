@@ -3,7 +3,7 @@ title: "How to Break a Bad Habit — The Reverse Four Laws"
 description: "Want to quit smoking, stop procrastinating, or eliminate junk food? Use the reverse four laws to break any bad habit permanently."
 pubDate: 2026-08-24
 readTime: "6 MIN"
-image: "/images/blog/casser-mauvaise-habitude.svg"
+image: "/images/blog/casser-mauvaise-habitude.jpg"
 topic: "Habits"
 ---
 

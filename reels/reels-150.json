@@ -1,0 +1,3152 @@
+[
+  {
+    "id": 1,
+    "categorie": "mindset",
+    "hook": "Ton pire ennemi dort en toi",
+    "textes": [
+      "0-5s: Ton pire ennemi ne te regarde pas dans le miroir.",
+      "5-10s: Il murmure: 'tu le feras demain'.",
+      "10-15s: Marcus Aurèle l'a dit il y a 2000 ans.",
+      "15-20s: Tu peux choisir d'agir aujourd'hui."
+    ],
+    "cta": "Sauvegarde ce reel pour ton prochain doute",
+    "fond": "silhouette face à une fenêtre au lever du soleil",
+    "musique": "piano cinématique sombre",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicisme",
+      "#mindset",
+      "#marcusaurele"
+    ]
+  },
+  {
+    "id": 2,
+    "categorie": "discipline",
+    "hook": "La motivation ment, la discipline non",
+    "textes": [
+      "0-5s: La motivation est une émotion.",
+      "5-10s: Les émotions disparaissent.",
+      "10-15s: La discipline reste quand tout s'écroule.",
+      "15-20s: Entraîne-la comme un muscle."
+    ],
+    "cta": "Le guide complet dans la bio",
+    "fond": "coureur sous la pluie, plan rapproché",
+    "musique": "beat épique montant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#davidgoggins",
+      "#mental",
+      "#entrainement"
+    ]
+  },
+  {
+    "id": 3,
+    "categorie": "mindset",
+    "hook": "Personne ne vient te sauver",
+    "textes": [
+      "0-5s: Personne ne viendra te sauver.",
+      "5-10s: Pas de héros. Pas de signe. Pas de chance.",
+      "10-15s: Juste toi, face à tes choix.",
+      "15-20s: C'est une bonne nouvelle: tu es assez fort."
+    ],
+    "cta": "Partage avec quelqu'un qui doit l'entendre",
+    "fond": "homme seul marchant dans une rue vide de nuit",
+    "musique": "nappe ambient intense",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#responsabilite",
+      "#mental",
+      "#forceinterieure"
+    ]
+  },
+  {
+    "id": 4,
+    "categorie": "discipline",
+    "hook": "5h du matin: le secret des forts",
+    "textes": [
+      "0-5s: 5h du matin. Le monde dort.",
+      "5-10s: Toi tu bosses pendant qu'ils rêvent.",
+      "10-15s: Pas de magie. Du sacrifice.",
+      "15-20s: Chaque matin gagné = une vie changée."
+    ],
+    "cta": "Abonne-toi pour ta routine du matin",
+    "fond": "réveil affichant 5h00, lumière bleutée",
+    "musique": "beat lent et lourd",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#5hdam",
+      "#routine",
+      "#reveildur"
+    ]
+  },
+  {
+    "id": 5,
+    "categorie": "mindset",
+    "hook": "Ta zone de confort te tue lentement",
+    "textes": [
+      "0-5s: Ta zone de confort est un piège doux.",
+      "5-10s: Elle te promet la sécurité.",
+      "10-15s: Elle te vole ta vie, jour après jour.",
+      "15-20s: L'inconfort, c'est là que tu grandis."
+    ],
+    "cta": "Enregistre pour t'en souvenir",
+    "fond": "plongeur sautant dans l'inconnu, falaise",
+    "musique": "montée cinématique avec drop",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#zonecomfort",
+      "#courage",
+      "#evolution"
+    ]
+  },
+  {
+    "id": 6,
+    "categorie": "discipline",
+    "hook": "Tu n'as pas besoin de plus de temps",
+    "textes": [
+      "0-5s: 'Je n'ai pas le temps' est un mensonge.",
+      "5-10s: Tu as le temps pour les réseaux sociaux.",
+      "10-15s: Le problème n'est pas ton agenda.",
+      "15-20s: C'est tes priorités."
+    ],
+    "cta": "Partage à quelqu'un qui procrastine",
+    "fond": "time-lapse d'une ville jour/nuit",
+    "musique": "beat urbain minimaliste",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#gestiondutemps",
+      "#priorites",
+      "#focus"
+    ]
+  },
+  {
+    "id": 7,
+    "categorie": "mindset",
+    "hook": "Goggins appelait ça la pièce 40%",
+    "textes": [
+      "0-5s: Quand tu crois être fini…",
+      "5-10s: David Goggins dit: t'es à 40%.",
+      "10-15s: Ton mental abandonne avant ton corps.",
+      "15-20s: Va chercher les 60% restants."
+    ],
+    "cta": "Le guide complet dans la bio",
+    "fond": "soldat courant avec sac sur la plage",
+    "musique": "beat militaire intense",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#goggins",
+      "#40rule",
+      "#endurance"
+    ]
+  },
+  {
+    "id": 8,
+    "categorie": "discipline",
+    "hook": "Les excuses paient en monnaie de regret",
+    "textes": [
+      "0-5s: Chaque excuse a un prix.",
+      "5-10s: Ce prix, c'est ton avenir.",
+      "10-15s: Dans 5 ans, tu paieras les intérêts.",
+      "15-20s: Arrête d'emprunter à ta future version."
+    ],
+    "cta": "Sauvegarde avant de trouver une excuse",
+    "fond": "horloge sablier sur fond noir",
+    "musique": "violons tendus cinématiques",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#excuses",
+      "#regret",
+      "#futur"
+    ]
+  },
+  {
+    "id": 9,
+    "categorie": "mindset",
+    "hook": "Stoïcien: contrôle ou subis",
+    "textes": [
+      "0-5s: Deux types de personnes.",
+      "5-10s: Celles qui contrôlent leur esprit.",
+      "10-15s: Et celles dont l'esprit les contrôle.",
+      "15-20s: Les stoïciens ont choisi depuis 2300 ans."
+    ],
+    "cta": "Follow pour plus de stoïcisme",
+    "fond": "statue antique en marbre, lumière dramatique",
+    "musique": "orchestre épique antique",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#stoicisme",
+      "#philosophie",
+      "#controle"
+    ]
+  },
+  {
+    "id": 10,
+    "categorie": "discipline",
+    "hook": "Froid du matin: ton premier duel",
+    "textes": [
+      "0-5s: L'eau froide ne se négocie pas.",
+      "5-10s: Elle teste ta volonté dès 6h.",
+      "10-15s: Si tu gagnes ce duel, tu gagnes la journée.",
+      "15-20s: Commence petit. Mais commence."
+    ],
+    "cta": "Tente le défi 7 jours, dis-moi en commentaire",
+    "fond": "douche froide vapeur, ralenti",
+    "musique": "beat minimaliste glacial",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#douchefroide",
+      "#coldshower",
+      "#defi"
+    ]
+  },
+  {
+    "id": 11,
+    "categorie": "mindset",
+    "hook": "Ton cerveau te protège de ta grandeur",
+    "textes": [
+      "0-5s: Ton cerveau déteste le changement.",
+      "5-10s: Il préfère te garder petit mais en sécurité.",
+      "10-15s: La peur n'est pas un danger réel.",
+      "15-20s: C'est juste la taille de ton rêve."
+    ],
+    "cta": "Partage ce reel à un rêveur",
+    "fond": "cerveau animé en 3D, impulsions électriques",
+    "musique": "ambient mystérieux montant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#cerveau",
+      "#peur",
+      "#grandir"
+    ]
+  },
+  {
+    "id": 12,
+    "categorie": "discipline",
+    "hook": "Jocko: 'Good' même quand tout va mal",
+    "textes": [
+      "0-5s: Perdu ton job? 'Good.'",
+      "5-10s: Blessé? 'Good.'",
+      "10-15s: Jocko Willink transforme chaque obstacle en arme.",
+      "15-20s: Et toi, que réponds-tu aux problèmes?"
+    ],
+    "cta": "Sauvegarde pour ton prochain échec",
+    "fond": "militaire sous la tempête, drapeau au vent",
+    "musique": "beat martial percussif",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#jockowillink",
+      "#good",
+      "#obstacle"
+    ]
+  },
+  {
+    "id": 13,
+    "categorie": "mindset",
+    "hook": "Tu deviens ce que tu regardes",
+    "textes": [
+      "0-5s: Tu regardes quoi tous les jours?",
+      "5-10s: Ton feed façonne ton esprit.",
+      "10-15s: Nourris-le de faiblesse, tu deviens faible.",
+      "15-20s: Nourris-le de force, tu deviens fort."
+    ],
+    "cta": "Abonne-toi pour nourrir ton mental",
+    "fond": "smartphone lumineux dans le noir, visage éclairé",
+    "musique": "beat sombre hypnotique",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#digitaldetox",
+      "#feed",
+      "#mentalhealth"
+    ]
+  },
+  {
+    "id": 14,
+    "categorie": "discipline",
+    "hook": "1% par jour change tout en un an",
+    "textes": [
+      "0-5s: Améliore-toi de 1% par jour.",
+      "5-10s: Ça paraît ridicule.",
+      "10-15s: En 365 jours: 37 fois mieux.",
+      "15-20s: Les petites actions créent des géants."
+    ],
+    "cta": "Le guide complet dans la bio",
+    "fond": "graine qui germe en time-lapse",
+    "musique": "piano inspirant croissant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#1percent",
+      "#progression",
+      "#habitudes"
+    ]
+  },
+  {
+    "id": 15,
+    "categorie": "mindset",
+    "hook": "L'échec est un prof, pas une fin",
+    "textes": [
+      "0-5s: Tu as échoué?",
+      "5-10s: Félicitations, tu essaies.",
+      "10-15s: L'échec est le prix de toute maîtrise.",
+      "15-20s: Celui qui n'échoue jamais ne tente rien."
+    ],
+    "cta": "Partage à quelqu'un qui vient d'échouer",
+    "fond": "boxeur relevant du tapis au ralenti",
+    "musique": "beat dramatique avec reprise",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#echec",
+      "#resilience",
+      "#relever"
+    ]
+  },
+  {
+    "id": 16,
+    "categorie": "discipline",
+    "hook": "Pas d'humeur? Fais-le quand même",
+    "textes": [
+      "0-5s: Tu attendras jamais le bon moment.",
+      "5-10s: Ni la bonne humeur.",
+      "10-15s: Les pros travaillent sans inspiration.",
+      "15-20s: Agis d'abord, la motivation suivra."
+    ],
+    "cta": "Sauvegarde pour ton prochain 'je suis pas motivé'",
+    "fond": "artiste travaillant tard le nuit, lampe allumée",
+    "musique": "lo-fi déterminé",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#action",
+      "#travail",
+      "#noprocrastination"
+    ]
+  },
+  {
+    "id": 17,
+    "categorie": "mindset",
+    "hook": "Compare-toi à ta version d'hier",
+    "textes": [
+      "0-5s: Comparer ta vie aux autres te détruit.",
+      "5-10s: Instagram montre le résumé, pas le film.",
+      "10-15s: Ton seul concurrent légitime:",
+      "15-20s: c'est toi hier."
+    ],
+    "cta": "Enregistre ce rappel",
+    "fond": "miroirs se faisant face, couloir infini",
+    "musique": "piano introspectif mélancolique",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#comparaison",
+      "#confianceensoi",
+      "#progression"
+    ]
+  },
+  {
+    "id": 18,
+    "categorie": "discipline",
+    "hook": "Ta parole doit devenir loi",
+    "textes": [
+      "0-5s: Tu promets quoi chaque soir?",
+      "5-10s: Demain je m'y mets. Sérieux cette fois.",
+      "10-15s: Ta parole perd du poids à chaque promesse brisée.",
+      "15-20s: Tiens une seule promesse. Aujourd'hui."
+    ],
+    "cta": "Commente ta promesse du jour",
+    "fond": "poignée de main serrée, gros plan",
+    "musique": "beat solennel cordes",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#promesse",
+      "#integrite",
+      "#parole"
+    ]
+  },
+  {
+    "id": 19,
+    "categorie": "mindset",
+    "hook": "Aurèle: l'obstacle EST le chemin",
+    "textes": [
+      "0-5s: 'L'obstacle est le chemin'. Marcus Aurèle.",
+      "5-10s: Ce qui te bloque te construit.",
+      "10-15s: Sans résistance, pas de muscle.",
+      "15-20s: Sans problème, pas de puissance."
+    ],
+    "cta": "Follow pour la sagesse stoïcienne",
+    "fond": "rocher fendu par une plante, ralenti",
+    "musique": "orchestral épique méditatif",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#marcusaurele",
+      "#stoicisme",
+      "#obstacle"
+    ]
+  },
+  {
+    "id": 20,
+    "categorie": "discipline",
+    "hook": "Le sport à 6h forge ton caractère",
+    "textes": [
+      "0-5s: Le sport du matin ne sculpte pas que le corps.",
+      "5-10s: Il sculpte ton caractère.",
+      "10-15s: Chaque répétition est une victoire mentale.",
+      "15-20s: Le corps suit toujours l'esprit."
+    ],
+    "cta": "Le programme complet dans la bio",
+    "fond": "salle de sport vide à l'aube",
+    "musique": "beat énergique motivation",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#sport",
+      "#fitness",
+      "#caractere"
+    ]
+  },
+  {
+    "id": 21,
+    "categorie": "mindset",
+    "hook": "Ta vie change quand tu en as marre",
+    "textes": [
+      "0-5s: Le déclic ne vient pas des livres.",
+      "5-10s: Il vient du ras-le-bol total.",
+      "10-15s: Le jour où tu dis 'assez', tout bascule.",
+      "15-20s: Est-ce aujourd'hui?"
+    ],
+    "cta": "Partage si c'est ton jour 1",
+    "fond": "allumette craquant en gros plan",
+    "musique": "montée tension puis explosion",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#declic",
+      "#changement",
+      "#jour1"
+    ]
+  },
+  {
+    "id": 22,
+    "categorie": "discipline",
+    "hook": "Ton téléphone vole tes 3 premières heures",
+    "textes": [
+      "0-5s: Première heure du jour: ton téléphone.",
+      "5-10s: Résultat: ton cerveau en mode réactif.",
+      "10-15s: Les premières heures décident de ta journée.",
+      "15-20s: Reprends-les. Sans exception."
+    ],
+    "cta": "Défi: pas de téléphone 1h au réveil",
+    "fond": "main attrapant smartphone sur table de chevet",
+    "musique": "beat alarmant puis calme",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#screenfree",
+      "#matin",
+      "#focus"
+    ]
+  },
+  {
+    "id": 23,
+    "categorie": "mindset",
+    "hook": "Sénèque: on perd la vie en l'attendant",
+    "textes": [
+      "0-5s: Sénèque disait:",
+      "5-10s: 'Nous ne manquons pas de temps, nous le perdons.'",
+      "10-15s: Chaque 'plus tard' est une petite mort.",
+      "15-20s: Vivre commence maintenant."
+    ],
+    "cta": "Sauvegarde cette citation",
+    "fond": "sablier renversé, sable doré",
+    "musique": "cordes classiques graves",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#seneca",
+      "#stoicisme",
+      "#temps"
+    ]
+  },
+  {
+    "id": 24,
+    "categorie": "discipline",
+    "hook": "Zéro jour vs jour parfait",
+    "textes": [
+      "0-5s: Oublie le jour parfait.",
+      "5-10s: Vise le 'zéro jour': rien fait du tout.",
+      "10-15s: Mieux vaut 10 minutes que rien.",
+      "15-20s: La chaîne ne doit jamais se casser."
+    ],
+    "cta": "Commente 'chaîne' pour t'engager",
+    "fond": "calendrier avec croix alignées",
+    "musique": "beat régulier métronome",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#habits",
+      "#consistance",
+      "#zeroday"
+    ]
+  },
+  {
+    "id": 25,
+    "categorie": "mindset",
+    "hook": "Le confort d'aujourd'hui coûte ton futur",
+    "textes": [
+      "0-5s: Un canapé peut coûter très cher.",
+      "5-10s: Il facture en rêves inachevés.",
+      "10-15s: Le confort d'aujourd'hui est une dette.",
+      "15-20s: Que ton futur toi te remercie."
+    ],
+    "cta": "Partage avec ton futur partenaire de réussite",
+    "fond": "canapé vide sous télé allumée, ambiance bleue",
+    "musique": "piano triste puis puissant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#comfort",
+      "#avenir",
+      "#choix"
+    ]
+  },
+  {
+    "id": 26,
+    "categorie": "discipline",
+    "hook": "Goggins s'appelle 'Monsieur Job'",
+    "textes": [
+      "0-5s: Goggins pesait 130 kilos.",
+      "5-10s: On l'a rejeté partout.",
+      "10-15s: Il est devenu Navy SEAL.",
+      "15-20s: Ton point de départ ne définit pas ton arrivée."
+    ],
+    "cta": "Son histoire complète dans la bio",
+    "fond": "course d'ultramarathon dans le désert",
+    "musique": "beat épique triomphant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#goggins",
+      "#navyseal",
+      "#transformation"
+    ]
+  },
+  {
+    "id": 27,
+    "categorie": "mindset",
+    "hook": "Epictète: ce sont tes jugements qui blessent",
+    "textes": [
+      "0-5s: Epictète, esclave devenu philosophe:",
+      "5-10s: 'Ce ne sont pas les événements qui nous troublent.'",
+      "10-15s: 'Mais nos jugements sur ces événements.'",
+      "15-20s: Reprends le contrôle de ton interprétation."
+    ],
+    "cta": "Follow pour plus de sagesse antique",
+    "fond": "colonnes antiques grecques au coucher du soleil",
+    "musique": "lyre et orchestre méditatif",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#epictete",
+      "#stoicisme",
+      "#sagesse"
+    ]
+  },
+  {
+    "id": 28,
+    "categorie": "discipline",
+    "hook": "Écris tes objectifs ou perds-les",
+    "textes": [
+      "0-5s: Un objectif non écrit est un souhait.",
+      "5-10s: Un souhait ne construit rien.",
+      "10-15s: Écris-le. Lis-le chaque matin.",
+      "15-20s: Ce que l'œil voit, le corps y va."
+    ],
+    "cta": "Prends une photo de tes objectifs maintenant",
+    "fond": "stylo écrivant sur carnet, lumière chaude",
+    "musique": "beat concentré minimal",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#objectifs",
+      "#planning",
+      "#ecriture"
+    ]
+  },
+  {
+    "id": 29,
+    "categorie": "mindset",
+    "hook": "Le silence des vainqueurs dérange",
+    "textes": [
+      "0-5s: Ils parlent moins. Ils font plus.",
+      "5-10s: Le silence travaille mieux que le bruit.",
+      "10-15s: Annonce tes résultats, pas tes plans.",
+      "15-20s: Laisse le travail parler."
+    ],
+    "cta": "Sauvegarde et passe à l'action en silence",
+    "fond": "loup seul dans la neige, regard caméra",
+    "musique": "ambient sombre animal",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#silence",
+      "#travail",
+      "#alpha"
+    ]
+  },
+  {
+    "id": 30,
+    "categorie": "discipline",
+    "hook": "Lève-toi à la première sonnerie",
+    "textes": [
+      "0-5s: Chaque snooze est une petite reddition.",
+      "5-10s: Tu entraînes ton cerveau à fuir.",
+      "10-15s: Debout à la première sonnerie.",
+      "15-20s: La journée commence par cette victoire."
+    ],
+    "cta": "Relevez le défi 7 jours, commente GO",
+    "fond": "pieds touchant le sol froid au réveil",
+    "musique": "beat réveil progressif",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#reveil",
+      "#snooze",
+      "#victoire"
+    ]
+  },
+  {
+    "id": 31,
+    "categorie": "mindset",
+    "hook": "Ta peur est un menteur professionnel",
+    "textes": [
+      "0-5s: Ta peur te raconte des histoires.",
+      "5-10s: 'Tu vas échouer. Tout le monde va rire.'",
+      "10-15s: 90% de ses scénarios n'arrivent jamais.",
+      "15-20s: Interroge-la. Elle craque."
+    ],
+    "cta": "Partage ce reel à quelqu'un qui hésite",
+    "fond": "personne devant une porte massive entrouverte",
+    "musique": "tension cinématique libérée",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#peur",
+      "#courage",
+      "#verite"
+    ]
+  },
+  {
+    "id": 32,
+    "categorie": "discipline",
+    "hook": "Willink: discipline égale liberté",
+    "textes": [
+      "0-5s: Tu crois que la discipline t'enferme?",
+      "5-10s: Jocko Willink dit le contraire.",
+      "10-15s: Discipline égale liberté.",
+      "15-20s: Structuré, tu deviens libre vraiment."
+    ],
+    "cta": "Le guide complet dans la bio",
+    "fond": "plan serré horloge et main qui écrit",
+    "musique": "beat autoritaire cadencé",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#jockowillink",
+      "#liberte",
+      "#structure"
+    ]
+  },
+  {
+    "id": 33,
+    "categorie": "mindset",
+    "hook": "Personne ne pense autant à toi",
+    "textes": [
+      "0-5s: Tu as peur du jugement des autres?",
+      "5-10s: Nouvelle: ils n'y pensent même pas.",
+      "10-15s: Chacun est occupé avec ses propres peurs.",
+      "15-20s: Vis libre. Personne ne regarde vraiment."
+    ],
+    "cta": "Libère quelqu'un: partage ce reel",
+    "fond": "foule floue en time-lapse, un visage net",
+    "musique": "piano libéré aérien",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#jugement",
+      "#liberte",
+      "#confiance"
+    ]
+  },
+  {
+    "id": 34,
+    "categorie": "discipline",
+    "hook": "Prépare ta veille, gagne ta journée",
+    "textes": [
+      "0-5s: Les matinaux gagnent la veille au soir.",
+      "5-10s: Vêtements prêts. Sac prêt. Plan écrit.",
+      "10-15s: Zéro décision le matin = zéro friction.",
+      "15-20s: La victoire se prépare à 22h."
+    ],
+    "cta": "Sauvegarde ta routine du soir",
+    "fond": "sac de sport préparé sous lampe",
+    "musique": "beat calme méthodique",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#routine",
+      "#organisation",
+      "#soir"
+    ]
+  },
+  {
+    "id": 35,
+    "categorie": "mindset",
+    "hook": "Le doute tue plus de rêves que l'échec",
+    "textes": [
+      "0-5s: L'échec a tué moins de rêves que le doute.",
+      "5-10s: Combien d'idées mortes avant de commencer?",
+      "10-15s: Le doute se nourrit de l'inaction.",
+      "15-20s: Agis, il s'affame."
+    ],
+    "cta": "Enregistre contre ton prochain doute",
+    "fond": "brouillard qui se dissipe sur montagne",
+    "musique": "ambient montée claire",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#doute",
+      "#action",
+      "#clarte"
+    ]
+  },
+  {
+    "id": 36,
+    "categorie": "discipline",
+    "hook": "Dis non pour dire oui à ta mission",
+    "textes": [
+      "0-5s: Chaque oui est un non caché.",
+      "5-10s: Oui aux sorties = non à tes objectifs.",
+      "10-15s: Les forts savent refuser.",
+      "15-20s: Protège ton temps comme un trésor."
+    ],
+    "cta": "Apprends à dire non: bio",
+    "fond": "porte fermée avec assurance, main sur poignée",
+    "musique": "beat affirmé grave",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#direnon",
+      "#frontieres",
+      "#temps"
+    ]
+  },
+  {
+    "id": 37,
+    "categorie": "mindset",
+    "hook": "Tu n'es pas fatigué, tu es insatisfait",
+    "textes": [
+      "0-5s: Cette fatigue bizarre tous les jours?",
+      "5-10s: Ce n'est pas ton corps.",
+      "10-15s: C'est ton âme qui refuse ta routine.",
+      "15-20s: Change de direction, l'énergie revient."
+    ],
+    "cta": "Partage si tu te sens concerné",
+    "fond": "bureau nocturne, personne tête baissée",
+    "musique": "piano mélancolique vers espoir",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#fatigue",
+      "#sens",
+      "#energie"
+    ]
+  },
+  {
+    "id": 38,
+    "categorie": "discipline",
+    "hook": "Entraîne-toi les jours où tu ne veux pas",
+    "textes": [
+      "0-5s: Les jours faciles ne comptent pas.",
+      "5-10s: Ceux où tu ne veux pas: ils comptent double.",
+      "10-15s: C'est là que se forge le mental.",
+      "15-20s: Aujourd'hui compte double."
+    ],
+    "cta": "Va t'entraîner, on se retrouve après",
+    "fond": "coureur seul sous orage lointain",
+    "musique": "beat combatif montant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#training",
+      "#mental",
+      "#nofilter"
+    ]
+  },
+  {
+    "id": 39,
+    "categorie": "mindset",
+    "hook": "Memento mori: le temps presse",
+    "textes": [
+      "0-5s: Les stoïciens méditaient sur la mort.",
+      "5-10s: Pas par peur. Par lucidité.",
+      "10-15s: Un jour, il sera trop tard.",
+      "15-20s: Tant que ce n'est pas le cas: fonce."
+    ],
+    "cta": "Sauvegarde ce rappel essentiel",
+    "fond": "bougie qui se consume en ralenti",
+    "musique": "corde unique grave émotionnelle",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#mementomori",
+      "#stoicisme",
+      "#urgencedevivre"
+    ]
+  },
+  {
+    "id": 40,
+    "categorie": "discipline",
+    "hook": "Ton environnement décide de ta réussite",
+    "textes": [
+      "0-5s: Tu n'es pas paresseux.",
+      "5-10s: Ton environnement sabotage tes efforts.",
+      "10-15s: Télé visible = distraction assurée.",
+      "15-20s: Change le décor, le comportement suit."
+    ],
+    "cta": "3 astuces d'environnement dans la bio",
+    "fond": "bureau épuré vs bureau chaos, split screen",
+    "musique": "beat moderne net",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#environnement",
+      "#productivite",
+      "#setup"
+    ]
+  },
+  {
+    "id": 41,
+    "categorie": "mindset",
+    "hook": "Le talent est une excuse confortable",
+    "textes": [
+      "0-5s: 'Il a du talent, moi non.'",
+      "5-10s: Phrase préférée de ceux qui abandonnent.",
+      "10-15s: Le talent sans travail perd.",
+      "15-20s: Le travail sans talent gagne."
+    ],
+    "cta": "Partage à celui qui doute de son talent",
+    "fond": "artisan travaillant à la lueur d'une lampe",
+    "musique": "beat artisanal percussions",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#talent",
+      "#travail",
+      "#mythedutalent"
+    ]
+  },
+  {
+    "id": 42,
+    "categorie": "discipline",
+    "hook": "Marche 30 minutes, réfléchis mieux",
+    "textes": [
+      "0-5s: Les plus grands esprits marchaient.",
+      "5-10s: Nietzsche, Jobs, Aurèle.",
+      "10-15s: La marche débloque la pensée.",
+      "15-20s: 30 minutes sans téléphone. Essaie."
+    ],
+    "cta": "Marche aujourd'hui et raconte en commentaire",
+    "fond": "sentier forestier brumeux à l'aube",
+    "musique": "ambient nature apaisant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#marche",
+      "#clarte",
+      "#nature"
+    ]
+  },
+  {
+    "id": 43,
+    "categorie": "mindset",
+    "hook": "Sois dur avec toi, doux avec les autres",
+    "textes": [
+      "0-5s: La formule des hommes complets:",
+      "5-10s: Exigence maximale envers soi-même.",
+      "10-15s: Compassion maximale envers les autres.",
+      "15-20s: Jamais l'inverse."
+    ],
+    "cta": "Follow pour devenir ta meilleure version",
+    "fond": "montagne majestueuse, alpiniste minuscule",
+    "musique": "orchestral noble ascendant",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#exigence",
+      "#respect",
+      "#caractere"
+    ]
+  },
+  {
+    "id": 44,
+    "categorie": "discipline",
+    "hook": "Commence moche, perfectionne en route",
+    "textes": [
+      "0-5s: Ton début sera laid. Normal.",
+      "5-10s: Le perfectionnisme est de la peur déguisée.",
+      "10-15s: Publie, cours, crée avant d'être prêt.",
+      "15-20s: La version 2 existe grâce à la version 1."
+    ],
+    "cta": "Lance ton projet aujourd'hui: bio",
+    "fond": "brouillons froissés s'accumulant",
+    "musique": "beat créatif groovy",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#perfectionnisme",
+      "#creation",
+      "#commencer"
+    ]
+  },
+  {
+    "id": 45,
+    "categorie": "mindset",
+    "hook": "Amhose: ton passé ne définit pas ton futur",
+    "textes": [
+      "0-5s: Ton passé est une leçon.",
+      "5-10s: Pas une sentence.",
+      "10-15s: Chaque matin efface l'ardoise.",
+      "15-20s: Qui decides-tu d'être aujourd'hui?"
+    ],
+    "cta": "Tourne la page: partage ce reel",
+    "fond": "pages de livre envolées au vent",
+    "musique": "piano renaissance espérance",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#passe",
+      "#renaissance",
+      "#nouveaudepart"
+    ]
+  },
+  {
+    "id": 46,
+    "categorie": "discipline",
+    "hook": "Le corps suit l'esprit, jamais l'inverse",
+    "textes": [
+      "0-5s: Tu veux un corps différent?",
+      "5-10s: Construis d'abord un esprit différent.",
+      "10-15s: Chaque choix mental sculpte ton physique.",
+      "15-20s: L'esprit commande, le corps exécute."
+    ],
+    "cta": "Programme mental+physique dans la bio",
+    "fond": "haltère soulevé au ralenti, sueur",
+    "musique": "beat musclé sombre",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#bodymind",
+      "#fitness",
+      "#esprit"
+    ]
+  },
+  {
+    "id": 47,
+    "categorie": "mindset",
+    "hook": "L'ennui d'aujourd'hui bâtit ton lendemain",
+    "textes": [
+      "0-5s: La réussite est ennuyeuse.",
+      "5-10s: Répéter les mêmes actions. Tous les jours.",
+      "10-15s: Pas de spectacle. Juste des résultats.",
+      "15-20s: Accepte l'ennui, récolte la gloire."
+    ],
+    "cta": "Sauvegarde pour les jours sans éclat",
+    "fond": "usine fonctionnant la nuit, machines régulières",
+    "musique": "beat répétitif hypnotique",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#routine",
+      "#ennui",
+      "#resultats"
+    ]
+  },
+  {
+    "id": 48,
+    "categorie": "discipline",
+    "hook": "Mesure-toi, sinon tu te mens",
+    "textes": [
+      "0-5s: Ce qui n'est pas mesuré s'améliore jamais.",
+      "5-10s: Ton poids. Tes économies. Tes heures.",
+      "10-15s: Les chiffres ne flattent pas, ils révèlent.",
+      "15-20s: Affronte tes stats cette semaine."
+    ],
+    "cta": "Télécharge le tracker gratuit en bio",
+    "fond": "graphiques dessinés sur tableau blanc",
+    "musique": "beat analytique précis",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#mesure",
+      "#tracking",
+      "#progression"
+    ]
+  },
+  {
+    "id": 49,
+    "categorie": "mindset",
+    "hook": "Deviens l'homme que ton enfant admire",
+    "textes": [
+      "0-5s: Une question pour les pères et mères:",
+      "5-10s: Ton enfant copiera qui exactement?",
+      "10-15s: Sois l'exemple que tu voudrais voir.",
+      "15-20s: Ta discipline devient leur normalité."
+    ],
+    "cta": "Partage à un parent qui se bat",
+    "fond": "enfant imitant parent qui s'étire au salon",
+    "musique": "piano émotionnel chaleureux",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#parent",
+      "#exemple",
+      "#famille"
+    ]
+  },
+  {
+    "id": 50,
+    "categorie": "discipline",
+    "hook": "Dans 1 an tu aurais souhaité commencer",
+    "textes": [
+      "0-5s: Projection dans 1 an.",
+      "5-10s: Deux versions de toi existent.",
+      "10-15s: Celle qui a commencé aujourd'hui.",
+      "15-20s: Et celle qui regrette. Choisis maintenant."
+    ],
+    "cta": "Commence aujourd'hui: bio",
+    "fond": "deux chemins qui bifurquent dans la brume",
+    "musique": "beat final épique décisif",
+    "hashtags": [
+      "#motivation",
+      "#discipline",
+      "#unan",
+      "#choix",
+      "#commenceraujourdhui"
+    ]
+  },
+  {
+    "id": 51,
+    "categorie": "sport",
+    "hook": "Ta motivation est une excuse.",
+    "textes": [
+      "0-5s: Tu attends d'avoir envie ?",
+      "5-10s: Goggins n'a jamais attendu.",
+      "10-15s: Il s'est levé. Point.",
+      "15-20s: La discipline bat la motivation."
+    ],
+    "cta": "Suis-nous pour ta dose de discipline",
+    "fond": "salle de sport sombre, halteroies lourdes",
+    "musique": "beat intense gym",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#davidgoggins",
+      "#discipline",
+      "#motivation"
+    ]
+  },
+  {
+    "id": 52,
+    "categorie": "habits",
+    "hook": "1% par jour. 37x en un an.",
+    "textes": [
+      "0-5s: Tu n'as pas besoin d'un grand changement.",
+      "5-10s: Juste 1% mieux chaque jour.",
+      "10-15s: 1.01^365 = 37.78",
+      "15-20s: Les petites actions composent."
+    ],
+    "cta": "Sauvegarde ce reel pour t'en souvenir",
+    "fond": "lever de soleil sur la ville",
+    "musique": "ambiance montante motivante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#atomichabits",
+      "#1pct",
+      "#croissancepersonnelle"
+    ]
+  },
+  {
+    "id": 53,
+    "categorie": "sport",
+    "hook": "La douleur te fabrique.",
+    "textes": [
+      "0-5s: Cette brûlure dans tes muscles ?",
+      "5-10s: Ce n'est pas de la souffrance.",
+      "10-15s: C'est ta transformation.",
+      "15-20s: Grandis dedans."
+    ],
+    "cta": "Partage à quelqu'un qui s'entraîne dur",
+    "fond": "athlète épuisé sous la pluie",
+    "musique": "beat dramatique cinématique",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#nocomplaints",
+      "#mentalgagnant",
+      "#sport"
+    ]
+  },
+  {
+    "id": 54,
+    "categorie": "habits",
+    "hook": "La règle des 2 minutes change tout.",
+    "textes": [
+      "0-5s: Trop fatigué pour commencer ?",
+      "5-10s: Fais-le juste 2 minutes.",
+      "10-15s: Commencer est le vrai obstacle.",
+      "15-20s: Le reste suit naturellement."
+    ],
+    "cta": "Le guide complet dans la bio",
+    "fond": "bureau minimaliste au petit matin",
+    "musique": "lo-fi calme et motivant",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#regle2minutes",
+      "#jamesclear",
+      "#productivite"
+    ]
+  },
+  {
+    "id": 55,
+    "categorie": "sport",
+    "hook": "Personne ne vient sauver ton corps.",
+    "textes": [
+      "0-5s: Pas de coach magique.",
+      "5-10s: Pas de shortcut.",
+      "10-15s: Juste toi face à toi.",
+      "15-20s: Lève-toi et va t'entraîner."
+    ],
+    "cta": "Enregistre pour ton prochain manque de motivation",
+    "fond": "homme seul courant à l'aube",
+    "musique": "beat intense gym",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#solodiscipline",
+      "#training",
+      "#mindset"
+    ]
+  },
+  {
+    "id": 56,
+    "categorie": "habits",
+    "hook": "Tu ne rates pas. Tu t'entraînes à échouer.",
+    "textes": [
+      "0-5s: Chaque fois que tu reportes...",
+      "5-10s: ...tu renforces cette habitude.",
+      "10-15s: Chaque fois que tu agis...",
+      "15-20s: ...tu deviens cette personne."
+    ],
+    "cta": "Suis-nous pour plus de clarté",
+    "fond": "chambre au réveil, draps froissés",
+    "musique": "ambiance montante motivante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#atomichabits",
+      "#identity",
+      "#routine"
+    ]
+  },
+  {
+    "id": 57,
+    "categorie": "sport",
+    "hook": "Courir sans motivation : le vrai secret.",
+    "textes": [
+      "0-5s: Les pros ne sentent pas toujours prêts.",
+      "5-10s: Ils courent quand même.",
+      "10-15s: L'action crée la motivation.",
+      "15-20s: Jamais l'inverse."
+    ],
+    "cta": "Partage avec ton partenaire de course",
+    "fond": "course sous la pluie, rues désertes",
+    "musique": "beat rythmé course",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#running",
+      "#courir",
+      "#discipline"
+    ]
+  },
+  {
+    "id": 58,
+    "categorie": "habits",
+    "hook": "Ton environnement décide avant toi.",
+    "textes": [
+      "0-5s: Tu manques de volonté ?",
+      "5-10s: Non, tu manques d'environnement.",
+      "10-15s: Livre visible = lecture facile.",
+      "15-20s: Télé visible = distraction garantie."
+    ],
+    "cta": "Sauvegarde et réorganise ta chambre ce soir",
+    "fond": "intérieur rangé vs désordonné",
+    "musique": "lo-fi calme et motivant",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#environnement",
+      "#jamesclear",
+      "#focus"
+    ]
+  },
+  {
+    "id": 59,
+    "categorie": "sport",
+    "hook": "40% de plus t'attend en toi.",
+    "textes": [
+      "0-5s: Quand tu crois avoir fini...",
+      "5-10s: ...il te reste 60% d'énergie.",
+      "10-15s: C'est la règle des 40%.",
+      "15-20s: Ton mental te ment."
+    ],
+    "cta": "Le guide complet dans la bio",
+    "fond": "soldat courant dans le sable, style Goggins",
+    "musique": "beat militaire intense",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#davidgoggins",
+      "#regle40",
+      "#mental"
+    ]
+  },
+  {
+    "id": 60,
+    "categorie": "habits",
+    "hook": "Empile tes habitudes comme un pro.",
+    "textes": [
+      "0-5s: Après mon café, je lis 1 page.",
+      "5-10s: Après ma douche, je médite 2 min.",
+      "10-15s: Nouvelle habitude = ancrée sur l'ancienne.",
+      "15-20s: Ça s'appelle le habit stacking."
+    ],
+    "cta": "Suis-nous pour construire ta routine",
+    "fond": "routine matinale, café qui coule",
+    "musique": "ambiance douce et montante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#habitstacking",
+      "#routinematinale",
+      "#atomichabits"
+    ]
+  },
+  {
+    "id": 61,
+    "categorie": "sport",
+    "hook": "Ton corps entend tout ce que ton mental dit.",
+    "textes": [
+      "0-5s: 'Je peux pas' = tu ne peux pas.",
+      "5-10s: 'Je continue' = tu continues.",
+      "10-15s: Tes mots programment tes muscles.",
+      "15-20s: Parle-toi comme un champion."
+    ],
+    "cta": "Partage à qui a besoin de l'entendre",
+    "fond": "haltérophile criant sous la barre",
+    "musique": "beat épique montée",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#mentalite",
+      "#selftalk",
+      "#gym"
+    ]
+  },
+  {
+    "id": 62,
+    "categorie": "habits",
+    "hook": "Ne vise pas la perfection. Vise souvent.",
+    "textes": [
+      "0-5s: 30 min une fois par mois ?",
+      "5-10s: Ou 5 min chaque jour ?",
+      "10-15s: La fréquence bat l'intensité.",
+      "15-20s: La régularité est ton super-pouvoir."
+    ],
+    "cta": "Sauvegarde ce reel",
+    "fond": "calendrier avec croix quotidiennes",
+    "musique": "ambiance motivante douce",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#regularite",
+      "#consistency",
+      "#progression"
+    ]
+  },
+  {
+    "id": 63,
+    "categorie": "sport",
+    "hook": "Le squat ne négocie pas.",
+    "textes": [
+      "0-5s: Tu peux mentir à tout le monde.",
+      "5-10s: Sauf à la barre.",
+      "10-15s: Elle monte ou elle ne monte pas.",
+      "15-20s: La vérité est dans tes reps."
+    ],
+    "cta": "Enregistre pour ta prochaine séance jambes",
+    "fond": "squats profonds en salle sombre",
+    "musique": "beat intense gym",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#squat",
+      "#legday",
+      "#honestwork"
+    ]
+  },
+  {
+    "id": 64,
+    "categorie": "habits",
+    "hook": "Ta routine du matin commence la veille.",
+    "textes": [
+      "0-5s: Tu veux un matin productif ?",
+      "5-10s: Prépare tout ce soir.",
+      "10-15s: Vêtements, sac, objectifs écrits.",
+      "15-20s: Demain sera déjà gagné."
+    ],
+    "cta": "Le guide complet dans la bio",
+    "fond": "préparation du sac la nuit, lumière chaude",
+    "musique": "ambiance calme nocturne",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#routinematinale",
+      "#preparation",
+      "#eveningroutine"
+    ]
+  },
+  {
+    "id": 65,
+    "categorie": "sport",
+    "hook": "6h du mat : là où tout se joue.",
+    "textes": [
+      "0-5s: Pendant que la ville dort...",
+      "5-10s: ...quelques fous s'entraînent.",
+      "10-15s: Ils ne sont pas spéciaux.",
+      "15-20s: Ils ont juste arrêté de négocier."
+    ],
+    "cta": "Rejoins le club : suis-nous",
+    "fond": "ville endormie vue du haut, sportif qui court",
+    "musique": "beat montante aube",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#5amclub",
+      "#earlymorning",
+      "#discipline"
+    ]
+  },
+  {
+    "id": 66,
+    "categorie": "habits",
+    "hook": "Rends mauvais = impossible.",
+    "textes": [
+      "0-5s: Télé dans un tiroir.",
+      "5-10s: Junk food hors de la maison.",
+      "10-15s: Réduis la friction des bonnes habitudes.",
+      "15-20s: Augmente celle des mauvaises."
+    ],
+    "cta": "Sauvegarde et applique ce soir",
+    "fond": "téléphone posé loin, livre ouvert",
+    "musique": "lo-fi concentré",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#friction",
+      "#jamesclear",
+      "#focus"
+    ]
+  },
+  {
+    "id": 67,
+    "categorie": "sport",
+    "hook": "Transpirer maintenant ou regretter plus tard.",
+    "textes": [
+      "0-5s: Deux choix s'offrent à toi.",
+      "5-10s: 45 min d'inconfort aujourd'hui.",
+      "10-15s: Ou des années de regrets.",
+      "15-20s: Choisis ta souffrance."
+    ],
+    "cta": "Choisis bien : partage ce reel",
+    "fond": "deux chemins, un vers le canapé, un vers la salle",
+    "musique": "beat dramatique tension",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#choix",
+      "#noregrets",
+      "#gym"
+    ]
+  },
+  {
+    "id": 68,
+    "categorie": "habits",
+    "hook": "Ton téléphone vole ta vie, 4h par jour.",
+    "textes": [
+      "0-5s: 4 heures par jour d'écran.",
+      "5-10s: Ça fait 2 mois par an.",
+      "10-15s: Imagine ce que tu pourrais bâtir.",
+      "15-20s: Reprends le contrôle."
+    ],
+    "cta": "Le guide anti-distraction dans la bio",
+    "fond": "écran de temps d'utilisation, regard sérieux",
+    "musique": "beat sombre montant",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#screenaddiction",
+      "#detoxdigitale",
+      "#temps"
+    ]
+  },
+  {
+    "id": 69,
+    "categorie": "sport",
+    "hook": "Goggins appelait ça la zone d'inconfort.",
+    "textes": [
+      "0-5s: Tout le monde veut des résultats.",
+      "5-10s: Presque personne veut l'inconfort.",
+      "10-15s: Les résultats vivent chez lui.",
+      "15-20s: Va les chercher."
+    ],
+    "cta": "Suis-nous si tu es différent",
+    "fond": "course extrême en montagne, vent fort",
+    "musique": "beat épique cinématique",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#davidgoggins",
+      "#inconfort",
+      "#ultra"
+    ]
+  },
+  {
+    "id": 70,
+    "categorie": "habits",
+    "hook": "Ne casse pas la chaîne.",
+    "textes": [
+      "0-5s: Chaque jour accompli = une croix.",
+      "5-10s: Au bout de 10 jours, tu as une chaîne.",
+      "10-15s: Soudain, tu ne veux plus la casser.",
+      "15-20s: C'est ça, la puissance visuelle."
+    ],
+    "cta": "Télécharge le tracker dans la bio",
+    "fond": "calendrier mural rempli de croix",
+    "musique": "ambiance motivante progressive",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#streak",
+      "#tracker",
+      "#consistency"
+    ]
+  },
+  {
+    "id": 71,
+    "categorie": "sport",
+    "hook": "Les excuses pèsent plus que la fonte.",
+    "textes": [
+      "0-5s: Trop occupé. Trop fatigué.",
+      "5-10s: Trop tard. Pas assez équipé.",
+      "10-15s: Tes excuses soulèvent zéro kilo.",
+      "15-20s: Dépose-les. Soulève la barre."
+    ],
+    "cta": "Partage à celui qui trouve toujours une excuse",
+    "fond": "barre chargée de poids lourds",
+    "musique": "beat intense gym",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#noexcuses",
+      "#gymrat",
+      "#irontherapy"
+    ]
+  },
+  {
+    "id": 72,
+    "categorie": "habits",
+    "hook": "Deviens la personne qui n'y arrive pas... enfin.",
+    "textes": [
+      "0-5s: Arrête de courir après un objectif.",
+      "5-10s: Deviens le type d'identité qui l'atteint.",
+      "10-15s: 'Je suis lecteur' > 'je dois lire'.",
+      "15-20s: L'identité drive l'action."
+    ],
+    "cta": "Sauvegarde pour changer d'identité",
+    "fond": "miroir, reflet déterminé",
+    "musique": "ambiance introspective montante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#identite",
+      "#jamesclear",
+      "#transformation"
+    ]
+  },
+  {
+    "id": 73,
+    "categorie": "sport",
+    "hook": "Le repos compte double.",
+    "textes": [
+      "0-5s: Croissance musculaire = entraînement + sommeil.",
+      "5-10s: Dormir 8h n'est pas de la paresse.",
+      "10-15s: C'est là que tu grandis.",
+      "15-20s: Récupère comme un athlète."
+    ],
+    "cta": "Le guide récupération dans la bio",
+    "fond": "lit propre, réveil silencieux, nuit calme",
+    "musique": "ambiance apaisante profonde",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#sommeil",
+      "#recovery",
+      "#restday"
+    ]
+  },
+  {
+    "id": 74,
+    "categorie": "habits",
+    "hook": "5 secondes avant que ton cerveau sabote.",
+    "textes": [
+      "0-5s: Une idée d'action apparaît.",
+      "5-10s: Tu as 5 secondes avant l'excuse.",
+      "10-15s: Compte 5-4-3-2-1. Bouge.",
+      "15-20s: Agis avant de réfléchir trop."
+    ],
+    "cta": "Teste-la maintenant : suis-nous",
+    "fond": "réveil sonnant, main qui sort du lit immédiatement",
+    "musique": "beat rapide et net",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#regle5secondes",
+      "#action",
+      "#melrobbins"
+    ]
+  },
+  {
+    "id": 75,
+    "categorie": "sport",
+    "hook": "Tu ne détestes pas le sport. Tu détestes commencer.",
+    "textes": [
+      "0-5s: Les 3 premières minutes ? Horribles.",
+      "5-10s: Ensuite, l'endorphine prend le relais.",
+      "10-15s: Traverse juste le début.",
+      "15-20s: La fin est toujours meilleure."
+    ],
+    "cta": "Envoie ça à quelqu'un qui doit commencer",
+    "fond": "début de course difficile puis sourire",
+    "musique": "montante euphorisante",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#startnow",
+      "#endorphine",
+      "#cardio"
+    ]
+  },
+  {
+    "id": 76,
+    "categorie": "habits",
+    "hook": "Une page par jour = 12 livres par an.",
+    "textes": [
+      "0-5s: Une page avant de dormir.",
+      "5-10s: Ça semble ridicule, non ?",
+      "10-15s: 365 pages plus tard...",
+      "15-20s: ...c'est 3 à 12 livres lus."
+    ],
+    "cta": "Sauvegarde et commence ce soir",
+    "fond": "lampe de chevet, livre ouvert",
+    "musique": "lo-fi paisible",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#lecture",
+      "#petiteshabitudes",
+      "#lecturequotidienne"
+    ]
+  },
+  {
+    "id": 77,
+    "categorie": "sport",
+    "hook": "Compare-toi à hier. Pas aux autres.",
+    "textes": [
+      "0-5s: Quelqu'un lève plus lourd que toi ?",
+      "5-10s: Et alors.",
+      "10-15s: Ta seule compétition : ta version d'hier.",
+      "15-20s: Bat-la aujourd'hui."
+    ],
+    "cta": "Partage à ton rival préféré : toi-même",
+    "fond": "miroir de salle de sport, reflet pendant l'effort",
+    "musique": "beat motivant personnel",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#progres",
+      "#comparison",
+      "#betteryou"
+    ]
+  },
+  {
+    "id": 78,
+    "categorie": "habits",
+    "hook": "Ta journée se joue avant 9h.",
+    "textes": [
+      "0-5s: Réveille-toi sans snoozer.",
+      "5-10s: Bouge ton corps 10 minutes.",
+      "10-15s: Écris 3 priorités.",
+      "15-20s: Tu viens de gagner ta journée."
+    ],
+    "cta": "Le plan matinal complet dans la bio",
+    "fond": "lever de soleil vu d'une fenêtre, café fumant",
+    "musique": "ambiance montante inspirante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#morningroutine",
+      "#matin",
+      "#wintheday"
+    ]
+  },
+  {
+    "id": 79,
+    "categorie": "sport",
+    "hook": "Zéro jour zéro.",
+    "textes": [
+      "0-5s: Pas le temps pour la salle ?",
+      "5-10s: 10 pompes. 20 squats. Fini.",
+      "10-15s: L'important : aucun jour à zéro.",
+      "15-20s: Le minimum vaut mille fois rien fait."
+    ],
+    "cta": "Sauvegarde pour tes jours difficiles",
+    "fond": "salon, tapis de sol, push-ups rapides",
+    "musique": "beat minimal efficace",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#minimumviable",
+      "#homeworkout",
+      "#neverzero"
+    ]
+  },
+  {
+    "id": 80,
+    "categorie": "habits",
+    "hook": "Le journal qui reprogramme ton cerveau.",
+    "textes": [
+      "0-5s: Chaque soir, 3 lignes.",
+      "5-10s: Qu'est-ce qui a marché aujourd'hui ?",
+      "10-15s: Qu'est-ce que j'améliore demain ?",
+      "15-20s: En 30 jours, ton cerveau change."
+    ],
+    "cta": "Télécharge le template dans la bio",
+    "fond": "carnet ouvert, plume qui écrit, bougie",
+    "musique": "ambiance calme réflexive",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#journaling",
+      "#reflexion",
+      "#cerveau"
+    ]
+  },
+  {
+    "id": 81,
+    "categorie": "sport",
+    "hook": "La transpiration est ta signature.",
+    "textes": [
+      "0-5s: Personne ne voit ton travail caché.",
+      "5-10s: Les 5h du mat, les séances seules.",
+      "10-15s: Mais les résultats parlent pour toi.",
+      "15-20s: Signe ton travail en sueur."
+    ],
+    "cta": "Suis-nous pour le travail invisible",
+    "fond": "gouttes de sueur au ralenti, visage concentré",
+    "musique": "beat cinématique lent",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#hardwork",
+      "#sueur",
+      "#silentgrind"
+    ]
+  },
+  {
+    "id": 82,
+    "categorie": "habits",
+    "hook": "Dis non pour pouvoir dire oui.",
+    "textes": [
+      "0-5s: Chaque oui est un non à autre chose.",
+      "5-10s: Oui à Netflix = non à ton projet.",
+      "10-15s: Choisis tes oui consciemment.",
+      "15-20s: Ton temps est ton capital."
+    ],
+    "cta": "Partage à quelqu'un qui doit dire non",
+    "fond": "main refusant une invitation, focus laptop",
+    "musique": "beat décidé minimal",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#priorites",
+      "#direnon",
+      "#time"
+    ]
+  },
+  {
+    "id": 83,
+    "categorie": "sport",
+    "hook": "Froid dehors ? Parfait.",
+    "textes": [
+      "0-5s: Il pleut. Il fait froid. Tant mieux.",
+      "5-10s: Les conditions parfaites n'existent pas.",
+      "10-15s: Goggins courait avec ses fractures.",
+      "15-20s: Toi, tu as juste une excuse."
+    ],
+    "cta": "Enregistre pour ton prochain jour de pluie",
+    "fond": "course sous pluie battante, hiver gris",
+    "musique": "beat sombre puissant",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#badweather",
+      "#running",
+      "#nofilterneeded"
+    ]
+  },
+  {
+    "id": 84,
+    "categorie": "habits",
+    "hook": "Ton futur se construit à 22h.",
+    "textes": [
+      "0-5s: Le scroll de 22h à minuit ?",
+      "5-10s: Ce sont 730h par an volées.",
+      "10-15s: Remplace-les par 1 action utile.",
+      "15-20s: Ton futur te dira merci."
+    ],
+    "cta": "Le rituel du soir dans la bio",
+    "fond": "lumière tamisée, téléphone retourné sur table",
+    "musique": "ambiance nocturne douce",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#soiree",
+      "#futur",
+      "#eveningritual"
+    ]
+  },
+  {
+    "id": 85,
+    "categorie": "sport",
+    "hook": "Le muscle se construit dans l'échec.",
+    "textes": [
+      "0-5s: Les dernières reps impossibles ?",
+      "5-10s: C'est exactement là que tout se passe.",
+      "10-15s: Le confort ne construit rien.",
+      "15-20s: Cherche l'échec volontaire."
+    ],
+    "cta": "Sauvegarde pour ta prochaine série",
+    "fond": "échec de dernière rep, grimace d'effort",
+    "musique": "beat intense crescendo",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#failure",
+      "#hypertrophie",
+      "#gainz"
+    ]
+  },
+  {
+    "id": 86,
+    "categorie": "habits",
+    "hook": "Mesure ou disparaît.",
+    "textes": [
+      "0-5s: Ce qui ne se mesure pas ne progresse pas.",
+      "5-10s: Note tes workouts.",
+      "10-15s: Compte tes pages, tes minutes.",
+      "15-20s: Les chiffres ne mentent jamais."
+    ],
+    "cta": "Grab ton tracker gratuit dans la bio",
+    "fond": "notebook avec graphiques dessinés à la main",
+    "musique": "beat précis motivant",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#tracking",
+      "#mesure",
+      "#data"
+    ]
+  },
+  {
+    "id": 87,
+    "categorie": "sport",
+    "hook": "Ton corps est ta première maison.",
+    "textes": [
+      "0-5s: Tu investis partout sauf chez toi.",
+      "5-10s: Ton corps t'héberge jusqu'à la fin.",
+      "10-15s: Entretiens-le comme un trésor.",
+      "15-20s: Rénove ta maison intérieure."
+    ],
+    "cta": "Prends soin de toi : suis-nous",
+    "fond": "corps athlétique en silhouette au couchant",
+    "musique": "ambiance émotionnelle inspirante",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#health",
+      "#body",
+      "#selfcare"
+    ]
+  },
+  {
+    "id": 88,
+    "categorie": "habits",
+    "hook": "Le lundi n'existe pas.",
+    "textes": [
+      "0-5s: 'Je commence lundi' depuis 6 mois.",
+      "5-10s: Il n'y a pas de jour magique.",
+      "10-15s: Il y a maintenant.",
+      "15-20s: Commence mal, mais commence."
+    ],
+    "cta": "Commence maintenant : partage ce reel",
+    "fond": "horloge murale, calendrier barré lundi",
+    "musique": "beat direct percutant",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#lundi",
+      "#commencemaintenant",
+      "#noexcuses"
+    ]
+  },
+  {
+    "id": 89,
+    "categorie": "sport",
+    "hook": "L'entraînement est une thérapie gratuite.",
+    "textes": [
+      "0-5s: Stresse, anxieux, tête pleine ?",
+      "5-10s: 30 minutes de sueur.",
+      "10-15s: Zéro euro, effet immédiat.",
+      "15-20s: La salle vide ton mental."
+    ],
+    "cta": "Envoie ça à quelqu'un qui stresse",
+    "fond": "sac de frappe, coups puissants au ralenti",
+    "musique": "beat libérateur intense",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#therapie",
+      "#mentalhealth",
+      "#boxing"
+    ]
+  },
+  {
+    "id": 90,
+    "categorie": "habits",
+    "hook": "Habitude cassée ≠ identité cassée.",
+    "textes": [
+      "0-5s: Tu as raté 3 jours ?",
+      "5-10s: Normal. Personne n'est parfait.",
+      "10-15s: La règle : jamais deux fois de suite.",
+      "15-20s: Reviens dès aujourd'hui."
+    ],
+    "cta": "Sauvegarde pour ton prochain échec",
+    "fond": "chaîne brisée qui se répare, mains qui recommencent",
+    "musique": "ambiance résiliente montante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#reprise",
+      "#resilience",
+      "#nevermisswice"
+    ]
+  },
+  {
+    "id": 91,
+    "categorie": "sport",
+    "hook": "Ils rient maintenant. Ils demanderont comment.",
+    "textes": [
+      "0-5s: On t'a dit que tu n'y arriverais pas ?",
+      "5-10s: Garde-le comme carburant.",
+      "10-15s: Travaille en silence.",
+      "15-20s: Laisse les résultats faire le bruit."
+    ],
+    "cta": "Prouve-le : enregistre ce reel",
+    "fond": "silhouette qui s'entraîne seule, nuit urbaine",
+    "musique": "beat revanche épique",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#proveThemWrong",
+      "#revanche",
+      "#results"
+    ]
+  },
+  {
+    "id": 92,
+    "categorie": "habits",
+    "hook": "Marche 10 min. Ton cerveau te remercie.",
+    "textes": [
+      "0-5s: Blocage créatif ? Idées floues ?",
+      "5-10s: Sors marcher 10 minutes.",
+      "10-15s: Stanford le prouve : +60% d'idées.",
+      "15-20s: La marche est un superpouvoir."
+    ],
+    "cta": "Va marcher maintenant : suis-nous",
+    "fond": "parc au petit matin, pas réguliers",
+    "musique": "ambiance légère naturelle",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#marche",
+      "#creativite",
+      "#walking"
+    ]
+  },
+  {
+    "id": 93,
+    "categorie": "sport",
+    "hook": "Chaque rep est un vote.",
+    "textes": [
+      "0-5s: Chaque séance est un vote.",
+      "5-10s: Pour ou contre ta future version.",
+      "10-15s: Aujourd'hui, tu votes comment ?",
+      "15-20s: Accumule les votes gagnants."
+    ],
+    "cta": "Vote pour toi : partage ce reel",
+    "fond": "reps de développé couché au ralenti",
+    "musique": "beat cadencé motivant",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#vote",
+      "#atomichabits",
+      "#reps"
+    ]
+  },
+  {
+    "id": 94,
+    "categorie": "habits",
+    "hook": "Le pouvoir du premier quart d'heure.",
+    "textes": [
+      "0-5s: Ton heure la plus précieuse :",
+      "5-10s: Les 15 premières minutes du matin.",
+      "10-15s: Pas de téléphone. Toi, seul.",
+      "15-20s: Silence, respiration, intention."
+    ],
+    "cta": "Le rituel complet dans la bio",
+    "fond": "brume matinale, fenêtre ouverte, calme absolu",
+    "musique": "ambiance zen montante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#matin",
+      "#silence",
+      "#intention"
+    ]
+  },
+  {
+    "id": 95,
+    "categorie": "sport",
+    "hook": "Fatigué ? C'est le signal, pas le stop.",
+    "textes": [
+      "0-5s: La fatigue n'est pas un mur.",
+      "5-10s: C'est une porte.",
+      "10-15s: Pousse-la et tu découvres qui tu es.",
+      "15-20s: Continue quand ça devient dur."
+    ],
+    "cta": "Continue : enregistre pour tes jours durs",
+    "fond": "coureur épuisé qui finit sa course au coucher de soleil",
+    "musique": "beat épuisement puis montée",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#fatigue",
+      "#pushthrough",
+      "#endurance"
+    ]
+  },
+  {
+    "id": 96,
+    "categorie": "habits",
+    "hook": "Ton cerveau croit ce que tu répètes.",
+    "textes": [
+      "0-5s: Répète une action 66 jours.",
+      "5-10s: Elle devient automatique.",
+      "10-15s: Pas de talent. Pas de chance.",
+      "15-20s: Juste de la répétition."
+    ],
+    "cta": "66 jours commencent maintenant : suis-nous",
+    "fond": "geste répété en boucle, timelapse stylisé",
+    "musique": "beat répétitif hypnotique",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#66jours",
+      "#repetition",
+      "#automatisme"
+    ]
+  },
+  {
+    "id": 97,
+    "categorie": "sport",
+    "hook": "Le meilleur moment était hier.",
+    "textes": [
+      "0-5s: Le deuxième meilleur moment ?",
+      "5-10s: Aujourd'hui.",
+      "10-15s: Hier est parti.",
+      "15-20s: Maintenant t'appartient."
+    ],
+    "cta": "Commence aujourd'hui : lien dans la bio",
+    "fond": "horizon au lever du jour, route ouverte devant",
+    "musique": "ambiance nouvelle page inspirante",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#maintenant",
+      "#nouveaudepart",
+      "#today"
+    ]
+  },
+  {
+    "id": 98,
+    "categorie": "habits",
+    "hook": "Cache ton téléphone. Trouve ta vie.",
+    "textes": [
+      "0-5s: Défi 24h sans scroll infini.",
+      "5-10s: Téléphone dans un tiroir.",
+      "10-15s: Regarde ce que ton cerveau produit.",
+      "15-20s: Tu ne reviendras jamais en arrière."
+    ],
+    "cta": "Tente le défi : partage ton résultat",
+    "fond": "téléphone enfermé à clé, lumière du jour retrouvée",
+    "musique": "beat libération lumineuse",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#defi24h",
+      "#digitaldetox",
+      "#liberte"
+    ]
+  },
+  {
+    "id": 99,
+    "categorie": "sport",
+    "hook": "Sois dur avec toi. Doux avec les autres.",
+    "textes": [
+      "0-5s: Exige tout de toi.",
+      "5-10s: Zéro excuse, zéro pitié.",
+      "10-15s: Mais sois humble avec le monde.",
+      "15-20s: La vraie force est silencieuse."
+    ],
+    "cta": "Suis l'état d'esprit Goggins : bio",
+    "fond": "entraînement militaire extérieur, boue",
+    "musique": "beat discipliné martial",
+    "hashtags": [
+      "#fitness",
+      "#habits",
+      "#davidgoggins",
+      "#humilite",
+      "#forceinterieure"
+    ]
+  },
+  {
+    "id": 100,
+    "categorie": "habits",
+    "hook": "Dans 6 mois, tu remercieras le toi d'aujourd'hui.",
+    "textes": [
+      "0-5s: Imagine-toi dans 6 mois.",
+      "5-10s: Plus fort. Plus calme. Plus libre.",
+      "10-15s: Tout commence par une petite action.",
+      "15-20s: Fais-la maintenant."
+    ],
+    "cta": "Le programme complet dans la bio",
+    "fond": "double exposition : présent et futur qui court",
+    "musique": "ambiance émotionnelle triomphante",
+    "hashtags": [
+      "#habits",
+      "#fitness",
+      "#futurmoi",
+      "#6mois",
+      "#transformation"
+    ]
+  },
+  {
+    "id": 101,
+    "categorie": "business",
+    "hook": "Ton business ne démarre pas. Voici pourquoi.",
+    "textes": [
+      "0-5s: Tu attends le moment parfait.",
+      "5-10s: Ce moment n'existera jamais.",
+      "10-15s: Commence petit. Mais commence aujourd'hui.",
+      "15-20s: L'action bat la perfection."
+    ],
+    "cta": "Suis pour la suite",
+    "fond": "bureau la nuit, lampe allumée",
+    "musique": "lofi ambitieux",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#entrepreneuriat",
+      "#deepwork"
+    ]
+  },
+  {
+    "id": 102,
+    "categorie": "business",
+    "hook": "4 heures de deep work valent 12 heures de bruit.",
+    "textes": [
+      "0-5s: Être occupé n'est pas être productif.",
+      "5-10s: Le vrai travail demande de la concentration profonde.",
+      "10-15s: Coupe les notifications. Plonge.",
+      "15-20s: 2 heures de focus changent tout."
+    ],
+    "cta": "Sauvegarde ce reel",
+    "fond": "bureau minimaliste au lever du soleil",
+    "musique": "cinématique concentrée",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#deepwork",
+      "#productivite"
+    ]
+  },
+  {
+    "id": 103,
+    "categorie": "business",
+    "hook": "Personne ne te doit rien. Construis.",
+    "textes": [
+      "0-5s: Tu attends qu'on te donne une chance ?",
+      "5-10s: Les entrepreneurs créent leurs chances.",
+      "10-15s: Chaque jour compte. Même les mauvais.",
+      "15-20s: Deviens ta propre opportunité."
+    ],
+    "cta": "Partage à un ami ambitieux",
+    "fond": "gratte-ciels au crépuscule",
+    "musique": "orchestral épique",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#mindset",
+      "#entrepreneur"
+    ]
+  },
+  {
+    "id": 104,
+    "categorie": "business",
+    "hook": "La consistance bat le talent. Toujours.",
+    "textes": [
+      "0-5s: Le talentux travaille quand il a envie.",
+      "5-10s: Toi, tu travailles tous les jours.",
+      "10-15s: 1% par jour = 37 fois mieux en 1 an.",
+      "15-20s: Sois régulier, pas parfait."
+    ],
+    "cta": "Enregistre cette règle",
+    "fond": "coureur seul à l'aube",
+    "musique": "lofi motivant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#consistance",
+      "#discipline"
+    ]
+  },
+  {
+    "id": 105,
+    "categorie": "business",
+    "hook": "Ton idée vaut zéro. Ton exécution, tout.",
+    "textes": [
+      "0-5s: Tout le monde a une idée de business.",
+      "5-10s: Presque personne ne passe à l'action.",
+      "10-15s: Lance une version imparfaite. Améliore ensuite.",
+      "15-20s: L'exécution est le vrai secret."
+    ],
+    "cta": "Le guide dans la bio",
+    "fond": "mains tapant sur un clavier la nuit",
+    "musique": "beat inspirant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#startup",
+      "#action"
+    ]
+  },
+  {
+    "id": 106,
+    "categorie": "business",
+    "hook": "Arrête de comparer ton début aux succès des autres.",
+    "textes": [
+      "0-5s: Tu vois leur chapitre 20.",
+      "5-10s: Pas leurs 10 ans d'échecs.",
+      "10-15s: Chaque empire a commencé à zéro.",
+      "15-20s: Concentre-toi sur TON chemin."
+    ],
+    "cta": "Partage ce message",
+    "fond": "escalier montant vers la lumière",
+    "musique": "piano émotionnel",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#patience",
+      "#croissance"
+    ]
+  },
+  {
+    "id": 107,
+    "categorie": "business",
+    "hook": "Un client satisfait vaut mille publicités.",
+    "textes": [
+      "0-5s: Ton budget marketing est vide ?",
+      "5-10s: Bonne nouvelle : tu n'en as pas besoin.",
+      "10-15s: Sers tellement bien qu'on parle de toi.",
+      "15-20s: La valeur attire les clients."
+    ],
+    "cta": "Suis pour plus de conseils",
+    "fond": "poignée de main en réunion",
+    "musique": "acoustique chaleureuse",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#clients",
+      "#vente"
+    ]
+  },
+  {
+    "id": 108,
+    "categorie": "business",
+    "hook": "L'échec n'est pas l'opposé du succès. C'est le prix.",
+    "textes": [
+      "0-5s: Tu as peur d'échouer ?",
+      "5-10s: Chaque échec enseigne ce que personne ne peut.",
+      "10-15s: Les gagnants ont juste échoué plus souvent.",
+      "15-20s: Échoue vite. Apprends vite."
+    ],
+    "cta": "Enregistre pour tes mauvais jours",
+    "fond": "boxeur se relevant du sol",
+    "musique": "orchestral épique",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#echec",
+      "#resilience"
+    ]
+  },
+  {
+    "id": 109,
+    "categorie": "business",
+    "hook": "Vends le résultat, pas le produit.",
+    "textes": [
+      "0-5s: Personne n'achète une perceuse.",
+      "5-10s: On achète le mur, la maison, la fierté.",
+      "10-15s: Parle de transformation, pas de fonctionnalités.",
+      "15-20s: Résout un problème, gagne un marché."
+    ],
+    "cta": "La méthode complète en bio",
+    "fond": "vitrine de boutique élégante",
+    "musique": "jazz moderne",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#marketing",
+      "#vente"
+    ]
+  },
+  {
+    "id": 110,
+    "categorie": "business",
+    "hook": "Ta routine du matin décide de ton empire.",
+    "textes": [
+      "0-5s: Les premières heures sont les tiennes.",
+      "5-10s: Personne ne t'appelle à 6h du matin.",
+      "10-15s: Lis. Planifie. Agis avant le monde.",
+      "15-20s: Gagne la matinée, gagne la journée."
+    ],
+    "cta": "Suis pour ta routine idéale",
+    "fond": "lever de soleil sur une ville endormie",
+    "musique": "ambient calme",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#routine",
+      "#discipline"
+    ]
+  },
+  {
+    "id": 111,
+    "categorie": "business",
+    "hook": "Fais moins de choses. Mais fais-les parfaitement.",
+    "textes": [
+      "0-5s: 10 projets à moitié = zéro résultat.",
+      "5-10s: 1 projet mené au bout = tout change.",
+      "10-15s: La focalisation est un superpouvoir.",
+      "15-20s: Choisis. Puis engage-toi à fond."
+    ],
+    "cta": "Sauvegarde ce rappel",
+    "fond": "laser traversant une pièce sombre",
+    "musique": "minimaliste intense",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#focus",
+      "#priorites"
+    ]
+  },
+  {
+    "id": 112,
+    "categorie": "business",
+    "hook": "Personne ne parle du coût mental de l'entrepreneuriat.",
+    "textes": [
+      "0-5s: Instagram montre les voitures.",
+      "5-10s: Pas les nuits blanches et les doutes.",
+      "10-15s: La solitude fait partie du voyage.",
+      "15-20s: Tiens bon. Ça vaut le coup."
+    ],
+    "cta": "Partage à un entrepreneur fatigué",
+    "fond": "silhouette seule face à une fenêtre de nuit",
+    "musique": "piano mélancolique puis puissant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#mental",
+      "#entrepreneur"
+    ]
+  },
+  {
+    "id": 113,
+    "categorie": "business",
+    "hook": "Commence avec 100 clients fidèles, pas 10000 abonnés.",
+    "textes": [
+      "0-5s: Les abonnés ne paient pas le loyer.",
+      "5-10s: 100 vrais clients transforment ta vie.",
+      "10-15s: Petit marché, service exceptionnel.",
+      "15-20s: La qualité précède l'ampleur."
+    ],
+    "cta": "Le plan détaillé dans la bio",
+    "fond": "petit commerce accueillant qui prospère",
+    "musique": "lofi chaleureux",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#clients",
+      "#petitbusiness"
+    ]
+  },
+  {
+    "id": 114,
+    "categorie": "business",
+    "hook": "Tu n'as pas besoin de plus d'infos. D'exécution, oui.",
+    "textes": [
+      "0-5s: Encore une formation ? Encore un livre ?",
+      "5-10s: Tu sais déjà quoi faire.",
+      "10-15s: Le savoir sans action = zéro.",
+      "15-20s: Ferme la vidéo. Exécute."
+    ],
+    "cta": "Passe à l'action maintenant",
+    "fond": "bibliothèque géante puis bureau vide",
+    "musique": "beat minimaliste",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#action",
+      "#execution"
+    ]
+  },
+  {
+    "id": 115,
+    "categorie": "business",
+    "hook": "Les systèmes battent les objectifs. Chaque année.",
+    "textes": [
+      "0-5s: « Cette année je réussis mon business. »",
+      "5-10s: Et après ? Un objectif sans système meurt en janvier.",
+      "10-15s: Crée des habitudes automatiques.",
+      "15-20s: Les systèmes produisent les résultats."
+    ],
+    "cta": "Enregistre cette distinction",
+    "fond": "engrenages mécaniques en mouvement",
+    "musique": "électronique structurée",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#systemes",
+      "#habitudes"
+    ]
+  },
+  {
+    "id": 116,
+    "categorie": "business",
+    "hook": "Ton réseau net worth. Choisis bien ton entourage.",
+    "textes": [
+      "0-5s: Regarde tes 5 amis les plus proches.",
+      "5-10s: Leurs ambitions deviennent les tiennes.",
+      "10-15s: Entoure-toi de gens qui construisent.",
+      "15-20s: Ton cercle détermine ton plafond."
+    ],
+    "cta": "Partage à ton co-fondateur",
+    "fond": "groupe marchant ensemble vers l'horizon",
+    "musique": "orchestral montant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#reseau",
+      "#entourage"
+    ]
+  },
+  {
+    "id": 117,
+    "categorie": "business",
+    "hook": "Le meilleur moment pour lancer, c'était hier.",
+    "textes": [
+      "0-5s: Tu repousses depuis combien de mois ?",
+      "5-10s: Chaque semaine d'attente = des clients perdus.",
+      "10-15s: Le deuxième meilleur moment : aujourd'hui.",
+      "15-20s: Lance maintenant. Apprends en marchant."
+    ],
+    "cta": "Première étape dans la bio",
+    "fond": "train démarrant en gare au lever du jour",
+    "musique": "lofi urgent",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#lancer",
+      "#aujourdhui"
+    ]
+  },
+  {
+    "id": 118,
+    "categorie": "money",
+    "hook": "Être riche, c'est dépenser moins que tu ne gagnes.",
+    "textes": [
+      "0-5s: Morgan Housel l'a dit :",
+      "5-10s: La richesse est ce que tu NE vois pas.",
+      "10-15s: Une voiture de luxe = richesse affichée.",
+      "15-20s: Un compte qui grossit = vraie richesse."
+    ],
+    "cta": "Le livre dans la bio",
+    "fond": "compteur de banque qui monte doucement",
+    "musique": "lofi serein",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#psychologiedelargent",
+      "#epargne"
+    ]
+  },
+  {
+    "id": 119,
+    "categorie": "money",
+    "hook": "L'argent achète la liberté, pas les objets.",
+    "textes": [
+      "0-5s: Le plus grand dividende de l'argent ?",
+      "5-10s: Se lever chaque jour EN CHOISISSANT sa vie.",
+      "10-15s: Housel appelle ça le contrôle du temps.",
+      "15-20s: Accumule la liberté, pas les possessions."
+    ],
+    "cta": "Partage cette vérité",
+    "fond": "personne fermant son ordinateur à midi au bord de la mer",
+    "musique": "ambient libérateur",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#liberte",
+      "#investir"
+    ]
+  },
+  {
+    "id": 120,
+    "categorie": "money",
+    "hook": "Personne n'est assez riche pour acheter son temps en arrière.",
+    "textes": [
+      "0-5s: Tu peux regagner de l'argent perdu.",
+      "5-10s: Jamais une heure perdue.",
+      "10-15s: Le temps est ton seul actif non renouvelable.",
+      "15-20s: Investis-le comme tel."
+    ],
+    "cta": "Sauvegarde ce rappel",
+    "fond": "sablier géant en gros plan",
+    "musique": "piano introspectif",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#temps",
+      "#sagesse"
+    ]
+  },
+  {
+    "id": 121,
+    "categorie": "money",
+    "hook": "Les riches restent riches parce qu'ils gardent leur argent.",
+    "textes": [
+      "0-5s: Gagner de l'argent, c'est une compétence.",
+      "5-10s: Le garder, c'en est une autre.",
+      "10-15s: Beaucoup gagnent. Peu conservent.",
+      "15-20s: La discipline financière fait les fortunes."
+    ],
+    "cta": "Suis pour maîtriser ton argent",
+    "fond": "coffre-fort s'ouvrant lentement",
+    "musique": "cinématique sobre",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#epargne",
+      "#richesse"
+    ]
+  },
+  {
+    "id": 122,
+    "categorie": "money",
+    "hook": "Ta voiture coûte 500€. Ton ego, 50000€.",
+    "textes": [
+      "0-5s: Pourquoi achètes-tu vraiment ?",
+      "5-10s: Pour toi ? Ou pour les regards des autres ?",
+      "10-15s: Dépenser pour impressionner = pauvreté garantie.",
+      "15-20s: La richesse silencieuse gagne toujours."
+    ],
+    "cta": "Enregistre cette leçon",
+    "fond": "voiture de luxe puis tirelire simple",
+    "musique": "beat contrasté",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#ego",
+      "#depenses"
+    ]
+  },
+  {
+    "id": 123,
+    "categorie": "money",
+    "hook": "Les intérêts composés sont la 8ème merveille du monde.",
+    "textes": [
+      "0-5s: 200€ par mois pendant 30 ans.",
+      "5-10s: À 8% par an... devine le total.",
+      "10-15s: Près de 300000€.",
+      "15-20s: Le temps + la patience = fortune."
+    ],
+    "cta": "Le calcul complet en bio",
+    "fond": "plante poussant en accéléré vers le soleil",
+    "musique": "orchestral inspirant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#interetscomposes",
+      "#investir"
+    ]
+  },
+  {
+    "id": 124,
+    "categorie": "money",
+    "hook": "Ton compte en banque reflète ta psychologie.",
+    "textes": [
+      "0-5s: L'argent n'est pas qu'un chiffre.",
+      "5-10s: C'est un miroir de tes comportements.",
+      "10-15s: Peur, impulsivité, patience : tout se voit.",
+      "15-20s: Change ton mental, change tes finances."
+    ],
+    "cta": "Partage à quelqu'un qui en a besoin",
+    "fond": "miroir reflétant une silhouette déterminée",
+    "musique": "ambient profond",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#psychologie",
+      "#mentalite"
+    ]
+  },
+  {
+    "id": 125,
+    "categorie": "money",
+    "hook": "Épargner, c'est payer ton futur toi en premier.",
+    "textes": [
+      "0-5s: Salaire reçu. Ensuite ?",
+      "5-10s: La plupart paient tout le monde sauf eux.",
+      "10-15s: Retourne la règle : épargne D'ABORD.",
+      "15-20s: 10% automatiques changent ta vie."
+    ],
+    "cta": "Mets en place ça dès aujourd'hui",
+    "fond": "main déposant une pièce dans une tirelire",
+    "musique": "lofi rassurant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#epargne",
+      "#habitudes"
+    ]
+  },
+  {
+    "id": 126,
+    "categorie": "money",
+    "hook": "Le meilleur investissement ? Toi-même.",
+    "textes": [
+      "0-5s: Actions, immobilier, crypto...",
+      "5-10s: Mais l'actif le plus rentable reste rarement cité.",
+      "10-15s: Tes compétences. Ton esprit. Ta santé.",
+      "15-20s: Investis en toi, rendement garanti."
+    ],
+    "cta": "Suis pour investir autrement",
+    "fond": "personne lisant au lever du soleil",
+    "musique": "piano motivant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#developpementpersonnel",
+      "#competences"
+    ]
+  },
+  {
+    "id": 127,
+    "categorie": "money",
+    "hook": "Une dette de consommation, c'est voler ton futur toi.",
+    "textes": [
+      "0-5s: Le crédit pour un téléphone neuf ?",
+      "5-10s: Tu empruntes ton propre avenir.",
+      "10-15s: La liberté financière commence à zéro dette.",
+      "15-20s: Vis selon tes moyens, pas tes envies."
+    ],
+    "cta": "Sauvegarde avant le prochain achat",
+    "fond": "carte bancaire posée sur une table sombre",
+    "musique": "tension cinématique puis apaisement",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#dette",
+      "#libertefinanciere"
+    ]
+  },
+  {
+    "id": 128,
+    "categorie": "money",
+    "hook": "La richesse se mesure à ce que tu ne remarques plus.",
+    "textes": [
+      "0-5s: Vraie richesse : payer sans stress.",
+      "5-10s: Dormir tranquille malgré l'urgence.",
+      "10-15s: Dire non sans culpabiliser.",
+      "15-20s: C'est ça, la sécurité. Pas le logo sur ta montre."
+    ],
+    "cta": "Partage si tu es d'accord",
+    "fond": "matin paisible, café sur un balcon",
+    "musique": "ambient paisible",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#paix",
+      "#richesse"
+    ]
+  },
+  {
+    "id": 129,
+    "categorie": "money",
+    "hook": "Gagner plus ne résout pas mal dépenser.",
+    "textes": [
+      "0-5s: Augmentation de salaire = problèmes réglés ?",
+      "5-10s: Non. Le train de vie suit toujours.",
+      "10-15s: Plus de revenus sans discipline = zéro progrès.",
+      "15-20s: Maîtrise d'abord. Gains ensuite."
+    ],
+    "cta": "Enregistre ce piège classique",
+    "fond": "hamster dans sa roue, métaphore visuelle",
+    "musique": "beat ironique puis sérieux",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#budget",
+      "#lifestylecreep"
+    ]
+  },
+  {
+    "id": 130,
+    "categorie": "money",
+    "hook": "Patience : le super-pouvoir des millionnaires discrets.",
+    "textes": [
+      "0-5s: Les vrais fortunes se construisent en silence.",
+      "5-10s: Des années d'efforts invisibles.",
+      "10-15s: Puis une vie de résultats visibles.",
+      "15-20s: Patience + constance = richesse."
+    ],
+    "cta": "Suis pour jouer le long terme",
+    "fond": "bamboo poussant d'un coup après des années",
+    "musique": "orchestral lent et puissant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#patience",
+      "#longterme"
+    ]
+  },
+  {
+    "id": 131,
+    "categorie": "money",
+    "hook": "L'argent adore ceux qui savent dire non.",
+    "textes": [
+      "0-5s: Non au dernier gadget.",
+      "5-10s: Non aux abonnements inutiles.",
+      "10-15s: Non aux dépenses d'ego.",
+      "15-20s: Chaque « non » finance ton futur « oui »."
+    ],
+    "cta": "Dis non aux distractions, suis-moi",
+    "fond": "porte massive qui se ferme calmement",
+    "musique": "minimaliste ferme",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#discipline",
+      "#non"
+    ]
+  },
+  {
+    "id": 132,
+    "categorie": "money",
+    "hook": "Ne confonds plus revenu et richesse.",
+    "textes": [
+      "0-5s: Gros salaire ≠ riche.",
+      "5-10s: Le revenu, c'est ce qui entre.",
+      "10-15s: La richesse, c'est ce qui RESTE.",
+      "15-20s: Concentre-toi sur l'écart entre les deux."
+    ],
+    "cta": "La différence expliquée en bio",
+    "fond": "balance à deux plateaux, pièces d'or",
+    "musique": "cinématique claire",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#richesse",
+      "#educationfinanciere"
+    ]
+  },
+  {
+    "id": 133,
+    "categorie": "money",
+    "hook": "Le risque ultime, c'est de ne prendre aucun risque.",
+    "textes": [
+      "0-5s: Garder tout ton argent sur un livret ?",
+      "5-10s: L'inflation mange ton capital chaque année.",
+      "10-15s: Ne rien faire, c'est aussi un choix risqué.",
+      "15-20s: Éduque-toi, puis investis intelligemment."
+    ],
+    "cta": "Apprends à investir, bio en profil",
+    "fond": "océan calme puis vague puissante",
+    "musique": "tension douce",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#risque",
+      "#inflation"
+    ]
+  },
+  {
+    "id": 134,
+    "categorie": "sagesse",
+    "hook": "Marcus Aurèle dirigeait un empire. Sans se laisser détruire.",
+    "textes": [
+      "0-5s: Empereur. Guerres. Trahisons. Deuils.",
+      "5-10s: Pourtant il restait calme.",
+      "10-15s: Son secret ? Écrire ses pensées chaque nuit.",
+      "15-20s: Ses notes sont devenues « Les Pensées »."
+    ],
+    "cta": "Le livre dans la bio",
+    "fond": "statue de marbre de Marcus Aurèle",
+    "musique": "orchestral antique",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#marcusaurèle",
+      "#sagesse"
+    ]
+  },
+  {
+    "id": 135,
+    "categorie": "sagesse",
+    "hook": "Tu ne contrôles pas les événements. Seulement ta réponse.",
+    "textes": [
+      "0-5s: Traffic, pluie, critique, imprévu.",
+      "5-10s: Rien de tout cela n'est sous ton contrôle.",
+      "10-15s: Ta réaction, elle, l'est totalement.",
+      "15-20s: C'est là que vit ta liberté."
+    ],
+    "cta": "Partage cette sagesse",
+    "fond": "mer agitée vue depuis une falaise",
+    "musique": "ambient méditatif",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#controle",
+      "#serenite"
+    ]
+  },
+  {
+    "id": 136,
+    "categorie": "sagesse",
+    "hook": "Sénèque : nous souffrons plus dans l'imagination que dans la réalité.",
+    "textes": [
+      "0-5s: Ce scénario catastrophe dans ta tête ?",
+      "5-10s: Il arrive rarement.",
+      "10-15s: L'anxiété = payer un prix pour un futur incertain.",
+      "15-20s: Reviens au présent. C'est tout ce qui existe."
+    ],
+    "cta": "Enregistre pour tes jours d'angoisse",
+    "fond": "brouillard se dissipant au matin",
+    "musique": "piano apaisant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#anxiete",
+      "#present"
+    ]
+  },
+  {
+    "id": 137,
+    "categorie": "sagesse",
+    "hook": "Shi Heng Yi : la maîtrise commence par la répétition.",
+    "textes": [
+      "0-5s: Le maître Shaolin ne cherche pas la motivation.",
+      "5-10s: Il répète le même geste pendant des années.",
+      "10-15s: La discipline crée la maîtrise.",
+      "15-20s: Répète. Chaque jour. Sans exception."
+    ],
+    "cta": "Suis le chemin de la maîtrise",
+    "fond": "moines shaolin s'entraînant à l'aube",
+    "musique": "percussions méditatives",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#shihengyi",
+      "#maitrise"
+    ]
+  },
+  {
+    "id": 138,
+    "categorie": "sagesse",
+    "hook": "Chaque matin, Marcus Aurèle se disait ceci.",
+    "textes": [
+      "0-5s: « Aujourd'hui je rencontrerai des gens difficiles. »",
+      "5-10s: « Égoïstes, ingrats, arrogants. »",
+      "10-15s: « Mais moi, je choisis de rester droit. »",
+      "15-20s: Prépare-toi. Reste intègre."
+    ],
+    "cta": "Adopte ce rituel demain matin",
+    "fond": "empereur regardant Rome au lever du soleil",
+    "musique": "orchestral solennel",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#rituel",
+      "#integrite"
+    ]
+  },
+  {
+    "id": 139,
+    "categorie": "sagesse",
+    "hook": "Ce qui te bloque n'est pas extérieur. C'est ton jugement.",
+    "textes": [
+      "0-5s: « Il m'a énervé. »",
+      "5-10s: Non. Tu as choisi d'être énervé.",
+      "10-15s: Entre l'événement et toi : ton jugement.",
+      "15-20s: Change le jugement, la paix revient."
+    ],
+    "cta": "Partage à quelqu'un qui stresse",
+    "fond": "verre d'eau renversé puis essuyé calmement",
+    "musique": "minimaliste contemplatif",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#jugement",
+      "#paixinterieure"
+    ]
+  },
+  {
+    "id": 140,
+    "categorie": "sagesse",
+    "hook": "Sénèque : ce n'est pas un échec que de tomber. Mais de rester au sol.",
+    "textes": [
+      "0-5s: Tu as échoué ? Bienvenue au club.",
+      "5-10s: Les stoïciens respectaient celui qui tombait.",
+      "10-15s: Ils méprisaient seulement celui qui abandonnait.",
+      "15-20s: Relève-toi. C'est tout ce qui compte."
+    ],
+    "cta": "Relève-toi, enregistre ce reel",
+    "fond": "colosse de marbre se relevant, lumière dorée",
+    "musique": "orchestral héroïque",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#senèque",
+      "#courage"
+    ]
+  },
+  {
+    "id": 141,
+    "categorie": "sagesse",
+    "hook": "Memento mori : tu vas mourir. Alors vis vraiment.",
+    "textes": [
+      "0-5s: Les stoïciens méditaient sur la mort.",
+      "5-10s: Pourquoi ? Pour vivre intensément.",
+      "10-15s: Chaque jour ordinaire devient un cadeau.",
+      "15-20s: Arrête de reporter ta vraie vie."
+    ],
+    "cta": "Vis aujourd'hui. Partage ce rappel.",
+    "fond": "horloge ancienne puis lever de soleil majestueux",
+    "musique": "cordes émotionnelles",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#momentomori",
+      "#vie"
+    ]
+  },
+  {
+    "id": 142,
+    "categorie": "sagesse",
+    "hook": "La colère : une punition que tu t'infliges toi-même.",
+    "textes": [
+      "0-5s: Quelqu'un t'a blessé. Tu es en colère.",
+      "5-10s: Qui souffre vraiment en ce moment ?",
+      "10-15s: Toi. Deux fois.",
+      "15-20s: Lâcher prise, c'est se libérer."
+    ],
+    "cta": "Libère-toi, sauvegarde ce reel",
+    "fond": "tempête se calmant sur un lac",
+    "musique": "ambient apaisant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#colère",
+      "#lacherprise"
+    ]
+  },
+  {
+    "id": 143,
+    "categorie": "sagesse",
+    "hook": "Shi Heng Yi : si tu veux changer, accepte l'inconfort quotidien.",
+    "textes": [
+      "0-5s: Le confort est une prison confortable.",
+      "5-10s: La croissance vit de l'autre côté.",
+      "10-15s: Froid. Effort. Silence. Répétition.",
+      "15-20s: Cherche l'inconfort volontaire chaque jour."
+    ],
+    "cta": "Choisis l'inconfort, suis-moi",
+    "fond": "homme courant sous la pluie",
+    "musique": "percussions tribales",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#discipline",
+      "#inconfort"
+    ]
+  },
+  {
+    "id": 144,
+    "categorie": "sagesse",
+    "hook": "Epictète était esclave. Et libre. Toi, l'inverse ?",
+    "textes": [
+      "0-5s: Né esclave. Estropié. Pauvre.",
+      "5-10s: Epictète possédait pourtant une liberté totale.",
+      "10-15s: Sa liberté ? Son esprit. Inattaquable.",
+      "15-20s: La vraie prison n'a pas de barreaux."
+    ],
+    "cta": "Découvre les stoïciens en bio",
+    "fond": "chaînes brisées dans la lumière",
+    "musique": "orchestral émouvant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#epictète",
+      "#liberte"
+    ]
+  },
+  {
+    "id": 145,
+    "categorie": "sagesse",
+    "hook": "Ne dis pas grand-chose. Fais beaucoup. Comme les stoïciens.",
+    "textes": [
+      "0-5s: Annoncer ses plans fatigue sa volonté.",
+      "5-10s: Le silence protège ton énergie.",
+      "10-15s: Travaille en silence. Laisse parler les résultats.",
+      "15-20s: Moins de mots. Plus d'actions."
+    ],
+    "cta": "Travaille en silence, partage discrètement",
+    "fond": "atelier d'artisan travaillant seul à la lampe",
+    "musique": "lofi sobre",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#silence",
+      "#action"
+    ]
+  },
+  {
+    "id": 146,
+    "categorie": "sagesse",
+    "hook": "Prépare-toi à perdre ce que tu aimes. C'est la leçon de Sénèque.",
+    "textes": [
+      "0-5s: Sénèque pratiquait la perte imaginée.",
+      "5-10s: Imaginer perdre ce qu'on aime.",
+      "10-15s: Résultat : gratitude quotidienne immédiate.",
+      "15-20s: Rien ne dure. Chéris maintenant."
+    ],
+    "cta": "Appelle quelqu'un que tu aimes",
+    "fond": "feu de camp qui s'éteint doucement",
+    "musique": "piano mélancolique lumineux",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#gratitude",
+      "#senèque"
+    ]
+  },
+  {
+    "id": 147,
+    "categorie": "sagesse",
+    "hook": "Le stoïcien ne contrôle pas la vague. Il contrôle sa planche.",
+    "textes": [
+      "0-5s: Crise. Imprévu. Température qui monte.",
+      "5-10s: Paniquer ne change rien.",
+      "10-15s: Respire. Agis sur ce qui dépend de toi.",
+      "15-20s: Surfe la vague au lieu de la subir."
+    ],
+    "cta": "Enregistre pour ta prochaine crise",
+    "fond": "surfeur chevauchant une vague immense",
+    "musique": "cinématique fluide",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#calme",
+      "#crise"
+    ]
+  },
+  {
+    "id": 148,
+    "categorie": "sagesse",
+    "hook": "Marcus Aurèle : le bonheur de ta vie dépend de la qualité de tes pensées.",
+    "textes": [
+      "0-5s: Tes pensées colorent ton monde.",
+      "5-10s: Esprit troublé = monde hostile.",
+      "10-15s: Esprit clair = opportunités partout.",
+      "15-20s: Garde ton esprit. Garde ta vie."
+    ],
+    "cta": "Soigne ton esprit, suis-moi",
+    "fond": "montagnes se reflétant dans un lac immobile",
+    "musique": "ambient majestueux",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#pensées",
+      "#bonheur"
+    ]
+  },
+  {
+    "id": 149,
+    "categorie": "sagesse",
+    "hook": "Amor fati : aime ton destin. Même les parties douloureuses.",
+    "textes": [
+      "0-5s: Nietzsche et les stoïciens étaient d'accord.",
+      "5-10s: Ne subis pas ta vie. Embrasse-la.",
+      "10-15s: Chaque obstacle contient du carburant.",
+      "15-20s: Aime ton destin, transforme ta douleur."
+    ],
+    "cta": "Embrasse ton chemin, partage ce reel",
+    "fond": "orage vu depuis un sommet ensoleillé",
+    "musique": "orchestral transcendant",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#amorfati",
+      "#destin"
+    ]
+  },
+  {
+    "id": 150,
+    "categorie": "sagesse",
+    "hook": "Le maître Shaolin dit : arrête d'être ta propre excuse.",
+    "textes": [
+      "0-5s: Shi Heng Yi répond à ceux qui attendent :",
+      "5-10s: « Le bon moment n'arrivera pas. »",
+      "10-15s: « Tu dois créer le changement toi-même. »",
+      "15-20s: Personne ne viendra. Lève-toi."
+    ],
+    "cta": "Lève-toi aujourd'hui, bio pour commencer",
+    "fond": "monastère dans la brume montagneuse",
+    "musique": "percussions zen épiques",
+    "hashtags": [
+      "#business",
+      "#money",
+      "#stoicisme",
+      "#shihengyi",
+      "#leve-toi"
+    ]
+  }
+]

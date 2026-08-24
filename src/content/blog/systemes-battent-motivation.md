@@ -3,7 +3,7 @@ title: "When Motivation Fails, Systems Take Over"
 description: "Motivation is unreliable. Systems are dependable. Learn why building systems beats setting goals — and how to create systems that work."
 pubDate: 2026-08-24
 readTime: "6 MIN"
-image: "/images/blog/systemes-battent-motivation.svg"
+image: "/images/blog/systemes-battent-motivation.jpg"
 topic: "Goals"
 ---
 

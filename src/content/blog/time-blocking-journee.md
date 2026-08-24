@@ -3,7 +3,7 @@ title: "Time Blocking: How to Own Your Day Instead of Reacting to It"
 description: "Time blocking is the practice of assigning every hour of your day to a specific task. Learn how to take control of your calendar and your life."
 pubDate: 2026-08-24
 readTime: "5 MIN"
-image: "/images/blog/time-blocking-journee.svg"
+image: "/images/blog/time-blocking-journee.jpg"
 topic: "Productivity"
 ---
 

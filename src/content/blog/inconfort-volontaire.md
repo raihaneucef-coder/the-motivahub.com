@@ -3,7 +3,7 @@ title: "Voluntary Discomfort: The Secret to Mental Toughness"
 description: "Why the most successful people deliberately choose discomfort — and how voluntary suffering builds the mental strength that makes everything else easy."
 pubDate: 2026-08-24
 readTime: "6 MIN"
-image: "/images/blog/inconfort-volontaire.svg"
+image: "/images/blog/inconfort-volontaire.jpg"
 topic: "Discipline"
 ---
 

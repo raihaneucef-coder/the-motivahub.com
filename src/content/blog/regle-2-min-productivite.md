@@ -3,7 +3,7 @@ title: "The 2-Minute Rule for Productivity: Get More Done in Less Time"
 description: "The 2-minute rule is the simplest productivity hack that actually works. If it takes less than 2 minutes, do it now."
 pubDate: 2026-08-24
 readTime: "4 MIN"
-image: "/images/blog/regle-2-min-productivite.svg"
+image: "/images/blog/regle-2-min-productivite.jpg"
 topic: "Productivity"
 ---
 

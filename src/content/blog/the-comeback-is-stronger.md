@@ -4,7 +4,7 @@ description: "Every setback is a setup for a stronger comeback. Your greatest gr
 pubDate: 2026-08-22
 topic: "Personal Growth"
 readTime: "5 min read"
-image: "/images/blog/the-comeback-is-stronger.svg"
+image: "/images/blog/the-comeback-is-stronger.jpg"
 featured: false
 draft: false
 ---
