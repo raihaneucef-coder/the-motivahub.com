@@ -1,0 +1,241 @@
+---
+import Layout from "../../layouts/Layout.astro";
+---
+
+<Layout title="Memento Mori — The Life Calendar | Motiva Hub" description="See your life in months. A stoic reminder that time is the only real currency. How many months do you have left?">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">Memento Mori</p>
+      <h1>Your life, <em>in months.</em></h1>
+      <p class="mm-sub">One dot. One month. The stoics counted their days so they would not waste them. Count yours.</p>
+    </div>
+  </section>
+
+  <section class="mm-form-section">
+    <div class="container">
+      <div class="mm-form-card">
+        <label class="mm-label" for="mm-birthdate">Your date of birth</label>
+        <div class="mm-row">
+          <input type="date" id="mm-birthdate" class="mm-input" min="1920-01-01" max="2025-12-31" />
+          <button type="button" id="mm-go" class="btn-pill">Reveal my calendar</button>
+        </div>
+        <div class="mm-expectancy">
+          <label class="mm-label-sm" for="mm-expectancy">Life expectancy: <span id="mm-exp-value">80</span> years</label>
+          <input type="range" id="mm-expectancy" class="mm-range" min="50" max="100" step="1" value="80" />
+        </div>
+        <p class="mm-note">Everything happens in your browser. Your date never leaves this page.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="mm-result-section" id="mm-result" hidden>
+    <div class="container">
+      <div class="mm-stats">
+        <div class="mm-stat">
+          <p class="mm-stat-num" id="mm-lived">—</p>
+          <p class="mm-stat-label">months lived</p>
+        </div>
+        <div class="mm-stat">
+          <p class="mm-stat-num" id="mm-left">—</p>
+          <p class="mm-stat-label">months remaining</p>
+        </div>
+        <div class="mm-stat">
+          <p class="mm-stat-num" id="mm-percent">—</p>
+          <p class="mm-stat-label">of the calendar used</p>
+        </div>
+        <div class="mm-stat">
+          <p class="mm-stat-num" id="mm-weeks">—</p>
+          <p class="mm-stat-label">Sundays already spent</p>
+        </div>
+      </div>
+
+      <div class="mm-calendar-card">
+        <div class="mm-legend">
+          <span><i class="mm-dot mm-lived"></i> Lived</span>
+          <span><i class="mm-dot mm-now"></i> This month</span>
+          <span><i class="mm-dot mm-empty"></i> Remaining</span>
+        </div>
+        <div class="mm-grid" id="mm-grid" aria-label="Your life in months"></div>
+        <p class="mm-quote" id="mm-quote">“It is not that we have a short time to live, but that we waste a lot of it.”<cite>— Seneca, On the Shortness of Life</cite></p>
+      </div>
+
+      <div class="mm-actions">
+        <button type="button" class="btn-pill" id="mm-share">Share this reminder</button>
+        <a class="btn-pill btn-pill-outline" href="/tracker/">Build a habit worth the time</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="mm-articles" id="mm-articles" hidden>
+    <div class="container">
+      <div class="feed-head">
+        <p class="kicker">Spend the remaining dots well</p>
+        <a class="link-ochre" href="/journal/">All Essays →</a>
+      </div>
+      <div class="mm-article-links">
+        <a href="/journal/goals-are-a-compass-not-a-cage/" class="mm-article-card">
+          <p class="card-meta">GOALS</p>
+          <h3>Goals Are a Compass, Not a Cage</h3>
+          <p>A good goal does not trap you — it points you.</p>
+        </a>
+        <a href="/journal/comment-devenir-mentalement-inebranlable/" class="mm-article-card">
+          <p class="card-meta">DISCIPLINE</p>
+          <h3>How to Become Mentally Unbreakable</h3>
+          <p>Five cold rules to forge a steel mindset.</p>
+        </a>
+        <a href="/30-days-discipline/" class="mm-article-card">
+          <p class="card-meta">FREE PDF</p>
+          <h3>The 30 Days of Discipline</h3>
+          <p>One month. One page a day. A different life.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="premise">
+    <div class="container">
+      <p class="kicker">Why we built this</p>
+      <h2 class="premise-title">You will spend roughly <em>4,000 weeks</em> here. The stoics kept this truth close — not to darken the day, but to sharpen it. Every dot is a question: is this how I want to spend one month of a finite life?</h2>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .mm-sub { max-width: 560px; color: var(--muted); margin-top: 12px; }
+  .mm-form-section { padding: 24px 0 48px; }
+  .mm-form-card {
+    max-width: 640px; margin: 0 auto; background: var(--white);
+    border: 1px solid var(--line); border-radius: 16px; padding: 32px;
+    text-align: center;
+  }
+  .mm-label { display:block; font-family: var(--sans); font-size: 14px; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+  .mm-row { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+  .mm-input {
+    font-family: var(--sans); font-size: 16px; padding: 12px 16px;
+    border: 1px solid var(--line); border-radius: 999px; color: var(--ink);
+    background: var(--cream); outline: none; flex: 1; min-width: 180px;
+  }
+  .mm-input:focus { border-color: var(--gold); }
+  .mm-expectancy { margin-top: 24px; }
+  .mm-label-sm { display:block; font-family: var(--sans); font-size: 13px; color: var(--muted); margin-bottom: 8px; }
+  .mm-range { width: 100%; max-width: 360px; accent-color: var(--gold); }
+  .mm-note { margin-top: 18px; font-size: 12px; color: var(--muted); }
+
+  .mm-result-section { padding: 16px 0 32px; }
+  .mm-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; max-width: 860px; margin: 0 auto 28px; }
+  .mm-stat { background: var(--white); border: 1px solid var(--line); border-radius: 14px; padding: 20px 12px; text-align: center; }
+  .mm-stat-num { font-family: var(--serif); font-size: 40px; font-weight: 600; color: var(--ink); line-height: 1; }
+  .mm-stat-label { font-family: var(--sans); font-size: 12px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); margin-top: 8px; }
+
+  .mm-calendar-card { max-width: 860px; margin: 0 auto; background: var(--white); border: 1px solid var(--line); border-radius: 16px; padding: 28px; }
+  .mm-legend { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; font-family: var(--sans); font-size: 12px; color: var(--muted); margin-bottom: 18px; }
+  .mm-legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .mm-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .mm-dot.mm-lived { background: var(--ink); }
+  .mm-dot.mm-now { background: var(--gold); }
+  .mm-dot.mm-empty { background: transparent; border: 1px solid var(--line); }
+
+  .mm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(13px, 1fr)); gap: 4px; }
+  .mm-cell { aspect-ratio: 1; border-radius: 50%; background: transparent; border: 1px solid var(--line); }
+  .mm-cell.lived { background: var(--ink); border-color: var(--ink); }
+  .mm-cell.now { background: var(--gold); border-color: var(--gold); animation: mm-pulse 2s ease-in-out infinite; }
+  @keyframes mm-pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
+
+  .mm-quote { margin-top: 24px; font-family: var(--serif); font-size: 22px; font-style: italic; text-align: center; color: var(--ink); }
+  .mm-quote cite { display: block; margin-top: 8px; font-family: var(--sans); font-size: 13px; font-style: normal; color: var(--muted); }
+
+  .mm-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-top: 28px; }
+
+  .mm-articles { padding: 40px 0 16px; }
+  .mm-article-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 20px; }
+  .mm-article-card { background: var(--white); border: 1px solid var(--line); border-radius: 14px; padding: 24px; text-decoration: none; color: var(--ink); transition: transform .2s ease, box-shadow .2s ease; }
+  .mm-article-card:hover { transform: translateY(-3px); box-shadow: 0 12px 30px rgba(18,18,18,.08); }
+  .mm-article-card h3 { font-family: var(--serif); font-size: 22px; margin: 8px 0; }
+  .mm-article-card p:last-child { color: var(--muted); font-size: 14px; }
+
+  @media (max-width: 640px) {
+    .mm-form-card { padding: 24px 18px; }
+    .mm-calendar-card { padding: 18px; }
+    .mm-grid { grid-template-columns: repeat(auto-fill, minmax(11px, 1fr)); gap: 3px; }
+    .mm-stat-num { font-size: 32px; }
+  }
+</style>
+
+<script>
+  (function () {
+    var QUOTES = [
+      ["It is not that we have a short time to live, but that we waste a lot of it.", "Seneca, On the Shortness of Life"],
+      ["You could leave life right now. Let that determine what you do and say.", "Marcus Aurelius, Meditations"],
+      ["Begin at once to live, and count each separate day as a separate life.", "Seneca"],
+      ["Waste no more time arguing what a good man should be. Be one.", "Marcus Aurelius, Meditations"],
+      ["The whole future lies in uncertainty: live immediately.", "Seneca, Letters to Lucilius"]
+    ];
+
+    var birth = document.getElementById("mm-birthdate");
+    var go = document.getElementById("mm-go");
+    var exp = document.getElementById("mm-expectancy");
+    var expVal = document.getElementById("mm-exp-value");
+    var result = document.getElementById("mm-result");
+    var articles = document.getElementById("mm-articles");
+    var grid = document.getElementById("mm-grid");
+    var quote = document.getElementById("mm-quote");
+    var share = document.getElementById("mm-share");
+
+    exp.addEventListener("input", function () { expVal.textContent = exp.value; });
+
+    function render() {
+      if (!birth.value) { birth.focus(); return; }
+      var now = new Date();
+      var b = new Date(birth.value + "T00:00:00");
+      var years = parseInt(exp.value, 10);
+      var totalMonths = years * 12;
+      var livedMonths = (now.getFullYear() - b.getFullYear()) * 12 + (now.getMonth() - b.getMonth());
+      if (now.getDate() < b.getDate()) livedMonths -= 1;
+      if (livedMonths < 0) livedMonths = 0;
+      if (livedMonths > totalMonths) livedMonths = totalMonths;
+
+      grid.innerHTML = "";
+      var frag = document.createDocumentFragment();
+      for (var i = 0; i < totalMonths; i++) {
+        var cell = document.createElement("i");
+        cell.className = "mm-cell" + (i < livedMonths ? " lived" : "");
+        if (i === livedMonths) cell.className += " now";
+        cell.title = "Month " + (i + 1);
+        frag.appendChild(cell);
+      }
+      grid.appendChild(frag);
+
+      document.getElementById("mm-lived").textContent = livedMonths.toLocaleString();
+      document.getElementById("mm-left").textContent = Math.max(totalMonths - livedMonths, 0).toLocaleString();
+      document.getElementById("mm-percent").textContent = Math.round((livedMonths / totalMonths) * 100) + "%";
+      var weeks = Math.floor(livedMonths * 4.345);
+      document.getElementById("mm-weeks").textContent = weeks.toLocaleString();
+
+      var q = QUOTES[Math.floor(Math.random() * QUOTES.length)];
+      quote.innerHTML = "“" + q[0] + "”<cite>— " + q[1] + "</cite>";
+
+      result.hidden = false;
+      articles.hidden = false;
+      result.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    go.addEventListener("click", render);
+    birth.addEventListener("change", render);
+    birth.addEventListener("keydown", function (e) { if (e.key === "Enter") render(); });
+
+    share.addEventListener("click", function () {
+      var data = {
+        title: "Memento Mori — Motiva Hub",
+        text: "I just saw my life in months. A stoic reminder that time is the only currency. Count yours:",
+        url: "https://the-motivahub.com/memento-mori/"
+      };
+      if (navigator.share) {
+        navigator.share(data).catch(function () {});
+      } else if (navigator.clipboard) {
+        navigator.clipboard.writeText(data.text + " " + data.url);
+        share.textContent = "Link copied ✓";
+        setTimeout(function () { share.textContent = "Share this reminder"; }, 2000);
+      }
+    });
+  })();
+</script>
