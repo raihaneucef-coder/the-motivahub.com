@@ -1,0 +1,88 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Page Not Found — Motiva Hub" description="The page you are looking for does not exist.">
+  <section class="error-section">
+    <div class="container">
+      <p class="kicker">404</p>
+      <h1>This page has <em>gone on ascent.</em></h1>
+      <p class="error-desc">The page you are looking for does not exist, has been moved, or is taking a longer route than expected.</p>
+      <div class="error-actions">
+        <a href="/" class="btn-pill">Return Home</a>
+        <a href="/journal/" class="btn-pill btn-outline">Read the Journal</a>
+        <a href="/topics/" class="btn-pill btn-outline">Explore Topics</a>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .error-section {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 6rem 1rem;
+  }
+  .kicker {
+    font-family: 'Inter', sans-serif;
+    font-size: 5rem;
+    font-weight: 700;
+    color: var(--gold);
+    margin-bottom: 1rem;
+    letter-spacing: 0.05em;
+  }
+  h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    color: var(--ink);
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+  }
+  h1 em {
+    color: var(--gold);
+    font-style: italic;
+  }
+  .error-desc {
+    font-size: 1.1rem;
+    color: #666;
+    max-width: 500px;
+    margin: 0 auto 2.5rem;
+    line-height: 1.7;
+  }
+  .error-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .btn-pill {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    border-radius: 999px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    background: var(--ink);
+    color: var(--cream);
+    transition: all 0.3s;
+  }
+  .btn-pill:hover {
+    background: var(--gold);
+    color: var(--cream);
+  }
+  .btn-outline {
+    background: transparent;
+    color: var(--ink);
+    border: 1.5px solid var(--ink);
+  }
+  .btn-outline:hover {
+    background: var(--ink);
+    color: var(--cream);
+  }
+</style>
