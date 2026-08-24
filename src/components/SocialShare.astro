@@ -12,9 +12,29 @@ const { title, description } = Astro.props;
   <a class="social-btn" data-share="facebook" href="#" aria-label="Share on Facebook">Facebook</a>
   <a class="social-btn" data-share="x" href="#" aria-label="Share on X">X</a>
   <a class="social-btn" data-share="whatsapp" href="#" aria-label="Share on WhatsApp">WhatsApp</a>
+  <button class="social-btn" data-share="instagram" type="button" aria-label="Share on Instagram">Instagram</button>
   <button class="social-btn" data-share="copy" type="button" aria-label="Copy link">Copy Link</button>
   <span id="share-msg" class="social-msg" aria-live="polite"></span>
 </div>
+
+<!-- Instagram Image Preview -->
+<div class="ig-modal" data-ig-modal>
+  <div class="ig-modal-content">
+    <div class="ig-modal-header">
+      <h3>Share on Instagram</h3>
+      <button class="ig-modal-close" data-ig-close aria-label="Close">✕</button>
+    </div>
+    <div class="ig-preview">
+      <canvas data-ig-canvas width="1080" height="1080"></canvas>
+    </div>
+    <div class="ig-modal-actions">
+      <button class="btn-pill" data-ig-download>Download Image</button>
+      <button class="btn-pill btn-pill-outline" data-ig-copy>Copy to Clipboard</button>
+    </div>
+    <p class="ig-modal-note">Download the image and share it on Instagram, Stories, or anywhere.</p>
+  </div>
+</div>
+
 <script define:vars={{ title, description }}>
   const root = document.currentScript?.closest('.social-share') || document.querySelector('.social-share');
   if (root) {
@@ -24,17 +44,138 @@ const { title, description } = Astro.props;
     const fb = root.querySelector('[data-share="facebook"]');
     const x = root.querySelector('[data-share="x"]');
     const wa = root.querySelector('[data-share="whatsapp"]');
+    const igBtn = root.querySelector('[data-share="instagram"]');
     const copyBtn = root.querySelector('[data-share="copy"]');
     const msg = root.querySelector('#share-msg');
     if (fb) fb.setAttribute('href', `https://www.facebook.com/sharer/sharer.php?u=${encUrl}`);
     if (x) x.setAttribute('href', `https://twitter.com/intent/tweet?url=${encUrl}&text=${encTitle}`);
     if (wa) wa.setAttribute('href', `https://wa.me/?text=${encTitle}%20${encUrl}`);
     [fb, x, wa].forEach((a) => { if (a) { a.setAttribute('target','_blank'); a.setAttribute('rel','noopener'); }});
+
     if (copyBtn && msg) {
       copyBtn.addEventListener('click', async () => {
         try { await navigator.clipboard.writeText(url); msg.textContent = 'Link copied!'; } catch { msg.textContent = url; }
         setTimeout(()=> msg.textContent='', 2500);
       });
     }
+
+    // Instagram Image Generation
+    const igModal = document.querySelector('[data-ig-modal]');
+    const igCanvas = igModal?.querySelector('[data-ig-canvas]');
+    const igClose = igModal?.querySelector('[data-ig-close]');
+    const igDownload = igModal?.querySelector('[data-ig-download]');
+    const igCopy = igModal?.querySelector('[data-ig-copy]');
+
+    function generateImage() {
+      const ctx = igCanvas?.getContext('2d');
+      if (!ctx || !igCanvas) return;
+
+      const W = 1080, H = 1080;
+      igCanvas.width = W;
+      igCanvas.height = H;
+
+      // Background
+      ctx.fillStyle = '#121212';
+      ctx.fillRect(0, 0, W, H);
+
+      // Decorative elements
+      ctx.strokeStyle = 'rgba(166, 124, 82, 0.15)';
+      ctx.lineWidth = 2;
+      for (let i = 0; i < 5; i++) {
+        ctx.beginPath();
+        ctx.moveTo(80 + i * 50, 80);
+        ctx.lineTo(80 + i * 50, H - 80);
+        ctx.stroke();
+      }
+
+      // Quote mark
+      ctx.fillStyle = 'rgba(166, 124, 82, 0.2)';
+      ctx.font = 'italic 200px Georgia, serif';
+      ctx.textAlign = 'left';
+      ctx.fillText('\u201C', 100, 280);
+
+      // Extract first meaningful quote from article
+      const articleBody = document.querySelector('.article-body');
+      const firstQuote = articleBody?.querySelector('blockquote p, h2 + p, .article-body > p:not(.card-meta):not(.card-date)');
+      const quoteText = firstQuote?.textContent?.trim() || title;
+
+      // Wrap text
+      ctx.fillStyle = '#f9f7f2';
+      ctx.font = '500 46px Georgia, serif';
+      ctx.textAlign = 'center';
+      const maxWidth = W - 200;
+      const lineHeight = 68;
+      const words = quoteText.split(' ');
+      let line = '';
+      let y = 360;
+      for (const word of words) {
+        const testLine = line + word + ' ';
+        const metrics = ctx.measureText(testLine);
+        if (metrics.width > maxWidth && line) {
+          ctx.fillText(line.trim(), W / 2, y);
+          line = word + ' ';
+          y += lineHeight;
+        } else {
+          line = testLine;
+        }
+      }
+      ctx.fillText(line.trim(), W / 2, y);
+
+      // Author
+      ctx.fillStyle = '#a67c52';
+      ctx.font = '400 30px Georgia, serif';
+      ctx.fillText('— Motiva Hub', W / 2, y + 90);
+
+      // Brand
+      ctx.fillStyle = 'rgba(166, 124, 82, 0.4)';
+      ctx.font = '600 22px Helvetica Neue, sans-serif';
+      ctx.fillText('MOTIVA HUB', W / 2, H - 80);
+    }
+
+    igBtn?.addEventListener('click', () => {
+      generateImage();
+      igModal?.classList.add('open');
+    });
+
+    igClose?.addEventListener('click', () => igModal?.classList.remove('open'));
+    igModal?.addEventListener('click', (e) => { if (e.target === igModal) igModal.classList.remove('open'); });
+
+    igDownload?.addEventListener('click', () => {
+      const link = document.createElement('a');
+      link.download = 'motiva-hub-quote.png';
+      link.href = igCanvas?.toDataURL('image/png') || '';
+      link.click();
+    });
+
+    igCopy?.addEventListener('click', async () => {
+      try {
+        const blob = await new Promise((resolve) => igCanvas?.toBlob((b) => resolve(b), 'image/png'));
+        await navigator.clipboard.write([new ClipboardItem({ 'image/png': blob })]);
+        if (igCopy) igCopy.textContent = 'Copied!';
+        setTimeout(() => { if (igCopy) igCopy.textContent = 'Copy to Clipboard'; }, 2000);
+      } catch {
+        alert('Copy not supported. Use Download instead.');
+      }
+    });
   }
 </script>
+
+<style>
+  .ig-modal {
+    display: none; position: fixed; inset: 0; z-index: 200;
+    background: rgba(0,0,0,0.6); align-items: center; justify-content: center;
+    padding: 1rem;
+  }
+  .ig-modal.open { display: flex; }
+  .ig-modal-content {
+    background: #fff; border-radius: 16px; padding: 1.5rem; width: 100%; max-width: 420px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+  }
+  .ig-modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+  .ig-modal-header h3 { margin: 0; font-family: var(--font-display); font-size: 1.2rem; }
+  .ig-modal-close { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--muted); }
+  .ig-preview { max-width: 300px; margin: 0 auto 1.2rem; border-radius: 8px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.12); }
+  .ig-preview canvas { width: 100%; height: auto; display: block; }
+  .ig-modal-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+  .ig-modal-note { text-align: center; font-size: 0.8rem; color: var(--muted); margin-top: 1rem; }
+</style>
