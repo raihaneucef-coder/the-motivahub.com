@@ -2,6 +2,6 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://motivahub.vercel.app',
+  site: 'https://the-motivahub.com',
   integrations: [sitemap()],
 });
