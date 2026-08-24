@@ -39,7 +39,13 @@ const { title = "Are you ready for the next level?", subtitle = "One letter each
         const res = await fetch('https://formsubmit.co/ajax/raihaneucef@gmail.com', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-          body: JSON.stringify({ name: name || '(no name)', email, _subject: 'New Motiva Hub subscriber', _template: 'table' })
+          body: JSON.stringify({
+            name: name || '(no name)',
+            email,
+            _subject: 'New Motiva Hub subscriber',
+            _template: 'table',
+            ...(showPdf ? { _response: `Thanks for subscribing! Here is your free PDF: https://the-motivahub.com/30-days-discipline.pdf\n\nStart your 30-day journey now: https://the-motivahub.com/30-days-discipline/\n\n— Motiva Hub` } : {})
+          })
         });
         if (res.ok) {
           msg.textContent = name ? `Thanks, ${name}! Check your inbox — you’re on the list.` : 'Thanks! Check your inbox — you’re on the list.';
