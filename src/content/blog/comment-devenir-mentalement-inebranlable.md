@@ -51,7 +51,7 @@ Ta zone de confort ne s'agrandit que si tu la pousses. Sinon, elle rétrécit.
 
 <div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Le manuel complet du mental d'acier</strong></p>
-<p><a href="https://www.amazon.com/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=inebranlable" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Lire « Plus rien ne pourra me blesser » de David Goggins sur Amazon</a></p>
+<p><a href="https://www.amazon.fr/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=inebranlable" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Lire « Plus rien ne pourra me blesser » de David Goggins sur Amazon</a></p>
 </div>
 
 ## 4. Prends l'entière responsabilité — le miroir de vérité

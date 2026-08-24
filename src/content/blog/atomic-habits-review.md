@@ -35,7 +35,7 @@ We dedicated a full piece to this idea — [the two-minute threshold](/journal/t
 
 <div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Want the full system?</strong></p>
-<p><a href="https://www.amazon.com/dp/0735211299?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=atomic-habits-review" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Buy Atomic Habits on Amazon</a></p>
+<p><a href="https://www.amazon.fr/dp/0735211299?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=atomic-habits-review" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Buy Atomic Habits on Amazon</a></p>
 </div>
 
 ## Lesson 4: Design the Environment, Not the Willpower
@@ -58,4 +58,4 @@ Atomic Habits earns its reputation the way its subject would demand: quietly, co
 
 Read it slowly. Apply one lesson per week. Vote daily.
 
-<p><strong>Ready to start?</strong> <a href="https://www.amazon.com/dp/0735211299?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=atomic-habits-review" target="_blank" rel="nofollow sponsored noopener">Get your copy of Atomic Habits on Amazon</a> — and let the votes pile up.</p>
+<p><strong>Ready to start?</strong> <a href="https://www.amazon.fr/dp/0735211299?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=atomic-habits-review" target="_blank" rel="nofollow sponsored noopener">Get your copy of Atomic Habits on Amazon</a> — and let the votes pile up.</p>

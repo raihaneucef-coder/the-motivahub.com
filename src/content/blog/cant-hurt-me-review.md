@@ -33,7 +33,7 @@ This is not about destroying your health. It is about recognizing that discomfor
 
 <div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Ready for the cold water?</strong></p>
-<p><a href="https://www.amazon.com/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=cant-hurt-me-review" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Buy Can't Hurt Me on Amazon</a></p>
+<p><a href="https://www.amazon.fr/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=cant-hurt-me-review" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Buy Can't Hurt Me on Amazon</a></p>
 </div>
 
 ## Lesson 4: Callous Your Mind
@@ -54,4 +54,4 @@ Can't Hurt Me will not coddle you, and some readers will find Goggins extreme. F
 
 Nobody is coming to save your schedule, your health, or your dreams. And once that stops being terrifying, it becomes the most freeing sentence you have ever heard.
 
-<p><strong>Start tonight:</strong> <a href="https://www.amazon.com/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=cant-hurt-me-review" target="_blank" rel="nofollow sponsored noopener">Get Can't Hurt Me on Amazon</a> — and put the first sticky note on the mirror.</p>
+<p><strong>Start tonight:</strong> <a href="https://www.amazon.fr/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=cant-hurt-me-review" target="_blank" rel="nofollow sponsored noopener">Get Can't Hurt Me on Amazon</a> — and put the first sticky note on the mirror.</p>
