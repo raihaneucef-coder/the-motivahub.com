@@ -4,7 +4,7 @@ description: "Stop waiting to arrive. Success is not a place you reach — it is
 pubDate: 2026-08-22
 topic: "Success"
 readTime: "4 min read"
-image: "/images/blog/success-is-a-direction.svg"
+image: "/images/blog/success-is-a-direction.jpg"
 featured: false
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "There is a difference between resting on purpose and collapsing be
 pubDate: 2026-08-18
 topic: "Wellness"
 readTime: "4 min read"
-image: "/images/blog/rest-is-a-decision-not-a-collapse.svg"
+image: "/images/blog/rest-is-a-decision-not-a-collapse.jpg"
 featured: false
 draft: false
 ---

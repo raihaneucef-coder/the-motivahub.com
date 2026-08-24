@@ -3,7 +3,7 @@ title: "SMART Goals: The Framework That Actually Works"
 description: "Stop setting vague goals. The SMART framework — Specific, Measurable, Achievable, Relevant, Time-bound — turns wishes into results."
 pubDate: 2026-08-24
 readTime: "6 MIN"
-image: "/images/blog/smart-goals.svg"
+image: "/images/blog/smart-goals.jpg"
 topic: "Goals"
 ---
 

@@ -3,7 +3,7 @@ title: "Goal Accountability: Why You Need Someone to Keep You on Track"
 description: "Accountability doubles your chances of achieving a goal. Learn how to build an accountability system that keeps you committed and consistent."
 pubDate: 2026-08-24
 readTime: "5 MIN"
-image: "/images/blog/rendez-compte-objectifs.svg"
+image: "/images/blog/rendez-compte-objectifs.jpg"
 topic: "Goals"
 ---
 

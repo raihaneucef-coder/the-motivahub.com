@@ -4,7 +4,7 @@ description: "You do not need more motivation. You need a system that works on t
 pubDate: 2026-08-22
 topic: "Mindset"
 readTime: "5 min read"
-image: "/images/blog/motivation-fades-systems-dont.svg"
+image: "/images/blog/motivation-fades-systems-dont.jpg"
 featured: false
 draft: false
 ---

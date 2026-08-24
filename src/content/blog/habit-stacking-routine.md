@@ -3,7 +3,7 @@ title: "Habit Stacking: The Easiest Way to Build New Routines"
 description: "Learn how to chain your habits together using habit stacking. A proven method to create automatic routines without willpower."
 pubDate: 2026-08-24
 readTime: "5 MIN"
-image: "/images/blog/habit-stacking-routine.svg"
+image: "/images/blog/habit-stacking-routine.jpg"
 topic: "Habits"
 ---
 

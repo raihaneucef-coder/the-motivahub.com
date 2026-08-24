@@ -3,7 +3,7 @@ title: "Mental Resilience: How to Bounce Back from Anything"
 description: "Build unshakeable mental resilience. Learn the science-backed strategies to recover from setbacks and come back stronger than before."
 pubDate: 2026-08-24
 readTime: "7 MIN"
-image: "/images/blog/resilience-mentale.svg"
+image: "/images/blog/resilience-mentale.jpg"
 topic: "Mindset"
 ---
 

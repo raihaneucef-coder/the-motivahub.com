@@ -3,7 +3,7 @@ title: "How to Maintain Focus in a World Designed to Distract You"
 description: "Your attention is the most valuable asset you own. Learn how to protect it, sharpen it, and use it to achieve what matters most."
 pubDate: 2026-08-24
 readTime: "7 MIN"
-image: "/images/blog/focus-monde-distractions.svg"
+image: "/images/blog/focus-monde-distractions.jpg"
 topic: "Mindset"
 ---
 
