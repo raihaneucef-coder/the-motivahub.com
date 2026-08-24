@@ -4,7 +4,7 @@ description: "A good goal does not trap you — it points you. Learn how to set 
 pubDate: 2026-08-22
 topic: "Goals"
 readTime: "5 min read"
-image: "/images/blog/goals-are-a-compass-not-a-cage.jpg"
+image: "/images/blog/goals-are-a-compass-not-a-cage.svg"
 featured: false
 draft: false
 ---
