@@ -3,7 +3,7 @@ title: "How to Build Habits That Actually Last — The Science of Consistency"
 description: "Discover how to create habits that stick. A practical guide to building lasting routines, backed by neuroscience and daily discipline."
 pubDate: 2026-08-24
 readTime: "8 MIN"
-image: "/images/blog/comment-creer-des-habitudes.jpg"
+image: "/images/blog/comment-creer-des-habitudes.svg"
 topic: "Habits"
 ---
 

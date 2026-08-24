@@ -3,7 +3,7 @@ title: "How to Stop Procrastinating — The Real Science Behind Procrastination"
 description: "Understand why you procrastinate and learn proven techniques to beat it forever. Practical strategies to take action now."
 pubDate: 2026-08-24
 readTime: "7 MIN"
-image: "/images/blog/vaincre-procrastination.jpg"
+image: "/images/blog/vaincre-procrastination.svg"
 topic: "Productivity"
 ---
 

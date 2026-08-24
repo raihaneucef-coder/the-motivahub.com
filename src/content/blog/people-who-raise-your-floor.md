@@ -4,7 +4,7 @@ description: "You do not rise to the level of your goals — you fall to the lev
 pubDate: 2026-08-22
 topic: "Relationships"
 readTime: "5 min read"
-image: "/images/blog/people-who-raise-your-floor.jpg"
+image: "/images/blog/people-who-raise-your-floor.svg"
 featured: false
 draft: false
 ---

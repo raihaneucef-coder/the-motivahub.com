@@ -3,7 +3,7 @@ title: "How to Be More Productive — Work Smarter, Not Harder"
 description: "Boost your productivity with proven strategies. Learn to manage your time, eliminate distractions, and focus on what truly matters."
 pubDate: 2026-08-24
 readTime: "7 MIN"
-image: "/images/blog/productivite-efficace.jpg"
+image: "/images/blog/productivite-efficace.svg"
 topic: "Productivity"
 ---
 
