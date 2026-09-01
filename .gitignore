@@ -4,3 +4,8 @@ dist/
 .env
 .vercel
 .DS_Store
+reels/output/
+*.mp4
+*.mp3
+*.mov
+*.avi
