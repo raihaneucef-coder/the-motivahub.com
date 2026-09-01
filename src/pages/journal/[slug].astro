@@ -6,7 +6,12 @@ import SocialShare from "../../components/SocialShare.astro";
 import ToolCta from "../../components/ToolCta.astro";
 import AdSlot from "../../components/AdSlot.astro";
 import NewsletterSection from "../../components/NewsletterSection.astro";
+import AffiliateBanner from "../../components/AffiliateBanner.astro";
+import BookCTA from "../../components/BookCTA.astro";
+import AuthorBio from "../../components/AuthorBio.astro";
+import TableOfContents from "../../components/TableOfContents.astro";
 import { getCollection, render } from "astro:content";
+import { detectLangFromSlug } from "../../utils/lang";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -19,28 +24,103 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
 const all = (await getCollection("blog")).filter((p) => !p.data.draft).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const idx = all.findIndex((p) => p.id === post.id);
 const prev = all[idx + 1];
 const next = all[idx - 1];
-const related = all.filter((p) => p.id !== post.id && (p.data.topic === post.data.topic || p.data.topic.toLowerCase() === post.data.topic.toLowerCase())).slice(0, 3);
-const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.id).slice(0, 3);
+
+function scoreRelated(p: any): number {
+  if (p.id === post.id) return -1;
+  let s = 0;
+  if (p.data.topic.toLowerCase() === post.data.topic.toLowerCase()) s += 5;
+  const postWords = post.data.title.toLowerCase().split(/\W+/).filter((w: string) => w.length > 4);
+  const pWords = p.data.title.toLowerCase().split(/\W+/).filter((w: string) => w.length > 4);
+  const shared = postWords.filter((w: string) => pWords.includes(w)).length;
+  s += shared;
+  if (post.data.description && p.data.description) {
+    const d1 = post.data.description.toLowerCase();
+    const d2 = p.data.description.toLowerCase();
+    const d1Words = d1.split(/\W+/).filter((w: string) => w.length > 5);
+    const dShared = d1Words.filter((w: string) => d2.includes(w)).length;
+    s += dShared * 0.5;
+  }
+  return s;
+}
+
+const scored = all
+  .map((p) => ({ post: p, score: scoreRelated(p) }))
+  .filter((x) => x.score > 0)
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 4);
+const related = scored.length >= 1 ? scored.map((x) => x.post) : all.filter((p) => p.id !== post.id).slice(0, 4);
+const relatedPosts = related.slice(0, 4);
+
+const postLang = detectLangFromSlug(post.id);
+const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(post.data.topic) || post.data.topic.toLowerCase() === "books";
 ---
 
-<Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description} image={post.data.image} ogType="article">
+<Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description} image={post.data.image} ogType="article" lang={postLang}>
+  <meta slot="head" property="article:published_time" content={post.data.pubDate.toISOString()} />
+  <meta slot="head" property="article:modified_time" content={post.data.pubDate.toISOString()} />
+  <meta slot="head" name="keywords" content={(post.data.keywords || []).join(", ")} />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Article",
     headline: post.data.title,
     description: post.data.description,
-    image: `https://the-motivahub.com${post.data.image}`,
+    image: post.data.image.startsWith("http") ? post.data.image : `https://the-motivahub.com${post.data.image}`,
     datePublished: post.data.pubDate.toISOString(),
     dateModified: post.data.pubDate.toISOString(),
-    author: { "@type": "Person", name: "Youssef Raihane" },
+    inLanguage: postLang,
+    keywords: (post.data.keywords || []).join(", "),
+    articleSection: post.data.topic,
+    wordCount: post.data.wordCount || 0,
+    author: { "@type": "Person", name: "Youssef Raihane", url: "https://the-motivahub.com/about/" },
     publisher: { "@type": "Organization", name: "Motiva Hub", logo: { "@type": "ImageObject", url: "https://the-motivahub.com/logo.jpg" } },
     mainEntityOfPage: { "@type": "WebPage", "@id": `https://the-motivahub.com/journal/${post.id}/` }
   })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Journal", "item": "https://the-motivahub.com/journal/" },
+      { "@type": "ListItem", "position": 3, "name": post.data.title, "item": `https://the-motivahub.com/journal/${post.id}/` }
+    ]
+  })} />
+  {isReviewPost && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "itemReviewed": {
+        "@type": "Book",
+        "name": post.data.title.replace(/^(Book Review|Test|Review|Revue):?\s*/i, "").replace(/[—–-]\s*(review|revue|test|complete|complète).*$/i, "").trim()
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "author": { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/about/" },
+      "publisher": { "@type": "Organization", "name": "Motiva Hub" },
+      "datePublished": post.data.pubDate.toISOString(),
+      "inLanguage": postLang
+    })} />
+  )}
+  {post.data.faq && post.data.faq.length > 0 && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "inLanguage": postLang,
+      "mainEntity": post.data.faq.map((f) => ({
+        "@type": "Question",
+        "name": f.q,
+        "acceptedAnswer": { "@type": "Answer", "text": f.a }
+      }))
+    })} />
+  )}
   <article>
     <header class="article-header">
       <div class="container">
@@ -52,10 +132,15 @@ const relatedPosts = related.length ? related : all.filter((p) => p.id !== post.
     </header>
 
     <div class="article-body container">
+      {isReviewPost && <AffiliateBanner variant="callout" lang={postLang} />}
+      <TableOfContents headings={headings} />
       <Content />
+      {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} />
+      {isReviewPost && <AffiliateBanner variant="footer" lang={postLang} />}
       <SocialShare title={post.data.title} description={post.data.description} />
+      <AuthorBio variant="compact" showSchema={false} />
       <div class="article-nav">
         {prev ? <a class="link-ochre" href={`/journal/${prev.id}/`}>← {prev.data.title}</a> : <span></span>}
         <a class="link-ochre" href="/journal/">Return to Journal</a>

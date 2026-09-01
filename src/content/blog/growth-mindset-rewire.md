@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/growth-mindset-rewire.jpg"
 topic: "Mindset"
+keywords:
+  - "mindset"
+  - "growth"
+  - "fixed"
+  - "learn"
+  - "brain"
+  - "every"
+  - "failure"
+  - "celebrate"
+tags:
+  - "mindset"
+  - "how-to"
+wordCount: 679
+
 ---
 
 Your brain is not hardwired. It is softwired — and you hold the tools to rewire it.

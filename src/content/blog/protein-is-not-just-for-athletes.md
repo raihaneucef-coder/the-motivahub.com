@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/protein-is-not-just-for-athletes.jpg"
 featured: false
 draft: false
+keywords:
+  - "protein"
+  - "enough"
+  - "muscle"
+  - "full"
+  - "cheaper"
+  - "people"
+  - "survive"
+  - "thrive"
+tags:
+  - "nutrition"
+wordCount: 153
+
 ---
 
 We think protein is for bodybuilders. It is for anyone who wants to feel full and keep muscle.

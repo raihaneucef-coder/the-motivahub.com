@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/fuel-before-willpower.jpg"
 featured: false
 draft: false
+keywords:
+  - "fuel"
+  - "willpower"
+  - "discipline"
+  - "sugar"
+  - "something"
+  - "first"
+  - "expensive"
+  - "diet"
+tags:
+  - "nutrition"
+wordCount: 409
+
 ---
 
 We talk about discipline as if it were free.

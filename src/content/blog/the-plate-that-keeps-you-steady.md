@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/the-plate-that-keeps-you-steady.jpg"
 featured: false
 draft: false
+keywords:
+  - "steady"
+  - "plate"
+  - "quarter"
+  - "keeps"
+  - "energy"
+  - "carbs"
+  - "slow"
+  - "makes"
+tags:
+  - "nutrition"
+wordCount: 167
+
 ---
 
 A steady day starts with a steady plate.

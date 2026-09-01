@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/voyage-budget.jpg"
 topic: "Travel"
+keywords:
+  - "travel"
+  - "budget"
+  - "world"
+  - "expensive"
+  - "less"
+  - "cheap"
+  - "cheaper"
+  - "accommodation"
+tags:
+  - "travel"
+  - "how-to"
+wordCount: 258
+
 ---
 
 "Travel is too expensive" is the most common excuse for not exploring the world. But it is just that — an excuse. With the right strategies, you can travel for less than you spend at home.

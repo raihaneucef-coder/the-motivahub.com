@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/resolution-conflits.jpg"
 topic: "Relationships"
+keywords:
+  - "fight"
+  - "conflict"
+  - "resolution"
+  - "fair"
+  - "relationships"
+  - "relationship"
+  - "contempt"
+  - "person"
+tags:
+  - "relationships"
+  - "how-to"
+wordCount: 262
+
 ---
 
 Conflict is not the enemy of relationships. Contempt is. When you fight fairly, conflict can actually strengthen your bond. When you fight unfairly, it destroys trust.

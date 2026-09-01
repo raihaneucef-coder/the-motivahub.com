@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/play-is-practice-for-life.jpg"
 featured: false
 draft: false
+keywords:
+  - "play"
+  - "life"
+  - "game"
+  - "practice"
+  - "learn"
+  - "heavy"
+  - "work"
+  - "something"
+tags:
+  - "entertainment"
+wordCount: 198
+
 ---
 
 We stopped playing when life got serious. That is when we needed play most.

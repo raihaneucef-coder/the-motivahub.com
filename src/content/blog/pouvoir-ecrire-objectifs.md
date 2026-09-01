@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/pouvoir-ecrire-objectifs.jpg"
 topic: "Goals"
+keywords:
+  - "goal"
+  - "write"
+  - "writing"
+  - "goals"
+  - "written"
+  - "achieve"
+  - "brain"
+  - "becomes"
+tags:
+  - "goals"
+wordCount: 322
+
 ---
 
 There is a famous study from Dominican University where students who wrote down their goals were 42% more likely to achieve them than those who did not. Writing is not just recording — it is activating.

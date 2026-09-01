@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/force-mentale-sport.jpg"
 topic: "Sport"
+keywords:
+  - "mental"
+  - "toughness"
+  - "pressure"
+  - "failure"
+  - "perform"
+  - "best"
+  - "control"
+  - "even"
+tags:
+  - "sport"
+  - "how-to"
+wordCount: 309
+
 ---
 
 The best athletes in the world are not the most talented. They are the ones who can perform when the pressure is highest — when the crowd is loud, the stakes are high, and the margin for error is zero.

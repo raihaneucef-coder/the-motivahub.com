@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/secret-reussite.jpg"
 topic: "Mindset"
+keywords:
+  - "consistency"
+  - "people"
+  - "success"
+  - "talent"
+  - "work"
+  - "every"
+  - "habit"
+  - "secret"
+tags:
+  - "mindset"
+wordCount: 661
+
 ---
 
 We admire successful people and assume they have something we do not. A special talent. A secret advantage. A hidden connection.

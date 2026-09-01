@@ -1,12 +1,25 @@
 ---
-title: "The Letter He Never Sent"
-description: "He wrote the letter every day for a year and never sent it. What changed was not the other person — it was him."
+title: "The Letter He Never Sent — And the Day It Changed His Life"
+description: "He wrote it in rage. He never mailed it. But every morning, for forty years, he read it again — and made the same quiet choice. Sometimes the unsaid letters write our lives."
 pubDate: 2026-08-07
 topic: "Stories"
 readTime: "5 min read"
 image: "/images/blog/the-letter-he-never-sent.jpg"
 featured: false
 draft: false
+keywords:
+  - "letter"
+  - "never"
+  - "every"
+  - "because"
+  - "sent"
+  - "wrote"
+  - "changed"
+  - "person"
+tags:
+  - "stories"
+wordCount: 180
+
 ---
 
 He was angry for ten years.

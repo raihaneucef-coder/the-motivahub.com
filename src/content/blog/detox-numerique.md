@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/detox-numerique.jpg"
 topic: "Wellness"
+keywords:
+  - "screen"
+  - "time"
+  - "screens"
+  - "sleep"
+  - "social"
+  - "detox"
+  - "destroying"
+  - "health"
+tags:
+  - "wellness"
+wordCount: 273
+
 ---
 
 Your phone is the first thing you touch in the morning and the last thing you touch at night. It is also destroying your health — and you do not even realize it.

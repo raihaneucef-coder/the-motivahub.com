@@ -5,6 +5,19 @@ pubDate: 2026-07-27
 readTime: "8 MIN"
 image: "/images/blog/when-motivation-leaves.jpg"
 topic: "Discipline"
+keywords:
+  - "motivation"
+  - "weather"
+  - "building"
+  - "minimum"
+  - "discipline"
+  - "feel"
+  - "feeling"
+  - "schedule"
+tags:
+  - "discipline"
+wordCount: 722
+
 ---
 
 Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day.

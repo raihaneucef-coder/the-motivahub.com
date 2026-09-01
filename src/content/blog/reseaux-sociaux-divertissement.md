@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/reseaux-sociaux-divertissement.jpg"
 topic: "Entertainment"
+keywords:
+  - "social"
+  - "media"
+  - "without"
+  - "time"
+  - "enjoy"
+  - "learn"
+  - "tool"
+  - "intentionally"
+tags:
+  - "entertainment"
+  - "how-to"
+wordCount: 261
+
 ---
 
 Social media is the most powerful tool ever created — and the most dangerous. It connects you to the world and disconnects you from yourself. The key is using it intentionally.

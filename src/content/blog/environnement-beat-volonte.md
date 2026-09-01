@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/environnement-beat-volonte.jpg"
 topic: "Habits"
+keywords:
+  - "environment"
+  - "behavior"
+  - "habits"
+  - "willpower"
+  - "design"
+  - "want"
+  - "make"
+  - "good"
+tags:
+  - "habits"
+wordCount: 612
+
 ---
 
 You do not resist temptation. You avoid it. This is the secret that people with good habits understand — and the secret that people who struggle with habits miss entirely.

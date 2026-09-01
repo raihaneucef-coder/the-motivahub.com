@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/arreter-couper-avis.jpg"
 topic: "Confidence"
+keywords:
+  - "think"
+  - "people"
+  - "others"
+  - "opinions"
+  - "caring"
+  - "yourself"
+  - "fear"
+  - "days"
+tags:
+  - "confidence"
+  - "how-to"
+wordCount: 297
+
 ---
 
 The average person spends 5 hours a day worrying about what others think. That is 75 days per year spent on opinions that do not matter.

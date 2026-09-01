@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/discipline-beat-motivation.jpg"
 topic: "Discipline"
+keywords:
+  - "discipline"
+  - "motivation"
+  - "cannot"
+  - "system"
+  - "says"
+  - "start"
+  - "write"
+  - "days"
+tags:
+  - "discipline"
+wordCount: 522
+
 ---
 
 Motivation feels amazing. When you are motivated, you can conquer the world. The problem is that motivation disappears — usually within 48 hours of getting inspired.

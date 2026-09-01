@@ -7,18 +7,23 @@ interface Props {
   image?: string;
   noindex?: boolean;
   ogType?: string;
+  lang?: "en" | "fr";
 }
 
-const { title, description, image = "/images/hero.jpg", noindex = false, ogType = "website" } = Astro.props;
+const { title, description, image = "/images/hero.jpg", noindex = false, ogType = "website", lang } = Astro.props;
 const canonical = Astro.url.href;
 const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
+const isFr = lang === "fr" || Astro.url.pathname.startsWith("/fr") || Astro.url.searchParams.get("lang") === "fr";
+const htmlLang = isFr ? "fr" : "en";
+const ogLocale = isFr ? "fr_FR" : "en_US";
+const ogLocaleAlt = isFr ? "en_US" : "fr_FR";
 const gaSnippet = GA_ID
   ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`
   : "";
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={htmlLang}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -36,8 +41,19 @@ const gaSnippet = GA_ID
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:site_name" content="Motiva Hub" />
-    <meta property="og:locale" content="en_US" />
-    <meta name="twitter:card" content="summary_large_image" />
+<meta property="og:locale" content={ogLocale} />
+<meta property="og:locale:alternate" content={ogLocaleAlt} />
+{ogType === "article" && (
+  <>
+    <meta property="article:author" content="Youssef Raihane" />
+    <meta property="article:section" content="Self-Improvement" />
+  </>
+)}
+<link rel="alternate" hreflang="en" href={new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).href} />
+<link rel="alternate" hreflang="fr" href={new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).href} />
+<link rel="alternate" hreflang="x-default" href={new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).href} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="theme-color" content="#0b0b0b" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
@@ -56,6 +72,38 @@ const gaSnippet = GA_ID
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="/styles/global.css" />
+    <slot name="head" />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://the-motivahub.com/#organization",
+          "name": "Motiva Hub",
+          "url": "https://the-motivahub.com",
+          "logo": { "@type": "ImageObject", "url": "https://the-motivahub.com/logo.jpg" },
+          "founder": { "@type": "Person", "@id": "https://the-motivahub.com/author/youssef-raihane/#person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/author/youssef-raihane/" },
+          "sameAs": [
+            "https://www.instagram.com/motivahub/",
+            "https://twitter.com/motivahub"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://the-motivahub.com/#website",
+          "url": "https://the-motivahub.com",
+          "name": "Motiva Hub",
+          "description": "A premium editorial sanctuary for the disciplined mind. Mindset, habits and the long ascent — one idea at a time.",
+          "publisher": { "@id": "https://the-motivahub.com/#organization" },
+          "inLanguage": ["en", "fr"],
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://the-motivahub.com/journal/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    })} />
   </head>
   <body>
     <header class="site-header" id="site-header">
@@ -84,17 +132,36 @@ const gaSnippet = GA_ID
         <button class="menu-btn menu-btn-cream" id="menu-close" aria-label="Close menu" data-i18n="close">Close</button>
       </div>
       <nav class="overlay-nav" aria-label="Fullscreen menu">
-        <a href="/">01 <span data-i18n="home">Home</span></a>
-        <a href="/about/">02 <span data-i18n="about">About</span></a>
-        <a href="/topics/">03 <span data-i18n="topics">Topics</span></a>
-        <a href="/journal/">04 <span data-i18n="journal">Journal</span></a>
-        <a href="/books/">05 <span data-i18n="books">Books</span></a>
-        <a href="/quotes/">06 <span data-i18n="quotes">Quotes</span></a>
-        <a href="/podcast/">07 <span data-i18n="podcast">Podcast</span></a>
-        <a href="/contact/">08 <span data-i18n="contact">Contact</span></a>
-        <a href="/tracker/">09 <span>Habit Tracker</span></a>
-        <a href="/psychology/">10 <span>Psychology</span></a>
-        <a href="/memento-mori/">11 <span>Memento Mori</span></a>
+        <div class="overlay-nav-section">
+          <p class="overlay-nav-heading">Pages</p>
+          <a href="/">01 <span data-i18n="home">Home</span></a>
+          <a href="/about/">02 <span data-i18n="about">About</span></a>
+          <a href="/author/youssef-raihane/">03 <span>The Author</span></a>
+          <a href="/topics/">04 <span data-i18n="topics">Topics</span></a>
+          <a href="/contact/">05 <span data-i18n="contact">Contact</span></a>
+        </div>
+        <div class="overlay-nav-section">
+          <p class="overlay-nav-heading">Read</p>
+          <a href="/journal/">06 <span data-i18n="journal">Journal</span></a>
+          <a href="/books/">07 <span data-i18n="books">Books</span></a>
+          <a href="/quotes/">08 <span data-i18n="quotes">Quotes</span></a>
+          <a href="/podcast/">09 <span data-i18n="podcast">Podcast</span></a>
+        </div>
+        <div class="overlay-nav-section">
+          <p class="overlay-nav-heading">Best Of</p>
+          <a href="/best/books/">10 <span>Best Self-Help Books</span></a>
+          <a href="/best/focus-books/">11 <span>Best Focus Books</span></a>
+          <a href="/best/habit-books/">12 <span>Best Habit Books</span></a>
+          <a href="/best/stoicism-books/">13 <span>Best Stoicism Books</span></a>
+        </div>
+        <div class="overlay-nav-section">
+          <p class="overlay-nav-heading">Tools</p>
+          <a href="/tracker/">14 <span>Habit Tracker</span></a>
+          <a href="/memento-mori/">15 <span>Memento Mori</span></a>
+          <a href="/psychology/">16 <span>Psychology</span></a>
+          <a href="/objectives/">17 <span>Daily Objectives</span></a>
+          <a href="/30-days-discipline/">18 <span>30 Days of Discipline</span></a>
+        </div>
       </nav>
       <div class="overlay-foot container">
         <button class="btn-pill btn-pill-cream" type="button" onclick="document.getElementById('newsletter')?.scrollIntoView({behavior:'smooth'}); document.getElementById('overlay-menu')?.classList.remove('open'); document.body.style.overflow='';">Subscribe</button>
@@ -116,6 +183,10 @@ const gaSnippet = GA_ID
           <a href="/journal/">Journal</a>
           <a href="/topics/">Topics</a>
           <a href="/books/">Books</a>
+          <a href="/best/books/">Best Books 2026</a>
+          <a href="/best/focus-books/">Best Focus Books</a>
+          <a href="/best/habit-books/">Best Habit Books</a>
+          <a href="/best/stoicism-books/">Best Stoicism Books</a>
           <a href="/quotes/">Quotes</a>
           <a href="/podcast/">Podcast</a>
           <a href="/objectives/">Objectives</a>

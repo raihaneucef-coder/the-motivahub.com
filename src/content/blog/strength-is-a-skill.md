@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/strength-is-a-skill.jpg"
 featured: false
 draft: false
+keywords:
+  - "strength"
+  - "form"
+  - "skill"
+  - "talent"
+  - "people"
+  - "progress"
+  - "patience"
+  - "something"
+tags:
+  - "sport"
+wordCount: 176
+
 ---
 
 We treat strength as something people have. It is something people build, rep by rep, with attention.

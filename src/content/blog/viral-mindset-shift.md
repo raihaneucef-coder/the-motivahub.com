@@ -5,6 +5,19 @@ pubDate: 2026-08-19
 readTime: "6 MIN"
 image: "/images/blog/viral-mindset-shift.jpg"
 topic: "Mindset"
+keywords:
+  - "viral"
+  - "identity"
+  - "mindset"
+  - "clip"
+  - "says"
+  - "idea"
+  - "seconds"
+  - "because"
+tags:
+  - "mindset"
+wordCount: 273
+
 ---
 
 A powerful mindset video is not a speech. It is 27 seconds of a man saying: "You do not rise to your goals. You fall to your identity." The comments are not about the words — they are about the shock of recognition.

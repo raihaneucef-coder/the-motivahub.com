@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/success-is-a-direction.jpg"
 featured: false
 draft: false
+keywords:
+  - "success"
+  - "direction"
+  - "destination"
+  - "walk"
+  - "door"
+  - "north"
+  - "today"
+  - "place"
+tags:
+  - "success"
+wordCount: 157
+
 ---
 
 We picture success as a door. Once we walk through it, we will finally feel done.

@@ -5,6 +5,20 @@ pubDate: 2026-08-10
 readTime: "7 MIN"
 image: "/images/blog/social-muscle.jpg"
 topic: "Personal Growth"
+keywords:
+  - "social"
+  - "community"
+  - "muscle"
+  - "connection"
+  - "discipline"
+  - "lesson"
+  - "grows"
+  - "says"
+tags:
+  - "personal growth"
+  - "discipline"
+wordCount: 262
+
 ---
 
 A brief social lesson is 19 seconds long: a man says, "You do not find community. You build it, one awkward hello at a time." The message resonates not because of charisma — but because of relief. Everyone thought they were the only ones who found it hard.

@@ -7,6 +7,20 @@ readTime: "4 min read"
 image: "/images/blog/five-minute-friendship-habit.jpg"
 featured: false
 draft: false
+keywords:
+  - "friendship"
+  - "time"
+  - "need"
+  - "minutes"
+  - "next"
+  - "minute"
+  - "habit"
+  - "attention"
+tags:
+  - "relationships"
+  - "habits"
+wordCount: 204
+
 ---
 
 We tell ourselves friendship needs big blocks of time we do not have. So we wait for the free weekend that never comes, and friendships quietly go hungry.

@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/confidence-is-a-record-not-a-feeling.jpg"
 featured: false
 draft: false
+keywords:
+  - "record"
+  - "confidence"
+  - "feeling"
+  - "promise"
+  - "small"
+  - "built"
+  - "wait"
+  - "kept"
+tags:
+  - "confidence"
+wordCount: 296
+
 ---
 
 We wait to feel confident before we act. It is a polite way to stay still.

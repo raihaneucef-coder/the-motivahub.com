@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/lire-divertissement.jpg"
 topic: "Entertainment"
+keywords:
+  - "reading"
+  - "entertainment"
+  - "read"
+  - "lives"
+  - "books"
+  - "brain"
+  - "better"
+  - "vocabulary"
+tags:
+  - "entertainment"
+wordCount: 216
+
 ---
 
 Reading is the most underrated form of entertainment. It is free (or nearly free), portable, and it improves your brain while you enjoy it. No other entertainment can claim that.

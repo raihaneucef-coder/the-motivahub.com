@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/play-on-purpose.jpg"
 featured: false
 draft: false
+keywords:
+  - "play"
+  - "rest"
+  - "recovery"
+  - "effort"
+  - "scrolling"
+  - "escape"
+  - "life"
+  - "chosen"
+tags:
+  - "entertainment"
+wordCount: 404
+
 ---
 
 Nobody warns you that rest can be exhausting.

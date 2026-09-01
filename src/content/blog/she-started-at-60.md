@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/she-started-at-60.jpg"
 featured: false
 draft: false
+keywords:
+  - "late"
+  - "started"
+  - "years"
+  - "time"
+  - "everyone"
+  - "start"
+  - "advantage"
+  - "said"
+tags:
+  - "stories"
+wordCount: 162
+
 ---
 
 At 60, she started a small bakery. Her friends said, "At your age?"

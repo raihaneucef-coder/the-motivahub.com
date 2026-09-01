@@ -7,6 +7,20 @@ readTime: "4 min read"
 image: "/images/blog/run-your-own-race.jpg"
 featured: false
 draft: false
+keywords:
+  - "race"
+  - "start"
+  - "pace"
+  - "person"
+  - "pacing"
+  - "everyone"
+  - "sprints"
+  - "running"
+tags:
+  - "sport"
+  - "discipline"
+wordCount: 170
+
 ---
 
 The start of any race is loud. Everyone sprints. The crowd cheers the fast start.

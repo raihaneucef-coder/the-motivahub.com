@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/recovery-is-training.jpg"
 featured: false
 draft: false
+keywords:
+  - "easy"
+  - "recovery"
+  - "training"
+  - "hours"
+  - "sleep"
+  - "train"
+  - "recover"
+  - "stronger"
+tags:
+  - "sport"
+wordCount: 142
+
 ---
 
 We glorify the lift and ignore the rest that makes the lift matter.

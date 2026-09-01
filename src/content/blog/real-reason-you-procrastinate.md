@@ -5,6 +5,19 @@ pubDate: 2026-08-16
 readTime: "6 MIN"
 image: "/images/blog/real-reason-you-procrastinate.jpg"
 topic: "Productivity"
+keywords:
+  - "procrastination"
+  - "feeling"
+  - "because"
+  - "task"
+  - "start"
+  - "self"
+  - "brain"
+  - "feel"
+tags:
+  - "productivity"
+wordCount: 586
+
 ---
 
 You are not lazy. Lazy people do not feel guilty while scrolling. You feel guilty, which means something entirely different is going on.

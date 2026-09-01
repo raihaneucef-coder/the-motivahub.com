@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/pourquoi-profond-objectifs.jpg"
 topic: "Goals"
+keywords:
+  - "deep"
+  - "goal"
+  - "want"
+  - "purpose"
+  - "because"
+  - "every"
+  - "find"
+  - "meaning"
+tags:
+  - "goals"
+wordCount: 342
+
 ---
 
 "I want to lose 10 kg." But why? "Because I want to be healthier." But why? "Because I want to be there for my kids." That is the deep why.

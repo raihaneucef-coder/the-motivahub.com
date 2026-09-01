@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/beginner-again.jpg"
 featured: false
 draft: false
+keywords:
+  - "beginner"
+  - "travel"
+  - "learn"
+  - "back"
+  - "home"
+  - "escape"
+  - "left"
+  - "return"
+tags:
+  - "travel"
+wordCount: 409
+
 ---
 
 Expertise is a quiet trap.

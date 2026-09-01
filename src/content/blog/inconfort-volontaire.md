@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/inconfort-volontaire.jpg"
 topic: "Discipline"
+keywords:
+  - "discomfort"
+  - "voluntary"
+  - "easy"
+  - "choose"
+  - "comfort"
+  - "zone"
+  - "becomes"
+  - "mental"
+tags:
+  - "discipline"
+wordCount: 479
+
 ---
 
 You do not become tough by accident. You become tough by **choosing** things that are hard — not because you have to, but because you want to.

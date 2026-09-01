@@ -5,6 +5,21 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/deep-work-focus.jpg"
 topic: "Productivity"
+keywords:
+  - "work"
+  - "deep"
+  - "focus"
+  - "tracker"
+  - "best"
+  - "shallow"
+  - "eliminate"
+  - "minutes"
+tags:
+  - "productivity"
+  - "how-to"
+wordCount: 302
+bookSlug: deep-work
+
 ---
 
 Cal Newport defined deep work as "professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit." It is the skill that separates the best from the rest.

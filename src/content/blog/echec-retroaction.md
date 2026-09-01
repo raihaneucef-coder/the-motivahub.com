@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/echec-retroaction.jpg"
 topic: "Success"
+keywords:
+  - "failure"
+  - "work"
+  - "learn"
+  - "failed"
+  - "failures"
+  - "success"
+  - "setbacks"
+  - "every"
+tags:
+  - "success"
+  - "how-to"
+wordCount: 247
+
 ---
 
 Thomas Edison failed 10,000 times before inventing the lightbulb. When asked about his failures, he said: "I have not failed. I have just found 10,000 ways that will not work."

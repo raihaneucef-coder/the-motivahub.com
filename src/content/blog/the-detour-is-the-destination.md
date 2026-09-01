@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/the-detour-is-the-destination.jpg"
 featured: false
 draft: false
+keywords:
+  - "detour"
+  - "travel"
+  - "stories"
+  - "route"
+  - "destination"
+  - "happened"
+  - "planned"
+  - "says"
+tags:
+  - "travel"
+wordCount: 165
+
 ---
 
 We plan the route and miss the travel.

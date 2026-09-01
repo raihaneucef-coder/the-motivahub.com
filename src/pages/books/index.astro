@@ -6,6 +6,20 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
 ---
 
 <Layout title="The Bookstand — Motiva Hub" description="Six books we return to. A curated bookstand for the disciplined mind.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "The Wisdom Stack — Motiva Hub Bookstand",
+    "description": "Hand-picked books on mindset, habits, discipline, focus, stoicism.",
+    "url": "https://the-motivahub.com/books/",
+    "numberOfItems": books.length,
+    "itemListElement": books.map((b, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "name": `${b.title} by ${b.author}`,
+      "url": b.affiliateUrl || `https://the-motivahub.com/books/`
+    }))
+  })} />
   <section class="page-head">
     <div class="container">
       <p class="kicker" data-i18n="booksKicker">The Wisdom Stack</p>
@@ -16,6 +30,13 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
 
   <section class="feed">
     <div class="container">
+      <div class="best-links">
+        <p class="kicker">Looking for ranked picks?</p>
+        <a class="best-link" href="/best/books/">Best Self-Help Books 2026 →</a>
+        <a class="best-link" href="/best/focus-books/">Best Focus & Deep Work Books →</a>
+        <a class="best-link" href="/best/habit-books/">Best Habit & Discipline Books →</a>
+        <a class="best-link" href="/best/stoicism-books/">Best Stoicism Books →</a>
+      </div>
       <div class="book-grid">
         {books.map((book) => <BookCard book={book} />)}
       </div>
@@ -28,3 +49,39 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
 
   <NewsletterSection />
 </Layout>
+
+<style>
+  .best-links {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0 auto 40px;
+    max-width: 720px;
+    padding: 24px 28px;
+    background: var(--cream, #faf7f2);
+    border-left: 3px solid var(--gold, #c8a04a);
+    border-radius: 0 8px 8px 0;
+  }
+  .best-links .kicker {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 11px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--gold, #c8a04a);
+    margin: 0 0 6px;
+  }
+  .best-link {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    color: var(--ink, #1a1a1a);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 6px 0;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease, color 0.2s ease;
+  }
+  .best-link:hover {
+    color: var(--gold, #c8a04a);
+    border-color: var(--gold, #c8a04a);
+  }
+</style>

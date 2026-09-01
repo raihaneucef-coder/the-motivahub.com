@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/price-of-freedom.jpg"
 featured: false
 draft: false
+keywords:
+  - "freedom"
+  - "small"
+  - "payments"
+  - "because"
+  - "daily"
+  - "rented"
+  - "every"
+  - "boring"
+tags:
+  - "finance"
+wordCount: 235
+
 ---
 
 We imagine freedom as a finish line — a number that, once reached, will finally let us breathe.

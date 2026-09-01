@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/technique-pomodoro.jpg"
 topic: "Productivity"
+keywords:
+  - "work"
+  - "pomodoro"
+  - "pomodoros"
+  - "minutes"
+  - "technique"
+  - "timer"
+  - "minute"
+  - "works"
+tags:
+  - "productivity"
+wordCount: 267
+bookSlug: deep-work
+
 ---
 
 The Pomodoro Technique was invented by Francesco Cirillo in the 1980s. He named it after the tomato-shaped kitchen timer he used as a student. It is deceptively simple — and it works.

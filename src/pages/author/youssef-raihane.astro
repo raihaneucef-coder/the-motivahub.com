@@ -1,0 +1,304 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import ArticleCard from "../../components/ArticleCard.astro";
+import AuthorBio from "../../components/AuthorBio.astro";
+
+const posts = (await getCollection("blog"))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 12);
+
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://the-motivahub.com/author/youssef-raihane/#person",
+  name: "Youssef Raihane",
+  jobTitle: "Founder & Editor-in-Chief",
+  worksFor: { "@type": "Organization", name: "Motiva Hub", url: "https://the-motivahub.com" },
+  url: "https://the-motivahub.com/author/youssef-raihane/",
+  image: "https://the-motivahub.com/logo.jpg",
+  description: "Founder of Motiva Hub, a premium editorial sanctuary for the disciplined mind. 8 years applied practice in habits, focus, stoicism, performance systems. Writes from practice — not theory.",
+  knowsAbout: [
+    "Habits",
+    "Discipline",
+    "Stoicism",
+    "Deep Work",
+    "Productivity",
+    "Mental Models",
+    "Focus",
+    "Goal Setting",
+    "Performance Psychology",
+    "Behavior Change",
+  ],
+  sameAs: [
+    "https://www.linkedin.com/in/youssefraihane/",
+    "https://www.instagram.com/youssefraihane/",
+    "https://www.facebook.com/youssefraihane/",
+    "https://twitter.com/motivahub",
+  ],
+  foundingDate: "2019",
+  award: ["Top 10 Personal Development Sites (niche, 2026)"],
+};
+
+const breadcrumb = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Youssef Raihane", "item": "https://the-motivahub.com/author/youssef-raihane/" },
+  ],
+};
+---
+
+<Layout title="Youssef Raihane — Founder of Motiva Hub" description="Founder of Motiva Hub. 8 years applied practice in habits, focus, stoicism, performance. Writes from practice — not theory." image="/logo.jpg">
+  <link rel="canonical" href="https://the-motivahub.com/author/youssef-raihane/" />
+  <link rel="author" href="https://the-motivahub.com/author/youssef-raihane/" />
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
+
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Person Behind The Words</p>
+      <h1>Youssef <em>Raihane</em></h1>
+      <p>Founder & Editor-in-Chief of Motiva Hub. Building a sanctuary for the disciplined mind — one idea at a time.</p>
+    </div>
+  </section>
+
+  <section class="author-section">
+    <div class="container">
+      <div class="author-grid">
+        <div class="author-photo-wrap">
+          <img class="author-photo" src="/logo.jpg" alt="Youssef Raihane — Founder of Motiva Hub" />
+          <div class="author-meta-block">
+            <p class="author-meta-tag">Active since</p>
+            <p class="author-meta-value">2019</p>
+          </div>
+          <div class="author-meta-block">
+            <p class="author-meta-tag">Articles written</p>
+            <p class="author-meta-value">156</p>
+          </div>
+        </div>
+        <div class="author-bio-content">
+          <p class="kicker">My Promise To You</p>
+          <h2>I write what I I built.</h2>
+          <p>Motiva Hub is not a content farm. It is a daily practice, written in public, edited in private, and tested in my own life before it reaches yours.</p>
+          <p>I started this site in 2019 after a decade of reading the same five books on habits, focus, and discipline — and noticing that nobody was turning them into a daily, edible practice. The gap between knowing what to do and actually doing it, day after day, is the gap this site exists to close.</p>
+          <p>Eight years into building systems for myself — discipline rituals, focus stacks, sleep protocols — I can tell you one thing: <strong>motivation is a visitor, discipline is a resident</strong>. And the resident always wins.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="author-section author-section--alt">
+    <div class="container">
+      <div class="credentials-block">
+        <h2>Credentials & Verifiable Experience</h2>
+        <ul class="cred-list">
+          <li>
+            <span class="cred-tag">Practice</span>
+            <strong>8 years applied work</strong> in habits, focus, productivity, performance systems.
+          </li>
+          <li>
+            <span class="cred-tag">Study</span>
+            <strong>MSc candidate</strong> in Behavioral Psychology. Studied the science of behavior change, motivation, and self-regulation.
+          </li>
+          <li>
+            <span class="cred-tag">Research</span>
+            <strong>50+ titles reviewed and synthesized</strong> from the canon of self-improvement, philosophy, and performance.
+          </li>
+          <li>
+            <span class="cred-tag">Editorial</span>
+            <strong>156 essays published</strong>, organized into 16 topic clusters, with monthly updates and revisions.
+          </li>
+          <li>
+            <span class="cred-tag">Methodology</span>
+            Every recommendation is <strong>field-tested</strong>. I follow what I preach — even the inconvenient parts.
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="author-section">
+    <div class="container">
+      <div class="topics-block">
+        <h2>Topics I Write About</h2>
+        <div class="topics-pills">
+          <span class="topic-pill">Habits</span>
+          <span class="topic-pill">Discipline</span>
+          <span class="topic-pill">Stoicism</span>
+          <span class="topic-pill">Deep Work</span>
+          <span class="topic-pill">Productivity</span>
+          <span class="topic-pill">Focus</span>
+          <span class="topic-pill">Mental Models</span>
+          <span class="topic-pill">Goal Setting</span>
+          <span class="topic-pill">Performance Psychology</span>
+          <span class="topic-pill">Behavior Change</span>
+          <span class="topic-pill">Confidence</span>
+          <span class="topic-pill">Mindset</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="author-section author-section--alt">
+    <div class="container">
+      <AuthorBio variant="full" showSchema={false} />
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="feed-head">
+        <p class="kicker">Recent Essays</p>
+        <a class="link-ochre" href="/journal/">All Essays →</a>
+      </div>
+      <div class="grid">
+        {posts.map((p) => <ArticleCard post={p} />)}
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .author-section {
+    padding: 56px 0;
+  }
+  .author-section--alt {
+    background: var(--cream, #faf7f2);
+  }
+  .author-grid {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 56px;
+    align-items: start;
+  }
+  .author-photo-wrap {
+    text-align: center;
+  }
+  .author-photo {
+    width: 100%;
+    max-width: 240px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid var(--gold, #c8a04a);
+    margin-bottom: 24px;
+  }
+  .author-meta-block {
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 12px;
+    background: var(--white, #fff);
+  }
+  .author-meta-tag {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--muted, #888);
+    margin: 0 0 4px;
+  }
+  .author-meta-value {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--ink, #1a1a1a);
+    margin: 0;
+  }
+  .author-bio-content h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 36px;
+    font-weight: 600;
+    margin: 8px 0 24px;
+    color: var(--ink, #1a1a1a);
+    line-height: 1.2;
+  }
+  .author-bio-content p {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 16px;
+    line-height: 1.8;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 18px;
+  }
+  .credentials-block {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .credentials-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0 0 24px;
+    text-align: center;
+    color: var(--ink, #1a1a1a);
+  }
+  .cred-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .cred-list li {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--line, #e5e5e5);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--ink, #1a1a1a);
+  }
+  .cred-tag {
+    flex-shrink: 0;
+    display: inline-block;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--gold, #c8a04a);
+    background: rgba(200, 160, 74, 0.1);
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-weight: 700;
+    min-width: 90px;
+    text-align: center;
+  }
+  .topics-block {
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .topics-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0 0 24px;
+    color: var(--ink, #1a1a1a);
+  }
+  .topics-pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  .topic-pill {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    color: var(--ink, #1a1a1a);
+    background: var(--white, #fff);
+    border: 1px solid var(--line, #e5e5e5);
+    padding: 10px 18px;
+    border-radius: 22px;
+  }
+  @media (max-width: 720px) {
+    .author-grid {
+      grid-template-columns: 1fr;
+      gap: 32px;
+    }
+    .author-bio-content h2 {
+      font-size: 28px;
+    }
+  }
+</style>

@@ -5,6 +5,19 @@ pubDate: 2026-08-09
 readTime: "6 MIN"
 image: "/images/blog/identity-precedes-outcome.jpg"
 topic: "Mindset"
+keywords:
+  - "identity"
+  - "person"
+  - "sentence"
+  - "goal"
+  - "vote"
+  - "level"
+  - "change"
+  - "goals"
+tags:
+  - "mindset"
+wordCount: 678
+
 ---
 
 You do not rise to the level of your goals; you fall to the level of your identity. Lasting change begins not with what you want, but with who you are.

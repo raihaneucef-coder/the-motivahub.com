@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/the-comeback-is-stronger.jpg"
 featured: false
 draft: false
+keywords:
+  - "comeback"
+  - "setback"
+  - "stronger"
+  - "built"
+  - "person"
+  - "because"
+  - "always"
+  - "every"
+tags:
+  - "personal growth"
+wordCount: 219
+
 ---
 
 They told you the fall would break you. It didn't. It built you.

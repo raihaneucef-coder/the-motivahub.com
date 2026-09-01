@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/batching-productivite.jpg"
 topic: "Productivity"
+keywords:
+  - "batching"
+  - "batch"
+  - "tasks"
+  - "work"
+  - "switching"
+  - "time"
+  - "check"
+  - "email"
+tags:
+  - "productivity"
+wordCount: 265
+
 ---
 
 Every time you switch between different types of tasks, your brain pays a cognitive tax. It takes time to refocus, reorient, and get back into flow. Batching eliminates this tax.

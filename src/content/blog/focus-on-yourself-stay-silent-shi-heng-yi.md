@@ -5,6 +5,19 @@ pubDate: 2026-08-22
 readTime: "6 MIN"
 image: "/images/blog/focus-on-yourself-stay-silent-shi-heng-yi.jpg"
 topic: "Mindset"
+keywords:
+  - "silence"
+  - "heng"
+  - "bruit"
+  - "plus"
+  - "quand"
+  - "fais"
+  - "focus"
+  - "discipline"
+tags:
+  - "mindset"
+wordCount: 608
+
 ---
 
 > *Source d'inspiration : [Shi Heng Yi — Focus on Yourself and Stay Silent (YouTube)](https://www.youtube.com/watch?v=teJ_rMsFJn0)*

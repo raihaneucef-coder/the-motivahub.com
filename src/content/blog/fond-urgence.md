@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/fond-urgence.jpg"
 topic: "Finance"
+keywords:
+  - "emergency"
+  - "fund"
+  - "expenses"
+  - "financial"
+  - "essential"
+  - "months"
+  - "unexpected"
+  - "keep"
+tags:
+  - "finance"
+wordCount: 261
+
 ---
 
 Your car breaks down. Your roof leaks. You get sick. These are not possibilities — they are certainties. The question is not if they will happen, but when. An emergency fund is what keeps them from becoming financial disasters.

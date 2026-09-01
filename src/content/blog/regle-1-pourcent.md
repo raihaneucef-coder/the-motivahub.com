@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/regle-1-pourcent.jpg"
 topic: "Personal Growth"
+keywords:
+  - "year"
+  - "minutes"
+  - "daily"
+  - "discipline"
+  - "pages"
+  - "hours"
+  - "enough"
+  - "rule"
+tags:
+  - "personal growth"
+  - "how-to"
+wordCount: 223
+
 ---
 
 If you improve by 1% every day for a year, you will be 37 times better by the end of the year. This is the compound effect, and it is the most powerful force in personal growth.

@@ -5,6 +5,20 @@ pubDate: 2026-08-02
 readTime: "5 MIN"
 image: "/images/blog/two-minute-threshold.jpg"
 topic: "Habits"
+keywords:
+  - "doorway"
+  - "habit"
+  - "minutes"
+  - "becomes"
+  - "open"
+  - "minute"
+  - "sentence"
+  - "shrink"
+tags:
+  - "habits"
+wordCount: 668
+bookSlug: atomic-habits
+
 ---
 
 A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever.

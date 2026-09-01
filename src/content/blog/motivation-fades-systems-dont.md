@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/motivation-fades-systems-dont.jpg"
 featured: false
 draft: false
+keywords:
+  - "motivation"
+  - "room"
+  - "system"
+  - "mood"
+  - "page"
+  - "small"
+  - "habit"
+  - "need"
+tags:
+  - "mindset"
+wordCount: 507
+
 ---
 
 Motivation is a mood. It arrives uninvited, usually on a good night's sleep and a clear calendar, and it leaves the same way — without warning, halfway through a Tuesday. If your progress depends on it showing up, your progress depends on the weather.

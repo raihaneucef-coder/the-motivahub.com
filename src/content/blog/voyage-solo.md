@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/voyage-solo.jpg"
 topic: "Travel"
+keywords:
+  - "travel"
+  - "alone"
+  - "solo"
+  - "learn"
+  - "city"
+  - "freedom"
+  - "want"
+  - "confidence"
+tags:
+  - "travel"
+wordCount: 235
+
 ---
 
 Most people are terrified of traveling alone. They imagine eating alone, being lost in a foreign city, and having no one to talk to. But solo travel is not about loneliness — it is about freedom.

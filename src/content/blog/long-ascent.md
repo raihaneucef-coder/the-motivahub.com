@@ -1,10 +1,23 @@
 ---
-title: "The Long Ascent"
-description: "Growth is not a staircase but a mountain. The plateaus are not failures — they are the ground reorganising itself beneath you."
+title: "The Long Ascent: Why Slow Climbers Reach the Top and Sprinters Burn Out"
+description: "There are two kinds of climbers — the ones who sprint and the ones who ascend. The sprinters hit a wall. The ascenders reach the summit. Here is why the long climb wins."
 pubDate: 2026-07-18
 readTime: "9 MIN"
 image: "/images/blog/long-ascent.jpg"
 topic: "Personal Growth"
+keywords:
+  - "mountain"
+  - "summit"
+  - "growth"
+  - "every"
+  - "climb"
+  - "plateau"
+  - "false"
+  - "long"
+tags:
+  - "personal growth"
+wordCount: 720
+
 ---
 
 Growth is not a staircase but a mountain. The plateaus are not failures — they are the ground reorganising itself beneath you.

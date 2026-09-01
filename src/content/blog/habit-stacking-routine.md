@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/habit-stacking-routine.jpg"
 topic: "Habits"
+keywords:
+  - "habit"
+  - "chain"
+  - "routine"
+  - "stacking"
+  - "write"
+  - "minutes"
+  - "build"
+  - "read"
+tags:
+  - "habits"
+wordCount: 679
+
 ---
 
 You already have dozens of habits. You wake up, brush your teeth, make coffee, check your phone. These behaviors run on autopilot. The key to building new habits is to **attach them to the ones that already exist**.

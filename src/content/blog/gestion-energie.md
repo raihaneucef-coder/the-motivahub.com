@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/gestion-energie.jpg"
 topic: "Productivity"
+keywords:
+  - "energy"
+  - "management"
+  - "time"
+  - "performance"
+  - "hours"
+  - "daily"
+  - "take"
+  - "mental"
+tags:
+  - "productivity"
+wordCount: 289
+
 ---
 
 You can have 8 hours in a day and waste every one of them if your energy is low. You can have 2 hours and accomplish more than most people do in a full day — if your energy is high.

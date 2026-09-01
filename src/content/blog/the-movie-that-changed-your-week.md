@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/the-movie-that-changed-your-week.jpg"
 featured: false
 draft: false
+keywords:
+  - "film"
+  - "week"
+  - "choose"
+  - "question"
+  - "want"
+  - "movie"
+  - "good"
+  - "life"
+tags:
+  - "entertainment"
+wordCount: 171
+
 ---
 
 A bad film wastes two hours. A good film gives you a week.

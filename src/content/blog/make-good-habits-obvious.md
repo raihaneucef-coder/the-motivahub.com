@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/make-good-habits-obvious.jpg"
 featured: false
 draft: false
+keywords:
+  - "habits"
+  - "want"
+  - "make"
+  - "good"
+  - "need"
+  - "obvious"
+  - "path"
+  - "keep"
+tags:
+  - "habits"
+wordCount: 183
+
 ---
 
 Willpower is not the problem. Visibility is.

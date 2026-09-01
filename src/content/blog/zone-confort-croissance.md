@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/zone-confort-croissance.jpg"
 topic: "Personal Growth"
+keywords:
+  - "zone"
+  - "discomfort"
+  - "comfort"
+  - "growth"
+  - "feel"
+  - "growing"
+  - "outside"
+  - "things"
+tags:
+  - "personal growth"
+wordCount: 254
+
 ---
 
 Your comfort zone is where you feel safe. No risk, no judgment, no failure. It is also where you stop growing. Growth only happens outside your comfort zone.

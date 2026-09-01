@@ -7,6 +7,20 @@ readTime: "4 min read"
 image: "/images/blog/debt-is-a-story.jpg"
 featured: false
 draft: false
+keywords:
+  - "debt"
+  - "story"
+  - "rewrite"
+  - "numbers"
+  - "make"
+  - "balance"
+  - "rate"
+  - "first"
+tags:
+  - "finance"
+  - "story"
+wordCount: 205
+
 ---
 
 Debt whispers that you are bad with money. That is not helpful, and it is not true.

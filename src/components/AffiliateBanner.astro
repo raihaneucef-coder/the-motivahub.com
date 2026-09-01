@@ -1,0 +1,96 @@
+---
+interface Props {
+  variant?: "inline" | "callout" | "footer";
+  lang?: "en" | "fr";
+}
+
+const { variant = "inline", lang = "en" } = Astro.props;
+const text = {
+  en: {
+    inline: "This article contains affiliate links. We may earn a small commission at no extra cost to you.",
+    callout: "We independently review what we recommend. Purchases through our links may earn us a commission — it never changes the price you pay.",
+    footer: "Disclosure: Some links in this article are affiliate links. Read our full Affiliate Disclosure."
+  },
+  fr: {
+    inline: "Cet article contient des liens affiliés. Nous pouvons toucher une petite commission, sans surcoût pour vous.",
+    callout: "Nous sélectionnons indépendamment ce que nous mettons en avant. Un achat via nos liens peut nous rapporter une commission — le prix que vous payez ne change pas.",
+    footer: "Transparence : Certains liens de cet article sont affiliés. Consultez notre Divulgation Affiliation complète."
+  }
+}[lang];
+---
+
+{variant === "inline" && (
+  <aside class="affiliate-banner" role="note" aria-label="Affiliate disclosure">
+    <p>{text.inline}</p>
+  </aside>
+)}
+
+{variant === "callout" && (
+  <aside class="affiliate-callout" role="note" aria-label="Affiliate disclosure">
+    <span class="affiliate-callout-tag">★ Editorial</span>
+    <p>{text.callout}</p>
+  </aside>
+)}
+
+{variant === "footer" && (
+  <p class="affiliate-footer">
+    {text.footer} <a href="/affiliate-disclosure/">→</a>
+  </p>
+)}
+
+<style>
+  .affiliate-banner {
+    margin: 28px 0;
+    padding: 14px 18px;
+    border-left: 3px solid var(--gold, #c8a04a);
+    background: rgba(200, 160, 74, 0.06);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 13.5px;
+    color: var(--muted, #666);
+    line-height: 1.5;
+    border-radius: 0 6px 6px 0;
+  }
+  .affiliate-banner p {
+    margin: 0;
+  }
+  .affiliate-banner::before {
+    content: "🔎";
+    margin-right: 8px;
+  }
+  .affiliate-callout {
+    margin: 32px 0;
+    padding: 20px 22px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 10px;
+    background: var(--cream, #faf7f2);
+  }
+  .affiliate-callout-tag {
+    display: inline-block;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--gold, #c8a04a);
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  .affiliate-callout p {
+    margin: 0;
+    font-family: var(--serif, Georgia, serif);
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--ink, #1a1a1a);
+  }
+  .affiliate-footer {
+    margin: 32px 0 16px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    color: var(--muted, #888);
+    font-style: italic;
+  }
+  .affiliate-footer a {
+    color: var(--gold, #c8a04a);
+    text-decoration: none;
+    margin-left: 4px;
+  }
+</style>

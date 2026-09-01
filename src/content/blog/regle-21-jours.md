@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/regle-21-jours.jpg"
 topic: "Discipline"
+keywords:
+  - "days"
+  - "habit"
+  - "habits"
+  - "real"
+  - "timeline"
+  - "myth"
+  - "takes"
+  - "rule"
+tags:
+  - "discipline"
+  - "habits"
+wordCount: 423
+
 ---
 
 You have heard it before: "It takes 21 days to form a habit." It sounds scientific. It sounds precise. And it is wrong.

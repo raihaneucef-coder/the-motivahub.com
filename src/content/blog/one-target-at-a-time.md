@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/one-target-at-a-time.jpg"
 featured: false
 draft: false
+keywords:
+  - "target"
+  - "goal"
+  - "ring"
+  - "visit"
+  - "without"
+  - "enough"
+  - "address"
+  - "every"
+tags:
+  - "goals"
+wordCount: 431
+
 ---
 
 Most goals fail before they begin — not because they are too big, but because they are too vague.

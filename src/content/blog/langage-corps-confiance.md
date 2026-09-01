@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/langage-corps-confiance.jpg"
 topic: "Confidence"
+keywords:
+  - "body"
+  - "confidence"
+  - "language"
+  - "contact"
+  - "project"
+  - "saying"
+  - "voice"
+  - "words"
+tags:
+  - "confidence"
+  - "how-to"
+wordCount: 208
+
 ---
 
 Research shows that 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Your body is already speaking — make sure it is saying the right things.

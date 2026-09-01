@@ -7,6 +7,19 @@ readTime: "3 min read"
 image: "/images/blog/water-before-willpower.jpg"
 featured: false
 draft: false
+keywords:
+  - "water"
+  - "little"
+  - "drink"
+  - "willpower"
+  - "make"
+  - "everything"
+  - "reach"
+  - "brain"
+tags:
+  - "nutrition"
+wordCount: 149
+
 ---
 
 We blame willpower for what is often just dehydration.

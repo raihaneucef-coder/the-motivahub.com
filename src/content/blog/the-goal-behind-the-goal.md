@@ -1,12 +1,25 @@
 ---
-title: "The Goal Behind the Goal"
-description: "Every goal hides a deeper goal. Find the hidden one and motivation stops being a struggle."
+title: "The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working"
+description: "Every goal hides a deeper goal — a why beneath the why. Most people chase the surface. The few who arrive are the ones who dug past the first layer."
 pubDate: 2026-08-22
 topic: "Goals"
 readTime: "4 min read"
 image: "/images/blog/the-goal-behind-the-goal.jpg"
 featured: false
 draft: false
+keywords:
+  - "goal"
+  - "want"
+  - "hides"
+  - "hidden"
+  - "write"
+  - "motivation"
+  - "someone"
+  - "keeps"
+tags:
+  - "goals"
+wordCount: 155
+
 ---
 
 We set a goal and chase it. Then we wonder why motivation fades halfway.

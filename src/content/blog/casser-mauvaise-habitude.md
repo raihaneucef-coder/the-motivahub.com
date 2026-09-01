@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/casser-mauvaise-habitude.jpg"
 topic: "Habits"
+keywords:
+  - "habit"
+  - "quit"
+  - "make"
+  - "junk"
+  - "break"
+  - "want"
+  - "smoking"
+  - "food"
+tags:
+  - "habits"
+  - "how-to"
+wordCount: 543
+
 ---
 
 Breaking a bad habit is harder than building a good one. But the same principles that create habits can destroy them — you just reverse them.

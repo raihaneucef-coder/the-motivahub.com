@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/proof-over-noise.jpg"
 featured: false
 draft: false
+keywords:
+  - "feed"
+  - "proof"
+  - "ordinary"
+  - "people"
+  - "every"
+  - "noise"
+  - "becomes"
+  - "ceiling"
+tags:
+  - "stories"
+wordCount: 410
+
 ---
 
 Your attention has a diet, whether you chose it or not.

@@ -5,6 +5,20 @@ pubDate: 2026-08-11
 readTime: "8 MIN"
 image: "/images/blog/community-discipline.jpg"
 topic: "Confidence"
+keywords:
+  - "person"
+  - "business"
+  - "alone"
+  - "social"
+  - "sport"
+  - "community"
+  - "belonging"
+  - "never"
+tags:
+  - "confidence"
+  - "discipline"
+wordCount: 322
+
 ---
 
 The most enduring business and sport stories have the same ending: no one did it alone. The founder who sold his company thanks his first two employees. The marathoner thanks the training partner who waited when he was slow. The most meaningful stories are never about the win — they are about who was there when no one was watching.

@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/people-who-raise-your-floor.jpg"
 featured: false
 draft: false
+keywords:
+  - "people"
+  - "floor"
+  - "time"
+  - "room"
+  - "raises"
+  - "level"
+  - "fall"
+  - "keep"
+tags:
+  - "relationships"
+wordCount: 264
+
 ---
 
 We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.

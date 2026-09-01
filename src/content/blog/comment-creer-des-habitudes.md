@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "8 MIN"
 image: "/images/blog/comment-creer-des-habitudes.jpg"
 topic: "Habits"
+keywords:
+  - "chaque"
+  - "jour"
+  - "habitude"
+  - "plus"
+  - "veux"
+  - "fais"
+  - "jours"
+  - "pour"
+tags:
+  - "habits"
+  - "how-to"
+wordCount: 692
+
 ---
 
 Tu as déjà essayé de changer une habitude — et tu as abandonné au bout de deux semaines. Ce n'est pas un manque de volonté. C'est un manque de système.

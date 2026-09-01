@@ -1,12 +1,25 @@
 ---
-title: "The Shop That Stayed Open"
-description: "When everyone closed, he kept the lights on. The neighborhood noticed, and then they came."
+title: "The Shop That Stayed Open — And the Quiet Lesson About Enduring Things"
+description: "Everyone else pivoted. He stayed. For 32 years, the doors opened at 7 a.m. — and the lessons he learned inside are the ones most professionals never find."
 pubDate: 2026-08-05
 topic: "Stories"
 readTime: "4 min read"
 image: "/images/blog/the-shop-that-stayed-open.jpg"
 featured: false
 draft: false
+keywords:
+  - "open"
+  - "street"
+  - "shop"
+  - "stayed"
+  - "closed"
+  - "kept"
+  - "came"
+  - "come"
+tags:
+  - "stories"
+wordCount: 161
+
 ---
 
 The street went quiet. One by one, the shops closed — rent too high, customers too few.

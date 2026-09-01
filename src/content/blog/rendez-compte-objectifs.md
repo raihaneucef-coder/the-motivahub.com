@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/rendez-compte-objectifs.jpg"
 topic: "Goals"
+keywords:
+  - "accountability"
+  - "goal"
+  - "partner"
+  - "someone"
+  - "tracker"
+  - "check"
+  - "goals"
+  - "track"
+tags:
+  - "goals"
+wordCount: 344
+
 ---
 
 You are 65% more likely to achieve a goal if you commit to someone. You are 95% more likely if you have a scheduled accountability appointment.

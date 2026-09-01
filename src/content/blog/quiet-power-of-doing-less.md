@@ -5,6 +5,19 @@ pubDate: 2026-08-14
 readTime: "7 MIN"
 image: "/images/blog/quiet-power-of-doing-less.jpg"
 topic: "Productivity"
+keywords:
+  - "thing"
+  - "attention"
+  - "less"
+  - "hour"
+  - "person"
+  - "first"
+  - "enough"
+  - "saying"
+tags:
+  - "productivity"
+wordCount: 661
+
 ---
 
 We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus.

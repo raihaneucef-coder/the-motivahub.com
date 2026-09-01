@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/time-blocking-journee.jpg"
 topic: "Productivity"
+keywords:
+  - "time"
+  - "work"
+  - "blocking"
+  - "task"
+  - "calendar"
+  - "deep"
+  - "people"
+  - "list"
+tags:
+  - "productivity"
+  - "how-to"
+wordCount: 257
+
 ---
 
 Most people use a to-do list. The most productive people use a time-blocked calendar. The difference is dramatic.

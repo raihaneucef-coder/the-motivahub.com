@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/pouvoir-du-non.jpg"
 topic: "Discipline"
+keywords:
+  - "every"
+  - "saying"
+  - "discipline"
+  - "time"
+  - "priorities"
+  - "successful"
+  - "people"
+  - "something"
+tags:
+  - "discipline"
+wordCount: 303
+
 ---
 
 Every time you say yes to something that does not serve you, you say no to something that does. Every yes to a meaningless meeting is a no to deep work. Every yes to a toxic relationship is a no to your peace.

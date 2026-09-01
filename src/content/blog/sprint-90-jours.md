@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/sprint-90-jours.jpg"
 topic: "Goals"
+keywords:
+  - "days"
+  - "goals"
+  - "sprint"
+  - "enough"
+  - "goal"
+  - "annual"
+  - "create"
+  - "urgency"
+tags:
+  - "goals"
+wordCount: 283
+
 ---
 
 Annual goals are too easy to postpone. "I will do it later" works when "later" is 10 months away. But when "later" is 90 days away, everything changes.

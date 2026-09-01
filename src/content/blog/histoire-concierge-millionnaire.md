@@ -5,6 +5,21 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/histoire-concierge-millionnaire.jpg"
 topic: "Stories"
+keywords:
+  - "wealth"
+  - "discipline"
+  - "read"
+  - "real"
+  - "janitor"
+  - "story"
+  - "ronald"
+  - "cleaned"
+tags:
+  - "stories"
+  - "discipline"
+  - "story"
+wordCount: 242
+
 ---
 
 Ronald Read was a janitor in Vermont. He cleaned floors at JCPenney and pumped gas at a gas station. He drove a used car. He wore safety pins to hold his coat together.

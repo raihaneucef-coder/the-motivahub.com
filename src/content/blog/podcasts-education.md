@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/podcasts-education.jpg"
 topic: "Entertainment"
+keywords:
+  - "podcasts"
+  - "learn"
+  - "time"
+  - "hours"
+  - "learning"
+  - "commuting"
+  - "exercising"
+  - "education"
+tags:
+  - "entertainment"
+  - "how-to"
+wordCount: 218
+
 ---
 
 You spend hours every week commuting, exercising, and doing chores. What if you could learn during those hours? Podcasts make it possible.

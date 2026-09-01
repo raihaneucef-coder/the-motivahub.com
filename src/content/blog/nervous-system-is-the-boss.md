@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/nervous-system-is-the-boss.jpg"
 featured: false
 draft: false
+keywords:
+  - "boss"
+  - "calm"
+  - "nervous"
+  - "system"
+  - "mind"
+  - "feel"
+  - "work"
+  - "body"
+tags:
+  - "wellness"
+wordCount: 257
+
 ---
 
 You cannot think your way out of a body that believes it is in danger.

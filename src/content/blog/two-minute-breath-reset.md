@@ -7,6 +7,19 @@ readTime: "3 min read"
 image: "/images/blog/two-minute-breath-reset.jpg"
 featured: false
 draft: false
+keywords:
+  - "calm"
+  - "minutes"
+  - "exhale"
+  - "breath"
+  - "enough"
+  - "state"
+  - "body"
+  - "breathing"
+tags:
+  - "wellness"
+wordCount: 174
+
 ---
 
 Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.

@@ -1,0 +1,95 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { books } from "../../data/books";
+import BookCard from "../../components/BookCard.astro";
+import AffiliateBanner from "../../components/AffiliateBanner.astro";
+
+const stoicBooks = books.filter((b) => b.category === "STOICISM" || b.category === "PHILOSOPHY");
+const title = "Best Stoicism Books 2026 — Motiva Hub";
+const description = "The best books on Stoic philosophy — from Marcus Aurelius to modern teachers. Timeless ideas for a resilient inner life.";
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/best/stoicism-books/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://the-motivahub.com/best/stoicism-books/#article",
+        "headline": title,
+        "description": description,
+        "image": "https://the-motivahub.com/images/hero.jpg",
+        "datePublished": "2026-01-01",
+        "dateModified": new Date().toISOString().split("T")[0],
+        "inLanguage": "en",
+        "author": { "@type": "Person", name: "Youssef Raihane", url: "https://the-motivahub.com/about/" },
+        "publisher": { "@type": "Organization", name: "Motiva Hub", logo: { "@type": "ImageObject", url: "https://the-motivahub.com/logo.jpg" } },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://the-motivahub.com/best/stoicism-books/" }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://the-motivahub.com/best/stoicism-books/#list",
+        "name": title,
+        "description": description,
+        "url": "https://the-motivahub.com/best/stoicism-books/",
+        "numberOfItems": stoicBooks.length,
+        "itemListElement": stoicBooks.map((b, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": `${b.title} by ${b.author}`,
+          "url": b.affiliateUrl || `https://the-motivahub.com/books/`
+        }))
+      }
+    ]
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "What is the best book on Stoicism for beginners?", "acceptedAnswer": { "@type": "Answer", "text": "The Daily Stoic by Ryan Holiday is the most accessible entry point — 366 short meditations, one for each day of the year." } },
+      { "@type": "Question", "name": "Is Meditations by Marcus Aurelius worth reading?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Written as a private notebook by a Roman emperor, it remains the most practical manual for the inner life." } }
+    ]
+  })} />
+
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Bookstand · Best Of</p>
+      <h1>Best Books on <em>Stoicism</em></h1>
+      <p>The ancient philosophy that still wins at work, at home, and under pressure.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <AffiliateBanner variant="callout" lang="en" />
+      <div class="book-grid">
+        {stoicBooks.map((book, i) => (
+          <div class="ranked-book">
+            <span class="rank">#{i + 1}</span>
+            <BookCard book={book} />
+          </div>
+        ))}
+      </div>
+      <AffiliateBanner variant="footer" lang="en" />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .ranked-book { position: relative; }
+  .rank {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 2;
+    background: var(--gold, #c8a04a);
+    color: var(--ink, #0e0e0e);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+  }
+</style>

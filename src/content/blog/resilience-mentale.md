@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/resilience-mentale.jpg"
 topic: "Mindset"
+keywords:
+  - "resilience"
+  - "build"
+  - "stress"
+  - "control"
+  - "mental"
+  - "back"
+  - "life"
+  - "face"
+tags:
+  - "mindset"
+  - "how-to"
+wordCount: 689
+
 ---
 
 Life will knock you down. This is not a possibility — it is a certainty. The question is not whether you will face adversity, but whether you will **bounce back** when you do.
