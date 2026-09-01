@@ -40,6 +40,9 @@ relatedArticles:
   - "discipline-beat-motivation"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
 I've been a productivity nerd for 15 years. I've read every book. Tried every system. Built apps to track my habits. Spent $2,000+ on courses. The whole thing.
 
 In June 2026, I tried Cal Newport's "Slow Productivity" for 30 days. The principle is deceptively simple: **do fewer things, work at a natural pace, obsess over quality**. Three rules. No frameworks. No life hacks. Just constraints.

@@ -40,6 +40,9 @@ relatedArticles:
   - "comment-creer-des-habitudes"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
 Last year, I made a goal that should have been easy: read 30 books in 12 months. Two decades of reading habits. Thousands of dollars in book purchases. A library card. Audible. Kindle. A reading app that tracks streaks.
 
 I finished 9 books. Most of them, half I read.

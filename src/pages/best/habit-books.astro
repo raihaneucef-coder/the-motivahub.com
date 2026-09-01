@@ -62,6 +62,9 @@ const description = "The best books on building habits, discipline, and the syst
 
   <section class="feed">
     <div class="container">
+      <div class="affiliate-disclosure">
+        <p><strong>Affiliate Disclosure:</strong> As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements. <a href="/affiliate-disclosure/">Read our full disclosure policy →</a></p>
+      </div>
       <AffiliateBanner variant="callout" lang="en" />
       <div class="book-grid">
         {habitBooks.map((book, i) => (
@@ -77,6 +80,21 @@ const description = "The best books on building habits, discipline, and the syst
 </Layout>
 
 <style>
+  .affiliate-disclosure {
+    max-width: 720px;
+    margin: 0 auto 24px;
+    padding: 16px 20px;
+    background: rgba(200, 160, 74, 0.06);
+    border: 1px solid rgba(200, 160, 74, 0.18);
+    border-radius: 8px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--muted, #666);
+  }
+  .affiliate-disclosure strong { color: var(--ink, #1a1a1a); }
+  .affiliate-disclosure a { color: var(--gold, #c8a04a); text-decoration: underline; }
+
   .ranked-book { position: relative; }
   .rank {
     position: absolute;

@@ -40,6 +40,9 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
 I spent 30 days testing every famous morning routine. Hal Elrod's Miracle Morning. Tim Ferriss's slow wake-up. The 5 AM cult. The cold plunge. The 4-minute workout. The journal-only protocol. Twelve different routines, one month of experimentation, two stress fractures, and a freezer full of ice cubes.
 
 Here's the truth that doesn't make it into productivity YouTube: most morning routines are designed for people who don't have jobs, kids, or chronic illness. They're aspirational theater, not sustainable systems. Most people try them for 6 days, fail day 7, and conclude they "don't have what it takes."
