@@ -1,0 +1,474 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import NewsletterSection from "../../../components/NewsletterSection.astro";
+
+const title = "Cold Shower Tracker — Build the Habit, Track Your Streak";
+const description = "Track every cold shower, build your streak, see your progress. A simple tool for the Wim Hof / Andrew Huberman cold exposure practice. No account. Just start.";
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/tools/cold-shower-tracker/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "@id": "https://the-motivahub.com/tools/cold-shower-tracker/#app",
+    "name": title,
+    "description": description,
+    "url": "https://the-motivahub.com/tools/cold-shower-tracker/",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Any",
+    "browserRequirements": "Requires JavaScript + LocalStorage",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": { "@type": "Person", "name": "Youssef Raihane" }
+  })} />
+
+  <section class="cst-head">
+    <div class="container">
+      <p class="kicker">Free Tool · LocalStorage · No Account</p>
+      <h1>Cold Shower Tracker</h1>
+      <p class="cst-subtitle">Track every cold shower. Build your streak. Watch the habit compound.</p>
+    </div>
+  </section>
+
+  <section class="cst-main">
+    <div class="container">
+      <div class="cst-shell">
+        <div class="cst-streak">
+          <div class="cst-streak-num">
+            <p class="cst-big-num" id="cst-current-streak">0</p>
+            <p class="cst-big-label">Day Streak</p>
+          </div>
+          <div class="cst-totals">
+            <div class="cst-stat">
+              <p class="cst-stat-num" id="cst-total-shower">0</p>
+              <p class="cst-stat-label">Total showers</p>
+            </div>
+            <div class="cst-stat">
+              <p class="cst-stat-num" id="cst-longest-streak">0</p>
+              <p class="cst-stat-label">Longest streak</p>
+            </div>
+            <div class="cst-stat">
+              <p class="cst-stat-num" id="cst-avg-duration">0s</p>
+              <p class="cst-stat-label">Avg duration</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="cst-log">
+          <h2 class="cst-h2">Log a cold shower</h2>
+
+          <div class="cst-form">
+            <div class="cst-input-group">
+              <label for="cst-date">Date</label>
+              <input type="date" id="cst-date" />
+            </div>
+            <div class="cst-input-group">
+              <label for="cst-duration">Duration (seconds)</label>
+              <input type="number" id="cst-duration" min="5" max="600" value="60" />
+            </div>
+            <div class="cst-input-group">
+              <label for="cst-temp">Temperature (optional)</label>
+              <input type="text" id="cst-temp" placeholder="e.g., 55°F / 13°C" />
+            </div>
+            <div class="cst-input-group">
+              <label for="cst-notes">Notes (optional)</label>
+              <input type="text" id="cst-notes" placeholder="How did it feel?" />
+            </div>
+          </div>
+
+          <button class="cst-btn cst-btn-primary" id="cst-add">Log This Shower</button>
+          <p class="cst-msg" id="cst-msg"></p>
+        </div>
+
+        <div class="cst-history">
+          <h2 class="cst-h2">Recent history</h2>
+          <div id="cst-history-list" class="cst-history-list">
+            <p class="cst-empty">No showers logged yet. Tap "Log This Shower" above to start your streak.</p>
+          </div>
+        </div>
+
+        <div class="cst-actions">
+          <button class="cst-btn cst-btn-secondary" id="cst-export">Export Data</button>
+          <button class="cst-btn cst-btn-danger" id="cst-clear">Clear All</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cst-faq">
+    <div class="container">
+      <h2>How to Build the Cold Shower Habit</h2>
+      <ol class="cst-steps">
+        <li><strong>Start small.</strong> End your regular shower with 30 seconds of cold. That's it. Don't go full Wim Hof on day 1.</li>
+        <li><strong>Be consistent.</strong> Daily is more important than duration. 30 seconds daily beats 5 minutes twice a week.</li>
+        <li><strong>Breathe through it.</strong> Slow exhales. Let your body adapt. Don't tense up — that makes it colder.</li>
+        <li><strong>Increase gradually.</strong> After 2 weeks at 30 sec, go to 45. After a month, 60. The point is to build the calloused mind, not shock your body.</li>
+        <li><strong>Notice the secondary effects.</strong> Sleep improves. Stress resilience improves. Focus improves. Track these too.</li>
+      </ol>
+
+      <p class="cst-quote">"Cold exposure doesn't build character. It reveals the character you already have." — Andrew Huberman</p>
+    </div>
+  </section>
+
+  <section class="cst-faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      <details>
+        <summary>How cold should the water be?</summary>
+        <p>Andrew Huberman's protocol: as cold as your tap can get. 50-60°F (10-15°C) is the typical range for home showers. If you can't get your water that cold, end with the coldest setting. Don't use ice baths at home without research.</p>
+      </details>
+      <details>
+        <summary>How long should I stay in?</summary>
+        <p>Start with 30 seconds. Build to 1-3 minutes over 4 weeks. Andrew Huberman's protocol: 1-3 minutes, 2-3 times per week, after a workout. Daily is also fine for habit formation.</p>
+      </details>
+      <details>
+        <summary>Is cold exposure safe?</summary>
+        <p>For most healthy adults, yes. Avoid if you have heart conditions, are pregnant, or have Raynaud's. Start gradually. Don't do ice baths without medical clearance. If you have concerns, talk to your doctor first.</p>
+      </details>
+      <details>
+        <summary>Where is my data stored?</summary>
+        <p>Locally in your browser (LocalStorage). Nothing is sent to a server. Export anytime as CSV.</p>
+      </details>
+    </div>
+  </section>
+
+  <NewsletterSection variant="default" showLeadMagnet={true} title="Get daily cold shower motivation in your inbox." buttonText="Send Daily Nudges" />
+</Layout>
+
+<script is:inline>
+(function () {
+  const KEY = 'cst_data_v1';
+
+  function load() {
+    try {
+      return JSON.parse(localStorage.getItem(KEY) || '[]');
+    } catch {
+      return [];
+    }
+  }
+
+  function save(data) {
+    localStorage.setItem(KEY, JSON.stringify(data));
+  }
+
+  function calcCurrentStreak(data) {
+    if (data.length === 0) return 0;
+    const sorted = [...data].sort((a, b) => b.date.localeCompare(a.date));
+    const today = new Date().toISOString().split('T')[0];
+    const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+    const lastDate = sorted[0].date;
+    if (lastDate !== today && lastDate !== yesterday) return 0;
+    let streak = 0;
+    let expected = lastDate;
+    for (const entry of sorted) {
+      if (entry.date === expected) {
+        streak++;
+        const prev = new Date(expected);
+        prev.setDate(prev.getDate() - 1);
+        expected = prev.toISOString().split('T')[0];
+      } else {
+        break;
+      }
+    }
+    return streak;
+  }
+
+  function calcLongestStreak(data) {
+    if (data.length === 0) return 0;
+    const sorted = [...data].sort((a, b) => a.date.localeCompare(b.date));
+    let longest = 0;
+    let current = 0;
+    let prevDate = null;
+    for (const entry of sorted) {
+      if (!prevDate) {
+        current = 1;
+      } else {
+        const diff = (new Date(entry.date) - new Date(prevDate)) / 86400000;
+        if (diff === 1) {
+          current++;
+        } else {
+          if (current > longest) longest = current;
+          current = 1;
+        }
+      }
+      prevDate = entry.date;
+    }
+    if (current > longest) longest = current;
+    return longest;
+  }
+
+  function calcAvgDuration(data) {
+    if (data.length === 0) return 0;
+    const total = data.reduce((sum, e) => sum + e.duration, 0);
+    return Math.round(total / data.length);
+  }
+
+  function renderStats() {
+    const data = load();
+    document.getElementById('cst-current-streak').textContent = calcCurrentStreak(data);
+    document.getElementById('cst-total-shower').textContent = data.length;
+    document.getElementById('cst-longest-streak').textContent = calcLongestStreak(data);
+    const avg = calcAvgDuration(data);
+    document.getElementById('cst-avg-duration').textContent = avg > 0 ? avg + 's' : '0s';
+
+    const historyList = document.getElementById('cst-history-list');
+    if (data.length === 0) {
+      historyList.innerHTML = '<p class="cst-empty">No showers logged yet. Tap "Log This Shower" above to start your streak.</p>';
+    } else {
+      const recent = [...data].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 10);
+      historyList.innerHTML = recent.map(e => `
+        <div class="cst-history-item">
+          <div class="cst-history-info">
+            <p class="cst-history-date">${e.date}</p>
+            <p class="cst-history-meta">${e.duration}s${e.temp ? ' · ' + e.temp : ''}${e.notes ? ' · ' + e.notes : ''}</p>
+          </div>
+          <button class="cst-history-delete" data-date="${e.date}" aria-label="Delete">×</button>
+        </div>
+      `).join('');
+      historyList.querySelectorAll('.cst-history-delete').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const date = btn.dataset.date;
+          const filtered = load().filter(e => e.date !== date);
+          save(filtered);
+          renderStats();
+        });
+      });
+    }
+  }
+
+  const today = new Date().toISOString().split('T')[0];
+  document.getElementById('cst-date').value = today;
+
+  document.getElementById('cst-add').addEventListener('click', () => {
+    const date = document.getElementById('cst-date').value;
+    const duration = parseInt(document.getElementById('cst-duration').value);
+    const temp = document.getElementById('cst-temp').value.trim();
+    const notes = document.getElementById('cst-notes').value.trim();
+    const msg = document.getElementById('cst-msg');
+
+    if (!date) { msg.textContent = 'Please pick a date.'; msg.style.color = '#a67c52'; return; }
+    if (!duration || duration < 5) { msg.textContent = 'Duration must be at least 5 seconds.'; msg.style.color = '#a67c52'; return; }
+
+    const data = load();
+    data.push({ date, duration, temp, notes });
+    save(data);
+    renderStats();
+
+    msg.textContent = '✓ Logged. Stay cold.';
+    msg.style.color = '#c8a04a';
+
+    document.getElementById('cst-temp').value = '';
+    document.getElementById('cst-notes').value = '';
+    setTimeout(() => { msg.textContent = ''; }, 3000);
+  });
+
+  document.getElementById('cst-export').addEventListener('click', () => {
+    const data = load();
+    if (data.length === 0) {
+      alert('No data to export yet.');
+      return;
+    }
+    const csv = 'date,duration,temp,notes\n' + data.map(e => `${e.date},${e.duration},"${e.temp}","${e.notes}"`).join('\n');
+    const blob = new Blob([csv], { type: 'text/csv' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'cold-showers-' + new Date().toISOString().split('T')[0] + '.csv';
+    a.click();
+    URL.revokeObjectURL(url);
+  });
+
+  document.getElementById('cst-clear').addEventListener('click', () => {
+    if (confirm('Clear all cold shower data? This cannot be undone.')) {
+      save([]);
+      renderStats();
+    }
+  });
+
+  renderStats();
+})();
+</script>
+
+<style>
+  .cst-head { padding: 80px 0 32px; text-align: center; }
+  .cst-subtitle { max-width: 540px; margin: 16px auto 0; color: var(--muted, #666); font-size: 18px; line-height: 1.6; }
+
+  .cst-main { padding: 32px 0 64px; }
+  .cst-shell {
+    max-width: 720px;
+    margin: 0 auto;
+    background: var(--white, #fff);
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 16px;
+    padding: 40px 32px;
+  }
+
+  .cst-streak {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 32px;
+    padding: 24px;
+    background: var(--cream, #faf7f2);
+    border-radius: 12px;
+    margin-bottom: 32px;
+    align-items: center;
+  }
+  .cst-streak-num { text-align: center; padding-right: 24px; border-right: 1px solid var(--line); }
+  .cst-big-num {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 72px;
+    font-weight: 700;
+    color: var(--gold, #c8a04a);
+    margin: 0;
+    line-height: 1;
+  }
+  .cst-big-label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--muted, #888);
+    margin: 8px 0 0;
+    font-weight: 600;
+  }
+
+  .cst-totals { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .cst-stat { text-align: center; }
+  .cst-stat-num {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--ink, #1a1a1a);
+    margin: 0;
+    line-height: 1;
+  }
+  .cst-stat-label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--muted, #888);
+    margin: 8px 0 0;
+  }
+
+  .cst-h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 20px;
+  }
+
+  .cst-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+  }
+  .cst-input-group { display: flex; flex-direction: column; gap: 6px; }
+  .cst-input-group label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--muted, #888);
+    font-weight: 600;
+  }
+  .cst-input-group input {
+    padding: 12px 14px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 8px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    background: var(--white, #fff);
+  }
+
+  .cst-btn {
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s ease;
+  }
+  .cst-btn-primary { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); width: 100%; }
+  .cst-btn-primary:hover { background: #d4ab58; }
+  .cst-btn-secondary { background: transparent; color: var(--ink, #1a1a1a); border: 1px solid var(--line, #e5e5e5); }
+  .cst-btn-secondary:hover { border-color: var(--gold, #c8a04a); }
+  .cst-btn-danger { background: transparent; color: #a67c52; border: 1px solid rgba(166, 124, 82, 0.3); }
+  .cst-btn-danger:hover { background: rgba(166, 124, 82, 0.08); }
+
+  .cst-msg {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 13px;
+    text-align: center;
+    margin: 12px 0 0;
+    min-height: 20px;
+  }
+
+  .cst-history { margin: 32px 0; padding-top: 32px; border-top: 1px solid var(--line); }
+  .cst-history-list { display: flex; flex-direction: column; gap: 8px; }
+  .cst-history-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    background: var(--cream, #faf7f2);
+    border-radius: 8px;
+  }
+  .cst-history-info { flex: 1; }
+  .cst-history-date {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--ink, #1a1a1a);
+    margin: 0;
+  }
+  .cst-history-meta {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    color: var(--muted, #666);
+    margin: 4px 0 0;
+  }
+  .cst-history-delete {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-size: 24px;
+    cursor: pointer;
+    padding: 0 8px;
+    line-height: 1;
+  }
+  .cst-history-delete:hover { color: #a67c52; }
+  .cst-empty { font-family: var(--sans, system-ui, sans-serif); font-size: 14px; color: var(--muted, #888); text-align: center; padding: 24px 0; }
+
+  .cst-actions {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    padding-top: 24px;
+    border-top: 1px solid var(--line);
+    flex-wrap: wrap;
+  }
+
+  .cst-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
+  .cst-faq + .cst-faq { background: var(--white, #fff); }
+  .cst-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 24px; color: var(--ink, #1a1a1a); }
+  .cst-steps { max-width: 720px; margin: 0 auto 32px; padding-left: 0; counter-reset: step; list-style: none; }
+  .cst-steps li { padding: 12px 0 12px 40px; position: relative; font-family: var(--sans, system-ui, sans-serif); font-size: 16px; line-height: 1.6; color: var(--ink, #1a1a1a); border-bottom: 1px solid var(--line, #e5e5e5); }
+  .cst-steps li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 14px; width: 28px; height: 28px; border-radius: 50%; background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; }
+  .cst-quote { max-width: 640px; margin: 0 auto; padding: 24px; background: var(--white, #fff); border-left: 3px solid var(--gold, #c8a04a); border-radius: 0 8px 8px 0; font-family: var(--serif, Georgia, serif); font-style: italic; font-size: 18px; color: var(--ink, #1a1a1a); text-align: center; }
+  .cst-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .cst-faq summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); list-style: none; }
+  .cst-faq summary::-webkit-details-marker { display: none; }
+  .cst-faq details p { margin: 12px 0 0; line-height: 1.6; color: var(--ink, #1a1a1a); }
+
+  @media (max-width: 640px) {
+    .cst-streak { grid-template-columns: 1fr; gap: 16px; }
+    .cst-streak-num { border-right: none; border-bottom: 1px solid var(--line); padding-right: 0; padding-bottom: 16px; }
+    .cst-totals { grid-template-columns: repeat(3, 1fr); gap: 8px; }
+    .cst-form { grid-template-columns: 1fr; }
+  }
+</style>
