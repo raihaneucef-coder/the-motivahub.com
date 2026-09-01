@@ -481,7 +481,12 @@ p { line-height: 1.7; }
   transition: transform 0.6s var(--ease-out);
 }
 
-.hero-portrait .hero-title { transform: translate3d(calc(var(--mx, 0) * 0.35), calc(var(--my, 0) * 0.35), 0); transition: transform 0.4s var(--ease-out); }
+.hero-portrait .hero-title {
+  transform: translate3d(calc(var(--mx, 0) * 0.35), calc(var(--my, 0) * 0.35), 0)
+              perspective(1200px) rotateX(calc(var(--tilt-y, 0) * 1deg)) rotateY(calc(var(--tilt-x, 0) * 1deg));
+  transition: transform 0.6s var(--ease-out);
+  will-change: transform;
+}
 .hero-portrait .hero-subtitle { transform: translate3d(calc(var(--mx, 0) * 0.2), calc(var(--my, 0) * 0.2), 0); transition: transform 0.4s var(--ease-out); }
 .hero-portrait .hero-eyebrow { transform: translate3d(calc(var(--mx, 0) * 0.5), calc(var(--my, 0) * 0.5), 0); transition: transform 0.4s var(--ease-out); }
 
@@ -565,12 +570,48 @@ p { line-height: 1.7; }
   font-weight: 400;
   max-width: 18ch;
   margin-bottom: 28px;
+  transform-style: preserve-3d;
+  perspective: 1200px;
+  transform: perspective(1200px) rotateX(calc(var(--tilt-y, 0) * 1deg)) rotateY(calc(var(--tilt-x, 0) * 1deg)) translateZ(0);
+  transition: transform 0.6s var(--ease-out);
+  text-shadow:
+    0 1px 0 rgba(0,0,0,0.4),
+    0 2px 4px rgba(0,0,0,0.35),
+    0 4px 12px rgba(0,0,0,0.4),
+    0 8px 28px rgba(0,0,0,0.45),
+    0 18px 60px rgba(0,0,0,0.55);
+  will-change: transform;
 }
 
 .hero-title em {
   font-style: italic;
   color: var(--or-light);
   font-weight: 400;
+  background: linear-gradient(180deg, #d9b87a 0%, #b8965a 45%, #8a6d3f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow:
+    0 1px 0 rgba(184,150,90,0.35),
+    0 3px 8px rgba(184,150,90,0.3),
+    0 8px 24px rgba(184,150,90,0.4);
+  filter: drop-shadow(0 6px 18px rgba(0,0,0,0.5));
+}
+
+.hero-letter {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(100%) rotate(8deg);
+  transform-origin: 50% 100%;
+  transition: opacity 0.9s var(--ease-out), transform 0.9s var(--ease-out);
+  text-shadow: inherit;
+}
+
+.hero-title-line {
+  display: block;
+  overflow: hidden;
+  padding: 0.05em 0;
+  perspective: 800px;
 }
 
 .hero-subtitle {
@@ -1750,23 +1791,6 @@ section {
   flex-direction: column;
   gap: 24px;
   font-weight: 500;
-}
-
-.hero-title-line {
-  display: block;
-  overflow: hidden;
-}
-
-.hero-title-word {
-  display: inline-block;
-  margin-right: 0.25em;
-}
-
-.hero-letter {
-  display: inline-block;
-  opacity: 0;
-  transform: translateY(100%) rotate(8deg);
-  transition: opacity 0.7s var(--ease-cinema), transform 0.7s var(--ease-cinema);
 }
 
 .hero-letter.revealed {

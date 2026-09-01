@@ -9,7 +9,7 @@ interface Props {
   meta?: Array<{ num: string; label: string }>;
 }
 
-const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/images/hero-brand.jpg", primaryCta, secondaryCta, meta } = Astro.props;
+const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/images/hero-mountain-man.jpg", primaryCta, secondaryCta, meta } = Astro.props;
 const titleText = title.replace(/<[^>]+>/g, '');
 ---
 
@@ -126,6 +126,11 @@ const titleText = title.replace(/<[^>]+>/g, '');
       hero.style.setProperty('--myr', (y * -22) + 'px');
       hero.style.setProperty('--mx2', (x * 12) + 'px');
       hero.style.setProperty('--my2', (y * 12) + 'px');
+      const title = hero.querySelector('.hero-title');
+      if (title) {
+        hero.style.setProperty('--tilt-x', (x * -8).toFixed(2));
+        hero.style.setProperty('--tilt-y', (y * 6).toFixed(2));
+      }
     };
     hero.addEventListener('mousemove', onMove);
     hero.addEventListener('mouseleave', () => {
@@ -135,6 +140,22 @@ const titleText = title.replace(/<[^>]+>/g, '');
       hero.style.setProperty('--myr', '0px');
       hero.style.setProperty('--mx2', '0px');
       hero.style.setProperty('--my2', '0px');
+      hero.style.setProperty('--tilt-x', '0');
+      hero.style.setProperty('--tilt-y', '0');
     });
+
+    // Scroll-driven 3D title tilt
+    const onScroll = () => {
+      const rect = hero.getBoundingClientRect();
+      if (rect.bottom < 0) return;
+      const progress = Math.max(0, Math.min(1, 1 - (rect.bottom / window.innerHeight)));
+      const title = hero.querySelector('.hero-title');
+      if (title && progress > 0) {
+        const rotX = progress * 22;
+        const rotY = progress * -10;
+        title.style.setProperty('--scroll-tilt', `rotateX(${rotX}deg) rotateY(${rotY}deg)`);
+      }
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
   })();
 </script>
