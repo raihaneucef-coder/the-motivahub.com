@@ -1,0 +1,396 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import NewsletterSection from "../../../components/NewsletterSection.astro";
+
+const title = "Free Meditation Timer — 1 to 30 Minutes, With Bell";
+const description = "A simple meditation timer with a soft bell at the start and end. No account. No ads. No setup. Pick your duration, close your eyes, begin.";
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/tools/meditation-timer/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "@id": "https://the-motivahub.com/tools/meditation-timer/#app",
+    "name": title,
+    "description": description,
+    "url": "https://the-motivahub.com/tools/meditation-timer/",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Any",
+    "browserRequirements": "Requires JavaScript",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": { "@type": "Person", "name": "Youssef Raihane" }
+  })} />
+
+  <section class="mt-head">
+    <div class="container">
+      <p class="kicker">Free Tool · No Account · No Ads</p>
+      <h1>Meditation Timer</h1>
+      <p class="mt-subtitle">Pick your duration. Close your eyes. We'll ring the bell when it's done.</p>
+    </div>
+  </section>
+
+  <section class="mt-main">
+    <div class="container">
+      <div class="mt-shell">
+        <div class="mt-display" id="mt-display">
+          <p class="mt-time" id="mt-time">5:00</p>
+          <p class="mt-status" id="mt-status">Ready</p>
+        </div>
+
+        <div class="mt-presets">
+          <button class="mt-preset" data-minutes="1">1 min</button>
+          <button class="mt-preset" data-minutes="3">3 min</button>
+          <button class="mt-preset active" data-minutes="5">5 min</button>
+          <button class="mt-preset" data-minutes="10">10 min</button>
+          <button class="mt-preset" data-minutes="15">15 min</button>
+          <button class="mt-preset" data-minutes="20">20 min</button>
+          <button class="mt-preset" data-minutes="30">30 min</button>
+        </div>
+
+        <div class="mt-controls">
+          <button class="mt-btn mt-btn-primary" id="mt-start">Start</button>
+          <button class="mt-btn mt-btn-secondary" id="mt-pause" disabled>Pause</button>
+          <button class="mt-btn mt-btn-secondary" id="mt-reset">Reset</button>
+        </div>
+
+        <div class="mt-bell-options">
+          <p class="mt-bell-label">Bell sound:</p>
+          <div class="mt-bell-choices">
+            <button class="mt-bell-choice active" data-bell="soft">Soft singing bowl</button>
+            <button class="mt-bell-choice" data-bell="chime">Bell chime</button>
+            <button class="mt-bell-choice" data-bell="gong">Soft gong</button>
+          </div>
+        </div>
+
+        <div class="mt-tip" id="mt-tip" hidden></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mt-faq">
+    <div class="container">
+      <h2>How to Meditate (If You're New)</h2>
+      <ol class="mt-steps">
+        <li><strong>Sit.</strong> Anywhere comfortable. Chair is fine. Bed is fine. Floor is fine.</li>
+        <li><strong>Set the timer.</strong> 5 minutes is a good starting point.</li>
+        <li><strong>Close your eyes.</strong> Or keep them open and soften your gaze on a point.</li>
+        <li><strong>Feel your breath.</strong> The air moving at your nostrils. Your belly rising. Your chest.</li>
+        <li><strong>When your mind wanders</strong> (and it will), gently come back to the breath. No judgment.</li>
+        <li><strong>When the bell rings,</strong> open your eyes slowly. You're done.</li>
+      </ol>
+
+      <p class="mt-quote">"Meditation is not about stopping thoughts. It's about noticing them — and choosing to come back."</p>
+    </div>
+  </section>
+
+  <section class="mt-faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      <details>
+        <summary>How long should I meditate?</summary>
+        <p>Start with 5 minutes. After 30 days, increase to 10. After 60, try 15. Most benefits compound after the first 60 days of consistent practice.</p>
+      </details>
+      <details>
+        <summary>What if I fall asleep?</summary>
+        <p>That's fine. Falling asleep means you were tired. Either shorten the session or move earlier in the day. Meditation isn't supposed to replace sleep.</p>
+      </details>
+      <details>
+        <summary>What if my mind keeps wandering?</summary>
+        <p>That's the practice. The wandering is normal. Coming back is the meditation. Over time, the wanderings get shorter. Don't judge them.</p>
+      </details>
+      <details>
+        <summary>Is this tool better than a meditation app?</summary>
+        <p>Different purpose. This is a timer. Apps like Calm or Headspace give you guided meditations. This gives you silence and a bell. Most meditators use both.</p>
+      </details>
+    </div>
+  </section>
+
+  <NewsletterSection variant="default" showLeadMagnet={true} title="Get a daily meditation reminder." buttonText="Send Daily Reminders" />
+</Layout>
+
+<script is:inline>
+(function () {
+  const display = document.getElementById('mt-display');
+  const timeEl = document.getElementById('mt-time');
+  const statusEl = document.getElementById('mt-status');
+  const tipEl = document.getElementById('mt-tip');
+  const startBtn = document.getElementById('mt-start');
+  const pauseBtn = document.getElementById('mt-pause');
+  const resetBtn = document.getElementById('mt-reset');
+  const presetBtns = document.querySelectorAll('.mt-preset');
+  const bellBtns = document.querySelectorAll('.mt-bell-choice');
+
+  let totalSeconds = 300;
+  let remainingSeconds = 300;
+  let timerId = null;
+  let audioCtx = null;
+  let bellType = 'soft';
+
+  const tips = [
+    "Notice the air at your nostrils.",
+    "Your belly rising and falling.",
+    "If you wander, come back. No judgment.",
+    "The wandering IS the practice.",
+    "Soft jaw. Soft shoulders. Soft eyes.",
+    "You're doing this. That's enough.",
+    "Notice sounds. Let them pass.",
+    "One breath at a time.",
+  ];
+
+  function fmtTime(s) {
+    const m = Math.floor(s / 60);
+    const sec = s % 60;
+    return m + ':' + (sec < 10 ? '0' + sec : sec);
+  }
+
+  function showTip() {
+    tipEl.textContent = tips[Math.floor(Math.random() * tips.length)];
+    tipEl.hidden = false;
+    setTimeout(() => { tipEl.hidden = true; }, 8000);
+  }
+
+  function getAudioCtx() {
+    if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    return audioCtx;
+  }
+
+  function playBell(type) {
+    try {
+      const ctx = getAudioCtx();
+      const now = ctx.currentTime;
+      const o1 = ctx.createOscillator();
+      const o2 = ctx.createOscillator();
+      const gain = ctx.createGain();
+
+      if (type === 'chime') {
+        o1.frequency.value = 880;
+        o2.frequency.value = 1320;
+      } else if (type === 'gong') {
+        o1.frequency.value = 220;
+        o2.frequency.value = 440;
+      } else {
+        o1.frequency.value = 528;
+        o2.frequency.value = 792;
+      }
+
+      o1.connect(gain);
+      o2.connect(gain);
+      gain.connect(ctx.destination);
+
+      gain.gain.setValueAtTime(0, now);
+      gain.gain.linearRampToValueAtTime(0.4, now + 0.05);
+      gain.gain.exponentialRampToValueAtTime(0.001, now + 3.5);
+
+      o1.start(now);
+      o2.start(now);
+      o1.stop(now + 3.5);
+      o2.stop(now + 3.5);
+    } catch (e) {}
+  }
+
+  function updateDisplay() {
+    timeEl.textContent = fmtTime(remainingSeconds);
+  }
+
+  function setMinutes(min) {
+    if (timerId) clearInterval(timerId);
+    totalSeconds = min * 60;
+    remainingSeconds = totalSeconds;
+    statusEl.textContent = 'Ready';
+    updateDisplay();
+    presetBtns.forEach(b => b.classList.remove('active'));
+    document.querySelector(`.mt-preset[data-minutes="${min}"]`)?.classList.add('active');
+    startBtn.disabled = false;
+    pauseBtn.disabled = true;
+    pauseBtn.textContent = 'Pause';
+  }
+
+  function start() {
+    if (remainingSeconds <= 0) return;
+    if (!audioCtx) getAudioCtx();
+    playBell(bellType);
+    setTimeout(() => {
+      timerId = setInterval(() => {
+        remainingSeconds--;
+        updateDisplay();
+        if (remainingSeconds === Math.floor(totalSeconds / 2)) showTip();
+        if (remainingSeconds === 60) showTip();
+        if (remainingSeconds <= 0) {
+          clearInterval(timerId);
+          timerId = null;
+          statusEl.textContent = 'Complete';
+          playBell(bellType);
+          setTimeout(playBell.bind(null, bellType), 1500);
+        }
+      }, 1000);
+    }, 100);
+    statusEl.textContent = 'Meditating';
+    startBtn.disabled = true;
+    pauseBtn.disabled = false;
+    pauseBtn.textContent = 'Pause';
+  }
+
+  function pause() {
+    if (timerId) {
+      clearInterval(timerId);
+      timerId = null;
+      statusEl.textContent = 'Paused';
+      pauseBtn.textContent = 'Resume';
+    } else if (remainingSeconds > 0 && remainingSeconds < totalSeconds) {
+      start();
+    }
+  }
+
+  function reset() {
+    if (timerId) clearInterval(timerId);
+    timerId = null;
+    remainingSeconds = totalSeconds;
+    statusEl.textContent = 'Ready';
+    updateDisplay();
+    startBtn.disabled = false;
+    pauseBtn.disabled = true;
+    pauseBtn.textContent = 'Pause';
+  }
+
+  presetBtns.forEach(btn => {
+    btn.addEventListener('click', () => setMinutes(parseInt(btn.dataset.minutes)));
+  });
+
+  bellBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      bellBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      bellType = btn.dataset.bell;
+      playBell(bellType);
+    });
+  });
+
+  startBtn.addEventListener('click', start);
+  pauseBtn.addEventListener('click', pause);
+  resetBtn.addEventListener('click', reset);
+
+  updateDisplay();
+})();
+</script>
+
+<style>
+  .mt-head { padding: 80px 0 32px; text-align: center; }
+  .mt-subtitle { max-width: 540px; margin: 16px auto 0; color: var(--muted, #666); font-size: 18px; line-height: 1.6; }
+
+  .mt-main { padding: 32px 0 64px; }
+  .mt-shell {
+    max-width: 720px;
+    margin: 0 auto;
+    background: var(--white, #fff);
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 16px;
+    padding: 48px 32px;
+    text-align: center;
+  }
+
+  .mt-display { margin-bottom: 32px; }
+  .mt-time {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 96px;
+    font-weight: 600;
+    color: var(--ink, #1a1a1a);
+    margin: 0;
+    line-height: 1;
+    letter-spacing: -2px;
+  }
+  .mt-status {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--gold, #c8a04a);
+    margin: 16px 0 0;
+    font-weight: 600;
+  }
+
+  .mt-presets {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 8px;
+    margin-bottom: 32px;
+  }
+  .mt-preset {
+    padding: 12px 16px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 8px;
+    background: var(--white, #fff);
+    cursor: pointer;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    color: var(--ink, #1a1a1a);
+    transition: all 0.2s ease;
+  }
+  .mt-preset:hover { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.04); }
+  .mt-preset.active { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.12); font-weight: 600; }
+
+  .mt-controls { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-bottom: 32px; }
+  .mt-btn {
+    padding: 12px 28px;
+    border-radius: 8px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s ease;
+  }
+  .mt-btn-primary { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); }
+  .mt-btn-primary:hover:not(:disabled) { background: #d4ab58; }
+  .mt-btn-primary:disabled { background: var(--line, #e5e5e5); color: var(--muted, #999); cursor: not-allowed; }
+  .mt-btn-secondary { background: transparent; color: var(--ink, #1a1a1a); border: 1px solid var(--line, #e5e5e5); }
+  .mt-btn-secondary:hover:not(:disabled) { border-color: var(--gold, #c8a04a); }
+  .mt-btn-secondary:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  .mt-bell-options { padding-top: 24px; border-top: 1px solid var(--line, #e5e5e5); }
+  .mt-bell-label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--muted, #888);
+    text-transform: uppercase;
+    margin: 0 0 12px;
+  }
+  .mt-bell-choices { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+  .mt-bell-choice {
+    padding: 8px 16px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 6px;
+    background: var(--white, #fff);
+    cursor: pointer;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 13px;
+    color: var(--ink, #1a1a1a);
+    transition: all 0.2s ease;
+  }
+  .mt-bell-choice:hover { border-color: var(--gold, #c8a04a); }
+  .mt-bell-choice.active { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.12); }
+
+  .mt-tip {
+    margin-top: 24px;
+    padding: 16px;
+    background: var(--cream, #faf7f2);
+    border-radius: 8px;
+    font-family: var(--serif, Georgia, serif);
+    font-style: italic;
+    font-size: 16px;
+    color: var(--ink, #1a1a1a);
+  }
+
+  .mt-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
+  .mt-faq + .mt-faq { background: var(--white, #fff); }
+  .mt-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 24px; color: var(--ink, #1a1a1a); }
+  .mt-steps { max-width: 720px; margin: 0 auto 32px; padding-left: 0; counter-reset: step; list-style: none; }
+  .mt-steps li { padding: 12px 0 12px 40px; position: relative; font-family: var(--sans, system-ui, sans-serif); font-size: 16px; line-height: 1.6; color: var(--ink, #1a1a1a); border-bottom: 1px solid var(--line, #e5e5e5); }
+  .mt-steps li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 14px; width: 28px; height: 28px; border-radius: 50%; background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; }
+  .mt-quote { max-width: 640px; margin: 0 auto; padding: 24px; background: var(--white, #fff); border-left: 3px solid var(--gold, #c8a04a); border-radius: 0 8px 8px 0; font-family: var(--serif, Georgia, serif); font-style: italic; font-size: 18px; color: var(--ink, #1a1a1a); text-align: center; }
+  .mt-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .mt-faq summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); list-style: none; }
+  .mt-faq summary::-webkit-details-marker { display: none; }
+  .mt-faq details p { margin: 12px 0 0; line-height: 1.6; color: var(--ink, #1a1a1a); }
+</style>
