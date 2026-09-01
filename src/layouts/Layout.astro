@@ -308,5 +308,31 @@ const gaSnippet = GA_ID
       function declineCookies(){localStorage.setItem('cookie_consent','declined');hideCookieBanner();}
       if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,2000);
     </script>
+  <div class="read-progress" id="read-progress" aria-hidden="true"></div>
+  <script is:inline>
+    (function () {
+      const progress = document.getElementById('read-progress');
+      if (!progress) return;
+      let ticking = false;
+      const update = () => {
+        const doc = document.documentElement;
+        const h = doc.scrollHeight - doc.clientHeight;
+        const pct = h > 0 ? Math.min(100, Math.max(0, (doc.scrollTop / h) * 100)) : 0;
+        progress.style.setProperty('--progress', pct + '%');
+        ticking = false;
+      };
+      window.addEventListener('scroll', () => {
+        if (!ticking) { window.requestAnimationFrame(update); ticking = true; }
+      }, { passive: true });
+      update();
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) e.target.classList.add('visible');
+        });
+      }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+      document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+    })();
+  </script>
   </body>
 </html>
