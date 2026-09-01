@@ -1,0 +1,202 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const title = "30 Days of Discipline — A Practical Workbook";
+const description = "A printable 30-day program to reset your habits, build your identity, and create an unbreakable discipline system. PDF download — 32 pages.";
+
+const days = Array.from({ length: 30 }, (_, i) => i + 1);
+
+const weeklyThemes = [
+  { week: 1, title: "Foundations", focus: "Audit, simplify, choose 2-3 priorities" },
+  { week: 2, title: "Identity", focus: "Become someone who does the thing" },
+  { week: 3, title: "Systems", focus: "Engineer the environment for success" },
+  { week: 4, title: "Resilience", focus: "Bounce back from inevitable misses" },
+];
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/pdf/30-days-discipline/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "DigitalDocument",
+    "name": title,
+    "description": description,
+    "url": "https://the-motivahub.com/pdf/30-days-discipline/",
+    "encodingFormat": "application/pdf",
+    "author": { "@type": "Person", "name": "Youssef Raihane" },
+    "publisher": { "@type": "Organization", "name": "Motiva Hub" },
+    "inLanguage": "en"
+  })} />
+
+  <section class="pdf-head">
+    <div class="container">
+      <p class="kicker">Free Lead Magnet · Printable PDF · 32 Pages</p>
+      <h1>30 Days of Discipline</h1>
+      <p class="pdf-subtitle"><em>A practical workbook to reset your habits, build your identity, and create an unbreakable discipline system.</em></p>
+    </div>
+  </section>
+
+  <section class="pdf-content">
+    <div class="container">
+      <div class="pdf-info">
+        <p>This isn't a book of motivation. It's a <strong>system</strong>. For 30 days, you'll work through four weekly themes, complete daily exercises, and track your progress on a printable page. By day 30, you'll have built the foundation for a discipline system that survives bad days.</p>
+
+        <h2>What's Inside</h2>
+        <ul class="toc">
+          <li><strong>Page 1:</strong> How to use this workbook (5 minutes)</li>
+          <li><strong>Page 2-3:</strong> Week 1 — Foundations (Audit + simplify)</li>
+          <li><strong>Pages 4-9:</strong> Daily protocols for Week 1</li>
+          <li><strong>Pages 10-11:</strong> Week 2 — Identity (Become someone)</li>
+          <li><strong>Pages 12-17:</strong> Daily protocols for Week 2</li>
+          <li><strong>Pages 18-19:</strong> Week 3 — Systems (Engineer environment)</li>
+          <li><strong>Pages 20-25:</strong> Daily protocols for Week 3</li>
+          <li><strong>Pages 26-27:</strong> Week 4 — Resilience (Bounce back)</li>
+          <li><strong>Pages 28-30:</strong> Daily protocols for Week 4</li>
+          <li><strong>Page 31:</strong> 30-day tracker grid (printable)</li>
+          <li><strong>Page 32:</strong> Reflection + next steps</li>
+        </ul>
+
+        <h2>Weekly Themes</h2>
+        <div class="weeks-grid">
+          {weeklyThemes.map((w) => (
+            <div class="week-card">
+              <p class="week-label">Week {w.week}</p>
+              <h3 class="week-title">{w.title}</h3>
+              <p class="week-focus">{w.focus}</p>
+            </div>
+          ))}
+        </div>
+
+        <h2>How to Use</h2>
+        <ol class="how-to">
+          <li>Print the workbook (or use it on a tablet).</li>
+          <li>Spend 15-20 minutes each morning on the day's exercise.</li>
+          <li>Track your X on the daily tracker (page 31).</li>
+          <li>Review your week each Sunday (15 minutes).</li>
+          <li>At day 30, complete the reflection and choose your next 30 days.</li>
+        </ol>
+
+        <h2>The Daily Protocol (Sample — Day 5)</h2>
+        <div class="day-sample">
+          <p class="day-title">Day 5 — Foundations Week</p>
+          <ol>
+            <li><strong>Morning:</strong> Read the daily prompt (5 minutes)</li>
+            <li><strong>Midday:</strong> Complete one small action (5 minutes)</li>
+            <li><strong>Evening:</strong> Write one sentence in the reflection box (2 minutes)</li>
+            <li><strong>Track:</strong> Put an X on your calendar (30 seconds)</li>
+          </ol>
+          <p>Total time: 12 minutes. Sustainable on your worst day.</p>
+        </div>
+
+        <div class="cta-box">
+          <p class="cta-title">Get the Full 32-Page Workbook</p>
+          <p>PDF download. Print-ready. No email required to start — but we'll send you a short email series to support your 30 days.</p>
+          <a class="btn-pill btn-pill-cream" href="#" onclick="alert('PDF generation coming soon — placeholder for now'); return false;">Download the Workbook (PDF, 32 pages)</a>
+        </div>
+
+        <div class="related-tools">
+          <h2>Tools to Use Alongside This Workbook</h2>
+          <div class="related-grid">
+            <a class="related-card" href="/tools/discipline-quiz/">
+              <p class="related-name">🎯 Discipline Type Quiz</p>
+              <p class="related-desc">Find your archetype (Builder, Sprinter, Marathoner, Strategist) — 2 minutes</p>
+            </a>
+            <a class="related-card" href="/tools/habit-stacker/">
+              <p class="related-name">🧱 Habit Stack Generator</p>
+              <p class="related-desc">Build your daily stack using Atomic Habits formula — 2 minutes</p>
+            </a>
+            <a class="related-card" href="/journal/identity-based-habits-90-day-test/">
+              <p class="related-name">📖 Identity-Based Goals</p>
+              <p class="related-desc">The deeper principle behind the workbook — 9 minute read</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pdf-faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      <details>
+        <summary>Is this really free?</summary>
+        <p>Yes. 100% free. No paywalls. No upsells in the PDF itself. The PDF contains affiliate links in the "recommended books" section, clearly marked as such.</p>
+      </details>
+      <details>
+        <summary>Do I need a printer?</summary>
+        <p>No. The workbook works on any tablet with a PDF annotation app (GoodNotes, Notability, etc.). Or you can use it digitally by typing your answers in the reflection boxes.</p>
+      </details>
+      <details>
+        <summary>What if I miss a day?</summary>
+        <p>The workbook is designed for that. Page 28 (Resilience week) covers exactly this. The principle: never miss twice. If you skip one day, get back to it the next day.</p>
+      </details>
+      <details>
+        <summary>How is this different from Atomic Habits or other books?</summary>
+        <p>This is a structured 30-day program with daily exercises, not a book to read. The content draws from Atomic Habits, Slow Productivity, and personal experience — but it's organized as a protocol, not theory.</p>
+      </details>
+    </div>
+  </section>
+
+  <section class="pdf-cta-final">
+    <div class="container">
+      <h2>Ready to start?</h2>
+      <p>30 days from now, you'll either have built a discipline system or you'll have a 30-page workbook sitting untouched. The first option is much more useful.</p>
+      <a class="btn-pill btn-pill-cream" href="#" onclick="alert('PDF generation coming soon — placeholder for now'); return false;">Download the Workbook</a>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .pdf-head { padding: 80px 0 32px; text-align: center; }
+  .pdf-subtitle { max-width: 640px; margin: 24px auto 0; font-size: 18px; color: var(--muted); line-height: 1.6; }
+
+  .pdf-content { padding: 32px 0 64px; }
+  .pdf-info { max-width: 720px; margin: 0 auto; font-family: var(--sans, system-ui, sans-serif); line-height: 1.7; color: var(--ink, #1a1a1a); }
+  .pdf-info h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; margin: 48px 0 20px; }
+  .pdf-info p { margin: 0 0 20px; font-size: 16px; }
+
+  .toc { list-style: none; padding: 0; margin: 24px 0; }
+  .toc li { padding: 8px 0; border-bottom: 1px solid var(--line, #e5e5e5); font-size: 15px; }
+  .toc strong { color: var(--gold, #c8a04a); margin-right: 8px; }
+
+  .weeks-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 24px 0 32px; }
+  .week-card { padding: 20px; background: var(--cream, #faf7f2); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .week-label { font-family: var(--sans, system-ui, sans-serif); font-size: 11px; letter-spacing: 2px; color: var(--gold, #c8a04a); margin: 0 0 8px; font-weight: 700; }
+  .week-title { font-family: var(--serif, Georgia, serif); font-size: 22px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 8px; }
+  .week-focus { font-family: var(--sans, system-ui, sans-serif); font-size: 13px; color: var(--muted, #666); margin: 0; }
+
+  .how-to { padding-left: 20px; }
+  .how-to li { padding: 8px 0; font-size: 15px; }
+
+  .day-sample { padding: 24px; background: var(--cream, #faf7f2); border-left: 3px solid var(--gold, #c8a04a); border-radius: 0 12px 12px 0; margin: 24px 0; }
+  .day-title { font-family: var(--serif, Georgia, serif); font-size: 20px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 12px; }
+  .day-sample ol { padding-left: 20px; margin: 0 0 16px; }
+  .day-sample ol li { padding: 4px 0; font-size: 14px; }
+  .day-sample p { font-size: 14px; color: var(--muted, #666); margin: 12px 0 0; }
+
+  .cta-box { padding: 32px; background: linear-gradient(180deg, rgba(200, 160, 74, 0.08), transparent); border: 1px solid rgba(200, 160, 74, 0.2); border-radius: 16px; text-align: center; margin: 32px 0; }
+  .cta-title { font-family: var(--serif, Georgia, serif); font-size: 26px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 12px; }
+  .cta-box p { font-size: 15px; color: var(--muted, #666); margin: 0 0 20px; }
+  .btn-pill { display: inline-block; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 15px; }
+  .btn-pill-cream { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); }
+
+  .related-tools { margin: 48px 0; }
+  .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+  .related-card { padding: 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; text-decoration: none; transition: border-color 0.2s ease; }
+  .related-card:hover { border-color: var(--gold, #c8a04a); }
+  .related-name { font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 6px; }
+  .related-desc { font-family: var(--sans, system-ui, sans-serif); font-size: 13px; color: var(--muted, #666); margin: 0; }
+
+  .pdf-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
+  .pdf-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 32px; color: var(--ink, #1a1a1a); }
+  .pdf-faq details { max-width: 720px; margin: 0 auto 16px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; padding: 16px 20px; }
+  .pdf-faq summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); list-style: none; }
+  .pdf-faq summary::-webkit-details-marker { display: none; }
+  .pdf-faq details[open] summary::before { content: "▾ "; color: var(--gold); }
+  .pdf-faq details summary::before { content: "▸ "; color: var(--gold); }
+  .pdf-faq details p { margin: 12px 0 0; line-height: 1.6; color: var(--ink, #1a1a1a); }
+
+  .pdf-cta-final { padding: 64px 0; text-align: center; }
+  .pdf-cta-final h2 { font-family: var(--serif, Georgia, serif); font-size: 36px; margin: 0 0 16px; color: var(--ink, #1a1a1a); }
+  .pdf-cta-final p { max-width: 540px; margin: 0 auto 32px; color: var(--muted, #666); font-size: 16px; }
+</style>
