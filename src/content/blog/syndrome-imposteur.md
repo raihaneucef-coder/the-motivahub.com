@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/syndrome-imposteur.jpg"
 topic: "Confidence"
+keywords:
+  - "imposter"
+  - "syndrome"
+  - "feel"
+  - "evidence"
+  - "fraud"
+  - "failure"
+  - "overcome"
+  - "success"
+tags:
+  - "confidence"
+  - "how-to"
+wordCount: 322
+
 ---
 
 You got the promotion, but you feel like you do not deserve it. You published the article, but you feel like it was luck. You achieved the goal, but you feel like anyone could have done it.

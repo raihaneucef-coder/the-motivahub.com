@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/goals-are-a-compass-not-a-cage.jpg"
 featured: false
 draft: false
+keywords:
+  - "compass"
+  - "goals"
+  - "goal"
+  - "north"
+  - "without"
+  - "feel"
+  - "change"
+  - "even"
+tags:
+  - "goals"
+wordCount: 263
+
 ---
 
 We treat goals as cages. Once we set one, we feel trapped by it. If we miss a day, we feel guilty. If we change our mind, we feel like we failed.

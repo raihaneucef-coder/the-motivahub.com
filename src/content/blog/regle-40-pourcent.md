@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/regle-40-pourcent.jpg"
 topic: "Discipline"
+keywords:
+  - "brain"
+  - "rule"
+  - "push"
+  - "past"
+  - "want"
+  - "feel"
+  - "time"
+  - "stop"
+tags:
+  - "discipline"
+wordCount: 448
+
 ---
 
 Your brain lies to you. When you feel exhausted, when you want to quit, when you are convinced you have nothing left — you are only at 40% of your actual capacity.

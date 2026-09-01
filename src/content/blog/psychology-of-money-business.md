@@ -5,6 +5,19 @@ pubDate: 2026-08-22
 readTime: "8 MIN"
 image: "/images/blog/psychology-of-money-business.jpg"
 topic: "Success"
+keywords:
+  - "business"
+  - "money"
+  - "every"
+  - "behavior"
+  - "problem"
+  - "story"
+  - "patience"
+  - "years"
+tags:
+  - "success"
+wordCount: 289
+
 ---
 
 A powerful business book of the last two years has nothing to do with spreadsheets. It has to do with stories. Money is not a math problem — it is a behavior problem, and behavior is where the money is made or lost.

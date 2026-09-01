@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/sleep-is-unfair-advantage.jpg"
 featured: false
 draft: false
+keywords:
+  - "sleep"
+  - "need"
+  - "unfair"
+  - "advantage"
+  - "while"
+  - "nights"
+  - "focus"
+  - "patience"
+tags:
+  - "wellness"
+wordCount: 210
+
 ---
 
 We treat sleep as what is left after everything else is done. Work, scroll, one more episode. Then we wonder why willpower is thin by Thursday.

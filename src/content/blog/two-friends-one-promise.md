@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/two-friends-one-promise.jpg"
 featured: false
 draft: false
+keywords:
+  - "promise"
+  - "walk"
+  - "walked"
+  - "year"
+  - "matter"
+  - "promised"
+  - "every"
+  - "habit"
+tags:
+  - "stories"
+wordCount: 159
+
 ---
 
 They promised to walk every day for a year. No matter the weather, no matter the mood.

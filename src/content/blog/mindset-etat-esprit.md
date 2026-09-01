@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "8 MIN"
 image: "/images/blog/mindset-etat-esprit.jpg"
 topic: "Mindset"
+keywords:
+  - "mindset"
+  - "gagnant"
+  - "peux"
+  - "tout"
+  - "pour"
+  - "entourage"
+  - "suis"
+  - "quand"
+tags:
+  - "mindset"
+  - "how-to"
+wordCount: 706
+
 ---
 
 Ton mindset détermine tout. Pas ton talent. Pas tes circonstances. Pas ta chance. **Ta façon de penser.**

@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/histoire-professeur.jpg"
 topic: "Stories"
+keywords:
+  - "maria"
+  - "pursue"
+  - "impact"
+  - "changed"
+  - "lives"
+  - "told"
+  - "became"
+  - "money"
+tags:
+  - "stories"
+  - "story"
+wordCount: 233
+
 ---
 
 Maria taught in a small school in a poor neighborhood. Her salary was barely enough to cover rent. She had no car, no vacation home, no investment portfolio. By the world's standards, she was not successful.

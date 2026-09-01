@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/ne-brise-jamais-chaine.jpg"
 topic: "Habits"
+keywords:
+  - "chain"
+  - "days"
+  - "habit"
+  - "every"
+  - "mark"
+  - "tracker"
+  - "never"
+  - "break"
+tags:
+  - "habits"
+wordCount: 578
+
 ---
 
 Jerry Seinfeld was asked how he became a better comedian. His answer was one sentence: "Write a joke every day. When you do, put a big red X on a calendar. After a few days, you will have a chain. Do not break the chain."

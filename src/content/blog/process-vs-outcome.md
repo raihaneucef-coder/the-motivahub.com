@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/process-vs-outcome.jpg"
 topic: "Goals"
+keywords:
+  - "process"
+  - "goals"
+  - "outcome"
+  - "goal"
+  - "daily"
+  - "every"
+  - "focus"
+  - "want"
+tags:
+  - "goals"
+wordCount: 287
+
 ---
 
 There are two types of goals: outcome goals and process goals. Outcome goals are what you want to achieve. Process goals are what you do every day to get there.

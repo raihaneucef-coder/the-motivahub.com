@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/definition-reussite.jpg"
 topic: "Success"
+keywords:
+  - "success"
+  - "else"
+  - "definition"
+  - "someone"
+  - "define"
+  - "make"
+  - "successful"
+  - "want"
+tags:
+  - "success"
+wordCount: 267
+
 ---
 
 The biggest mistake you can make is chasing someone else's version of success. A Ferrari does not make you successful if you hate driving. A corner office does not make you successful if you hate your job.

@@ -1,0 +1,99 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import ArticleCard from "../../../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths({ paginate }: any) {
+  const posts = (await getCollection("blog"))
+    .filter((p) => !p.data.draft)
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  return paginate(posts, { pageSize: 12 });
+}
+
+const { page } = Astro.props as any;
+const totalPages = page.lastPage;
+const isFirst = page.currentPage === 1;
+const prevHref = page.url.prev;
+const nextHref = page.url.next;
+---
+
+<Layout title={`The Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} of ${totalPages} — Essays for the long climb.`}>
+  {isFirst && (
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "Motiva Hub Journal",
+      "description": "Essays on mindset, habits, discipline, productivity, and deep work.",
+      "url": "https://the-motivahub.com/journal/",
+      "numberOfItems": page.total,
+      "itemListElement": page.data.slice(0, 20).map((p: any, i: number) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://the-motivahub.com/journal/${p.id}/`,
+        "name": p.data.title
+      }))
+    })} />
+  )}
+  <link rel="canonical" href={`https://the-motivahub.com/journal/${isFirst ? "" : `page/${page.currentPage}/`}`} />
+  {!isFirst && <link rel="prev" href={page.url.prev} />}
+  {page.url.next && <link rel="next" href={page.url.next} />}
+
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Journal</p>
+      <h1>Essays for the <em>long climb.</em></h1>
+      <p>Page {page.currentPage} of {totalPages} · {page.total} essays total</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <div class="grid">
+        {page.data.map((post: any) => <ArticleCard post={post} />)}
+      </div>
+
+      <nav class="pagination" aria-label="Pagination">
+        {prevHref ? <a class="pagination-link" href={prevHref}>← Newer</a> : <span class="pagination-link disabled">← Newer</span>}
+        <span class="pagination-current">Page {page.currentPage} of {totalPages}</span>
+        {nextHref ? <a class="pagination-link" href={nextHref}>Older →</a> : <span class="pagination-link disabled">Older →</span>}
+      </nav>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 56px 0 24px;
+    padding: 20px 0;
+    border-top: 1px solid var(--line, #e5e5e5);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .pagination-link {
+    color: var(--gold, #c8a04a);
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 8px 16px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 6px;
+    transition: border-color 0.2s ease;
+  }
+  .pagination-link:hover { border-color: var(--gold, #c8a04a); }
+  .pagination-link.disabled {
+    color: var(--muted, #999);
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+  .pagination-current {
+    color: var(--muted, #666);
+    font-size: 13px;
+  }
+</style>

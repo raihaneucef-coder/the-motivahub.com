@@ -5,6 +5,21 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/guide-debutant-fitness.jpg"
 topic: "Sport"
+keywords:
+  - "habit"
+  - "minutes"
+  - "step"
+  - "fitness"
+  - "need"
+  - "days"
+  - "tracker"
+  - "increase"
+tags:
+  - "sport"
+  - "habits"
+  - "guide"
+wordCount: 266
+
 ---
 
 You do not need a perfect workout plan. You do not need expensive equipment. You do not need a personal trainer. You need one thing: the ability to show up consistently. Everything else can be learned.

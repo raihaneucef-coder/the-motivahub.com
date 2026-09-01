@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/puissance-dialogue-interieur.jpg"
 topic: "Mindset"
+keywords:
+  - "talk"
+  - "critic"
+  - "self"
+  - "change"
+  - "yourself"
+  - "inner"
+  - "feel"
+  - "dialogue"
+tags:
+  - "mindset"
+wordCount: 704
+
 ---
 
 You talk to yourself 6,000 times a day. Most of the time, you do not even realize it.

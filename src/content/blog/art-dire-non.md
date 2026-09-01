@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/art-dire-non.jpg"
 topic: "Confidence"
+keywords:
+  - "saying"
+  - "time"
+  - "people"
+  - "boundaries"
+  - "something"
+  - "every"
+  - "approval"
+  - "discomfort"
+tags:
+  - "confidence"
+  - "how-to"
+wordCount: 269
+
 ---
 
 Saying no is not selfish. It is necessary. Every time you say yes to something you do not want, you say no to something you do — your time, your energy, your peace.

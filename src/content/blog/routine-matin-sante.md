@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/routine-matin-sante.jpg"
 topic: "Wellness"
+keywords:
+  - "morning"
+  - "live"
+  - "focus"
+  - "start"
+  - "routine"
+  - "routines"
+  - "world"
+  - "healthiest"
+tags:
+  - "wellness"
+  - "morning-routine"
+wordCount: 297
+
 ---
 
 The first hour of your day determines the rest. If you start with chaos, you will live in chaos. If you start with intention, you will live with purpose.

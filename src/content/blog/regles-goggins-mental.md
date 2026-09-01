@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/regles-goggins-mental.jpg"
 topic: "Discipline"
+keywords:
+  - "mind"
+  - "discomfort"
+  - "apply"
+  - "rule"
+  - "goggins"
+  - "thing"
+  - "david"
+  - "rules"
+tags:
+  - "discipline"
+wordCount: 555
+
 ---
 
 David Goggins was 300 pounds, working a low-paying job, and living a life that did not reflect his potential. Four years later, he was a Navy SEAL, an ultramarathon runner, and one of the toughest humans alive.

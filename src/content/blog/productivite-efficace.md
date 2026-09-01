@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/productivite-efficace.jpg"
 topic: "Productivity"
+keywords:
+  - "plus"
+  - "pour"
+  - "work"
+  - "heures"
+  - "time"
+  - "journée"
+  - "sans"
+  - "deep"
+tags:
+  - "productivity"
+  - "how-to"
+wordCount: 582
+
 ---
 
 Être productif ne signifie pas faire plus. C'est faire **mieux** — moins de bruit, plus de résultat.

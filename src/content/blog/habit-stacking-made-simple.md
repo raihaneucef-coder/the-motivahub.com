@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/habit-stacking-made-simple.jpg"
 featured: false
 draft: false
+keywords:
+  - "habit"
+  - "stack"
+  - "need"
+  - "habits"
+  - "build"
+  - "coffee"
+  - "link"
+  - "easiest"
+tags:
+  - "habits"
+wordCount: 206
+
 ---
 
 We try to build new habits in empty space. We say: I will meditate at 7 AM. But 7 AM does not yet mean anything to our brain.

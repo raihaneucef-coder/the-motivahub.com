@@ -1,10 +1,24 @@
 ---
-title: "The Deep Work Ritual"
-description: "Focus is not a mood you wait for — it is a room you build. Here is how to construct the conditions under which concentration becomes inevitable."
+title: "I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)"
+description: "Distraction is the default. Focus is the exception. After a dozen failed attempts at rituals, here is the one deep work stack that survived contact with a real Tuesday."
 pubDate: 2026-08-18
 readTime: "8 MIN"
 image: "/images/blog/deep-work-ritual.jpg"
 topic: "Productivity"
+keywords:
+  - "work"
+  - "room"
+  - "deep"
+  - "hour"
+  - "mind"
+  - "ritual"
+  - "mood"
+  - "desk"
+tags:
+  - "productivity"
+wordCount: 686
+bookSlug: deep-work
+
 ---
 
 Focus is not a mood you wait for — it is a room you build. Here is how to construct the conditions under which concentration becomes inevitable.

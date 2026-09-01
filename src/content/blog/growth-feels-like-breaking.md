@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/growth-feels-like-breaking.jpg"
 featured: false
 draft: false
+keywords:
+  - "breaking"
+  - "becoming"
+  - "feels"
+  - "growth"
+  - "feel"
+  - "comfortable"
+  - "first"
+  - "person"
+tags:
+  - "personal growth"
+wordCount: 197
+
 ---
 
 You thought growth would feel like becoming. At first, it feels like breaking.

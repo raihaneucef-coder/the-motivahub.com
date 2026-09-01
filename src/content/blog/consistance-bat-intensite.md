@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/consistance-bat-intensite.jpg"
 topic: "Sport"
+keywords:
+  - "days"
+  - "consistent"
+  - "habit"
+  - "consistency"
+  - "tracker"
+  - "showing"
+  - "every"
+  - "show"
+tags:
+  - "sport"
+wordCount: 265
+
 ---
 
 Every January, gyms are packed. By February, they are empty. The people who show up intensely for a week and then disappear never achieve anything. The people who show up moderately for a year transform everything.

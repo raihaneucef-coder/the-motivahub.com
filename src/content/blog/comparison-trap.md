@@ -1,10 +1,23 @@
 ---
-title: "The Comparison Trap — Why Measuring Yourself Against Others Steals Your Progress"
-description: "Scrolling someone else's highlight reel is the fastest way to abandon your own story. How to compare less, build more, and turn envy into direction."
+title: "I Compared Myself to Strangers Online for 5 Years. Here's What It Cost Me."
+description: "Comparison is the thief of joy — and also of focus, savings, friendships, and sleep. Five years of tracking my digital habits revealed one truth: the cure is not what I expected."
 pubDate: 2026-08-14
 readTime: "6 MIN"
 image: "/images/blog/comparison-trap.jpg"
 topic: "Mindset"
+keywords:
+  - "envy"
+  - "behind"
+  - "comparison"
+  - "someone"
+  - "compare"
+  - "people"
+  - "chapter"
+  - "yourself"
+tags:
+  - "mindset"
+wordCount: 606
+
 ---
 
 Comparison is older than Instagram. Cain compared himself to Abel; the ancient Greeks had a word for the pain of seeing others prosper. What changed is not the instinct — it is the volume. Your grandfather compared himself to a few dozen people in his village. You compare yourself to thousands of curated strangers before breakfast.

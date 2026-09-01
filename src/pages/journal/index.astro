@@ -12,6 +12,22 @@ const rest = posts.filter((p) => p.id !== featured.id);
 ---
 
 <Layout title="The Journal — Motiva Hub" description="Essays for the long climb. Mindset, habits, discipline, productivity, deep work — articles for the disciplined mind.">
+  <link rel="canonical" href="https://the-motivahub.com/journal/" />
+  <link rel="next" href="/journal/page/2/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Motiva Hub Journal",
+    "description": "Essays on mindset, habits, discipline, productivity, and deep work.",
+    "url": "https://the-motivahub.com/journal/",
+    "numberOfItems": posts.length,
+    "itemListElement": posts.slice(0, 20).map((p, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "url": `https://the-motivahub.com/journal/${p.id}/`,
+      "name": p.data.title
+    }))
+  })} />
   <section class="page-head">
     <div class="container">
       <p class="kicker" data-i18n="journalKicker">The Journal</p>
@@ -47,32 +63,76 @@ const rest = posts.filter((p) => p.id !== featured.id);
       </div>
 
       <div class="grid" id="journal-grid">
-        {rest.map((post) => (
+        {rest.slice(0, 11).map((post) => (
           <div class="searchable" data-title={post.data.title.toLowerCase()} data-topic={post.data.topic.toLowerCase()} data-desc={post.data.description.toLowerCase()}>
             <ArticleCard post={post} />
           </div>
         ))}
       </div>
       <p id="no-results" hidden style="text-align:center;color:var(--muted);margin-top:32px;" data-i18n="noResults">No results found.</p>
-      <script>
-        const input = document.getElementById('journal-search') as HTMLInputElement | null;
-        const grid = document.getElementById('journal-grid');
-        const noRes = document.getElementById('no-results');
-        if (input && grid && noRes) {
-          const items = Array.from(grid.querySelectorAll('.searchable')) as HTMLElement[];
-          input.addEventListener('input', () => {
-            const q = input.value.trim().toLowerCase();
-            let vis = 0;
-            items.forEach((el) => {
-              const hay = (el.dataset.title || '') + ' ' + (el.dataset.topic || '') + ' ' + (el.dataset.desc || '');
-              const show = !q || hay.includes(q);
-              el.style.display = show ? '' : 'none';
-              if (show) vis++;
-            });
-            noRes.hidden = vis !== 0;
-          });
-        }
-      </script>
+
+      <nav class="pagination" aria-label="Pagination">
+        <span class="pagination-link disabled">← Newer</span>
+        <span class="pagination-current">Page 1 of {Math.ceil((posts.length - 1) / 12) + 1}</span>
+        <a class="pagination-link" href="/journal/page/2/">Older →</a>
+      </nav>
     </div>
   </section>
+
+  <script>
+    const input = document.getElementById('journal-search') as HTMLInputElement | null;
+    const grid = document.getElementById('journal-grid');
+    const noRes = document.getElementById('no-results');
+    if (input && grid && noRes) {
+      const items = Array.from(grid.querySelectorAll('.searchable')) as HTMLElement[];
+      input.addEventListener('input', () => {
+        const q = input.value.trim().toLowerCase();
+        let vis = 0;
+        items.forEach((el) => {
+          const hay = (el.dataset.title || '') + ' ' + (el.dataset.topic || '') + ' ' + (el.dataset.desc || '');
+          const show = !q || hay.includes(q);
+          el.style.display = show ? '' : 'none';
+          if (show) vis++;
+        });
+        noRes.hidden = vis !== 0;
+      });
+    }
+  </script>
 </Layout>
+
+<style>
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 56px 0 24px;
+    padding: 20px 0;
+    border-top: 1px solid var(--line, #e5e5e5);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .pagination-link {
+    color: var(--gold, #c8a04a);
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 8px 16px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 6px;
+    transition: border-color 0.2s ease;
+  }
+  .pagination-link:hover { border-color: var(--gold, #c8a04a); }
+  .pagination-link.disabled {
+    color: var(--muted, #999);
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+  .pagination-current {
+    color: var(--muted, #666);
+    font-size: 13px;
+  }
+</style>

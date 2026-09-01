@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/arreter-auto-sabotage.jpg"
 topic: "Mindset"
+keywords:
+  - "self"
+  - "sabotage"
+  - "yourself"
+  - "identity"
+  - "behavior"
+  - "thing"
+  - "sabotaging"
+  - "break"
+tags:
+  - "mindset"
+  - "how-to"
+wordCount: 708
+
 ---
 
 You know what you need to do. You have the plan, the knowledge, the tools. And yet, you do not do it. Worse — you actively work against yourself.

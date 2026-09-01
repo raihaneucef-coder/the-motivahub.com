@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/eat-on-time-not-on-emotion.jpg"
 featured: false
 draft: false
+keywords:
+  - "hunger"
+  - "lunch"
+  - "time"
+  - "good"
+  - "decide"
+  - "decisions"
+  - "regular"
+  - "meals"
+tags:
+  - "nutrition"
+wordCount: 194
+
 ---
 
 Hunger is not a good time to decide what to eat.

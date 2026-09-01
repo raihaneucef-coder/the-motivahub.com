@@ -5,6 +5,20 @@ pubDate: 2026-08-22
 readTime: "7 MIN"
 image: "/images/blog/comment-devenir-mentalement-inebranlable.jpg"
 topic: "Discipline"
+keywords:
+  - "goggins"
+  - "plus"
+  - "jour"
+  - "chaque"
+  - "minutes"
+  - "dans"
+  - "david"
+  - "quand"
+tags:
+  - "discipline"
+  - "how-to"
+wordCount: 683
+
 ---
 
 > *Source d'inspiration : [David Goggins — Comment devenir mentalement inébranlable (YouTube)](https://www.youtube.com/watch?v=2KsoiHBZGVc)*

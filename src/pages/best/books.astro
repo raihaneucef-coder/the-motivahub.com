@@ -1,0 +1,187 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { books } from "../../data/books";
+import BookCard from "../../components/BookCard.astro";
+import AffiliateBanner from "../../components/AffiliateBanner.astro";
+
+const title = "Best Self-Help Books 2026 — Motiva Hub";
+const description = "The 12 best self-help books that actually change how you think, work, and live — from Marcus Aurelius to Atomic Habits. Hand-picked, ranked, and reviewed by the Motiva Hub editorial team.";
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/best/books/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://the-motivahub.com/best/books/#article",
+        "headline": title,
+        "description": description,
+        "image": "https://the-motivahub.com/images/hero.jpg",
+        "datePublished": "2026-01-01",
+        "dateModified": new Date().toISOString().split("T")[0],
+        "inLanguage": "en",
+        "author": { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/about/" },
+        "publisher": { "@type": "Organization", "name": "Motiva Hub", "logo": { "@type": "ImageObject", "url": "https://the-motivahub.com/logo.jpg" } },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://the-motivahub.com/best/books/" }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://the-motivahub.com/best/books/#list",
+        "name": title,
+        "description": description,
+        "url": "https://the-motivahub.com/best/books/",
+        "numberOfItems": books.length,
+        "itemListElement": books.map((b, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": `${b.title} by ${b.author}`,
+          "url": b.affiliateUrl || `https://the-motivahub.com/books/`
+        }))
+      }
+    ]
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "What is the best self-help book to read?", "acceptedAnswer": { "@type": "Answer", "text": "Atomic Habits by James Clear is the most actionable modern self-help book. For timeless philosophy, Meditations by Marcus Aurelius remains the gold standard." } },
+      { "@type": "Question", "name": "Are these books worth reading in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Each book on this list has been re-read and recommended because the ideas compound over time, not because they are trendy." } },
+      { "@type": "Question", "name": "Do you earn a commission from these links?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. As an Amazon Associate, we earn from qualifying purchases. The price you pay is unchanged." } }
+    ]
+  })} />
+
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Bookstand · Best Of</p>
+      <h1>The Best Self-Help Books <em>to Read in 2026</em></h1>
+      <p>Twelve books we return to. Hand-picked, ranked, and honestly reviewed — the ones that earn their place on the shelf beside the bed.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <AffiliateBanner variant="callout" lang="en" />
+
+      <div class="intro-block">
+        <h2>How we picked them</h2>
+        <p>We did not chase the year's loudest titles. Each book on this list passed three filters: <strong>timelessness</strong> (still useful a decade from now), <strong>action density</strong> (one idea per chapter you can use today), and <strong>re-readability</strong> (the kind of book that gives more on the third read than the first).</p>
+        <p>If you only read three books from this list, start with <strong>Meditations</strong>, <strong>Atomic Habits</strong>, and <strong>Deep Work</strong>. They cover the inner life, the daily system, and the rare hour of focused work that changes a week.</p>
+      </div>
+
+      <div class="book-grid">
+        {books.map((book, i) => (
+          <div class="ranked-book">
+            <span class="rank">#{i + 1}</span>
+            <BookCard book={book} />
+          </div>
+        ))}
+      </div>
+
+      <div class="faq-block">
+        <h2>Frequently asked questions</h2>
+        <details>
+          <summary>What is the best self-help book to read?</summary>
+          <p>Atomic Habits by James Clear is the most actionable modern self-help book. For timeless philosophy, Meditations by Marcus Aurelius remains the gold standard.</p>
+        </details>
+        <details>
+          <summary>Are these books worth reading in 2026?</summary>
+          <p>Yes. Each book has been re-read and recommended because the ideas compound over time, not because they are trendy.</p>
+        </details>
+        <details>
+          <summary>Do you earn a commission from these links?</summary>
+          <p>Yes. As an Amazon Associate, we earn from qualifying purchases. The price you pay is unchanged.</p>
+        </details>
+      </div>
+
+      <AffiliateBanner variant="footer" lang="en" />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .intro-block {
+    max-width: 720px;
+    margin: 0 auto 48px;
+    padding: 32px 28px;
+    background: var(--cream, #faf7f2);
+    border-left: 3px solid var(--gold, #c8a04a);
+    border-radius: 0 8px 8px 0;
+  }
+  .intro-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 24px;
+    margin: 0 0 16px;
+    color: var(--ink, #1a1a1a);
+  }
+  .intro-block p {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 12px;
+  }
+  .intro-block strong {
+    color: var(--gold, #c8a04a);
+    font-weight: 600;
+  }
+  .ranked-book {
+    position: relative;
+  }
+  .rank {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 2;
+    background: var(--gold, #c8a04a);
+    color: var(--ink, #0e0e0e);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+  }
+  .faq-block {
+    max-width: 720px;
+    margin: 64px auto 0;
+    padding: 32px 28px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 12px;
+    background: var(--white, #fff);
+  }
+  .faq-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 22px;
+    margin: 0 0 20px;
+  }
+  .faq-block details {
+    margin-bottom: 12px;
+    border-bottom: 1px solid var(--line, #e5e5e5);
+    padding-bottom: 12px;
+  }
+  .faq-block summary {
+    cursor: pointer;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--ink, #1a1a1a);
+    padding: 8px 0;
+    list-style: none;
+  }
+  .faq-block summary::-webkit-details-marker { display: none; }
+  .faq-block summary::before {
+    content: "▸ ";
+    color: var(--gold, #c8a04a);
+    margin-right: 8px;
+  }
+  .faq-block details[open] summary::before { content: "▾ "; }
+  .faq-block p {
+    margin: 12px 0 0 24px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--muted, #666);
+  }
+</style>

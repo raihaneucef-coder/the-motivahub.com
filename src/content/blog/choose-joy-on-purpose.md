@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/choose-joy-on-purpose.jpg"
 featured: false
 draft: false
+keywords:
+  - "schedule"
+  - "choose"
+  - "purpose"
+  - "delight"
+  - "work"
+  - "find"
+  - "finishing"
+  - "ones"
+tags:
+  - "entertainment"
+wordCount: 171
+
 ---
 
 We wait for joy to find us. It rarely does, because we never make room for it.

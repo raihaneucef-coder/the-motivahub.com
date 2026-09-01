@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/love-is-a-practice.jpg"
 featured: false
 draft: false
+keywords:
+  - "feel"
+  - "love"
+  - "practice"
+  - "feeling"
+  - "loving"
+  - "follows"
+  - "mood"
+  - "made"
+tags:
+  - "relationships"
+wordCount: 251
+
 ---
 
 We think love is a feeling that makes us act. Most days it is the opposite: acting with love is what creates the feeling.

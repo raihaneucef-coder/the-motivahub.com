@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/styles-attachement.jpg"
 topic: "Relationships"
+keywords:
+  - "attachment"
+  - "style"
+  - "people"
+  - "secure"
+  - "intimacy"
+  - "styles"
+  - "pull"
+  - "away"
+tags:
+  - "relationships"
+wordCount: 278
+
 ---
 
 Have you ever wondered why some people pull away when things get close, while others cling desperately? The answer lies in your attachment style — a pattern of relating to others that forms in childhood.

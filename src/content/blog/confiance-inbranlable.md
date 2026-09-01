@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/confiance-inbranlable.jpg"
 topic: "Confidence"
+keywords:
+  - "something"
+  - "confidence"
+  - "week"
+  - "days"
+  - "time"
+  - "confident"
+  - "review"
+  - "share"
+tags:
+  - "confidence"
+  - "how-to"
+wordCount: 350
+
 ---
 
 Confidence is not a personality trait. It is a skill. And like any skill, it can be built, trained, and strengthened.

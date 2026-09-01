@@ -5,6 +5,21 @@ pubDate: 2026-08-24
 readTime: "9 MIN"
 image: "/images/blog/atomic-habits-revue.jpg"
 topic: "Habits"
+keywords:
+  - "habits"
+  - "habit"
+  - "want"
+  - "make"
+  - "atomic"
+  - "need"
+  - "identity"
+  - "every"
+tags:
+  - "habits"
+  - "guide"
+wordCount: 876
+bookSlug: atomic-habits
+
 ---
 
 Atomic Habits is not just a book. It is a operating system for behavior change. James Clear distilled years of research into four simple laws — and those laws have helped millions of people build better habits and break bad ones.

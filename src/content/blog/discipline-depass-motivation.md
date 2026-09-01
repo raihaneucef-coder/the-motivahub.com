@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/discipline-depass-motivation.jpg"
 topic: "Success"
+keywords:
+  - "discipline"
+  - "motivation"
+  - "days"
+  - "build"
+  - "habits"
+  - "tracker"
+  - "going"
+  - "reliable"
+tags:
+  - "success"
+  - "discipline"
+wordCount: 267
+
 ---
 
 Motivation is like weather — unpredictable and temporary. Discipline is like a rock — solid and reliable. The most successful people do not rely on motivation. They rely on discipline.

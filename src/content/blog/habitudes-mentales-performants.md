@@ -5,6 +5,21 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/habitudes-mentales-performants.jpg"
 topic: "Mindset"
+keywords:
+  - "high"
+  - "habits"
+  - "performers"
+  - "minutes"
+  - "every"
+  - "energy"
+  - "mental"
+  - "daily"
+tags:
+  - "mindset"
+  - "habits"
+wordCount: 592
+bookSlug: atomic-habits
+
 ---
 
 High performers are not lucky. They are consistent. And their consistency is built on invisible mental habits — routines that happen before the day even begins.

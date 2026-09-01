@@ -7,6 +7,20 @@ readTime: "4 min read"
 image: "/images/blog/the-morning-athlete.jpg"
 featured: false
 draft: false
+keywords:
+  - "morning"
+  - "athlete"
+  - "person"
+  - "world"
+  - "feel"
+  - "promise"
+  - "asks"
+  - "need"
+tags:
+  - "sport"
+  - "morning-routine"
+wordCount: 178
+
 ---
 
 The alarm at 5 AM is not a punishment. It is a selection.

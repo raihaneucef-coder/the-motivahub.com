@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "9 MIN"
 image: "/images/blog/discipline-personnelle-guide.jpg"
 topic: "Discipline"
+keywords:
+  - "discipline"
+  - "chaque"
+  - "plus"
+  - "chose"
+  - "pour"
+  - "objectif"
+  - "jour"
+  - "matin"
+tags:
+  - "discipline"
+  - "guide"
+wordCount: 726
+
 ---
 
 La discipline personnelle n'est pas un talent. C'est un muscle. Et comme tout muscle, elle se développe par la répétition, pas par l'inspiration.

@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/journal-croissance.jpg"
 topic: "Personal Growth"
+keywords:
+  - "writing"
+  - "write"
+  - "journaling"
+  - "growth"
+  - "prompts"
+  - "today"
+  - "journal"
+  - "think"
+tags:
+  - "personal growth"
+wordCount: 266
+
 ---
 
 Every successful person in history has journaled. Marcus Aurelius. Leonardo da Vinci. Oprah Winfrey. They all wrote — not for others, but for themselves.

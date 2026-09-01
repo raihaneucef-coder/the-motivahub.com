@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/focus-monde-distractions.jpg"
 topic: "Mindset"
+keywords:
+  - "focus"
+  - "attention"
+  - "every"
+  - "work"
+  - "time"
+  - "brain"
+  - "phone"
+  - "world"
+tags:
+  - "mindset"
+  - "how-to"
+wordCount: 736
+
 ---
 
 Your attention is being stolen. Every notification, every app, every headline is designed to capture your focus and sell it to the highest bidder.

@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/regarder-intentionnellement.jpg"
 topic: "Entertainment"
+keywords:
+  - "watch"
+  - "entertainment"
+  - "life"
+  - "movies"
+  - "learn"
+  - "intention"
+  - "choose"
+  - "shows"
+tags:
+  - "entertainment"
+  - "how-to"
+wordCount: 228
+
 ---
 
 Entertainment is not inherently bad. It becomes bad when it is mindless. When you watch with intention, entertainment can be educational, inspiring, and even life-changing.

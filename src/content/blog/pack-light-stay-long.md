@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/pack-light-stay-long.jpg"
 featured: false
 draft: false
+keywords:
+  - "pack"
+  - "stay"
+  - "because"
+  - "light"
+  - "long"
+  - "travelers"
+  - "carry"
+  - "less"
+tags:
+  - "travel"
+wordCount: 187
+
 ---
 
 We pack as if we are moving house. Then we carry that house on our backs and wonder why travel feels heavy.

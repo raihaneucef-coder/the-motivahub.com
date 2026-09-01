@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/paycheck-trap.jpg"
 featured: false
 draft: false
+keywords:
+  - "keep"
+  - "raise"
+  - "paycheck"
+  - "earning"
+  - "income"
+  - "freedom"
+  - "lifestyle"
+  - "rises"
+tags:
+  - "finance"
+wordCount: 165
+
 ---
 
 Every raise comes with a silent partner: lifestyle inflation.

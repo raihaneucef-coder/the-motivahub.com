@@ -1,0 +1,95 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { books } from "../../data/books";
+import BookCard from "../../components/BookCard.astro";
+import AffiliateBanner from "../../components/AffiliateBanner.astro";
+
+const focusBooks = books.filter((b) => b.category === "FOCUS" || b.category === "PRODUCTIVITY");
+const title = "Best Focus & Deep Work Books 2026 — Motiva Hub";
+const description = "The best books on focus, deep work, and concentration. Train your mind to do hard things — ranked by the Motiva Hub editorial team.";
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/best/focus-books/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "@id": "https://the-motivahub.com/best/focus-books/#article",
+        "headline": title,
+        "description": description,
+        "image": "https://the-motivahub.com/images/hero.jpg",
+        "datePublished": "2026-01-01",
+        "dateModified": new Date().toISOString().split("T")[0],
+        "inLanguage": "en",
+        "author": { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/about/" },
+        "publisher": { "@type": "Organization", "name": "Motiva Hub", "logo": { "@type": "ImageObject", "url": "https://the-motivahub.com/logo.jpg" } },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://the-motivahub.com/best/focus-books/" }
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://the-motivahub.com/best/focus-books/#list",
+        "name": title,
+        "description": description,
+        "url": "https://the-motivahub.com/best/focus-books/",
+        "numberOfItems": focusBooks.length,
+        "itemListElement": focusBooks.map((b, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": `${b.title} by ${b.author}`,
+          "url": b.affiliateUrl || `https://the-motivahub.com/books/`
+        }))
+      }
+    ]
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "What is the best book on deep work?", "acceptedAnswer": { "@type": "Answer", "text": "Deep Work by Cal Newport is the definitive guide on training your attention as a craft." } },
+      { "@type": "Question", "name": "How do I improve my focus?", "acceptedAnswer": { "@type": "Answer", "text": "Start by removing distractions, scheduling deep work blocks, and tracking your attention like a muscle." } }
+    ]
+  })} />
+
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">The Bookstand · Best Of</p>
+      <h1>Best Books on <em>Focus & Deep Work</em></h1>
+      <p>The books that teach attention as a craft — how to do hard things, on purpose, for a long time.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <AffiliateBanner variant="callout" lang="en" />
+      <div class="book-grid">
+        {focusBooks.map((book, i) => (
+          <div class="ranked-book">
+            <span class="rank">#{i + 1}</span>
+            <BookCard book={book} />
+          </div>
+        ))}
+      </div>
+      <AffiliateBanner variant="footer" lang="en" />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .ranked-book { position: relative; }
+  .rank {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 2;
+    background: var(--gold, #c8a04a);
+    color: var(--ink, #0e0e0e);
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+  }
+</style>

@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/meal-prep-dimanche.jpg"
 topic: "Nutrition"
+keywords:
+  - "meal"
+  - "healthy"
+  - "week"
+  - "step"
+  - "meals"
+  - "need"
+  - "sunday"
+  - "hours"
+tags:
+  - "nutrition"
+  - "how-to"
+wordCount: 236
+
 ---
 
 The reason most people eat poorly is not lack of knowledge — it is lack of preparation. When you are hungry and there is no healthy food ready, you order delivery. Meal prep eliminates this problem.

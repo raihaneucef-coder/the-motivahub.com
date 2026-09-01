@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "7 MIN"
 image: "/images/blog/vaincre-procrastination.jpg"
 topic: "Productivity"
+keywords:
+  - "minutes"
+  - "plus"
+  - "parce"
+  - "procrastination"
+  - "tâche"
+  - "fais"
+  - "procrastines"
+  - "cerveau"
+tags:
+  - "productivity"
+  - "how-to"
+wordCount: 650
+
 ---
 
 Tu procrastines pas parce que tu es paresseux. Tu procrastines parce que ton cerveau **évite la douleur** — et la tâche que tu repousses génère de l'inconfort.

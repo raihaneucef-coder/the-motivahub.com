@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/standard-non-negociable.jpg"
 topic: "Discipline"
+keywords:
+  - "standard"
+  - "negotiable"
+  - "standards"
+  - "every"
+  - "rules"
+  - "never"
+  - "create"
+  - "identity"
+tags:
+  - "discipline"
+  - "how-to"
+wordCount: 508
+
 ---
 
 A non-negotiable standard is a rule you follow regardless of how you feel, what the weather is like, or what anyone else says. It is the foundation of discipline — and it removes the need for daily decision-making.

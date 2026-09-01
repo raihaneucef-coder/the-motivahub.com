@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/make-it-measurable-make-it-mine.jpg"
 featured: false
 draft: false
+keywords:
+  - "make"
+  - "measurable"
+  - "goal"
+  - "mine"
+  - "means"
+  - "measure"
+  - "night"
+  - "write"
+tags:
+  - "goals"
+wordCount: 188
+
 ---
 
 Vague goals inspire no one, least of all the person who set them.

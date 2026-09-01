@@ -5,6 +5,19 @@ pubDate: 2026-07-10
 readTime: "6 MIN"
 image: "/images/blog/attention-as-asset.jpg"
 topic: "Productivity"
+keywords:
+  - "attention"
+  - "every"
+  - "hour"
+  - "asset"
+  - "work"
+  - "budget"
+  - "thing"
+  - "cannot"
+tags:
+  - "productivity"
+wordCount: 688
+
 ---
 
 Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.

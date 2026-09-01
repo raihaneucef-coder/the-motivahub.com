@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/investir-debutant.jpg"
 topic: "Finance"
+keywords:
+  - "investing"
+  - "start"
+  - "money"
+  - "time"
+  - "market"
+  - "index"
+  - "wealth"
+  - "today"
+tags:
+  - "finance"
+wordCount: 287
+
 ---
 
 The best time to start investing was 20 years ago. The second best time is today. Investing is how you make your money work for you — instead of you working for your money.

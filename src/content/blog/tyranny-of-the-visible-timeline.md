@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/tyranny-of-the-visible-timeline.jpg"
 featured: false
 draft: false
+keywords:
+  - "week"
+  - "visible"
+  - "month"
+  - "clock"
+  - "people"
+  - "looks"
+  - "compounding"
+  - "long"
+tags:
+  - "mindset"
+wordCount: 385
+
 ---
 
 Ask most people why they quit something and they will tell you a story about the goal — it stopped mattering, it turned out to be the wrong one, life got in the way. Look closer and a different pattern shows up more often: they quit because they were checking the clock, and the clock kept saying the same discouraging thing.

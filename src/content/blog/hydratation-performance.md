@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/hydratation-performance.jpg"
 topic: "Nutrition"
+keywords:
+  - "water"
+  - "dehydration"
+  - "drink"
+  - "performance"
+  - "exercise"
+  - "days"
+  - "decrease"
+  - "every"
+tags:
+  - "nutrition"
+wordCount: 240
+
 ---
 
 You can survive 3 weeks without food. You can only survive 3 days without water. Yet most people walk around chronically dehydrated — and wonder why they feel tired, foggy, and unproductive.

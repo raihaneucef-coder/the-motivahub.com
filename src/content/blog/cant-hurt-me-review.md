@@ -5,6 +5,20 @@ pubDate: 2026-08-15
 readTime: "9 MIN"
 image: "/images/blog/cant-hurt-me-review.jpg"
 topic: "Discipline"
+keywords:
+  - "goggins"
+  - "hurt"
+  - "lesson"
+  - "mirror"
+  - "training"
+  - "mind"
+  - "seal"
+  - "cold"
+tags:
+  - "discipline"
+wordCount: 643
+bookSlug: cant-hurt-me
+
 ---
 
 Most self-help books read like a warm bath. Can't Hurt Me reads like cold water thrown on your face at 5 AM.

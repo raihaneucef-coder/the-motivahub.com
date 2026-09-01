@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/rest-is-a-decision-not-a-collapse.jpg"
 featured: false
 draft: false
+keywords:
+  - "rest"
+  - "because"
+  - "body"
+  - "recovery"
+  - "decision"
+  - "collapse"
+  - "difference"
+  - "recovers"
+tags:
+  - "wellness"
+wordCount: 390
+
 ---
 
 There are two ways a productive stretch can end. One is a decision: you look at the week, decide the account is due for a deposit, and step back on your own terms. The other is a collapse: you push until the body or the mind refuses to continue, and rest is what happens to you rather than something you chose. Both look similar from the outside. They are not similar at all.

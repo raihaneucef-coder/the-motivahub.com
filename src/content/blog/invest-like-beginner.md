@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/invest-like-beginner.jpg"
 featured: false
 draft: false
+keywords:
+  - "need"
+  - "start"
+  - "owner"
+  - "investing"
+  - "stay"
+  - "monthly"
+  - "years"
+  - "beginner"
+tags:
+  - "finance"
+wordCount: 196
+
 ---
 
 Waiting to feel ready is the most expensive investment strategy.

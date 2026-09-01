@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/trouver-voix.jpg"
 topic: "Confidence"
+keywords:
+  - "speaking"
+  - "speak"
+  - "voice"
+  - "ideas"
+  - "never"
+  - "share"
+  - "perfect"
+  - "past"
+tags:
+  - "confidence"
+  - "how-to"
+wordCount: 270
+
 ---
 
 Some people have brilliant ideas but never share them. Others have mediocre ideas but share them confidently. The difference is not intelligence — it is the willingness to speak up.

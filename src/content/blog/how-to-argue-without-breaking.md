@@ -7,6 +7,20 @@ readTime: "5 min read"
 image: "/images/blog/how-to-argue-without-breaking.jpg"
 featured: false
 draft: false
+keywords:
+  - "need"
+  - "argue"
+  - "distance"
+  - "without"
+  - "relationship"
+  - "return"
+  - "because"
+  - "topic"
+tags:
+  - "relationships"
+  - "how-to"
+wordCount: 197
+
 ---
 
 Every relationship will argue. The question is not whether you will disagree, but how you will return.

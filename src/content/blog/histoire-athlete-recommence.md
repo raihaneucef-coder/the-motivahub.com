@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/histoire-athlete-recommence.jpg"
 topic: "Stories"
+keywords:
+  - "medals"
+  - "person"
+  - "start"
+  - "lost"
+  - "started"
+  - "reputation"
+  - "something"
+  - "sponsorships"
+tags:
+  - "stories"
+wordCount: 228
+
 ---
 
 She was at the top of her sport. Gold medals, sponsorships, magazine covers. Then the injury hit. Surgery after surgery. The medals stopped. The sponsors left. The magazines moved on.

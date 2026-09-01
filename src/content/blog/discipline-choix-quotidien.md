@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/discipline-choix-quotidien.jpg"
 topic: "Discipline"
+keywords:
+  - "discipline"
+  - "comfort"
+  - "choice"
+  - "disciplined"
+  - "every"
+  - "choose"
+  - "days"
+  - "want"
+tags:
+  - "discipline"
+wordCount: 558
+
 ---
 
 Every morning, you face the same choice: comfort or discipline. The alarm goes off — do you get up or hit snooze? The workout awaits — do you show up or stay in bed? The work is waiting — do you start or scroll?

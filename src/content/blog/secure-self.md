@@ -5,6 +5,19 @@ pubDate: 2026-08-12
 readTime: "7 MIN"
 image: "/images/blog/secure-self.jpg"
 topic: "Personal Growth"
+keywords:
+  - "love"
+  - "yourself"
+  - "people"
+  - "secure"
+  - "focusing"
+  - "self"
+  - "because"
+  - "others"
+tags:
+  - "personal growth"
+wordCount: 407
+
 ---
 
 You were told that focusing on yourself is selfish. That you should think about others first, give more, be more available. And you did — until you noticed that the more you focused on people, the less you felt yourself. A more secure perspective has a different instruction: focus on yourself more than you focus on people. Not because people do not matter, but because self-love is the only love that is truly secure — safe.

@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "4 MIN"
 image: "/images/blog/regle-2-min-productivite.jpg"
 topic: "Productivity"
+keywords:
+  - "minute"
+  - "rule"
+  - "small"
+  - "tasks"
+  - "less"
+  - "minutes"
+  - "task"
+  - "list"
+tags:
+  - "productivity"
+wordCount: 247
+bookSlug: atomic-habits
+
 ---
 
 David Allen introduced this rule in Getting Things Done: if a task takes less than 2 minutes, do it immediately instead of adding it to your list.

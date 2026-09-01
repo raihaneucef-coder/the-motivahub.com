@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/eat-the-frog.jpg"
 topic: "Productivity"
+keywords:
+  - "frog"
+  - "first"
+  - "thing"
+  - "hard"
+  - "morning"
+  - "task"
+  - "mark"
+  - "twain"
+tags:
+  - "productivity"
+wordCount: 287
+
 ---
 
 "If the first thing you do each morning is eat a live frog, you can go through the rest of the day knowing the worst is behind you." — Mark Twain

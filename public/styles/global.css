@@ -125,6 +125,7 @@ img { max-width: 100%; height: auto; }
   opacity: 0;
   visibility: hidden;
   transition: opacity 0.4s ease, visibility 0.4s ease;
+  overflow: hidden;
 }
 
 .overlay-menu.open { opacity: 1; visibility: visible; }
@@ -134,42 +135,110 @@ img { max-width: 100%; height: auto; }
   align-items: center;
   justify-content: space-between;
   height: 72px;
+  flex-shrink: 0;
   border-bottom: 1px solid rgba(249, 247, 242, 0.08);
+  padding: 0 24px;
 }
 
 .overlay-nav {
   flex: 1;
+  min-height: 0;
   max-width: 640px;
   width: 100%;
   margin: 0 auto;
-  padding: 30px 24px;
+  padding: 30px 24px 24px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  gap: 24px;
   overflow-y: auto;
+  overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(249, 247, 242, 0.25) transparent;
+}
+
+.overlay-nav::-webkit-scrollbar {
+  width: 6px;
+}
+
+.overlay-nav::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.overlay-nav::-webkit-scrollbar-thumb {
+  background: rgba(249, 247, 242, 0.2);
+  border-radius: 3px;
+}
+
+.overlay-nav::-webkit-scrollbar-thumb:hover {
+  background: rgba(249, 247, 242, 0.35);
+}
+
+.overlay-nav-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.overlay-nav-heading {
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 8px;
+  padding: 0 4px;
+  font-weight: 600;
 }
 
 .overlay-nav a {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
-  border-bottom: 1px solid rgba(249, 247, 242, 0.1);
-  padding: 18px 4px;
+  justify-content: flex-start;
+  gap: 12px;
+  border-bottom: 1px solid rgba(249, 247, 242, 0.08);
+  padding: 14px 4px;
   color: var(--cream);
   text-decoration: none;
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   font-weight: 300;
   transition: color 0.2s ease, padding-left 0.2s ease;
+  min-height: 44px;
 }
 
-.overlay-nav a:hover { color: var(--gold-light); padding-left: 12px; }
+.overlay-nav a:hover,
+.overlay-nav a:active {
+  color: var(--gold-light);
+  padding-left: 12px;
+}
 
-.overlay-nav a span { font-family: var(--serif); font-size: 1.6rem; font-weight: 400; }
+.overlay-nav a span {
+  font-family: var(--serif);
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
 
 .overlay-foot {
-  padding: 24px 0 40px;
+  padding: 20px 24px 28px;
   text-align: center;
+  flex-shrink: 0;
+  border-top: 1px solid rgba(249, 247, 242, 0.08);
+}
+
+@media (max-width: 640px) {
+  .overlay-nav {
+    padding: 20px 18px 16px;
+    gap: 18px;
+  }
+  .overlay-nav a {
+    padding: 12px 4px;
+    min-height: 40px;
+  }
+  .overlay-nav a span {
+    font-size: 1.2rem;
+  }
 }
 
 /* Hero — dark editorial like base44 (stairs, person, light) */

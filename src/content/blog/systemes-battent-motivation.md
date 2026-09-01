@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/systemes-battent-motivation.jpg"
 topic: "Goals"
+keywords:
+  - "system"
+  - "systems"
+  - "motivation"
+  - "goal"
+  - "write"
+  - "gets"
+  - "cannot"
+  - "words"
+tags:
+  - "goals"
+wordCount: 392
+
 ---
 
 Motivation gets you started. Systems keep you going. The problem is that most people rely on motivation — and motivation disappears when things get hard.

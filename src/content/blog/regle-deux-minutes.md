@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/regle-deux-minutes.jpg"
 topic: "Habits"
+keywords:
+  - "habit"
+  - "minute"
+  - "minutes"
+  - "rule"
+  - "start"
+  - "every"
+  - "becomes"
+  - "brain"
+tags:
+  - "habits"
+wordCount: 659
+bookSlug: atomic-habits
+
 ---
 
 Most habits fail because they start too big. You want to read 30 pages, so you do not read at all. You want to run 5 km, so you do not even put on your shoes. The ambition kills the habit before it starts.

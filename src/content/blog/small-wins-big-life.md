@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/small-wins-big-life.jpg"
 featured: false
 draft: false
+keywords:
+  - "small"
+  - "page"
+  - "becomes"
+  - "wins"
+  - "repeated"
+  - "often"
+  - "minutes"
+  - "life"
+tags:
+  - "habits"
+wordCount: 198
+
 ---
 
 We wait for a big moment to change our lives. It never comes that way.

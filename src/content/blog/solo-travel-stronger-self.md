@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/solo-travel-stronger-self.jpg"
 featured: false
 draft: false
+keywords:
+  - "travel"
+  - "alone"
+  - "learn"
+  - "solo"
+  - "stronger"
+  - "world"
+  - "yourself"
+  - "make"
+tags:
+  - "travel"
+wordCount: 193
+
 ---
 
 Travel with others and you learn about the place. Travel alone and you learn about yourself.

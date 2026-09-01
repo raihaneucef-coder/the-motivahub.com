@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/identite-precde-resultat.jpg"
 topic: "Habits"
+keywords:
+  - "identity"
+  - "want"
+  - "behavior"
+  - "days"
+  - "change"
+  - "loop"
+  - "start"
+  - "vote"
+tags:
+  - "habits"
+wordCount: 612
+
 ---
 
 Most people try to change their lives by changing their behavior. They set goals, create plans, and rely on willpower. But the deepest, most lasting change happens when you change who you believe you are.

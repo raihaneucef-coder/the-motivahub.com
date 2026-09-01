@@ -1,10 +1,24 @@
 ---
-title: "Atomic Habits — Tiny Changes, Remarkable Results"
-description: "James Clear's bestseller decoded: why systems beat goals, how identity drives behavior, and five lessons you can apply tonight."
+title: "I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time."
+description: "Most reviews tell you if a book is good. This one tells you what a book does to you — across 18 months, four reads, and one stubborn habit that finally stuck."
 pubDate: 2026-08-13
 readTime: "9 MIN"
 image: "/images/blog/atomic-habits-review.jpg"
 topic: "Habits"
+keywords:
+  - "habits"
+  - "lesson"
+  - "habit"
+  - "atomic"
+  - "identity"
+  - "book"
+  - "because"
+  - "every"
+tags:
+  - "habits"
+wordCount: 723
+bookSlug: atomic-habits
+
 ---
 
 It is probably the most highlighted book of the decade. Millions own a copy, a fraction finish it, and only a handful actually live it. That gap is ironic — because Atomic Habits is precisely about closing small gaps, one repetition at a time.

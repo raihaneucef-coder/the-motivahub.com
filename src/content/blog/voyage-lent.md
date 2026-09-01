@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/voyage-lent.jpg"
 topic: "Travel"
+keywords:
+  - "travel"
+  - "slow"
+  - "place"
+  - "local"
+  - "instead"
+  - "learn"
+  - "less"
+  - "rushing"
+tags:
+  - "travel"
+wordCount: 271
+
 ---
 
 The typical tourist checks off 5 countries in 2 weeks. They take photos at every landmark, eat at every chain restaurant, and return home more exhausted than when they left.

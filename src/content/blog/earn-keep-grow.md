@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/earn-keep-grow.jpg"
 featured: false
 draft: false
+keywords:
+  - "earn"
+  - "keep"
+  - "money"
+  - "growing"
+  - "grow"
+  - "jobs"
+  - "skill"
+  - "keeping"
+tags:
+  - "finance"
+wordCount: 316
+
 ---
 
 We treat money as if it were a single problem: not enough of it. So we chase the single answer: earn more.

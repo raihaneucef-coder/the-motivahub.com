@@ -1,12 +1,25 @@
 ---
-title: "The Body Votes First"
-description: "We treat fitness as optional maintenance, scheduled after the important work. It is not optional. The state of your body casts the deciding vote on how your mind shows up."
+title: "Your Body Voted Before You Did — The Hidden Election That Runs Your Life"
+description: "Every habit is a vote. Every craving is a tally. Your body elects your moods, your focus, your sleep — long before your mind shows up to the race. Here is how to win the vote you didn't know you lost."
 pubDate: 2026-08-17
 topic: "Sport"
 readTime: "5 min read"
 image: "/images/blog/body-votes-first.jpg"
 featured: false
 draft: false
+keywords:
+  - "body"
+  - "mind"
+  - "votes"
+  - "first"
+  - "every"
+  - "need"
+  - "optional"
+  - "maintenance"
+tags:
+  - "sport"
+wordCount: 435
+
 ---
 
 We like to believe the mind is in charge.

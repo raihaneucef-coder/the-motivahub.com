@@ -1,12 +1,25 @@
 ---
-title: "Boundaries Are Love in Action"
-description: "A boundary is not a wall — it is a clear line that lets love move without resentment."
+title: "Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do"
+description: "Loving yourself is a verb. Saying no is the verb. Here is how to build walls that protect relationships instead of breaking them — without losing the people you love."
 pubDate: 2026-08-18
 topic: "Relationships"
 readTime: "4 min read"
 image: "/images/blog/boundaries-are-love.jpg"
 featured: false
 draft: false
+keywords:
+  - "love"
+  - "boundaries"
+  - "boundary"
+  - "without"
+  - "people"
+  - "action"
+  - "resentment"
+  - "always"
+tags:
+  - "relationships"
+wordCount: 176
+
 ---
 
 We think boundaries push people away. The opposite is true: unclear boundaries slowly poison closeness, until distance feels safer than honesty.

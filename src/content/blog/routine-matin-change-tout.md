@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/routine-matin-change-tout.jpg"
 topic: "Habits"
+keywords:
+  - "morning"
+  - "routine"
+  - "minutes"
+  - "hours"
+  - "clarity"
+  - "days"
+  - "build"
+  - "making"
+tags:
+  - "habits"
+  - "morning-routine"
+wordCount: 496
+
 ---
 
 The morning is the only time of day that is truly yours. Before the emails, before the meetings, before the world starts making demands — there is a window of freedom. How you use it determines the quality of your entire day.

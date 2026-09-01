@@ -7,6 +7,19 @@ readTime: "5 min read"
 image: "/images/blog/the-cost-of-success.jpg"
 featured: false
 draft: false
+keywords:
+  - "paid"
+  - "cost"
+  - "success"
+  - "every"
+  - "price"
+  - "advance"
+  - "boredom"
+  - "would"
+tags:
+  - "success"
+wordCount: 191
+
 ---
 
 We love the highlight. We rarely ask what it cost when the cameras were off.

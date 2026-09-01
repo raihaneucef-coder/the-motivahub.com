@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/move-daily-not-perfectly.jpg"
 featured: false
 draft: false
+keywords:
+  - "perfect"
+  - "daily"
+  - "move"
+  - "need"
+  - "workout"
+  - "goal"
+  - "progress"
+  - "perfectly"
+tags:
+  - "wellness"
+wordCount: 171
+
 ---
 
 The perfect workout is the one you keep skipping because you are waiting for the perfect hour, the perfect gym, the perfect energy.

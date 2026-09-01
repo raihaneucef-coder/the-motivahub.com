@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/pouvoir-elimination.jpg"
 topic: "Productivity"
+keywords:
+  - "eliminate"
+  - "meetings"
+  - "emails"
+  - "focus"
+  - "matters"
+  - "results"
+  - "time"
+  - "delegate"
+tags:
+  - "productivity"
+wordCount: 269
+
 ---
 
 We live in a culture that celebrates busyness. More tasks, more meetings, more emails, more everything. But the most productive people do not do more — they do less.

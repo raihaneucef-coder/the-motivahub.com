@@ -7,6 +7,19 @@ readTime: "4 min read"
 image: "/images/blog/success-leaves-traces.jpg"
 featured: false
 draft: false
+keywords:
+  - "traces"
+  - "trophy"
+  - "success"
+  - "follow"
+  - "leaves"
+  - "study"
+  - "photo"
+  - "made"
+tags:
+  - "success"
+wordCount: 175
+
 ---
 
 We study the trophy and ignore the traces.

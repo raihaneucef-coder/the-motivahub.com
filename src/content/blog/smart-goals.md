@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/smart-goals.jpg"
 topic: "Goals"
+keywords:
+  - "goal"
+  - "smart"
+  - "want"
+  - "goals"
+  - "write"
+  - "setting"
+  - "specific"
+  - "framework"
+tags:
+  - "goals"
+wordCount: 464
+
 ---
 
 "I want to be successful" is not a goal. It is a wish. And wishes do not come true — plans do.

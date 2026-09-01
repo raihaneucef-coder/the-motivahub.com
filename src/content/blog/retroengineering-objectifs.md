@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/retroengineering-objectifs.jpg"
 topic: "Goals"
+keywords:
+  - "goal"
+  - "reverse"
+  - "daily"
+  - "words"
+  - "engineering"
+  - "work"
+  - "backward"
+  - "action"
+tags:
+  - "goals"
+  - "how-to"
+wordCount: 329
+
 ---
 
 Most people set a goal and then figure out how to get there. The most successful people do the opposite — they start at the end and work backward.

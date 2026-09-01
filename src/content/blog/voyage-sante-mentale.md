@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/voyage-sante-mentale.jpg"
 topic: "Travel"
+keywords:
+  - "travel"
+  - "mental"
+  - "health"
+  - "brain"
+  - "environments"
+  - "stress"
+  - "creativity"
+  - "breaks"
+tags:
+  - "travel"
+wordCount: 246
+
 ---
 
 Your brain is a pattern-recognition machine. When you are in the same environment every day, your brain goes on autopilot. Travel breaks the pattern — and that is exactly what your mental health needs.

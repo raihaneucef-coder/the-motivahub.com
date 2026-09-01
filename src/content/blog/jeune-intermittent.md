@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 readTime: "6 MIN"
 image: "/images/blog/jeune-intermittent.jpg"
 topic: "Nutrition"
+keywords:
+  - "fasting"
+  - "eating"
+  - "intermittent"
+  - "fast"
+  - "hours"
+  - "window"
+  - "insulin"
+  - "body"
+tags:
+  - "nutrition"
+wordCount: 248
+
 ---
 
 Intermittent fasting (IF) is not a diet — it is an eating pattern. You cycle between periods of eating and fasting. The most common method is 16:8 — fast for 16 hours, eat for 8.

@@ -5,6 +5,20 @@ pubDate: 2026-08-24
 readTime: "5 MIN"
 image: "/images/blog/habitude-5-min-relations.jpg"
 topic: "Relationships"
+keywords:
+  - "habit"
+  - "minute"
+  - "relationships"
+  - "need"
+  - "attention"
+  - "minutes"
+  - "works"
+  - "daily"
+tags:
+  - "relationships"
+  - "habits"
+wordCount: 245
+
 ---
 
 Relationships do not need grand gestures. They need small, consistent acts of attention. The 5-minute daily habit is simple: spend 5 minutes giving your full, undivided attention to the person you love.

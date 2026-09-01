@@ -5,6 +5,19 @@ pubDate: 2026-08-21
 readTime: "7 MIN"
 image: "/images/blog/athlete-discipline.jpg"
 topic: "Discipline"
+keywords:
+  - "sport"
+  - "boring"
+  - "athlete"
+  - "discipline"
+  - "work"
+  - "secret"
+  - "long"
+  - "game"
+tags:
+  - "discipline"
+wordCount: 279
+
 ---
 
 The most memorable sport moments are not highlights. They are 5 AM runs in the rain. The athlete alone, doing the work no camera wants to film. That is why they resonate — not because it is spectacular, but because it is honest.
