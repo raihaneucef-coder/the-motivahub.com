@@ -9,24 +9,60 @@ interface Props {
   meta?: Array<{ num: string; label: string }>;
 }
 
-const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/images/hero-face.jpg", primaryCta, secondaryCta, meta } = Astro.props;
+const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/images/hero-brand.jpg", primaryCta, secondaryCta, meta } = Astro.props;
+const titleText = title.replace(/<[^>]+>/g, '');
 ---
 
-<section class="hero hero-portrait">
+<section class="hero hero-portrait" id="hero">
   <div class="hero-portrait-bg" style={`background-image: url('${image}');`}></div>
   <div class="hero-portrait-overlay"></div>
+  <div class="hero-portrait-glyph" aria-hidden="true">M</div>
   <div class="hero-grain"></div>
+
+  <div class="hero-vertical-text" aria-hidden="true">
+    <span>EST · MMXXV</span>
+    <span>·</span>
+    <span>THE LONG ASCENT</span>
+    <span>·</span>
+    <span>NO SHORTCUTS</span>
+  </div>
+
   <div class="container">
     <div class="hero-content">
-      <span class="hero-eyebrow">{kicker}</span>
-      <h1 class="hero-title" set:html={title}></h1>
-      <p class="hero-subtitle" set:html={subtitle}></p>
-      <div class="hero-btns">
-        <a class="btn btn-primary" href={primaryCta.href} data-magnetic>{primaryCta.label}</a>
-        <a class="btn btn-ghost" href={secondaryCta.href} data-magnetic>{secondaryCta.label}</a>
+      <span class="hero-eyebrow">
+        <span class="hero-eyebrow-dot"></span>
+        {kicker}
+      </span>
+
+      <h1 class="hero-title" data-stagger-reveal>
+        {title.split('<br/>').map((line, i) => (
+          <span class="hero-title-line">
+            {line.split(/(<em>.*?<\/em>)/g).map((part) => {
+              if (part.startsWith('<em>')) {
+                const text = part.replace(/<\/?em>/g, '');
+                return <em class="hero-title-word">{text}</em>;
+              }
+              return <span class="hero-title-word">{part}</span>;
+            })}
+          </span>
+        ))}
+      </h1>
+
+      <p class="hero-subtitle" data-stagger-reveal>{subtitle}</p>
+
+      <div class="hero-btns" data-stagger-reveal>
+        <a class="btn btn-primary btn-magnetic" href={primaryCta.href}>
+          <span>{primaryCta.label}</span>
+          <span class="btn-arrow-sm">→</span>
+        </a>
+        <a class="btn btn-ghost btn-magnetic" href={secondaryCta.href}>
+          <span>{secondaryCta.label}</span>
+          <span class="btn-arrow-sm">→</span>
+        </a>
       </div>
+
       {meta && meta.length > 0 && (
-        <div class="hero-meta">
+        <div class="hero-meta" data-stagger-reveal>
           {meta.map((m) => (
             <div class="hero-meta-item">
               <span class="hero-meta-num" set:html={m.num}></span>
@@ -37,14 +73,49 @@ const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/imag
       )}
     </div>
   </div>
-  <div class="hero-scroll">Scroll</div>
+
+  <div class="hero-scroll">
+    <span>SCROLL</span>
+    <span class="hero-scroll-line"></span>
+  </div>
+
+  <div class="hero-corner hero-corner-tl" aria-hidden="true">
+    <span class="hero-corner-mark">M·H</span>
+    <span class="hero-corner-num">N°001</span>
+  </div>
+  <div class="hero-corner hero-corner-br" aria-hidden="true">
+    <span>Frame 01 / 12</span>
+  </div>
 </section>
 
 <script is:inline>
   (function () {
-    const hero = document.querySelector('.hero-portrait');
+    const hero = document.getElementById('hero');
     if (!hero) return;
-    const bg = hero.querySelector('.hero-portrait-bg');
+
+    // Letter-by-letter reveal
+    const words = hero.querySelectorAll('.hero-title-word');
+    words.forEach((word, i) => {
+      const text = word.textContent;
+      word.innerHTML = '';
+      const letters = text.split('');
+      letters.forEach((letter, j) => {
+        const span = document.createElement('span');
+        span.className = 'hero-letter';
+        span.textContent = letter === ' ' ? '\u00A0' : letter;
+        span.style.transitionDelay = (0.1 + (i * 0.05) + (j * 0.025)) + 's';
+        word.appendChild(span);
+      });
+    });
+    requestAnimationFrame(() => {
+      hero.querySelectorAll('[data-stagger-reveal]').forEach((el, idx) => {
+        el.style.transitionDelay = (0.1 + idx * 0.15) + 's';
+        el.classList.add('revealed');
+      });
+      hero.querySelectorAll('.hero-letter').forEach((l) => l.classList.add('revealed'));
+    });
+
+    // Parallax
     const onMove = (e) => {
       const rect = hero.getBoundingClientRect();
       const x = (e.clientX - rect.left) / rect.width - 0.5;
@@ -53,6 +124,8 @@ const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/imag
       hero.style.setProperty('--my', (y * 36) + 'px');
       hero.style.setProperty('--mxr', (x * -22) + 'px');
       hero.style.setProperty('--myr', (y * -22) + 'px');
+      hero.style.setProperty('--mx2', (x * 12) + 'px');
+      hero.style.setProperty('--my2', (y * 12) + 'px');
     };
     hero.addEventListener('mousemove', onMove);
     hero.addEventListener('mouseleave', () => {
@@ -60,6 +133,8 @@ const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/imag
       hero.style.setProperty('--my', '0px');
       hero.style.setProperty('--mxr', '0px');
       hero.style.setProperty('--myr', '0px');
+      hero.style.setProperty('--mx2', '0px');
+      hero.style.setProperty('--my2', '0px');
     });
   })();
 </script>
