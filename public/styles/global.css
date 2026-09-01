@@ -259,6 +259,15 @@ p { line-height: 1.7; }
   transition: transform var(--dur-base) var(--ease-spring);
 }
 
+.logo-img {
+  height: 40px;
+  width: auto;
+  display: block;
+  transition: transform var(--dur-base) var(--ease-out), filter var(--dur-base) var(--ease-out);
+}
+.logo:hover .logo-img { transform: scale(1.03); }
+.logo-img-dark { filter: brightness(0) invert(1) hue-rotate(180deg) saturate(0.6); opacity: 0.94; }
+
 .logo:hover .logo-mark { transform: rotate(-8deg) scale(1.05); }
 
 .header-actions {
@@ -335,6 +344,10 @@ p { line-height: 1.7; }
 .menu-btn-bars span:nth-child(2) { width: 70%; margin-left: auto; }
 
 .menu-btn:hover .menu-btn-bars span:nth-child(2) { width: 100%; }
+
+@media (max-width: 640px) {
+  .logo-img { height: 30px; }
+}
 
 /* Transparent header on dark hero */
 .site-header:not(.scrolled) {
@@ -1823,8 +1836,13 @@ section {
   font-weight: 500;
 }
 
-.hero-corner-tl { top: 100px; left: clamp(20px, 4vw, 56px); }
+.hero-corner-tl { top: 92px; left: clamp(20px, 4vw, 56px); }
 .hero-corner-br { bottom: 32px; left: 50%; transform: translateX(-50%); }
+
+@media (max-width: 768px) {
+  .hero-corner-tl { top: 88px; }
+  .hero-corner-br { display: none; }
+}
 
 .hero-corner-mark {
   font-family: var(--serif);
