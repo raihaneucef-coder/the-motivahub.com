@@ -1836,11 +1836,10 @@ section {
   font-weight: 500;
 }
 
-.hero-corner-tl { top: 92px; left: clamp(20px, 4vw, 56px); }
+.hero-corner-tl { display: none; }
 .hero-corner-br { bottom: 32px; left: 50%; transform: translateX(-50%); }
 
 @media (max-width: 768px) {
-  .hero-corner-tl { top: 88px; }
   .hero-corner-br { display: none; }
 }
 
