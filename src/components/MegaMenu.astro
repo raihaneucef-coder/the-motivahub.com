@@ -1,0 +1,71 @@
+---
+const sections = [
+  {
+    heading: "Read",
+    items: [
+      { num: "01", label: "The Journal", href: "/journal/" },
+      { num: "02", label: "Daily Quotes", href: "/quotes/" },
+      { num: "03", label: "Topics", href: "/topics/" },
+      { num: "04", label: "The Bookstand", href: "/books/" },
+    ],
+  },
+  {
+    heading: "Guides",
+    items: [
+      { num: "05", label: "Atomic Habits", href: "/guides/atomic-habits-ultimate-guide/" },
+      { num: "06", label: "Best Books 2026", href: "/best/books/" },
+      { num: "07", label: "Best Focus Books", href: "/best/focus-books/" },
+      { num: "08", label: "Best Habit Books", href: "/best/habit-books/" },
+      { num: "09", label: "Best Stoicism Books", href: "/best/stoicism-books/" },
+    ],
+  },
+  {
+    heading: "Tools",
+    items: [
+      { num: "10", label: "Discipline Quiz", href: "/tools/discipline-quiz/" },
+      { num: "11", label: "Habit Stacker", href: "/tools/habit-stacker/" },
+      { num: "12", label: "Meditation Timer", href: "/tools/meditation-timer/" },
+      { num: "13", label: "Cold Shower Tracker", href: "/tools/cold-shower-tracker/" },
+      { num: "14", label: "Reading Calculator", href: "/tools/reading-calculator/" },
+    ],
+  },
+  {
+    heading: "Brand",
+    items: [
+      { num: "15", label: "The Author", href: "/author/youssef-raihane/" },
+      { num: "16", label: "About", href: "/about/" },
+      { num: "17", label: "30 Days of Discipline", href: "/pdf/30-days-discipline/" },
+      { num: "18", label: "Contact", href: "/contact/" },
+    ],
+  },
+];
+---
+
+<div class="overlay-menu" id="overlay-menu">
+  <div class="overlay-head container">
+    <a href="/" class="logo logo-cream">
+      <span class="logo-mark">M</span>
+      <span class="logo-word">Motiva <em>Hub</em></span>
+    </a>
+    <button class="menu-btn menu-btn-cream" id="menu-close" aria-label="Close menu">
+      <span>Close</span>
+      <span class="menu-btn-bars"><span></span><span></span></span>
+    </button>
+  </div>
+  <nav class="overlay-nav" aria-label="Fullscreen menu">
+    {sections.map((section) => (
+      <div class="overlay-nav-section">
+        <p class="overlay-nav-heading">{section.heading}</p>
+        {section.items.map((item) => (
+          <a href={item.href} data-num={item.num}>
+            <span>{item.label}</span>
+          </a>
+        ))}
+      </div>
+    ))}
+  </nav>
+  <div class="overlay-foot container">
+    <p>Motiva Hub · The Long Ascent</p>
+    <button class="btn btn-primary" type="button" onclick="document.getElementById('newsletter')?.scrollIntoView({behavior:'smooth'}); document.getElementById('overlay-menu')?.classList.remove('open'); document.body.style.overflow='';">Subscribe</button>
+  </div>
+</div>
