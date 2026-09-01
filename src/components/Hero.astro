@@ -1,24 +1,72 @@
 ---
 interface Props {
-  kicker: string;
+  kicker?: string;
   title: string;
   subtitle: string;
-  image: string;
+  image?: string;
   primaryCta: { label: string; href: string };
   secondaryCta: { label: string; href: string };
+  meta?: Array<{ num: string; label: string }>;
 }
-const { kicker, title, subtitle, image, primaryCta, secondaryCta } = Astro.props;
+
+const { kicker = "Motiva Hub · The Daily Drive", title, subtitle, image = "/images/hero-athlete.jpg", primaryCta, secondaryCta, meta } = Astro.props;
 ---
 
 <section class="hero">
-  <img class="hero-photo" src={image} alt="" loading="eager" />
+  <div class="hero-bg" style={`--hero-img: url('${image}');`}></div>
+  <div class="hero-grain"></div>
   <div class="container">
-    <p class="kicker" data-i18n="heroKicker">{kicker}</p>
-    <h1 data-i18n="heroTitle">{title}</h1>
-    <p data-i18n="heroSubtitle">{subtitle}</p>
-    <div class="hero-btns">
-      <a class="btn-pill" href={primaryCta.href} data-i18n="heroPrimary">{primaryCta.label}</a>
-      <a class="btn-pill btn-pill-outline" href={secondaryCta.href} data-i18n="heroSecondary">{secondaryCta.label}</a>
+    <div class="hero-content">
+      <span class="hero-eyebrow">{kicker}</span>
+      <h1 class="hero-title" set:html={title}></h1>
+      <p class="hero-subtitle" set:html={subtitle}></p>
+      <div class="hero-btns">
+        <a class="btn btn-primary" href={primaryCta.href} data-magnetic>{primaryCta.label}</a>
+        <a class="btn btn-ghost" href={secondaryCta.href} data-magnetic>{secondaryCta.label}</a>
+      </div>
+      {meta && meta.length > 0 && (
+        <div class="hero-meta">
+          {meta.map((m) => (
+            <div class="hero-meta-item">
+              <span class="hero-meta-num" set:html={m.num}></span>
+              <span class="hero-meta-label">{m.label}</span>
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   </div>
+  <div class="hero-scroll">Scroll</div>
 </section>
+
+<script is:inline>
+  (function () {
+    const hero = document.querySelector('.hero');
+    if (!hero) return;
+    const bg = hero.querySelector('.hero-bg::before');
+    const onMove = (e) => {
+      const rect = hero.getBoundingClientRect();
+      const x = (e.clientX - rect.left) / rect.width - 0.5;
+      const y = (e.clientY - rect.top) / rect.height - 0.5;
+      hero.style.setProperty('--mx', (x * 24) + 'px');
+      hero.style.setProperty('--my', (y * 24) + 'px');
+      hero.style.setProperty('--mxr', (x * -16) + 'px');
+      hero.style.setProperty('--myr', (y * -16) + 'px');
+    };
+    hero.addEventListener('mousemove', onMove);
+    hero.addEventListener('mouseleave', () => {
+      hero.style.setProperty('--mx', '0px');
+      hero.style.setProperty('--my', '0px');
+      hero.style.setProperty('--mxr', '0px');
+      hero.style.setProperty('--myr', '0px');
+    });
+
+    const style = document.createElement('style');
+    style.textContent = `
+      .hero-bg::before { transform: translate3d(var(--mx, 0), var(--my, 0), 0) scale(1.05); }
+      .hero-bg::after { transform: translate3d(var(--mxr, 0), var(--myr, 0), 0); }
+      .hero-title { transform: translate3d(calc(var(--mx, 0) * 0.5), calc(var(--my, 0) * 0.5), 0); }
+    `;
+    document.head.appendChild(style);
+  })();
+</script>
