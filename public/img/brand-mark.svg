@@ -1,17 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Motiva Hub">
   <defs>
-    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#e6c478"/>
-      <stop offset="100%" stop-color="#b08a3e"/>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5d896"/>
+      <stop offset="50%" stop-color="#c79a45"/>
+      <stop offset="100%" stop-color="#8a6420"/>
+    </linearGradient>
+    <linearGradient id="d" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3a3a"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
     </linearGradient>
   </defs>
-
-  <rect width="64" height="64" rx="14" fill="#0a0a0a"/>
-
-  <path d="M 8 50 L 8 16 L 13 16 L 32 41 L 51 16 L 56 16 L 56 50 L 51 50 L 51 24 L 34 46 L 30 46 L 13 24 L 13 50 Z" fill="url(#gold)" fill-rule="evenodd"/>
-
-  <path d="M 8 50 L 56 50" stroke="#3a2a10" stroke-width="1.5"/>
-  <path d="M 8 53 L 56 53" stroke="#b08a3e" stroke-width="0.6" opacity="0.5"/>
-
-  <path d="M 16 52 L 26 52 L 32 47 L 38 52 L 48 52" fill="none" stroke="#e6c478" stroke-width="1.1" stroke-linejoin="round" opacity="0.85"/>
+  <rect width="64" height="64" rx="12" fill="#0a0a0a"/>
+  <path d="M 8 50 L 8 14 L 14 14 L 22 26 L 30 14 L 36 14 L 36 50 L 30 50 L 30 24 L 24 32 L 20 32 L 14 24 L 14 50 Z" fill="url(#g)"/>
+  <path d="M 38 50 L 38 14 L 44 14 L 44 42 L 56 42 L 56 50 Z" fill="url(#d)"/>
+  <path d="M 28 22 L 38 4 L 42 4 L 32 24 Z" fill="url(#g)"/>
+  <path d="M 16 56 L 48 56" stroke="url(#g)" stroke-width="0.8" opacity="0.6"/>
 </svg>
