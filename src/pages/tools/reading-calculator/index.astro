@@ -1,0 +1,445 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import NewsletterSection from "../../../components/NewsletterSection.astro";
+
+const title = "Reading Goal Calculator — How to Read 12, 24, or 50 Books This Year";
+const description = "Free calculator that turns your reading goal into a daily page target. Pick the number of books, average page count, and your daily minutes. Get a custom plan.";
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/tools/reading-calculator/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "@id": "https://the-motivahub.com/tools/reading-calculator/#app",
+    "name": title,
+    "description": description,
+    "url": "https://the-motivahub.com/tools/reading-calculator/",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "Any",
+    "browserRequirements": "Requires JavaScript",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": { "@type": "Person", "name": "Youssef Raihane" }
+  })} />
+
+  <section class="rc-head">
+    <div class="container">
+      <p class="kicker">Free Tool · 30 Seconds</p>
+      <h1>Reading Goal Calculator</h1>
+      <p class="rc-subtitle">Turn "read more" into a daily page target. Get a custom plan in 30 seconds.</p>
+    </div>
+  </section>
+
+  <section class="rc-main">
+    <div class="container">
+      <div class="rc-shell">
+        <div class="rc-form-grid">
+          <div class="rc-input-group">
+            <label for="rc-goal">Books you want to read this year</label>
+            <input type="number" id="rc-goal" min="1" max="200" value="24" />
+          </div>
+          <div class="rc-input-group">
+            <label for="rc-pages">Average pages per book</label>
+            <input type="number" id="rc-pages" min="100" max="1000" value="300" />
+          </div>
+          <div class="rc-input-group">
+            <label for="rc-wpm">Your reading speed (pages/hour)</label>
+            <input type="number" id="rc-wpm" min="20" max="120" value="50" />
+          </div>
+          <div class="rc-input-group">
+            <label for="rc-minutes">Minutes you can read daily</label>
+            <input type="number" id="rc-minutes" min="5" max="180" value="20" />
+          </div>
+        </div>
+
+        <button class="rc-btn rc-btn-primary" id="rc-calculate">Calculate My Plan</button>
+
+        <div class="rc-results" id="rc-results" hidden>
+          <div class="rc-result-headline">
+            <p class="rc-result-label">Your daily target</p>
+            <p class="rc-result-num" id="rc-pages-day">14</p>
+            <p class="rc-result-unit">pages per day</p>
+          </div>
+
+          <div class="rc-result-grid">
+            <div class="rc-result-stat">
+              <p class="rc-stat-num" id="rc-total-pages">7,200</p>
+              <p class="rc-stat-label">Total pages</p>
+            </div>
+            <div class="rc-result-stat">
+              <p class="rc-stat-num" id="rc-hours-needed">144</p>
+              <p class="rc-stat-label">Hours needed</p>
+            </div>
+            <div class="rc-result-stat">
+              <p class="rc-stat-num" id="rc-feasibility">85%</p>
+              <p class="rc-stat-label">Goal feasible</p>
+            </div>
+            <div class="rc-result-stat">
+              <p class="rc-stat-num" id="rc-minutes-needed">17 min</p>
+              <p class="rc-stat-label">Daily needed</p>
+            </div>
+          </div>
+
+          <div class="rc-plan">
+            <h3 class="rc-plan-h">Your 4-Quarter Plan</h3>
+            <div class="rc-plan-grid" id="rc-plan-grid">
+              <div class="rc-plan-card">
+                <p class="rc-plan-q">Q1</p>
+                <p class="rc-plan-num">6 books</p>
+                <p class="rc-plan-desc">Jan–Mar · 1 every 2 weeks</p>
+              </div>
+              <div class="rc-plan-card">
+                <p class="rc-plan-q">Q2</p>
+                <p class="rc-plan-num">6 books</p>
+                <p class="rc-plan-desc">Apr–Jun · 1 every 2 weeks</p>
+              </div>
+              <div class="rc-plan-card">
+                <p class="rc-plan-q">Q3</p>
+                <p class="rc-plan-num">6 books</p>
+                <p class="rc-plan-desc">Jul–Sep · 1 every 2 weeks</p>
+              </div>
+              <div class="rc-plan-card">
+                <p class="rc-plan-q">Q4</p>
+                <p class="rc-plan-num">6 books</p>
+                <p class="rc-plan-desc">Oct–Dec · 1 every 2 weeks</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rc-tip" id="rc-tip">
+            <p class="rc-tip-icon">📌</p>
+            <p class="rc-tip-text" id="rc-tip-text"></p>
+          </div>
+
+          <div class="rc-presets">
+            <p class="rc-presets-label">Quick presets:</p>
+            <div class="rc-presets-grid">
+              <button class="rc-preset" data-goal="12" data-pages="300" data-wpm="50" data-minutes="20">12 books (1/month)</button>
+              <button class="rc-preset" data-goal="24" data-pages="300" data-wpm="50" data-minutes="20">24 books (2/month)</button>
+              <button class="rc-preset" data-goal="36" data-pages="300" data-wpm="50" data-minutes="20">36 books (3/month)</button>
+              <button class="rc-preset" data-goal="50" data-pages="300" data-wpm="50" data-minutes="30">50 books (challenge)</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="rc-faq">
+    <div class="container">
+      <h2>Why This Matters</h2>
+      <p>Most "I want to read more" goals fail because they're abstract. "Read 24 books" doesn't translate to "what do I do today?"</p>
+      <p>This calculator converts the goal into a daily target. 14 pages isn't scary. 30 minutes isn't a sacrifice. But 14 pages × 365 days = 5,110 pages = ~17 books a year.</p>
+      <p>The math compounds. So does the habit.</p>
+    </div>
+  </section>
+
+  <section class="rc-faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      <details>
+        <summary>What if I miss a day?</summary>
+        <p>That's why the plan is set conservatively. Missing one day = add 14 pages to the next day (or split across 2 days). Missing a week = reassess: is the daily target realistic? If not, lower it.</p>
+      </details>
+      <details>
+        <summary>How do I know my reading speed?</summary>
+        <p>Time yourself for 10 minutes on a typical book. Count the pages. Multiply by 6 = pages per hour. Most people: 40-60 p/h. Speed readers: 80-120 p/h.</p>
+      </details>
+      <details>
+        <summary>Can I read more than one book at a time?</summary>
+        <p>You can, but retention drops 50%+ with multiple books. Stick to one book at a time. Once you finish, start the next. The math still works.</p>
+      </details>
+      <details>
+        <summary>What's the realistic maximum?</summary>
+        <p>With 30 minutes daily and one book at a time: 30-40 books per year is realistic for most readers. Beyond that, retention suffers. Quality > quantity.</p>
+      </details>
+    </div>
+  </section>
+
+  <NewsletterSection variant="default" showLeadMagnet={true} title="Get our top 24 book recommendations for 2026." buttonText="Send Me the List" />
+</Layout>
+
+<script is:inline>
+(function () {
+  const goalInput = document.getElementById('rc-goal');
+  const pagesInput = document.getElementById('rc-pages');
+  const wpmInput = document.getElementById('rc-wpm');
+  const minutesInput = document.getElementById('rc-minutes');
+  const calcBtn = document.getElementById('rc-calculate');
+  const results = document.getElementById('rc-results');
+  const presets = document.querySelectorAll('.rc-preset');
+
+  function calc() {
+    const goal = parseInt(goalInput.value);
+    const pages = parseInt(pagesInput.value);
+    const wpm = parseInt(wpmInput.value);
+    const minutes = parseInt(minutesInput.value);
+
+    if (!goal || !pages || !wpm || !minutes || goal < 1 || pages < 50 || wpm < 10 || minutes < 5) {
+      alert('Please fill in all fields with valid numbers.');
+      return;
+    }
+
+    const totalPages = goal * pages;
+    const totalHours = Math.round(totalPages / wpm);
+    const dailyPages = Math.ceil(totalPages / 365);
+    const pagesPerMinute = wpm / 60;
+    const minutesNeeded = Math.ceil(dailyPages / pagesPerMinute);
+    const minutesAvailable = minutes;
+    const feasibility = Math.min(100, Math.round((minutesAvailable / minutesNeeded) * 100));
+
+    document.getElementById('rc-pages-day').textContent = dailyPages;
+    document.getElementById('rc-total-pages').textContent = totalPages.toLocaleString();
+    document.getElementById('rc-hours-needed').textContent = totalHours;
+    document.getElementById('rc-feasibility').textContent = feasibility + '%';
+    document.getElementById('rc-minutes-needed').textContent = minutesNeeded + ' min';
+
+    const perQuarter = Math.ceil(goal / 4);
+    document.getElementById('rc-plan-grid').innerHTML = `
+      <div class="rc-plan-card">
+        <p class="rc-plan-q">Q1</p>
+        <p class="rc-plan-num">${perQuarter} books</p>
+        <p class="rc-plan-desc">Jan–Mar · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+      </div>
+      <div class="rc-plan-card">
+        <p class="rc-plan-q">Q2</p>
+        <p class="rc-plan-num">${perQuarter} books</p>
+        <p class="rc-plan-desc">Apr–Jun · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+      </div>
+      <div class="rc-plan-card">
+        <p class="rc-plan-q">Q3</p>
+        <p class="rc-plan-num">${perQuarter} books</p>
+        <p class="rc-plan-desc">Jul–Sep · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+      </div>
+      <div class="rc-plan-card">
+        <p class="rc-plan-q">Q4</p>
+        <p class="rc-plan-num">${perQuarter} books</p>
+        <p class="rc-plan-desc">Oct–Dec · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+      </div>
+    `;
+
+    let tip = '';
+    if (feasibility < 70) {
+      tip = `YourDaily target is ${dailyPages} pages (${minutesNeeded} min). You have ${minutesAvailable} min. Consider reducing your goal to ${Math.max(1, Math.floor((minutesAvailable * pagesPerMinute) / pages * 365 / 365))} books for sustainability.`;
+    } else if (feasibility < 90) {
+      tip = `Tight. ${dailyPages} pages in ${minutesAvailable} min is doable but you'll need to be consistent. Pick a slightly easier book if you're new to daily reading.`;
+    } else if (feasibility < 100) {
+      tip = `Feasible. ${dailyPages} pages in ${minutesAvailable} min gives you some buffer. You'll hit your goal with room to spare.`;
+    } else {
+      tip = `Easy. You have ${minutesAvailable - minutesNeeded} extra min/day. Consider reading more or adding podcasts/audiobooks.`;
+    }
+    document.getElementById('rc-tip-text').textContent = tip;
+
+    results.hidden = false;
+    results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  calcBtn.addEventListener('click', calc);
+  presets.forEach(p => {
+    p.addEventListener('click', () => {
+      goalInput.value = p.dataset.goal;
+      pagesInput.value = p.dataset.pages;
+      wpmInput.value = p.dataset.wpm;
+      minutesInput.value = p.dataset.minutes;
+      calc();
+    });
+  });
+
+  calc();
+})();
+</script>
+
+<style>
+  .rc-head { padding: 80px 0 32px; text-align: center; }
+  .rc-subtitle { max-width: 540px; margin: 16px auto 0; color: var(--muted, #666); font-size: 18px; line-height: 1.6; }
+
+  .rc-main { padding: 32px 0 64px; }
+  .rc-shell {
+    max-width: 720px;
+    margin: 0 auto;
+    background: var(--white, #fff);
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 16px;
+    padding: 40px 32px;
+  }
+
+  .rc-form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .rc-input-group { display: flex; flex-direction: column; gap: 6px; }
+  .rc-input-group label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--muted, #888);
+    font-weight: 600;
+  }
+  .rc-input-group input {
+    padding: 14px 14px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 8px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 16px;
+    background: var(--white, #fff);
+  }
+
+  .rc-btn {
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s ease;
+    width: 100%;
+  }
+  .rc-btn-primary { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); }
+  .rc-btn-primary:hover { background: #d4ab58; }
+
+  .rc-results { margin-top: 32px; padding-top: 32px; border-top: 1px solid var(--line); }
+
+  .rc-result-headline { text-align: center; padding: 24px 0; }
+  .rc-result-label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--muted, #888);
+    margin: 0 0 8px;
+    font-weight: 700;
+  }
+  .rc-result-num {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 96px;
+    font-weight: 700;
+    color: var(--gold, #c8a04a);
+    margin: 0;
+    line-height: 1;
+    letter-spacing: -2px;
+  }
+  .rc-result-unit {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 16px;
+    color: var(--ink, #1a1a1a);
+    margin: 8px 0 0;
+  }
+
+  .rc-result-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; padding: 24px; background: var(--cream, #faf7f2); border-radius: 12px; margin-bottom: 24px; }
+  .rc-result-stat { text-align: center; }
+  .rc-stat-num {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--ink, #1a1a1a);
+    margin: 0;
+  }
+  .rc-stat-label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--muted, #888);
+    margin: 6px 0 0;
+  }
+
+  .rc-plan { margin-bottom: 24px; }
+  .rc-plan-h {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 16px;
+  }
+  .rc-plan-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; }
+  .rc-plan-card {
+    padding: 20px;
+    background: var(--cream, #faf7f2);
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 12px;
+    text-align: center;
+  }
+  .rc-plan-q {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: var(--gold, #c8a04a);
+    margin: 0 0 8px;
+    font-weight: 700;
+  }
+  .rc-plan-num {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 6px;
+  }
+  .rc-plan-desc {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 11px;
+    color: var(--muted, #888);
+    margin: 0;
+  }
+
+  .rc-tip {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 16px;
+    background: rgba(200, 160, 74, 0.06);
+    border: 1px solid rgba(200, 160, 74, 0.2);
+    border-radius: 12px;
+    margin-bottom: 24px;
+  }
+  .rc-tip-icon { font-size: 24px; }
+  .rc-tip-text {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--ink, #1a1a1a);
+    margin: 0;
+  }
+
+  .rc-presets { padding-top: 24px; border-top: 1px solid var(--line); }
+  .rc-presets-label {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--muted, #888);
+    margin: 0 0 12px;
+    font-weight: 600;
+    text-align: center;
+  }
+  .rc-presets-grid { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+  .rc-preset {
+    padding: 8px 14px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 6px;
+    background: var(--white, #fff);
+    cursor: pointer;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 13px;
+    color: var(--ink, #1a1a1a);
+    transition: all 0.2s ease;
+  }
+  .rc-preset:hover { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.04); }
+
+  .rc-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
+  .rc-faq + .rc-faq { background: var(--white, #fff); }
+  .rc-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 24px; color: var(--ink, #1a1a1a); }
+  .rc-faq p { max-width: 720px; margin: 0 auto 16px; line-height: 1.7; color: var(--ink, #1a1a1a); font-size: 16px; }
+  .rc-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .rc-faq summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); list-style: none; }
+  .rc-faq summary::-webkit-details-marker { display: none; }
+  .rc-faq details p { margin: 12px 0 0; }
+
+  @media (max-width: 640px) {
+    .rc-form-grid { grid-template-columns: 1fr; }
+    .rc-result-num { font-size: 72px; }
+  }
+</style>
