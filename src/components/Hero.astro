@@ -112,6 +112,7 @@ const titleText = title.replace(/<[^>]+>/g, '');
     });
 
     // Parallax
+    const isCoarse = window.matchMedia('(pointer: coarse)').matches;
     const onMove = (e) => {
       const rect = hero.getBoundingClientRect();
       const x = (e.clientX - rect.left) / rect.width - 0.5;
@@ -128,17 +129,19 @@ const titleText = title.replace(/<[^>]+>/g, '');
         hero.style.setProperty('--tilt-y', (y * 6).toFixed(2));
       }
     };
-    hero.addEventListener('mousemove', onMove);
-    hero.addEventListener('mouseleave', () => {
-      hero.style.setProperty('--mx', '0px');
-      hero.style.setProperty('--my', '0px');
-      hero.style.setProperty('--mxr', '0px');
-      hero.style.setProperty('--myr', '0px');
-      hero.style.setProperty('--mx2', '0px');
-      hero.style.setProperty('--my2', '0px');
-      hero.style.setProperty('--tilt-x', '0');
-      hero.style.setProperty('--tilt-y', '0');
-    });
+    if (!isCoarse) {
+      hero.addEventListener('mousemove', onMove);
+      hero.addEventListener('mouseleave', () => {
+        hero.style.setProperty('--mx', '0px');
+        hero.style.setProperty('--my', '0px');
+        hero.style.setProperty('--mxr', '0px');
+        hero.style.setProperty('--myr', '0px');
+        hero.style.setProperty('--mx2', '0px');
+        hero.style.setProperty('--my2', '0px');
+        hero.style.setProperty('--tilt-x', '0');
+        hero.style.setProperty('--tilt-y', '0');
+      });
+    }
 
     // Scroll-driven 3D title tilt
     const onScroll = () => {
@@ -151,6 +154,7 @@ const titleText = title.replace(/<[^>]+>/g, '');
         const rotY = progress * -10;
         title.style.setProperty('--scroll-tilt', `rotateX(${rotX}deg) rotateY(${rotY}deg)`);
       }
+      hero.style.setProperty('--scroll-depth', progress.toFixed(3));
     };
     window.addEventListener('scroll', onScroll, { passive: true });
   })();
