@@ -477,9 +477,14 @@ p { line-height: 1.7; }
   background-size: cover;
   background-position: center 30%;
   filter: grayscale(0.05) contrast(1.08) saturate(1.05) brightness(0.78);
-  transform: translate3d(var(--mx, 0), var(--my, 0), 0) scale(1.08);
+  transform: translate3d(var(--mx, 0), var(--my, 0), 0) scale(calc(1.08 + var(--scroll-depth, 0) * 0.06)) perspective(1400px) rotateX(calc(var(--tilt-y, 0) * 0.35deg)) rotateY(calc(var(--tilt-x, 0) * 0.35deg));
+  transform-origin: center 35%;
   will-change: transform;
   transition: transform 0.6s var(--ease-out);
+  box-shadow:
+    inset 0 0 120px 40px rgba(10, 10, 10, 0.55),
+    inset 0 -80px 160px 60px rgba(10, 10, 10, 0.7),
+    0 40px 80px -20px rgba(0, 0, 0, 0.6);
 }
 
 .hero-portrait-overlay {
@@ -1841,6 +1846,12 @@ section {
 
 @media (max-width: 768px) {
   .hero-corner-br { display: none; }
+  .hero-portrait-bg {
+    transform: translate3d(var(--mx, 0), var(--my, 0), 0) scale(1.08) !important;
+  }
+  .hero-portrait .hero-title {
+    transform: translate3d(calc(var(--mx, 0) * 0.35), calc(var(--my, 0) * 0.35), 0) !important;
+  }
 }
 
 .hero-corner-mark {
