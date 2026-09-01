@@ -40,6 +40,9 @@ relatedArticles:
   - "slow-productivity-30-day-test"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
 For ten years, my habit attempts looked the same: set a goal, work toward it, fail, abandon, try a different goal. The cycle was identical. New Year, new resolution, February failure.
 
 In March 2026, I changed one thing. I stopped setting goals. I started building identity.

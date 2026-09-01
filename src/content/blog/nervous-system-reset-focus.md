@@ -40,6 +40,9 @@ relatedArticles:
   - "regle-40-pourcent"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
 I used to think focus was a willpower problem. Wake up. Drink coffee. Open laptop. Force yourself to work.
 
 When it didn't work, I tried harder. Stronger coffee. More discipline. Better systems. Pomodoro timers. Productivity books. None of it worked consistently.
