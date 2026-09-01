@@ -1,0 +1,398 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import NewsletterSection from "../../../components/NewsletterSection.astro";
+
+const title = "What's Your Discipline Type? Free 2-Minute Quiz";
+const description = "Discover your discipline archetype — Builder, Sprinter, Marathoner, or Strategist. Get a custom 30-day plan based on your type.";
+
+const questions = [
+  {
+    id: "energy",
+    q: "When do you have the most willpower?",
+    options: [
+      { text: "First thing in the morning", score: "marathoner" },
+      { text: "Late at night", score: "strategist" },
+      { text: "After I check off one small thing", score: "builder" },
+      { text: "In short, intense bursts", score: "sprinter" },
+    ],
+  },
+  {
+    id: "habit",
+    q: "How do you form habits best?",
+    options: [
+      { text: "Tiny daily wins that compound", score: "builder" },
+      { text: "30-day sprints with clear end dates", score: "sprinter" },
+      { text: "Long-term identity shifts", score: "marathoner" },
+      { text: "Strategic systems and tools", score: "strategist" },
+    ],
+  },
+  {
+    id: "failure",
+    q: "When you break a habit, what do you do?",
+    options: [
+      { text: "Reset and start fresh tomorrow", score: "builder" },
+      { text: "Restart the whole 30-day cycle", score: "sprinter" },
+      { text: "Reflect on the deeper reason", score: "marathoner" },
+      { text: "Audit the system that broke", score: "strategist" },
+    ],
+  },
+  {
+    id: "motivation",
+    q: "What drains your motivation fastest?",
+    options: [
+      { text: "Slow progress, no daily proof", score: "builder" },
+      { text: "Boredom between intense bursts", score: "sprinter" },
+      { text: "Days when I forget who I want to be", score: "marathoner" },
+      { text: "Inefficient tools and wasted time", score: "strategist" },
+    ],
+  },
+  {
+    id: "goal",
+    q: "What kind of goal excites you most?",
+    options: [
+      { text: "A daily practice I can sustain forever", score: "marathoner" },
+      { text: "A 90-day transformation challenge", score: "sprinter" },
+      { text: "Building something small every day", score: "builder" },
+      { text: "Optimizing an entire life system", score: "strategist" },
+    ],
+  },
+];
+
+const archetypes = {
+  builder: {
+    name: "The Builder",
+    emoji: "🧱",
+    tagline: "You compound small wins into unrecognisable lives.",
+    strengths: [
+      "Daily consistency is your superpower",
+      "You trust the process even when nothing visible happens",
+      "Identity-level change comes naturally to you",
+    ],
+    blindSpot: "You over-build and rarely launch. Your strength (foundation) can become your trap (never shipping).",
+    protocol: "Add ONE shipping day per week. Pick something small. Put it in the world. Refine later.",
+  },
+  sprinter: {
+    name: "The Sprinter",
+    emoji: "⚡",
+    tagline: "You do impossible things in30 days. Then you reset.",
+    strengths: [
+      "You execute under deadlines",
+      "You thrive on intensity and novelty",
+      "You ship fast and iterate",
+    ],
+    blindSpot: "The crash after the sprint. You lose momentum between cycles.",
+    protocol: "Stack a Sprinter with a Builder ritual. After each30-day sprint, lock in ONE daily habit for 90 days.",
+  },
+  marathoner: {
+    name: "The Marathoner",
+    emoji: "🏃",
+    tagline: "You win by never quitting. Consistency is your religion.",
+    strengths: [
+      "You compound for the long game",
+      "You don't need motivation",
+      "Identity shifts happen deep and last",
+    ],
+    blindSpot: "You can become so patient you forget to push intensity. Slow becomes stuck.",
+    protocol: "Add a 'sharpening' phase every quarter. One month of higher intensity, focus, and stretch.",
+  },
+  strategist: {
+    name: "The Strategist",
+    emoji: "🎯",
+    tagline: "You build systems that compound while you sleep.",
+    strengths: [
+      "You see the leverage others miss",
+      "Tools and automation are your edge",
+      "You think in decades, not days",
+    ],
+    blindSpot: "You optimize the system instead of doing the work. Strategy becomes procrastination.",
+    protocol: "Block one 'no-strategy' day per week. Just do the thing. Logic is for the back office — execution is for the floor.",
+  },
+};
+---
+
+<Layout title={title} description={description}>
+  <link rel="canonical" href="https://the-motivahub.com/tools/discipline-quiz/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "@id": "https://the-motivahub.com/tools/discipline-quiz/#app",
+    "name": title,
+    "description": description,
+    "url": "https://the-motivahub.com/tools/discipline-quiz/",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Any",
+    "browserRequirements": "Requires JavaScript",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": { "@type": "Person", "@id": "https://the-motivahub.com/author/youssef-raihane/#person", "name": "Youssef Raihane" }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "Is this quiz really free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. 100% free. No signup required to see results." } },
+      { "@type": "Question", "name": "How accurate is it?", "acceptedAnswer": { "@type": "Answer", "text": "Built on patterns from coaching 200+ people over8 years. Not clinical, but useful." } },
+      { "@type": "Question", "name": "Will I get a custom plan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Each archetype comes with a custom30-day protocol based on your type." } }
+    ]
+  })} />
+
+  <section class="quiz-head">
+    <div class="container">
+      <p class="kicker">Free Tool · 2-Minute Quiz</p>
+      <h1>What's Your <em>Discipline Type?</em></h1>
+      <p class="quiz-sub">5 questions. 4 archetypes. One custom protocol. Find out why most productivity advice fails you — and what to do instead.</p>
+    </div>
+  </section>
+
+  <section class="quiz-main">
+    <div class="container">
+      <div class="quiz-shell" id="quiz">
+        <div class="quiz-progress">
+          <span id="quiz-progress-text">Question1 of5</span>
+          <div class="quiz-progress-bar"><div class="quiz-progress-fill" id="quiz-progress-fill"></div></div>
+        </div>
+
+        <div class="quiz-body" id="quiz-body">
+          <!-- Questions injected by JS -->
+        </div>
+
+        <div class="quiz-actions">
+          <button id="quiz-back" class="quiz-btn-secondary" disabled>← Back</button>
+          <button id="quiz-next" class="quiz-btn-primary" disabled>Next →</button>
+        </div>
+      </div>
+
+      <div class="quiz-result" id="quiz-result" hidden>
+        <p class="quiz-result-emoji" id="quiz-result-emoji"></p>
+        <h2 class="quiz-result-name" id="quiz-result-name"></h2>
+        <p class="quiz-result-tagline" id="quiz-result-tagline"></p>
+
+        <div class="quiz-result-section">
+          <h3>Your Strengths</h3>
+          <ul id="quiz-result-strengths"></ul>
+        </div>
+
+        <div class="quiz-result-section">
+          <h3>Your Blind Spot</h3>
+          <p id="quiz-result-blindspot"></p>
+        </div>
+
+        <div class="quiz-result-section quiz-result-protocol">
+          <h3>Your 30-Day Protocol</h3>
+          <p id="quiz-result-protocol"></p>
+        </div>
+
+        <div class="quiz-result-cta">
+          <a class="btn-pill btn-pill-cream" href="/journal/?topic=discipline">Read Your Type's Articles →</a>
+          <button class="quiz-btn-secondary" id="quiz-restart">Take the Quiz Again</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="quiz-faq">
+    <div class="container">
+      <h2>Why this quiz works</h2>
+      <p>Most productivity advice is generic. It tells you to "wake up at5 AM" or "do a 75 Hard" — but if your archetype doesn't match the protocol, you'll fail. This quiz identifies your natural strength and gives you a system that fits <em>your</em> wiring — not someone else's.</p>
+      <p>Built from patterns I observed coaching and studying 200+ people over8 years. It's not clinical psychology, but it's accurate enough to give you a useful starting point.</p>
+    </div>
+  </section>
+
+  <NewsletterSection variant="default" showLeadMagnet={true} title="Get your archetype's 30-day protocol by email." buttonText="Send My Protocol" />
+</Layout>
+
+<script define:vars={{ questions, archetypes }}>
+(function () {
+  const state = { step: 0, scores: { builder: 0, sprinter: 0, marathoner: 0, strategist: 0 } };
+
+  const body = document.getElementById('quiz-body');
+  const progressText = document.getElementById('quiz-progress-text');
+  const progressFill = document.getElementById('quiz-progress-fill');
+  const nextBtn = document.getElementById('quiz-next');
+  const backBtn = document.getElementById('quiz-back');
+  const quizEl = document.getElementById('quiz');
+  const resultEl = document.getElementById('quiz-result');
+
+  function render() {
+    const q = questions[state.step];
+    progressText.textContent = 'Question ' + (state.step + 1) + ' of ' + questions.length;
+    progressFill.style.width = ((state.step + 1) / questions.length * 100) + '%';
+    body.innerHTML = '<h3 class="quiz-q">' + q.q + '</h3><div class="quiz-options">' +
+      q.options.map((o, i) =>
+        '<button class="quiz-option" data-score="' + o.score + '" data-i="' + i +'">' + o.text + '</button>'
+      ).join('') + '</div>';
+    backBtn.disabled = state.step === 0;
+    nextBtn.disabled = true;
+    nextBtn.textContent = state.step === questions.length - 1 ? 'See My Type →' : 'Next →';
+
+    body.querySelectorAll('.quiz-option').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        body.querySelectorAll('.quiz-option').forEach((b) => b.classList.remove('selected'));
+        btn.classList.add('selected');
+        state.scores[btn.dataset.score] = (state.scores[btn.dataset.score] || 0) + 1;
+        nextBtn.disabled = false;
+      });
+    });
+  }
+
+  function showResult() {
+    const winner = Object.entries(state.scores).sort((a, b) => b[1] - a[1])[0][0];
+    const a = archetypes[winner];
+    document.getElementById('quiz-result-emoji').textContent = a.emoji;
+    document.getElementById('quiz-result-name').textContent = a.name;
+    document.getElementById('quiz-result-tagline').textContent = a.tagline;
+    document.getElementById('quiz-result-strengths').innerHTML = a.strengths.map(s => '<li>' + s + '</li>').join('');
+    document.getElementById('quiz-result-blindspot').textContent = a.blindSpot;
+    document.getElementById('quiz-result-protocol').textContent = a.protocol;
+
+    quizEl.hidden = true;
+    resultEl.hidden = false;
+    resultEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'quiz_completed', { archetype: winner });
+    }
+  }
+
+  nextBtn.addEventListener('click', () => {
+    if (state.step < questions.length - 1) {
+      state.step++;
+      render();
+    } else {
+      showResult();
+    }
+  });
+
+  backBtn.addEventListener('click', () => {
+    if (state.step > 0) {
+      state.step--;
+      render();
+    }
+  });
+
+  document.getElementById('quiz-restart').addEventListener('click', () => {
+    state.step = 0;
+    state.scores = { builder: 0, sprinter: 0, marathoner: 0, strategist: 0 };
+    quizEl.hidden = false;
+    resultEl.hidden = true;
+    render();
+    quizEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  render();
+})();
+</script>
+
+<style>
+  .quiz-head { padding: 80px 0 32px; text-align: center; }
+  .quiz-sub { max-width: 600px; margin: 16px auto auto; color: var(--muted); font-size: 18px; line-height: 1.6; }
+  .quiz-main { padding: 32px 0 64px; }
+  .quiz-shell {
+    max-width: 720px;
+    margin: 0 auto;
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 32px 28px;
+  }
+  .quiz-progress {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 28px;
+    font-family: var(--sans);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--muted);
+  }
+  .quiz-progress-bar {
+    flex: 1;
+    height: 4px;
+    background: var(--line);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .quiz-progress-fill {
+    height: 100%;
+    background: var(--gold);
+    transition: width 0.3s ease;
+    width: 20%;
+  }
+  .quiz-q { font-family: var(--serif); font-size: 26px; font-weight: 600; color: var(--ink); margin: 0 0 24px; line-height: 1.3; }
+  .quiz-options { display: grid; gap: 12px; }
+  .quiz-option {
+    text-align: left;
+    padding: 16px 18px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--white);
+    cursor: pointer;
+    font-family: var(--sans);
+    font-size: 15px;
+    color: var(--ink);
+    transition: all 0.2s ease;
+  }
+  .quiz-option:hover { border-color: var(--gold); background: rgba(200, 160, 74, 0.04); }
+  .quiz-option.selected { border-color: var(--gold); background: rgba(200, 160, 74, 0.12); }
+  .quiz-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    gap: 12px;
+  }
+  .quiz-btn-primary, .quiz-btn-secondary {
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-family: var(--sans);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s ease;
+  }
+  .quiz-btn-primary { background: var(--gold); color: var(--ink); }
+  .quiz-btn-primary:hover:not(:disabled) { background: #d4ab; }
+  .quiz-btn-primary:disabled { background: var(--line); color: var(--muted); cursor: not-allowed; }
+  .quiz-btn-secondary { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+  .quiz-btn-secondary:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); }
+  .quiz-btn-secondary:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  .quiz-result {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 48px 32px;
+    background: linear-gradient(180deg, rgba(200, 160, 74, 0.05), transparent);
+    border-radius: 16px;
+    text-align: center;
+  }
+  .quiz-result-emoji { font-size: 80px; margin: 0 0 16px; }
+  .quiz-result-name { font-family: var(--serif); font-size: 48px; font-weight: 600; color: var(--ink); margin: 0 0 8px; }
+  .quiz-result-tagline { font-family: var(--serif); font-style: italic; font-size: 18px; color: var(--muted); margin: 0 0 32px; }
+
+  .quiz-result-section {
+    text-align: left;
+    margin: 32px auto;
+    max-width: 600px;
+    padding: 24px;
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+  }
+  .quiz-result-section h3 {
+    font-family: var(--sans);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--gold);
+    margin: 0 0 12px;
+  }
+  .quiz-result-section ul { padding-left: 20px; line-height: 1.7; }
+  .quiz-result-section p { line-height: 1.6; color: var(--ink); margin: 0; }
+
+  .quiz-result-protocol { border-color: var(--gold); border-width: 2px; background: rgba(200, 160, 74, 0.04); }
+  .quiz-result-cta { margin-top: 32px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+  .quiz-faq { padding: 64px 0; background: var(--cream); text-align: center; }
+  .quiz-faq h2 { font-family: var(--serif); font-size: 28px; margin: 0 0 24px; color: var(--ink); }
+  .quiz-faq p { max-width: 720px; margin: 0 auto 16px; line-height: 1.7; color: var(--ink); font-size: 16px; }
+</style>

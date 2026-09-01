@@ -1,61 +1,222 @@
 ---
-const { title = "Are you ready for the next level?", subtitle = "One letter each week. A single idea on mindset, discipline and the long ascent — delivered at dawn. No noise, no algorithms — just the idea.", showPdf = false } = Astro.props;
+interface Props {
+  variant?: "default" | "compact" | "exit-intent";
+  title?: string;
+  subtitle?: string;
+  buttonText?: string;
+  showLeadMagnet?: boolean;
+}
+
+const {
+  variant = "default",
+  title = "One letter each Sunday. One idea worth a week.",
+  subtitle = "Mindset, discipline, and the long ascent — distilled into 500 words. No noise, no algorithms.",
+  buttonText = "Subscribe Free",
+  showLeadMagnet = false
+} = Astro.props;
+
+const magnets = [
+  { id: "30-days", label: "30 Days of Discipline", emoji: "🗓️" },
+  { id: "atomic-habits", label: "Atomic Habits Action Plan", emoji: "📖" },
+  { id: "stoic-21", label: "21 Stoic Lessons", emoji: "🏛️" },
+];
 ---
 
-<section class="newsletter">
-  <div class="container">
-    <p class="kicker" data-i18n="newsletterKicker">The Daily Drive · Newsletter</p>
-    <h2 data-i18n="newsletterTitle">{title}</h2>
-    <p class="newsletter-sub" data-i18n="newsletterSubtitle">{subtitle}</p>
-    {showPdf && (
-      <div class="pdf-offer">
-        <p>🎁 <strong>Free:</strong> <a href="/30-days-discipline/">"30 Days of Discipline"</a> — a printable guide to build unshakable habits.</p>
-      </div>
-    )}
-    <form class="newsletter-form" id="newsletter-form" novalidate>
-      <input type="text" name="name" placeholder="Name (optional)" data-i18n-placeholder="newsletterName" aria-label="Name" autocomplete="name" />
-      <input type="email" name="email" placeholder="Your email address *" data-i18n-placeholder="newsletterEmail" aria-label="Email address" required autocomplete="email" />
-      <button type="submit" class="btn-pill btn-pill-cream" data-i18n="newsletterBtn">{showPdf ? "Get the Free PDF" : "Subscribe"}</button>
-    </form>
-    <p id="newsletter-msg" class="newsletter-note" aria-live="polite"></p>
-    <p class="newsletter-note" data-i18n="newsletterNoSpam">No spam. Unsubscribe anytime.</p>
-  </div>
-</section>
-<script>
-  const form = document.getElementById('newsletter-form') as HTMLFormElement | null;
-  const msg = document.getElementById('newsletter-msg') as HTMLElement | null;
-  if (form && msg) {
+<div class={`newsletter newsletter-${variant}`} data-variant={variant}>
+  {variant === "default" && (
+    <div class="container">
+      <p class="kicker">The Motiva Letter · Newsletter</p>
+      <h2>{title}</h2>
+      <p class="newsletter-sub">{subtitle}</p>
+
+      {showLeadMagnet && (
+        <div class="lead-magnet-grid">
+          <p class="lead-magnet-label">Pick your free bonus:</p>
+          <div class="lead-magnet-options">
+            {magnets.map((m) => (
+              <label class="magnet-option">
+                <input type="radio" name="magnet" value={m.id} checked={m.id === "30-days"} />
+                <span>{m.emoji} {m.label}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <form class="newsletter-form" id="newsletter-form" novalidate>
+        <input type="text" name="name" placeholder="First name (optional)" aria-label="First name" autocomplete="given-name" />
+        <input type="email" name="email" placeholder="Your email address *" aria-label="Email address" required autocomplete="email" />
+        <button type="submit" class="btn-pill btn-pill-cream">{buttonText}</button>
+      </form>
+      <p id="newsletter-msg" class="newsletter-note" aria-live="polite"></p>
+      <p class="newsletter-note newsletter-trust">📩 One email per week. Unsubscribe anytime.</p>
+    </div>
+  )}
+
+  {variant === "compact" && (
+    <div class="newsletter-compact">
+      <p class="newsletter-compact-text">
+        <strong>Get the Motiva Letter</strong> — one Sunday idea, 500 words, zero noise.
+      </p>
+      <form class="newsletter-compact-form" id="newsletter-compact-form" novalidate>
+        <input type="email" name="email" placeholder="you@email.com" aria-label="Email" required />
+        <button type="submit">Join</button>
+      </form>
+    </div>
+  )}
+</div>
+
+<script is:inline>
+(function () {
+  const FORMSUBMIT_EMAIL = "raihaneucef@gmail.com";
+  const forms = document.querySelectorAll('.newsletter-form, .newsletter-compact-form');
+
+  forms.forEach((form) => {
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const fd = new FormData(form);
       const email = String(fd.get('email') || '').trim();
       const name = String(fd.get('name') || '').trim();
+      const magnet = String(fd.get('magnet') || '30-days');
       const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-      if (!email) { msg.textContent = 'Please enter your email address.'; msg.style.color = '#a67c52'; return; }
-      if (!emailOk) { msg.textContent = 'Please enter a valid email address.'; msg.style.color = '#a67c52'; return; }
-      // Connected to raihaneucef@gmail.com via FormSubmit
-      msg.textContent = 'Sending...'; msg.style.color = '#6b665e';
+
+      const msgEl = form.closest('.newsletter')?.querySelector('(' + '#' + ')' + 'newsletter-msg, .newsletter-compact-text');
+
+      if (!email) {
+        if (msgEl) msgEl.textContent = 'Please enter your email address.';
+        return;
+      }
+      if (!emailOk) {
+        if (msgEl) msgEl.textContent = 'Please enter a valid email address.';
+        return;
+      }
+
+      const originalText = form.querySelector('button').textContent;
+      form.querySelector('button').textContent = 'Sending...';
+      form.querySelector('button').disabled = true;
+
       try {
-        const res = await fetch('https://formsubmit.co/ajax/raihaneucef@gmail.com', {
+        const res = await fetch('https://formsubmit.co/ajax/' + FORMSUBMIT_EMAIL, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
           body: JSON.stringify({
             name: name || '(no name)',
             email,
-            _subject: 'New Motiva Hub subscriber',
-            _template: 'table',
-            ...(showPdf ? { _response: `Thanks for subscribing! Here is your free PDF: https://the-motivahub.com/30-days-discipline.pdf\n\nStart your 30-day journey now: https://the-motivahub.com/30-days-discipline/\n\n— Motiva Hub` } : {})
+            lead_magnet: magnet,
+            source: form?.closest('section')?.className || 'unknown',
+            page: window.location.pathname,
+            _subject: '🌱 New Motiva Hub subscriber — ' + magnet,
+            _template: 'table'
           })
         });
         if (res.ok) {
-          msg.textContent = name ? `Thanks, ${name}! Check your inbox — you’re on the list.` : 'Thanks! Check your inbox — you’re on the list.';
-          msg.style.color = '#121212';
+          if (msgEl) {
+            msgEl.textContent = name
+              ? '🎉 Welcome aboard, ' + name + '! Check your inbox for confirmation.'
+              : '🎉 Welcome! Check your inbox for confirmation.';
+            msgEl.style.color = '#c8a04a';
+          }
           form.reset();
-        } else { throw new Error('failed'); }
-      } catch {
-        msg.textContent = 'Something went wrong. Please try again.';
-        msg.style.color = '#a67c52';
+        } else throw new Error('failed');
+      } catch (err) {
+        if (msgEl) msgEl.textContent = '⚠️ Something went wrong. Try email us directly.';
+      } finally {
+        form.querySelector('button').textContent = originalText;
+        form.querySelector('button').disabled = false;
       }
     });
-  }
+  });
+})();
 </script>
+
+<style>
+  .lead-magnet-grid {
+    margin: 24px auto 12px;
+    max-width: 600px;
+    text-align: left;
+  }
+  .lead-magnet-label {
+    font-family: var(--sans);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--gold);
+    margin-bottom: 12px;
+  }
+  .lead-magnet-options {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 8px;
+  }
+  .magnet-option {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 14px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(249, 247, 242, 0.1);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: var(--sans);
+    font-size: 13px;
+    color: var(--cream);
+  }
+  .magnet-option:hover {
+    border-color: var(--gold);
+    background: rgba(200, 160, 74, 0.08);
+  }
+  .magnet-option input {
+    accent-color: var(--gold);
+  }
+  .newsletter-compact {
+    padding: 24px;
+    background: var(--cream);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin: 32px auto;
+    max-width: 720px;
+  }
+  .newsletter-compact-text {
+    flex: 1;
+    font-family: var(--sans);
+    font-size: 14px;
+    color: var(--ink);
+    min-width: 240px;
+  }
+  .newsletter-compact-form {
+    display: flex;
+    gap: 8px;
+    flex: 1;
+    min-width: 240px;
+  }
+  .newsletter-compact-form input {
+    flex: 1;
+    padding: 10px 14px;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    font-family: var(--sans);
+    font-size: 14px;
+  }
+  .newsletter-compact-form button {
+    background: var(--gold);
+    color: var(--ink);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 700;
+    cursor: pointer;
+    font-family: var(--sans);
+    font-size: 14px;
+  }
+  .newsletter-trust {
+    font-size: 12px;
+    color: var(--muted);
+    margin-top: 12px;
+  }
+</style>
