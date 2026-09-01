@@ -1,0 +1,21 @@
+---
+import { getDailyQuote } from "../data/quotes";
+const daily = getDailyQuote();
+---
+
+<section class="quote-premium">
+  <div class="container">
+    <div class="quote-premium-inner reveal">
+      <div class="quote-premium-mark" aria-hidden="true">"</div>
+      <p class="quote-premium-text">{daily.quote}</p>
+      <div class="quote-premium-cite">
+        <span class="quote-premium-line"></span>
+        <div>
+          <span class="quote-premium-author">{daily.author}</span>
+          <span class="quote-premium-source">{daily.source}</span>
+        </div>
+        <span class="quote-premium-line"></span>
+      </div>
+    </div>
+  </div>
+</section>

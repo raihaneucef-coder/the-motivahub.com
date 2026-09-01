@@ -1,0 +1,58 @@
+---
+const principles = [
+  { num: "01", word: "Clarity", desc: "Strip away the noise to find the one thing that matters." },
+  { num: "02", word: "Consistency", desc: "Small acts, repeated daily, compound into an unrecognisable life." },
+  { num: "03", word: "Composure", desc: "The mind that can hold its centre decides the shape of the day." },
+];
+---
+
+<section class="founder">
+  <div class="container">
+    <div class="founder-grid">
+      <div class="founder-portrait reveal-scale">
+        <img src="/images/founder-portrait.jpg" alt="Youssef Raihane, founder of Motiva Hub" loading="lazy" />
+        <div class="founder-portrait-frame"></div>
+        <div class="founder-portrait-caption">
+          <span class="founder-portrait-name">Youssef Raihane</span>
+          <span class="founder-portrait-role">Founder · Editor · Builder</span>
+        </div>
+      </div>
+      <div class="founder-text reveal">
+        <span class="kicker">The Founder</span>
+        <h2 class="founder-title">A long ascent, <em>taken slowly.</em></h2>
+        <p class="founder-lead">Motiva Hub is the editorial work of one person, building in public, choosing the slow road on purpose.</p>
+        <p>It began as a private notebook — the kind of writing you do for yourself at 5 AM, when the house is quiet and the work is honest. It became a site. Then a publication. Then a quiet community of readers who would rather be patient and unstoppable than loud and brief.</p>
+        <p>Every essay here is written to be read slowly. Every tool is built for the person who would rather act than scroll. The Daily Drive is a long game. We play it like one.</p>
+        <div class="founder-signature">
+          <svg viewBox="0 0 200 60" class="founder-signature-svg" aria-hidden="true">
+            <path d="M 10 40 Q 30 10, 50 30 T 90 35 Q 120 15, 140 35 T 180 30" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+            <path d="M 50 30 L 60 25 M 130 32 L 145 28" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          </svg>
+          <span class="founder-signature-text">— Youssef Raihane, Est. 2025</span>
+        </div>
+        <a class="btn-arrow btn-arrow-or" href="/author/youssef-raihane/">Read the full bio</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-cream-deep">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="kicker">The Premise</span>
+      <div>
+        <h2>Three principles.<br/><em>One quiet work.</em></h2>
+        <p>The editorial backbone of every essay, every tool, every page on this site. Read once. Return often.</p>
+      </div>
+    </div>
+    <div class="pillars reveal-stagger">
+      {principles.map((p) => (
+        <article class="pillar">
+          <span class="pillar-num">{p.num}</span>
+          <h3 class="pillar-title">{p.word}</h3>
+          <p class="pillar-desc">{p.desc}</p>
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

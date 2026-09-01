@@ -1,0 +1,44 @@
+---
+const stats = [
+  { num: "227", label: "Pages Published", desc: "Every essay, hand-written. No AI filler." },
+  { num: "30k+", label: "Words Written", desc: "Read once. Re-read often. Returned to." },
+  { num: "5", label: "Free Tools", desc: "Built for action, not scrolling." },
+  { num: "EN·FR", label: "Bilingual", desc: "Two languages, one standard." },
+];
+---
+
+<section class="manifesto">
+  <div class="manifesto-bg" aria-hidden="true">discipline</div>
+  <div class="container">
+    <div class="manifesto-inner reveal">
+      <p class="kicker kicker-sage" style="justify-content:center; display:flex;">A Quiet Manifesto</p>
+      <p class="manifesto-statement">
+        We are not here to be inspired<br/>
+        for an afternoon.<br/>
+        <em>We are here to be built, slowly,</em><br/>
+        into the kind of person<br/>
+        who does the work<br/>
+        even when no one is watching.
+      </p>
+      <div class="manifesto-cite">
+        <span class="manifesto-cite-line"></span>
+        <span class="manifesto-cite-text">— Motiva Hub · 2026</span>
+        <span class="manifesto-cite-line"></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="brand-stats">
+  <div class="container">
+    <div class="brand-stats-grid reveal-stagger">
+      {stats.map((s) => (
+        <div class="brand-stat">
+          <span class="brand-stat-num">{s.num}</span>
+          <span class="brand-stat-label">{s.label}</span>
+          <span class="brand-stat-desc">{s.desc}</span>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

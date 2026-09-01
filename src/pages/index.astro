@@ -1,21 +1,20 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import Hero from "../components/Hero.astro";
-import SectionHeader from "../components/SectionHeader.astro";
+import Manifesto from "../components/Manifesto.astro";
+import Founder from "../components/Founder.astro";
+import Quote from "../components/Quote.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import BookCard from "../components/BookCard.astro";
 import PodcastCard from "../components/PodcastCard.astro";
-import QuoteCard from "../components/QuoteCard.astro";
 import NewsletterSection from "../components/NewsletterSection.astro";
 import { getCollection } from "astro:content";
 import { books } from "../data/books";
 import { podcasts } from "../data/podcasts";
-import { quotes, getDailyQuote } from "../data/quotes";
 
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const daily = getDailyQuote();
 ---
 
 <Layout title="Motiva Hub — The Long Ascent. Mindset, habits, and the daily discipline of becoming." description="A premium editorial sanctuary for the disciplined mind. Mindset, habits, books, and free tools — for the long ascent, one day at a time.">
@@ -23,7 +22,7 @@ const daily = getDailyQuote();
     kicker="EST. 2025 · THE LONG ASCENT"
     title={`Build the discipline.<br/><em>One day at a time.</em>`}
     subtitle="Mindset, habits, books, and free tools — for the person who would rather be patient and unstoppable than loud and brief."
-    image="/images/hero-face.jpg"
+    image="/images/hero-brand.jpg"
     primaryCta={{ label: "Start Reading", href: "/journal/" }}
     secondaryCta={{ label: "Take the Quiz", href: "/tools/discipline-quiz/" }}
     meta={[
@@ -36,7 +35,7 @@ const daily = getDailyQuote();
 
   <section class="trust-strip">
     <div class="container trust-inner">
-      <span class="trust-label">Built for the long ascent</span>
+      <span class="trust-label">The books that built the work</span>
       <div class="trust-logos">
         <span class="trust-logo">Atomic Habits</span>
         <span class="trust-logo-bold">CAN'T HURT ME</span>
@@ -48,50 +47,9 @@ const daily = getDailyQuote();
     </div>
   </section>
 
-  <section class="section-cream-deep">
-    <div class="container">
-      <div class="section-head reveal">
-        <span class="kicker">The Premise</span>
-        <div>
-          <h2>Motivation is a visitor.<br/><em>Discipline is a resident.</em></h2>
-          <p>We do not chase the feeling. We build the room it returns to — day after day, until the practice becomes the person. This is the work, and it is enough.</p>
-        </div>
-      </div>
-      <div class="pillars reveal-stagger">
-        <article class="pillar">
-          <span class="pillar-num">01 · Clarity</span>
-          <h3 class="pillar-title">Strip away the <em>noise.</em></h3>
-          <p class="pillar-desc">Find the one thing that matters. The one decision that, if made correctly, makes everything else easier or unnecessary.</p>
-        </article>
-        <article class="pillar">
-          <span class="pillar-num">02 · Consistency</span>
-          <h3 class="pillar-title">Small acts, <em>repeated.</em></h3>
-          <p class="pillar-desc">What you do daily is who you become yearly. A single page read, a single push-up, a single cold shower — repeated, compounds.</p>
-        </article>
-        <article class="pillar">
-          <span class="pillar-num">03 · Composure</span>
-          <h3 class="pillar-title">Hold the <em>centre.</em></h3>
-          <p class="pillar-desc">The mind that can hold its ground decides the shape of the day. Stoic. Steady. Unhurried. The long ascent is built in the pauses.</p>
-        </article>
-      </div>
-    </div>
-  </section>
+  <Manifesto />
 
-  <section class="manifesto">
-    <div class="manifesto-bg" aria-hidden="true">discipline</div>
-    <div class="container">
-      <div class="manifesto-inner reveal">
-        <p class="kicker kicker-sage" style="justify-content:center; display:flex;">A Quiet Manifesto</p>
-        <p class="manifesto-statement">
-          We are not here to be inspired for an afternoon.<br/>
-          We are here to be built, slowly,<br/>
-          into <em>the kind of person</em> who does the work<br/>
-          even when no one is watching.
-        </p>
-        <span class="manifesto-cite">— Motiva Hub · 2026</span>
-      </div>
-    </div>
-  </section>
+  <Founder />
 
   <section>
     <div class="container">
@@ -117,7 +75,7 @@ const daily = getDailyQuote();
         <span class="kicker">Free Tools</span>
         <div>
           <h2>Not just reading. <em>Doing.</em></h2>
-          <p>Five tools, built for the people who would rather act than scroll. No accounts. No paywall. No noise.</p>
+          <p>Six tools, built for the people who would rather act than scroll. No accounts. No paywall. No noise.</p>
         </div>
       </div>
       <div class="feed-grid reveal-stagger">
@@ -161,24 +119,7 @@ const daily = getDailyQuote();
     </div>
   </section>
 
-  <section>
-    <div class="container">
-      <div class="section-head reveal">
-        <span class="kicker">The Daily Quote</span>
-        <div>
-          <h2>One sentence.<br/><em>One day.</em></h2>
-          <p>From the stoics, the athletes, the monks, the quiet builders — the words that have outlasted empires.</p>
-        </div>
-      </div>
-      <div class="reveal" style="max-width:880px; margin:0 auto; text-align:center; padding:48px 24px; border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
-        <p style="font-family:var(--serif); font-style:italic; font-size:clamp(1.5rem, 2.5vw + 0.5rem, 2.25rem); line-height:1.35; color:var(--ink); margin-bottom:24px;">"{daily.quote}"</p>
-        <p style="font-family:var(--mono); font-size:0.75rem; text-transform:uppercase; letter-spacing:0.18em; color:var(--muted);">— {daily.author}, <em style="font-family:var(--serif); font-style:italic; text-transform:none; letter-spacing:0; color:var(--sage-deep);">{daily.source}</em></p>
-      </div>
-      <div class="text-center" style="margin-top:48px;">
-        <a class="btn-arrow" href="/quotes/">All quotes</a>
-      </div>
-    </div>
-  </section>
+  <Quote />
 
   <section class="section-cream-deep">
     <div class="container">
