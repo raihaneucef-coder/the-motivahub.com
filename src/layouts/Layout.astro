@@ -311,8 +311,7 @@ const gaSnippet = GA_ID
       if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,2000);
     </script>
   <div class="read-progress" id="read-progress" aria-hidden="true"></div>
-  <div class="cursor-follower" id="cursor-follower" aria-hidden="true"></div>
-  <div class="cursor-dot" id="cursor-dot" aria-hidden="true"></div>
+
   <script is:inline>
     (function () {
       const progress = document.getElementById('read-progress');
@@ -337,56 +336,7 @@ const gaSnippet = GA_ID
       }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
       document.querySelectorAll('.reveal, .reveal-stagger, .reveal-scale').forEach((el) => observer.observe(el));
 
-      // Magnetic buttons
-      document.querySelectorAll('[data-magnetic]').forEach((btn) => {
-        btn.addEventListener('mousemove', (e) => {
-          const rect = btn.getBoundingClientRect();
-          const x = e.clientX - rect.left - rect.width / 2;
-          const y = e.clientY - rect.top - rect.height / 2;
-          btn.style.transform = `translate(${x * 0.18}px, ${y * 0.18}px)`;
-        });
-        btn.addEventListener('mouseleave', () => {
-          btn.style.transform = '';
-        });
-      });
-
-      // 3D card tilt
-      document.querySelectorAll('.card, .tool-card, .founder-portrait').forEach((card) => {
-        card.addEventListener('mousemove', (e) => {
-          const rect = card.getBoundingClientRect();
-          const x = (e.clientX - rect.left) / rect.width;
-          const y = (e.clientY - rect.top) / rect.height;
-          const rx = (y - 0.5) * -6;
-          const ry = (x - 0.5) * 6;
-          card.style.transform = `perspective(1000px) rotateX(${rx}deg) rotateY(${ry}deg) translateY(-6px)`;
-        });
-        card.addEventListener('mouseleave', () => {
-          card.style.transform = '';
-        });
-      });
-
-      // Custom cursor (desktop only)
-      const cursor = document.getElementById('cursor-follower');
-      const dot = document.getElementById('cursor-dot');
-      if (cursor && dot && window.matchMedia('(hover: hover) and (pointer: fine)').matches) {
-        document.body.classList.add('custom-cursor');
-        let mx = 0, my = 0, fx = 0, fy = 0;
-        document.addEventListener('mousemove', (e) => {
-          mx = e.clientX; my = e.clientY;
-          dot.style.transform = `translate(${mx - 4}px, ${my - 4}px)`;
-        });
-        const tick = () => {
-          fx += (mx - fx) * 0.12;
-          fy += (my - fy) * 0.12;
-          cursor.style.transform = `translate(${fx - 20}px, ${fy - 20}px)`;
-          requestAnimationFrame(tick);
-        };
-        tick();
-        document.querySelectorAll('a, button, [data-magnetic]').forEach((el) => {
-          el.addEventListener('mouseenter', () => cursor.classList.add('cursor-active'));
-          el.addEventListener('mouseleave', () => cursor.classList.remove('cursor-active'));
-        });
-      }
+      // (magnetic buttons + 3D card tilt + custom cursor removed for performance)
 
       // Page transition (fade-up on link click)
       document.querySelectorAll('a[href^="/"]:not([href^="//"])').forEach((a) => {
