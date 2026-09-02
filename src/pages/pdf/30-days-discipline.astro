@@ -184,20 +184,22 @@ const faq = [
       form.querySelector('button').textContent = 'Saving...';
       form.querySelector('button').disabled = true;
       try {
-        const res = await fetch('/api/subscribe', {
+        const res = await fetch('https://formsubmit.co/ajax/' + 'raihaneucef@gmail.com', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
           body: JSON.stringify({
             email,
-            source: 'pdf',
+            source: 'pdf/30-days-discipline (notify-me)',
+            page: window.location.pathname,
+            _subject: '🔔 PDF notify signup — 30 Days of Discipline',
+            _template: 'table'
           })
         });
-        const data = await res.json().catch(() => ({}));
-        if (res.ok && data.ok) {
-          note.textContent = data.message || "🎉 You're on the list. We'll email you the moment the PDF ships.";
+        if (res.ok) {
+          note.textContent = "🎉 You're on the list. We'll email you the moment the PDF ships.";
           note.style.color = '#c8a04a';
           form.reset();
-        } else throw new Error(data.error || 'failed');
+        } else throw new Error('failed');
       } catch (err) {
         note.textContent = '⚠️ Something went wrong. Email us at contact@the-motivahub.com';
         note.style.color = '#c0392b';
