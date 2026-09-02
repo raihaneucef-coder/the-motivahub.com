@@ -1,62 +1,96 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 
-const title = "30 Days of Discipline — A Practical Workbook";
-const description = "A printable 30-day program to reset your habits, build your identity, and create an unbreakable discipline system. PDF download — 32 pages.";
+const title = "30 Days of Discipline — Free PDF (Notify Me When It's Ready)";
+const description = "A 30-day daily practice PDF for discipline, habits, and the long ascent. One page a day, 2 minutes each morning. Get notified the moment it ships.";
+const canonical = "https://the-motivahub.com/pdf/30-days-discipline/";
 
-const days = Array.from({ length: 30 }, (_, i) => i + 1);
+const benefits = [
+  { icon: "📄", title: "One page a day", text: "30 days, 30 pages. No overwhelm. Read 1 page in the morning, do the 2-minute action, answer the reflection." },
+  { icon: "🧪", title: "Research-backed", text: "Built on Lally (2009), Wood (2007), Clear (2018), and 8 years of personal practice. Not motivation — system." },
+  { icon: "⏱️", title: "5 minutes total", text: "Affirmation + 2-min micro-action + 1 reflection question. Sustainable on your worst day." },
+  { icon: "🪞", title: "Identity shift", text: "By day 30, you're not the person who keeps starting. You're the person who finished." },
+];
 
 const weeklyThemes = [
   { week: 1, title: "Foundations", focus: "Audit, simplify, choose 2-3 priorities" },
   { week: 2, title: "Identity", focus: "Become someone who does the thing" },
   { week: 3, title: "Systems", focus: "Engineer the environment for success" },
   { week: 4, title: "Resilience", focus: "Bounce back from inevitable misses" },
+  { week: 5, title: "Body", focus: "10 pushups, cold water, walk, sleep" },
+  { week: 6, title: "Direction", focus: "Review, legacy, mentor, next 30" },
+];
+
+const faq = [
+  { q: "When will the PDF be ready?", a: "We're designing the final version in Canva. Subscribers get it the moment it ships — usually within 2 weeks. You'll be first in line, before the public release." },
+  { q: "Will it really be free?", a: "Yes. 100% free, no paywalls, no upsells. We may add affiliate links in the 'recommended books' section (clearly marked), but the core PDF is and stays free." },
+  { q: "Do I need a printer?", a: "No. The PDF works on any tablet with annotation (GoodNotes, Notability), or you can use it digitally and type your reflections." },
+  { q: "How is this different from Atomic Habits or other books?", a: "Atomic Habits is a book to read. This is a 30-day program to do. The content draws from Atomic Habits, Slow Productivity, Deep Work, and 8 years of personal practice — but organized as a daily protocol, not theory." },
+  { q: "What if I miss a day?", a: "The protocol is designed for that. The principle: never miss twice. If you skip one day, get back to it the next. Week 4 is dedicated to resilience — exactly this." },
 ];
 ---
 
-<Layout title={title} description={description}>
-  <link rel="canonical" href="https://the-motivahub.com/pdf/30-days-discipline/" />
+<Layout title={title} description={description} image="/images/youssef-raihane.jpg">
+  <link rel="canonical" href={canonical} />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
-    "@type": "DigitalDocument",
+    "@type": "FAQPage",
+    "mainEntity": faq.map((item) => ({
+      "@type": "Question",
+      "name": item.q,
+      "acceptedAnswer": { "@type": "Answer", "text": item.a }
+    }))
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": canonical + "#webpage",
     "name": title,
     "description": description,
-    "url": "https://the-motivahub.com/pdf/30-days-discipline/",
-    "encodingFormat": "application/pdf",
-    "author": { "@type": "Person", "name": "Youssef Raihane" },
-    "publisher": { "@type": "Organization", "name": "Motiva Hub" },
     "inLanguage": "en"
   })} />
 
   <section class="pdf-head">
     <div class="container">
-      <p class="kicker">Free Lead Magnet · Printable PDF · 32 Pages</p>
-      <h1>30 Days of Discipline</h1>
-      <p class="pdf-subtitle"><em>A practical workbook to reset your habits, build your identity, and create an unbreakable discipline system.</em></p>
+      <p class="kicker">Free PDF · 32 Pages · Ships in 2 Weeks</p>
+      <h1>30 Days of <em>Discipline</em></h1>
+      <p class="pdf-subtitle"><em>The daily practice PDF that turns motivation into a system. One page a day. 2 minutes each morning. Free forever.</em></p>
+    </div>
+  </section>
+
+  <section class="pdf-coming-soon">
+    <div class="container">
+      <div class="coming-soon-box">
+        <p class="coming-soon-label">📦 Status</p>
+        <h2 class="coming-soon-title">The PDF is being designed in Canva</h2>
+        <p class="coming-soon-text">We're hand-crafting each page — typography, layout, prompts, micro-actions. The final version will be print-ready (A4) and digital-friendly (tablet). Subscribe below to get it the moment it ships.</p>
+        <form class="notify-form" id="notify-form" novalidate>
+          <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" />
+          <button type="submit" class="btn-pill btn-pill-cream">Notify Me When It Ships</button>
+        </form>
+        <p class="notify-note" id="notify-note" aria-live="polite"></p>
+      </div>
     </div>
   </section>
 
   <section class="pdf-content">
     <div class="container">
       <div class="pdf-info">
-        <p>This isn't a book of motivation. It's a <strong>system</strong>. For 30 days, you'll work through four weekly themes, complete daily exercises, and track your progress on a printable page. By day 30, you'll have built the foundation for a discipline system that survives bad days.</p>
+        <h2>What's inside (preview)</h2>
+        <p>This isn't a book of motivation. It's a <strong>system</strong>. For 30 days, you'll work through six weekly themes, complete daily exercises, and track your progress on a printable page. By day 30, you'll have built the foundation for a discipline system that survives bad days.</p>
 
-        <h2>What's Inside</h2>
-        <ul class="toc">
-          <li><strong>Page 1:</strong> How to use this workbook (5 minutes)</li>
-          <li><strong>Page 2-3:</strong> Week 1 — Foundations (Audit + simplify)</li>
-          <li><strong>Pages 4-9:</strong> Daily protocols for Week 1</li>
-          <li><strong>Pages 10-11:</strong> Week 2 — Identity (Become someone)</li>
-          <li><strong>Pages 12-17:</strong> Daily protocols for Week 2</li>
-          <li><strong>Pages 18-19:</strong> Week 3 — Systems (Engineer environment)</li>
-          <li><strong>Pages 20-25:</strong> Daily protocols for Week 3</li>
-          <li><strong>Pages 26-27:</strong> Week 4 — Resilience (Bounce back)</li>
-          <li><strong>Pages 28-30:</strong> Daily protocols for Week 4</li>
-          <li><strong>Page 31:</strong> 30-day tracker grid (printable)</li>
-          <li><strong>Page 32:</strong> Reflection + next steps</li>
-        </ul>
+        <h2>4 reasons this works</h2>
+        <div class="benefits-grid">
+          {benefits.map((b) => (
+            <div class="benefit-card">
+              <p class="benefit-icon">{b.icon}</p>
+              <h3 class="benefit-title">{b.title}</h3>
+              <p class="benefit-text">{b.text}</p>
+            </div>
+          ))}
+        </div>
 
-        <h2>Weekly Themes</h2>
+        <h2>6 weekly themes (the structure)</h2>
         <div class="weeks-grid">
           {weeklyThemes.map((w) => (
             <div class="week-card">
@@ -67,35 +101,28 @@ const weeklyThemes = [
           ))}
         </div>
 
-        <h2>How to Use</h2>
+        <h2>How you'll use it (5 min/day)</h2>
         <ol class="how-to">
-          <li>Print the workbook (or use it on a tablet).</li>
-          <li>Spend 15-20 minutes each morning on the day's exercise.</li>
-          <li>Track your X on the daily tracker (page 31).</li>
-          <li>Review your week each Sunday (15 minutes).</li>
-          <li>At day 30, complete the reflection and choose your next 30 days.</li>
+          <li><strong>Morning ritual:</strong> Read today's page. Coffee, water, quiet.</li>
+          <li><strong>Affirmation:</strong> Read the daily affirmation out loud. Let it land.</li>
+          <li><strong>Micro-action (2 min):</strong> Do the day's tiny action. Set a timer. Stop at 2 min.</li>
+          <li><strong>Reflection (1 min):</strong> Answer 1 question. In your head, in a journal, on the page.</li>
+          <li><strong>Close and go:</strong> Shut the PDF. Live your day.</li>
         </ol>
 
-        <h2>The Daily Protocol (Sample — Day 5)</h2>
+        <h2>The daily protocol (sample — Day 7)</h2>
         <div class="day-sample">
-          <p class="day-title">Day 5 — Foundations Week</p>
+          <p class="day-title">Day 7 — The 2-Minute Ritual</p>
           <ol>
-            <li><strong>Morning:</strong> Read the daily prompt (5 minutes)</li>
-            <li><strong>Midday:</strong> Complete one small action (5 minutes)</li>
-            <li><strong>Evening:</strong> Write one sentence in the reflection box (2 minutes)</li>
-            <li><strong>Track:</strong> Put an X on your calendar (30 seconds)</li>
+            <li><strong>Affirmation:</strong> "Two minutes is the door. I open it daily."</li>
+            <li><strong>Micro-action (2 min):</strong> Do the new habit for 2 minutes. Set a timer. Stop at 2 min — no more.</li>
+            <li><strong>Reflection:</strong> "What did I want to do beyond the 2 minutes?"</li>
           </ol>
-          <p>Total time: 12 minutes. Sustainable on your worst day.</p>
-        </div>
-
-        <div class="cta-box">
-          <p class="cta-title">Get the Full 32-Page Workbook</p>
-          <p>PDF download. Print-ready. No email required to start — but we'll send you a short email series to support your 30 days.</p>
-          <a class="btn-pill btn-pill-cream" href="/30-days-discipline.pdf" download>Download the Workbook (PDF, 32 pages)</a>
+          <p>Total time: 5 minutes. Sustainable on your worst day.</p>
         </div>
 
         <div class="related-tools">
-          <h2>Tools to Use Alongside This Workbook</h2>
+          <h2>Tools to use alongside the PDF</h2>
           <div class="related-grid">
             <a class="related-card" href="/tools/discipline-quiz/">
               <p class="related-name">🎯 Discipline Type Quiz</p>
@@ -103,11 +130,15 @@ const weeklyThemes = [
             </a>
             <a class="related-card" href="/tools/habit-stacker/">
               <p class="related-name">🧱 Habit Stack Generator</p>
-              <p class="related-desc">Build your daily stack using Atomic Habits formula — 2 minutes</p>
+              <p class="related-desc">Build your daily stack using the Atomic Habits formula — 2 minutes</p>
             </a>
             <a class="related-card" href="/journal/identity-based-habits-90-day-test/">
               <p class="related-name">📖 Identity-Based Goals</p>
-              <p class="related-desc">The deeper principle behind the workbook — 9 minute read</p>
+              <p class="related-desc">The deeper principle behind the protocol — 9 minute read</p>
+            </a>
+            <a class="related-card" href="/tools/meditation-timer/">
+              <p class="related-name">🧘 Meditation Timer</p>
+              <p class="related-desc">Web audio bells. 2-minute sessions to start the day.</p>
             </a>
           </div>
         </div>
@@ -118,51 +149,98 @@ const weeklyThemes = [
   <section class="pdf-faq">
     <div class="container">
       <h2>FAQ</h2>
-      <details>
-        <summary>Is this really free?</summary>
-        <p>Yes. 100% free. No paywalls. No upsells in the PDF itself. The PDF contains affiliate links in the "recommended books" section, clearly marked as such.</p>
-      </details>
-      <details>
-        <summary>Do I need a printer?</summary>
-        <p>No. The workbook works on any tablet with a PDF annotation app (GoodNotes, Notability, etc.). Or you can use it digitally by typing your answers in the reflection boxes.</p>
-      </details>
-      <details>
-        <summary>What if I miss a day?</summary>
-        <p>The workbook is designed for that. Page 28 (Resilience week) covers exactly this. The principle: never miss twice. If you skip one day, get back to it the next day.</p>
-      </details>
-      <details>
-        <summary>How is this different from Atomic Habits or other books?</summary>
-        <p>This is a structured 30-day program with daily exercises, not a book to read. The content draws from Atomic Habits, Slow Productivity, and personal experience — but it's organized as a protocol, not theory.</p>
-      </details>
+      {faq.map((item) => (
+        <details>
+          <summary>{item.q}</summary>
+          <p>{item.a}</p>
+        </details>
+      ))}
     </div>
   </section>
 
   <section class="pdf-cta-final">
     <div class="container">
-      <h2>Ready to start?</h2>
-      <p>30 days from now, you'll either have built a discipline system or you'll have a 30-page workbook sitting untouched. The first option is much more useful.</p>
-      <a class="btn-pill btn-pill-cream" href="/30-days-discipline.pdf" download>Download the Workbook</a>
+      <h2>The PDF is almost ready</h2>
+      <p>Subscribe above to be first in line. We'll email you the moment it ships — usually within 2 weeks.</p>
     </div>
   </section>
 </Layout>
 
+<script is:inline>
+  (function () {
+    const form = document.getElementById('notify-form');
+    const note = document.getElementById('notify-note');
+    if (!form) return;
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = String(new FormData(form).get('email') || '').trim();
+      const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+      const originalText = form.querySelector('button').textContent;
+      if (!emailOk) {
+        note.textContent = 'Please enter a valid email address.';
+        note.style.color = '#c0392b';
+        return;
+      }
+      form.querySelector('button').textContent = 'Saving...';
+      form.querySelector('button').disabled = true;
+      try {
+        const res = await fetch('https://formsubmit.co/ajax/raihaneucef@gmail.com', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({
+            email,
+            source: 'pdf/30-days-discipline (notify-me)',
+            page: window.location.pathname,
+            _subject: '🔔 PDF notify signup — 30 Days of Discipline',
+            _template: 'table'
+          })
+        });
+        if (res.ok) {
+          note.textContent = '🎉 You\'re on the list. We\'ll email you the moment the PDF ships.';
+          note.style.color = '#c8a04a';
+          form.reset();
+        } else throw new Error('failed');
+      } catch (err) {
+        note.textContent = '⚠️ Something went wrong. Email us at contact@the-motivahub.com';
+        note.style.color = '#c0392b';
+      } finally {
+        form.querySelector('button').textContent = originalText;
+        form.querySelector('button').disabled = false;
+      }
+    });
+  })();
+</script>
+
 <style>
   .pdf-head { padding: 80px 0 32px; text-align: center; }
-  .pdf-subtitle { max-width: 640px; margin: 24px auto 0; font-size: 18px; color: var(--muted); line-height: 1.6; }
+  .pdf-subtitle { max-width: 720px; margin: 24px auto 0; font-size: 18px; color: var(--muted); line-height: 1.6; }
+
+  .pdf-coming-soon { padding: 32px 0 48px; }
+  .coming-soon-box { max-width: 640px; margin: 0 auto; padding: 40px 32px; background: linear-gradient(180deg, rgba(200, 160, 74, 0.08), rgba(200, 160, 74, 0.02)); border: 1px solid rgba(200, 160, 74, 0.25); border-radius: 16px; text-align: center; }
+  .coming-soon-label { font-family: var(--sans, system-ui, sans-serif); font-size: 11px; letter-spacing: 2px; color: var(--gold, #c8a04a); margin: 0 0 12px; font-weight: 700; }
+  .coming-soon-title { font-family: var(--serif, Georgia, serif); font-size: 26px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 16px; line-height: 1.3; }
+  .coming-soon-text { font-size: 15px; line-height: 1.6; color: var(--muted, #666); margin: 0 0 24px; }
+
+  .notify-form { display: flex; gap: 8px; max-width: 480px; margin: 0 auto; flex-wrap: wrap; }
+  .notify-form input { flex: 1; min-width: 200px; padding: 14px 18px; border: 1px solid var(--line, #e5e5e5); border-radius: 8px; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; }
+  .notify-form input:focus { outline: 2px solid var(--gold, #c8a04a); outline-offset: 2px; }
+  .notify-note { margin: 12px 0 0; font-family: var(--sans, system-ui, sans-serif); font-size: 14px; min-height: 20px; }
 
   .pdf-content { padding: 32px 0 64px; }
   .pdf-info { max-width: 720px; margin: 0 auto; font-family: var(--sans, system-ui, sans-serif); line-height: 1.7; color: var(--ink, #1a1a1a); }
   .pdf-info h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; margin: 48px 0 20px; }
   .pdf-info p { margin: 0 0 20px; font-size: 16px; }
 
-  .toc { list-style: none; padding: 0; margin: 24px 0; }
-  .toc li { padding: 8px 0; border-bottom: 1px solid var(--line, #e5e5e5); font-size: 15px; }
-  .toc strong { color: var(--gold, #c8a04a); margin-right: 8px; }
+  .benefits-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 24px 0 32px; }
+  .benefit-card { padding: 24px; background: var(--cream, #faf7f2); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .benefit-icon { font-size: 28px; margin: 0 0 12px; line-height: 1; }
+  .benefit-title { font-family: var(--serif, Georgia, serif); font-size: 18px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 8px; }
+  .benefit-text { font-family: var(--sans, system-ui, sans-serif); font-size: 14px; line-height: 1.6; color: var(--muted, #666); margin: 0; }
 
-  .weeks-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 24px 0 32px; }
+  .weeks-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 24px 0 32px; }
   .week-card { padding: 20px; background: var(--cream, #faf7f2); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
   .week-label { font-family: var(--sans, system-ui, sans-serif); font-size: 11px; letter-spacing: 2px; color: var(--gold, #c8a04a); margin: 0 0 8px; font-weight: 700; }
-  .week-title { font-family: var(--serif, Georgia, serif); font-size: 22px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 8px; }
+  .week-title { font-family: var(--serif, Georgia, serif); font-size: 20px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 8px; }
   .week-focus { font-family: var(--sans, system-ui, sans-serif); font-size: 13px; color: var(--muted, #666); margin: 0; }
 
   .how-to { padding-left: 20px; }
@@ -173,12 +251,6 @@ const weeklyThemes = [
   .day-sample ol { padding-left: 20px; margin: 0 0 16px; }
   .day-sample ol li { padding: 4px 0; font-size: 14px; }
   .day-sample p { font-size: 14px; color: var(--muted, #666); margin: 12px 0 0; }
-
-  .cta-box { padding: 32px; background: linear-gradient(180deg, rgba(200, 160, 74, 0.08), transparent); border: 1px solid rgba(200, 160, 74, 0.2); border-radius: 16px; text-align: center; margin: 32px 0; }
-  .cta-title { font-family: var(--serif, Georgia, serif); font-size: 26px; font-weight: 600; color: var(--ink, #1a1a1a); margin: 0 0 12px; }
-  .cta-box p { font-size: 15px; color: var(--muted, #666); margin: 0 0 20px; }
-  .btn-pill { display: inline-block; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 15px; }
-  .btn-pill-cream { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); }
 
   .related-tools { margin: 48px 0; }
   .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
@@ -199,4 +271,8 @@ const weeklyThemes = [
   .pdf-cta-final { padding: 64px 0; text-align: center; }
   .pdf-cta-final h2 { font-family: var(--serif, Georgia, serif); font-size: 36px; margin: 0 0 16px; color: var(--ink, #1a1a1a); }
   .pdf-cta-final p { max-width: 540px; margin: 0 auto 32px; color: var(--muted, #666); font-size: 16px; }
+
+  .btn-pill { display: inline-block; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 15px; cursor: pointer; border: none; }
+  .btn-pill-cream { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); }
+  .btn-pill-cream:hover { background: #b8965a; }
 </style>
