@@ -35,7 +35,7 @@ const posts = (await getCollection("blog"))
 
   <section class="trust-strip">
     <div class="container trust-inner">
-      <span class="trust-label">The books that built the work</span>
+      <span class="trust-label" data-i18n="trustLabel">The books that built the work</span>
       <div class="trust-logos">
         <span class="trust-logo">Atomic Habits</span>
         <span class="trust-logo-bold">CAN'T HURT ME</span>
@@ -54,17 +54,17 @@ const posts = (await getCollection("blog"))
   <section>
     <div class="container">
       <div class="section-head reveal">
-        <span class="kicker">The Journal</span>
+        <span class="kicker" data-i18n="journalKicker">The Journal</span>
         <div>
-          <h2>Essays for the <em>long climb.</em></h2>
-          <p>Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.</p>
+          <h2 data-i18n-html="journalTitle">Essays for the <em>long climb.</em></h2>
+          <p data-i18n="journalSubtitle">Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.</p>
         </div>
       </div>
       <div class="feed-grid reveal-stagger">
         {posts.slice(0, 6).map((post) => <ArticleCard post={post} />)}
       </div>
       <div class="text-center" style="margin-top:48px;">
-        <a class="btn-arrow" href="/journal/">Read all essays</a>
+        <a class="btn-arrow" href="/journal/" data-i18n="readAllEssays">Read all essays</a>
       </div>
     </div>
   </section>
@@ -72,48 +72,48 @@ const posts = (await getCollection("blog"))
   <section class="section-dark">
     <div class="container">
       <div class="section-head reveal">
-        <span class="kicker">Free Tools</span>
+        <span class="kicker" data-i18n="toolsKicker">Free Tools</span>
         <div>
-          <h2>Not just reading. <em>Doing.</em></h2>
-          <p>Six tools, built for the people who would rather act than scroll. No accounts. No paywall. No noise.</p>
+          <h2 data-i18n-html="toolsTitle">Not just reading. <em>Doing.</em></h2>
+          <p data-i18n="toolsSubtitle">Six tools, built for the people who would rather act than scroll. No accounts. No paywall. No noise.</p>
         </div>
       </div>
       <div class="feed-grid reveal-stagger">
         <a class="tool-card" href="/tools/discipline-quiz/">
           <p class="tool-card-num">01</p>
-          <h3 class="tool-card-title">Discipline Type Quiz</h3>
-          <p class="tool-card-desc">Five questions. One archetype. Find the kind of disciplined person you actually are — and what to do about it.</p>
-          <span class="tool-card-link">Take the quiz</span>
+          <h3 class="tool-card-title" data-i18n="tool01">Discipline Type Quiz</h3>
+          <p class="tool-card-desc" data-i18n="tool01Desc">Five questions. One archetype. Find the kind of disciplined person you actually are — and what to do about it.</p>
+          <span class="tool-card-link" data-i18n="tool01Link">Take the quiz</span>
         </a>
         <a class="tool-card" href="/tools/habit-stacker/">
           <p class="tool-card-num">02</p>
-          <h3 class="tool-card-title">Habit Stack Generator</h3>
-          <p class="tool-card-desc">James Clear's formula. One anchor. One new habit. One 30-day plan, generated in 60 seconds.</p>
-          <span class="tool-card-link">Build the stack</span>
+          <h3 class="tool-card-title" data-i18n="tool02">Habit Stack Generator</h3>
+          <p class="tool-card-desc" data-i18n="tool02Desc">James Clear's formula. One anchor. One new habit. One 30-day plan, generated in 60 seconds.</p>
+          <span class="tool-card-link" data-i18n="tool02Link">Build the stack</span>
         </a>
         <a class="tool-card" href="/tools/meditation-timer/">
           <p class="tool-card-num">03</p>
-          <h3 class="tool-card-title">Meditation Timer</h3>
-          <p class="tool-card-desc">Web audio bells. Seven presets. A daily practice you can hear — no app, no account, no friction.</p>
-          <span class="tool-card-link">Start the bell</span>
+          <h3 class="tool-card-title" data-i18n="tool03">Meditation Timer</h3>
+          <p class="tool-card-desc" data-i18n="tool03Desc">Web audio bells. Seven presets. A daily practice you can hear — no app, no account, no friction.</p>
+          <span class="tool-card-link" data-i18n="tool03Link">Start the bell</span>
         </a>
         <a class="tool-card" href="/tools/cold-shower-tracker/">
           <p class="tool-card-num">04</p>
-          <h3 class="tool-card-title">Cold Shower Tracker</h3>
-          <p class="tool-card-desc">Build the streak. Track every cold shower. Export the data. Watch the daily discomfort compound.</p>
-          <span class="tool-card-link">Begin the streak</span>
+          <h3 class="tool-card-title" data-i18n="tool04">Cold Shower Tracker</h3>
+          <p class="tool-card-desc" data-i18n="tool04Desc">Build the streak. Track every cold shower. Export the data. Watch the daily discomfort compound.</p>
+          <span class="tool-card-link" data-i18n="tool04Link">Begin the streak</span>
         </a>
         <a class="tool-card" href="/tools/reading-calculator/">
           <p class="tool-card-num">05</p>
-          <h3 class="tool-card-title">Reading Calculator</h3>
-          <p class="tool-card-desc">How many books can you actually read this year? Set the daily page target. Make the math honest.</p>
-          <span class="tool-card-link">Run the numbers</span>
+          <h3 class="tool-card-title" data-i18n="tool05">Reading Calculator</h3>
+          <p class="tool-card-desc" data-i18n="tool05Desc">How many books can you actually read this year? Set the daily page target. Make the math honest.</p>
+          <span class="tool-card-link" data-i18n="tool05Link">Run the numbers</span>
         </a>
         <a class="tool-card" href="/pdf/30-days-discipline/">
           <p class="tool-card-num">06</p>
-          <h3 class="tool-card-title">30 Days of Discipline</h3>
-          <p class="tool-card-desc">One page a day, for one month. A free PDF that turns these ideas into a daily practice you can hold.</p>
-          <span class="tool-card-link">Get the PDF</span>
+          <h3 class="tool-card-title" data-i18n="tool06">30 Days of Discipline</h3>
+          <p class="tool-card-desc" data-i18n="tool06Desc">One page a day, for one month. A free PDF that turns these ideas into a daily practice you can hold.</p>
+          <span class="tool-card-link" data-i18n="tool06Link">Get the PDF</span>
         </a>
       </div>
     </div>
@@ -124,17 +124,17 @@ const posts = (await getCollection("blog"))
   <section class="section-cream-deep">
     <div class="container">
       <div class="section-head reveal">
-        <span class="kicker">The Wisdom Stack</span>
+        <span class="kicker" data-i18n="wisdomKicker">The Wisdom Stack</span>
         <div>
-          <h2>Books that <em>built the work.</em></h2>
-          <p>The texts that shaped Motiva Hub. The texts that will outlast the noise. Read slowly. Re-read often.</p>
+          <h2 data-i18n-html="wisdomTitle">Books that <em>built the work.</em></h2>
+          <p data-i18n="wisdomSubtitle">The texts that shaped Motiva Hub. The texts that will outlast the noise. Read slowly. Re-read often.</p>
         </div>
       </div>
       <div class="feed-grid reveal-stagger">
         {books.slice(0, 8).map((book) => <BookCard book={book} />)}
       </div>
       <div class="text-center" style="margin-top:48px;">
-        <a class="btn-arrow" href="/books/">The full bookstand</a>
+        <a class="btn-arrow" href="/books/" data-i18n="wisdomAll">The full bookstand</a>
       </div>
     </div>
   </section>
@@ -142,10 +142,10 @@ const posts = (await getCollection("blog"))
   <section>
     <div class="container">
       <div class="section-head reveal">
-        <span class="kicker">Listen</span>
+        <span class="kicker" data-i18n="listenKicker">Listen</span>
         <div>
-          <h2>The Daily Drive · <em>Podcast</em></h2>
-          <p>Conversations with the people doing the quiet work — founders, athletes, monks, and the writers who shaped how we think.</p>
+          <h2 data-i18n-html="listenTitle">The Daily Drive · <em>Podcast</em></h2>
+          <p data-i18n="listenSubtitle">Conversations with the people doing the quiet work — founders, athletes, monks, and the writers who shaped how we think.</p>
         </div>
       </div>
       <div class="feed-grid reveal-stagger">

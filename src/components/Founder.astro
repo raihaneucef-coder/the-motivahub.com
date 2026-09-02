@@ -23,11 +23,11 @@ const principles = [
         </div>
       </div>
       <div class="founder-text reveal">
-        <span class="kicker">The Founder</span>
-        <h2 class="founder-title">A long ascent, <em>taken slowly.</em></h2>
-        <p class="founder-lead">Motiva Hub is the editorial work of one person, building in public, choosing the slow road on purpose.</p>
-        <p>It began as a private notebook — the kind of writing you do for yourself at 5 AM, when the house is quiet and the work is honest. It became a site. Then a publication. Then a quiet community of readers who would rather be patient and unstoppable than loud and brief.</p>
-        <p>Every essay here is written to be read slowly. Every tool is built for the person who would rather act than scroll. The Daily Drive is a long game. We play it like one.</p>
+        <span class="kicker" data-i18n="founderKicker">The Founder</span>
+        <h2 class="founder-title" data-i18n-html="founderTitle">A long ascent, <em>taken slowly.</em></h2>
+        <p class="founder-lead" data-i18n="founderLead">Motiva Hub is the editorial work of one person, building in public, choosing the slow road on purpose.</p>
+        <p data-i18n="founderP1">It began as a private notebook — the kind of writing you do for yourself at 5 AM, when the house is quiet and the work is honest. It became a site. Then a publication. Then a quiet community of readers who would rather be patient and unstoppable than loud and brief.</p>
+        <p data-i18n="founderP2">Every essay here is written to be read slowly. Every tool is built for the person who would rather act than scroll. The Daily Drive is a long game. We play it like one.</p>
         <div class="founder-signature">
           <svg viewBox="0 0 200 60" class="founder-signature-svg" aria-hidden="true">
             <path d="M 10 40 Q 30 10, 50 30 T 90 35 Q 120 15, 140 35 T 180 30" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"/>
@@ -35,7 +35,7 @@ const principles = [
           </svg>
           <span class="founder-signature-text">— Youssef Raihane, Est. 2025</span>
         </div>
-        <a class="btn-arrow btn-arrow-or" href="/author/youssef-raihane/">Read the full bio</a>
+        <a class="btn-arrow btn-arrow-or" href="/author/youssef-raihane/" data-i18n="founderReadBio">Read the full bio</a>
       </div>
     </div>
   </div>
@@ -44,18 +44,18 @@ const principles = [
 <section class="section-cream-deep">
   <div class="container">
     <div class="section-head reveal">
-      <span class="kicker">The Premise</span>
+      <span class="kicker" data-i18n="premiseKicker">The Premise</span>
       <div>
-        <h2>Three principles.<br/><em>One quiet work.</em></h2>
-        <p>The editorial backbone of every essay, every tool, every page on this site. Read once. Return often.</p>
+        <h2 data-i18n-html="premiseTitle">Three principles.<br/><em>One quiet work.</em></h2>
+        <p data-i18n="premiseSubtitle">The editorial backbone of every essay, every tool, every page on this site. Read once. Return often.</p>
       </div>
     </div>
     <div class="pillars reveal-stagger">
-      {principles.map((p) => (
+      {principles.map((p, i) => (
         <article class="pillar">
           <span class="pillar-num">{p.num}</span>
-          <h3 class="pillar-title">{p.word}</h3>
-          <p class="pillar-desc">{p.desc}</p>
+          <h3 class="pillar-title" data-i18n={`principleName${i+1}`}>{p.word}</h3>
+          <p class="pillar-desc" data-i18n={`principleDesc${i+1}`}>{p.desc}</p>
         </article>
       ))}
     </div>

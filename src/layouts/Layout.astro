@@ -119,7 +119,7 @@ const gaSnippet = GA_ID
             <button class="lang-btn" data-lang="fr" aria-label="Passer en français" aria-pressed="false">FR</button>
           </div>
           <button class="menu-btn" id="menu-btn" aria-label="Open menu" data-magnetic>
-            <span>Menu</span>
+            <span data-i18n="menu">Menu</span>
             <span class="menu-btn-bars"><span></span><span></span></span>
           </button>
         </div>
@@ -136,14 +136,14 @@ const gaSnippet = GA_ID
       <div class="footer-newsletter">
         <div class="container">
           <div class="footer-newsletter-inner">
-            <p class="kicker kicker-or" style="justify-content:center; display:flex;">The Daily Drive · Newsletter</p>
-            <h2>One letter. <em>Every Sunday.</em></h2>
-            <p>The week's essays, one book worth reading, and a small practice to try — delivered to people building the long ascent.</p>
+            <p class="kicker kicker-or" style="justify-content:center; display:flex;" data-i18n="footerNewsletterKicker">The Daily Drive · Newsletter</p>
+            <h2 data-i18n-html="footerNewsletterTitle">One letter. <em>Every Sunday.</em></h2>
+            <p data-i18n="footerNewsletterSubtitle">The week's essays, one book worth reading, and a small practice to try — delivered to people building the long ascent.</p>
             <form class="newsletter-form" action="https://formsubmit.co/contact@the-motivahub.com" method="POST">
-              <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" />
-              <button type="submit">Subscribe</button>
+              <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" data-i18n-placeholder="footerEmailPlaceholder" />
+              <button type="submit" data-i18n="footerSubscribe">Subscribe</button>
             </form>
-            <p style="font-family:var(--mono); font-size:0.6875rem; text-transform:uppercase; letter-spacing:0.14em; color:rgba(245,241,232,0.4); margin-top:16px;">Free · No spam · Unsubscribe anytime</p>
+            <p style="font-family:var(--mono); font-size:0.6875rem; text-transform:uppercase; letter-spacing:0.14em; color:rgba(245,241,232,0.4); margin-top:16px;" data-i18n="footerTrust">Free · No spam · Unsubscribe anytime</p>
           </div>
         </div>
       </div>
@@ -154,7 +154,7 @@ const gaSnippet = GA_ID
             <a href="/" class="logo logo-text logo-text-cream" data-magnetic>
               <span class="logo-word">Motiva <em>Hub</em></span>
             </a>
-            <p class="footer-tagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
+            <p class="footer-tagline" data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
             <div class="footer-social">
               <a href="https://twitter.com/motivahub" aria-label="Twitter" rel="noopener">𝕏</a>
               <a href="https://www.instagram.com/motivahub/" aria-label="Instagram" rel="noopener">IG</a>
@@ -163,45 +163,45 @@ const gaSnippet = GA_ID
             </div>
           </div>
           <div class="footer-col">
-            <h4>Read</h4>
+            <h4 data-i18n="footerColRead">Read</h4>
             <ul>
-              <li><a href="/journal/">The Journal</a></li>
-              <li><a href="/books/">The Bookstand</a></li>
-              <li><a href="/quotes/">Daily Quotes</a></li>
-              <li><a href="/podcast/">Podcast</a></li>
-              <li><a href="/topics/">All Topics</a></li>
+              <li><a href="/journal/" data-i18n="journal">The Journal</a></li>
+              <li><a href="/books/" data-i18n="footerBookstand">The Bookstand</a></li>
+              <li><a href="/quotes/" data-i18n="footerQuotes">Daily Quotes</a></li>
+              <li><a href="/podcast/" data-i18n="podcast">Podcast</a></li>
+              <li><a href="/topics/" data-i18n="footerAllTopics">All Topics</a></li>
             </ul>
           </div>
           <div class="footer-col">
-            <h4>Guides</h4>
+            <h4 data-i18n="footerColGuides">Guides</h4>
             <ul>
               <li><a href="/guides/atomic-habits-ultimate-guide/">Atomic Habits</a></li>
-              <li><a href="/best/books/">Best Books 2026</a></li>
-              <li><a href="/best/focus-books/">Best Focus Books</a></li>
-              <li><a href="/best/habit-books/">Best Habit Books</a></li>
-              <li><a href="/best/stoicism-books/">Stoicism</a></li>
+              <li><a href="/best/books/" data-i18n="footerBestBooks">Best Books 2026</a></li>
+              <li><a href="/best/focus-books/" data-i18n="footerBestFocus">Best Focus Books</a></li>
+              <li><a href="/best/habit-books/" data-i18n="footerBestHabit">Best Habit Books</a></li>
+              <li><a href="/best/stoicism-books/" data-i18n="footerStoicism">Stoicism</a></li>
             </ul>
           </div>
           <div class="footer-col">
-            <h4>Tools</h4>
+            <h4 data-i18n="footerColTools">Tools</h4>
             <ul>
-              <li><a href="/tools/discipline-quiz/">Discipline Quiz</a></li>
-              <li><a href="/tools/habit-stacker/">Habit Stacker</a></li>
-              <li><a href="/tools/meditation-timer/">Meditation Timer</a></li>
-              <li><a href="/tools/cold-shower-tracker/">Cold Shower Tracker</a></li>
-              <li><a href="/tools/reading-calculator/">Reading Calculator</a></li>
-              <li><a href="/pdf/30-days-discipline/">30 Days PDF</a></li>
+              <li><a href="/tools/discipline-quiz/" data-i18n="footerDisciplineQuiz">Discipline Quiz</a></li>
+              <li><a href="/tools/habit-stacker/" data-i18n="footerHabitStacker">Habit Stacker</a></li>
+              <li><a href="/tools/meditation-timer/" data-i18n="footerMeditation">Meditation Timer</a></li>
+              <li><a href="/tools/cold-shower-tracker/" data-i18n="footerColdShower">Cold Shower Tracker</a></li>
+              <li><a href="/tools/reading-calculator/" data-i18n="footerReadingCalc">Reading Calculator</a></li>
+              <li><a href="/pdf/30-days-discipline/" data-i18n="footerPdf">30 Days PDF</a></li>
             </ul>
           </div>
         </div>
         <div class="footer-bottom">
-          <p>© {new Date().getFullYear()} Motiva Hub · The Long Ascent</p>
+          <p data-i18n="footerCopyright">© {new Date().getFullYear()} Motiva Hub · The Long Ascent</p>
           <div class="footer-bottom-links">
-            <a href="/about/">About</a>
-            <a href="/contact/">Contact</a>
-            <a href="/privacy/">Privacy</a>
-            <a href="/terms/">Terms</a>
-            <a href="/affiliate-disclosure/">Disclosure</a>
+            <a href="/about/" data-i18n="footerAbout">About</a>
+            <a href="/contact/" data-i18n="footerContact">Contact</a>
+            <a href="/privacy/" data-i18n="footerPrivacy">Privacy</a>
+            <a href="/terms/" data-i18n="footerTerms">Terms</a>
+            <a href="/affiliate-disclosure/" data-i18n="footerDisclosure">Disclosure</a>
           </div>
         </div>
       </div>
@@ -240,8 +240,92 @@ const gaSnippet = GA_ID
     <script is:inline>
       (function(){
         const dict = {
-          en: { menu:"Menu", close:"Close", home:"Home", about:"About", topics:"Topics", journal:"Journal", books:"Books", quotes:"Quotes", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, growth, and better habits, delivered daily.", heroKicker:"EST. 2025 · THE LONG ASCENT", heroTitle:"Build the discipline.<br/><em>One day at a time.</em>", heroSubtitle:"Mindset, habits, books, and free tools — for the person who would rather be patient and unstoppable than loud and brief.", heroPrimary:"Start Reading", heroSecondary:"Take the Quiz", journalKicker:"The Journal", journalTitle:"Essays for the <em>long climb.</em>", journalSubtitle:"Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.", searchPlaceholder:"Search by title, topic or keywords...", all:"All", noResults:"No results found.", premiseKicker:"The Premise", premiseTitle:"Motivation is a visitor. <em>Discipline is a resident.</em> We do not chase the feeling — we build the room it returns to, day after day, until the practice becomes the person.", clarity:"Clarity", clarityDesc:"We strip away the noise to find the one thing that matters.", consistency:"Consistency", consistencyDesc:"Small, repeated acts compound into an unrecognisable life.", composure:"Composure", composureDesc:"The mind that can hold its centre decides the shape of the day." },
-          fr: { menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", footerTag:"The Daily Drive. Motivation, croissance et meilleures habitudes, chaque jour.", heroKicker:"EST. 2025 · LA LONGUE ASCENSION", heroTitle:"Construis la discipline.<br/><em>Un jour à la fois.</em>", heroSubtitle:"État d'esprit, habitudes, livres et outils gratuits — pour celui qui préfère être patient et inarrêtable plutôt que bruyant et bref.", heroPrimary:"Commencer à lire", heroSecondary:"Faire le quiz", journalKicker:"Le Journal", journalTitle:"Essais pour la <em>longue ascension.</em>", journalSubtitle:"État d'esprit, habitudes, discipline, productivité, travail profond — à lire lentement et à relire.", searchPlaceholder:"Rechercher par titre, thème ou mots-clés...", all:"Tous", noResults:"Aucun résultat trouvé.", premiseKicker:"La Prémisse", premiseTitle:"La motivation est une visiteuse. <em>La discipline est une résidente.</em> Nous ne chassons pas le sentiment — nous construisons la pièce où il revient, jour après jour, jusqu'à ce que la pratique devienne la personne.", clarity:"Clarté", clarityDesc:"Nous éliminons le bruit pour trouver la seule chose qui compte.", consistency:"Constance", consistencyDesc:"De petits actes répétés se composent en une vie méconnaissable.", composure:"Sang-froid", composureDesc:"L'esprit qui garde son centre décide de la forme du jour." },
+          en: {
+            menu:"Menu", close:"Close", home:"Home", about:"About", topics:"Topics", journal:"Journal", books:"Books", quotes:"Quotes", podcast:"Podcast", contact:"Contact", tools:"Tools", author:"The Author", pdf:"30 Days of Discipline",
+            navRead:"Read", navGuides:"Guides", navTools:"Tools", navBrand:"Brand",
+            heroKicker:"EST. 2025 · THE LONG ASCENT", heroTitle:"Build the discipline.<br/><em>One day at a time.</em>", heroSubtitle:"Mindset, habits, books, and free tools — for the person who would rather be patient and unstoppable than loud and brief.", heroPrimary:"Start Reading", heroSecondary:"Take the Quiz",
+            trustLabel:"The books that built the work", readAllEssays:"Read all essays",
+            founderKicker:"The Founder", founderTitle:"A long ascent, <em>taken slowly.</em>", founderLead:"Motiva Hub is the editorial work of one person, building in public, choosing the slow road on purpose.", founderP1:"It began as a private notebook — the kind of writing you do for yourself at 5 AM, when the house is quiet and the work is honest. It became a site. Then a publication. Then a quiet community of readers who would rather be patient and unstoppable than loud and brief.", founderP2:"Every essay here is written to be read slowly. Every tool is built for the person who would rather act than scroll. The Daily Drive is a long game. We play it like one.", founderReadBio:"Read the full bio",
+            premiseKicker:"The Premise", premiseTitle:"Three principles.<br/><em>One quiet work.</em>", premiseSubtitle:"The editorial backbone of every essay, every tool, every page on this site. Read once. Return often.",
+            clarity:"Clarity", clarityDesc:"We strip away the noise to find the one thing that matters.",
+            consistency:"Consistency", consistencyDesc:"Small, repeated acts compound into an unrecognisable life.",
+            composure:"Composure", composureDesc:"The mind that can hold its centre decides the shape of the day.",
+            principleName1:"Clarity", principleDesc1:"We strip away the noise to find the one thing that matters.",
+            principleName2:"Consistency", principleDesc2:"Small, repeated acts compound into an unrecognisable life.",
+            principleName3:"Composure", principleDesc3:"The mind that can hold its centre decides the shape of the day.",
+            journalKicker:"The Journal", journalTitle:"Essays for the <em>long climb.</em>", journalSubtitle:"Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.",
+            toolsKicker:"Free Tools", toolsTitle:"Not just reading. <em>Doing.</em>", toolsSubtitle:"Six tools, built for the people who would rather act than scroll. No accounts. No paywall. No noise.",
+            tool01:"Discipline Type Quiz", tool01Desc:"Five questions. One archetype. Find the kind of disciplined person you actually are — and what to do about it.", tool01Link:"Take the quiz",
+            tool02:"Habit Stack Generator", tool02Desc:"James Clear's formula. One anchor. One new habit. One 30-day plan, generated in 60 seconds.", tool02Link:"Build the stack",
+            tool03:"Meditation Timer", tool03Desc:"Web audio bells. Seven presets. A daily practice you can hear — no app, no account, no friction.", tool03Link:"Start the bell",
+            tool04:"Cold Shower Tracker", tool04Desc:"Build the streak. Track every cold shower. Export the data. Watch the daily discomfort compound.", tool04Link:"Begin the streak",
+            tool05:"Reading Calculator", tool05Desc:"How many books can you actually read this year? Set the daily page target. Make the math honest.", tool05Link:"Run the numbers",
+            tool06:"30 Days of Discipline", tool06Desc:"One page a day, for one month. A free PDF that turns these ideas into a daily practice you can hold.", tool06Link:"Get the PDF",
+            wisdomKicker:"The Wisdom Stack", wisdomTitle:"Books that <em>built the work.</em>", wisdomSubtitle:"The texts that shaped Motiva Hub. The texts that will outlast the noise. Read slowly. Re-read often.", wisdomAll:"The full bookstand",
+            listenKicker:"Listen", listenTitle:"The Daily Drive · <em>Podcast</em>", listenSubtitle:"Conversations with the people doing the quiet work — founders, athletes, monks, and the writers who shaped how we think.",
+            newsletterKicker:"The Motiva Letter · Newsletter", newsletterTitle:"One letter each Sunday. One idea worth a week.", newsletterSubtitle:"Mindset, discipline, and the long ascent — distilled into 500 words. No noise, no algorithms.", newsletterMagnetLabel:"Pick your free bonus:", newsletterPlaceholder:"Your email address *", newsletterName:"First name (optional)", newsletterBtn:"Subscribe Free", newsletterNote:"📩 One email per week. Unsubscribe anytime.",
+            footerNewsletterKicker:"The Daily Drive · Newsletter", footerNewsletterTitle:"One letter. <em>Every Sunday.</em>", footerNewsletterSubtitle:"The week's essays, one book worth reading, and a small practice to try — delivered to people building the long ascent.", footerEmailPlaceholder:"your@email.com", footerSubscribe:"Subscribe", footerTrust:"Free · No spam · Unsubscribe anytime",
+            footerTagline:"The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.", footerColRead:"Read", footerColGuides:"Guides", footerColTools:"Tools",
+            footerBookstand:"The Bookstand", footerQuotes:"Daily Quotes", footerPodcast:"Podcast", footerAllTopics:"All Topics", footerBestBooks:"Best Books 2026", footerBestFocus:"Best Focus Books", footerBestHabit:"Best Habit Books", footerStoicism:"Stoicism",
+            footerDisciplineQuiz:"Discipline Quiz", footerHabitStacker:"Habit Stacker", footerMeditation:"Meditation Timer", footerColdShower:"Cold Shower Tracker", footerReadingCalc:"Reading Calculator", footerPdf:"30 Days PDF",
+            footerCopyright:"© 2026 Motiva Hub · The Long Ascent", footerAbout:"About", footerContact:"Contact", footerPrivacy:"Privacy", footerTerms:"Terms", footerDisclosure:"Disclosure",
+            readArticle:"Read Article", listenPodcast:"Listen to Podcast", viewBook:"View Book",
+            searchPlaceholder:"Search by title, topic or keywords...", all:"All", noResults:"No results found.",
+            aboutKicker:"About Motiva Hub", aboutTitle:"A sanctuary for the <em>disciplined mind.</em>", aboutSubtitle:"Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress.",
+            authorKicker:"The Person Behind The Words", authorPromise:"My Promise To You", authorPromiseTitle:"I write what I built.",
+            credentialsTitle:"Credentials & Verifiable Experience", topicsTitle:"Topics I Write About", recentEssays:"Recent Essays", allEssensLink:"All Essays →",
+            sevenPrinciples:"Seven Principles", ourIntent:"Our Intent", aboutAuthor:"About the Author", aboutAuthorText:"writer and practitioner of the disciplines we explore. I write from lived practice, testing each idea in the daily work of building a stronger mind, not just from books.",
+            principleStillness:"On Stillness", principleStillnessDesc:"We begin where the noise ends. The first discipline is to create the quiet in which a thought can survive.",
+            principlePractice:"On Practice", principlePracticeDesc:"Ideas are cheap; practice is the only currency that compounds. We favour the unglamorous repetition over the brilliant intention.",
+            principleTime:"On Time", principleTimeDesc:"The day is the unit of a life well lived. We design the morning, protect the deep hours, and let the evening fall quietly.",
+            principleFailure:"On Failure", principleFailureDesc:"The fall is data. We do not romanticise struggle, but we refuse to waste it — every setback is a map of the next attempt.",
+            principleStrength:"On Strength", principleStrengthDesc:"The body votes first. We train, eat and recover deliberately — because a strong mind needs a capable vessel.",
+            principleJourney:"On Journey", principleJourneyDesc:"Go where you are a beginner again. New roads, new kitchens and new horizons keep the ego honest and the mind hungry.",
+            principleJoy:"On Joy", principleJoyDesc:"Rest is a skill, not a reward. We choose our stories and our entertainment the way we choose training — to return stronger.",
+          },
+          fr: {
+            menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", tools:"Outils", author:"L'Auteur", pdf:"30 Jours de Discipline",
+            navRead:"Lire", navGuides:"Guides", navTools:"Outils", navBrand:"Marque",
+            heroKicker:"EST. 2025 · LA LONGUE ASCENSION", heroTitle:"Construis la discipline.<br/><em>Un jour à la fois.</em>", heroSubtitle:"État d'esprit, habitudes, livres et outils gratuits — pour celui qui préfère être patient et inarrêtable plutôt que bruyant et bref.", heroPrimary:"Commencer à lire", heroSecondary:"Faire le quiz",
+            trustLabel:"Les livres qui ont construit le travail", readAllEssays:"Lire tous les essais",
+            founderKicker:"Le Fondateur", founderTitle:"Une longue ascension, <em>prise lentement.</em>", founderLead:"Motiva Hub est le travail éditorial d'une seule personne, qui construit en public, en choisissant volontairement la voie lente.", founderP1:"Tout a commencé par un carnet privé — le genre d'écriture qu'on fait pour soi à 5h du matin, quand la maison est silencieuse et que le travail est honnête. C'est devenu un site. Puis une publication. Puis une communauté discrète de lecteurs qui préfèrent être patients et inarrêtables plutôt que bruyants et brefs.", founderP2:"Chaque essai ici est écrit pour être lu lentement. Chaque outil est construit pour celui qui préfère agir plutôt que défiler. Le Daily Drive est un jeu long. Nous le jouons comme tel.", founderReadBio:"Lire la bio complète",
+            premiseKicker:"La Prémisse", premiseTitle:"Trois principes.<br/><em>Une seule œuvre.</em>", premiseSubtitle:"L'épine dorsale éditoriale de chaque essai, chaque outil, chaque page de ce site. À lire une fois. À relire souvent.",
+            clarity:"Clarté", clarityDesc:"Nous éliminons le bruit pour trouver la seule chose qui compte.",
+            consistency:"Constance", consistencyDesc:"De petits actes répétés se composent en une vie méconnaissable.",
+            composure:"Sang-froid", composureDesc:"L'esprit qui garde son centre décide de la forme du jour.",
+            principleName1:"Clarté", principleDesc1:"Nous éliminons le bruit pour trouver la seule chose qui compte.",
+            principleName2:"Constance", principleDesc2:"De petits actes répétés se composent en une vie méconnaissable.",
+            principleName3:"Sang-froid", principleDesc3:"L'esprit qui garde son centre décide de la forme du jour.",
+            journalKicker:"Le Journal", journalTitle:"Essais pour la <em>longue ascension.</em>", journalSubtitle:"État d'esprit, habitudes, discipline, productivité, travail profond — à lire lentement et à relire.",
+            toolsKicker:"Outils gratuits", toolsTitle:"Pas seulement lire. <em>Agir.</em>", toolsSubtitle:"Six outils, construits pour ceux qui préfèrent agir plutôt que défiler. Pas de compte. Pas de paywall. Pas de bruit.",
+            tool01:"Quiz du Type de Discipline", tool01Desc:"Cinq questions. Un archétype. Découvrez le type de personne disciplinée que vous êtes vraiment — et ce qu'il faut faire.", tool01Link:"Faire le quiz",
+            tool02:"Générateur d'Empilage d'Habitudes", tool02Desc:"La formule de James Clear. Une ancre. Une nouvelle habitude. Un plan de 30 jours, généré en 60 secondes.", tool02Link:"Construire l'empilage",
+            tool03:"Minuteur de Méditation", tool03Desc:"Cloches audio web. Sept préréglages. Une pratique quotidienne que vous pouvez entendre — sans appli, sans compte, sans friction.", tool03Link:"Démarrer la cloche",
+            tool04:"Suivi de Douches Froides", tool04Desc:"Construisez la série. Suivez chaque douche froide. Exportez les données. Regardez l'inconfort quotidien s'additionner.", tool04Link:"Commencer la série",
+            tool05:"Calculateur de Lecture", tool05Desc:"Combien de livres pouvez-vous vraiment lire cette année ? Fixez l'objectif quotidien de pages. Rendez les maths honnêtes.", tool05Link:"Faire les calculs",
+            tool06:"30 Jours de Discipline", tool06Desc:"Une page par jour, pendant un mois. Un PDF gratuit qui transforme ces idées en une pratique quotidienne que vous pouvez tenir.", tool06Link:"Obtenir le PDF",
+            wisdomKicker:"La Bibliothèque Sagesse", wisdomTitle:"Les livres qui <em>ont construit l'œuvre.</em>", wisdomSubtitle:"Les textes qui ont façonné Motiva Hub. Les textes qui survivront au bruit. À lire lentement. À relire souvent.", wisdomAll:"La bibliothèque complète",
+            listenKicker:"Écouter", listenTitle:"The Daily Drive · <em>Podcast</em>", listenSubtitle:"Conversations avec les gens qui font le travail silencieux — fondateurs, athlètes, moines et écrivains qui ont façonné notre pensée.",
+            newsletterKicker:"La Lettre Motiva · Newsletter", newsletterTitle:"Une lettre chaque dimanche. Une idée qui vaut une semaine.", newsletterSubtitle:"État d'esprit, discipline et longue ascension — distillés en 500 mots. Pas de bruit, pas d'algorithmes.", newsletterMagnetLabel:"Choisissez votre bonus gratuit :", newsletterPlaceholder:"Votre adresse email *", newsletterName:"Prénom (facultatif)", newsletterBtn:"S'abonner gratuitement", newsletterNote:"📩 Un email par semaine. Désabonnement à tout moment.",
+            footerNewsletterKicker:"The Daily Drive · Newsletter", footerNewsletterTitle:"Une lettre. <em>Chaque dimanche.</em>", footerNewsletterSubtitle:"Les essais de la semaine, un livre à lire, et une petite pratique à essayer — livrés aux gens qui construisent la longue ascension.", footerEmailPlaceholder:"votre@email.com", footerSubscribe:"S'abonner", footerTrust:"Gratuit · Pas de spam · Désabonnement à tout moment",
+            footerTagline:"The Daily Drive. État d'esprit, habitudes, livres et outils gratuits — pour la longue ascension, un jour à la fois.", footerColRead:"Lire", footerColGuides:"Guides", footerColTools:"Outils",
+            footerBookstand:"La Bibliothèque", footerQuotes:"Citations du jour", footerPodcast:"Podcast", footerAllTopics:"Tous les thèmes", footerBestBooks:"Meilleurs livres 2026", footerBestFocus:"Meilleurs livres de concentration", footerBestHabit:"Meilleurs livres d'habitudes", footerStoicism:"Stoïcisme",
+            footerDisciplineQuiz:"Quiz de discipline", footerHabitStacker:"Empilage d'habitudes", footerMeditation:"Minuteur de méditation", footerColdShower:"Suivi douches froides", footerReadingCalc:"Calculateur de lecture", footerPdf:"PDF 30 jours",
+            footerCopyright:"© 2026 Motiva Hub · La Longue Ascension", footerAbout:"À propos", footerContact:"Contact", footerPrivacy:"Confidentialité", footerTerms:"Conditions", footerDisclosure:"Divulgation",
+            readArticle:"Lire l'article", listenPodcast:"Écouter le podcast", viewBook:"Voir le livre",
+            searchPlaceholder:"Rechercher par titre, thème ou mots-clés...", all:"Tous", noResults:"Aucun résultat trouvé.",
+            aboutKicker:"À propos de Motiva Hub", aboutTitle:"Un sanctuaire pour <em>l'esprit discipliné.</em>", aboutSubtitle:"Motiva Hub aide à construire un état d'esprit plus fort, de meilleures habitudes et des progrès quotidiens réguliers.",
+            authorKicker:"La Personne Derrière les Mots", authorPromise:"Ma Promesse", authorPromiseTitle:"J'écris ce que j'ai construit.",
+            credentialsTitle:"Diplômes & Expérience Vérifiable", topicsTitle:"Les Sujets que j'Aborde", recentEssays:"Essais Récents", allEssensLink:"Tous les essais →",
+            sevenPrinciples:"Sept Principes", ourIntent:"Notre Intention", aboutAuthor:"À propos de l'auteur", aboutAuthorText:"écrivain et praticien des disciplines que nous explorons. J'écris à partir de la pratique vécue, en testant chaque idée dans le travail quotidien de construction d'un esprit plus fort, pas seulement à partir des livres.",
+            principleStillness:"Sur la Quiétude", principleStillnessDesc:"Nous commençons là où le bruit s'arrête. La première discipline est de créer le silence dans lequel une pensée peut survivre.",
+            principlePractice:"Sur la Pratique", principlePracticeDesc:"Les idées sont bon marché ; la pratique est la seule monnaie qui compose. Nous favorisons la répétition peu glamour sur l'intention brillante.",
+            principleTime:"Sur le Temps", principleTimeDesc:"La journée est l'unité d'une vie bien vécue. Nous concevons le matin, protégeons les heures profondes, et laissons le soir tomber doucement.",
+            principleFailure:"Sur l'Échec", principleFailureDesc:"La chute est une donnée. Nous ne romantisons pas la lutte, mais nous refusons de la gaspiller — chaque revers est la carte de la prochaine tentative.",
+            principleStrength:"Sur la Force", principleStrengthDesc:"Le corps vote en premier. Nous nous entraînons, mangeons et récupérons délibérément — car un esprit fort a besoin d'un vaisseau capable.",
+            principleJourney:"Sur le Voyage", principleJourneyDesc:"Allez là où vous êtes à nouveau débutant. De nouvelles routes, de nouvelles cuisines et de nouveaux horizons gardent l'ego honnête et l'esprit affamé.",
+            principleJoy:"Sur la Joie", principleJoyDesc:"Le repos est une compétence, pas une récompense. Nous choisissons nos histoires et nos divertissements comme nous choisissons l'entraînement — pour revenir plus forts.",
+          },
         };
         function setLang(lang){
           const t = dict[lang] || dict.en;

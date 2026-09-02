@@ -59,7 +59,7 @@ const breadcrumb = {
 
   <section class="page-head">
     <div class="container">
-      <p class="kicker">The Person Behind The Words</p>
+      <p class="kicker" data-i18n="authorKicker">The Person Behind The Words</p>
       <h1>Youssef <em>Raihane</em></h1>
       <p>Founder & Editor-in-Chief of Motiva Hub. Building a sanctuary for the disciplined mind — one idea at a time.</p>
     </div>
@@ -90,8 +90,8 @@ const breadcrumb = {
           </div>
         </div>
         <div class="author-bio-content">
-          <p class="kicker">My Promise To You</p>
-          <h2>I write what I I built.</h2>
+          <p class="kicker" data-i18n="authorPromise">My Promise To You</p>
+          <h2 data-i18n="authorPromiseTitle">I write what I built.</h2>
           <p>Motiva Hub is not a content farm. It is a daily practice, written in public, edited in private, and tested in my own life before it reaches yours.</p>
           <p>I started this site in 2019 after a decade of reading the same five books on habits, focus, and discipline — and noticing that nobody was turning them into a daily, edible practice. The gap between knowing what to do and actually doing it, day after day, is the gap this site exists to close.</p>
           <p>Eight years into building systems for myself — discipline rituals, focus stacks, sleep protocols — I can tell you one thing: <strong>motivation is a visitor, discipline is a resident</strong>. And the resident always wins.</p>
@@ -103,7 +103,7 @@ const breadcrumb = {
   <section class="author-section author-section--alt">
     <div class="container">
       <div class="credentials-block">
-        <h2>Credentials & Verifiable Experience</h2>
+        <h2 data-i18n="credentialsTitle">Credentials & Verifiable Experience</h2>
         <ul class="cred-list">
           <li>
             <span class="cred-tag">Practice</span>
@@ -133,7 +133,7 @@ const breadcrumb = {
   <section class="author-section">
     <div class="container">
       <div class="topics-block">
-        <h2>Topics I Write About</h2>
+        <h2 data-i18n="topicsTitle">Topics I Write About</h2>
         <div class="topics-pills">
           <span class="topic-pill">Habits</span>
           <span class="topic-pill">Discipline</span>
@@ -161,8 +161,8 @@ const breadcrumb = {
   <section class="feed">
     <div class="container">
       <div class="feed-head">
-        <p class="kicker">Recent Essays</p>
-        <a class="link-ochre" href="/journal/">All Essays →</a>
+        <p class="kicker" data-i18n="recentEssays">Recent Essays</p>
+        <a class="link-ochre" href="/journal/" data-i18n="allEssensLink">All Essays →</a>
       </div>
       <div class="grid">
         {posts.map((p) => <ArticleCard post={p} />)}
