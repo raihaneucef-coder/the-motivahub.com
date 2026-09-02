@@ -1,8 +1,12 @@
 ---
+import Layout from "../../layouts/Layout.astro";
+import AuthorBio from "../../components/AuthorBio.astro";
+
 const title = "The Ultimate Guide to Atomic Habits — What Actually Works in 2026";
 const description = "A complete, research-backed breakdown of James Clear's Atomic Habits. The 4 laws, the science, the 30-day protocol — and what most reviews leave out. Read this once, build habits forever.";
 const wordCount = 3800;
 const topic = "Habits";
+const canonical = "https://the-motivahub.com/guides/atomic-habits-ultimate-guide/";
 
 const faq = [
   { q: "Does the Atomic Habits 4-step system actually work in 2026?", a: "Yes. James Clear's framework (Cue, Craving, Response, Reward) is based on decades of behavioral research. The framework is timeless — what changes is which tools you use to apply each step. We break down the modern adaptations below." },
@@ -28,7 +32,49 @@ const keywords = [
   "habit stacking", "two minute rule", "identity based habits",
   "how to build habits", "habits that stick", "21 days myth"
 ];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faq.map((item) => ({
+    "@type": "Question",
+    "name": item.q,
+    "acceptedAnswer": { "@type": "Answer", "text": item.a }
+  }))
+};
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": canonical + "#article",
+  "headline": title,
+  "description": description,
+  "wordCount": wordCount,
+  "inLanguage": "en",
+  "author": { "@id": "https://the-motivahub.com/author/youssef-raihane/#person" },
+  "publisher": { "@id": "https://the-motivahub.com/#organization" },
+  "datePublished": "2026-09-01",
+  "dateModified": "2026-09-01",
+  "mainEntityOfPage": { "@type": "WebPage", "@id": canonical },
+  "keywords": keywords.join(", "),
+  "articleSection": topic
+};
 ---
+
+<Layout title={title} description={description} image="/images/blog/atomic-habits-ultimate-guide.jpg" ogType="article">
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)}></script>
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)}></script>
+
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">{topic} · {wordCount} words · Updated 2026</p>
+      <h1>The Ultimate Guide to <em>Atomic Habits</em></h1>
+      <p>A complete, research-backed breakdown of James Clear's Atomic Habits. The 4 laws, the science, the 30-day protocol — and what most reviews leave out.</p>
+    </div>
+  </section>
+
+  <article class="feed">
+    <div class="container article-body">
 
 # The Ultimate Guide to Atomic Habits
 
@@ -130,6 +176,7 @@ Humans are wired to imitate. The simple act of watching someone else do the thin
 - Join a group where the habit is normal (running club, book club, etc.)
 - Make the habit public (track on social, tell a your your friend)
 - Pair with someone who already does the habit well
+
 
 I started meditating because a friend invited me to a 10-day meditation retreat. I'd been "thinking about it" for three years. One invitation moved me more than three years of consideration.
 
@@ -339,6 +386,69 @@ Or get the book itself — it's worth the read:
 
 ---
 
+## FAQ
+
+**Q: What if I don't feel motivated to start?**
+A: Motivation is overrated. Use the 2-minute rule. Action creates motivation, not the other way around. The first 2 minutes are the hardest; after that, momentum kicks in.
+
+**Q: How do I track the habit without becoming obsessive?**
+A: Use a simple paper calendar. Put an X for each day. Don't analyze patterns until month 3. Tracking is feedback, not judgment.
+
+**Q: What's the most common mistake people make?**
+A: Designing habits too big. "I'll write 1,000 words a day" fails. "I'll write one sentence" sticks for years. Shrink the version. Expand later.
+
+**Q: How do I restart after a long break?**
+A: The 2-minute rule works perfectly here. Don't try to restart at the level you were before — restart at 2 minutes. The identity shift carries you back.
+
+**Q: Can I really build multiple habits at once?**
+A: Research says no. Stick to one new habit at a time. Wait until it's automatic (3+ months). Then add the next one.
+
+---
+
+## Where to Go From Here
+
+You've just read 3,800 words on habits. If you want to actually apply what you've learned, here's your next step:
+
+1. **Pick ONE habit** you want to build
+2. **Shrink it to 2 minutes**
+3. **Set up the environment** (cue obvious, friction low, reward satisfying)
+4. **Do it today** — not tomorrow, not Monday — today
+
+If you only do one thing, do this: open your calendar app right now and schedule a 2-minute version of your new habit for tomorrow morning. Write the implementation intention: "After [specific existing habit], I will [new 2-minute habit]."
+
+That's it. That's the system.
+
+For deeper reading, start with these articles on Motiva Hub:
+
+- [The Habit Stack — How to Build Habits That Actually Stick](/journal/habit-stacking-made-simple/)
+- [The 2-Minute Rule — And What to Do When It Fails](/journal/regle-2-min-productivite/)
+- [Identity Precedes Outcome — The Deepest Lesson from Atomic Habits](/journal/identity-precedes-outcome/)
+- [Make Good Habits Obvious — The First Law in Practice](/journal/make-good-habits-obvious/)
+- [Why Habits Stick When Goals Fail — The Identity System](/journal/discipline-beat-motivation/)
+
+Or get the book itself — it's worth the read:
+
+<div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<p><strong>Get the book that started this movement</strong></p>
+<p><a href="https://www.amazon.fr/dp/1847941834?tag=motivahub-21&utm_source=motivahub&utm_medium=guide&utm_campaign=atomic-habits-ultimate-guide" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Buy Atomic Habits on Amazon</a></p>
+<p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
+</div>
+
+---
+
+## Try the Tools
+
+Two free tools that put this guide into practice in under 60 seconds:
+
+- [Habit Stack Generator](/tools/habit-stacker/) — generate your 30-day stack from one anchor.
+- [Discipline Type Quiz](/tools/discipline-quiz/) — find your discipline archetype in 2 minutes.
+
+---
+
+<AuthorBio variant="full" showSchema={false} />
+
+---
+
 *Youssef Raihane has been building — and breaking — habits since 2019. He's read Atomic Habits four times. The first time was for the clever writing. The fourth was for the system. He still uses the 2-minute rule daily.*
 
 ## Sources
@@ -351,3 +461,7 @@ Or get the book itself — it's worth the read:
 6. *Stanford Behavior Design Lab* — Fogg Behavior Model (B = MAT) — for the science of motivation + ability
 7. *James Clear* — [jamesclear.com](https://jamesclear.com) — original articles and updates
 8. *Atomic Habits French review* on Motiva Hub — [complete breakdown](/journal/atomic-habits-revue-complete/)
+
+    </div>
+  </article>
+</Layout>
