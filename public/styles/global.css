@@ -1316,6 +1316,25 @@ section {
 }
 
 @media (max-width: 768px) {
+  .header-inner { padding: 0 16px; }
+  .logo { font-size: 1.125rem; }
+  .header-actions { gap: 10px; }
+  .lang-switcher {
+    padding: 4px 8px;
+    font-size: 0.6875rem;
+    gap: 4px;
+  }
+  .lang-btn { padding: 4px 2px; min-width: 22px; min-height: 22px; }
+  .menu-btn {
+    padding: 8px 12px;
+    font-size: 0.6875rem;
+    letter-spacing: 0.12em;
+    gap: 6px;
+  }
+  .menu-btn span:not(.menu-btn-bars) { display: none; }
+}
+
+@media (max-width: 768px) {
   .footer-main { grid-template-columns: 1fr 1fr; gap: 32px; }
 }
 
