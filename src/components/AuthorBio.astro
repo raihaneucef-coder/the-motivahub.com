@@ -25,7 +25,7 @@ const author = {
     { name: "Google Scholar Profile", url: "#" },
   ],
   experience: "Built Motiva Hub from zero into a daily sanctuary for the disciplined mind. Has reviewed and synthesized 50+ titles on habits, focus, stoicism, and performance. Writes from practice — not theory.",
-  avatar: "/logo.jpg",
+  avatar: "yr-placeholder",
   founded: 2019,
 };
 
@@ -69,7 +69,26 @@ const personSchema = {
 
 {variant === "compact" && (
   <aside class="author-bio author-bio--compact">
-    <img class="author-avatar" src={author.avatar} alt={author.name} />
+    <span class="author-avatar author-avatar--yr" role="img" aria-label={author.name}>
+      <svg viewBox="0 0 56 56" width="56" height="56" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <defs>
+          <linearGradient id="abFaceSm" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#1a1a1a"/>
+            <stop offset="100%" stop-color="#0a0a0a"/>
+          </linearGradient>
+          <linearGradient id="abGoldSm" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#fff3c4"/>
+            <stop offset="50%" stop-color="#e8c879"/>
+            <stop offset="100%" stop-color="#8a6420"/>
+          </linearGradient>
+        </defs>
+        <rect width="56" height="56" rx="50%" fill="url(#abFaceSm)"/>
+        <g transform="translate(28, 32)" text-anchor="middle">
+          <path d="M -12 -12 L -10 -12 L -5 -3 L 0 -12 L 2 -12 L -5 0 L -5 12 L -7 12 L -7 0 Z" fill="url(#abGoldSm)"/>
+          <path d="M 5 -12 L 5 12 L 7 12 L 7 3 L 11 3 L 15 12 L 17 12 L 12 2 Q 16 1 16 -3 Q 16 -12 8 -12 Z" fill="url(#abGoldSm)"/>
+        </g>
+      </svg>
+    </span>
     <div class="author-meta">
       <p class="author-name">{author.name}</p>
       <p class="author-role">{author.jobTitle} · {author.worksFor}</p>
@@ -81,7 +100,26 @@ const personSchema = {
 {variant === "full" && (
   <aside class="author-bio author-bio--full">
     <div class="author-bio-head">
-      <img class="author-avatar-lg" src={author.avatar} alt={author.name} />
+      <span class="author-avatar-lg author-avatar--yr" role="img" aria-label={author.name}>
+        <svg viewBox="0 0 88 88" width="88" height="88" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <defs>
+            <linearGradient id="abFaceLg" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#1a1a1a"/>
+              <stop offset="100%" stop-color="#0a0a0a"/>
+            </linearGradient>
+            <linearGradient id="abGoldLg" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#fff3c4"/>
+              <stop offset="50%" stop-color="#e8c879"/>
+              <stop offset="100%" stop-color="#8a6420"/>
+            </linearGradient>
+          </defs>
+          <rect width="88" height="88" rx="50%" fill="url(#abFaceLg)"/>
+          <g transform="translate(44, 50)" text-anchor="middle">
+            <path d="M -18 -18 L -15 -18 L -8 -4 L -1 -18 L 3 -18 L -7 0 L -7 18 L -10 18 L -10 0 Z" fill="url(#abGoldLg)"/>
+            <path d="M 7 -18 L 7 18 L 11 18 L 11 4 L 17 4 L 23 18 L 26 18 L 19 2 Q 24 2 24 -4 Q 24 -18 12 -18 Z" fill="url(#abGoldLg)"/>
+          </g>
+        </svg>
+      </span>
       <div>
         <p class="author-tag">About the author</p>
         <h3 class="author-name-lg">{author.name}</h3>
@@ -122,16 +160,21 @@ const personSchema = {
     width: 56px;
     height: 56px;
     border-radius: 50%;
-    object-fit: cover;
+    overflow: hidden;
     flex-shrink: 0;
+    display: inline-block;
+    border: 1px solid var(--line, #e5e5e5);
   }
   .author-avatar-lg {
     width: 88px;
     height: 88px;
     border-radius: 50%;
-    object-fit: cover;
+    overflow: hidden;
     border: 2px solid var(--gold, #c8a04a);
+    display: inline-block;
+    flex-shrink: 0;
   }
+  .author-avatar--yr svg { display: block; width: 100%; height: 100%; }
   .author-meta {
     flex: 1;
   }
