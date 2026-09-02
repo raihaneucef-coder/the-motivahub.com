@@ -29,32 +29,22 @@ const titleText = title.replace(/<[^>]+>/g, '');
     <div class="hero-content">
       <span class="hero-eyebrow">
         <span class="hero-eyebrow-dot"></span>
-        {kicker}
+        <span data-i18n="heroKicker">{kicker}</span>
       </span>
 
-      <h1 class="hero-title" data-stagger-reveal>
-        {title.split('<br/>').map((line, i) => (
-          <span class="hero-title-line">
-            {line.split(/(<em>.*?<\/em>)/g).map((part) => {
-              if (part.startsWith('<em>')) {
-                const text = part.replace(/<\/?em>/g, '');
-                return <em class="hero-title-word">{text}</em>;
-              }
-              return <span class="hero-title-word">{part}</span>;
-            })}
-          </span>
-        ))}
+      <h1 class="hero-title" data-stagger-reveal data-i18n-html="heroTitle">
+        <Fragment set:html={title} />
       </h1>
 
-      <p class="hero-subtitle" data-stagger-reveal>{subtitle}</p>
+      <p class="hero-subtitle" data-stagger-reveal data-i18n="heroSubtitle">{subtitle}</p>
 
       <div class="hero-btns" data-stagger-reveal>
         <a class="btn btn-primary btn-magnetic" href={primaryCta.href}>
-          <span>{primaryCta.label}</span>
+          <span data-i18n="heroPrimary">{primaryCta.label}</span>
           <span class="btn-arrow-sm">→</span>
         </a>
         <a class="btn btn-ghost btn-magnetic" href={secondaryCta.href}>
-          <span>{secondaryCta.label}</span>
+          <span data-i18n="heroSecondary">{secondaryCta.label}</span>
           <span class="btn-arrow-sm">→</span>
         </a>
       </div>
