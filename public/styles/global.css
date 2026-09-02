@@ -1828,11 +1828,12 @@ section {
   .hero-meta {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 24px 32px;
-    margin-top: 32px;
+    gap: 20px 24px;
+    margin: 32px auto 0;
     padding-top: 24px;
     text-align: center;
     justify-items: center;
+    max-width: 360px;
   }
   .hero-meta-item {
     flex-direction: column;
