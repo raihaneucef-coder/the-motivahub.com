@@ -83,7 +83,7 @@ const breadcrumb = {
               </defs>
               <rect width="240" height="240" rx="50%" ry="50%" fill="url(#phFace)"/>
               <circle cx="120" cy="120" r="118" fill="none" stroke="#c8a04a" stroke-width="2" opacity="0.35"/>
-              <g transform="translate(120, 138)" text-anchor="middle">
+              <g transform="translate(120, 138)" class="author-y-3d" text-anchor="middle">
                 <path d="M -50 -50 L -42 -50 L -22 -10 L -2 -50 L 6 -50 L -18 -2 L -18 50 L -26 50 L -26 -2 Z" fill="url(#phGold)"/>
                 <path d="M 18 -50 L 18 50 L 26 50 L 26 8 L 40 8 L 56 50 L 66 50 L 48 6 Q 60 4 60 -12 Q 60 -50 30 -50 Z M 26 -42 L 30 -42 Q 52 -42 52 -12 Q 52 0 30 0 L 26 0 Z" fill="url(#phGold)"/>
               </g>
@@ -209,6 +209,11 @@ const breadcrumb = {
     background: var(--ink, #0a0a0a);
   }
   .author-photo svg { display: block; width: 100%; height: 100%; }
+  .author-y-3d {
+    transform-style: preserve-3d;
+    transform: translateZ(8px) rotateX(-4deg) rotateY(6deg);
+    filter: drop-shadow(0 2px 0 #8a6420) drop-shadow(0 4px 0 #6e4d18) drop-shadow(0 6px 8px rgba(0, 0, 0, 0.6)) drop-shadow(0 10px 24px rgba(0, 0, 0, 0.4));
+  }
   .author-meta-block {
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 8px;
