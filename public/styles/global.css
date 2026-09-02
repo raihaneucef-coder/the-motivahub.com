@@ -470,8 +470,7 @@ p { line-height: 1.7; }
   background-size: cover;
   background-position: center 30%;
   filter: grayscale(0.05) contrast(1.08) saturate(1.05) brightness(0.78);
-  transform: translate3d(var(--mx, 0), var(--my, 0), 0) scale(calc(1.08 + var(--scroll-depth, 0) * 0.06)) perspective(1400px) rotateX(calc(var(--tilt-y, 0) * 0.35deg)) rotateY(calc(var(--tilt-x, 0) * 0.35deg));
-  transform-origin: center 35%;
+  transform: translate3d(calc(var(--mx, 0) * 0.4), calc(var(--my, 0) * 0.4 + var(--scroll-depth, 0) * 60px), 0) scale(calc(1.08 + var(--scroll-depth, 0) * 0.02));
   will-change: transform;
   transition: transform 0.6s var(--ease-out);
   box-shadow:
@@ -493,8 +492,7 @@ p { line-height: 1.7; }
 }
 
 .hero-portrait .hero-title {
-  transform: translate3d(calc(var(--mx, 0) * 0.35), calc(var(--my, 0) * 0.35), 0)
-              perspective(1200px) rotateX(calc(var(--tilt-y, 0) * 1deg)) rotateY(calc(var(--tilt-x, 0) * 1deg));
+  transform: translate3d(calc(var(--mx, 0) * 0.35), calc(var(--my, 0) * 0.35), 0);
   transition: transform 0.6s var(--ease-out);
   will-change: transform;
 }
