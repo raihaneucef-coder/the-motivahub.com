@@ -327,16 +327,18 @@ p { line-height: 1.7; }
 .menu-btn-bars {
   display: flex;
   flex-direction: column;
-  gap: 3px;
-  width: 14px;
+  justify-content: center;
+  gap: 4px;
+  width: 22px;
+  height: 16px;
 }
 
 .menu-btn-bars span {
   display: block;
-  height: 2px;
+  height: 2.5px;
   width: 100%;
   background: currentColor;
-  border-radius: 1px;
+  border-radius: 1.5px;
   transition: transform var(--dur-base) var(--ease-out);
 }
 
@@ -1328,10 +1330,11 @@ section {
   }
   .lang-btn { padding: 4px 2px; min-width: 22px; min-height: 22px; }
   .menu-btn {
-    padding: 8px 12px;
+    padding: 10px 14px;
     font-size: 0.6875rem;
     letter-spacing: 0.12em;
-    gap: 6px;
+    gap: 8px;
+    min-height: 40px;
   }
   .menu-btn > span:not(.menu-btn-bars) { display: none; }
 }
