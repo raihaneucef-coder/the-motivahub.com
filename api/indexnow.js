@@ -15,7 +15,7 @@ function isValidUrl(u) {
 
 export default async function handler(req, res) {
   if (req.method !== "POST") {
-    return res.status(405).json({ error: "Method not allowed" });
+    return res.status(200).json({ status: "ok", endpoint: "indexnow", method: "POST" });
   }
 
   const key = process.env.INDEXNOW_KEY;
