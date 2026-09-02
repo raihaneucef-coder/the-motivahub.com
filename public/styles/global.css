@@ -1456,12 +1456,10 @@ section {
 
 .reveal-scale {
   opacity: 0;
-  transform: scale(0.96);
-  transition: opacity var(--dur-cinema) var(--ease-cinema),
-              transform var(--dur-cinema) var(--ease-cinema);
+  transition: opacity var(--dur-cinema) var(--ease-cinema);
 }
 
-.reveal-scale.visible { opacity: 1; transform: scale(1); }
+.reveal-scale.visible { opacity: 1; }
 
 /* ===================================================================
    COOKIE BANNER
@@ -1951,12 +1949,6 @@ section {
   overflow: hidden;
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-lg);
-  transition: transform var(--dur-slow) var(--ease-out), box-shadow var(--dur-slow) var(--ease-out);
-}
-
-.founder-portrait:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-xl);
 }
 
 .founder-photo {
