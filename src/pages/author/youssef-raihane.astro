@@ -17,7 +17,7 @@ const personSchema = {
   jobTitle: "Founder & Editor-in-Chief",
   worksFor: { "@type": "Organization", name: "Motiva Hub", url: "https://the-motivahub.com" },
   url: "https://the-motivahub.com/author/youssef-raihane/",
-  image: "https://the-motivahub.com/logo.jpg",
+  image: "https://the-motivahub.com/images/youssef-raihane.jpg",
   description: "Founder of Motiva Hub, a premium editorial sanctuary for the disciplined mind. 8 years applied practice in habits, focus, stoicism, performance systems. Writes from practice — not theory.",
   knowsAbout: [
     "Habits",
@@ -51,7 +51,7 @@ const breadcrumb = {
 };
 ---
 
-<Layout title="Youssef Raihane — Founder of Motiva Hub" description="Founder of Motiva Hub. 8 years applied practice in habits, focus, stoicism, performance. Writes from practice — not theory." image="/logo.jpg">
+<Layout title="Youssef Raihane — Founder of Motiva Hub" description="Founder of Motiva Hub. 8 years applied practice in habits, focus, stoicism, performance. Writes from practice — not theory." image="/images/youssef-raihane.jpg">
   <link rel="canonical" href="https://the-motivahub.com/author/youssef-raihane/" />
   <link rel="author" href="https://the-motivahub.com/author/youssef-raihane/" />
   <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
@@ -69,27 +69,16 @@ const breadcrumb = {
     <div class="container">
       <div class="author-grid">
         <div class="author-photo-wrap">
-          <div class="author-photo" role="img" aria-label="Youssef Raihane — Founder of Motiva Hub">
-            <svg viewBox="0 0 240 240" width="240" height="240" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-              <defs>
-                <linearGradient id="phFace" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0%" stop-color="#1a1a1a"/>
-                  <stop offset="100%" stop-color="#0a0a0a"/>
-                </linearGradient>
-                <linearGradient id="phGold" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0%" stop-color="#fff3c4"/>
-                  <stop offset="40%" stop-color="#e8c879"/>
-                  <stop offset="100%" stop-color="#8a6420"/>
-                </linearGradient>
-              </defs>
-              <rect width="240" height="240" rx="50%" ry="50%" fill="url(#phFace)"/>
-              <circle cx="120" cy="120" r="118" fill="none" stroke="#c8a04a" stroke-width="2" opacity="0.35"/>
-              <g transform="translate(120, 138)" text-anchor="middle" style="filter: drop-shadow(0 1px 0 #5a3e10) drop-shadow(0 2px 0 #4a2f08) drop-shadow(0 3px 0 #3a2306) drop-shadow(0 4px 8px rgba(0, 0, 0, 0.6)) drop-shadow(0 8px 16px rgba(0, 0, 0, 0.4));">
-                <path d="M -50 -50 L -42 -50 L -22 -10 L -2 -50 L 6 -50 L -18 -2 L -18 50 L -26 50 L -26 -2 Z" fill="url(#phGold)" stroke="#5a3e10" stroke-width="0.5"/>
-                <path d="M 18 -50 L 18 50 L 26 50 L 26 8 L 40 8 L 56 50 L 66 50 L 48 6 Q 60 4 60 -12 Q 60 -50 30 -50 Z" fill="url(#phGold)" stroke="#5a3e10" stroke-width="0.5"/>
-                <path d="M 26 -42 L 30 -42 Q 52 -42 52 -12 Q 52 0 30 0 L 26 0 Z" fill="url(#phFace)"/>
-              </g>
-            </svg>
+          <div class="author-photo">
+            <img
+              src="/images/yr-640.jpg"
+              srcset="/images/yr-320.jpg 320w, /images/yr-640.jpg 640w, /images/yr-1024.jpg 1024w"
+              sizes="(max-width: 720px) 200px, 240px"
+              alt="Youssef Raihane — Founder of Motiva Hub"
+              width="240" height="240"
+              loading="eager"
+              fetchpriority="high"
+            />
           </div>
           <div class="author-meta-block">
             <p class="author-meta-tag">Active since</p>
@@ -210,7 +199,7 @@ const breadcrumb = {
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
     background: var(--ink, #0a0a0a);
   }
-  .author-photo svg { display: block; width: 100%; height: 100%; }
+  .author-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
   .author-meta-block {
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 8px;

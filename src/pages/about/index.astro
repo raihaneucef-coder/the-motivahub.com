@@ -20,20 +20,16 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
         <p>We are an independent editorial project, built in the spirit of the great print magazines — quiet, deliberate, and allergic to noise. Our subjects are old ones: mindset, habit, discipline, attention, growth. They have guided disciplined minds for two thousand years; we simply translate them for the modern reader.</p>
         <h2>About the Author</h2>
         <div style="display:flex;gap:24px;align-items:center;margin:24px 0;flex-wrap:wrap;">
-          <div style="width:140px;height:140px;border-radius:50%;background:linear-gradient(180deg, #1a1a1a 0%, #0a0a0a 100%);display:flex;align-items:center;justify-content:center;flex-shrink:0;border:2px solid #c8a04a;">
-            <svg viewBox="0 0 80 80" width="80" height="80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-              <defs>
-                <linearGradient id="abGold" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0%" stop-color="#fff3c4"/>
-                  <stop offset="50%" stop-color="#e8c879"/>
-                  <stop offset="100%" stop-color="#8a6420"/>
-                </linearGradient>
-              </defs>
-              <g transform="translate(40, 44)" text-anchor="middle">
-                <path d="M -16 -16 L -13 -16 L -7 -3 L -1 -16 L 2 -16 L -6 0 L -6 16 L -9 16 L -9 0 Z" fill="url(#abGold)" stroke="#5a3e10" stroke-width="0.3"/>
-                <path d="M 6 -16 L 6 16 L 9 16 L 9 3 L 14 3 L 19 16 L 22 16 L 16 2 Q 20 2 20 -4 Q 20 -16 10 -16 Z M 9 -13 L 10 -13 Q 17 -13 17 -4 Q 17 0 10 0 L 9 0 Z" fill="url(#abGold)" stroke="#5a3e10" stroke-width="0.3"/>
-              </g>
-            </svg>
+          <div style="width:140px;height:140px;border-radius:50%;background:#0a0a0a;display:block;flex-shrink:0;border:2px solid #c8a04a;overflow:hidden;">
+            <img
+              src="/images/yr-320.jpg"
+              srcset="/images/yr-320.jpg 320w, /images/yr-640.jpg 640w"
+              sizes="140px"
+              alt="Youssef Raihane — Founder of Motiva Hub"
+              width="140" height="140"
+              loading="eager"
+              style="width:100%;height:100%;object-fit:cover;display:block;"
+            />
           </div>
           <p style="margin:0;flex:1;min-width:240px;"><strong>Youssef Raihane</strong> — writer and practitioner of the disciplines we explore. I write from lived practice, testing each idea in the daily work of building a stronger mind, not just from books.</p>
         </div>
