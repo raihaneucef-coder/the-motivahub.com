@@ -47,14 +47,14 @@ const sections = [
       <span class="logo-word">Motiva <em>Hub</em></span>
     </a>
     <button class="menu-btn menu-btn-cream" id="menu-close" aria-label="Close menu">
-      <span>Close</span>
+      <span data-i18n="close">Close</span>
       <span class="menu-btn-bars"><span></span><span></span></span>
     </button>
   </div>
   <nav class="overlay-nav" aria-label="Fullscreen menu">
     {sections.map((section) => (
       <div class="overlay-nav-section">
-        <p class="overlay-nav-heading">{section.heading}</p>
+        <p class="overlay-nav-heading" data-i18n={`nav${section.heading}`}>{section.heading}</p>
         {section.items.map((item) => (
           <a href={item.href} data-num={item.num}>
             <span>{item.label}</span>
@@ -65,6 +65,6 @@ const sections = [
   </nav>
   <div class="overlay-foot container">
     <p>Motiva Hub · The Long Ascent</p>
-    <button class="btn btn-primary" type="button" onclick="document.getElementById('newsletter')?.scrollIntoView({behavior:'smooth'}); document.getElementById('overlay-menu')?.classList.remove('open'); document.body.style.overflow='';">Subscribe</button>
+    <button class="btn btn-primary" type="button" onclick="document.getElementById('newsletter')?.scrollIntoView({behavior:'smooth'}); document.getElementById('overlay-menu')?.classList.remove('open'); document.body.style.overflow='';" data-i18n="footerSubscribe">Subscribe</button>
   </div>
 </div>
