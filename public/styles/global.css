@@ -553,7 +553,8 @@ p { line-height: 1.7; }
   color: var(--cream);
   font-weight: 400;
   max-width: 18ch;
-  margin-bottom: 28px;
+  margin: 0 auto 28px;
+  text-align: center;
   text-shadow:
     0 1px 0 rgba(0,0,0,0.4),
     0 2px 4px rgba(0,0,0,0.35),
@@ -1803,13 +1804,18 @@ section {
   .hero-title {
     font-size: clamp(2.25rem, 11vw, 3.25rem);
     line-height: 1.05;
-    margin-bottom: 18px;
+    margin: 0 auto 18px;
+    text-align: center;
+  }
+  .hero-subtitle {
+    text-align: center;
   }
   .hero-subtitle {
     font-size: 0.9375rem;
     line-height: 1.55;
-    margin-bottom: 24px;
+    margin: 0 auto 24px;
     max-width: 32ch;
+    text-align: center;
   }
   .hero-eyebrow {
     margin-bottom: 20px;
