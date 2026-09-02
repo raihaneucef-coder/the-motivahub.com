@@ -486,9 +486,7 @@ p { line-height: 1.7; }
   background:
     radial-gradient(ellipse 70% 60% at 65% 40%, transparent 0%, rgba(10,10,10,0.35) 70%, rgba(10,10,10,0.85) 100%),
     linear-gradient(180deg, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.1) 35%, rgba(10,10,10,0.4) 70%, rgba(10,10,10,0.95) 100%);
-  transform: translate3d(var(--mxr, 0), var(--myr, 0), 0);
-  will-change: transform;
-  transition: transform 0.6s var(--ease-out);
+  pointer-events: none;
 }
 
 .hero-portrait .hero-title {
@@ -505,30 +503,6 @@ p { line-height: 1.7; }
   z-index: -2;
   background: var(--ink);
   overflow: hidden;
-}
-
-.hero-grain {
-  position: absolute;
-  inset: 0;
-  z-index: 3;
-  pointer-events: none;
-  opacity: 0.18;
-  mix-blend-mode: overlay;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  animation: grain 8s steps(10) infinite;
-}
-
-@keyframes grain {
-  0%, 100% { transform: translate(0, 0); }
-  10% { transform: translate(-5%, -10%); }
-  20% { transform: translate(-15%, 5%); }
-  30% { transform: translate(7%, -25%); }
-  40% { transform: translate(-5%, 25%); }
-  50% { transform: translate(-15%, 10%); }
-  60% { transform: translate(15%, 0%); }
-  70% { transform: translate(0%, 15%); }
-  80% { transform: translate(3%, 35%); }
-  90% { transform: translate(-10%, 10%); }
 }
 
 .hero-content {
@@ -1766,23 +1740,7 @@ section {
 /* ===================================================================
    HERO — Letter-by-letter reveal + corner marks
    =================================================================== */
-.hero-portrait-glyph {
-  position: absolute;
-  top: 50%;
-  right: -2vw;
-  transform: translateY(-50%);
-  z-index: 0;
-  font-family: var(--serif);
-  font-size: clamp(20rem, 40vw, 50rem);
-  font-weight: 400;
-  font-style: italic;
-  line-height: 0.8;
-  color: transparent;
-  -webkit-text-stroke: 1px rgba(245,241,232,0.06);
-  pointer-events: none;
-  user-select: none;
-  letter-spacing: -0.05em;
-}
+/* hero-portrait-glyph removed — was causing ghosting */
 
 .hero-vertical-text {
   position: absolute;
