@@ -96,30 +96,24 @@ const magnets = [
       form.querySelector('button').disabled = true;
 
       try {
-        const res = await fetch('https://formsubmit.co/ajax/' + FORMSUBMIT_EMAIL, {
+        const res = await fetch('/api/subscribe', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
-            name: name || '(no name)',
             email,
-            lead_magnet: magnet,
-            source: form?.closest('section')?.className || 'unknown',
-            page: window.location.pathname,
-            _subject: '🌱 New Motiva Hub subscriber — ' + magnet,
-            _template: 'table'
+            source: 'newsletter',
           })
         });
-        if (res.ok) {
+        const data = await res.json().catch(() => ({}));
+        if (res.ok && data.ok) {
           if (msgEl) {
-            msgEl.textContent = name
-              ? '🎉 Welcome aboard, ' + name + '! Check your inbox for confirmation.'
-              : '🎉 Welcome! Check your inbox for confirmation.';
+            msgEl.textContent = data.message || '🎉 Welcome aboard! Check your inbox for confirmation.';
             msgEl.style.color = '#c8a04a';
           }
           form.reset();
-        } else throw new Error('failed');
+        } else throw new Error(data.error || 'failed');
       } catch (err) {
-        if (msgEl) msgEl.textContent = '⚠️ Something went wrong. Try email us directly.';
+        if (msgEl) msgEl.textContent = '⚠️ Something went wrong. Try emailing us directly.';
       } finally {
         form.querySelector('button').textContent = originalText;
         form.querySelector('button').disabled = false;
