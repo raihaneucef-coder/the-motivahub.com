@@ -90,7 +90,7 @@ async function main() {
     });
   }
 
-  const topicDirs = (await readdir(join(DIST, "topics"), { withFileTypes: true }))
+  const topicDirs = (await readdir(join(DIST, "client", "topics"), { withFileTypes: true }))
     .filter((e) => e.isDirectory())
     .map((e) => e.name);
   for (const topic of topicDirs) {
@@ -102,7 +102,7 @@ async function main() {
     });
   }
 
-  const pageDirs = (await readdir(join(DIST, "journal", "page"), { withFileTypes: true }))
+  const pageDirs = (await readdir(join(DIST, "client", "journal", "page"), { withFileTypes: true }))
     .filter((e) => e.isDirectory())
     .map((e) => e.name);
   for (const p of pageDirs) {
@@ -129,7 +129,7 @@ ${urls.map((u) => `  <url>
   </url>`).join("\n")}
 </urlset>`;
 
-  await writeFile(join(DIST, "sitemap-0.xml"), xml);
+  await writeFile(join(DIST, "client", "sitemap-0.xml"), xml);
   console.log(`✓ Wrote sitemap-0.xml with ${urls.length} URLs (lastmod, priority, changefreq)`);
 }
 

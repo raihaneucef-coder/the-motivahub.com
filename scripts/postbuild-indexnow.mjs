@@ -45,7 +45,7 @@ async function submit(urls) {
 
 const { readFile } = await import("node:fs/promises");
 try {
-  const sitemap = await readFile("dist/sitemap-0.xml", "utf8");
+  const sitemap = await readFile("dist/client/sitemap-0.xml", "utf8");
   const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
   console.log(`○ IndexNow: ${urls.length} URLs in sitemap`);
 
