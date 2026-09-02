@@ -1970,7 +1970,7 @@ section {
   height: 100%;
   display: block;
 }
-.founder-photo svg { display: block; width: 100%; height: 100%; }
+.founder-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
 
 .founder-portrait-frame {
   position: absolute;
