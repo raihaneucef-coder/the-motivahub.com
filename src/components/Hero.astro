@@ -111,23 +111,16 @@ const titleText = title.replace(/<[^>]+>/g, '');
       hero.querySelectorAll('.hero-letter').forEach((l) => l.classList.add('revealed'));
     });
 
-    // Parallax
+    // Parallax (subtle — no rotation, no perspective on 2D image)
     const isCoarse = window.matchMedia('(pointer: coarse)').matches;
     const onMove = (e) => {
       const rect = hero.getBoundingClientRect();
       const x = (e.clientX - rect.left) / rect.width - 0.5;
       const y = (e.clientY - rect.top) / rect.height - 0.5;
-      hero.style.setProperty('--mx', (x * 36) + 'px');
-      hero.style.setProperty('--my', (y * 36) + 'px');
-      hero.style.setProperty('--mxr', (x * -22) + 'px');
-      hero.style.setProperty('--myr', (y * -22) + 'px');
-      hero.style.setProperty('--mx2', (x * 12) + 'px');
-      hero.style.setProperty('--my2', (y * 12) + 'px');
-      const title = hero.querySelector('.hero-title');
-      if (title) {
-        hero.style.setProperty('--tilt-x', (x * -8).toFixed(2));
-        hero.style.setProperty('--tilt-y', (y * 6).toFixed(2));
-      }
+      hero.style.setProperty('--mx', (x * 14) + 'px');
+      hero.style.setProperty('--my', (y * 14) + 'px');
+      hero.style.setProperty('--mxr', (x * -8) + 'px');
+      hero.style.setProperty('--myr', (y * -8) + 'px');
     };
     if (!isCoarse) {
       hero.addEventListener('mousemove', onMove);
@@ -136,24 +129,14 @@ const titleText = title.replace(/<[^>]+>/g, '');
         hero.style.setProperty('--my', '0px');
         hero.style.setProperty('--mxr', '0px');
         hero.style.setProperty('--myr', '0px');
-        hero.style.setProperty('--mx2', '0px');
-        hero.style.setProperty('--my2', '0px');
-        hero.style.setProperty('--tilt-x', '0');
-        hero.style.setProperty('--tilt-y', '0');
       });
     }
 
-    // Scroll-driven 3D title tilt
+    // Scroll-driven parallax only (no rotation)
     const onScroll = () => {
       const rect = hero.getBoundingClientRect();
       if (rect.bottom < 0) return;
       const progress = Math.max(0, Math.min(1, 1 - (rect.bottom / window.innerHeight)));
-      const title = hero.querySelector('.hero-title');
-      if (title && progress > 0) {
-        const rotX = progress * 22;
-        const rotY = progress * -10;
-        title.style.setProperty('--scroll-tilt', `rotateX(${rotX}deg) rotateY(${rotY}deg)`);
-      }
       hero.style.setProperty('--scroll-depth', progress.toFixed(3));
     };
     window.addEventListener('scroll', onScroll, { passive: true });
