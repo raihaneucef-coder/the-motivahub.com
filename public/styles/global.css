@@ -333,7 +333,8 @@ p { line-height: 1.7; }
 
 .menu-btn-bars span {
   display: block;
-  height: 1.5px;
+  height: 2px;
+  width: 100%;
   background: currentColor;
   border-radius: 1px;
   transition: transform var(--dur-base) var(--ease-out);
@@ -1332,7 +1333,7 @@ section {
     letter-spacing: 0.12em;
     gap: 6px;
   }
-  .menu-btn span:not(.menu-btn-bars) { display: none; }
+  .menu-btn > span:not(.menu-btn-bars) { display: none; }
 }
 
 @media (max-width: 768px) {
