@@ -1331,12 +1331,11 @@ section {
   .lang-btn { padding: 4px 2px; min-width: 22px; min-height: 22px; }
   .menu-btn {
     padding: 10px 14px;
-    font-size: 0.6875rem;
+    font-size: 0.75rem;
     letter-spacing: 0.12em;
     gap: 8px;
     min-height: 40px;
   }
-  .menu-btn > span:not(.menu-btn-bars) { display: none; }
 }
 
 @media (max-width: 768px) {
