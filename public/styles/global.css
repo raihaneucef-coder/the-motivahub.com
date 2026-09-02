@@ -559,7 +559,7 @@ p { line-height: 1.7; }
     0 4px 12px rgba(0,0,0,0.4),
     0 8px 28px rgba(0,0,0,0.45),
     0 18px 60px rgba(0,0,0,0.55);
-  will-change: transform;
+  will-change: auto;
 }
 
 .hero-title em {
@@ -580,8 +580,7 @@ p { line-height: 1.7; }
 .hero-letter {
   display: inline-block;
   opacity: 0;
-  transform: translateY(100%) rotate(8deg);
-  transform-origin: 50% 100%;
+  transform: translateY(8px);
   transition: opacity 0.9s var(--ease-out), transform 0.9s var(--ease-out);
   text-shadow: inherit;
 }
@@ -693,7 +692,7 @@ p { line-height: 1.7; }
   content: "";
   position: absolute;
   inset: 0;
-  background: radial-gradient(circle at var(--mx, 50%) var(--my, 50%), rgba(255,255,255,0.18) 0%, transparent 60%);
+  background: rgba(255,255,255,0.10);
   opacity: 0;
   transition: opacity var(--dur-base) var(--ease-out);
   pointer-events: none;
@@ -1787,12 +1786,61 @@ section {
 
 @media (max-width: 768px) {
   .hero-corner-br { display: none; }
-  .hero-portrait-bg {
-    transform: translate3d(var(--mx, 0), var(--my, 0), 0) scale(1.08) !important;
+
+  .hero-portrait {
+    min-height: 100svh;
+    align-items: center;
+    padding-top: 96px;
   }
-  .hero-portrait .hero-title {
-    transform: translate3d(calc(var(--mx, 0) * 0.35), calc(var(--my, 0) * 0.35), 0) !important;
+  .hero-content {
+    padding-bottom: 32px;
   }
+  .hero-title {
+    font-size: clamp(2.25rem, 11vw, 3.25rem);
+    line-height: 1.05;
+    margin-bottom: 18px;
+  }
+  .hero-subtitle {
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    margin-bottom: 24px;
+    max-width: 32ch;
+  }
+  .hero-eyebrow {
+    margin-bottom: 20px;
+    font-size: 0.6875rem;
+    letter-spacing: 0.14em;
+  }
+  .hero-btns {
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+  }
+  .hero-btns .btn {
+    width: 100%;
+    justify-content: center;
+  }
+  .hero-meta {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px 16px;
+    margin-top: 28px;
+    padding-top: 20px;
+  }
+  .hero-meta-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+  }
+  .hero-meta-num { font-size: 1.25rem; }
+  .hero-meta-label { font-size: 0.6875rem; letter-spacing: 0.12em; }
+  .hero-vertical-text { display: none; }
+  .hero-scroll { display: none; }
+}
+
+@media (max-width: 480px) {
+  .hero-title { font-size: 2rem; }
+  .hero-meta { grid-template-columns: repeat(2, 1fr); }
 }
 
 .hero-corner-mark {
