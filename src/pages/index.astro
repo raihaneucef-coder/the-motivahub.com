@@ -26,10 +26,10 @@ const posts = (await getCollection("blog"))
     primaryCta={{ label: "Start Reading", href: "/journal/" }}
     secondaryCta={{ label: "Take the Quiz", href: "/tools/discipline-quiz/" }}
     meta={[
-      { num: "227+", label: "Editorial Pages" },
-      { num: "5", label: "Free Tools" },
-      { num: "EN · FR", label: "Bilingue" },
-      { num: "30", label: "Day Programs" },
+      { num: "227+", labelKey: "metaPages" },
+      { num: "5", labelKey: "metaTools" },
+      { num: "EN · FR", labelKey: "metaBilingual" },
+      { num: "30", labelKey: "metaPrograms" },
     ]}
   />
 
