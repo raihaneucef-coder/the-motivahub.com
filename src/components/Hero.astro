@@ -54,7 +54,7 @@ const titleText = title.replace(/<[^>]+>/g, '');
           {meta.map((m) => (
             <div class="hero-meta-item">
               <span class="hero-meta-num" set:html={m.num}></span>
-              <span class="hero-meta-label">{m.label}</span>
+              <span class="hero-meta-label" data-i18n={m.labelKey}>{m.label || ''}</span>
             </div>
           ))}
         </div>
