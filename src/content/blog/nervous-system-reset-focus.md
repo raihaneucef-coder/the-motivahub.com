@@ -348,3 +348,9 @@ The hardest part isn't the technique. It's believing that something so simple co
 5. *Andrew Huberman Podcast* — for the breath and focus research
 6. *Stephen Porges* — [Polyvagal Institute](https://www.polyvagalinstitute.org) — for the practice resources
 7. *NIH* — vagus nerve stimulation research — for the clinical evidence
+
+---
+
+**The reset is the doorway, the focus is the hallway.** Most of us try to force focus directly. That is the hallway. The doorway is 2 minutes of breath — the [Two-Minute Breath Reset](/journal/two-minute-breath-reset/) shows the exact protocol. Pair it with the [2-Minute Rule guide](/journal/two-minute-rule-guide/) for the 7-day protocol that makes the breath doorway automatic.
+
+To see how the nervous system links to the rest of the system, read the [Sleep Is an Unfair Advantage](/journal/sleep-is-unfair-advantage/) article — the architecture of recovery is the architecture of focus.

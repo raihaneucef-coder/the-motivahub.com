@@ -304,3 +304,9 @@ You can build the same thing. Start tomorrow.
 4. *Runner's World* — for the long run principles
 5. *Mark Sisson* — *Primal Endurance* — for the morning training philosophy
 6. *Christopher Bergland* — *The Athlete's Way* — for the recovery science
+
+---
+
+**The athlete's morning is a chain, not a stage.** One link (water), then another (movement), then another (the thing that actually matters to you). The chain is what makes the morning an athlete's morning. The [Habit Stack Generator](/tools/habit-stacker/) builds the chain for you — paste in your anchor, your new habit, your cue, and it outputs a 30-day plan in 60 seconds.
+
+If you want the deeper science of why 2 minutes is the magic threshold, read our [2-Minute Rule guide](/journal/two-minute-rule-guide/) — same idea, applied across meditation, reading, pushups, journaling, and more.

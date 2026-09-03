@@ -300,3 +300,9 @@ The cost of staying busy is invisible. The benefit of slowing down is invisible 
 4. *Alex Soojung-Kim Pang* — *Rest* (2020) — for the recovery-as-performance idea
 5. *Sophie Leroy* — "Why is it so hard to do my work?" (2009) — for the cognitive switching cost research
 6. *Cal Newport* — [calnewport.com](https://calnewport.com) — for the original slow productivity articles
+
+---
+
+**Slow productivity is the hallway, not the doorway.** Most of us try to start slow productivity by slowing down for an entire day. That is the hallway. The doorway is 2 minutes of quiet before opening the inbox. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the 7-day protocol that makes the doorway automatic.
+
+The slow productivity mindset pairs naturally with the [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) — the test that turns a slow day into a slow identity. For a quick read on the underlying research, see the [Atomic Habits review](/journal/atomic-habits-review/).

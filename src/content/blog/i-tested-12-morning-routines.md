@@ -233,3 +233,9 @@ If your morning routine is dying, shrink it. Don't kill it. Shrink it.
 3. *Matthew Walker's* — *Why We Sleep* (2017) — sleep architecture research
 4. *Atomic Habits* by James Clear — the habit design framework
 5. *James Clear* — [3-2-1 Newsletter](jamescle) — for morning routine research
+
+---
+
+**The smallest version is the one that survives.** If 90 minutes of morning routine sounds impossible, you are not failing the morning. You are skipping the doorway. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the 7-day protocol that turns "morning routine" from a heroic ideal into a 2-minute doorway. Pair it with the [5-Minute Morning Habit](/journal/5-minute-morning-habit/) for the full progression.
+
+Want to know which kind of disciplined person you actually are? The [Discipline Type Quiz](/tools/discipline-quiz/) takes five questions.
