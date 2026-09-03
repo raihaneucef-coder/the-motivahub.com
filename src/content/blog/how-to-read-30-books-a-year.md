@@ -221,3 +221,9 @@ You can do the same. Start with one book. Read 20 minutes tonight.
 4. *Thinking in Bets* by Annie Duke — for the book journaling practice
 5. *James Clear* — [3-2-1 Newsletter](https://jamesclear.com) — for reading habit research
 6. *Meditations* by Marcus Aurelius (Hays translation, 2003) — for the 20-minute daily format
+
+---
+
+**Reading 30 books a year is a doorway problem, not a hallway problem.** Most people try to read for an hour a day. The hallway. The doorway is two pages in the morning. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the 7-day protocol that turns "I want to read more" from a wish into a system.
+
+To see the underlying math, try the [Reading Calculator](/tools/reading-calculator/) — it tells you exactly how many books you can finish this year at your current pace. And to see which books are worth the time, our [Best Books 2026](/best/books/) and [Best Habit Books](/best/habit-books/) lists do the curation for you.
