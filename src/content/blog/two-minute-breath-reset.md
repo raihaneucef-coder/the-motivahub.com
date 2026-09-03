@@ -40,4 +40,6 @@ Do not try to feel calm. Just count. The feeling follows the counting, not the o
 
 Use it before the meeting, after the argument, between tasks. It is portable, free, and always available — which is why we forget to use it.
 
+The 2-minute breath is also a doorway. To see how the doorway pattern works across meditation, reading, pushups, journaling, and more, read the [full 2-Minute Rule guide and 7-day protocol](/journal/two-minute-rule-guide/).
+
 Two minutes of breath is not a luxury. It is maintenance for the instrument that has to carry you through the whole day.

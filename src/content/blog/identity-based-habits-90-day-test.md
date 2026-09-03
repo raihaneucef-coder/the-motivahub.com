@@ -283,3 +283,7 @@ Welcome to being someone different.
 4. *Roy Baumeister* — *Willpower* (2011) — for the ego depletion research
 5. *James Clear* — [jamesclear.com](https://jamesclear.com) — for the original identity articles
 6. *Stanford Behavior Design Lab* — for the habit research
+
+---
+
+**Start so small it feels stupid.** The 2-minute rule is the operational version of identity-based change. If you have been trying to "become a writer" by writing three hours a day and burning out by week three, you were skipping the doorway. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) walks you through the 7-day protocol that makes the identity change real — not aspirational.

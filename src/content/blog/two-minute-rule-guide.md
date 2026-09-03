@@ -54,6 +54,8 @@ The science predates Clear by decades. Peter Gollwitzer's implementation intenti
 
 Clear's contribution was naming it simply. The 2-minute rule is what happens when implementation intention meets tiny habits meets the Lally curve. It is the synthesis, packaged in a sentence.
 
+To see how the 2-minute rule lives inside Clear's larger system, read our [I Read Atomic Habits 4 Times in 18 Months](/journal/atomic-habits-review/) — the book is deeper than this one rule, but the rule is the keystone.
+
 ## Why people get it wrong
 
 Three ways the rule fails in practice.
@@ -77,8 +79,12 @@ Same thing. Same time. Same place. If you forget, the contract is still two minu
 ### Day 3 — The anchor
 Attach the new doorway to an existing habit you never skip. After coffee, open the book. After brushing teeth, two pushups. This is habit stacking (also Clear). The doorway borrows the strength of an existing pattern.
 
+If you are not sure how to design your anchor, our [Habit Stack Generator](/tools/habit-stacker/) builds the stack for you in 60 seconds. Paste in the habit you want to start, the existing anchor, and the cue — it outputs a full 30-day protocol.
+
 ### Day 4 — The observation
 Pay attention to what you want to do *after* the two minutes. Do you keep meditating? Do you keep writing? Do you want to do more pushups? That desire is the signal that the doorway is working. You are not forcing yourself. You are *wanting* more.
+
+Worth asking: which kind of disciplined person are you, anyway? The [Discipline Type Quiz](/tools/discipline-quiz/) takes five questions to map you onto one of four archetypes (Builder, Sprinter, Marathoner, Strategist). Each archetype responds to the 2-minute rule differently.
 
 ### Day 5 — The non-negotiable
 You will have a day where the two minutes feels like too much. Do it anyway. The whole point of the doorway is that it is small enough to survive a bad day. The 2-minute rule is a rule, not a suggestion.
@@ -130,3 +136,5 @@ That is the rule. The rest is repetition.
 Read Atomic Habits cover to cover and you will find dozens of techniques. The 2-minute rule is the one that does the most work with the least effort. It is not the most exciting idea. It is the most *load-bearing*. The 2-minute rule is what makes every other technique in the book possible.
 
 If you take one thing from this article, take this: **the doorway is the habit**. Build the doorway first. The hallway grows by itself.
+
+The doorway is also why identity matters more than outcome. If you want the deeper version of this idea — the one that connects the 2-minute rule to *who you are becoming* — read our [Identity-Based Goals: The 90-Day Test](/journal/identity-based-habits-90-day-test/). It is the principle that turns a 2-minute doorway into a 10-year direction.
