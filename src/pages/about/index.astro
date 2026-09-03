@@ -4,6 +4,28 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
 ---
 
 <Layout title="About — Motiva Hub" description="A sanctuary for the disciplined mind. Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "AboutPage",
+        "@id": "https://the-motivahub.com/about/#webpage",
+        "url": "https://the-motivahub.com/about/",
+        "name": "About — Motiva Hub",
+        "description": "A sanctuary for the disciplined mind. Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress.",
+        "isPartOf": { "@id": "https://the-motivahub.com/#website" },
+        "inLanguage": ["en", "fr"],
+        "primaryImageOfPage": { "@id": "https://the-motivahub.com/#organization-logo" }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+          { "@type": "ListItem", "position": 2, "name": "About", "item": "https://the-motivahub.com/about/" }
+        ]
+      }
+    ]
+  })} />
   <section class="page-head">
     <div class="container">
       <p class="kicker" data-i18n="aboutKicker">About Motiva Hub</p>
