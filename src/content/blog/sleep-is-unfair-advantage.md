@@ -323,3 +323,9 @@ You can do the same. Start with the cheapest rule (cool room) tonight.
 5. *Oura* — sleep tracking research — for the consumer tracker reliability studies
 6. *Walker, M. P.* — *Why We Sleep* — for the cognitive decline research
 7. *Journal of Sleep Research* — for the napping research
+
+---
+
+**Sleep is the original 2-minute rule.** You do not need a complex sleep protocol. You need one 2-minute doorway: lights down, phone away, breath out. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) explains why the smallest possible version is the one that survives a bad day.
+
+For the morning after the sleep, our [5-Minute Morning Habit](/journal/5-minute-morning-habit/) gives you the 3 priorities on paper that turn a good night into a useful day. The full sleep architecture breakdown lives in the [Slow Productivity 30-Day Test](/journal/slow-productivity-30-day-test/).
