@@ -86,4 +86,6 @@ Pick the habit that has been defeating you. Now shrink it. Not to something reas
 
 Do it tonight. Then again tomorrow. The doorway has been there all along — you were just trying to enter through the wall.
 
+This is the doorway pattern in a single paragraph. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) turns it into a 7-day protocol and explains the science behind why shrinking a habit to something ridiculous is the only reliable way to keep it alive.
+
 Shrink the habit. Open the door. The rest will follow.

@@ -73,3 +73,5 @@ Atomic Habits earns its reputation the way its subject would demand: quietly, co
 Read it slowly. Apply one lesson per week. Vote daily.
 
 <p><strong>Ready to start?</strong> <a href="https://www.amazon.fr/dp/0735211299?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=atomic-habits-review" target="_blank" rel="nofollow sponsored noopener">Get your copy of Atomic Habits on Amazon</a> — and let the votes pile up.</p>
+
+<p><strong>One lesson, applied:</strong> The most underrated idea in the book is the 2-minute rule. Read our full <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide and 7-day protocol</a> — it is the single keystone that makes every other technique in <em>Atomic Habits</em> possible.</p>

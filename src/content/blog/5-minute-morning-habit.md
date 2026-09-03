@@ -265,5 +265,9 @@ But it will give you back the morning. And that, I think, is worth something.
 1. *Gollwitzer, P. M., & Sheeran, P.* (2006). "Implementation intentions and goal achievement: A meta-analysis." *Advances in Experimental Social Psychology*, 38, 69-119.
 2. *Baumeister, R. F., & Tierney, J.* (2011). *Willpower: Rediscovering the Greatest Human Strength.* — for the decision fatigue research
 3. *Cal Newport* — *Deep Work* (2016) — for the focused morning principles
+
+---
+
+**Three priorities is the doorway.** The hallway is what fills the rest of the morning. To see the doorway pattern applied across meditation, reading, pushups, journaling, and more, read our [full 2-Minute Rule guide and 7-day protocol](/journal/two-minute-rule-guide/) — same principle, different rooms.
 4. *Atomic Habits* by James Clear — for the habit stacking framework
 5. *NYU Stern* research on attention residue — for the multitasking cost
