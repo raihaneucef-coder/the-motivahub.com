@@ -157,6 +157,15 @@ const description = "Free calculator that turns your reading goal into a daily p
   </section>
 
   <NewsletterSection variant="default" showLeadMagnet={true} title="Get our top 24 book recommendations for 2026." buttonText="Send Me the List" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Tools", "item": "https://the-motivahub.com/#free-tools" },
+      { "@type": "ListItem", "position": 3, "name": "Reading Calculator", "item": "https://the-motivahub.com/tools/reading-calculator/" }
+    ]
+  })} />
 </Layout>
 
 <script is:inline>
