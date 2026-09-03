@@ -175,3 +175,9 @@ Nobody is coming to save your schedule, your health, or your dreams. And once th
 2. Atomic Habits by James Clear — for the system-level thinking behind habits
 3. David Goggins interview with Tim Ferriss — for the practical application of the 40% Rule
 4. Marcus Aurelius' Meditations — for the Stoic roots of the ownership principle
+
+---
+
+**The 40% Rule is the hallway, not the doorway.** Most people hear Goggins and try to run a 100-mile week. The hallway. The doorway is one cold shower in the morning. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) explains why the smallest possible version is the one that survives a bad day.
+
+The accountability side of the book is what makes it work. Our [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) pairs naturally with Goggins' ownership principle — the test that turns a hard day into a hard identity. For a fuller review of the habit-design framework, see our [Atomic Habits review](/journal/atomic-habits-review/).
