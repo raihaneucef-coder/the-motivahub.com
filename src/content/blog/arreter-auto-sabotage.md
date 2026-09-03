@@ -113,3 +113,8 @@ The moment you choose growth over comfort — even once — you break a chain. A
 ---
 
 **Ready to stop sabotaging your progress?** Our [30 Days of Discipline](/30-days-discipline/) builds the evidence you need for a new identity. Track your daily wins with our [Habit Tracker](/tracker/).
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

@@ -115,3 +115,8 @@ Chaque matin, visualise :
 ---
 
 **Prêt à transformer ton mindset ?** Commence par notre [30 Days of Discipline](/30-days-discipline/) — 30 jours pour forger un mental d'acier. Et utilise notre [Habit Tracker](/tracker/) pour construire des routines qui soutiennent ton nouvel état d'esprit.
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

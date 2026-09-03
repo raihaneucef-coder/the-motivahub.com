@@ -110,3 +110,8 @@ Chaque fois que tu fais ton habitude, dis-toi : **c'est ce que je suis.** Pas «
 ---
 
 **Prêt à commencer ?** Essaie notre [30 Days of Discipline](/30-days-discipline/) — un défi quotidien pour transformer tes habitudes en identité. Ou utilise notre [Habit Tracker](/tracker/) pour suivre tes progrès chaque jour.
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

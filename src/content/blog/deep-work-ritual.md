@@ -85,3 +85,7 @@ Two hundred hours of undivided attention will do more for your life than two tho
 Do not wait for a clear day. The weather is not coming. Build the room tonight: choose the task, fix the hour, close the door.
 
 Focus was never a mood. It is a room. You have the tools. Build it — and walk in.
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

@@ -83,3 +83,7 @@ This is not a fantasy. It is the ordinary engineering of an extraordinary life �
 Do not wait until you feel like it to build. The building is built in the good weather — the schedule set, the minimum chosen, the account opened. When the storm comes, you will not be building. You will be living in the house you already made.
 
 Motivation is weather. You cannot change the weather. But you can build a house that survives it — and then you can live there, in any season, forever.
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)
