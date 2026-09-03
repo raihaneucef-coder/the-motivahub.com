@@ -15,9 +15,63 @@ import { podcasts } from "../data/podcasts";
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const recentPosts = posts.slice(0, 6);
+const toolItems = [
+  { name: "Discipline Type Quiz", url: "https://the-motivahub.com/tools/discipline-quiz/" },
+  { name: "Habit Stack Generator", url: "https://the-motivahub.com/tools/habit-stacker/" },
+  { name: "Meditation Timer", url: "https://the-motivahub.com/tools/meditation-timer/" },
+  { name: "Cold Shower Tracker", url: "https://the-motivahub.com/tools/cold-shower-tracker/" },
+  { name: "Reading Calculator", url: "https://the-motivahub.com/tools/reading-calculator/" },
+];
 ---
 
 <Layout title="Motiva Hub — The Long Ascent. Mindset, habits, and the daily discipline of becoming." description="A premium editorial sanctuary for the disciplined mind. Mindset, habits, books, and free tools — for the long ascent, one day at a time.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://the-motivahub.com/#webpage",
+        "url": "https://the-motivahub.com/",
+        "name": "Motiva Hub — The Long Ascent",
+        "isPartOf": { "@id": "https://the-motivahub.com/#website" },
+        "inLanguage": ["en", "fr"]
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://the-motivahub.com/#recent-articles",
+        "name": "Recent articles from the Journal",
+        "url": "https://the-motivahub.com/journal/",
+        "numberOfItems": recentPosts.length,
+        "itemListElement": recentPosts.map((p, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "url": `https://the-motivahub.com/journal/${p.id}/`,
+          "name": p.data.title
+        }))
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://the-motivahub.com/#free-tools",
+        "name": "Free discipline tools",
+        "url": "https://the-motivahub.com/tools/discipline-quiz/",
+        "numberOfItems": toolItems.length,
+        "itemListElement": toolItems.map((t, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "url": t.url,
+          "name": t.name
+        }))
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" }
+        ]
+      }
+    ]
+  })} />
   <Hero
     kicker="EST. 2025 · THE LONG ASCENT"
     title={`Build the discipline.<br/><em>One day at a time.</em>`}
