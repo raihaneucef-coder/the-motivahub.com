@@ -117,3 +117,8 @@ Focus is not about doing more. It is about doing what matters — with your full
 ---
 
 **Sharpen your focus.** Our [30 Days of Discipline](/30-days-discipline/) trains your mind to concentrate through daily challenges. Track your focus sessions with our [Habit Tracker](/tracker/).
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

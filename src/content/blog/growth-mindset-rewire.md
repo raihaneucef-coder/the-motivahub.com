@@ -105,3 +105,8 @@ The growth mindset is not a one-time decision. It is a daily practice. Every tim
 ---
 
 **Ready to build your growth mindset?** Start with our [30 Days of Discipline](/30-days-discipline/) — a daily challenge that rewires your thinking through action. Track your progress with our [Habit Tracker](/tracker/).
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

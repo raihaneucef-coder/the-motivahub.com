@@ -111,3 +111,8 @@ It starts with one word. Then another. Then a new voice. Then a new reality.
 ---
 
 **Rewrite your inner dialogue.** Our [30 Days of Discipline](/30-days-discipline/) gives you daily challenges that build a new narrative. Track your progress with our [Habit Tracker](/tracker/).
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

@@ -113,3 +113,8 @@ Comment ? En te poussant un peu plus chaque jour. Pas 50% de plus. Juste 10%. Le
 ---
 
 **Prêt à tester ta discipline ?** Commence notre [30 Days of Discipline](/30-days-discipline/) — un défi quotidien pour construire une discipline en béton. Et utilise notre [Habit Tracker](/tracker/) pour ne jamais perdre le fil.
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

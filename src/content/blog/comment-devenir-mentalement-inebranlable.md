@@ -96,3 +96,8 @@ C'est ainsi que Goggins a couru des ultramarathons les pieds cassés, battu le r
 Tu n'as pas besoin que la vie soit plus douce. Tu as besoin d'un mental qui ne se brise plus quand elle est dure.
 
 Rien ne peut te briser — seulement si tu affrontes.
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

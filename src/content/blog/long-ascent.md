@@ -78,3 +78,7 @@ The few continue. Not because the remaining climb is easy, but because they have
 If you are on a plateau right now — if nothing moves, nothing changes, nothing rewards you — you are not failing. You are in the quiet stretch where roots grow.
 
 Do not measure the week. Do not compare the path. Do not wait for the feeling. Climb today, and let today be enough. The summit keeps its own appointment — and you are closer than the view suggests.
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

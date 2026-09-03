@@ -86,3 +86,7 @@ Protect one hour tomorrow. One hour, one task, no withdrawals. At the end of the
 The economy will never stop harvesting. It cannot manufacture attention, so it steals it — from people who never learned it was theirs. Learn the lesson, and you are rich in the only currency that matters.
 
 Your attention is your life. Spend it like someone who knows it.
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

@@ -127,3 +127,8 @@ They do not expect life to be easy. They expect to be able to handle whatever co
 ---
 
 **Build your resilience.** Our [30 Days of Discipline](/30-days-discipline/) trains your mind to bounce back through daily challenges. Track your recovery with our [Habit Tracker](/tracker/).
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

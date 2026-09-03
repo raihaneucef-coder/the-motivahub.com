@@ -120,3 +120,8 @@ The person who has failed 100 times and learned from each one is more dangerous 
 ---
 
 **Turn failure into fuel.** Our [30 Days of Discipline](/30-days-discipline/) teaches you to fail forward every day. Track your comeback with our [Habit Tracker](/tracker/).
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

@@ -106,3 +106,8 @@ You do not have to think about your morning routine. You just do it. That is the
 ---
 
 **Build your first habit stack today.** Use our [Habit Tracker](/tracker/) to track your chain. Start with one stack. Then add another. Watch your routine build itself.
+
+
+---
+
+**Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)
