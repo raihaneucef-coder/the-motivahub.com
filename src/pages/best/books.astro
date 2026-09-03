@@ -51,6 +51,15 @@ const description = "The 12 best self-help books that actually change how you th
       { "@type": "Question", "name": "Do you earn a commission from these links?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. As an Amazon Associate, we earn from qualifying purchases. The price you pay is unchanged." } }
     ]
   })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "The Bookstand", "item": "https://the-motivahub.com/books/" },
+      { "@type": "ListItem", "position": 3, "name": "Best Self-Help Books 2026", "item": "https://the-motivahub.com/best/books/" }
+    ]
+  })} />
 
   <section class="page-head">
     <div class="container">
@@ -70,7 +79,8 @@ const description = "The 12 best self-help books that actually change how you th
       <div class="intro-block">
         <h2>How we picked them</h2>
         <p>We did not chase the year's loudest titles. Each book on this list passed three filters: <strong>timelessness</strong> (still useful a decade from now), <strong>action density</strong> (one idea per chapter you can use today), and <strong>re-readability</strong> (the kind of book that gives more on the third read than the first).</p>
-        <p>If you only read three books from this list, start with <strong>Meditations</strong>, <strong>Atomic Habits</strong>, and <strong>Deep Work</strong>. They cover the inner life, the daily system, and the rare hour of focused work that changes a week.</p>
+        <p>If you only read three books from this list, start with <strong>Meditations</strong>, <strong>Atomic Habits</strong>, and <strong>Deep Work</strong>. They cover the inner life, the daily system, and the rare hour of focused work that changes a week. To see how we built the system behind these picks, read the full <a href="/guides/atomic-habits-ultimate-guide/">Atomic Habits ultimate guide</a> and the <a href="/journal/atomic-habits-review/">4-read field report</a>.</p>
+        <p>Want curated picks by category? See our <a href="/best/focus-books/">best focus books</a>, <a href="/best/habit-books/">best habit books</a>, and <a href="/best/stoicism-books/">best stoicism books</a>. For a personal experiment on building the habit, the <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the 7-day protocol.</p>
       </div>
 
       <div class="book-grid">

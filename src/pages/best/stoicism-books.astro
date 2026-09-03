@@ -51,6 +51,15 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
       { "@type": "Question", "name": "Is Meditations by Marcus Aurelius worth reading?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Written as a private notebook by a Roman emperor, it remains the most practical manual for the inner life." } }
     ]
   })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "The Bookstand", "item": "https://the-motivahub.com/books/" },
+      { "@type": "ListItem", "position": 3, "name": "Best Stoicism Books", "item": "https://the-motivahub.com/best/stoicism-books/" }
+    ]
+  })} />
 
   <section class="page-head">
     <div class="container">
