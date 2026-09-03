@@ -198,6 +198,15 @@ const archetypes = {
   </section>
 
   <NewsletterSection variant="default" showLeadMagnet={true} title="Get your archetype's 30-day protocol by email." buttonText="Send My Protocol" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Tools", "item": "https://the-motivahub.com/#free-tools" },
+      { "@type": "ListItem", "position": 3, "name": "Discipline Type Quiz", "item": "https://the-motivahub.com/tools/discipline-quiz/" }
+    ]
+  })} />
 </Layout>
 
 <script define:vars={{ questions, archetypes }}>

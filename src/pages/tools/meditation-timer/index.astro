@@ -107,6 +107,15 @@ const description = "A simple meditation timer with a soft bell at the start and
   </section>
 
   <NewsletterSection variant="default" showLeadMagnet={true} title="Get a daily meditation reminder." buttonText="Send Daily Reminders" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Tools", "item": "https://the-motivahub.com/#free-tools" },
+      { "@type": "ListItem", "position": 3, "name": "Meditation Timer", "item": "https://the-motivahub.com/tools/meditation-timer/" }
+    ]
+  })} />
 </Layout>
 
 <script is:inline>
