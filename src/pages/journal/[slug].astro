@@ -132,9 +132,19 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
     </header>
 
     <div class="article-body container">
+      <script is:inline>
+        ezstandalone.cmd.push(function () {
+          ezstandalone.showAds({});
+        });
+      </script>
       {isReviewPost && <AffiliateBanner variant="callout" lang={postLang} />}
       <TableOfContents headings={headings} />
       <Content />
+      <script is:inline>
+        ezstandalone.cmd.push(function () {
+          ezstandalone.showAds({});
+        });
+      </script>
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} />
