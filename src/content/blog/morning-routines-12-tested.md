@@ -2,6 +2,7 @@
 title: "I Tested 12 Morning Routines for 14 Days. Only 3 of Them Stuck."
 description: "Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive."
 pubDate: 2026-09-03
+updatedDate: 2026-09-07
 readTime: "16 MIN"
 image: "/images/blog/morning-routines-12-tested.jpg"
 topic: "Habits"
@@ -211,3 +212,5 @@ If you want to run the experiment yourself, here is the protocol.
 **Step 5**: Decide if you are a person who does the morning. If yes, the routine is a vote. If no, no routine will save the costume.
 
 The 14 days are not enough to form the habit. They are enough to find the routine. The next 60 days are where the routine becomes the person. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the protocol that makes the doorway automatic. The morning routine is one version of the doorway. The discipline is the house.
+
+*Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system, the missed-day recovery protocol, and the discipline-vs-punishment framework.*

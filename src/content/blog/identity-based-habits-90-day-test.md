@@ -2,6 +2,7 @@
 title: "Identity-Based Goals: The One Change That Made My Habits Stick"
 description: "Goal-based habits fail because the goal is external. Identity-based habits stick because you become someone. I tried this for 90 days. Here's the difference, the evidence, and how to apply it tonight."
 pubDate: 2026-09-05
+updatedDate: 2026-09-07
 readTime: "9 MIN"
 image: "/images/blog/identite-precde-resultat.jpg"
 topic: "Habits"
@@ -274,6 +275,8 @@ Welcome to being someone different.
 ---
 
 *Youssef Raihane spent a decade failing at goals. He spent 90 days building identities. He hasn't written a 90-day streak since. The votes accumulated. The identity shifted. The habits stuck.*
+
+*Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system and the missed-day recovery protocol.*
 
 ## Sources
 

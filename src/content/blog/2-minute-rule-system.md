@@ -2,6 +2,7 @@
 title: "The 2-Minute Rule: A Complete System, Not Just a Trick"
 description: "James Clear's 2-minute rule is the most misunderstood idea in habit science. It is not a productivity hack. It is a complete system of identity, design, and recovery. Here is the full architecture — including what to do when it stops working."
 pubDate: 2026-09-05
+updatedDate: 2026-09-07
 readTime: "18 MIN"
 image: "/images/blog/2-minute-rule-system.jpg"
 topic: "Habits"
@@ -168,6 +169,8 @@ If you have not yet used the 2-minute rule, this is the article to start with. I
 For a structured 7-day entry protocol, see our [7-Day Identity Challenge](/journal/identity-challenge-7-days/) field report — and find out which kind of disciplined person you are with the [Discipline Type Quiz](/tools/discipline-quiz/) before you start.
 
 The 2-minute rule is not a trick. It is a complete system. Treat it like one.
+
+*Last updated: September 7, 2026 — added cross-references to the missed-day protocol, the morning-vs-night test, and the discipline-vs-punishment breakdown.*
 
 ## Related reads
 
