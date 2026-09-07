@@ -2,6 +2,7 @@
 title: "The 5-Minute Morning Habit That Saves My Sanity (And 4 Hours a Week)"
 description: "One small habit before 8 AM saved me from drowning in unread emails, scattered priorities, and a creeping sense of chaos. Here's the exact system — and why it works in5 minutes."
 pubDate: 2026-09-02
+updatedDate: 2026-09-07
 readTime: "8 MIN"
 image: "/images/blog/the-morning-athlete.jpg"
 topic: "Habits"
@@ -269,5 +270,7 @@ But it will give you back the morning. And that, I think, is worth something.
 ---
 
 **Three priorities is the doorway.** The hallway is what fills the rest of the morning. To see the doorway pattern applied across meditation, reading, pushups, journaling, and more, read our [full 2-Minute Rule guide and 7-day protocol](/journal/two-minute-rule-guide/) — same principle, different rooms.
+
+*Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system and the missed-day recovery protocol.*
 4. *Atomic Habits* by James Clear — for the habit stacking framework
 5. *NYU Stern* research on attention residue — for the multitasking cost

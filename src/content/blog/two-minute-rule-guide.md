@@ -2,6 +2,7 @@
 title: "The 2-Minute Rule: 7-Day Protocol + Full Guide"
 description: "James Clear's most underrated idea. Start so small it feels stupid. Then watch the doorway stay open. The full evidence base, the protocol, and what to do when you outgrow it."
 pubDate: 2026-09-03
+updatedDate: 2026-09-07
 readTime: "12 MIN"
 image: "/images/blog/two-minute-rule-guide.jpg"
 topic: "Habits"
@@ -138,3 +139,5 @@ Read Atomic Habits cover to cover and you will find dozens of techniques. The 2-
 If you take one thing from this article, take this: **the doorway is the habit**. Build the doorway first. The hallway grows by itself.
 
 The doorway is also why identity matters more than outcome. If you want the deeper version of this idea — the one that connects the 2-minute rule to *who you are becoming* — read our [Identity-Based Goals: The 90-Day Test](/journal/identity-based-habits-90-day-test/). It is the principle that turns a 2-minute doorway into a 10-year direction.
+
+*Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system, the morning-vs-night chronotype test, and the missed-day recovery protocol.*

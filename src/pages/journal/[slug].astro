@@ -62,7 +62,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
 
 <Layout title={`${post.data.title} — Motiva Hub`} description={post.data.description} image={post.data.image} ogType="article" lang={postLang}>
   <meta slot="head" property="article:published_time" content={post.data.pubDate.toISOString()} />
-  <meta slot="head" property="article:modified_time" content={post.data.pubDate.toISOString()} />
+  <meta slot="head" property="article:modified_time" content={(post.data.updatedDate || post.data.pubDate).toISOString()} />
   <meta slot="head" name="keywords" content={(post.data.keywords || []).join(", ")} />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
@@ -71,7 +71,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
     description: post.data.description,
     image: post.data.image.startsWith("http") ? post.data.image : `https://the-motivahub.com${post.data.image}`,
     datePublished: post.data.pubDate.toISOString(),
-    dateModified: post.data.pubDate.toISOString(),
+    dateModified: (post.data.updatedDate || post.data.pubDate).toISOString(),
     inLanguage: postLang,
     keywords: (post.data.keywords || []).join(", "),
     articleSection: post.data.topic,
