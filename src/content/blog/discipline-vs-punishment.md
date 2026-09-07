@@ -124,3 +124,9 @@ The line between discipline and punishment is invisible from the inside. The lin
 The discipline that survives the test is the discipline that builds the person. The discipline that fails the test is the discipline that breaks the person. The two look identical from the outside. The difference is in the direction of the work. The direction is the test. The test is the recovery. The recovery is the discipline.
 
 The discipline that builds the person is kind. The discipline that breaks the person is cruel. The two look identical. The difference is the kindness. The kindness is the test.
+
+## Related reads
+
+- [The 2-Minute Rule: A Complete System, Not Just a Trick](/journal/2-minute-rule-system/) — The full system, including the kindness test and the rest day.
+- [What to Do When You Miss a Day (Without Quitting Everything)](/journal/missed-day-protocol/) — The recovery protocol that proves whether your system runs on kindness or punishment.
+- [Morning vs Night: Which Discipline Actually Sticks?](/journal/morning-vs-night/) — Chronotype alignment is a kindness test in disguise.

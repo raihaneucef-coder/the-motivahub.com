@@ -8,16 +8,16 @@ interface Props {
   image?: string;
   noindex?: boolean;
   ogType?: string;
-  lang?: "en" | "fr";
+  lang?: "en" | "fr" | "ar";
 }
 
 const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang } = Astro.props;
 const canonical = Astro.url.href;
 const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
-const isFr = lang === "fr" || Astro.url.pathname.startsWith("/fr") || Astro.url.searchParams.get("lang") === "fr";
-const htmlLang = isFr ? "fr" : "en";
-const ogLocale = isFr ? "fr_FR" : "en_US";
-const ogLocaleAlt = isFr ? "en_US" : "fr_FR";
+const isFr = lang === "fr" || (lang !== "ar" && Astro.url.pathname.startsWith("/fr") || Astro.url.searchParams.get("lang") === "fr");
+const htmlLang = lang || (Astro.url.pathname.startsWith("/ar") ? "ar" : Astro.url.pathname.startsWith("/fr") ? "fr" : "en");
+const ogLocale = lang === "ar" ? "ar_SA" : lang === "fr" ? "fr_FR" : "en_US";
+const ogLocaleAlt = lang === "ar" ? "en_US" : lang === "fr" ? "en_US" : "fr_FR";
 const gaSnippet = GA_ID
   ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`
   : "";
@@ -124,6 +124,8 @@ const gaSnippet = GA_ID
             <button class="lang-btn active" data-lang="en" aria-label="Switch to English" aria-pressed="true">EN</button>
             <span class="lang-sep">/</span>
             <button class="lang-btn" data-lang="fr" aria-label="Passer en français" aria-pressed="false">FR</button>
+            <span class="lang-sep">/</span>
+            <button class="lang-btn" data-lang="ar" aria-label="اللغة العربية" aria-pressed="false">AR</button>
           </div>
           <button class="menu-btn" id="menu-btn" aria-label="Open menu" data-magnetic>
             <span data-i18n="menu">Menu</span>
