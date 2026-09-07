@@ -16,6 +16,41 @@ const posts = (await getCollection("blog"))
 ---
 
 <Layout title={`${topic.title} — Motiva Hub`} description={topic.description}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `${topic.title} — Motiva Hub`,
+    "description": topic.description,
+    "url": `https://the-motivahub.com/topics/${topic.id}/`,
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Motiva Hub",
+      "url": "https://the-motivahub.com/"
+    },
+    "about": {
+      "@type": "Thing",
+      "name": topic.title
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": posts.length,
+      "itemListElement": posts.slice(0, 10).map((p, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://the-motivahub.com/journal/${p.slug}/`,
+        "name": p.data.title
+      }))
+    }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Topics", "item": "https://the-motivahub.com/topics/" },
+      { "@type": "ListItem", "position": 3, "name": topic.title, "item": `https://the-motivahub.com/topics/${topic.id}/` }
+    ]
+  })} />
   <section class="page-head">
     <div class="container">
       <p class="kicker"><a href="/topics/" style="color:inherit;text-decoration:none;">Topics</a> · The Feed</p>
@@ -39,4 +74,26 @@ const posts = (await getCollection("blog"))
       </p>
     </div>
   </section>
+
+  {topic.id === "habits" && (
+    <section class="pillar-cta">
+      <div class="container" style="text-align:center;padding:48px 24px;background:var(--surface);border-radius:12px;margin:48px auto;max-width:720px;">
+        <p class="kicker">The Pillar</p>
+        <h2 style="font-family:'Cormorant Garamond',serif;font-size:2rem;margin:12px 0;">The 2-Minute Rule: A Complete System</h2>
+        <p style="color:var(--muted);margin-bottom:20px;">The most misunderstood idea in habit science — read the full 3,000-word architecture, including the recovery protocol for when it stops working.</p>
+        <a class="read-more" href="/journal/2-minute-rule-system/">Read the pillar →</a>
+      </div>
+    </section>
+  )}
+
+  {topic.id === "discipline" && (
+    <section class="pillar-cta">
+      <div class="container" style="text-align:center;padding:48px 24px;background:var(--surface);border-radius:12px;margin:48px auto;max-width:720px;">
+        <p class="kicker">The Pillar</p>
+        <h2 style="font-family:'Cormorant Garamond',serif;font-size:2rem;margin:12px 0;">The 2-Minute Rule: A Complete System</h2>
+        <p style="color:var(--muted);margin-bottom:20px;">Discipline is the output of identity. The 2-minute rule is the smallest on-ramp to both — read the full architecture.</p>
+        <a class="read-more" href="/journal/2-minute-rule-system/">Read the pillar →</a>
+      </div>
+    </section>
+  )}
 </Layout>
