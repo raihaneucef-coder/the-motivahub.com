@@ -100,3 +100,9 @@ The 2-minute version after a miss is the most important vote you will ever cast.
 The protocol is short. The 2-minute version, today. No negotiation. The 2-day rule tomorrow. The system is mature when the day after a miss is no different from any other day.
 
 The system is mature when the door is permanent.
+
+## Related reads
+
+- [The 2-Minute Rule: A Complete System, Not Just a Trick](/journal/2-minute-rule-system/) — The full architecture this protocol belongs to.
+- [Morning vs Night: Which Discipline Actually Sticks?](/journal/morning-vs-night/) — Why your chronotype decides whether your 2-minute version survives.
+- [The Difference Between Discipline and Punishment](/journal/discipline-vs-punishment/) — The recovery test: what your brain says after a miss tells you which mode you are in.

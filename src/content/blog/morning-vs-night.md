@@ -119,3 +119,9 @@ The lever is the light exposure. Use it if you want to shift your chronotype by 
 The most important thing is to stop forcing routines at the wrong hour. The 5 AM routine for owls is the most common failure. The 10 PM routine for larks is the second. The fix is alignment. Find the chronotype. Run the routine at the right hour. The discipline sticks.
 
 The right time of day is the variable. The chronotype is the constraint. The discipline is the habit. All three matter, but the time of day is the one most people get wrong.
+
+## Related reads
+
+- [The 2-Minute Rule: A Complete System, Not Just a Trick](/journal/2-minute-rule-system/) — The doorway into any routine, regardless of chronotype.
+- [What to Do When You Miss a Day (Without Quitting Everything)](/journal/missed-day-protocol/) — The recovery protocol when the wrong hour forces a miss.
+- [The Difference Between Discipline and Punishment](/journal/discipline-vs-punishment/) — Why forcing a routine at the wrong hour is punishment, not discipline.

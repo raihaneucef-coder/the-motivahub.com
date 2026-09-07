@@ -168,3 +168,9 @@ If you have not yet used the 2-minute rule, this is the article to start with. I
 For a structured 7-day entry protocol, see our [7-Day Identity Challenge](/journal/identity-challenge-7-days/) field report — and find out which kind of disciplined person you are with the [Discipline Type Quiz](/tools/discipline-quiz/) before you start.
 
 The 2-minute rule is not a trick. It is a complete system. Treat it like one.
+
+## Related reads
+
+- [What to Do When You Miss a Day (Without Quitting Everything)](/journal/missed-day-protocol/) — The 3-step recovery protocol for the day after a miss.
+- [Morning vs Night: Which Discipline Actually Sticks?](/journal/morning-vs-night/) — The chronotype test that tells you which discipline routine will survive.
+- [The Difference Between Discipline and Punishment](/journal/discipline-vs-punishment/) — Three tests to tell whether you are building or breaking.
