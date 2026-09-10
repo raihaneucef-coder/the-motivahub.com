@@ -3,7 +3,7 @@ title: "Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours"
 description: "Meal prepping saves time, money, and willpower. Learn the simple system that makes healthy eating effortless."
 pubDate: 2026-08-24
 readTime: "6 MIN"
-image: "/images/blog/meal-prep-dimanche.jpg"
+image: /images/blog/meal-prep-dimanche-1.jpg
 topic: "Nutrition"
 keywords:
   - "meal"

@@ -3,7 +3,7 @@ title: "I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed A
 description: "Distraction is the default. Focus is the exception. After a dozen failed attempts at rituals, here is the one deep work stack that survived contact with a real Tuesday."
 pubDate: 2026-08-18
 readTime: "8 MIN"
-image: "/images/blog/deep-work-ritual.jpg"
+image: /images/blog/deep-work-ritual-1.jpg
 topic: "Productivity"
 keywords:
   - "work"

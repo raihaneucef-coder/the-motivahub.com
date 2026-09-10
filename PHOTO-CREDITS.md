@@ -30,3 +30,8 @@ Unified cinematic treatment applied by Motiva Hub.
 
 - `beginner-again.jpg` — "cold mountain" by paul bica — BY via flickr — https://www.flickr.com/photos/99771506@N00/6335746903
 - `quiet-power-of-doing-less.jpg` — "early mist" by paul bica — BY via flickr — https://www.flickr.com/photos/99771506@N00/7787376598
+- **deep-work-ritual** — [Jack Sparrow](https://www.pexels.com/@jack-sparrow) via [Pexels](https://www.pexels.com/photo/5918186/)
+- **vaincre-procrastination** — [Tara Winstead](https://www.pexels.com/@tara-winstead) via [Pexels](https://www.pexels.com/photo/8386566/)
+- **meal-prep-dimanche** — [IARA MELO](https://www.pexels.com/@iara-melo-558346607) via [Pexels](https://www.pexels.com/photo/30635719/)
+- **langage-corps-confiance** — [Sagar Ahire](https://www.pexels.com/@sagar-ahire-688133929) via [Pexels](https://www.pexels.com/photo/18500605/)
+- **community-discipline** — [cottonbro studio](https://www.pexels.com/@cottonbro) via [Pexels](https://www.pexels.com/photo/7337618/)
