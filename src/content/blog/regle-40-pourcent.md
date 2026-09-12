@@ -31,8 +31,12 @@ faq:
     a: "Rule of thumb: if the wall is accompanied you in emotion the (you 'want' to stop), it's likely mental. If you have physical symptoms (sharp pain, dizziness, injury), respect your body. The 40% rule is for mental resistance, not physical damage."
   - q: "Can I apply the 40% rule to mental work?"
     a: "Yes. The same principle applies: when you 'can't focus anymore,' you usually can — for 10-20 more minutes. Schedule deep work blocks for 90 minutes, then negotiate 10 more minutes when you hit the wall."
+relatedArticles:
+  - "cant-hurt-me-review"
+  - "discipline-beat-motivation"
+  - "voluntary-discomfort-secret-mental-toughness"
+  - "deep-work-ritual"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -156,6 +160,7 @@ The headline version — "you have 60% more in the tank" — is true about *most
 
 Test it. Track it. Build your Cookie Jar. Within 30 days, you'll find what I found: you've been living at 40% — and the 60% has been waiting for you to ask.
 
+---
 
 *Youssef Raihane has been tracking his own walls and wins for30 days — and counting. The Cookie Jar is real. The 10-minute negotiation is real. The 40% is real.*
 

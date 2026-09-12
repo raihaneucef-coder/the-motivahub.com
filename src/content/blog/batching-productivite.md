@@ -29,9 +29,13 @@ faq:
   - q: "What tasks should I batch?"
     a: "Batch similar tasks: email, writing, calls, admin, creative work, errands. The key is to group by mental mode, not by urgency. Check email at set times, not whenever it arrives."
   - q: "Can batching work for creative work?"
-    a: "Yes. Creative batching means doing all creative work in one block. Write all articles in one sitting. Record all videos in one session. Design all graphics in one block. The creative mode is hard to enter, but once you are in it, stay there."
+    a: "Yes. Creative batching means doing all creative work in one block. Write all articles in one sitting. Record all videos in one session. Design all graphics in one block. The creative mode is hard to enter, but once you are in it, stay there."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -176,6 +180,7 @@ Most people who try this for 30 days report:
 
 The data will convince you faster than any productivity book.
 
+---
 
 ## The Honest Summary
 
@@ -189,6 +194,7 @@ It will not make you a superhero. It will not change your life in a week.
 
 But it will give you back your focus. And that, I think, is worth something.
 
+---
 
 *Youssef Raihane batched his tasks in 2023 and doubled his writing output in 30 days. He now works in four blocks: communication, creative, admin, and errands. The creative block is sacred.*
 
@@ -198,6 +204,7 @@ But it will give you back your focus. And that, I think, is worth something.
 2. *Mark, G., et al.* (2008). "The cost of interrupted work: More speed and stress." *CHI Conference* — for the 40% productivity loss from multitasking
 3. *Clear, J.* (2018). *Atomic Habits.* — for the habit stacking and environment design principles
 
+---
 
 **Batching is the gateway to deep work.** To see how to protect that deep work with the 2-minute rule and the 2-day rule, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to focus instead of habits.
 

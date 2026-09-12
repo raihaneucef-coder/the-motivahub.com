@@ -32,6 +32,12 @@ faq:
     a: "Choose someone who is also building a habit, not someone who is already perfect. The best accountability partners are at the same level of commitment, not above it. Set a specific promise (not 'I'll try to exercise more' but 'I'll walk every day at 6 AM'). The specificity is what makes the accountability real."
   - q: "What if my accountability partner quits?"
     a: "Then you continue alone. The habit was never about the partner — it was about the promise. The partner is a training wheel. The promise is the structure. If the partner quits, you keep the promise to yourself. The habit survives. The community may not, but the discipline does."
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
 
 # Two Friends, One Promise: Why Community Is Kept, Not Found

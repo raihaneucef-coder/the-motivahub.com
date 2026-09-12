@@ -34,8 +34,13 @@ faq:
     a: "Yes. Research from Stanford, Harvard, and the NIH shows that controlled breathing patterns directly affect the autonomic nervous system, reducing cortisol and activating the prefrontal cortex. It's not woo-woo — it's measurable physiology."
   - q: "How often should I do nervous system resets?"
     a: "Three times minimum: once in the morning (to start regulated), once before deep work (to enter focus), once before bed (to support sleep). The habit compounds. After 30 days, your baseline shifts — you become calmer overall, not just in the moment."
+relatedArticles:
+  - "i-tested-12-morning-routines"
+  - "5-minute-morning-habit"
+  - "slow-productivity-30-day-test"
+  - "discipline-choix-quotidien"
+  - "regle-40-pourcent"
 ---
-
 
 # Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -335,6 +340,7 @@ The hardest part isn't the technique. It's believing that something so simple co
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
+---
 
 *Youssef Raihane spent 15 years believing willpower was the answer. He was wrong. The body is the answer. The 5-minute protocol changed everything.*
 
@@ -348,6 +354,7 @@ The hardest part isn't the technique. It's believing that something so simple co
 6. *Stephen Porges* — [Polyvagal Institute](https://www.polyvagalinstitute.org) — for the practice resources
 7. *NIH* — vagus nerve stimulation research — for the clinical evidence
 
+---
 
 **The reset is the doorway, the focus is the hallway.** Most of us try to force focus directly. That is the hallway. The doorway is 2 minutes of breath — the [Two-Minute Breath Reset](/journal/two-minute-breath-reset/) shows the exact protocol. Pair it with the [2-Minute Rule guide](/journal/two-minute-rule-guide/) for the 7-day protocol that makes the breath doorway automatic.
 

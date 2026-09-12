@@ -29,9 +29,14 @@ faq:
   - q: "Is this habit sustainable long-term?"
     a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
   - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic"
+    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -133,8 +138,8 @@ faq:
   - q: "Is this habit sustainable long-term?"
     a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
   - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic."
-
+    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
+---
 
 **Prêt à commencer ?** Essaie notre [30 Days of Discipline](/30-days-discipline/) — un défi quotidien pour transformer tes habitudes en identité. Ou utilise notre [Habit Tracker](/tracker/) pour suivre tes progrès chaque jour.
 
@@ -148,6 +153,6 @@ faq:
     a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
   - q: "How do I make this habit automatic?"
     a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
-
+---
 
 **Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

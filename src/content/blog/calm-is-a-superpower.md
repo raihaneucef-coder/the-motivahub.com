@@ -29,9 +29,13 @@ faq:
   - q: "Is calm the same as being passive?"
     a: "No. Calm is not passivity. It is the ability to act from clarity, not from reaction. A calm person can still be assertive, ambitious, and driven. The difference is that the calm person's actions are chosen, not triggered."
   - q: "Can calm be learned?"
-    a: "Yes. Calm is a skill, not a trait. It is built like a muscle, with small repetitions. One breath. One pause. One moment of stillness. Over time, these small practices become automatic."
+    a: "Yes. Calm is a skill, not a trait. It is built like a muscle, with small repetitions. One breath. One pause. One moment of stillness. Over time, these small practices become automatic."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -169,6 +173,7 @@ Most people who try this for 30 days report:
 
 The data will convince you faster than any self-help book.
 
+---
 
 ## The Honest Summary
 
@@ -182,6 +187,7 @@ It will not make you a monk. It will not change your life in a week.
 
 But it will give you back your center. And that, I think, is worth something.
 
+---
 
 *Youssef Raihane learned calm during a failed book launch in 2024, a difficult client meeting in 2023, and a traffic jam that taught him to breathe. He now practices one slow breath before every reply.*
 
@@ -191,6 +197,7 @@ But it will give you back your center. And that, I think, is worth something.
 2. *Walker, M.* (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams.* — for the sleep and emotional regulation connection
 3. *Kabat-Zinn, J.* (1994). *Wherever You Go, There You Are.* — for the mindfulness and stillness practices
 
+---
 
 **Calm is the invisible work that makes all visible work better.** To see how calm fits into the larger system of identity and habits, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to emotional regulation instead of habits.
 

@@ -29,9 +29,14 @@ faq:
   - q: "Can discipline be kind?"
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)"
+    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -58,7 +63,7 @@ James Clear l'a dit mieux que quiconque : **tu ne montes pas au niveau de tes ob
 Un objectif sans système est un vœu pieux. Voici comment transformer un objectif en système :
 
 | Objectif | Système |
-|-||
+|----------|---------|
 | Perdre 10 kg | Manger une protéine à chaque repas, marcher 30 min/jour |
 | Écrire un livre | Écrire 500 mots chaque matin |
 | Économiser 1000€ | Mettre 30€ de côté chaque semaine |
@@ -136,8 +141,8 @@ faq:
   - q: "Can discipline be kind?"
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)."
-
+    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
+---
 
 **Prêt à tester ta discipline ?** Commence notre [30 Days of Discipline](/30-days-discipline/) — un défi quotidien pour construire une discipline en béton. Et utilise notre [Habit Tracker](/tracker/) pour ne jamais perdre le fil.
 
@@ -151,6 +156,6 @@ faq:
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
     a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
-
+---
 
 **Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)

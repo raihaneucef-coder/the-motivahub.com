@@ -4,7 +4,7 @@ description: "James Clear's most underrated idea. Start so small it feels stupid
 pubDate: 2026-09-03
 updatedDate: 2026-09-07
 readTime: "12 MIN"
-image: "/images/blog/two-minute-rule-guide-1.jpg"
+image: "/images/blog/two-minute-rule-guide-1.jpg
 imageAlt: "Youssef Raihane - two minute rule guide concept"
 topic: "Habits"
 keywords:
@@ -39,7 +39,12 @@ faq:
   - q: "How long should I do the 2-minute version before scaling up?"
     a: "Two weeks minimum. The doorway has to feel automatic before you lengthen the hallway. If you scale too soon, you turn the doorway back into a wall."
   - q: "Is the 2-minute rule the same as the 2-day rule?"
-    a: "No. The 2-day rule (also from Clear) says: never miss twice in a row. The 2-minute rule is about starting small. They are complementary: the 2-minute rule makes the start easy, the 2-day rule protects the consistency."
+    a: "No. The 2-day rule (also from Clear) says: never miss twice in a row. The 2-minute rule is about starting small. They are complementary: the 2-minute rule makes the start easy, the 2-day rule protects the consistency."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.

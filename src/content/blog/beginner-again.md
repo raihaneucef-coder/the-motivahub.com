@@ -29,9 +29,13 @@ faq:
   - q: "What is the best way to travel for growth?"
     a: "Go where you know no one. Plan less than feels safe. Talk to strangers deliberately. Keep one habit alive on the road. Bring the lesson home. The trip ends; the recalibrated eyes should not."
   - q: "How long should I travel to get the benefit?"
-    a: "You do not need a long trip. A weekend in a town whose name you cannot pronounce will do. The requirement is not distance. It is unfamiliarity. Go where your competence means nothing, where every hour asks you to learn."
+    a: "You do not need a long trip. A weekend in a town whose name you cannot pronounce will do. The requirement is not distance. It is unfamiliarity. Go where your competence means nothing, where every hour asks you to learn."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -132,6 +136,7 @@ You do not need a long trip or an expensive one. A bus to a town whose name you 
 
 Beginner again. It is the hungriest you will feel all year.
 
+---
 
 *Youssef Raihane went to Fez in March 2023 and got lost three times. He ate bread he did not order. He paid twice for the same thing. He came back with recalibrated eyes.*
 

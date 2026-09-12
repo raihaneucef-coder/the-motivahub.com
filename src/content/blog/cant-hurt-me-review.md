@@ -35,8 +35,12 @@ faq:
     a: "Goggins himself has said he's extreme. Take the principles (accountability, ownership, voluntary hardship), leave the intensity (running ultramarathons with broken bones is not required). The book works if you adapt the mindset, not the masochism."
   - q: "How do I apply the 40% rule today?"
     a: "Pick one thing you've quit on this week. Restart it. When your mind says stop, give it ten more minutes. That's the entry point. You'll find more than you thought."
+relatedArticles:
+  - "discipline-beat-motivation"
+  - "regles-goggins-mental"
+  - "voluntary-discomfort-secret-mental-toughness"
+  - "how-to-build-unshakable-self-confidence-30-days"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -165,6 +169,7 @@ Most people read books for motivation. Goggins' book is the opposite: it punishe
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
+---
 
 **Start tonight:** Tape three sticky notes on your mirror. Read them at 11 PM. Notice which one you avoid.
 
@@ -172,6 +177,7 @@ That's the wall. That's the 40% mark. That's where your discipline actually star
 
 Nobody is coming to save your schedule, your health, or your dreams. And once that stops being terrifying, it becomes the most freeing sentence you've ever heard.
 
+---
 
 *Youssef Raihane has been writing about discipline, habits, and the long ascent since 2019. He owns no books. He does own a Notion page titled "Proof I Can Do Hard Things."*
 
@@ -182,6 +188,7 @@ Nobody is coming to save your schedule, your health, or your dreams. And once th
 3. David Goggins interview with Tim Ferriss — for the practical application of the 40% Rule
 4. Marcus Aurelius' Meditations — for the Stoic roots of the ownership principle
 
+---
 
 **The 40% Rule is the hallway, not the doorway.** Most people hear Goggins and try to run a 100-mile week. The hallway. The doorway is one cold shower in the morning. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) explains why the smallest possible version is the one that survives a bad day.
 

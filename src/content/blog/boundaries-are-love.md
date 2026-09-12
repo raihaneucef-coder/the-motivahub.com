@@ -29,9 +29,13 @@ faq:
   - q: "What is the difference between a boundary and a wall?"
     a: "A boundary is a instruction manual for how to love you well. A wall is what happens when boundaries are not communicated. Walls are silent. Boundaries are spoken. Walls push people away. Boundaries invite them closer, with clarity."
   - q: "Can boundaries save a relationship?"
-    a: "Yes. Resentment is almost always a boundary that was not stated in time. State it early, plainly, and without blame. The relationship that survives the boundary is the relationship that was real."
+    a: "Yes. Resentment is almost always a boundary that was not stated in time. State it early, plainly, and without blame. The relationship that survives the boundary is the relationship that was real."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -156,6 +160,7 @@ Each layer compounds. Each one is small. Each one survives bad days.
 
 This is the system I am still building. The 30-day practice was the foundation. Everything else is built on top.
 
+---
 
 ## The Honest Summary
 
@@ -173,6 +178,7 @@ It will not make you popular. It will not make you perfect.
 
 But it will give you back your agency. And that, I think, is worth something.
 
+---
 
 *Youssef Raihane said yes to every request for 6 months in 2023. He was exhausted and resentful. He now sets boundaries with kindness and holds them with consistency. The relationships that respect his boundaries are the ones that matter most.*
 
@@ -182,6 +188,7 @@ But it will give you back your agency. And that, I think, is worth something.
 2. *Cloud, H., & Townsend, J.* (1992). *Boundaries: When to Say Yes, How to Say No.* — for the boundary framework
 3. *Lancer, D.* (2019). *Conquering Codependency.* — for the resentment-boundary connection
 
+---
 
 **Boundaries are love in action.** To see how boundaries fit into the larger system of identity and habits, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to relationships instead of habits.
 

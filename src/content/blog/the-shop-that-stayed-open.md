@@ -32,6 +32,12 @@ faq:
     a: "The lesson is that consistency compounds. The shop owner did not need to be the best. He needed to be the one who stayed. In careers, in habits, in relationships — the person who shows up every day eventually wins, not because they are the most talented, but because they are the most reliable."
   - q: "How do I practice quiet endurance?"
     a: "Start with one daily non-negotiable. Not a goal, not a project — a daily act of showing up. Write one sentence. Walk for 10 minutes. Open the shop. The act itself is the lesson. The duration is the proof. The 2-day rule protects the streak. The identity statement gives it meaning."
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
 
 # The Shop That Stayed Open: Why Endurance Beats Pivoting
