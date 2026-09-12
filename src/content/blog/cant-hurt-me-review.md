@@ -2,8 +2,10 @@
 title: "I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You."
 description: "After three reads of David Goggins' book across two years, here's the real lesson the headlines miss — and the one that actually changed my discipline. With brutal honesty and a 30-day plan."
 pubDate: 2026-09-01
+updatedDate: 2026-09-12
 readTime: "11 MIN"
 image: "/images/blog/cant-hurt-me-review.jpg"
+imageAlt: "Youssef Raihane's accountability mirror sticky notes from Can't Hurt Me - 90 day experiment"
 topic: "Discipline"
 keywords:
   - "cant hurt me"
@@ -40,11 +42,21 @@ relatedArticles:
   - "how-to-build-unshakable-self-confidence-30-days"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
+**I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You.** — practical guide based on real experiments. I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+
+# I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You.
 I picked up Can't Hurt Me on a Tuesday in October 2024. I was tired. I'd read half a dozen self-help books that year and forgotten most of them. By the end of that week, I'd read it twice.
 
 I went back a third time eight months later. And then a fourth.
 
-Here is what most reviews won't: the book is **not** about Navy SEALs. It's about a man who decided to stop lying to himself. The obstacle course is just the arena where he proved it. And that distinction — between the *arena* and the *truth* — is the one that actually changes lives.
+The first time I read it, I tried to become Goggins. Wake up at 4 AM. Run in the cold. Push through pain. By day 6, I had a stress fracture in my foot and a $400 medical bill. The injury kept me from running for 6 weeks. The $400 kept me from buying the book I was supposed to be writing.
+
+That was my mistake: confusing the display with the system. Goggins didn't wake up one morning and run 100 miles. He built calloused hands by gripping the bar. He built calloused minds by sitting with discomfort for 5 minutes at a time, then 10, then 20. The book is about the scaffolding — the small, daily callousing — not the final fireworks display.
+
+Here is what most reviews won't: the book is not about Navy SEALs. It's about a man who decided to stop lying to himself. The obstacle course is just the arena where he proved it. And that distinction — between the arena and the truth — is the one that actually changes lives.
 
 If you want to read a quick summary of Goggins' childhood, his pull-ups record, and his ultra-marathon stats, this isn't that review. This is about the four lessons I extracted from Goggins across three reads — the lessons the headlines miss, the ones that actually compound.
 

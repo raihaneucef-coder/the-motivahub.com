@@ -192,8 +192,80 @@ const archetypes = {
   <section class="quiz-faq">
     <div class="container">
       <h2>Why this quiz works</h2>
-      <p>Most productivity advice is generic. It tells you to "wake up at5 AM" or "do a 75 Hard" — but if your archetype doesn't match the protocol, you'll fail. This quiz identifies your natural strength and gives you a system that fits <em>your</em> wiring — not someone else's.</p>
-      <p>Built from patterns I observed coaching and studying 200+ people over8 years. It's not clinical psychology, but it's accurate enough to give you a useful starting point.</p>
+      <p>Most productivity advice is generic. It tells you to "wake up at 5 AM" or "do a 75 Hard" — but if your archetype doesn't match the protocol, you'll fail. This quiz identifies your natural strength and gives you a system that fits <em>your</em> wiring — not someone else's.</p>
+      <p>Built from patterns I observed coaching and studying 200+ people over 8 years. It's not clinical psychology, but it's accurate enough to give you a useful starting point.</p>
+      <p>The four archetypes are not labels — they are starting points. You can move between them. The goal is not to box you in. The goal is to give you a protocol that respects how you actually work, not how you wish you worked.</p>
+    </div>
+  </section>
+
+  <section class="quiz-archetypes">
+    <div class="container">
+      <h2>The Four Archetypes</h2>
+      <div class="archetype-grid">
+        <div class="archetype-card">
+          <span class="archetype-emoji">🧱</span>
+          <h3>The Builder</h3>
+          <p>You compound small wins into unrecognisable lives. Daily consistency is your superpower. You trust the process even when nothing visible happens.</p>
+          <p><strong>Blind spot:</strong> You over-build and rarely launch. Your strength (foundation) can become your trap (never shipping).</p>
+        </div>
+        <div class="archetype-card">
+          <span class="archetype-emoji">⚡</span>
+          <h3>The Sprinter</h3>
+          <p>You do impossible things in 30 days. Then you reset. You execute under deadlines and thrive on intensity and novelty.</p>
+          <p><strong>Blind spot:</strong> The crash after the sprint. You lose momentum between cycles. Stack a Sprinter with a Builder ritual.</p>
+        </div>
+        <div class="archetype-card">
+          <span class="archetype-emoji">🏃</span>
+          <h3>The Marathoner</h3>
+          <p>You win by never quitting. Consistency is your religion. Identity shifts happen deep and last.</p>
+          <p><strong>Blind spot:</strong> You can become so patient you forget to push intensity. Slow becomes stuck. Add a sharpening phase every quarter.</p>
+        </div>
+        <div class="archetype-card">
+          <span class="archetype-emoji">🎯</span>
+          <h3>The Strategist</h3>
+          <p>You build systems that compound while you sleep. You see the leverage others miss. Tools and automation are your edge.</p>
+          <p><strong>Blind spot:</strong> You optimize the system instead of doing the work. Strategy becomes procrastination. Block one "no-strategy" day per week.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="quiz-howto">
+    <div class="container">
+      <h2>How to Use Your Result</h2>
+      <ol class="howto-steps">
+        <li><strong>Take the quiz.</strong> Answer all 5 questions honestly. There's no right or wrong answer — only what's true for you.</li>
+        <li><strong>Read your archetype.</strong> Understand your strengths and blind spots. The protocol is your starting point, not your final destination.</li>
+        <li><strong>Apply the 30-day protocol.</strong> Follow the custom plan for your type. Track starts, not finishes. The 2-day rule protects the streak.</li>
+        <li><strong>Review after 30 days.</strong> Ask: did this fit? If yes, continue. If no, adjust. The goal is progress, not perfection.</li>
+        <li><strong>Share your type.</strong> Send it to your accountability partner. Social commitment increases the odds of showing up by 2-3x.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="quiz-faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      <details>
+        <summary>Is this quiz really free?</summary>
+        <p>Yes. 100% free. No signup required to see results. No credit card. No email required. Just answer 5 questions and get your archetype.</p>
+      </details>
+      <details>
+        <summary>How accurate is it?</summary>
+        <p>Built on patterns from coaching 200+ people over 8 years. Not clinical, but useful. Think of it as a compass, not a map. It points you in the right direction — you still have to walk.</p>
+      </details>
+      <details>
+        <summary>Will I get a custom plan?</summary>
+        <p>Yes. Each archetype comes with a custom 30-day protocol based on your type. The protocol is specific, actionable, and designed for your natural wiring.</p>
+      </details>
+      <details>
+        <summary>Can my archetype change?</summary>
+        <p>Yes. Your archetype can shift based on context, season of life, and the habit you're building. A Sprinter in fitness can be a Marathoner in writing. Retake the quiz every 90 days.</p>
+      </details>
+      <details>
+        <summary>What if I'm between two archetypes?</summary>
+        <p>That's normal. Most people have a primary and a secondary. Read both protocols. Blend what works. The goal is not to fit a box — it's to build a system that serves you.</p>
+      </details>
     </div>
   </section>
 
@@ -404,4 +476,21 @@ const archetypes = {
   .quiz-faq { padding: 64px 0; background: var(--cream); text-align: center; }
   .quiz-faq h2 { font-family: var(--serif); font-size: 28px; margin: 0 0 24px; color: var(--ink); }
   .quiz-faq p { max-width: 720px; margin: 0 auto 16px; line-height: 1.7; color: var(--ink); font-size: 16px; }
+  .quiz-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--white); border: 1px solid var(--line); border-radius: 12px; text-align: left; }
+  .quiz-faq summary { cursor: pointer; font-family: var(--sans); font-size: 15px; font-weight: 600; color: var(--ink); }
+  .quiz-faq details p { margin: 12px 0 0; font-size: 14px; }
+
+  .quiz-archetypes { padding: 64px 0; background: var(--white); }
+  .quiz-archetypes h2 { font-family: var(--serif); font-size: 28px; text-align: center; margin: 0 0 40px; color: var(--ink); }
+  .archetype-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px; }
+  .archetype-card { padding: 28px; background: var(--cream); border: 1px solid var(--line); border-radius: 12px; }
+  .archetype-emoji { font-size: 48px; margin: 0 0 16px; display: block; }
+  .archetype-card h3 { font-family: var(--serif); font-size: 20px; margin: 0 0 12px; color: var(--ink); }
+  .archetype-card p { font-size: 14px; line-height: 1.7; color: var(--ink); margin: 0 0 12px; }
+
+  .quiz-howto { padding: 64px 0; background: var(--cream); }
+  .quiz-howto h2 { font-family: var(--serif); font-size: 28px; text-align: center; margin: 0 0 32px; color: var(--ink); }
+  .howto-steps { max-width: 720px; margin: 0 auto; padding-left: 0; counter-reset: step; list-style: none; }
+  .howto-steps li { padding: 16px 0 16px 48px; position: relative; font-family: var(--sans); font-size: 16px; line-height: 1.7; color: var(--ink); border-bottom: 1px solid var(--line); }
+  .howto-steps li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 16px; width: 32px; height: 32px; border-radius: 50%; background: var(--gold); color: var(--ink); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 14px; }
 </style>

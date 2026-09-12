@@ -2,8 +2,10 @@
 title: "I Tried Slow Productivity for 30 Days. Here's What Actually Changed."
 description: "Cal Newport's slow productivity system in practice — fewer projects, natural pace, obsession with quality. I tested it for 30 days while building a business. Here's the data, the failures, and the one rule that worked."
 pubDate: 2026-09-03
+updatedDate: 2026-09-12
 readTime: "11 MIN"
-image: "/images/blog/discipline-depass-motivation.jpg"
+image: "/images/blog/slow-productivity-30-day-test-1.jpg
+imageAlt: "Youssef Raihane - slow productivity 30 day test concept"
 topic: "Productivity"
 keywords:
   - "slow productivity"
@@ -40,8 +42,11 @@ relatedArticles:
   - "discipline-beat-motivation"
 ---
 
+# I Tried Slow Productivity for 30 Days. Here's What Actually Changed.
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
+
+**Slow productivity** is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days and cut my active projects in half while doubling output quality. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.
 
 I've been a productivity nerd for 15 years. I've read every book. Tried every system. Built apps to track my habits. Spent $2,000+ on courses. The whole thing.
 

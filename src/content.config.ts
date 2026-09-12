@@ -11,6 +11,7 @@ const blog = defineCollection({
     topic: z.string(),
     readTime: z.string(),
     image: z.string().default('/images/hero.jpg'),
+    imageAlt: z.string().optional(),
     featured: z.boolean().optional().default(false),
     draft: z.boolean().optional().default(false),
     keywords: z.array(z.string()).optional().default([]),

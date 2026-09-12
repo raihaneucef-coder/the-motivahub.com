@@ -5,6 +5,7 @@ pubDate: 2026-09-05
 updatedDate: 2026-09-07
 readTime: "9 MIN"
 image: "/images/blog/identite-precde-resultat.jpg"
+imageAlt: "Youssef Raihane - identity based habits 90 day test concept"
 topic: "Habits"
 keywords:
   - "identity based habits"
@@ -41,8 +42,11 @@ relatedArticles:
   - "slow-productivity-30-day-test"
 ---
 
+# Identity-Based Goals: The One Change That Made My Habits Stick
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
+
+**An identity-based habit** focuses on who you want to become (a writer, a runner) rather than what you want to achieve (write a book, run a marathon). Each action becomes a 'vote' for that identity. Identity shifts in 30-90 days if you consistently vote for it. The shift isn't dramatic — it's a quiet realization one day that you stopped debating whether to do the thing.
 
 For ten years, my habit attempts looked the same: set a goal, work toward it, fail, abandon, try a different goal. The cycle was identical. New Year, new resolution, February failure.
 

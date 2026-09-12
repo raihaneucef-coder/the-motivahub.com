@@ -1,10 +1,11 @@
 ---
 title: "The 5-Minute Morning Habit That Saves My Sanity (And 4 Hours a Week)"
-description: "One small habit before 8 AM saved me from drowning in unread emails, scattered priorities, and a creeping sense of chaos. Here's the exact system — and why it works in5 minutes."
+description: "One small habit before 8 AM saved me from drowning in unread emails, scattered priorities, and a creeping sense of chaos. Here's the exact system — and why it works in 5 minutes."
 pubDate: 2026-09-02
-updatedDate: 2026-09-07
+updatedDate: 2026-09-12
 readTime: "8 MIN"
 image: "/images/blog/the-morning-athlete.jpg"
+imageAlt: "Youssef Raihane writing priorities at his desk in Casablanca - 5 minute morning habit"
 topic: "Habits"
 keywords:
   - "morning habit"
@@ -39,6 +40,12 @@ relatedArticles:
   - "habit-stacking-routine"
   - "regle-deux-minutes"
 ---
+
+# The 5-Minute Morning Habit That Saves My Sanity (And 4 Hours a Week)
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
+**A 5-minute morning habit** beats a 30-minute routine because small + sustainable > big + abandoned. The most effective is the 3-priority brain dump: write down the 3 most important tasks for the day, in order, on a single piece of paper. Takes 60 seconds. Prevents 60+ minutes of decision-making throughout the day. Do it before checking email, before handing your priorities to someone else.
 
 I used to start every morning by checking email. By 9 AM, I'd already lost 90 minutes of my own priorities reacting to everyone else's. By noon, I was exhausted from decisions I didn't need to make. By Friday, I'd accomplished maybe 30% of what I'd hoped to on Monday.
 

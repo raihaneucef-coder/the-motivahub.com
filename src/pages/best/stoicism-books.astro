@@ -3,6 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import { books } from "../../data/books";
 import BookCard from "../../components/BookCard.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
+import AdSlot from "../../components/AdSlot.astro";
 
 const stoicBooks = books.filter((b) => b.category === "STOICISM" || b.category === "PHILOSOPHY");
 const title = "Best Stoicism Books 2026 — Motiva Hub";
@@ -75,6 +76,20 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
         <p><strong>Affiliate Disclosure:</strong> As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements. <a href="/affiliate-disclosure/">Read our full disclosure policy →</a></p>
       </div>
       <AffiliateBanner variant="callout" lang="en" />
+
+      <div class="intro-block">
+        <h2>How to read Stoicism without becoming a robot</h2>
+        <p>Stoicism is not about suppressing emotion. It is about choosing which emotion governs your decisions. Marcus Aurelius wrote Meditations as a private morning exercise, not as a performance. Seneca's letters are practical psychology disguised as philosophy.</p>
+        <p>If you want a modern entry point, start with The Daily Stoic or The Obstacle Is the Way. If you want the source text, read our <a href="/journal/morning-routines-12-tested/">Stoic morning routine field test</a> — it shows how Meditations works as a daily practice, not a book to finish.</p>
+        <p>Browse the full collection: <a href="/best/books/">best self-help books</a>, <a href="/best/focus-books/">best focus books</a>, and <a href="/best/habit-books/">best habit books</a>.</p>
+      </div>
+
+      <div class="cta-strip">
+        <a class="btn btn-primary" href="/tools/discipline-quiz/">Take the Discipline Quiz</a>
+        <a class="btn btn-outline" href="/journal/">Read the Journal</a>
+        <a class="btn btn-outline" href="/pdf/30-days-discipline/">Get the Free PDF</a>
+      </div>
+
       <div class="book-grid">
         {stoicBooks.map((book, i) => (
           <div class="ranked-book">
@@ -83,6 +98,9 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
           </div>
         ))}
       </div>
+
+      <AdSlot format="horizontal" />
+
       <AffiliateBanner variant="footer" lang="en" />
     </div>
   </section>
@@ -118,5 +136,30 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
     padding: 4px 10px;
     border-radius: 4px;
     letter-spacing: 1px;
+  }
+  .intro-block {
+    max-width: 720px;
+    margin: 0 auto 48px;
+    padding: 32px 28px;
+    background: var(--cream, #faf7f2);
+    border-left: 3px solid var(--gold, #c8a04a);
+    border-radius: 0 8px 8px 0;
+  }
+  .intro-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 24px;
+    margin: 0 0 16px;
+    color: var(--ink, #1a1a1a);
+  }
+  .intro-block p {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 12px;
+  }
+  .intro-block strong {
+    color: var(--gold, #c8a04a);
+    font-weight: 600;
   }
 </style>

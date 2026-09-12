@@ -3,6 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import { books } from "../../data/books";
 import BookCard from "../../components/BookCard.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
+import AdSlot from "../../components/AdSlot.astro";
 
 const title = "Best Self-Help Books 2026 — Motiva Hub";
 const description = "The 12 best self-help books that actually change how you think, work, and live — from Marcus Aurelius to Atomic Habits. Hand-picked, ranked, and reviewed by the Motiva Hub editorial team.";
@@ -83,6 +84,12 @@ const description = "The 12 best self-help books that actually change how you th
         <p>Want curated picks by category? See our <a href="/best/focus-books/">best focus books</a>, <a href="/best/habit-books/">best habit books</a>, and <a href="/best/stoicism-books/">best stoicism books</a>. For a personal experiment on building the habit, the <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the 7-day protocol.</p>
       </div>
 
+      <div class="cta-strip">
+        <a class="btn btn-primary" href="/tools/discipline-quiz/">Take the Discipline Quiz</a>
+        <a class="btn btn-outline" href="/journal/">Read the Journal</a>
+        <a class="btn btn-outline" href="/pdf/30-days-discipline/">Get the Free PDF</a>
+      </div>
+
       <div class="book-grid">
         {books.map((book, i) => (
           <div class="ranked-book">
@@ -91,6 +98,8 @@ const description = "The 12 best self-help books that actually change how you th
           </div>
         ))}
       </div>
+
+      <AdSlot format="horizontal" />
 
       <div class="faq-block">
         <h2>Frequently asked questions</h2>

@@ -2,8 +2,10 @@
 title: "The 1% Rule: How to Improve Yourself Every Single Day"
 description: "Improving by just 1% per day makes you 37 times better in one year. The math is simple. The execution requires discipline."
 pubDate: 2026-08-24
+updatedDate: 2026-09-12
 readTime: "5 MIN"
 image: "/images/blog/regle-1-pourcent.jpg"
+imageAlt: "Youssef Raihane - regle 1 pourcent concept"
 topic: "Personal Growth"
 keywords:
   - "year"
@@ -19,8 +21,29 @@ tags:
   - "how-to"
 wordCount: 223
 
+faq:
+  - q: "What is the most important principle here?"
+    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
+  - q: "How do I apply this in my daily life?"
+    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
+  - q: "What if this doesn't work for me?"
+    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
+  - q: "How long before I see results?"
+    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
+**The 1% Rule: How to Improve Yourself Every Single Day** — practical guide based on real experiments. The 1% Rule: How to Improve Yourself Every Single Day works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+
+# The 1% Rule: How to Improve Yourself Every Single Day
 If you improve by 1% every day for a year, you will be 37 times better by the end of the year. This is the compound effect, and it is the most powerful force in personal growth.
 
 ## The Math
@@ -57,6 +80,15 @@ One percent does not feel like much. But 1% compounded daily is extraordinary.
 
 > *Small daily improvements are the key to staggering long-term results. — Robin Sharma*
 
+faq:
+  - q: "What is the most important principle here?"
+    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
+  - q: "How do I apply this in my daily life?"
+    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
+  - q: "What if this doesn't work for me?"
+    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
+  - q: "How long before I see results?"
+    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
 ---
 
 **Start your 1% improvement today.** Our [30 Days of Discipline](/30-days-discipline/) gives you daily 1% improvements. Track your streak with our [Habit Tracker](/tracker/).

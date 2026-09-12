@@ -1,57 +1,53 @@
 ---
-import Layout from "../../layouts/Layout.astro";
-import NewsletterSection from "../../components/NewsletterSection.astro";
+import Layout from '../../layouts/Layout.astro';
 ---
 
-<Layout title="Contact — Motiva Hub" description="Write to the desk. Pitches, corrections, quiet hellos.">
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker" data-i18n="contactKicker">Contact</p>
-      <h1 data-i18n="contactTitle">Write to <em>the desk.</em></h1>
-      <p data-i18n="contactSubtitle">Pitches, corrections, quiet hellos. We read everything, slowly, and reply to most.</p>
-    </div>
-  </section>
-
-  <section class="feed">
-    <div class="container">
-      <div class="contact-grid">
-        <div class="contact-block">
-          <p class="bp-meta">Editorial</p>
-          <h3>raihaneucef@gmail.com</h3>
-        </div>
-        <div class="contact-block">
-          <p class="bp-meta">Press & Partnerships</p>
-          <h3>raihaneucef@gmail.com</h3>
-        </div>
-        <div class="contact-block">
-          <p class="bp-meta">Studio</p>
-          <h3>Motiva Hub</h3>
-        </div>
+<Layout title="Contact — Motiva Hub" description="Get in touch with Youssef Raihane and the Motiva Hub team." image="/images/youssef-raihane.jpg" lang="en">
+  <article class="article-body container">
+    <header class="article-header">
+      <div class="container">
+        <p class="card-meta">CONTACT</p>
+        <h1>Get in Touch</h1>
+        <p class="card-date">We would love to hear from you</p>
       </div>
+    </header>
 
-      <div class="contact-form">
-        <p class="kicker" data-i18n="contactSendTitle">Send a Message</p>
-        <form action="https://formsubmit.co/raihaneucef@gmail.com" method="POST">
-          <input type="hidden" name="_captcha" value="false" />
-          <input type="hidden" name="_subject" value="New message from Motiva Hub" />
-          <input type="hidden" name="_template" value="table" />
-          <div class="form-group">
-            <label for="name" data-i18n="contactName">Name</label>
-            <input type="text" id="name" name="name" required />
-          </div>
-          <div class="form-group">
-            <label for="email" data-i18n="contactEmail">Email</label>
-            <input type="email" id="email" name="email" required />
-          </div>
-          <div class="form-group">
-            <label for="message" data-i18n="contactMessage">Message</label>
-            <textarea id="message" name="message" rows="6" required></textarea>
-          </div>
-          <button type="submit" class="btn-pill" data-i18n="contactSend">Send to the Desk</button>
-        </form>
-      </div>
+    <div class="container">
+      <h2>Email</h2>
+      <p>For collaborations, speaking, or general inquiries: <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
+
+      <h2>What to Expect</h2>
+      <p>We read every message. Response time is usually 24-48 hours. For urgent matters, please mention "URGENT" in the subject line.</p>
+
+      <h2>Collaborations</h2>
+      <p>We are open to collaborations that align with our mission: mindset, habits, discipline, and the long game. If you have a project, a product, or an idea, we would love to hear about it.</p>
+
+      <h2>Speaking</h2>
+      <p>Youssef Raihane is available for speaking engagements on topics including:</p>
+      <ul>
+        <li>Habit formation and identity-based change</li>
+        <li>Discipline as a system, not a trait</li>
+        <li>The 2-minute rule and the 2-day rule</li>
+        <li>Attention management in the digital age</li>
+        <li>Self-sabotage and the psychology of failure</li>
+      </ul>
+
+      <h2>Press</h2>
+      <p>For press inquiries, please use the email above with "PRESS" in the subject line. We can provide high-resolution photos, bio, and interview availability.</p>
+
+      <h2>Follow</h2>
+      <p>Stay connected:</p>
+      <ul>
+        <li><a href="https://www.instagram.com/motivahub/" target="_blank" rel="noopener">Instagram</a></li>
+        <li><a href="https://twitter.com/motivahub" target="_blank" rel="noopener">Twitter/X</a></li>
+        <li><a href="https://www.linkedin.com/company/motivahub" target="_blank" rel="noopener">LinkedIn</a></li>
+      </ul>
     </div>
-  </section>
 
-  <NewsletterSection />
+    <div class="cta-strip">
+      <a class="btn btn-primary" href="/tools/discipline-quiz/">Take the Discipline Quiz</a>
+      <a class="btn btn-outline" href="/guides/atomic-habits-ultimate-guide/">Read the Ultimate Guide</a>
+      <a class="btn btn-outline" href="/journal/">Browse the Journal</a>
+    </div>
+  </article>
 </Layout>

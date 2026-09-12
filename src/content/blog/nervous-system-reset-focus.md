@@ -2,8 +2,10 @@
 title: "Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)"
 description: "The reason willpower-based productivity failed me — and what finally worked. A body-first approach to focus that neuroscience is increasingly supporting. With practical protocols you can try tonight."
 pubDate: 2026-09-04
+updatedDate: 2026-09-12
 readTime: "10 MIN"
 image: "/images/blog/discipline-choix-quotidien.jpg"
+imageAlt: "Youssef Raihane - nervous system reset focus concept"
 topic: "Habits"
 keywords:
   - "nervous system reset"
@@ -40,8 +42,11 @@ relatedArticles:
   - "regle-40-pourcent"
 ---
 
+# Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
+
+**Most focus problems aren't willpower issues — they're nervous system issues.** When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first. The fastest way: slow exhales (4-7-8 breathing) for 60-90 seconds. This activates the parasympathetic nervous system and is the fastest, free, portable tool available.
 
 I used to think focus was a willpower problem. Wake up. Drink coffee. Open laptop. Force yourself to work.
 

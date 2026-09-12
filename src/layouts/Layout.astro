@@ -9,9 +9,10 @@ interface Props {
   noindex?: boolean;
   ogType?: string;
   lang?: "en" | "fr" | "ar";
+  schema?: any;
 }
 
-const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang } = Astro.props;
+const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema } = Astro.props;
 const canonical = Astro.url.href;
 const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
 const isFr = lang === "fr" || (lang !== "ar" && Astro.url.pathname.startsWith("/fr") || Astro.url.searchParams.get("lang") === "fr");
@@ -28,12 +29,6 @@ const gaSnippet = GA_ID
   <head>
     <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
     <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
-    <script is:inline async src="//www.ezojs.com/ezoic/sa.min.js"></script>
-    <script is:inline>
-      window.ezstandalone = window.ezstandalone || {};
-      ezstandalone.cmd = ezstandalone.cmd || [];
-    </script>
-    <script is:inline src="//ezoicanalytics.com/analytics.js"></script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
@@ -112,6 +107,9 @@ const gaSnippet = GA_ID
         }
       ]
     })} />
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
   </head>
   <body>
     <header class="site-header" id="site-header">
@@ -242,7 +240,26 @@ const gaSnippet = GA_ID
       menuBtn.addEventListener("click", openMenu);
       menuClose.addEventListener("click", closeMenu);
       overlay.addEventListener("click", (e) => {
-        if (e.target.tagName === "A") closeMenu();
+        const link = e.target.closest("a");
+        if (link) closeMenu();
+      });
+
+      const resetOverlay = () => {
+        overlay.classList.remove("open");
+        document.body.style.overflow = "";
+      };
+
+      const resetPageCurtain = () => {
+        document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
+      };
+
+      window.addEventListener("astro:page-load", () => {
+        resetOverlay();
+        resetPageCurtain();
+      });
+      window.addEventListener("pageshow", (event) => {
+        resetOverlay();
+        resetPageCurtain();
       });
     </script>
     <script is:inline>

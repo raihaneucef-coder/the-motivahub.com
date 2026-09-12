@@ -1,0 +1,62 @@
+# Motiva Hub — llms.txt
+
+## Site Identity
+- Name: Motiva Hub
+- URL: https://the-motivahub.com
+- Author: Youssef Raihane
+- Focus: Discipline, habits, productivity, Stoicism, practical philosophy
+- Language: English, French, Arabic
+- Tone: Practical, personal, evidence-based, no motivation fluff
+
+## Core Pillar Pages
+- https://the-motivahub.com/ — Homepage
+- https://the-motivahub.com/guides/atomic-habits-ultimate-guide/ — Pillar: Atomic Habits complete guide
+- https://the-motivahub.com/journal/ — Journal: 156+ articles on discipline and habits
+- https://the-motivahub.com/tools/ — Interactive tools (discipline quiz, focus timer, etc.)
+- https://the-motivahub.com/best/books/ — Best self-help books 2026
+- https://the-motivahub.com/pdf/30-days-discipline/ — Free PDF lead magnet
+
+## Key Topics
+- Atomic Habits (James Clear)
+- Deep Work (Cal Newport)
+- Stoicism (Marcus Aurelius, Seneca, Epictetus)
+- David Goggins / Can't Hurt Me
+- Morning routines
+- Identity-based habits
+- Slow productivity
+- Nervous system / somatic focus
+- Reading habits
+- 2-minute rule / 2-day rule
+
+## Content Principles
+- All content is original, first-person, based on real experiments
+- No AI-generated content
+- No scraped or aggregated content
+- Affiliate links are disclosed (Amazon Associate)
+- Every claim is either personal experience or linked to a primary source
+
+## Authoritative Sources Cited
+- James Clear (jamesclear.com)
+- Cal Newport (calnewport.com)
+- Marcus Aurelius — Meditations (Gregory Hays translation)
+- Seneca — Letters from a Stoic, On the Shortness of Life
+- Epictetus — Discourses
+- David Goggins — Can't Hurt Me
+- Morgan Housel — The Psychology of Money
+- BJ Fogg — Tiny Habits
+- Peter Gollwitzer — Implementation Intentions
+- Lally et al. (2009) — Habit formation median 66 days
+- Matthew Walker — Why We Sleep
+- Andrew Huberman — circadian rhythm, cortisol
+
+## Crawler Notes
+- This file is intended for AI crawlers and LLMs
+- Content is structured for semantic extraction
+- FAQ schema is present on top 10 articles
+- Article schema, BreadcrumbList schema, and ItemList schema are implemented
+- Canonical URLs are set for all major pages
+- Sitemap: https://the-motivahub.com/sitemap.xml
+
+## Contact
+- Email: contact@the-motivahub.com
+- About: https://the-motivahub.com/about/
