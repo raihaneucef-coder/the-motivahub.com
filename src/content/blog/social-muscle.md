@@ -29,7 +29,7 @@ faq:
   - q: "Can discipline be kind?"
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)
+    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)"
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

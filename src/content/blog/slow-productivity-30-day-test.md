@@ -4,7 +4,7 @@ description: "Cal Newport's slow productivity system in practice — fewer proje
 pubDate: 2026-09-03
 updatedDate: 2026-09-12
 readTime: "11 MIN"
-image: "/images/blog/slow-productivity-30-day-test-1.jpg
+image: "/images/blog/slow-productivity-30-day-test-1.jpg"
 imageAlt: "Youssef Raihane - slow productivity 30 day test concept"
 topic: "Productivity"
 keywords:

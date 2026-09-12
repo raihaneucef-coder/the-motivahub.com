@@ -30,7 +30,8 @@ faq:
   - q: "How do I stop self-sabotaging?"
     a: "Start by noticing your patterns. Write down when you sabotage yourself and what you were feeling. Then separate the behavior from your identity: you are not a procrastinator, you are a person who sometimes procrastinates. Finally, create friction for the sabotage and ease for the progress."
   - q: "Can self-sabotage be cured?"
-    a: "It cannot be cured, but it can be managed. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different."relatedArticles:
+    a: "It cannot be cured, but it can be managed. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

@@ -29,7 +29,8 @@ faq:
   - q: "Is multitasking really that bad?"
     a: "Yes. Research from the University of Michigan found that multitasking can reduce productivity by up to 40%. The switching cost compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work."
   - q: "What is the attention economy?"
-    a: "The attention economy is the market for human attention. Apps, social media, and news are designed to capture and hold your attention because attention is the new currency. The more attention they harvest, the more they earn from advertisers."relatedArticles:
+    a: "The attention economy is the market for human attention. Apps, social media, and news are designed to capture and hold your attention because attention is the new currency. The more attention they harvest, the more they earn from advertisers."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

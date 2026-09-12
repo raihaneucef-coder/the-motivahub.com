@@ -29,7 +29,8 @@ faq:
   - q: "What is the best way to travel for growth?"
     a: "Go where you know no one. Plan less than feels safe. Talk to strangers deliberately. Keep one habit alive on the road. Bring the lesson home. The trip ends; the recalibrated eyes should not."
   - q: "How long should I travel to get the benefit?"
-    a: "You do not need a long trip. A weekend in a town whose name you cannot pronounce will do. The requirement is not distance. It is unfamiliarity. Go where your competence means nothing, where every hour asks you to learn."relatedArticles:
+    a: "You do not need a long trip. A weekend in a town whose name you cannot pronounce will do. The requirement is not distance. It is unfamiliarity. Go where your competence means nothing, where every hour asks you to learn."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

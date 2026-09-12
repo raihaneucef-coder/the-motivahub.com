@@ -29,7 +29,8 @@ faq:
   - q: "What can I learn from athlete discipline?"
     a: "You can learn that the boring work is the work. Champions are not made in the moment of victory. They are made in the thousands of hours of preparation that no one sees."
   - q: "Is discipline the same as motivation?"
-    a: "No. Motivation is a feeling. Discipline is a practice. Motivation comes and goes. Discipline is what you do when motivation is gone."relatedArticles:
+    a: "No. Motivation is a feeling. Discipline is a practice. Motivation comes and goes. Discipline is what you do when motivation is gone."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

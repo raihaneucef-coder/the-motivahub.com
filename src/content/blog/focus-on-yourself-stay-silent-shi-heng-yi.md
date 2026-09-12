@@ -28,7 +28,7 @@ faq:
   - q: "How do I stop multitasking?"
     a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
   - q: "Can focus be trained?"
-    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity
+    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity"
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

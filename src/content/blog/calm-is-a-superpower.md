@@ -29,7 +29,8 @@ faq:
   - q: "Is calm the same as being passive?"
     a: "No. Calm is not passivity. It is the ability to act from clarity, not from reaction. A calm person can still be assertive, ambitious, and driven. The difference is that the calm person's actions are chosen, not triggered."
   - q: "Can calm be learned?"
-    a: "Yes. Calm is a skill, not a trait. It is built like a muscle, with small repetitions. One breath. One pause. One moment of stillness. Over time, these small practices become automatic."relatedArticles:
+    a: "Yes. Calm is a skill, not a trait. It is built like a muscle, with small repetitions. One breath. One pause. One moment of stillness. Over time, these small practices become automatic."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

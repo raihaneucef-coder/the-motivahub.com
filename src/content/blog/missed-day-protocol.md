@@ -4,7 +4,7 @@ description: "Missing a day is not the end of a habit. It is the test of the sys
 pubDate: 2026-09-05
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/missed-day-protocol-1.jpg
+image: "/images/blog/missed-day-protocol-1.jpg"
 imageAlt: "Youssef Raihane - missed day protocol concept"
 topic: "Habits"
 keywords:
@@ -38,7 +38,8 @@ faq:
   - q: "Should I do a longer session to make up for the missed day?"
     a: "No. The recovery protocol is the smallest possible version, not a longer session. Longer sessions after a miss are a coping mechanism for the guilt of missing — and they set up a pattern where missing is rewarded with a longer session. The 2-minute version is the only correct response. It is small on purpose. The smallness is the point."
   - q: "What if I miss two days in a row?"
-    a: "The 2-day rule has been triggered. The system has detected a pattern. The protocol is the same — but the cost of the next miss is higher. If you miss a third day, the habit is no longer a habit. The recovery is possible, but it requires restarting the 2-minute rule from day 1. The 2-day rule is a hard boundary. Crossing it is the failure mode of the entire system."relatedArticles:
+    a: "The 2-day rule has been triggered. The system has detected a pattern. The protocol is the same — but the cost of the next miss is higher. If you miss a third day, the habit is no longer a habit. The recovery is possible, but it requires restarting the 2-minute rule from day 1. The 2-day rule is a hard boundary. Crossing it is the failure mode of the entire system."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

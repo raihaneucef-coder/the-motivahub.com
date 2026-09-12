@@ -29,7 +29,8 @@ faq:
   - q: "What tasks should I batch?"
     a: "Batch similar tasks: email, writing, calls, admin, creative work, errands. The key is to group by mental mode, not by urgency. Check email at set times, not whenever it arrives."
   - q: "Can batching work for creative work?"
-    a: "Yes. Creative batching means doing all creative work in one block. Write all articles in one sitting. Record all videos in one session. Design all graphics in one block. The creative mode is hard to enter, but once you are in it, stay there."relatedArticles:
+    a: "Yes. Creative batching means doing all creative work in one block. Write all articles in one sitting. Record all videos in one session. Design all graphics in one block. The creative mode is hard to enter, but once you are in it, stay there."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"
