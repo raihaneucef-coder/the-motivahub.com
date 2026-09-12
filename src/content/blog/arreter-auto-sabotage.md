@@ -30,12 +30,7 @@ faq:
   - q: "How do I stop self-sabotaging?"
     a: "Start by noticing your patterns. Write down when you sabotage yourself and what you were feeling. Then separate the behavior from your identity: you are not a procrastinator, you are a person who sometimes procrastinates. Finally, create friction for the sabotage and ease for the progress."
   - q: "Can self-sabotage be cured?"
-    a: "It cannot be cured, but it can be managed. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different."relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+    a: "It cannot be cured, but it can be managed. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different."
 ---
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -215,7 +210,6 @@ Each layer compounds. Each one is small. Each one survives bad days.
 
 This is the system I am still building. The awareness was the foundation. Everything else is built on top.
 
----
 
 ## The Honest Summary
 
@@ -229,7 +223,6 @@ It won't make you fearless. It won't change your life in a week.
 
 But it will give you back your agency. And that, I think, is worth something.
 
----
 
 *Youssef Raihane missed his own book launch in March 2024 because of self-sabotage. He now uses a 3-step recovery protocol before every public moment. The next launch went smoothly: 127 copies in the first 24 hours.*
 
@@ -239,7 +232,6 @@ But it will give you back your agency. And that, I think, is worth something.
 2. *Baumeister, R. F., & Tierney, J.* (2011). *Willpower: Rediscovering the Greatest Human Strength.* — for the decision fatigue research
 3. *Carol Dweck* — *Mindset* (2006) — for the identity and self-sabotage connection
 
----
 
 **Self-sabotage is not a character flaw. It is a system failure.** To see the system repaired with the 2-minute rule and the 2-day rule, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to habits instead of moments.
 

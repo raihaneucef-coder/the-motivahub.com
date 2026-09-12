@@ -30,13 +30,9 @@ faq:
   - q: "Can I ever stop caring completely?"
     a: "No, and you should not. Some social feedback is useful. The goal is not to stop caring entirely. The goal is to care less about strangers' opinions and more about the opinions of people who know and respect you."
   - q: "What is the spotlight effect?"
-    a: "The spotlight effect is the psychological phenomenon where you think people notice you more than they actually do. In reality, everyone is focused on their own lives, mistakes, and insecurities."relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+    a: "The spotlight effect is the psychological phenomenon where you think people notice you more than they actually do. In reality, everyone is focused on their own lives, mistakes, and insecurities."
 ---
+
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -121,7 +117,6 @@ Fear is not a stop sign. It is a signal that you are doing something that matter
 
 > *You would not worry so much about what others think of you if you realized how seldom they do. — Eleanor Roosevelt*
 
----
 
 ## The Practice: 30 Days of Not Caring
 
@@ -137,7 +132,6 @@ If you want to build this skill, here is the protocol:
 
 Most people find that 80% of their worries never happened, and the 20% that did happen were not as bad as they expected.
 
----
 
 ## What Comes After 30 Days
 
@@ -151,7 +145,6 @@ Each layer compounds. Each one is small. Each one survives bad days.
 
 This is the system I am still building. The 30-day practice was the foundation. Everything else is built on top.
 
----
 
 ## Free Yourself From Opinions
 
@@ -159,7 +152,6 @@ Our [30 Days of Discipline](/30-days-discipline/) helps you build inner strength
 
 The goal is not to stop caring completely. The goal is to care about the right things: your values, your principles, the opinions of people who know and respect you. Everything else is noise.
 
----
 
 *Youssef Raihane spent 3 weeks rewriting one article in 2023 because he was afraid of judgment. He published it on the 7th draft. It was not his best work. He now uses the 5-year test before every publish.*
 
@@ -169,7 +161,6 @@ The goal is not to stop caring completely. The goal is to care about the right t
 2. *Dweck, C.* (2006). *Mindset: The New Psychology of Success.* — for the identity and fear of judgment connection
 3. *Brown, B.* (2010). *The Gifts of Imperfection.* — for the belonging vs. approval-seeking distinction
 
----
 
 **To stop caring what people think, start by caring what you think.** Our [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) shows how to build an identity that does not need external validation.
 

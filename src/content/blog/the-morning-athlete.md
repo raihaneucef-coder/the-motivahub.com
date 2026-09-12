@@ -34,14 +34,8 @@ faq:
     a: "No. Most coaches recommend 3-4 sessions per week with active recovery on other days. The morning athlete principle is about doing something (even small) every morning. Walk, stretch, mobility — something. Build the daily movement first."
   - q: "What if I feel terrible after early workouts?"
     a: "That's a sign of wrong intensity, not wrong timing. 5 AM workouts should be moderate to hard, but not all-out. If you're wrecked by 9 AM, you're going too hard. Moderate intensity morning workouts energize rather than deplete."
-relatedArticles:
-  - "i-tested-12-morning-routines"
-  - "5-minute-morning-habit"
-  - "hydration-performance"
-  - "recovery-is-training"
-  - "strength-is-a-skill"
-  - "fuel-before-willpower"
 ---
+
 
 # The Morning Athlete: Why 5 AM Still Wins (And How to Actually Do It)
 > **Medical Disclaimer**: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.
@@ -297,7 +291,6 @@ You can build the same thing. Start tomorrow.
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
----
 
 *Youssef Raihane has trained at 5 AM for 12 years. He's missed 4 weeks due to injury. He's gained 8 pounds of muscle and lost 12 pounds of fat (net). He's run 4 marathons. He's learned more from the misses than the wins. He's still learning.*
 
@@ -310,7 +303,6 @@ You can build the same thing. Start tomorrow.
 5. *Mark Sisson* — *Primal Endurance* — for the morning training philosophy
 6. *Christopher Bergland* — *The Athlete's Way* — for the recovery science
 
----
 
 **The athlete's morning is a chain, not a stage.** One link (water), then another (movement), then another (the thing that actually matters to you). The chain is what makes the morning an athlete's morning. The [Habit Stack Generator](/tools/habit-stacker/) builds the chain for you — paste in your anchor, your new habit, your cue, and it outputs a 30-day plan in 60 seconds.
 

@@ -29,13 +29,9 @@ faq:
   - q: "What can I learn from athlete discipline?"
     a: "You can learn that the boring work is the work. Champions are not made in the moment of victory. They are made in the thousands of hours of preparation that no one sees."
   - q: "Is discipline the same as motivation?"
-    a: "No. Motivation is a feeling. Discipline is a practice. Motivation comes and goes. Discipline is what you do when motivation is gone."relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+    a: "No. Motivation is a feeling. Discipline is a practice. Motivation comes and goes. Discipline is what you do when motivation is gone."
 ---
+
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -164,7 +160,6 @@ Most people who try this for 30 days report:
 
 The data will convince you faster than any motivation video.
 
----
 
 ## The Honest Summary
 
@@ -178,7 +173,6 @@ It will not make you a champion. It will not change your life in a week.
 
 But it will give you back your agency. And that, I think, is worth something.
 
----
 
 *Youssef Raihane trained for a half marathon in 2022, finishing in 2 hours 15 minutes. He missed 4 runs out of 36. The discipline he built from that training now applies to every long-term project.*
 
@@ -188,7 +182,6 @@ But it will give you back your agency. And that, I think, is worth something.
 2. *Clear, J.* (2018). *Atomic Habits.* — for the 2-day rule and identity-based habits
 3. *Lally, P., et al.* (2009). "How are habits formed: Modelling habit formation in the real world." *European Journal of Social Psychology*, 40(6), 998-1009.
 
----
 
 **Sport is a mirror.** To see the same discipline applied to writing and creativity, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to habits instead of miles.
 

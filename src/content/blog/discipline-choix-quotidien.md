@@ -28,14 +28,9 @@ faq:
   - q: "Can discipline be kind?"
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)
-relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)"
 ---
+
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -121,7 +116,7 @@ faq:
   - q: "Can discipline be kind?"
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
----
+    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009)."
+
 
 **Choose discipline today.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 daily choices to practice. Track your choices with our [Habit Tracker](/tracker/).

@@ -32,13 +32,8 @@ faq:
     a: "No. Counting days creates a finish-line mindset. Habits are about building a lifestyle, not reaching a goal. Focus on the system, not the timeline. The 2-day rule (never miss twice) is more useful than day-counting."
   - q: "What should I do instead of counting 21 days?"
     a: "Focus on the 2-minute rule for starting, the 2-day rule for recovery, and identity-based voting for long-term motivation. Track whether you showed up, not how many days you've completed."
-relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
 ---
+
 
 # The 21-Day Myth: How Long It Really Takes to Build a Habit
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -86,6 +81,5 @@ The habit is not something you do for a period of time. It is something you do f
 
 > *The habit is not the destination. The habit is the journey. And the journey never ends.*
 
----
 
 **Build habits that last.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 days of practice. But the goal is not 30 days — it is a lifetime of discipline. Track your journey with our [Habit Tracker](/tracker/).
