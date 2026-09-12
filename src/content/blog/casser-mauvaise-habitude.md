@@ -30,7 +30,8 @@ faq:
   - q: "What is the hardest bad habit to break?"
     a: "The hardest bad habits are the ones that serve a purpose. Smoking relieves stress. Scrolling relieves boredom. Junk food relieves emotional pain. If you only remove the habit without addressing the underlying need, the habit will come back. The fix: replace the habit with a better one that serves the same purpose."
   - q: "Can I break a bad habit without willpower?"
-    a: "Yes. Willpower is a finite resource. The reverse four laws work by removing the need for willpower. Make the trigger invisible. Make the habit unattractive. Make it difficult. Make it unsatisfying. The habit breaks itself."relatedArticles:
+    a: "Yes. Willpower is a finite resource. The reverse four laws work by removing the need for willpower. Make the trigger invisible. Make the habit unattractive. Make it difficult. Make it unsatisfying. The habit breaks itself."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

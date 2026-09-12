@@ -29,7 +29,8 @@ faq:
   - q: "Do I need to be an athlete to benefit from this?"
     a: "No. You need consistency, not intensity. Two 20-minute walks per week preserve the body that carries your mind. One hard effort per week reminds you that discomfort is survivable. The minimum effective dose is much smaller than you think."
   - q: "What is the relationship between body and identity?"
-    a: "Every workout is evidence filed away: 'I am someone who does what I said.' Miss a week and the file thins. Keep showing up for a month and it thickens into something the mind can lean on when motivation goes quiet. The body votes first. Make sure it votes the way you would have chosen."relatedArticles:
+    a: "Every workout is evidence filed away: 'I am someone who does what I said.' Miss a week and the file thins. Keep showing up for a month and it thickens into something the mind can lean on when motivation goes quiet. The body votes first. Make sure it votes the way you would have chosen."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

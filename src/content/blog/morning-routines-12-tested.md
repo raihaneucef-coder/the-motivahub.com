@@ -4,7 +4,7 @@ description: "Fourteen days, twelve routines, four archetypes. A field report on
 pubDate: 2026-09-03
 updatedDate: 2026-09-07
 readTime: "16 MIN"
-image: "/images/blog/morning-routines-12-tested-1.jpg
+image: "/images/blog/morning-routines-12-tested-1.jpg"
 imageAlt: "Youssef Raihane - morning routines 12 tested concept"
 topic: "Habits"
 keywords:
@@ -38,7 +38,8 @@ faq:
   - q: "What is the most overrated morning routine?"
     a: "Ice baths. The 5-minute ice bath added zero measurable benefit over a 30-second cold shower at the end of a normal shower. The 5-minute version is what people post on social media. The 30-second version is what people actually do for 365 days."
   - q: "How do I find the right morning routine for me?"
-    a: "Three filters. (1) Your chronotype: if you are a night owl, do not schedule deep focus work at 6 AM. (2) Your discipline archetype: Builders (start small and stack) want 5-minute routines. Sprinters (intense bursts) want 60-90 minute routines. Marathoners (consistent long effort) want 30-45 minute routines. Strategists (systems first) want a written protocol. (3) Your real schedule: a routine that does not survive a 6:30 AM call is a routine you will quit by day 7."relatedArticles:
+    a: "Three filters. (1) Your chronotype: if you are a night owl, do not schedule deep focus work at 6 AM. (2) Your discipline archetype: Builders (start small and stack) want 5-minute routines. Sprinters (intense bursts) want 60-90 minute routines. Marathoners (consistent long effort) want 30-45 minute routines. Strategists (systems first) want a written protocol. (3) Your real schedule: a routine that does not survive a 6:30 AM call is a routine you will quit by day 7."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

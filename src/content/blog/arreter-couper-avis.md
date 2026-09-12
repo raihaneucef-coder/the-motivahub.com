@@ -30,7 +30,8 @@ faq:
   - q: "Can I ever stop caring completely?"
     a: "No, and you should not. Some social feedback is useful. The goal is not to stop caring entirely. The goal is to care less about strangers' opinions and more about the opinions of people who know and respect you."
   - q: "What is the spotlight effect?"
-    a: "The spotlight effect is the psychological phenomenon where you think people notice you more than they actually do. In reality, everyone is focused on their own lives, mistakes, and insecurities."relatedArticles:
+    a: "The spotlight effect is the psychological phenomenon where you think people notice you more than they actually do. In reality, everyone is focused on their own lives, mistakes, and insecurities."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

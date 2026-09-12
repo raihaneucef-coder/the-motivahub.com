@@ -4,7 +4,7 @@ description: "A personal experiment. Seven days, one identity statement, one tin
 pubDate: 2026-09-03
 updatedDate: 2026-09-12
 readTime: "14 MIN"
-image: "/images/blog/identity-challenge-7-days-1.jpg
+image: "/images/blog/identity-challenge-7-days-1.jpg"
 imageAlt: "Youssef Raihane - identity challenge 7 days concept"
 topic: "Habits"
 keywords:
@@ -38,7 +38,8 @@ faq:
   - q: "What is the difference between an identity challenge and a goal?"
     a: "A goal is an outcome ('run a marathon'). An identity is a way of being ('I am a runner'). The goal is finished in 26.2 miles. The identity is reinforced every time you train, eat, sleep, and think like a runner — forever. Identity lasts; goals are checkpoints."
   - q: "Can I run more than one identity challenge at the same time?"
-    a: "Not if you want them to stick. The first 7 days of any new habit pattern is when the brain is building the strongest neural scaffolding. Splitting that scaffolding across two or three new patterns dilutes it. One challenge at a time. Stack them after each has passed day 14."relatedArticles:
+    a: "Not if you want them to stick. The first 7 days of any new habit pattern is when the brain is building the strongest neural scaffolding. Splitting that scaffolding across two or three new patterns dilutes it. One challenge at a time. Stack them after each has passed day 14."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"

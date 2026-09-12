@@ -29,7 +29,8 @@ faq:
   - q: "What is the difference between a boundary and a wall?"
     a: "A boundary is a instruction manual for how to love you well. A wall is what happens when boundaries are not communicated. Walls are silent. Boundaries are spoken. Walls push people away. Boundaries invite them closer, with clarity."
   - q: "Can boundaries save a relationship?"
-    a: "Yes. Resentment is almost always a boundary that was not stated in time. State it early, plainly, and without blame. The relationship that survives the boundary is the relationship that was real."relatedArticles:
+    a: "Yes. Resentment is almost always a boundary that was not stated in time. State it early, plainly, and without blame. The relationship that survives the boundary is the relationship that was real."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"
