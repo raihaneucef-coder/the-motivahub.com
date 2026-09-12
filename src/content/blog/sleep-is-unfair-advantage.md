@@ -33,8 +33,14 @@ faq:
     a: "Mixed. Consumer trackers (Oura, Whoop, Apple Watch) overestimate deep sleep and underestimate light sleep. They're useful for trends (is your sleep getting better or worse) but not for absolute measurements. The best tracker is your subjective morning energy."
   - q: "Is napping good or bad?"
     a: "Short naps (10-20 min, before 2 PM) improve afternoon performance without affecting nighttime sleep. Longer naps (30+ min) or late naps (after 3 PM) can disrupt nighttime sleep architecture. If you're tired enough to need a long nap, your nighttime sleep probably needs attention first."
+relatedArticles:
+  - "routine-matin-sante"
+  - "hydration-performance"
+  - "recovery-is-training"
+  - "i-tested-12-morning-routines"
+  - "nervous-system-reset-focus"
+  - "fuel-before-willpower"
 ---
-
 
 # Sleep Is Your Unfair Advantage (What Happened When I Tracked It for 60 Days)
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -312,6 +318,7 @@ You can do the same. Start with the cheapest rule (cool room) tonight.
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
+---
 
 *Youssef Raihane tracked sleep for 60 days. He bought blackout curtains and a cheap sleep mask. He stopped using the Oura ring. His morning energy went from 4.8/10 to 8.2/10. The cost was €50. The research was 10 years old.*
 
@@ -325,6 +332,7 @@ You can do the same. Start with the cheapest rule (cool room) tonight.
 6. *Walker, M. P.* — *Why We Sleep* — for the cognitive decline research
 7. *Journal of Sleep Research* — for the napping research
 
+---
 
 **Sleep is the original 2-minute rule.** You do not need a complex sleep protocol. You need one 2-minute doorway: lights down, phone away, breath out. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) explains why the smallest possible version is the one that survives a bad day.
 

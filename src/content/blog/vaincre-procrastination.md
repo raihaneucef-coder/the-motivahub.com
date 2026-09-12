@@ -4,7 +4,7 @@ description: "Understand why you procrastinate and learn proven techniques to be
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/vaincre-procrastination-1.jpg"
+image: "/images/blog/vaincre-procrastination-1.jpg
 imageAlt: "Youssef Raihane - vaincre procrastination concept"
 topic: "Productivity"
 keywords:
@@ -29,9 +29,14 @@ faq:
   - q: "What if this doesn't work for me?"
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)"
+    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -132,7 +137,7 @@ faq:
   - q: "What if this doesn't work for me?"
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)."
-
+    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
+---
 
 **Prêt à vaincre la procrastination ?** Commence notre [30 Days of Discipline](/30-days-discipline/) — 30 jours pour construire une discipline inébranlable. Chaque jour, une action. Pas de négociation. Pas de perfectionnisme. Juste l'action.

@@ -32,8 +32,13 @@ faq:
     a: "Use the 2-minute rule. The goal is not the full habit — it is the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Discipline is not about heroic effort. It is about showing up for 2 minutes, even when you do not feel like it."
   - q: "Is discipline the same as being hard on yourself?"
     a: "No. Discipline is kind. It includes rest days, the 2-day rule, and the 2-minute doorway. Self-punishment is cruel. It has no recovery, no kindness, and no identity. The test: is the work building something or tearing something down? If it builds, it is discipline. If it tears, it is punishment wearing a discipline costume."
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 # Discipline Over Motivation: Why One Shows Up and the Other Doesn't
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -78,5 +83,6 @@ One day of discipline does not change your life. But 365 days of discipline crea
 
 > *Discipline is choosing between what you want now and what you want most. — Abraham Lincoln*
 
+---
 
 **Build discipline today.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 days of daily discipline. Track your streak with our [Habit Tracker](/tracker/).

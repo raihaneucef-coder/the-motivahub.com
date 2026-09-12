@@ -33,8 +33,14 @@ faq:
     a: "Identity shifts in 30-90 days if you consistently vote for it. The shift isn't dramatic — it's a quiet realization. One day you notice you stopped debating whether to read. You just read. That's the identity shift."
   - q: "Can you have multiple identity goals?"
     a: "Yes — but stack them. Build the first identity (e.g., 'I'm a reader') to automaticity before adding the second ('I'm a writer'). Each new identity compounds on the last. Trying to build three at once is a recipe for none."
+relatedArticles:
+  - "atomic-habits-review"
+  - "atomic-habits-revue-complete"
+  - "identity-precedes-outcome"
+  - "i-tested-12-morning-routines"
+  - "5-minute-morning-habit"
+  - "slow-productivity-30-day-test"
 ---
-
 
 # Identity-Based Goals: The One Change That Made My Habits Stick
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -270,6 +276,7 @@ Welcome to being someone different.
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
+---
 
 *Youssef Raihane spent a decade failing at goals. He spent 90 days building identities. He hasn't written a 90-day streak since. The votes accumulated. The identity shifted. The habits stuck.*
 
@@ -284,5 +291,6 @@ Welcome to being someone different.
 5. *James Clear* — [jamesclear.com](https://jamesclear.com) — for the original identity articles
 6. *Stanford Behavior Design Lab* — for the habit research
 
+---
 
 **Start so small it feels stupid.** The 2-minute rule is the operational version of identity-based change. If you have been trying to "become a writer" by writing three hours a day and burning out by week three, you were skipping the doorway. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) walks you through the 7-day protocol that makes the identity change real — not aspirational.

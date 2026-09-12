@@ -30,9 +30,13 @@ faq:
   - q: "What is the hardest bad habit to break?"
     a: "The hardest bad habits are the ones that serve a purpose. Smoking relieves stress. Scrolling relieves boredom. Junk food relieves emotional pain. If you only remove the habit without addressing the underlying need, the habit will come back. The fix: replace the habit with a better one that serves the same purpose."
   - q: "Can I break a bad habit without willpower?"
-    a: "Yes. Willpower is a finite resource. The reverse four laws work by removing the need for willpower. Make the trigger invisible. Make the habit unattractive. Make it difficult. Make it unsatisfying. The habit breaks itself."
+    a: "Yes. Willpower is a finite resource. The reverse four laws work by removing the need for willpower. Make the trigger invisible. Make the habit unattractive. Make it difficult. Make it unsatisfying. The habit breaks itself."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -172,6 +176,7 @@ Most people who try this for 30 days report:
 
 The data will convince you faster than any self-help book.
 
+---
 
 ## The Honest Summary
 
@@ -185,6 +190,7 @@ It will not make you perfect. It will not change your life in a week.
 
 But it will give you back your time. And that, I think, is worth something.
 
+---
 
 *Youssef Raihane broke his 3-hour-per-day scrolling habit in 2023 using the reverse four laws. He now spends that time writing, reading, and being present with his family.*
 
@@ -194,6 +200,7 @@ But it will give you back your time. And that, I think, is worth something.
 2. *Fogg, B. J.* (2019). *Tiny Habits: The Small Changes That Change Everything.* — for the trigger-habit-reward framework
 3. *Duhigg, C.* (2012). *The Power of Habit: Why We Do What We Do in Life and Business.* — for the habit loop and how to break it
 
+---
 
 **Breaking a bad habit is easier when you stop fighting it and start designing against it.** To see how the reverse four laws fit into the larger system of identity and habits, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to breaking bad habits instead of building good ones.
 

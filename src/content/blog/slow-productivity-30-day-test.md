@@ -4,7 +4,7 @@ description: "Cal Newport's slow productivity system in practice — fewer proje
 pubDate: 2026-09-03
 updatedDate: 2026-09-12
 readTime: "11 MIN"
-image: "/images/blog/slow-productivity-30-day-test-1.jpg"
+image: "/images/blog/slow-productivity-30-day-test-1.jpg
 imageAlt: "Youssef Raihane - slow productivity 30 day test concept"
 topic: "Productivity"
 keywords:
@@ -33,8 +33,14 @@ faq:
     a: "Start by reducing your active projects to 2-3 high-impact ones. Decline new commitments for 30 days. Notice how your work quality improves. Then renegotiate your ongoing responsibilities from a position of strength, not busyness."
   - q: "What if I work for someone else and can't choose my projects?"
     a: "You can still apply the principle: protect deep work blocks, refuse excessive meetings, and obsesses over quality in your 2-3 most important deliverables. The principle of slow productivity applies even when you can't fully control your project load."
+relatedArticles:
+  - "deep-work-ritual"
+  - "deep-work-focus"
+  - "batching-productivite"
+  - "technique-pomodoro"
+  - "time-blocking-journee"
+  - "discipline-beat-motivation"
 ---
-
 
 # I Tried Slow Productivity for 30 Days. Here's What Actually Changed.
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -287,6 +293,7 @@ The cost of staying busy is invisible. The benefit of slowing down is invisible 
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
+---
 
 *Youssef Raihane tested slow productivity in 2026. He killed 3 projects, kept 4, doubled his output quality, and worked 27% fewer hours. He still uses the system. The fire-the-bad-clients phase was the hardest part.*
 
@@ -299,6 +306,7 @@ The cost of staying busy is invisible. The benefit of slowing down is invisible 
 5. *Sophie Leroy* — "Why is it so hard to do my work?" (2009) — for the cognitive switching cost research
 6. *Cal Newport* — [calnewport.com](https://calnewport.com) — for the original slow productivity articles
 
+---
 
 **Slow productivity is the hallway, not the doorway.** Most of us try to start slow productivity by slowing down for an entire day. That is the hallway. The doorway is 2 minutes of quiet before opening the inbox. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the 7-day protocol that makes the doorway automatic.
 

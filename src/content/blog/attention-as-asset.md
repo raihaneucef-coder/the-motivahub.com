@@ -29,9 +29,13 @@ faq:
   - q: "Is multitasking really that bad?"
     a: "Yes. Research from the University of Michigan found that multitasking can reduce productivity by up to 40%. The switching cost compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work."
   - q: "What is the attention economy?"
-    a: "The attention economy is the market for human attention. Apps, social media, and news are designed to capture and hold your attention because attention is the new currency. The more attention they harvest, the more they earn from advertisers."
+    a: "The attention economy is the market for human attention. Apps, social media, and news are designed to capture and hold your attention because attention is the new currency. The more attention they harvest, the more they earn from advertisers."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -188,6 +192,7 @@ Most people who do this for one week report:
 
 The data will convince you faster than any productivity book.
 
+---
 
 ## The Honest Summary
 
@@ -197,6 +202,7 @@ The attention economy is designed to steal from you. The only defense is awarene
 
 Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.
 
+---
 
 *Youssef Raihane tracked his attention in 2023 and discovered he was stealing 3.5 hours per day from himself. He now works with his phone in another room during deep work and has doubled his output.*
 
@@ -206,6 +212,7 @@ Your attention is the only thing the modern economy cannot manufacture more of. 
 2. *Mark, G., et al.* (2008). "The cost of interrupted work: More speed and stress." *CHI Conference* — for the 40% productivity loss from multitasking
 3. *Seneca* — *On the Shortness of Life* — for the Stoic perspective on attention theft
 
+---
 
 **Attention is the new currency.** To see how to budget it alongside your habits, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to focus instead of habits.
 

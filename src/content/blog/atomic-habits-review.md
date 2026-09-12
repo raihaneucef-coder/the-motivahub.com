@@ -143,6 +143,7 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 Atomic Habits earns its reputation the way its subject would demand: quietly, consistently, over years. It will not excite you tonight — it will equip you for the next thousand mornings.
 
 Read it slowly. Apply one lesson per week. Vote daily.
+
 ---
 
 ## Sources
@@ -151,6 +152,7 @@ Read it slowly. Apply one lesson per week. Vote daily.
 2. *Lally, P., et al.* (2009). "How are habits formed: Modelling habit formation in the real world." *European Journal of Social Psychology*, 40(6), 998-1009. — for the 66-day habit formation median
 3. *Gollwitzer, P. M., & Sheeran, P.* (2006). "Implementation intentions and goal achievement: A meta-analysis." *Advances in Experimental Social Psychology*, 38, 69-119. — for the implementation intentions research
 
+---
 
 *Youssef Raihane read Atomic Habits 4 times in 18 months. Each read changed a different layer: framework, misunderstandings, application, and calibration. The book is now permanently on his desk — not as a reference, but as a calibration tool.*
 

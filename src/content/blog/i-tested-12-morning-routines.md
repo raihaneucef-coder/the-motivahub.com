@@ -34,8 +34,13 @@ faq:
     a: "Research suggests 18-66 days for habit consolidation. Expect 30 days to feel the shift and 90 days for the routine to be automatic. If you keep missing days, the routine is probably designed too big."
   - q: "What is the Miracle Morning by Hal Elrod?"
     a: "The Miracle Morning is a 6-step routine called SAVERS: Silence, Affirmations, Visualization, Exercise, Reading, Scribing (journaling). Each step takes 5-10 minutes. Total: 30-60 minutes. Popular but not one-size-fits-all."
+relatedArticles:
+  - "routine-matin-change-tout"
+  - "routine-matin-sante"
+  - "the-morning-athlete"
+  - "atomic-habits-review"
+  - "regle-deux-minutes"
 ---
-
 
 # I Tested 12 Morning Routines for 30 Days. Only One Actually Worked.
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -222,6 +227,7 @@ If your morning routine is dying, shrink it. Don't kill it. Shrink it.
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
+---
 
 *Youssef Raihane spent 30 days in late 2024 testing morning routines. The two stress fractures came from cold exposure + 5 AM sleep deprivation simultaneously (don't try that). The routine that survived is the one he still uses.*
 
@@ -233,6 +239,7 @@ If your morning routine is dying, shrink it. Don't kill it. Shrink it.
 4. *Atomic Habits* by James Clear — the habit design framework
 5. *James Clear* — [3-2-1 Newsletter](jamescle) — for morning routine research
 
+---
 
 **The smallest version is the one that survives.** If 90 minutes of morning routine sounds impossible, you are not failing the morning. You are skipping the doorway. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the 7-day protocol that turns "morning routine" from a heroic ideal into a 2-minute doorway. Pair it with the [5-Minute Morning Habit](/journal/5-minute-morning-habit/) for the full progression.
 

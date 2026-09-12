@@ -34,8 +34,13 @@ faq:
     a: "No. The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit. Research on micro-habits shows small daily actions stick better than longer weekly ones."
   - q: "What if I read and don't remember?"
     a: "You will remember 20-30% of what you read, even without notes. The act of reading trains your attention and vocabulary more than memory. For retention, take 2 minutes after each session to write down the one one idea."
+relatedArticles:
+  - "i-tested-12-morning-routines"
+  - "regle-deux-minutes"
+  - "atomic-habits-review"
+  - "habit-stacking-routine"
+  - "comment-creer-des-habitudes"
 ---
-
 
 # How to Read 30 Books in a Year (My 90-Day Test of the 20-Minute Habit)
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -209,6 +214,7 @@ You can do the same. Start with one book. Read 20 minutes tonight.
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
+---
 
 *Youssef Raihane spent 90 days in 2026 building a 20-minute daily reading habit. He finished 7 books (12 in progress), wrote 87 one-line summaries, and discovered that the books he'd been avoiding — Meditations, Thinking Fast and Slow — were exactly the ones he he needed. He's the is now on day 73 of his next 90.*
 
@@ -221,6 +227,7 @@ You can do the same. Start with one book. Read 20 minutes tonight.
 5. *James Clear* — [3-2-1 Newsletter](https://jamesclear.com) — for reading habit research
 6. *Meditations* by Marcus Aurelius (Hays translation, 2003) — for the 20-minute daily format
 
+---
 
 **Reading 30 books a year is a doorway problem, not a hallway problem.** Most people try to read for an hour a day. The hallway. The doorway is two pages in the morning. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the 7-day protocol that turns "I want to read more" from a wish into a system.
 

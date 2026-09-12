@@ -32,8 +32,13 @@ faq:
     a: "Three steps: (1) Name the emotion without judgment. (2) Reframe the setback as data, not identity. (3) Take one small action within 24 hours. The action does not need to solve the whole problem — it just needs to prove that movement is still possible. Momentum returns faster than motivation."
   - q: "Is resilience about never feeling pain?"
     a: "No. Resilience is about feeling the pain and choosing to move forward anyway. The resilient person does not avoid storms — they learn to dance in the rain. The difference between resilience and suppression: suppression hides the pain. Resilience processes it and keeps moving."
+relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
-
 
 # Mental Resilience: How to Bounce Back from Anything
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -144,8 +149,11 @@ They do not expect life to be easy. They expect to be able to handle whatever co
 
 > *You cannot control the storm. You can control how you build the ship. Build it strong. The storm will pass. And you will still be sailing.*
 
+---
 
 **Build your resilience.** Our [30 Days of Discipline](/30-days-discipline/) trains your mind to bounce back through daily challenges. Track your recovery with our [Habit Tracker](/tracker/).
 
+
+---
 
 **Related reads on Motiva Hub:** [Mindset, état d'esprit](/journal/mindset-etat-esprit/) · [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) · [2-Minute Rule guide](/journal/two-minute-rule-guide/)
