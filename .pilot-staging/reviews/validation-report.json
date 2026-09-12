@@ -1,0 +1,835 @@
+{
+  "pilot_run_date": "2026-09-10T14:13:06.349Z",
+  "total_articles": 5,
+  "total_candidates": 43,
+  "validation_summary": {
+    "passed_technical_validation": 43,
+    "flagged_dimensions": 0,
+    "flagged_aspect_ratio": 0,
+    "flagged_license": 0,
+    "flagged_source_url": 0,
+    "flagged_download_url": 0,
+    "auto_rejected": 0
+  },
+  "articles": [
+    {
+      "slug": "deep-work-ritual",
+      "candidates_total": 9,
+      "passed_technical_validation": 9,
+      "flagged_duplicates": 0,
+      "available_for_human_review": 9,
+      "candidates": [
+        {
+          "id": "7644139",
+          "url": "https://images.pexels.com/photos/7644139/pexels-photo-7644139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "926390",
+          "url": "https://images.pexels.com/photos/926390/pexels-photo-926390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "36713185",
+          "url": "https://images.pexels.com/photos/36713185/pexels-photo-36713185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "4939614",
+          "url": "https://images.pexels.com/photos/4939614/pexels-photo-4939614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "6334196",
+          "url": "https://images.pexels.com/photos/6334196/pexels-photo-6334196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "7793722",
+          "url": "https://images.pexels.com/photos/7793722/pexels-photo-7793722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "7964513",
+          "url": "https://images.pexels.com/photos/7964513/pexels-photo-7964513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "5918186",
+          "url": "https://images.pexels.com/photos/5918186/pexels-photo-5918186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "7580707",
+          "url": "https://images.pexels.com/photos/7580707/pexels-photo-7580707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        }
+      ]
+    },
+    {
+      "slug": "vaincre-procrastination",
+      "candidates_total": 7,
+      "passed_technical_validation": 7,
+      "flagged_duplicates": 1,
+      "available_for_human_review": 7,
+      "candidates": [
+        {
+          "id": "8386566",
+          "url": "https://images.pexels.com/photos/8386566/pexels-photo-8386566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "6029113",
+          "url": "https://images.pexels.com/photos/6029113/pexels-photo-6029113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 2,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "6029057",
+          "url": "https://images.pexels.com/photos/6029057/pexels-photo-6029057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 3,
+            "flagged": false,
+            "flag_reason": "Photographer has 2+ images in candidate set"
+          }
+        },
+        {
+          "id": "12729860",
+          "url": "https://images.pexels.com/photos/12729860/pexels-photo-12729860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "9898846",
+          "url": "https://images.pexels.com/photos/9898846/pexels-photo-9898846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "3182819",
+          "url": "https://images.pexels.com/photos/3182819/pexels-photo-3182819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "6028693",
+          "url": "https://images.pexels.com/photos/6028693/pexels-photo-6028693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 6,
+            "flagged": true,
+            "flag_reason": "Photographer saturation (3+ images)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "meal-prep-dimanche",
+      "candidates_total": 9,
+      "passed_technical_validation": 9,
+      "flagged_duplicates": 0,
+      "available_for_human_review": 9,
+      "candidates": [
+        {
+          "id": "1640775",
+          "url": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "5794779",
+          "url": "https://images.pexels.com/photos/5794779/pexels-photo-5794779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "5794767",
+          "url": "https://images.pexels.com/photos/5794767/pexels-photo-5794767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 2,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "36378013",
+          "url": "https://images.pexels.com/photos/36378013/pexels-photo-36378013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "36671734",
+          "url": "https://images.pexels.com/photos/36671734/pexels-photo-36671734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "9031968",
+          "url": "https://images.pexels.com/photos/9031968/pexels-photo-9031968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "30635719",
+          "url": "https://images.pexels.com/photos/30635719/pexels-photo-30635719.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "1640776",
+          "url": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 2,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "6995262",
+          "url": "https://images.pexels.com/photos/6995262/pexels-photo-6995262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        }
+      ]
+    },
+    {
+      "slug": "langage-corps-confiance",
+      "candidates_total": 9,
+      "passed_technical_validation": 9,
+      "flagged_duplicates": 2,
+      "available_for_human_review": 9,
+      "candidates": [
+        {
+          "id": "9017735",
+          "url": "https://images.pexels.com/photos/9017735/pexels-photo-9017735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 2,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "9017419",
+          "url": "https://images.pexels.com/photos/9017419/pexels-photo-9017419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 3,
+            "flagged": false,
+            "flag_reason": "Photographer has 2+ images in candidate set"
+          }
+        },
+        {
+          "id": "9017020",
+          "url": "https://images.pexels.com/photos/9017020/pexels-photo-9017020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 4,
+            "flagged": true,
+            "flag_reason": "Photographer saturation (3+ images)"
+          }
+        },
+        {
+          "id": "4760050",
+          "url": "https://images.pexels.com/photos/4760050/pexels-photo-4760050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "18500605",
+          "url": "https://images.pexels.com/photos/18500605/pexels-photo-18500605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "10622312",
+          "url": "https://images.pexels.com/photos/10622312/pexels-photo-10622312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "36918266",
+          "url": "https://images.pexels.com/photos/36918266/pexels-photo-36918266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "18635163",
+          "url": "https://images.pexels.com/photos/18635163/pexels-photo-18635163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "9031631",
+          "url": "https://images.pexels.com/photos/9031631/pexels-photo-9031631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 5,
+            "flagged": true,
+            "flag_reason": "Photographer saturation (3+ images)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "community-discipline",
+      "candidates_total": 9,
+      "passed_technical_validation": 9,
+      "flagged_duplicates": 0,
+      "available_for_human_review": 9,
+      "candidates": [
+        {
+          "id": "9433170",
+          "url": "https://images.pexels.com/photos/9433170/pexels-photo-9433170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "6147357",
+          "url": "https://images.pexels.com/photos/6147357/pexels-photo-6147357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "5684551",
+          "url": "https://images.pexels.com/photos/5684551/pexels-photo-5684551.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "7337618",
+          "url": "https://images.pexels.com/photos/7337618/pexels-photo-7337618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "6926671",
+          "url": "https://images.pexels.com/photos/6926671/pexels-photo-6926671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "7318793",
+          "url": "https://images.pexels.com/photos/7318793/pexels-photo-7318793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 2,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "5935180",
+          "url": "https://images.pexels.com/photos/5935180/pexels-photo-5935180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "5699478",
+          "url": "https://images.pexels.com/photos/5699478/pexels-photo-5699478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        },
+        {
+          "id": "8055530",
+          "url": "https://images.pexels.com/photos/8055530/pexels-photo-8055530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          "validation": {
+            "dimensions_ok": true,
+            "aspect_ratio_ok": true,
+            "license_ok": true,
+            "source_url_ok": true,
+            "download_url_ok": true,
+            "flagged": false
+          },
+          "duplicate_check": {
+            "exact_match": false,
+            "photographer_count": 1,
+            "flagged": false,
+            "flag_reason": null
+          }
+        }
+      ]
+    }
+  ]
+}

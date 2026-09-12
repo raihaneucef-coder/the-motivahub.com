@@ -1,0 +1,286 @@
+{
+  "article": "meal-prep-dimanche",
+  "url": "/journal/meal-prep-dimanche/",
+  "title": "Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours",
+  "topic": "Nutrition",
+  "current_image": "/images/blog/meal-prep-dimanche.jpg",
+  "visual_brief": "Simple, prepared meals — not gourmet, just consistent healthy choices. Shows meal prep as routine.",
+  "candidates": [
+    {
+      "id": "1640775",
+      "url": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/1640775/",
+      "photographer": "Ella Olsson",
+      "photographer_url": "https://www.pexels.com/@ella-olsson-572949",
+      "license": "Pexels License",
+      "width": 4827,
+      "height": 3862,
+      "avg_color": "#C2B3A8",
+      "alt": "Colorful healthy meal prep with corn, olives, tomatoes, and lentils in glass containers. Perfect for mindful eating.",
+      "download_url": "https://images.pexels.com/photos/1640775/pexels-photo-1640775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "meal prep containers healthy food organized",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "5794779",
+      "url": "https://images.pexels.com/photos/5794779/pexels-photo-5794779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/5794779/",
+      "photographer": "Nataliya Vaitkevich",
+      "photographer_url": "https://www.pexels.com/@n-voitkevich",
+      "license": "Pexels License",
+      "width": 6240,
+      "height": 4160,
+      "avg_color": "#545036",
+      "alt": "Healthy vegetables stored in plastic containers for fresh and nutritious meals.",
+      "download_url": "https://images.pexels.com/photos/5794779/pexels-photo-5794779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "meal prep containers healthy food organized",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "5794767",
+      "url": "https://images.pexels.com/photos/5794767/pexels-photo-5794767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/5794767/",
+      "photographer": "Nataliya Vaitkevich",
+      "photographer_url": "https://www.pexels.com/@n-voitkevich",
+      "license": "Pexels License",
+      "width": 5926,
+      "height": 3951,
+      "avg_color": "#3A4432",
+      "alt": "Organic vegetables displayed in plastic containers for a healthy diet.",
+      "download_url": "https://images.pexels.com/photos/5794767/pexels-photo-5794767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "meal prep containers healthy food organized",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 2,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "36378013",
+      "url": "https://images.pexels.com/photos/36378013/pexels-photo-36378013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/36378013/",
+      "photographer": "Letícia Alvares",
+      "photographer_url": "https://www.pexels.com/@leticia-alvares-1805702",
+      "license": "Pexels License",
+      "width": 5472,
+      "height": 3648,
+      "avg_color": "#A1785C",
+      "alt": "Blurred woman reaching into refrigerator, focusing on food container and drink bottle.",
+      "download_url": "https://images.pexels.com/photos/36378013/pexels-photo-36378013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "prepared meals containers fridge",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "36671734",
+      "url": "https://images.pexels.com/photos/36671734/pexels-photo-36671734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/36671734/",
+      "photographer": "Pew Nguyen",
+      "photographer_url": "https://www.pexels.com/@nguyendesigner",
+      "license": "Pexels License",
+      "width": 4416,
+      "height": 2488,
+      "avg_color": "#646859",
+      "alt": "A woman in pajamas checks the refrigerator in a warmly lit cozy kitchen.",
+      "download_url": "https://images.pexels.com/photos/36671734/pexels-photo-36671734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "prepared meals containers fridge",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "9031968",
+      "url": "https://images.pexels.com/photos/9031968/pexels-photo-9031968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/9031968/",
+      "photographer": "Kevin  Malik",
+      "photographer_url": "https://www.pexels.com/@kevin-malik",
+      "license": "Pexels License",
+      "width": 5844,
+      "height": 3896,
+      "avg_color": "#A89A8D",
+      "alt": "Back view of a blonde woman retrieving food from a refrigerator in a bright kitchen.",
+      "download_url": "https://images.pexels.com/photos/9031968/pexels-photo-9031968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "prepared meals containers fridge",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "30635719",
+      "url": "https://images.pexels.com/photos/30635719/pexels-photo-30635719.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/30635719/",
+      "photographer": "IARA MELO",
+      "photographer_url": "https://www.pexels.com/@iara-melo-558346607",
+      "license": "Pexels License",
+      "width": 5390,
+      "height": 3867,
+      "avg_color": "#C5AF97",
+      "alt": "Multiple containers of prepared meals with rice and vegetables for easy meal management.",
+      "download_url": "https://images.pexels.com/photos/30635719/pexels-photo-30635719.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "healthy meal prep batch cooking",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "1640776",
+      "url": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/1640776/",
+      "photographer": "Ella Olsson",
+      "photographer_url": "https://www.pexels.com/@ella-olsson-572949",
+      "license": "Pexels License",
+      "width": 5136,
+      "height": 3852,
+      "avg_color": "#D3C8C5",
+      "alt": "Colorful quinoa salad jar with roasted veggies, ideal for healthy meal prep.",
+      "download_url": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "healthy meal prep batch cooking",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 2,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "6995262",
+      "url": "https://images.pexels.com/photos/6995262/pexels-photo-6995262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/6995262/",
+      "photographer": "Julia M Cameron",
+      "photographer_url": "https://www.pexels.com/@julia-m-cameron",
+      "license": "Pexels License",
+      "width": 5260,
+      "height": 3507,
+      "avg_color": "#A19277",
+      "alt": "Assorted meal prep containers with beans, broccoli, and mashed potatoes, perfect for healthy eating.",
+      "download_url": "https://images.pexels.com/photos/6995262/pexels-photo-6995262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "healthy meal prep batch cooking",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    }
+  ],
+  "summary": {
+    "total_candidates": 9,
+    "passed_technical_validation": 9,
+    "flagged_duplicates": 0,
+    "available_for_human_review": 9
+  }
+}

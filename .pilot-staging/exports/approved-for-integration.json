@@ -1,0 +1,61 @@
+{
+  "pilot_run_date": "2026-09-10T01:07:00Z",
+  "status": "AWAITING_HUMAN_REVIEW",
+  "integration_blocked": true,
+  "reason": "Human review not yet completed. No images approved for integration.",
+  "articles": [
+    {
+      "slug": "deep-work-ritual",
+      "current_image": "/images/blog/deep-work-ritual.jpg",
+      "candidates_reviewed": 3,
+      "approved_candidates": [],
+      "rejected_candidates": [],
+      "integration_ready": false
+    },
+    {
+      "slug": "vaincre-procrastination",
+      "current_image": "/images/blog/vaincre-procrastination.jpg",
+      "candidates_reviewed": 2,
+      "approved_candidates": [],
+      "rejected_candidates": [],
+      "integration_ready": false
+    },
+    {
+      "slug": "meal-prep-dimanche",
+      "current_image": "/images/blog/meal-prep-dimanche.jpg",
+      "candidates_reviewed": 2,
+      "approved_candidates": [],
+      "rejected_candidates": [],
+      "integration_ready": false
+    },
+    {
+      "slug": "langage-corps-confiance",
+      "current_image": "/images/blog/langage-corps-confiance.jpg",
+      "candidates_reviewed": 2,
+      "approved_candidates": [],
+      "rejected_candidates": [],
+      "integration_ready": false
+    },
+    {
+      "slug": "community-discipline",
+      "current_image": "/images/blog/community-discipline.jpg",
+      "candidates_reviewed": 2,
+      "approved_candidates": [],
+      "rejected_candidates": [],
+      "integration_ready": false,
+      "flagged_mismatch": true,
+      "mismatch_reason": "Current image is beach volleyball net. New image must show community/accountability/group discipline."
+    }
+  ],
+  "next_steps": [
+    "1. Human reviews pilot-review.html",
+    "2. Human approves/rejects candidates per article",
+    "3. Human provides Pexels API key via environment variable",
+    "4. Pipeline downloads approved images to staging",
+    "5. Human confirms final selections",
+    "6. Integration step copies images to public/images/blog/",
+    "7. Integration step updates article frontmatter",
+    "8. Build + Playwright verification runs",
+    "9. Production files modified ONLY at final integration step"
+  ]
+}

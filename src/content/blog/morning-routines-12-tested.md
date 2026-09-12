@@ -4,7 +4,8 @@ description: "Fourteen days, twelve routines, four archetypes. A field report on
 pubDate: 2026-09-03
 updatedDate: 2026-09-07
 readTime: "16 MIN"
-image: "/images/blog/morning-routines-12-tested.jpg"
+image: "/images/blog/morning-routines-12-tested-1.jpg
+imageAlt: "Youssef Raihane - morning routines 12 tested concept"
 topic: "Habits"
 keywords:
   - "morning routine"
@@ -37,10 +38,22 @@ faq:
   - q: "What is the most overrated morning routine?"
     a: "Ice baths. The 5-minute ice bath added zero measurable benefit over a 30-second cold shower at the end of a normal shower. The 5-minute version is what people post on social media. The 30-second version is what people actually do for 365 days."
   - q: "How do I find the right morning routine for me?"
-    a: "Three filters. (1) Your chronotype: if you are a night owl, do not schedule deep focus work at 6 AM. (2) Your discipline archetype: Builders (start small and stack) want 5-minute routines. Sprinters (intense bursts) want 60-90 minute routines. Marathoners (consistent long effort) want 30-45 minute routines. Strategists (systems first) want a written protocol. (3) Your real schedule: a routine that does not survive a 6:30 AM call is a routine you will quit by day 7."
+    a: "Three filters. (1) Your chronotype: if you are a night owl, do not schedule deep focus work at 6 AM. (2) Your discipline archetype: Builders (start small and stack) want 5-minute routines. Sprinters (intense bursts) want 60-90 minute routines. Marathoners (consistent long effort) want 30-45 minute routines. Strategists (systems first) want a written protocol. (3) Your real schedule: a routine that does not survive a 6:30 AM call is a routine you will quit by day 7."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
+**I Tested 12 Morning Routines for 14 Days. Only 3 of Them Stuck.** — practical guide based on real experiments. I Tested 12 Morning Routines for 14 Days. Only 3 of Them Stuck. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.
+
 # I Tested 12 Morning Routines for 14 Days. Only 3 of Them Stuck.
+
+**There is no single best morning routine.** I tested 12 routines for 14 days. The three that stuck were: 5-minute journaling, 20-minute walk, and 10-minute cold shower. Everything else collapsed under its own ambition. The best routine is the one you can sustain on your worst day. Most morning routines fail because they're designed for a day that doesn't exist.
 
 Six months ago I did the thing everyone does at least once. I bought a copy of *The Miracle Morning*, watched three YouTube videos of high-performers doing 5 AM routines, and decided I was going to be a morning person.
 

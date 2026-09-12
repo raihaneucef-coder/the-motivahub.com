@@ -1,0 +1,286 @@
+{
+  "article": "deep-work-ritual",
+  "url": "/journal/deep-work-ritual/",
+  "title": "I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)",
+  "topic": "Productivity",
+  "current_image": "/images/blog/deep-work-ritual.jpg",
+  "visual_brief": "A person in deep focused work — phone away, single task on screen, calm concentrated expression. Shows distraction-free depth.",
+  "candidates": [
+    {
+      "id": "7644139",
+      "url": "https://images.pexels.com/photos/7644139/pexels-photo-7644139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/7644139/",
+      "photographer": "MART  PRODUCTION",
+      "photographer_url": "https://www.pexels.com/@mart-production",
+      "license": "Pexels License",
+      "width": 5995,
+      "height": 3997,
+      "avg_color": "#A7ABAA",
+      "alt": "Businesswoman sitting in modern office chair interacting with smartphone beside laptop.",
+      "download_url": "https://images.pexels.com/photos/7644139/pexels-photo-7644139.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "deep work focused person desk phone away",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "926390",
+      "url": "https://images.pexels.com/photos/926390/pexels-photo-926390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/926390/",
+      "photographer": "Andrea Piacquadio",
+      "photographer_url": "https://www.pexels.com/@olly",
+      "license": "Pexels License",
+      "width": 7680,
+      "height": 5120,
+      "avg_color": "#AA9B8B",
+      "alt": "Focused businessman working on laptop while checking smartphone in modern office.",
+      "download_url": "https://images.pexels.com/photos/926390/pexels-photo-926390.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "deep work focused person desk phone away",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "36713185",
+      "url": "https://images.pexels.com/photos/36713185/pexels-photo-36713185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/36713185/",
+      "photographer": "Vitaly Gariev",
+      "photographer_url": "https://www.pexels.com/@silverkblack",
+      "license": "Pexels License",
+      "width": 3840,
+      "height": 2160,
+      "avg_color": "#91948B",
+      "alt": "Man concentrating on mobile phone at work desk with laptop and plants, indoor setting.",
+      "download_url": "https://images.pexels.com/photos/36713185/pexels-photo-36713185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "deep work focused person desk phone away",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "4939614",
+      "url": "https://images.pexels.com/photos/4939614/pexels-photo-4939614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/4939614/",
+      "photographer": "Vlada Karpovich",
+      "photographer_url": "https://www.pexels.com/@vlada-karpovich",
+      "license": "Pexels License",
+      "width": 5700,
+      "height": 3800,
+      "avg_color": "#CEBEB4",
+      "alt": "Young man in gray shirt working on a laptop indoors, embodying modern remote work lifestyle.",
+      "download_url": "https://images.pexels.com/photos/4939614/pexels-photo-4939614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person concentrated work single task calm",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "6334196",
+      "url": "https://images.pexels.com/photos/6334196/pexels-photo-6334196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/6334196/",
+      "photographer": "https://kaboompics.com/",
+      "photographer_url": "https://www.pexels.com/@karola-g",
+      "license": "Pexels License",
+      "width": 6720,
+      "height": 4480,
+      "avg_color": "#8D888A",
+      "alt": "Bald man in office holding eyeglasses, working at desk with laptop.",
+      "download_url": "https://images.pexels.com/photos/6334196/pexels-photo-6334196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person concentrated work single task calm",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "7793722",
+      "url": "https://images.pexels.com/photos/7793722/pexels-photo-7793722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/7793722/",
+      "photographer": "Yan Krukau",
+      "photographer_url": "https://www.pexels.com/@yankrukov",
+      "license": "Pexels License",
+      "width": 6000,
+      "height": 4000,
+      "avg_color": "#7B7370",
+      "alt": "Businessman in a suit using a laptop at a white table, focused on work in a modern office setting.",
+      "download_url": "https://images.pexels.com/photos/7793722/pexels-photo-7793722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person concentrated work single task calm",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "7964513",
+      "url": "https://images.pexels.com/photos/7964513/pexels-photo-7964513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/7964513/",
+      "photographer": "Felicity Tai",
+      "photographer_url": "https://www.pexels.com/@felicity-tai",
+      "license": "Pexels License",
+      "width": 6000,
+      "height": 4000,
+      "avg_color": "#8B9093",
+      "alt": "Two professionals working diligently on laptops in a modern office setup, capturing productivity and teamwork.",
+      "download_url": "https://images.pexels.com/photos/7964513/pexels-photo-7964513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "distraction free workspace focused worker",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "5918186",
+      "url": "https://images.pexels.com/photos/5918186/pexels-photo-5918186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/5918186/",
+      "photographer": "Jack Sparrow",
+      "photographer_url": "https://www.pexels.com/@jack-sparrow",
+      "license": "Pexels License",
+      "width": 5000,
+      "height": 3333,
+      "avg_color": "#944F47",
+      "alt": "Man working in a cozy office booth with laptop and coffee, showcasing a modern workspace setup.",
+      "download_url": "https://images.pexels.com/photos/5918186/pexels-photo-5918186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "distraction free workspace focused worker",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "7580707",
+      "url": "https://images.pexels.com/photos/7580707/pexels-photo-7580707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/7580707/",
+      "photographer": "RDNE Stock project",
+      "photographer_url": "https://www.pexels.com/@rdne",
+      "license": "Pexels License",
+      "width": 4431,
+      "height": 2954,
+      "avg_color": "#686A64",
+      "alt": "A dedicated businessman in a suit concentrating on work at a modern office desk.",
+      "download_url": "https://images.pexels.com/photos/7580707/pexels-photo-7580707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "distraction free workspace focused worker",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    }
+  ],
+  "summary": {
+    "total_candidates": 9,
+    "passed_technical_validation": 9,
+    "flagged_duplicates": 0,
+    "available_for_human_review": 9
+  }
+}

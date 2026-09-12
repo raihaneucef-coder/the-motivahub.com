@@ -2,8 +2,10 @@
 title: "I Tested 12 Morning Routines for 30 Days. Only One Actually Worked."
 description: "I tried every famous morning routine for 30 days — Hal Elrod's Miracle Morning, Tim Ferriss's 4-Hour Body protocol, the5 AM wake-up, the slow morning, the cold plunge, and more. Here's what survived contact with a real Tuesday."
 pubDate: 2026-09-01
+updatedDate: 2026-09-12
 readTime: "12 MIN"
 image: "/images/blog/routine-matin-sante.jpg"
+imageAlt: "Youssef Raihane - i tested 12 morning routines concept"
 topic: "Habits"
 keywords:
   - "morning routine"
@@ -40,8 +42,11 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
+# I Tested 12 Morning Routines for 30 Days. Only One Actually Worked.
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
+
+**There is no one-size-fits-all morning routine.** The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a 90-minute ritual that requires quitting your job. I tested 12 routines for 30 days. Only one survived contact with a real Tuesday.
 
 I spent 30 days testing every famous morning routine. Hal Elrod's Miracle Morning. Tim Ferriss's slow wake-up. The 5 AM cult. The cold plunge. The 4-minute workout. The journal-only protocol. Twelve different routines, one month of experimentation, two stress fractures, and a freezer full of ice cubes.
 

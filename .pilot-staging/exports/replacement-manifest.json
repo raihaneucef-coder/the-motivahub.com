@@ -1,0 +1,76 @@
+{
+  "replacements": [
+    {
+      "article_slug": "discipline-vs-punishment",
+      "article_title": "Discipline vs Punishment: What's the Difference?",
+      "current_image": "/images/blog/discipline-vs-punishment.jpg",
+      "search_query": "discipline vs punishment choice accountability teaching",
+      "selection_criteria": "Clean editorial photo showing teaching, mentorship, or accountability rather than punishment. Avoid prison, crime, or harsh imagery. Prefer balanced light, professional composition.",
+      "target_filename": "discipline-vs-punishment-1.jpg"
+    },
+    {
+      "article_slug": "identity-challenge-7-days",
+      "article_title": "The 7-Day Identity Challenge",
+      "current_image": "/images/blog/identity-challenge-7-days.jpg",
+      "search_query": "7 day challenge identity transformation new habit",
+      "selection_criteria": "Visual representing transformation, challenge, or new identity. Avoid generic selfie or stock smiling portrait. Prefer concept of becoming, mirror, or first-day action.",
+      "target_filename": "identity-challenge-7-days-1.jpg"
+    },
+    {
+      "article_slug": "missed-day-protocol",
+      "article_title": "What to Do When You Miss a Day (Without Quitting Everything)",
+      "current_image": "/images/blog/missed-day-protocol.jpg",
+      "search_query": "missed day restart get back up resilience protocol",
+      "selection_criteria": "Image representing restart, recovery, or getting back on track. Avoid failure, despair, or giving-up imagery. Prefer upward motion, restart button, or return to path.",
+      "target_filename": "missed-day-protocol-1.jpg"
+    },
+    {
+      "article_slug": "morning-routines-12-tested",
+      "article_title": "I Tested 12 Morning Routines",
+      "current_image": "/images/blog/morning-routines-12-tested.jpg",
+      "search_query": "morning routine sunrise early wake up habit",
+      "selection_criteria": "Authentic morning scene, not generic success imagery. Prefer sunrise, morning light, simple routine action like writing, stretching, or coffee. Avoid staged 'success' portraits.",
+      "target_filename": "morning-routines-12-tested-1.jpg"
+    },
+    {
+      "article_slug": "morning-vs-night",
+      "article_title": "Morning vs Night: Which Discipline Actually Sticks?",
+      "current_image": "/images/blog/morning-vs-night.jpg",
+      "search_query": "morning vs night discipline comparison contrast",
+      "selection_criteria": "Image that can represent both times of day or the contrast. Prefer split light, window views, or workspace at different hours. Avoid generic time-lapse landscapes.",
+      "target_filename": "morning-vs-night-1.jpg"
+    },
+    {
+      "article_slug": "two-minute-rule-guide",
+      "article_title": "The Two-Minute Rule: A Complete Guide",
+      "current_image": "/images/blog/two-minute-rule-guide.jpg",
+      "search_query": "two minute rule start small quick action habit",
+      "selection_criteria": "Visual representing small first step, quick action, or starting. Avoid generic self-improvement quotes or generic 'start' imagery. Prefer concrete small action.",
+      "target_filename": "two-minute-rule-guide-1.jpg"
+    },
+    {
+      "article_slug": "slow-productivity-30-day-test",
+      "article_title": "I Tried Slow Productivity for 30 Days",
+      "current_image": "/images/blog/discipline-depass-motivation.jpg",
+      "search_query": "slow productivity calm focused work no rush",
+      "selection_criteria": "Calm, paced productivity scene. Prefer quiet workspace, single task, unhurried workflow. Avoid gym, weightlifting, or high-intensity imagery.",
+      "target_filename": "slow-productivity-30-day-test-1.jpg"
+    },
+    {
+      "article_slug": "art-dire-non",
+      "article_title": "The Art of Saying No: How to Set Boundaries Without Guilt",
+      "current_image": "/images/blog/confidence-is-a-record-not-a-feeling.jpg",
+      "search_query": "saying no boundaries respect distance calm",
+      "selection_criteria": "Conceptual boundary image. Prefer doorway, line, pause gesture, respectful distance, or calm assertiveness. Avoid generic smiling portraits.",
+      "target_filename": "art-dire-non-1.jpg"
+    },
+    {
+      "article_slug": "detox-numerique",
+      "article_title": "Digital Detox: How Screen Time Is Destroying Your Health",
+      "current_image": "/images/blog/calm-is-a-superpower.jpg",
+      "search_query": "digital detox screen free offline quiet space",
+      "selection_criteria": "Tech-detox or offline scene. Prefer analog objects, clean silence, natural light without screens. Avoid generic smiling portraits or unrelated calm imagery.",
+      "target_filename": "detox-numerique-1.jpg"
+    }
+  ]
+}

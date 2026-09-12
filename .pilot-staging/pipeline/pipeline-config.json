@@ -1,0 +1,181 @@
+{
+  "pilot_articles": [
+    {
+      "slug": "deep-work-ritual",
+      "url": "/journal/deep-work-ritual/",
+      "title": "I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)",
+      "topic": "Productivity",
+      "current_image": "/images/blog/deep-work-ritual.jpg",
+      "is_picsum": true,
+      "visual_brief": "A person in deep focused work — phone away, single task on screen, calm concentrated expression. Shows distraction-free depth.",
+      "search_queries": {
+        "pexels": [
+          "deep work focused person desk phone away",
+          "person concentrated work single task calm",
+          "distraction free workspace focused worker"
+        ],
+        "unsplash": [
+          "deep work focus person desk",
+          "concentrated work single task",
+          "phone away focused workspace"
+        ]
+      },
+      "metadata_checks": {
+        "min_width": 1200,
+        "aspect_ratio_min": 1.2,
+        "aspect_ratio_max": 2.0
+      },
+      "duplicate_checks": {
+        "compare_against": ["all existing productivity images"],
+        "photographer_max_count": 3,
+        "color_similarity_threshold": 0.85
+      }
+    },
+    {
+      "slug": "vaincre-procrastination",
+      "url": "/journal/vaincre-procrastination/",
+      "title": "How to Stop Procrastinating — The Real Science Behind Procrastination",
+      "topic": "Productivity",
+      "current_image": "/images/blog/vaincre-procrastination.jpg",
+      "is_picsum": true,
+      "visual_brief": "A person delaying a task while distractions pull attention — visual tension between work and avoidance. Shows the procrastination dynamic.",
+      "search_queries": {
+        "pexels": [
+          "procrastination person avoiding work distraction",
+          "person delaying task phone distraction",
+          "unfinished work distracted person"
+        ],
+        "unsplash": [
+          "procrastination distraction person",
+          "avoiding work person distracted",
+          "unfinished task distraction"
+        ]
+      },
+      "metadata_checks": {
+        "min_width": 1200,
+        "aspect_ratio_min": 1.2,
+        "aspect_ratio_max": 2.0
+      },
+      "duplicate_checks": {
+        "compare_against": ["deep-work-ritual", "all existing productivity images"],
+        "photographer_max_count": 3,
+        "color_similarity_threshold": 0.85,
+        "note": "Must be different from deep-work-ritual (focus vs avoidance)"
+      }
+    },
+    {
+      "slug": "meal-prep-dimanche",
+      "url": "/journal/meal-prep-dimanche/",
+      "title": "Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours",
+      "topic": "Nutrition",
+      "current_image": "/images/blog/meal-prep-dimanche.jpg",
+      "is_picsum": true,
+      "visual_brief": "Simple, prepared meals — not gourmet, just consistent healthy choices. Shows meal prep as routine.",
+      "search_queries": {
+        "pexels": [
+          "meal prep containers healthy food organized",
+          "prepared meals containers fridge",
+          "healthy meal prep batch cooking"
+        ],
+        "unsplash": [
+          "meal prep healthy containers",
+          "batch cooking prepared meals",
+          "organized healthy food containers"
+        ]
+      },
+      "metadata_checks": {
+        "min_width": 1200,
+        "aspect_ratio_min": 1.0,
+        "aspect_ratio_max": 2.0
+      },
+      "duplicate_checks": {
+        "compare_against": ["all existing nutrition images"],
+        "photographer_max_count": 3,
+        "color_similarity_threshold": 0.85
+      }
+    },
+    {
+      "slug": "langage-corps-confiance",
+      "url": "/journal/langage-corps-confiance/",
+      "title": "Body Language Secrets: How to Project Confidence Without Saying a Word",
+      "topic": "Confidence",
+      "current_image": "/images/blog/langage-corps-confiance.jpg",
+      "is_picsum": true,
+      "visual_brief": "A person with open, confident posture — not aggressive, just grounded and present. Shows body language as communication.",
+      "search_queries": {
+        "pexels": [
+          "confident body language open posture person",
+          "person standing confident posture calm",
+          "open body language grounded presence"
+        ],
+        "unsplash": [
+          "confident posture body language",
+          "open posture calm confident person",
+          "grounded presence body language"
+        ]
+      },
+      "metadata_checks": {
+        "min_width": 1200,
+        "aspect_ratio_min": 1.2,
+        "aspect_ratio_max": 2.0
+      },
+      "duplicate_checks": {
+        "compare_against": ["all existing confidence images"],
+        "photographer_max_count": 3,
+        "color_similarity_threshold": 0.85
+      }
+    },
+    {
+      "slug": "community-discipline",
+      "url": "/journal/community-discipline/",
+      "title": "Community as Discipline — The Long Game of Belonging",
+      "topic": "Confidence",
+      "current_image": "/images/blog/community-discipline.jpg",
+      "is_picsum": false,
+      "flagged_mismatch": true,
+      "mismatch_reason": "PHOTO-CREDITS.md: 'deserted beach volleyball net at sunset' — beach photo for community-as-discipline article. Clear mismatch.",
+      "visual_brief": "People participating together, team practice, accountability, shared effort, group routine. Shows community as discipline.",
+      "search_queries": {
+        "pexels": [
+          "group accountability team practice shared effort",
+          "community discipline group routine together",
+          "people supporting each other accountability"
+        ],
+        "unsplash": [
+          "team accountability group support",
+          "community practice shared effort",
+          "group discipline together"
+        ]
+      },
+      "metadata_checks": {
+        "min_width": 1200,
+        "aspect_ratio_min": 1.2,
+        "aspect_ratio_max": 2.0
+      },
+      "duplicate_checks": {
+        "compare_against": ["all existing confidence/discipline images"],
+        "photographer_max_count": 3,
+        "color_similarity_threshold": 0.85
+      }
+    }
+  ],
+  "pipeline_config": {
+    "staging_dir": ".pilot-staging",
+    "candidates_dir": ".pilot-staging/candidates",
+    "reviews_dir": ".pilot-staging/reviews",
+    "exports_dir": ".pilot-staging/exports",
+    "api_providers": ["pexels", "unsplash"],
+    "candidates_per_query": 5,
+    "max_candidates_per_article": 10,
+    "validation": {
+      "auto_reject_min_width": 1200,
+      "auto_reject_max_aspect_ratio": 2.5,
+      "auto_reject_min_aspect_ratio": 1.0,
+      "photographer_saturation_limit": 3,
+      "require_source_url": true,
+      "require_download_url": true
+    },
+    "human_review_required": true,
+    "integration_requires_approval": true
+  }
+}

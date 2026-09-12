@@ -1,0 +1,226 @@
+{
+  "article": "vaincre-procrastination",
+  "url": "/journal/vaincre-procrastination/",
+  "title": "How to Stop Procrastinating — The Real Science Behind Procrastination",
+  "topic": "Productivity",
+  "current_image": "/images/blog/vaincre-procrastination.jpg",
+  "visual_brief": "A person delaying a task while distractions pull attention — visual tension between work and avoidance. Shows the procrastination dynamic.",
+  "candidates": [
+    {
+      "id": "8386566",
+      "url": "https://images.pexels.com/photos/8386566/pexels-photo-8386566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/8386566/",
+      "photographer": "Tara Winstead",
+      "photographer_url": "https://www.pexels.com/@tara-winstead",
+      "license": "Pexels License",
+      "width": 6720,
+      "height": 4480,
+      "avg_color": "#978F7A",
+      "alt": "A skeletal figure works at a desk with a laptop and scattered papers, symbolizing burnout.",
+      "download_url": "https://images.pexels.com/photos/8386566/pexels-photo-8386566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "procrastination person avoiding work distraction",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "6029113",
+      "url": "https://images.pexels.com/photos/6029113/pexels-photo-6029113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/6029113/",
+      "photographer": "https://kaboompics.com/",
+      "photographer_url": "https://www.pexels.com/@karola-g",
+      "license": "Pexels License",
+      "width": 6720,
+      "height": 4480,
+      "avg_color": "#837468",
+      "alt": "Woman resting on a couch with laptop, surrounded by papers, depicting stressed remote work lifestyle.",
+      "download_url": "https://images.pexels.com/photos/6029113/pexels-photo-6029113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "procrastination person avoiding work distraction",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 2,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "6029057",
+      "url": "https://images.pexels.com/photos/6029057/pexels-photo-6029057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/6029057/",
+      "photographer": "https://kaboompics.com/",
+      "photographer_url": "https://www.pexels.com/@karola-g",
+      "license": "Pexels License",
+      "width": 6593,
+      "height": 4395,
+      "avg_color": "#7E726A",
+      "alt": "A woman in comfortable loungewear surrounded by crumpled papers, working remotely from home.",
+      "download_url": "https://images.pexels.com/photos/6029057/pexels-photo-6029057.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "procrastination person avoiding work distraction",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 3,
+        "flagged": false,
+        "flag_reason": "Photographer has 2+ images in candidate set"
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "12729860",
+      "url": "https://images.pexels.com/photos/12729860/pexels-photo-12729860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/12729860/",
+      "photographer": "Darya Grey_Owl",
+      "photographer_url": "https://www.pexels.com/@darya-grey_owl-132130036",
+      "license": "Pexels License",
+      "width": 4608,
+      "height": 3072,
+      "avg_color": "#4B464C",
+      "alt": "Close-up of a person using a smartphone while driving in a car at dusk.",
+      "download_url": "https://images.pexels.com/photos/12729860/pexels-photo-12729860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person delaying task phone distraction",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "9898846",
+      "url": "https://images.pexels.com/photos/9898846/pexels-photo-9898846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/9898846/",
+      "photographer": "Vlad Deep",
+      "photographer_url": "https://www.pexels.com/@vlad-deep-29415806",
+      "license": "Pexels License",
+      "width": 5216,
+      "height": 3477,
+      "avg_color": "#B6B3AC",
+      "alt": "Confident young professional in eyeglasses checks phone messages while walking outside modern building.",
+      "download_url": "https://images.pexels.com/photos/9898846/pexels-photo-9898846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person delaying task phone distraction",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "3182819",
+      "url": "https://images.pexels.com/photos/3182819/pexels-photo-3182819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/3182819/",
+      "photographer": "fauxels",
+      "photographer_url": "https://www.pexels.com/@fauxels",
+      "license": "Pexels License",
+      "width": 6000,
+      "height": 4000,
+      "avg_color": "#878285",
+      "alt": "Bald adult in a white shirt writes notes using a smartphone in a busy office setting.",
+      "download_url": "https://images.pexels.com/photos/3182819/pexels-photo-3182819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person delaying task phone distraction",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "6028693",
+      "url": "https://images.pexels.com/photos/6028693/pexels-photo-6028693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/6028693/",
+      "photographer": "https://kaboompics.com/",
+      "photographer_url": "https://www.pexels.com/@karola-g",
+      "license": "Pexels License",
+      "width": 6720,
+      "height": 4480,
+      "avg_color": "#BBB4B0",
+      "alt": "A woman looking stressed, sitting at a desk with a laptop, crumpled papers, and eyeglasses.",
+      "download_url": "https://images.pexels.com/photos/6028693/pexels-photo-6028693.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "unfinished work distracted person",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 6,
+        "flagged": true,
+        "flag_reason": "Photographer saturation (3+ images)"
+      },
+      "status": "pending_review"
+    }
+  ],
+  "summary": {
+    "total_candidates": 7,
+    "passed_technical_validation": 7,
+    "flagged_duplicates": 1,
+    "available_for_human_review": 7
+  }
+}

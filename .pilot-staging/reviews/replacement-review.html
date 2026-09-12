@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Journal Image Replacement Review</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .header {
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+      color: #1a1a1a;
+    }
+
+    .subtitle {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 15px;
+    }
+
+    .warning-box {
+      background: #fff3cd;
+      border-left: 4px solid #ff9800;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 4px;
+    }
+
+    .warning-box h2 {
+      font-size: 18px;
+      margin-bottom: 10px;
+      color: #856404;
+    }
+
+    .warning-box ul {
+      margin-left: 20px;
+      color: #856404;
+    }
+
+    .warning-box li {
+      margin-bottom: 5px;
+    }
+
+    .protected-ids {
+      background: #f8d7da;
+      border-left: 4px solid #dc3545;
+      padding: 15px;
+      margin-top: 15px;
+      border-radius: 4px;
+    }
+
+    .protected-ids h3 {
+      font-size: 16px;
+      margin-bottom: 10px;
+      color: #721c24;
+    }
+
+    .protected-ids code {
+      background: #fff;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-family: 'Courier New', monospace;
+      font-size: 13px;
+    }
+
+    .instructions {
+      background: #d1ecf1;
+      border-left: 4px solid #17a2b8;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 4px;
+    }
+
+    .instructions h2 {
+      font-size: 18px;
+      margin-bottom: 10px;
+      color: #0c5460;
+    }
+
+    .instructions ol {
+      margin-left: 20px;
+      color: #0c5460;
+    }
+
+    .instructions li {
+      margin-bottom: 8px;
+    }
+
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .article-card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      border-top: 4px solid #dc3545;
+    }
+
+    .article-card h3 {
+      font-size: 18px;
+      margin-bottom: 5px;
+      color: #1a1a1a;
+    }
+
+    .article-slug {
+      font-family: 'Courier New', monospace;
+      font-size: 12px;
+      color: #666;
+      background: #f5f5f5;
+      padding: 3px 8px;
+      border-radius: 3px;
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+
+    .current-image {
+      background: #f8f9fa;
+      padding: 10px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      font-size: 13px;
+    }
+
+    .current-image strong {
+      color: #dc3545;
+    }
+
+    .reason {
+      background: #fff3cd;
+      padding: 10px;
+      border-radius: 4px;
+      margin-bottom: 15px;
+      font-size: 14px;
+      color: #856404;
+    }
+
+    .search-link {
+      display: inline-block;
+      background: #007bff;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 4px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      margin-bottom: 15px;
+      transition: background 0.2s;
+    }
+
+    .search-link:hover {
+      background: #0056b3;
+    }
+
+    .selection-form {
+      background: #f8f9fa;
+      padding: 15px;
+      border-radius: 4px;
+      margin-top: 15px;
+    }
+
+    .selection-form label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 5px;
+      font-size: 14px;
+      color: #495057;
+    }
+
+    .selection-form input[type="text"] {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+      font-size: 14px;
+      margin-bottom: 10px;
+      font-family: 'Courier New', monospace;
+    }
+
+    .selection-form input[type="text"]:focus {
+      outline: none;
+      border-color: #007bff;
+      box-shadow: 0 0 0 2px rgba(0,123,255,0.25);
+    }
+
+    .selection-form .hint {
+      font-size: 12px;
+      color: #6c757d;
+      margin-top: 5px;
+    }
+
+    .saved-selections {
+      margin-top: 30px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .saved-selections h2 {
+      font-size: 20px;
+      margin-bottom: 15px;
+      color: #1a1a1a;
+    }
+
+    .selection-item {
+      background: #f8f9fa;
+      padding: 12px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+
+    .selection-item strong {
+      color: #28a745;
+    }
+
+    .empty-state {
+      color: #6c757d;
+      font-style: italic;
+    }
+
+    .footer {
+      margin-top: 30px;
+      text-align: center;
+      color: #666;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Journal Image Replacement Review</h1>
+    <p class="subtitle">Select replacement images for 9 Journal articles with broken or mismatched current images.</p>
+
+    <div class="warning-box">
+      <h2>⚠️ ZERO IMAGE REUSE Rule</h2>
+      <ul>
+        <li>Each of the 9 articles must get a <strong>unique photo ID</strong>. No photo ID may be used more than once.</li>
+        <li>The following 5 photo IDs are <strong>permanently blocked</strong> and must NOT be selected:</li>
+      </ul>
+      <div class="protected-ids">
+        <h3>Blocked Photo IDs (already integrated):</h3>
+        <code>5918186</code> &nbsp;
+        <code>8386566</code> &nbsp;
+        <code>30635719</code> &nbsp;
+        <code>18500605</code> &nbsp;
+        <code>7337618</code>
+      </div>
+    </div>
+
+    <div class="instructions">
+      <h2>📋 How to Use This Interface</h2>
+      <ol>
+        <li>For each article, click the <strong>"Search Pexels"</strong> button to open the public Pexels search page.</li>
+        <li>Browse the search results visually and find an image that matches the article's topic and selection criteria.</li>
+        <li>Click on the image you want to open its Pexels photo page.</li>
+        <li>From the photo page URL, extract:
+          <ul>
+            <li><strong>Photo ID:</strong> the number in the URL, e.g. <code>https://www.pexels.com/photo/1234567/</code> → ID is <code>1234567</code></li>
+            <li><strong>Photographer name:</strong> shown below the image on Pexels</li>
+            <li><strong>Photographer URL:</strong> link to their Pexels profile, e.g. <code>https://www.pexels.com/@photographer-name</code></li>
+            <li><strong>Direct image URL:</strong> right-click the image → "Copy Image Address" or inspect the <code>src</code> attribute. It should look like <code>https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg</code></li>
+          </ul>
+        </li>
+        <li>Enter the extracted information into the form below each article.</li>
+        <li>Click <strong>"Save Selection"</strong> to store your choice locally in the browser.</li>
+        <li>After saving all 9 selections, export the manifest using the button at the bottom.</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="article-grid" id="articleGrid"></div>
+
+  <div class="saved-selections">
+    <h2>📝 Saved Selections</h2>
+    <div id="savedList">
+      <p class="empty-state">No selections saved yet. Use the forms above to select images.</p>
+    </div>
+    <button id="exportBtn" style="display: none; margin-top: 15px; padding: 12px 24px; background: #28a745; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; font-weight: 600;">
+      Export Manifest
+    </button>
+  </div>
+
+  <div class="footer">
+    <p>Review interface only — no images will be downloaded or applied until you run the integration script.</p>
+  </div>
+
+  <script>
+    const articles = [
+      {
+        slug: "discipline-vs-punishment",
+        title: "Discipline vs Punishment: What's the Difference?",
+        current_image: "/images/blog/discipline-vs-punishment.jpg",
+        reason: "Current image returns HTTP 404 — broken/missing on the live site.",
+        search_query: "discipline vs punishment choice accountability teaching",
+        target_filename: "discipline-vs-punishment-1.jpg"
+      },
+      {
+        slug: "identity-challenge-7-days",
+        title: "The 7-Day Identity Challenge",
+        current_image: "/images/blog/identity-challenge-7-days.jpg",
+        reason: "Current image returns HTTP 404 — broken/missing on the live site.",
+        search_query: "7 day challenge identity transformation new habit",
+        target_filename: "identity-challenge-7-days-1.jpg"
+      },
+      {
+        slug: "missed-day-protocol",
+        title: "What to Do When You Miss a Day (Without Quitting Everything)",
+        current_image: "/images/blog/missed-day-protocol.jpg",
+        reason: "Current image returns HTTP 404 — broken/missing on the live site.",
+        search_query: "missed day restart get back up resilience protocol",
+        target_filename: "missed-day-protocol-1.jpg"
+      },
+      {
+        slug: "morning-routines-12-tested",
+        title: "I Tested 12 Morning Routines",
+        current_image: "/images/blog/morning-routines-12-tested.jpg",
+        reason: "Current image returns HTTP 404 — broken/missing on the live site.",
+        search_query: "morning routine sunrise early wake up habit",
+        target_filename: "morning-routines-12-tested-1.jpg"
+      },
+      {
+        slug: "morning-vs-night",
+        title: "Morning vs Night: Which Discipline Actually Sticks?",
+        current_image: "/images/blog/morning-vs-night.jpg",
+        reason: "Current image returns HTTP 404 — broken/missing on the live site.",
+        search_query: "morning vs night discipline comparison contrast",
+        target_filename: "morning-vs-night-1.jpg"
+      },
+      {
+        slug: "two-minute-rule-guide",
+        title: "The Two-Minute Rule: A Complete Guide",
+        current_image: "/images/blog/two-minute-rule-guide.jpg",
+        reason: "Current image returns HTTP 404 — broken/missing on the live site.",
+        search_query: "two minute rule start small quick action habit",
+        target_filename: "two-minute-rule-guide-1.jpg"
+      },
+      {
+        slug: "slow-productivity-30-day-test",
+        title: "I Tried Slow Productivity for 30 Days",
+        current_image: "/images/blog/discipline-depass-motivation.jpg",
+        reason: "Image mismatch — current image is a weightlifting photo reused from discipline-depass-motivation, unrelated to slow productivity.",
+        search_query: "slow productivity calm focused work no rush",
+        target_filename: "slow-productivity-30-day-test-1.jpg"
+      },
+      {
+        slug: "art-dire-non",
+        title: "The Art of Saying No: How to Set Boundaries Without Guilt",
+        current_image: "/images/blog/confidence-is-a-record-not-a-feeling.jpg",
+        reason: "Image mismatch — current image is a generic confidence portrait reused from confidence-is-a-record-not-a-feeling, unrelated to boundary-setting.",
+        search_query: "saying no boundaries respect distance calm",
+        target_filename: "art-dire-non-1.jpg"
+      },
+      {
+        slug: "detox-numerique",
+        title: "Digital Detox: How Screen Time Is Destroying Your Health",
+        current_image: "/images/blog/calm-is-a-superpower.jpg",
+        reason: "Image mismatch — current image is a generic smiling portrait reused from calm-is-a-superpower, unrelated to digital detox.",
+        search_query: "digital detox screen free offline quiet space",
+        target_filename: "detox-numerique-1.jpg"
+      }
+    ];
+
+    const protectedIds = new Set(['5918186', '8386566', '30635719', '18500605', '7337618']);
+    const savedSelections = {};
+
+    function renderArticles() {
+      const grid = document.getElementById('articleGrid');
+      grid.innerHTML = articles.map((article, index) => `
+        <div class="article-card" data-slug="${article.slug}">
+          <h3>${article.title}</h3>
+          <div class="article-slug">${article.slug}</div>
+          <div class="current-image">
+            <strong>Current image:</strong> ${article.current_image}<br>
+            <strong>Why replace:</strong> ${article.reason}
+          </div>
+          <a class="search-link" href="https://www.pexels.com/search/${encodeURIComponent(article.search_query)}" target="_blank" rel="noopener">
+            🔍 Search Pexels
+          </a>
+          <div class="selection-form">
+            <label for="photoId-${index}">Photo ID:</label>
+            <input type="text" id="photoId-${index}" placeholder="e.g. 1234567" data-field="photoId">
+            <label for="photographer-${index}">Photographer Name:</label>
+            <input type="text" id="photographer-${index}" placeholder="e.g. John Doe" data-field="photographer">
+            <label for="photographerUrl-${index}">Photographer URL:</label>
+            <input type="text" id="photographerUrl-${index}" placeholder="https://www.pexels.com/@username" data-field="photographerUrl">
+            <label for="imageUrl-${index}">Direct Image URL:</label>
+            <input type="text" id="imageUrl-${index}" placeholder="https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg" data-field="imageUrl">
+            <button class="save-btn" data-index="${index}" style="width: 100%; padding: 10px; background: #28a745; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; margin-top: 10px;">
+              Save Selection
+            </button>
+            <p class="hint">💡 Tip: The photo ID is the number in the Pexels photo page URL.</p>
+          </div>
+        </div>
+      `).join('');
+
+      document.querySelectorAll('.save-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const index = parseInt(e.target.dataset.index);
+          saveSelection(index);
+        });
+      });
+    }
+
+    function saveSelection(index) {
+      const article = articles[index];
+      const photoId = document.getElementById(`photoId-${index}`).value.trim();
+      const photographer = document.getElementById(`photographer-${index}`).value.trim();
+      const photographerUrl = document.getElementById(`photographerUrl-${index}`).value.trim();
+      const imageUrl = document.getElementById(`imageUrl-${index}`).value.trim();
+
+      if (!photoId || !photographer || !photographerUrl || !imageUrl) {
+        alert('Please fill in all fields before saving.');
+        return;
+      }
+
+      if (protectedIds.has(photoId)) {
+        alert('ERROR: This photo ID is blocked. It belongs to one of the 5 already-integrated images.\n\nBlocked IDs: 5918186, 8386566, 30635719, 18500605, 7337618');
+        return;
+      }
+
+      const existingPhotoIds = Object.values(savedSelections).map(s => s.photoId);
+      if (existingPhotoIds.includes(photoId)) {
+        alert('ERROR: This photo ID has already been selected for another article. Each photo ID must be unique across all 9 articles.');
+        return;
+      }
+
+      savedSelections[article.slug] = {
+        article_slug: article.slug,
+        article_title: article.title,
+        target_filename: article.target_filename,
+        photo_id: photoId,
+        photographer: photographer,
+        photographer_url: photographerUrl,
+        image_url: imageUrl,
+        api_provider: 'pexels'
+      };
+
+      updateSavedList();
+      alert('Selection saved for: ' + article.title);
+    }
+
+    function updateSavedList() {
+      const list = document.getElementById('savedList');
+      const exportBtn = document.getElementById('exportBtn');
+      const entries = Object.entries(savedSelections);
+
+      if (entries.length === 0) {
+        list.innerHTML = '<p class="empty-state">No selections saved yet. Use the forms above to select images.</p>';
+        exportBtn.style.display = 'none';
+        return;
+      }
+
+      list.innerHTML = entries.map(([slug, sel]) => `
+        <div class="selection-item">
+          <strong>${sel.article_title}</strong> (${slug})<br>
+          Photo ID: ${sel.photo_id} | Photographer: ${sel.photographer}<br>
+          Target file: ${sel.target_filename}
+        </div>
+      `).join('');
+
+      exportBtn.style.display = 'inline-block';
+    }
+
+    document.getElementById('exportBtn').addEventListener('click', () => {
+      const manifest = {
+        approved: Object.values(savedSelections)
+      };
+
+      const blob = new Blob([JSON.stringify(manifest, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'replacement-manifest-approved.json';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+
+    renderArticles();
+  </script>
+</body>
+</html>

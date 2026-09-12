@@ -1,0 +1,286 @@
+{
+  "article": "langage-corps-confiance",
+  "url": "/journal/langage-corps-confiance/",
+  "title": "Body Language Secrets: How to Project Confidence Without Saying a Word",
+  "topic": "Confidence",
+  "current_image": "/images/blog/langage-corps-confiance.jpg",
+  "visual_brief": "A person with open, confident posture — not aggressive, just grounded and present. Shows body language as communication.",
+  "candidates": [
+    {
+      "id": "9017735",
+      "url": "https://images.pexels.com/photos/9017735/pexels-photo-9017735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/9017735/",
+      "photographer": "Kevin  Malik",
+      "photographer_url": "https://www.pexels.com/@kevin-malik",
+      "license": "Pexels License",
+      "width": 6000,
+      "height": 4000,
+      "avg_color": "#ACA7A4",
+      "alt": "A woman in a black shirt crossing her arms in front of a plain white background.",
+      "download_url": "https://images.pexels.com/photos/9017735/pexels-photo-9017735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "confident body language open posture person",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 2,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "9017419",
+      "url": "https://images.pexels.com/photos/9017419/pexels-photo-9017419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/9017419/",
+      "photographer": "Kevin  Malik",
+      "photographer_url": "https://www.pexels.com/@kevin-malik",
+      "license": "Pexels License",
+      "width": 6000,
+      "height": 4000,
+      "avg_color": "#6E6D6B",
+      "alt": "Close-up of person in black coat making expressive hand gesture, highlighting emotion.",
+      "download_url": "https://images.pexels.com/photos/9017419/pexels-photo-9017419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "confident body language open posture person",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 3,
+        "flagged": false,
+        "flag_reason": "Photographer has 2+ images in candidate set"
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "9017020",
+      "url": "https://images.pexels.com/photos/9017020/pexels-photo-9017020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/9017020/",
+      "photographer": "Kevin  Malik",
+      "photographer_url": "https://www.pexels.com/@kevin-malik",
+      "license": "Pexels License",
+      "width": 6000,
+      "height": 4000,
+      "avg_color": "#A0A0A0",
+      "alt": "Confident woman gesturing towards herself wearing a black shirt, showcasing self-assurance and identity.",
+      "download_url": "https://images.pexels.com/photos/9017020/pexels-photo-9017020.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "confident body language open posture person",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 4,
+        "flagged": true,
+        "flag_reason": "Photographer saturation (3+ images)"
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "4760050",
+      "url": "https://images.pexels.com/photos/4760050/pexels-photo-4760050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/4760050/",
+      "photographer": "Elina Sazonova",
+      "photographer_url": "https://www.pexels.com/@elina-sazonova",
+      "license": "Pexels License",
+      "width": 5617,
+      "height": 3744,
+      "avg_color": "#B5BCB7",
+      "alt": "Adult man practicing yoga by a serene lakeside, promoting mindfulness and calm.",
+      "download_url": "https://images.pexels.com/photos/4760050/pexels-photo-4760050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person standing confident posture calm",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "18500605",
+      "url": "https://images.pexels.com/photos/18500605/pexels-photo-18500605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/18500605/",
+      "photographer": "Sagar Ahire",
+      "photographer_url": "https://www.pexels.com/@sagar-ahire-688133929",
+      "license": "Pexels License",
+      "width": 8424,
+      "height": 4804,
+      "avg_color": "#06092C",
+      "alt": "Stylish portrait of a man posing elegantly against a dark backdrop in a studio setting, showcasing his confidence.",
+      "download_url": "https://images.pexels.com/photos/18500605/pexels-photo-18500605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person standing confident posture calm",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "10622312",
+      "url": "https://images.pexels.com/photos/10622312/pexels-photo-10622312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/10622312/",
+      "photographer": "Shazard R.",
+      "photographer_url": "https://www.pexels.com/@shazardr",
+      "license": "Pexels License",
+      "width": 4513,
+      "height": 2705,
+      "avg_color": "#B9B2AC",
+      "alt": "A solitary man stands in an open field during sunrise, wearing a red sweater.",
+      "download_url": "https://images.pexels.com/photos/10622312/pexels-photo-10622312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "person standing confident posture calm",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "36918266",
+      "url": "https://images.pexels.com/photos/36918266/pexels-photo-36918266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/36918266/",
+      "photographer": "Guillermo Berlin",
+      "photographer_url": "https://www.pexels.com/@guillermo-berlin-1524368912",
+      "license": "Pexels License",
+      "width": 6850,
+      "height": 4281,
+      "avg_color": "#442E20",
+      "alt": "Woman lying on tree roots outdoors, basking in warm sunlight, peaceful setting.",
+      "download_url": "https://images.pexels.com/photos/36918266/pexels-photo-36918266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "open body language grounded presence",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "18635163",
+      "url": "https://images.pexels.com/photos/18635163/pexels-photo-18635163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/18635163/",
+      "photographer": "Sedat Yetiş",
+      "photographer_url": "https://www.pexels.com/@sedat-yetis-248508609",
+      "license": "Pexels License",
+      "width": 6240,
+      "height": 4160,
+      "avg_color": "#7B8272",
+      "alt": "Two people in a serene outdoor setting with chairs, capturing introspection and tranquility.",
+      "download_url": "https://images.pexels.com/photos/18635163/pexels-photo-18635163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "open body language grounded presence",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 1,
+        "flagged": false,
+        "flag_reason": null
+      },
+      "status": "pending_review"
+    },
+    {
+      "id": "9031631",
+      "url": "https://images.pexels.com/photos/9031631/pexels-photo-9031631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "source_page": "https://www.pexels.com/photo/9031631/",
+      "photographer": "Kevin  Malik",
+      "photographer_url": "https://www.pexels.com/@kevin-malik",
+      "license": "Pexels License",
+      "width": 6000,
+      "height": 4000,
+      "avg_color": "#B7B7B7",
+      "alt": "Young woman practicing yoga meditation indoors with calm expression and peaceful atmosphere.",
+      "download_url": "https://images.pexels.com/photos/9031631/pexels-photo-9031631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "api_provider": "pexels",
+      "query_used": "open body language grounded presence",
+      "validation": {
+        "dimensions_ok": true,
+        "aspect_ratio_ok": true,
+        "license_ok": true,
+        "source_url_ok": true,
+        "download_url_ok": true,
+        "flagged": false
+      },
+      "duplicate_check": {
+        "exact_match": false,
+        "photographer_count": 5,
+        "flagged": true,
+        "flag_reason": "Photographer saturation (3+ images)"
+      },
+      "status": "pending_review"
+    }
+  ],
+  "summary": {
+    "total_candidates": 9,
+    "passed_technical_validation": 9,
+    "flagged_duplicates": 2,
+    "available_for_human_review": 9
+  }
+}

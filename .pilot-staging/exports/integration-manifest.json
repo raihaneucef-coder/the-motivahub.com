@@ -1,0 +1,29 @@
+{
+  "approved": [
+    {
+      "article_slug": "deep-work-ritual",
+      "candidate_id": "5918186",
+      "target_filename": "deep-work-ritual-1.jpg"
+    },
+    {
+      "article_slug": "vaincre-procrastination",
+      "candidate_id": "8386566",
+      "target_filename": "vaincre-procrastination-1.jpg"
+    },
+    {
+      "article_slug": "meal-prep-dimanche",
+      "candidate_id": "30635719",
+      "target_filename": "meal-prep-dimanche-1.jpg"
+    },
+    {
+      "article_slug": "langage-corps-confiance",
+      "candidate_id": "18500605",
+      "target_filename": "langage-corps-confiance-1.jpg"
+    },
+    {
+      "article_slug": "community-discipline",
+      "candidate_id": "7337618",
+      "target_filename": "community-discipline-1.jpg"
+    }
+  ]
+}

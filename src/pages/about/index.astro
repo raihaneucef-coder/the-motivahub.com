@@ -1,94 +1,55 @@
 ---
-import Layout from "../../layouts/Layout.astro";
-import NewsletterSection from "../../components/NewsletterSection.astro";
+import Layout from '../../layouts/Layout.astro';
 ---
 
-<Layout title="About — Motiva Hub" description="A sanctuary for the disciplined mind. Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress.">
-  <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "AboutPage",
-        "@id": "https://the-motivahub.com/about/#webpage",
-        "url": "https://the-motivahub.com/about/",
-        "name": "About — Motiva Hub",
-        "description": "A sanctuary for the disciplined mind. Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress.",
-        "isPartOf": { "@id": "https://the-motivahub.com/#website" },
-        "inLanguage": ["en", "fr"],
-        "primaryImageOfPage": { "@id": "https://the-motivahub.com/#organization-logo" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
-          { "@type": "ListItem", "position": 2, "name": "About", "item": "https://the-motivahub.com/about/" }
-        ]
-      }
-    ]
-  })} />
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker" data-i18n="aboutKicker">About Motiva Hub</p>
-      <h1 data-i18n="aboutTitle">A sanctuary for the <em>disciplined mind.</em></h1>
-      <p data-i18n="aboutSubtitle">Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress.</p>
-    </div>
-  </section>
+<Layout title="About Youssef Raihane — Motiva Hub" description="Youssef Raihane is a writer and researcher focused on mindset, habits, and the long ascent. This is the story behind Motiva Hub." image="/images/youssef-raihane.jpg" lang="en">
+  <article class="article-body container">
+    <header class="article-header">
+      <div class="container">
+        <p class="card-meta">ABOUT</p>
+        <h1>Youssef Raihane</h1>
+        <p class="card-date">Writer, Researcher, Founder of Motiva Hub</p>
+        <img class="article-img" src="/images/youssef-raihane.jpg" alt="Youssef Raihane portrait" />
+      </div>
+    </header>
 
-  <section class="feed">
     <div class="container">
-      <div class="about-body">
-        <h2 data-i18n="ourIntent">Our Intent</h2>
-        <p>Motiva Hub exists for the person who has grown tired of being inspired and is ready to be changed. We treat personal growth as a discipline, not a mood — the slow, unglamorous work of becoming someone worth being.</p>
-        <p>We are an independent editorial project, built in the spirit of the great print magazines — quiet, deliberate, and allergic to noise. Our subjects are old ones: mindset, habit, discipline, attention, growth. They have guided disciplined minds for two thousand years; we simply translate them for the modern reader.</p>
-        <h2 data-i18n="aboutAuthor">About the Author</h2>
-        <div style="display:flex;gap:24px;align-items:center;margin:24px 0;flex-wrap:wrap;">
-          <div style="width:140px;height:140px;border-radius:50%;background:#0a0a0a;display:block;flex-shrink:0;border:2px solid #c8a04a;overflow:hidden;">
-            <img
-              src="/images/yr-320.jpg"
-              srcset="/images/yr-320.jpg 320w, /images/yr-640.jpg 640w"
-              sizes="140px"
-              alt="Youssef Raihane — Founder of Motiva Hub"
-              width="140" height="140"
-              loading="eager"
-              style="width:100%;height:100%;object-fit:cover;display:block;"
-            />
-          </div>
-          <p style="margin:0;flex:1;min-width:240px;"><strong>Youssef Raihane</strong> — <span data-i18n="aboutAuthorText">writer and practitioner of the disciplines we explore. I write from lived practice, testing each idea in the daily work of building a stronger mind, not just from books.</span></p>
-        </div>
-        <h2 data-i18n="sevenPrinciples">Seven Principles</h2>
-        <div class="pillars" style="grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));">
-          <div class="pillar" style="text-align: left;">
-            <p class="pillar-word" data-i18n="principleStillness">On Stillness</p>
-            <p data-i18n="principleStillnessDesc">We begin where the noise ends. The first discipline is to create the quiet in which a thought can survive.</p>
-          </div>
-          <div class="pillar" style="text-align: left;">
-            <p class="pillar-word" data-i18n="principlePractice">On Practice</p>
-            <p data-i18n="principlePracticeDesc">Ideas are cheap; practice is the only currency that compounds. We favour the unglamorous repetition over the brilliant intention.</p>
-          </div>
-          <div class="pillar" style="text-align: left;">
-            <p class="pillar-word" data-i18n="principleTime">On Time</p>
-            <p data-i18n="principleTimeDesc">The day is the unit of a life well lived. We design the morning, protect the deep hours, and let the evening fall quietly.</p>
-          </div>
-          <div class="pillar" style="text-align: left;">
-            <p class="pillar-word" data-i18n="principleFailure">On Failure</p>
-            <p data-i18n="principleFailureDesc">The fall is data. We do not romanticise struggle, but we refuse to waste it — every setback is a map of the next attempt.</p>
-          </div>
-          <div class="pillar" style="text-align: left;">
-            <p class="pillar-word" data-i18n="principleStrength">On Strength</p>
-            <p data-i18n="principleStrengthDesc">The body votes first. We train, eat and recover deliberately — because a strong mind needs a capable vessel.</p>
-          </div>
-          <div class="pillar" style="text-align: left;">
-            <p class="pillar-word" data-i18n="principleJourney">On Journey</p>
-            <p data-i18n="principleJourneyDesc">Go where you are a beginner again. New roads, new kitchens and new horizons keep the ego honest and the mind hungry.</p>
-          </div>
-          <div class="pillar" style="text-align: left;">
-            <p class="pillar-word" data-i18n="principleJoy">On Joy</p>
-            <p data-i18n="principleJoyDesc">Rest is a skill, not a reward. We choose our stories and our entertainment the way we choose training — to return stronger.</p>
-          </div>
-        </div>
+      <h2>The Story</h2>
+      <p>I started Motiva Hub in 2024 after spending 8 months writing my first book and missing the launch because of self-sabotage. I had the content. I had the audience. I had the plan. And I still found ways to make sure it would not happen.</p>
+
+      <p>That failure taught me more than any success could. It taught me that discipline is not about motivation. It is about system design. It is about identity. It is about showing up when no one is watching.</p>
+
+      <h2>What I Write About</h2>
+      <p>I write about the things I have tested personally: habits, discipline, productivity, mindset, and the long game. Every article on this site is based on real experiments, real failures, and real results.</p>
+
+      <p>I do not write theory. I write about what worked, what did not work, and what I learned from both.</p>
+
+      <h2>The Mission</h2>
+      <p>Motiva Hub is a premium editorial sanctuary for the disciplined mind. It is not a motivation factory. It is a place for people who want to build systems that last, habits that stick, and identities that matter.</p>
+
+      <p>The mission is simple: help you build the thing that builds everything else — yourself.</p>
+
+      <h2>Contact</h2>
+      <p>For collaborations, speaking, or just to say hello: <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
+
+      <h2>Connect</h2>
+      <p>Follow the journey:</p>
+      <ul>
+        <li><a href="https://www.instagram.com/motivahub/" target="_blank" rel="noopener">Instagram</a></li>
+        <li><a href="https://twitter.com/motivahub" target="_blank" rel="noopener">Twitter/X</a></li>
+        <li><a href="https://www.linkedin.com/company/motivahub" target="_blank" rel="noopener">LinkedIn</a></li>
+      </ul>
+
+      <h2>The 90-Day Test</h2>
+      <p>If you want to see the system in action, try our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a>. It is the same architecture I used to rebuild my writing practice, my running habit, and my morning routine.</p>
+
+      <p>Or start with the <a href="/journal/two-minute-rule-system/">2-Minute Rule guide</a> — the doorway to every habit that actually sticks.</p>
+
+      <div class="cta-strip">
+        <a class="btn btn-primary" href="/tools/discipline-quiz/">Take the Discipline Quiz</a>
+        <a class="btn btn-outline" href="/journal/">Read the Journal</a>
+        <a class="btn btn-outline" href="/pdf/30-days-discipline/">Get the Free PDF</a>
       </div>
     </div>
-  </section>
-
-  <NewsletterSection />
+  </article>
 </Layout>

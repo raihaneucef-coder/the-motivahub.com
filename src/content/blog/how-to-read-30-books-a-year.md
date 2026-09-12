@@ -2,8 +2,10 @@
 title: "How to Read 30 Books in a Year (My 90-Day Test of the 20-Minute Habit)"
 description: "I tried to build a daily reading habit for 90 days. Here's what worked, what failed, and the exact 20-minute system that helped me finish 7 books in 3 months. Plus the books that actually changed how I think."
 pubDate: 2026-09-01
+updatedDate: 2026-09-12
 readTime: "10 MIN"
 image: "/images/blog/lire-divertissement.jpg"
+imageAlt: "Youssef Raihane - how to read 30 books a year concept"
 topic: "Habits"
 keywords:
   - "how to read more"
@@ -40,8 +42,11 @@ relatedArticles:
   - "comment-creer-des-habitudes"
 ---
 
+# How to Read 30 Books in a Year (My 90-Day Test of the 20-Minute Habit)
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
+
+**The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit.** Research on micro-habits shows small daily actions stick better than longer weekly ones. I tested this for 90 days and finished 7 books. The key: stop counting books, start counting minutes. The goal is not the number. The goal is being the kind of person who reads every day.
 
 Last year, I made a goal that should have been easy: read 30 books in 12 months. Two decades of reading habits. Thousands of dollars in book purchases. A library card. Audible. Kindle. A reading app that tracks streaks.
 

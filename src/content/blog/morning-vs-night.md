@@ -2,8 +2,10 @@
 title: "Morning vs Night: Which Discipline Actually Sticks?"
 description: "Chronotype science, not willpower, decides which discipline routine will survive. The data on morning vs evening routines — and the 4-question test that tells you which one will work for you."
 pubDate: 2026-09-05
+updatedDate: 2026-09-12
 readTime: "9 MIN"
-image: "/images/blog/morning-vs-night.jpg"
+image: "/images/blog/morning-vs-night-1.jpg
+imageAlt: "Youssef Raihane - morning vs night concept"
 topic: "Habits"
 keywords:
   - "morning vs night discipline"
@@ -36,8 +38,18 @@ faq:
   - q: "What time of day is best for habits to stick?"
     a: "The time that matches your chronotype AND is consistently the same time. Consistency matters more than the specific hour. A habit at 7 AM for a night owl will fail. A habit at 10 AM for the same night owl will stick. The variable is the alignment between the time and your natural energy peak. The article gives the framework for finding the right hour for any habit."
   - q: "What is the 2-day rule for habit timing?"
-    a: "The 2-day rule (also used in recovery from a missed day) applies to timing: if you cannot do the habit at your usual time on a given day, do it within 2 hours of the usual time. Same day, close to the same time. This prevents the timing from drifting, which is a more common cause of habit death than missing a day entirely."
+    a: "The 2-day rule (also used in recovery from a missed day) applies to timing: if you cannot do the habit at your usual time on a given day, do it within 2 hours of the usual time. Same day, close to the same time. This prevents the timing from drifting, which is a more common cause of habit death than missing a day entirely."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
+
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
+**Morning vs Night: Which Discipline Actually Sticks?** — practical guide based on real experiments. Morning vs Night: Which Discipline Actually Sticks? works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.
 
 # Morning vs Night: Which Discipline Actually Sticks?
 

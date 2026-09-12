@@ -2,8 +2,10 @@
 title: "The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens"
 description: "David Goggins says we're only operating at 40% of our capacity. I tested this for 30 days. Here's what worked, what failed, and the scientific truth about the wall."
 pubDate: 2026-09-01
+updatedDate: 2026-09-12
 readTime: "8 MIN"
 image: "/images/blog/regle-40-pourcent.jpg"
+imageAlt: "Youssef Raihane - regle 40 pourcent concept"
 topic: "Discipline"
 keywords:
   - "40 percent rule"
@@ -36,6 +38,12 @@ relatedArticles:
   - "deep-work-ritual"
 ---
 
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
+**The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens** — practical guide based on real experiments. The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+
+# The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens
 I tested the 40% rule for 30 days. This is what actually happened.
 
 First, the theory: David Goggins claims that when your brain says you're done, you're only operating at 40% of your actual capacity. The other 60% is there, waiting — you just have to push past the signal.

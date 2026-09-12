@@ -2,8 +2,10 @@
 title: "I Ran a 7-Day Identity Challenge. Here's What 7 Days of Voting Actually Does."
 description: "A personal experiment. Seven days, one identity statement, one tiny daily action. The math, the science, and the surprising result by day 7 — and what happened when I stopped."
 pubDate: 2026-09-03
+updatedDate: 2026-09-12
 readTime: "14 MIN"
-image: "/images/blog/identity-challenge-7-days.jpg"
+image: "/images/blog/identity-challenge-7-days-1.jpg
+imageAlt: "Youssef Raihane - identity challenge 7 days concept"
 topic: "Habits"
 keywords:
   - "identity challenge"
@@ -36,10 +38,19 @@ faq:
   - q: "What is the difference between an identity challenge and a goal?"
     a: "A goal is an outcome ('run a marathon'). An identity is a way of being ('I am a runner'). The goal is finished in 26.2 miles. The identity is reinforced every time you train, eat, sleep, and think like a runner — forever. Identity lasts; goals are checkpoints."
   - q: "Can I run more than one identity challenge at the same time?"
-    a: "Not if you want them to stick. The first 7 days of any new habit pattern is when the brain is building the strongest neural scaffolding. Splitting that scaffolding across two or three new patterns dilutes it. One challenge at a time. Stack them after each has passed day 14."
+    a: "Not if you want them to stick. The first 7 days of any new habit pattern is when the brain is building the strongest neural scaffolding. Splitting that scaffolding across two or three new patterns dilutes it. One challenge at a time. Stack them after each has passed day 14."relatedArticles:
+  - "atomic-habits-ultimate-guide"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "discipline-vs-punishment"
+  - "the-morning-athlete"
 ---
 
 # I Ran a 7-Day Identity Challenge. Here's What 7 Days of Voting Actually Does.
+> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+
+
+**A 7-day identity challenge** is a structured micro-experiment: pick one identity statement ("I am a writer"), one tiny daily action (write one sentence), and repeat for 7 days. Seven days is not enough to form a habit (median is 66 days), but it's enough to start the automaticity curve and gather evidence that you are the kind of person who does this thing. The first week is the steepest part of the curve.
 
 Six months ago I told myself a small lie. I said I was a writer.
 

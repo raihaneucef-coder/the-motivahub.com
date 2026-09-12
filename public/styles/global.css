@@ -791,6 +791,14 @@ p { line-height: 1.7; }
 .btn-arrow-or { color: var(--or-deep); }
 .btn-arrow-cream { color: var(--cream); }
 
+.cta-strip {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+
 /* ===================================================================
    TRUST STRIP
    =================================================================== */
@@ -1611,6 +1619,31 @@ section {
   height: 100%;
   object-fit: cover;
   filter: contrast(1.02) saturate(1.05);
+}
+
+.article-header {
+  width: 100%;
+  overflow: hidden;
+  background: var(--cream-deep);
+  margin: 0 0 40px;
+}
+
+.article-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .article-header {
+    padding-top: 76px;
+    margin-top: -76px;
+  }
+
+  .article-img {
+    max-height: 50vh;
+    object-fit: cover;
+  }
 }
 
 .prose {

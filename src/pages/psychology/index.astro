@@ -1,0 +1,123 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Psychology of Discipline — Motiva Hub" description="Understand the psychology behind discipline, habits, and mindset. Science-backed insights to help you build lasting change.">
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker">PSYCHOLOGY</p>
+      <h1>The Psychology of <em>Discipline</em></h1>
+      <p>Understand the science behind habits, motivation, and mindset. Why we do what we do — and how to change it.</p>
+    </div>
+  </section>
+
+  <section class="psychology-grid">
+    <div class="container">
+      <div class="psychology-cards">
+        <a href="/journal/identity-based-habits-90-day-test/" class="psychology-card">
+          <h3>Identity-Based Habits</h3>
+          <p>How identity shifts drive lasting change. The 90-day test that proves you become what you vote for.</p>
+          <span class="psychology-link">Read more →</span>
+        </a>
+        <a href="/journal/discipline-vs-punishment/" class="psychology-card">
+          <h3>Discipline vs Punishment</h3>
+          <p>The psychological difference between building yourself and breaking yourself. Three tests to tell them apart.</p>
+          <span class="psychology-link">Read more →</span>
+        </a>
+        <a href="/journal/nervous-system-reset-focus/" class="psychology-card">
+          <h3>Nervous System & Focus</h3>
+          <p>Why focus problems are nervous system problems, not willpower problems. The 4-7-8 breathing protocol.</p>
+          <span class="psychology-link">Read more →</span>
+        </a>
+        <a href="/journal/2-minute-rule-system/" class="psychology-card">
+          <h3>The 2-Minute Rule</h3>
+          <p>The complete system behind James Clear's famous habit starter. Doorway, anchor, 2-day rule, identity voting.</p>
+          <span class="psychology-link">Read more →</span>
+        </a>
+        <a href="/journal/resilience-mentale/" class="psychology-card">
+          <h3>Mental Resilience</h3>
+          <p>How to bounce back from setbacks. The trainable skill that separates those who recover from those who stay down.</p>
+          <span class="psychology-link">Read more →</span>
+        </a>
+        <a href="/journal/self-sabotage/" class="psychology-card">
+          <h3>Self-Sabotage</h3>
+          <p>Why you get in your own way and how to break the cycle. Fear in disguise, and the recovery protocol.</p>
+          <span class="psychology-link">Read more →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-strip">
+    <div class="container">
+      <a class="btn btn-primary" href="/tools/discipline-quiz/">Take the Discipline Quiz</a>
+      <a class="btn btn-outline" href="/guides/atomic-habits-ultimate-guide/">Read the Ultimate Guide</a>
+      <a class="btn btn-outline" href="/journal/">Browse the Journal</a>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .page-head {
+    text-align: center;
+    padding: 4rem 0 2rem;
+  }
+  .page-head h1 {
+    font-family: var(--font-display);
+    font-size: 2.5rem;
+    margin: 0.5rem 0 1rem;
+  }
+  .page-head p {
+    max-width: 600px;
+    margin: 0 auto;
+    color: var(--muted);
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+  .psychology-grid {
+    padding: 2rem 0 4rem;
+  }
+  .psychology-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+  .psychology-card {
+    display: block;
+    padding: 2rem;
+    background: var(--cream);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .psychology-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+  .psychology-card h3 {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    margin: 0 0 0.75rem;
+    color: var(--ink);
+  }
+  .psychology-card p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: var(--muted);
+    margin: 0 0 1rem;
+  }
+  .psychology-link {
+    font-weight: 600;
+    color: var(--gold, #c8a04a);
+    font-size: 0.875rem;
+  }
+  .cta-strip {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0 4rem;
+  }
+</style>

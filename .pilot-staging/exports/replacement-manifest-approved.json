@@ -1,0 +1,94 @@
+{
+  "approved": [
+    {
+      "article_slug": "discipline-vs-punishment",
+      "article_title": "Discipline vs Punishment: What's the Difference?",
+      "target_filename": "discipline-vs-punishment-1.jpg",
+      "photo_id": "7114237",
+      "photographer": "monstera production",
+      "photographer_url": "https://www.pexels.com/photo/faceless-person-punishing-black-girl-7114747/",
+      "image_url": "https://images.pexels.com/photos/7114237/pexels-photo-7114237.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "identity-challenge-7-days",
+      "article_title": "The 7-Day Identity Challenge",
+      "target_filename": "identity-challenge-7-days-1.jpg",
+      "photo_id": "33705551",
+      "photographer": "sami abdullah",
+      "photographer_url": "https://www.pexels.com/photo/wooden-blocks-showing-new-and-old-concept-33705551/",
+      "image_url": "https://images.pexels.com/photos/33705551/pexels-photo-33705551.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "missed-day-protocol",
+      "article_title": "What to Do When You Miss a Day (Without Quitting Everything)",
+      "target_filename": "missed-day-protocol-1.jpg",
+      "photo_id": "3767411",
+      "photographer": "Andrea Piacquadio",
+      "photographer_url": "https://www.pexels.com/photo/woman-leaning-on-table-3767411/",
+      "image_url": "https://images.pexels.com/photos/3767411/pexels-photo-3767411.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "morning-routines-12-tested",
+      "article_title": "I Tested 12 Morning Routines",
+      "target_filename": "morning-routines-12-tested-1.jpg",
+      "photo_id": "37476348",
+      "photographer": "Zebari Visuals",
+      "photographer_url": "https://www.pexels.com/photo/morning-joggers-on-mombasa-beach-at-sunrise-37476348/",
+      "image_url": "https://images.pexels.com/photos/37476348/pexels-photo-37476348.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "morning-vs-night",
+      "article_title": "Morning vs Night: Which Discipline Actually Sticks?",
+      "target_filename": "morning-vs-night-1.jpg",
+      "photo_id": "30331068",
+      "photographer": "Jedidiah-Jordan O.",
+      "photographer_url": "https://www.pexels.com/photo/silhouette-of-man-working-from-home-in-abuja-30331068/",
+      "image_url": "https://images.pexels.com/photos/30331068/pexels-photo-30331068.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "two-minute-rule-guide",
+      "article_title": "The Two-Minute Rule: A Complete Guide",
+      "target_filename": "two-minute-rule-guide-1.jpg",
+      "photo_id": "1209998",
+      "photographer": "Samer Daboul",
+      "photographer_url": "https://www.pexels.com/photo/selective-focus-photography-of-hour-glass-1209998/",
+      "image_url": "https://images.pexels.com/photos/1209998/pexels-photo-1209998.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "detox-numerique",
+      "article_title": "Digital Detox: How Screen Time Is Destroying Your Health",
+      "target_filename": "detox-numerique-1.jpg",
+      "photo_id": "4792360",
+      "photographer": "Anete Lusina",
+      "photographer_url": "https://www.pexels.com/photo/smartphone-with-inscription-on-screen-on-shiny-windowsill-4792360/",
+      "image_url": "https://images.pexels.com/photos/4792360/pexels-photo-4792360.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "art-dire-non",
+      "article_title": "The Art of Saying No: How to Set Boundaries Without Guilt",
+      "target_filename": "art-dire-non-1.jpg",
+      "photo_id": "10545017",
+      "photographer": "cottonbro studio",
+      "photographer_url": "https://www.pexels.com/photo/photo-of-distance-between-hands-10545017/",
+      "image_url": "https://images.pexels.com/photos/10545017/pexels-photo-10545017.jpeg",
+      "api_provider": "pexels"
+    },
+    {
+      "article_slug": "slow-productivity-30-day-test",
+      "article_title": "I Tried Slow Productivity for 30 Days",
+      "target_filename": "slow-productivity-30-day-test-1.jpg",
+      "photo_id": "926390",
+      "photographer": "Andrea Piacquadio",
+      "photographer_url": "https://www.pexels.com/photo/man-in-white-dress-shirt-926390/",
+      "image_url": "https://images.pexels.com/photos/926390/pexels-photo-926390.jpeg",
+      "api_provider": "pexels"
+    }
+  ]
+}

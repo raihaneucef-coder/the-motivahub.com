@@ -1,0 +1,42 @@
+{
+  "pilot_run_date": "2026-09-10T14:13:06.360Z",
+  "total_images_checked": 43,
+  "duplicate_summary": {
+    "exact_url_matches": 0,
+    "photographer_saturation_flags": 5,
+    "color_similarity_flags": 0,
+    "near_duplicates": 0
+  },
+  "flagged_duplicates": [
+    {
+      "type": "photographer_saturation",
+      "photographer": "MART  PRODUCTION",
+      "count": 2,
+      "recommendation": "Consider variety"
+    },
+    {
+      "type": "photographer_saturation",
+      "photographer": "https://kaboompics.com/",
+      "count": 4,
+      "recommendation": "Select only 1 image from this photographer"
+    },
+    {
+      "type": "photographer_saturation",
+      "photographer": "Ella Olsson",
+      "count": 2,
+      "recommendation": "Consider variety"
+    },
+    {
+      "type": "photographer_saturation",
+      "photographer": "Nataliya Vaitkevich",
+      "count": 2,
+      "recommendation": "Consider variety"
+    },
+    {
+      "type": "photographer_saturation",
+      "photographer": "Kevin  Malik",
+      "count": 5,
+      "recommendation": "Select only 1 image from this photographer"
+    }
+  ]
+}
