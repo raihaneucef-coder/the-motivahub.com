@@ -29,13 +29,9 @@ faq:
   - q: "Do I need to be an athlete to benefit from this?"
     a: "No. You need consistency, not intensity. Two 20-minute walks per week preserve the body that carries your mind. One hard effort per week reminds you that discomfort is survivable. The minimum effective dose is much smaller than you think."
   - q: "What is the relationship between body and identity?"
-    a: "Every workout is evidence filed away: 'I am someone who does what I said.' Miss a week and the file thins. Keep showing up for a month and it thickens into something the mind can lean on when motivation goes quiet. The body votes first. Make sure it votes the way you would have chosen."relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+    a: "Every workout is evidence filed away: 'I am someone who does what I said.' Miss a week and the file thins. Keep showing up for a month and it thickens into something the mind can lean on when motivation goes quiet. The body votes first. Make sure it votes the way you would have chosen."
 ---
+
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -142,7 +138,6 @@ Most people who try this for 30 days report:
 
 The data will convince you faster than any self-help book.
 
----
 
 ## The Honest Summary
 
@@ -152,7 +147,6 @@ That is what athlete discipline looks like. Not the highlight reel. The 5 AM run
 
 The body votes first. Make sure it votes the way you would have chosen.
 
----
 
 *Youssef Raihane trained for a half marathon in 2022, finishing in 2 hours 15 minutes. He missed 4 runs out of 36. The discipline he built from that training now applies to every long-term project.*
 
@@ -162,7 +156,6 @@ The body votes first. Make sure it votes the way you would have chosen.
 2. *Walker, M.* (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams.* — for the sleep-decision making connection
 3. *Clear, J.* (2018). *Atomic Habits.* — for the identity-based habits framework
 
----
 
 **The body votes first.** To see how to protect that vote with the 2-minute rule and the 2-day rule, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to habits instead of miles.
 

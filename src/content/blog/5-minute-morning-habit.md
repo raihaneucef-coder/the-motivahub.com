@@ -33,12 +33,6 @@ faq:
     a: "No. The 5-minute habit fits into any morning schedule. The trick is doing it before email, not as a separate 'ritual' that requires 30 extra minutes."
   - q: "Why does this work better than a full morning routine?"
     a: "Because small + sustainable > big + abandoned. A 5-minute habit survives bad days. A 30-minute routine dies on the first sick Tuesday. The shortest version of the right habit beats the longest version."
-relatedArticles:
-  - "i-tested-12-morning-routines"
-  - "routine-matin-change-tout"
-  - "the-morning-athlete"
-  - "habit-stacking-routine"
-  - "regle-deux-minutes"
 ---
 
 # The 5-Minute Morning Habit That Saves My Sanity (And 4 Hours a Week)
@@ -237,7 +231,6 @@ Each layer compounds. Each one is small. Each one survives bad days.
 
 This is the system I'm still building. The 5-minute habit was the foundation. Everything else is built on top.
 
----
 
 ## The Honest Summary
 
@@ -264,7 +257,6 @@ But it will give you back the morning. And that, I think, is worth something.
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div>
 
----
 
 *Youssef Raihane has been writing 3 priorities on paper every morning for 8 months. He's missed maybe 5 days total. The habit is now automatic — like brushing his teeth.*
 
@@ -274,7 +266,6 @@ But it will give you back the morning. And that, I think, is worth something.
 2. *Baumeister, R. F., & Tierney, J.* (2011). *Willpower: Rediscovering the Greatest Human Strength.* — for the decision fatigue research
 3. *Cal Newport* — *Deep Work* (2016) — for the focused morning principles
 
----
 
 **Three priorities is the doorway.** The hallway is what fills the rest of the morning. To see the doorway pattern applied across meditation, reading, pushups, journaling, and more, read our [full 2-Minute Rule guide and 7-day protocol](/journal/two-minute-rule-guide/) — same principle, different rooms.
 

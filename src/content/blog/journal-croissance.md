@@ -32,13 +32,8 @@ faq:
     a: "Start with three prompts: (1) What am I grateful for today? (2) What did I learn today? (3) What am I struggling with? These cover the three core functions of journaling: appreciation, learning, and problem-solving. Add more as the habit establishes."
   - q: "Does journaling actually work?"
     a: "Yes. Research from UC Davis and Harvard shows that expressive writing reduces anxiety, improves mood, and increases cognitive processing. The effect is cumulative — 10 minutes daily for 30 days produces measurable changes in self-awareness and decision-making."
-relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
 ---
+
 
 # Journaling for Growth: How Writing Transforms Your Self-Awareness
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
@@ -84,6 +79,5 @@ Every month, read your journal entries. You will see patterns, growth, and areas
 
 > *I can be changed by what happens to me. But I refuse to be reduced by it. — Maya Angelou*
 
----
 
 **Start journaling today.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 journal prompts. Track your writing streak with our [Habit Tracker](/tracker/).

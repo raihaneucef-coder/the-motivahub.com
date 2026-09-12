@@ -29,14 +29,9 @@ faq:
   - q: "How do I stop multitasking?"
     a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
   - q: "Can focus be trained?"
-    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity
-relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity"
 ---
+
 
 > **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
 
@@ -88,7 +83,7 @@ faq:
   - q: "How do I stop multitasking?"
     a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
   - q: "Can focus be trained?"
-    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity.
----
+    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity."
+
 
 **Apply the 2-minute rule today.** Our [30 Days of Discipline](/30-days-discipline/) teaches you to handle small tasks efficiently. Track your habits with our [Habit Tracker](/tracker/).
