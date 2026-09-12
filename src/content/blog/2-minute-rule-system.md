@@ -38,7 +38,8 @@ faq:
   - q: "How long does it take to build a 2-minute rule system?"
     a: "Three weeks to feel automatic (the doorway installs). Six to eight weeks for the 2-day rule to become reflexive (you stop negotiating with yourself). Three months for the hallway to feel natural. The full system is mature around day 90, which is the median for identity-level habit formation (Lally 2009, extended by research on identity in 2023-2025)."
   - q: "Can the 2-minute rule be applied to a 90-day discipline challenge?"
-    a: "Yes — and this is where most people get it wrong. A 90-day challenge is not a 90-day commitment to a 2-minute rule. The 2-minute rule is the doorway. The 90 days is the hallway. The doorway stays small. The hallway grows. The challenge completes. The doorway remains."relatedArticles:
+    a: "Yes — and this is where most people get it wrong. A 90-day challenge is not a 90-day commitment to a 2-minute rule. The 2-minute rule is the doorway. The 90 days is the hallway. The doorway stays small. The hallway grows. The challenge completes. The doorway remains."
+relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"
