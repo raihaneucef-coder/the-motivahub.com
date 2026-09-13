@@ -613,6 +613,11 @@ const gaSnippet = GA_ID
             stoicismHowRead:"Comment lire le Stoïcisme sans devenir un robot", stoicismHowReadP1:"Le stoïcisme ne consiste pas à réprimer les émotions. Il consiste à choisir quelle émotion gouverne vos décisions. Marc Aurèle a écrit Méditations comme un exercice matinal privé, pas comme une performance. Les lettres de Sénèque sont de la psychologie pratique déguisée en philosophie.", stoicismHowReadP2:"Si vous voulez un point d'entrée moderne, commencez par The Daily Stoic ou The Obstacle Is the Way. Si vous voulez le texte source, lisez notre", stoicismMorningRoutineLink:"test de terrain du rituel matinal stoïcien", stoicismBrowseFull:"Parcourez la collection complète :", stoicismBestBooksLink:"meilleurs livres de développement personnel", stoicismBestFocusLink:"meilleurs livres de concentration", stoicismBestHabitLink:"meilleurs livres d'habitudes",
           },
         };
+        const enCache = new Map();
+        document.querySelectorAll("[data-i18n-html]").forEach(el=>{
+          const k = el.getAttribute("data-i18n-html");
+          if(k && !enCache.has(k)) enCache.set(k, el.innerHTML);
+        });
         async function setLang(lang){
           const baseDict = dict[lang] || dict.en;
           let t = {...baseDict};
@@ -633,7 +638,11 @@ const gaSnippet = GA_ID
           });
           document.querySelectorAll("[data-i18n-html]").forEach(el=>{
             const k = el.getAttribute("data-i18n-html");
-            if(k && t[k]) el.innerHTML = t[k];
+            if(lang === "en" && enCache.has(k)){
+              el.innerHTML = enCache.get(k);
+            } else if(k && t[k]){
+              el.innerHTML = t[k];
+            }
           });
           document.querySelectorAll("[data-i18n-placeholder]").forEach(el=>{
             const k = el.getAttribute("data-i18n-placeholder");
