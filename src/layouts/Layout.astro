@@ -306,6 +306,12 @@ const gaSnippet = GA_ID
             principleStrength:"On Strength", principleStrengthDesc:"The body votes first. We train, eat and recover deliberately — because a strong mind needs a capable vessel.",
             principleJourney:"On Journey", principleJourneyDesc:"Go where you are a beginner again. New roads, new kitchens and new horizons keep the ego honest and the mind hungry.",
             principleJoy:"On Joy", principleJoyDesc:"Rest is a skill, not a reward. We choose our stories and our entertainment the way we choose training — to return stronger.",
+            navJournal:"Le Journal", navQuotes:"Citations du jour", navTopics:"Thèmes", navBookstand:"La Bibliothèque",
+            navAtomicHabits:"Atomic Habits", navBestBooks:"Meilleurs Livres 2026", navBestFocus:"Meilleurs Livres de Concentration", navBestHabit:"Meilleurs Livres d'Habitudes", navBestStoicism:"Stoïcisme",
+            navDisciplineQuiz:"Quiz de Discipline", navHabitStacker:"Empilage d'Habitudes", navMeditationTimer:"Minuteur de Méditation", navColdShower:"Suivi Douches Froides", navReadingCalc:"Calculateur de Lecture",
+            navAuthor:"L'Auteur", navAbout:"À propos", nav30Days:"30 Jours de Discipline", navContact:"Contact",
+            footerTagline:"The Daily Drive. État d'esprit, habitudes, livres et outils gratuits — pour la longue ascension, un jour à la fois.",
+            cookieText:"Nous utilisons des cookies pour améliorer votre expérience et à des fins d'analyse. En continuant, vous acceptez notre <a href='/privacy/' data-i18n='cookiePrivacy'>Politique de Confidentialité</a>.", cookieAccept:"Accepter", cookieDecline:"Refuser",
           },
           fr: {
             menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", tools:"Outils", author:"L'Auteur", pdf:"30 Jours de Discipline",
@@ -406,10 +412,10 @@ const gaSnippet = GA_ID
     </script>
     <div id="cookie-consent" class="cookie-banner" style="display:none;">
       <div class="cookie-inner">
-        <p>We use cookies to improve your experience and for analytics. By continuing, you agree to our <a href="/privacy/">Privacy Policy</a>.</p>
+        <p data-i18n="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <a href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</a>.</p>
         <div class="cookie-actions">
-          <button class="cookie-btn cookie-accept" onclick="acceptCookies()">Accept</button>
-          <button class="cookie-btn cookie-decline" onclick="declineCookies()">Decline</button>
+          <button class="cookie-btn cookie-accept" onclick="acceptCookies()" data-i18n="cookieAccept">Accept</button>
+          <button class="cookie-btn cookie-decline" onclick="declineCookies()" data-i18n="cookieDecline">Decline</button>
         </div>
       </div>
     </div>
