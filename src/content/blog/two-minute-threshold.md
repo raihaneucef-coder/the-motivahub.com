@@ -38,77 +38,76 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_two-minute-threshold_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_two-minute-threshold_p2"><strong>The Two-Minute Threshold</strong> — practical guide based on real experiments. The Two-Minute Threshold works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Two-Minute Threshold** — practical guide based on real experiments. The Two-Minute Threshold works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_two-minute-threshold_p3"><h1>The Two-Minute Threshold</h1>
+A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever.</div>
 
-# The Two-Minute Threshold
-A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever.
+<div data-i18n-html="article_two-minute-threshold_p4"><h2>The War Is Won at the Door</h2></div>
 
-## The War Is Won at the Door
+<div data-i18n-html="article_two-minute-threshold_p5">Every habit has a doorway — the first two minutes. Flossing: the first tooth. Running: lacing the shoes. Writing: opening the document. The ancient wisdom understood this: "Well begun is half done."</div>
 
-Every habit has a doorway — the first two minutes. Flossing: the first tooth. Running: lacing the shoes. Writing: opening the document. The ancient wisdom understood this: "Well begun is half done."
+<div data-i18n-html="article_two-minute-threshold_p6">The person who does not begin has not lost a workout — they have lost at the doorway, before the workout even existed. And the doorway is always easier than the thing behind it.</div>
 
-The person who does not begin has not lost a workout — they have lost at the doorway, before the workout even existed. And the doorway is always easier than the thing behind it.
+<div data-i18n-html="article_two-minute-threshold_p7"><h2>Why Big Habits Die</h2></div>
 
-## Why Big Habits Die
+<div data-i18n-html="article_two-minute-threshold_p8">Everyone starts with big intentions: an hour at the gym, two hours of writing, a perfect morning routine. The first day is glorious. The third day is hard. The fifth day, the big intention becomes a big guilt — and guilt is heavier than any dumbbell.</div>
 
-Everyone starts with big intentions: an hour at the gym, two hours of writing, a perfect morning routine. The first day is glorious. The third day is hard. The fifth day, the big intention becomes a big guilt — and guilt is heavier than any dumbbell.
+<div data-i18n-html="article_two-minute-threshold_p9">The habit does not die from laziness. It dies from weight. The bigger the intention, the heavier the habit, and the sooner the knees buckle.</div>
 
-The habit does not die from laziness. It dies from weight. The bigger the intention, the heavier the habit, and the sooner the knees buckle.
+<div data-i18n-html="article_two-minute-threshold_p10"><h2>The Two-Minute Rule</h2></div>
 
-## The Two-Minute Rule
+<div data-i18n-html="article_two-minute-threshold_p11">The rule is brutal in its simplicity: <strong>any habit can be reduced to two minutes.</strong></div>
 
-The rule is brutal in its simplicity: **any habit can be reduced to two minutes.**
-
-- "Read for an hour" becomes "read one page"
+<div data-i18n-html="article_two-minute-threshold_p12">- "Read for an hour" becomes "read one page"
 - "Run five kilometres" becomes "put on my shoes"
 - "Write two thousand words" becomes "write one sentence"
 - "Study" becomes "open the book"
-- "Meditate" becomes "sit and breathe once, deliberately"
+- "Meditate" becomes "sit and breathe once, deliberately"</div>
 
-The point is not the two minutes. The point is that two minutes cannot be refused. And what cannot be refused, gets done. And what gets done, gets repeated. And what gets repeated, becomes.
+<div data-i18n-html="article_two-minute-threshold_p13">The point is not the two minutes. The point is that two minutes cannot be refused. And what cannot be refused, gets done. And what gets done, gets repeated. And what gets repeated, becomes.</div>
 
-## The Doorway Stays Open
+<div data-i18n-html="article_two-minute-threshold_p14"><h2>The Doorway Stays Open</h2></div>
 
-Here is the mechanism worth understanding: after the two minutes, you are free to stop. But the momentum of having begun usually carries you further.
+<div data-i18n-html="article_two-minute-threshold_p15">Here is the mechanism worth understanding: after the two minutes, you are free to stop. But the momentum of having begun usually carries you further.</div>
 
-Nobody runs only with their shoes on. Nobody writes only one sentence. The two minutes are the hinge; the rest is gravity. The habit is built by the doorway, not by the marathon — the marathon is a bonus that appears on its own.
+<div data-i18n-html="article_two-minute-threshold_p16">Nobody runs only with their shoes on. Nobody writes only one sentence. The two minutes are the hinge; the rest is gravity. The habit is built by the doorway, not by the marathon — the marathon is a bonus that appears on its own.</div>
 
-## The Stoic Version of the Rule
+<div data-i18n-html="article_two-minute-threshold_p17"><h2>The Stoic Version of the Rule</h2></div>
 
-The Stoics did not have a two-minute rule, but they had its ancestor. They called it *prohairesis* — the faculty of choice at the very beginning. Marcus Aurelius's morning ritual began with a sentence: "Today I shall be meeting with interference, ingratitude, insolence."
+<div data-i18n-html="article_two-minute-threshold_p18">The Stoics did not have a two-minute rule, but they had its ancestor. They called it <em>prohairesis</em> — the faculty of choice at the very beginning. Marcus Aurelius's morning ritual began with a sentence: "Today I shall be meeting with interference, ingratitude, insolence."</div>
 
-He did not resolve to be perfect for a day. He resolved to the smallest possible unit: the next moment, met well. The empire was governed one moment at a time.
+<div data-i18n-html="article_two-minute-threshold_p19">He did not resolve to be perfect for a day. He resolved to the smallest possible unit: the next moment, met well. The empire was governed one moment at a time.</div>
 
-## Engineering the Impossible-to-Skip
+<div data-i18n-html="article_two-minute-threshold_p20"><h2>Engineering the Impossible-to-Skip</h2></div>
 
-Make the two minutes impossible to refuse by removing the obstacles before they exist:
+<div data-i18n-html="article_two-minute-threshold_p21">Make the two minutes impossible to refuse by removing the obstacles before they exist:</div>
 
-- Put the book on the pillow at night — the morning cannot refuse it
+<div data-i18n-html="article_two-minute-threshold_p22">- Put the book on the pillow at night — the morning cannot refuse it
 - Sleep in the running clothes — the run begins before the alarm
-- Leave the notebook open on the desk — the sentence is already waiting
+- Leave the notebook open on the desk — the sentence is already waiting</div>
 
-The habit is not about willpower. It is about architecture. If the doorway is open, you will walk through it — nine times out of ten, you will even walk further.
+<div data-i18n-html="article_two-minute-threshold_p23">The habit is not about willpower. It is about architecture. If the doorway is open, you will walk through it — nine times out of ten, you will even walk further.</div>
 
-## What About Real Habits?
+<div data-i18n-html="article_two-minute-threshold_p24"><h2>What About Real Habits?</h2></div>
 
-You might object: a two-minute meditation is not a meditation practice. True. And a one-page reader is not yet a scholar. But consider the alternative: a ninety-minute meditation practice that never happens, versus a two-minute practice that happens every day.
+<div data-i18n-html="article_two-minute-threshold_p25">You might object: a two-minute meditation is not a meditation practice. True. And a one-page reader is not yet a scholar. But consider the alternative: a ninety-minute meditation practice that never happens, versus a two-minute practice that happens every day.</div>
 
-The daily two minutes compound. The occasional ninety minutes do not. A year of two minutes is more than twelve hours of practice — and more importantly, it is three hundred and sixty-five open doorways. Habit is not about the size of the act. It is about the reliability of the doorway.
+<div data-i18n-html="article_two-minute-threshold_p26">The daily two minutes compound. The occasional ninety minutes do not. A year of two minutes is more than twelve hours of practice — and more importantly, it is three hundred and sixty-five open doorways. Habit is not about the size of the act. It is about the reliability of the doorway.</div>
 
-## Tonight, Choose Your Doorway
+<div data-i18n-html="article_two-minute-threshold_p27"><h2>Tonight, Choose Your Doorway</h2></div>
 
-Pick the habit that has been defeating you. Now shrink it. Not to something reasonable — to something *ridiculous*. Ridiculous is the goal.
+<div data-i18n-html="article_two-minute-threshold_p28">Pick the habit that has been defeating you. Now shrink it. Not to something reasonable — to something <em>ridiculous</em>. Ridiculous is the goal.</div>
 
-- Write one word
+<div data-i18n-html="article_two-minute-threshold_p29">- Write one word
 - Do one push-up
 - Read one sentence
-- Stretch for one breath
+- Stretch for one breath</div>
 
-Do it tonight. Then again tomorrow. The doorway has been there all along — you were just trying to enter through the wall.
+<div data-i18n-html="article_two-minute-threshold_p30">Do it tonight. Then again tomorrow. The doorway has been there all along — you were just trying to enter through the wall.</div>
 
-This is the doorway pattern in a single paragraph. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) turns it into a 7-day protocol and explains the science behind why shrinking a habit to something ridiculous is the only reliable way to keep it alive.
+<div data-i18n-html="article_two-minute-threshold_p31">This is the doorway pattern in a single paragraph. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> turns it into a 7-day protocol and explains the science behind why shrinking a habit to something ridiculous is the only reliable way to keep it alive.</div>
 
-Shrink the habit. Open the door. The rest will follow.
+<div data-i18n-html="article_two-minute-threshold_p32">Shrink the habit. Open the door. The rest will follow.</div>

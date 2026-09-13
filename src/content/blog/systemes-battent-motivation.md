@@ -37,63 +37,62 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_systemes-battent-motivation_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_systemes-battent-motivation_p2"><strong>When Motivation Fails, Systems Take Over</strong> — practical guide based on real experiments. When Motivation Fails, Systems Take Over works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**When Motivation Fails, Systems Take Over** — practical guide based on real experiments. When Motivation Fails, Systems Take Over works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_systemes-battent-motivation_p3"><h1>When Motivation Fails, Systems Take Over</h1>
+Motivation gets you started. Systems keep you going. The problem is that most people rely on motivation — and motivation disappears when things get hard.</div>
 
-# When Motivation Fails, Systems Take Over
-Motivation gets you started. Systems keep you going. The problem is that most people rely on motivation — and motivation disappears when things get hard.
+<div data-i18n-html="article_systemes-battent-motivation_p4">Systems do not care how you feel. They run regardless. And that is why systems always beat motivation.</div>
 
-Systems do not care how you feel. They run regardless. And that is why systems always beat motivation.
+<div data-i18n-html="article_systemes-battent-motivation_p5"><h2>The Problem With Motivation</h2></div>
 
-## The Problem With Motivation
+<div data-i18n-html="article_systemes-battent-motivation_p6">Motivation is like weather — unpredictable, temporary, and outside your control. You cannot schedule it. You cannot force it. You cannot keep it around when it decides to leave.</div>
 
-Motivation is like weather — unpredictable, temporary, and outside your control. You cannot schedule it. You cannot force it. You cannot keep it around when it decides to leave.
+<div data-i18n-html="article_systemes-battent-motivation_p7">But you can schedule a system. You can follow a system regardless of your mood. You can rely on a system when motivation has left the building.</div>
 
-But you can schedule a system. You can follow a system regardless of your mood. You can rely on a system when motivation has left the building.
+<div data-i18n-html="article_systemes-battent-motivation_p8"><h2>What Is a System?</h2></div>
 
-## What Is a System?
+<div data-i18n-html="article_systemes-battent-motivation_p9">A system is a set of processes that produce results regardless of how you feel.</div>
 
-A system is a set of processes that produce results regardless of how you feel.
+<div data-i18n-html="article_systemes-battent-motivation_p10">- <strong>Goal:</strong> "I want to write a book"
+- <strong>System:</strong> "I write 500 words every morning at 7 AM"</div>
 
-- **Goal:** "I want to write a book"
-- **System:** "I write 500 words every morning at 7 AM"
+<div data-i18n-html="article_systemes-battent-motivation_p11">- <strong>Goal:</strong> "I want to get fit"
+- <strong>System:</strong> "I exercise for 30 minutes every day at 6 AM"</div>
 
-- **Goal:** "I want to get fit"
-- **System:** "I exercise for 30 minutes every day at 6 AM"
+<div data-i18n-html="article_systemes-battent-motivation_p12">- <strong>Goal:</strong> "I want to save money"
+- <strong>System:</strong> "I transfer 100€ to savings every Friday"</div>
 
-- **Goal:** "I want to save money"
-- **System:** "I transfer 100€ to savings every Friday"
+<div data-i18n-html="article_systemes-battent-motivation_p13">The goal is the destination. The system is the vehicle. You need both — but the system is what gets you there.</div>
 
-The goal is the destination. The system is the vehicle. You need both — but the system is what gets you there.
+<div data-i18n-html="article_systemes-battent-motivation_p14"><h2>How to Build a System</h2></div>
 
-## How to Build a System
+<div data-i18n-html="article_systemes-battent-motivation_p15"><h3>1. Start Small</h3>
+Your system should be so easy that you cannot say no. "Write 100 words" is a better system than "write 1000 words."</div>
 
-### 1. Start Small
-Your system should be so easy that you cannot say no. "Write 100 words" is a better system than "write 1000 words."
+<div data-i18n-html="article_systemes-battent-motivation_p16"><h3>2. Make It Automatic</h3>
+Attach your system to an existing habit. "After I pour my coffee, I write 500 words" is automatic.</div>
 
-### 2. Make It Automatic
-Attach your system to an existing habit. "After I pour my coffee, I write 500 words" is automatic.
+<div data-i18n-html="article_systemes-battent-motivation_p17"><h3>3. Track It</h3>
+What gets measured gets managed. Track your system daily. Use our <a href="/tracker/">Habit Tracker</a> to see your consistency.</div>
 
-### 3. Track It
-What gets measured gets managed. Track your system daily. Use our [Habit Tracker](/tracker/) to see your consistency.
+<div data-i18n-html="article_systemes-battent-motivation_p18"><h3>4. Never Miss Twice</h3>
+You will miss a day. The rule is simple: never miss twice. One missed day is a fluke. Two missed days is a new habit.</div>
 
-### 4. Never Miss Twice
-You will miss a day. The rule is simple: never miss twice. One missed day is a fluke. Two missed days is a new habit.
+<div data-i18n-html="article_systemes-battent-motivation_p19"><h3>5. Review Weekly</h3>
+Every week, ask: "Is my system producing results?" If not, adjust the system — not the goal.</div>
 
-### 5. Review Weekly
-Every week, ask: "Is my system producing results?" If not, adjust the system — not the goal.
+<div data-i18n-html="article_systemes-battent-motivation_p20"><h2>The Compound Effect of Systems</h2></div>
 
-## The Compound Effect of Systems
+<div data-i18n-html="article_systemes-battent-motivation_p21">One day of following a system does not change your life. But 365 days of following a system creates a person you do not recognize.</div>
 
-One day of following a system does not change your life. But 365 days of following a system creates a person you do not recognize.
+<div data-i18n-html="article_systemes-battent-motivation_p22">The compound effect of daily systems is extraordinary. Small daily actions, repeated for years, produce results that seem impossible from the outside.</div>
 
-The compound effect of daily systems is extraordinary. Small daily actions, repeated for years, produce results that seem impossible from the outside.
+<div data-i18n-html="article_systemes-battent-motivation_p23"><blockquote><em>You do not rise to the level of your goals. You fall to the level of your systems. — James Clear</em></blockquote></div>
 
-> *You do not rise to the level of your goals. You fall to the level of your systems. — James Clear*
-
-faq:
+<div data-i18n-html="article_systemes-battent-motivation_p24">faq:
   - q: "What is the difference between discipline and motivation?"
     a: "Motivation is a feeling that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
   - q: "How do I build discipline when I have no motivation?"
@@ -102,6 +101,6 @@ faq:
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
     a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
----
+---</div>
 
-**Build your system today.** Our [30 Days of Discipline](/30-days-discipline/) gives you a system to follow. Track your consistency with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_systemes-battent-motivation_p25"><strong>Build your system today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you a system to follow. Track your consistency with our <a href="/tracker/">Habit Tracker</a>.</div>

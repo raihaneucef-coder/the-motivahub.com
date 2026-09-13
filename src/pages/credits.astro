@@ -5,25 +5,21 @@ import Layout from "../layouts/Layout.astro";
 <Layout title="Photo Credits — Motiva Hub" description="Attributions for the photography used across the Motiva Hub journal.">
   <section class="page-head">
     <div class="container">
-      <p class="kicker">Attribution</p>
-      <h1>Photo <em>Credits.</em></h1>
-      <p>
-        The photographs in our journal come from open-license collections (CC-BY, CC0, PDM)
-        discovered via Openverse. Each image is color-graded into the unified Motiva Hub
-        cinematic style. We thank the photographers below.
-      </p>
+      <p class="kicker" data-i18n="creditsPageKicker">Attribution</p>
+      <h1>Photo <em data-i18n="creditsPageTitle">Credits.</em></h1>
+      <p data-i18n="creditsIntro">The photographs in our journal come from open-license collections (CC-BY, CC0, PDM) discovered via Openverse. Each image is color-graded into the unified Motiva Hub cinematic style. We thank the photographers below.</p>
     </div>
   </section>
 
   <section class="feed">
     <div class="container">
-      <h2>Public Domain (CC0 / PDM)</h2>
+      <h2 data-i18n="creditsCc0Heading">Public Domain (CC0 / PDM)</h2>
       <ul>
         <li><code>secure-self.jpg</code> — “stocks-1709” by Artem Beliaikin (CC0)</li>
         <li><code>identity-precedes-outcome.jpg</code> — bust portrait by Thad Zajdowicz (CC0)</li>
       </ul>
 
-      <h2 style="margin-top:2rem;">Creative Commons — Attribution (CC-BY)</h2>
+      <h2 style="margin-top:2rem;" data-i18n="creditsCcbYHeading">Creative Commons — Attribution (CC-BY)</h2>
       <ul>
         <li><code>athlete-discipline.jpg</code> — by Roy Harryman</li>
         <li><code>attention-as-asset.jpg</code> — “Beam of light through the smoke” by Brett Levin Photography</li>
@@ -47,8 +43,8 @@ import Layout from "../layouts/Layout.astro";
         <li><code>when-motivation-leaves.jpg</code> — storm study by Steve Snodgrass</li>
       </ul>
 
-      <p style="margin-top:2rem;color:var(--muted);">
-        Full source links are maintained in the project’s <code>PHOTO-CREDITS.md</code>.
+      <p style="margin-top:2rem;color:var(--muted);" data-i18n="creditsFooterNote">
+        Full source links are maintained in the project's <code>PHOTO-CREDITS.md</code>.
         Found an attribution error? <a href="/contact">Contact us</a> and we will fix it promptly.
       </p>
     </div>

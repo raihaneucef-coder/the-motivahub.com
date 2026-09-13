@@ -39,26 +39,25 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_move-daily-not-perfectly_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_move-daily-not-perfectly_p2"><strong>Move Daily, Not Perfectly</strong> — practical guide based on real experiments. Move Daily, Not Perfectly works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Move Daily, Not Perfectly** — practical guide based on real experiments. Move Daily, Not Perfectly works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_move-daily-not-perfectly_p3"><h1>Move Daily, Not Perfectly</h1>
+The perfect workout is the one you keep skipping because you are waiting for the perfect hour, the perfect gym, the perfect energy.</div>
 
-# Move Daily, Not Perfectly
-The perfect workout is the one you keep skipping because you are waiting for the perfect hour, the perfect gym, the perfect energy.
+<div data-i18n-html="article_move-daily-not-perfectly_p4"><strong>A daily, imperfect move beats a perfect, occasional one every time.</strong></div>
 
-**A daily, imperfect move beats a perfect, occasional one every time.**
+<div data-i18n-html="article_move-daily-not-perfectly_p5">Ten minutes of walking is not too small to count. It is the vote that keeps the identity alive: I am someone who moves. Twenty squats in your living room are not embarrassing; they are evidence that the streak did not die today.</div>
 
-Ten minutes of walking is not too small to count. It is the vote that keeps the identity alive: I am someone who moves. Twenty squats in your living room are not embarrassing; they are evidence that the streak did not die today.
+<div data-i18n-html="article_move-daily-not-perfectly_p6">The goal is not to impress anyone. The goal is to never have a zero day.</div>
 
-The goal is not to impress anyone. The goal is to never have a zero day.
+<div data-i18n-html="article_move-daily-not-perfectly_p7">Build the floor so low you cannot fail it:</div>
 
-Build the floor so low you cannot fail it:
+<div data-i18n-html="article_move-daily-not-perfectly_p8">- <strong>Walk after one meal.</strong> Not for steps, for signal — the day includes movement.
+- <strong>One mobility minute in the morning.</strong> Neck, shoulders, hips. Your future joints will thank you quietly.
+- <strong>One hard effort a week.</strong> Enough to remember that discomfort is survivable.</div>
 
-- **Walk after one meal.** Not for steps, for signal — the day includes movement.
-- **One mobility minute in the morning.** Neck, shoulders, hips. Your future joints will thank you quietly.
-- **One hard effort a week.** Enough to remember that discomfort is survivable.
+<div data-i18n-html="article_move-daily-not-perfectly_p9">You will have weeks when this is all you do. That is not lost progress. That is progress protected.</div>
 
-You will have weeks when this is all you do. That is not lost progress. That is progress protected.
-
-Move daily. Let perfect catch up when it can.
+<div data-i18n-html="article_move-daily-not-perfectly_p10">Move daily. Let perfect catch up when it can.</div>

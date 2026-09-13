@@ -39,26 +39,25 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_solo-travel-stronger-self_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_solo-travel-stronger-self_p2"><strong>Solo Travel, Stronger Self</strong> — practical guide based on real experiments. Solo Travel, Stronger Self works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Solo Travel, Stronger Self** — practical guide based on real experiments. Solo Travel, Stronger Self works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_solo-travel-stronger-self_p3"><h1>Solo Travel, Stronger Self</h1>
+Travel with others and you learn about the place. Travel alone and you learn about yourself.</div>
 
-# Solo Travel, Stronger Self
-Travel with others and you learn about the place. Travel alone and you learn about yourself.
+<div data-i18n-html="article_solo-travel-stronger-self_p4">When you are alone, you make every decision. Where to eat, when to sleep, whether to take the long way or the short one. No one to ask, no one to blame. It is uncomfortable and it is clarifying.</div>
 
-When you are alone, you make every decision. Where to eat, when to sleep, whether to take the long way or the short one. No one to ask, no one to blame. It is uncomfortable and it is clarifying.
+<div data-i18n-html="article_solo-travel-stronger-self_p5"><strong>Solo travel is not lonely. It is honest.</strong></div>
 
-**Solo travel is not lonely. It is honest.**
+<div data-i18n-html="article_solo-travel-stronger-self_p6">You discover how you handle uncertainty, boredom, and small kindnesses from strangers. You learn that you are more capable than the life you built at home lets you believe.</div>
 
-You discover how you handle uncertainty, boredom, and small kindnesses from strangers. You learn that you are more capable than the life you built at home lets you believe.
+<div data-i18n-html="article_solo-travel-stronger-self_p7">Try it once, even for two days:</div>
 
-Try it once, even for two days:
+<div data-i18n-html="article_solo-travel-stronger-self_p8">- <strong>Go somewhere you do not know, alone.</strong> Not far, just unfamiliar.
+- <strong>Carry one question.</strong> What am I afraid to do alone? Watch how you answer it by doing it.
+- <strong>Write one page each night.</strong> What surprised you today? What was hard? What was beautiful?</div>
 
-- **Go somewhere you do not know, alone.** Not far, just unfamiliar.
-- **Carry one question.** What am I afraid to do alone? Watch how you answer it by doing it.
-- **Write one page each night.** What surprised you today? What was hard? What was beautiful?
+<div data-i18n-html="article_solo-travel-stronger-self_p9">You will come back with the same life. You will not be the same person in it.</div>
 
-You will come back with the same life. You will not be the same person in it.
-
-Solo travel does not make you stronger by teaching you the world. It makes you stronger by showing you that you can be alone and still be okay — and sometimes, more than okay.
+<div data-i18n-html="article_solo-travel-stronger-self_p10">Solo travel does not make you stronger by teaching you the world. It makes you stronger by showing you that you can be alone and still be okay — and sometimes, more than okay.</div>

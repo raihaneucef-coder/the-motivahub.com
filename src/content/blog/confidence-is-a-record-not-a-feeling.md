@@ -39,30 +39,29 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p2"><strong>Confidence Is a Record, Not a Feeling</strong> — practical guide based on real experiments. Confidence Is a Record, Not a Feeling works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Confidence Is a Record, Not a Feeling** — practical guide based on real experiments. Confidence Is a Record, Not a Feeling works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p3"><h1>Confidence Is a Record, Not a Feeling</h1>
+We wait to feel confident before we act. It is a polite way to stay still.</div>
 
-# Confidence Is a Record, Not a Feeling
-We wait to feel confident before we act. It is a polite way to stay still.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p4">Confidence does not work like that. It does not arrive before you begin, like a permission slip. It arrives after — as a record of what you did when you did not feel it.</div>
 
-Confidence does not work like that. It does not arrive before you begin, like a permission slip. It arrives after — as a record of what you did when you did not feel it.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p5"><strong>Confidence is not an emotion. It is evidence.</strong></div>
 
-**Confidence is not an emotion. It is evidence.**
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p6">Every time you keep a small promise to yourself — the walk you said you would take, the page you said you would write, the difficult conversation you did not postpone — you add one line to a private ledger. No one else sees it. You do. And over weeks, that ledger becomes the quiet voice that says: <em>we do this.</em></div>
 
-Every time you keep a small promise to yourself — the walk you said you would take, the page you said you would write, the difficult conversation you did not postpone — you add one line to a private ledger. No one else sees it. You do. And over weeks, that ledger becomes the quiet voice that says: *we do this.*
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p7">The opposite is also true. Every broken promise, especially the small ones you excuse, writes a different line: <em>we do not do what we say.</em> Do that enough times and no affirmation can compete with the record you have built against yourself.</div>
 
-The opposite is also true. Every broken promise, especially the small ones you excuse, writes a different line: *we do not do what we say.* Do that enough times and no affirmation can compete with the record you have built against yourself.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p8">This is why confidence cannot be borrowed from quotes. It must be built from reps.</div>
 
-This is why confidence cannot be borrowed from quotes. It must be built from reps.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p9">Make the reps so small you cannot fail them:</div>
 
-Make the reps so small you cannot fail them:
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p10">- <strong>One promise a day, kept.</strong> Not ten. One. So small it would be embarrassing to break it.
+- <strong>Track it visibly.</strong> A calendar with a mark for each day you kept it. The chain of marks becomes the record your brain trusts.
+- <strong>Keep it when it is inconvenient.</strong> Confidence is not built on easy days. It is built on the Tuesday you were tired and still did the one thing.</div>
 
-- **One promise a day, kept.** Not ten. One. So small it would be embarrassing to break it.
-- **Track it visibly.** A calendar with a mark for each day you kept it. The chain of marks becomes the record your brain trusts.
-- **Keep it when it is inconvenient.** Confidence is not built on easy days. It is built on the Tuesday you were tired and still did the one thing.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p11">After thirty days, you will not need to convince yourself you are confident. You will have thirty pieces of evidence. The feeling follows the record — never the other way around.</div>
 
-After thirty days, you will not need to convince yourself you are confident. You will have thirty pieces of evidence. The feeling follows the record — never the other way around.
-
-Do not wait to feel ready. Build the record, and let the feeling catch up.
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p12">Do not wait to feel ready. Build the record, and let the feeling catch up.</div>

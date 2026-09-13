@@ -38,54 +38,53 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_syndrome-imposteur_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_syndrome-imposteur_p2"><strong>Imposter Syndrome: Why You Feel Like a Fraud and How to Stop</strong> — practical guide based on real experiments. Imposter Syndrome: Why You Feel Like a Fraud and How to Stop works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Imposter Syndrome: Why You Feel Like a Fraud and How to Stop** — practical guide based on real experiments. Imposter Syndrome: Why You Feel Like a Fraud and How to Stop works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_syndrome-imposteur_p3"><h1>Imposter Syndrome: Why You Feel Like a Fraud and How to Stop</h1>
+You got the promotion, but you feel like you do not deserve it. You published the article, but you feel like it was luck. You achieved the goal, but you feel like anyone could have done it.</div>
 
-# Imposter Syndrome: Why You Feel Like a Fraud and How to Stop
-You got the promotion, but you feel like you do not deserve it. You published the article, but you feel like it was luck. You achieved the goal, but you feel like anyone could have done it.
+<div data-i18n-html="article_syndrome-imposteur_p4">This is imposter syndrome — and 70% of people experience it at some point in their lives.</div>
 
-This is imposter syndrome — and 70% of people experience it at some point in their lives.
+<div data-i18n-html="article_syndrome-imposteur_p5"><h2>What Is Imposter Syndrome?</h2></div>
 
-## What Is Imposter Syndrome?
+<div data-i18n-html="article_syndrome-imposteur_p6">Imposter syndrome is the persistent feeling that you are a fraud — that your success is undeserved and you will eventually be exposed. It affects high achievers more than anyone else.</div>
 
-Imposter syndrome is the persistent feeling that you are a fraud — that your success is undeserved and you will eventually be exposed. It affects high achievers more than anyone else.
+<div data-i18n-html="article_syndrome-imposteur_p7"><h2>Why It Happens</h2></div>
 
-## Why It Happens
+<div data-i18n-html="article_syndrome-imposteur_p8"><h3>1. Perfectionism</h3>
+You set impossibly high standards and then feel like a failure when you do not meet them perfectly.</div>
 
-### 1. Perfectionism
-You set impossibly high standards and then feel like a failure when you do not meet them perfectly.
+<div data-i18n-html="article_syndrome-imposteur_p9"><h3>2. Comparing Yourself to Others</h3>
+You compare your behind-the-scenes to everyone else's highlight reel.</div>
 
-### 2. Comparing Yourself to Others
-You compare your behind-the-scenes to everyone else's highlight reel.
+<div data-i18n-html="article_syndrome-imposteur_p10"><h3>3. Fear of Success</h3>
+Deep down, you fear that success will raise expectations you cannot sustain.</div>
 
-### 3. Fear of Success
-Deep down, you fear that success will raise expectations you cannot sustain.
+<div data-i18n-html="article_syndrome-imposteur_p11"><h3>4. Childhood Patterns</h3>
+If you were praised for being "smart" rather than "hardworking," you may believe your abilities are fixed and any failure reveals your true inadequacy.</div>
 
-### 4. Childhood Patterns
-If you were praised for being "smart" rather than "hardworking," you may believe your abilities are fixed and any failure reveals your true inadequacy.
+<div data-i18n-html="article_syndrome-imposteur_p12"><h2>How to Overcome It</h2></div>
 
-## How to Overcome It
+<div data-i18n-html="article_syndrome-imposteur_p13"><h3>1. Name It</h3>
+When you feel like a fraud, say: "This is imposter syndrome." Naming it takes away its power.</div>
 
-### 1. Name It
-When you feel like a fraud, say: "This is imposter syndrome." Naming it takes away its power.
+<div data-i18n-html="article_syndrome-imposteur_p14"><h3>2. Track Your Evidence</h3>
+Keep a record of your achievements, compliments, and successes. When imposter syndrome strikes, review the evidence.</div>
 
-### 2. Track Your Evidence
-Keep a record of your achievements, compliments, and successes. When imposter syndrome strikes, review the evidence.
+<div data-i18n-html="article_syndrome-imposteur_p15"><h3>3. Share Your Feelings</h3>
+Talk to someone you trust. You will discover that almost everyone has felt the same way.</div>
 
-### 3. Share Your Feelings
-Talk to someone you trust. You will discover that almost everyone has felt the same way.
+<div data-i18n-html="article_syndrome-imposteur_p16"><h3>4. Reframe Failure</h3>
+Failure is not evidence of being a fraud. It is evidence of trying. And trying is what separates you from everyone who never attempted anything.</div>
 
-### 4. Reframe Failure
-Failure is not evidence of being a fraud. It is evidence of trying. And trying is what separates you from everyone who never attempted anything.
+<div data-i18n-html="article_syndrome-imposteur_p17"><h3>5. Accept Uncertainty</h3>
+You do not need to feel confident to act confidently. Action comes first. Confidence follows.</div>
 
-### 5. Accept Uncertainty
-You do not need to feel confident to act confidently. Action comes first. Confidence follows.
+<div data-i18n-html="article_syndrome-imposteur_p18"><blockquote><em>I have written 11 books, but each time I think, "Uh oh, they're going to find out now. I've run a game on everybody." — Maya Angelou</em></blockquote></div>
 
-> *I have written 11 books, but each time I think, "Uh oh, they're going to find out now. I've run a game on everybody." — Maya Angelou*
-
-faq:
+<div data-i18n-html="article_syndrome-imposteur_p19">faq:
   - q: "What is the most important principle here?"
     a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
   - q: "How do I apply this in my daily life?"
@@ -94,6 +93,6 @@ faq:
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
     a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----
+---</div>
 
-**Overcome imposter syndrome today.** Our [30 Days of Discipline](/30-days-discipline/) helps you build evidence of your capability. Track your progress with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_syndrome-imposteur_p20"><strong>Overcome imposter syndrome today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> helps you build evidence of your capability. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

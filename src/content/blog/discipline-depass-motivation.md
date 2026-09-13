@@ -40,49 +40,48 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-# Discipline Over Motivation: Why One Shows Up and the Other Doesn't
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_discipline-depass-motivation_p1"><h1>Discipline Over Motivation: Why One Shows Up and the Other Doesn't</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_discipline-depass-motivation_p2"><strong>Motivation gets you started. Discipline keeps you going.</strong> Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic. The difference matters most on the days you feel like quitting.</div>
 
-**Motivation gets you started. Discipline keeps you going.** Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic. The difference matters most on the days you feel like quitting.
+<div data-i18n-html="article_discipline-depass-motivation_p3">Motivation is like weather — unpredictable and temporary. Discipline is like a rock — solid and reliable. The most successful people do not rely on motivation. They rely on discipline.</div>
 
-Motivation is like weather — unpredictable and temporary. Discipline is like a rock — solid and reliable. The most successful people do not rely on motivation. They rely on discipline.
+<div data-i18n-html="article_discipline-depass-motivation_p4"><h2>The Difference</h2></div>
 
-## The Difference
+<div data-i18n-html="article_discipline-depass-motivation_p5">- <strong>Motivation</strong> is an emotion. It comes and goes.
+- <strong>Discipline</strong> is a skill. It can be built and strengthened.</div>
 
-- **Motivation** is an emotion. It comes and goes.
-- **Discipline** is a skill. It can be built and strengthened.
+<div data-i18n-html="article_discipline-depass-motivation_p6">- <strong>Motivation</strong> says: "I feel like doing it today."
+- <strong>Discipline</strong> says: "I will do it whether I feel like it or not."</div>
 
-- **Motivation** says: "I feel like doing it today."
-- **Discipline** says: "I will do it whether I feel like it or not."
+<div data-i18n-html="article_discipline-depass-motivation_p7">- <strong>Motivation</strong> is easy when things are going well.
+- <strong>Discipline</strong> matters most when things are going wrong.</div>
 
-- **Motivation** is easy when things are going well.
-- **Discipline** matters most when things are going wrong.
+<div data-i18n-html="article_discipline-depass-motivation_p8"><h2>Why Discipline Wins</h2></div>
 
-## Why Discipline Wins
+<div data-i18n-html="article_discipline-depass-motivation_p9"><h3>1. It Is Reliable</h3>
+Motivation disappears when you are tired, stressed, or discouraged. Discipline shows up regardless.</div>
 
-### 1. It Is Reliable
-Motivation disappears when you are tired, stressed, or discouraged. Discipline shows up regardless.
+<div data-i18n-html="article_discipline-depass-motivation_p10"><h3>2. It Builds Habits</h3>
+When you act with discipline, you build habits. Habits become automatic. Automatic habits produce results.</div>
 
-### 2. It Builds Habits
-When you act with discipline, you build habits. Habits become automatic. Automatic habits produce results.
+<div data-i18n-html="article_discipline-depass-motivation_p11"><h3>3. It Creates Identity</h3>
+Every time you act with discipline, you prove to yourself that you are the type of person who does the hard things. This builds unshakable self-belief.</div>
 
-### 3. It Creates Identity
-Every time you act with discipline, you prove to yourself that you are the type of person who does the hard things. This builds unshakable self-belief.
+<div data-i18n-html="article_discipline-depass-motivation_p12"><h3>4. It Compounds</h3>
+One day of discipline does not change your life. But 365 days of discipline creates a person you do not recognize.</div>
 
-### 4. It Compounds
-One day of discipline does not change your life. But 365 days of discipline creates a person you do not recognize.
+<div data-i18n-html="article_discipline-depass-motivation_p13"><h2>How to Build Discipline</h2></div>
 
-## How to Build Discipline
-
-1. Start small — one disciplined action per day
+<div data-i18n-html="article_discipline-depass-motivation_p14">1. Start small — one disciplined action per day
 2. Make it non-negotiable — do it whether you feel like it or not
-3. Track your streak — use our [Habit Tracker](/tracker/)
+3. Track your streak — use our <a href="/tracker/">Habit Tracker</a>
 4. Never miss twice — one day off is a break, two days off is a new habit
-5. Celebrate consistency — reward yourself for showing up
+5. Celebrate consistency — reward yourself for showing up</div>
 
-> *Discipline is choosing between what you want now and what you want most. — Abraham Lincoln*
+<div data-i18n-html="article_discipline-depass-motivation_p15"><blockquote><em>Discipline is choosing between what you want now and what you want most. — Abraham Lincoln</em></blockquote></div>
 
----
+<div data-i18n-html="article_discipline-depass-motivation_p16">---</div>
 
-**Build discipline today.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 days of daily discipline. Track your streak with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_discipline-depass-motivation_p17"><strong>Build discipline today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of daily discipline. Track your streak with our <a href="/tracker/">Habit Tracker</a>.</div>

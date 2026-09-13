@@ -39,28 +39,27 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_nervous-system-is-the-boss_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_nervous-system-is-the-boss_p2"><strong>Your Nervous System Is the Boss</strong> — practical guide based on real experiments. Your Nervous System Is the Boss works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Your Nervous System Is the Boss** — practical guide based on real experiments. Your Nervous System Is the Boss works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_nervous-system-is-the-boss_p3"><h1>Your Nervous System Is the Boss</h1>
+You cannot think your way out of a body that believes it is in danger.</div>
 
-# Your Nervous System Is the Boss
-You cannot think your way out of a body that believes it is in danger.
+<div data-i18n-html="article_nervous-system-is-the-boss_p4">You can repeat affirmations while your jaw is clenched, your shoulders are up to your ears, and your breath is shallow. Your nervous system will not be convinced. It listens to the body first, and to words last.</div>
 
-You can repeat affirmations while your jaw is clenched, your shoulders are up to your ears, and your breath is shallow. Your nervous system will not be convinced. It listens to the body first, and to words last.
+<div data-i18n-html="article_nervous-system-is-the-boss_p5"><strong>The boss is not your mind. It is your state.</strong></div>
 
-**The boss is not your mind. It is your state.**
+<div data-i18n-html="article_nervous-system-is-the-boss_p6">When you are activated — stressed, rushed, under-slept — the world looks like threats. Feedback feels like attack. A hard task feels impossible. When you are regulated — rested, breathed, moved — the same world looks like problems to solve. Nothing outside changed. Your state did.</div>
 
-When you are activated — stressed, rushed, under-slept — the world looks like threats. Feedback feels like attack. A hard task feels impossible. When you are regulated — rested, breathed, moved — the same world looks like problems to solve. Nothing outside changed. Your state did.
+<div data-i18n-html="article_nervous-system-is-the-boss_p7">This is not an excuse; it is a lever. You cannot always control the situation, but you can almost always shift your state by ten percent. And ten percent is enough to choose a better next move.</div>
 
-This is not an excuse; it is a lever. You cannot always control the situation, but you can almost always shift your state by ten percent. And ten percent is enough to choose a better next move.
+<div data-i18n-html="article_nervous-system-is-the-boss_p8">Three levers, available anywhere:</div>
 
-Three levers, available anywhere:
+<div data-i18n-html="article_nervous-system-is-the-boss_p9">- <strong>Move for two minutes.</strong> Walk, shake your hands, do ten slow squats. Motion tells the brain: we are not trapped.
+- <strong>Lengthen the exhale.</strong> Four in, eight out. The longer out-breath is a manual override for calm.
+- <strong>Name it plainly.</strong> "I feel activated and tight." Naming moves activity from the alarm center to the observing mind — and the alarm quiets a little.</div>
 
-- **Move for two minutes.** Walk, shake your hands, do ten slow squats. Motion tells the brain: we are not trapped.
-- **Lengthen the exhale.** Four in, eight out. The longer out-breath is a manual override for calm.
-- **Name it plainly.** "I feel activated and tight." Naming moves activity from the alarm center to the observing mind — and the alarm quiets a little.
+<div data-i18n-html="article_nervous-system-is-the-boss_p10">Do not try to be calm by demanding calm. Make your body feel a little safer, and calm arrives on its own.</div>
 
-Do not try to be calm by demanding calm. Make your body feel a little safer, and calm arrives on its own.
-
-Your to-do list will never regulate you. Your breath, your sleep, your movement will. Work with the boss, and the boss will work for you.
+<div data-i18n-html="article_nervous-system-is-the-boss_p11">Your to-do list will never regulate you. Your breath, your sleep, your movement will. Work with the boss, and the boss will work for you.</div>

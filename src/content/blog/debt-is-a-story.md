@@ -40,23 +40,22 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_debt-is-a-story_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_debt-is-a-story_p2"><strong>Debt Is a Story You Can Rewrite</strong> — practical guide based on real experiments. Debt Is a Story You Can Rewrite works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Debt Is a Story You Can Rewrite** — practical guide based on real experiments. Debt Is a Story You Can Rewrite works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_debt-is-a-story_p3"><h1>Debt Is a Story You Can Rewrite</h1>
+Debt whispers that you are bad with money. That is not helpful, and it is not true.</div>
 
-# Debt Is a Story You Can Rewrite
-Debt whispers that you are bad with money. That is not helpful, and it is not true.
+<div data-i18n-html="article_debt-is-a-story_p4">Debt is not a verdict on who you are; it is the result of a story you lived: an emergency, a celebration, a few months where life cost more than it gave. The story can be rewritten, but not with shame — with a plan.</div>
 
-Debt is not a verdict on who you are; it is the result of a story you lived: an emergency, a celebration, a few months where life cost more than it gave. The story can be rewritten, but not with shame — with a plan.
+<div data-i18n-html="article_debt-is-a-story_p5"><strong>Make the debt visible, then make it small.</strong> List every balance, rate, and minimum. No judgment, just data. Then choose one method and stay with it:</div>
 
-**Make the debt visible, then make it small.** List every balance, rate, and minimum. No judgment, just data. Then choose one method and stay with it:
+<div data-i18n-html="article_debt-is-a-story_p6">- <strong>Snowball:</strong> Pay the smallest balance first for quick wins and momentum.
+- <strong>Avalanche:</strong> Pay the highest rate first to save the most. Both work — the best one is the one you will keep.</div>
 
-- **Snowball:** Pay the smallest balance first for quick wins and momentum.
-- **Avalanche:** Pay the highest rate first to save the most. Both work — the best one is the one you will keep.
+<div data-i18n-html="article_debt-is-a-story_p7">Automate the minimums so you never miss, then put any extra — even 100 MAD — on the one you are attacking. Cancel one subscription and redirect it. Sell one thing you no longer use. Momentum matters more than amount.</div>
 
-Automate the minimums so you never miss, then put any extra — even 100 MAD — on the one you are attacking. Cancel one subscription and redirect it. Sell one thing you no longer use. Momentum matters more than amount.
+<div data-i18n-html="article_debt-is-a-story_p8">Track the total owed weekly, not daily. Watch it fall. Each payment is a sentence in the new story: I am someone who keeps promises, even to my past self.</div>
 
-Track the total owed weekly, not daily. Watch it fall. Each payment is a sentence in the new story: I am someone who keeps promises, even to my past self.
-
-You do not need to be debt-free tomorrow. You need to be moving in the right direction today.
+<div data-i18n-html="article_debt-is-a-story_p9">You do not need to be debt-free tomorrow. You need to be moving in the right direction today.</div>

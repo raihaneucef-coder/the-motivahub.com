@@ -39,28 +39,27 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p2"><strong>Eat on Time, Not on Emotion</strong> — practical guide based on real experiments. Eat on Time, Not on Emotion works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Eat on Time, Not on Emotion** — practical guide based on real experiments. Eat on Time, Not on Emotion works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p3"><h1>Eat on Time, Not on Emotion</h1>
+Hunger is not a good time to decide what to eat.</div>
 
-# Eat on Time, Not on Emotion
-Hunger is not a good time to decide what to eat.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p4">When you are starving, everything quick and sweet looks like the answer. Your brain, low on fuel, chooses what is fastest, not what is best for the afternoon you still have to live.</div>
 
-When you are starving, everything quick and sweet looks like the answer. Your brain, low on fuel, chooses what is fastest, not what is best for the afternoon you still have to live.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p5"><strong>Regular meals make good decisions automatic.</strong></div>
 
-**Regular meals make good decisions automatic.**
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p6">Eat before you are starving. Decide what lunch will be while you are still full from breakfast. Keep a simple backup — yogurt, nuts, fruit — for the day that goes long.</div>
 
-Eat before you are starving. Decide what lunch will be while you are still full from breakfast. Keep a simple backup — yogurt, nuts, fruit — for the day that goes long.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p7">This is not about perfect timing. It is about never arriving at a meal so hungry that you cannot choose well.</div>
 
-This is not about perfect timing. It is about never arriving at a meal so hungry that you cannot choose well.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p8">Try it:</div>
 
-Try it:
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p9">- <strong>Same windows, most days.</strong> Breakfast, lunch, dinner at roughly the same times. Your hunger learns the rhythm and gets quieter.
+- <strong>A small bridge.</strong> If lunch is late, have a small snack at 3 PM, not a large meal at 4:30.
+- <strong>Decide when you are calm.</strong> What you will eat for dinner is best decided at lunch, not at 7 PM when you are tired.</div>
 
-- **Same windows, most days.** Breakfast, lunch, dinner at roughly the same times. Your hunger learns the rhythm and gets quieter.
-- **A small bridge.** If lunch is late, have a small snack at 3 PM, not a large meal at 4:30.
-- **Decide when you are calm.** What you will eat for dinner is best decided at lunch, not at 7 PM when you are tired.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p10">You do not need more discipline at the table. You need less hunger at the table.</div>
 
-You do not need more discipline at the table. You need less hunger at the table.
-
-Eat on time, and the right choice stops feeling like a choice at all.
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p11">Eat on time, and the right choice stops feeling like a choice at all.</div>

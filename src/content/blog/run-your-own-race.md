@@ -40,26 +40,25 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_run-your-own-race_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_run-your-own-race_p2"><strong>Run Your Own Race: The Discipline of Pacing</strong> — practical guide based on real experiments. Run Your Own Race: The Discipline of Pacing works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Run Your Own Race: The Discipline of Pacing** — practical guide based on real experiments. Run Your Own Race: The Discipline of Pacing works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_run-your-own-race_p3"><h1>Run Your Own Race: The Discipline of Pacing</h1>
+The start of any race is loud. Everyone sprints. The crowd cheers the fast start.</div>
 
-# Run Your Own Race: The Discipline of Pacing
-The start of any race is loud. Everyone sprints. The crowd cheers the fast start.
+<div data-i18n-html="article_run-your-own-race_p4">The smart runner does not listen.</div>
 
-The smart runner does not listen.
+<div data-i18n-html="article_run-your-own-race_p5"><strong>Running your own race is the discipline of holding your pace when everyone else is proving something.</strong></div>
 
-**Running your own race is the discipline of holding your pace when everyone else is proving something.**
+<div data-i18n-html="article_run-your-own-race_p6">This is not just sport. It is career, it is saving, it is building anything that matters. The person who sprints at the start is performing. The person who holds their pace is competing.</div>
 
-This is not just sport. It is career, it is saving, it is building anything that matters. The person who sprints at the start is performing. The person who holds their pace is competing.
+<div data-i18n-html="article_run-your-own-race_p7">Pacing feels slow. It feels like you are being left behind. But the race is not won at the start. It is won by the person who is still running when others have burned out.</div>
 
-Pacing feels slow. It feels like you are being left behind. But the race is not won at the start. It is won by the person who is still running when others have burned out.
+<div data-i18n-html="article_run-your-own-race_p8">Practice it this week:</div>
 
-Practice it this week:
+<div data-i18n-html="article_run-your-own-race_p9">- <strong>Know your pace.</strong> What is sustainable for you, not for the person next to you?
+- <strong>Ignore the first surge.</strong> Let them go. Your race is longer.
+- <strong>Finish strong.</strong> The last kilometer is where pacing pays.</div>
 
-- **Know your pace.** What is sustainable for you, not for the person next to you?
-- **Ignore the first surge.** Let them go. Your race is longer.
-- **Finish strong.** The last kilometer is where pacing pays.
-
-You do not need to be the fastest at the start. You need to be the one who is still running at the end.
+<div data-i18n-html="article_run-your-own-race_p10">You do not need to be the fastest at the start. You need to be the one who is still running at the end.</div>

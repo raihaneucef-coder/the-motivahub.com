@@ -38,47 +38,46 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_podcasts-education_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_podcasts-education_p2"><strong>Podcasts as Education: How to Learn While You Do Everything Else</strong> — practical guide based on real experiments. Podcasts as Education: How to Learn While You Do Everything Else works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Podcasts as Education: How to Learn While You Do Everything Else** — practical guide based on real experiments. Podcasts as Education: How to Learn While You Do Everything Else works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_podcasts-education_p3"><h1>Podcasts as Education: How to Learn While You Do Everything Else</h1>
+You spend hours every week commuting, exercising, and doing chores. What if you could learn during those hours? Podcasts make it possible.</div>
 
-# Podcasts as Education: How to Learn While You Do Everything Else
-You spend hours every week commuting, exercising, and doing chores. What if you could learn during those hours? Podcasts make it possible.
+<div data-i18n-html="article_podcasts-education_p4"><h2>Why Podcasts Work</h2></div>
 
-## Why Podcasts Work
+<div data-i18n-html="article_podcasts-education_p5"><h3>1. They Use Dead Time</h3>
+Commuting, waiting, exercising — these are hours you cannot use for anything else. Podcasts turn them into learning time.</div>
 
-### 1. They Use Dead Time
-Commuting, waiting, exercising — these are hours you cannot use for anything else. Podcasts turn them into learning time.
+<div data-i18n-html="article_podcasts-education_p6"><h3>2. They Are Free</h3>
+Thousands of high-quality podcasts are available for free on Spotify, Apple Podcasts, and YouTube. Cost is not an excuse.</div>
 
-### 2. They Are Free
-Thousands of high-quality podcasts are available for free on Spotify, Apple Podcasts, and YouTube. Cost is not an excuse.
+<div data-i18n-html="article_podcasts-education_p7"><h3>3. They Are Portable</h3>
+Your phone is your classroom. You can learn anywhere, anytime.</div>
 
-### 3. They Are Portable
-Your phone is your classroom. You can learn anywhere, anytime.
+<div data-i18n-html="article_podcasts-education_p8"><h3>4. They Cover Everything</h3>
+Personal development, business, science, history, health, finance — there is a podcast for every topic.</div>
 
-### 4. They Cover Everything
-Personal development, business, science, history, health, finance — there is a podcast for every topic.
+<div data-i18n-html="article_podcasts-education_p9"><h2>Recommended Podcasts for Growth</h2></div>
 
-## Recommended Podcasts for Growth
+<div data-i18n-html="article_podcasts-education_p10">- <strong>The Tim Ferriss Show</strong> — productivity and life hacks
+- <strong>Huberman Lab</strong> — neuroscience and health
+- <strong>The Diary of a CEO</strong> — interviews with successful people
+- <strong>Philosophize This</strong> — philosophy made accessible
+- <strong>How I Built This</strong> — entrepreneurship stories</div>
 
-- **The Tim Ferriss Show** — productivity and life hacks
-- **Huberman Lab** — neuroscience and health
-- **The Diary of a CEO** — interviews with successful people
-- **Philosophize This** — philosophy made accessible
-- **How I Built This** — entrepreneurship stories
+<div data-i18n-html="article_podcasts-education_p11"><h2>How to Learn from Podcasts</h2></div>
 
-## How to Learn from Podcasts
-
-1. Choose podcasts aligned with your goals
+<div data-i18n-html="article_podcasts-education_p12">1. Choose podcasts aligned with your goals
 2. Take notes while listening
 3. Apply what you learn within 24 hours
 4. Discuss episodes with friends
-5. Listen at 1.25x speed to cover more content
+5. Listen at 1.25x speed to cover more content</div>
 
-> *The more that you read, the more things you will know. The more that you learn, the more places you will go. — Dr. Seuss*
+<div data-i18n-html="article_podcasts-education_p13"><blockquote><em>The more that you read, the more things you will know. The more that you learn, the more places you will go. — Dr. Seuss</em></blockquote></div>
 
-faq:
+<div data-i18n-html="article_podcasts-education_p14">faq:
   - q: "What is the most important principle here?"
     a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
   - q: "How do I apply this in my daily life?"
@@ -87,6 +86,6 @@ faq:
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
     a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----
+---</div>
 
-**Start learning today.** Our [30 Days of Discipline](/30-days-discipline/) gives you the structure to learn daily. Track your progress with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_podcasts-education_p15"><strong>Start learning today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you the structure to learn daily. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

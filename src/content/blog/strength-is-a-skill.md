@@ -39,24 +39,23 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_strength-is-a-skill_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_strength-is-a-skill_p2"><strong>Strength Is a Skill, Not a Talent</strong> — practical guide based on real experiments. Strength Is a Skill, Not a Talent works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Strength Is a Skill, Not a Talent** — practical guide based on real experiments. Strength Is a Skill, Not a Talent works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_strength-is-a-skill_p3"><h1>Strength Is a Skill, Not a Talent</h1>
+We treat strength as something people have. It is something people build, rep by rep, with attention.</div>
 
-# Strength Is a Skill, Not a Talent
-We treat strength as something people have. It is something people build, rep by rep, with attention.
+<div data-i18n-html="article_strength-is-a-skill_p4">The strongest people in the gym are not the ones who lift the most on day one. They are the ones who still care about form on rep 100.</div>
 
-The strongest people in the gym are not the ones who lift the most on day one. They are the ones who still care about form on rep 100.
+<div data-i18n-html="article_strength-is-a-skill_p5"><strong>Strength is a skill. Skills are learned slowly and kept with practice.</strong></div>
 
-**Strength is a skill. Skills are learned slowly and kept with practice.**
+<div data-i18n-html="article_strength-is-a-skill_p6">The bar teaches what books cannot: that progress is not linear, that patience is a form of strength, and that the last rep — the one you almost skip — is the one that teaches you who you are.</div>
 
-The bar teaches what books cannot: that progress is not linear, that patience is a form of strength, and that the last rep — the one you almost skip — is the one that teaches you who you are.
+<div data-i18n-html="article_strength-is-a-skill_p7">Start where you are, not where you wish you were:</div>
 
-Start where you are, not where you wish you were:
+<div data-i18n-html="article_strength-is-a-skill_p8">- <strong>Master the empty bar.</strong> Form first, weight second. Strength built on bad form is an injury waiting to happen.
+- <strong>Add one rep, not ten pounds.</strong> Small progress, repeated, is the only progress that lasts.
+- <strong>Rest as hard as you lift.</strong> The muscle grows while you sleep, not while you strain.</div>
 
-- **Master the empty bar.** Form first, weight second. Strength built on bad form is an injury waiting to happen.
-- **Add one rep, not ten pounds.** Small progress, repeated, is the only progress that lasts.
-- **Rest as hard as you lift.** The muscle grows while you sleep, not while you strain.
-
-Strength is not a talent you wait for. It is a skill you practice until it looks like talent to everyone else.
+<div data-i18n-html="article_strength-is-a-skill_p9">Strength is not a talent you wait for. It is a skill you practice until it looks like talent to everyone else.</div>

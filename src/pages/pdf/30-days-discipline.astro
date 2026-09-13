@@ -52,21 +52,21 @@ const faq = [
 
   <section class="pdf-head">
     <div class="container">
-      <p class="kicker">Free PDF · 32 Pages · Ships in 2 Weeks</p>
-      <h1>30 Days of <em>Discipline</em></h1>
-      <p class="pdf-subtitle"><em>The daily practice PDF that turns motivation into a system. One page a day. 2 minutes each morning. Free forever.</em></p>
+      <p class="kicker" data-i18n="pdfKicker">Free PDF · 32 Pages · Ships in 2 Weeks</p>
+      <h1 data-i18n-html="pdfTitle">30 Days of <em>Discipline</em></h1>
+      <p class="pdf-subtitle" data-i18n-html="pdfSubtitle"><em>The daily practice PDF that turns motivation into a system. One page a day. 2 minutes each morning. Free forever.</em></p>
     </div>
   </section>
 
   <section class="pdf-coming-soon">
     <div class="container">
       <div class="coming-soon-box">
-        <p class="coming-soon-label">📦 Status</p>
-        <h2 class="coming-soon-title">The PDF is being designed in Canva</h2>
-        <p class="coming-soon-text">We're hand-crafting each page — typography, layout, prompts, micro-actions. The final version will be print-ready (A4) and digital-friendly (tablet). Subscribe below to get it the moment it ships.</p>
+        <p class="coming-soon-label" data-i18n="pdfStatusLabel">📦 Status</p>
+        <h2 class="coming-soon-title" data-i18n="pdfStatusTitle">The PDF is being designed in Canva</h2>
+        <p class="coming-soon-text" data-i18n="pdfStatusText">We're hand-crafting each page — typography, layout, prompts, micro-actions. The final version will be print-ready (A4) and digital-friendly (tablet). Subscribe below to get it the moment it ships.</p>
         <form class="notify-form" id="notify-form" novalidate>
-          <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" />
-          <button type="submit" class="btn-pill btn-pill-cream">Notify Me When It Ships</button>
+          <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" data-i18n-placeholder="pdfNotifyPlaceholder">
+          <button type="submit" class="btn-pill btn-pill-cream" data-i18n="pdfNotifyButton">Notify Me When It Ships</button>
         </form>
         <p class="notify-note" id="notify-note" aria-live="polite"></p>
       </div>
@@ -76,10 +76,10 @@ const faq = [
   <section class="pdf-content">
     <div class="container">
       <div class="pdf-info">
-        <h2>What's inside (preview)</h2>
-        <p>This isn't a book of motivation. It's a <strong>system</strong>. For 30 days, you'll work through six weekly themes, complete daily exercises, and track your progress on a printable page. By day 30, you'll have built the foundation for a discipline system that survives bad days.</p>
+        <h2 data-i18n="pdfWhatsInside">What's inside (preview)</h2>
+        <p data-i18n="pdfInsideText">This isn't a book of motivation. It's a <strong>system</strong>. For 30 days, you'll work through six weekly themes, complete daily exercises, and track your progress on a printable page. By day 30, you'll have built the foundation for a discipline system that survives bad days.</p>
 
-        <h2>4 reasons this works</h2>
+        <h2 data-i18n="pdfReasonsTitle">4 reasons this works</h2>
         <div class="benefits-grid">
           {benefits.map((b) => (
             <div class="benefit-card">
@@ -90,7 +90,7 @@ const faq = [
           ))}
         </div>
 
-        <h2>6 weekly themes (the structure)</h2>
+        <h2 data-i18n="pdfWeeksTitle">6 weekly themes (the structure)</h2>
         <div class="weeks-grid">
           {weeklyThemes.map((w) => (
             <div class="week-card">
@@ -101,28 +101,28 @@ const faq = [
           ))}
         </div>
 
-        <h2>How you'll use it (5 min/day)</h2>
+        <h2 data-i18n="pdfHowTitle">How you'll use it (5 min/day)</h2>
         <ol class="how-to">
-          <li><strong>Morning ritual:</strong> Read today's page. Coffee, water, quiet.</li>
-          <li><strong>Affirmation:</strong> Read the daily affirmation out loud. Let it land.</li>
-          <li><strong>Micro-action (2 min):</strong> Do the day's tiny action. Set a timer. Stop at 2 min.</li>
-          <li><strong>Reflection (1 min):</strong> Answer 1 question. In your head, in a journal, on the page.</li>
-          <li><strong>Close and go:</strong> Shut the PDF. Live your day.</li>
+          <li data-i18n="pdfMorningRitual"><strong>Morning ritual:</strong> Read today's page. Coffee, water, quiet.</li>
+          <li data-i18n="pdfAffirmation"><strong>Affirmation:</strong> Read the daily affirmation out loud. Let it land.</li>
+          <li data-i18n="pdfMicroAction"><strong>Micro-action (2 min):</strong> Do the day's tiny action. Set a timer. Stop at 2 min.</li>
+          <li data-i18n="pdfReflection"><strong>Reflection (1 min):</strong> Answer 1 question. In your head, in a journal, on the page.</li>
+          <li data-i18n="pdfCloseGo"><strong>Close and go:</strong> Shut the PDF. Live your day.</li>
         </ol>
 
-        <h2>The daily protocol (sample — Day 7)</h2>
+        <h2 data-i18n="pdfDaySampleTitle">The daily protocol (sample — Day 7)</h2>
         <div class="day-sample">
-          <p class="day-title">Day 7 — The 2-Minute Ritual</p>
+          <p class="day-title" data-i18n="pdfDay7Title">Day 7 — The 2-Minute Ritual</p>
           <ol>
-            <li><strong>Affirmation:</strong> "Two minutes is the door. I open it daily."</li>
-            <li><strong>Micro-action (2 min):</strong> Do the new habit for 2 minutes. Set a timer. Stop at 2 min — no more.</li>
-            <li><strong>Reflection:</strong> "What did I want to do beyond the 2 minutes?"</li>
+            <li data-i18n="pdfSampleAffirmation"><strong>Affirmation:</strong> "Two minutes is the door. I open it daily."</li>
+            <li data-i18n="pdfSampleMicroAction"><strong>Micro-action (2 min):</strong> Do the new habit for 2 minutes. Set a timer. Stop at 2 min — no more.</li>
+            <li data-i18n="pdfSampleReflection"><strong>Reflection:</strong> "What did I want to do beyond the 2 minutes?"</li>
           </ol>
-          <p>Total time: 5 minutes. Sustainable on your worst day.</p>
+          <p data-i18n="pdfTotalTime">Total time: 5 minutes. Sustainable on your worst day.</p>
         </div>
 
         <div class="related-tools">
-          <h2>Tools to use alongside the PDF</h2>
+          <h2 data-i18n="pdfRelatedTitle">Tools to use alongside the PDF</h2>
           <div class="related-grid">
             <a class="related-card" href="/tools/discipline-quiz/">
               <p class="related-name">🎯 Discipline Type Quiz</p>
@@ -148,7 +148,7 @@ const faq = [
 
   <section class="pdf-faq">
     <div class="container">
-      <h2>FAQ</h2>
+      <h2 data-i18n="pdfFaqTitle">FAQ</h2>
       {faq.map((item) => (
         <details>
           <summary>{item.q}</summary>
@@ -160,8 +160,8 @@ const faq = [
 
   <section class="pdf-cta-final">
     <div class="container">
-      <h2>The PDF is almost ready</h2>
-      <p>Subscribe above to be first in line. We'll email you the moment it ships — usually within 2 weeks.</p>
+      <h2 data-i18n="pdfCtaTitle">The PDF is almost ready</h2>
+      <p data-i18n="pdfCtaText">Subscribe above to be first in line. We'll email you the moment it ships — usually within 2 weeks.</p>
     </div>
   </section>
 </Layout>
@@ -170,18 +170,23 @@ const faq = [
   (function () {
     const form = document.getElementById('notify-form');
     const note = document.getElementById('notify-note');
+    const getT = () => {
+      const lang = localStorage.getItem("lang") || "en";
+      return window.i18nDict?.[lang] || window.i18nDict?.en || {};
+    };
     if (!form) return;
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const email = String(new FormData(form).get('email') || '').trim();
       const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
       const originalText = form.querySelector('button').textContent;
+      const t = getT();
       if (!emailOk) {
-        note.textContent = 'Please enter a valid email address.';
+        note.textContent = t.daysEmailError || 'Please enter a valid email address.';
         note.style.color = '#c0392b';
         return;
       }
-      form.querySelector('button').textContent = 'Saving...';
+      form.querySelector('button').textContent = t.daysSending || 'Saving...';
       form.querySelector('button').disabled = true;
       try {
         const res = await fetch('https://formsubmit.co/ajax/' + 'raihaneucef@gmail.com', {
@@ -196,12 +201,12 @@ const faq = [
           })
         });
         if (res.ok) {
-          note.textContent = "🎉 You're on the list. We'll email you the moment the PDF ships.";
+          note.textContent = t.daysThanks || "🎉 You're on the list. We'll email you the moment the PDF ships.";
           note.style.color = '#c8a04a';
           form.reset();
         } else throw new Error('failed');
       } catch (err) {
-        note.textContent = '⚠️ Something went wrong. Email us at contact@the-motivahub.com';
+        note.textContent = t.daysSomethingWrong || '⚠️ Something went wrong. Email us at contact@the-motivahub.com';
         note.style.color = '#c0392b';
       } finally {
         form.querySelector('button').textContent = originalText;

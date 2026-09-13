@@ -39,24 +39,23 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_water-before-willpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_water-before-willpower_p2"><strong>Water Before Willpower</strong> — practical guide based on real experiments. Water Before Willpower works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Water Before Willpower** — practical guide based on real experiments. Water Before Willpower works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_water-before-willpower_p3"><h1>Water Before Willpower</h1>
+We blame willpower for what is often just dehydration.</div>
 
-# Water Before Willpower
-We blame willpower for what is often just dehydration.
+<div data-i18n-html="article_water-before-willpower_p4">Headache in the afternoon, hunger an hour after lunch, foggy thinking at 3 PM — before you fix any of these with discipline, fix them with water.</div>
 
-Headache in the afternoon, hunger an hour after lunch, foggy thinking at 3 PM — before you fix any of these with discipline, fix them with water.
+<div data-i18n-html="article_water-before-willpower_p5"><strong>Your brain is mostly water. When you are a little dry, it works a little worse.</strong> Not dramatically, just enough to make everything feel harder than it is.</div>
 
-**Your brain is mostly water. When you are a little dry, it works a little worse.** Not dramatically, just enough to make everything feel harder than it is.
+<div data-i18n-html="article_water-before-willpower_p6">Make it easy to drink:</div>
 
-Make it easy to drink:
+<div data-i18n-html="article_water-before-willpower_p7">- <strong>Start the day with water.</strong> Before coffee, drink a glass. You woke up dry.
+- <strong>Keep it visible.</strong> A bottle on the desk is a reminder your brain respects.
+- <strong>Drink before you feel thirsty.</strong> Thirst is a late signal, not an early one.</div>
 
-- **Start the day with water.** Before coffee, drink a glass. You woke up dry.
-- **Keep it visible.** A bottle on the desk is a reminder your brain respects.
-- **Drink before you feel thirsty.** Thirst is a late signal, not an early one.
+<div data-i18n-html="article_water-before-willpower_p8">You do not need eight glasses perfectly. You need to drink a little more than you do now, consistently.</div>
 
-You do not need eight glasses perfectly. You need to drink a little more than you do now, consistently.
-
-Water will not solve everything. But it will make solving everything a little easier — and that is enough to keep going.
+<div data-i18n-html="article_water-before-willpower_p9">Water will not solve everything. But it will make solving everything a little easier — and that is enough to keep going.</div>

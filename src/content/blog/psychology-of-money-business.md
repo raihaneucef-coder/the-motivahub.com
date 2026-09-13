@@ -37,28 +37,27 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_psychology-of-money-business_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_psychology-of-money-business_p2"><strong>The Psychology of Money — Why Business Is a Behavior</strong> — practical guide based on real experiments. The Psychology of Money — Why Business Is a Behavior works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Psychology of Money — Why Business Is a Behavior** — practical guide based on real experiments. The Psychology of Money — Why Business Is a Behavior works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_psychology-of-money-business_p3"><h1>The Psychology of Money — Why Business Is a Behavior</h1>
+A powerful business book of the last two years has nothing to do with spreadsheets. It has to do with stories. Money is not a math problem — it is a behavior problem, and behavior is where the money is made or lost.</div>
 
-# The Psychology of Money — Why Business Is a Behavior
-A powerful business book of the last two years has nothing to do with spreadsheets. It has to do with stories. Money is not a math problem — it is a behavior problem, and behavior is where the money is made or lost.
+<div data-i18n-html="article_psychology-of-money-business_p4"><h2>Greed Has No Finish Line</h2></div>
 
-## Greed Has No Finish Line
+<div data-i18n-html="article_psychology-of-money-business_p5">Morgan Housel tells the story of the wealthy man who died wanting more. The tragedy was not that he lacked money. It was that he lacked a definition of enough. In business, "enough" is the most profitable word in the dictionary. The entrepreneur who knows when to stop optimizing and start compounding wins every cycle.</div>
 
-Morgan Housel tells the story of the wealthy man who died wanting more. The tragedy was not that he lacked money. It was that he lacked a definition of enough. In business, "enough" is the most profitable word in the dictionary. The entrepreneur who knows when to stop optimizing and start compounding wins every cycle.
+<div data-i18n-html="article_psychology-of-money-business_p6">Ask yourself: what is enough for this quarter? For this year? For this life? Write it down. Without a finish line, every race becomes infinite — and infinite races are always lost.</div>
 
-Ask yourself: what is enough for this quarter? For this year? For this life? Write it down. Without a finish line, every race becomes infinite — and infinite races are always lost.
+<div data-i18n-html="article_psychology-of-money-business_p7"><h2>Patience Is a Business Model</h2></div>
 
-## Patience Is a Business Model
+<div data-i18n-html="article_psychology-of-money-business_p8">The market rewards patience more than intelligence. The investor who holds for ten years beats the genius who trades ten times a day. The business that reinvests quietly for five years beats the one that chases every trend.</div>
 
-The market rewards patience more than intelligence. The investor who holds for ten years beats the genius who trades ten times a day. The business that reinvests quietly for five years beats the one that chases every trend.
+<div data-i18n-html="article_psychology-of-money-business_p9">Compound interest is not just money. It is trust. It is reputation. It is the habit of showing up when no one is watching. Successful founders are not overnight successes — they are ten-year stories told in sixty seconds.</div>
 
-Compound interest is not just money. It is trust. It is reputation. It is the habit of showing up when no one is watching. Successful founders are not overnight successes — they are ten-year stories told in sixty seconds.
+<div data-i18n-html="article_psychology-of-money-business_p10"><h2>The Story You Tell</h2></div>
 
-## The Story You Tell
+<div data-i18n-html="article_psychology-of-money-business_p11">Your relationship with money was written before you were ten. The family that saved every coin, the parent who feared debt, the economy that collapsed — all of it became a script you still follow. Business is not about numbers. It is about rewriting that script.</div>
 
-Your relationship with money was written before you were ten. The family that saved every coin, the parent who feared debt, the economy that collapsed — all of it became a script you still follow. Business is not about numbers. It is about rewriting that script.
-
-So rewrite it tonight: decide that business is not about winning the next deal, but about building the person who can handle the next decade.
+<div data-i18n-html="article_psychology-of-money-business_p12">So rewrite it tonight: decide that business is not about winning the next deal, but about building the person who can handle the next decade.</div>

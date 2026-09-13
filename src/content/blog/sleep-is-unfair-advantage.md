@@ -42,298 +42,297 @@ relatedArticles:
   - "fuel-before-willpower"
 ---
 
-# Sleep Is Your Unfair Advantage (What Happened When I Tracked It for 60 Days)
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p1"><h1>Sleep Is Your Unfair Advantage (What Happened When I Tracked It for 60 Days)</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_sleep-is-unfair-advantage_p2"><strong>The cheapest way to improve sleep quality:</strong> cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and typically improve sleep quality by 20-30% within 2 weeks. Consumer sleep trackers are useful for trends but not absolute measurements. The best tracker is your subjective morning energy.</div>
 
-**The cheapest way to improve sleep quality:** cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and typically improve sleep quality by 20-30% within 2 weeks. Consumer sleep trackers are useful for trends but not absolute measurements. The best tracker is your subjective morning energy.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p3">I tracked every night of sleep for 60 days. Wore an Oura ring. Logged when I went to bed, when I woke up, how I felt. Did this while testing every sleep hack I could find.</div>
 
-I tracked every night of sleep for 60 days. Wore an Oura ring. Logged when I went to bed, when I woke up, how I felt. Did this while testing every sleep hack I could find.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p4">Here's what I found: <strong>most sleep advice is wrong about what matters.</strong> The cheap Amazon basics beat every premium gadget I tried. The cheapest habit changes were the most powerful.</div>
 
-Here's what I found: **most sleep advice is wrong about what matters.** The cheap Amazon basics beat every premium gadget I tried. The cheapest habit changes were the most powerful.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p5">This is what worked, what failed, and exactly how to improve your sleep without spending $500 on a "smart" mattress.</div>
 
-This is what worked, what failed, and exactly how to improve your sleep without spending $500 on a "smart" mattress.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p6"><h2>Why Sleep Is Your Actual Competitive Advantage</h2></div>
 
-## Why Sleep Is Your Actual Competitive Advantage
+<div data-i18n-html="article_sleep-is-unfair-advantage_p7">For 10 years, I treated sleep like a luxury. Work late. Wake early. Push through. Brag about it.</div>
 
-For 10 years, I treated sleep like a luxury. Work late. Wake early. Push through. Brag about it.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p8">In my 30s, I started noticing the costs. Mood swings on bad nights. Decisions I'd regret. The same workout that felt easy on 8 hours felt impossible on 5. I was burning capital I didn't have.</div>
 
-In my 30s, I started noticing the costs. Mood swings on bad nights. Decisions I'd regret. The same workout that felt easy on 8 hours felt impossible on 5. I was burning capital I didn't have.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p9">Then I read Matthew Walker's <em>Why We Sleep</em>. The book is a 320-page argument that sleep isn't optional. The research is brutal:</div>
 
-Then I read Matthew Walker's *Why We Sleep*. The book is a 320-page argument that sleep isn't optional. The research is brutal:
-
-- Sleeping less than 6 hours per night for 2 weeks = cognitive decline equivalent to 48 hours of total sleep deprivation
+<div data-i18n-html="article_sleep-is-unfair-advantage_p10">- Sleeping less than 6 hours per night for 2 weeks = cognitive decline equivalent to 48 hours of total sleep deprivation
 - Sleep deprivation reduces testosterone by 10-15% (for men, in one week)
 - Sleep deprivation increases cortisol, decreases insulin sensitivity, increases appetite
-- Athletes who extend sleep to 10 hours improve reaction time, accuracy, and sprint times by 5-15%
+- Athletes who extend sleep to 10 hours improve reaction time, accuracy, and sprint times by 5-15%</div>
 
-The science is clear. Sleep is the performance tool. Not the recovery. The performance tool.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p11">The science is clear. Sleep is the performance tool. Not the recovery. The performance tool.</div>
 
-## My 60-Day Sleep Experiment (The Data)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p12"><h2>My 60-Day Sleep Experiment (The Data)</h2></div>
 
-I tracked every night of sleep from May-July 2026. Here's what I measured:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p13">I tracked every night of sleep from May-July 2026. Here's what I measured:</div>
 
-**Objective:**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p14"><strong>Objective:</strong>
 - Time to fall asleep
 - Hours slept
 - Night wakings
-- Resting heart rate (Oura ring)
+- Resting heart rate (Oura ring)</div>
 
-**Subjective:**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p15"><strong>Subjective:</strong>
 - Morning energy (1-10)
 - Focus level by 10 AM (1-10)
 - Mood (1-10)
-- Workout quality (1-10)
+- Workout quality (1-10)</div>
 
-**The result: sleep quality predicts everything.**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p16"><strong>The result: sleep quality predicts everything.</strong></div>
 
-When I slept 7+ hours with low resting heart rate:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p17">When I slept 7+ hours with low resting heart rate:
 - Morning energy: 8.2/10 (vs. 4.8 on bad nights)
 - Focus by 10 AM: 8.5/10 (vs. 5.2)
 - Mood: 7.9/10 (vs. 4.1)
-- Workout quality: 8.0/10 (vs. 5.5)
+- Workout quality: 8.0/10 (vs. 5.5)</div>
 
-When I slept 6 or fewer hours:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p18">When I slept 6 or fewer hours:
 - All metrics dropped 40-60%
-- Decision quality dropped the most
+- Decision quality dropped the most</div>
 
-The data was clear. Sleep wasn't a luxury. It was the variable that controlled everything else.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p19">The data was clear. Sleep wasn't a luxury. It was the variable that controlled everything else.</div>
 
-## What Didn't Work (The Failures)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p20"><h2>What Didn't Work (The Failures)</h2></div>
 
-I tried 8 sleep gadgets and supplements. Here's what failed:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p21">I tried 8 sleep gadgets and supplements. Here's what failed:</div>
 
-**Melatonin gummies:** Helped fall asleep 10 minutes faster. Disrupted sleep quality. Woke groggier. Stopped using.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p22"><strong>Melatonin gummies:</strong> Helped fall asleep 10 minutes faster. Disrupted sleep quality. Woke groggier. Stopped using.</div>
 
-**Magnesium glycinate:** Modest improvement in falling asleep. Probably placebo. Cheap enough to keep using occasionally.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p23"><strong>Magnesium glycinate:</strong> Modest improvement in falling asleep. Probably placebo. Cheap enough to keep using occasionally.</div>
 
-**Sleep tea:** Mild relaxation. Not transformative. Hit-or-miss.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p24"><strong>Sleep tea:</strong> Mild relaxation. Not transformative. Hit-or-miss.</div>
 
-**Oura ring:** Useful for trends. Useless for absolute measurement. The best tracker is subjective morning energy.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p25"><strong>Oura ring:</strong> Useful for trends. Useless for absolute measurement. The best tracker is subjective morning energy.</div>
 
-**White noise machines:** Mixed. Helped for some nights. Distracting on others. Stopped using.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p26"><strong>White noise machines:</strong> Mixed. Helped for some nights. Distracting on others. Stopped using.</div>
 
-**Meditation apps before bed:** Helped some nights. Hurt others (overstimulation). Inconsistent.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p27"><strong>Meditation apps before bed:</strong> Helped some nights. Hurt others (overstimulation). Inconsistent.</div>
 
-**Sleep masks:** The only cheap intervention that consistently helped. Blocked early-morning light. Reduced night wakings by ~30%.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p28"><strong>Sleep masks:</strong> The only cheap intervention that consistently helped. Blocked early-morning light. Reduced night wakings by ~30%.</div>
 
-**Magnesium supplements:** Helped slightly. Too small to confirm without better testing.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p29"><strong>Magnesium supplements:</strong> Helped slightly. Too small to confirm without better testing.</div>
 
-The pattern: cheap + simple beat expensive + complex.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p30">The pattern: cheap + simple beat expensive + complex.</div>
 
-## What Actually Worked (The 7 Rules)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p31"><h2>What Actually Worked (The 7 Rules)</h2></div>
 
-After 60 days of testing, here's what actually improved my sleep:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p32">After 60 days of testing, here's what actually improved my sleep:</div>
 
-### Rule 1: Cool bedroom (65-68°F)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p33"><h3>Rule 1: Cool bedroom (65-68°F)</h3></div>
 
-This was the biggest single improvement. Body temperature needs to drop 1-2°F to initiate sleep. A cool room accelerates this. 65-68°F is the optimal range.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p34">This was the biggest single improvement. Body temperature needs to drop 1-2°F to initiate sleep. A cool room accelerates this. 65-68°F is the optimal range.</div>
 
-**Cost:** $0 (just lower the thermostat)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p35"><strong>Cost:</strong> $0 (just lower the thermostat)</div>
 
-**My data:** Time to fall asleep dropped from 18 min (warm room) to 9 min (cool room).
+<div data-i18n-html="article_sleep-is-unfair-advantage_p36"><strong>My data:</strong> Time to fall asleep dropped from 18 min (warm room) to 9 min (cool room).</div>
 
-### Rule 2: Consistent wake-up time (every day)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p37"><h3>Rule 2: Consistent wake-up time (every day)</h3></div>
 
-Same time, every day. Even weekends. Especially weekends.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p38">Same time, every day. Even weekends. Especially weekends.</div>
 
-Your circadian rhythm is set by morning light exposure, not bedtime. A consistent wake time trains your brain to release melatonin at the right time.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p39">Your circadian rhythm is set by morning light exposure, not bedtime. A consistent wake time trains your brain to release melatonin at the right time.</div>
 
-**Cost:** $0 (just discipline)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p40"><strong>Cost:</strong> $0 (just discipline)</div>
 
-**My data:** Sleep quality variance dropped 40% over 30 days.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p41"><strong>My data:</strong> Sleep quality variance dropped 40% over 30 days.</div>
 
-### Rule 3: No screens 60 min before bed
+<div data-i18n-html="article_sleep-is-unfair-advantage_p42"><h3>Rule 3: No screens 60 min before bed</h3></div>
 
-This is the hardest rule. Blue light suppresses melatonin. Screens also activate the brain in ways that don't wind down easily.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p43">This is the hardest rule. Blue light suppresses melatonin. Screens also activate the brain in ways that don't wind down easily.</div>
 
-**Cost:** $0
+<div data-i18n-html="article_sleep-is-unfair-advantage_p44"><strong>Cost:</strong> $0</div>
 
-**My data:** Fall-asleep time dropped 25%. Subjective sleep quality improved.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p45"><strong>My data:</strong> Fall-asleep time dropped 25%. Subjective sleep quality improved.</div>
 
-If you can't avoid screens entirely, at minimum:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p46">If you can't avoid screens entirely, at minimum:
 - Lower brightness
 - Use night mode (warm colors)
-- Avoid stressful content (news, work email)
+- Avoid stressful content (news, work email)</div>
 
-### Rule 4: Morning sunlight (10 min within 30 min of waking)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p47"><h3>Rule 4: Morning sunlight (10 min within 30 min of waking)</h3></div>
 
-This is the most underrated sleep hack. Morning light sets your circadian rhythm for the entire day. Even on cloudy days, 10 minutes of outdoor light exposure in the first 30 minutes after waking significantly improves nighttime sleep quality.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p48">This is the most underrated sleep hack. Morning light sets your circadian rhythm for the entire day. Even on cloudy days, 10 minutes of outdoor light exposure in the first 30 minutes after waking significantly improves nighttime sleep quality.</div>
 
-**Cost:** $0
+<div data-i18n-html="article_sleep-is-unfair-advantage_p49"><strong>Cost:</strong> $0</div>
 
-**My data:** On days I got morning light, my sleep score was 12% higher.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p50"><strong>My data:</strong> On days I got morning light, my sleep score was 12% higher.</div>
 
-### Rule 5: No caffeine after 12 PM
+<div data-i18n-html="article_sleep-is-unfair-advantage_p51"><h3>Rule 5: No caffeine after 12 PM</h3></div>
 
-Caffeine has a half-life of 5-6 hours. That 2 PM coffee is still affecting you at 8 PM.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p52">Caffeine has a half-life of 5-6 hours. That 2 PM coffee is still affecting you at 8 PM.</div>
 
-I'm not anti-coffee. I love coffee. But I had to move the cutoff.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p53">I'm not anti-coffee. I love coffee. But I had to move the cutoff.</div>
 
-**Cost:** $0
+<div data-i18n-html="article_sleep-is-unfair-advantage_p54"><strong>Cost:</strong> $0</div>
 
-**My data:** Sleep latency dropped from 22 min (with afternoon coffee) to 9 min (no afternoon coffee).
+<div data-i18n-html="article_sleep-is-unfair-advantage_p55"><strong>My data:</strong> Sleep latency dropped from 22 min (with afternoon coffee) to 9 min (no afternoon coffee).</div>
 
-### Rule 6: Cool shower before bed
+<div data-i18n-html="article_sleep-is-unfair-advantage_p56"><h3>Rule 6: Cool shower before bed</h3></div>
 
-Sounds counterintuitive, but ending a hot shower with 30-60 seconds of cold water accelerates the body's temperature drop needed for sleep.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p57">Sounds counterintuitive, but ending a hot shower with 30-60 seconds of cold water accelerates the body's temperature drop needed for sleep.</div>
 
-**Cost:** $0 (just adjusting shower)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p58"><strong>Cost:</strong> $0 (just adjusting shower)</div>
 
-**My data:** Subjective sleep quality improved by ~15% on nights I ended with cold.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p59"><strong>My data:</strong> Subjective sleep quality improved by ~15% on nights I ended with cold.</div>
 
-### Rule 7: Same pre-sleep ritual
+<div data-i18n-html="article_sleep-is-unfair-advantage_p60"><h3>Rule 7: Same pre-sleep ritual</h3></div>
 
-A consistent ritual trains your brain to recognize "sleep is coming." Mine is:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p61">A consistent ritual trains your brain to recognize "sleep is coming." Mine is:
 - 9:30 PM: stop screens
 - 9:45 PM: shower
 - 10:00 PM: read paper book
-- 10:30 PM: lights out
+- 10:30 PM: lights out</div>
 
-The ritual matters more than any single step. After 30 days, the brain associates the ritual with sleep.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p62">The ritual matters more than any single step. After 30 days, the brain associates the ritual with sleep.</div>
 
-**Cost:** $0
+<div data-i18n-html="article_sleep-is-unfair-advantage_p63"><strong>Cost:</strong> $0</div>
 
-## The Cheap Amazon Tools That Helped
+<div data-i18n-html="article_sleep-is-unfair-advantage_p64"><h2>The Cheap Amazon Tools That Helped</h2></div>
 
-After testing 8 sleep gadgets, here's what actually earned its place:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p65">After testing 8 sleep gadgets, here's what actually earned its place:</div>
 
-**The core basics:**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p66"><strong>The core basics:</strong></div>
 
-- **Blackout curtains** (Amazon basics or similar) — $20-40 for a set. Block 95%+ of light. Best single sleep upgrade for the cost.
-- **A comfortable sleep mask** — $10-20. For travel, daylight savings, or any light leak. The Manta brand is popular; any basic mask works.
-- **A simple white noise machine** OR a fan — $15-30 or $0 (fan). For masking variable noise. White noise is more consistent.
-- **A reliable alarm clock** (NOT your phone) — $10-20. Removes the phone-from-bedroom excuse. Bonus: analog or digital with no light pollution.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p67">- <strong>Blackout curtains</strong> (Amazon basics or similar) — $20-40 for a set. Block 95%+ of light. Best single sleep upgrade for the cost.
+- <strong>A comfortable sleep mask</strong> — $10-20. For travel, daylight savings, or any light leak. The Manta brand is popular; any basic mask works.
+- <strong>A simple white noise machine</strong> OR a fan — $15-30 or $0 (fan). For masking variable noise. White noise is more consistent.
+- <strong>A reliable alarm clock</strong> (NOT your phone) — $10-20. Removes the phone-from-bedroom excuse. Bonus: analog or digital with no light pollution.</div>
 
-**Optional, if you want to optimize further:**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p68"><strong>Optional, if you want to optimize further:</strong></div>
 
-- **Oura ring or Whoop** — $300-500. Tracks trends (sleep quality over time). Not for absolute measurement. Useful only after 60+ days of consistent wear.
-- **Magnesium glycinate** — $15-25/month. Modest improvement. Probably placebo, but harmless.
-- **A proper pillow** — $50-150. Personal preference. Worth investing in if yours is more than 3 years old.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p69">- <strong>Oura ring or Whoop</strong> — $300-500. Tracks trends (sleep quality over time). Not for absolute measurement. Useful only after 60+ days of consistent wear.
+- <strong>Magnesium glycinate</strong> — $15-25/month. Modest improvement. Probably placebo, but harmless.
+- <strong>A proper pillow</strong> — $50-150. Personal preference. Worth investing in if yours is more than 3 years old.</div>
 
-**Skip these:**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p70"><strong>Skip these:</strong>
 - Smart mattresses ($2,000+). No evidence they improve sleep vs. a decent mattress.
 - Smart sleep trackers (consumer-grade). Marginally useful. Most data is noisy.
-- Sleep teas with exotic ingredients. Mostly marketing.
+- Sleep teas with exotic ingredients. Mostly marketing.</div>
 
-Total recommended Amazon spend: **$50-100.** Less than most "sleep wellness" products.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p71">Total recommended Amazon spend: <strong>$50-100.</strong> Less than most "sleep wellness" products.</div>
 
-## What I Got Wrong (And Fixed)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p72"><h2>What I Got Wrong (And Fixed)</h2></div>
 
-Three mistakes that almost killed my sleep experiment:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p73">Three mistakes that almost killed my sleep experiment:</div>
 
-**Mistake 1: "I'll fix everything at once."**
-Tried all 7 rules on day 1. Felt overwhelmed. Quit by day 4.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p74"><strong>Mistake 1: "I'll fix everything at once."</strong>
+Tried all 7 rules on day 1. Felt overwhelmed. Quit by day 4.</div>
 
-**Fix:** One rule per week. Add the next after the first is automatic. Seven weeks total. Sustainable.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p75"><strong>Fix:</strong> One rule per week. Add the next after the first is automatic. Seven weeks total. Sustainable.</div>
 
-**Mistake 2: "Sleep quality is the same as time asleep."**
-Was chasing 8 hours every night. Missed the point. Sleep quality (deep sleep %, restfulness) matters more than hours.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p76"><strong>Mistake 2: "Sleep quality is the same as time asleep."</strong>
+Was chasing 8 hours every night. Missed the point. Sleep quality (deep sleep %, restfulness) matters more than hours.</div>
 
-**Fix:** Tracked subjective morning energy as the primary metric. Hours became secondary.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p77"><strong>Fix:</strong> Tracked subjective morning energy as the primary metric. Hours became secondary.</div>
 
-**Mistake 3: "Tracking will fix it."**
-Spent so much time analyzing sleep data that I forgot to actually sleep. Anxious about every score.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p78"><strong>Mistake 3: "Tracking will fix it."</strong>
+Spent so much time analyzing sleep data that I forgot to actually sleep. Anxious about every score.</div>
 
-**Fix:** Tracked for 60 days. Then stopped. Used the data to set habits. Then let the habits run.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p79"><strong>Fix:</strong> Tracked for 60 days. Then stopped. Used the data to set habits. Then let the habits run.</div>
 
-## The Practical Protocol (If You're Starting)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p80"><h2>The Practical Protocol (If You're Starting)</h2></div>
 
-If your sleep is mediocre (you wake tired, you need coffee to function, mood is variable), here's the protocol:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p81">If your sleep is mediocre (you wake tired, you need coffee to function, mood is variable), here's the protocol:</div>
 
-**Week 1: Sleep environment**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p82"><strong>Week 1: Sleep environment</strong>
 - Cool room (65-68°F)
 - Blackout curtains
-- Phone out of bedroom (alarm clock only)
+- Phone out of bedroom (alarm clock only)</div>
 
-**Week 2: Wake time consistency**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p83"><strong>Week 2: Wake time consistency</strong>
 - Same wake time every day
 - 10 min morning sunlight
-- Move caffeine cutoff to 12 PM
+- Move caffeine cutoff to 12 PM</div>
 
-**Week 3: Pre-sleep ritual**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p84"><strong>Week 3: Pre-sleep ritual</strong>
 - 9:30 PM screens off
 - 10 min wind-down routine
-- 10:30 PM lights out
+- 10:30 PM lights out</div>
 
-**Week 4: Optimize for quality**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p85"><strong>Week 4: Optimize for quality</strong>
 - Cool shower before bed
 - White noise (fan or machine)
-- Magnesium if you want
+- Magnesium if you want</div>
 
-After 4 weeks, evaluate: is your morning energy better? Is focus improved? Is mood more stable? If yes, keep going.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p86">After 4 weeks, evaluate: is your morning energy better? Is focus improved? Is mood more stable? If yes, keep going.</div>
 
-## Why This Works (The Biology)
+<div data-i18n-html="article_sleep-is-unfair-advantage_p87"><h2>Why This Works (The Biology)</h2></div>
 
-These 7 rules work because they all support the same biological process: circadian rhythm alignment.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p88">These 7 rules work because they all support the same biological process: circadian rhythm alignment.</div>
 
-Your circadian rhythm is a 24-hour cycle of hormone release, body temperature, and brain activity. When it's aligned, you fall asleep easily, sleep deeply, and wake refreshed. When it's misaligned (irregular sleep, screens at night, no morning light), nothing works.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p89">Your circadian rhythm is a 24-hour cycle of hormone release, body temperature, and brain activity. When it's aligned, you fall asleep easily, sleep deeply, and wake refreshed. When it's misaligned (irregular sleep, screens at night, no morning light), nothing works.</div>
 
-The 7 rules aren't arbitrary. They all support alignment:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p90">The 7 rules aren't arbitrary. They all support alignment:
 - Cool room → body temperature drop → melatonin release
 - Consistent wake → brain calibrates timing
 - No screens → blue light doesn't suppress melatonin
 - Morning light → cortisol awakening response
 - No afternoon caffeine → adenosine clears naturally
 - Cool shower → parasympathetic activation
-- Pre-sleep ritual → conditioned sleep response
+- Pre-sleep ritual → conditioned sleep response</div>
 
-Each rule supports the same underlying mechanism. The protocol works because the mechanism is real.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p91">Each rule supports the same underlying mechanism. The protocol works because the mechanism is real.</div>
 
-## The Counterintuitive Insight
+<div data-i18n-html="article_sleep-is-unfair-advantage_p92"><h2>The Counterintuitive Insight</h2></div>
 
-After 60 days, here's what surprised me most:
+<div data-i18n-html="article_sleep-is-unfair-advantage_p93">After 60 days, here's what surprised me most:</div>
 
-**The cheapest interventions were the most powerful.**
+<div data-i18n-html="article_sleep-is-unfair-advantage_p94"><strong>The cheapest interventions were the most powerful.</strong></div>
 
-Cool room ($0): largest impact.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p95">Cool room ($0): largest impact.
 Consistent wake time ($0): biggest quality boost.
-Morning sunlight ($0): biggest energy boost.
+Morning sunlight ($0): biggest energy boost.</div>
 
-The expensive interventions (gadgets, supplements, smart mattresses) had minor or no impact.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p96">The expensive interventions (gadgets, supplements, smart mattresses) had minor or no impact.</div>
 
-The wellness industry sells expensive solutions to cheap problems. The actual answer to better sleep is mostly free.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p97">The wellness industry sells expensive solutions to cheap problems. The actual answer to better sleep is mostly free.</div>
 
-If you're starting, spend $50 on blackout curtains. Skip the rest until you've tested the basics.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p98">If you're starting, spend $50 on blackout curtains. Skip the rest until you've tested the basics.</div>
 
-## The Honest Summary
+<div data-i18n-html="article_sleep-is-unfair-advantage_p99"><h2>The Honest Summary</h2></div>
 
-I tracked every night of sleep for 60 days. Tested 8 gadgets and supplements. Tracked subjective energy, focus, and mood.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p100">I tracked every night of sleep for 60 days. Tested 8 gadgets and supplements. Tracked subjective energy, focus, and mood.</div>
 
-The result: sleep quality is the variable that controls everything. Cheap interventions beat expensive ones. The protocol is mostly free.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p101">The result: sleep quality is the variable that controls everything. Cheap interventions beat expensive ones. The protocol is mostly free.</div>
 
-If your sleep is mediocre, the fix isn't a $1,000 mattress. It's 7 free rules, applied consistently for 30 days.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p102">If your sleep is mediocre, the fix isn't a $1,000 mattress. It's 7 free rules, applied consistently for 30 days.</div>
 
-After 60 days, my morning energy went from 4.8/10 to 8.2/10. My focus improved 30%. My workout quality improved 25%. My mood stabilized.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p103">After 60 days, my morning energy went from 4.8/10 to 8.2/10. My focus improved 30%. My workout quality improved 25%. My mood stabilized.</div>
 
-The cost: about $50 in blackout curtains. The value: hard to overstate.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p104">The cost: about $50 in blackout curtains. The value: hard to overstate.</div>
 
-You can do the same. Start with the cheapest rule (cool room) tonight.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p105">You can do the same. Start with the cheapest rule (cool room) tonight.</div>
 
-<div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_sleep-is-unfair-advantage_p106"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>The cheapest sleep upgrades that work</strong></p>
 <p><a href="https://www.amazon.fr/s?k=blackout+curtains&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Blackout Curtains</a> — best single sleep upgrade (€20-40)</p>
 <p><a href="https://www.amazon.fr/s?k=sleep+mask+comfortable&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Sleep Mask</a> — for travel or light leak (€10-20)</p>
 <p><a href="https://www.amazon.fr/dp/0735211290?tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Why We Sleep by Matthew Walker</a> — the science</p>
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
-</div>
+</div></div>
 
----
+<div data-i18n-html="article_sleep-is-unfair-advantage_p107">---</div>
 
-*Youssef Raihane tracked sleep for 60 days. He bought blackout curtains and a cheap sleep mask. He stopped using the Oura ring. His morning energy went from 4.8/10 to 8.2/10. The cost was €50. The research was 10 years old.*
+<div data-i18n-html="article_sleep-is-unfair-advantage_p108"><em>Youssef Raihane tracked sleep for 60 days. He bought blackout curtains and a cheap sleep mask. He stopped using the Oura ring. His morning energy went from 4.8/10 to 8.2/10. The cost was €50. The research was 10 years old.</em></div>
 
-## Sources
+<div data-i18n-html="article_sleep-is-unfair-advantage_p109"><h2>Sources</h2></div>
 
-1. *Matthew Walker* — *Why We Sleep* (2017) — the foundational science
-2. *National Sleep Foundation* — for the sleep duration guidelines
-3. *Andrew Huberman* — Stanford neurobiology — for the morning light protocols
-4. *Andrew Huberman* — sleep and circadian rhythm research
-5. *Oura* — sleep tracking research — for the consumer tracker reliability studies
-6. *Walker, M. P.* — *Why We Sleep* — for the cognitive decline research
-7. *Journal of Sleep Research* — for the napping research
+<div data-i18n-html="article_sleep-is-unfair-advantage_p110">1. <em>Matthew Walker</em> — <em>Why We Sleep</em> (2017) — the foundational science
+2. <em>National Sleep Foundation</em> — for the sleep duration guidelines
+3. <em>Andrew Huberman</em> — Stanford neurobiology — for the morning light protocols
+4. <em>Andrew Huberman</em> — sleep and circadian rhythm research
+5. <em>Oura</em> — sleep tracking research — for the consumer tracker reliability studies
+6. <em>Walker, M. P.</em> — <em>Why We Sleep</em> — for the cognitive decline research
+7. <em>Journal of Sleep Research</em> — for the napping research</div>
 
----
+<div data-i18n-html="article_sleep-is-unfair-advantage_p111">---</div>
 
-**Sleep is the original 2-minute rule.** You do not need a complex sleep protocol. You need one 2-minute doorway: lights down, phone away, breath out. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) explains why the smallest possible version is the one that survives a bad day.
+<div data-i18n-html="article_sleep-is-unfair-advantage_p112"><strong>Sleep is the original 2-minute rule.</strong> You do not need a complex sleep protocol. You need one 2-minute doorway: lights down, phone away, breath out. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> explains why the smallest possible version is the one that survives a bad day.</div>
 
-For the morning after the sleep, our [5-Minute Morning Habit](/journal/5-minute-morning-habit/) gives you the 3 priorities on paper that turn a good night into a useful day. The full sleep architecture breakdown lives in the [Slow Productivity 30-Day Test](/journal/slow-productivity-30-day-test/).
+<div data-i18n-html="article_sleep-is-unfair-advantage_p113">For the morning after the sleep, our <a href="/journal/5-minute-morning-habit/">5-Minute Morning Habit</a> gives you the 3 priorities on paper that turn a good night into a useful day. The full sleep architecture breakdown lives in the <a href="/journal/slow-productivity-30-day-test/">Slow Productivity 30-Day Test</a>.</div>

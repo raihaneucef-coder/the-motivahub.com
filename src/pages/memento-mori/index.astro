@@ -5,25 +5,25 @@ import Layout from "../../layouts/Layout.astro";
 <Layout title="Memento Mori — The Life Calendar | Motiva Hub" description="See your life in months. A stoic reminder that time is the only real currency. How many months do you have left?">
   <section class="page-head">
     <div class="container">
-      <p class="kicker">Memento Mori</p>
-      <h1>Your life, <em>in months.</em></h1>
-      <p class="mm-sub">One dot. One month. The stoics counted their days so they would not waste them. Count yours.</p>
+      <p class="kicker" data-i18n="mmKicker">Memento Mori</p>
+      <h1 data-i18n-html="mmTitle">Your life, <em>in months.</em></h1>
+      <p class="mm-sub" data-i18n="mmSubtitle">One dot. One month. The stoics counted their days so they would not waste them. Count yours.</p>
     </div>
   </section>
 
   <section class="mm-form-section">
     <div class="container">
       <div class="mm-form-card">
-        <label class="mm-label" for="mm-birthdate">Your date of birth</label>
+        <label class="mm-label" for="mm-birthdate" data-i18n="mmLabel">Your date of birth</label>
         <div class="mm-row">
           <input type="date" id="mm-birthdate" class="mm-input" min="1920-01-01" max="2025-12-31" />
-          <button type="button" id="mm-go" class="btn-pill">Reveal my calendar</button>
+          <button type="button" id="mm-go" class="btn-pill" data-i18n="mmGo">Reveal my calendar</button>
         </div>
         <div class="mm-expectancy">
-          <label class="mm-label-sm" for="mm-expectancy">Life expectancy: <span id="mm-exp-value">80</span> years</label>
+          <label class="mm-label-sm" for="mm-expectancy" data-i18n-html="mmExpectancyLabel">Life expectancy: <span id="mm-exp-value">80</span> years</label>
           <input type="range" id="mm-expectancy" class="mm-range" min="50" max="100" step="1" value="80" />
         </div>
-        <p class="mm-note">Everything happens in your browser. Your date never leaves this page.</p>
+        <p class="mm-note" data-i18n="mmNote">Everything happens in your browser. Your date never leaves this page.</p>
       </div>
     </div>
   </section>
@@ -33,35 +33,35 @@ import Layout from "../../layouts/Layout.astro";
       <div class="mm-stats">
         <div class="mm-stat">
           <p class="mm-stat-num" id="mm-lived">—</p>
-          <p class="mm-stat-label">months lived</p>
+          <p class="mm-stat-label" data-i18n="mmLivedLabel">months lived</p>
         </div>
         <div class="mm-stat">
           <p class="mm-stat-num" id="mm-left">—</p>
-          <p class="mm-stat-label">months remaining</p>
+          <p class="mm-stat-label" data-i18n="mmLeftLabel">months remaining</p>
         </div>
         <div class="mm-stat">
           <p class="mm-stat-num" id="mm-percent">—</p>
-          <p class="mm-stat-label">of the calendar used</p>
+          <p class="mm-stat-label" data-i18n="mmPercentLabel">of the calendar used</p>
         </div>
         <div class="mm-stat">
           <p class="mm-stat-num" id="mm-weeks">—</p>
-          <p class="mm-stat-label">Sundays already spent</p>
+          <p class="mm-stat-label" data-i18n="mmWeeksLabel">Sundays already spent</p>
         </div>
       </div>
 
       <div class="mm-calendar-card">
         <div class="mm-legend">
-          <span><i class="mm-dot mm-lived"></i> Lived</span>
-          <span><i class="mm-dot mm-now"></i> This month</span>
-          <span><i class="mm-dot mm-empty"></i> Remaining</span>
+          <span><i class="mm-dot mm-lived"></i> <span data-i18n="mmLegendLived">Lived</span></span>
+          <span><i class="mm-dot mm-now"></i> <span data-i18n="mmLegendNow">This month</span></span>
+          <span><i class="mm-dot mm-empty"></i> <span data-i18n="mmLegendEmpty">Remaining</span></span>
         </div>
         <div class="mm-grid" id="mm-grid" aria-label="Your life in months"></div>
         <p class="mm-quote" id="mm-quote">“It is not that we have a short time to live, but that we waste a lot of it.”<cite>— Seneca, On the Shortness of Life</cite></p>
       </div>
 
       <div class="mm-actions">
-        <button type="button" class="btn-pill" id="mm-share">Share this reminder</button>
-        <a class="btn-pill btn-pill-outline" href="/tracker/">Build a habit worth the time</a>
+        <button type="button" class="btn-pill" id="mm-share" data-i18n="mmShare">Share this reminder</button>
+        <a class="btn-pill btn-pill-outline" href="/tracker/" data-i18n="mmArticleLink">Build a habit worth the time</a>
       </div>
     </div>
   </section>
@@ -69,8 +69,8 @@ import Layout from "../../layouts/Layout.astro";
   <section class="mm-articles" id="mm-articles" hidden>
     <div class="container">
       <div class="feed-head">
-        <p class="kicker">Spend the remaining dots well</p>
-        <a class="link-ochre" href="/journal/">All Essays →</a>
+        <p class="kicker" data-i18n="mmArticlesKicker">Spend the remaining dots well</p>
+        <a class="link-ochre" href="/journal/" data-i18n="allEssensLink">All Essays →</a>
       </div>
       <div class="mm-article-links">
         <a href="/journal/goals-are-a-compass-not-a-cage/" class="mm-article-card">
@@ -94,8 +94,8 @@ import Layout from "../../layouts/Layout.astro";
 
   <section class="premise">
     <div class="container">
-      <p class="kicker">Why we built this</p>
-      <h2 class="premise-title">You will spend roughly <em>4,000 weeks</em> here. The stoics kept this truth close — not to darken the day, but to sharpen it. Every dot is a question: is this how I want to spend one month of a finite life?</h2>
+      <p class="kicker" data-i18n="mmWhyKicker">Why we built this</p>
+      <h2 class="premise-title" data-i18n-html="mmWhyTitle">You will spend roughly <em>4,000 weeks</em> here. The stoics kept this truth close — not to darken the day, but to sharpen it. Every dot is a question: is this how I want to spend one month of a finite life?</h2>
     </div>
   </section>
 </Layout>

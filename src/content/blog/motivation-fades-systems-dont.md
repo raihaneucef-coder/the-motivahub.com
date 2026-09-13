@@ -39,30 +39,29 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_motivation-fades-systems-dont_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_motivation-fades-systems-dont_p2"><strong>Motivation Fades. Systems Don't.</strong> — practical guide based on real experiments. Motivation Fades. Systems Don't. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Motivation Fades. Systems Don't.** — practical guide based on real experiments. Motivation Fades. Systems Don't. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_motivation-fades-systems-dont_p3"><h1>Motivation Fades. Systems Don't.</h1>
+Motivation is a mood. It arrives uninvited, usually on a good night's sleep and a clear calendar, and it leaves the same way — without warning, halfway through a Tuesday. If your progress depends on it showing up, your progress depends on the weather.</div>
 
-# Motivation Fades. Systems Don't.
-Motivation is a mood. It arrives uninvited, usually on a good night's sleep and a clear calendar, and it leaves the same way — without warning, halfway through a Tuesday. If your progress depends on it showing up, your progress depends on the weather.
+<div data-i18n-html="article_motivation-fades-systems-dont_p4">This is not a character flaw. It is how the feeling was designed to work. Motivation is a spark, not a fuel supply. It is meant to get you moving, not to keep you moving for the next ninety days. The people who look "disciplined" from the outside are rarely running on more motivation than you. They are running on less dependence on it.</div>
 
-This is not a character flaw. It is how the feeling was designed to work. Motivation is a spark, not a fuel supply. It is meant to get you moving, not to keep you moving for the next ninety days. The people who look "disciplined" from the outside are rarely running on more motivation than you. They are running on less dependence on it.
+<div data-i18n-html="article_motivation-fades-systems-dont_p5"><h2>The Room, Not the Mood</h2></div>
 
-## The Room, Not the Mood
+<div data-i18n-html="article_motivation-fades-systems-dont_p6">Build the room before you wait for the mood. A system is the smallest possible version of the behaviour you can do on your worst day — the one that requires no willpower, no pep talk, no perfect conditions. Not "read for an hour." Read one page. Not "train for ninety minutes." Put on the shoes.</div>
 
-Build the room before you wait for the mood. A system is the smallest possible version of the behaviour you can do on your worst day — the one that requires no willpower, no pep talk, no perfect conditions. Not "read for an hour." Read one page. Not "train for ninety minutes." Put on the shoes.
+<div data-i18n-html="article_motivation-fades-systems-dont_p7">The size is not the point. The size is a decoy. The real function of a small system is that it removes the decision. On a low day, you are not negotiating with yourself about whether today is a training day. You already decided that, weeks ago, when you built the room. Today you are only doing what the room asks — which is small enough that refusing it would feel stranger than doing it.</div>
 
-The size is not the point. The size is a decoy. The real function of a small system is that it removes the decision. On a low day, you are not negotiating with yourself about whether today is a training day. You already decided that, weeks ago, when you built the room. Today you are only doing what the room asks — which is small enough that refusing it would feel stranger than doing it.
+<div data-i18n-html="article_motivation-fades-systems-dont_p8"><h2>Identity Is the Compounding Asset</h2></div>
 
-## Identity Is the Compounding Asset
+<div data-i18n-html="article_motivation-fades-systems-dont_p9">Every time you keep the small promise, you are not just completing a task. You are casting a vote for a version of yourself — the kind of person who shows up, page or no page, mood or no mood. Miss the vote and nothing catastrophic happens. Miss it enough times and the identity quietly changes. This is why systems outperform motivation over any meaningful stretch of time: motivation degrades, but identity compounds.</div>
 
-Every time you keep the small promise, you are not just completing a task. You are casting a vote for a version of yourself — the kind of person who shows up, page or no page, mood or no mood. Miss the vote and nothing catastrophic happens. Miss it enough times and the identity quietly changes. This is why systems outperform motivation over any meaningful stretch of time: motivation degrades, but identity compounds.
+<div data-i18n-html="article_motivation-fades-systems-dont_p10">This is also why the size of the habit matters less than its survival rate. A habit you do for ten minutes, every day, for a year, will outperform a habit you do for two hours, twice, before abandoning it. Discipline is not intensity. Discipline is a habit that is still alive in six months.</div>
 
-This is also why the size of the habit matters less than its survival rate. A habit you do for ten minutes, every day, for a year, will outperform a habit you do for two hours, twice, before abandoning it. Discipline is not intensity. Discipline is a habit that is still alive in six months.
+<div data-i18n-html="article_motivation-fades-systems-dont_p11"><h2>What This Looks Like on a Bad Day</h2></div>
 
-## What This Looks Like on a Bad Day
+<div data-i18n-html="article_motivation-fades-systems-dont_p12">The test of a system is never the good day — the good day would have gone well regardless. The test is the day you are tired, behind, and unconvinced. On that day, the system's only job is to ask for less than your resistance can refuse. One page. One rep. One sentence written. Not because it moves the needle, but because it keeps the room open for tomorrow.</div>
 
-The test of a system is never the good day — the good day would have gone well regardless. The test is the day you are tired, behind, and unconvinced. On that day, the system's only job is to ask for less than your resistance can refuse. One page. One rep. One sentence written. Not because it moves the needle, but because it keeps the room open for tomorrow.
-
-You do not need to feel ready. Readiness is not a prerequisite the system checks for — it is often a byproduct of having already started. Build the room, keep the promise small, and let the mood catch up when it can. It usually does. And on the days it doesn't, the room is still standing.
+<div data-i18n-html="article_motivation-fades-systems-dont_p13">You do not need to feel ready. Readiness is not a prerequisite the system checks for — it is often a byproduct of having already started. Build the room, keep the promise small, and let the mood catch up when it can. It usually does. And on the days it doesn't, the room is still standing.</div>

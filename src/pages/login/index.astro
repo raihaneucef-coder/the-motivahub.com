@@ -6,9 +6,9 @@ import Layout from "../../layouts/Layout.astro";
   <section class="auth-section">
     <div class="container">
       <div class="auth-card">
-        <p class="kicker">The Daily Drive</p>
-        <h1>Welcome <em>back.</em></h1>
-        <p class="auth-sub">Log in to continue your ascent.</p>
+        <p class="kicker" data-i18n="loginKicker">The Daily Drive</p>
+        <h1 data-i18n-html="loginTitle">Welcome <em>back.</em></h1>
+        <p class="auth-sub" data-i18n="loginSub">Log in to continue your ascent.</p>
         <!--
           AUTH INTEGRATION POINT:
           Connect this form to your authentication service
@@ -17,18 +17,18 @@ import Layout from "../../layouts/Layout.astro";
         -->
         <form action="/login/" method="post" class="auth-form">
           <div class="form-group">
-            <label for="email">Email</label>
+            <label for="email" data-i18n="loginEmailLabel">Email</label>
             <input type="email" id="email" name="email" required />
           </div>
           <div class="form-group">
-            <label for="password">Password</label>
+            <label for="password" data-i18n="loginPasswordLabel">Password</label>
             <input type="password" id="password" name="password" required />
           </div>
-          <button type="submit" class="btn-pill" style="width: 100%;">Log In</button>
+          <button type="submit" class="btn-pill" style="width: 100%;" data-i18n="loginButton">Log In</button>
         </form>
         <div class="auth-links">
-          <a href="/forgot-password/">Forgot password?</a>
-          <a href="/register/">Create an account →</a>
+          <a href="/forgot-password/" data-i18n="loginForgot">Forgot password?</a>
+          <a href="/register/" data-i18n="loginCreateAccount">Create an account →</a>
         </div>
       </div>
     </div>
