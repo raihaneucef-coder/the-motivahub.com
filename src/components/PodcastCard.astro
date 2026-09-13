@@ -15,9 +15,9 @@ const hasPodcast = Boolean(podcast.podcastUrl && podcast.podcastUrl.trim().lengt
     <h3>{podcast.title}</h3>
     <p class="book-desc">{podcast.description}</p>
     {hasPodcast ? (
-      <a class="read-more" href={podcast.podcastUrl} target="_blank" rel="noopener">Listen to Podcast</a>
+      <a class="read-more" href={podcast.podcastUrl} target="_blank" rel="noopener" data-i18n="listenPodcast">Listen to Podcast</a>
     ) : (
-      <span class="read-more read-more-disabled" aria-disabled="true" title="Podcast coming soon">Listen to Podcast — Coming soon</span>
+      <span class="read-more read-more-disabled" aria-disabled="true" title="Podcast coming soon" data-i18n="listenPodcastComingSoon">Listen to Podcast — Coming soon</span>
     )}
   </div>
 </article>

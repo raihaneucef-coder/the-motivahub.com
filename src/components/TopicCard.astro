@@ -13,8 +13,8 @@ const posts = (await getCollection("blog")).filter((p) => !p.data.draft && norm(
 <a class="topic-card" href={`/topics/${topic.id}/`}>
   <div class="topic-top">
     <h3>{topic.title}</h3>
-    <span class="topic-count">{posts.length} {posts.length === 1 ? "Essay" : "Essays"}</span>
+    <span class="topic-count">{posts.length} <span data-i18n={posts.length === 1 ? "topicEssay" : "topicEssays"}>{posts.length === 1 ? "Essay" : "Essays"}</span></span>
   </div>
   <p>{topic.description}</p>
-  <span class="link-ochre">Explore →</span>
+  <span class="link-ochre" data-i18n="exploreLink">Explore →</span>
 </a>

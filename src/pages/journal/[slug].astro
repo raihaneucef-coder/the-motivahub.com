@@ -143,7 +143,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
       <AuthorBio variant="compact" showSchema={false} />
       <div class="article-nav">
         {prev ? <a class="link-ochre" href={`/journal/${prev.id}/`}>← {prev.data.title}</a> : <span></span>}
-        <a class="link-ochre" href="/journal/">Return to Journal</a>
+        <a class="link-ochre" href="/journal/" data-i18n="returnToJournal">Return to Journal</a>
         {next ? <a class="link-ochre" href={`/journal/${next.id}/`}>{next.data.title} →</a> : <span></span>}
       </div>
     </div>

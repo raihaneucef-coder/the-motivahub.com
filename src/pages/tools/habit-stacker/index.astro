@@ -58,9 +58,9 @@ const newHabits = [
 
   <section class="hs-head">
     <div class="container">
-      <p class="kicker">Free Tool · 2-Minute Setup</p>
-      <h1>Build a <em>Habit Stack</em> That Actually Sticks</h1>
-      <p>James Clear's method: pair a new habit with one you already do automatically. Get a personalized 30-day plan.</p>
+      <p class="kicker" data-i18n="hsKicker">Free Tool · 2-Minute Setup</p>
+      <h1 data-i18n="hsTitle">Build a <em>Habit Stack</em> That Actually Sticks</h1>
+      <p data-i18n="hsSubtitle">James Clear's method: pair a new habit with one you already do automatically. Get a personalized 30-day plan.</p>
     </div>
   </section>
 
@@ -68,67 +68,67 @@ const newHabits = [
     <div class="container">
       <div class="hs-shell">
         <div class="hs-step hs-step-1" data-step="1">
-          <p class="hs-step-num">STEP 1</p>
-          <h2>Pick a habit you already do</h2>
-          <p class="hs-step-hint">Choose something you do every day without thinking.</p>
+          <p class="hs-step-num" data-i18n="hsStep1Num">STEP 1</p>
+          <h2 data-i18n="hsStep1Title">Pick a habit you already do</h2>
+          <p class="hs-step-hint" data-i18n="hsStep1Hint">Choose something you do every day without thinking.</p>
           <div class="hs-options">
             {currentHabits.map((h) => (
               <button class="hs-option" data-current>{h}</button>
             ))}
           </div>
           <div class="hs-custom">
-            <input type="text" placeholder="Or write your own..." data-custom-current />
+            <input type="text" placeholder="Or write your own..." data-custom-current data-i18n-placeholder="hsCustomPlaceholder" />
           </div>
         </div>
 
         <div class="hs-step hs-step-2" data-step="2" hidden>
-          <p class="hs-step-num">STEP 2</p>
-          <h2>Choose a new habit to stack on</h2>
-          <p class="hs-step-hint">Pick the smallest possible version. 2 minutes max.</p>
+          <p class="hs-step-num" data-i18n="hsStep2Num">STEP 2</p>
+          <h2 data-i18n="hsStep2Title">Choose a new habit to stack on</h2>
+          <p class="hs-step-hint" data-i18n="hsStep2Hint">Pick the smallest possible version. 2 minutes max.</p>
           <div class="hs-options">
             {newHabits.map((h) => (
               <button class="hs-option hs-option-new" data-new>{h}</button>
             ))}
           </div>
           <div class="hs-custom">
-            <input type="text" placeholder="Or write your own..." data-custom-new />
+            <input type="text" placeholder="Or write your own..." data-custom-new data-i18n-placeholder="hsCustomPlaceholderNew" />
           </div>
         </div>
 
         <div class="hs-step hs-step-3" data-step="3" hidden>
-          <p class="hs-step-num">YOUR STACK</p>
+          <p class="hs-step-num" data-i18n="hsStep3Num">YOUR STACK</p>
           <div class="hs-result">
-            <p class="hs-result-prefix">After I</p>
+            <p class="hs-result-prefix" data-i18n="hsResultPrefix">After I</p>
             <p class="hs-result-current" data-result-current></p>
-            <p class="hs-result-then">I will</p>
+            <p class="hs-result-then" data-i18n="hsResultThen">I will</p>
             <p class="hs-result-new" data-result-new></p>
           </div>
 
           <div class="hs-result-plan">
-            <h3>Your 30-Day Protocol</h3>
+            <h3 data-i18n="hsPlanTitle">Your 30-Day Protocol</h3>
             <div class="hs-plan-grid">
               <div class="hs-plan-card">
-                <p class="hs-plan-day">Days 1-7</p>
-                <p class="hs-plan-text">Do the stack once daily. Same time. Same place. No exceptions.</p>
+                <p class="hs-plan-day" data-i18n="hsPlanDays1">Days 1-7</p>
+                <p class="hs-plan-text" data-i18n="hsPlanText1">Do the stack once daily. Same time. Same place. No exceptions.</p>
               </div>
               <div class="hs-plan-card">
-                <p class="hs-plan-day">Days 8-14</p>
-                <p class="hs-plan-text">Track on a paper calendar. Each day = an X. Don't break the chain.</p>
+                <p class="hs-plan-day" data-i18n="hsPlanDays2">Days 8-14</p>
+                <p class="hs-plan-text" data-i18n="hsPlanText2">Track on a paper calendar. Each day = an X. Don't break the chain.</p>
               </div>
               <div class="hs-plan-card">
-                <p class="hs-plan-day">Days 15-21</p>
-                <p class="hs-plan-text">Notice if it's feeling automatic. If yes, expand duration slightly.</p>
+                <p class="hs-plan-day" data-i18n="hsPlanDays3">Days 15-21</p>
+                <p class="hs-plan-text" data-i18n="hsPlanText3">Notice if it's feeling automatic. If yes, expand duration slightly.</p>
               </div>
               <div class="hs-plan-card">
-                <p class="hs-plan-day">Days 22-30</p>
-                <p class="hs-plan-text">You have a habit. Add a second stack only after this one feels natural.</p>
+                <p class="hs-plan-day" data-i18n="hsPlanDays4">Days 22-30</p>
+                <p class="hs-plan-text" data-i18n="hsPlanText4">You have a habit. Add a second stack only after this one feels natural.</p>
               </div>
             </div>
           </div>
 
           <div class="hs-result-cta">
-            <button class="btn-pill btn-pill-cream" id="hs-restart">Build Another Stack</button>
-            <a class="btn-pill btn-pill-secondary" href="/guides/atomic-habits-ultimate-guide/">Read the Full Atomic Habits Guide →</a>
+            <button class="btn-pill btn-pill-cream" id="hs-restart" data-i18n="hsRestart">Build Another Stack</button>
+            <a class="btn-pill btn-pill-secondary" href="/guides/atomic-habits-ultimate-guide/" data-i18n="hsReadGuide">Read the Full Atomic Habits Guide →</a>
           </div>
         </div>
       </div>
@@ -137,10 +137,10 @@ const newHabits = [
 
   <section class="hs-faq">
     <div class="container">
-      <h2>Why habit stacking works</h2>
-      <p>Most people try to build new habits from nothing. They rely on willpower and motivation — both temporary. Habit stacking works because it the an already-cemented neural pathway. Your brain has thousands of automatic behaviors. By chaining your new habit onto an existing one, you get free momentum.</p>
-      <p>The formula: <em>"After [CURRENT], I will [NEW]."</em> Specific, immediate, no thinking required. This is the same principle every athlete, surgeon, and CEO uses — they don't invent new cues, they reuse existing ones.</p>
-      <p>You can start using this method right now. The tool above gives you the structure. The discipline is in showing up for 30 days.</p>
+      <h2 data-i18n="hsFaqTitle">Why habit stacking works</h2>
+      <p data-i18n="hsFaqP1">Most people try to build new habits from nothing. They rely on willpower and motivation — both temporary. Habit stacking works because it the an already-cemented neural pathway. Your brain has thousands of automatic behaviors. By chaining your new habit onto an existing one, you get free momentum.</p>
+      <p data-i18n="hsFaqP2">The formula: <em>"After [CURRENT], I will [NEW]."</em> Specific, immediate, no thinking required. This is the same principle every athlete, surgeon, and CEO uses — they don't invent new cues, they reuse existing ones.</p>
+      <p data-i18n="hsFaqP3">You can start using this method right now. The tool above gives you the structure. The discipline is in showing up for 30 days.</p>
     </div>
   </section>
 

@@ -81,7 +81,7 @@ const personSchema = {
     <div class="author-meta">
       <p class="author-name">{author.name}</p>
       <p class="author-role">{author.jobTitle} · {author.worksFor}</p>
-      <a class="author-link" href="/author/youssef-raihane/">Read full bio →</a>
+      <a class="author-link" href="/author/youssef-raihane/" data-i18n="authorReadFull">Read full bio →</a>
     </div>
   </aside>
 )}
@@ -100,7 +100,7 @@ const personSchema = {
         />
       </span>
       <div>
-        <p class="author-tag">About the author</p>
+        <p class="author-tag" data-i18n="authorTag">About the author</p>
         <h3 class="author-name-lg">{author.name}</h3>
         <p class="author-role-lg">{author.jobTitle} · Founded {author.worksFor} in {author.founded}</p>
       </div>
@@ -111,11 +111,11 @@ const personSchema = {
       {author.credentials.map((c) => <li>{c}</li>)}
     </ul>
     <div class="author-links">
-      <span class="author-links-tag">Find me on:</span>
+      <span class="author-links-tag" data-i18n="authorFindMe">Find me on:</span>
       {author.externalLinks.map((l) => (
         <a class="author-link-pill" href={l.url} target="_blank" rel="me noopener noreferrer">{l.name}</a>
       ))}
-      <a class="author-link-pill author-link-pill--primary" href="/author/youssef-raihane/">Full Author Page →</a>
+      <a class="author-link-pill author-link-pill--primary" href="/author/youssef-raihane/" data-i18n="authorFullPage">Full Author Page →</a>
     </div>
   </aside>
 )}

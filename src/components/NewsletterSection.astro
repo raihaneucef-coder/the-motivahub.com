@@ -29,19 +29,19 @@ const magnets = [
       <h2 data-i18n="newsletterTitle">{title}</h2>
       <p class="newsletter-sub" data-i18n="newsletterSubtitle">{subtitle}</p>
 
-      {showLeadMagnet && (
-        <div class="lead-magnet-grid">
-          <p class="lead-magnet-label" data-i18n="newsletterMagnetLabel">Pick your free bonus:</p>
-          <div class="lead-magnet-options">
-            {magnets.map((m) => (
-              <label class="magnet-option">
-                <input type="radio" name="magnet" value={m.id} checked={m.id === "30-days"} />
-                <span>{m.emoji} {m.label}</span>
-              </label>
-            ))}
-          </div>
-        </div>
-      )}
+  {showLeadMagnet && (
+    <div class="lead-magnet-grid">
+      <p class="lead-magnet-label" data-i18n="newsletterMagnetLabel">Pick your free bonus:</p>
+      <div class="lead-magnet-options">
+        {magnets.map((m) => (
+          <label class="magnet-option">
+            <input type="radio" name="magnet" value={m.id} checked={m.id === "30-days"} />
+            <span data-i18n={m.id === "30-days" ? "magnet30Days" : m.id === "atomic-habits" ? "magnetAtomic" : "magnetStoic"}>{m.emoji} {m.label}</span>
+          </label>
+        ))}
+      </div>
+    </div>
+  )}
 
       <form class="newsletter-form" id="newsletter-form" novalidate>
         <input type="text" name="name" placeholder="First name (optional)" aria-label="First name" autocomplete="given-name" data-i18n-placeholder="newsletterName" />
@@ -70,6 +70,9 @@ const magnets = [
 (function () {
   const FORMSUBMIT_EMAIL = "raihaneucef@gmail.com";
   const forms = document.querySelectorAll('.newsletter-form, .newsletter-compact-form');
+  const i18nDict = window.i18nDict || {};
+  const lang = localStorage.getItem("lang") || "en";
+  const t = (i18nDict[lang] || i18nDict.en || {});
 
   forms.forEach((form) => {
     form.addEventListener('submit', async (e) => {
@@ -83,16 +86,16 @@ const magnets = [
       const msgEl = form.closest('.newsletter')?.querySelector('(' + '#' + ')' + 'newsletter-msg, .newsletter-compact-text');
 
       if (!email) {
-        if (msgEl) msgEl.textContent = 'Please enter your email address.';
+        if (msgEl) msgEl.textContent = t.newsletterEmailRequired || 'Please enter your email address.';
         return;
       }
       if (!emailOk) {
-        if (msgEl) msgEl.textContent = 'Please enter a valid email address.';
+        if (msgEl) msgEl.textContent = t.newsletterEmailValid || 'Please enter a valid email address.';
         return;
       }
 
       const originalText = form.querySelector('button').textContent;
-      form.querySelector('button').textContent = 'Sending...';
+      form.querySelector('button').textContent = t.newsletterSending || 'Sending...';
       form.querySelector('button').disabled = true;
 
       try {
@@ -112,14 +115,14 @@ const magnets = [
         if (res.ok) {
           if (msgEl) {
             msgEl.textContent = name
-              ? '🎉 Welcome aboard, ' + name + '! Check your inbox for confirmation.'
-              : '🎉 Welcome! Check your inbox for confirmation.';
+              ? (t.newsletterWelcomeName || '🎉 Welcome aboard, {name}! Check your inbox for confirmation.').replace('{name}', name)
+              : (t.newsletterWelcome || '🎉 Welcome! Check your inbox for confirmation.');
             msgEl.style.color = '#c8a04a';
           }
           form.reset();
         } else throw new Error('failed');
       } catch (err) {
-        if (msgEl) msgEl.textContent = '⚠️ Something went wrong. Try email us directly.';
+        if (msgEl) msgEl.textContent = t.newsletterError || '⚠️ Something went wrong. Try email us directly.';
       } finally {
         form.querySelector('button').textContent = originalText;
         form.querySelector('button').disabled = false;

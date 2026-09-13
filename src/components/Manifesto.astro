@@ -11,8 +11,8 @@ const stats = [
   <div class="manifesto-bg" aria-hidden="true">discipline</div>
   <div class="container">
     <div class="manifesto-inner reveal">
-      <p class="kicker kicker-sage" style="justify-content:center; display:flex;">A Quiet Manifesto</p>
-      <p class="manifesto-statement">
+      <p class="kicker kicker-sage" style="justify-content:center; display:flex;" data-i18n="manifestoKicker">A Quiet Manifesto</p>
+      <p class="manifesto-statement" data-i18n="manifestoStatement">
         We are not here to be inspired<br/>
         for an afternoon.<br/>
         <em>We are here to be built, slowly,</em><br/>
@@ -22,7 +22,7 @@ const stats = [
       </p>
       <div class="manifesto-cite">
         <span class="manifesto-cite-line"></span>
-        <span class="manifesto-cite-text">— Motiva Hub · 2026</span>
+        <span class="manifesto-cite-text" data-i18n="manifestoCite">— Motiva Hub · 2026</span>
         <span class="manifesto-cite-line"></span>
       </div>
     </div>
@@ -35,7 +35,7 @@ const stats = [
       {stats.map((s) => (
         <div class="brand-stat">
           <span class="brand-stat-num">{s.num}</span>
-          <span class="brand-stat-label">{s.label}</span>
+          <span class="brand-stat-label" data-i18n={"stat" + s.label.replace(/\s+/g, "").replace(/[^a-zA-Z]/g, "")}>{s.label}</span>
           <span class="brand-stat-desc">{s.desc}</span>
         </div>
       ))}

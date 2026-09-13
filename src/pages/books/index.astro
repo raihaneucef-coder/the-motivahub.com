@@ -31,11 +31,11 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
   <section class="feed">
     <div class="container">
       <div class="best-links">
-        <p class="kicker">Looking for ranked picks?</p>
-        <a class="best-link" href="/best/books/">Best Self-Help Books 2026 →</a>
-        <a class="best-link" href="/best/focus-books/">Best Focus & Deep Work Books →</a>
-        <a class="best-link" href="/best/habit-books/">Best Habit & Discipline Books →</a>
-        <a class="best-link" href="/best/stoicism-books/">Best Stoicism Books →</a>
+        <p class="kicker" data-i18n="lookingForRanked">Looking for ranked picks?</p>
+        <a class="best-link" href="/best/books/" data-i18n="bestSelfHelpBooksLink">Best Self-Help Books 2026 →</a>
+        <a class="best-link" href="/best/focus-books/" data-i18n="bestFocusBooksLink">Best Focus & Deep Work Books →</a>
+        <a class="best-link" href="/best/habit-books/" data-i18n="bestHabitBooksLink">Best Habit & Discipline Books →</a>
+        <a class="best-link" href="/best/stoicism-books/" data-i18n="bestStoicismBooksLink">Best Stoicism Books →</a>
       </div>
       <div class="book-grid">
         {books.map((book) => <BookCard book={book} />)}

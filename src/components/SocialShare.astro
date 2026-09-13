@@ -8,12 +8,12 @@ const { title, description } = Astro.props;
 ---
 
 <div class="social-share" aria-label="Share this article">
-  <span class="social-label">Share</span>
-  <a class="social-btn" data-share="facebook" href="#" aria-label="Share on Facebook">Facebook</a>
-  <a class="social-btn" data-share="x" href="#" aria-label="Share on X">X</a>
-  <a class="social-btn" data-share="whatsapp" href="#" aria-label="Share on WhatsApp">WhatsApp</a>
-  <button class="social-btn" data-share="instagram" type="button" aria-label="Share on Instagram">Instagram</button>
-  <button class="social-btn" data-share="copy" type="button" aria-label="Copy link">Copy Link</button>
+  <span class="social-label" data-i18n="shareLabel">Share</span>
+  <a class="social-btn" data-share="facebook" href="#" aria-label="Share on Facebook" data-i18n="shareFacebook">Facebook</a>
+  <a class="social-btn" data-share="x" href="#" aria-label="Share on X" data-i18n="shareX">X</a>
+  <a class="social-btn" data-share="whatsapp" href="#" aria-label="Share on WhatsApp" data-i18n="shareWhatsApp">WhatsApp</a>
+  <button class="social-btn" data-share="instagram" type="button" aria-label="Share on Instagram" data-i18n="shareInstagram">Instagram</button>
+  <button class="social-btn" data-share="copy" type="button" aria-label="Copy link" data-i18n="shareCopy">Copy Link</button>
   <span id="share-msg" class="social-msg" aria-live="polite"></span>
 </div>
 
@@ -21,17 +21,17 @@ const { title, description } = Astro.props;
 <div class="ig-modal" data-ig-modal>
   <div class="ig-modal-content">
     <div class="ig-modal-header">
-      <h3>Share on Instagram</h3>
+      <h3 data-i18n="shareIgTitle">Share on Instagram</h3>
       <button class="ig-modal-close" data-ig-close aria-label="Close">✕</button>
     </div>
     <div class="ig-preview">
       <canvas data-ig-canvas width="1080" height="1080"></canvas>
     </div>
     <div class="ig-modal-actions">
-      <button class="btn-pill" data-ig-download>Download Image</button>
-      <button class="btn-pill btn-pill-outline" data-ig-copy>Copy to Clipboard</button>
+      <button class="btn-pill" data-ig-download data-i18n="shareIgDownload">Download Image</button>
+      <button class="btn-pill btn-pill-outline" data-ig-copy data-i18n="shareIgCopy">Copy to Clipboard</button>
     </div>
-    <p class="ig-modal-note">Download the image and share it on Instagram, Stories, or anywhere.</p>
+    <p class="ig-modal-note" data-i18n="shareIgNote">Download the image and share it on Instagram, Stories, or anywhere.</p>
   </div>
 </div>
 

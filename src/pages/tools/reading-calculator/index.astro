@@ -24,9 +24,9 @@ const description = "Free calculator that turns your reading goal into a daily p
 
   <section class="rc-head">
     <div class="container">
-      <p class="kicker">Free Tool · 30 Seconds</p>
-      <h1>Reading Goal Calculator</h1>
-      <p class="rc-subtitle">Turn "read more" into a daily page target. Get a custom plan in 30 seconds.</p>
+      <p class="kicker" data-i18n="rcKicker">Free Tool · 30 Seconds</p>
+      <h1 data-i18n="rcTitle">Reading Goal Calculator</h1>
+      <p class="rc-subtitle" data-i18n="rcSubtitle">Turn "read more" into a daily page target. Get a custom plan in 30 seconds.</p>
     </div>
   </section>
 
@@ -35,53 +35,53 @@ const description = "Free calculator that turns your reading goal into a daily p
       <div class="rc-shell">
         <div class="rc-form-grid">
           <div class="rc-input-group">
-            <label for="rc-goal">Books you want to read this year</label>
+            <label for="rc-goal" data-i18n="rcGoalLabel">Books you want to read this year</label>
             <input type="number" id="rc-goal" min="1" max="200" value="24" />
           </div>
           <div class="rc-input-group">
-            <label for="rc-pages">Average pages per book</label>
+            <label for="rc-pages" data-i18n="rcPagesLabel">Average pages per book</label>
             <input type="number" id="rc-pages" min="100" max="1000" value="300" />
           </div>
           <div class="rc-input-group">
-            <label for="rc-wpm">Your reading speed (pages/hour)</label>
+            <label for="rc-wpm" data-i18n="rcWpmLabel">Your reading speed (pages/hour)</label>
             <input type="number" id="rc-wpm" min="20" max="120" value="50" />
           </div>
           <div class="rc-input-group">
-            <label for="rc-minutes">Minutes you can read daily</label>
+            <label for="rc-minutes" data-i18n="rcMinutesLabel">Minutes you can read daily</label>
             <input type="number" id="rc-minutes" min="5" max="180" value="20" />
           </div>
         </div>
 
-        <button class="rc-btn rc-btn-primary" id="rc-calculate">Calculate My Plan</button>
+        <button class="rc-btn rc-btn-primary" id="rc-calculate" data-i18n="rcCalculate">Calculate My Plan</button>
 
         <div class="rc-results" id="rc-results" hidden>
           <div class="rc-result-headline">
-            <p class="rc-result-label">Your daily target</p>
+            <p class="rc-result-label" data-i18n="rcDailyTarget">Your daily target</p>
             <p class="rc-result-num" id="rc-pages-day">14</p>
-            <p class="rc-result-unit">pages per day</p>
+            <p class="rc-result-unit" data-i18n="rcPagesPerDay">pages per day</p>
           </div>
 
           <div class="rc-result-grid">
             <div class="rc-result-stat">
               <p class="rc-stat-num" id="rc-total-pages">7,200</p>
-              <p class="rc-stat-label">Total pages</p>
+              <p class="rc-stat-label" data-i18n="rcTotalPages">Total pages</p>
             </div>
             <div class="rc-result-stat">
               <p class="rc-stat-num" id="rc-hours-needed">144</p>
-              <p class="rc-stat-label">Hours needed</p>
+              <p class="rc-stat-label" data-i18n="rcHoursNeeded">Hours needed</p>
             </div>
             <div class="rc-result-stat">
               <p class="rc-stat-num" id="rc-feasibility">85%</p>
-              <p class="rc-stat-label">Goal feasible</p>
+              <p class="rc-stat-label" data-i18n="rcGoalFeasible">Goal feasible</p>
             </div>
             <div class="rc-result-stat">
               <p class="rc-stat-num" id="rc-minutes-needed">17 min</p>
-              <p class="rc-stat-label">Daily needed</p>
+              <p class="rc-stat-label" data-i18n="rcDailyNeeded">Daily needed</p>
             </div>
           </div>
 
-          <div class="rc-plan">
-            <h3 class="rc-plan-h">Your 4-Quarter Plan</h3>
+           <div class="rc-plan">
+            <h3 class="rc-plan-h" data-i18n="rcPlanTitle">Your 4-Quarter Plan</h3>
             <div class="rc-plan-grid" id="rc-plan-grid">
               <div class="rc-plan-card">
                 <p class="rc-plan-q">Q1</p>
@@ -112,7 +112,7 @@ const description = "Free calculator that turns your reading goal into a daily p
           </div>
 
           <div class="rc-presets">
-            <p class="rc-presets-label">Quick presets:</p>
+            <p class="rc-presets-label" data-i18n="rcPresetsLabel">Quick presets:</p>
             <div class="rc-presets-grid">
               <button class="rc-preset" data-goal="12" data-pages="300" data-wpm="50" data-minutes="20">12 books (1/month)</button>
               <button class="rc-preset" data-goal="24" data-pages="300" data-wpm="50" data-minutes="20">24 books (2/month)</button>
@@ -127,36 +127,36 @@ const description = "Free calculator that turns your reading goal into a daily p
 
   <section class="rc-faq">
     <div class="container">
-      <h2>Why This Matters</h2>
-      <p>Most "I want to read more" goals fail because they're abstract. "Read 24 books" doesn't translate to "what do I do today?"</p>
-      <p>This calculator converts the goal into a daily target. 14 pages isn't scary. 30 minutes isn't a sacrifice. But 14 pages × 365 days = 5,110 pages = ~17 books a year.</p>
-      <p>The math compounds. So does the habit.</p>
+      <h2 data-i18n="rcWhyTitle">Why This Matters</h2>
+      <p data-i18n="rcWhyP1">Most "I want to read more" goals fail because they're abstract. "Read 24 books" doesn't translate to "what do I do today?"</p>
+      <p data-i18n="rcWhyP2">This calculator converts the goal into a daily target. 14 pages isn't scary. 30 minutes isn't a sacrifice. But 14 pages × 365 days = 5,110 pages = ~17 books a year.</p>
+      <p data-i18n="rcWhyP3">The math compounds. So does the habit.</p>
     </div>
   </section>
 
   <section class="rc-faq">
     <div class="container">
-      <h2>FAQ</h2>
+      <h2 data-i18n="rcFaqTitle">FAQ</h2>
       <details>
-        <summary>What if I miss a day?</summary>
-        <p>That's why the plan is set conservatively. Missing one day = add 14 pages to the next day (or split across 2 days). Missing a week = reassess: is the daily target realistic? If not, lower it.</p>
+        <summary data-i18n="rcFaq1Q">What if I miss a day?</summary>
+        <p data-i18n="rcFaq1A">That's why the plan is set conservatively. Missing one day = add 14 pages to the next day (or split across 2 days). Missing a week = reassess: is the daily target realistic? If not, lower it.</p>
       </details>
       <details>
-        <summary>How do I know my reading speed?</summary>
-        <p>Time yourself for 10 minutes on a typical book. Count the pages. Multiply by 6 = pages per hour. Most people: 40-60 p/h. Speed readers: 80-120 p/h.</p>
+        <summary data-i18n="rcFaq2Q">How do I know my reading speed?</summary>
+        <p data-i18n="rcFaq2A">Time yourself for 10 minutes on a typical book. Count the pages. Multiply by 6 = pages per hour. Most people: 40-60 p/h. Speed readers: 80-120 p/h.</p>
       </details>
       <details>
-        <summary>Can I read more than one book at a time?</summary>
-        <p>You can, but retention drops 50%+ with multiple books. Stick to one book at a time. Once you finish, start the next. The math still works.</p>
+        <summary data-i18n="rcFaq3Q">Can I read more than one book at a time?</summary>
+        <p data-i18n="rcFaq3A">You can, but retention drops 50%+ with multiple books. Stick to one book at a time. Once you finish, start the next. The math still works.</p>
       </details>
       <details>
-        <summary>What's the realistic maximum?</summary>
-        <p>With 30 minutes daily and one book at a time: 30-40 books per year is realistic for most readers. Beyond that, retention suffers. Quality > quantity.</p>
+        <summary data-i18n="rcFaq4Q">What's the realistic maximum?</summary>
+        <p data-i18n="rcFaq4A">With 30 minutes daily and one book at a time: 30-40 books per year is realistic for most readers. Beyond that, retention suffers. Quality > quantity.</p>
       </details>
     </div>
   </section>
 
-  <NewsletterSection variant="default" showLeadMagnet={true} title="Get our top 24 book recommendations for 2026." buttonText="Send Me the List" />
+  <NewsletterSection variant="default" showLeadMagnet={true} data-i18n="rcNewsletterTitle" title="Get our top 24 book recommendations for 2026." buttonText="Send Me the List" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",

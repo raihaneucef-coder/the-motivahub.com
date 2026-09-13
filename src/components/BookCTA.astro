@@ -11,18 +11,25 @@ const book = bookSlug ? books.find((b) => b.id === bookSlug) : null;
 const rel = "nofollow sponsored noopener";
 const isPrimary = variant === "primary";
 const showDefaultSlot = Astro.slots.has("default");
+
+const t = (() => {
+  if (typeof window === "undefined") return {};
+  const dict = window.i18nDict || {};
+  const lang = localStorage.getItem("lang") || "en";
+  return dict[lang] || dict.en || {};
+})();
 ---
 
 {(book || showDefaultSlot) && isPrimary && (
   <aside class="aff-cta">
-    <p class="aff-cta-tag">★ Recommended</p>
+    <p class="aff-cta-tag" data-i18n="bookCtaRecommended">★ Recommended</p>
     {book && (
       <>
-        <h3 class="aff-cta-title">Ready to read {book.title}?</h3>
-        <p class="aff-cta-by">by {book.author}</p>
+        <h3 class="aff-cta-title" data-i18n="bookCtaReady">Ready to read {book.title}?</h3>
+        <p class="aff-cta-by" data-i18n="bookCtaBy">by {book.author}</p>
         <p class="aff-cta-desc">{book.reason}</p>
-        <a class="aff-cta-btn" href={book.affiliateUrl} target="_blank" rel={rel}>View on Amazon →</a>
-        <p class="aff-cta-foot">As an Amazon Associate we earn from qualifying purchases. The price you pay is unchanged.</p>
+        <a class="aff-cta-btn" href={book.affiliateUrl} target="_blank" rel={rel} data-i18n="bookCtaViewAmazon">View on Amazon →</a>
+        <p class="aff-cta-foot" data-i18n="bookCtaAssociate">As an Amazon Associate we earn from qualifying purchases. The price you pay is unchanged.</p>
       </>
     )}
     {!book && showDefaultSlot && <slot />}
@@ -32,7 +39,7 @@ const showDefaultSlot = Astro.slots.has("default");
 {(book || showDefaultSlot) && !isPrimary && (
   <div class="aff-cta-compact">
     {book && (
-      <a class="aff-cta-btn-sm" href={book.affiliateUrl} target="_blank" rel={rel}>Buy {book.title} on Amazon →</a>
+      <a class="aff-cta-btn-sm" href={book.affiliateUrl} target="_blank" rel={rel} data-i18n="bookCtaBuyAmazon">Buy {book.title} on Amazon →</a>
     )}
     {!book && showDefaultSlot && <slot />}
   </div>
