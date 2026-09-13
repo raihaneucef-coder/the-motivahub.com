@@ -660,6 +660,7 @@ const gaSnippet = GA_ID
           await setLang(saved);
         }
         initLang();
+        document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", ()=> setLang(b.getAttribute("data-lang")||"en")));
         window.setLang = setLang;
         window.i18nDict = dict;
       })();
