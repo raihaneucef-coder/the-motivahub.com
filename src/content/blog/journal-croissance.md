@@ -40,50 +40,49 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-# Journaling for Growth: How Writing Transforms Your Self-Awareness
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_journal-croissance_p1"><h1>Journaling for Growth: How Writing Transforms Your Self-Awareness</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_journal-croissance_p2"><strong>Journaling works because it forces you to examine your thoughts objectively.</strong> When you write, you understand your thoughts. When you understand them, you can change them. Research shows that 10 minutes of daily writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking.</div>
 
-**Journaling works because it forces you to examine your thoughts objectively.** When you write, you understand your thoughts. When you understand them, you can change them. Research shows that 10 minutes of daily writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking.
+<div data-i18n-html="article_journal-croissance_p3">Every successful person in history has journaled. Marcus Aurelius. Leonardo da Vinci. Oprah Winfrey. They all wrote — not for others, but for themselves.</div>
 
-Every successful person in history has journaled. Marcus Aurelius. Leonardo da Vinci. Oprah Winfrey. They all wrote — not for others, but for themselves.
+<div data-i18n-html="article_journal-croissance_p4">Journaling is not about grammar or spelling. It is about clarity. When you write your thoughts, you understand them. When you understand them, you can change them.</div>
 
-Journaling is not about grammar or spelling. It is about clarity. When you write your thoughts, you understand them. When you understand them, you can change them.
+<div data-i18n-html="article_journal-croissance_p5"><h2>Why Journaling Works</h2></div>
 
-## Why Journaling Works
+<div data-i18n-html="article_journal-croissance_p6"><h3>1. Self-Awareness</h3>
+Writing forces you to examine your thoughts objectively. You cannot hide from what you put on paper.</div>
 
-### 1. Self-Awareness
-Writing forces you to examine your thoughts objectively. You cannot hide from what you put on paper.
+<div data-i18n-html="article_journal-croissance_p7"><h3>2. Emotional Processing</h3>
+Journaling releases emotions that are trapped inside. Writing about anger, fear, or sadness helps you process and let go.</div>
 
-### 2. Emotional Processing
-Journaling releases emotions that are trapped inside. Writing about anger, fear, or sadness helps you process and let go.
+<div data-i18n-html="article_journal-croissance_p8"><h3>3. Problem Solving</h3>
+When you write about a problem, solutions often appear. The act of writing engages your brain differently than thinking.</div>
 
-### 3. Problem Solving
-When you write about a problem, solutions often appear. The act of writing engages your brain differently than thinking.
+<div data-i18n-html="article_journal-croissance_p9"><h3>4. Goal Clarity</h3>
+Writing your goals makes them real. Writing your progress keeps you accountable.</div>
 
-### 4. Goal Clarity
-Writing your goals makes them real. Writing your progress keeps you accountable.
+<div data-i18n-html="article_journal-croissance_p10"><h2>How to Start</h2></div>
 
-## How to Start
+<div data-i18n-html="article_journal-croissance_p11"><h3>1. Write 10 Minutes Per Day</h3>
+Set a timer. Write whatever comes to mind. Do not edit. Do not judge. Just write.</div>
 
-### 1. Write 10 Minutes Per Day
-Set a timer. Write whatever comes to mind. Do not edit. Do not judge. Just write.
-
-### 2. Use Prompts
+<div data-i18n-html="article_journal-croissance_p12"><h3>2. Use Prompts</h3>
 If you do not know what to write, use these prompts:
 - What am I grateful for today?
 - What did I learn today?
 - What am I struggling with?
-- What would I do differently?
+- What would I do differently?</div>
 
-### 3. Be Honest
-The journal is for you. Write what you truly think and feel — not what you think you should think and feel.
+<div data-i18n-html="article_journal-croissance_p13"><h3>3. Be Honest</h3>
+The journal is for you. Write what you truly think and feel — not what you think you should think and feel.</div>
 
-### 4. Review Monthly
-Every month, read your journal entries. You will see patterns, growth, and areas for improvement.
+<div data-i18n-html="article_journal-croissance_p14"><h3>4. Review Monthly</h3>
+Every month, read your journal entries. You will see patterns, growth, and areas for improvement.</div>
 
-> *I can be changed by what happens to me. But I refuse to be reduced by it. — Maya Angelou*
+<div data-i18n-html="article_journal-croissance_p15"><blockquote><em>I can be changed by what happens to me. But I refuse to be reduced by it. — Maya Angelou</em></blockquote></div>
 
----
+<div data-i18n-html="article_journal-croissance_p16">---</div>
 
-**Start journaling today.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 journal prompts. Track your writing streak with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_journal-croissance_p17"><strong>Start journaling today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 journal prompts. Track your writing streak with our <a href="/tracker/">Habit Tracker</a>.</div>

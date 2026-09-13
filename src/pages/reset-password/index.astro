@@ -6,9 +6,9 @@ import Layout from "../../layouts/Layout.astro";
   <section class="auth-section">
     <div class="container">
       <div class="auth-card">
-        <p class="kicker">The Daily Drive</p>
-        <h1>Choose a <em>new password.</em></h1>
-        <p class="auth-sub">Your new password should be at least 8 characters.</p>
+        <p class="kicker" data-i18n="resetKicker">The Daily Drive</p>
+        <h1 data-i18n-html="resetTitle">Choose a <em>new password.</em></h1>
+        <p class="auth-sub" data-i18n="resetSub">Your new password should be at least 8 characters.</p>
         <!--
           AUTH INTEGRATION POINT:
           Connect to your authentication service's
@@ -17,17 +17,17 @@ import Layout from "../../layouts/Layout.astro";
         -->
         <form action="/reset-password/" method="post" class="auth-form">
           <div class="form-group">
-            <label for="password">New password</label>
+            <label for="password" data-i18n="resetPasswordLabel">New password</label>
             <input type="password" id="password" name="password" required minlength="8" />
           </div>
           <div class="form-group">
-            <label for="confirm">Confirm new password</label>
+            <label for="confirm" data-i18n="resetConfirmLabel">Confirm new password</label>
             <input type="password" id="confirm" name="confirm" required minlength="8" />
           </div>
-          <button type="submit" class="btn-pill" style="width: 100%;">Update Password</button>
+          <button type="submit" class="btn-pill" style="width: 100%;" data-i18n="resetButton">Update Password</button>
         </form>
         <div class="auth-links">
-          <a href="/login/">← Back to login</a>
+          <a href="/login/" data-i18n="resetBackLogin">← Back to login</a>
         </div>
       </div>
     </div>

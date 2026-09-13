@@ -39,170 +39,169 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_casser-mauvaise-habitude_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_casser-mauvaise-habitude_p2"><strong>How to Break a Bad Habit — The Reverse Four Laws</strong> — practical guide based on real experiments. How to Break a Bad Habit — The Reverse Four Laws works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-**How to Break a Bad Habit — The Reverse Four Laws** — practical guide based on real experiments. How to Break a Bad Habit — The Reverse Four Laws works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.
+<div data-i18n-html="article_casser-mauvaise-habitude_p3"><h1>How to Break a Bad Habit — The Reverse Four Laws</h1></div>
 
-# How to Break a Bad Habit — The Reverse Four Laws
+<div data-i18n-html="article_casser-mauvaise-habitude_p4">Breaking a bad habit is harder than building a good one. But the same principles that create habits can destroy them — you just reverse them.</div>
 
-Breaking a bad habit is harder than building a good one. But the same principles that create habits can destroy them — you just reverse them.
+<div data-i18n-html="article_casser-mauvaise-habitude_p5">I learned this in 2023, when I was scrolling on my phone for 3 hours every night. I was tired. I was unproductive. I was frustrated with myself. I tried to stop. I failed. I tried again. I failed again.</div>
 
-I learned this in 2023, when I was scrolling on my phone for 3 hours every night. I was tired. I was unproductive. I was frustrated with myself. I tried to stop. I failed. I tried again. I failed again.
+<div data-i18n-html="article_casser-mauvaise-habitude_p6">Then I discovered the reverse four laws. I applied them to my scrolling habit. Within 30 days, the habit was gone. Not because I was disciplined. Because I designed the environment so the habit could not survive.</div>
 
-Then I discovered the reverse four laws. I applied them to my scrolling habit. Within 30 days, the habit was gone. Not because I was disciplined. Because I designed the environment so the habit could not survive.
+<div data-i18n-html="article_casser-mauvaise-habitude_p7"><h2>The Four Laws for Breaking Habits</h2></div>
 
-## The Four Laws for Breaking Habits
+<div data-i18n-html="article_casser-mauvaise-habitude_p8">James Clear calls this the <strong>inversion of the four laws</strong>. Instead of making it obvious, attractive, easy, and satisfying — you make it invisible, unattractive, difficult, and unsatisfying.</div>
 
-James Clear calls this the **inversion of the four laws**. Instead of making it obvious, attractive, easy, and satisfying — you make it invisible, unattractive, difficult, and unsatisfying.
+<div data-i18n-html="article_casser-mauvaise-habitude_p9"><h3>Law 1: Make It Invisible</h3></div>
 
-### Law 1: Make It Invisible
+<div data-i18n-html="article_casser-mauvaise-habitude_p10">The first step is to remove the trigger. If you cannot see it, you cannot do it.</div>
 
-The first step is to remove the trigger. If you cannot see it, you cannot do it.
+<div data-i18n-html="article_casser-mauvaise-habitude_p11">- <strong>Quit social media?</strong> Delete the apps from your phone
+- <strong>Quit junk food?</strong> Do not buy it. Do not keep it in the house
+- <strong>Quit smoking?</strong> Throw away all cigarettes and lighters
+- <strong>Quit procrastinating?</strong> Remove all distractions from your workspace</div>
 
-- **Quit social media?** Delete the apps from your phone
-- **Quit junk food?** Do not buy it. Do not keep it in the house
-- **Quit smoking?** Throw away all cigarettes and lighters
-- **Quit procrastinating?** Remove all distractions from your workspace
+<div data-i18n-html="article_casser-mauvaise-habitude_p12">In 2023, I applied this to my scrolling habit. I deleted Instagram and TikTok from my phone. I moved the phone charger to the kitchen. I turned off all notifications.</div>
 
-In 2023, I applied this to my scrolling habit. I deleted Instagram and TikTok from my phone. I moved the phone charger to the kitchen. I turned off all notifications.
+<div data-i18n-html="article_casser-mauvaise-habitude_p13">The trigger was gone. The habit could not fire.</div>
 
-The trigger was gone. The habit could not fire.
+<div data-i18n-html="article_casser-mauvaise-habitude_p14">You cannot resist what you cannot see. Remove the trigger, and the habit dies.</div>
 
-You cannot resist what you cannot see. Remove the trigger, and the habit dies.
+<div data-i18n-html="article_casser-mauvaise-habitude_p15"><h3>Law 2: Make It Unattractive</h3></div>
 
-### Law 2: Make It Unattractive
+<div data-i18n-html="article_casser-mauvaise-habitude_p16">Reframe the habit in your mind. Instead of seeing it as something you are giving up, see it as something you are escaping.</div>
 
-Reframe the habit in your mind. Instead of seeing it as something you are giving up, see it as something you are escaping.
-
-- Smoking is not a pleasure you are losing. It is a prison you are leaving
+<div data-i18n-html="article_casser-mauvaise-habitude_p17">- Smoking is not a pleasure you are losing. It is a prison you are leaving
 - Scrolling is not entertainment you are missing. It is time you are reclaiming
-- Junk food is not a treat you are denying yourself. It is poison you are refusing
+- Junk food is not a treat you are denying yourself. It is poison you are refusing</div>
 
-In 2023, I reframed my scrolling habit. Instead of "I am giving up social media," I said "I am reclaiming 3 hours per day." Instead of "I am missing out," I said "I am getting my life back."
+<div data-i18n-html="article_casser-mauvaise-habitude_p18">In 2023, I reframed my scrolling habit. Instead of "I am giving up social media," I said "I am reclaiming 3 hours per day." Instead of "I am missing out," I said "I am getting my life back."</div>
 
-The narrative changed. The desire faded.
+<div data-i18n-html="article_casser-mauvaise-habitude_p19">The narrative changed. The desire faded.</div>
 
-Change the narrative, and the desire fades.
+<div data-i18n-html="article_casser-mauvaise-habitude_p20">Change the narrative, and the desire fades.</div>
 
-### Law 3: Make It Difficult
+<div data-i18n-html="article_casser-mauvaise-habitude_p21"><h3>Law 3: Make It Difficult</h3></div>
 
-Increase the friction between you and the habit. Add as many steps as possible between you and the behavior.
+<div data-i18n-html="article_casser-mauvaise-habitude_p22">Increase the friction between you and the habit. Add as many steps as possible between you and the behavior.</div>
 
-- Want to stop watching TV? Unplug it and put the remote in another room
+<div data-i18n-html="article_casser-mauvaise-habitude_p23">- Want to stop watching TV? Unplug it and put the remote in another room
 - Want to stop eating junk? Do not keep it in the house. If you want it, you have to drive to the store
-- Want to stop scrolling? Log out of every account. Delete the apps. Make it so hard to access that you give up
+- Want to stop scrolling? Log out of every account. Delete the apps. Make it so hard to access that you give up</div>
 
-In 2023, I made scrolling difficult. I deleted the apps. I moved the charger to the kitchen. I turned off notifications. If I wanted to scroll, I had to log in on my laptop. The laptop was in my office. The office was closed after 8 PM.
+<div data-i18n-html="article_casser-mauvaise-habitude_p24">In 2023, I made scrolling difficult. I deleted the apps. I moved the charger to the kitchen. I turned off notifications. If I wanted to scroll, I had to log in on my laptop. The laptop was in my office. The office was closed after 8 PM.</div>
 
-The friction was enough. The habit died.
+<div data-i18n-html="article_casser-mauvaise-habitude_p25">The friction was enough. The habit died.</div>
 
-The more effort required, the less likely the behavior.
+<div data-i18n-html="article_casser-mauvaise-habitude_p26">The more effort required, the less likely the behavior.</div>
 
-### Law 4: Make It Unsatisfying
+<div data-i18n-html="article_casser-mauvaise-habitude_p27"><h3>Law 4: Make It Unsatisfying</h3></div>
 
-The final step is to add a negative consequence. Every time you engage in the habit, something unpleasant happens.
+<div data-i18n-html="article_casser-mauvaise-habitude_p28">The final step is to add a negative consequence. Every time you engage in the habit, something unpleasant happens.</div>
 
-- **Public accountability.** Tell someone you trust: "I am breaking this habit. If you catch me, call me out."
-- **Penalty system.** Put $50 in a jar. Every time you engage in the habit, donate $50 to a cause you hate.
-- **Loss aversion.** Track the habit on a calendar. Every day you engage, mark it. The chain of marks becomes a visual representation of failure.
+<div data-i18n-html="article_casser-mauvaise-habitude_p29">- <strong>Public accountability.</strong> Tell someone you trust: "I am breaking this habit. If you catch me, call me out."
+- <strong>Penalty system.</strong> Put $50 in a jar. Every time you engage in the habit, donate $50 to a cause you hate.
+- <strong>Loss aversion.</strong> Track the habit on a calendar. Every day you engage, mark it. The chain of marks becomes a visual representation of failure.</div>
 
-In 2023, I used public accountability. I told my wife: "If you catch me scrolling at night, tell me to stop." She did. Once. I was embarrassed. The habit stopped.
+<div data-i18n-html="article_casser-mauvaise-habitude_p30">In 2023, I used public accountability. I told my wife: "If you catch me scrolling at night, tell me to stop." She did. Once. I was embarrassed. The habit stopped.</div>
 
-The negative consequence does not have to be big. It just has to be real. The brain is wired to avoid loss. Use that wiring.
+<div data-i18n-html="article_casser-mauvaise-habitude_p31">The negative consequence does not have to be big. It just has to be real. The brain is wired to avoid loss. Use that wiring.</div>
 
-## My 30-Day Protocol for Breaking a Bad Habit
+<div data-i18n-html="article_casser-mauvaise-habitude_p32"><h2>My 30-Day Protocol for Breaking a Bad Habit</h2></div>
 
-Here is the exact system I used to break my scrolling habit in 2023:
+<div data-i18n-html="article_casser-mauvaise-habitude_p33">Here is the exact system I used to break my scrolling habit in 2023:</div>
 
-**Week 1: Make it invisible**
+<div data-i18n-html="article_casser-mauvaise-habitude_p34"><strong>Week 1: Make it invisible</strong>
 - Delete all social media apps from your phone
 - Turn off all notifications except phone calls
 - Move your phone charger to another room
-- Track every craving. Write it down. The craving will pass in 5 minutes.
+- Track every craving. Write it down. The craving will pass in 5 minutes.</div>
 
-**Week 2: Make it unattractive**
+<div data-i18n-html="article_casser-mauvaise-habitude_p35"><strong>Week 2: Make it unattractive</strong>
 - Reframe the habit in your mind. "I am not giving up scrolling. I am reclaiming 3 hours per day."
 - Write down the cost of the habit. "I spent 90 hours scrolling last month. That is 2.25 full work weeks."
-- Write down the benefit of quitting. "I will read 10 books this year. I will write my book. I will be more present with my family."
+- Write down the benefit of quitting. "I will read 10 books this year. I will write my book. I will be more present with my family."</div>
 
-**Week 3: Make it difficult**
+<div data-i18n-html="article_casser-mauvaise-habitude_p36"><strong>Week 3: Make it difficult</strong>
 - Add friction. Log out of every account. Delete the apps. Make it so hard to access that you give up.
-- Replace the habit. Every time you crave scrolling, do 2 minutes of the opposite: read one page, write one sentence, do 2 push-ups.
+- Replace the habit. Every time you crave scrolling, do 2 minutes of the opposite: read one page, write one sentence, do 2 push-ups.</div>
 
-**Week 4: Make it unsatisfying**
+<div data-i18n-html="article_casser-mauvaise-habitude_p37"><strong>Week 4: Make it unsatisfying</strong>
 - Add a negative consequence. Tell someone you trust. Ask them to call you out.
-- Track the habit on a calendar. Every day you engage, mark it. The chain of marks becomes a visual representation of failure.
+- Track the habit on a calendar. Every day you engage, mark it. The chain of marks becomes a visual representation of failure.</div>
 
-## What I Got Wrong (And How I Fixed It)
+<div data-i18n-html="article_casser-mauvaise-habitude_p38"><h2>What I Got Wrong (And How I Fixed It)</h2></div>
 
-I made three big mistakes:
+<div data-i18n-html="article_casser-mauvaise-habitude_p39">I made three big mistakes:</div>
 
-**Mistake 1: Relying on willpower**
-I tried to stop scrolling by "being disciplined." Willpower is finite. The habit always came back. The fix: remove the trigger. No trigger, no habit.
+<div data-i18n-html="article_casser-mauvaise-habitude_p40"><strong>Mistake 1: Relying on willpower</strong>
+I tried to stop scrolling by "being disciplined." Willpower is finite. The habit always came back. The fix: remove the trigger. No trigger, no habit.</div>
 
-**Mistake 2: Not addressing the underlying need**
-I was scrolling because I was bored. When I removed scrolling, the boredom was still there. The fix: replace the habit. Instead of scrolling, I read. Instead of scrolling, I wrote. The boredom was still there, but the behavior changed.
+<div data-i18n-html="article_casser-mauvaise-habitude_p41"><strong>Mistake 2: Not addressing the underlying need</strong>
+I was scrolling because I was bored. When I removed scrolling, the boredom was still there. The fix: replace the habit. Instead of scrolling, I read. Instead of scrolling, I wrote. The boredom was still there, but the behavior changed.</div>
 
-**Mistake 3: Not making it unsatisfying**
-I tried to stop scrolling without any negative consequence. There was no cost. The habit came back. The fix: public accountability. My wife called me out once. That was enough.
+<div data-i18n-html="article_casser-mauvaise-habitude_p42"><strong>Mistake 3: Not making it unsatisfying</strong>
+I tried to stop scrolling without any negative consequence. There was no cost. The habit came back. The fix: public accountability. My wife called me out once. That was enough.</div>
 
-## The Relationship Between Breaking Habits and Identity
+<div data-i18n-html="article_casser-mauvaise-habitude_p43"><h2>The Relationship Between Breaking Habits and Identity</h2></div>
 
-The deepest part of the system is the identity statement. Without it, breaking a habit is a battle. With it, breaking a habit is a natural consequence.
+<div data-i18n-html="article_casser-mauvaise-habitude_p44">The deepest part of the system is the identity statement. Without it, breaking a habit is a battle. With it, breaking a habit is a natural consequence.</div>
 
-"I am a person who reads" is the destination. The reverse four laws are the votes. The 2-day rule is the protection of the vote. The identity statement is what makes the vote meaningful.
+<div data-i18n-html="article_casser-mauvaise-habitude_p45">"I am a person who reads" is the destination. The reverse four laws are the votes. The 2-day rule is the protection of the vote. The identity statement is what makes the vote meaningful.</div>
 
-When the system is working, the identity statement becomes more true over time. The statement is no longer aspirational. It is descriptive. You are a person who reads. You are a person who writes. You are a person who does not scroll. The votes have made it so.
+<div data-i18n-html="article_casser-mauvaise-habitude_p46">When the system is working, the identity statement becomes more true over time. The statement is no longer aspirational. It is descriptive. You are a person who reads. You are a person who writes. You are a person who does not scroll. The votes have made it so.</div>
 
-When the system is not working, the identity statement remains aspirational. You say "I am a person who reads" but you have not read a book in three months. The statement is a wish, not a fact. The votes have not been cast.
+<div data-i18n-html="article_casser-mauvaise-habitude_p47">When the system is not working, the identity statement remains aspirational. You say "I am a person who reads" but you have not read a book in three months. The statement is a wish, not a fact. The votes have not been cast.</div>
 
-Breaking a bad habit is what makes the votes possible. Without breaking the habit, the votes are scattered. With breaking the habit, the votes accumulate.
+<div data-i18n-html="article_casser-mauvaise-habitude_p48">Breaking a bad habit is what makes the votes possible. Without breaking the habit, the votes are scattered. With breaking the habit, the votes accumulate.</div>
 
-## A Simple Test for Your Week
+<div data-i18n-html="article_casser-mauvaise-habitude_p49"><h2>A Simple Test for Your Week</h2></div>
 
-If you want to test this for yourself, here is the protocol:
+<div data-i18n-html="article_casser-mauvaise-habitude_p50">If you want to test this for yourself, here is the protocol:</div>
 
-1. **Pick one bad habit.** scrolling, smoking, junk food, procrastination.
-2. **Week 1:** Make it invisible. Remove the trigger.
-3. **Week 2:** Make it unattractive. Reframe the narrative.
-4. **Week 3:** Make it difficult. Add friction.
-5. **Week 4:** Make it unsatisfying. Add a negative consequence.
+<div data-i18n-html="article_casser-mauvaise-habitude_p51">1. <strong>Pick one bad habit.</strong> scrolling, smoking, junk food, procrastination.
+2. <strong>Week 1:</strong> Make it invisible. Remove the trigger.
+3. <strong>Week 2:</strong> Make it unattractive. Reframe the narrative.
+4. <strong>Week 3:</strong> Make it difficult. Add friction.
+5. <strong>Week 4:</strong> Make it unsatisfying. Add a negative consequence.</div>
 
-Most people who try this for 30 days report:
+<div data-i18n-html="article_casser-mauvaise-habitude_p52">Most people who try this for 30 days report:
 - The habit is reduced by 80% or more
 - More time for important things
 - More energy and focus
-- Better mood and sleep
+- Better mood and sleep</div>
 
-The data will convince you faster than any self-help book.
+<div data-i18n-html="article_casser-mauvaise-habitude_p53">The data will convince you faster than any self-help book.</div>
 
----
+<div data-i18n-html="article_casser-mauvaise-habitude_p54">---</div>
 
-## The Honest Summary
+<div data-i18n-html="article_casser-mauvaise-habitude_p55"><h2>The Honest Summary</h2></div>
 
-I broke my scrolling habit in 2023 using the reverse four laws. I went from 3 hours per day to 0. I reclaimed 90 hours per month. I wrote my book. I read 12 books. I was more present with my family.
+<div data-i18n-html="article_casser-mauvaise-habitude_p56">I broke my scrolling habit in 2023 using the reverse four laws. I went from 3 hours per day to 0. I reclaimed 90 hours per month. I wrote my book. I read 12 books. I was more present with my family.</div>
 
-The reverse four laws work because they remove the need for willpower. You do not have to be disciplined. You have to be strategic.
+<div data-i18n-html="article_casser-mauvaise-habitude_p57">The reverse four laws work because they remove the need for willpower. You do not have to be disciplined. You have to be strategic.</div>
 
-If you try nothing else from any self-help book or blog or course, try this: pick one bad habit. Make it invisible. Make it unattractive. Make it difficult. Make it unsatisfying.
+<div data-i18n-html="article_casser-mauvaise-habitude_p58">If you try nothing else from any self-help book or blog or course, try this: pick one bad habit. Make it invisible. Make it unattractive. Make it difficult. Make it unsatisfying.</div>
 
-It will not make you perfect. It will not change your life in a week.
+<div data-i18n-html="article_casser-mauvaise-habitude_p59">It will not make you perfect. It will not change your life in a week.</div>
 
-But it will give you back your time. And that, I think, is worth something.
+<div data-i18n-html="article_casser-mauvaise-habitude_p60">But it will give you back your time. And that, I think, is worth something.</div>
 
----
+<div data-i18n-html="article_casser-mauvaise-habitude_p61">---</div>
 
-*Youssef Raihane broke his 3-hour-per-day scrolling habit in 2023 using the reverse four laws. He now spends that time writing, reading, and being present with his family.*
+<div data-i18n-html="article_casser-mauvaise-habitude_p62"><em>Youssef Raihane broke his 3-hour-per-day scrolling habit in 2023 using the reverse four laws. He now spends that time writing, reading, and being present with his family.</em></div>
 
-## Sources
+<div data-i18n-html="article_casser-mauvaise-habitude_p63"><h2>Sources</h2></div>
 
-1. *Clear, J.* (2018). *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.* — for the four laws and their inversion
-2. *Fogg, B. J.* (2019). *Tiny Habits: The Small Changes That Change Everything.* — for the trigger-habit-reward framework
-3. *Duhigg, C.* (2012). *The Power of Habit: Why We Do What We Do in Life and Business.* — for the habit loop and how to break it
+<div data-i18n-html="article_casser-mauvaise-habitude_p64">1. <em>Clear, J.</em> (2018). <em>Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.</em> — for the four laws and their inversion
+2. <em>Fogg, B. J.</em> (2019). <em>Tiny Habits: The Small Changes That Change Everything.</em> — for the trigger-habit-reward framework
+3. <em>Duhigg, C.</em> (2012). <em>The Power of Habit: Why We Do What We Do in Life and Business.</em> — for the habit loop and how to break it</div>
 
----
+<div data-i18n-html="article_casser-mauvaise-habitude_p65">---</div>
 
-**Breaking a bad habit is easier when you stop fighting it and start designing against it.** To see how the reverse four laws fit into the larger system of identity and habits, read our [complete 2-Minute Rule guide](/journal/two-minute-rule-system/) — the same architecture, applied to breaking bad habits instead of building good ones.
+<div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start designing against it.</strong> To see how the reverse four laws fit into the larger system of identity and habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to breaking bad habits instead of building good ones.</div>
 
-*Last updated: September 12, 2026 — added personal 30-day scrolling habit break, the reverse four laws protocol, and the identity-based framework for breaking habits.*
+<div data-i18n-html="article_casser-mauvaise-habitude_p67"><em>Last updated: September 12, 2026 — added personal 30-day scrolling habit break, the reverse four laws protocol, and the identity-based framework for breaking habits.</em></div>

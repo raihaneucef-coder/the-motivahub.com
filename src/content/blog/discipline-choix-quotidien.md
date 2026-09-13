@@ -37,83 +37,82 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_discipline-choix-quotidien_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_discipline-choix-quotidien_p2"><strong>Discipline Is a Choice You Make Every Single Day</strong> — practical guide based on real experiments. Discipline Is a Choice You Make Every Single Day works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Discipline Is a Choice You Make Every Single Day** — practical guide based on real experiments. Discipline Is a Choice You Make Every Single Day works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_discipline-choix-quotidien_p3"><h1>Discipline Is a Choice You Make Every Single Day</h1>
+Every morning, you face the same choice: comfort or discipline. The alarm goes off — do you get up or hit snooze? The workout awaits — do you show up or stay in bed? The work is waiting — do you start or scroll?</div>
 
-# Discipline Is a Choice You Make Every Single Day
-Every morning, you face the same choice: comfort or discipline. The alarm goes off — do you get up or hit snooze? The workout awaits — do you show up or stay in bed? The work is waiting — do you start or scroll?
+<div data-i18n-html="article_discipline-choix-quotidien_p4">Discipline is not a personality trait. It is not something you are born with or without. It is a <strong>choice</strong> — and you make it every single day.</div>
 
-Discipline is not a personality trait. It is not something you are born with or without. It is a **choice** — and you make it every single day.
+<div data-i18n-html="article_discipline-choix-quotidien_p5"><h2>The Myth of the Disciplined Person</h2></div>
 
-## The Myth of the Disciplined Person
+<div data-i18n-html="article_discipline-choix-quotidien_p6">We imagine that disciplined people wake up excited to do hard work. They do not. They wake up tired, unmotivated, and tempted to quit — just like everyone else.</div>
 
-We imagine that disciplined people wake up excited to do hard work. They do not. They wake up tired, unmotivated, and tempted to quit — just like everyone else.
+<div data-i18n-html="article_discipline-choix-quotidien_p7">The difference is not how they feel. The difference is what they do despite how they feel.</div>
 
-The difference is not how they feel. The difference is what they do despite how they feel.
+<div data-i18n-html="article_discipline-choix-quotidien_p8">Disciplined people have bad days. They feel lazy. They feel unmotivated. But they show up anyway. Not because they want to — but because they decided that the outcome matters more than the feeling.</div>
 
-Disciplined people have bad days. They feel lazy. They feel unmotivated. But they show up anyway. Not because they want to — but because they decided that the outcome matters more than the feeling.
+<div data-i18n-html="article_discipline-choix-quotidien_p9"><h2>The Cost of Comfort</h2></div>
 
-## The Cost of Comfort
+<div data-i18n-html="article_discipline-choix-quotidien_p10">Comfort is the default. It is easy, familiar, and immediately satisfying. But comfort has a cost — and that cost is paid in the future.</div>
 
-Comfort is the default. It is easy, familiar, and immediately satisfying. But comfort has a cost — and that cost is paid in the future.
-
-- Comfort today means struggle tomorrow
+<div data-i18n-html="article_discipline-choix-quotidien_p11">- Comfort today means struggle tomorrow
 - Comfort now means regret later
-- Comfort always means mediocrity eventually
+- Comfort always means mediocrity eventually</div>
 
-The discipline you avoid today is the freedom you will miss tomorrow.
+<div data-i18n-html="article_discipline-choix-quotidien_p12">The discipline you avoid today is the freedom you will miss tomorrow.</div>
 
-## How to Choose Discipline Daily
+<div data-i18n-html="article_discipline-choix-quotidien_p13"><h2>How to Choose Discipline Daily</h2></div>
 
-### 1. Have a Non-Negotiable Standard
+<div data-i18n-html="article_discipline-choix-quotidien_p14"><h3>1. Have a Non-Negotiable Standard</h3></div>
 
-Choose one thing you will do every day, no matter what. Not five things. One.
+<div data-i18n-html="article_discipline-choix-quotidien_p15">Choose one thing you will do every day, no matter what. Not five things. One.</div>
 
-- Write 500 words
+<div data-i18n-html="article_discipline-choix-quotidien_p16">- Write 500 words
 - Exercise for 20 minutes
-- Read for 15 minutes
+- Read for 15 minutes</div>
 
-The standard must be small enough that you cannot reasonably say no, but meaningful enough that it moves you forward.
+<div data-i18n-html="article_discipline-choix-quotidien_p17">The standard must be small enough that you cannot reasonably say no, but meaningful enough that it moves you forward.</div>
 
-### 2. Remove the Choice
+<div data-i18n-html="article_discipline-choix-quotidien_p18"><h3>2. Remove the Choice</h3></div>
 
-The best way to choose discipline is to remove the choice entirely.
+<div data-i18n-html="article_discipline-choix-quotidien_p19">The best way to choose discipline is to remove the choice entirely.</div>
 
-- Set your alarm and do not negotiate with it
+<div data-i18n-html="article_discipline-choix-quotidien_p20">- Set your alarm and do not negotiate with it
 - Lay out your gym clothes the night before
-- Pre-prepare your workspace so the only option is to work
+- Pre-prepare your workspace so the only option is to work</div>
 
-When the choice is removed, discipline becomes automatic.
+<div data-i18n-html="article_discipline-choix-quotidien_p21">When the choice is removed, discipline becomes automatic.</div>
 
-### 3. Track Your Consistency
+<div data-i18n-html="article_discipline-choix-quotidien_p22"><h3>3. Track Your Consistency</h3></div>
 
-What gets measured gets managed. When you track your discipline, you see the pattern. And once you see the pattern, you do not want to break it.
+<div data-i18n-html="article_discipline-choix-quotidien_p23">What gets measured gets managed. When you track your discipline, you see the pattern. And once you see the pattern, you do not want to break it.</div>
 
-Use our [Habit Tracker](/tracker/) to mark every day you keep your standard. The visual proof of discipline is addictive.
+<div data-i18n-html="article_discipline-choix-quotidien_p24">Use our <a href="/tracker/">Habit Tracker</a> to mark every day you keep your standard. The visual proof of discipline is addictive.</div>
 
-### 4. Forgive Yourself Fast
+<div data-i18n-html="article_discipline-choix-quotidien_p25"><h3>4. Forgive Yourself Fast</h3></div>
 
-You will have days when you fail. The key is not to let one failure become two. When you miss a day, do not spiral. Just start again the next day.
+<div data-i18n-html="article_discipline-choix-quotidien_p26">You will have days when you fail. The key is not to let one failure become two. When you miss a day, do not spiral. Just start again the next day.</div>
 
-One missed day is a mistake. Two missed days is a new habit. Do not let a mistake become a habit.
+<div data-i18n-html="article_discipline-choix-quotidien_p27">One missed day is a mistake. Two missed days is a new habit. Do not let a mistake become a habit.</div>
 
-### 5. Remember Why
+<div data-i18n-html="article_discipline-choix-quotidien_p28"><h3>5. Remember Why</h3></div>
 
-Discipline is easier when the purpose is clear. Why do you want to be disciplined? What is the outcome you are working toward?
+<div data-i18n-html="article_discipline-choix-quotidien_p29">Discipline is easier when the purpose is clear. Why do you want to be disciplined? What is the outcome you are working toward?</div>
 
-Write your reason somewhere you will see it every morning. When the temptation to quit arises, the reason will pull you back.
+<div data-i18n-html="article_discipline-choix-quotidien_p30">Write your reason somewhere you will see it every morning. When the temptation to quit arises, the reason will pull you back.</div>
 
-## The Freedom of Discipline
+<div data-i18n-html="article_discipline-choix-quotidien_p31"><h2>The Freedom of Discipline</h2></div>
 
-Paradoxically, discipline creates freedom. When you are disciplined with your time, you have more of it. When you are disciplined with your money, you have more of it. When you are disciplined with your health, you have more energy.
+<div data-i18n-html="article_discipline-choix-quotidien_p32">Paradoxically, discipline creates freedom. When you are disciplined with your time, you have more of it. When you are disciplined with your money, you have more of it. When you are disciplined with your health, you have more energy.</div>
 
-Discipline is not a cage. It is the key to the cage you are already in.
+<div data-i18n-html="article_discipline-choix-quotidien_p33">Discipline is not a cage. It is the key to the cage you are already in.</div>
 
-> *Discipline is choosing between what you want now and what you want most.*
+<div data-i18n-html="article_discipline-choix-quotidien_p34"><blockquote><em>Discipline is choosing between what you want now and what you want most.</em></blockquote></div>
 
-faq:
+<div data-i18n-html="article_discipline-choix-quotidien_p35">faq:
   - q: "What is the difference between discipline and motivation?"
     a: "Motivation is a feeling that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
   - q: "How do I build discipline when I have no motivation?"
@@ -122,6 +121,6 @@ faq:
     a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
   - q: "How long does it take to build discipline?"
     a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
----
+---</div>
 
-**Choose discipline today.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 daily choices to practice. Track your choices with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_discipline-choix-quotidien_p36"><strong>Choose discipline today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 daily choices to practice. Track your choices with our <a href="/tracker/">Habit Tracker</a>.</div>

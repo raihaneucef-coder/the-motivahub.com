@@ -39,22 +39,21 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_price-of-freedom_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_price-of-freedom_p2"><strong>The Price of Freedom Is Paid Daily</strong> — practical guide based on real experiments. The Price of Freedom Is Paid Daily works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Price of Freedom Is Paid Daily** — practical guide based on real experiments. The Price of Freedom Is Paid Daily works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_price-of-freedom_p3"><h1>The Price of Freedom Is Paid Daily</h1>
+We imagine freedom as a finish line — a number that, once reached, will finally let us breathe.</div>
 
-# The Price of Freedom Is Paid Daily
-We imagine freedom as a finish line — a number that, once reached, will finally let us breathe.
+<div data-i18n-html="article_price-of-freedom_p4">It is a comforting story. It is also false.</div>
 
-It is a comforting story. It is also false.
+<div data-i18n-html="article_price-of-freedom_p5"><strong>Freedom is not purchased once; it is rented every day.</strong> The rent is not dramatic. It is a series of small, boring payments made when no one is watching: the budget checked, the impulse delayed, the investment left alone.</div>
 
-**Freedom is not purchased once; it is rented every day.** The rent is not dramatic. It is a series of small, boring payments made when no one is watching: the budget checked, the impulse delayed, the investment left alone.
+<div data-i18n-html="article_price-of-freedom_p6">Skip the payments and freedom quietly moves out. Not with a dramatic eviction, but with small leaks — subscriptions you forgot, dinners that soothed a hard day, a sale you did not need. Each is small. Together they are the reason the month feels shorter than your will.</div>
 
-Skip the payments and freedom quietly moves out. Not with a dramatic eviction, but with small leaks — subscriptions you forgot, dinners that soothed a hard day, a sale you did not need. Each is small. Together they are the reason the month feels shorter than your will.
+<div data-i18n-html="article_price-of-freedom_p7">The good news is that rent, once automated, becomes invisible. A transfer on payday hurts once. A habit of cooking three nights a week saves more than any windfall. Saying no to one upgrade funds the next year's freedom more than saying yes to overtime.</div>
 
-The good news is that rent, once automated, becomes invisible. A transfer on payday hurts once. A habit of cooking three nights a week saves more than any windfall. Saying no to one upgrade funds the next year's freedom more than saying yes to overtime.
+<div data-i18n-html="article_price-of-freedom_p8">Try this for thirty days. On payday, pay freedom first — a fixed amount moved before you see it. Then live on what remains. You will spend less not because you are disciplined, but because you have removed the choice that requires discipline.</div>
 
-Try this for thirty days. On payday, pay freedom first — a fixed amount moved before you see it. Then live on what remains. You will spend less not because you are disciplined, but because you have removed the choice that requires discipline.
-
-Freedom does not arrive with a celebration. It arrives quietly, on a Tuesday, when you realize you could walk away and choose to stay — because you built the choice, one daily payment at a time.
+<div data-i18n-html="article_price-of-freedom_p9">Freedom does not arrive with a celebration. It arrives quietly, on a Tuesday, when you realize you could walk away and choose to stay — because you built the choice, one daily payment at a time.</div>

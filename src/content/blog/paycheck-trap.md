@@ -39,20 +39,19 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_paycheck-trap_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_paycheck-trap_p2"><strong>The Paycheck Trap: Why Earning More Isn't Enough</strong> — practical guide based on real experiments. The Paycheck Trap: Why Earning More Isn't Enough works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Paycheck Trap: Why Earning More Isn't Enough** — practical guide based on real experiments. The Paycheck Trap: Why Earning More Isn't Enough works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_paycheck-trap_p3"><h1>The Paycheck Trap: Why Earning More Isn't Enough</h1>
+Every raise comes with a silent partner: lifestyle inflation.</div>
 
-# The Paycheck Trap: Why Earning More Isn't Enough
-Every raise comes with a silent partner: lifestyle inflation.
+<div data-i18n-html="article_paycheck-trap_p4">You earn more, so you spend a little more to feel it — a better apartment, a newer phone, dinners that used to be for birthdays. Six months later the raise has disappeared, but the new baseline stayed.</div>
 
-You earn more, so you spend a little more to feel it — a better apartment, a newer phone, dinners that used to be for birthdays. Six months later the raise has disappeared, but the new baseline stayed.
+<div data-i18n-html="article_paycheck-trap_p5"><strong>Earning more without a system to keep more is just running faster on the same treadmill.</strong></div>
 
-**Earning more without a system to keep more is just running faster on the same treadmill.**
+<div data-i18n-html="article_paycheck-trap_p6">The fix is not willpower; it is a rule you set before the money arrives. When income rises, decide in advance where the extra goes: half to freedom (savings, investments), a quarter to joy (something you truly value), a quarter to buffer (emergencies). Write it when you are calm, so you do not decide when you are excited.</div>
 
-The fix is not willpower; it is a rule you set before the money arrives. When income rises, decide in advance where the extra goes: half to freedom (savings, investments), a quarter to joy (something you truly value), a quarter to buffer (emergencies). Write it when you are calm, so you do not decide when you are excited.
+<div data-i18n-html="article_paycheck-trap_p7">Try this with your next inflow, however small — a bonus, a side project, even a refund. Before it lands, assign it. What is not assigned will be absorbed. What is assigned will compound.</div>
 
-Try this with your next inflow, however small — a bonus, a side project, even a refund. Before it lands, assign it. What is not assigned will be absorbed. What is assigned will compound.
-
-The paycheck is not the prize. What you keep after it is.
+<div data-i18n-html="article_paycheck-trap_p8">The paycheck is not the prize. What you keep after it is.</div>

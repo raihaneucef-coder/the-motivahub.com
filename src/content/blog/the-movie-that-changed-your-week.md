@@ -39,26 +39,25 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_the-movie-that-changed-your-week_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_the-movie-that-changed-your-week_p2"><strong>The Movie That Changed Your Week</strong> — practical guide based on real experiments. The Movie That Changed Your Week works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Movie That Changed Your Week** — practical guide based on real experiments. The Movie That Changed Your Week works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_the-movie-that-changed-your-week_p3"><h1>The Movie That Changed Your Week</h1>
+A bad film wastes two hours. A good film gives you a week.</div>
 
-# The Movie That Changed Your Week
-A bad film wastes two hours. A good film gives you a week.
+<div data-i18n-html="article_the-movie-that-changed-your-week_p4">You walk out and the world looks a little different. A line stays with you. A choice the character made becomes a question you ask yourself.</div>
 
-You walk out and the world looks a little different. A line stays with you. A choice the character made becomes a question you ask yourself.
+<div data-i18n-html="article_the-movie-that-changed-your-week_p5"><strong>Entertainment that profits you is not about escaping life — it is about returning to it with more.</strong></div>
 
-**Entertainment that profits you is not about escaping life — it is about returning to it with more.**
+<div data-i18n-html="article_the-movie-that-changed-your-week_p6">The film that changes your week is rarely the loudest one. It is the one that asks a question you have been avoiding.</div>
 
-The film that changes your week is rarely the loudest one. It is the one that asks a question you have been avoiding.
+<div data-i18n-html="article_the-movie-that-changed-your-week_p7">Choose it on purpose:</div>
 
-Choose it on purpose:
+<div data-i18n-html="article_the-movie-that-changed-your-week_p8">- <strong>Before you press play, ask:</strong> What do I want to feel or learn tonight? Comfort, courage, curiosity?
+- <strong>Watch with one question in mind.</strong> How does this story want me to live tomorrow?
+- <strong>Talk about it after.</strong> One conversation about a film doubles its impact. What did it make you want to do?</div>
 
-- **Before you press play, ask:** What do I want to feel or learn tonight? Comfort, courage, curiosity?
-- **Watch with one question in mind.** How does this story want me to live tomorrow?
-- **Talk about it after.** One conversation about a film doubles its impact. What did it make you want to do?
+<div data-i18n-html="article_the-movie-that-changed-your-week_p9">Entertainment is not wasted time when you choose it to shape you. It is an investment that pays in how you live the next seven days.</div>
 
-Entertainment is not wasted time when you choose it to shape you. It is an investment that pays in how you live the next seven days.
-
-Pick the movie that will change your week. Let it.
+<div data-i18n-html="article_the-movie-that-changed-your-week_p10">Pick the movie that will change your week. Let it.</div>

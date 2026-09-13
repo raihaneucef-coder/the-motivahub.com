@@ -39,34 +39,33 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_proof-over-noise_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_proof-over-noise_p2"><strong>Proof Over Noise</strong> — practical guide based on real experiments. Proof Over Noise works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Proof Over Noise** — practical guide based on real experiments. Proof Over Noise works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_proof-over-noise_p3"><h1>Proof Over Noise</h1>
+Your attention has a diet, whether you chose it or not.</div>
 
-# Proof Over Noise
-Your attention has a diet, whether you chose it or not.
+<div data-i18n-html="article_proof-over-noise_p4">Every headline, every clip, every outrage served fresh each morning goes somewhere. It becomes the background hum against which you think. Feed a mind a steady stream of disasters and it quietly concludes that the world is a place where nothing can be built. Feed it noise and it forgets what signal ever sounded like.</div>
 
-Every headline, every clip, every outrage served fresh each morning goes somewhere. It becomes the background hum against which you think. Feed a mind a steady stream of disasters and it quietly concludes that the world is a place where nothing can be built. Feed it noise and it forgets what signal ever sounded like.
+<div data-i18n-html="article_proof-over-noise_p5">But there is a third menu, and almost nobody serves it by default: <strong>proof.</strong></div>
 
-But there is a third menu, and almost nobody serves it by default: **proof.**
+<div data-i18n-html="article_proof-over-noise_p6">Evidence that ordinary people — with ordinary mornings, ordinary doubts, and no special genetics — have walked the exact road you are standing at the start of. The student who failed twice and passed on the third attempt with distinction. The runner who began at forty with knees that complained. The founder who ate the same cheap meal for a year so the dream could eat first.</div>
 
-Evidence that ordinary people — with ordinary mornings, ordinary doubts, and no special genetics — have walked the exact road you are standing at the start of. The student who failed twice and passed on the third attempt with distinction. The runner who began at forty with knees that complained. The founder who ate the same cheap meal for a year so the dream could eat first.
+<div data-i18n-html="article_proof-over-noise_p7"><strong>This is not positive thinking. This is data.</strong></div>
 
-**This is not positive thinking. This is data.**
+<div data-i18n-html="article_proof-over-noise_p8">Motivation built on quotes evaporates by lunchtime. Motivation built on <em>documented human behavior</em> holds weight, because it answers the question every doubting mind asks: <em>"Has anyone like me actually done this?"</em> The answer, reliably, is yes — thousands of times, most of them less talented than your fear claims you need to be.</div>
 
-Motivation built on quotes evaporates by lunchtime. Motivation built on *documented human behavior* holds weight, because it answers the question every doubting mind asks: *"Has anyone like me actually done this?"* The answer, reliably, is yes — thousands of times, most of them less talented than your fear claims you need to be.
+<div data-i18n-html="article_proof-over-noise_p9">So curate like it matters, because it does:</div>
 
-So curate like it matters, because it does:
+<div data-i18n-html="article_proof-over-noise_p10">- <strong>Trade one doom-scroll for one story-scroll.</strong> Same gesture, opposite effect: find one account, one newsletter, one page that documents people building rather than burning.
+- <strong>Follow finishers, not announcers.</strong> People who show the middle of the process — the boring, unglamorous middle — teach more than those who only announce launches.
+- <strong>Collect proof in your own category.</strong> Aspiring to write? Read about writers' routines, not their fame. Building a body? Study transformations that started where yours starts.
+- <strong>Keep a private file of evidence.</strong> When you meet resilience — a friend's recovery, a stranger's comeback — save it. That file becomes ammunition for the bad weeks.
+- <strong>Tell the stories forward.</strong> Retell the rise, not just the scandal. What we repeat is what our circles come to expect of themselves.</div>
 
-- **Trade one doom-scroll for one story-scroll.** Same gesture, opposite effect: find one account, one newsletter, one page that documents people building rather than burning.
-- **Follow finishers, not announcers.** People who show the middle of the process — the boring, unglamorous middle — teach more than those who only announce launches.
-- **Collect proof in your own category.** Aspiring to write? Read about writers' routines, not their fame. Building a body? Study transformations that started where yours starts.
-- **Keep a private file of evidence.** When you meet resilience — a friend's recovery, a stranger's comeback — save it. That file becomes ammunition for the bad weeks.
-- **Tell the stories forward.** Retell the rise, not just the scandal. What we repeat is what our circles come to expect of themselves.
+<div data-i18n-html="article_proof-over-noise_p11">None of this means ignoring reality. Hard news deserves informed citizens. But there is a difference between staying informed and being farmed for outrage — and that difference is a decision about what enters your mind each day.</div>
 
-None of this means ignoring reality. Hard news deserves informed citizens. But there is a difference between staying informed and being farmed for outrage — and that difference is a decision about what enters your mind each day.
+<div data-i18n-html="article_proof-over-noise_p12">The ceiling of your ambition was likely installed by your feed. Raise the feed, and watch what happens to the ceiling.</div>
 
-The ceiling of your ambition was likely installed by your feed. Raise the feed, and watch what happens to the ceiling.
-
-Choose proof over noise. Then go give somebody else something to prove.
+<div data-i18n-html="article_proof-over-noise_p13">Choose proof over noise. Then go give somebody else something to prove.</div>

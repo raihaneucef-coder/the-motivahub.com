@@ -37,46 +37,45 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_consistance-bat-intensite_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_consistance-bat-intensite_p2"><strong>Consistency Beats Intensity: The Athlete's Secret</strong> — practical guide based on real experiments. Consistency Beats Intensity: The Athlete's Secret works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Consistency Beats Intensity: The Athlete's Secret** — practical guide based on real experiments. Consistency Beats Intensity: The Athlete's Secret works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_consistance-bat-intensite_p3"><h1>Consistency Beats Intensity: The Athlete's Secret</h1>
+Every January, gyms are packed. By February, they are empty. The people who show up intensely for a week and then disappear never achieve anything. The people who show up moderately for a year transform everything.</div>
 
-# Consistency Beats Intensity: The Athlete's Secret
-Every January, gyms are packed. By February, they are empty. The people who show up intensely for a week and then disappear never achieve anything. The people who show up moderately for a year transform everything.
+<div data-i18n-html="article_consistance-bat-intensite_p4"><h2>The Math of Consistency</h2></div>
 
-## The Math of Consistency
+<div data-i18n-html="article_consistance-bat-intensite_p5">- Training 1 hour per day for 365 days = 365 hours per year
+- Training 3 hours per day for 30 days then quitting = 90 hours per year</div>
 
-- Training 1 hour per day for 365 days = 365 hours per year
-- Training 3 hours per day for 30 days then quitting = 90 hours per year
+<div data-i18n-html="article_consistance-bat-intensite_p6">The "intense" person trains for one month. The "consistent" person trains for twelve. The result is not even close.</div>
 
-The "intense" person trains for one month. The "consistent" person trains for twelve. The result is not even close.
+<div data-i18n-html="article_consistance-bat-intensite_p7"><h2>Why Consistency Works</h2></div>
 
-## Why Consistency Works
+<div data-i18n-html="article_consistance-bat-intensite_p8"><h3>1. Habit Formation</h3>
+When you do something daily, it becomes automatic. You do not need willpower to show up — it is just what you do.</div>
 
-### 1. Habit Formation
-When you do something daily, it becomes automatic. You do not need willpower to show up — it is just what you do.
+<div data-i18n-html="article_consistance-bat-intensite_p9"><h3>2. Progressive Overload</h3>
+Consistent training allows gradual improvement. Your body adapts, strengthens, and grows — but only if you give it consistent stimulus.</div>
 
-### 2. Progressive Overload
-Consistent training allows gradual improvement. Your body adapts, strengthens, and grows — but only if you give it consistent stimulus.
+<div data-i18n-html="article_consistance-bat-intensite_p10"><h3>3. Skill Development</h3>
+Skills are built through repetition. You cannot master a skill by practicing occasionally. You master it by practicing daily.</div>
 
-### 3. Skill Development
-Skills are built through repetition. You cannot master a skill by practicing occasionally. You master it by practicing daily.
+<div data-i18n-html="article_consistance-bat-intensite_p11"><h3>4. Mental Toughness</h3>
+Showing up on days you do not feel like it builds mental toughness. This toughness transfers to every area of your life.</div>
 
-### 4. Mental Toughness
-Showing up on days you do not feel like it builds mental toughness. This toughness transfers to every area of your life.
+<div data-i18n-html="article_consistance-bat-intensite_p12"><h2>How to Be More Consistent</h2></div>
 
-## How to Be More Consistent
-
-1. Start small — 10 minutes per day is better than 0
+<div data-i18n-html="article_consistance-bat-intensite_p13">1. Start small — 10 minutes per day is better than 0
 2. Attach it to an existing habit — "After breakfast, I exercise"
-3. Track your consistency — use our [Habit Tracker](/tracker/)
+3. Track your consistency — use our <a href="/tracker/">Habit Tracker</a>
 4. Never miss twice — one day off is a break, two days off is a new habit
-5. Focus on the process, not the outcome
+5. Focus on the process, not the outcome</div>
 
-> *It does not matter how slow you go, as long as you do not stop. — Confucius*
+<div data-i18n-html="article_consistance-bat-intensite_p14"><blockquote><em>It does not matter how slow you go, as long as you do not stop. — Confucius</em></blockquote></div>
 
-faq:
+<div data-i18n-html="article_consistance-bat-intensite_p15">faq:
   - q: "What is the most important principle here?"
     a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
   - q: "How do I apply this in my daily life?"
@@ -85,6 +84,6 @@ faq:
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
     a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----
+---</div>
 
-**Be consistent today.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 days of daily practice. Track your streak with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_consistance-bat-intensite_p16"><strong>Be consistent today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of daily practice. Track your streak with our <a href="/tracker/">Habit Tracker</a>.</div>

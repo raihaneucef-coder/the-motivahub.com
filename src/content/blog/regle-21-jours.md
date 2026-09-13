@@ -40,52 +40,51 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-# The 21-Day Myth: How Long It Really Takes to Build a Habit
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_regle-21-jours_p1"><h1>The 21-Day Myth: How Long It Really Takes to Build a Habit</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_regle-21-jours_p2"><strong>Habit formation takes 66 days on average, not 21.</strong> Research from Lally et al. (2009) found a range of 18-254 days depending on habit complexity. The 21-day myth comes from a misapplied observation about amputees adjusting to limb loss. The real timeline is longer, but understanding it helps you stay the course.</div>
 
-**Habit formation takes 66 days on average, not 21.** Research from Lally et al. (2009) found a range of 18-254 days depending on habit complexity. The 21-day myth comes from a misapplied observation about amputees adjusting to limb loss. The real timeline is longer, but understanding it helps you stay the course.
+<div data-i18n-html="article_regle-21-jours_p3">You have heard it before: "It takes 21 days to form a habit." It sounds scientific. It sounds precise. And it is wrong.</div>
 
-You have heard it before: "It takes 21 days to form a habit." It sounds scientific. It sounds precise. And it is wrong.
+<div data-i18n-html="article_regle-21-jours_p4">The real number is 66 days — and that is just the average. Some habits take longer. But understanding the real timeline helps you stay the course.</div>
 
-The real number is 66 days — and that is just the average. Some habits take longer. But understanding the real timeline helps you stay the course.
+<div data-i18n-html="article_regle-21-jours_p5"><h2>Where Did the 21-Day Myth Come From?</h2></div>
 
-## Where Did the 21-Day Myth Come From?
+<div data-i18n-html="article_regle-21-jours_p6">The idea came from Dr. Maxwell Maltz, a plastic surgeon in the 1960s. He noticed that amputees took about 21 days to adjust to the loss of a limb. He wrote about this in his book Psycho-Cybernetics.</div>
 
-The idea came from Dr. Maxwell Maltz, a plastic surgeon in the 1960s. He noticed that amputees took about 21 days to adjust to the loss of a limb. He wrote about this in his book Psycho-Cybernetics.
+<div data-i18n-html="article_regle-21-jours_p7">Somehow, this observation about adjusting to amputations became a rule about habit formation. The original context was lost, and the myth was born.</div>
 
-Somehow, this observation about adjusting to amputations became a rule about habit formation. The original context was lost, and the myth was born.
+<div data-i18n-html="article_regle-21-jours_p8"><h2>What the Research Actually Says</h2></div>
 
-## What the Research Actually Says
-
-A 2009 study at University College London found that the average time to form a habit was **66 days**. But the range was massive:
+<div data-i18n-html="article_regle-21-jours_p9">A 2009 study at University College London found that the average time to form a habit was <strong>66 days</strong>. But the range was massive:
 - Simple habits (like drinking water) took about 18 days
-- Complex habits (like exercise) took about 254 days
+- Complex habits (like exercise) took about 254 days</div>
 
-The truth is that there is no universal timeline. It depends on the complexity of the habit and the person doing it.
+<div data-i18n-html="article_regle-21-jours_p10">The truth is that there is no universal timeline. It depends on the complexity of the habit and the person doing it.</div>
 
-## What This Means for You
+<div data-i18n-html="article_regle-21-jours_p11"><h2>What This Means for You</h2></div>
 
-### 1. Do Not Count Days
-If you are counting down to day 21, you are missing the point. Habits are not about reaching a finish line. They are about building a lifestyle.
+<div data-i18n-html="article_regle-21-jours_p12"><h3>1. Do Not Count Days</h3>
+If you are counting down to day 21, you are missing the point. Habits are not about reaching a finish line. They are about building a lifestyle.</div>
 
-### 2. Expect Plateaus
-There will be days when the habit feels automatic. There will be days when it feels hard again. This is normal. The habit is still forming — it just needs more time.
+<div data-i18n-html="article_regle-21-jours_p13"><h3>2. Expect Plateaus</h3>
+There will be days when the habit feels automatic. There will be days when it feels hard again. This is normal. The habit is still forming — it just needs more time.</div>
 
-### 3. Focus on the System, Not the Timeline
-Instead of asking "How long until this is a habit?" ask "Am I following my system today?" The system is what matters. The timeline is irrelevant.
+<div data-i18n-html="article_regle-21-jours_p14"><h3>3. Focus on the System, Not the Timeline</h3>
+Instead of asking "How long until this is a habit?" ask "Am I following my system today?" The system is what matters. The timeline is irrelevant.</div>
 
-### 4. Never Miss Twice
-The most important rule is simple: never miss twice. One missed day is a accident. Two missed days is the start of a new habit — the habit of quitting.
+<div data-i18n-html="article_regle-21-jours_p15"><h3>4. Never Miss Twice</h3>
+The most important rule is simple: never miss twice. One missed day is a accident. Two missed days is the start of a new habit — the habit of quitting.</div>
 
-## The Real Secret
+<div data-i18n-html="article_regle-21-jours_p16"><h2>The Real Secret</h2></div>
 
-The real secret is not a number of days. It is **consistency without end**. Habits do not have an expiration date. You do not stop exercising after 66 days. You do not stop reading after 66 days. You do it forever.
+<div data-i18n-html="article_regle-21-jours_p17">The real secret is not a number of days. It is <strong>consistency without end</strong>. Habits do not have an expiration date. You do not stop exercising after 66 days. You do not stop reading after 66 days. You do it forever.</div>
 
-The habit is not something you do for a period of time. It is something you do for life.
+<div data-i18n-html="article_regle-21-jours_p18">The habit is not something you do for a period of time. It is something you do for life.</div>
 
-> *The habit is not the destination. The habit is the journey. And the journey never ends.*
+<div data-i18n-html="article_regle-21-jours_p19"><blockquote><em>The habit is not the destination. The habit is the journey. And the journey never ends.</em></blockquote></div>
 
----
+<div data-i18n-html="article_regle-21-jours_p20">---</div>
 
-**Build habits that last.** Our [30 Days of Discipline](/30-days-discipline/) gives you 30 days of practice. But the goal is not 30 days — it is a lifetime of discipline. Track your journey with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_regle-21-jours_p21"><strong>Build habits that last.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of practice. But the goal is not 30 days — it is a lifetime of discipline. Track your journey with our <a href="/tracker/">Habit Tracker</a>.</div>

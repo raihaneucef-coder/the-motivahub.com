@@ -37,41 +37,40 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_mythe-reussite-instantanee_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_mythe-reussite-instantanee_p2"><strong>The Overnight Success Myth: Why It Takes Years to Succeed</strong> — practical guide based on real experiments. The Overnight Success Myth: Why It Takes Years to Succeed works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Overnight Success Myth: Why It Takes Years to Succeed** — practical guide based on real experiments. The Overnight Success Myth: Why It Takes Years to Succeed works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_mythe-reussite-instantanee_p3"><h1>The Overnight Success Myth: Why It Takes Years to Succeed</h1>
+We hear stories about people who "made it overnight." The reality? There is no such thing. Behind every overnight success are years of invisible work, failures, and persistence.</div>
 
-# The Overnight Success Myth: Why It Takes Years to Succeed
-We hear stories about people who "made it overnight." The reality? There is no such thing. Behind every overnight success are years of invisible work, failures, and persistence.
+<div data-i18n-html="article_mythe-reussite-instantanee_p4"><h2>The Iceberg Illusion</h2></div>
 
-## The Iceberg Illusion
+<div data-i18n-html="article_mythe-reussite-instantanee_p5">What you see: the success, the awards, the recognition, the money.</div>
 
-What you see: the success, the awards, the recognition, the money.
+<div data-i18n-html="article_mythe-reussite-instantanee_p6">What you do not see: the years of practice, the failures, the rejections, the sacrifices, the loneliness.</div>
 
-What you do not see: the years of practice, the failures, the rejections, the sacrifices, the loneliness.
+<div data-i18n-html="article_mythe-reussite-instantanee_p7">Success is like an iceberg — only 10% is visible. The other 90% is underwater.</div>
 
-Success is like an iceberg — only 10% is visible. The other 90% is underwater.
+<div data-i18n-html="article_mythe-reussite-instantanee_p8"><h2>Examples</h2></div>
 
-## Examples
+<div data-i18n-html="article_mythe-reussite-instantanee_p9">- <strong>J.K. Rowling:</strong> Rejected 12 times before Harry Potter was published. She was a single mother on welfare.
+- <strong>Michael Jordan:</strong> Cut from his high school basketball team. He practiced harder than anyone else.
+- <strong>Elon Musk:</strong> First three SpaceX rockets exploded. He almost went bankrupt.
+- <strong>Oprah Winfrey:</strong> Fired from her first television job. Told she was "unfit for TV."</div>
 
-- **J.K. Rowling:** Rejected 12 times before Harry Potter was published. She was a single mother on welfare.
-- **Michael Jordan:** Cut from his high school basketball team. He practiced harder than anyone else.
-- **Elon Musk:** First three SpaceX rockets exploded. He almost went bankrupt.
-- **Oprah Winfrey:** Fired from her first television job. Told she was "unfit for TV."
+<div data-i18n-html="article_mythe-reussite-instantanee_p10">None of these people succeeded overnight. They succeeded because they refused to quit.</div>
 
-None of these people succeeded overnight. They succeeded because they refused to quit.
+<div data-i18n-html="article_mythe-reussite-instantanee_p11"><h2>The Truth About Success</h2></div>
 
-## The Truth About Success
+<div data-i18n-html="article_mythe-reussite-instantanee_p12">1. <strong>It takes time</strong> — years, not months
+2. <strong>It takes failure</strong> — lots of it
+3. <strong>It takes persistence</strong> — continuing when everyone else stops
+4. <strong>It takes patience</strong> — trusting the process even when results are invisible</div>
 
-1. **It takes time** — years, not months
-2. **It takes failure** — lots of it
-3. **It takes persistence** — continuing when everyone else stops
-4. **It takes patience** — trusting the process even when results are invisible
+<div data-i18n-html="article_mythe-reussite-instantanee_p13"><blockquote><em>Success is not final, failure is not fatal: it is the courage to continue that counts. — Winston Churchill</em></blockquote></div>
 
-> *Success is not final, failure is not fatal: it is the courage to continue that counts. — Winston Churchill*
-
-faq:
+<div data-i18n-html="article_mythe-reussite-instantanee_p14">faq:
   - q: "What is the most important principle here?"
     a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
   - q: "How do I apply this in my daily life?"
@@ -80,6 +79,6 @@ faq:
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
     a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----
+---</div>
 
-**Embrace the process today.** Our [30 Days of Discipline](/30-days-discipline/) teaches you to persist through the invisible years. Track your consistency with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_mythe-reussite-instantanee_p15"><strong>Embrace the process today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you to persist through the invisible years. Track your consistency with our <a href="/tracker/">Habit Tracker</a>.</div>

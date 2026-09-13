@@ -37,42 +37,41 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_voyage-sante-mentale_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_voyage-sante-mentale_p2"><strong>Travel and Mental Health: How New Places Heal Your Mind</strong> — practical guide based on real experiments. Travel and Mental Health: How New Places Heal Your Mind works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Travel and Mental Health: How New Places Heal Your Mind** — practical guide based on real experiments. Travel and Mental Health: How New Places Heal Your Mind works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_voyage-sante-mentale_p3"><h1>Travel and Mental Health: How New Places Heal Your Mind</h1>
+Your brain is a pattern-recognition machine. When you are in the same environment every day, your brain goes on autopilot. Travel breaks the pattern — and that is exactly what your mental health needs.</div>
 
-# Travel and Mental Health: How New Places Heal Your Mind
-Your brain is a pattern-recognition machine. When you are in the same environment every day, your brain goes on autopilot. Travel breaks the pattern — and that is exactly what your mental health needs.
+<div data-i18n-html="article_voyage-sante-mentale_p4"><h2>How Travel Heals Your Mind</h2></div>
 
-## How Travel Heals Your Mind
+<div data-i18n-html="article_voyage-sante-mentale_p5"><h3>1. Reduces Stress</h3>
+A study by the American Psychological Association found that vacations reduce stress by removing people from the environments and activities they associate with anxiety.</div>
 
-### 1. Reduces Stress
-A study by the American Psychological Association found that vacations reduce stress by removing people from the environments and activities they associate with anxiety.
+<div data-i18n-html="article_voyage-sante-mentale_p6"><h3>2. Boosts Creativity</h3>
+Exposure to new cultures, languages, and experiences increases cognitive flexibility. Your brain makes new connections, leading to more creative thinking.</div>
 
-### 2. Boosts Creativity
-Exposure to new cultures, languages, and experiences increases cognitive flexibility. Your brain makes new connections, leading to more creative thinking.
+<div data-i18n-html="article_voyage-sante-mentale_p7"><h3>3. Improves Mood</h3>
+Anticipation of a trip boosts mood for weeks before departure. The trip itself creates positive memories that last for months.</div>
 
-### 3. Improves Mood
-Anticipation of a trip boosts mood for weeks before departure. The trip itself creates positive memories that last for months.
+<div data-i18n-html="article_voyage-sante-mentale_p8"><h3>4. Breaks Routine</h3>
+Routine is the enemy of creativity and happiness. Travel breaks routine and forces your brain to engage with the world in new ways.</div>
 
-### 4. Breaks Routine
-Routine is the enemy of creativity and happiness. Travel breaks routine and forces your brain to engage with the world in new ways.
+<div data-i18n-html="article_voyage-sante-mentale_p9"><h3>5. Builds Resilience</h3>
+Navigating unfamiliar environments builds confidence and resilience. You prove to yourself that you can handle the unknown.</div>
 
-### 5. Builds Resilience
-Navigating unfamiliar environments builds confidence and resilience. You prove to yourself that you can handle the unknown.
+<div data-i18n-html="article_voyage-sante-mentale_p10"><h2>How to Travel for Mental Health</h2></div>
 
-## How to Travel for Mental Health
-
-1. You do not need a long trip — even a weekend getaway helps
+<div data-i18n-html="article_voyage-sante-mentale_p11">1. You do not need a long trip — even a weekend getaway helps
 2. Go somewhere new — familiarity defeats the purpose
 3. Disconnect from work — leave your laptop at home
 4. Be present — put your phone away and experience the moment
-5. Reflect — journal about your experiences and feelings
+5. Reflect — journal about your experiences and feelings</div>
 
-> *Travel makes one modest. You see what a tiny place you occupy in the world. — Gustave Flaubert*
+<div data-i18n-html="article_voyage-sante-mentale_p12"><blockquote><em>Travel makes one modest. You see what a tiny place you occupy in the world. — Gustave Flaubert</em></blockquote></div>
 
-faq:
+<div data-i18n-html="article_voyage-sante-mentale_p13">faq:
   - q: "What is the most important principle here?"
     a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
   - q: "How do I apply this in my daily life?"
@@ -81,6 +80,6 @@ faq:
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
     a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----
+---</div>
 
-**Travel for your mental health.** Our [30 Days of Discipline](/30-days-discipline/) builds the habits that support mental wellness. Track your progress with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_voyage-sante-mentale_p14"><strong>Travel for your mental health.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds the habits that support mental wellness. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

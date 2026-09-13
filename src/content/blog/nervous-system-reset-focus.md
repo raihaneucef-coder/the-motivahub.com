@@ -42,81 +42,80 @@ relatedArticles:
   - "regle-40-pourcent"
 ---
 
-# Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_nervous-system-reset-focus_p1"><h1>Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_nervous-system-reset-focus_p2"><strong>Most focus problems aren't willpower issues — they're nervous system issues.</strong> When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first. The fastest way: slow exhales (4-7-8 breathing) for 60-90 seconds. This activates the parasympathetic nervous system and is the fastest, free, portable tool available.</div>
 
-**Most focus problems aren't willpower issues — they're nervous system issues.** When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first. The fastest way: slow exhales (4-7-8 breathing) for 60-90 seconds. This activates the parasympathetic nervous system and is the fastest, free, portable tool available.
+<div data-i18n-html="article_nervous-system-reset-focus_p3">I used to think focus was a willpower problem. Wake up. Drink coffee. Open laptop. Force yourself to work.</div>
 
-I used to think focus was a willpower problem. Wake up. Drink coffee. Open laptop. Force yourself to work.
+<div data-i18n-html="article_nervous-system-reset-focus_p4">When it didn't work, I tried harder. Stronger coffee. More discipline. Better systems. Pomodoro timers. Productivity books. None of it worked consistently.</div>
 
-When it didn't work, I tried harder. Stronger coffee. More discipline. Better systems. Pomodoro timers. Productivity books. None of it worked consistently.
+<div data-i18n-html="article_nervous-system-reset-focus_p5">Then I learned something that changed everything: <strong>focus isn't a thinking problem. It's a body problem.</strong></div>
 
-Then I learned something that changed everything: **focus isn't a thinking problem. It's a body problem.**
+<div data-i18n-html="article_nervous-system-reset-focus_p6">Your nervous system has to be regulated before your brain can focus. This isn't meditation. It's neuroscience. The most productive people in 2026 aren't disciplining their minds — they're regulating their bodies. The difference sounds subtle. It isn't.</div>
 
-Your nervous system has to be regulated before your brain can focus. This isn't meditation. It's neuroscience. The most productive people in 2026 aren't disciplining their minds — they're regulating their bodies. The difference sounds subtle. It isn't.
+<div data-i18n-html="article_nervous-system-reset-focus_p7">Here's what I learned, and the 5-minute protocol that worked when everything else failed.</div>
 
-Here's what I learned, and the 5-minute protocol that worked when everything else failed.
+<div data-i18n-html="article_nervous-system-reset-focus_p8"><h2>Why Willpower-Based Productivity Failed Me</h2></div>
 
-## Why Willpower-Based Productivity Failed Me
+<div data-i18n-html="article_nervous-system-reset-focus_p9">For 15 years, I tried every productivity system built on willpower:</div>
 
-For 15 years, I tried every productivity system built on willpower:
-
-- Wake up earlier
+<div data-i18n-html="article_nervous-system-reset-focus_p10">- Wake up earlier
 - Use a timer
 - Remove distractions
 - Build habits
 - Meditate
 - Journal
-- Set goals
+- Set goals</div>
 
-Some helped. None lasted. I'd have a great 2 weeks, then a bad day, then a bad week, then I'd abandon the system. The cycle repeated.
+<div data-i18n-html="article_nervous-system-reset-focus_p11">Some helped. None lasted. I'd have a great 2 weeks, then a bad day, then a bad week, then I'd abandon the system. The cycle repeated.</div>
 
-What I missed: **I was trying to think my way into focus.** That's backwards.
+<div data-i18n-html="article_nervous-system-reset-focus_p12">What I missed: <strong>I was trying to think my way into focus.</strong> That's backwards.</div>
 
-The brain doesn't create focus. The body does. Specifically, the autonomic nervous system.
+<div data-i18n-html="article_nervous-system-reset-focus_p13">The brain doesn't create focus. The body does. Specifically, the autonomic nervous system.</div>
 
-When your body is in "fight or flight" mode (chronic stress, poor sleep, too much screen time, too little movement), your brain literally cannot focus. The prefrontal cortex — the part that handles concentration — gets suppressed. Your body is saying: "There's a threat. Don't think. Run."
+<div data-i18n-html="article_nervous-system-reset-focus_p14">When your body is in "fight or flight" mode (chronic stress, poor sleep, too much screen time, too little movement), your brain literally cannot focus. The prefrontal cortex — the part that handles concentration — gets suppressed. Your body is saying: "There's a threat. Don't think. Run."</div>
 
-This isn't a metaphor. It's measured in cortisol, heart rate variability, and brain imaging.
+<div data-i18n-html="article_nervous-system-reset-focus_p15">This isn't a metaphor. It's measured in cortisol, heart rate variability, and brain imaging.</div>
 
-I had been trying to force focus on top of a dysregulated nervous system. Like revving a car engine in neutral. All noise. No movement.
+<div data-i18n-html="article_nervous-system-reset-focus_p16">I had been trying to force focus on top of a dysregulated nervous system. Like revving a car engine in neutral. All noise. No movement.</div>
 
-## The Neuroscience (Made Simple)
+<div data-i18n-html="article_nervous-system-reset-focus_p17"><h2>The Neuroscience (Made Simple)</h2></div>
 
-Your nervous system has two main modes:
+<div data-i18n-html="article_nervous-system-reset-focus_p18">Your nervous system has two main modes:</div>
 
-**Sympathetic (gas pedal):** "Fight or flight." Heart rate up. Breathing fast. Muscles tense. Mind alert but scattered. This is the mode most of us live in chronically.
+<div data-i18n-html="article_nervous-system-reset-focus_p19"><strong>Sympathetic (gas pedal):</strong> "Fight or flight." Heart rate up. Breathing fast. Muscles tense. Mind alert but scattered. This is the mode most of us live in chronically.</div>
 
-**Parasympathetic (brake):** "Rest and digest." Heart rate down. Breathing slow. Muscles relaxed. Mind focused but calm. This is the mode needed for deep work.
+<div data-i18n-html="article_nervous-system-reset-focus_p20"><strong>Parasympathetic (brake):</strong> "Rest and digest." Heart rate down. Breathing slow. Muscles relaxed. Mind focused but calm. This is the mode needed for deep work.</div>
 
-Modern life keeps most people in sympathetic mode 80%+ of the time. Coffee. Email. Notifications. News. Meetings. The body interprets all of this as low-grade threat.
+<div data-i18n-html="article_nervous-system-reset-focus_p21">Modern life keeps most people in sympathetic mode 80%+ of the time. Coffee. Email. Notifications. News. Meetings. The body interprets all of this as low-grade threat.</div>
 
-You can't deep work from sympathetic mode. The brain won't allow it. It doesn't matter how disciplined you are.
+<div data-i18n-html="article_nervous-system-reset-focus_p22">You can't deep work from sympathetic mode. The brain won't allow it. It doesn't matter how disciplined you are.</div>
 
-The solution isn't more discipline. It's downregulating the nervous system.
+<div data-i18n-html="article_nervous-system-reset-focus_p23">The solution isn't more discipline. It's downregulating the nervous system.</div>
 
-## The 5-Minute Protocol That Worked
+<div data-i18n-html="article_nervous-system-reset-focus_p24"><h2>The 5-Minute Protocol That Worked</h2></div>
 
-I tried five different nervous system regulation techniques. Here's the one that worked fastest and stuck longest. Total time: 5 minutes.
+<div data-i18n-html="article_nervous-system-reset-focus_p25">I tried five different nervous system regulation techniques. Here's the one that worked fastest and stuck longest. Total time: 5 minutes.</div>
 
-### Step 1: The Slow Exhale (60 seconds)
+<div data-i18n-html="article_nervous-system-reset-focus_p26"><h3>Step 1: The Slow Exhale (60 seconds)</h3></div>
 
-Stand or sit comfortably. Hand on chest if it helps.
+<div data-i18n-html="article_nervous-system-reset-focus_p27">Stand or sit comfortably. Hand on chest if it helps.</div>
 
-- Inhale through your nose for 4 counts
+<div data-i18n-html="article_nervous-system-reset-focus_p28">- Inhale through your nose for 4 counts
 - Hold for 7 counts
-- Exhale slowly through your mouth for 8 counts
+- Exhale slowly through your mouth for 8 counts</div>
 
-Repeat 4 times.
+<div data-i18n-html="article_nervous-system-reset-focus_p29">Repeat 4 times.</div>
 
-Why it works: exhaling longer than inhaling directly activates the parasympathetic nervous system. The vagus nerve (which connects brain to body) responds to slow exhales by sending "you're safe" signals to the brain.
+<div data-i18n-html="article_nervous-system-reset-focus_p30">Why it works: exhaling longer than inhaling directly activates the parasympathetic nervous system. The vagus nerve (which connects brain to body) responds to slow exhales by sending "you're safe" signals to the brain.</div>
 
-Within 60 seconds, you'll feel a subtle shift. Less tension. Slower thoughts.
+<div data-i18n-html="article_nervous-system-reset-focus_p31">Within 60 seconds, you'll feel a subtle shift. Less tension. Slower thoughts.</div>
 
-### Step 2: The Body Scan (90 seconds)
+<div data-i18n-html="article_nervous-system-reset-focus_p32"><h3>Step 2: The Body Scan (90 seconds)</h3></div>
 
-Close your eyes. Move attention through your body:
+<div data-i18n-html="article_nervous-system-reset-focus_p33">Close your eyes. Move attention through your body:
 - Feet on the floor — feel the pressure
 - Legs — heavy or light?
 - Belly — breathing
@@ -125,237 +124,237 @@ Close your eyes. Move attention through your body:
 - Hands — relaxed or clenched?
 - Jaw — usually clenched; let it soften
 - Forehead — usually tense; soften it
-- Eyes — let them soften behind closed lids
+- Eyes — let them soften behind closed lids</div>
 
-You're not trying to relax. Just noticing. The noticing itself calms the nervous system.
+<div data-i18n-html="article_nervous-system-reset-focus_p34">You're not trying to relax. Just noticing. The noticing itself calms the nervous system.</div>
 
-### Step 3: The Single-Task Focus (2 minutes)
+<div data-i18n-html="article_nervous-system-reset-focus_p35"><h3>Step 3: The Single-Task Focus (2 minutes)</h3></div>
 
-Pick one sensory input. Common options:
+<div data-i18n-html="article_nervous-system-reset-focus_p36">Pick one sensory input. Common options:</div>
 
-- **Sound:** Pick one background sound (AC hum, distant traffic, your own breath). Follow it for 2 minutes.
-- **Touch:** Feel your shirt fabric on your skin. The chair against your back. Your feet on the floor.
-- **Breath at nostrils:** Feel the air move in and out at the tip of your nose.
+<div data-i18n-html="article_nervous-system-reset-focus_p37">- <strong>Sound:</strong> Pick one background sound (AC hum, distant traffic, your own breath). Follow it for 2 minutes.
+- <strong>Touch:</strong> Feel your shirt fabric on your skin. The chair against your back. Your feet on the floor.
+- <strong>Breath at nostrils:</strong> Feel the air move in and out at the tip of your nose.</div>
 
-This trains the prefrontal cortex gently. It's meditation-lite. It's also what monks have done for 2,500 years.
+<div data-i18n-html="article_nervous-system-reset-focus_p38">This trains the prefrontal cortex gently. It's meditation-lite. It's also what monks have done for 2,500 years.</div>
 
-### Step 4: The Posture Reset (60 seconds)
+<div data-i18n-html="article_nervous-system-reset-focus_p39"><h3>Step 4: The Posture Reset (60 seconds)</h3></div>
 
-Stand up. Roll shoulders back. Open chest slightly. Look up.
+<div data-i18n-html="article_nervous-system-reset-focus_p40">Stand up. Roll shoulders back. Open chest slightly. Look up.</div>
 
-Notice how this changes your state. Try it while slouched versus upright. The body affects the mind. Posture is nervous system signal.
+<div data-i18n-html="article_nervous-system-reset-focus_p41">Notice how this changes your state. Try it while slouched versus upright. The body affects the mind. Posture is nervous system signal.</div>
 
-### Step 5: The Anchor Phrase (30 seconds)
+<div data-i18n-html="article_nervous-system-reset-focus_p42"><h3>Step 5: The Anchor Phrase (30 seconds)</h3></div>
 
-Pick a phrase that means "I'm safe. I'm here." Repeat mentally.
+<div data-i18n-html="article_nervous-system-reset-focus_p43">Pick a phrase that means "I'm safe. I'm here." Repeat mentally.</div>
 
-Examples:
+<div data-i18n-html="article_nervous-system-reset-focus_p44">Examples:
 - "Calm and focused."
 - "I'm in this moment."
 - "I have enough time."
-- "Nothing needs me right now."
+- "Nothing needs me right now."</div>
 
-Whatever works. Repeat for 30 seconds while breathing slowly.
+<div data-i18n-html="article_nervous-system-reset-focus_p45">Whatever works. Repeat for 30 seconds while breathing slowly.</div>
 
-## The Whole Protocol (When to Use It)
+<div data-i18n-html="article_nervous-system-reset-focus_p46"><h2>The Whole Protocol (When to Use It)</h2></div>
 
-After 30 days of testing, here's how I integrated it:
+<div data-i18n-html="article_nervous-system-reset-focus_p47">After 30 days of testing, here's how I integrated it:</div>
 
-**Morning (1-2 min):**
+<div data-i18n-html="article_nervous-system-reset-focus_p48"><strong>Morning (1-2 min):</strong>
 - Slow exhale ×4
 - Posture reset
-- Anchor phrase
+- Anchor phrase</div>
 
-Sets the day's baseline.
+<div data-i18n-html="article_nervous-system-reset-focus_p49">Sets the day's baseline.</div>
 
-**Before deep work (3-5 min):**
+<div data-i18n-html="article_nervous-system-reset-focus_p50"><strong>Before deep work (3-5 min):</strong>
 - Full protocol
-- Especially before hard tasks
+- Especially before hard tasks</div>
 
-Enters focused state.
+<div data-i18n-html="article_nervous-system-reset-focus_p51">Enters focused state.</div>
 
-**After meetings/emails (2 min):**
+<div data-i18n-html="article_nervous-system-reset-focus_p52"><strong>After meetings/emails (2 min):</strong>
+- Body scan
+- Slow exhale ×4</div>
+
+<div data-i18n-html="article_nervous-system-reset-focus_p53">Recovers from sympathetic activation.</div>
+
+<div data-i18n-html="article_nervous-system-reset-focus_p54"><strong>Before bed (2-3 min):</strong>
 - Body scan
 - Slow exhale ×4
+- Soften the day</div>
 
-Recovers from sympathetic activation.
+<div data-i18n-html="article_nervous-system-reset-focus_p55">Supports sleep.</div>
 
-**Before bed (2-3 min):**
-- Body scan
-- Slow exhale ×4
-- Soften the day
+<div data-i18n-html="article_nervous-system-reset-focus_p56"><h2>What Changed After 30 Days</h2></div>
 
-Supports sleep.
+<div data-i18n-html="article_nervous-system-reset-focus_p57">After a month of using this protocol, here's what I tracked:</div>
 
-## What Changed After 30 Days
-
-After a month of using this protocol, here's what I tracked:
-
-**Focus metrics:**
+<div data-i18n-html="article_nervous-system-reset-focus_p58"><strong>Focus metrics:</strong>
 - Average deep work session: 47 min (vs. 22 before)
 - Average distraction recovery: 4 min (vs. 12 before)
-- Average session quality (self-rated): 7.8/10 (vs. 5.2)
+- Average session quality (self-rated): 7.8/10 (vs. 5.2)</div>
 
-**Body metrics:**
+<div data-i18n-html="article_nervous-system-reset-focus_p59"><strong>Body metrics:</strong>
 - Resting heart rate: dropped 6 bpm
 - Self-rated calm: 7.6/10 (vs. 4.8)
-- Sleep onset: 18 min (vs. 35 min)
+- Sleep onset: 18 min (vs. 35 min)</div>
 
-**Productivity metrics:**
+<div data-i18n-html="article_nervous-system-reset-focus_p60"><strong>Productivity metrics:</strong>
 - Articles written: 4 per month (vs. 2-3 before, but higher quality)
 - Client work quality scores: +22%
-- Stress on Sundays: significantly lower
+- Stress on Sundays: significantly lower</div>
 
-The biggest surprise: **I needed less willpower**. When the body is regulated, focus comes easier. Discipline becomes less of a fight. You're not pushing a boulder uphill. You're walking on flat ground.
+<div data-i18n-html="article_nervous-system-reset-focus_p61">The biggest surprise: <strong>I needed less willpower</strong>. When the body is regulated, focus comes easier. Discipline becomes less of a fight. You're not pushing a boulder uphill. You're walking on flat ground.</div>
 
-## Why Body-First Beats Mind-First (The Research)
+<div data-i18n-html="article_nervous-system-reset-focus_p62"><h2>Why Body-First Beats Mind-First (The Research)</h2></div>
 
-I'm not the first to notice this. Multiple research streams converge:
+<div data-i18n-html="article_nervous-system-reset-focus_p63">I'm not the first to notice this. Multiple research streams converge:</div>
 
-1. **Polyvagal Theory (Stephen Porges):** Your nervous system state determines your emotional state. Not the other way around. You can't think your way out of fight-or-flight. You have to regulate physically.
+<div data-i18n-html="article_nervous-system-reset-focus_p64">1. <strong>Polyvagal Theory (Stephen Porges):</strong> Your nervous system state determines your emotional state. Not the other way around. You can't think your way out of fight-or-flight. You have to regulate physically.</div>
 
-2. **HRV research:** Heart rate variability is the most reliable marker of nervous system health. Higher HRV = better focus, better recovery, better emotional regulation.
+<div data-i18n-html="article_nervous-system-reset-focus_p65">2. <strong>HRV research:</strong> Heart rate variability is the most reliable marker of nervous system health. Higher HRV = better focus, better recovery, better emotional regulation.</div>
 
-3. **Vagus nerve stimulation:** Direct stimulation (through breath, cold, humming) activates the parasympathetic system. Measurable effects within minutes.
+<div data-i18n-html="article_nervous-system-reset-focus_p66">3. <strong>Vagus nerve stimulation:</strong> Direct stimulation (through breath, cold, humming) activates the parasympathetic system. Measurable effects within minutes.</div>
 
-4. **Stanford neurobiology:** Andrew Huberman's research on focus emphasizes body position, breath, and eye movement as primary tools. Mind tools (meditation) come after.
+<div data-i18n-html="article_nervous-system-reset-focus_p67">4. <strong>Stanford neurobiology:</strong> Andrew Huberman's research on focus emphasizes body position, breath, and eye movement as primary tools. Mind tools (meditation) come after.</div>
 
-5. **The "window of tolerance":** Trauma research shows we all have a zone of nervous system activation where we can think clearly. Outside that zone (too activated or too shut down), we can't.
+<div data-i18n-html="article_nervous-system-reset-focus_p68">5. <strong>The "window of tolerance":</strong> Trauma research shows we all have a zone of nervous system activation where we can think clearly. Outside that zone (too activated or too shut down), we can't.</div>
 
-The takeaway isn't that willpower is fake. Willpower is real. But willpower is a **function of nervous system state**, not an independent force. Regulate the body, and willpower returns automatically.
+<div data-i18n-html="article_nervous-system-reset-focus_p69">The takeaway isn't that willpower is fake. Willpower is real. But willpower is a <strong>function of nervous system state</strong>, not an independent force. Regulate the body, and willpower returns automatically.</div>
 
-## What I Got Wrong (And What Fixed It)
+<div data-i18n-html="article_nervous-system-reset-focus_p70"><h2>What I Got Wrong (And What Fixed It)</h2></div>
 
-I tried this for 30 days. Here are the mistakes:
+<div data-i18n-html="article_nervous-system-reset-focus_p71">I tried this for 30 days. Here are the mistakes:</div>
 
-**Mistake 1: "I'll do 30 minutes of breathwork."**
-Day 1: did 30 minutes. Felt great. Day 7: skipped because 30 minutes felt long. Day 14: abandoned.
+<div data-i18n-html="article_nervous-system-reset-focus_p72"><strong>Mistake 1: "I'll do 30 minutes of breathwork."</strong>
+Day 1: did 30 minutes. Felt great. Day 7: skipped because 30 minutes felt long. Day 14: abandoned.</div>
 
-**Fix:** Shorter is better. 5 minutes maximum. The frequency matters more than duration.
+<div data-i18n-html="article_nervous-system-reset-focus_p73"><strong>Fix:</strong> Shorter is better. 5 minutes maximum. The frequency matters more than duration.</div>
 
-**Mistake 2: "I'll do this only before deep work."**
-Did it before work. Got distracted. Stopped doing it.
+<div data-i18n-html="article_nervous-system-reset-focus_p74"><strong>Mistake 2: "I'll do this only before deep work."</strong>
+Did it before work. Got distracted. Stopped doing it.</div>
 
-**Fix:** Multiple times per day, especially after stress. Recovery matters as much as preparation.
+<div data-i18n-html="article_nervous-system-reset-focus_p75"><strong>Fix:</strong> Multiple times per day, especially after stress. Recovery matters as much as preparation.</div>
 
-**Mistake 3: "This should work immediately."**
-First 3 days: no obvious change. Questioned if it was doing anything.
+<div data-i18n-html="article_nervous-system-reset-focus_p76"><strong>Mistake 3: "This should work immediately."</strong>
+First 3 days: no obvious change. Questioned if it was doing anything.</div>
 
-**Fix:** Trust the protocol. The body takes 14-21 days to start adapting. By day 30, the difference is real.
+<div data-i18n-html="article_nervous-system-reset-focus_p77"><strong>Fix:</strong> Trust the protocol. The body takes 14-21 days to start adapting. By day 30, the difference is real.</div>
 
-**Mistake 4: "I need the perfect routine."**
-Tried complex multi-step routines. Skipped when I missed one part.
+<div data-i18n-html="article_nervous-system-reset-focus_p78"><strong>Mistake 4: "I need the perfect routine."</strong>
+Tried complex multi-step routines. Skipped when I missed one part.</div>
 
-**Fix:** Pick one tool. Do it consistently. Add more only after the first is automatic.
+<div data-i18n-html="article_nervous-system-reset-focus_p79"><strong>Fix:</strong> Pick one tool. Do it consistently. Add more only after the first is automatic.</div>
 
-## Practical Tools (What Actually Worked)
+<div data-i18n-html="article_nervous-system-reset-focus_p80"><h2>Practical Tools (What Actually Worked)</h2></div>
 
-After testing many techniques, here's what survived:
+<div data-i18n-html="article_nervous-system-reset-focus_p81">After testing many techniques, here's what survived:</div>
 
-**Breathing:**
+<div data-i18n-html="article_nervous-system-reset-focus_p82"><strong>Breathing:</strong>
 - 4-7-8 breathing (inhale 4, hold 7, exhale 8) — fastest calm
 - Box breathing (4-4-4-4) — even rhythm, good for focus
-- Coherent breathing (5-second inhale, 5-second exhale) — for sustained calm
+- Coherent breathing (5-second inhale, 5-second exhale) — for sustained calm</div>
 
-**Body:**
+<div data-i18n-html="article_nervous-system-reset-focus_p83"><strong>Body:</strong>
 - Cold water on face/wrists — quick vagal activation
 - Body scan — releases tension
-- Walking outside — combines movement + nature (proven to downregulate)
+- Walking outside — combines movement + nature (proven to downregulate)</div>
 
-**Mind (after body):**
+<div data-i18n-html="article_nervous-system-reset-focus_p84"><strong>Mind (after body):</strong>
 - Single-sensory focus
 - Box-breathing visualization
-- Anchor phrase repetition
+- Anchor phrase repetition</div>
 
-**Movement (micro-doses):**
+<div data-i18n-html="article_nervous-system-reset-focus_p85"><strong>Movement (micro-doses):</strong>
 - 5 push-ups between meetings
 - Standing desk transitions
-- Walk-and-talk phone calls
+- Walk-and-talk phone calls</div>
 
-**Recovery:**
+<div data-i18n-html="article_nervous-system-reset-focus_p86"><strong>Recovery:</strong>
 - After every meeting, 30 seconds of slow exhale
 - After email blocks, 60 seconds of body scan
-- After hard conversations, 2-minute walk
+- After hard conversations, 2-minute walk</div>
 
-These are small, portable, free. None require apps or equipment. None take more than 5 minutes.
+<div data-i18n-html="article_nervous-system-reset-focus_p87">These are small, portable, free. None require apps or equipment. None take more than 5 minutes.</div>
 
-## The Counterintuitive Insight
+<div data-i18n-html="article_nervous-system-reset-focus_p88"><h2>The Counterintuitive Insight</h2></div>
 
-After 30 days, here's what surprised me most:
+<div data-i18n-html="article_nervous-system-reset-focus_p89">After 30 days, here's what surprised me most:</div>
 
-**Productivity isn't about discipline. It's about state.**
+<div data-i18n-html="article_nervous-system-reset-focus_p90"><strong>Productivity isn't about discipline. It's about state.</strong></div>
 
-When my body is regulated, I don't need discipline. I sit down. I work. I produce. When my body is dysregulated, no amount of discipline helps. I sit down. I can't work. I produce nothing.
+<div data-i18n-html="article_nervous-system-reset-focus_p91">When my body is regulated, I don't need discipline. I sit down. I work. I produce. When my body is dysregulated, no amount of discipline helps. I sit down. I can't work. I produce nothing.</div>
 
-The difference between these two states isn't willpower. It's nervous system state.
+<div data-i18n-html="article_nervous-system-reset-focus_p92">The difference between these two states isn't willpower. It's nervous system state.</div>
 
-The 5-minute protocol doesn't give you more discipline. It puts your body in a state where discipline isn't needed.
+<div data-i18n-html="article_nervous-system-reset-focus_p93">The 5-minute protocol doesn't give you more discipline. It puts your body in a state where discipline isn't needed.</div>
 
-This reframes everything:
+<div data-i18n-html="article_nervous-system-reset-focus_p94">This reframes everything:</div>
 
-- "How do I stay focused?" → "How do I keep my body regulated?"
+<div data-i18n-html="article_nervous-system-reset-focus_p95">- "How do I stay focused?" → "How do I keep my body regulated?"
 - "How do I push through?" → "How do I recover?"
-- "How do I avoid distractions?" → "How do I notice when my body is activated?"
+- "How do I avoid distractions?" → "How do I notice when my body is activated?"</div>
 
-The question changes. The answer changes. The outcomes change.
+<div data-i18n-html="article_nervous-system-reset-focus_p96">The question changes. The answer changes. The outcomes change.</div>
 
-## What Comes After 30 Days
+<div data-i18n-html="article_nervous-system-reset-focus_p97"><h2>What Comes After 30 Days</h2></div>
 
-After the initial protocol, I kept most of the system but adjusted:
+<div data-i18n-html="article_nervous-system-reset-focus_p98">After the initial protocol, I kept most of the system but adjusted:</div>
 
-**Daily minimum (5 minutes total):**
+<div data-i18n-html="article_nervous-system-reset-focus_p99"><strong>Daily minimum (5 minutes total):</strong>
 - 1 minute slow exhale (morning)
 - 2 minutes body scan (before deep work)
 - 1 minute slow exhale (evening)
-- 30 seconds posture reset (every transition)
+- 30 seconds posture reset (every transition)</div>
 
-**Weekly additions:**
+<div data-i18n-html="article_nervous-system-reset-focus_p100"><strong>Weekly additions:</strong>
 - 20-30 minute walk in nature (1-2x)
 - 5-minute breathwork session (1-2x, for variety)
-- Cold exposure (1x, optional but powerful)
+- Cold exposure (1x, optional but powerful)</div>
 
-**When stressed or distracted:**
+<div data-i18n-html="article_nervous-system-reset-focus_p101"><strong>When stressed or distracted:</strong>
 - Immediate slow exhale ×4
 - 60-second body scan
-- Single-sensory focus for 2 minutes
+- Single-sensory focus for 2 minutes</div>
 
-The pattern is: more regulation when stressed. Less when regulated. The body is the guide.
+<div data-i18n-html="article_nervous-system-reset-focus_p102">The pattern is: more regulation when stressed. Less when regulated. The body is the guide.</div>
 
-## The Honest Summary
+<div data-i18n-html="article_nervous-system-reset-focus_p103"><h2>The Honest Summary</h2></div>
 
-For 15 years, I tried every productivity system built on willpower. None lasted.
+<div data-i18n-html="article_nervous-system-reset-focus_p104">For 15 years, I tried every productivity system built on willpower. None lasted.</div>
 
-For the last 30 days, I've been using a body-first protocol that takes 5 minutes. It worked.
+<div data-i18n-html="article_nervous-system-reset-focus_p105">For the last 30 days, I've been using a body-first protocol that takes 5 minutes. It worked.</div>
 
-The difference isn't subtle. It's dramatic. Focus came easier. Stress dropped. Sleep improved. Willpower is less needed. Output quality increased.
+<div data-i18n-html="article_nervous-system-reset-focus_p106">The difference isn't subtle. It's dramatic. Focus came easier. Stress dropped. Sleep improved. Willpower is less needed. Output quality increased.</div>
 
-If you're struggling with focus, the answer isn't more discipline. It's nervous system regulation. Try the 5-minute protocol for 30 days. Watch what changes.
+<div data-i18n-html="article_nervous-system-reset-focus_p107">If you're struggling with focus, the answer isn't more discipline. It's nervous system regulation. Try the 5-minute protocol for 30 days. Watch what changes.</div>
 
-The hardest part isn't the technique. It's believing that something so simple could work. Try it anyway. The evidence will convince you.
+<div data-i18n-html="article_nervous-system-reset-focus_p108">The hardest part isn't the technique. It's believing that something so simple could work. Try it anyway. The evidence will convince you.</div>
 
-<div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_nervous-system-reset-focus_p109"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Books that deepened this work</strong></p>
 <p><a href="https://www.amazon.fr/dp/0735213664?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=nervous-system" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">The Body Keeps the Score by Bessel van der Kolk</a> — for the trauma-body connection</p>
 <p><a href="https://www.amazon.fr/dp/B07D3JKZD3?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=nervous-system" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Breath by James Nestor</a> — for the breathing research</p>
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
-</div>
+</div></div>
 
----
+<div data-i18n-html="article_nervous-system-reset-focus_p110">---</div>
 
-*Youssef Raihane spent 15 years believing willpower was the answer. He was wrong. The body is the answer. The 5-minute protocol changed everything.*
+<div data-i18n-html="article_nervous-system-reset-focus_p111"><em>Youssef Raihane spent 15 years believing willpower was the answer. He was wrong. The body is the answer. The 5-minute protocol changed everything.</em></div>
 
-## Sources
+<div data-i18n-html="article_nervous-system-reset-focus_p112"><h2>Sources</h2></div>
 
-1. *Stephen Porges* — *The Polyvagal Theory* (2011) — for the autonomic nervous system framework
-2. *Bessel van der Kolk* — *The Body Keeps the Score* (2014) — for the trauma-body connection
-3. *James Nestor* — *Breath* (2020) — for the breathing research
-4. *Andrew Huberman* — Stanford neurobiology research — for the body-first focus protocols
-5. *Andrew Huberman Podcast* — for the breath and focus research
-6. *Stephen Porges* — [Polyvagal Institute](https://www.polyvagalinstitute.org) — for the practice resources
-7. *NIH* — vagus nerve stimulation research — for the clinical evidence
+<div data-i18n-html="article_nervous-system-reset-focus_p113">1. <em>Stephen Porges</em> — <em>The Polyvagal Theory</em> (2011) — for the autonomic nervous system framework
+2. <em>Bessel van der Kolk</em> — <em>The Body Keeps the Score</em> (2014) — for the trauma-body connection
+3. <em>James Nestor</em> — <em>Breath</em> (2020) — for the breathing research
+4. <em>Andrew Huberman</em> — Stanford neurobiology research — for the body-first focus protocols
+5. <em>Andrew Huberman Podcast</em> — for the breath and focus research
+6. <em>Stephen Porges</em> — <a href="https://www.polyvagalinstitute.org">Polyvagal Institute</a> — for the practice resources
+7. <em>NIH</em> — vagus nerve stimulation research — for the clinical evidence</div>
 
----
+<div data-i18n-html="article_nervous-system-reset-focus_p114">---</div>
 
-**The reset is the doorway, the focus is the hallway.** Most of us try to force focus directly. That is the hallway. The doorway is 2 minutes of breath — the [Two-Minute Breath Reset](/journal/two-minute-breath-reset/) shows the exact protocol. Pair it with the [2-Minute Rule guide](/journal/two-minute-rule-guide/) for the 7-day protocol that makes the breath doorway automatic.
+<div data-i18n-html="article_nervous-system-reset-focus_p115"><strong>The reset is the doorway, the focus is the hallway.</strong> Most of us try to force focus directly. That is the hallway. The doorway is 2 minutes of breath — the <a href="/journal/two-minute-breath-reset/">Two-Minute Breath Reset</a> shows the exact protocol. Pair it with the <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> for the 7-day protocol that makes the breath doorway automatic.</div>
 
-To see how the nervous system links to the rest of the system, read the [Sleep Is an Unfair Advantage](/journal/sleep-is-unfair-advantage/) article — the architecture of recovery is the architecture of focus.
+<div data-i18n-html="article_nervous-system-reset-focus_p116">To see how the nervous system links to the rest of the system, read the <a href="/journal/sleep-is-unfair-advantage/">Sleep Is an Unfair Advantage</a> article — the architecture of recovery is the architecture of focus.</div>

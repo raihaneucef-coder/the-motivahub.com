@@ -39,28 +39,27 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_people-who-raise-your-floor_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_people-who-raise-your-floor_p2"><strong>The People Who Raise Your Floor</strong> — practical guide based on real experiments. The People Who Raise Your Floor works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The People Who Raise Your Floor** — practical guide based on real experiments. The People Who Raise Your Floor works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_people-who-raise-your-floor_p3"><h1>The People Who Raise Your Floor</h1>
+We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.</div>
 
-# The People Who Raise Your Floor
-We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.
+<div data-i18n-html="article_people-who-raise-your-floor_p4">Your floor is not set by you alone. It is set by the room you keep returning to. The friends who normalize early mornings or late-night scrolling. The family that expects you to try or to stay small. The conversations that leave you lighter or heavier.</div>
 
-Your floor is not set by you alone. It is set by the room you keep returning to. The friends who normalize early mornings or late-night scrolling. The family that expects you to try or to stay small. The conversations that leave you lighter or heavier.
+<div data-i18n-html="article_people-who-raise-your-floor_p5"><strong>You will become the average of what you tolerate.</strong></div>
 
-**You will become the average of what you tolerate.**
+<div data-i18n-html="article_people-who-raise-your-floor_p6">That is not a judgment; it is a design principle. If your circle treats discipline as strange, you will pay a tax every time you practice it. If your circle treats it as normal, you get it for free.</div>
 
-That is not a judgment; it is a design principle. If your circle treats discipline as strange, you will pay a tax every time you practice it. If your circle treats it as normal, you get it for free.
+<div data-i18n-html="article_people-who-raise-your-floor_p7">This does not mean abandoning people. It means adding people — deliberately. One relationship that raises your standard changes the math for all the others.</div>
 
-This does not mean abandoning people. It means adding people — deliberately. One relationship that raises your standard changes the math for all the others.
+<div data-i18n-html="article_people-who-raise-your-floor_p8">Look for three signals:</div>
 
-Look for three signals:
+<div data-i18n-html="article_people-who-raise-your-floor_p9">- <strong>They keep promises to themselves.</strong> Reliability is contagious. Spend time with people who do what they said, especially when it is inconvenient.
+- <strong>They tell you the truth kindly.</strong> Flattery keeps you comfortable; honest feedback keeps you moving.
+- <strong>They are building something.</strong> Builders talk about process, not gossip. Time with a builder leaves you with one idea to try, not one story to repeat.</div>
 
-- **They keep promises to themselves.** Reliability is contagious. Spend time with people who do what they said, especially when it is inconvenient.
-- **They tell you the truth kindly.** Flattery keeps you comfortable; honest feedback keeps you moving.
-- **They are building something.** Builders talk about process, not gossip. Time with a builder leaves you with one idea to try, not one story to repeat.
+<div data-i18n-html="article_people-who-raise-your-floor_p10">This week, audit your room. List the five people you spoke to most. For each, ask: after time together, am I closer to the person I want to be?</div>
 
-This week, audit your room. List the five people you spoke to most. For each, ask: after time together, am I closer to the person I want to be?
-
-Then adjust the ratio. You do not need a new life. You need one more person who raises your floor — and a little more time with them.
+<div data-i18n-html="article_people-who-raise-your-floor_p11">Then adjust the ratio. You do not need a new life. You need one more person who raises your floor — and a little more time with them.</div>

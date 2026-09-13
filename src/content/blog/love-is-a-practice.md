@@ -39,24 +39,23 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_love-is-a-practice_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_love-is-a-practice_p2"><strong>Love Is a Practice, Not a Feeling</strong> — practical guide based on real experiments. Love Is a Practice, Not a Feeling works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Love Is a Practice, Not a Feeling** — practical guide based on real experiments. Love Is a Practice, Not a Feeling works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_love-is-a-practice_p3"><h1>Love Is a Practice, Not a Feeling</h1>
+We think love is a feeling that makes us act. Most days it is the opposite: acting with love is what creates the feeling.</div>
 
-# Love Is a Practice, Not a Feeling
-We think love is a feeling that makes us act. Most days it is the opposite: acting with love is what creates the feeling.
+<div data-i18n-html="article_love-is-a-practice_p4">Waiting to feel patient before we listen, to feel grateful before we thank, to feel close before we reach out — this keeps love hostage to mood. Mood is weather. Practice is climate.</div>
 
-Waiting to feel patient before we listen, to feel grateful before we thank, to feel close before we reach out — this keeps love hostage to mood. Mood is weather. Practice is climate.
+<div data-i18n-html="article_love-is-a-practice_p5"><strong>Love as a practice is boring and reliable.</strong> It is the text sent when you are busy, the apology made before you feel fully ready, the five minutes of real listening without trying to fix anything. None of these feel heroic in the moment. All of them are remembered later as proof.</div>
 
-**Love as a practice is boring and reliable.** It is the text sent when you are busy, the apology made before you feel fully ready, the five minutes of real listening without trying to fix anything. None of these feel heroic in the moment. All of them are remembered later as proof.
+<div data-i18n-html="article_love-is-a-practice_p6">The practice is small enough to survive a bad day:</div>
 
-The practice is small enough to survive a bad day:
+<div data-i18n-html="article_love-is-a-practice_p7">- <strong>Ask one better question a day.</strong> Not "how was your day?" but "what was the hardest part of today?"
+- <strong>Give one unsolicited appreciation.</strong> Name something specific the other person did that made your day easier.
+- <strong>Repair quickly.</strong> When you are sharp or distant, name it within the hour. "I was short earlier — you deserved better."</div>
 
-- **Ask one better question a day.** Not "how was your day?" but "what was the hardest part of today?"
-- **Give one unsolicited appreciation.** Name something specific the other person did that made your day easier.
-- **Repair quickly.** When you are sharp or distant, name it within the hour. "I was short earlier — you deserved better."
+<div data-i18n-html="article_love-is-a-practice_p8">Notice what happens after a week. You do not feel magically closer every hour. But you have seven pieces of evidence that you are a person who loves well even when you do not feel like it. That identity — built from kept promises — is what holds a relationship when feelings wobble, as they always do.</div>
 
-Notice what happens after a week. You do not feel magically closer every hour. But you have seven pieces of evidence that you are a person who loves well even when you do not feel like it. That identity — built from kept promises — is what holds a relationship when feelings wobble, as they always do.
-
-Love does not ask you to feel more. It asks you to practice more. The feeling, faithful as ever, follows the practice home.
+<div data-i18n-html="article_love-is-a-practice_p9">Love does not ask you to feel more. It asks you to practice more. The feeling, faithful as ever, follows the practice home.</div>

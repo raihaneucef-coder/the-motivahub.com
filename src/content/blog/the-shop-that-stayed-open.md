@@ -40,22 +40,21 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-# The Shop That Stayed Open: Why Endurance Beats Pivoting
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_the-shop-that-stayed-open_p1"><h1>The Shop That Stayed Open: Why Endurance Beats Pivoting</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_the-shop-that-stayed-open_p2"><strong>Endurance is a competitive advantage.</strong> When everyone else pivoted, he stayed. For 32 years, the doors opened at 7 a.m. The lesson: consistency compounds. The shop owner did not need to be the best. He needed to be the one who showed up every day. In careers, in habits, in relationships — the person who stays eventually wins, not because they are the most talented, but because they are the most reliable.</div>
 
-**Endurance is a competitive advantage.** When everyone else pivoted, he stayed. For 32 years, the doors opened at 7 a.m. The lesson: consistency compounds. The shop owner did not need to be the best. He needed to be the one who showed up every day. In careers, in habits, in relationships — the person who stays eventually wins, not because they are the most talented, but because they are the most reliable.
+<div data-i18n-html="article_the-shop-that-stayed-open_p3">The street went quiet. One by one, the shops closed — rent too high, customers too few.</div>
 
-The street went quiet. One by one, the shops closed — rent too high, customers too few.
+<div data-i18n-html="article_the-shop-that-stayed-open_p4">He kept his small bookstore open. He could not afford to, which is why it mattered.</div>
 
-He kept his small bookstore open. He could not afford to, which is why it mattered.
+<div data-i18n-html="article_the-shop-that-stayed-open_p5">Every morning, he swept the sidewalk, turned the sign to OPEN, and waited. Some days no one came. He read. He wrote a note on the window: "We are still here. Come in for tea."</div>
 
-Every morning, he swept the sidewalk, turned the sign to OPEN, and waited. Some days no one came. He read. He wrote a note on the window: "We are still here. Come in for tea."
+<div data-i18n-html="article_the-shop-that-stayed-open_p6"><strong>Staying open was not a business plan. It was a promise to the street.</strong></div>
 
-**Staying open was not a business plan. It was a promise to the street.**
+<div data-i18n-html="article_the-shop-that-stayed-open_p7">People started to come — not for books, but for the light. Then for the tea. Then for the books they found while drinking the tea.</div>
 
-People started to come — not for books, but for the light. Then for the tea. Then for the books they found while drinking the tea.
+<div data-i18n-html="article_the-shop-that-stayed-open_p8">When the street woke again, his shop was the reason. Not because he had the best business, but because he was the only one who stayed when staying made no sense.</div>
 
-When the street woke again, his shop was the reason. Not because he had the best business, but because he was the only one who stayed when staying made no sense.
-
-Proof over noise: sometimes the most powerful thing you can do is not to be the best, but to be the one who stays.
+<div data-i18n-html="article_the-shop-that-stayed-open_p9">Proof over noise: sometimes the most powerful thing you can do is not to be the best, but to be the one who stays.</div>

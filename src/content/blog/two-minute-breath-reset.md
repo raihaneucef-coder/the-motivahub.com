@@ -39,30 +39,29 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_two-minute-breath-reset_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_two-minute-breath-reset_p2"><strong>The Two-Minute Breath Reset</strong> — practical guide based on real experiments. The Two-Minute Breath Reset works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Two-Minute Breath Reset** — practical guide based on real experiments. The Two-Minute Breath Reset works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_two-minute-breath-reset_p3"><h1>The Two-Minute Breath Reset</h1>
+Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.</div>
 
-# The Two-Minute Breath Reset
-Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.
+<div data-i18n-html="article_two-minute-breath-reset_p4">When stress rises, breathing shortens. When breathing shortens, the brain hears danger. It is a loop that feeds itself — unless you interrupt it at the body.</div>
 
-When stress rises, breathing shortens. When breathing shortens, the brain hears danger. It is a loop that feeds itself — unless you interrupt it at the body.
+<div data-i18n-html="article_two-minute-breath-reset_p5"><strong>The fastest interruption is a longer exhale.</strong></div>
 
-**The fastest interruption is a longer exhale.**
+<div data-i18n-html="article_two-minute-breath-reset_p6">Not a deep inhale. A slow, complete exhale. The exhale tells your nervous system: we are safe enough to let go.</div>
 
-Not a deep inhale. A slow, complete exhale. The exhale tells your nervous system: we are safe enough to let go.
+<div data-i18n-html="article_two-minute-breath-reset_p7">Try it now:</div>
 
-Try it now:
-
-- Inhale through the nose for 4 counts.
+<div data-i18n-html="article_two-minute-breath-reset_p8">- Inhale through the nose for 4 counts.
 - Exhale through the mouth for 8 counts, as if fogging a mirror slowly.
-- Repeat 6 times. Two minutes total.
+- Repeat 6 times. Two minutes total.</div>
 
-Do not try to feel calm. Just count. The feeling follows the counting, not the other way around.
+<div data-i18n-html="article_two-minute-breath-reset_p9">Do not try to feel calm. Just count. The feeling follows the counting, not the other way around.</div>
 
-Use it before the meeting, after the argument, between tasks. It is portable, free, and always available — which is why we forget to use it.
+<div data-i18n-html="article_two-minute-breath-reset_p10">Use it before the meeting, after the argument, between tasks. It is portable, free, and always available — which is why we forget to use it.</div>
 
-The 2-minute breath is also a doorway. To see how the doorway pattern works across meditation, reading, pushups, journaling, and more, read the [full 2-Minute Rule guide and 7-day protocol](/journal/two-minute-rule-guide/).
+<div data-i18n-html="article_two-minute-breath-reset_p11">The 2-minute breath is also a doorway. To see how the doorway pattern works across meditation, reading, pushups, journaling, and more, read the <a href="/journal/two-minute-rule-guide/">full 2-Minute Rule guide and 7-day protocol</a>.</div>
 
-Two minutes of breath is not a luxury. It is maintenance for the instrument that has to carry you through the whole day.
+<div data-i18n-html="article_two-minute-breath-reset_p12">Two minutes of breath is not a luxury. It is maintenance for the instrument that has to carry you through the whole day.</div>

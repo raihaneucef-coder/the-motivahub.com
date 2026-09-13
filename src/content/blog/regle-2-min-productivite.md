@@ -38,49 +38,48 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_regle-2-min-productivite_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_regle-2-min-productivite_p2"><strong>The 2-Minute Rule for Productivity: Get More Done in Less Time</strong> — practical guide based on real experiments. The 2-Minute Rule for Productivity: Get More Done in Less Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The 2-Minute Rule for Productivity: Get More Done in Less Time** — practical guide based on real experiments. The 2-Minute Rule for Productivity: Get More Done in Less Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_regle-2-min-productivite_p3"><h1>The 2-Minute Rule for Productivity: Get More Done in Less Time</h1>
+David Allen introduced this rule in Getting Things Done: if a task takes less than 2 minutes, do it immediately instead of adding it to your list.</div>
 
-# The 2-Minute Rule for Productivity: Get More Done in Less Time
-David Allen introduced this rule in Getting Things Done: if a task takes less than 2 minutes, do it immediately instead of adding it to your list.
+<div data-i18n-html="article_regle-2-min-productivite_p4">It sounds too simple to be effective. It is not.</div>
 
-It sounds too simple to be effective. It is not.
+<div data-i18n-html="article_regle-2-min-productivite_p5"><h2>Why the 2-Minute Rule Works</h2></div>
 
-## Why the 2-Minute Rule Works
+<div data-i18n-html="article_regle-2-min-productivite_p6"><h3>1. Eliminates Procrastination</h3>
+Small tasks pile up and create mental clutter. When you handle them immediately, your mind stays clear.</div>
 
-### 1. Eliminates Procrastination
-Small tasks pile up and create mental clutter. When you handle them immediately, your mind stays clear.
+<div data-i18n-html="article_regle-2-min-productivite_p7"><h3>2. Reduces Decision Fatigue</h3>
+You do not waste energy deciding whether to do a 2-minute task later. You just do it.</div>
 
-### 2. Reduces Decision Fatigue
-You do not waste energy deciding whether to do a 2-minute task later. You just do it.
+<div data-i18n-html="article_regle-2-min-productivite_p8"><h3>3. Creates Momentum</h3>
+Small wins create momentum. Completing one small task makes you more likely to complete the next one.</div>
 
-### 3. Creates Momentum
-Small wins create momentum. Completing one small task makes you more likely to complete the next one.
+<div data-i18n-html="article_regle-2-min-productivite_p9"><h3>4. Keeps Your List Clean</h3>
+Your to-do list stays focused on important tasks, not trivial ones.</div>
 
-### 4. Keeps Your List Clean
-Your to-do list stays focused on important tasks, not trivial ones.
+<div data-i18n-html="article_regle-2-min-productivite_p10"><h2>Examples of 2-Minute Tasks</h2></div>
 
-## Examples of 2-Minute Tasks
-
-- Reply to a short email
+<div data-i18n-html="article_regle-2-min-productivite_p11">- Reply to a short email
 - File a document
 - Make a quick phone call
 - Set a reminder
 - Put something back where it belongs
 - Write down an idea
-- Confirm an appointment
+- Confirm an appointment</div>
 
-## When NOT to Use It
+<div data-i18n-html="article_regle-2-min-productivite_p12"><h2>When NOT to Use It</h2></div>
 
-The 2-minute rule is for small tasks only. For larger tasks, use the two-minute version of the habit instead: "open the document and write one sentence" or "put on your running shoes."
+<div data-i18n-html="article_regle-2-min-productivite_p13">The 2-minute rule is for small tasks only. For larger tasks, use the two-minute version of the habit instead: "open the document and write one sentence" or "put on your running shoes."</div>
 
-The goal is not to do everything in 2 minutes. The goal is to eliminate the small stuff so you can focus on the big stuff.
+<div data-i18n-html="article_regle-2-min-productivite_p14">The goal is not to do everything in 2 minutes. The goal is to eliminate the small stuff so you can focus on the big stuff.</div>
 
-> *The 2-minute rule prevents small tasks from becoming big problems.*
+<div data-i18n-html="article_regle-2-min-productivite_p15"><blockquote><em>The 2-minute rule prevents small tasks from becoming big problems.</em></blockquote></div>
 
-faq:
+<div data-i18n-html="article_regle-2-min-productivite_p16">faq:
   - q: "Why can't I focus even when I try?"
     a: "Most focus problems are nervous system issues, not willpower issues. When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first: 4-7-8 breathing for 60-90 seconds."
   - q: "What is the best focus technique?"
@@ -89,6 +88,6 @@ faq:
     a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
   - q: "Can focus be trained?"
     a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity.
----
+---</div>
 
-**Apply the 2-minute rule today.** Our [30 Days of Discipline](/30-days-discipline/) teaches you to handle small tasks efficiently. Track your habits with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_regle-2-min-productivite_p17"><strong>Apply the 2-minute rule today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you to handle small tasks efficiently. Track your habits with our <a href="/tracker/">Habit Tracker</a>.</div>

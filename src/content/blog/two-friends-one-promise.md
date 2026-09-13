@@ -40,24 +40,23 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-# Two Friends, One Promise: Why Community Is Kept, Not Found
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_two-friends-one-promise_p1"><h1>Two Friends, One Promise: Why Community Is Kept, Not Found</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_two-friends-one-promise_p2"><strong>Accountability to a friend is 2-3x more effective than self-discipline alone.</strong> The social commitment creates a different kind of pressure — not shame, but mutual respect. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel something stronger. That difference is what keeps the habit alive on the days motivation fails.</div>
 
-**Accountability to a friend is 2-3x more effective than self-discipline alone.** The social commitment creates a different kind of pressure — not shame, but mutual respect. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel something stronger. That difference is what keeps the habit alive on the days motivation fails.
+<div data-i18n-html="article_two-friends-one-promise_p3">They promised to walk every day for a year. No matter the weather, no matter the mood.</div>
 
-They promised to walk every day for a year. No matter the weather, no matter the mood.
+<div data-i18n-html="article_two-friends-one-promise_p4">Day 4, it rained. They walked in the rain.</div>
 
-Day 4, it rained. They walked in the rain.
+<div data-i18n-html="article_two-friends-one-promise_p5">Day 47, one wanted to quit. The other waited at the corner at 6 AM anyway. They walked without talking.</div>
 
-Day 47, one wanted to quit. The other waited at the corner at 6 AM anyway. They walked without talking.
+<div data-i18n-html="article_two-friends-one-promise_p6">Day 182, they walked in a new city, on a trip they had not planned when they made the promise.</div>
 
-Day 182, they walked in a new city, on a trip they had not planned when they made the promise.
+<div data-i18n-html="article_two-friends-one-promise_p7"><strong>The walk was never the point. The promise was.</strong></div>
 
-**The walk was never the point. The promise was.**
+<div data-i18n-html="article_two-friends-one-promise_p8">At the end of the year, they had walked 365 times. They had also not missed a single day they said they would show up for each other. That record — more than the miles — is what they carry now.</div>
 
-At the end of the year, they had walked 365 times. They had also not missed a single day they said they would show up for each other. That record — more than the miles — is what they carry now.
+<div data-i18n-html="article_two-friends-one-promise_p9">When people ask how they stayed consistent, they say: we did not keep a walking habit. We kept a promise to a friend. The habit was just what the promise looked like from the outside.</div>
 
-When people ask how they stayed consistent, they say: we did not keep a walking habit. We kept a promise to a friend. The habit was just what the promise looked like from the outside.
-
-Proof over noise: community is not found. It is kept, one walk at a time.
+<div data-i18n-html="article_two-friends-one-promise_p10">Proof over noise: community is not found. It is kept, one walk at a time.</div>

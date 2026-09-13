@@ -38,30 +38,29 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_social-muscle_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_social-muscle_p2"><strong>The Social Muscle — Why Connection Is a Discipline</strong> — practical guide based on real experiments. The Social Muscle — Why Connection Is a Discipline works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Social Muscle — Why Connection Is a Discipline** — practical guide based on real experiments. The Social Muscle — Why Connection Is a Discipline works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_social-muscle_p3"><h1>The Social Muscle — Why Connection Is a Discipline</h1>
+A brief social lesson is 19 seconds long: a man says, "You do not find community. You build it, one awkward hello at a time." The message resonates not because of charisma — but because of relief. Everyone thought they were the only ones who found it hard.</div>
 
-# The Social Muscle — Why Connection Is a Discipline
-A brief social lesson is 19 seconds long: a man says, "You do not find community. You build it, one awkward hello at a time." The message resonates not because of charisma — but because of relief. Everyone thought they were the only ones who found it hard.
+<div data-i18n-html="article_social-muscle_p4"><h2>Social Connection Is a Skill</h2></div>
 
-## Social Connection Is a Skill
+<div data-i18n-html="article_social-muscle_p5">We treat sociability as a trait: you are either extroverted or not. The data says the opposite. Sociability is a muscle. The first rep is always awkward. The tenth is tolerable. The hundredth is warm.</div>
 
-We treat sociability as a trait: you are either extroverted or not. The data says the opposite. Sociability is a muscle. The first rep is always awkward. The tenth is tolerable. The hundredth is warm.
+<div data-i18n-html="article_social-muscle_p6">Consistent creators are not the most talented speakers. They are the most consistent inviters. They invite one more person to lunch. They ask one more question. They stay one minute longer when it would be easier to leave.</div>
 
-Consistent creators are not the most talented speakers. They are the most consistent inviters. They invite one more person to lunch. They ask one more question. They stay one minute longer when it would be easier to leave.
+<div data-i18n-html="article_social-muscle_p7"><h2>The Smallest Invitation</h2></div>
 
-## The Smallest Invitation
+<div data-i18n-html="article_social-muscle_p8">You do not need a network. You need one invitation this week.</div>
 
-You do not need a network. You need one invitation this week.
+<div data-i18n-html="article_social-muscle_p9">Not "let's build community" but "do you want to grab coffee Thursday at 10?" Not "I should be more social" but "I will ask one person how they really are — and listen until they finish."</div>
 
-Not "let's build community" but "do you want to grab coffee Thursday at 10?" Not "I should be more social" but "I will ask one person how they really are — and listen until they finish."
+<div data-i18n-html="article_social-muscle_p10">Social discipline is not loud. It is the quiet decision to be the one who initiates, even when it is easier to wait to be invited.</div>
 
-Social discipline is not loud. It is the quiet decision to be the one who initiates, even when it is easier to wait to be invited.
+<div data-i18n-html="article_social-muscle_p11"><h2>Community Over Algorithm</h2></div>
 
-## Community Over Algorithm
+<div data-i18n-html="article_social-muscle_p12">The algorithm gives you an audience. Community gives you a room. An audience claps. A community notices when you are missing.</div>
 
-The algorithm gives you an audience. Community gives you a room. An audience claps. A community notices when you are missing.
-
-Tonight, send one message you have been postponing. Not to be seen, but to see someone. The social muscle does not grow in the gym of viral clips — it grows in the small, unrecorded rep of reaching out.
+<div data-i18n-html="article_social-muscle_p13">Tonight, send one message you have been postponing. Not to be seen, but to see someone. The social muscle does not grow in the gym of viral clips — it grows in the small, unrecorded rep of reaching out.</div>

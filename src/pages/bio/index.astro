@@ -294,7 +294,7 @@ import Layout from "../../layouts/Layout.astro";
     <div class="avatar">MH</div>
     <h1 class="name">Motiva Hub</h1>
     <p class="handle">@the.motivahub</p>
-    <p class="bio-text">
+    <p class="bio-text" data-i18n="bioTagline">
       Mindset · Discipline · Habits<br>
       <strong>Your daily drive to become unstoppable.</strong>
     </p>
@@ -304,25 +304,25 @@ import Layout from "../../layouts/Layout.astro";
   <div class="stats">
     <div class="stat">
       <div class="stat-number">156+</div>
-      <div class="stat-label">Articles</div>
+      <div class="stat-label" data-i18n="bioStatArticles">Articles</div>
     </div>
     <div class="stat">
       <div class="stat-number">16</div>
-      <div class="stat-label">Topics</div>
+      <div class="stat-label" data-i18n="bioStatTopics">Topics</div>
     </div>
     <div class="stat">
       <div class="stat-number">30</div>
-      <div class="stat-label">Day Challenge</div>
+      <div class="stat-label" data-i18n="bioStatChallenge">Day Challenge</div>
     </div>
   </div>
 
   <!-- Featured -->
   <div class="featured">
-    <div class="featured-title">Featured</div>
+    <div class="featured-title" data-i18n="bioFeaturedLabel">Featured</div>
     <a href="/30-days-discipline/" class="featured-card">
-      <div class="featured-badge">Free Download</div>
+      <div class="featured-badge" data-i18n="bioFeaturedBadge">Free Download</div>
       <h3>30 Days of Discipline</h3>
-      <p>Your complete guide to building unbreakable habits and mental toughness. Free PDF + daily tracker.</p>
+      <p data-i18n="bioFeaturedDesc">Your complete guide to building unbreakable habits and mental toughness. Free PDF + daily tracker.</p>
     </a>
   </div>
 
@@ -332,8 +332,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/journal/" class="link-item">
       <div class="link-icon icon-yellow">📝</div>
       <div class="link-content">
-        <div class="link-title">Read Our Articles</div>
-        <div class="link-desc">156+ articles on mindset, habits & discipline</div>
+      <div class="link-title" data-i18n="bioLinkArticles">Read Our Articles</div>
+      <div class="link-desc" data-i18n="bioLinkArticlesDesc">156+ articles on mindset, habits & discipline</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -341,8 +341,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/30-days-discipline/" class="link-item">
       <div class="link-icon icon-green">🎯</div>
       <div class="link-content">
-        <div class="link-title">30-Day Challenge</div>
-        <div class="link-desc">Free PDF guide to build discipline in 30 days</div>
+        <div class="link-title" data-i18n="bioLinkChallenge">30-Day Challenge</div>
+        <div class="link-desc" data-i18n="bioLinkChallengeDesc">Free PDF guide to build discipline in 30 days</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -350,8 +350,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/tracker/" class="link-item">
       <div class="link-icon icon-blue">📊</div>
       <div class="link-content">
-        <div class="link-title">Habit Tracker</div>
-        <div class="link-desc">Track your daily habits & build streaks</div>
+        <div class="link-title" data-i18n="bioLinkTracker">Habit Tracker</div>
+        <div class="link-desc" data-i18n="bioLinkTrackerDesc">Track your daily habits & build streaks</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -359,8 +359,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/topics/" class="link-item">
       <div class="link-icon icon-purple">🧠</div>
       <div class="link-content">
-        <div class="link-title">Explore Topics</div>
-        <div class="link-desc">16 topics to transform every area of your life</div>
+        <div class="link-title" data-i18n="bioLinkTopics">Explore Topics</div>
+        <div class="link-desc" data-i18n="bioLinkTopicsDesc">16 topics to transform every area of your life</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -368,8 +368,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/quotes/" class="link-item">
       <div class="link-icon icon-orange">💬</div>
       <div class="link-content">
-        <div class="link-title">Daily Quotes</div>
-        <div class="link-desc">Inspiration to fuel your day</div>
+        <div class="link-title" data-i18n="bioLinkQuotes">Daily Quotes</div>
+        <div class="link-desc" data-i18n="bioLinkQuotesDesc">Inspiration to fuel your day</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -377,8 +377,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/books/" class="link-item">
       <div class="link-icon icon-pink">📚</div>
       <div class="link-content">
-        <div class="link-title">Book Reviews</div>
-        <div class="link-desc">Best books for growth & success</div>
+        <div class="link-title" data-i18n="bioLinkBooks">Book Reviews</div>
+        <div class="link-desc" data-i18n="bioLinkBooksDesc">Best books for growth & success</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -386,8 +386,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/podcast/" class="link-item">
       <div class="link-icon icon-teal">🎧</div>
       <div class="link-content">
-        <div class="link-title">Podcast</div>
-        <div class="link-desc">Listen & learn on the go</div>
+        <div class="link-title" data-i18n="bioLinkPodcast">Podcast</div>
+        <div class="link-desc" data-i18n="bioLinkPodcastDesc">Listen & learn on the go</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -395,8 +395,8 @@ import Layout from "../../layouts/Layout.astro";
     <a href="/contact/" class="link-item">
       <div class="link-icon icon-red">✉️</div>
       <div class="link-content">
-        <div class="link-title">Contact Us</div>
-        <div class="link-desc">Get in touch or collaborate</div>
+        <div class="link-title" data-i18n="bioLinkContact">Contact Us</div>
+        <div class="link-desc" data-i18n="bioLinkContactDesc">Get in touch or collaborate</div>
       </div>
       <div class="link-arrow">→</div>
     </a>
@@ -408,7 +408,7 @@ import Layout from "../../layouts/Layout.astro";
     <div class="footer-logo">
       <a href="https://the-motivahub.com">the-motivahub.com</a>
     </div>
-    <div class="footer-tagline">Discipline is the bridge between goals and accomplishment.</div>
+    <div class="footer-tagline" data-i18n="bioFooterTagline">Discipline is the bridge between goals and accomplishment.</div>
   </div>
 
 </div>

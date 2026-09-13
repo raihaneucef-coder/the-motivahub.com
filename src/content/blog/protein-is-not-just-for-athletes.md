@@ -39,26 +39,25 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p2"><strong>Protein Is Not Just for Athletes</strong> — practical guide based on real experiments. Protein Is Not Just for Athletes works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Protein Is Not Just for Athletes** — practical guide based on real experiments. Protein Is Not Just for Athletes works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p3"><h1>Protein Is Not Just for Athletes</h1>
+We think protein is for bodybuilders. It is for anyone who wants to feel full and keep muscle.</div>
 
-# Protein Is Not Just for Athletes
-We think protein is for bodybuilders. It is for anyone who wants to feel full and keep muscle.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p4">When you eat enough protein, you stay satisfied longer. You protect muscle while you lose fat. You give your body the material it needs to repair, every day.</div>
 
-When you eat enough protein, you stay satisfied longer. You protect muscle while you lose fat. You give your body the material it needs to repair, every day.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p5"><strong>Most people eat enough to survive, not enough to thrive.</strong></div>
 
-**Most people eat enough to survive, not enough to thrive.**
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p6">You do not need to count grams obsessively. You need to make protein a part of every meal:</div>
 
-You do not need to count grams obsessively. You need to make protein a part of every meal:
-
-- Breakfast: eggs, yogurt, or beans.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p7">- Breakfast: eggs, yogurt, or beans.
 - Lunch: fish, chicken, lentils, or tofu.
-- Dinner: what you like, with a palm-sized portion of protein.
+- Dinner: what you like, with a palm-sized portion of protein.</div>
 
-If you do this, you will eat less without trying to eat less. You will keep more of the strength you build. And you will make the hard things — training, focusing, saying no to the extra snack — a little cheaper.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p8">If you do this, you will eat less without trying to eat less. You will keep more of the strength you build. And you will make the hard things — training, focusing, saying no to the extra snack — a little cheaper.</div>
 
-Protein is not a supplement. It is a foundation.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p9">Protein is not a supplement. It is a foundation.</div>
 
-Build on it, and everything else gets easier.
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p10">Build on it, and everything else gets easier.</div>

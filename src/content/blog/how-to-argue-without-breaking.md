@@ -40,22 +40,21 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_how-to-argue-without-breaking_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_how-to-argue-without-breaking_p2"><strong>How to Argue Without Breaking</strong> — practical guide based on real experiments. How to Argue Without Breaking works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**How to Argue Without Breaking** — practical guide based on real experiments. How to Argue Without Breaking works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_how-to-argue-without-breaking_p3"><h1>How to Argue Without Breaking</h1>
+Every relationship will argue. The question is not whether you will disagree, but how you will return.</div>
 
-# How to Argue Without Breaking
-Every relationship will argue. The question is not whether you will disagree, but how you will return.
+<div data-i18n-html="article_how-to-argue-without-breaking_p4">Most arguments break not because the topic is hard, but because people stop feeling safe. Voices rise, old scores are pulled in, and the goal shifts from understanding to winning. No one wins that game.</div>
 
-Most arguments break not because the topic is hard, but because people stop feeling safe. Voices rise, old scores are pulled in, and the goal shifts from understanding to winning. No one wins that game.
+<div data-i18n-html="article_how-to-argue-without-breaking_p5"><strong>Argue to understand, not to defeat.</strong> Try a simple structure that keeps connection intact:</div>
 
-**Argue to understand, not to defeat.** Try a simple structure that keeps connection intact:
+<div data-i18n-html="article_how-to-argue-without-breaking_p6">- <strong>Start soft.</strong> "I feel ___ when ___ and I need ___" is harder to hear than blame, and far more likely to be heard.
+- <strong>Stay in one room.</strong> One topic at a time. Bringing the last three months into tonight's argument guarantees no one is heard about today.
+- <strong>Take a regulated pause.</strong> When heart rate rises, say: "I want to stay kind — can we pause ten minutes and return?" Distance chosen together prevents distance that grows alone.</div>
 
-- **Start soft.** "I feel ___ when ___ and I need ___" is harder to hear than blame, and far more likely to be heard.
-- **Stay in one room.** One topic at a time. Bringing the last three months into tonight's argument guarantees no one is heard about today.
-- **Take a regulated pause.** When heart rate rises, say: "I want to stay kind — can we pause ten minutes and return?" Distance chosen together prevents distance that grows alone.
+<div data-i18n-html="article_how-to-argue-without-breaking_p7">The repair matters more than the perfection. After an argument, ask: "What did you need that I missed?" Listen without defending. The relationship is not weakened by conflict; it is strengthened by how you repair after it.</div>
 
-The repair matters more than the perfection. After an argument, ask: "What did you need that I missed?" Listen without defending. The relationship is not weakened by conflict; it is strengthened by how you repair after it.
-
-You do not need to be right to be close. You need to be safe enough to be honest.
+<div data-i18n-html="article_how-to-argue-without-breaking_p8">You do not need to be right to be close. You need to be safe enough to be honest.</div>

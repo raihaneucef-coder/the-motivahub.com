@@ -39,28 +39,27 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_growth-feels-like-breaking_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_growth-feels-like-breaking_p2"><strong>Growth Feels Like Breaking Before It Feels Like Becoming</strong> — practical guide based on real experiments. Growth Feels Like Breaking Before It Feels Like Becoming works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Growth Feels Like Breaking Before It Feels Like Becoming** — practical guide based on real experiments. Growth Feels Like Breaking Before It Feels Like Becoming works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_growth-feels-like-breaking_p3"><h1>Growth Feels Like Breaking Before It Feels Like Becoming</h1>
+You thought growth would feel like becoming. At first, it feels like breaking.</div>
 
-# Growth Feels Like Breaking Before It Feels Like Becoming
-You thought growth would feel like becoming. At first, it feels like breaking.
+<div data-i18n-html="article_growth-feels-like-breaking_p4">The old habits crack. The old stories do not fit. The person you were holds on while the person you are becoming tries to be born. It is uncomfortable, and it is exactly right.</div>
 
-The old habits crack. The old stories do not fit. The person you were holds on while the person you are becoming tries to be born. It is uncomfortable, and it is exactly right.
+<div data-i18n-html="article_growth-feels-like-breaking_p5"><strong>Growth does not ask for your comfort. It asks for your courage.</strong></div>
 
-**Growth does not ask for your comfort. It asks for your courage.**
+<div data-i18n-html="article_growth-feels-like-breaking_p6">Everyone wants the becoming. Few want the breaking that comes first. But you cannot become without breaking the shell that held the smaller you.</div>
 
-Everyone wants the becoming. Few want the breaking that comes first. But you cannot become without breaking the shell that held the smaller you.
+<div data-i18n-html="article_growth-feels-like-breaking_p7">The breaking is not failure. It is the sound of expansion:</div>
 
-The breaking is not failure. It is the sound of expansion:
+<div data-i18n-html="article_growth-feels-like-breaking_p8">- <strong>You question what you once defended.</strong> That is not confusion. That is wider vision.
+- <strong>You outgrow people and places you loved.</strong> That is not betrayal. That is evolution.
+- <strong>You feel uncertain.</strong> That is not lost. That is the space where the new you is forming.</div>
 
-- **You question what you once defended.** That is not confusion. That is wider vision.
-- **You outgrow people and places you loved.** That is not betrayal. That is evolution.
-- **You feel uncertain.** That is not lost. That is the space where the new you is forming.
+<div data-i18n-html="article_growth-feels-like-breaking_p9">Do not rush to feel comfortable again. Stay in the break. Breathe there.</div>
 
-Do not rush to feel comfortable again. Stay in the break. Breathe there.
+<div data-i18n-html="article_growth-feels-like-breaking_p10">Ask: what is trying to be born in me that needs this discomfort to arrive?</div>
 
-Ask: what is trying to be born in me that needs this discomfort to arrive?
-
-You are not breaking. You are becoming. And becoming, for a while, feels just like breaking — until one morning you realize the shell is gone and you are already flying.
+<div data-i18n-html="article_growth-feels-like-breaking_p11">You are not breaking. You are becoming. And becoming, for a while, feels just like breaking — until one morning you realize the shell is gone and you are already flying.</div>

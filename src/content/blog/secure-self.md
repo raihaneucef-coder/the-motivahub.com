@@ -37,28 +37,27 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_secure-self_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_secure-self_p2"><strong>The Secure Self — Why Focusing on Yourself Is the Safest Love</strong> — practical guide based on real experiments. The Secure Self — Why Focusing on Yourself Is the Safest Love works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Secure Self — Why Focusing on Yourself Is the Safest Love** — practical guide based on real experiments. The Secure Self — Why Focusing on Yourself Is the Safest Love works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_secure-self_p3"><h1>The Secure Self — Why Focusing on Yourself Is the Safest Love</h1>
+You were told that focusing on yourself is selfish. That you should think about others first, give more, be more available. And you did — until you noticed that the more you focused on people, the less you felt yourself. A more secure perspective has a different instruction: focus on yourself more than you focus on people. Not because people do not matter, but because self-love is the only love that is truly secure — safe.</div>
 
-# The Secure Self — Why Focusing on Yourself Is the Safest Love
-You were told that focusing on yourself is selfish. That you should think about others first, give more, be more available. And you did — until you noticed that the more you focused on people, the less you felt yourself. A more secure perspective has a different instruction: focus on yourself more than you focus on people. Not because people do not matter, but because self-love is the only love that is truly secure — safe.
+<div data-i18n-html="article_secure-self_p4"><h2>Love That Stays</h2></div>
 
-## Love That Stays
+<div data-i18n-html="article_secure-self_p5">Love that depends on someone else is always conditional. It needs a response, a return, a reassurance. Self-love needs nothing. It is the love that stays when the room is empty, when the message is not answered, when the applause stops. That is why it is secure. It does not leave when people leave.</div>
 
-Love that depends on someone else is always conditional. It needs a response, a return, a reassurance. Self-love needs nothing. It is the love that stays when the room is empty, when the message is not answered, when the applause stops. That is why it is secure. It does not leave when people leave.
+<div data-i18n-html="article_secure-self_p6">A timeless principle says it plainly: "You cannot pour from an empty cup, but you also cannot love well from an empty self." The people who love others best are not the ones who forgot themselves — they are the ones who remembered themselves first.</div>
 
-A timeless principle says it plainly: "You cannot pour from an empty cup, but you also cannot love well from an empty self." The people who love others best are not the ones who forgot themselves — they are the ones who remembered themselves first.
+<div data-i18n-html="article_secure-self_p7"><h2>Focusing on Yourself Is Not Selfish</h2></div>
 
-## Focusing on Yourself Is Not Selfish
+<div data-i18n-html="article_secure-self_p8">Focusing on yourself is not turning away from people. It is turning toward the only person you will be with for the rest of your life. The hour you protect for your mind, the boundary you keep for your peace, the habit you repeat for your body — none of these take love away from people. They make your love for people sustainable.</div>
 
-Focusing on yourself is not turning away from people. It is turning toward the only person you will be with for the rest of your life. The hour you protect for your mind, the boundary you keep for your peace, the habit you repeat for your body — none of these take love away from people. They make your love for people sustainable.
+<div data-i18n-html="article_secure-self_p9">Ask: what would focusing on yourself look like today? Not tomorrow, not when life is easier — today. Perhaps it is saying no to one request that drains you. Perhaps it is walking alone for twenty minutes without your phone. Perhaps it is writing the one objective that is yours, not theirs.</div>
 
-Ask: what would focusing on yourself look like today? Not tomorrow, not when life is easier — today. Perhaps it is saying no to one request that drains you. Perhaps it is walking alone for twenty minutes without your phone. Perhaps it is writing the one objective that is yours, not theirs.
+<div data-i18n-html="article_secure-self_p10"><h2>Loving Yourself Means You Have a Heart</h2></div>
 
-## Loving Yourself Means You Have a Heart
+<div data-i18n-html="article_secure-self_p11">You asked if I have a heart. The better question is: do you have a heart for yourself? A heart that does not only beat for others, but also beats for you. The most disciplined minds are not the hardest on themselves — they are the kindest, in a disciplined way. They keep promises to themselves with the same seriousness they keep promises to others.</div>
 
-You asked if I have a heart. The better question is: do you have a heart for yourself? A heart that does not only beat for others, but also beats for you. The most disciplined minds are not the hardest on themselves — they are the kindest, in a disciplined way. They keep promises to themselves with the same seriousness they keep promises to others.
-
-So tonight, do one thing that is secure: do one thing only for yourself, because you love yourself, and need no other reason. That one thing, repeated, is how you become the person who can love people without losing yourself.
+<div data-i18n-html="article_secure-self_p12">So tonight, do one thing that is secure: do one thing only for yourself, because you love yourself, and need no other reason. That one thing, repeated, is how you become the person who can love people without losing yourself.</div>

@@ -39,22 +39,21 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_success-is-a-direction_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_success-is-a-direction_p2"><strong>Success Is a Direction, Not a Destination</strong> — practical guide based on real experiments. Success Is a Direction, Not a Destination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Success Is a Direction, Not a Destination** — practical guide based on real experiments. Success Is a Direction, Not a Destination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_success-is-a-direction_p3"><h1>Success Is a Direction, Not a Destination</h1>
+We picture success as a door. Once we walk through it, we will finally feel done.</div>
 
-# Success Is a Direction, Not a Destination
-We picture success as a door. Once we walk through it, we will finally feel done.
+<div data-i18n-html="article_success-is-a-direction_p4">No one who has walked through that door describes it that way. They describe what happened next: another hallway, another door.</div>
 
-No one who has walked through that door describes it that way. They describe what happened next: another hallway, another door.
+<div data-i18n-html="article_success-is-a-direction_p5"><strong>Success is not a destination you reach. It is a direction you keep choosing.</strong></div>
 
-**Success is not a destination you reach. It is a direction you keep choosing.**
+<div data-i18n-html="article_success-is-a-direction_p6">The person who sees success as a place is always anxious — have I arrived, am I behind, will I lose it? The person who sees success as a direction is calmer — am I walking north today, even a little?</div>
 
-The person who sees success as a place is always anxious — have I arrived, am I behind, will I lose it? The person who sees success as a direction is calmer — am I walking north today, even a little?
+<div data-i18n-html="article_success-is-a-direction_p7">Direction is kinder and more useful. It lets you course-correct without shame. Missed a day? You did not fail the destination; you simply drifted east for a day. Come back north tomorrow.</div>
 
-Direction is kinder and more useful. It lets you course-correct without shame. Missed a day? You did not fail the destination; you simply drifted east for a day. Come back north tomorrow.
+<div data-i18n-html="article_success-is-a-direction_p8">Try it this week. Pick one direction — health, craft, kindness — and ask each night: did I move north today? One walk, one page, one honest conversation. That is success, today.</div>
 
-Try it this week. Pick one direction — health, craft, kindness — and ask each night: did I move north today? One walk, one page, one honest conversation. That is success, today.
-
-Destinations end. Directions endure.
+<div data-i18n-html="article_success-is-a-direction_p9">Destinations end. Directions endure.</div>

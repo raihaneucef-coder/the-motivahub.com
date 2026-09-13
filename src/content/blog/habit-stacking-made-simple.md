@@ -39,30 +39,29 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_habit-stacking-made-simple_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_habit-stacking-made-simple_p2"><strong>Habit Stacking: Link New Habits to Old Ones</strong> — practical guide based on real experiments. Habit Stacking: Link New Habits to Old Ones works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Habit Stacking: Link New Habits to Old Ones** — practical guide based on real experiments. Habit Stacking: Link New Habits to Old Ones works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_habit-stacking-made-simple_p3"><h1>Habit Stacking: Link New Habits to Old Ones</h1>
+We try to build new habits in empty space. We say: I will meditate at 7 AM. But 7 AM does not yet mean anything to our brain.</div>
 
-# Habit Stacking: Link New Habits to Old Ones
-We try to build new habits in empty space. We say: I will meditate at 7 AM. But 7 AM does not yet mean anything to our brain.
+<div data-i18n-html="article_habit-stacking-made-simple_p4">Old habits already have space. They have a time, a place, and a cue that your brain knows by heart.</div>
 
-Old habits already have space. They have a time, a place, and a cue that your brain knows by heart.
+<div data-i18n-html="article_habit-stacking-made-simple_p5"><strong>The easiest way to build a new habit is to stack it on an old one.</strong></div>
 
-**The easiest way to build a new habit is to stack it on an old one.**
+<div data-i18n-html="article_habit-stacking-made-simple_p6">After I pour my coffee, I will write one line. After I brush my teeth, I will do ten squats. After I close my laptop, I will take a walk.</div>
 
-After I pour my coffee, I will write one line. After I brush my teeth, I will do ten squats. After I close my laptop, I will take a walk.
+<div data-i18n-html="article_habit-stacking-made-simple_p7">The formula is simple: <em>After [OLD HABIT], I will [NEW HABIT].</em></div>
 
-The formula is simple: *After [OLD HABIT], I will [NEW HABIT].*
+<div data-i18n-html="article_habit-stacking-made-simple_p8">It works because you do not need to remember a new time. You need to remember a sequence. The old habit becomes the reminder for the new one.</div>
 
-It works because you do not need to remember a new time. You need to remember a sequence. The old habit becomes the reminder for the new one.
+<div data-i18n-html="article_habit-stacking-made-simple_p9">Try it with one stack this week:</div>
 
-Try it with one stack this week:
+<div data-i18n-html="article_habit-stacking-made-simple_p10">- <strong>Choose one anchor.</strong> Something you do every day without thinking: coffee, teeth, shoes on.
+- <strong>Choose one tiny habit.</strong> So small it takes less than two minutes.
+- <strong>Say the stack out loud once.</strong> "After I pour coffee, I will open my journal."</div>
 
-- **Choose one anchor.** Something you do every day without thinking: coffee, teeth, shoes on.
-- **Choose one tiny habit.** So small it takes less than two minutes.
-- **Say the stack out loud once.** "After I pour coffee, I will open my journal."
+<div data-i18n-html="article_habit-stacking-made-simple_p11">You do not need more discipline. You need a better link.</div>
 
-You do not need more discipline. You need a better link.
-
-Stack it, and the new habit stops being new — it just becomes what you do next.
+<div data-i18n-html="article_habit-stacking-made-simple_p12">Stack it, and the new habit stops being new — it just becomes what you do next.</div>

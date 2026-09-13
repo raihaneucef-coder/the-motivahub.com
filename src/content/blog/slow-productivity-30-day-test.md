@@ -42,272 +42,271 @@ relatedArticles:
   - "discipline-beat-motivation"
 ---
 
-# I Tried Slow Productivity for 30 Days. Here's What Actually Changed.
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_slow-productivity-30-day-test_p1"><h1>I Tried Slow Productivity for 30 Days. Here's What Actually Changed.</h1>
+<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_slow-productivity-30-day-test_p2"><strong>Slow productivity</strong> is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days and cut my active projects in half while doubling output quality. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.</div>
 
-**Slow productivity** is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days and cut my active projects in half while doubling output quality. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.
+<div data-i18n-html="article_slow-productivity-30-day-test_p3">I've been a productivity nerd for 15 years. I've read every book. Tried every system. Built apps to track my habits. Spent $2,000+ on courses. The whole thing.</div>
 
-I've been a productivity nerd for 15 years. I've read every book. Tried every system. Built apps to track my habits. Spent $2,000+ on courses. The whole thing.
+<div data-i18n-html="article_slow-productivity-30-day-test_p4">In June 2026, I tried Cal Newport's "Slow Productivity" for 30 days. The principle is deceptively simple: <strong>do fewer things, work at a natural pace, obsess over quality</strong>. Three rules. No frameworks. No life hacks. Just constraints.</div>
 
-In June 2026, I tried Cal Newport's "Slow Productivity" for 30 days. The principle is deceptively simple: **do fewer things, work at a natural pace, obsess over quality**. Three rules. No frameworks. No life hacks. Just constraints.
+<div data-i18n-html="article_slow-productivity-30-day-test_p5">I expected to fail. I'd been running 8-12 active projects simultaneously for years. That's what a "productive person" does, right? More projects = more value. More output = more success.</div>
 
-I expected to fail. I'd been running 8-12 active projects simultaneously for years. That's what a "productive person" does, right? More projects = more value. More output = more success.
+<div data-i18n-html="article_slow-productivity-30-day-test_p6">Thirty days later, I'd cut my active projects in half, doubled my output quality (measurable: clients, peer reviews), and worked fewer hours. I also fired two clients that weren't worth the time. This is what I learned.</div>
 
-Thirty days later, I'd cut my active projects in half, doubled my output quality (measurable: clients, peer reviews), and worked fewer hours. I also fired two clients that weren't worth the time. This is what I learned.
+<div data-i18n-html="article_slow-productivity-30-day-test_p7"><h2>The Three Principles (And Why I Failed Them)</h2></div>
 
-## The Three Principles (And Why I Failed Them)
+<div data-i18n-html="article_slow-productivity-30-day-test_p8">Before the test, I read Cal Newport's book. The framework is brutally simple:</div>
 
-Before the test, I read Cal Newport's book. The framework is brutally simple:
+<div data-i18n-html="article_slow-productivity-30-day-test_p9">1. <strong>Do fewer things.</strong> No more than 2-3 active projects at any time.
+2. <strong>Work at a natural pace.</strong> Sustainable intensity, not sprints.
+3. <strong>Obsess over quality.</strong> Quality compounds. Speed fades.</div>
 
-1. **Do fewer things.** No more than 2-3 active projects at any time.
-2. **Work at a natural pace.** Sustainable intensity, not sprints.
-3. **Obsess over quality.** Quality compounds. Speed fades.
+<div data-i18n-html="article_slow-productivity-30-day-test_p10">Sounds obvious. Was impossible for me to follow. Here's why I failed each one at first.</div>
 
-Sounds obvious. Was impossible for me to follow. Here's why I failed each one at first.
+<div data-i18n-html="article_slow-productivity-30-day-test_p11"><h3>Failure 1: I had 9 active projects.</h3></div>
 
-### Failure 1: I had 9 active projects.
-
-When I started counting, I had:
+<div data-i18n-html="article_slow-productivity-30-day-test_p12">When I started counting, I had:
 - 3 ongoing client projects
 - 2 side businesses I was "working on"
 - 1 newsletter
 - 1 YouTube channel
 - 1 book proposal
-- 1 podcast idea
+- 1 podcast idea</div>
 
-Nine. I claimed I was "managing" all of them. I wasn't. I was context-switching between them daily, making little progress on any. Each project got maybe 2-3 hours per week of real focused work.
+<div data-i18n-html="article_slow-productivity-30-day-test_p13">Nine. I claimed I was "managing" all of them. I wasn't. I was context-switching between them daily, making little progress on any. Each project got maybe 2-3 hours per week of real focused work.</div>
 
-Cal Newport's rule: pick 2-3 max. That's it. Everything else goes on the shelf.
+<div data-i18n-html="article_slow-productivity-30-day-test_p14">Cal Newport's rule: pick 2-3 max. That's it. Everything else goes on the shelf.</div>
 
-I panicked. How do you choose which projects to keep?
+<div data-i18n-html="article_slow-productivity-30-day-test_p15">I panicked. How do you choose which projects to keep?</div>
 
-### Failure 2: I worked at sprint pace on all of them.
+<div data-i18n-html="article_slow-productivity-30-day-test_p16"><h3>Failure 2: I worked at sprint pace on all of them.</h3></div>
 
-Each project got a "sprint" mentality. I'd have 2-hour blocks where I tried to finish tasks. I was busy, exhausted, and producing mediocre work.
+<div data-i18n-html="article_slow-productivity-30-day-test_p17">Each project got a "sprint" mentality. I'd have 2-hour blocks where I tried to finish tasks. I was busy, exhausted, and producing mediocre work.</div>
 
-Natural pace means: longer time blocks (90+ minutes), fewer interruptions, no "crunch mode." The opposite of what hustle culture teaches.
+<div data-i18n-html="article_slow-productivity-30-day-test_p18">Natural pace means: longer time blocks (90+ minutes), fewer interruptions, no "crunch mode." The opposite of what hustle culture teaches.</div>
 
-This was psychologically harder than reducing projects. Slowing down felt like losing. It felt lazy.
+<div data-i18n-html="article_slow-productivity-30-day-test_p19">This was psychologically harder than reducing projects. Slowing down felt like losing. It felt lazy.</div>
 
-### Failure 3: I confused speed with quality.
+<div data-i18n-html="article_slow-productivity-30-day-test_p20"><h3>Failure 3: I confused speed with quality.</h3></div>
 
-I'd measure productivity by tasks completed, not quality shipped. "I wrote 5 articles" felt more productive than "I wrote 1 excellent article." But over a year, the 1 excellent article compounds. The 5 mediocre ones disappear.
+<div data-i18n-html="article_slow-productivity-30-day-test_p21">I'd measure productivity by tasks completed, not quality shipped. "I wrote 5 articles" felt more productive than "I wrote 1 excellent article." But over a year, the 1 excellent article compounds. The 5 mediocre ones disappear.</div>
 
-The shift: I started measuring by outcomes, not outputs.
+<div data-i18n-html="article_slow-productivity-30-day-test_p22">The shift: I started measuring by outcomes, not outputs.</div>
 
-## The 30-Day Test Protocol
+<div data-i18n-html="article_slow-productivity-30-day-test_p23"><h2>The 30-Day Test Protocol</h2></div>
 
-After two weeks of failing, I designed a more structured test. Here's what worked:
+<div data-i18n-html="article_slow-productivity-30-day-test_p24">After two weeks of failing, I designed a more structured test. Here's what worked:</div>
 
-### Week 1: Audit your projects.
+<div data-i18n-html="article_slow-productivity-30-day-test_p25"><h3>Week 1: Audit your projects.</h3></div>
 
-List every project you're currently "managing." For each, answer honestly:
+<div data-i18n-html="article_slow-productivity-30-day-test_p26">List every project you're currently "managing." For each, answer honestly:</div>
 
-- "If this project didn't exist, would I start it today?"
+<div data-i18n-html="article_slow-productivity-30-day-test_p27">- "If this project didn't exist, would I start it today?"
 - "What's the highest-quality version of this project?"
-- "If I had 1 hour/week, what would I do on this project?"
+- "If I had 1 hour/week, what would I do on this project?"</div>
 
-If the answer to question 1 is "no" or "maybe," the project dies. No guilt. Just shelf it.
+<div data-i18n-html="article_slow-productivity-30-day-test_p28">If the answer to question 1 is "no" or "maybe," the project dies. No guilt. Just shelf it.</div>
 
-I killed: 1 side business, the podcast idea, and the book proposal. I kept: 2 client projects, the newsletter, and one side business I'd been ignoring.
+<div data-i18n-html="article_slow-productivity-30-day-test_p29">I killed: 1 side business, the podcast idea, and the book proposal. I kept: 2 client projects, the newsletter, and one side business I'd been ignoring.</div>
 
-Down from 9 to 4. (Cal says 2-3 max. I held onto 4. Small rebellion.)
+<div data-i18n-html="article_slow-productivity-30-day-test_p30">Down from 9 to 4. (Cal says 2-3 max. I held onto 4. Small rebellion.)</div>
 
-### Week 2: Redesign your calendar.
+<div data-i18n-html="article_slow-productivity-30-day-test_p31"><h3>Week 2: Redesign your calendar.</h3></div>
 
-Each week, I blocked out 3 deep work sessions (90 minutes minimum) for each active project. That's 12 sessions per week for 4 projects. Realistic.
+<div data-i18n-html="article_slow-productivity-30-day-test_p32">Each week, I blocked out 3 deep work sessions (90 minutes minimum) for each active project. That's 12 sessions per week for 4 projects. Realistic.</div>
 
-But here's the change: **no more than 2 sessions per day.** On Tuesdays, I'd work on Client A and the newsletter. Wednesdays: Client B and the side business. Mondays: planning only.
+<div data-i18n-html="article_slow-productivity-30-day-test_p33">But here's the change: <strong>no more than 2 sessions per day.</strong> On Tuesdays, I'd work on Client A and the newsletter. Wednesdays: Client B and the side business. Mondays: planning only.</div>
 
-This rhythm let me focus. Each session was single-task. No switching.
+<div data-i18n-html="article_slow-productivity-30-day-test_p34">This rhythm let me focus. Each session was single-task. No switching.</div>
 
-### Week 3: Remove the busy signals.
+<div data-i18n-html="article_slow-productivity-30-day-test_p35"><h3>Week 3: Remove the busy signals.</h3></div>
 
-I deleted:
+<div data-i18n-html="article_slow-productivity-30-day-test_p36">I deleted:
 - Slack from my phone
 - Twitter from my dock
 - 4 calendar meetings that weren't necessary
-- 1 daily email notification sound
+- 1 daily email notification sound</div>
 
-The goal was fewer inputs. Busyness feels like productivity. It's not.
+<div data-i18n-html="article_slow-productivity-30-day-test_p37">The goal was fewer inputs. Busyness feels like productivity. It's not.</div>
 
-### Week 4: Quality obsession.
+<div data-i18n-html="article_slow-productivity-30-day-test_p38"><h3>Week 4: Quality obsession.</h3></div>
 
-Each Friday, I reviewed one piece of work from the week. Not "is it done?" — "is it the highest-quality version of itself?"
+<div data-i18n-html="article_slow-productivity-30-day-test_p39">Each Friday, I reviewed one piece of work from the week. Not "is it done?" — "is it the highest-quality version of itself?"</div>
 
-I started asking:
+<div data-i18n-html="article_slow-productivity-30-day-test_p40">I started asking:
 - "Would I be proud to show this to the best person in my field?"
 - "Is this the version I'd write if I had unlimited time?"
-- "If I deleted this, would anyone notice? Would anyone care?"
+- "If I deleted this, would anyone notice? Would anyone care?"</div>
 
-Most of my work failed these questions. I redid one article four times before shipping. Then shipped it. It's now the highest-performing article I've written.
+<div data-i18n-html="article_slow-productivity-30-day-test_p41">Most of my work failed these questions. I redid one article four times before shipping. Then shipped it. It's now the highest-performing article I've written.</div>
 
-## What Changed: The Data
+<div data-i18n-html="article_slow-productivity-30-day-test_p42"><h2>What Changed: The Data</h2></div>
 
-After 30 days, here's what I tracked:
+<div data-i18n-html="article_slow-productivity-30-day-test_p43">After 30 days, here's what I tracked:</div>
 
-**Time-related:**
+<div data-i18n-html="article_slow-productivity-30-day-test_p44"><strong>Time-related:</strong>
 - Hours worked per week: 38 (down from 52)
 - Deep work blocks: 4.2 per day (up from 2.1)
 - Context switches per day: 8 (down from 27)
-- Meetings per week: 6 (down from 11)
+- Meetings per week: 6 (down from 11)</div>
 
-**Quality-related:**
+<div data-i18n-html="article_slow-productivity-30-day-test_p45"><strong>Quality-related:</strong>
 - Client NPS scores: +18 points
 - Articles published: 4 (down from 7), but with 2x average reading time
 - Side business revenue: +35% (same hours, better quality)
-- Client retention: 100% (vs. 67% in prior 90 days)
+- Client retention: 100% (vs. 67% in prior 90 days)</div>
 
-**Personal:**
+<div data-i18n-html="article_slow-productivity-30-day-test_p46"><strong>Personal:</strong>
 - Stress on Sunday: significantly lower
 - Energy on Friday afternoon: high (was exhausted)
 - Sleep quality: improved
-- Decision fatigue: dramatically reduced
+- Decision fatigue: dramatically reduced</div>
 
-**Surprise wins:**
+<div data-i18n-html="article_slow-productivity-30-day-test_p47"><strong>Surprise wins:</strong>
 - I started saying no more easily. Firing projects gave me permission to refuse new ones.
 - I became more honest about my capacity. "Can I take on more?" became a real question instead of a default yes.
-- I made better decisions. With fewer inputs, my judgment improved.
+- I made better decisions. With fewer inputs, my judgment improved.</div>
 
-## Why This Works (The Underlying Theory)
+<div data-i18n-html="article_slow-productivity-30-day-test_p48"><h2>Why This Works (The Underlying Theory)</h2></div>
 
-Slow productivity is based on three research findings:
+<div data-i18n-html="article_slow-productivity-30-day-test_p49">Slow productivity is based on three research findings:</div>
 
-1. **Cognitive switching cost.** When you switch between projects, your brain pays a "tax" of 15-25 minutes to refocus. Do this 27 times a day (my old number) and you lose 6+ hours of real work.
+<div data-i18n-html="article_slow-productivity-30-day-test_p50">1. <strong>Cognitive switching cost.</strong> When you switch between projects, your brain pays a "tax" of 15-25 minutes to refocus. Do this 27 times a day (my old number) and you lose 6+ hours of real work.</div>
 
-2. **Sustainable pace beats sprint pace.** Cal cites the "toilet assumption" — the same assumption that managers eventually figure out that employees who work fewer hours produce more, not less.
+<div data-i18n-html="article_slow-productivity-30-day-test_p51">2. <strong>Sustainable pace beats sprint pace.</strong> Cal cites the "toilet assumption" — the same assumption that managers eventually figure out that employees who work fewer hours produce more, not less.</div>
 
-3. **Quality compounds.** A great piece of work, well-promoted, generates traffic and trust for years. A mediocre piece disappears. The economics favor depth.
+<div data-i18n-html="article_slow-productivity-30-day-test_p52">3. <strong>Quality compounds.</strong> A great piece of work, well-promoted, generates traffic and trust for years. A mediocre piece disappears. The economics favor depth.</div>
 
-The deeper lesson: my old approach (more projects, more hours, more output) was optimizing for **activity**, not **value**. They look similar in the moment but diverge massively over time.
+<div data-i18n-html="article_slow-productivity-30-day-test_p53">The deeper lesson: my old approach (more projects, more hours, more output) was optimizing for <strong>activity</strong>, not <strong>value</strong>. They look similar in the moment but diverge massively over time.</div>
 
-## What I Got Wrong (And How to Fix It)
+<div data-i18n-html="article_slow-productivity-30-day-test_p54"><h2>What I Got Wrong (And How to Fix It)</h2></div>
 
-I failed the test three times before it stuck. Here's the failure pattern:
+<div data-i18n-html="article_slow-productivity-30-day-test_p55">I failed the test three times before it stuck. Here's the failure pattern:</div>
 
-**Attempt 1: "I'll just cut one project."**
-Cut one. Kept eight. No real change. Quit.
+<div data-i18n-html="article_slow-productivity-30-day-test_p56"><strong>Attempt 1: "I'll just cut one project."</strong>
+Cut one. Kept eight. No real change. Quit.</div>
 
-**Attempt 2: "I'll work fewer hours."**
-Worked fewer hours. Kept nine projects. Got less done. Felt worse. Quit.
+<div data-i18n-html="article_slow-productivity-30-day-test_p57"><strong>Attempt 2: "I'll work fewer hours."</strong>
+Worked fewer hours. Kept nine projects. Got less done. Felt worse. Quit.</div>
 
-**Attempt 3 (the one that stuck): "I'll go all-in."**
-Cut from 9 to 4 projects. Redesigned the calendar. Removed apps. Tracked quality obsessively.
+<div data-i18n-html="article_slow-productivity-30-day-test_p58"><strong>Attempt 3 (the one that stuck): "I'll go all-in."</strong>
+Cut from 9 to 4 projects. Redesigned the calendar. Removed apps. Tracked quality obsessively.</div>
 
-The lesson: slow productivity is all-or-nothing. Half-measures don't work. You can't "dabble" in slow productivity. Either you redesign your work life or you don't.
+<div data-i18n-html="article_slow-productivity-30-day-test_p59">The lesson: slow productivity is all-or-nothing. Half-measures don't work. You can't "dabble" in slow productivity. Either you redesign your work life or you don't.</div>
 
-If you're starting, **don't try to apply this slowly**. Pick a 30-day window. Commit. Track. Adjust.
+<div data-i18n-html="article_slow-productivity-30-day-test_p60">If you're starting, <strong>don't try to apply this slowly</strong>. Pick a 30-day window. Commit. Track. Adjust.</div>
 
-## The Counterintuitive Insights
+<div data-i18n-html="article_slow-productivity-30-day-test_p61"><h2>The Counterintuitive Insights</h2></div>
 
-After 30 days, here are the insights that surprised me most:
+<div data-i18n-html="article_slow-productivity-30-day-test_p62">After 30 days, here are the insights that surprised me most:</div>
 
-**1. Saying no is harder than doing more.**
-I had to refuse good opportunities. A high-paying client. A speaking gig. A partnership. All "good." None worth my current projects.
+<div data-i18n-html="article_slow-productivity-30-day-test_p63"><strong>1. Saying no is harder than doing more.</strong>
+I had to refuse good opportunities. A high-paying client. A speaking gig. A partnership. All "good." None worth my current projects.</div>
 
-**2. Slow productivity doesn't mean slow work.**
-It means less work but better. The work itself can still be intense. The pace is different.
+<div data-i18n-html="article_slow-productivity-30-day-test_p64"><strong>2. Slow productivity doesn't mean slow work.</strong>
+It means less work but better. The work itself can still be intense. The pace is different.</div>
 
-**3. Quality is observable.**
-I thought "quality" was subjective. It's not. Engagement metrics, repeat clients, peer feedback — they all measure quality. Slow productivity improves all of them.
+<div data-i18n-html="article_slow-productivity-30-day-test_p65"><strong>3. Quality is observable.</strong>
+I thought "quality" was subjective. It's not. Engagement metrics, repeat clients, peer feedback — they all measure quality. Slow productivity improves all of them.</div>
 
-**4. The hardest part isn't the work.**
-It's deciding what to keep. Most of us are afraid to kill projects because we fear what we'll miss. But the cost of maintaining bad projects is higher than the cost of killing them.
+<div data-i18n-html="article_slow-productivity-30-day-test_p66"><strong>4. The hardest part isn't the work.</strong>
+It's deciding what to keep. Most of us are afraid to kill projects because we fear what we'll miss. But the cost of maintaining bad projects is higher than the cost of killing them.</div>
 
-**5. This isn't just for work.**
-The same principle applies to hobbies, side projects, social commitments. 2-3 active things. Obsess over quality. Natural pace. The pattern is universal.
+<div data-i18n-html="article_slow-productivity-30-day-test_p67"><strong>5. This isn't just for work.</strong>
+The same principle applies to hobbies, side projects, social commitments. 2-3 active things. Obsess over quality. Natural pace. The pattern is universal.</div>
 
-## What Comes After 30 Days
+<div data-i18n-html="article_slow-productivity-30-day-test_p68"><h2>What Comes After 30 Days</h2></div>
 
-After the initial test, I kept most of the system but adjusted:
+<div data-i18n-html="article_slow-productivity-30-day-test_p69">After the initial test, I kept most of the system but adjusted:</div>
 
-- **Active projects**: 4 (slightly above Cal's max of 2-3, but it works for my stage)
-- **Calendar redesign**: Still 90-minute deep work blocks, single-task per session
-- **Quality ritual**: Weekly review every Friday, "is this the highest-quality version?"
-- **No-meeting days**: Wednesdays and Fridays, no meetings
-- **Inputs removed**: Slack off phone, no Twitter notifications, calendar-only emails
+<div data-i18n-html="article_slow-productivity-30-day-test_p70">- <strong>Active projects</strong>: 4 (slightly above Cal's max of 2-3, but it works for my stage)
+- <strong>Calendar redesign</strong>: Still 90-minute deep work blocks, single-task per session
+- <strong>Quality ritual</strong>: Weekly review every Friday, "is this the highest-quality version?"
+- <strong>No-meeting days</strong>: Wednesdays and Fridays, no meetings
+- <strong>Inputs removed</strong>: Slack off phone, no Twitter notifications, calendar-only emails</div>
 
-The system isn't perfect. But it's 5x more sustainable than my old approach. And my output quality has measurably improved.
+<div data-i18n-html="article_slow-productivity-30-day-test_p71">The system isn't perfect. But it's 5x more sustainable than my old approach. And my output quality has measurably improved.</div>
 
-## The 30-Day Slow Productivity Test (Your Protocol)
+<div data-i18n-html="article_slow-productivity-30-day-test_p72"><h2>The 30-Day Slow Productivity Test (Your Protocol)</h2></div>
 
-If you want to test this for yourself:
+<div data-i18n-html="article_slow-productivity-30-day-test_p73">If you want to test this for yourself:</div>
 
-**Week 1: Audit + cut**
+<div data-i18n-html="article_slow-productivity-30-day-test_p74"><strong>Week 1: Audit + cut</strong>
 - List all active projects
 - Apply the "would I start this today?" test
 - Cut to 2-3 max
-- Refuse one new commitment this week
+- Refuse one new commitment this week</div>
 
-**Week 2: Redesign calendar**
+<div data-i18n-html="article_slow-productivity-30-day-test_p75"><strong>Week 2: Redesign calendar</strong>
 - Block 90-minute deep work sessions
 - No more than 2 sessions per day
-- Each session is single-task
+- Each session is single-task</div>
 
-**Week 3: Remove busy signals**
+<div data-i18n-html="article_slow-productivity-30-day-test_p76"><strong>Week 3: Remove busy signals</strong>
 - Delete apps that interrupt
 - Reduce meetings by 30%
-- Block "no meeting" days
+- Block "no meeting" days</div>
 
-**Week 4: Quality obsession**
+<div data-i18n-html="article_slow-productivity-30-day-test_p77"><strong>Week 4: Quality obsession</strong>
 - Friday review of best work from the week
 - Redo anything that doesn't pass the quality test
-- Track: hours worked, deep work blocks, quality score
+- Track: hours worked, deep work blocks, quality score</div>
 
-After 30 days, evaluate: did your output quality improve? Did your stress drop? If yes, keep going.
+<div data-i18n-html="article_slow-productivity-30-day-test_p78">After 30 days, evaluate: did your output quality improve? Did your stress drop? If yes, keep going.</div>
 
-## Books That That Helped
+<div data-i18n-html="article_slow-productivity-30-day-test_p79"><h2>Books That That Helped</h2></div>
 
-These are the books that shaped my slow productivity practice:
+<div data-i18n-html="article_slow-productivity-30-day-test_p80">These are the books that shaped my slow productivity practice:</div>
 
-**Foundational:**
-- **"Slow Productivity"** by Cal Newport — the source. The framework in full.
-- **"Deep Work"** by Cal Newport — for the deep work blocks principle.
-- **"Four Thousand Weeks"** by Oliver Burkeman — for the time-and-meaning reset.
-- **"Rest"** by Alex Soojung-Kim Pang — for the recovery-as-performance idea.
+<div data-i18n-html="article_slow-productivity-30-day-test_p81"><strong>Foundational:</strong>
+- <strong>"Slow Productivity"</strong> by Cal Newport — the source. The framework in full.
+- <strong>"Deep Work"</strong> by Cal Newport — for the deep work blocks principle.
+- <strong>"Four Thousand Weeks"</strong> by Oliver Burkeman — for the time-and-meaning reset.
+- <strong>"Rest"</strong> by Alex Soojung-Kim Pang — for the recovery-as-performance idea.</div>
 
-**Supporting:**
-- **"The ONE Thing"** by Gary Keller — for the "one project at a time" focus.
-- **"Essentialism"** by Greg McKeown — for the discipline of less.
+<div data-i18n-html="article_slow-productivity-30-day-test_p82"><strong>Supporting:</strong>
+- <strong>"The ONE Thing"</strong> by Gary Keller — for the "one project at a time" focus.
+- <strong>"Essentialism"</strong> by Greg McKeown — for the discipline of less.</div>
 
-You don't need to read all of them. Start with Slow Productivity. It contains the framework. The others deepen specific parts.
+<div data-i18n-html="article_slow-productivity-30-day-test_p83">You don't need to read all of them. Start with Slow Productivity. It contains the framework. The others deepen specific parts.</div>
 
-## The Honest Summary
+<div data-i18n-html="article_slow-productivity-30-day-test_p84"><h2>The Honest Summary</h2></div>
 
-I spent years believing that productivity meant doing more. Slow productivity taught me that productivity is doing fewer things, more deeply. The shift isn't obvious until you try it.
+<div data-i18n-html="article_slow-productivity-30-day-test_p85">I spent years believing that productivity meant doing more. Slow productivity taught me that productivity is doing fewer things, more deeply. The shift isn't obvious until you try it.</div>
 
-For 30 days, I cut my project load in half, redesigned my calendar around deep work, removed busy signals, and obsessed over quality. I worked fewer hours. I produced less output. I produced better output.
+<div data-i18n-html="article_slow-productivity-30-day-test_p86">For 30 days, I cut my project load in half, redesigned my calendar around deep work, removed busy signals, and obsessed over quality. I worked fewer hours. I produced less output. I produced better output.</div>
 
-The difference isn't visible day-to-day. It's visible over months. Over a year. Over a career.
+<div data-i18n-html="article_slow-productivity-30-day-test_p87">The difference isn't visible day-to-day. It's visible over months. Over a year. Over a career.</div>
 
-If you try this and it works for you, welcome to the slow club. If it doesn't work, you'll know within 30 days. Either way, you'll have data, not assumptions.
+<div data-i18n-html="article_slow-productivity-30-day-test_p88">If you try this and it works for you, welcome to the slow club. If it doesn't work, you'll know within 30 days. Either way, you'll have data, not assumptions.</div>
 
-The cost of staying busy is invisible. The benefit of slowing down is invisible — until it isn't.
+<div data-i18n-html="article_slow-productivity-30-day-test_p89">The cost of staying busy is invisible. The benefit of slowing down is invisible — until it isn't.</div>
 
-<div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_slow-productivity-30-day-test_p90"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>The books that started this thinking</strong></p>
 <p><a href="https://www.amazon.fr/dp/B0CC9LVDQ2?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=slow-productivity" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Slow Productivity by Cal Newport</a> — the framework that changed how I work</p>
 <p><a href="https://www.amazon.fr/dp/1455586692?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=slow-productivity" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Deep Work by Cal Newport</a> — the deep work blocks principle</p>
 <p><a href="https://www.amazon.fr/dp/0374159125?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=slow-productivity" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Four Thousand Weeks by Oliver Burkeman</a> — for the time-and-meaning reset</p>
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
-</div>
+</div></div>
 
----
+<div data-i18n-html="article_slow-productivity-30-day-test_p91">---</div>
 
-*Youssef Raihane tested slow productivity in 2026. He killed 3 projects, kept 4, doubled his output quality, and worked 27% fewer hours. He still uses the system. The fire-the-bad-clients phase was the hardest part.*
+<div data-i18n-html="article_slow-productivity-30-day-test_p92"><em>Youssef Raihane tested slow productivity in 2026. He killed 3 projects, kept 4, doubled his output quality, and worked 27% fewer hours. He still uses the system. The fire-the-bad-clients phase was the hardest part.</em></div>
 
-## Sources
+<div data-i18n-html="article_slow-productivity-30-day-test_p93"><h2>Sources</h2></div>
 
-1. *Cal Newport* — *Slow Productivity* (2024) — the framework tested
-2. *Cal Newport* — *Deep Work* (2016) — for the deep work blocks principle
-3. *Oliver Burkeman* — *Four Thousand Weeks* (2021) — for the time perspective
-4. *Alex Soojung-Kim Pang* — *Rest* (2020) — for the recovery-as-performance idea
-5. *Sophie Leroy* — "Why is it so hard to do my work?" (2009) — for the cognitive switching cost research
-6. *Cal Newport* — [calnewport.com](https://calnewport.com) — for the original slow productivity articles
+<div data-i18n-html="article_slow-productivity-30-day-test_p94">1. <em>Cal Newport</em> — <em>Slow Productivity</em> (2024) — the framework tested
+2. <em>Cal Newport</em> — <em>Deep Work</em> (2016) — for the deep work blocks principle
+3. <em>Oliver Burkeman</em> — <em>Four Thousand Weeks</em> (2021) — for the time perspective
+4. <em>Alex Soojung-Kim Pang</em> — <em>Rest</em> (2020) — for the recovery-as-performance idea
+5. <em>Sophie Leroy</em> — "Why is it so hard to do my work?" (2009) — for the cognitive switching cost research
+6. <em>Cal Newport</em> — <a href="https://calnewport.com">calnewport.com</a> — for the original slow productivity articles</div>
 
----
+<div data-i18n-html="article_slow-productivity-30-day-test_p95">---</div>
 
-**Slow productivity is the hallway, not the doorway.** Most of us try to start slow productivity by slowing down for an entire day. That is the hallway. The doorway is 2 minutes of quiet before opening the inbox. Our [2-Minute Rule guide](/journal/two-minute-rule-guide/) shows the 7-day protocol that makes the doorway automatic.
+<div data-i18n-html="article_slow-productivity-30-day-test_p96"><strong>Slow productivity is the hallway, not the doorway.</strong> Most of us try to start slow productivity by slowing down for an entire day. That is the hallway. The doorway is 2 minutes of quiet before opening the inbox. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the 7-day protocol that makes the doorway automatic.</div>
 
-The slow productivity mindset pairs naturally with the [Identity-Based 90-Day Test](/journal/identity-based-habits-90-day-test/) — the test that turns a slow day into a slow identity. For a quick read on the underlying research, see the [Atomic Habits review](/journal/atomic-habits-review/).
+<div data-i18n-html="article_slow-productivity-30-day-test_p97">The slow productivity mindset pairs naturally with the <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> — the test that turns a slow day into a slow identity. For a quick read on the underlying research, see the <a href="/journal/atomic-habits-review/">Atomic Habits review</a>.</div>

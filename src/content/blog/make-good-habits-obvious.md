@@ -39,29 +39,28 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_make-good-habits-obvious_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_make-good-habits-obvious_p2"><strong>Make Good Habits Obvious, Bad Habits Invisible</strong> — practical guide based on real experiments. Make Good Habits Obvious, Bad Habits Invisible works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Make Good Habits Obvious, Bad Habits Invisible** — practical guide based on real experiments. Make Good Habits Obvious, Bad Habits Invisible works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_make-good-habits-obvious_p3"><h1>Make Good Habits Obvious, Bad Habits Invisible</h1>
+Willpower is not the problem. Visibility is.</div>
 
-# Make Good Habits Obvious, Bad Habits Invisible
-Willpower is not the problem. Visibility is.
+<div data-i18n-html="article_make-good-habits-obvious_p4">We keep fruit in the back of the fridge and chips on the counter, then wonder why we eat chips. We keep the book in the drawer and the phone on the pillow, then wonder why we scroll.</div>
 
-We keep fruit in the back of the fridge and chips on the counter, then wonder why we eat chips. We keep the book in the drawer and the phone on the pillow, then wonder why we scroll.
+<div data-i18n-html="article_make-good-habits-obvious_p5"><strong>You do not need more discipline. You need a clearer path.</strong></div>
 
-**You do not need more discipline. You need a clearer path.**
+<div data-i18n-html="article_make-good-habits-obvious_p6">Make good habits obvious and bad habits invisible:</div>
 
-Make good habits obvious and bad habits invisible:
+<div data-i18n-html="article_make-good-habits-obvious_p7">- <strong>Want to read?</strong> Put the book on your pillow.
+- <strong>Want to move?</strong> Put your shoes by the door.
+- <strong>Want to scroll less?</strong> Put your phone in another room, not in your hand.</div>
 
-- **Want to read?** Put the book on your pillow.
-- **Want to move?** Put your shoes by the door.
-- **Want to scroll less?** Put your phone in another room, not in your hand.
+<div data-i18n-html="article_make-good-habits-obvious_p8">And the reverse is just as powerful:</div>
 
-And the reverse is just as powerful:
+<div data-i18n-html="article_make-good-habits-obvious_p9">- <strong>Want to snack less?</strong> Keep the snacks on the highest shelf, not the counter.
+- <strong>Want to watch less?</strong> Unplug the TV or log out. One extra step is enough to make you choose better.</div>
 
-- **Want to snack less?** Keep the snacks on the highest shelf, not the counter.
-- **Want to watch less?** Unplug the TV or log out. One extra step is enough to make you choose better.
+<div data-i18n-html="article_make-good-habits-obvious_p10">Design beats discipline every time. You do not have to be the person with the strongest will. You just have to be the person who made the good choice the easy choice.</div>
 
-Design beats discipline every time. You do not have to be the person with the strongest will. You just have to be the person who made the good choice the easy choice.
-
-Make it obvious today. Your future self will thank you for the clear path.
+<div data-i18n-html="article_make-good-habits-obvious_p11">Make it obvious today. Your future self will thank you for the clear path.</div>

@@ -39,30 +39,29 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_one-target-at-a-time_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_one-target-at-a-time_p2"><strong>One Target at a Time</strong> — practical guide based on real experiments. One Target at a Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**One Target at a Time** — practical guide based on real experiments. One Target at a Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_one-target-at-a-time_p3"><h1>One Target at a Time</h1>
+Most goals fail before they begin — not because they are too big, but because they are too vague.</div>
 
-# One Target at a Time
-Most goals fail before they begin — not because they are too big, but because they are too vague.
+<div data-i18n-html="article_one-target-at-a-time_p4">"I want to get fit." "I want to build something of my own." "I want to be better with money." Each of these is a direction, not a destination. And a direction, without an address, is just a mood. You cannot visit a mood every morning. You can only visit a target.</div>
 
-"I want to get fit." "I want to build something of my own." "I want to be better with money." Each of these is a direction, not a destination. And a direction, without an address, is just a mood. You cannot visit a mood every morning. You can only visit a target.
+<div data-i18n-html="article_one-target-at-a-time_p5"><strong>A real goal has coordinates.</strong> Not "get fit" but <em>run five kilometers without stopping by October</em>. Not "build something" but <em>ship the first version to ten people by the end of next month</em>. The difference sounds like bureaucracy. It is actually mercy — because a defined goal tells you, on any given ordinary Tuesday, exactly what today owes tomorrow.</div>
 
-**A real goal has coordinates.** Not "get fit" but *run five kilometers without stopping by October*. Not "build something" but *ship the first version to ten people by the end of next month*. The difference sounds like bureaucracy. It is actually mercy — because a defined goal tells you, on any given ordinary Tuesday, exactly what today owes tomorrow.
+<div data-i18n-html="article_one-target-at-a-time_p6">There is an old archery truth worth stealing: <strong>the archer does not aim at the field. She aims at one ring.</strong> Everything else — wind, distance, fatigue — gets managed <em>in service</em> of that ring, not instead of it. When you hold one clear target, decisions become cheap. Does this hour move me toward the ring or not? Most things do not. Let them go without grief.</div>
 
-There is an old archery truth worth stealing: **the archer does not aim at the field. She aims at one ring.** Everything else — wind, distance, fatigue — gets managed *in service* of that ring, not instead of it. When you hold one clear target, decisions become cheap. Does this hour move me toward the ring or not? Most things do not. Let them go without grief.
+<div data-i18n-html="article_one-target-at-a-time_p7">Three practices turn wishing into aiming:</div>
 
-Three practices turn wishing into aiming:
+<div data-i18n-html="article_one-target-at-a-time_p8">- <strong>Name the ring precisely.</strong> Write the goal so a stranger could verify whether you hit it. If a stranger cannot judge it, neither can you.
+- <strong>Reverse-engineer the road.</strong> Ask what must be true three months from now, then this month, then this week — until the goal dissolves into a task small enough for this afternoon.
+- <strong>Keep score visibly.</strong> A calendar with crossed-off days, a notebook with logged reps. Progress you cannot see is progress your motivation will never believe.</div>
 
-- **Name the ring precisely.** Write the goal so a stranger could verify whether you hit it. If a stranger cannot judge it, neither can you.
-- **Reverse-engineer the road.** Ask what must be true three months from now, then this month, then this week — until the goal dissolves into a task small enough for this afternoon.
-- **Keep score visibly.** A calendar with crossed-off days, a notebook with logged reps. Progress you cannot see is progress your motivation will never believe.
+<div data-i18n-html="article_one-target-at-a-time_p9">And when several targets call at once — career, body, family, craft — resist the urge to chase them all with equal fire. <strong>Serial focus beats parallel wishing.</strong> Give each target its season, its hours, its full attention, and rotate deliberately rather than frantically. The archer who fires at five rings at once hits the hay.</div>
 
-And when several targets call at once — career, body, family, craft — resist the urge to chase them all with equal fire. **Serial focus beats parallel wishing.** Give each target its season, its hours, its full attention, and rotate deliberately rather than frantically. The archer who fires at five rings at once hits the hay.
+<div data-i18n-html="article_one-target-at-a-time_p10">One warning deserves its own paragraph: the target will move. You will learn mid-flight that the ring you chose was standing in for something deeper — and that is not failure; that is feedback. Adjust without shame. The discipline was never in hitting the exact bullseye first try. It was in drawing the bow again, calmly, with better information.</div>
 
-One warning deserves its own paragraph: the target will move. You will learn mid-flight that the ring you chose was standing in for something deeper — and that is not failure; that is feedback. Adjust without shame. The discipline was never in hitting the exact bullseye first try. It was in drawing the bow again, calmly, with better information.
+<div data-i18n-html="article_one-target-at-a-time_p11">So write down the address. Clear enough to say out loud, close enough to reach this month, honest enough to scare you a little.</div>
 
-So write down the address. Clear enough to say out loud, close enough to reach this month, honest enough to scare you a little.
-
-Then visit it every single day — and let the days do the heavy lifting.
+<div data-i18n-html="article_one-target-at-a-time_p12">Then visit it every single day — and let the days do the heavy lifting.</div>

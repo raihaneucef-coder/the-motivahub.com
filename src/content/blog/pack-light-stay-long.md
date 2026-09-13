@@ -39,20 +39,19 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_pack-light-stay-long_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_pack-light-stay-long_p2"><strong>Pack Light, Stay Long</strong> — practical guide based on real experiments. Pack Light, Stay Long works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Pack Light, Stay Long** — practical guide based on real experiments. Pack Light, Stay Long works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_pack-light-stay-long_p3"><h1>Pack Light, Stay Long</h1>
+We pack as if we are moving house. Then we carry that house on our backs and wonder why travel feels heavy.</div>
 
-# Pack Light, Stay Long
-We pack as if we are moving house. Then we carry that house on our backs and wonder why travel feels heavy.
+<div data-i18n-html="article_pack-light-stay-long_p4">The travelers who stay longest pack lightest. Not because they own less, but because they decided what matters before they left.</div>
 
-The travelers who stay longest pack lightest. Not because they own less, but because they decided what matters before they left.
+<div data-i18n-html="article_pack-light-stay-long_p5"><strong>Light is a decision, not a packing technique.</strong> One bag, one pair of shoes that do three jobs, one book you will actually read. The rest is fear dressed as preparation.</div>
 
-**Light is a decision, not a packing technique.** One bag, one pair of shoes that do three jobs, one book you will actually read. The rest is fear dressed as preparation.
+<div data-i18n-html="article_pack-light-stay-long_p6">Staying long is where travel stops being tourism and starts being life. Tourism samples; staying tastes. You learn where the bread is bought at 7 AM, which bus is always late, how to say thank you so it sounds like you mean it. After two weeks, the city stops performing and starts revealing.</div>
 
-Staying long is where travel stops being tourism and starts being life. Tourism samples; staying tastes. You learn where the bread is bought at 7 AM, which bus is always late, how to say thank you so it sounds like you mean it. After two weeks, the city stops performing and starts revealing.
+<div data-i18n-html="article_pack-light-stay-long_p7">Try it once, even for a short trip. Pack half of what you think you need. Stay one day longer than you planned. Spend the extra day with no itinerary — walk, sit, ask one local where they eat.</div>
 
-Try it once, even for a short trip. Pack half of what you think you need. Stay one day longer than you planned. Spend the extra day with no itinerary — walk, sit, ask one local where they eat.
-
-You will not remember what you brought. You will remember what you left behind — and what you found because your hands were empty.
+<div data-i18n-html="article_pack-light-stay-long_p8">You will not remember what you brought. You will remember what you left behind — and what you found because your hands were empty.</div>

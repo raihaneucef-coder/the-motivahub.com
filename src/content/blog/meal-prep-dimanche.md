@@ -38,49 +38,48 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_meal-prep-dimanche_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_meal-prep-dimanche_p2"><strong>Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours</strong> — practical guide based on real experiments. Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours** — practical guide based on real experiments. Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_meal-prep-dimanche_p3"><h1>Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours</h1>
+The reason most people eat poorly is not lack of knowledge — it is lack of preparation. When you are hungry and there is no healthy food ready, you order delivery. Meal prep eliminates this problem.</div>
 
-# Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours
-The reason most people eat poorly is not lack of knowledge — it is lack of preparation. When you are hungry and there is no healthy food ready, you order delivery. Meal prep eliminates this problem.
+<div data-i18n-html="article_meal-prep-dimanche_p4"><h2>The Sunday System</h2></div>
 
-## The Sunday System
+<div data-i18n-html="article_meal-prep-dimanche_p5"><h3>Step 1: Plan (10 minutes)</h3>
+Choose 3-4 meals for the week. Keep it simple. You do not need gourmet recipes — you need nutritious, easy-to-make meals.</div>
 
-### Step 1: Plan (10 minutes)
-Choose 3-4 meals for the week. Keep it simple. You do not need gourmet recipes — you need nutritious, easy-to-make meals.
-
-Example:
+<div data-i18n-html="article_meal-prep-dimanche_p6">Example:
 - Breakfast: Overnight oats with fruit
 - Lunch: Chicken with rice and vegetables
 - Dinner: Salmon with sweet potato and salad
-- Snacks: Nuts, yogurt, fruit
+- Snacks: Nuts, yogurt, fruit</div>
 
-### Step 2: Shop (30 minutes)
-Buy only what you need for the planned meals. A list prevents impulse buys and food waste.
+<div data-i18n-html="article_meal-prep-dimanche_p7"><h3>Step 2: Shop (30 minutes)</h3>
+Buy only what you need for the planned meals. A list prevents impulse buys and food waste.</div>
 
-### Step 3: Cook (90 minutes)
+<div data-i18n-html="article_meal-prep-dimanche_p8"><h3>Step 3: Cook (90 minutes)</h3>
 - Cook proteins in bulk (chicken, fish, eggs)
 - Cook grains in bulk (rice, quinoa, pasta)
 - Chop vegetables for the week
 - Prepare sauces and dressings
-- Portion everything into containers
+- Portion everything into containers</div>
 
-### Step 4: Store
-Refrigerate meals for the first 3 days. Freeze the rest. Each morning, grab what you need.
+<div data-i18n-html="article_meal-prep-dimanche_p9"><h3>Step 4: Store</h3>
+Refrigerate meals for the first 3 days. Freeze the rest. Each morning, grab what you need.</div>
 
-## Benefits of Meal Prepping
+<div data-i18n-html="article_meal-prep-dimanche_p10"><h2>Benefits of Meal Prepping</h2></div>
 
-1. **Saves time** — 2 hours on Sunday = 10+ hours saved during the week
-2. **Saves money** — less food waste, fewer takeout orders
-3. **Reduces decision fatigue** — no daily "what should I eat?" decisions
-4. **Improves nutrition** — you control the ingredients and portions
-5. **Supports goals** — easier to hit protein, calorie, and nutrient targets
+<div data-i18n-html="article_meal-prep-dimanche_p11">1. <strong>Saves time</strong> — 2 hours on Sunday = 10+ hours saved during the week
+2. <strong>Saves money</strong> — less food waste, fewer takeout orders
+3. <strong>Reduces decision fatigue</strong> — no daily "what should I eat?" decisions
+4. <strong>Improves nutrition</strong> — you control the ingredients and portions
+5. <strong>Supports goals</strong> — easier to hit protein, calorie, and nutrient targets</div>
 
-> *Failing to plan is planning to fail. — Alan Lakein*
+<div data-i18n-html="article_meal-prep-dimanche_p12"><blockquote><em>Failing to plan is planning to fail. — Alan Lakein</em></blockquote></div>
 
-faq:
+<div data-i18n-html="article_meal-prep-dimanche_p13">faq:
   - q: "What is the most important principle here?"
     a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
   - q: "How do I apply this in my daily life?"
@@ -89,6 +88,6 @@ faq:
     a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
   - q: "How long before I see results?"
     a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----
+---</div>
 
-**Start meal prepping today.** Our [30 Days of Discipline](/30-days-discipline/) teaches you the habits of healthy eating. Track your progress with our [Habit Tracker](/tracker/).
+<div data-i18n-html="article_meal-prep-dimanche_p14"><strong>Start meal prepping today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you the habits of healthy eating. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

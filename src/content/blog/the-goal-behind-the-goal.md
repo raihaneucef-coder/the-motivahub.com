@@ -39,22 +39,21 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-> **Affiliate Disclosure**: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.
+<div data-i18n-html="article_the-goal-behind-the-goal_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
+<div data-i18n-html="article_the-goal-behind-the-goal_p2"><strong>The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working</strong> — practical guide based on real experiments. The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-**The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working** — practical guide based on real experiments. The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.
+<div data-i18n-html="article_the-goal-behind-the-goal_p3"><h1>The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working</h1>
+We set a goal and chase it. Then we wonder why motivation fades halfway.</div>
 
-# The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working
-We set a goal and chase it. Then we wonder why motivation fades halfway.
+<div data-i18n-html="article_the-goal-behind-the-goal_p4">Often the goal on paper is not the real goal.</div>
 
-Often the goal on paper is not the real goal.
+<div data-i18n-html="article_the-goal-behind-the-goal_p5">"I want to run a marathon" hides "I want to prove I can finish hard things." "I want to earn more" hides "I want to feel safe." "I want to write a book" hides "I want to be someone who keeps promises to himself."</div>
 
-"I want to run a marathon" hides "I want to prove I can finish hard things." "I want to earn more" hides "I want to feel safe." "I want to write a book" hides "I want to be someone who keeps promises to himself."
+<div data-i18n-html="article_the-goal-behind-the-goal_p6"><strong>The surface goal needs discipline. The hidden goal provides it.</strong></div>
 
-**The surface goal needs discipline. The hidden goal provides it.**
+<div data-i18n-html="article_the-goal-behind-the-goal_p7">When the hidden goal is clear, the boring work makes sense. Early runs are not punishment; they are evidence that you are becoming someone who does not quit. Saving is not deprivation; it is building safety.</div>
 
-When the hidden goal is clear, the boring work makes sense. Early runs are not punishment; they are evidence that you are becoming someone who does not quit. Saving is not deprivation; it is building safety.
+<div data-i18n-html="article_the-goal-behind-the-goal_p8">Ask the second question tonight. Write your goal, then ask: <em>why do I want this, really?</em> Write that answer too. Keep both visible.</div>
 
-Ask the second question tonight. Write your goal, then ask: *why do I want this, really?* Write that answer too. Keep both visible.
-
-The first goal gets you moving. The second goal keeps you moving when the first one feels heavy.
+<div data-i18n-html="article_the-goal-behind-the-goal_p9">The first goal gets you moving. The second goal keeps you moving when the first one feels heavy.</div>
