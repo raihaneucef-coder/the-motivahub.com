@@ -43,7 +43,7 @@ const rest = posts.filter((p) => p.id !== featured.id);
           <img class="card-img" src={featured.data.image} alt={featured.data.title} loading="lazy" />
         </a>
         <div class="card-pad">
-          <p class="card-meta">Featured · {featured.data.topic.toUpperCase()} · {featured.data.readTime}</p>
+          <p class="card-meta"><span data-i18n="featuredLabel">Featured</span> · {featured.data.topic.toUpperCase()} · {featured.data.readTime}</p>
           <h2><a href={`/journal/${featured.id}/`}>{featured.data.title}</a></h2>
           <p>{featured.data.description}</p>
           <p class="card-date">{featured.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
@@ -52,9 +52,9 @@ const rest = posts.filter((p) => p.id !== featured.id);
       </article>
 
       <div class="cta-strip">
-        <a class="btn btn-primary" href="/tools/discipline-quiz/">Take the Discipline Quiz</a>
-        <a class="btn btn-outline" href="/pdf/30-days-discipline/">Get the Free PDF</a>
-        <a class="btn btn-outline" href="/best/books/">Best Books 2026</a>
+        <a class="btn btn-primary" href="/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
+        <a class="btn btn-outline" href="/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
+        <a class="btn btn-outline" href="/best/books/" data-i18n="bestBooks2026Cta">Best Books 2026</a>
       </div>
 
       <div style="max-width:520px;margin:0 auto 24px;">
@@ -78,9 +78,9 @@ const rest = posts.filter((p) => p.id !== featured.id);
       <p id="no-results" hidden style="text-align:center;color:var(--muted);margin-top:32px;" data-i18n="noResults">No results found.</p>
 
       <nav class="pagination" aria-label="Pagination">
-        <span class="pagination-link disabled">← Newer</span>
+        <span class="pagination-link disabled" data-i18n="newerPagination">← Newer</span>
         <span class="pagination-current">Page 1 of {Math.ceil((posts.length - 1) / 12) + 1}</span>
-        <a class="pagination-link" href="/journal/page/2/">Older →</a>
+        <a class="pagination-link" href="/journal/page/2/" data-i18n="olderPagination">Older →</a>
       </nav>
     </div>
   </section>

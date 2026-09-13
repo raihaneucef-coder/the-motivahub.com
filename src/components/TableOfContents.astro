@@ -9,7 +9,7 @@ const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
 
 {tocItems.length >= 2 && (
   <nav class="toc" aria-label="Table of contents">
-    <p class="toc-title">On This Page</p>
+    <p class="toc-title" data-i18n="tocTitle">On This Page</p>
     <ul class="toc-list">
       {tocItems.map((h) => (
         <li class:list={["toc-item", `toc-depth-${h.depth}`]}>

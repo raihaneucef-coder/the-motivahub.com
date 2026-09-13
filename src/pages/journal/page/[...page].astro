@@ -40,9 +40,9 @@ const nextHref = page.url.next;
 
   <section class="page-head">
     <div class="container">
-      <p class="kicker">The Journal</p>
-      <h1>Essays for the <em>long climb.</em></h1>
-      <p>Page {page.currentPage} of {totalPages} · {page.total} essays total</p>
+      <p class="kicker" data-i18n="journalKicker">The Journal</p>
+      <h1 data-i18n-html="journalTitle">Essays for the <em>long climb.</em></h1>
+      <p><span data-i18n="pageLabel">Page</span> {page.currentPage} <span data-i18n="ofLabel">of</span> {totalPages} · {page.total} <span data-i18n="essaysTotal">essays total</span></p>
     </div>
   </section>
 
@@ -53,9 +53,9 @@ const nextHref = page.url.next;
       </div>
 
       <nav class="pagination" aria-label="Pagination">
-        {prevHref ? <a class="pagination-link" href={prevHref}>← Newer</a> : <span class="pagination-link disabled">← Newer</span>}
+        {prevHref ? <a class="pagination-link" href={prevHref} data-i18n="newerPagination">← Newer</a> : <span class="pagination-link disabled" data-i18n="newerPagination">← Newer</span>}
         <span class="pagination-current">Page {page.currentPage} of {totalPages}</span>
-        {nextHref ? <a class="pagination-link" href={nextHref}>Older →</a> : <span class="pagination-link disabled">Older →</span>}
+        {nextHref ? <a class="pagination-link" href={nextHref} data-i18n="olderPagination">Older →</a> : <span class="pagination-link disabled" data-i18n="olderPagination">Older →</span>}
       </nav>
     </div>
   </section>

@@ -22,39 +22,42 @@ const TOOLS = {
   },
 };
 
-const t = topic.toLowerCase();
-let primary, secondary, headline;
+const tLower = topic.toLowerCase();
+let primaryKey, secondaryKey, headlineKey;
 
-if (["discipline", "productivity", "goals"].includes(t)) {
-  headline = "Turn this essay into 30 days of action";
-  primary = TOOLS.pdf;
-  secondary = TOOLS.tracker;
-} else if (["habits", "wellness", "sport", "nutrition"].includes(t)) {
-  headline = "Track the habit, not the motivation";
-  primary = TOOLS.tracker;
-  secondary = TOOLS.pdf;
-} else if (["mindset", "personal growth", "success", "stories"].includes(t)) {
-  headline = "Time is the raw material of change";
-  primary = TOOLS.memento;
-  secondary = TOOLS.pdf;
+if (["discipline", "productivity", "goals"].includes(tLower)) {
+  headlineKey = "toolHeadlineDiscipline";
+  primaryKey = "pdf";
+  secondaryKey = "tracker";
+} else if (["habits", "wellness", "sport", "nutrition"].includes(tLower)) {
+  headlineKey = "toolHeadlineHabits";
+  primaryKey = "tracker";
+  secondaryKey = "pdf";
+} else if (["mindset", "personal growth", "success", "stories"].includes(tLower)) {
+  headlineKey = "toolHeadlineMindset";
+  primaryKey = "memento";
+  secondaryKey = "pdf";
 } else {
-  headline = "Free tools from Motiva Hub";
-  primary = TOOLS.memento;
-  secondary = TOOLS.tracker;
+  headlineKey = "toolHeadlineDefault";
+  primaryKey = "memento";
+  secondaryKey = "tracker";
 }
+
+const primary = TOOLS[primaryKey];
+const secondary = TOOLS[secondaryKey];
 ---
 
 <aside class="tool-cta" aria-label="Motiva Hub tools">
-  <p class="tool-cta-kicker">Free Tool · Motiva Hub</p>
-  <p class="tool-cta-headline">{headline}</p>
+  <p class="tool-cta-kicker" data-i18n="toolCtaKicker">Free Tool · Motiva Hub</p>
+  <p class="tool-cta-headline" data-i18n={headlineKey}>{headlineKey === "toolHeadlineDiscipline" ? "Turn this essay into 30 days of action" : headlineKey === "toolHeadlineHabits" ? "Track the habit, not the motivation" : headlineKey === "toolHeadlineMindset" ? "Time is the raw material of change" : "Free tools from Motiva Hub"}</p>
   <div class="tool-cta-links">
     <a href={primary.url} class="tool-cta-card tool-cta-primary">
-      <span class="tool-cta-name">{primary.name} →</span>
-      <span class="tool-cta-desc">{primary.desc}</span>
+      <span class="tool-cta-name" data-i18n={"toolName" + primaryKey.charAt(0).toUpperCase() + primaryKey.slice(1)}>{primary.name} →</span>
+      <span class="tool-cta-desc" data-i18n={"toolDesc" + primaryKey.charAt(0).toUpperCase() + primaryKey.slice(1)}>{primary.desc}</span>
     </a>
     <a href={secondary.url} class="tool-cta-card">
-      <span class="tool-cta-name">{secondary.name} →</span>
-      <span class="tool-cta-desc">{secondary.desc}</span>
+      <span class="tool-cta-name" data-i18n={"toolName" + secondaryKey.charAt(0).toUpperCase() + secondaryKey.slice(1)}>{secondary.name} →</span>
+      <span class="tool-cta-desc" data-i18n={"toolDesc" + secondaryKey.charAt(0).toUpperCase() + secondaryKey.slice(1)}>{secondary.desc}</span>
     </a>
   </div>
 </aside>

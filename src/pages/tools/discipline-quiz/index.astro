@@ -58,6 +58,59 @@ const questions = [
   },
 ];
 
+const questionsFr = [
+  {
+    id: "energy",
+    q: "Quand avez-vous le plus de volonté ?",
+    options: [
+      { text: "Le matin au réveil", score: "marathoner" },
+      { text: "Tard le soir", score: "strategist" },
+      { text: "Après avoir coché une petite chose", score: "builder" },
+      { text: "En courtes rafales intenses", score: "sprinter" },
+    ],
+  },
+  {
+    id: "habit",
+    q: "Comment formez-vous les habitudes le mieux ?",
+    options: [
+      { text: "Petites victoires quotidiennes qui composent", score: "builder" },
+      { text: "Sprints de 30 jours avec dates de fin claires", score: "sprinter" },
+      { text: "Changements d'identité à long terme", score: "marathoner" },
+      { text: "Systèmes stratégiques et outils", score: "strategist" },
+    ],
+  },
+  {
+    id: "failure",
+    q: "Quand vous cassez une habitude, que faites-vous ?",
+    options: [
+      { text: "Réinitialiser et recommencer demain", score: "builder" },
+      { text: "Relancer tout le cycle de 30 jours", score: "sprinter" },
+      { text: "Réfléchir à la raison profonde", score: "marathoner" },
+      { text: "Auditer le système qui a cassé", score: "strategist" },
+    ],
+  },
+  {
+    id: "motivation",
+    q: "Qu'est-ce qui draine votre motivation le plus vite ?",
+    options: [
+      { text: "Progression lente, pas de preuve quotidienne", score: "builder" },
+      { text: "L'ennui entre les rafales intenses", score: "sprinter" },
+      { text: "Les jours où j'oublie qui je veux être", score: "marathoner" },
+      { text: "Outils inefficaces et temps perdu", score: "strategist" },
+    ],
+  },
+  {
+    id: "goal",
+    q: "Quel type d'objectif vous excite le plus ?",
+    options: [
+      { text: "Une pratique quotidienne que je peux soutenir pour toujours", score: "marathoner" },
+      { text: "Un défi de transformation de 90 jours", score: "sprinter" },
+      { text: "Construire quelque chose de petit chaque jour", score: "builder" },
+      { text: "Optimiser un système de vie entier", score: "strategist" },
+    ],
+  },
+];
+
 const archetypes = {
   builder: {
     name: "The Builder",
@@ -108,6 +161,57 @@ const archetypes = {
     protocol: "Block one 'no-strategy' day per week. Just do the thing. Logic is for the back office — execution is for the floor.",
   },
 };
+
+const archetypesFr = {
+  builder: {
+    name: "Le Bâtisseur",
+    emoji: "🧱",
+    tagline: "Vous composez de petites victoires en vies méconnaissables.",
+    strengths: [
+      "La constance quotidienne est votre super-pouvoir",
+      "Vous faites confiance au processus même quand rien de visible ne se produit",
+      "Le changement d'identité vient naturellement à vous",
+    ],
+    blindSpot: "Vous construisez trop et lancez rarement. Votre force (fondation) peut devenir votre piège (ne jamais lancer).",
+    protocol: "Ajoutez UN jour de lancement par semaine. Choisissez quelque chose de petit. Mettez-le dans le monde. Affinez plus tard.",
+  },
+  sprinter: {
+    name: "Le Sprinter",
+    emoji: "⚡",
+    tagline: "Vous faites des choses impossibles en 30 jours. Puis vous réinitialisez.",
+    strengths: [
+      "Vous exécutez sous les délais",
+      "Vous prospérez sur l'intensité et la nouveauté",
+      "Vous lancez vite et itérez",
+    ],
+    blindSpot: "Le crash après le sprint. Vous perdez de l'élan entre les cycles.",
+    protocol: "Associez un Sprinter à un rituel de Bâtisseur. Après chaque sprint de 30 jours, verrouillez UNE habitude quotidienne pendant 90 jours.",
+  },
+  marathoner: {
+    name: "Le Marathonien",
+    emoji: "🏃",
+    tagline: "Vous gagnez en n'abandonnant jamais. La constance est votre religion.",
+    strengths: [
+      "Vous composez pour le long terme",
+      "Vous n'avez pas besoin de motivation",
+      "Les changements d'identité sont profonds et durables",
+    ],
+    blindSpot: "Vous pouvez devenir si patient que vous oubliez de pousser l'intensité. Lent devient coincé.",
+    protocol: "Ajoutez une phase d'affûtage chaque trimestre. Un mois d'intensité, de focus et d'étirement plus élevés.",
+  },
+  strategist: {
+    name: "Le Stratège",
+    emoji: "🎯",
+    tagline: "Vous construisez des systèmes qui composent pendant que vous dormez.",
+    strengths: [
+      "Vous voyez le levier que les autres manquent",
+      "Les outils et l'automatisation sont votre atout",
+      "Vous pensez en décennies, pas en jours",
+    ],
+    blindSpot: "Vous optimisez le système au lieu de faire le travail. La stratégie devient de la procrastination.",
+    protocol: "Bloquez un jour \"sans stratégie\" par semaine. Faites simplement la chose. La logique est pour le bureau arrière — l'exécution est pour le terrain.",
+  },
+};
 ---
 
 <Layout title={title} description={description}>
@@ -137,9 +241,9 @@ const archetypes = {
 
   <section class="quiz-head">
     <div class="container">
-      <p class="kicker">Free Tool · 2-Minute Quiz</p>
-      <h1>What's Your <em>Discipline Type?</em></h1>
-      <p class="quiz-sub">5 questions. 4 archetypes. One custom protocol. Find out why most productivity advice fails you — and what to do instead.</p>
+      <p class="kicker" data-i18n="quizKicker">Free Tool · 2-Minute Quiz</p>
+      <h1 data-i18n="quizTitle">What's Your <em>Discipline Type?</em></h1>
+      <p class="quiz-sub" data-i18n="quizSubtitle">5 questions. 4 archetypes. One custom protocol. Find out why most productivity advice fails you — and what to do instead.</p>
     </div>
   </section>
 
@@ -147,7 +251,7 @@ const archetypes = {
     <div class="container">
       <div class="quiz-shell" id="quiz">
         <div class="quiz-progress">
-          <span id="quiz-progress-text">Question1 of5</span>
+          <span id="quiz-progress-text" data-i18n="quizProgress">Question 1 of 5</span>
           <div class="quiz-progress-bar"><div class="quiz-progress-fill" id="quiz-progress-fill"></div></div>
         </div>
 
@@ -156,8 +260,8 @@ const archetypes = {
         </div>
 
         <div class="quiz-actions">
-          <button id="quiz-back" class="quiz-btn-secondary" disabled>← Back</button>
-          <button id="quiz-next" class="quiz-btn-primary" disabled>Next →</button>
+          <button id="quiz-back" class="quiz-btn-secondary" disabled data-i18n="quizBack">← Back</button>
+          <button id="quiz-next" class="quiz-btn-primary" disabled data-i18n="quizNext">Next →</button>
         </div>
       </div>
 
@@ -167,23 +271,23 @@ const archetypes = {
         <p class="quiz-result-tagline" id="quiz-result-tagline"></p>
 
         <div class="quiz-result-section">
-          <h3>Your Strengths</h3>
+          <h3 data-i18n="quizYourStrengths">Your Strengths</h3>
           <ul id="quiz-result-strengths"></ul>
         </div>
 
         <div class="quiz-result-section">
-          <h3>Your Blind Spot</h3>
+          <h3 data-i18n="quizYourBlindSpot">Your Blind Spot</h3>
           <p id="quiz-result-blindspot"></p>
         </div>
 
         <div class="quiz-result-section quiz-result-protocol">
-          <h3>Your 30-Day Protocol</h3>
+          <h3 data-i18n="quizYourProtocol">Your 30-Day Protocol</h3>
           <p id="quiz-result-protocol"></p>
         </div>
 
         <div class="quiz-result-cta">
-          <a class="btn-pill btn-pill-cream" href="/journal/?topic=discipline">Read Your Type's Articles →</a>
-          <button class="quiz-btn-secondary" id="quiz-restart">Take the Quiz Again</button>
+          <a class="btn-pill btn-pill-cream" href="/journal/?topic=discipline" data-i18n="quizReadArticles">Read Your Type's Articles →</a>
+          <button class="quiz-btn-secondary" id="quiz-restart" data-i18n="quizRestart">Take the Quiz Again</button>
         </div>
       </div>
     </div>
@@ -191,40 +295,40 @@ const archetypes = {
 
   <section class="quiz-faq">
     <div class="container">
-      <h2>Why this quiz works</h2>
-      <p>Most productivity advice is generic. It tells you to "wake up at 5 AM" or "do a 75 Hard" — but if your archetype doesn't match the protocol, you'll fail. This quiz identifies your natural strength and gives you a system that fits <em>your</em> wiring — not someone else's.</p>
-      <p>Built from patterns I observed coaching and studying 200+ people over 8 years. It's not clinical psychology, but it's accurate enough to give you a useful starting point.</p>
-      <p>The four archetypes are not labels — they are starting points. You can move between them. The goal is not to box you in. The goal is to give you a protocol that respects how you actually work, not how you wish you worked.</p>
+      <h2 data-i18n="quizWhyWorks">Why this quiz works</h2>
+      <p data-i18n="quizWhyP1">Most productivity advice is generic. It tells you to "wake up at 5 AM" or "do a 75 Hard" — but if your archetype doesn't match the protocol, you'll fail. This quiz identifies your natural strength and gives you a system that fits <em>your</em> wiring — not someone else's.</p>
+      <p data-i18n="quizWhyP2">Built from patterns I observed coaching and studying 200+ people over 8 years. It's not clinical psychology, but it's accurate enough to give you a useful starting point.</p>
+      <p data-i18n="quizWhyP3">The four archetypes are not labels — they are starting points. You can move between them. The goal is not to box you in. The goal is to give you a protocol that respects how you actually work, not how you wish you worked.</p>
     </div>
   </section>
 
   <section class="quiz-archetypes">
     <div class="container">
-      <h2>The Four Archetypes</h2>
+      <h2 data-i18n="quizFourArchetypes">The Four Archetypes</h2>
       <div class="archetype-grid">
         <div class="archetype-card">
           <span class="archetype-emoji">🧱</span>
-          <h3>The Builder</h3>
-          <p>You compound small wins into unrecognisable lives. Daily consistency is your superpower. You trust the process even when nothing visible happens.</p>
-          <p><strong>Blind spot:</strong> You over-build and rarely launch. Your strength (foundation) can become your trap (never shipping).</p>
+          <h3 data-i18n="quizBuilderName">The Builder</h3>
+          <p data-i18n="quizBuilderDesc">You compound small wins into unrecognisable lives. Daily consistency is your superpower. You trust the process even when nothing visible happens.</p>
+          <p><strong data-i18n="quizBuilderBlind">Blind spot:</strong> <span data-i18n="quizBuilderBlindDetail">You over-build and rarely launch. Your strength (foundation) can become your trap (never shipping).</span></p>
         </div>
         <div class="archetype-card">
           <span class="archetype-emoji">⚡</span>
-          <h3>The Sprinter</h3>
-          <p>You do impossible things in 30 days. Then you reset. You execute under deadlines and thrive on intensity and novelty.</p>
-          <p><strong>Blind spot:</strong> The crash after the sprint. You lose momentum between cycles. Stack a Sprinter with a Builder ritual.</p>
+          <h3 data-i18n="quizSprinterName">The Sprinter</h3>
+          <p data-i18n="quizSprinterDesc">You do impossible things in 30 days. Then you reset. You execute under deadlines and thrive on intensity and novelty.</p>
+          <p><strong data-i18n="quizSprinterBlind">Blind spot:</strong> <span data-i18n="quizSprinterBlindDetail">The crash after the sprint. You lose momentum between cycles. Stack a Sprinter with a Builder ritual.</span></p>
         </div>
         <div class="archetype-card">
           <span class="archetype-emoji">🏃</span>
-          <h3>The Marathoner</h3>
-          <p>You win by never quitting. Consistency is your religion. Identity shifts happen deep and last.</p>
-          <p><strong>Blind spot:</strong> You can become so patient you forget to push intensity. Slow becomes stuck. Add a sharpening phase every quarter.</p>
+          <h3 data-i18n="quizMarathonerName">The Marathoner</h3>
+          <p data-i18n="quizMarathonerDesc">You win by never quitting. Consistency is your religion. Identity shifts happen deep and last.</p>
+          <p><strong data-i18n="quizMarathonerBlind">Blind spot:</strong> <span data-i18n="quizMarathonerBlindDetail">You can become so patient you forget to push intensity. Slow becomes stuck. Add a sharpening phase every quarter.</span></p>
         </div>
         <div class="archetype-card">
           <span class="archetype-emoji">🎯</span>
-          <h3>The Strategist</h3>
-          <p>You build systems that compound while you sleep. You see the leverage others miss. Tools and automation are your edge.</p>
-          <p><strong>Blind spot:</strong> You optimize the system instead of doing the work. Strategy becomes procrastination. Block one "no-strategy" day per week.</p>
+          <h3 data-i18n="quizStrategistName">The Strategist</h3>
+          <p data-i18n="quizStrategistDesc">You build systems that compound while you sleep. You see the leverage others miss. Tools and automation are your edge.</p>
+          <p><strong data-i18n="quizStrategistBlind">Blind spot:</strong> <span data-i18n="quizStrategistBlindDetail">You optimize the system instead of doing the work. Strategy becomes procrastination. Block one "no-strategy" day per week.</span></p>
         </div>
       </div>
     </div>
@@ -232,39 +336,39 @@ const archetypes = {
 
   <section class="quiz-howto">
     <div class="container">
-      <h2>How to Use Your Result</h2>
+      <h2 data-i18n="quizHowToUse">How to Use Your Result</h2>
       <ol class="howto-steps">
-        <li><strong>Take the quiz.</strong> Answer all 5 questions honestly. There's no right or wrong answer — only what's true for you.</li>
-        <li><strong>Read your archetype.</strong> Understand your strengths and blind spots. The protocol is your starting point, not your final destination.</li>
-        <li><strong>Apply the 30-day protocol.</strong> Follow the custom plan for your type. Track starts, not finishes. The 2-day rule protects the streak.</li>
-        <li><strong>Review after 30 days.</strong> Ask: did this fit? If yes, continue. If no, adjust. The goal is progress, not perfection.</li>
-        <li><strong>Share your type.</strong> Send it to your accountability partner. Social commitment increases the odds of showing up by 2-3x.</li>
+        <li data-i18n="quizHowP1"><strong>Take the quiz.</strong> Answer all 5 questions honestly. There's no right or wrong answer — only what's true for you.</li>
+        <li data-i18n="quizHowP2"><strong>Read your archetype.</strong> Understand your strengths and blind spots. The protocol is your starting point, not your final destination.</li>
+        <li data-i18n="quizHowP3"><strong>Apply the 30-day protocol.</strong> Follow the custom plan for your type. Track starts, not finishes. The 2-day rule protects the streak.</li>
+        <li data-i18n="quizHowP4"><strong>Review after 30 days.</strong> Ask: did this fit? If yes, continue. If no, adjust. The goal is progress, not perfection.</li>
+        <li data-i18n="quizHowP5"><strong>Share your type.</strong> Send it to your accountability partner. Social commitment increases the odds of showing up by 2-3x.</li>
       </ol>
     </div>
   </section>
 
   <section class="quiz-faq">
     <div class="container">
-      <h2>FAQ</h2>
+      <h2 data-i18n="quizFaqTitle">FAQ</h2>
       <details>
-        <summary>Is this quiz really free?</summary>
-        <p>Yes. 100% free. No signup required to see results. No credit card. No email required. Just answer 5 questions and get your archetype.</p>
+        <summary data-i18n="quizFaq1Q">Is this quiz really free?</summary>
+        <p data-i18n="quizFaq1A">Yes. 100% free. No signup required to see results. No credit card. No email required. Just answer 5 questions and get your archetype.</p>
       </details>
       <details>
-        <summary>How accurate is it?</summary>
-        <p>Built on patterns from coaching 200+ people over 8 years. Not clinical, but useful. Think of it as a compass, not a map. It points you in the right direction — you still have to walk.</p>
+        <summary data-i18n="quizFaq2Q">How accurate is it?</summary>
+        <p data-i18n="quizFaq2A">Built on patterns from coaching 200+ people over 8 years. Not clinical, but useful. Think of it as a compass, not a map. It points you in the right direction — you still have to walk.</p>
       </details>
       <details>
-        <summary>Will I get a custom plan?</summary>
-        <p>Yes. Each archetype comes with a custom 30-day protocol based on your type. The protocol is specific, actionable, and designed for your natural wiring.</p>
+        <summary data-i18n="quizFaq3Q">Will I get a custom plan?</summary>
+        <p data-i18n="quizFaq3A">Yes. Each archetype comes with a custom 30-day protocol based on your type. The protocol is specific, actionable, and designed for your natural wiring.</p>
       </details>
       <details>
-        <summary>Can my archetype change?</summary>
-        <p>Yes. Your archetype can shift based on context, season of life, and the habit you're building. A Sprinter in fitness can be a Marathoner in writing. Retake the quiz every 90 days.</p>
+        <summary data-i18n="quizFaq4Q">Can my archetype change?</summary>
+        <p data-i18n="quizFaq4A">Yes. Your archetype can shift based on context, season of life, and the habit you're building. A Sprinter in fitness can be a Marathoner in writing. Retake the quiz every 90 days.</p>
       </details>
       <details>
-        <summary>What if I'm between two archetypes?</summary>
-        <p>That's normal. Most people have a primary and a secondary. Read both protocols. Blend what works. The goal is not to fit a box — it's to build a system that serves you.</p>
+        <summary data-i18n="quizFaq5Q">What if I'm between two archetypes?</summary>
+        <p data-i18n="quizFaq5A">That's normal. Most people have a primary and a secondary. Read both protocols. Blend what works. The goal is not to fit a box — it's to build a system that serves you.</p>
       </details>
     </div>
   </section>
@@ -281,8 +385,15 @@ const archetypes = {
   })} />
 </Layout>
 
-<script define:vars={{ questions, archetypes }}>
+<script define:vars={{ questions, archetypes, questionsFr, archetypesFr }}>
 (function () {
+  const i18nDict = window.i18nDict || {};
+  const lang = localStorage.getItem("lang") || "en";
+  const t = (i18nDict[lang] || i18nDict.en || {});
+  const qs = lang === "fr" ? questionsFr : questions;
+  const arch = lang === "fr" ? archetypesFr : archetypes;
+  const total = qs.length;
+
   const state = { step: 0, scores: { builder: 0, sprinter: 0, marathoner: 0, strategist: 0 } };
 
   const body = document.getElementById('quiz-body');
@@ -294,16 +405,16 @@ const archetypes = {
   const resultEl = document.getElementById('quiz-result');
 
   function render() {
-    const q = questions[state.step];
-    progressText.textContent = 'Question ' + (state.step + 1) + ' of ' + questions.length;
-    progressFill.style.width = ((state.step + 1) / questions.length * 100) + '%';
+    const q = qs[state.step];
+    progressText.textContent = (t.quizProgress || 'Question {n} of {total}').replace('{n}', state.step + 1).replace('{total}', total);
+    progressFill.style.width = ((state.step + 1) / total * 100) + '%';
     body.innerHTML = '<h3 class="quiz-q">' + q.q + '</h3><div class="quiz-options">' +
       q.options.map((o, i) =>
         '<button class="quiz-option" data-score="' + o.score + '" data-i="' + i +'">' + o.text + '</button>'
       ).join('') + '</div>';
     backBtn.disabled = state.step === 0;
     nextBtn.disabled = true;
-    nextBtn.textContent = state.step === questions.length - 1 ? 'See My Type →' : 'Next →';
+    nextBtn.textContent = state.step === total - 1 ? (t.quizSeeMyType || 'See My Type →') : (t.quizNext || 'Next →');
 
     body.querySelectorAll('.quiz-option').forEach((btn) => {
       btn.addEventListener('click', () => {
@@ -317,7 +428,7 @@ const archetypes = {
 
   function showResult() {
     const winner = Object.entries(state.scores).sort((a, b) => b[1] - a[1])[0][0];
-    const a = archetypes[winner];
+    const a = arch[winner];
     document.getElementById('quiz-result-emoji').textContent = a.emoji;
     document.getElementById('quiz-result-name').textContent = a.name;
     document.getElementById('quiz-result-tagline').textContent = a.tagline;
@@ -335,7 +446,7 @@ const archetypes = {
   }
 
   nextBtn.addEventListener('click', () => {
-    if (state.step < questions.length - 1) {
+    if (state.step < total - 1) {
       state.step++;
       render();
     } else {
