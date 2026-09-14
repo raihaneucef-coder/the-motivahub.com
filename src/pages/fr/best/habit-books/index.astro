@@ -1,17 +1,18 @@
 ---
 import Layout from "../../../../layouts/Layout.astro";
+import Link from "../../../../components/Link.astro";
 import { books } from "../../../../data/books";
 import BookCard from "../../../../components/BookCard.astro";
 import AffiliateBanner from "../../../../components/AffiliateBanner.astro";
 import AdSlot from "../../../../components/AdSlot.astro";
 
 const habitBooks = books.filter((b) => b.category === "HABITS" || b.category === "DISCIPLINE");
-const title = "Best Habit & Discipline Books 2026 — Motiva Hub";
-const description = "The best books on building habits, discipline, and the systems that outlast motivation. Ranked and reviewed by the Motiva Hub editorial team.";
+const title = "Meilleurs Livres sur les Habitudes 2026 — Motiva Hub";
+const description = "Les meilleurs livres pour construire des habitudes durables et briser les mauvaises routines. Sélectionnés par l'équipe Motiva Hub.";
 ---
 
-<Layout title={title} description={description}>
-  <link rel="canonical" href="https://the-motivahub.com/best/habit-books/" />
+<Layout title={title} description={description} lang="fr">
+  <link rel="canonical" href="https://the-motivahub.com/fr/best/habit-books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [
@@ -73,21 +74,21 @@ const description = "The best books on building habits, discipline, and the syst
   <section class="feed">
     <div class="container">
       <div class="affiliate-disclosure">
-        <p><strong data-i18n="habitAffiliateHeading">Affiliate Disclosure:</strong> <span data-i18n="habitAffiliateText">As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <a href="/affiliate-disclosure/" data-i18n="habitAffiliateLink">Read our full disclosure policy →</a></p>
+        <p><strong data-i18n="habitAffiliateHeading">Affiliate Disclosure:</strong> <span data-i18n="habitAffiliateText">As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <Link href="/affiliate-disclosure/" data-i18n="habitAffiliateLink">Read our full disclosure policy →</a></p>
       </div>
       <AffiliateBanner variant="callout" lang="en" />
 
       <div class="intro-block">
         <h2 data-i18n="habitWhyStack">Why habit books stack</h2>
         <p data-i18n="habitWhyStackP1">These books are not interchangeable. Atomic Habits gives you the design framework. Can't Hurt Me gives you the accountability standard. The Discipline Daily gives you the daily execution layer. Read them in that order.</p>
-        <p data-i18n="habitWhyStackP2">If you want to test one habit before buying the books, read our <a href="/journal/two-minute-rule-guide/" data-i18n="habitTwoMinLink">2-Minute Rule guide</a> and the <a href="/journal/identity-based-habits-90-day-test/" data-i18n="habit90DayLink">90-day identity test</a>. For the full system, see the <a href="/guides/atomic-habits-ultimate-guide/" data-i18n="habitAtomicGuideLink">Atomic Habits ultimate guide</a>.</p>
-        <p data-i18n="habitBrowseFull">Browse the full collection: <a href="/best/books/" data-i18n="habitBestBooksLink">best self-help books</a>, <a href="/best/focus-books/" data-i18n="habitBestFocusLink">best focus books</a>, and <a href="/best/stoicism-books/" data-i18n="habitBestStoicismLink">best stoicism books</a>.</p>
+        <p data-i18n="habitWhyStackP2">If you want to test one habit before buying the books, read our <Link href="/fr/journal/two-minute-rule-guide/" data-i18n="habitTwoMinLink">2-Minute Rule guide</a> and the <Link href="/fr/journal/identity-based-habits-90-day-test/" data-i18n="habit90DayLink">90-day identity test</a>. For the full system, see the <Link href="/fr/guides/atomic-habits-ultimate-guide/" data-i18n="habitAtomicGuideLink">Atomic Habits ultimate guide</a>.</p>
+        <p data-i18n="habitBrowseFull">Browse the full collection: <Link href="/fr/best/books/" data-i18n="habitBestBooksLink">best self-help books</a>, <Link href="/fr/best/focus-books/" data-i18n="habitBestFocusLink">best focus books</a>, and <Link href="/fr/best/stoicism-books/" data-i18n="habitBestStoicismLink">best stoicism books</a>.</p>
       </div>
 
       <div class="cta-strip">
-        <a class="btn btn-primary" href="/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
-        <a class="btn btn-outline" href="/journal/" data-i18n="readJournalCta">Read the Journal</a>
-        <a class="btn btn-outline" href="/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
+        <a class="btn btn-primary" href="/fr/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
+        <a class="btn btn-outline" href="/fr/journal/" data-i18n="readJournalCta">Read the Journal</a>
+        <a class="btn btn-outline" href="/fr/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
       </div>
 
       <div class="book-grid">

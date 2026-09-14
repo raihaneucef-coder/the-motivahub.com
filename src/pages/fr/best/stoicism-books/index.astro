@@ -1,17 +1,18 @@
 ---
 import Layout from "../../../../layouts/Layout.astro";
+import Link from "../../../../components/Link.astro";
 import { books } from "../../../../data/books";
 import BookCard from "../../../../components/BookCard.astro";
 import AffiliateBanner from "../../../../components/AffiliateBanner.astro";
 import AdSlot from "../../../../components/AdSlot.astro";
 
 const stoicBooks = books.filter((b) => b.category === "STOICISM" || b.category === "PHILOSOPHY");
-const title = "Best Stoicism Books 2026 — Motiva Hub";
-const description = "The best books on Stoic philosophy — from Marcus Aurelius to modern teachers. Timeless ideas for a resilient inner life.";
+const title = "Meilleurs Livres sur le Stoïcisme 2026 — Motiva Hub";
+const description = "Les meilleurs livres sur le stoïcisme moderne et ancien. Cultivez la résilience et la sagesse intérieure — sélectionnés par Motiva Hub.";
 ---
 
-<Layout title={title} description={description}>
-  <link rel="canonical" href="https://the-motivahub.com/best/stoicism-books/" />
+<Layout title={title} description={description} lang="fr">
+  <link rel="canonical" href="https://the-motivahub.com/fr/best/stoicism-books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [
@@ -73,21 +74,21 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
   <section class="feed">
     <div class="container">
       <div class="affiliate-disclosure">
-        <p><strong data-i18n="stoicismAffiliateHeading">Affiliate Disclosure:</strong> <span data-i18n="stoicismAffiliateText">As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <a href="/affiliate-disclosure/" data-i18n="stoicismAffiliateLink">Read our full disclosure policy →</a></p>
+        <p><strong data-i18n="stoicismAffiliateHeading">Affiliate Disclosure:</strong> <span data-i18n="stoicismAffiliateText">As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <Link href="/affiliate-disclosure/" data-i18n="stoicismAffiliateLink">Read our full disclosure policy →</a></p>
       </div>
       <AffiliateBanner variant="callout" lang="en" />
 
       <div class="intro-block">
         <h2 data-i18n="stoicismHowRead">How to read Stoicism without becoming a robot</h2>
         <p data-i18n="stoicismHowReadP1">Stoicism is not about suppressing emotion. It is about choosing which emotion governs your decisions. Marcus Aurelius wrote Meditations as a private morning exercise, not as a performance. Seneca's letters are practical psychology disguised as philosophy.</p>
-        <p data-i18n="stoicismHowReadP2">If you want a modern entry point, start with The Daily Stoic or The Obstacle Is the Way. If you want the source text, read our <a href="/journal/morning-routines-12-tested/" data-i18n="stoicismMorningRoutineLink">Stoic morning routine field test</a> — it shows how Meditations works as a daily practice, not a book to finish.</p>
-        <p data-i18n="stoicismBrowseFull">Browse the full collection: <a href="/best/books/" data-i18n="stoicismBestBooksLink">best self-help books</a>, <a href="/best/focus-books/" data-i18n="stoicismBestFocusLink">best focus books</a>, and <a href="/best/habit-books/" data-i18n="stoicismBestHabitLink">best habit books</a>.</p>
+        <p data-i18n="stoicismHowReadP2">If you want a modern entry point, start with The Daily Stoic or The Obstacle Is the Way. If you want the source text, read our <Link href="/fr/journal/morning-routines-12-tested/" data-i18n="stoicismMorningRoutineLink">Stoic morning routine field test</a> — it shows how Meditations works as a daily practice, not a book to finish.</p>
+        <p data-i18n="stoicismBrowseFull">Browse the full collection: <Link href="/fr/best/books/" data-i18n="stoicismBestBooksLink">best self-help books</a>, <Link href="/fr/best/focus-books/" data-i18n="stoicismBestFocusLink">best focus books</a>, and <Link href="/fr/best/habit-books/" data-i18n="stoicismBestHabitLink">best habit books</a>.</p>
       </div>
 
       <div class="cta-strip">
-        <a class="btn btn-primary" href="/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
-        <a class="btn btn-outline" href="/journal/" data-i18n="readJournalCta">Read the Journal</a>
-        <a class="btn btn-outline" href="/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
+        <a class="btn btn-primary" href="/fr/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
+        <a class="btn btn-outline" href="/fr/journal/" data-i18n="readJournalCta">Read the Journal</a>
+        <a class="btn btn-outline" href="/fr/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
       </div>
 
       <div class="book-grid">

@@ -1,17 +1,18 @@
 ---
 import Layout from "../../../../layouts/Layout.astro";
+import Link from "../../../../components/Link.astro";
 import { books } from "../../../../data/books";
 import BookCard from "../../../../components/BookCard.astro";
 import AffiliateBanner from "../../../../components/AffiliateBanner.astro";
 import AdSlot from "../../../../components/AdSlot.astro";
 
 const focusBooks = books.filter((b) => b.category === "FOCUS" || b.category === "PRODUCTIVITY");
-const title = "Best Focus & Deep Work Books 2026 — Motiva Hub";
-const description = "The best books on focus, deep work, and concentration. Train your mind to do hard things — ranked by the Motiva Hub editorial team.";
+const title = "Meilleurs Livres sur la Concentration et le Deep Work 2026";
+const description = "Les meilleurs livres sur la concentration, le deep work et la focus. Entraînez votre esprit à faire des choses difficiles — classés par l'équipe éditoriale de Motiva Hub.";
 ---
 
-<Layout title={title} description={description}>
-  <link rel="canonical" href="https://the-motivahub.com/best/focus-books/" />
+<Layout title={title} description={description} lang="fr">
+  <link rel="canonical" href="https://the-motivahub.com/fr/best/focus-books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [
@@ -73,21 +74,21 @@ const description = "The best books on focus, deep work, and concentration. Trai
   <section class="feed">
     <div class="container">
       <div class="affiliate-disclosure">
-        <p><strong data-i18n="focusAffiliateHeading">Affiliate Disclosure:</strong> <span data-i18n="focusAffiliateText">As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <a href="/affiliate-disclosure/" data-i18n="focusAffiliateLink">Read our full disclosure policy →</a></p>
+        <p><strong data-i18n="focusAffiliateHeading">Affiliate Disclosure:</strong> <span data-i18n="focusAffiliateText">As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <Link href="/affiliate-disclosure/" data-i18n="focusAffiliateLink">Read our full disclosure policy →</a></p>
       </div>
       <AffiliateBanner variant="callout" lang="en" />
 
       <div class="intro-block">
         <h2 data-i18n="focusWhyFail">Why focus books fail</h2>
         <p data-i18n="focusWhyFailP1">Most productivity books sell motivation. These sell attention. The difference matters: motivation is a feeling, attention is a trainable skill. Deep Work defines the skill, The Practicing Mind defines the training, and Focused Work defines the daily architecture.</p>
-        <p data-i18n="focusWhyFailP2">If you want a practical protocol before buying the books, read our <a href="/journal/deep-work-focus/" data-i18n="focusDeepWorkLink">Deep Work protocol</a> and the <a href="/journal/identity-based-habits-90-day-test/" data-i18n="focus90DayLink">90-day identity test</a>. For a shorter read, the <a href="/journal/two-minute-rule-guide/" data-i18n="focusTwoMinLink">2-Minute Rule guide</a> is the doorway.</p>
-        <p data-i18n="focusBrowseFull">Browse the full collection: <a href="/best/books/" data-i18n="focusBestBooksLink">best self-help books</a>, <a href="/best/habit-books/" data-i18n="focusBestHabitLink">best habit books</a>, and <a href="/best/stoicism-books/" data-i18n="focusBestStoicismLink">best stoicism books</a>.</p>
+        <p data-i18n="focusWhyFailP2">If you want a practical protocol before buying the books, read our <Link href="/fr/journal/deep-work-focus/" data-i18n="focusDeepWorkLink">Deep Work protocol</a> and the <Link href="/fr/journal/identity-based-habits-90-day-test/" data-i18n="focus90DayLink">90-day identity test</a>. For a shorter read, the <Link href="/fr/journal/two-minute-rule-guide/" data-i18n="focusTwoMinLink">2-Minute Rule guide</a> is the doorway.</p>
+        <p data-i18n="focusBrowseFull">Browse the full collection: <Link href="/fr/best/books/" data-i18n="focusBestBooksLink">best self-help books</a>, <Link href="/fr/best/habit-books/" data-i18n="focusBestHabitLink">best habit books</a>, and <Link href="/fr/best/stoicism-books/" data-i18n="focusBestStoicismLink">best stoicism books</a>.</p>
       </div>
 
       <div class="cta-strip">
-        <a class="btn btn-primary" href="/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
-        <a class="btn btn-outline" href="/guides/atomic-habits-ultimate-guide/" data-i18n="readUltimateGuideCta">Read the Ultimate Guide</a>
-        <a class="btn btn-outline" href="/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
+        <a class="btn btn-primary" href="/fr/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
+        <a class="btn btn-outline" href="/fr/guides/atomic-habits-ultimate-guide/" data-i18n="readUltimateGuideCta">Read the Ultimate Guide</a>
+        <a class="btn btn-outline" href="/fr/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
       </div>
 
       <div class="book-grid">
