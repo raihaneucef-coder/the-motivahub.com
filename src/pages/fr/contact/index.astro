@@ -1,0 +1,56 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+
+const title = 'Contact — Motiva Hub';
+const description = 'Contactez Youssef Raihane et l\'équipe Motiva Hub. Collaborations, conférences, partenariats et demandes générales.';
+---
+
+<Layout title={title} description={description} image="/images/youssef-raihane.jpg" lang="fr">
+  <article class="article-body container">
+    <header class="article-header">
+      <div class="container">
+        <p class="card-meta" data-i18n="contactPageKicker">CONTACT</p>
+        <h1 data-i18n="contactPageTitle">Contactez-nous</h1>
+        <p class="card-date" data-i18n="contactPageSubtitle">Nous serions ravis de vous entendre</p>
+      </div>
+    </header>
+
+    <div class="container">
+      <h2 data-i18n="contactEmailHeading">Email</h2>
+      <p data-i18n="contactEmailP1">Pour des collaborations, des conférences ou des demandes générales : <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
+
+      <h2 data-i18n="contactExpectHeading">À Quoi S'Attendre</h2>
+      <p data-i18n="contactExpectP1">Nous lisons chaque message. Le délai de réponse est généralement de 24 à 48 heures. Pour les urgences, veuillez mentionner "URGENT" dans l'objet.</p>
+
+      <h2 data-i18n="contactCollabHeading">Collaborations</h2>
+      <p data-i18n="contactCollabP1">Nous sommes ouverts aux collaborations qui correspondent à notre mission : mindset, habitudes, discipline et le long terme. Si vous avez un projet, un produit ou une idée, nous serions ravis de l'entendre.</p>
+
+      <h2 data-i18n="contactSpeakingHeading">Conférences</h2>
+      <p data-i18n="contactSpeakingP1">Youssef Raihane est disponible pour des conférences sur les sujets suivants :</p>
+      <ul>
+        <li data-i18n="contactSpeakingItem1">Formation des habitudes et changement basé sur l'identité</li>
+        <li data-i18n="contactSpeakingItem2">La discipline comme système, pas comme trait</li>
+        <li data-i18n="contactSpeakingItem3">La règle des 2 minutes et la règle des 2 jours</li>
+        <li data-i18n="contactSpeakingItem4">Gestion de l'attention à l'ère numérique</li>
+        <li data-i18n="contactSpeakingItem5">Autosabotage et psychologie de l'échec</li>
+      </ul>
+
+      <h2 data-i18n="contactPressHeading">Presse</h2>
+      <p data-i18n="contactPressP1">Pour les demandes de presse, veuillez utiliser l'adresse email ci-dessus avec "PRESSE" dans l'objet. Nous pouvons fournir des photos haute résolution, une biographie et des disponibilités pour des interviews.</p>
+
+      <h2 data-i18n="contactFollowHeading">Suivre</h2>
+      <p data-i18n="contactFollowSubtitle">Restez connecté :</p>
+      <ul>
+        <li><a href="https://www.instagram.com/motivahub/" target="_blank" rel="noopener" data-i18n="contactInstagramLink">Instagram</a></li>
+        <li><a href="https://twitter.com/motivahub" target="_blank" rel="noopener" data-i18n="contactTwitterLink">Twitter/X</a></li>
+        <li><a href="https://www.linkedin.com/company/motivahub" target="_blank" rel="noopener" data-i18n="contactLinkedInLink">LinkedIn</a></li>
+      </ul>
+    </div>
+
+    <div class="cta-strip">
+      <a class="btn btn-primary" href="/tools/discipline-quiz/" data-i18n="contactCtaQuiz">Faire le Quiz de Discipline</a>
+      <a class="btn btn-outline" href="/guides/atomic-habits-ultimate-guide/" data-i18n="contactCtaGuide">Lire le Guide Ultime</a>
+      <a class="btn btn-outline" href="/journal/" data-i18n="contactCtaJournal">Parcourir le Journal</a>
+    </div>
+  </article>
+</Layout>

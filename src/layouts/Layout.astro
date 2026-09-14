@@ -1,6 +1,7 @@
 ---
 import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
 import MegaMenu from "../components/MegaMenu.astro";
+import { getLangFromUrl, getLocalePath } from "../utils/i18n";
 
 interface Props {
   title: string;
@@ -13,7 +14,11 @@ interface Props {
 }
 
 const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema } = Astro.props;
+const currentLocale = getLangFromUrl(Astro.url);
+const pathWithoutLocale = Astro.url.pathname.replace(/^\/(fr|en)/, '') || '/';
 const canonical = Astro.url.href;
+const enUrl = new URL(pathWithoutLocale, Astro.site ?? Astro.url.origin).href;
+const frUrl = new URL(getLocalePath(pathWithoutLocale, 'fr'), Astro.site ?? Astro.url.origin).href;
 const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
 const isFr = lang === "fr" || (lang !== "ar" && Astro.url.pathname.startsWith("/fr") || Astro.url.searchParams.get("lang") === "fr");
 const htmlLang = lang || (Astro.url.pathname.startsWith("/ar") ? "ar" : Astro.url.pathname.startsWith("/fr") ? "fr" : "en");
@@ -53,9 +58,9 @@ const gaSnippet = GA_ID
         <meta property="article:section" content="Self-Improvement" />
       </>
     )}
-    <link rel="alternate" hreflang="en" href={new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).href} />
-    <link rel="alternate" hreflang="fr" href={new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).href} />
-    <link rel="alternate" hreflang="x-default" href={new URL(Astro.url.pathname, Astro.site ?? Astro.url.origin).href} />
+    <link rel="alternate" hreflang="en" href={enUrl} />
+    <link rel="alternate" hreflang="fr" href={frUrl} />
+    <link rel="alternate" hreflang="x-default" href={enUrl} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="theme-color" content="#0a0a0a" />
     <meta name="twitter:title" content={title} />
