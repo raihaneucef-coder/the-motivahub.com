@@ -1,0 +1,71 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import ArticleCard from "../../../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+const posts = (await getCollection("blog"))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const featured = posts.find((p) => p.data.featured) || posts[0];
+const rest = posts.filter((p) => p.id !== featured.id);
+---
+
+<Layout title="Le Journal — Motiva Hub" description="Essais sur la longue ascension. État d'esprit, habitudes, discipline, productivité, travail profond — articles pour l'esprit discipliné.">
+  <link rel="canonical" href="https://the-motivahub.com/fr/journal/" />
+  <link rel="next" href="/fr/journal/page/2/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Journal Motiva Hub",
+    "description": "Essais sur mindset, habitudes, discipline, productivité et travail profond.",
+    "url": "https://the-motivahub.com/fr/journal/",
+    "numberOfItems": posts.length,
+    "itemListElement": posts.slice(0, 20).map((p, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "url": `https://the-motivahub.com/fr/journal/${p.id}/`,
+      "name": p.data.titleFr || p.data.title
+    }))
+  })} />
+  <section class="page-head">
+    <div class="container">
+      <p class="kicker" data-i18n="journalKicker">Le Journal</p>
+      <h1 data-i18n-html="journalTitle">Essais pour la <em>longue ascension.</em></h1>
+      <p data-i18n="journalSubtitle">État d'esprit, habitudes, discipline, productivité, travail profond — à lire lentement et à relire.</p>
+    </div>
+  </section>
+
+  <section class="feed">
+    <div class="container">
+      <article class="featured-card">
+        <a href={`/fr/journal/${featured.id}/`} class="card-img-link">
+          <img class="card-img" src={featured.data.image} alt={featured.data.titleFr || featured.data.title} loading="lazy" />
+        </a>
+        <div class="card-pad">
+          <p class="card-meta"><span data-i18n="featuredLabel">En vedette</span> · <span data-i18n={`topic-${featured.data.topic.toLowerCase()}`}>{featured.data.topic.toUpperCase()}</span> · {featured.data.readTime}</p>
+           <h2><a href={`/fr/journal/${featured.id}/`}>{featured.data.titleFr || featured.data.title}</a></h2>
+          <p>{featured.data.descriptionFr || featured.data.description}</p>
+          <p class="card-date">{featured.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+          <a class="read-more" href={`/fr/journal/${featured.id}/`} data-i18n="readEssay">Lire l'essai</a>
+        </div>
+      </article>
+
+      <div class="cta-strip">
+        <a class="btn btn-primary" href="/fr/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Faire le Quiz de Discipline</a>
+        <a class="btn btn-outline" href="/fr/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Obtenir le PDF Gratuit</a>
+        <a class="btn btn-outline" href="/fr/best/books/" data-i18n="bestBooks2026Cta">Meilleurs Livres 2026</a>
+      </div>
+
+      <div class="grid" id="journal-grid">
+        {rest.slice(0, 11).map((post) => (
+          <ArticleCard post={post} />
+        ))}
+      </div>
+      <nav class="pagination" aria-label="Pagination">
+        <span class="pagination-link disabled" data-i18n="newerPagination">← Plus récents</span>
+        <span class="pagination-current">Page 1 de {Math.ceil((posts.length - 1) / 12) + 1}</span>
+        <a class="pagination-link" href="/fr/journal/page/2/" data-i18n="olderPagination">Plus anciens →</a>
+      </nav>
+    </div>
+  </section>
+</Layout>

@@ -69,17 +69,42 @@ async function main() {
     .filter((e) => e.isFile() && e.name.endsWith(".md"))
     .map((e) => e.name.replace(/\.md$/, ""));
 
+  // Load FR slugs
+  let frSlugs = {};
+  try {
+    const slugsContent = await readFile(join(ROOT, "src", "i18n", "slugs-fr.json"), "utf8");
+    frSlugs = JSON.parse(slugsContent);
+  } catch (e) {
+    console.warn("Could not load slugs-fr.json, skipping FR slugs");
+  }
+
   const urls = [];
 
+  // EN static pages
   for (const p of STATIC_PAGES) {
     urls.push({
       loc: `${SITE}${p.path}`,
       lastmod: new Date().toISOString().split("T")[0],
       changefreq: p.changefreq,
       priority: p.priority,
+      en: `${SITE}${p.path}`,
+      fr: `${SITE}/fr${p.path}`,
     });
   }
 
+  // FR static pages
+  for (const p of STATIC_PAGES) {
+    urls.push({
+      loc: `${SITE}/fr${p.path}`,
+      lastmod: new Date().toISOString().split("T")[0],
+      changefreq: p.changefreq,
+      priority: p.priority,
+      en: `${SITE}${p.path}`,
+      fr: `${SITE}/fr${p.path}`,
+    });
+  }
+
+  // EN blog articles
   for (const slug of blogFiles) {
     const lastmod = await getPostLastmod(slug);
     urls.push({
@@ -87,9 +112,28 @@ async function main() {
       lastmod,
       changefreq: "monthly",
       priority: PRIORITY.article,
+      en: `${SITE}/journal/${slug}/`,
+      fr: `${SITE}/fr/journal/${slug}/`,
     });
   }
 
+  // FR blog articles
+  for (const slug of blogFiles) {
+    const frSlug = frSlugs[slug];
+    if (frSlug && frSlug !== slug) {
+      const lastmod = await getPostLastmod(slug);
+      urls.push({
+        loc: `${SITE}/fr/journal/${frSlug}/`,
+        lastmod,
+        changefreq: "monthly",
+        priority: PRIORITY.article,
+        en: `${SITE}/journal/${slug}/`,
+        fr: `${SITE}/fr/journal/${frSlug}/`,
+      });
+    }
+  }
+
+  // Topic pages
   const topicDirs = (await readdir(join(DIST, "topics"), { withFileTypes: true }))
     .filter((e) => e.isDirectory())
     .map((e) => e.name);
@@ -99,9 +143,24 @@ async function main() {
       lastmod: new Date().toISOString().split("T")[0],
       changefreq: "weekly",
       priority: PRIORITY.topic,
+      en: `${SITE}/topics/${topic}/`,
+      fr: `${SITE}/fr/topics/${topic}/`,
     });
   }
 
+  // FR topic pages
+  for (const topic of topicDirs) {
+    urls.push({
+      loc: `${SITE}/fr/topics/${topic}/`,
+      lastmod: new Date().toISOString().split("T")[0],
+      changefreq: "weekly",
+      priority: PRIORITY.topic,
+      en: `${SITE}/topics/${topic}/`,
+      fr: `${SITE}/fr/topics/${topic}/`,
+    });
+  }
+
+  // Pagination pages
   const pageDirs = (await readdir(join(DIST, "journal", "page"), { withFileTypes: true }))
     .filter((e) => e.isDirectory())
     .map((e) => e.name);
@@ -111,6 +170,20 @@ async function main() {
       lastmod: new Date().toISOString().split("T")[0],
       changefreq: "daily",
       priority: 0.5,
+      en: `${SITE}/journal/page/${p}/`,
+      fr: `${SITE}/fr/journal/page/${p}/`,
+    });
+  }
+
+  // FR pagination pages
+  for (const p of pageDirs) {
+    urls.push({
+      loc: `${SITE}/fr/journal/page/${p}/`,
+      lastmod: new Date().toISOString().split("T")[0],
+      changefreq: "daily",
+      priority: 0.5,
+      en: `${SITE}/journal/page/${p}/`,
+      fr: `${SITE}/fr/journal/page/${p}/`,
     });
   }
 
@@ -120,12 +193,15 @@ async function main() {
   });
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap/news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${urls.map((u) => `  <url>
     <loc>${u.loc}</loc>
     <lastmod>${u.lastmod}</lastmod>
     <changefreq>${u.changefreq}</changefreq>
     <priority>${u.priority.toFixed(1)}</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="${u.en}" />
+    <xhtml:link rel="alternate" hreflang="fr" href="${u.fr}" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="${u.en}" />
   </url>`).join("\n")}
 </urlset>`;
 
