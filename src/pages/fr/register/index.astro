@@ -1,0 +1,39 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+---
+
+<Layout title="Register — Motiva Hub" description="Create your Motiva Hub account and begin the ascent." noindex={true}>
+  <section class="auth-section">
+    <div class="container">
+      <div class="auth-card">
+        <p class="kicker" data-i18n="registerKicker">The Daily Drive</p>
+        <h1 data-i18n-html="registerTitle">Begin the <em>ascent.</em></h1>
+        <p class="auth-sub" data-i18n="registerSub">Create an account to save your objectives and progress.</p>
+        <!--
+          AUTH INTEGRATION POINT:
+          Connect this form to your authentication service
+          (e.g. Supabase Auth, Auth0, or a custom API) by
+          replacing the action URL and handling the response.
+        -->
+        <form action="/register/" method="post" class="auth-form">
+          <div class="form-group">
+            <label for="name" data-i18n="registerNameLabel">Name</label>
+            <input type="text" id="name" name="name" required />
+          </div>
+          <div class="form-group">
+            <label for="email" data-i18n="registerEmailLabel">Email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div class="form-group">
+            <label for="password" data-i18n="registerPasswordLabel">Password</label>
+            <input type="password" id="password" name="password" required minlength="8" />
+          </div>
+          <button type="submit" class="btn-pill" style="width: 100%;" data-i18n="registerButton">Create Account</button>
+        </form>
+        <div class="auth-links">
+          <a href="/login/" data-i18n="registerHaveAccount">Already have an account? Log in →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

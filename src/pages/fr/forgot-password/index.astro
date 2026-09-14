@@ -1,0 +1,30 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+---
+
+<Layout title="Forgot Password — Motiva Hub" description="Reset your Motiva Hub password." noindex={true}>
+  <section class="auth-section">
+    <div class="container">
+      <div class="auth-card">
+        <p class="kicker" data-i18n="forgotKicker">The Daily Drive</p>
+        <h1 data-i18n-html="forgotTitle">Forgot your <em>password?</em></h1>
+        <p class="auth-sub" data-i18n="forgotSub">Enter your email and we'll send you a reset link.</p>
+        <!--
+          AUTH INTEGRATION POINT:
+          Connect to your authentication service's
+          password reset flow (e.g. Supabase resetPasswordForEmail).
+        -->
+        <form action="/forgot-password/" method="post" class="auth-form">
+          <div class="form-group">
+            <label for="email" data-i18n="forgotEmailLabel">Email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <button type="submit" class="btn-pill" style="width: 100%;" data-i18n="forgotButton">Send Reset Link</button>
+        </form>
+        <div class="auth-links">
+          <a href="/login/" data-i18n="forgotBackLogin">← Back to login</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
