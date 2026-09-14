@@ -1,5 +1,6 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
+import Link from "../../../components/Link.astro";
 ---
 
 <Layout title="Login — Motiva Hub" description="Log in to your Motiva Hub account." noindex={true}>
@@ -27,8 +28,8 @@ import Layout from "../../../layouts/Layout.astro";
           <button type="submit" class="btn-pill" style="width: 100%;" data-i18n="loginButton">Log In</button>
         </form>
         <div class="auth-links">
-          <a href="/forgot-password/" data-i18n="loginForgot">Forgot password?</a>
-          <a href="/register/" data-i18n="loginCreateAccount">Create an account →</a>
+          <Link href="/forgot-password/" data-i18n="loginForgot">Forgot password?</a>
+          <Link href="/register/" data-i18n="loginCreateAccount">Create an account →</a>
         </div>
       </div>
     </div>

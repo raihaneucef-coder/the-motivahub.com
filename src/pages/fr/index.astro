@@ -1,0 +1,212 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Hero from "../../components/Hero.astro";
+import Manifesto from "../../components/Manifesto.astro";
+import Founder from "../../components/Founder.astro";
+import Quote from "../../components/Quote.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import BookCard from "../../components/BookCard.astro";
+import PodcastCard from "../../components/PodcastCard.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
+import { getCollection } from "astro:content";
+import { books } from "../../data/books";
+import { podcasts } from "../../data/podcasts";
+
+const posts = (await getCollection("blog"))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const recentPosts = posts.slice(0, 6);
+const toolItems = [
+  { name: "Discipline Type Quiz", url: "https://the-motivahub.com/tools/discipline-quiz/" },
+  { name: "Habit Stack Generator", url: "https://the-motivahub.com/tools/habit-stacker/" },
+  { name: "Meditation Timer", url: "https://the-motivahub.com/tools/meditation-timer/" },
+  { name: "Cold Shower Tracker", url: "https://the-motivahub.com/tools/cold-shower-tracker/" },
+  { name: "Reading Calculator", url: "https://the-motivahub.com/tools/reading-calculator/" },
+];
+---
+
+<Layout title="Motiva Hub: Build the Discipline | Mindset & Habits" description="Mindset, habits, books, and free tools — for the long ascent, one day at a time. Build the discipline that outlasts the motivation.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://the-motivahub.com/#webpage",
+        "url": "https://the-motivahub.com/",
+        "name": "Motiva Hub — The Long Ascent",
+        "isPartOf": { "@id": "https://the-motivahub.com/#website" },
+        "inLanguage": ["en", "fr"]
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://the-motivahub.com/#recent-articles",
+        "name": "Recent articles from the Journal",
+        "url": "https://the-motivahub.com/journal/",
+        "numberOfItems": recentPosts.length,
+        "itemListElement": recentPosts.map((p, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "url": `https://the-motivahub.com/journal/${p.id}/`,
+          "name": p.data.title
+        }))
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://the-motivahub.com/#free-tools",
+        "name": "Free discipline tools",
+        "url": "https://the-motivahub.com/tools/discipline-quiz/",
+        "numberOfItems": toolItems.length,
+        "itemListElement": toolItems.map((t, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "url": t.url,
+          "name": t.name
+        }))
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" }
+        ]
+      }
+    ]
+  })} />
+  <Hero
+    kicker="EST. 2025 · THE LONG ASCENT"
+    title={`Build the discipline.<br/><em>One day at a time.</em>`}
+    subtitle="Mindset, habits, books, and free tools — for the person who would rather be patient and unstoppable than loud and brief."
+    image="/images/hero-stoic-ascent.jpg"
+    primaryCta={{ label: "Start Reading", href: "/journal/" }}
+    secondaryCta={{ label: "Take the Quiz", href: "/tools/discipline-quiz/" }}
+    meta={[
+       { num: "169", label: "Editorial Pages", labelKey: "metaPages" },
+      { num: "5", label: "Free Tools", labelKey: "metaTools" },
+      { num: "EN · FR", label: "Bilingual", labelKey: "metaBilingual" },
+      { num: "30", label: "Day Programs", labelKey: "metaPrograms" },
+    ]}
+  />
+
+  <section class="trust-strip">
+    <div class="container trust-inner">
+      <span class="trust-label" data-i18n="trustLabel">The books that built the work</span>
+      <div class="trust-logos">
+        <span class="trust-logo">Atomic Habits</span>
+        <span class="trust-logo-bold">CAN'T HURT ME</span>
+        <span class="trust-logo">Meditations</span>
+        <span class="trust-logo-bold">DEEP WORK</span>
+        <span class="trust-logo">The Daily Stoic</span>
+        <span class="trust-logo-bold">30 DAYS</span>
+      </div>
+    </div>
+  </section>
+
+  <Manifesto />
+
+  <Founder />
+
+  <section>
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker" data-i18n="journalKicker">The Journal</span>
+        <div>
+          <h2 data-i18n-html="journalTitle">Essays for the <em>long climb.</em></h2>
+          <p data-i18n="journalSubtitle">Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.</p>
+        </div>
+      </div>
+      <div class="feed-grid reveal-stagger">
+        {posts.slice(0, 6).map((post) => <ArticleCard post={post} />)}
+      </div>
+      <div class="text-center" style="margin-top:48px;">
+        <a class="btn-arrow" href="/journal/" data-i18n="readAllEssays">Read all essays</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-dark">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker" data-i18n="toolsKicker">Free Tools</span>
+        <div>
+          <h2 data-i18n-html="toolsTitle">Not just reading. <em>Doing.</em></h2>
+          <p data-i18n="toolsSubtitle">Six tools, built for the people who would rather act than scroll. No accounts. No paywall. No noise.</p>
+        </div>
+      </div>
+      <div class="feed-grid reveal-stagger">
+        <a class="tool-card" href="/tools/discipline-quiz/">
+          <p class="tool-card-num">01</p>
+          <h3 class="tool-card-title" data-i18n="tool01">Discipline Type Quiz</h3>
+          <p class="tool-card-desc" data-i18n="tool01Desc">Five questions. One archetype. Find the kind of disciplined person you actually are — and what to do about it.</p>
+          <span class="tool-card-link" data-i18n="tool01Link">Take the quiz</span>
+        </a>
+        <a class="tool-card" href="/tools/habit-stacker/">
+          <p class="tool-card-num">02</p>
+          <h3 class="tool-card-title" data-i18n="tool02">Habit Stack Generator</h3>
+          <p class="tool-card-desc" data-i18n="tool02Desc">James Clear's formula. One anchor. One new habit. One 30-day plan, generated in 60 seconds.</p>
+          <span class="tool-card-link" data-i18n="tool02Link">Build the stack</span>
+        </a>
+        <a class="tool-card" href="/tools/meditation-timer/">
+          <p class="tool-card-num">03</p>
+          <h3 class="tool-card-title" data-i18n="tool03">Meditation Timer</h3>
+          <p class="tool-card-desc" data-i18n="tool03Desc">Web audio bells. Seven presets. A daily practice you can hear — no app, no account, no friction.</p>
+          <span class="tool-card-link" data-i18n="tool03Link">Start the bell</span>
+        </a>
+        <a class="tool-card" href="/tools/cold-shower-tracker/">
+          <p class="tool-card-num">04</p>
+          <h3 class="tool-card-title" data-i18n="tool04">Cold Shower Tracker</h3>
+          <p class="tool-card-desc" data-i18n="tool04Desc">Build the streak. Track every cold shower. Export the data. Watch the daily discomfort compound.</p>
+          <span class="tool-card-link" data-i18n="tool04Link">Begin the streak</span>
+        </a>
+        <a class="tool-card" href="/tools/reading-calculator/">
+          <p class="tool-card-num">05</p>
+          <h3 class="tool-card-title" data-i18n="tool05">Reading Calculator</h3>
+          <p class="tool-card-desc" data-i18n="tool05Desc">How many books can you actually read this year? Set the daily page target. Make the math honest.</p>
+          <span class="tool-card-link" data-i18n="tool05Link">Run the numbers</span>
+        </a>
+        <a class="tool-card" href="/pdf/30-days-discipline/">
+          <p class="tool-card-num">06</p>
+          <h3 class="tool-card-title" data-i18n="tool06">30 Days of Discipline</h3>
+          <p class="tool-card-desc" data-i18n="tool06Desc">One page a day, for one month. A free PDF that turns these ideas into a daily practice you can hold.</p>
+          <span class="tool-card-link" data-i18n="tool06Link">Get the PDF</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <Quote />
+
+  <section class="section-cream-deep">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker" data-i18n="wisdomKicker">The Wisdom Stack</span>
+        <div>
+          <h2 data-i18n-html="wisdomTitle">Books that <em>built the work.</em></h2>
+          <p data-i18n="wisdomSubtitle">The texts that shaped Motiva Hub. The texts that will outlast the noise. Read slowly. Re-read often.</p>
+        </div>
+      </div>
+      <div class="feed-grid reveal-stagger">
+        {books.slice(0, 8).map((book) => <BookCard book={book} />)}
+      </div>
+      <div class="text-center" style="margin-top:48px;">
+        <a class="btn-arrow" href="/books/" data-i18n="wisdomAll">The full bookstand</a>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker" data-i18n="listenKicker">Listen</span>
+        <div>
+          <h2 data-i18n-html="listenTitle">The Daily Drive · <em>Podcast</em></h2>
+          <p data-i18n="listenSubtitle">Conversations with the people doing the quiet work — founders, athletes, monks, and the writers who shaped how we think.</p>
+        </div>
+      </div>
+      <div class="feed-grid reveal-stagger">
+        {podcasts.slice(0, 3).map((p) => <PodcastCard podcast={p} />)}
+      </div>
+    </div>
+  </section>
+
+  <NewsletterSection showPdf={true} />
+</Layout>
