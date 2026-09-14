@@ -1028,10 +1028,11 @@ section {
 /* ===================================================================
    ARTICLE CARDS — 3D tilt + hover lift
    =================================================================== */
-.feed-grid {
+.feed-grid,
+.grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: clamp(24px, 2.5vw, 32px);
+  gap: clamp(32px, 4vw, 48px);
 }
 
 .card {
@@ -1632,6 +1633,7 @@ section {
   width: 100%;
   height: auto;
   display: block;
+  margin-bottom: 2.5rem;
 }
 
 @media (max-width: 768px) {
