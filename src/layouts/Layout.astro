@@ -255,9 +255,19 @@ const gaSnippet = GA_ID
         resetOverlay();
         resetPageCurtain();
       });
+      window.addEventListener("pagehide", () => {
+        resetPageCurtain();
+        resetOverlay();
+        document.body.style.overflow = "";
+      });
       window.addEventListener("pageshow", (event) => {
         resetOverlay();
         resetPageCurtain();
+        document.body.style.overflow = "";
+        if (event.persisted) {
+          document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
+          if (overlay) overlay.classList.remove("open");
+        }
       });
     </script>
     <script is:inline>
@@ -934,6 +944,7 @@ const gaSnippet = GA_ID
           const href = a.getAttribute('href');
           if (href.startsWith('#') || a.target === '_blank' || e.metaKey || e.ctrlKey) return;
           if (document.querySelector('.page-leaving')) return;
+          if (document.querySelector('.page-curtain')) return;
           e.preventDefault();
           const curtain = document.createElement('div');
           curtain.className = 'page-curtain';
