@@ -1,5 +1,6 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
+import Link from "../../../components/Link.astro";
 ---
 
 <Layout title="Register — Motiva Hub" description="Create your Motiva Hub account and begin the ascent." noindex={true}>
@@ -31,7 +32,7 @@ import Layout from "../../../layouts/Layout.astro";
           <button type="submit" class="btn-pill" style="width: 100%;" data-i18n="registerButton">Create Account</button>
         </form>
         <div class="auth-links">
-          <a href="/login/" data-i18n="registerHaveAccount">Already have an account? Log in →</a>
+          <Link href="/login/" data-i18n="registerHaveAccount">Already have an account? Log in →</a>
         </div>
       </div>
     </div>

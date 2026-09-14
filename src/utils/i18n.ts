@@ -19,7 +19,8 @@ export function getPathWithoutLocale(url: URL): string {
 export function getLocalePath(path: string, locale: Locale): string {
   const clean = path.startsWith('/') ? path : '/' + path;
   if (locale === 'fr') {
-    return clean === '/' ? '/fr' : '/fr' + clean;
+    if (clean === '/' || clean.startsWith('/fr')) return clean;
+    return '/fr' + clean;
   }
   return clean;
 }

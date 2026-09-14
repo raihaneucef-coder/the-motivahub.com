@@ -1,5 +1,6 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
+import Link from "../../../components/Link.astro";
 import ArticleCard from "../../../components/ArticleCard.astro";
 import RelatedArticles from "../../../components/RelatedArticles.astro";
 import SocialShare from "../../../components/SocialShare.astro";
@@ -11,7 +12,7 @@ import BookCTA from "../../../components/BookCTA.astro";
 import AuthorBio from "../../../components/AuthorBio.astro";
 import TableOfContents from "../../../components/TableOfContents.astro";
 import { getCollection, render } from "astro:content";
-import { getLangFromUrl, getFrenchSlug, getEnglishSlug } from "../../../utils/i18n";
+import { getLangFromUrl, getPathWithoutLocale, getFrenchSlug, getEnglishSlug } from "../../../utils/i18n";
 import frSlugs from "../../../i18n/slugs-fr.json";
 
 export async function getStaticPaths() {
