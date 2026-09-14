@@ -70,20 +70,3 @@ const sections = [
     <button class="btn btn-primary" type="button" onclick="document.getElementById('newsletter')?.scrollIntoView({behavior:'smooth'}); document.getElementById('overlay-menu')?.classList.remove('open'); document.body.style.overflow='';" data-i18n="footerSubscribe">Subscribe</button>
   </div>
 </div>
-  <nav class="overlay-nav" aria-label="Fullscreen menu">
-    {sections.map((section) => (
-      <div class="overlay-nav-section">
-        <p class="overlay-nav-heading" data-i18n={`nav${section.heading}`}>{section.heading}</p>
-        {section.items.map((item) => (
-          <a href={item.href} data-num={item.num}>
-            <span data-i18n={item.labelKey}>{item.label}</span>
-          </a>
-        ))}
-      </div>
-    ))}
-  </nav>
-  <div class="overlay-foot container">
-    <p data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
-    <button class="btn btn-primary" type="button" onclick="document.getElementById('newsletter')?.scrollIntoView({behavior:'smooth'}); document.getElementById('overlay-menu')?.classList.remove('open'); document.body.style.overflow='';" data-i18n="footerSubscribe">Subscribe</button>
-  </div>
-</div>
