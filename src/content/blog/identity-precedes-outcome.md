@@ -1,6 +1,8 @@
 ---
 title: "Identity Precedes Outcome"
 description: "You do not rise to the level of your goals; you fall to the level of your identity. Lasting change begins not with what you want, but with who you are."
+titleFr: "L'identité précède le résultat"
+descriptionFr: "Tu ne t'élèves pas au niveau de tes objectifs ; tu descends au niveau de ton identité. Le changement durable commence non pas par ce que tu veux, mais par qui tu es."
 pubDate: 2026-08-09
 updatedDate: 2026-09-12
 readTime: "6 MIN"

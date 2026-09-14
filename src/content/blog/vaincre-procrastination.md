@@ -1,6 +1,8 @@
 ---
 title: "How to Stop Procrastinating — The Real Science Behind Procrastination"
 description: "Understand why you procrastinate and learn proven techniques to beat it forever. Practical strategies to take action now."
+titleFr: "Comment arrêter de procrastiner — la vraie science derrière la procrastination"
+descriptionFr: "Comprenez pourquoi vous procrastinez et apprenez des techniques éprouvées pour y remédier pour toujours. Des stratégies pratiques pour agir maintenant."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"

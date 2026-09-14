@@ -1,6 +1,8 @@
 ---
 title: "Your Nervous System Is the Boss"
 description: "Your mind does not decide how you feel — your nervous system does. Learn to work with it, not against it."
+titleFr: "Ton système nerveux est le patron"
+descriptionFr: "Ton esprit ne décide pas de comment tu te sens — ton système nerveux le fait. Apprends à travailler avec lui, pas contre lui."
 pubDate: 2026-08-12
 updatedDate: 2026-09-12
 topic: "Wellness"

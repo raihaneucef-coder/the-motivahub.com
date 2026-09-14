@@ -1,6 +1,8 @@
 ---
 title: "Play On Purpose"
 description: "Leisure that leaves you emptier is not rest. Choose entertainment the way champions choose training — deliberately — and recovery becomes a weapon instead of a leak."
+titleFr: "Jouer délibérément"
+descriptionFr: "Le loisir qui te laisse plus vide n'est pas du repos. Choisis le divertissement comme les champions choisissent l'entraînement — délibérément — et la récupération devient une arme au lieu d'une fuite."
 pubDate: 2026-08-20
 updatedDate: 2026-09-12
 topic: "Entertainment"

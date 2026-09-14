@@ -1,6 +1,8 @@
 ---
 title: "The Two-Minute Threshold"
 description: "A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever."
+titleFr: "Le seuil des deux minutes"
+descriptionFr: "Une habitude n'est pas une ligne d'arrivée mais une porte. Réduisez-la jusqu'à ce qu'il devienne impossible de la sauter, et la porte reste ouverte pour toujours."
 pubDate: 2026-08-02
 updatedDate: 2026-09-12
 readTime: "5 MIN"

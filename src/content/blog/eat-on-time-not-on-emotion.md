@@ -1,6 +1,8 @@
 ---
 title: "Eat on Time, Not on Emotion"
 description: "Hunger makes bad decisions. Regular meals make good ones automatic."
+titleFr: "Mange à l'heure, pas selon tes émotions"
+descriptionFr: "La faim fait prendre de mauvaises décisions. Les repas réguliers rendent les bonnes décisions automatiques."
 pubDate: 2026-08-13
 updatedDate: 2026-09-12
 topic: "Nutrition"

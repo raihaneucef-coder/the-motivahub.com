@@ -1,6 +1,8 @@
 ---
 title: "The Tyranny of the Visible Timeline"
 description: "Most quitting has nothing to do with the goal being wrong. It has to do with the clock being visible."
+titleFr: "La tyrannie de la timeline visible"
+descriptionFr: "La plupart des abandons n'ont rien à voir avec le fait que l'objectif est mauvais. Ils ont à voir avec le fait que l'horloge est visible."
 pubDate: 2026-08-20
 updatedDate: 2026-09-12
 topic: "Mindset"

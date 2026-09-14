@@ -6,6 +6,10 @@ interface Props {
   featured?: boolean;
 }
 const { post, featured = false } = Astro.props;
+
+const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
+const title = lang === "fr" && post.data.titleFr ? post.data.titleFr : post.data.title;
+const description = lang === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
 ---
 
 <article class={`card ${featured ? "card-featured" : ""}`}>
@@ -13,9 +17,9 @@ const { post, featured = false } = Astro.props;
     <img class="card-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" />
   </a>
   <div class="card-pad">
-    <p class="card-meta">{post.data.topic.toUpperCase()} · {post.data.readTime}</p>
-    <h3><a href={`/journal/${post.id}/`}>{post.data.title}</a></h3>
-    <p>{post.data.description}</p>
+    <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
+    <h3><a href={`/journal/${post.id}/`}>{title}</a></h3>
+    <p>{description}</p>
     <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
     <a class="read-more" href={`/journal/${post.id}/`} data-i18n="readArticle">Read Article</a>
   </div>

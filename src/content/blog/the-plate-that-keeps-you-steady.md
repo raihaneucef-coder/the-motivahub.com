@@ -1,6 +1,8 @@
 ---
 title: "The Plate That Keeps You Steady"
 description: "A steady plate makes a steady day. Learn the simple ratio that keeps energy even and cravings quiet."
+titleFr: "L'assiette qui vous garde stable"
+descriptionFr: "Une assiette stable fait une journée stable. Apprenez le ratio simple qui garde l'énergie constante et les envies calmes."
 pubDate: 2026-08-16
 updatedDate: 2026-09-12
 topic: "Nutrition"

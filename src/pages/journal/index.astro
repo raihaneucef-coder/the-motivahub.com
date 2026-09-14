@@ -9,6 +9,9 @@ const posts = (await getCollection("blog"))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const featured = posts.find((p) => p.data.featured) || posts[0];
 const rest = posts.filter((p) => p.id !== featured.id);
+const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
+const featuredTitle = lang === "fr" && featured.data.titleFr ? featured.data.titleFr : featured.data.title;
+const featuredDesc = lang === "fr" && featured.data.descriptionFr ? featured.data.descriptionFr : featured.data.description;
 ---
 
 <Layout title="The Journal — Motiva Hub" description="Essays for the long climb. Mindset, habits, discipline, productivity, deep work — articles for the disciplined mind.">
@@ -43,9 +46,9 @@ const rest = posts.filter((p) => p.id !== featured.id);
           <img class="card-img" src={featured.data.image} alt={featured.data.title} loading="lazy" />
         </a>
         <div class="card-pad">
-          <p class="card-meta"><span data-i18n="featuredLabel">Featured</span> · {featured.data.topic.toUpperCase()} · {featured.data.readTime}</p>
-          <h2><a href={`/journal/${featured.id}/`}>{featured.data.title}</a></h2>
-          <p>{featured.data.description}</p>
+          <p class="card-meta"><span data-i18n="featuredLabel">Featured</span> · <span data-i18n={`topic-${featured.data.topic.toLowerCase()}`}>{featured.data.topic.toUpperCase()}</span> · {featured.data.readTime}</p>
+           <h2><a href={`/journal/${featured.id}/`}>{featuredTitle}</a></h2>
+          <p>{featuredDesc}</p>
           <p class="card-date">{featured.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
           <a class="read-more" href={`/journal/${featured.id}/`} data-i18n="readEssay">Read Essay</a>
         </div>
@@ -64,16 +67,20 @@ const rest = posts.filter((p) => p.id !== featured.id);
       <div class="topic-filter">
         <a class="active" href="/journal/" data-i18n="all">All</a>
         {allTopics.map((t) => (
-          <a href={`/topics/${t.id}/`}>{t.title}</a>
+          <a href={`/topics/${t.id}/`} data-i18n={`topic-${t.id}`}>{t.title}</a>
         ))}
       </div>
 
       <div class="grid" id="journal-grid">
-        {rest.slice(0, 11).map((post) => (
-          <div class="searchable" data-title={post.data.title.toLowerCase()} data-topic={post.data.topic.toLowerCase()} data-desc={post.data.description.toLowerCase()}>
+        {rest.slice(0, 11).map((post) => {
+          const searchTitle = lang === "fr" && post.data.titleFr ? post.data.titleFr.toLowerCase() : post.data.title.toLowerCase();
+          const searchDesc = lang === "fr" && post.data.descriptionFr ? post.data.descriptionFr.toLowerCase() : post.data.description.toLowerCase();
+          return (
+          <div class="searchable" data-title={searchTitle} data-topic={post.data.topic.toLowerCase()} data-desc={searchDesc}>
             <ArticleCard post={post} />
           </div>
-        ))}
+          );
+        })}
       </div>
       <p id="no-results" hidden style="text-align:center;color:var(--muted);margin-top:32px;" data-i18n="noResults">No results found.</p>
 

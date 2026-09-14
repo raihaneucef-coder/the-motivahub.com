@@ -1,6 +1,8 @@
 ---
 title: "Comfort Zone vs Growth Zone: Why Discomfort Is Your Friend"
 description: "Your comfort zone is a beautiful place, but nothing grows there. Learn why stepping into discomfort is the only path to growth."
+titleFr: "Zone de confort vs zone de croissance : pourquoi l'inconfort est votre ami"
+descriptionFr: "Votre zone de confort est un endroit magnifique, mais rien n'y pousse. Découvrez pourquoi entrer dans l'inconfort est le seul chemin vers la croissance."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

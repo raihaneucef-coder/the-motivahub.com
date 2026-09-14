@@ -1,6 +1,8 @@
 ---
 title: "What to Do When You Miss a Day (Without Quitting Everything)"
 description: "Missing a day is not the end of a habit. It is the test of the system. Here is the exact protocol for the day after a miss — and the three rules that prevent the miss from becoming a relapse."
+titleFr: "Que faire quand tu manques un jour (sans tout abandonner)"
+descriptionFr: "Manquer un jour n'est pas la fin d'une habitude. C'est le test du système. Voici le protocole exact pour le jour après une absence — et les trois règles qui empêchent la rechute."
 pubDate: 2026-09-05
 updatedDate: 2026-09-12
 readTime: "7 MIN"

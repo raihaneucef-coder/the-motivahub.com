@@ -1,6 +1,8 @@
 ---
 title: "Budget Travel: How to See the World Without Going Broke"
 description: "Travel does not have to be expensive. With the right strategies, you can see the world on a shoestring budget. Here is how."
+titleFr: "Voyager avec un petit budget : comment voir le monde sans se ruiner"
+descriptionFr: "Voyager ne doit pas être cher. Avec les bonnes stratégies, vous pouvez voir le monde avec un budget serré. Voici comment."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

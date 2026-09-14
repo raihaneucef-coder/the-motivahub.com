@@ -1,6 +1,8 @@
 ---
 title: "Speaking Up: How to Find Your Voice and Use It"
 description: "Your voice matters. But if you never use it, no one will hear it. Learn how to speak up with clarity, conviction, and confidence."
+titleFr: "Prendre la parole : comment trouver votre voix et l'utiliser"
+descriptionFr: "Votre voix compte. Mais si vous ne l'utilisez jamais, personne ne l'entendra. Apprenez à prendre la parole avec clarté, conviction et confiance."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

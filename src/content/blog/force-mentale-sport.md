@@ -1,6 +1,8 @@
 ---
 title: "Mental Toughness in Sport: How to Perform Under Pressure"
 description: "Talent gets you to the game. Mental toughness wins it. Learn the mental skills that separate good athletes from great ones."
+titleFr: "Force mentale dans le sport : comment performer sous pression"
+descriptionFr: "Le talent te fait entrer dans le jeu. La force mentale le gagne. Apprends les compétences mentales qui séparent les bons athlètes des grands."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "The Long Ascent: Why Slow Climbers Reach the Top and Sprinters Burn Out"
 description: "There are two kinds of climbers — the ones who sprint and the ones who ascend. The sprinters hit a wall. The ascenders reach the summit. Here is why the long climb wins."
+titleFr: "La longue ascension : pourquoi les grimpeurs lents atteignent le sommet et les sprinteurs s'épuisent"
+descriptionFr: "Il y a deux types de grimpeurs — ceux qui sprintent et ceux qui montent. Les sprinteurs heurtent un mur. Les ascendants atteignent le sommet. Voici pourquoi la longue montée gagne."
 pubDate: 2026-07-18
 updatedDate: 2026-09-12
 readTime: "9 MIN"

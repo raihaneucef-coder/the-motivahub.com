@@ -1,6 +1,8 @@
 ---
 title: "Travel and Mental Health: How New Places Heal Your Mind"
 description: "Travel is not a luxury — it is therapy. New environments reduce stress, boost creativity, and improve mental health. Here is the science."
+titleFr: "Voyage et santé mentale : comment les nouveaux lieux soignent votre esprit"
+descriptionFr: "Voyager n'est pas un luxe — c'est une thérapie. Les nouveaux environnements réduisent le stress, boostent la créativité et améliorent la santé mentale. Voici la science."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "Growth Feels Like Breaking Before It Feels Like Becoming"
 description: "Growth is not comfortable — it feels like breaking. But breaking is not the end; it is the beginning of becoming."
+titleFr: "La croissance ressemble à une rupture avant de ressembler à une naissance"
+descriptionFr: "La croissance n'est pas confortable — elle ressemble à une rupture. Mais la rupture n'est pas la fin ; c'est le début de la transformation."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Personal Growth"

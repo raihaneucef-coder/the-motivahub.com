@@ -1,6 +1,8 @@
 ---
 title: "Solo Travel: Why Everyone Should Travel Alone at Least Once"
 description: "Solo travel is not about being lonely — it is about being free. Learn why traveling alone is the most transformative experience you can have."
+titleFr: "Voyager seul : pourquoi tout le monde devrait voyager seul au moins une fois"
+descriptionFr: "Voyager seul n'est pas être seul — c'est être libre. Découvrez pourquoi voyager seul est l'expérience la plus transformative que vous puissiez avoir."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "Two Friends, One Promise: Why Community Is Kept, Not Found"
 description: "They promised to walk every day for a year. The promise, not the walk, is what changed them. A story about accountability, community, and the difference between a habit and a commitment."
+titleFr: "Deux amis, une promesse : pourquoi la communauté se construit, ne se trouve pas"
+descriptionFr: "Ils avaient promis de marcher ensemble chaque jour pendant un an. La promesse, pas la marche, est ce qui les a changés. Une histoire de responsabilité, de communauté et de la différence entre une habitude et un engagement."
 pubDate: 2026-08-04
 updatedDate: 2026-09-12
 readTime: "4 min read"

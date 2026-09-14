@@ -1,6 +1,8 @@
 ---
 title: "Failure Is Your Best Teacher: Why Losing Is the Real Winning"
 description: "Stop fearing failure and start using it. Discover why the most successful people fail the most — and what they do differently."
+titleFr: "L'échec est ton meilleur professeur : pourquoi perdre, c'est vraiment gagner"
+descriptionFr: "Arrête de craindre l'échec et commence à l'utiliser. Découvre pourquoi les plus grandes personnes échouent le plus — et ce qu'elles font différemment."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

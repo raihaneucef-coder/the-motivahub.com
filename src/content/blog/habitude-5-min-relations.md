@@ -1,6 +1,8 @@
 ---
 title: "The 5-Minute Daily Habit That Strengthens Every Relationship"
 description: "Most relationships do not die from big betrayals. They die from small neglects. This 5-minute habit prevents that."
+titleFr: "L'habitude quotidienne de 5 minutes qui renforce chaque relation"
+descriptionFr: "La plupart des relations ne meurent pas par de grandes trahisons. Elles meurent par de petites négligences. Cette habitude de 5 minutes empêche ça."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

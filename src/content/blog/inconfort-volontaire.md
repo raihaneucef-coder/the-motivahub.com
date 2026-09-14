@@ -1,6 +1,8 @@
 ---
 title: "Voluntary Discomfort: The Secret to Mental Toughness"
 description: "Why the most successful people deliberately choose discomfort — and how voluntary suffering builds the mental strength that makes everything else easy."
+titleFr: "Inconfort volontaire : le secret de la force mentale"
+descriptionFr: "Pourquoi les personnes les plus performantes choisissent délibérément l'inconfort — et comment la souffrance volontaire construit la force mentale qui rend tout le reste facile."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

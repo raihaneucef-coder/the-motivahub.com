@@ -1,6 +1,8 @@
 ---
 title: "Habit Stacking: The Easiest Way to Build New Routines"
 description: "Learn how to chain your habits together using habit stacking. A proven method to create automatic routines without willpower."
+titleFr: "L'empilement d'habitudes : la façon la plus simple de construire de nouvelles routines"
+descriptionFr: "Apprends à enchaîner tes habitudes avec l'empilement d'habitudes. Une méthode éprouvée pour créer des routines automatiques sans volonté."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

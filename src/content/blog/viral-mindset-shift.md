@@ -1,6 +1,8 @@
 ---
 title: "The Viral Mindset Shift — How One Idea Changes Everything"
 description: "A powerful mindset clip, 27 seconds long: identity precedes outcome. Here is the full story behind a transformative idea on motivation."
+titleFr: "Le changement de mindset viral — comment une idée change tout"
+descriptionFr: "Une courte vidéo de mindset, 27 secondes : l'identité précède le résultat. Voici l'histoire complète derrière une idée transformative sur la motivation."
 pubDate: 2026-08-19
 updatedDate: 2026-09-12
 readTime: "6 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "Podcasts as Education: How to Learn While You Do Everything Else"
 description: "Podcasts turn dead time into learning time. Commuting, exercising, cooking — all become education. Here is how to use podcasts effectively."
+titleFr: "Les podcasts comme éducation : comment apprendre pendant que tu fais tout le reste"
+descriptionFr: "Les podcasts transforment le temps mort en temps d'apprentissage. Trajet, exercice, cuisine — tout devient éducation. Voici comment utiliser les podcasts efficacement."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

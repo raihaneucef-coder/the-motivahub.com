@@ -1,6 +1,8 @@
 ---
 title: "The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working"
 description: "Every goal hides a deeper goal — a why beneath the why. Most people chase the surface. The few who arrive are the ones who dug past the first layer."
+titleFr: "L'objectif derrière l'objectif : la question cachée qui vous fait avancer quand le plan ne marche plus"
+descriptionFr: "Chaque objectif cache un objectif plus profond — un pourquoi derrière le pourquoi. La plupart des gens courent après la surface. Ceux qui arrivent sont ceux qui ont creusé au-delà de la première couche."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"

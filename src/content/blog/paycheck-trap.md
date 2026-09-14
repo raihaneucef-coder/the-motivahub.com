@@ -1,6 +1,8 @@
 ---
 title: "The Paycheck Trap: Why Earning More Isn't Enough"
 description: "A higher income feels like freedom until lifestyle rises with it. Learn how to keep the raise you just earned."
+titleFr: "Le piège du salaire : pourquoi gagner plus ne suffit pas"
+descriptionFr: "Un revenu plus élevé ressemble à la liberté jusqu'à ce que le style de vie augmente avec. Découvre comment conserver l'augmentation que tu viens d'obtenir."
 pubDate: 2026-08-14
 updatedDate: 2026-09-12
 topic: "Finance"

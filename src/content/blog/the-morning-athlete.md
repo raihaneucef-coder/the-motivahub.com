@@ -1,6 +1,8 @@
 ---
 title: "The Morning Athlete: Why 5 AM Still Wins (And How to Actually Do It)"
 description: "I've tested early-morning training for 5 years — as an amateur athlete, a coach, and a regular person trying to fit workouts into a full life. Here's what works, what fails, and why 5 AM still beats every other option."
+titleFr: "L'athlète du matin : pourquoi 5h gagne toujours (et comment y arriver vraiment)"
+descriptionFr: "J'ai testé l'entraînement matinal pendant 5 ans — en tant qu'athlète amateur, coach et personne ordinaire essayant de caser les séances dans une vie chargée. Voici ce qui marche, ce qui échoue, et pourquoi 5h gagne toujours."
 pubDate: 2026-09-06
 updatedDate: 2026-09-12
 readTime: "10 MIN"

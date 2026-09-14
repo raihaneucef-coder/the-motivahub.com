@@ -1,6 +1,8 @@
 ---
 title: "How to Maintain Focus in a World Designed to Distract You"
 description: "Your attention is the most valuable asset you own. Learn how to protect it, sharpen it, and use it to achieve what matters most."
+titleFr: "Comment rester concentré dans un monde fait pour te distraire"
+descriptionFr: "Ton attention est l'actif le plus précieux que tu possèdes. Apprends à la protéger, l'aiguiser et l'utiliser pour accomplir ce qui compte vraiment."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"
