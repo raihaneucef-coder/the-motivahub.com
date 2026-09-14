@@ -1,5 +1,6 @@
 ---
 import type { Book } from "../data/books";
+import Link from "./Link.astro";
 
 interface Props {
   book: Book;
@@ -49,7 +50,7 @@ const relatedLabel = (() => {
     <p class="book-reason"><strong data-i18n="bookWhyRecommend">Why we recommend it:</strong> {reason}</p>
     {relatedSlug && relatedLabel ? (
       <p style="margin-top:10px;">
-        <a class="read-more" href={relatedSlug} data-i18n={relatedLabel}>{relatedLabel}</a>
+        <Link class="read-more" href={relatedSlug} data-i18n={relatedLabel}>{relatedLabel}</Link>
       </p>
     ) : null}
     {hasAffiliate ? (

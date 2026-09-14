@@ -1,5 +1,6 @@
 ---
 import Layout from "../../../../layouts/Layout.astro";
+import Link from "../../../../components/Link.astro";
 import { books } from "../../../../data/books";
 import BookCard from "../../../../components/BookCard.astro";
 import AffiliateBanner from "../../../../components/AffiliateBanner.astro";
@@ -9,8 +10,8 @@ const title = "Best Self-Help Books 2026 — Motiva Hub";
 const description = "The 12 best self-help books that actually change how you think, work, and live — from Marcus Aurelius to Atomic Habits. Hand-picked, ranked, and reviewed by the Motiva Hub editorial team.";
 ---
 
-<Layout title={title} description={description}>
-  <link rel="canonical" href="https://the-motivahub.com/best/books/" />
+<Layout title={title} description={description} lang="fr">
+  <link rel="canonical" href="https://the-motivahub.com/fr/best/books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [
@@ -64,30 +65,30 @@ const description = "The 12 best self-help books that actually change how you th
 
   <section class="page-head">
     <div class="container">
-      <p class="kicker" data-i18n="booksKicker">The Bookstand · Best Of</p>
-      <h1 data-i18n-html="booksTitle">The Best Self-Help Books <em>to Read in 2026</em></h1>
-      <p data-i18n="booksSubtitle">Twelve books we return to. Hand-picked, ranked, and honestly reviewed — the ones that earn their place on the shelf beside the bed.</p>
+      <p class="kicker" data-i18n="booksKicker">La Librairie · Meilleurs</p>
+      <h1 data-i18n-html="booksTitle">Les Meilleurs Livres de Développement Personnel <em>à Lire en 2026</em></h1>
+      <p data-i18n="booksSubtitle">Douze livres que nous relisons. Sélectionnés à la main, classés, et honnêtement critiqués — ceux qui méritent leur place sur l'étagère à côté du lit.</p>
     </div>
   </section>
 
   <section class="feed">
     <div class="container">
       <div class="affiliate-disclosure">
-        <p><strong data-i18n="booksAffiliateHeading">Affiliate Disclosure:</strong> <span data-i18n="booksAffiliateText">As an Amazon Associate, we earn from qualifying purchases made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <a href="/affiliate-disclosure/" data-i18n="booksAffiliateLink">Read our full disclosure policy →</a></p>
+        <p><strong data-i18n="booksAffiliateHeading">Divulgation Affiliate :</strong> <span data-i18n="booksAffiliateText">En tant qu'Associé Amazon, nous gagnons des commissions sur les achats éligibles effectués via les liens Amazon sur cette page. Le prix que vous payez ne change pas. Nous ne recommandons que des livres que nous avons personnellement lus et trouvés réellement précieux — jamais des placements payants.</span> <Link href="/affiliate-disclosure/" data-i18n="booksAffiliateLink">Lire notre politique de divulgation complète →</Link></p>
       </div>
-      <AffiliateBanner variant="callout" lang="en" />
+      <AffiliateBanner variant="callout" lang="fr" />
 
       <div class="intro-block">
-        <h2 data-i18n="booksHowPicked">How we picked them</h2>
-        <p data-i18n-html="booksHowPickedP1">We did not chase the year's loudest titles. Each book on this list passed three filters: <strong>timelessness</strong> (still useful a decade from now), <strong>action density</strong> (one idea per chapter you can use today), and <strong>re-readability</strong> (the kind of book that gives more on the third read than the first).</p>
-        <p data-i18n-html="booksHowPickedP2">If you only read three books from this list, start with <strong>Meditations</strong>, <strong>Atomic Habits</strong>, and <strong>Deep Work</strong>. They cover the inner life, the daily system, and the rare hour of focused work that changes a week. To see how we built the system behind these picks, read the full <a href="/guides/atomic-habits-ultimate-guide/" data-i18n="booksAtomicGuideLink">Atomic Habits ultimate guide</a> and the <a href="/journal/atomic-habits-review/" data-i18n="booksFieldReportLink">4-read field report</a>.</p>
-        <p data-i18n="booksCuratedPicks">Want curated picks by category? See our <a href="/best/focus-books/" data-i18n="booksBestFocusLink">best focus books</a>, <a href="/best/habit-books/" data-i18n="booksBestHabitLink">best habit books</a>, and <a href="/best/stoicism-books/" data-i18n="booksBestStoicismLink">best stoicism books</a>. For a personal experiment on building the habit, the <a href="/journal/two-minute-rule-guide/" data-i18n="booksTwoMinLink">2-Minute Rule guide</a> shows the 7-day protocol.</p>
+        <h2 data-i18n="booksHowPicked">Comment nous les avons choisis</h2>
+        <p data-i18n-html="booksHowPickedP1">Nous n'avons pas couru après les titres les plus bruyants de l'année. Chaque livre de cette liste a passé trois filtres : <strong>intemporalité</strong> (toujours utile une décennie plus tard), <strong>densité d'action</strong> (une idée par chapitre que vous pouvez utiliser aujourd'hui), et <strong>re-lisibilité</strong> (le genre de livre qui donne plus à la troisième lecture qu'à la première).</p>
+        <p data-i18n-html="booksHowPickedP2">Si vous ne lisez que trois livres de cette liste, commencez par <strong>Méditations</strong>, <strong>Atomic Habits</strong>, et <strong>Deep Work</strong>. Ils couvrent la vie intérieure, le système quotidien, et la rare heure de travail concentré qui change une semaine. Pour voir comment nous avons construit le système derrière ces choix, lisez le <Link href="/guides/atomic-habits-ultimate-guide/" data-i18n="booksAtomicGuideLink">guide ultime Atomic Habits</Link> et le <Link href="/journal/atomic-habits-review/" data-i18n="booksFieldReportLink">rapport de terrain en 4 lectures</Link>.</p>
+        <p data-i18n="booksCuratedPicks">Vous voulez des choix organisés par catégorie ? Voir nos <Link href="/best/focus-books/" data-i18n="booksBestFocusLink">meilleurs livres sur la concentration</Link>, <Link href="/best/habit-books/" data-i18n="booksBestHabitLink">meilleurs livres sur les habitudes</Link>, et <Link href="/best/stoicism-books/" data-i18n="booksBestStoicismLink">meilleurs livres sur le stoïcisme</Link>. Pour une expérience personnelle sur la construction de l'habitude, le <Link href="/journal/two-minute-rule-guide/" data-i18n="booksTwoMinLink">guide de la Règle des 2 Minutes</Link> montre le protocole de 7 jours.</p>
       </div>
 
       <div class="cta-strip">
-        <a class="btn btn-primary" href="/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Take the Discipline Quiz</a>
-        <a class="btn btn-outline" href="/journal/" data-i18n="readJournalCta">Read the Journal</a>
-        <a class="btn btn-outline" href="/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Get the Free PDF</a>
+        <Link class="btn btn-primary" href="/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Faire le Quiz de Discipline</Link>
+        <Link class="btn btn-outline" href="/journal/" data-i18n="readJournalCta">Lire le Journal</Link>
+        <Link class="btn btn-outline" href="/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Obtenir le PDF Gratuit</Link>
       </div>
 
       <div class="book-grid">
@@ -102,22 +103,22 @@ const description = "The 12 best self-help books that actually change how you th
       <AdSlot format="horizontal" />
 
       <div class="faq-block">
-        <h2 data-i18n="booksFaqTitle">Frequently asked questions</h2>
+        <h2 data-i18n="booksFaqTitle">Questions fréquentes</h2>
         <details>
-          <summary data-i18n="booksFaq1Question">What is the best self-help book to read?</summary>
-          <p data-i18n="booksFaq1Answer">Atomic Habits by James Clear is the most actionable modern self-help book. For timeless philosophy, Meditations by Marcus Aurelius remains the gold standard.</p>
+          <summary data-i18n="booksFaq1Question">Quel est le meilleur livre de développement personnel à lire ?</summary>
+          <p data-i18n="booksFaq1Answer">Atomic Habits de James Clear est le livre de développement personnel moderne le plus actionable. Pour la philosophie intemporelle, Méditations de Marc Aurèle reste la référence absolue.</p>
         </details>
         <details>
-          <summary data-i18n="booksFaq2Question">Are these books worth reading in 2026?</summary>
-          <p data-i18n="booksFaq2Answer">Yes. Each book has been re-read and recommended because the ideas compound over time, not because they are trendy.</p>
+          <summary data-i18n="booksFaq2Question">Ces livres valent-ils la peine d'être lus en 2026 ?</summary>
+          <p data-i18n="booksFaq2Answer">Oui. Chaque livre de cette liste a été relu et recommandé parce que les idées composent avec le temps, pas parce qu'elles sont tendance.</p>
         </details>
         <details>
-          <summary data-i18n="booksFaq3Question">Do you earn a commission from these links?</summary>
-          <p data-i18n="booksFaq3Answer">Yes. As an Amazon Associate, we earn from qualifying purchases. The price you pay is unchanged.</p>
+          <summary data-i18n="booksFaq3Question">Gagnez-vous une commission sur ces liens ?</summary>
+          <p data-i18n="booksFaq3Answer">Oui. En tant qu'Associé Amazon, nous gagnons des commissions sur les achats éligibles. Le prix que vous payez ne change pas.</p>
         </details>
       </div>
 
-      <AffiliateBanner variant="footer" lang="en" />
+      <AffiliateBanner variant="footer" lang="fr" />
     </div>
   </section>
 </Layout>
