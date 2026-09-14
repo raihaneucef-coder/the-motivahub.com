@@ -1,0 +1,17 @@
+---
+import { getLangFromUrl, getLocalePath } from '../utils/i18n';
+
+interface Props {
+  href: string;
+  class?: string;
+  [key: string]: any;
+}
+
+const { href, class: className, ...props } = Astro.props;
+const currentLocale = getLangFromUrl(Astro.url);
+const localizedHref = getLocalePath(href, currentLocale);
+---
+
+<a href={localizedHref} class={className} {...props}>
+  <slot />
+</a>
