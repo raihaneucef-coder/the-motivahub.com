@@ -1,6 +1,8 @@
 ---
 title: "Emergency Fund: Why It Is Your Financial Foundation"
 description: "An emergency fund is not optional — it is essential. Without one, a single unexpected expense can derail your entire financial life."
+titleFr: "Fonds d'urgence : pourquoi c'est ta base financière"
+descriptionFr: "Un fonds d'urgence n'est pas optionnel — il est essentiel. Sans lui, une seule dépense imprévue peut faire dérailer toute ta vie financière."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

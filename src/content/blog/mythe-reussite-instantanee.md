@@ -1,6 +1,8 @@
 ---
 title: "The Overnight Success Myth: Why It Takes Years to Succeed"
 description: "Everyone wants overnight success. But overnight success is a myth. Behind every 'sudden' success are years of invisible work. Learn the truth."
+titleFr: "Le mythe du succès immédiat : pourquoi il faut des années pour réussir"
+descriptionFr: "Tout le monde veut le succès du jour au lendemain. Mais c'est un mythe. Derrière chaque succès 'soudain' se cachent des années de travail invisible. Découvre la vérité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

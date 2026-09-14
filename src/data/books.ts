@@ -7,6 +7,9 @@ export interface Book {
   affiliateUrl: string;
   category: string;
   author: string;
+  descriptionFr?: string;
+  reasonFr?: string;
+  categoryFr?: string;
 }
 
 // NOTE: affiliateUrl is intentionally empty.
@@ -22,6 +25,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/0140449337?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "STOICISM",
     author: "Marcus Aurelius · c. 180 AD",
+    descriptionFr: "Le carnet privé d'un emperateur qui s'écrit à lui-même.",
+    reasonFr: "La chose la plus proche d'un manuel pour la vie intérieure.",
+    categoryFr: "STOÏCISME",
   },
   {
     id: "atomic-habits",
@@ -32,6 +38,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/0735211299?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "HABITS",
     author: "James Clear · 2018",
+    descriptionFr: "Le plaidoyer d'un penseur systémique pour un changement basé sur l'identité.",
+    reasonFr: "L'argument moderne le plus clair que tu ne montes pas à tes objectifs — tu descends à tes systèmes.",
+    categoryFr: "HABITUDES",
   },
   {
     id: "deep-work",
@@ -42,6 +51,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/1455586692?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "FOCUS",
     author: "Cal Newport · 2016",
+    descriptionFr: "Le plaidoyer pour traiter la concentration comme un art.",
+    reasonFr: "La concentration sans distraction est le superpouvoir du siècle.",
+    categoryFr: "CONCENTRATION",
   },
   {
     id: "daily-stoic",
@@ -52,6 +64,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/0735211736?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "PHILOSOPHY",
     author: "Ryan Holiday · 2016",
+    descriptionFr: "Trois cent soixante-six méditations, une pour chaque jour.",
+    reasonFr: "Une porte d'entrée pratique dans une tradition qui guide les esprits disciplinés depuis deux mille ans.",
+    categoryFr: "PHILOSOPHIE",
   },
   {
     id: "cant-hurt-me",
@@ -62,6 +77,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "DISCIPLINE",
     author: "David Goggins · 2018",
+    descriptionFr: "Un récit sans concession sur la maîtrise de soi forgée dans la souffrance.",
+    reasonFr: "Pas une lecture confortable, et ce n'est pas le but — c'est du carburant pour les jours où tu veux abandonner.",
+    categoryFr: "DISCIPLINE",
   },
   {
     id: "mans-search-for-meaning",
@@ -72,6 +90,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/080701429X?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "PHILOSOPHY",
     author: "Viktor Frankl · 1946",
+    descriptionFr: "Le testament d'un psychiatre depuis les camps.",
+    reasonFr: "La dernière des libertés humaines — choisir son attitude — ne peut être enlevée.",
+    categoryFr: "PHILOSOPHIE",
   },
   // --- Trending 2024-2026 ---
   {
@@ -83,6 +104,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/0857197681?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "MONEY",
     author: "Morgan Housel · 2020",
+    descriptionFr: "Des leçons intemporelles sur la richesse, l'avidité et le bonheur.",
+    reasonFr: "Un guide pratique pour comprendre ta relation avec l'argent — pourquoi l'argent est d'abord une histoire de comportement, pas de chiffres.",
+    categoryFr: "ARGENT",
   },
   {
     id: "mountain-is-you",
@@ -93,6 +117,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/1949759229?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "GROWTH",
     author: "Brianna Wiest · 2020",
+    descriptionFr: "Un guide pratique pour transformer l'autosabotage en maîtrise de soi.",
+    reasonFr: "Une recommandation person-growth populaire — comment transformer l'autosabotage en force.",
+    categoryFr: "DÉVELOPPEMENT",
   },
   {
     id: "subtle-art",
@@ -103,6 +130,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/0062457713?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "MINDSET",
     author: "Mark Manson · 2016",
+    descriptionFr: "Une approche contre-intuitive pour vivre une bonne vie.",
+    reasonFr: "Un livre de développement personnel très lu — apprends à choisir ce qui mérite ton attention.",
+    categoryFr: "MINDSET",
   },
   {
     id: "let-them-theory",
@@ -113,6 +143,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/1401991360?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "MINDSET",
     author: "Mel Robbins · 2024",
+    descriptionFr: "Le phénomène 2024 de Mel Robbins — laisse-les, laisse-moi.",
+    reasonFr: "Une recommandation développement personnel — la phrase qui aide les lecteurs à poser des limites.",
+    categoryFr: "MINDSET",
   },
   {
     id: "courage-to-be-disliked",
@@ -123,6 +156,9 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/1501197274?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "PHILOSOPHY",
     author: "Ichiro Kishimi · 2013",
+    descriptionFr: "Le phénomène japonais qui te montre comment être libre.",
+    reasonFr: "Un dialogue réfléchi — le courage de déplaire et enfin vivre libre.",
+    categoryFr: "PHILOSOPHIE",
   },
   {
     id: "48-laws-of-power",
@@ -133,5 +169,8 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/0140280197?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "POWER",
     author: "Robert Greene · 1998",
+    descriptionFr: "Le manuel impitoyable et brillant du pouvoir.",
+    reasonFr: "Un livre largement discuté — 48 leçons sur le pouvoir et la stratégie.",
+    categoryFr: "POUVOIR",
   },
 ];

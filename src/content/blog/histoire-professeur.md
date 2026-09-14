@@ -1,6 +1,8 @@
 ---
 title: "The Teacher Who Changed 1000 Lives: A Story of Impact"
 description: "Maria had no money, no fame, and no power. But she had something more valuable — she had the ability to make people believe in themselves."
+titleFr: "Le professeur qui a changé 1000 vies : une histoire d'impact"
+descriptionFr: "Maria n'avait pas d'argent, pas de gloire et pas de pouvoir. Mais elle avait quelque chose de plus précieux — elle avait la capacité de faire croire aux gens en eux-mêmes."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

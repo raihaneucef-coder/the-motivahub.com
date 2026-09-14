@@ -1,6 +1,8 @@
 ---
 title: "Hydration: Why Water Is the Most Underrated Performance Enhancer"
 description: "Dehydration reduces performance by up to 25%. Water is the simplest, cheapest, and most effective performance enhancer available."
+titleFr: "Hydratation : pourquoi l'eau est le meilleur booster de performance (et le plus sous-estimé)"
+descriptionFr: "La déshydratation réduit la performance jusqu'à 25 %. L'eau est le booster de performance le plus simple, le moins cher et le plus efficace qui existe."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

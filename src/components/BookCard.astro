@@ -7,6 +7,11 @@ interface Props {
 const { book } = Astro.props;
 const hasAffiliate = Boolean(book.affiliateUrl && book.affiliateUrl.trim().length > 0);
 
+const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
+const category = lang === "fr" && book.categoryFr ? book.categoryFr : book.category;
+const description = lang === "fr" && book.descriptionFr ? book.descriptionFr : book.description;
+const reason = lang === "fr" && book.reasonFr ? book.reasonFr : book.reason;
+
 const relatedSlug = (() => {
   switch (book.id) {
     case "atomic-habits":
@@ -35,13 +40,13 @@ const relatedLabel = (() => {
 <article class="book-card" id={book.id}>
   <div style="position:relative; overflow:hidden;">
     <img class="book-cover" src={book.cover} alt={`${book.title} cover`} loading="lazy" />
-    <span class="book-cat">{book.category}</span>
+    <span class="book-cat" data-i18n={`book-category-${book.category.toLowerCase()}`}>{category}</span>
   </div>
   <div class="book-body">
     <h3>{book.title}</h3>
     <p class="book-author">{book.author}</p>
-    <p class="book-desc">{book.description}</p>
-    <p class="book-reason"><strong data-i18n="bookWhyRecommend">Why we recommend it:</strong> {book.reason}</p>
+    <p class="book-desc">{description}</p>
+    <p class="book-reason"><strong data-i18n="bookWhyRecommend">Why we recommend it:</strong> {reason}</p>
     {relatedSlug && relatedLabel ? (
       <p style="margin-top:10px;">
         <a class="read-more" href={relatedSlug} data-i18n={relatedLabel}>{relatedLabel}</a>

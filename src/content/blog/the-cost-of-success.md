@@ -1,6 +1,8 @@
 ---
 title: "The Cost of Success No One Talks About"
 description: "Every success has a price paid in advance — in boredom, in no, and in staying when it would be easier to leave."
+titleFr: "Le coût du succès dont personne ne parle"
+descriptionFr: "Tout succès a un prix payé d'avance — dans l'ennui, dans les refus, et dans le fait de rester quand il serait plus facile de partir."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"

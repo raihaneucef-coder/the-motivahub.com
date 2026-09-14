@@ -1,6 +1,8 @@
 ---
 title: "Investing for Beginners: Start Building Wealth Today"
 description: "You do not need thousands to start investing. You need consistency. Learn the simplest way to start building wealth from scratch."
+titleFr: "Investir pour les débutants : commence à construire ta richesse aujourd'hui"
+descriptionFr: "Tu n'as pas besoin de milliers pour commencer à investir. Tu as besoin de régularité. Apprends la façon la plus simple de construire ta richesse from scratch."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "Energy Management: The Real Productivity Hack"
 description: "Time management is not enough. Energy management is the real productivity hack. Learn how to optimize your energy for peak performance."
+titleFr: "Gestion de l'énergie : le vrai hack de productivité"
+descriptionFr: "La gestion du temps ne suffit pas. La gestion de l'énergie est le vrai hack de productivité. Apprends à optimiser ton énergie pour une performance maximale."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

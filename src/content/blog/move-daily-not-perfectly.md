@@ -1,6 +1,8 @@
 ---
 title: "Move Daily, Not Perfectly"
 description: "You do not need the perfect workout — you need a daily one that survives bad days."
+titleFr: "Bouge quotidiennement, pas parfaitement"
+descriptionFr: "Tu n'as pas besoin de l'entraînement parfait — tu as besoin d'un entraînement quotidien qui survive aux mauvais jours."
 pubDate: 2026-08-21
 updatedDate: 2026-09-12
 topic: "Wellness"

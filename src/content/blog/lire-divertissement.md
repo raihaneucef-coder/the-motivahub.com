@@ -1,6 +1,8 @@
 ---
 title: "Reading as Entertainment: Why Books Are the Best Escape"
 description: "Reading is not work — it is entertainment. And unlike Netflix, it makes you smarter, more empathetic, and more creative. Here is why you should read more."
+titleFr: "La lecture comme divertissement : pourquoi les livres sont la meilleure évasion"
+descriptionFr: "Lire n'est pas du travail — c'est du divertissement. Et contrairement à Netflix, ça te rend plus intelligent, plus empathique et plus créatif. Voici pourquoi tu devrais lire plus."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

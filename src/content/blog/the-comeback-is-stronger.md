@@ -1,6 +1,8 @@
 ---
 title: "The Comeback Is Always Stronger Than the Setback"
 description: "Every setback is a setup for a stronger comeback. Your greatest growth is not in never falling — it is in rising with more fire."
+titleFr: "Le retour est toujours plus fort que l'échec"
+descriptionFr: "Chaque échec est une préparation pour un retour plus fort. Votre plus grande croissance ne réside pas dans le fait de ne jamais tomber — mais de se relever avec plus de feu."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Personal Growth"

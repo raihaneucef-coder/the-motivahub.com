@@ -1,6 +1,8 @@
 ---
 title: "I Tested 12 Morning Routines for 14 Days. Only 3 of Them Stuck."
 description: "Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive."
+titleFr: "J'ai testé 12 routines matinales pendant 14 jours. Seules 3 ont tenu."
+descriptionFr: "Quatorze jours, douze routines, quatre archétypes. Un rapport de terrain sur les routines matinales qui fonctionnent réellement pour quel type de personne disciplinée — et celles qui ne sont que des moyens coûteux de se sentir productif."
 pubDate: 2026-09-03
 updatedDate: 2026-09-07
 readTime: "16 MIN"

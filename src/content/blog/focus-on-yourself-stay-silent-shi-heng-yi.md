@@ -1,6 +1,8 @@
 ---
 title: "Focus on Yourself and Stay Silent — The Lesson of Shi Heng Yi"
 description: "In a noisy world of opinions and comparisons, the most powerful move is to turn inward: focus, silence, discipline, and self-mastery."
+titleFr: "Concentre-toi sur toi et reste silencieux — la leçon de Shi Heng Yi"
+descriptionFr: "Dans un monde bruyant d'opinions et de comparaisons, le geste le plus puissant est de se tourner vers l'intérieur : concentration, silence, discipline et maîtrise de soi."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 readTime: "6 MIN"

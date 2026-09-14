@@ -1,6 +1,8 @@
 ---
 title: "The Power of Writing Down Your Goals"
 description: "Studies show you are 42% more likely to achieve goals when you write them down. Learn why writing transforms wishes into reality."
+titleFr: "Le pouvoir d'écrire tes objectifs"
+descriptionFr: "Les études montrent que tu as 42 % de chances en plus d'atteindre tes objectifs quand tu les écris. Découvre pourquoi écrire transforme les souhaits en réalité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

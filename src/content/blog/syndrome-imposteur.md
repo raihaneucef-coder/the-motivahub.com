@@ -1,6 +1,8 @@
 ---
 title: "Imposter Syndrome: Why You Feel Like a Fraud and How to Stop"
 description: "70% of people experience imposter syndrome. It is not a sign of inadequacy — it is a sign of growth. Learn to recognize and overcome it."
+titleFr: "Le syndrome de l'imposteur : pourquoi vous vous sentez comme un fraudeur et comment y remédier"
+descriptionFr: "70% des personnes souffrent du syndrome de l'imposteur. Ce n'est pas un signe d'incompétence — c'est un signe de croissance. Apprenez à le reconnaître et à le surmonter."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

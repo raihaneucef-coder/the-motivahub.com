@@ -1,6 +1,8 @@
 ---
 title: "The Athlete Who Lost Everything and Started Over"
 description: "She lost her medal, her sponsor, and her reputation. But she gained something more valuable — the ability to start again."
+titleFr: "L'athlète qui a tout perdu et qui a recommencé"
+descriptionFr: "Elle a perdu sa médaille, son sponsor et sa réputation. Mais elle a gagné quelque chose de plus précieux — la capacité de recommencer."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "Mindset: How to Adopt a Winning Mindset and Transform Your Life"
 description: "Discover the power of a winning mindset. Learn how to shift your thinking, overcome self-doubt, and build mental toughness for success."
+titleFr: "Mindset : comment adopter un état d'esprit gagnant et transformer ta vie"
+descriptionFr: "Découvre la puissance d'un état d'esprit gagnant. Apprends à changer ta façon de penser, à surmonter le doute de toi et à bâtir une force mentale pour réussir."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "8 MIN"

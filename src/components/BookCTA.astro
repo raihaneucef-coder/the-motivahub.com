@@ -18,6 +18,9 @@ const t = (() => {
   const lang = localStorage.getItem("lang") || "en";
   return dict[lang] || dict.en || {};
 })();
+
+const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
+const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book?.reason;
 ---
 
 {(book || showDefaultSlot) && isPrimary && (
@@ -27,7 +30,7 @@ const t = (() => {
       <>
         <h3 class="aff-cta-title" data-i18n="bookCtaReady">Ready to read {book.title}?</h3>
         <p class="aff-cta-by" data-i18n="bookCtaBy">by {book.author}</p>
-        <p class="aff-cta-desc">{book.reason}</p>
+        <p class="aff-cta-desc">{bookReason}</p>
         <a class="aff-cta-btn" href={book.affiliateUrl} target="_blank" rel={rel} data-i18n="bookCtaViewAmazon">View on Amazon →</a>
         <p class="aff-cta-foot" data-i18n="bookCtaAssociate">As an Amazon Associate we earn from qualifying purchases. The price you pay is unchanged.</p>
       </>

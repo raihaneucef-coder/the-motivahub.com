@@ -1,6 +1,8 @@
 ---
 title: "Intermittent Fasting: Does It Really Work?"
 description: "Intermittent fasting is the most popular eating pattern in the world. But does it actually deliver results? The science says yes — with a caveat."
+titleFr: "Jeûne intermittent : est-ce que ça marche vraiment ?"
+descriptionFr: "Le jeûne intermittent est le mode alimentaire le plus populaire au monde. Mais donne-t-il vraiment des résultats ? La science dit oui — avec une réserve."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

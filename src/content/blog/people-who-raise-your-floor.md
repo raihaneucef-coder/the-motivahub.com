@@ -1,6 +1,8 @@
 ---
 title: "The People Who Raise Your Floor"
 description: "You do not rise to the level of your goals — you fall to the level of the people around you. Choose the room that raises your floor."
+titleFr: "Les gens qui élèvent ton plancher"
+descriptionFr: "Tu ne montes pas au niveau de tes objectifs — tu descends au niveau des gens autour de toi. Choisis la pièce qui élève ton plancher."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Relationships"

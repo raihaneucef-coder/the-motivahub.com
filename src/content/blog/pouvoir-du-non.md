@@ -1,6 +1,8 @@
 ---
 title: "The Power of Saying No — Why It Is Your Most Important Skill"
 description: "Every yes is a no to something else. Learn why saying no is the most important discipline you can build and how to do it without guilt."
+titleFr: "Le pouvoir de dire non — pourquoi c'est ta compétence la plus importante"
+descriptionFr: "Chaque oui est un non à autre chose. Découvre pourquoi dire non est la discipline la plus importante que tu puisses construire et comment le faire sans culpabilité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "The Beginner's Guide to Building a Fitness Habit"
 description: "Starting a fitness routine is easy. Sticking to one is hard. Here is the beginner-friendly guide to building a fitness habit that lasts."
+titleFr: "Le guide du débutant pour construire une habitude de fitness"
+descriptionFr: "Commencer une routine de fitness est facile. La maintenir est difficile. Voici le guide adapté aux débutants pour construire une habitude de fitness qui dure."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

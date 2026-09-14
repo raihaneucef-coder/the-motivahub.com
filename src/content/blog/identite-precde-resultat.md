@@ -1,6 +1,8 @@
 ---
 title: "Identity Precedes Outcome: Become Before You Achieve"
 description: "The most powerful habit strategy is not about what you do — it is about who you are. Learn how identity-based habits create lasting change."
+titleFr: "L'identité précède le résultat : deviens avant d'atteindre"
+descriptionFr: "La stratégie d'habitude la plus puissante ne concerne pas ce que tu fais — mais qui tu es. Apprends comment les habitudes identitaires créent un changement durable."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "Body Language Secrets: How to Project Confidence Without Saying a Word"
 description: "Your body speaks before your mouth opens. Learn the body language techniques that project confidence, authority, and presence."
+titleFr: "Les secrets du langage corporel : comment projeter la confiance sans dire un mot"
+descriptionFr: "Ton corps parle avant que ta bouche ne s'ouvre. Découvre les techniques de langage corporel qui projettent confiance, autorité et présence."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
