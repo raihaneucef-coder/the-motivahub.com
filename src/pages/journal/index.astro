@@ -57,7 +57,7 @@ const rest = posts.filter((p) => p.id !== featured.id);
         <a class="btn btn-outline" href="/best/books/" data-i18n="bestBooks2026Cta">Best Books 2026</a>
       </div>
 
-      <div style="width:100%;margin:0 0 24px;">
+      <div style="max-width:520px;margin:0 auto 24px;">
         <input id="journal-search" type="search" placeholder="Search by title, topic or keywords..." data-i18n-placeholder="searchPlaceholder" aria-label="Search articles" style="width:100%;padding:14px 16px;border:1px solid var(--line);background:var(--white);font-family:var(--sans);font-size:0.95rem;" />
       </div>
 
@@ -107,32 +107,6 @@ const rest = posts.filter((p) => p.id !== featured.id);
 </Layout>
 
 <style>
-  .topic-filter {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    margin: 24px 0;
-  }
-  .topic-filter a {
-    padding: 8px 16px;
-    border: 1px solid var(--line, #e5e5e5);
-    border-radius: 6px;
-    color: var(--ink, #1a1a1a);
-    text-decoration: none;
-    font-size: 14px;
-    font-family: var(--sans, system-ui, sans-serif);
-    transition: border-color 0.2s ease, color 0.2s ease;
-  }
-  .topic-filter a:hover {
-    border-color: var(--gold, #c8a04a);
-    color: var(--gold, #c8a04a);
-  }
-  .topic-filter a.active {
-    border-color: var(--gold, #c8a04a);
-    color: var(--gold, #c8a04a);
-    font-weight: 600;
-  }
   .pagination {
     display: flex;
     justify-content: space-between;
