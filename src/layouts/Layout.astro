@@ -1,6 +1,7 @@
 ---
 import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
 import MegaMenu from "../components/MegaMenu.astro";
+import Link from "../components/Link.astro";
 import { getLangFromUrl, getLocalePath } from "../utils/i18n";
 
 interface Props {
@@ -119,7 +120,7 @@ const gaSnippet = GA_ID
   <body>
     <header class="site-header" id="site-header">
       <div class="header-inner container">
-        <a href="/" class="logo logo-text" data-magnetic>
+        <Link href="/" class="logo logo-text" data-magnetic>
           <span class="logo-word">Motiva <em>Hub</em></span>
         </a>
         <div class="header-actions">
@@ -161,7 +162,7 @@ const gaSnippet = GA_ID
       <div class="container">
         <div class="footer-main">
           <div class="footer-brand">
-            <a href="/" class="logo logo-text logo-text-cream" data-magnetic>
+            <Link href="/" class="logo logo-text logo-text-cream" data-magnetic>
               <span class="logo-word">Motiva <em>Hub</em></span>
             </a>
             <p class="footer-tagline" data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
@@ -174,43 +175,43 @@ const gaSnippet = GA_ID
           <div class="footer-col">
             <h4 data-i18n="footerColRead">Read</h4>
             <ul>
-              <li><a href="/journal/" data-i18n="journal">The Journal</a></li>
-              <li><a href="/books/" data-i18n="footerBookstand">The Bookstand</a></li>
-              <li><a href="/quotes/" data-i18n="footerQuotes">Daily Quotes</a></li>
-              <li><a href="/podcast/" data-i18n="podcast">Podcast</a></li>
-              <li><a href="/topics/" data-i18n="footerAllTopics">All Topics</a></li>
+              <li><Link href="/journal/" data-i18n="journal">The Journal</Link></li>
+              <li><Link href="/books/" data-i18n="footerBookstand">The Bookstand</Link></li>
+              <li><Link href="/quotes/" data-i18n="footerQuotes">Daily Quotes</Link></li>
+              <li><Link href="/podcast/" data-i18n="podcast">Podcast</Link></li>
+              <li><Link href="/topics/" data-i18n="footerAllTopics">All Topics</Link></li>
             </ul>
           </div>
           <div class="footer-col">
             <h4 data-i18n="footerColGuides">Guides</h4>
             <ul>
-              <li><a href="/guides/atomic-habits-ultimate-guide/" data-i18n="navAtomicHabits">Atomic Habits</a></li>
-              <li><a href="/best/books/" data-i18n="footerBestBooks">Best Books 2026</a></li>
-              <li><a href="/best/focus-books/" data-i18n="footerBestFocus">Best Focus Books</a></li>
-              <li><a href="/best/habit-books/" data-i18n="footerBestHabit">Best Habit Books</a></li>
-              <li><a href="/best/stoicism-books/" data-i18n="footerStoicism">Stoicism</a></li>
+              <li><Link href="/guides/atomic-habits-ultimate-guide/" data-i18n="navAtomicHabits">Atomic Habits</Link></li>
+              <li><Link href="/best/books/" data-i18n="footerBestBooks">Best Books 2026</Link></li>
+              <li><Link href="/best/focus-books/" data-i18n="footerBestFocus">Best Focus Books</Link></li>
+              <li><Link href="/best/habit-books/" data-i18n="footerBestHabit">Best Habit Books</Link></li>
+              <li><Link href="/best/stoicism-books/" data-i18n="footerStoicism">Stoicism</Link></li>
             </ul>
           </div>
           <div class="footer-col">
             <h4 data-i18n="footerColTools">Tools</h4>
             <ul>
-              <li><a href="/tools/discipline-quiz/" data-i18n="footerDisciplineQuiz">Discipline Quiz</a></li>
-              <li><a href="/tools/habit-stacker/" data-i18n="footerHabitStacker">Habit Stacker</a></li>
-              <li><a href="/tools/meditation-timer/" data-i18n="footerMeditation">Meditation Timer</a></li>
-              <li><a href="/tools/cold-shower-tracker/" data-i18n="footerColdShower">Cold Shower Tracker</a></li>
-              <li><a href="/tools/reading-calculator/" data-i18n="footerReadingCalc">Reading Calculator</a></li>
-              <li><a href="/pdf/30-days-discipline/" data-i18n="footerPdf">30 Days PDF</a></li>
+              <li><Link href="/tools/discipline-quiz/" data-i18n="footerDisciplineQuiz">Discipline Quiz</Link></li>
+              <li><Link href="/tools/habit-stacker/" data-i18n="footerHabitStacker">Habit Stacker</Link></li>
+              <li><Link href="/tools/meditation-timer/" data-i18n="footerMeditation">Meditation Timer</Link></li>
+              <li><Link href="/tools/cold-shower-tracker/" data-i18n="footerColdShower">Cold Shower Tracker</Link></li>
+              <li><Link href="/tools/reading-calculator/" data-i18n="footerReadingCalc">Reading Calculator</Link></li>
+              <li><Link href="/pdf/30-days-discipline/" data-i18n="footerPdf">30 Days PDF</Link></li>
             </ul>
           </div>
         </div>
         <div class="footer-bottom">
           <p data-i18n="footerCopyright">© {new Date().getFullYear()} Motiva Hub · The Long Ascent</p>
           <div class="footer-bottom-links">
-            <a href="/about/" data-i18n="footerAbout">About</a>
-            <a href="/contact/" data-i18n="footerContact">Contact</a>
-            <a href="/privacy/" data-i18n="footerPrivacy">Privacy</a>
-            <a href="/terms/" data-i18n="footerTerms">Terms</a>
-            <a href="/affiliate-disclosure/" data-i18n="footerDisclosure">Disclosure</a>
+            <Link href="/about/" data-i18n="footerAbout">About</Link>
+            <Link href="/contact/" data-i18n="footerContact">Contact</Link>
+            <Link href="/privacy/" data-i18n="footerPrivacy">Privacy</Link>
+            <Link href="/terms/" data-i18n="footerTerms">Terms</Link>
+            <Link href="/affiliate-disclosure/" data-i18n="footerDisclosure">Disclosure</Link>
           </div>
         </div>
       </div>
@@ -901,7 +902,7 @@ const gaSnippet = GA_ID
     </script>
     <div id="cookie-consent" class="cookie-banner" style="display:none;">
       <div class="cookie-inner">
-        <p data-i18n="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <a href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</a>.</p>
+        <p data-i18n="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <Link href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</Link>.</p>
         <div class="cookie-actions">
           <button class="cookie-btn cookie-accept" onclick="acceptCookies()" data-i18n="cookieAccept">Accept</button>
           <button class="cookie-btn cookie-decline" onclick="declineCookies()" data-i18n="cookieDecline">Decline</button>
