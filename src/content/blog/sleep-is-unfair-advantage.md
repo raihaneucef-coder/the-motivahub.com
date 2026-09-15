@@ -1,6 +1,8 @@
 ---
 title: "Sleep Is Your Unfair Advantage (What Happened When I Tracked It for 60 Days)"
 description: "Sleep isn't a luxury — it's a performance tool. I tracked every night of sleep for 60 days while testing what actually improves sleep quality. Here's the data, the failures, and the cheapest Amazon tools that helped."
+titleFr: "Le Sommeil est votre Avantage Indéfendable (Ce qui s'est passé quand je l'ai suivi pendant 60 jours)"
+descriptionFr: "Le sommeil n'est pas un luxe — c'est un outil de performance. J'ai suivi chaque nuit de sommeil pendant 60 jours en testant ce qui améliore vraiment la qualité du sommeil. Voici les données, les échecs et les outils Amazon les moins chers qui ont aidé."
 pubDate: 2026-09-07
 updatedDate: 2026-09-12
 readTime: "9 MIN"

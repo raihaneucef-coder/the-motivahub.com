@@ -1,6 +1,8 @@
 ---
 title: "Solo Travel, Stronger Self"
 description: "Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself."
+titleFr: "Solo Travel, Stronger Self"
+descriptionFr: "Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself."
 pubDate: 2026-08-11
 updatedDate: 2026-09-12
 topic: "Travel"

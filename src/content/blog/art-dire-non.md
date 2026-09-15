@@ -1,6 +1,8 @@
 ---
 title: "The Art of Saying No: How to Set Boundaries Without Guilt"
 description: "Every time you say yes to something you do not want, you say no to something you do. Learn the art of setting boundaries."
+titleFr: "The Art of Saying No: How to Set Boundaries Without Guilt"
+descriptionFr: "Every time you say yes to something you do not want, you say no to something you do. Learn the art of setting boundaries."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

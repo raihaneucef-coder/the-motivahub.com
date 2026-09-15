@@ -1,6 +1,8 @@
 ---
 title: "The Definition of Success Is Personal: Stop Copying Others"
 description: "Success is not a one-size-fits-all formula. What works for someone else may not work for you. Learn to define success on your own terms."
+titleFr: "The Definition of Success Is Personal: Stop Copying Others"
+descriptionFr: "Success is not a one-size-fits-all formula. What works for someone else may not work for you. Learn to define success on your own terms."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

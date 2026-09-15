@@ -1,6 +1,8 @@
 ---
 title: "Digital Detox: How Screen Time Is Destroying Your Health"
 description: "The average person spends 7 hours a day on screens. This is destroying your sleep, your focus, and your health. Learn how to take back control."
+titleFr: "Digital Detox: How Screen Time Is Destroying Your Health"
+descriptionFr: "The average person spends 7 hours a day on screens. This is destroying your sleep, your focus, and your health. Learn how to take back control."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

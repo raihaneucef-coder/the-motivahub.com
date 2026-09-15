@@ -1,6 +1,8 @@
 ---
 title: "The Real Reason You Procrastinate (It's Not Laziness)"
 description: "Procrastination is not a character flaw — it is your brain avoiding a feeling. Understand the mechanism and you can finally beat it."
+titleFr: "The Real Reason You Procrastinate (It's Not Laziness)"
+descriptionFr: "Procrastination is not a character flaw — it is your brain avoiding a feeling. Understand the mechanism and you can finally beat it."
 pubDate: 2026-08-16
 updatedDate: 2026-09-12
 readTime: "6 MIN"

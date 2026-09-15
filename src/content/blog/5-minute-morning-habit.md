@@ -1,6 +1,8 @@
 ---
 title: "The 5-Minute Morning Habit That Saves My Sanity (And 4 Hours a Week)"
 description: "One small habit before 8 AM saved me from drowning in unread emails, scattered priorities, and a creeping sense of chaos. Here's the exact system — and why it works in 5 minutes."
+titleFr: "The 5-Minute Morning Habit That Saves My Sanity (And 4 Hours a Week)"
+descriptionFr: "One small habit before 8 AM saved me from drowning in unread emails, scattered priorities, and a creeping sense of chaos. Here's the exact system — and why it works in 5 minutes."
 pubDate: 2026-09-02
 updatedDate: 2026-09-12
 readTime: "8 MIN"

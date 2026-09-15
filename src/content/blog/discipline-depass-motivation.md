@@ -1,6 +1,8 @@
 ---
 title: "Discipline Over Motivation: Why One Shows Up and the Other Doesn't"
 description: "Motivation gets you started. Discipline keeps you going. Learn why discipline is more reliable than motivation — and how to build it using the 2-minute rule, 2-day rule, and identity voting."
+titleFr: "Discipline Over Motivation: Why One Shows Up and the Other Doesn't"
+descriptionFr: "Motivation gets you started. Discipline keeps you going. Learn why discipline is more reliable than motivation — and how to build it using the 2-minute rule, 2-day rule, and identity voting."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

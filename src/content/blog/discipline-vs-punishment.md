@@ -1,6 +1,8 @@
 ---
 title: "Discipline vs Punishment: The Difference That Changes Everything"
 description: "Discipline builds the person. Punishment breaks them. The psychological difference — and the moment most people cross from one to the other without realizing. Three tests to tell them apart."
+titleFr: "Discipline vs Punishment: The Difference That Changes Everything"
+descriptionFr: "Discipline builds the person. Punishment breaks them. The psychological difference — and the moment most people cross from one to the other without realizing. Three tests to tell them apart."
 pubDate: 2026-09-05
 updatedDate: 2026-09-12
 readTime: "8 MIN"

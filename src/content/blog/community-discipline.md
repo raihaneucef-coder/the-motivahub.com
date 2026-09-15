@@ -1,6 +1,8 @@
 ---
 title: "Community as Discipline — The Long Game of Belonging"
 description: "From business to sport, the most resilient people are never alone. Why a timeless social lesson endures: you go faster alone, but you last longer together."
+titleFr: "Community as Discipline — The Long Game of Belonging"
+descriptionFr: "From business to sport, the most resilient people are never alone. Why a timeless social lesson endures: you go faster alone, but you last longer together."
 pubDate: 2026-08-11
 updatedDate: 2026-09-12
 readTime: "8 MIN"

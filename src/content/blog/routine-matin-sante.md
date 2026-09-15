@@ -1,6 +1,8 @@
 ---
 title: "Morning Routines of the World's Healthiest People"
 description: "The world's healthiest people share common morning habits. Learn the routines that transform your energy, focus, and health from day one."
+titleFr: "Morning Routines of the World's Healthiest People"
+descriptionFr: "The world's healthiest people share common morning habits. Learn the routines that transform your energy, focus, and health from day one."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

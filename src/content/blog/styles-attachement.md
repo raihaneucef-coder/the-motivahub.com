@@ -1,6 +1,8 @@
 ---
 title: "Attachment Styles: Why You Love the Way You Do"
 description: "Your attachment style shapes how you love, how you fight, and how you handle separation. Understanding it changes everything."
+titleFr: "Attachment Styles: Why You Love the Way You Do"
+descriptionFr: "Your attachment style shapes how you love, how you fight, and how you handle separation. Understanding it changes everything."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
