@@ -1,8 +1,8 @@
 ---
 title: "How to Build Habits That Actually Last — The Science of Consistency"
 description: "Discover how to create habits that stick. A practical guide to building lasting routines, backed by neuroscience and daily discipline."
-titleFr: "How to Build Habits That Actually Last — The Science of Consistency"
-descriptionFr: "Discover how to create habits that stick. A practical guide to building lasting routines, backed by neuroscience and daily discipline."
+titleFr: "Comment Créer des Habitudes Qui Durables : Le Guide Complet"
+descriptionFr: "Créer des habitudes durables demande un système, pas de la motivation. Découvrez comment construire des routines qui tiennent sur le long terme."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "8 MIN"

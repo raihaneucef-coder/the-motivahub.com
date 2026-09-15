@@ -1,8 +1,8 @@
 ---
 title: "Deep Work: How to Focus Like a World-Class Performer"
 description: "Deep work is the ability to focus without distraction on a cognitively demanding task. Learn how to develop this rare skill and multiply your output."
-titleFr: "Deep Work: How to Focus Like a World-Class Performer"
-descriptionFr: "Deep work is the ability to focus without distraction on a cognitively demanding task. Learn how to develop this rare skill and multiply your output."
+titleFr: "Deep Work : Le Protocole de Concentration Profonde"
+descriptionFr: "Deep Work de Cal Newport est le guide définitif pour maîtriser la concentration. Découvrez le protocole pour un travail profond et significatif."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"

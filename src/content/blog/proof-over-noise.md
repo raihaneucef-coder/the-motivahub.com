@@ -1,8 +1,8 @@
 ---
 title: "Proof Over Noise"
 description: "The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions."
-titleFr: "Proof Over Noise"
-descriptionFr: "The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions."
+titleFr: "Les Preuves Battent le Bruit : Se Concentrer sur ce qui Fonctionne"
+descriptionFr: "Dans un monde de opinions, les preuves sont rares. Apprenez à vous concentrer sur ce qui fonctionne plutôt que sur ce qui est populaire."
 pubDate: 2026-08-21
 updatedDate: 2026-09-12
 topic: "Stories"

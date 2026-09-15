@@ -1,8 +1,8 @@
 ---
 title: "Atomic Habits by James Clear — The Complete Breakdown"
 description: "A deep dive into Atomic Habits: the 1% better every day philosophy, the four laws of behavior change, and how to build habits that actually stick."
-titleFr: "Atomic Habits by James Clear — The Complete Breakdown"
-descriptionFr: "A deep dive into Atomic Habits: the 1% better every day philosophy, the four laws of behavior change, and how to build habits that actually stick."
+titleFr: "Revue Complète Atomic Habits : Analyse Approfondie"
+descriptionFr: "Une revue détaillée du livre Atomic Habits. Découvrez les 4 lois du changement comportemental et comment les appliquer pour construire des habitudes durables."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "14 MIN"

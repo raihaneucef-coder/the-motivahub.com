@@ -1,8 +1,8 @@
 ---
 title: "Calm Is a Superpower: How Composure Quietly Outperforms Talent"
 description: "The room quiets when calm walks in. In a world of noise, the ability to stay centered is the rarest skill. Here is how to build it — without years of meditation."
-titleFr: "Calm Is a Superpower: How Composure Quietly Outperforms Talent"
-descriptionFr: "The room quiets when calm walks in. In a world of noise, the ability to stay centered is the rarest skill. Here is how to build it — without years of meditation."
+titleFr: "Le Calme est un Super-Pouvoir : Cultiver la Sérenité"
+descriptionFr: "Dans un monde bruyant, le calme est votre super-pouvoir. Apprenez à cultiver la sérénité pour prendre de meilleures décisions."
 pubDate: 2026-08-11
 updatedDate: 2026-09-12
 readTime: "8 MIN"

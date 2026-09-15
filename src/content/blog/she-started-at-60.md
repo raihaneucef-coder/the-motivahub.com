@@ -1,8 +1,8 @@
 ---
 title: "She Started at 60"
 description: "Everyone told her she was too late. She started anyway, and the late start became the advantage."
-titleFr: "She Started at 60"
-descriptionFr: "Everyone told her she was too late. She started anyway, and the late start became the advantage."
+titleFr: "Elle a Commencé à 60 Ans : Il n'est Jamais Trop Tard"
+descriptionFr: "Elle a commencé à 60 ans et a réussi. Une histoire inspirante qui prouve qu'il n'est jamais trop tard pour poursuivre vos rêves."
 pubDate: 2026-08-06
 updatedDate: 2026-09-12
 topic: "Stories"

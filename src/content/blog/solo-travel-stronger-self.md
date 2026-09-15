@@ -1,8 +1,8 @@
 ---
 title: "Solo Travel, Stronger Self"
 description: "Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself."
-titleFr: "Solo Travel, Stronger Self"
-descriptionFr: "Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself."
+titleFr: "Voyager Seul pour Devenir Plus Fort : Guide de Voyage en Solo"
+descriptionFr: "Voyager seul est une expérience transformatrice. Découvrez comment un voyage en solo peut renforcer votre confiance et votre indépendance."
 pubDate: 2026-08-11
 updatedDate: 2026-09-12
 topic: "Travel"

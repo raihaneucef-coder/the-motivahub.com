@@ -1,8 +1,8 @@
 ---
 title: "The Athlete's Discipline — What Sport Teaches About the Long Game"
 description: "From Jocko to the CrossFit Games: why the most durable sport mindset is not talent, but the discipline to do the boring work every day."
-titleFr: "The Athlete's Discipline — What Sport Teaches About the Long Game"
-descriptionFr: "From Jocko to the CrossFit Games: why the most durable sport mindset is not talent, but the discipline to do the boring work every day."
+titleFr: "La Discipline des Athlètes : Ce Que Nous Pouvons Apprendre"
+descriptionFr: "Les athlètes de haut niveau maîtrisent la discipline. Découvrez leurs secrets et comment les appliquer à votre vie quotidienne pour atteindre l'excellence."
 pubDate: 2026-08-21
 updatedDate: 2026-09-12
 readTime: "10 MIN"

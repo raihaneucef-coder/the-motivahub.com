@@ -1,8 +1,8 @@
 ---
 title: "The Morning Routine That Changes Everything"
 description: "The most successful people in the world have one thing in common: a non-negotiable morning routine. Here is how to build yours."
-titleFr: "The Morning Routine That Changes Everything"
-descriptionFr: "The most successful people in the world have one thing in common: a non-negotiable morning routine. Here is how to build yours."
+titleFr: "La Routine Matinale Change Tout : Commencer par une Victoire"
+descriptionFr: "Une routine matinale change tout. Commencez votre journée par une victoire pour transformer le reste de votre journée."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

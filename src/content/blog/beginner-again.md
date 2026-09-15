@@ -1,8 +1,8 @@
 ---
 title: "Go Where You Are a Beginner Again"
 description: "Travel is not escape — it is the fastest way to reset arrogance and remember how much there is left to learn. New roads return you hungrier than you left."
-titleFr: "Go Where You Are a Beginner Again"
-descriptionFr: "Travel is not escape — it is the fastest way to reset arrogance and remember how much there is left to learn. New roads return you hungrier than you left."
+titleFr: "Recommencer en Débutant : Le Pouvoir de l'Humilité"
+descriptionFr: "Recommencer en débutant est une force. Découvrez comment l'humilité et la curiosité peuvent transformer votre apprentissage et votre croissance personnelle."
 pubDate: 2026-08-19
 updatedDate: 2026-09-12
 readTime: "8 MIN"
