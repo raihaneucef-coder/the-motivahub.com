@@ -1,8 +1,8 @@
 ---
 title: "The 90-Day Sprint: Why Quarterly Goals Beat Annual Goals"
 description: "Annual goals are too distant to create urgency. 90-day goals create focus, momentum, and accountability. Learn the power of quarterly sprints."
-titleFr: "The 90-Day Sprint: Why Quarterly Goals Beat Annual Goals"
-descriptionFr: "Annual goals are too distant to create urgency. 90-day goals create focus, momentum, and accountability. Learn the power of quarterly sprints."
+titleFr: "Sprint de 90 Jours : Atteindre vos Objectifs en 3 Mois"
+descriptionFr: "Un sprint de 90 jours est suffisant pour transformer votre vie. Découvrez comment structurer un plan de 3 mois pour réussir."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

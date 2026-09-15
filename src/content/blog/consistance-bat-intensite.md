@@ -1,8 +1,8 @@
 ---
 title: "Consistency Beats Intensity: The Athlete's Secret"
 description: "The best athletes are not the most talented. They are the most consistent. Learn why showing up every day beats showing off occasionally."
-titleFr: "Consistency Beats Intensity: The Athlete's Secret"
-descriptionFr: "The best athletes are not the most talented. They are the most consistent. Learn why showing up every day beats showing off occasionally."
+titleFr: "La Consistance Bat l'Intensité : Le Pouvoir des Petits Acts"
+descriptionFr: "La consistance bat toujours l'intensité. Découvrez pourquoi les petits acts répétés sont plus puissants que les efforts héroïques."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

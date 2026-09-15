@@ -1,8 +1,8 @@
 ---
 title: "The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens"
 description: "David Goggins says we're only operating at 40% of our capacity. I tested this for 30 days. Here's what worked, what failed, and the scientific truth about the wall."
-titleFr: "The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens"
-descriptionFr: "David Goggins says we're only operating at 40% of our capacity. I tested this for 30 days. Here's what worked, what failed, and the scientific truth about the wall."
+titleFr: "La Règle des 40% : Comment Surpasser Vos Limites"
+descriptionFr: "La règle des 40% dit que vous n'utilisez que 40% de votre potentiel. Découvrez comment débloquer les 60% restants."
 pubDate: 2026-09-01
 updatedDate: 2026-09-12
 readTime: "8 MIN"

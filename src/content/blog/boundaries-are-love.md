@@ -1,8 +1,8 @@
 ---
 title: "Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do"
 description: "Loving yourself is a verb. Saying no is the verb. Here is how to build walls that protect relationships instead of breaking them — without losing the people you love."
-titleFr: "Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do"
-descriptionFr: "Loving yourself is a verb. Saying no is the verb. Here is how to build walls that protect relationships instead of breaking them — without losing the people you love."
+titleFr: "Les Limites Sont de l'Amour : Fixer des Frontières Saines"
+descriptionFr: "Fixer des limites n'est pas égoïste — c'est un acte d'amour. Découvrez pourquoi les limites sont essentielles pour des relations saines."
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 readTime: "9 MIN"

@@ -1,8 +1,8 @@
 ---
 title: "Discipline Is a Choice You Make Every Single Day"
 description: "Discipline is not a trait you are born with. It is a choice you make daily. Learn how to choose discipline over comfort, again and again."
-titleFr: "Discipline Is a Choice You Make Every Single Day"
-descriptionFr: "Discipline is not a trait you are born with. It is a choice you make daily. Learn how to choose discipline over comfort, again and again."
+titleFr: "La Discipline est un Choix Quotidien : Vivre par Choix"
+descriptionFr: "La discipline n'est pas une punition — c'est un choix quotidien. Découvrez comment transformer la discipline en liberté."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

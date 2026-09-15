@@ -1,8 +1,8 @@
 ---
 title: "Process Goals vs Outcome Goals: Why the Process Wins"
 description: "Stop obsessing over outcomes. Process goals — the daily actions — are what actually produce results. Learn to focus on what you can control."
-titleFr: "Process Goals vs Outcome Goals: Why the Process Wins"
-descriptionFr: "Stop obsessing over outcomes. Process goals — the daily actions — are what actually produce results. Learn to focus on what you can control."
+titleFr: "Processus vs Résultat : Pourquoi le Voyage Compte Plus"
+descriptionFr: "Se concentrer sur le processus plutôt que sur le résultat change tout. Découvrez pourquoi le voyage est plus important que la destination."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

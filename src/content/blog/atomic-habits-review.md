@@ -1,8 +1,8 @@
 ---
 title: "I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time."
 description: "Most reviews tell you if a book is good. This one tells you what a book does to you — across 18 months, four reads, and one stubborn habit that finally stuck."
-titleFr: "I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time."
-descriptionFr: "Most reviews tell you if a book is good. This one tells you what a book does to you — across 18 months, four reads, and one stubborn habit that finally stuck."
+titleFr: "Revue Atomic Habits : Rapport de Terrain en 4 Lectures"
+descriptionFr: "Analyse complète du livre Atomic Habits de James Clear. Les 4 lois, la science, le protocole de 30 jours — et ce que la plupart des critiques laissent de côté."
 pubDate: 2026-08-13
 updatedDate: 2026-09-12
 readTime: "12 MIN"

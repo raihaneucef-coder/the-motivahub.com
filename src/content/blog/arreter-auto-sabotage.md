@@ -1,8 +1,8 @@
 ---
 title: "How to Stop Self-Sabotaging Once and for All"
 description: "Understand why you keep getting in your own way and learn proven strategies to break the cycle of self-sabotage forever."
-titleFr: "How to Stop Self-Sabotaging Once and for All"
-descriptionFr: "Understand why you keep getting in your own way and learn proven strategies to break the cycle of self-sabotage forever."
+titleFr: "Comment Arrêter l'Auto-Sabotage : Guide Complet"
+descriptionFr: "L'auto-sabotage vous empêche d'atteindre vos objectifs. Découvrez les causes profondes et les stratégies pratiques pour arrêter ce cycle destructeur."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "10 MIN"

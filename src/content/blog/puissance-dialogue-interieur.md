@@ -1,8 +1,8 @@
 ---
 title: "The Power of Inner Dialogue: How Self-Talk Shapes Your Reality"
 description: "Your inner voice creates your outer world. Learn how to master self-talk and transform your mindset for lasting success."
-titleFr: "The Power of Inner Dialogue: How Self-Talk Shapes Your Reality"
-descriptionFr: "Your inner voice creates your outer world. Learn how to master self-talk and transform your mindset for lasting success."
+titleFr: "La Puissance du Dialogue Intérieur : Se Parler avec Bienveillance"
+descriptionFr: "Votre dialogue intérieur façonne votre réalité. Apprenez à vous parler avec bienveillance pour développer une mentalité positive et résiliente."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

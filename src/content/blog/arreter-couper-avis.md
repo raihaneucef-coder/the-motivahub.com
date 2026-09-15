@@ -1,8 +1,8 @@
 ---
 title: "How to Stop Caring What People Think of You"
 description: "Caring what people think is human. Letting it control your life is a choice. Learn how to free yourself from the opinion of others."
-titleFr: "How to Stop Caring What People Think of You"
-descriptionFr: "Caring what people think is human. Letting it control your life is a choice. Learn how to free yourself from the opinion of others."
+titleFr: "Apprendre à Dire Non : Comment Fixer des Limites Sainement"
+descriptionFr: "Dire non est une compétence essentielle pour protéger votre temps et votre énergie. Apprenez à couper les avis et les demandes qui ne servent pas vos objectifs."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "8 MIN"

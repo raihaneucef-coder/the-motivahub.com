@@ -1,8 +1,8 @@
 ---
 title: "How to Watch Movies and Shows That Actually Improve Your Life"
 description: "Not all entertainment is created equal. Some movies and shows inspire, educate, and transform. Learn how to watch with intention."
-titleFr: "How to Watch Movies and Shows That Actually Improve Your Life"
-descriptionFr: "Not all entertainment is created equal. Some movies and shows inspire, educate, and transform. Learn how to watch with intention."
+titleFr: "Regarder Intentionnellement : Cultiver la Conscience Visuelle"
+descriptionFr: "Regarder intentionnellement est une pratique de pleine conscience. Apprenez à observer le monde avec attention et curiosité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

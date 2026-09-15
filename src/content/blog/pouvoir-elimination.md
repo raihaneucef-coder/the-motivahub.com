@@ -1,8 +1,8 @@
 ---
 title: "The Power of Elimination: Do Less, Achieve More"
 description: "Productivity is not about doing more things. It is about doing fewer things — but the right ones. Learn the art of strategic elimination."
-titleFr: "The Power of Elimination: Do Less, Achieve More"
-descriptionFr: "Productivity is not about doing more things. It is about doing fewer things — but the right ones. Learn the art of strategic elimination."
+titleFr: "Le Pouvoir de l'Élimination : Faire Moins pour Accomplir Plus"
+descriptionFr: "L'élimination est plus puissante que l'ajout. Découvrez comment dire non au non-essentiel pour vous concentrer sur ce qui compte vraiment."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

@@ -1,8 +1,8 @@
 ---
 title: "Debt Is a Story You Can Rewrite"
 description: "Debt feels like a character flaw — it is not. It is a story with numbers. Rewrite the numbers and the story changes."
-titleFr: "Debt Is a Story You Can Rewrite"
-descriptionFr: "Debt feels like a character flaw — it is not. It is a story with numbers. Rewrite the numbers and the story changes."
+titleFr: "La Dette est une Histoire : Réécrire Votre Relation avec l'Argent"
+descriptionFr: "La dette est souvent une histoire que nous nous racontons. Apprenez à réécrire votre relation avec l'argent et à vous libérer."
 pubDate: 2026-08-16
 updatedDate: 2026-09-12
 topic: "Finance"

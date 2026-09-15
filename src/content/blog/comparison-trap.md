@@ -1,8 +1,8 @@
 ---
 title: "I Compared Myself to Strangers Online for 5 Years. Here's What It Cost Me."
 description: "Comparison is the thief of joy — and also of focus, savings, friendships, and sleep. Five years of tracking my digital habits revealed one truth: the cure is not what I expected."
-titleFr: "I Compared Myself to Strangers Online for 5 Years. Here's What It Cost Me."
-descriptionFr: "Comparison is the thief of joy — and also of focus, savings, friendships, and sleep. Five years of tracking my digital habits revealed one truth: the cure is not what I expected."
+titleFr: "Le Piège de la Comparaison : Se Libérer du Regard des Autres"
+descriptionFr: "La comparaison est le piège qui vole votre joie. Apprenez à vous libérer du regard des autres pour vous concentrer sur votre propre progression."
 pubDate: 2026-08-14
 updatedDate: 2026-09-12
 readTime: "6 MIN"

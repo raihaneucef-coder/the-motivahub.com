@@ -1,8 +1,8 @@
 ---
 title: "How to Become Mentally Unbreakable — Nothing Can Break You"
 description: "From David Goggins: 5 cold rules to forge a steel mindset — control your emotions, choose discipline, and embrace discomfort until you become unbreakable."
-titleFr: "How to Become Mentally Unbreakable — Nothing Can Break You"
-descriptionFr: "From David Goggins: 5 cold rules to forge a steel mindset — control your emotions, choose discipline, and embrace discomfort until you become unbreakable."
+titleFr: "Comment Devenir Mentalement Inébranlable : Guide de Résilience"
+descriptionFr: "Devenir mentalement inébranlable demande de la pratique. Découvrez les exercices et les mindset shifts pour développer une résilience mentale à toute épreuve."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 readTime: "7 MIN"
