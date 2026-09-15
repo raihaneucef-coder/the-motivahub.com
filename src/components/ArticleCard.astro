@@ -1,27 +1,29 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import Link from "./Link.astro";
+import { getFrenchSlug } from "../utils/i18n";
 
 interface Props {
   post: CollectionEntry<"blog">;
   featured?: boolean;
+  locale?: "en" | "fr";
 }
-const { post, featured = false } = Astro.props;
+const { post, featured = false, locale = "en" } = Astro.props;
 
-const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
-const title = lang === "fr" && post.data.titleFr ? post.data.titleFr : post.data.title;
-const description = lang === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
+const slug = locale === "fr" ? getFrenchSlug(post.id) : post.id;
+const title = locale === "fr" && post.data.titleFr ? post.data.titleFr : post.data.title;
+const description = locale === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
 ---
 
 <article class={`card ${featured ? "card-featured" : ""}`}>
-  <Link href={`/journal/${post.id}/`} class="card-img-link">
+  <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} class="card-img-link">
     <img class="card-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" />
   </Link>
   <div class="card-pad">
     <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
-    <h3><Link href={`/journal/${post.id}/`} data-i18n={`article_${post.id}_title`}>{title}</Link></h3>
+    <h3><Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} data-i18n={`article_${post.id}_title`}>{title}</Link></h3>
     <p data-i18n={`article_${post.id}_description`}>{description}</p>
     <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-    <Link class="read-more" href={`/journal/${post.id}/`} data-i18n="readArticle">Read Article</Link>
+    <Link class="read-more" href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} data-i18n="readArticle">Read Article</Link>
   </div>
 </article>

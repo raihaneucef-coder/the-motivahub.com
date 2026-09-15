@@ -3,6 +3,7 @@ import Layout from "../../../layouts/Layout.astro";
 import Link from "../../../components/Link.astro";
 import ArticleCard from "../../../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
+import { getFrenchSlug } from "../../../utils/i18n";
 
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
@@ -24,7 +25,7 @@ const rest = posts.filter((p) => p.id !== featured.id);
     "itemListElement": posts.slice(0, 20).map((p, i) => ({
       "@type": "ListItem",
       "position": i + 1,
-      "url": `https://the-motivahub.com/fr/journal/${p.id}/`,
+      "url": `https://the-motivahub.com/fr/journal/${getFrenchSlug(p.id)}/`,
       "name": p.data.titleFr || p.data.title
     }))
   })} />
@@ -39,27 +40,21 @@ const rest = posts.filter((p) => p.id !== featured.id);
   <section class="feed">
     <div class="container">
       <article class="featured-card">
-        <a href={`/fr/journal/${featured.id}/`} class="card-img-link">
+        <a href={`/fr/journal/${getFrenchSlug(featured.id)}/`} class="card-img-link">
           <img class="card-img" src={featured.data.image} alt={featured.data.titleFr || featured.data.title} loading="lazy" />
         </a>
         <div class="card-pad">
           <p class="card-meta"><span data-i18n="featuredLabel">En vedette</span> · <span data-i18n={`topic-${featured.data.topic.toLowerCase()}`}>{featured.data.topic.toUpperCase()}</span> · {featured.data.readTime}</p>
-           <h2><a href={`/fr/journal/${featured.id}/`}>{featured.data.titleFr || featured.data.title}</a></h2>
+           <h2><a href={`/fr/journal/${getFrenchSlug(featured.id)}/`}>{featured.data.titleFr || featured.data.title}</a></h2>
           <p>{featured.data.descriptionFr || featured.data.description}</p>
           <p class="card-date">{featured.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-          <a class="read-more" href={`/fr/journal/${featured.id}/`} data-i18n="readEssay">Lire l'essai</a>
+          <a class="read-more" href={`/fr/journal/${getFrenchSlug(featured.id)}/`} data-i18n="readEssay">Lire l'essai</a>
         </div>
       </article>
 
-      <div class="cta-strip">
-        <a class="btn btn-primary" href="/fr/tools/discipline-quiz/" data-i18n="takeDisciplineQuizCta">Faire le Quiz de Discipline</a>
-        <a class="btn btn-outline" href="/fr/pdf/30-days-discipline/" data-i18n="getFreePdfCta">Obtenir le PDF Gratuit</a>
-        <a class="btn btn-outline" href="/fr/best/books/" data-i18n="bestBooks2026Cta">Meilleurs Livres 2026</a>
-      </div>
-
       <div class="grid" id="journal-grid">
         {rest.slice(0, 11).map((post) => (
-          <ArticleCard post={post} />
+          <ArticleCard post={post} locale="fr" />
         ))}
       </div>
       <nav class="pagination" aria-label="Pagination">
