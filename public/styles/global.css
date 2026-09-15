@@ -1151,8 +1151,150 @@ section {
 }
 
 /* ===================================================================
-   TOOL CARDS — Distinctive variant
-   =================================================================== */
+    FEATURED CARD — Journal index hero article
+    =================================================================== */
+.featured-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  background: var(--cream-deep);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  margin-bottom: 32px;
+  border: 1px solid var(--line-soft);
+}
+
+.featured-card .card-img-link {
+  display: block;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: var(--cream-deep);
+}
+
+.featured-card .card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--dur-slow) var(--ease-cinema);
+  filter: contrast(1.02) saturate(1.05);
+}
+
+.featured-card:hover .card-img {
+  transform: scale(1.03);
+}
+
+.featured-card .card-pad {
+  padding: clamp(24px, 3vw, 40px);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.featured-card .card-meta {
+  font-family: var(--mono);
+  font-size: var(--fs-micro);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.featured-card h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.5rem, 2.5vw + 0.5rem, 2.25rem);
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  font-weight: 500;
+  margin: 0;
+}
+
+.featured-card h2 a {
+  color: inherit;
+  text-decoration: none;
+  background-image: linear-gradient(var(--or), var(--or));
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 1px;
+  padding-bottom: 2px;
+  transition: background-size var(--dur-fast) var(--ease-out);
+}
+
+.featured-card h2 a:hover {
+  background-size: 100% 2px;
+  color: var(--sage-deep);
+}
+
+.featured-card .card-pad > p:not(.card-meta):not(.card-date) {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.0625rem;
+  line-height: 1.55;
+  color: var(--muted);
+  max-width: 56ch;
+}
+
+.featured-card .card-date {
+  font-family: var(--mono);
+  font-size: var(--fs-micro);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted-soft);
+}
+
+.featured-card .read-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--or-deep);
+  text-decoration: none;
+  margin-top: 8px;
+  transition: gap var(--dur-fast) var(--ease-out);
+}
+
+.featured-card .read-more:hover {
+  gap: 12px;
+}
+
+/* ===================================================================
+    PAGE HEAD — Section header for index pages
+    =================================================================== */
+.page-head {
+  padding: clamp(48px, 8vh, 80px) 0 clamp(32px, 5vh, 56px);
+  text-align: center;
+}
+
+.page-head .kicker {
+  margin-bottom: 16px;
+}
+
+.page-head h1 {
+  margin-bottom: 16px;
+}
+
+.page-head p {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: var(--fs-lead);
+  line-height: 1.5;
+  color: var(--muted);
+  max-width: 56ch;
+  margin: 0 auto;
+}
+
+/* ===================================================================
+    FEED — Article list wrapper
+    =================================================================== */
+.feed {
+  padding-bottom: clamp(48px, 8vh, 80px);
+}
+
+/* ===================================================================
+    TOOL CARDS — Distinctive variant
+    =================================================================== */
 .tool-card {
   position: relative;
   display: flex;
@@ -1626,14 +1768,15 @@ section {
   width: 100%;
   overflow: hidden;
   background: var(--cream-deep);
-  margin: 0 0 40px;
+  margin: 0 0 16px;
+  padding-bottom: 1.5rem;
 }
 
 .article-img {
   width: 100%;
   height: auto;
   display: block;
-  margin-bottom: 2.5rem;
+  margin-bottom: 0;
 }
 
 @media (max-width: 768px) {
@@ -1646,6 +1789,39 @@ section {
     max-height: 50vh;
     object-fit: cover;
   }
+}
+
+.article-body {
+  max-width: var(--col-read);
+  margin: 0 auto;
+  padding: 0 clamp(20px, 4vw, 56px) 64px;
+  color: var(--ink-soft);
+}
+
+.article-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+}
+
+.link-ochre {
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--or-deep);
+  text-decoration: none;
+  transition: color var(--dur-fast) var(--ease-out);
+}
+
+.link-ochre:hover {
+  color: var(--sage-deep);
 }
 
 .prose {
