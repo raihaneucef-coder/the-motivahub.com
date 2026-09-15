@@ -1,6 +1,8 @@
 ---
 title: "Conflict Resolution: How to Fight Fair in Relationships"
 description: "Every relationship has conflict. The question is not whether you will fight — it is how. Learn to fight fairly and strengthen your bond."
+titleFr: "Conflict Resolution: How to Fight Fair in Relationships"
+descriptionFr: "Every relationship has conflict. The question is not whether you will fight — it is how. Learn to fight fairly and strengthen your bond."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"

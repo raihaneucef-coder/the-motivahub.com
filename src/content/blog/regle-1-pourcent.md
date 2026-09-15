@@ -1,6 +1,8 @@
 ---
 title: "The 1% Rule: How to Improve Yourself Every Single Day"
 description: "Improving by just 1% per day makes you 37 times better in one year. The math is simple. The execution requires discipline."
+titleFr: "The 1% Rule: How to Improve Yourself Every Single Day"
+descriptionFr: "Improving by just 1% per day makes you 37 times better in one year. The math is simple. The execution requires discipline."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

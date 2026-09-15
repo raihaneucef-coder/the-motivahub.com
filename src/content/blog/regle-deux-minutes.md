@@ -1,6 +1,8 @@
 ---
 title: "The Two-Minute Rule: The Simple Secret to Building Better Habits"
 description: "Discover the two-minute rule that has helped millions start new habits. Simple, powerful, and works every single time."
+titleFr: "The Two-Minute Rule: The Simple Secret to Building Better Habits"
+descriptionFr: "Discover the two-minute rule that has helped millions start new habits. Simple, powerful, and works every single time."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

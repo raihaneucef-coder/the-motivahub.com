@@ -1,6 +1,8 @@
 ---
 title: "She Started at 60"
 description: "Everyone told her she was too late. She started anyway, and the late start became the advantage."
+titleFr: "She Started at 60"
+descriptionFr: "Everyone told her she was too late. She started anyway, and the late start became the advantage."
 pubDate: 2026-08-06
 updatedDate: 2026-09-12
 topic: "Stories"

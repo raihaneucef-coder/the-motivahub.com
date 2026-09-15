@@ -1,6 +1,8 @@
 ---
 title: "Social Media as Entertainment: How to Enjoy It Without Losing Your Mind"
 description: "Social media is not the enemy — your relationship with it is. Learn how to enjoy social media without letting it control your life."
+titleFr: "Social Media as Entertainment: How to Enjoy It Without Losing Your Mind"
+descriptionFr: "Social media is not the enemy — your relationship with it is. Learn how to enjoy social media without letting it control your life."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

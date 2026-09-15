@@ -1,6 +1,8 @@
 ---
 title: "Strength Is a Skill, Not a Talent"
 description: "Strength is not given — it is practiced. Every rep is a lesson in patience and form."
+titleFr: "Strength Is a Skill, Not a Talent"
+descriptionFr: "Strength is not given — it is practiced. Every rep is a lesson in patience and form."
 pubDate: 2026-08-19
 updatedDate: 2026-09-12
 topic: "Sport"

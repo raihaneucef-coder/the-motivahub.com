@@ -1,6 +1,8 @@
 ---
 title: "Success Leaves Traces"
 description: "Success is not a mystery — it leaves traces. Follow the traces, not the trophy."
+titleFr: "Success Leaves Traces"
+descriptionFr: "Success is not a mystery — it leaves traces. Follow the traces, not the trophy."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"

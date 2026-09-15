@@ -1,6 +1,8 @@
 ---
 title: "Attention as Asset"
 description: "Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is."
+titleFr: "Attention as Asset"
+descriptionFr: "Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is."
 pubDate: 2026-07-10
 updatedDate: 2026-09-12
 readTime: "10 MIN"

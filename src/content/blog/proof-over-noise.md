@@ -1,6 +1,8 @@
 ---
 title: "Proof Over Noise"
 description: "The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions."
+titleFr: "Proof Over Noise"
+descriptionFr: "The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions."
 pubDate: 2026-08-21
 updatedDate: 2026-09-12
 topic: "Stories"

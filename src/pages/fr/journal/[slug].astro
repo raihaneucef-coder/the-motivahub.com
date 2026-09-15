@@ -25,19 +25,11 @@ export async function getStaticPaths() {
     const enSlug = post.id;
     const frSlug = getFrenchSlug(enSlug);
     
-    // EN version
+    // FR version - always generate, using FR slug if different
     paths.push({
-      params: { slug: enSlug },
-      props: { post, locale: 'en' },
+      params: { slug: frSlug },
+      props: { post, locale: 'fr' },
     });
-    
-    // FR version (only if slug is different)
-    if (frSlug !== enSlug) {
-      paths.push({
-        params: { slug: frSlug },
-        props: { post, locale: 'fr' },
-      });
-    }
   }
   
   return paths;

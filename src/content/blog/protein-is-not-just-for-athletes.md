@@ -1,6 +1,8 @@
 ---
 title: "Protein Is Not Just for Athletes"
 description: "Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive."
+titleFr: "Protein Is Not Just for Athletes"
+descriptionFr: "Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive."
 pubDate: 2026-08-14
 updatedDate: 2026-09-12
 topic: "Nutrition"

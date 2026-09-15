@@ -1,6 +1,8 @@
 ---
 title: "Run Your Own Race: The Discipline of Pacing"
 description: "The fastest way to lose a race is to run someone else's. Learn to hold your pace when everyone sprints."
+titleFr: "Run Your Own Race: The Discipline of Pacing"
+descriptionFr: "The fastest way to lose a race is to run someone else's. Learn to hold your pace when everyone sprints."
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Sport"

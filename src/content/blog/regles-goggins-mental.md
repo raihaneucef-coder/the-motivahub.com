@@ -1,6 +1,8 @@
 ---
 title: "David Goggins' 5 Rules for an Unbreakable Mind"
 description: "The 5 cold rules of David Goggins to forge mental toughness, embrace discomfort, and become mentally unbreakable. Practical strategies you can apply today."
+titleFr: "David Goggins' 5 Rules for an Unbreakable Mind"
+descriptionFr: "The 5 cold rules of David Goggins to forge mental toughness, embrace discomfort, and become mentally unbreakable. Practical strategies you can apply today."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"

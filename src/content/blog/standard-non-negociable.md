@@ -1,6 +1,8 @@
 ---
 title: "The Non-Negotiable Standard: How to Set Rules That Never Bend"
 description: "The most disciplined people have one thing in common: non-negotiable standards. Learn how to set rules that create consistency without willpower."
+titleFr: "The Non-Negotiable Standard: How to Set Rules That Never Bend"
+descriptionFr: "The most disciplined people have one thing in common: non-negotiable standards. Learn how to set rules that create consistency without willpower."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

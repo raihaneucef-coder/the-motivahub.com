@@ -1,6 +1,8 @@
 ---
 title: "Recovery Is Training Too"
 description: "You do not get stronger by lifting — you get stronger by recovering from lifting. Rest is not the absence of training."
+titleFr: "Recovery Is Training Too"
+descriptionFr: "You do not get stronger by lifting — you get stronger by recovering from lifting. Rest is not the absence of training."
 pubDate: 2026-08-17
 updatedDate: 2026-09-12
 topic: "Sport"

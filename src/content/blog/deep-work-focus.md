@@ -1,6 +1,8 @@
 ---
 title: "Deep Work: How to Focus Like a World-Class Performer"
 description: "Deep work is the ability to focus without distraction on a cognitively demanding task. Learn how to develop this rare skill and multiply your output."
+titleFr: "Deep Work: How to Focus Like a World-Class Performer"
+descriptionFr: "Deep work is the ability to focus without distraction on a cognitively demanding task. Learn how to develop this rare skill and multiply your output."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"

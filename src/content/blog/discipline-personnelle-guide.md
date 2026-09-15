@@ -1,6 +1,8 @@
 ---
 title: "Personal Discipline: The Complete Guide to Self-Control and Consistency"
 description: "Master personal discipline with proven strategies. Learn how to stay consistent, control your impulses, and build unstoppable self-discipline."
+titleFr: "Personal Discipline: The Complete Guide to Self-Control and Consistency"
+descriptionFr: "Master personal discipline with proven strategies. Learn how to stay consistent, control your impulses, and build unstoppable self-discipline."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "9 MIN"

@@ -1,6 +1,8 @@
 ---
 title: "Choose Joy on Purpose"
 description: "Joy does not find you — you choose it. Learn to schedule delight the way you schedule work."
+titleFr: "Choose Joy on Purpose"
+descriptionFr: "Joy does not find you — you choose it. Learn to schedule delight the way you schedule work."
 pubDate: 2026-08-10
 updatedDate: 2026-09-12
 topic: "Entertainment"

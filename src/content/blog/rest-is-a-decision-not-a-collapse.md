@@ -1,6 +1,8 @@
 ---
 title: "Rest Is a Decision, Not a Collapse"
 description: "There is a difference between resting on purpose and collapsing because you ran out of resistance. Only one of them recovers you."
+titleFr: "Rest Is a Decision, Not a Collapse"
+descriptionFr: "There is a difference between resting on purpose and collapsing because you ran out of resistance. Only one of them recovers you."
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Wellness"

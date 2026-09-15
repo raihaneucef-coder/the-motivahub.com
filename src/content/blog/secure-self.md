@@ -1,6 +1,8 @@
 ---
 title: "The Secure Self — Why Focusing on Yourself Is the Safest Love"
 description: "You were told that focusing on yourself is selfish. A more secure perspective says the opposite: you focus on yourself more than people because self-love is the only love that never leaves."
+titleFr: "The Secure Self — Why Focusing on Yourself Is the Safest Love"
+descriptionFr: "You were told that focusing on yourself is selfish. A more secure perspective says the opposite: you focus on yourself more than people because self-love is the only love that never leaves."
 pubDate: 2026-08-12
 updatedDate: 2026-09-12
 readTime: "7 MIN"

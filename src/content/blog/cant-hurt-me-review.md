@@ -1,6 +1,8 @@
 ---
 title: "I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You."
 description: "After three reads of David Goggins' book across two years, here's the real lesson the headlines miss — and the one that actually changed my discipline. With brutal honesty and a 30-day plan."
+titleFr: "I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You."
+descriptionFr: "After three reads of David Goggins' book across two years, here's the real lesson the headlines miss — and the one that actually changed my discipline. With brutal honesty and a 30-day plan."
 pubDate: 2026-09-01
 updatedDate: 2026-09-12
 readTime: "11 MIN"

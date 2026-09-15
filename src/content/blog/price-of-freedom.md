@@ -1,6 +1,8 @@
 ---
 title: "The Price of Freedom Is Paid Daily"
 description: "Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns."
+titleFr: "The Price of Freedom Is Paid Daily"
+descriptionFr: "Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Finance"

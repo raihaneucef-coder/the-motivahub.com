@@ -1,6 +1,8 @@
 ---
 title: "How to Build Unshakable Self-Confidence in 30 Days"
 description: "Confidence is not something you are born with. It is something you build, one decision at a time. Here is your 30-day plan."
+titleFr: "How to Build Unshakable Self-Confidence in 30 Days"
+descriptionFr: "Confidence is not something you are born with. It is something you build, one decision at a time. Here is your 30-day plan."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
