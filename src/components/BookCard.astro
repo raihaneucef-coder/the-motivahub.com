@@ -27,7 +27,7 @@ const relatedSlug = (() => {
       return null;
   }
 })();
-const relatedLabel = (() => {
+const relatedLabelKey = (() => {
   const labels = {
     "atomic-habits": "readAtomicFieldReport",
     "deep-work": "readDeepWorkProtocol",
@@ -35,6 +35,25 @@ const relatedLabel = (() => {
     "meditations": "readStoicMorningTest"
   };
   return labels[book.id] || null;
+})();
+const relatedLabel = (() => {
+  if (!relatedLabelKey) return null;
+  if (lang === "fr") {
+    const frLabels = {
+      readAtomicFieldReport: "Lire le rapport de terrain Atomic Habits",
+      readDeepWorkProtocol: "Lire le protocole Deep Work",
+      readCantHurtMeReview: "Lire la critique de Can't Hurt Me",
+      readStoicMorningTest: "Lire le test de terrain du rituel matinal stoïcien"
+    };
+    return frLabels[relatedLabelKey] || relatedLabelKey;
+  }
+  const enLabels = {
+    readAtomicFieldReport: "Read the Atomic Habits field report",
+    readDeepWorkProtocol: "Read the Deep Work protocol",
+    readCantHurtMeReview: "Read the Can't Hurt Me review",
+    readStoicMorningTest: "Read the Stoic morning routine test"
+  };
+  return enLabels[relatedLabelKey] || relatedLabelKey;
 })();
 ---
 
@@ -50,7 +69,7 @@ const relatedLabel = (() => {
     <p class="book-reason"><strong data-i18n="bookWhyRecommend">Why we recommend it:</strong> {reason}</p>
     {relatedSlug && relatedLabel ? (
       <p style="margin-top:10px;">
-        <Link class="read-more" href={relatedSlug} data-i18n={relatedLabel}>{relatedLabel}</Link>
+        <Link class="read-more" href={relatedSlug} data-i18n={relatedLabelKey}>{relatedLabel}</Link>
       </p>
     ) : null}
     {hasAffiliate ? (
