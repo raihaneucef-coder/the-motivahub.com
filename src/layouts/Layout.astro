@@ -963,7 +963,7 @@ const gaSnippet = GA_ID
           const cleanup = () => {
             try { curtain.remove(); } catch (e) {}
           };
-          setTimeout(() => { cleanup(); window.location.href = href; }, 480);
+          setTimeout(() => { cleanup(); window.location.href = href; }, 120);
           window.addEventListener('pagehide', cleanup, { once: true });
           window.addEventListener('pageshow', cleanup, { once: true });
         });

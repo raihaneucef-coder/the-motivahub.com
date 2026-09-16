@@ -1232,6 +1232,40 @@ section {
   max-width: 56ch;
 }
 
+.card-date {
+  font-family: var(--mono);
+  font-size: var(--fs-micro);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--muted-soft);
+  margin-top: 14px;
+}
+
+.read-more {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--or-deep);
+  text-decoration: none;
+  margin-top: 18px;
+  transition: gap var(--dur-fast) var(--ease-out);
+}
+
+.read-more:hover {
+  gap: 12px;
+}
+
+.read-more-disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
 .featured-card .card-date {
   font-family: var(--mono);
   font-size: var(--fs-micro);
@@ -1257,6 +1291,97 @@ section {
 
 .featured-card .read-more:hover {
   gap: 12px;
+}
+
+/* ===================================================================
+    BOOKS — Book grid and card styles
+    =================================================================== */
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.book-card {
+  background: var(--paper);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-md);
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  overflow: hidden;
+  transition: transform var(--dur-base) var(--ease-out), box-shadow var(--dur-base) var(--ease-out);
+}
+
+.book-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+}
+
+.book-cover {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.book-body {
+  padding: 22px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.book-body h3 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-bottom: 4px;
+}
+
+.book-author {
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.book-desc {
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.book-reason {
+  font-size: 0.85rem;
+  color: var(--muted);
+  flex: 1;
+  line-height: 1.5;
+}
+
+.book-reason strong {
+  color: var(--ink);
+}
+
+.book-cat {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-size: 0.62rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--cream);
+  background: rgba(10, 10, 10, 0.55);
+  padding: 5px 8px;
+  backdrop-filter: blur(4px);
+  border-radius: var(--radius-pill);
+}
+
+@media (max-width: 768px) {
+  .book-card {
+    grid-template-columns: 1fr;
+  }
+  .book-cover {
+    width: 100%;
+    height: 260px;
+  }
 }
 
 /* ===================================================================
@@ -2462,10 +2587,10 @@ body.custom-cursor .cursor-dot { opacity: 1; }
   position: fixed;
   inset: 0;
   z-index: 9998;
-  background: var(--ink);
+  background: var(--paper);
   transform: translateY(100%);
   opacity: 0;
-  transition: transform 0.5s var(--ease-cinema), opacity 0.15s ease;
+  transition: transform 0.2s var(--ease-cinema), opacity 0.1s ease;
   pointer-events: none;
 }
 

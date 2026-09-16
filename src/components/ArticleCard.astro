@@ -19,10 +19,10 @@ const description = locale === "fr" && post.data.descriptionFr ? post.data.descr
   <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} class="card-img-link">
     <img class="card-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" />
   </Link>
-  <div class="card-pad">
+  <div class="card-body">
     <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
-    <h3><Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} data-i18n={`article_${post.id}_title`}>{title}</Link></h3>
-    <p data-i18n={`article_${post.id}_description`}>{description}</p>
+    <h3 class="card-title"><Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} data-i18n={`article_${post.id}_title`}>{title}</Link></h3>
+    <p class="card-excerpt" data-i18n={`article_${post.id}_description`}>{description}</p>
     <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
     <Link class="read-more" href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} data-i18n="readArticle">Read Article</Link>
   </div>
