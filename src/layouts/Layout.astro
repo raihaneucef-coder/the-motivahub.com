@@ -960,7 +960,12 @@ const gaSnippet = GA_ID
           curtain.className = 'page-curtain';
           document.body.appendChild(curtain);
           requestAnimationFrame(() => curtain.classList.add('active'));
-          setTimeout(() => { window.location.href = href; }, 480);
+          const cleanup = () => {
+            try { curtain.remove(); } catch (e) {}
+          };
+          setTimeout(() => { cleanup(); window.location.href = href; }, 480);
+          window.addEventListener('pagehide', cleanup, { once: true });
+          window.addEventListener('pageshow', cleanup, { once: true });
         });
       });
     })();
