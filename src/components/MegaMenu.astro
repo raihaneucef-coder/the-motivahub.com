@@ -4,6 +4,7 @@ import Link from "./Link.astro";
 const sections = [
   {
     heading: "Read",
+    headingKey: "navRead",
     items: [
       { num: "01", label: "The Journal", href: "/journal/", labelKey: "navJournal" },
       { num: "02", label: "Daily Quotes", href: "/quotes/", labelKey: "navQuotes" },
@@ -13,6 +14,7 @@ const sections = [
   },
   {
     heading: "Guides",
+    headingKey: "navGuides",
     items: [
       { num: "05", label: "Atomic Habits", href: "/guides/atomic-habits-ultimate-guide/", labelKey: "navAtomicHabits" },
       { num: "06", label: "Best Books 2026", href: "/best/books/", labelKey: "navBestBooks" },
@@ -23,6 +25,7 @@ const sections = [
   },
   {
     heading: "Tools",
+    headingKey: "navTools",
     items: [
       { num: "10", label: "Discipline Quiz", href: "/tools/discipline-quiz/", labelKey: "navDisciplineQuiz" },
       { num: "11", label: "Habit Stacker", href: "/tools/habit-stacker/", labelKey: "navHabitStacker" },
@@ -33,6 +36,7 @@ const sections = [
   },
   {
     heading: "Brand",
+    headingKey: "navBrand",
     items: [
       { num: "15", label: "The Author", href: "/author/youssef-raihane/", labelKey: "navAuthor" },
       { num: "16", label: "About", href: "/about/", labelKey: "navAbout" },
@@ -56,7 +60,7 @@ const sections = [
   <nav class="overlay-nav" aria-label="Fullscreen menu">
     {sections.map((section) => (
       <div class="overlay-nav-section">
-        <p class="overlay-nav-heading" data-i18n={`nav${section.heading}`}>{section.heading}</p>
+        <p class="overlay-nav-heading" data-i18n={section.headingKey}>{section.heading}</p>
         {section.items.map((item) => (
           <Link href={item.href} data-num={item.num}>
             <span data-i18n={item.labelKey}>{item.label}</span>
