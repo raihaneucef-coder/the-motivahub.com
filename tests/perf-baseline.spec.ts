@@ -1,9 +1,9 @@
 import { test, expect } from '@playwright/test';
 
 const PAGES = [
-  { name: 'homepage', url: 'http://localhost:4321/' },
-  { name: 'journal', url: 'http://localhost:4321/journal/' },
-  { name: 'guide', url: 'http://localhost:4321/guides/atomic-habits-ultimate-guide/' },
+  { name: 'homepage', url: 'https://the-motivahub.com/' },
+  { name: 'journal', url: 'https://the-motivahub.com/journal/' },
+  { name: 'guide', url: 'https://the-motivahub.com/guides/atomic-habits-ultimate-guide/' },
 ];
 
 async function measureVitals(page: any): Promise<any> {
