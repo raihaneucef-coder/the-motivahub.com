@@ -168,6 +168,7 @@ const gaSnippet = GA_ID
             <p class="footer-tagline" data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
             <div class="footer-social">
               <a href="https://www.instagram.com/motivahub/" aria-label="Instagram" rel="noopener">IG</a>
+              <a href="https://x.com/themotivahub" aria-label="Twitter / X" rel="noopener">X</a>
               <a href="https://www.youtube.com/@motivahub" aria-label="YouTube" rel="noopener">YT</a>
               <a href="https://www.linkedin.com/company/motivahub" aria-label="LinkedIn" rel="noopener">in</a>
             </div>
@@ -872,8 +873,11 @@ const gaSnippet = GA_ID
           window.dispatchEvent(new CustomEvent("langchange", {detail: lang}));
         }
         async function initLang(){
-          const saved = localStorage.getItem("lang") || "en";
-          await setLang(saved);
+          const path = window.location.pathname;
+          const urlLang = path.startsWith('/fr') ? 'fr' : path.startsWith('/ar') ? 'ar' : 'en';
+          const saved = localStorage.getItem('lang');
+          const initial = (saved === 'fr' || saved === 'ar') && saved !== urlLang ? saved : urlLang;
+          await setLang(initial);
         }
         initLang();
         document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", ()=> setLang(b.getAttribute("data-lang")||"en")));
