@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && node scripts/generate-sitemap.mjs && node scripts/postbuild-indexnow.mjs",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "test:perf": "playwright test tests/perf-baseline.spec.ts --project=chromium"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
