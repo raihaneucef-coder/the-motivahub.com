@@ -1303,7 +1303,7 @@ section {
 }
 
 .book-card {
-  background: var(--paper);
+  background: var(--cream);
   border: 1px solid var(--line-soft);
   border-radius: var(--radius-md);
   display: grid;
@@ -1913,7 +1913,15 @@ section {
   .article-img {
     max-height: 50vh;
     object-fit: cover;
+    object-position: center top;
   }
+}
+
+/* About page image framing */
+.article-body .article-header .article-img {
+  object-fit: cover;
+  object-position: center top;
+  max-height: 60vh;
 }
 
 .article-body {
@@ -1921,6 +1929,10 @@ section {
   margin: 0 auto;
   padding: 0 clamp(20px, 4vw, 56px) 64px;
   color: var(--ink-soft);
+}
+
+.article-body .container > * + * {
+  margin-top: 2.5em;
 }
 
 .article-nav {

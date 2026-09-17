@@ -1,0 +1,7 @@
+.kilo/
+.pilot-staging/
+raw-photos/
+tests/screenshots/
+dist/
+node_modules/
+.git/
