@@ -15,16 +15,15 @@ const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
 ---
 
 <section class="hero hero-portrait" id="hero">
-  <img
-    class="hero-portrait-bg"
-    src={webpImage}
-    type="image/webp"
-    alt=""
-    fetchpriority="high"
-    decoding="async"
-    width="1920"
-    height="1080"
-  />
+    <img
+      class="hero-portrait-bg"
+      src={webpImage}
+      alt=""
+      fetchpriority="high"
+      decoding="async"
+      width="1920"
+      height="1080"
+    />
   <noscript>
     <style>.hero-portrait-bg{background-image:url('${webpImage}')}</style>
   </noscript>
