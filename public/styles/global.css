@@ -3,4 +3,9 @@
   img.hero-portrait-bg{left:0;width:100%;max-width:100%;object-position:center;transform:none}
   .manifesto-bg{display:none}
   .hero-portrait{overflow:hidden}
+  .cookie-banner{left:12px;right:12px}
+  .cookie-inner{max-width:100%;padding:14px 16px;flex-direction:column;align-items:stretch;text-align:center}
+  .cookie-actions{justify-content:center}
+  .newsletter-form{flex-direction:column;max-width:100%}
+  .newsletter-form input{width:100%}
 }
