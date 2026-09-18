@@ -18,10 +18,10 @@
 /* Author and contact page typography - match founder-text / Ma Promesse rendering */
 .author-bio-content p,
 .article-body .container > p:not(.card-meta):not(.card-date):not(.kicker) {
-  font-family: var(--serif);
-  font-size: 1.0625rem;
-  line-height: 1.7;
-  color: var(--muted);
+  font-family: var(--serif) !important;
+  font-size: 1.0625rem !important;
+  line-height: 1.7 !important;
+  color: var(--muted) !important;
 }
 
 /* Ensure consistent column width on author/contact pages */
