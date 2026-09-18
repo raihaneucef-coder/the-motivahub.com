@@ -85,6 +85,16 @@ test.describe('Performance baseline capture', () => {
 
       await p.goto(page.url, { waitUntil: 'load' });
       await p.waitForTimeout(500);
+      await p.evaluate(async () => {
+        const imgs = Array.from(document.querySelectorAll('img'));
+        await Promise.all(imgs.map(img => {
+          if (img.complete && img.naturalWidth !== 0) return Promise.resolve();
+          return new Promise(resolve => {
+            img.addEventListener('load', resolve, { once: true });
+            img.addEventListener('error', resolve, { once: true });
+          });
+        }));
+      });
 
       const vitals = await measureVitals(p);
       console.log(`[baseline] mobile ${page.name}`, JSON.stringify(vitals, null, 2));
@@ -93,6 +103,16 @@ test.describe('Performance baseline capture', () => {
     test(`desktop baseline capture - ${page.name}`, async ({ page: p }) => {
       await p.goto(page.url, { waitUntil: 'load' });
       await p.waitForTimeout(500);
+      await p.evaluate(async () => {
+        const imgs = Array.from(document.querySelectorAll('img'));
+        await Promise.all(imgs.map(img => {
+          if (img.complete && img.naturalWidth !== 0) return Promise.resolve();
+          return new Promise(resolve => {
+            img.addEventListener('load', resolve, { once: true });
+            img.addEventListener('error', resolve, { once: true });
+          });
+        }));
+      });
 
       const vitals = await measureVitals(p);
       console.log(`[baseline] desktop ${page.name}`, JSON.stringify(vitals, null, 2));
