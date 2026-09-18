@@ -41,8 +41,9 @@ test.describe('Verify recent fixes', () => {
     await page.goto('https://the-motivahub.com/fr/contact/', { waitUntil: 'load' });
     await page.waitForTimeout(1000);
 
-    const firstParagraph = page.locator('.article-body .container > p').first();
-    await expect(firstParagraph).toHaveCSS('font-family', /Fraunces|serif/);
-    await expect(firstParagraph).toHaveCSS('line-height', '1.7');
+    // Target actual content paragraphs, not kicker/meta elements
+    const contentParagraph = page.locator('.article-body .container > p:not(.card-meta):not(.card-date):not(.kicker)').first();
+    await expect(contentParagraph).toHaveCSS('font-family', /Fraunces|serif/);
+    await expect(contentParagraph).toHaveCSS('line-height', '1.7');
   });
 });
