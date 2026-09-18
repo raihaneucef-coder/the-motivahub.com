@@ -17,7 +17,6 @@
 
 /* Author and contact page typography - match founder-text / Ma Promesse rendering */
 .author-bio-content p,
-.author-bio-content p,
 .article-body .container > p:not(.card-meta):not(.card-date):not(.kicker) {
   font-family: var(--serif);
   font-size: 1.0625rem;
