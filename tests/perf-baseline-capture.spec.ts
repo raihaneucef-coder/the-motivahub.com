@@ -90,8 +90,9 @@ test.describe('Performance baseline capture', () => {
         await Promise.all(imgs.map(img => {
           if (img.complete && img.naturalWidth !== 0) return Promise.resolve();
           return new Promise(resolve => {
-            img.addEventListener('load', resolve, { once: true });
-            img.addEventListener('error', resolve, { once: true });
+            const timeout = setTimeout(resolve, 3000);
+            img.addEventListener('load', () => clearTimeout(timeout) || resolve(), { once: true });
+            img.addEventListener('error', () => clearTimeout(timeout) || resolve(), { once: true });
           });
         }));
       });
@@ -108,8 +109,9 @@ test.describe('Performance baseline capture', () => {
         await Promise.all(imgs.map(img => {
           if (img.complete && img.naturalWidth !== 0) return Promise.resolve();
           return new Promise(resolve => {
-            img.addEventListener('load', resolve, { once: true });
-            img.addEventListener('error', resolve, { once: true });
+            const timeout = setTimeout(resolve, 3000);
+            img.addEventListener('load', () => clearTimeout(timeout) || resolve(), { once: true });
+            img.addEventListener('error', () => clearTimeout(timeout) || resolve(), { once: true });
           });
         }));
       });
