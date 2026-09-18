@@ -2,6 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 import Link from "./Link.astro";
 import { getFrenchSlug } from "../utils/i18n";
+import { getImageDimensions } from "../utils/image";
 
 interface Props {
   post: CollectionEntry<"blog">;
@@ -13,12 +14,13 @@ const { post, featured = false, locale = "en" } = Astro.props;
 const slug = locale === "fr" ? getFrenchSlug(post.id) : post.id;
 const title = locale === "fr" && post.data.titleFr ? post.data.titleFr : post.data.title;
 const description = locale === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
+const imageDimensions = await getImageDimensions(post.data.image);
 ---
 
 <article class={`card ${featured ? "card-featured" : ""}`}>
       <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} class="card-img-link">
         <div class="card-img-wrap">
-          <img class="card-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" />
+          <img class="card-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width={imageDimensions.width} height={imageDimensions.height} />
         </div>
       </Link>
   <div class="card-body">

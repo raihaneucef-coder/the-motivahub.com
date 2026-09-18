@@ -11,10 +11,11 @@ interface Props {
 
 const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/images/hero-mountain-man.jpg", primaryCta, secondaryCta, meta } = Astro.props;
 const titleText = title.replace(/<[^>]+>/g, '');
+const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
 ---
 
 <section class="hero hero-portrait" id="hero">
-  <div class="hero-portrait-bg" style={`background-image: url('${image}');`}></div>
+  <div class="hero-portrait-bg" style={`background-image: image-set(url('${webpImage}') type('image/webp'), url('${image}') type('image/jpeg'));`}></div>
   <div class="hero-portrait-overlay"></div>
 
   <div class="hero-vertical-text" aria-hidden="true">
