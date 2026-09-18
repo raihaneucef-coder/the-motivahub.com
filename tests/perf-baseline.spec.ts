@@ -29,6 +29,17 @@ async function measureVitals(page: any): Promise<any> {
           if (entry.entryType === 'largest-contentful-paint' && !seen.has('LCP')) {
             seen.add('LCP');
             data.LCP = Math.round(entry.startTime);
+            try {
+              const el = entry.element as Element | undefined;
+              data.lcpTag = el?.tagName || null;
+              data.lcpSelector = el ? (el.id ? `#${el.id}` : el.tagName.toLowerCase()) : null;
+              if (el) {
+                const rect = el.getBoundingClientRect();
+                data.lcpRect = { x: rect.x, y: rect.y, width: rect.width, height: rect.height };
+              }
+            } catch (e) {
+              data.lcpSelectorError = String(e);
+            }
           }
           if (entry.entryType === 'layout-shift' && !seen.has('CLS')) {
             seen.add('CLS');
