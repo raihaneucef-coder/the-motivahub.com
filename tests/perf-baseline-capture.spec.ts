@@ -95,7 +95,7 @@ test.describe('Performance baseline capture', () => {
             img.addEventListener('error', () => clearTimeout(timeout) || resolve(), { once: true });
           });
         }));
-      });
+      }, { timeout: 60000 });
 
       const vitals = await measureVitals(p);
       console.log(`[baseline] mobile ${page.name}`, JSON.stringify(vitals, null, 2));
@@ -114,7 +114,7 @@ test.describe('Performance baseline capture', () => {
             img.addEventListener('error', () => clearTimeout(timeout) || resolve(), { once: true });
           });
         }));
-      });
+      }, { timeout: 60000 });
 
       const vitals = await measureVitals(p);
       console.log(`[baseline] desktop ${page.name}`, JSON.stringify(vitals, null, 2));
