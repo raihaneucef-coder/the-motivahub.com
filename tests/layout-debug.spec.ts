@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 
 test.describe('Visual layout verification', () => {
   test('about page layout check', async ({ page }) => {
-    await page.goto('http://localhost:4321/about/');
+    await page.goto('https://the-motivahub.com/about/');
     await page.waitForTimeout(2000);
     
     // Check author photo alignment
@@ -19,7 +19,7 @@ test.describe('Visual layout verification', () => {
   });
 
   test('books page layout check', async ({ page }) => {
-    await page.goto('http://localhost:4321/books/');
+    await page.goto('https://the-motivahub.com/books/');
     await page.waitForTimeout(2000);
     
     // Check book card layout
@@ -41,7 +41,7 @@ test.describe('Visual layout verification', () => {
   });
 
   test('journal page layout check', async ({ page }) => {
-    await page.goto('http://localhost:4321/journal/');
+    await page.goto('https://the-motivahub.com/journal/');
     await page.waitForTimeout(2000);
     
     // Check article card image alignment

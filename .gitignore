@@ -9,3 +9,4 @@ reels/output/
 *.mp3
 *.mov
 *.avi
+.env*

@@ -1,0 +1,672 @@
+[
+  {
+    "accountId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+    "creator": {
+      "type": "user",
+      "user": {
+        "id": "jK3nfjfNMPcNBqgMRgc1fkGB"
+      },
+      "via": {
+        "type": "app",
+        "app": {
+          "id": "cl_HYyOPBNtFMfHhaUn9L4QPfTZz6TP47bp"
+        }
+      }
+    },
+    "alias": [
+      {
+        "configuredBy": "A",
+        "configuredChangedAt": 1787468429613,
+        "createdAt": 1787468429553,
+        "deployment": null,
+        "domain": "motivahub.vercel.app",
+        "environment": "production",
+        "gitBranch": null,
+        "redirect": null,
+        "redirectStatusCode": null,
+        "target": "PRODUCTION"
+      },
+      {
+        "configuredBy": "A",
+        "configuredChangedAt": 1787529397929,
+        "createdAt": 1787529397146,
+        "deployment": {
+          "alias": [
+            "the-motivahub.com",
+            "motivahub.vercel.app",
+            "www.the-motivahub.com",
+            "motivahub-you-d6e2.vercel.app",
+            "motivahub-git-main-you-d6e2.vercel.app"
+          ],
+          "aliasAssigned": 1789361273035,
+          "builds": [],
+          "createdAt": 1789361225023,
+          "createdIn": "sfo1",
+          "creator": {
+            "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+            "email": "raihaneucef@gmail.com",
+            "username": "raihaneucef-6449",
+            "githubLogin": "raihaneucef-coder"
+          },
+          "deploymentHostname": "motivahub-62mmmsrtt-you-d6e2",
+          "forced": false,
+          "id": "dpl_GxD8Dv9F52oMerbdgzLM4kDfHyjr",
+          "meta": {
+            "githubCommitAuthorName": "raihaneucef-coder",
+            "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+            "githubCommitMessage": "fix(i18n): restore EN metadata and fix FR rendering",
+            "githubCommitOrg": "raihaneucef-coder",
+            "githubCommitRef": "main",
+            "githubCommitRepo": "the-motivahub.com",
+            "githubCommitSha": "11cceb0d11ea90aa3985d4696b3c123cec63af0a",
+            "githubDeployment": "1",
+            "githubOrg": "raihaneucef-coder",
+            "githubRepo": "the-motivahub.com",
+            "githubRepoOwnerType": "User",
+            "githubCommitRepoId": "1341174006",
+            "githubRepoId": "1341174006",
+            "githubRepoVisibility": "public",
+            "githubHost": "github.com",
+            "githubCommitAuthorLogin": "raihaneucef-coder",
+            "githubCommitVerification": "unverified",
+            "repoPushedAt": "1789361222000",
+            "branchAlias": "motivahub-git-main-you-d6e2.vercel.app",
+            "lambdaRuntimeStats": "{\"nodejs\":3}"
+          },
+          "name": "motivahub",
+          "plan": "hobby",
+          "private": true,
+          "readyState": "READY",
+          "readySubstate": "PROMOTED",
+          "target": "production",
+          "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+          "type": "LAMBDAS",
+          "url": "motivahub-62mmmsrtt-you-d6e2.vercel.app",
+          "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "withCache": false
+        },
+        "domain": "the-motivahub.com",
+        "environment": "production",
+        "gitBranch": null,
+        "redirect": null,
+        "redirectStatusCode": null,
+        "target": "PRODUCTION"
+      },
+      {
+        "configuredBy": "CNAME",
+        "configuredChangedAt": 1787535785618,
+        "createdAt": 1787535784964,
+        "deployment": null,
+        "domain": "www.the-motivahub.com",
+        "environment": "production",
+        "gitBranch": null,
+        "redirect": null,
+        "redirectStatusCode": null,
+        "target": "PRODUCTION"
+      }
+    ],
+    "autoExposeSystemEnvs": true,
+    "autoAssignCustomDomains": true,
+    "autoAssignCustomDomainsUpdatedBy": "system",
+    "buildCommand": null,
+    "commandForIgnoringBuildStep": null,
+    "createdAt": 1787264114292,
+    "deploymentExpiration": {
+      "expirationDays": 30,
+      "expirationDaysProduction": 30,
+      "expirationDaysCanceled": 30,
+      "expirationDaysErrored": 30,
+      "deploymentsToKeep": 10
+    },
+    "devCommand": null,
+    "directoryListing": false,
+    "env": [
+      {
+        "target": [
+          "production"
+        ],
+        "configurationId": null,
+        "id": "pFcWTD4zolcUaejO",
+        "key": "RESEND_API_KEY",
+        "createdAt": 1788367986163,
+        "updatedAt": 1788367986163,
+        "createdBy": "jK3nfjfNMPcNBqgMRgc1fkGB",
+        "updatedBy": null,
+        "type": "sensitive",
+        "value": ""
+      }
+    ],
+    "framework": "astro",
+    "gitForkProtection": true,
+    "id": "prj_lUA9u0lnLnM2V4D5lVESVfbVNAnD",
+    "installCommand": null,
+    "name": "motivahub",
+    "nodeVersion": "24.x",
+    "outputDirectory": null,
+    "resourceConfig": {
+      "fluid": true,
+      "functionDefaultRegions": [
+        "iad1"
+      ],
+      "buildMachineType": "basic",
+      "buildMachineSelection": "fixed"
+    },
+    "rootDirectory": null,
+    "serverlessFunctionRegion": "iad1",
+    "sourceFilesOutsideRootDirectory": true,
+    "speedInsights": {
+      "id": "BPgJ7OfzPSvuQE9qNJLnVfbtmfZ",
+      "hasData": false
+    },
+    "ssoProtection": null,
+    "updatedAt": 1789361273052,
+    "live": false,
+    "gitComments": {
+      "onCommit": false,
+      "onPullRequest": true
+    },
+    "gitProviderOptions": {
+      "createDeployments": "enabled"
+    },
+    "webAnalytics": {
+      "id": "IWyW3QJzl5dQgQxexplMcYIwU"
+    },
+    "oidcTokenConfig": {
+      "enabled": true,
+      "issuerMode": "team"
+    },
+    "link": {
+      "type": "github",
+      "repo": "the-motivahub.com",
+      "repoId": 1341174006,
+      "org": "raihaneucef-coder",
+      "repoOwnerId": 319217512,
+      "gitCredentialId": "cred_0e72da0c670691a88620f279ed248ed03e41d58e",
+      "productionBranch": "main",
+      "createdAt": 1787608621009,
+      "updatedAt": 1787608621009,
+      "deployHooks": []
+    },
+    "latestDeployments": [
+      {
+        "alias": [
+          "the-motivahub.com",
+          "motivahub.vercel.app",
+          "www.the-motivahub.com",
+          "motivahub-you-d6e2.vercel.app",
+          "motivahub-git-main-you-d6e2.vercel.app"
+        ],
+        "aliasAssigned": 1789361273035,
+        "builds": [],
+        "createdAt": 1789361225023,
+        "createdIn": "sfo1",
+        "creator": {
+          "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "email": "raihaneucef@gmail.com",
+          "username": "raihaneucef-6449",
+          "githubLogin": "raihaneucef-coder"
+        },
+        "deploymentHostname": "motivahub-62mmmsrtt-you-d6e2",
+        "forced": false,
+        "id": "dpl_GxD8Dv9F52oMerbdgzLM4kDfHyjr",
+        "meta": {
+          "githubCommitAuthorName": "raihaneucef-coder",
+          "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+          "githubCommitMessage": "fix(i18n): restore EN metadata and fix FR rendering",
+          "githubCommitOrg": "raihaneucef-coder",
+          "githubCommitRef": "main",
+          "githubCommitRepo": "the-motivahub.com",
+          "githubCommitSha": "11cceb0d11ea90aa3985d4696b3c123cec63af0a",
+          "githubDeployment": "1",
+          "githubOrg": "raihaneucef-coder",
+          "githubRepo": "the-motivahub.com",
+          "githubRepoOwnerType": "User",
+          "githubCommitRepoId": "1341174006",
+          "githubRepoId": "1341174006",
+          "githubRepoVisibility": "public",
+          "githubHost": "github.com",
+          "githubCommitAuthorLogin": "raihaneucef-coder",
+          "githubCommitVerification": "unverified",
+          "repoPushedAt": "1789361222000",
+          "branchAlias": "motivahub-git-main-you-d6e2.vercel.app",
+          "lambdaRuntimeStats": "{\"nodejs\":3}"
+        },
+        "name": "motivahub",
+        "plan": "hobby",
+        "private": true,
+        "readyState": "READY",
+        "readySubstate": "PROMOTED",
+        "target": "production",
+        "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+        "type": "LAMBDAS",
+        "url": "motivahub-62mmmsrtt-you-d6e2.vercel.app",
+        "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+        "withCache": false
+      },
+      {
+        "alias": [
+          "the-motivahub.com",
+          "motivahub.vercel.app",
+          "www.the-motivahub.com",
+          "motivahub-you-d6e2.vercel.app",
+          "motivahub-git-main-you-d6e2.vercel.app"
+        ],
+        "aliasAssigned": 1789348927828,
+        "builds": [],
+        "createdAt": 1789348903452,
+        "createdIn": "sfo1",
+        "creator": {
+          "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "email": "raihaneucef@gmail.com",
+          "username": "raihaneucef-6449",
+          "githubLogin": "raihaneucef-coder"
+        },
+        "deploymentHostname": "motivahub-ktm8secuw-you-d6e2",
+        "forced": false,
+        "id": "dpl_51ZVYf43i8uJZnT1dqiuSA7453KH",
+        "meta": {
+          "githubCommitAuthorName": "raihaneucef-coder",
+          "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+          "githubCommitMessage": "fix: corrige balises HTML visibles, rendu markdown des guides, filtres de catégories et position de la recherche sur The Journal",
+          "githubCommitOrg": "raihaneucef-coder",
+          "githubCommitRef": "main",
+          "githubCommitRepo": "the-motivahub.com",
+          "githubCommitSha": "c7fdda91612e47caf644827913c9493b6a12de1e",
+          "githubDeployment": "1",
+          "githubOrg": "raihaneucef-coder",
+          "githubRepo": "the-motivahub.com",
+          "githubRepoOwnerType": "User",
+          "githubCommitRepoId": "1341174006",
+          "githubRepoId": "1341174006",
+          "githubRepoVisibility": "public",
+          "githubHost": "github.com",
+          "githubCommitAuthorLogin": "raihaneucef-coder",
+          "githubCommitVerification": "unverified",
+          "repoPushedAt": "1789348901000",
+          "branchAlias": "motivahub-git-main-you-d6e2.vercel.app",
+          "lambdaRuntimeStats": "{\"nodejs\":3}"
+        },
+        "name": "motivahub",
+        "plan": "hobby",
+        "private": true,
+        "readyState": "READY",
+        "readySubstate": "PROMOTED",
+        "target": "production",
+        "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+        "type": "LAMBDAS",
+        "url": "motivahub-ktm8secuw-you-d6e2.vercel.app",
+        "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+        "withCache": false
+      }
+    ],
+    "targets": {
+      "production": {
+        "alias": [
+          "the-motivahub.com",
+          "motivahub.vercel.app",
+          "www.the-motivahub.com",
+          "motivahub-you-d6e2.vercel.app",
+          "motivahub-git-main-you-d6e2.vercel.app"
+        ],
+        "aliasAssigned": 1789361273035,
+        "builds": [],
+        "createdAt": 1789361225023,
+        "createdIn": "sfo1",
+        "creator": {
+          "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "email": "raihaneucef@gmail.com",
+          "username": "raihaneucef-6449",
+          "githubLogin": "raihaneucef-coder"
+        },
+        "deploymentHostname": "motivahub-62mmmsrtt-you-d6e2",
+        "forced": false,
+        "id": "dpl_GxD8Dv9F52oMerbdgzLM4kDfHyjr",
+        "meta": {
+          "githubCommitAuthorName": "raihaneucef-coder",
+          "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+          "githubCommitMessage": "fix(i18n): restore EN metadata and fix FR rendering",
+          "githubCommitOrg": "raihaneucef-coder",
+          "githubCommitRef": "main",
+          "githubCommitRepo": "the-motivahub.com",
+          "githubCommitSha": "11cceb0d11ea90aa3985d4696b3c123cec63af0a",
+          "githubDeployment": "1",
+          "githubOrg": "raihaneucef-coder",
+          "githubRepo": "the-motivahub.com",
+          "githubRepoOwnerType": "User",
+          "githubCommitRepoId": "1341174006",
+          "githubRepoId": "1341174006",
+          "githubRepoVisibility": "public",
+          "githubHost": "github.com",
+          "githubCommitAuthorLogin": "raihaneucef-coder",
+          "githubCommitVerification": "unverified",
+          "repoPushedAt": "1789361222000",
+          "branchAlias": "motivahub-git-main-you-d6e2.vercel.app",
+          "lambdaRuntimeStats": "{\"nodejs\":3}"
+        },
+        "name": "motivahub",
+        "plan": "hobby",
+        "private": true,
+        "readyState": "READY",
+        "readySubstate": "PROMOTED",
+        "target": "production",
+        "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+        "type": "LAMBDAS",
+        "url": "motivahub-62mmmsrtt-you-d6e2.vercel.app",
+        "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+        "withCache": false
+      }
+    }
+  },
+  {
+    "accountId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+    "creator": {
+      "type": "user",
+      "user": {
+        "id": "jK3nfjfNMPcNBqgMRgc1fkGB"
+      },
+      "via": {
+        "type": "app",
+        "app": {
+          "id": "cl_HYyOPBNtFMfHhaUn9L4QPfTZz6TP47bp",
+          "clientId": "cl_HYyOPBNtFMfHhaUn9L4QPfTZz6TP47bp"
+        }
+      }
+    },
+    "alias": [
+      {
+        "configuredBy": "A",
+        "configuredChangedAt": 1788923522230,
+        "createdAt": 1788923522230,
+        "deployment": {
+          "alias": [
+            "the-motivahubcom.vercel.app",
+            "the-motivahubcom-you-d6e2.vercel.app",
+            "the-motivahubcom-git-main-you-d6e2.vercel.app"
+          ],
+          "aliasAssigned": 1789361248900,
+          "builds": [],
+          "createdAt": 1789361224934,
+          "createdIn": "sfo1",
+          "creator": {
+            "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+            "email": "raihaneucef@gmail.com",
+            "username": "raihaneucef-6449",
+            "githubLogin": "raihaneucef-coder"
+          },
+          "deploymentHostname": "the-motivahub-ewddee6hd-you-d6e2",
+          "forced": false,
+          "id": "dpl_6iTgdUCMAonpt94MNwZh9hjAdFg7",
+          "meta": {
+            "githubCommitAuthorName": "raihaneucef-coder",
+            "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+            "githubCommitMessage": "fix(i18n): restore EN metadata and fix FR rendering",
+            "githubCommitOrg": "raihaneucef-coder",
+            "githubCommitRef": "main",
+            "githubCommitRepo": "the-motivahub.com",
+            "githubCommitSha": "11cceb0d11ea90aa3985d4696b3c123cec63af0a",
+            "githubDeployment": "1",
+            "githubOrg": "raihaneucef-coder",
+            "githubRepo": "the-motivahub.com",
+            "githubRepoOwnerType": "User",
+            "githubCommitRepoId": "1341174006",
+            "githubRepoId": "1341174006",
+            "githubRepoVisibility": "public",
+            "githubHost": "github.com",
+            "githubCommitAuthorLogin": "raihaneucef-coder",
+            "githubCommitVerification": "unverified",
+            "repoPushedAt": "1789361222000",
+            "branchAlias": "the-motivahubcom-git-main-you-d6e2.vercel.app",
+            "lambdaRuntimeStats": "{\"nodejs\":3}"
+          },
+          "name": "the-motivahub.com",
+          "plan": "hobby",
+          "private": true,
+          "readyState": "READY",
+          "readySubstate": "PROMOTED",
+          "target": "production",
+          "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+          "type": "LAMBDAS",
+          "url": "the-motivahub-ewddee6hd-you-d6e2.vercel.app",
+          "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "withCache": false
+        },
+        "domain": "the-motivahubcom.vercel.app",
+        "environment": "production",
+        "gitBranch": null,
+        "redirect": null,
+        "target": "PRODUCTION"
+      }
+    ],
+    "autoExposeSystemEnvs": true,
+    "autoAssignCustomDomains": true,
+    "autoAssignCustomDomainsUpdatedBy": "system",
+    "buildCommand": null,
+    "commandForIgnoringBuildStep": null,
+    "createdAt": 1788923522231,
+    "deploymentExpiration": {
+      "expirationDays": 30,
+      "expirationDaysProduction": 30,
+      "expirationDaysCanceled": 30,
+      "expirationDaysErrored": 30,
+      "deploymentsToKeep": 10
+    },
+    "devCommand": null,
+    "directoryListing": false,
+    "framework": "astro",
+    "gitForkProtection": true,
+    "id": "prj_PNUHrHepJR8JJoB0Bn4aAgimDDYb",
+    "installCommand": null,
+    "name": "the-motivahub.com",
+    "nodeVersion": "24.x",
+    "outputDirectory": null,
+    "resourceConfig": {
+      "fluid": true,
+      "functionDefaultRegions": [
+        "iad1"
+      ],
+      "buildMachineType": "basic",
+      "buildMachineSelection": "fixed"
+    },
+    "rootDirectory": null,
+    "serverlessFunctionRegion": "iad1",
+    "sourceFilesOutsideRootDirectory": true,
+    "speedInsights": {
+      "id": "mXLLKzMpmJpb8XiN7FHXWf0TahI",
+      "hasData": false
+    },
+    "ssoProtection": {
+      "deploymentType": "all_except_custom_domains"
+    },
+    "updatedAt": 1789361248931,
+    "live": false,
+    "gitComments": {
+      "onCommit": false,
+      "onPullRequest": true
+    },
+    "gitProviderOptions": {
+      "createDeployments": "enabled"
+    },
+    "webAnalytics": {
+      "id": "eO1RgxMy5HRLJpOhonu6v4gOB"
+    },
+    "oidcTokenConfig": {
+      "enabled": true,
+      "issuerMode": "team"
+    },
+    "link": {
+      "type": "github",
+      "repo": "the-motivahub.com",
+      "repoId": 1341174006,
+      "org": "raihaneucef-coder",
+      "repoOwnerId": 319217512,
+      "gitCredentialId": "cred_0e72da0c670691a88620f279ed248ed03e41d58e",
+      "productionBranch": "main",
+      "createdAt": 1788923523823,
+      "updatedAt": 1788923523823,
+      "deployHooks": []
+    },
+    "latestDeployments": [
+      {
+        "alias": [
+          "the-motivahubcom.vercel.app",
+          "the-motivahubcom-you-d6e2.vercel.app",
+          "the-motivahubcom-git-main-you-d6e2.vercel.app"
+        ],
+        "aliasAssigned": 1789361248900,
+        "builds": [],
+        "createdAt": 1789361224934,
+        "createdIn": "sfo1",
+        "creator": {
+          "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "email": "raihaneucef@gmail.com",
+          "username": "raihaneucef-6449",
+          "githubLogin": "raihaneucef-coder"
+        },
+        "deploymentHostname": "the-motivahub-ewddee6hd-you-d6e2",
+        "forced": false,
+        "id": "dpl_6iTgdUCMAonpt94MNwZh9hjAdFg7",
+        "meta": {
+          "githubCommitAuthorName": "raihaneucef-coder",
+          "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+          "githubCommitMessage": "fix(i18n): restore EN metadata and fix FR rendering",
+          "githubCommitOrg": "raihaneucef-coder",
+          "githubCommitRef": "main",
+          "githubCommitRepo": "the-motivahub.com",
+          "githubCommitSha": "11cceb0d11ea90aa3985d4696b3c123cec63af0a",
+          "githubDeployment": "1",
+          "githubOrg": "raihaneucef-coder",
+          "githubRepo": "the-motivahub.com",
+          "githubRepoOwnerType": "User",
+          "githubCommitRepoId": "1341174006",
+          "githubRepoId": "1341174006",
+          "githubRepoVisibility": "public",
+          "githubHost": "github.com",
+          "githubCommitAuthorLogin": "raihaneucef-coder",
+          "githubCommitVerification": "unverified",
+          "repoPushedAt": "1789361222000",
+          "branchAlias": "the-motivahubcom-git-main-you-d6e2.vercel.app",
+          "lambdaRuntimeStats": "{\"nodejs\":3}"
+        },
+        "name": "the-motivahub.com",
+        "plan": "hobby",
+        "private": true,
+        "readyState": "READY",
+        "readySubstate": "PROMOTED",
+        "target": "production",
+        "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+        "type": "LAMBDAS",
+        "url": "the-motivahub-ewddee6hd-you-d6e2.vercel.app",
+        "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+        "withCache": false
+      },
+      {
+        "alias": [
+          "the-motivahubcom.vercel.app",
+          "the-motivahubcom-you-d6e2.vercel.app",
+          "the-motivahubcom-git-main-you-d6e2.vercel.app"
+        ],
+        "aliasAssigned": 1789348950119,
+        "builds": [],
+        "createdAt": 1789348903468,
+        "createdIn": "sfo1",
+        "creator": {
+          "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "email": "raihaneucef@gmail.com",
+          "username": "raihaneucef-6449",
+          "githubLogin": "raihaneucef-coder"
+        },
+        "deploymentHostname": "the-motivahub-gea941cmo-you-d6e2",
+        "forced": false,
+        "id": "dpl_3HwzJ7xudYpt1wAjEZZroztK97NX",
+        "meta": {
+          "githubCommitAuthorName": "raihaneucef-coder",
+          "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+          "githubCommitMessage": "fix: corrige balises HTML visibles, rendu markdown des guides, filtres de catégories et position de la recherche sur The Journal",
+          "githubCommitOrg": "raihaneucef-coder",
+          "githubCommitRef": "main",
+          "githubCommitRepo": "the-motivahub.com",
+          "githubCommitSha": "c7fdda91612e47caf644827913c9493b6a12de1e",
+          "githubDeployment": "1",
+          "githubOrg": "raihaneucef-coder",
+          "githubRepo": "the-motivahub.com",
+          "githubRepoOwnerType": "User",
+          "githubCommitRepoId": "1341174006",
+          "githubRepoId": "1341174006",
+          "githubRepoVisibility": "public",
+          "githubHost": "github.com",
+          "githubCommitAuthorLogin": "raihaneucef-coder",
+          "githubCommitVerification": "unverified",
+          "repoPushedAt": "1789348901000",
+          "branchAlias": "the-motivahubcom-git-main-you-d6e2.vercel.app",
+          "lambdaRuntimeStats": "{\"nodejs\":3}"
+        },
+        "name": "the-motivahub.com",
+        "plan": "hobby",
+        "private": true,
+        "readyState": "READY",
+        "readySubstate": "PROMOTED",
+        "target": "production",
+        "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+        "type": "LAMBDAS",
+        "url": "the-motivahub-gea941cmo-you-d6e2.vercel.app",
+        "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+        "withCache": false
+      }
+    ],
+    "targets": {
+      "production": {
+        "alias": [
+          "the-motivahubcom.vercel.app",
+          "the-motivahubcom-you-d6e2.vercel.app",
+          "the-motivahubcom-git-main-you-d6e2.vercel.app"
+        ],
+        "aliasAssigned": 1789361248900,
+        "builds": [],
+        "createdAt": 1789361224934,
+        "createdIn": "sfo1",
+        "creator": {
+          "uid": "jK3nfjfNMPcNBqgMRgc1fkGB",
+          "email": "raihaneucef@gmail.com",
+          "username": "raihaneucef-6449",
+          "githubLogin": "raihaneucef-coder"
+        },
+        "deploymentHostname": "the-motivahub-ewddee6hd-you-d6e2",
+        "forced": false,
+        "id": "dpl_6iTgdUCMAonpt94MNwZh9hjAdFg7",
+        "meta": {
+          "githubCommitAuthorName": "raihaneucef-coder",
+          "githubCommitAuthorEmail": "319217512+raihaneucef-coder@users.noreply.github.com",
+          "githubCommitMessage": "fix(i18n): restore EN metadata and fix FR rendering",
+          "githubCommitOrg": "raihaneucef-coder",
+          "githubCommitRef": "main",
+          "githubCommitRepo": "the-motivahub.com",
+          "githubCommitSha": "11cceb0d11ea90aa3985d4696b3c123cec63af0a",
+          "githubDeployment": "1",
+          "githubOrg": "raihaneucef-coder",
+          "githubRepo": "the-motivahub.com",
+          "githubRepoOwnerType": "User",
+          "githubCommitRepoId": "1341174006",
+          "githubRepoId": "1341174006",
+          "githubRepoVisibility": "public",
+          "githubHost": "github.com",
+          "githubCommitAuthorLogin": "raihaneucef-coder",
+          "githubCommitVerification": "unverified",
+          "repoPushedAt": "1789361222000",
+          "branchAlias": "the-motivahubcom-git-main-you-d6e2.vercel.app",
+          "lambdaRuntimeStats": "{\"nodejs\":3}"
+        },
+        "name": "the-motivahub.com",
+        "plan": "hobby",
+        "private": true,
+        "readyState": "READY",
+        "readySubstate": "PROMOTED",
+        "target": "production",
+        "teamId": "team_mHe2UWD8YcfPJSwTi1D6y5EI",
+        "type": "LAMBDAS",
+        "url": "the-motivahub-ewddee6hd-you-d6e2.vercel.app",
+        "userId": "jK3nfjfNMPcNBqgMRgc1fkGB",
+        "withCache": false
+      }
+    }
+  }
+]
