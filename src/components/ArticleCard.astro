@@ -25,7 +25,7 @@ const imageDimensions = await getImageDimensions(post.data.image);
       </Link>
   <div class="card-body">
     <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
-    <h3 class="card-title"><Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} data-i18n={`article_${post.id}_title`}>{title}</Link></h3>
+    <h3 class="card-title"><Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`}>{title}</Link></h3>
     <div class="card-body">
   <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> — {post.data.readTime}</p>
   <h3 class="card-title">
