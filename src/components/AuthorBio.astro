@@ -29,11 +29,9 @@ const author = {
   experience: "Built Motiva Hub from zero into a daily sanctuary for the disciplined mind. Has reviewed and synthesized 50+ titles on habits, focus, stoicism, and performance. Writes from practice — not theory.",
   avatar: "/images/youssef-raihane.jpg",
   founded: 2025,
-<div class="author-bio-content">
-  <h3 class="author-name">{name}</h3>
-  <p class="author-title">{jobTitle}</p>
-  <p class="author-description">{bio}</p>
-</div>
+};
+
+const personSchema = {
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://the-motivahub.com/author/youssef-raihane/#person",
@@ -65,6 +63,7 @@ const author = {
   foundingDate: "2025",
   award: ["8 years applied practice in self-improvement systems"],
 };
+
 ---
 
 {showSchema && (
