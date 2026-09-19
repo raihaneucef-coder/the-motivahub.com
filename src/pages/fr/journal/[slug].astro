@@ -141,8 +141,8 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
   <article>
     <header class="article-header">
       <div class="container">
-        <p class="card-meta"><span>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
-        <h1>{displayTitle}</h1>
+        <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
+        <h1 data-i18n={`article_${post.id}_title`}>{displayTitle}</h1>
         <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
         <img class="article-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} />
       </div>
@@ -151,7 +151,9 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
     <div class="article-body container">
       {isReviewPost && <AffiliateBanner variant="callout" lang={postLang} />}
       <TableOfContents headings={headings} />
-      <Content />
+      <div class="prose">
+        <Content />
+      </div>
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} />
