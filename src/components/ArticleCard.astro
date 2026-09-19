@@ -24,15 +24,12 @@ const imageDimensions = await getImageDimensions(post.data.image);
         </div>
       </Link>
   <div class="card-body">
-    <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
-    <h3 class="card-title"><Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`}>{title}</Link></h3>
-    <div class="card-body">
-  <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> — {post.data.readTime}</p>
-  <h3 class="card-title">
-    <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`}>
-      {title}
-    </Link>
-  </h3>
-  <p class="card-excerpt">{description}</p>
-  <p class="card-date">{post.data.pubDate.toLocaleDateString(locale === "fr" ? "fr-FR" : "en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-</div>
+    <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> — {post.data.readTime}</p>
+    <h3 class="card-title">
+      <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`}>
+        {title}
+      </Link>
+    </h3>
+    <p class="card-excerpt">{description}</p>
+    <p class="card-date">{post.data.pubDate.toLocaleDateString(locale === "fr" ? "fr-FR" : "en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
+  </div>
