@@ -3,6 +3,8 @@ import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
 import MegaMenu from "../components/MegaMenu.astro";
 import Link from "../components/Link.astro";
 import { getLangFromUrl, getFrenchSlug, getEnglishSlug } from "../utils/i18n";
+import { createHash } from "node:crypto";
+import { readFileSync } from "node:fs";
 
 interface Props {
   title: string;
@@ -37,6 +39,12 @@ const isFr = lang === "fr" || (lang !== "ar" && Astro.url.pathname.startsWith("/
 const htmlLang = lang || (Astro.url.pathname.startsWith("/ar") ? "ar" : Astro.url.pathname.startsWith("/fr") ? "fr" : "en");
 const ogLocale = lang === "ar" ? "ar_SA" : lang === "fr" ? "fr_FR" : "en_US";
 const ogLocaleAlt = lang === "ar" ? "en_US" : lang === "fr" ? "en_US" : "fr_FR";
+// Cache-busting version of the global stylesheet: the file is served with a
+// 1-year immutable header, so its URL must change whenever its content does.
+const globalCssV = createHash("sha256")
+  .update(readFileSync(new URL("../../public/styles/global.css", import.meta.url)))
+  .digest("hex")
+  .slice(0, 10);
 const gaSnippet = GA_ID
   ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`
   : "";
@@ -93,7 +101,7 @@ const gaSnippet = GA_ID
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,300;1,9..144,400;1,9..144,500;1,9..144,600&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="/styles/global.css" />
+    <link rel="stylesheet" href={`/styles/global.css?v=${globalCssV}`} />
     <slot name="head" />
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
