@@ -2,7 +2,7 @@
 import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
 import MegaMenu from "../components/MegaMenu.astro";
 import Link from "../components/Link.astro";
-import { getLangFromUrl, getLocalePath } from "../utils/i18n";
+import { getLangFromUrl, getFrenchSlug, getEnglishSlug } from "../utils/i18n";
 
 interface Props {
   title: string;
@@ -16,10 +16,22 @@ interface Props {
 
 const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema } = Astro.props;
 const currentLocale = getLangFromUrl(Astro.url);
-const pathWithoutLocale = Astro.url.pathname.replace(/^\/(fr|en)/, '') || '/';
 const canonical = Astro.url.href;
-const enUrl = new URL(pathWithoutLocale, Astro.site ?? Astro.url.origin).href;
-const frUrl = new URL(getLocalePath(pathWithoutLocale, 'fr'), Astro.site ?? Astro.url.origin).href;
+// hreflang alternates must point at the real sibling page: map the journal
+// slug both ways (1 of 169 slugs differs, e.g. sleep-is-unfair-advantage <->
+// sommeil-avantage-indefendable) instead of just stripping the /fr prefix,
+// which used to declare 404 alternates for that article in both directions.
+const pathParts = Astro.url.pathname.split("/").filter(Boolean);
+const onFrPath = pathParts[0] === "fr";
+const bodyParts = onFrPath ? pathParts.slice(1) : pathParts;
+const altParts = bodyParts[0] === "journal" && bodyParts[1]
+  ? [bodyParts[0], onFrPath ? getEnglishSlug(bodyParts[1]) : getFrenchSlug(bodyParts[1]), ...bodyParts.slice(2)]
+  : bodyParts;
+const tail = Astro.url.pathname.endsWith("/") ? "/" : "";
+const enTwin = altParts.length === 0 ? "/" : "/" + altParts.join("/") + tail;
+const frTwin = enTwin === "/" ? "/fr/" : "/fr" + enTwin;
+const enUrl = new URL(onFrPath ? enTwin : Astro.url.pathname, Astro.site ?? Astro.url.origin).href;
+const frUrl = new URL(onFrPath ? Astro.url.pathname : frTwin, Astro.site ?? Astro.url.origin).href;
 const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
 const isFr = lang === "fr" || (lang !== "ar" && Astro.url.pathname.startsWith("/fr") || Astro.url.searchParams.get("lang") === "fr");
 const htmlLang = lang || (Astro.url.pathname.startsWith("/ar") ? "ar" : Astro.url.pathname.startsWith("/fr") ? "fr" : "en");
