@@ -46,3 +46,13 @@
 article.card .card-img-wrap {
   aspect-ratio: 16 / 9;
 }
+
+.article-header {
+  padding-top: 92px;
+}
+
+@media (max-width: 768px) {
+  .article-header {
+    margin-top: 0;
+  }
+}
