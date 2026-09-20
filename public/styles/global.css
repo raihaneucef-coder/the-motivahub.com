@@ -42,3 +42,7 @@
     min-width: 0;
   }
 }
+
+article.card .card-img-wrap {
+  aspect-ratio: 16 / 9;
+}
