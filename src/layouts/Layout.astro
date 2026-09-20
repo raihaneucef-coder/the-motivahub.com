@@ -905,7 +905,43 @@ const gaSnippet = GA_ID
           await setLang(initial, true);
         }
         initLang();
-        document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", ()=> setLang(b.getAttribute("data-lang")||"en")));
+        // Language buttons navigate to the real twin page (EN <-> /fr/) so the
+        // target language is fully server-rendered — card titles, descriptions
+        // and article bodies included. The slug map is fetched only on click,
+        // and only for journal articles (1 of 169 slugs differs). Pages
+        // without a twin (404s, unknown paths) keep the client-side swap.
+        const FR_SECTIONS = new Set(["30-days-discipline","about","affiliate-disclosure","author","best","bio","books","contact","credits","forgot-password","guides","journal","login","memento-mori","objectives","pdf","privacy","psychology","quotes","register","reset-password","terms","tools","topics","tracker"]);
+        async function twinUrl(lang){
+          const loc = window.location;
+          const onFrPath = loc.pathname === "/fr" || loc.pathname.startsWith("/fr/");
+          const cur = onFrPath ? "fr" : "en";
+          if(cur === lang || (lang !== "en" && lang !== "fr")) return null;
+          let rest = onFrPath ? (loc.pathname.replace(/^\/fr/, "") || "/") : loc.pathname;
+          const first = rest.split("/").filter(Boolean)[0];
+          if(first && !FR_SECTIONS.has(first)) return null;
+          if(/^\/journal\/[^/]+\/?$/.test(rest)){
+            try{
+              const map = await (await fetch("/i18n/slugs-fr.json")).json();
+              const slug = rest.split("/").filter(Boolean)[1];
+              const mapped = lang === "fr" ? (map[slug] || slug) : (Object.keys(map).find((k) => map[k] === slug) || slug);
+              rest = rest.endsWith("/") ? "/journal/" + mapped + "/" : "/journal/" + mapped;
+            }catch(e){ return null; }
+          }
+          const target = lang === "fr" ? ("/fr" + (rest === "/" ? "/" : rest)) : rest;
+          return target + loc.search + loc.hash;
+        }
+        document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", async ()=>{
+          const lang = b.getAttribute("data-lang")||"en";
+          try{
+            const url = await twinUrl(lang);
+            if(url){
+              try{ localStorage.setItem("lang", lang); }catch(e){}
+              window.location.assign(url);
+              return;
+            }
+          }catch(e){}
+          setLang(lang);
+        }));
         window.setLang = setLang;
         window.i18nDict = dict;
       })();
