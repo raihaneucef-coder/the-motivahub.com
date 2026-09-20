@@ -18,7 +18,7 @@ const imageDimensions = await getImageDimensions(post.data.image);
 ---
 
 <article class={`card ${featured ? "card-featured" : ""}`}>
-      <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} class="card-img-link">
+      <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} class="card-img-link" aria-label={title}>
         <div class="card-img-wrap">
           <img class="card-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width={imageDimensions.width} height={imageDimensions.height} />
         </div>
