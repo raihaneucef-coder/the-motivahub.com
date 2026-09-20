@@ -833,10 +833,27 @@ const gaSnippet = GA_ID
           const k = el.getAttribute("data-i18n");
           if(k && !enTextCache.has(k)) enTextCache.set(k, el.getAttribute("data-en-text") || el.textContent);
         });
-        async function setLang(lang){
+        // FR article pages render the French body server-side (marked with
+        // [data-ssr-fr]). Capture that French so toggling FR after EN
+        // restores it — with the heading ids — without re-fetching
+        // articles-fr.json or re-swapping from it.
+        const ssrFr = !!document.querySelector("[data-ssr-fr]");
+        const frCache = new Map();
+        const frTextCache = new Map();
+        if(ssrFr){
+          document.querySelectorAll("[data-i18n-html][data-en-html]").forEach(el=>{
+            const k = el.getAttribute("data-i18n-html");
+            if(k && !frCache.has(k)) frCache.set(k, el.innerHTML);
+          });
+          document.querySelectorAll("[data-i18n][data-en-text]").forEach(el=>{
+            const k = el.getAttribute("data-i18n");
+            if(k && !frTextCache.has(k)) frTextCache.set(k, el.textContent);
+          });
+        }
+        async function setLang(lang, initial){
           const baseDict = dict[lang] || dict.en;
           let t = {...baseDict};
-          if(lang === "fr"){
+          if(lang === "fr" && !ssrFr){
             try{
               const res = await fetch("/i18n/articles-fr.json");
               if(res.ok){
@@ -851,6 +868,8 @@ const gaSnippet = GA_ID
             const k = el.getAttribute("data-i18n");
             if(lang === "en" && enTextCache.has(k)){
               el.textContent = enTextCache.get(k);
+            } else if(lang === "fr" && ssrFr && el.hasAttribute("data-en-text")){
+              if(!initial && frTextCache.has(k)) el.textContent = frTextCache.get(k);
             } else if(k && t[k]){
               el.textContent = t[k];
             }
@@ -859,6 +878,8 @@ const gaSnippet = GA_ID
             const k = el.getAttribute("data-i18n-html");
             if(lang === "en" && enCache.has(k)){
               el.innerHTML = enCache.get(k);
+            } else if(lang === "fr" && ssrFr && el.hasAttribute("data-en-html")){
+              if(!initial && frCache.has(k)) el.innerHTML = frCache.get(k);
             } else if(k && t[k]){
               el.innerHTML = t[k];
             }
@@ -879,7 +900,7 @@ const gaSnippet = GA_ID
           const urlLang = path.startsWith('/fr') ? 'fr' : path.startsWith('/ar') ? 'ar' : 'en';
           const saved = localStorage.getItem('lang');
           const initial = (saved === 'fr' || saved === 'ar') && saved !== urlLang ? saved : urlLang;
-          await setLang(initial);
+          await setLang(initial, true);
         }
         initLang();
         document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", ()=> setLang(b.getAttribute("data-lang")||"en")));

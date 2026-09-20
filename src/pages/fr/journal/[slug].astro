@@ -228,7 +228,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
     <div class="article-body container">
       {isReviewPost && <AffiliateBanner variant="callout" lang={postLang} />}
       <TableOfContents headings={frHeadings} />
-      <div class="prose" set:html={proseHtml} />
+      <div class="prose" data-ssr-fr="1" set:html={proseHtml} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} />
