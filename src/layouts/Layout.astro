@@ -45,8 +45,8 @@ const gaSnippet = GA_ID
 <!doctype html>
 <html lang={htmlLang}>
   <head>
-    <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
-    <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+    <script defer data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
+    <script defer data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
@@ -174,9 +174,9 @@ const gaSnippet = GA_ID
       <div class="container">
         <div class="footer-main">
           <div class="footer-brand">
-            <Link href="/" class="logo logo-text logo-text-cream" data-magnetic>
+            <Link href="/" class="logo logo-text logo-text-cream" data-magnetic aria-label="Motiva Hub">
               <span class="logo-word">Motiva <em>Hub</em></span>
-            </a>
+            </Link>
             <p class="footer-tagline" data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
             <div class="footer-social">
               <a href="https://www.instagram.com/motivahub/" aria-label="Instagram" rel="noopener">IG</a>
@@ -186,7 +186,7 @@ const gaSnippet = GA_ID
             </div>
           </div>
           <div class="footer-col">
-            <h4 data-i18n="footerColRead">Read</h4>
+            <h3 data-i18n="footerColRead">Read</h3>
             <ul>
               <li><Link href="/journal/" data-i18n="journal">The Journal</Link></li>
               <li><Link href="/books/" data-i18n="footerBookstand">The Bookstand</Link></li>
@@ -196,7 +196,7 @@ const gaSnippet = GA_ID
             </ul>
           </div>
           <div class="footer-col">
-            <h4 data-i18n="footerColGuides">Guides</h4>
+            <h3 data-i18n="footerColGuides">Guides</h3>
             <ul>
               <li><Link href="/guides/atomic-habits-ultimate-guide/" data-i18n="navAtomicHabits">Atomic Habits</Link></li>
               <li><Link href="/best/books/" data-i18n="footerBestBooks">Best Books 2026</Link></li>
@@ -206,7 +206,7 @@ const gaSnippet = GA_ID
             </ul>
           </div>
           <div class="footer-col">
-            <h4 data-i18n="footerColTools">Tools</h4>
+            <h3 data-i18n="footerColTools">Tools</h3>
             <ul>
               <li><Link href="/tools/discipline-quiz/" data-i18n="footerDisciplineQuiz">Discipline Quiz</Link></li>
               <li><Link href="/tools/habit-stacker/" data-i18n="footerHabitStacker">Habit Stacker</Link></li>
