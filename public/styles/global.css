@@ -114,3 +114,19 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-sep { color:rgb
   .hero-btns { align-items:center }
   .hero-btns .btn { width:100%;max-width:420px;margin-inline:auto }
 }
+
+/* ==========================================================================
+   design/header-hero - Phase 3: page title area on the page background
+   .article-header carried background:var(--cream-deep) (beige #ebe5d6), so
+   pages reusing it without an article image (contact, privacy - EN+FR)
+   showed a mismatched beige rectangle behind the title, and pages WITH an
+   image (about, journal) showed beige strips around it. The label-to-title
+   gap came from `.article-body .container > * + *` (margin-top:2.5em on the
+   h1, ~160px at desktop sizes); it is now aligned with the .page-head
+   rhythm (16px). Spacing stays consistent on every page using the pattern:
+   about, contact, privacy, journal articles (EN+FR); books, podcast,
+   topics, objectives already use .page-head (no background). No text
+   changes.
+   ========================================================================== */
+.article-header{background:transparent}
+.article-body .article-header .container > h1{margin-top:16px}
