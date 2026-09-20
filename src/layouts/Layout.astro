@@ -2,7 +2,7 @@
 import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
 import MegaMenu from "../components/MegaMenu.astro";
 import Link from "../components/Link.astro";
-import { getLangFromUrl, getLocalePath } from "../utils/i18n";
+import { getLangFromUrl, getFrenchSlug, getEnglishSlug } from "../utils/i18n";
 
 interface Props {
   title: string;
@@ -16,10 +16,22 @@ interface Props {
 
 const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema } = Astro.props;
 const currentLocale = getLangFromUrl(Astro.url);
-const pathWithoutLocale = Astro.url.pathname.replace(/^\/(fr|en)/, '') || '/';
 const canonical = Astro.url.href;
-const enUrl = new URL(pathWithoutLocale, Astro.site ?? Astro.url.origin).href;
-const frUrl = new URL(getLocalePath(pathWithoutLocale, 'fr'), Astro.site ?? Astro.url.origin).href;
+// hreflang alternates must point at the real sibling page: map the journal
+// slug both ways (1 of 169 slugs differs, e.g. sleep-is-unfair-advantage <->
+// sommeil-avantage-indefendable) instead of just stripping the /fr prefix,
+// which used to declare 404 alternates for that article in both directions.
+const pathParts = Astro.url.pathname.split("/").filter(Boolean);
+const onFrPath = pathParts[0] === "fr";
+const bodyParts = onFrPath ? pathParts.slice(1) : pathParts;
+const altParts = bodyParts[0] === "journal" && bodyParts[1]
+  ? [bodyParts[0], onFrPath ? getEnglishSlug(bodyParts[1]) : getFrenchSlug(bodyParts[1]), ...bodyParts.slice(2)]
+  : bodyParts;
+const tail = Astro.url.pathname.endsWith("/") ? "/" : "";
+const enTwin = altParts.length === 0 ? "/" : "/" + altParts.join("/") + tail;
+const frTwin = enTwin === "/" ? "/fr/" : "/fr" + enTwin;
+const enUrl = new URL(onFrPath ? enTwin : Astro.url.pathname, Astro.site ?? Astro.url.origin).href;
+const frUrl = new URL(onFrPath ? Astro.url.pathname : frTwin, Astro.site ?? Astro.url.origin).href;
 const ogImage = new URL(image, Astro.site ?? Astro.url.origin).href;
 const isFr = lang === "fr" || (lang !== "ar" && Astro.url.pathname.startsWith("/fr") || Astro.url.searchParams.get("lang") === "fr");
 const htmlLang = lang || (Astro.url.pathname.startsWith("/ar") ? "ar" : Astro.url.pathname.startsWith("/fr") ? "fr" : "en");
@@ -553,6 +565,7 @@ const gaSnippet = GA_ID
             daysStartDay1:"Start Day 1", daysDownloadPdf:"Download PDF", daysGetViaEmail:"Get via Email",
             daysWeek1Kicker:"Week 1 — Foundation", daysBuildBase:"Build the Base",
             pageLabel:"Page", ofLabel:"of", essaysTotal:"essays total",
+            cookieText:"We use cookies to improve your experience and for analytics. By continuing, you agree to our <a href=\"/privacy/\">Privacy Policy</a>.", cookieAccept:"Accept", cookieDecline:"Decline",
           },
           fr: {
             menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", tools:"Outils", author:"L'Auteur", pdf:"30 Jours de Discipline",
@@ -819,22 +832,42 @@ const gaSnippet = GA_ID
             daysStartDay1:"Commencer le Jour 1", daysDownloadPdf:"Télécharger le PDF", daysGetViaEmail:"Obtenir par Email",
             daysWeek1Kicker:"Semaine 1 — Fondations", daysBuildBase:"Construire la Base",
             pageLabel:"Page", ofLabel:"sur", essaysTotal:"essais au total",
+            cookieText:"Nous utilisons des cookies pour améliorer votre expérience et à des fins d'analyse. En continuant, vous acceptez notre <a href=\"/fr/privacy/\">Politique de confidentialité</a>.", cookieAccept:"Accepter", cookieDecline:"Refuser",
           },
         };
         const enCache = new Map();
         const enTextCache = new Map();
         document.querySelectorAll("[data-i18n-html]").forEach(el=>{
           const k = el.getAttribute("data-i18n-html");
-          if(k && !enCache.has(k)) enCache.set(k, el.innerHTML);
+          // FR pages render French server-side; the English original is kept
+          // in data-en-html so the toggle can restore it.
+          if(k && !enCache.has(k)) enCache.set(k, el.getAttribute("data-en-html") || el.innerHTML);
         });
         document.querySelectorAll("[data-i18n]").forEach(el=>{
           const k = el.getAttribute("data-i18n");
-          if(k && !enTextCache.has(k)) enTextCache.set(k, el.textContent);
+          if(k && !enTextCache.has(k)) enTextCache.set(k, el.getAttribute("data-en-text") || el.textContent);
         });
-        async function setLang(lang){
+        // FR article pages render the French body server-side (marked with
+        // [data-ssr-fr]). Capture that French so toggling FR after EN
+        // restores it — with the heading ids — without re-fetching
+        // articles-fr.json or re-swapping from it.
+        const ssrFr = !!document.querySelector("[data-ssr-fr]");
+        const frCache = new Map();
+        const frTextCache = new Map();
+        if(ssrFr){
+          document.querySelectorAll("[data-i18n-html][data-en-html]").forEach(el=>{
+            const k = el.getAttribute("data-i18n-html");
+            if(k && !frCache.has(k)) frCache.set(k, el.innerHTML);
+          });
+          document.querySelectorAll("[data-i18n][data-en-text]").forEach(el=>{
+            const k = el.getAttribute("data-i18n");
+            if(k && !frTextCache.has(k)) frTextCache.set(k, el.textContent);
+          });
+        }
+        async function setLang(lang, initial){
           const baseDict = dict[lang] || dict.en;
           let t = {...baseDict};
-          if(lang === "fr"){
+          if(lang === "fr" && !ssrFr){
             try{
               const res = await fetch("/i18n/articles-fr.json");
               if(res.ok){
@@ -849,6 +882,8 @@ const gaSnippet = GA_ID
             const k = el.getAttribute("data-i18n");
             if(lang === "en" && enTextCache.has(k)){
               el.textContent = enTextCache.get(k);
+            } else if(lang === "fr" && ssrFr && el.hasAttribute("data-en-text")){
+              if(!initial && frTextCache.has(k)) el.textContent = frTextCache.get(k);
             } else if(k && t[k]){
               el.textContent = t[k];
             }
@@ -857,6 +892,8 @@ const gaSnippet = GA_ID
             const k = el.getAttribute("data-i18n-html");
             if(lang === "en" && enCache.has(k)){
               el.innerHTML = enCache.get(k);
+            } else if(lang === "fr" && ssrFr && el.hasAttribute("data-en-html")){
+              if(!initial && frCache.has(k)) el.innerHTML = frCache.get(k);
             } else if(k && t[k]){
               el.innerHTML = t[k];
             }
@@ -877,10 +914,46 @@ const gaSnippet = GA_ID
           const urlLang = path.startsWith('/fr') ? 'fr' : path.startsWith('/ar') ? 'ar' : 'en';
           const saved = localStorage.getItem('lang');
           const initial = (saved === 'fr' || saved === 'ar') && saved !== urlLang ? saved : urlLang;
-          await setLang(initial);
+          await setLang(initial, true);
         }
         initLang();
-        document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", ()=> setLang(b.getAttribute("data-lang")||"en")));
+        // Language buttons navigate to the real twin page (EN <-> /fr/) so the
+        // target language is fully server-rendered — card titles, descriptions
+        // and article bodies included. The slug map is fetched only on click,
+        // and only for journal articles (1 of 169 slugs differs). Pages
+        // without a twin (404s, unknown paths) keep the client-side swap.
+        const FR_SECTIONS = new Set(["30-days-discipline","about","affiliate-disclosure","author","best","bio","books","contact","credits","forgot-password","guides","journal","login","memento-mori","objectives","pdf","privacy","psychology","quotes","register","reset-password","terms","tools","topics","tracker"]);
+        async function twinUrl(lang){
+          const loc = window.location;
+          const onFrPath = loc.pathname === "/fr" || loc.pathname.startsWith("/fr/");
+          const cur = onFrPath ? "fr" : "en";
+          if(cur === lang || (lang !== "en" && lang !== "fr")) return null;
+          let rest = onFrPath ? (loc.pathname.replace(/^\/fr/, "") || "/") : loc.pathname;
+          const first = rest.split("/").filter(Boolean)[0];
+          if(first && !FR_SECTIONS.has(first)) return null;
+          if(/^\/journal\/[^/]+\/?$/.test(rest)){
+            try{
+              const map = await (await fetch("/i18n/slugs-fr.json")).json();
+              const slug = rest.split("/").filter(Boolean)[1];
+              const mapped = lang === "fr" ? (map[slug] || slug) : (Object.keys(map).find((k) => map[k] === slug) || slug);
+              rest = rest.endsWith("/") ? "/journal/" + mapped + "/" : "/journal/" + mapped;
+            }catch(e){ return null; }
+          }
+          const target = lang === "fr" ? ("/fr" + (rest === "/" ? "/" : rest)) : rest;
+          return target + loc.search + loc.hash;
+        }
+        document.querySelectorAll(".lang-btn").forEach(b=> b.addEventListener("click", async ()=>{
+          const lang = b.getAttribute("data-lang")||"en";
+          try{
+            const url = await twinUrl(lang);
+            if(url){
+              try{ localStorage.setItem("lang", lang); }catch(e){}
+              window.location.assign(url);
+              return;
+            }
+          }catch(e){}
+          setLang(lang);
+        }));
         window.setLang = setLang;
         window.i18nDict = dict;
       })();
@@ -910,7 +983,7 @@ const gaSnippet = GA_ID
     </script>
     <div id="cookie-consent" class="cookie-banner" style="display:none;">
       <div class="cookie-inner">
-        <p data-i18n="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <Link href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</Link>.</p>
+        <p data-i18n-html="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <Link href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</Link>.</p>
         <div class="cookie-actions">
           <button class="cookie-btn cookie-accept" onclick="acceptCookies()" data-i18n="cookieAccept">Accept</button>
           <button class="cookie-btn cookie-decline" onclick="declineCookies()" data-i18n="cookieDecline">Decline</button>

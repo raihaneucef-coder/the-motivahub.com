@@ -62,7 +62,7 @@ const posts = (await getCollection("blog"))
   <section class="feed">
     <div class="container">
       <div class="grid">
-        {posts.map((post) => <ArticleCard post={post} />)}
+        {posts.map((post) => <ArticleCard post={post} locale="fr" />)}
       </div>
       {posts.length === 0 && (
         <p style="text-align:center;color:var(--muted);margin-top:40px;" data-i18n="essaysBeingPrepared">
