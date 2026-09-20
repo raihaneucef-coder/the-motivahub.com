@@ -113,14 +113,15 @@ async function main() {
       changefreq: "monthly",
       priority: PRIORITY.article,
       en: `${SITE}/journal/${slug}/`,
-      fr: `${SITE}/fr/journal/${slug}/`,
+      fr: `${SITE}/fr/journal/${frSlugs[slug] ?? slug}/`,
     });
   }
 
-  // FR blog articles
+  // FR blog articles (slugs-fr.json covers every EN slug; same-slug FR
+  // pages are still real URLs and must be listed)
   for (const slug of blogFiles) {
     const frSlug = frSlugs[slug];
-    if (frSlug && frSlug !== slug) {
+    if (frSlug) {
       const lastmod = await getPostLastmod(slug);
       urls.push({
         loc: `${SITE}/fr/journal/${frSlug}/`,
