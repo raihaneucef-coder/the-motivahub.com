@@ -6,8 +6,8 @@ descriptionFr: "La raison pour laquelle la productivité basée sur la volonté 
 pubDate: 2026-09-04
 updatedDate: 2026-09-12
 readTime: "10 MIN"
-image: "/images/blog/discipline-choix-quotidien.jpg"
-imageAlt: "Youssef Raihane - nervous system reset focus concept"
+image: "/images/blog/nervous-system-reset-focus-2.jpg"
+imageAlt: "Woman meditating outdoors with closed eyes - a nervous system reset"
 topic: "Habits"
 keywords:
   - "nervous system reset"

@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Relationships"
 readTime: "5 min read"
-image: "/images/blog/people-who-raise-your-floor.jpg"
-imageAlt: "Youssef Raihane - people who raise your floor concept"
+image: "/images/blog/people-who-raise-your-floor-2.jpg"
+imageAlt: "Hikers helping each other climb a rocky slope - people who raise your floor"
 featured: false
 draft: false
 keywords:

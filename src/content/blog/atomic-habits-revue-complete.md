@@ -6,8 +6,8 @@ descriptionFr: "Une revue détaillée du livre Atomic Habits. Découvrez les 4 l
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "14 MIN"
-image: "/images/blog/atomic-habits-revue.jpg"
-imageAlt: "Youssef Raihane's atomic habits system - four laws of behavior change applied to daily life"
+image: "/images/blog/atomic-habits-revue-complete-2.jpg"
+imageAlt: "Hand placing dominoes in a long row - small habits chain into big results"
 topic: "Habits"
 keywords:
   - "atomic habits complete guide"

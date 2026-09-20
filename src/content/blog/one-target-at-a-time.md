@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
 readTime: "5 min read"
-image: "/images/blog/one-target-at-a-time.jpg"
-imageAlt: "Youssef Raihane - one target at a time concept"
+image: "/images/blog/one-target-at-a-time-2.jpg"
+imageAlt: "Single arrow hitting the archery bullseye - one target at a time"
 featured: false
 draft: false
 keywords:

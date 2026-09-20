@@ -6,8 +6,8 @@ descriptionFr: "J'ai essayé de construire une habitude de lecture quotidienne p
 pubDate: 2026-09-01
 updatedDate: 2026-09-12
 readTime: "10 MIN"
-image: "/images/blog/lire-divertissement.jpg"
-imageAlt: "Youssef Raihane - how to read 30 books a year concept"
+image: "/images/blog/how-to-read-30-books-a-year-2.jpg"
+imageAlt: "Hands holding up a tall stack of hardbound books - how to read thirty books a year"
 topic: "Habits"
 keywords:
   - "how to read more"

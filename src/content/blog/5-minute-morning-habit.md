@@ -6,8 +6,8 @@ descriptionFr: "Commencez votre journée avec une habitude de 5 minutes qui chan
 pubDate: 2026-09-02
 updatedDate: 2026-09-12
 readTime: "8 MIN"
-image: "/images/blog/the-morning-athlete.jpg"
-imageAlt: "Youssef Raihane writing priorities at his desk in Casablanca - 5 minute morning habit"
+image: "/images/blog/5-minute-morning-habit-2.jpg"
+imageAlt: "Blank notebook beside a cup of black coffee on a cozy blanket - the five minute morning habit"
 topic: "Habits"
 keywords:
   - "morning habit"

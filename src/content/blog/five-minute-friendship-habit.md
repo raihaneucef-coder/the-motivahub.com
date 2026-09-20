@@ -7,8 +7,8 @@ pubDate: 2026-08-17
 updatedDate: 2026-09-12
 topic: "Relationships"
 readTime: "4 min read"
-image: "/images/blog/five-minute-friendship-habit.jpg"
-imageAlt: "Youssef Raihane - five minute friendship habit concept"
+image: "/images/blog/five-minute-friendship-habit-2.jpg"
+imageAlt: "Two friends laughing together over hot drinks outside - the five minute friendship habit"
 featured: false
 draft: false
 keywords:
