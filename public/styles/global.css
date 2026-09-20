@@ -130,3 +130,34 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-sep { color:rgb
    ========================================================================== */
 .article-header{background:transparent}
 .article-body .article-header .container > h1{margin-top:16px}
+
+/* ==========================================================================
+   design/desktop-layout — desktop layout fixes (append-only).
+   Root cause: a malformed brace sequence earlier in this file makes the
+   browser DROP the original top-level `.page-head` rule (padding +
+   text-align:center). Child rules (.page-head .kicker/h1/p) survived, so
+   mobile renders centered while desktop fell back to left-aligned headers
+   and default section padding. End-of-file rules parse reliably (verified
+   via CSSOM) and restore the intended desktop rendering. Layout rules are
+   scoped to >=769px so mobile rendering is untouched.
+   ========================================================================== */
+@media (min-width: 769px) {
+  /* 1. Centered page header: label above, title + subtitle centered */
+  .page-head{text-align:center;padding:clamp(48px,8vh,80px) 0 clamp(32px,5vh,56px)}
+  /* 2. Header -> first content block gap: was ~196px, now <= ~96px */
+  .feed{padding-top:clamp(24px,4vh,40px)}
+  .goals-section{padding-top:clamp(24px,4vh,40px)}
+  /* 3. Episode cards: pin the last CTA to the card bottom (aligned rows) */
+  .podcast-card .book-body .read-more:last-child{margin-top:auto}
+  /* 7. Centered title block on article-style headers; body text stays left */
+  .article-header,
+  .article-header .container{text-align:center}
+  .legal .container > h1{text-align:center}
+  .legal .container > p:first-of-type{text-align:center}
+}
+/* 4. Fixed header fully opaque once scrolled so page text never shows
+   through it (visual-only change, no layout impact at any viewport) */
+.site-header.scrolled{background:var(--cream)}
+/* 6. Tagline line under the page subtitle (books / tools / podcast) */
+.page-head .page-head-tagline,
+.page-head-tagline{display:block;font-family:var(--sans);font-size:0.95rem;font-weight:500;color:var(--or-deep);margin:16px auto 0;max-width:60ch;line-height:1.5}
