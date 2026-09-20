@@ -553,6 +553,7 @@ const gaSnippet = GA_ID
             daysStartDay1:"Start Day 1", daysDownloadPdf:"Download PDF", daysGetViaEmail:"Get via Email",
             daysWeek1Kicker:"Week 1 — Foundation", daysBuildBase:"Build the Base",
             pageLabel:"Page", ofLabel:"of", essaysTotal:"essays total",
+            cookieText:"We use cookies to improve your experience and for analytics. By continuing, you agree to our <a href=\"/privacy/\">Privacy Policy</a>.", cookieAccept:"Accept", cookieDecline:"Decline",
           },
           fr: {
             menu:"Menu", close:"Fermer", home:"Accueil", about:"À propos", topics:"Thèmes", journal:"Journal", books:"Livres", quotes:"Citations", podcast:"Podcast", contact:"Contact", tools:"Outils", author:"L'Auteur", pdf:"30 Jours de Discipline",
@@ -819,6 +820,7 @@ const gaSnippet = GA_ID
             daysStartDay1:"Commencer le Jour 1", daysDownloadPdf:"Télécharger le PDF", daysGetViaEmail:"Obtenir par Email",
             daysWeek1Kicker:"Semaine 1 — Fondations", daysBuildBase:"Construire la Base",
             pageLabel:"Page", ofLabel:"sur", essaysTotal:"essais au total",
+            cookieText:"Nous utilisons des cookies pour améliorer votre expérience et à des fins d'analyse. En continuant, vous acceptez notre <a href=\"/fr/privacy/\">Politique de confidentialité</a>.", cookieAccept:"Accepter", cookieDecline:"Refuser",
           },
         };
         const enCache = new Map();
@@ -933,7 +935,7 @@ const gaSnippet = GA_ID
     </script>
     <div id="cookie-consent" class="cookie-banner" style="display:none;">
       <div class="cookie-inner">
-        <p data-i18n="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <Link href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</Link>.</p>
+        <p data-i18n-html="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <Link href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</Link>.</p>
         <div class="cookie-actions">
           <button class="cookie-btn cookie-accept" onclick="acceptCookies()" data-i18n="cookieAccept">Accept</button>
           <button class="cookie-btn cookie-decline" onclick="declineCookies()" data-i18n="cookieDecline">Decline</button>
