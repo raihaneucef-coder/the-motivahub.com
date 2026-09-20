@@ -244,7 +244,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
   </article>
 
   <RelatedArticles>
-    {relatedPosts.map((p) => <ArticleCard post={p} />)}
+    {relatedPosts.map((p) => <ArticleCard post={p} locale="fr" />)}
   </RelatedArticles>
   <NewsletterSection />
 </Layout>
