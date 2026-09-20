@@ -46,6 +46,57 @@ const frArticles = (G.__motivaFrArticles ??= JSON.parse(
   readFileSync(join(process.cwd(), "public", "i18n", "articles-fr.json"), "utf-8")
 ));
 
+// GitHub-style slugger with per-page dedup, shared by heading ids and the TOC
+// so every TOC link always matches an id on the same page.
+const usedSlugs = new Map<string, number>();
+function frSlugify(text: string): string {
+  let base = text
+    .replace(/&[a-z]+;/g, "")
+    .replace(/<[^>]*>/g, "")
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}\s-]/gu, "")
+    .trim()
+    .replace(/\s+/g, "-");
+  if (!base) base = "section";
+  const n = usedSlugs.get(base) ?? 0;
+  usedSlugs.set(base, n + 1);
+  return n === 0 ? base : `${base}-${n}`;
+}
+
+// Assign ids to the French h2/h3 and collect the TOC entries from the same
+// pass (Astro's render().headings cannot see headings inside raw-HTML blocks,
+// so the TOC never rendered before).
+const frHeadings: { depth: number; slug: string; text: string }[] = [];
+function injectFrIds(html: string): string {
+  return html.replace(
+    /<h([23])>([\s\S]*?)<\/h\1>/g,
+    (_m: string, lvl: string, inner: string) => {
+      const text = inner.replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim();
+      const slug = frSlugify(text);
+      frHeadings.push({ depth: Number(lvl), slug, text });
+      return `<h${lvl} id="${slug}">${inner}</h${lvl}>`;
+    }
+  );
+}
+
+// Give the English original the SAME ids (by heading order) so the EN toggle
+// keeps the TOC anchors working. The result is escaped for safe storage in
+// the data-en-html attribute — the id pass used to run over the attribute
+// content as well, injecting raw quotes that broke the markup and leaked
+// every English heading as visible text above its French twin.
+function injectEnIds(html: string, slugs: string[]): string {
+  let i = 0;
+  return html.replace(
+    /<h([23])>([\s\S]*?)<\/h\1>/g,
+    (_m: string, lvl: string, inner: string) => {
+      const text = inner.replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim();
+      const slug = slugs[i] ?? frSlugify(text);
+      i++;
+      return `<h${lvl} id="${slug}">${inner}</h${lvl}>`;
+    }
+  );
+}
+
 // Replace each <div data-i18n-html="article_slug_pN">…</div> inner HTML with the French
 // value at build time. Uses a balanced-tag scan (not naive regex) because 11 divs contain
 // nested <div> blocks. Falls back to the English inner HTML when a key is missing.
@@ -73,38 +124,23 @@ function frSwapDivs(src: string): string {
     if (endIdx === -1) break; // malformed markup: keep the rest verbatim
     const inner = src.slice(innerStart, endIdx);
     const fr = frArticles[m[1]];
-    // Keep the English original in an attribute so the client-side EN/FR
-    // toggle can restore it (the DOM now starts in French).
-    const enEsc = inner.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+    // French body with heading ids; the English original keeps the same ids
+    // and is stored escaped in data-en-html for the client-side EN/FR
+    // toggle (the DOM now starts in French).
+    const frHtml = injectFrIds(fr != null ? fr : inner);
+    const enSlugs = Array.from(frHtml.matchAll(/<h[23] id="([^"]+)">/g), (s) => s[1]);
+    const enEsc = injectEnIds(inner, enSlugs).replace(/&/g, "&amp;").replace(/"/g, "&quot;");
     const openTag = `<div data-i18n-html="${m[1]}" data-en-html="${enEsc}">`;
-    pieces.push(src.slice(cursor, m.index), openTag, fr != null ? fr : inner, "</div>");
+    pieces.push(src.slice(cursor, m.index), openTag, frHtml, "</div>");
     cursor = endIdx + "</div>".length;
   }
   pieces.push(src.slice(cursor));
   return pieces.join("");
 }
 
-// GitHub-style slugger with per-page dedup, shared by heading ids and the TOC
-// so every TOC link always matches an id on the same page.
-const usedSlugs = new Map<string, number>();
-function frSlugify(text: string): string {
-  let base = text
-    .replace(/&[a-z]+;/g, "")
-    .replace(/<[^>]*>/g, "")
-    .toLowerCase()
-    .replace(/[^\p{L}\p{N}\s-]/gu, "")
-    .trim()
-    .replace(/\s+/g, "-");
-  if (!base) base = "section";
-  const n = usedSlugs.get(base) ?? 0;
-  usedSlugs.set(base, n + 1);
-  return n === 0 ? base : `${base}-${n}`;
-}
-
-// Render the French body server-side and assign ids to h2/h3 while collecting
-// the TOC entries from the same pass (Astro's render().headings cannot see
-// headings inside raw-HTML blocks, so the TOC never rendered before).
-const frHeadings: { depth: number; slug: string; text: string }[] = [];
+// Render the French body server-side; the final pass is a safety net that
+// only reaches h2/h3 living outside the i18n divs (everything inside them
+// already carries ids and the escaped attribute content no longer matches).
 const proseHtml = frSwapDivs(post.body).replace(
   /<h([23])>([\s\S]*?)<\/h\1>/g,
   (_m: string, lvl: string, inner: string) => {
