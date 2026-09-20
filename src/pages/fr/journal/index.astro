@@ -8,11 +8,9 @@ import { getFrenchSlug } from "../../../utils/i18n";
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const featured = posts.find((p) => p.data.featured) || posts[0];
-const rest = posts.filter((p) => p.id !== featured.id);
 ---
 
-<Layout title="Le Journal — Motiva Hub" description="Essais sur la longue ascension. État d'esprit, habitudes, discipline, productivité, travail profond — articles pour l'esprit discipliné.">
+<Layout title="Le Journal — Motiva Hub" description="Des essais pratiques sur le mindset, les habitudes, la discipline et le travail profond. Lis-en un. Applique une habitude aujourd'hui. Recommence.">
   <link rel="canonical" href="https://the-motivahub.com/fr/journal/" />
   <link rel="next" href="/fr/journal/page/2/" />
   <script type="application/ld+json" set:html={JSON.stringify({
@@ -39,21 +37,14 @@ const rest = posts.filter((p) => p.id !== featured.id);
 
   <section class="feed">
     <div class="container">
-      <article class="featured-card">
-        <a href={`/fr/journal/${getFrenchSlug(featured.id)}/`} class="card-img-link">
-          <img class="card-img" src={featured.data.image} alt={featured.data.titleFr || featured.data.title} loading="lazy" />
-        </a>
-        <div class="card-pad">
-          <p class="card-meta"><span data-i18n="featuredLabel">En vedette</span> · <span data-i18n={`topic-${featured.data.topic.toLowerCase()}`}>{featured.data.topic.toUpperCase()}</span> · {featured.data.readTime}</p>
-           <h2><a href={`/fr/journal/${getFrenchSlug(featured.id)}/`}>{featured.data.titleFr || featured.data.title}</a></h2>
-          <p>{featured.data.descriptionFr || featured.data.description}</p>
-          <p class="card-date">{featured.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-          <a class="read-more" href={`/fr/journal/${getFrenchSlug(featured.id)}/`} data-i18n="readEssay">Lire l'essai</a>
-        </div>
-      </article>
+      <div class="journal-hero">
+        <p class="journal-hero-lead">La motivation est une étincelle. La discipline est le feu.</p>
+        <p class="journal-hero-sub">Le Journal Motiva Hub : des essais pratiques sur le mindset, les habitudes, la discipline et le travail profond.</p>
+        <p class="journal-hero-cta">Lis-en un. Applique une habitude aujourd'hui. Recommence.</p>
+      </div>
 
       <div class="grid" id="journal-grid">
-        {rest.slice(0, 11).map((post) => (
+        {posts.slice(0, 12).map((post) => (
           <ArticleCard post={post} locale="fr" />
         ))}
       </div>
@@ -64,4 +55,11 @@ const rest = posts.filter((p) => p.id !== featured.id);
       </nav>
     </div>
   </section>
+<style>
+  /* Journal hero: 3 centered lines (no images, static content, no CLS) */
+  .journal-hero{max-width:780px;margin:4px auto 40px;text-align:center;}
+  .journal-hero-lead{font-family:var(--serif, Georgia, serif);font-size:clamp(1.35rem, 3vw, 1.7rem);line-height:1.35;color:var(--ink, #0a0a0a);margin:0 0 12px;}
+  .journal-hero-sub{font-family:var(--sans, system-ui, sans-serif);font-size:1rem;line-height:1.65;color:var(--muted, #555);margin:0 auto;max-width:640px;}
+  .journal-hero-cta{font-family:var(--sans, system-ui, sans-serif);font-size:0.95rem;color:var(--gold, #c8a04a);letter-spacing:0.3px;margin:14px 0 0;}
+</style>
 </Layout>
