@@ -1,64 +1,138 @@
 {
   "redirects": [
-    { "source": "/blog/:path*", "destination": "/journal/:path*", "permanent": true },
-    { "source": "/blog", "destination": "/journal", "permanent": true },
-    { "source": "/goals", "destination": "/objectives", "permanent": true },
-    { "source": "/sitemap.xml", "destination": "/sitemap-0.xml", "permanent": true },
-    { "source": "/sitemap-index.xml", "destination": "/sitemap-0.xml", "permanent": true }
+    {
+      "source": "/blog/:path*",
+      "destination": "/journal/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "/journal",
+      "permanent": true
+    },
+    {
+      "source": "/goals",
+      "destination": "/objectives",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap-0.xml",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap-index.xml",
+      "destination": "/sitemap-0.xml",
+      "permanent": true
+    }
   ],
   "headers": [
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30"
+        }
       ]
     },
     {
       "source": "/(en|fr)/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30"
+        }
       ]
     },
     {
       "source": "/(en|fr)/journal/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30"
+        }
       ]
     },
     {
       "source": "/(en|fr)/journal/page/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30"
+        }
       ]
     },
     {
       "source": "/(en|fr)/topics/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, s-maxage=60, stale-while-revalidate=30"
+        }
       ]
     },
     {
       "source": "/images/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/styles/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/_astro/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/i18n/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/img/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/pdf/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=2592000, stale-while-revalidate=86400"
+        }
+      ]
+    },
+    {
+      "source": "/(favicon.ico|favicon-16x16.png|favicon-32x32.png|apple-touch-icon.png|android-chrome-192x192.png|android-chrome-512x512.png|logo.png|logo.jpg|site.webmanifest)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=604800, stale-while-revalidate=86400"
+        }
       ]
     }
   ]
