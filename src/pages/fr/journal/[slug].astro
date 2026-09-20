@@ -73,7 +73,11 @@ function frSwapDivs(src: string): string {
     if (endIdx === -1) break; // malformed markup: keep the rest verbatim
     const inner = src.slice(innerStart, endIdx);
     const fr = frArticles[m[1]];
-    pieces.push(src.slice(cursor, m.index), m[0], fr != null ? fr : inner, "</div>");
+    // Keep the English original in an attribute so the client-side EN/FR
+    // toggle can restore it (the DOM now starts in French).
+    const enEsc = inner.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+    const openTag = `<div data-i18n-html="${m[1]}" data-en-html="${enEsc}">`;
+    pieces.push(src.slice(cursor, m.index), openTag, fr != null ? fr : inner, "</div>");
     cursor = endIdx + "</div>".length;
   }
   pieces.push(src.slice(cursor));
@@ -215,7 +219,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
     <header class="article-header">
       <div class="container">
         <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
-        <h1 data-i18n={`article_${post.id}_title`}>{displayTitle}</h1>
+        <h1 data-i18n={`article_${post.id}_title`} data-en-text={post.data.title}>{displayTitle}</h1>
         <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
         <img class="article-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} />
       </div>
