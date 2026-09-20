@@ -11,7 +11,9 @@ import AffiliateBanner from "../../../components/AffiliateBanner.astro";
 import BookCTA from "../../../components/BookCTA.astro";
 import AuthorBio from "../../../components/AuthorBio.astro";
 import TableOfContents from "../../../components/TableOfContents.astro";
-import { getCollection, render } from "astro:content";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+import { getCollection } from "astro:content";
 import { getLangFromUrl, getPathWithoutLocale, getFrenchSlug, getEnglishSlug } from "../../../utils/i18n";
 import frSlugs from "../../../i18n/slugs-fr.json";
 
@@ -37,7 +39,78 @@ export async function getStaticPaths() {
 
 const { post, locale } = Astro.props;
 const currentLocale = locale || getLangFromUrl(Astro.url);
-const { Content, headings } = await render(post);
+
+// FR translations for article bodies (public/i18n/articles-fr.json), parsed once per build.
+const G = globalThis as { __motivaFrArticles?: Record<string, string> };
+const frArticles = (G.__motivaFrArticles ??= JSON.parse(
+  readFileSync(join(process.cwd(), "public", "i18n", "articles-fr.json"), "utf-8")
+));
+
+// Replace each <div data-i18n-html="article_slug_pN">…</div> inner HTML with the French
+// value at build time. Uses a balanced-tag scan (not naive regex) because 11 divs contain
+// nested <div> blocks. Falls back to the English inner HTML when a key is missing.
+function frSwapDivs(src: string): string {
+  const pieces: string[] = [];
+  let cursor = 0;
+  for (const m of src.matchAll(/<div data-i18n-html="(article_[^"]+)">/g)) {
+    const innerStart = m.index + m[0].length;
+    const scan = /<div\b|<\/div>/g;
+    scan.lastIndex = innerStart;
+    let depth = 1;
+    let endIdx = -1;
+    let s: RegExpExecArray | null;
+    while ((s = scan.exec(src)) !== null) {
+      if (s[0] === "</div>") {
+        depth--;
+        if (depth === 0) {
+          endIdx = s.index;
+          break;
+        }
+      } else {
+        depth++;
+      }
+    }
+    if (endIdx === -1) break; // malformed markup: keep the rest verbatim
+    const inner = src.slice(innerStart, endIdx);
+    const fr = frArticles[m[1]];
+    pieces.push(src.slice(cursor, m.index), m[0], fr != null ? fr : inner, "</div>");
+    cursor = endIdx + "</div>".length;
+  }
+  pieces.push(src.slice(cursor));
+  return pieces.join("");
+}
+
+// GitHub-style slugger with per-page dedup, shared by heading ids and the TOC
+// so every TOC link always matches an id on the same page.
+const usedSlugs = new Map<string, number>();
+function frSlugify(text: string): string {
+  let base = text
+    .replace(/&[a-z]+;/g, "")
+    .replace(/<[^>]*>/g, "")
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}\s-]/gu, "")
+    .trim()
+    .replace(/\s+/g, "-");
+  if (!base) base = "section";
+  const n = usedSlugs.get(base) ?? 0;
+  usedSlugs.set(base, n + 1);
+  return n === 0 ? base : `${base}-${n}`;
+}
+
+// Render the French body server-side and assign ids to h2/h3 while collecting
+// the TOC entries from the same pass (Astro's render().headings cannot see
+// headings inside raw-HTML blocks, so the TOC never rendered before).
+const frHeadings: { depth: number; slug: string; text: string }[] = [];
+const proseHtml = frSwapDivs(post.body).replace(
+  /<h([23])>([\s\S]*?)<\/h\1>/g,
+  (_m: string, lvl: string, inner: string) => {
+    const text = inner.replace(/<[^>]*>/g, "").replace(/\s+/g, " ").trim();
+    const slug = frSlugify(text);
+    frHeadings.push({ depth: Number(lvl), slug, text });
+    return `<h${lvl} id="${slug}">${inner}</h${lvl}>`;
+  }
+);
+
 const all = (await getCollection("blog")).filter((p) => !p.data.draft).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const enSlug = getEnglishSlug(post.id);
@@ -150,10 +223,8 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
 
     <div class="article-body container">
       {isReviewPost && <AffiliateBanner variant="callout" lang={postLang} />}
-      <TableOfContents headings={headings} />
-      <div class="prose">
-        <Content />
-      </div>
+      <TableOfContents headings={frHeadings} />
+      <div class="prose" set:html={proseHtml} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} />
