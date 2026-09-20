@@ -88,3 +88,29 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn { color:rgb
 body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn:hover { color:#1A1208 }
 body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { color:#1A1208 }
 body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-sep { color:rgba(26,18,8,0.40) }
+
+/* ==========================================================================
+   design/header-hero - Phase 2: home hero readability + typography
+   Static scrim over the hero image (was z-index:-1, hidden BEHIND the image;
+   the image's own brightness filter was the only darkening). The scrim sits
+   between the image (z:1) and the content (z:4) / corner label (z:5), so
+   "Frame 01 / 12" and the scroll parallax (image transform) are untouched.
+   Pure CSS: no new JS, no backdrop-filter, no layout shift.
+   ========================================================================== */
+.hero-portrait-overlay{position:absolute;inset:0;z-index:2;background:linear-gradient(to bottom,rgba(10,6,3,0.45),rgba(10,6,3,0.68));pointer-events:none}
+
+/* Typography (scoped to the hero; fonts unchanged) */
+.hero-portrait .hero-title{font-size:clamp(2.75rem,7vw,5.5rem);color:#FFFFFF;text-shadow:0 2px 24px rgba(0,0,0,0.35)}
+.hero-portrait .hero-title em{color:#F6D27F;font-style:italic;background:none;-webkit-background-clip:initial;background-clip:initial;-webkit-text-fill-color:#F6D27F;text-shadow:0 2px 24px rgba(0,0,0,0.35);filter:none}
+.hero-portrait .hero-subtitle{font-style:normal;font-size:clamp(1.1rem,2.2vw,1.4rem);color:#F3EBDD;max-width:42ch;text-shadow:0 2px 24px rgba(0,0,0,0.35)}
+
+/* Buttons in the hero */
+.hero-portrait .btn-primary{background:#F0CB6B;color:#1A1208}
+.hero-portrait .btn-primary:hover{background:#F6D27F;color:#1A1208}
+.hero-portrait .btn-ghost{background:rgba(0,0,0,0.35);border-color:rgba(255,255,255,0.75)}
+
+/* Mobile 390: full-width buttons capped at 420px, stats stay 2 columns */
+@media (max-width: 768px) {
+  .hero-btns { align-items:center }
+  .hero-btns .btn { width:100%;max-width:420px;margin-inline:auto }
+}
