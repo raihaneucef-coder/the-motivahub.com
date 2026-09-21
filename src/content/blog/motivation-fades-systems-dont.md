@@ -41,12 +41,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_motivation-fades-systems-dont_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_motivation-fades-systems-dont_p2"><strong>Motivation Fades. Systems Don't.</strong> — practical guide based on real experiments. Motivation Fades. Systems Don't. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_motivation-fades-systems-dont_p3"><h1>Motivation Fades. Systems Don't.</h1>
-Motivation is a mood. It arrives uninvited, usually on a good night's sleep and a clear calendar, and it leaves the same way — without warning, halfway through a Tuesday. If your progress depends on it showing up, your progress depends on the weather.</div>
+<div data-i18n-html="article_motivation-fades-systems-dont_p3">Motivation is a mood. It arrives uninvited, usually on a good night's sleep and a clear calendar, and it leaves the same way — without warning, halfway through a Tuesday. If your progress depends on it showing up, your progress depends on the weather.</div>
+
+<div data-i18n-html="article_motivation-fades-systems-dont_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_motivation-fades-systems-dont_p4">This is not a character flaw. It is how the feeling was designed to work. Motivation is a spark, not a fuel supply. It is meant to get you moving, not to keep you moving for the next ninety days. The people who look "disciplined" from the outside are rarely running on more motivation than you. They are running on less dependence on it.</div>
 

@@ -40,13 +40,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_athlete-discipline_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_athlete-discipline_p2"><strong>Athlete discipline is the ability to do the boring, repetitive work every day, even when no one is watching.</strong> It is not about talent. It is about showing up when motivation is low and the results are not visible. Champions are not made in the moment of victory. They are made in the thousands of hours of preparation that no one sees.</div>
 
-<div data-i18n-html="article_athlete-discipline_p3"><h1>The Athlete's Discipline — What Sport Teaches About the Long Game</h1></div>
-
 <div data-i18n-html="article_athlete-discipline_p4">The most memorable sport moments are not highlights. They are 5 AM runs in the rain. The athlete alone, doing the work no camera wants to film. That is why they resonate — not because it is spectacular, but because it is honest.</div>
+
+<div data-i18n-html="article_athlete-discipline_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_athlete-discipline_p5">I learned this in 2022, when I started training for a half marathon.</div>
 

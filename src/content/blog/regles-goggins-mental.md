@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_regles-goggins-mental_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_regles-goggins-mental_p2"><strong>David Goggins' 5 Rules for an Unbreakable Mind</strong> — practical guide based on real experiments. David Goggins' 5 Rules for an Unbreakable Mind works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_regles-goggins-mental_p3"><h1>David Goggins' 5 Rules for an Unbreakable Mind</h1>
-David Goggins was 300 pounds, working a low-paying job, and living a life that did not reflect his potential. Four years later, he was a Navy SEAL, an ultramarathon runner, and one of the toughest humans alive.</div>
+<div data-i18n-html="article_regles-goggins-mental_p3">David Goggins was 300 pounds, working a low-paying job, and living a life that did not reflect his potential. Four years later, he was a Navy SEAL, an ultramarathon runner, and one of the toughest humans alive.</div>
+
+<div data-i18n-html="article_regles-goggins-mental_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regles-goggins-mental_p4">His transformation was not powered by motivation. It was powered by five cold rules.</div>
 

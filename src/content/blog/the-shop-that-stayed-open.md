@@ -42,12 +42,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_the-shop-that-stayed-open_p1"><h1>The Shop That Stayed Open: Why Endurance Beats Pivoting</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_the-shop-that-stayed-open_p2"><strong>Endurance is a competitive advantage.</strong> When everyone else pivoted, he stayed. For 32 years, the doors opened at 7 a.m. The lesson: consistency compounds. The shop owner did not need to be the best. He needed to be the one who showed up every day. In careers, in habits, in relationships — the person who stays eventually wins, not because they are the most talented, but because they are the most reliable.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p3">The street went quiet. One by one, the shops closed — rent too high, customers too few.</div>
+
+<div data-i18n-html="article_the-shop-that-stayed-open_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p4">He kept his small bookstore open. He could not afford to, which is why it mattered.</div>
 

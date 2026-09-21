@@ -41,12 +41,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_solo-travel-stronger-self_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_solo-travel-stronger-self_p2"><strong>Solo Travel, Stronger Self</strong> — practical guide based on real experiments. Solo Travel, Stronger Self works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_solo-travel-stronger-self_p3"><h1>Solo Travel, Stronger Self</h1>
-Travel with others and you learn about the place. Travel alone and you learn about yourself.</div>
+<div data-i18n-html="article_solo-travel-stronger-self_p3">Travel with others and you learn about the place. Travel alone and you learn about yourself.</div>
+
+<div data-i18n-html="article_solo-travel-stronger-self_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p4">When you are alone, you make every decision. Where to eat, when to sleep, whether to take the long way or the short one. No one to ask, no one to blame. It is uncomfortable and it is clarifying.</div>
 

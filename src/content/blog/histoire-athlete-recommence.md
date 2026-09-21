@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_histoire-athlete-recommence_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_histoire-athlete-recommence_p2"><strong>The Athlete Who Lost Everything and Started Over</strong> — practical guide based on real experiments. The Athlete Who Lost Everything and Started Over works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_histoire-athlete-recommence_p3"><h1>The Athlete Who Lost Everything and Started Over</h1>
-She was at the top of her sport. Gold medals, sponsorships, magazine covers. Then the injury hit. Surgery after surgery. The medals stopped. The sponsors left. The magazines moved on.</div>
+<div data-i18n-html="article_histoire-athlete-recommence_p3">She was at the top of her sport. Gold medals, sponsorships, magazine covers. Then the injury hit. Surgery after surgery. The medals stopped. The sponsors left. The magazines moved on.</div>
+
+<div data-i18n-html="article_histoire-athlete-recommence_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_histoire-athlete-recommence_p4">At 28, she had nothing. She moved back in with her parents. She worked at a coffee shop. She felt like her life was over.</div>
 

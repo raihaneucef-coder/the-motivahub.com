@@ -40,13 +40,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_calm-is-a-superpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_calm-is-a-superpower_p2"><strong>Calm Is a Superpower: How Composure Quietly Outperforms Talent</strong> — practical guide based on real experiments. Calm Is a Superpower: How Composure Quietly Outperforms Talent works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p3"><h1>Calm Is a Superpower: How Composure Quietly Outperforms Talent</h1></div>
-
 <div data-i18n-html="article_calm-is-a-superpower_p4">The room quiets when calm walks in. In a world of noise, the ability to stay centered is the rarest skill.</div>
+
+<div data-i18n-html="article_calm-is-a-superpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_calm-is-a-superpower_p5">I learned this in 2023, during a client meeting that was going badly. The client was angry. He was yelling. He was threatening to leave. My instinct was to defend, to argue, to match his energy.</div>
 

@@ -41,12 +41,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_paycheck-trap_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_paycheck-trap_p2"><strong>The Paycheck Trap: Why Earning More Isn't Enough</strong> — practical guide based on real experiments. The Paycheck Trap: Why Earning More Isn't Enough works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_paycheck-trap_p3"><h1>The Paycheck Trap: Why Earning More Isn't Enough</h1>
-Every raise comes with a silent partner: lifestyle inflation.</div>
+<div data-i18n-html="article_paycheck-trap_p3">Every raise comes with a silent partner: lifestyle inflation.</div>
+
+<div data-i18n-html="article_paycheck-trap_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_paycheck-trap_p4">You earn more, so you spend a little more to feel it — a better apartment, a newer phone, dinners that used to be for birthdays. Six months later the raise has disappeared, but the new baseline stayed.</div>
 

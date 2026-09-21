@@ -42,12 +42,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_two-friends-one-promise_p1"><h1>Two Friends, One Promise: Why Community Is Kept, Not Found</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_two-friends-one-promise_p2"><strong>Accountability to a friend is 2-3x more effective than self-discipline alone.</strong> The social commitment creates a different kind of pressure — not shame, but mutual respect. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel something stronger. That difference is what keeps the habit alive on the days motivation fails.</div>
 
 <div data-i18n-html="article_two-friends-one-promise_p3">They promised to walk every day for a year. No matter the weather, no matter the mood.</div>
+
+<div data-i18n-html="article_two-friends-one-promise_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_two-friends-one-promise_p4">Day 4, it rained. They walked in the rain.</div>
 

@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_discipline-beat-motivation_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_discipline-beat-motivation_p2"><strong>Discipline Beats Motivation — Every Single Time</strong> — practical guide based on real experiments. Discipline Beats Motivation — Every Single Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p3"><h1>Discipline Beats Motivation — Every Single Time</h1>
-Motivation feels amazing. When you are motivated, you can conquer the world. The problem is that motivation disappears — usually within 48 hours of getting inspired.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p3">Motivation feels amazing. When you are motivated, you can conquer the world. The problem is that motivation disappears — usually within 48 hours of getting inspired.</div>
+
+<div data-i18n-html="article_discipline-beat-motivation_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p4">Discipline does not care how you feel. It shows up anyway. And that is why discipline always beats motivation.</div>
 

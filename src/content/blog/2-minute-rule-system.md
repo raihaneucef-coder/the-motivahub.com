@@ -49,13 +49,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_2-minute-rule-system_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_2-minute-rule-system_p2"><strong>The 2-Minute Rule: A Complete System, Not Just a Trick</strong> — practical guide based on real experiments. The 2-Minute Rule: A Complete System, Not Just a Trick works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_2-minute-rule-system_p3"><h1>The 2-Minute Rule: A Complete System, Not Just a Trick</h1></div>
-
 <div data-i18n-html="article_2-minute-rule-system_p4"><strong>The 2-minute rule</strong>, from James Clear's Atomic Habits, says: when you start a new habit, it should take less than two minutes to do. Read for two minutes. Meditate for two minutes. Do ten pushups. The goal is not the two minutes. The goal is to make the start so easy you cannot say no. The actual behavior grows from the doorway. Most people stop at the doorway. The system continues past it.</div>
+
+<div data-i18n-html="article_2-minute-rule-system_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_2-minute-rule-system_p5">I first tried the 2-minute rule in January 2024. I was writing my first book, and the blank page was paralyzing me. Every morning I sat down to write, I would open the document, stare at the cursor, and close it after 10 minutes of nothing. Three days in a row. I was not stuck on ideas. I was stuck on starting.</div>
 

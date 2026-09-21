@@ -45,16 +45,15 @@ relatedArticles:
   - "fuel-before-willpower"
 ---
 
-<div data-i18n-html="article_the-morning-athlete_p1"><h1>The Morning Athlete: Why 5 AM Still Wins (And How to Actually Do It)</h1>
-<blockquote><strong>Medical Disclaimer</strong>: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.</blockquote></div>
-
-<div data-i18n-html="article_the-morning-athlete_p2"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_the-morning-athlete_p1"><blockquote><strong>Medical Disclaimer</strong>: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.</blockquote></div>
 
 <div data-i18n-html="article_the-morning-athlete_p3"><strong>Research suggests 5 AM is the most consistent time for workouts.</strong> People who work out at 5 AM stick with it 2-3x longer than afternoon exercisers. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings or family obligations. They're protected by time itself. If you're not a morning person, the principle still applies: pick a time that's protected from interruptions.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p4">I started training at 5 AM when I was 22. I'm 34 now. Twelve years of 5 AM alarms. Some worked. Most didn't. The pattern is clearer now than it was in my 20s.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p5">The "morning athlete" idea is simple: wake up before the world needs you, move before you negotiate. But the reality is messier. Sleep debt. Work stress. Family obligations. Injuries. The body that won't cooperate. The motivation that vanishes.</div>
+
+<div data-i18n-html="article_the-morning-athlete_p2"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-morning-athlete_p6">After 12 years of trying, here's what I've learned about the morning athlete principle, and why 5 AM still beats every other option for most people — even if 5 AM isn't literally the right hour for you.</div>
 

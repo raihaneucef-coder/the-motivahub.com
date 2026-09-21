@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_inconfort-volontaire_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_inconfort-volontaire_p2"><strong>Voluntary Discomfort: The Secret to Mental Toughness</strong> — practical guide based on real experiments. Voluntary Discomfort: The Secret to Mental Toughness works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_inconfort-volontaire_p3"><h1>Voluntary Discomfort: The Secret to Mental Toughness</h1>
-You do not become tough by accident. You become tough by <strong>choosing</strong> things that are hard — not because you have to, but because you want to.</div>
+<div data-i18n-html="article_inconfort-volontaire_p3">You do not become tough by accident. You become tough by <strong>choosing</strong> things that are hard — not because you have to, but because you want to.</div>
+
+<div data-i18n-html="article_inconfort-volontaire_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_inconfort-volontaire_p4">Voluntary discomfort is the fastest path to mental toughness. And it is available to anyone, anytime, for free.</div>
 

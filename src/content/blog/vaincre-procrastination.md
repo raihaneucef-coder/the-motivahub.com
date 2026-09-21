@@ -40,12 +40,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_vaincre-procrastination_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_vaincre-procrastination_p2"><strong>How to Stop Procrastinating — The Real Science Behind Procrastination</strong> — practical guide based on real experiments. How to Stop Procrastinating — The Real Science Behind Procrastination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p3"><h1>How to Stop Procrastinating — The Real Science Behind Procrastination</h1>
-Tu procrastines pas parce que tu es paresseux. Tu procrastines parce que ton cerveau <strong>évite la douleur</strong> — et la tâche que tu repousses génère de l'inconfort.</div>
+<div data-i18n-html="article_vaincre-procrastination_p3">Tu procrastines pas parce que tu es paresseux. Tu procrastines parce que ton cerveau <strong>évite la douleur</strong> — et la tâche que tu repousses génère de l'inconfort.</div>
+
+<div data-i18n-html="article_vaincre-procrastination_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_vaincre-procrastination_p4">Voici la vraie science de la procrastination et comment la vaincre.</div>
 

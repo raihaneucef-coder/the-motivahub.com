@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_voyage-sante-mentale_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_voyage-sante-mentale_p2"><strong>Travel and Mental Health: How New Places Heal Your Mind</strong> — practical guide based on real experiments. Travel and Mental Health: How New Places Heal Your Mind works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_voyage-sante-mentale_p3"><h1>Travel and Mental Health: How New Places Heal Your Mind</h1>
-Your brain is a pattern-recognition machine. When you are in the same environment every day, your brain goes on autopilot. Travel breaks the pattern — and that is exactly what your mental health needs.</div>
+<div data-i18n-html="article_voyage-sante-mentale_p3">Your brain is a pattern-recognition machine. When you are in the same environment every day, your brain goes on autopilot. Travel breaks the pattern — and that is exactly what your mental health needs.</div>
+
+<div data-i18n-html="article_voyage-sante-mentale_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p4"><h2>How Travel Heals Your Mind</h2></div>
 

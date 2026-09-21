@@ -49,13 +49,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_morning-vs-night_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_morning-vs-night_p2"><strong>Morning vs Night: Which Discipline Actually Sticks?</strong> — practical guide based on real experiments. Morning vs Night: Which Discipline Actually Sticks? works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_morning-vs-night_p3"><h1>Morning vs Night: Which Discipline Actually Sticks?</h1></div>
-
 <div data-i18n-html="article_morning-vs-night_p4">The most common reason a discipline routine fails is not the routine itself. It is the time of day.</div>
+
+<div data-i18n-html="article_morning-vs-night_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_morning-vs-night_p5">The same routine, run at the wrong hour, fails. The same routine, run at the right hour, sticks. The variable is the alignment between the time and your chronotype — your body's natural rhythm of energy and focus.</div>
 

@@ -41,12 +41,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_price-of-freedom_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_price-of-freedom_p2"><strong>The Price of Freedom Is Paid Daily</strong> — practical guide based on real experiments. The Price of Freedom Is Paid Daily works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_price-of-freedom_p3"><h1>The Price of Freedom Is Paid Daily</h1>
-We imagine freedom as a finish line — a number that, once reached, will finally let us breathe.</div>
+<div data-i18n-html="article_price-of-freedom_p3">We imagine freedom as a finish line — a number that, once reached, will finally let us breathe.</div>
+
+<div data-i18n-html="article_price-of-freedom_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_price-of-freedom_p4">It is a comforting story. It is also false.</div>
 

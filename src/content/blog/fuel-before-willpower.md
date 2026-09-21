@@ -41,12 +41,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_fuel-before-willpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_fuel-before-willpower_p2"><strong>Fuel Before Willpower</strong> — practical guide based on real experiments. Fuel Before Willpower works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_fuel-before-willpower_p3"><h1>Fuel Before Willpower</h1>
-We talk about discipline as if it were free.</div>
+<div data-i18n-html="article_fuel-before-willpower_p3">We talk about discipline as if it were free.</div>
+
+<div data-i18n-html="article_fuel-before-willpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_fuel-before-willpower_p4">As if focus costs nothing. As if patience is unlimited and willpower renews itself every morning like a subscription. Then noon arrives, we have eaten whatever was nearest — something sweet, something fast — and by three o'clock the important work of the day feels heavier than it did at nine.</div>
 

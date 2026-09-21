@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_eat-the-frog_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_eat-the-frog_p2"><strong>Eat the Frog: Why You Should Do the Hard Thing First</strong> — practical guide based on real experiments. Eat the Frog: Why You Should Do the Hard Thing First works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_eat-the-frog_p3"><h1>Eat the Frog: Why You Should Do the Hard Thing First</h1>
-"If the first thing you do each morning is eat a live frog, you can go through the rest of the day knowing the worst is behind you." — Mark Twain</div>
+<div data-i18n-html="article_eat-the-frog_p3">"If the first thing you do each morning is eat a live frog, you can go through the rest of the day knowing the worst is behind you." — Mark Twain</div>
+
+<div data-i18n-html="article_eat-the-frog_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_eat-the-frog_p4">The frog is your hardest, most important task — the one you are most likely to procrastinate on. Eating it first means doing it before anything else.</div>
 

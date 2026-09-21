@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_quiet-power-of-doing-less_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_quiet-power-of-doing-less_p2"><strong>The Quiet Power of Doing Less</strong> — practical guide based on real experiments. The Quiet Power of Doing Less works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_quiet-power-of-doing-less_p3"><h1>The Quiet Power of Doing Less</h1>
-We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus.</div>
+<div data-i18n-html="article_quiet-power-of-doing-less_p3">We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus.</div>
+
+<div data-i18n-html="article_quiet-power-of-doing-less_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p4"><h2>The Cult of Busyness</h2></div>
 

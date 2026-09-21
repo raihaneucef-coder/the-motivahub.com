@@ -42,12 +42,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_debt-is-a-story_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_debt-is-a-story_p2"><strong>Debt Is a Story You Can Rewrite</strong> — practical guide based on real experiments. Debt Is a Story You Can Rewrite works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_debt-is-a-story_p3"><h1>Debt Is a Story You Can Rewrite</h1>
-Debt whispers that you are bad with money. That is not helpful, and it is not true.</div>
+<div data-i18n-html="article_debt-is-a-story_p3">Debt whispers that you are bad with money. That is not helpful, and it is not true.</div>
+
+<div data-i18n-html="article_debt-is-a-story_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_debt-is-a-story_p4">Debt is not a verdict on who you are; it is the result of a story you lived: an emergency, a celebration, a few months where life cost more than it gave. The story can be rewritten, but not with shame — with a plan.</div>
 

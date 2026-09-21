@@ -40,12 +40,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_deep-work-ritual_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_deep-work-ritual_p2"><strong>I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)</strong> — practical guide based on real experiments. I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts) works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_deep-work-ritual_p3"><h1>I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)</h1>
-Focus is not a mood you wait for — it is a room you build. Here is how to construct the conditions under which concentration becomes inevitable.</div>
+<div data-i18n-html="article_deep-work-ritual_p3">Focus is not a mood you wait for — it is a room you build. Here is how to construct the conditions under which concentration becomes inevitable.</div>
+
+<div data-i18n-html="article_deep-work-ritual_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_deep-work-ritual_p4"><h2>The Waiting Game</h2></div>
 

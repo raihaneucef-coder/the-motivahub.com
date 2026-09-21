@@ -41,12 +41,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_water-before-willpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_water-before-willpower_p2"><strong>Water Before Willpower</strong> — practical guide based on real experiments. Water Before Willpower works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_water-before-willpower_p3"><h1>Water Before Willpower</h1>
-We blame willpower for what is often just dehydration.</div>
+<div data-i18n-html="article_water-before-willpower_p3">We blame willpower for what is often just dehydration.</div>
+
+<div data-i18n-html="article_water-before-willpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_water-before-willpower_p4">Headache in the afternoon, hunger an hour after lunch, foggy thinking at 3 PM — before you fix any of these with discipline, fix them with water.</div>
 

@@ -39,12 +39,11 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_smart-goals_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_smart-goals_p2"><strong>SMART Goals: The Framework That Actually Works</strong> — practical guide based on real experiments. SMART Goals: The Framework That Actually Works works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_smart-goals_p3"><h1>SMART Goals: The Framework That Actually Works</h1>
-"I want to be successful" is not a goal. It is a wish. And wishes do not come true — plans do.</div>
+<div data-i18n-html="article_smart-goals_p3">"I want to be successful" is not a goal. It is a wish. And wishes do not come true — plans do.</div>
+
+<div data-i18n-html="article_smart-goals_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_smart-goals_p4">The SMART framework transforms vague wishes into actionable plans. It is the most proven goal-setting system in the world — and it works.</div>
 
