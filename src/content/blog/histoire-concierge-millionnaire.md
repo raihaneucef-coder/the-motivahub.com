@@ -6,8 +6,8 @@ descriptionFr: "Ronald Read a nettoyé des sols pendant 25 ans. À sa mort, il a
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/histoire-concierge-millionnaire-2.jpg"
-imageAlt: "Person mopping the floor of a modern living room - the millionaire janitor story"
+image: "/images/blog/histoire-concierge-millionnaire-3.jpg"
+imageAlt: "A cleaning team tidying a bright modern living room with mops and a vacuum"
 topic: "Stories"
 keywords:
   - "wealth"
