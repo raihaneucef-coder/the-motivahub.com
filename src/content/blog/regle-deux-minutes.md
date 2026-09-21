@@ -6,8 +6,8 @@ descriptionFr: "La règle des 2 minutes est la clé pour construire des habitude
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/regle-deux-minutes-2.jpg"
-imageAlt: "Tying running shoes on a track - the two minute rule starts with one small step"
+image: "/images/blog/regle-deux-minutes-3.jpg"
+imageAlt: "Hands tying the laces of a running shoe before a workout"
 topic: "Habits"
 keywords:
   - "habit"

@@ -6,8 +6,8 @@ descriptionFr: "Le journal est la thérapie la moins chère que tu trouveras jam
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/journal-croissance-2.jpg"
-imageAlt: "Blank notebook with a pen and a coffee cup - journaling for growth"
+image: "/images/blog/journal-croissance-3.jpg"
+imageAlt: "An open journal and pen on a wooden desk next to a laptop"
 topic: "Personal Growth"
 keywords:
   - "journaling for growth"

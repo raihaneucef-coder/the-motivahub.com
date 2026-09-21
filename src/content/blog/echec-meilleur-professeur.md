@@ -6,8 +6,8 @@ descriptionFr: "Arrête de craindre l'échec et commence à l'utiliser. Découvr
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/echec-meilleur-professeur-2.jpg"
-imageAlt: "Black king standing over fallen white chess pieces - failure is the best teacher"
+image: "/images/blog/echec-meilleur-professeur-3.jpg"
+imageAlt: "A fallen king chess piece on a dark board beside a red piece, a lesson learned in defeat"
 topic: "Mindset"
 keywords:
   - "failure"

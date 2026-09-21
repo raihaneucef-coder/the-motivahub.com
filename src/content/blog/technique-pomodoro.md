@@ -6,8 +6,8 @@ descriptionFr: "La technique Pomodoro est le système de productivité le plus s
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/technique-pomodoro-2.jpg"
-imageAlt: "Red timer sitting on a book beside a green plant - the Pomodoro technique"
+image: "/images/blog/technique-pomodoro-3.jpg"
+imageAlt: "A red vintage timer standing on a windowsill"
 topic: "Productivity"
 keywords:
   - "work"

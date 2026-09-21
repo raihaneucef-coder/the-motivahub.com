@@ -6,8 +6,8 @@ descriptionFr: "Elle a perdu sa médaille, son sponsor et sa réputation. Mais e
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/histoire-athlete-recommence-2.jpg"
-imageAlt: "Lone jogger running on a tree-lined street in daylight - the athlete who starts over"
+image: "/images/blog/histoire-athlete-recommence-3.jpg"
+imageAlt: "A lone runner crossing a long empty bridge under a clear sky"
 topic: "Stories"
 keywords:
   - "medals"

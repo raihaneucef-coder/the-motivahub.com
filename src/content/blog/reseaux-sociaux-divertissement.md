@@ -6,8 +6,8 @@ descriptionFr: "Les réseaux sociaux peuvent être un divertissement addictif. A
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/reseaux-sociaux-divertissement-2.jpg"
-imageAlt: "Person lying on the sofa scrolling a smartphone - social media as entertainment"
+image: "/images/blog/reseaux-sociaux-divertissement-3.jpg"
+imageAlt: "A woman relaxing on a couch scrolling her phone in a bright living room"
 topic: "Entertainment"
 keywords:
   - "social"

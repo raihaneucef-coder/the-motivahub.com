@@ -7,8 +7,8 @@ pubDate: 2026-08-08
 updatedDate: 2026-09-12
 topic: "Entertainment"
 readTime: "4 min read"
-image: "/images/blog/play-is-practice-for-life-2.jpg"
-imageAlt: "Children playing soccer on a grassy field - play as practice for life"
+image: "/images/blog/play-is-practice-for-life-3.jpg"
+imageAlt: "Kids playing soccer together on a grass field in a village"
 featured: false
 draft: false
 keywords:

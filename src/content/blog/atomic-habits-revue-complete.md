@@ -6,8 +6,8 @@ descriptionFr: "Une revue détaillée du livre Atomic Habits. Découvrez les 4 l
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "14 MIN"
-image: "/images/blog/atomic-habits-revue-complete-2.jpg"
-imageAlt: "Hand placing dominoes in a long row - small habits chain into big results"
+image: "/images/blog/atomic-habits-revue-complete-3.jpg"
+imageAlt: "A hand flicking a row of white dominoes mid-fall, one small action triggering a chain reaction"
 topic: "Habits"
 keywords:
   - "atomic habits complete guide"
