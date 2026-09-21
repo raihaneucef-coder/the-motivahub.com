@@ -46,7 +46,19 @@ const globalCssV = createHash("sha256")
   .digest("hex")
   .slice(0, 10);
 const gaSnippet = GA_ID
-  ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`
+  ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}`
+  : "";
+// Third-party scripts (AdSense, GA) are deferred to the first user interaction:
+// keeps first paint free of render-blocking/cookie-setting third-party requests.
+const deferTpl = (body: string) =>
+  `(function(){var done=false;function load(){if(done)return;done=true;${body}}["scroll","pointerdown","keydown","touchstart"].forEach(function(e){window.addEventListener(e,load,{once:true,passive:true});});})();`;
+const deferAds = deferTpl(
+  `var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);`
+);
+const deferGa = GA_ID
+  ? deferTpl(
+      `gtag('js',new Date());gtag('config','${GA_ID}');var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}";document.head.appendChild(s);`
+    )
   : "";
 ---
 
@@ -89,18 +101,14 @@ const gaSnippet = GA_ID
     <meta name="twitter:image" content={ogImage} />
     <meta name="robots" content={noindex ? "noindex, nofollow" : "index, follow"} />
     <meta name="google-adsense-account" content="ca-pub-7700455846106476">
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476" crossorigin="anonymous"></script>
+    <script is:inline define:vars={{ deferAds }} set:html={deferAds}></script>
     {GSC_VERIFICATION && <meta name="google-site-verification" content={GSC_VERIFICATION} />}
     <meta name="impact-site-verification" content="e2d5e2d9-5097-4b2d-b582-7d63c33ec316" />
     {GA_ID && (
-      <>
-        <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}></script>
-        <script is:inline set:html={gaSnippet}></script>
-      </>
+      <script is:inline define:vars={{ gaSnippet, deferGa }} set:html={gaSnippet + deferGa}></script>
     )}
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,300;1,9..144,400;1,9..144,500;1,9..144,600&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="preload" href="/fonts/fraunces-normal-latin-63f165.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/inter-normal-latin-1ab1ad.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href={`/styles/global.css?v=${globalCssV}`} />
     <slot name="head" />
     <script type="application/ld+json" set:html={JSON.stringify({
@@ -187,9 +195,9 @@ const gaSnippet = GA_ID
             </Link>
             <p class="footer-tagline" data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
             <div class="footer-social">
-              <a href="https://www.instagram.com/motivahub/" aria-label="Instagram" rel="noopener">IG</a>
+              <a href="https://www.instagram.com/motivahub/" aria-label="IG — Instagram" rel="noopener">IG</a>
               <a href="https://x.com/themotivahub" aria-label="Twitter / X" rel="noopener">X</a>
-              <a href="https://www.youtube.com/@motivahub" aria-label="YouTube" rel="noopener">YT</a>
+              <a href="https://www.youtube.com/@motivahub" aria-label="YT — YouTube" rel="noopener">YT</a>
               <a href="https://www.linkedin.com/company/motivahub" aria-label="LinkedIn" rel="noopener">in</a>
             </div>
           </div>
@@ -490,7 +498,7 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
       function hideCookieBanner(){document.getElementById('cookie-consent').style.display='none';}
       function acceptCookies(){localStorage.setItem('cookie_consent','accepted');hideCookieBanner();}
       function declineCookies(){localStorage.setItem('cookie_consent','declined');hideCookieBanner();}
-      if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,2000);
+      if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,300);
     </script>
   <div class="read-progress" id="read-progress" aria-hidden="true"></div>
 
@@ -516,7 +524,11 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
           if (e.isIntersecting) e.target.classList.add('visible');
         });
       }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
-      document.querySelectorAll('.reveal, .reveal-stagger, .reveal-scale').forEach((el) => observer.observe(el));
+      document.querySelectorAll('.reveal, .reveal-stagger, .reveal-scale').forEach((el) => {
+        // Only below-fold elements start hidden; above-fold paint instantly (LCP)
+        if (el.getBoundingClientRect().top > window.innerHeight) el.classList.add('reveal-init');
+        observer.observe(el);
+      });
 
       // (magnetic buttons + 3D card tilt + custom cursor removed for performance)
 
