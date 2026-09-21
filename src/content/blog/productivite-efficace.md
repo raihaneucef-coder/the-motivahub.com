@@ -6,8 +6,8 @@ descriptionFr: "La productivité efficace ne veut pas dire travailler plus. Déc
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/productivite-efficace-2.jpg"
-imageAlt: "Focused woman working at her desk with a laptop - effective productivity"
+image: "/images/blog/productivite-efficace-3.jpg"
+imageAlt: "A man deeply focused on his work at a desk with a tablet and headphones"
 topic: "Productivity"
 keywords:
   - "plus"

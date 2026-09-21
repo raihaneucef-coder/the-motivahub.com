@@ -6,8 +6,8 @@ descriptionFr: "La résolution de conflits demande de la clarté et de l'empathi
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/resolution-conflits-2.jpg"
-imageAlt: "Two people shaking hands in agreement - resolving conflict"
+image: "/images/blog/resolution-conflits-3.jpg"
+imageAlt: "Two people shaking hands to settle a disagreement, one in a suit and one in a checked shirt"
 topic: "Relationships"
 keywords:
   - "fight"
