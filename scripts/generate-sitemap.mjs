@@ -1,4 +1,4 @@
-// Custom sitemap generator with per-page lastmod from content pubDate.
+// Custom sitemap generator with per-page lastmod from content updatedDate/pubDate.
 // Replaces @astrojs/sitemap output with a richer XML.
 // Usage: node scripts/generate-sitemap.mjs
 
@@ -55,11 +55,16 @@ const STATIC_PAGES = [
   { path: "/reset-password/", priority: PRIORITY.auth, changefreq: "yearly" },
 ];
 
+// Same rule the pages themselves use for dateModified / article:modified_time:
+// updatedDate when present, otherwise pubDate. Using pubDate here made the
+// sitemap claim a modification date older than the one in the page markup.
 async function getPostLastmod(slug) {
   try {
     const md = await readFile(join(BLOG_DIR, `${slug}.md`), "utf8");
-    const m = md.match(/^pubDate:\s*(.+?)\s*$/m);
-    if (m) return new Date(m[1]).toISOString().split("T")[0];
+    const updated = md.match(/^updatedDate:\s*(.+?)\s*$/m);
+    if (updated) return new Date(updated[1]).toISOString().split("T")[0];
+    const pub = md.match(/^pubDate:\s*(.+?)\s*$/m);
+    if (pub) return new Date(pub[1]).toISOString().split("T")[0];
   } catch {}
   return new Date().toISOString().split("T")[0];
 }
