@@ -165,3 +165,9 @@ Unified cinematic treatment applied by Motiva Hub.
 - **two-friends-one-promise** — [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via [Pexels](https://www.pexels.com/photo/close-up-of-a-couple-holding-hands-5050368/)
 - **two-minute-breath-reset** — [Ivan S](https://www.pexels.com/@ivan-s) via [Pexels](https://www.pexels.com/photo/a-woman-meditating-while-doing-yoga-6648595/)
 - **voyage-budget** — [Monstera Production](https://www.pexels.com/@gabby-k) via [Pexels](https://www.pexels.com/photo/coins-on-the-concrete-floor-7412102/)
+
+## Covers replaced — batch 4/4 (branch images/covers-1)
+
+- **voyage-solo** — [nn.TON.nn](https://www.pexels.com/@nn-ton-nn-271957085) via [Pexels](https://www.pexels.com/photo/thoughtful-woman-gazing-out-train-window-32712323/)
+- **water-before-willpower** — [Maddy Freddie](https://www.pexels.com/@maddyfreddie) via [Pexels](https://www.pexels.com/photo/crop-person-with-glass-of-water-4207587/)
+- **zone-confort-croissance** — [Imam Efendi](https://www.pexels.com/@imam-efendi-2156414795) via [Pexels](https://www.pexels.com/photo/boy-leaping-into-the-sea-at-sunset-38611613/)
