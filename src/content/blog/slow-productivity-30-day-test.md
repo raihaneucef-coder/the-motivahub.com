@@ -34,7 +34,7 @@ faq:
   - q: "How do I apply slow productivity if I have a job?"
     a: "Start by reducing your active projects to 2-3 high-impact ones. Decline new commitments for 30 days. Notice how your work quality improves. Then renegotiate your ongoing responsibilities from a position of strength, not busyness."
   - q: "What if I work for someone else and can't choose my projects?"
-    a: "You can still apply the principle: protect deep work blocks, refuse excessive meetings, and obsesses over quality in your 2-3 most important deliverables. The principle of slow productivity applies even when you can't fully control your project load."
+    a: "You can still apply the principle: protect deep work blocks, refuse excessive meetings, and obsess over quality in your 2-3 most important deliverables. The principle of slow productivity applies even when you can't fully control your project load."
 faqFr:
   - q: "Qu'est-ce que la productivité lente ?"
     a: "La philosophie de Cal Newport : faire moins de choses, travailler à un rythme naturel, et être obsédé par la qualité. Trois principes centraux. Elle rejette l'hypothèse de la culture du rush selon laquelle plus de projets plus d'heures = de meilleurs résultats. La recherche montre l'inverse : moins d'engagements, une concentration plus profonde, des carrières plus longues et durables."
