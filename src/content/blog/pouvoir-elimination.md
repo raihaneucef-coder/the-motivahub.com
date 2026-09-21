@@ -6,8 +6,8 @@ descriptionFr: "L'élimination est plus puissante que l'ajout. Découvrez commen
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/pouvoir-elimination.jpg"
-imageAlt: "Youssef Raihane - pouvoir elimination concept"
+image: "/images/blog/pouvoir-elimination-2.jpg"
+imageAlt: "A clean minimal desk with only a monitor, keyboard and a plant"
 topic: "Productivity"
 keywords:
   - "eliminate"

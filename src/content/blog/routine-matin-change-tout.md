@@ -6,8 +6,8 @@ descriptionFr: "Une routine matinale change tout. Commencez votre journée par u
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/routine-matin-change-tout.jpg"
-imageAlt: "Youssef Raihane - routine matin change tout concept"
+image: "/images/blog/routine-matin-change-tout-2.jpg"
+imageAlt: "Hands pulling the duvet to make the bed in soft morning light"
 topic: "Habits"
 keywords:
   - "morning"

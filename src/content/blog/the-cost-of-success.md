@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"
 readTime: "5 min read"
-image: "/images/blog/the-cost-of-success.jpg"
-imageAlt: "Youssef Raihane - the cost of success concept"
+image: "/images/blog/the-cost-of-success-2.jpg"
+imageAlt: "A lone figure working late at night in a dark office"
 featured: false
 draft: false
 keywords:

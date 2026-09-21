@@ -6,8 +6,8 @@ descriptionFr: "Découvre comment un état d'esprit de croissance transforme les
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/growth-mindset-rewire.jpg"
-imageAlt: "Youssef Raihane - growth mindset rewire concept"
+image: "/images/blog/growth-mindset-rewire-2.jpg"
+imageAlt: "Two hands fitting large white puzzle pieces together"
 topic: "Mindset"
 keywords:
   - "mindset"

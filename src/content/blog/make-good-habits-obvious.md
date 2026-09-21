@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Habits"
 readTime: "4 min read"
-image: "/images/blog/make-good-habits-obvious.jpg"
-imageAlt: "Youssef Raihane - make good habits obvious concept"
+image: "/images/blog/make-good-habits-obvious-2.jpg"
+imageAlt: "A counter bowl of fresh fruit with apples, strawberries and kiwi in view"
 featured: false
 draft: false
 keywords:

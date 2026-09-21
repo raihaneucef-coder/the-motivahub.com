@@ -6,8 +6,8 @@ descriptionFr: "La rétro-ingénierie des objectifs est une approche puissante. 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/retroengineering-objectifs.jpg"
-imageAlt: "Youssef Raihane - retroengineering objectifs concept"
+image: "/images/blog/retroengineering-objectifs-2.jpg"
+imageAlt: "A hand sketching a business plan timeline and growth curve in a notebook"
 topic: "Goals"
 keywords:
   - "goal"

@@ -6,8 +6,8 @@ descriptionFr: "Chaque échec contient une leçon. Le seul vrai échec est celui
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/echec-retroaction.jpg"
-imageAlt: "Youssef Raihane - echec retroaction concept"
+image: "/images/blog/echec-retroaction-2.jpg"
+imageAlt: "Two coaches reviewing notes together on the sideline of a soccer field"
 topic: "Success"
 keywords:
   - "failure"

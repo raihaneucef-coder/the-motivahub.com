@@ -7,8 +7,8 @@ pubDate: 2026-08-20
 updatedDate: 2026-09-12
 topic: "Entertainment"
 readTime: "5 min read"
-image: "/images/blog/play-on-purpose.jpg"
-imageAlt: "Youssef Raihane - play on purpose concept"
+image: "/images/blog/play-on-purpose-2.jpg"
+imageAlt: "Friends laughing around a table game in colorful light"
 featured: false
 draft: false
 keywords:

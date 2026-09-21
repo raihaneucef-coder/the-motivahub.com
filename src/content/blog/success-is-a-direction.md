@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"
 readTime: "4 min read"
-image: "/images/blog/success-is-a-direction.jpg"
-imageAlt: "Youssef Raihane - success is a direction concept"
+image: "/images/blog/success-is-a-direction-2.jpg"
+imageAlt: "An ornamental street signpost with direction arrows against the sky"
 featured: false
 draft: false
 keywords:

@@ -7,8 +7,8 @@ pubDate: 2026-08-10
 updatedDate: 2026-09-12
 topic: "Entertainment"
 readTime: "4 min read"
-image: "/images/blog/choose-joy-on-purpose.jpg"
-imageAlt: "Youssef Raihane - choose joy on purpose concept"
+image: "/images/blog/choose-joy-on-purpose-2.jpg"
+imageAlt: "Two women laughing with arms spread wide on a sunny boardwalk"
 featured: false
 draft: false
 keywords:

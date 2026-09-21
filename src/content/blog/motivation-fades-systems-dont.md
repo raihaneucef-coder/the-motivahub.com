@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Mindset"
 readTime: "5 min read"
-image: "/images/blog/motivation-fades-systems-dont.jpg"
-imageAlt: "Youssef Raihane - motivation fades systems dont concept"
+image: "/images/blog/motivation-fades-systems-dont-2.jpg"
+imageAlt: "Close-up of interlocking clockwork gears turning together"
 featured: false
 draft: false
 keywords:

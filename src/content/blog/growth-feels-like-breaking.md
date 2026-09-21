@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Personal Growth"
 readTime: "5 min read"
-image: "/images/blog/growth-feels-like-breaking.jpg"
-imageAlt: "Youssef Raihane - growth feels like breaking concept"
+image: "/images/blog/growth-feels-like-breaking-2.jpg"
+imageAlt: "A green sprout pushing up through cracked old wood"
 featured: false
 draft: false
 keywords:

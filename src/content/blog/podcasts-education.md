@@ -6,8 +6,8 @@ descriptionFr: "Les podcasts transforment le temps mort en temps d'apprentissage
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/podcasts-education.jpg"
-imageAlt: "Youssef Raihane - podcasts education concept"
+image: "/images/blog/podcasts-education-2.jpg"
+imageAlt: "A woman in headphones walking through the city listening to a podcast"
 topic: "Entertainment"
 keywords:
   - "podcasts"

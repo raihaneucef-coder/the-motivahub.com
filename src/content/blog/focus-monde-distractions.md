@@ -6,8 +6,8 @@ descriptionFr: "Ton attention est l'actif le plus précieux que tu possèdes. Ap
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/focus-monde-distractions.jpg"
-imageAlt: "Youssef Raihane - focus monde distractions concept"
+image: "/images/blog/focus-monde-distractions-2.jpg"
+imageAlt: "A woman in headphones working with deep focus on her laptop by a window"
 topic: "Mindset"
 keywords:
   - "focus"

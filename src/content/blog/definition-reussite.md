@@ -6,8 +6,8 @@ descriptionFr: "La réussite ne signifie pas la même chose pour tout le monde. 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/definition-reussite.jpg"
-imageAlt: "Youssef Raihane - definition reussite concept"
+image: "/images/blog/definition-reussite-2.jpg"
+imageAlt: "Three hikers taking their own path through a mountain landscape beside a trail signpost"
 topic: "Success"
 keywords:
   - "success"

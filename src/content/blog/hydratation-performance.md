@@ -6,8 +6,8 @@ descriptionFr: "La déshydratation réduit la performance jusqu'à 25 %. L'eau e
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/hydratation-performance.jpg"
-imageAlt: "Youssef Raihane - hydratation performance concept"
+image: "/images/blog/hydratation-performance-2.jpg"
+imageAlt: "An athlete drinking from a water bottle between gym rings"
 topic: "Nutrition"
 keywords:
   - "water"

@@ -6,8 +6,8 @@ descriptionFr: "La comparaison est le piège qui vole votre joie. Apprenez à vo
 pubDate: 2026-08-14
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/comparison-trap.jpg"
-imageAlt: "Youssef Raihane - comparison trap concept"
+image: "/images/blog/comparison-trap-2.jpg"
+imageAlt: "A face distorted through a glass lens held above a laptop, warping self-perception"
 topic: "Mindset"
 keywords:
   - "envy"

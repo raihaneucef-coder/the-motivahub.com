@@ -6,8 +6,8 @@ descriptionFr: "Votre dialogue intérieur façonne votre réalité. Apprenez à 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/puissance-dialogue-interieur.jpg"
-imageAlt: "Youssef Raihane - puissance dialogue interieur concept"
+image: "/images/blog/puissance-dialogue-interieur-2.jpg"
+imageAlt: "A man sitting alone on a ledge with his backpack, lost in thought"
 topic: "Mindset"
 keywords:
   - "talk"

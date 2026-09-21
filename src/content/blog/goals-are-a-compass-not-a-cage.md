@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
 readTime: "5 min read"
-image: "/images/blog/goals-are-a-compass-not-a-cage.jpg"
-imageAlt: "Youssef Raihane - goals are a compass not a cage concept"
+image: "/images/blog/goals-are-a-compass-not-a-cage-2.jpg"
+imageAlt: "A seagull soaring free above a calm open ocean under a clear sky"
 featured: false
 draft: false
 keywords:

@@ -6,8 +6,8 @@ descriptionFr: "Se concentrer sur le processus plutôt que sur le résultat chan
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/process-vs-outcome.jpg"
-imageAlt: "Youssef Raihane - process vs outcome concept"
+image: "/images/blog/process-vs-outcome-2.jpg"
+imageAlt: "Hands shaping wet clay on a spinning pottery wheel"
 topic: "Goals"
 keywords:
   - "process"

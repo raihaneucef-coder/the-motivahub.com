@@ -6,8 +6,8 @@ descriptionFr: "La responsabilité est la clé pour atteindre vos objectifs. Dé
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/rendez-compte-objectifs.jpg"
-imageAlt: "Youssef Raihane - rendez compte objectifs concept"
+image: "/images/blog/rendez-compte-objectifs-2.jpg"
+imageAlt: "Two workout partners checking their fitness watches together after training"
 topic: "Goals"
 keywords:
   - "accountability"

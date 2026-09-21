@@ -6,8 +6,8 @@ descriptionFr: "La plupart des relations ne meurent pas par de grandes trahisons
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/habitude-5-min-relations.jpg"
-imageAlt: "Youssef Raihane - habitude 5 min relations concept"
+image: "/images/blog/habitude-5-min-relations-2.jpg"
+imageAlt: "Two people holding hands warmly while sitting close together"
 topic: "Relationships"
 keywords:
   - "habit"

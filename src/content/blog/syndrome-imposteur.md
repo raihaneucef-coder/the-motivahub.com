@@ -6,8 +6,8 @@ descriptionFr: "70% des personnes souffrent du syndrome de l'imposteur. Ce n'est
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/syndrome-imposteur.jpg"
-imageAlt: "Youssef Raihane - syndrome imposteur concept"
+image: "/images/blog/syndrome-imposteur-2.jpg"
+imageAlt: "A person in the dark holding a white mask away from their face"
 topic: "Confidence"
 keywords:
   - "imposter"

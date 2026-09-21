@@ -6,8 +6,8 @@ descriptionFr: "Apprends à enchaîner tes habitudes avec l'empilement d'habitud
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/habit-stacking-routine.jpg"
-imageAlt: "Youssef Raihane - habit stacking routine concept"
+image: "/images/blog/habit-stacking-routine-2.jpg"
+imageAlt: "A hand ticking off a checklist in a notebook beside a green sticky note"
 topic: "Habits"
 keywords:
   - "habit"

@@ -6,8 +6,8 @@ descriptionFr: "Fixer des limites n'est pas égoïste — c'est un acte d'amour.
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 readTime: "9 MIN"
-image: "/images/blog/boundaries-are-love.jpg"
-imageAlt: "Youssef Raihane setting boundaries with kindness - saying no is the kindest thing"
+image: "/images/blog/boundaries-are-love-2.jpg"
+imageAlt: "A white picket fence standing before blooming flowers in the sun"
 topic: "Relationships"
 keywords:
   - "boundaries are love"

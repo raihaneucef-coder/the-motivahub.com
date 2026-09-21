@@ -7,8 +7,8 @@ pubDate: 2026-08-12
 updatedDate: 2026-09-12
 topic: "Travel"
 readTime: "4 min read"
-image: "/images/blog/the-detour-is-the-destination.jpg"
-imageAlt: "Youssef Raihane - the detour is the destination concept"
+image: "/images/blog/the-detour-is-the-destination-2.jpg"
+imageAlt: "A winding river curving through a dense green forest from above"
 featured: false
 draft: false
 keywords:

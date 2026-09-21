@@ -6,8 +6,8 @@ descriptionFr: "La gestion du temps ne suffit pas. La gestion de l'énergie est 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/gestion-energie.jpg"
-imageAlt: "Youssef Raihane - gestion energie concept"
+image: "/images/blog/gestion-energie-2.jpg"
+imageAlt: "A woman stretching her arms overhead with energy in a bright gym"
 topic: "Productivity"
 keywords:
   - "energy"

@@ -6,8 +6,8 @@ descriptionFr: "Le talent te fait entrer dans le jeu. La force mentale le gagne.
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/force-mentale-sport.jpg"
-imageAlt: "Youssef Raihane - force mentale sport concept"
+image: "/images/blog/force-mentale-sport-2.jpg"
+imageAlt: "A gymnast mid-performance on the arena floor, fully concentrated"
 topic: "Sport"
 keywords:
   - "mental"

@@ -6,8 +6,8 @@ descriptionFr: "L'auto-sabotage vous empêche d'atteindre vos objectifs. Découv
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "10 MIN"
-image: "/images/blog/arreter-auto-sabotage.jpg"
-imageAlt: "Youssef Raihane - arreter auto sabotage concept"
+image: "/images/blog/arreter-auto-sabotage-2.jpg"
+imageAlt: "Hands cutting loose threads on a weaving loom with scissors"
 topic: "Mindset"
 keywords:
   - "self-sabotage"
