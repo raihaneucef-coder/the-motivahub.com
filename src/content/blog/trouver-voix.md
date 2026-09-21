@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_trouver-voix_p2"><strong>Speaking Up: How to Find Your Voice and Use It</strong> — practical guide based on real experiments. Speaking Up: How to Find Your Voice and Use It works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_trouver-voix_p2">Your voice matters. But if you never use it, no one will hear it. Learn how to speak up with clarity, conviction, and confidence.</div>
 
 <div data-i18n-html="article_trouver-voix_p3">Some people have brilliant ideas but never share them. Others have mediocre ideas but share them confidently. The difference is not intelligence — it is the willingness to speak up.</div>
 

@@ -36,7 +36,7 @@ faq:
     a: "No, but it is often misapplied. The book is not about motivation or inspiration. It is about system design. If you read it looking for a quick fix, you will be disappointed. If you read it looking for a architecture, it is one of the best books ever written on the subject."
 ---
 
-<div data-i18n-html="article_atomic-habits-review_p2"><strong>I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time.</strong> — practical guide based on real experiments. I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_atomic-habits-review_p2">Most reviews tell you if a book is good. This one tells you what a book does to you — across 18 months, four reads, and one stubborn habit that finally stuck.</div>
 
 <div data-i18n-html="article_atomic-habits-review_p4">It is probably the most highlighted book of the decade. Millions own a copy, a fraction finish it, and only a handful actually live it. That gap is ironic — because Atomic Habits is precisely about closing small gaps, one repetition at a time.</div>
 

@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_comment-creer-des-habitudes_p2"><strong>How to Build Habits That Actually Last — The Science of Consistency</strong> — practical guide based on real experiments. How to Build Habits That Actually Last — The Science of Consistency works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_comment-creer-des-habitudes_p2">Discover how to create habits that stick. A practical guide to building lasting routines, backed by neuroscience and daily discipline.</div>
 
 <div data-i18n-html="article_comment-creer-des-habitudes_p3">Tu as déjà essayé de changer une habitude — et tu as abandonné au bout de deux semaines. Ce n'est pas un manque de volonté. C'est un manque de système.</div>
 

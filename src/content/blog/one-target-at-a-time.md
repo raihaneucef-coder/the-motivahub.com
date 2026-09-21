@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_one-target-at-a-time_p2"><strong>One Target at a Time</strong> — practical guide based on real experiments. One Target at a Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_one-target-at-a-time_p2">A goal is not a wish written on paper — it is an address you visit every day until the door finally opens. Aim small, aim precise, and let the days do the heavy lifting.</div>
 
 <div data-i18n-html="article_one-target-at-a-time_p3">Most goals fail before they begin — not because they are too big, but because they are too vague.</div>
 

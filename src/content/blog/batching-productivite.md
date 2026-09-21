@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_batching-productivite_p2"><strong>Batching: The Secret Weapon of Highly Productive People</strong> — practical guide based on real experiments. Batching: The Secret Weapon of Highly Productive People works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_batching-productivite_p2">Batching is grouping similar tasks together to minimize context switching. Learn how this simple technique can double your productivity.</div>
 
 <div data-i18n-html="article_batching-productivite_p4">Every time you switch between different types of tasks, your brain pays a cognitive tax. It takes time to refocus, reorient, and get back into flow. Batching eliminates this tax.</div>
 
@@ -206,6 +206,6 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 
 <div data-i18n-html="article_batching-productivite_p70">---</div>
 
-<div data-i18n-html="article_batching-productivite_p71"><strong>Batching is the gateway to deep work.</strong> To see how to protect that deep work with the 2-minute rule and the 2-day rule, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
+<div data-i18n-html="article_batching-productivite_p71"><strong>Batching is the gateway to deep work.</strong> To see how to protect that deep work with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 
 <div data-i18n-html="article_batching-productivite_p72"><em>Last updated: September 12, 2026 — added personal 30-day batching experiment, specific time blocks, and the communication batch protocol.</em></div>

@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_success-is-a-direction_p2"><strong>Success Is a Direction, Not a Destination</strong> — practical guide based on real experiments. Success Is a Direction, Not a Destination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_success-is-a-direction_p2">Stop waiting to arrive. Success is not a place you reach — it is the way you walk.</div>
 
 <div data-i18n-html="article_success-is-a-direction_p3">We picture success as a door. Once we walk through it, we will finally feel done.</div>
 

@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_deep-work-ritual_p2"><strong>I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)</strong> — practical guide based on real experiments. I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts) works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_deep-work-ritual_p2">Distraction is the default. Focus is the exception. After a dozen failed attempts at rituals, here is the one deep work stack that survived contact with a real Tuesday.</div>
 
 <div data-i18n-html="article_deep-work-ritual_p3">Focus is not a mood you wait for — it is a room you build. Here is how to construct the conditions under which concentration becomes inevitable.</div>
 

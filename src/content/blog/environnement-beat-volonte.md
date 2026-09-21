@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_environnement-beat-volonte_p2"><strong>Why Environment Beats Willpower Every Time</strong> — practical guide based on real experiments. Why Environment Beats Willpower Every Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_environnement-beat-volonte_p2">Stop relying on willpower to build habits. Design your environment for success and make good habits automatic.</div>
 
 <div data-i18n-html="article_environnement-beat-volonte_p3">You do not resist temptation. You avoid it. This is the secret that people with good habits understand — and the secret that people who struggle with habits miss entirely.</div>
 

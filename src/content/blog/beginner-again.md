@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_beginner-again_p2"><strong>Go Where You Are a Beginner Again</strong> — practical guide based on real experiments. Go Where You Are a Beginner Again works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_beginner-again_p2">Travel is not escape — it is the fastest way to reset arrogance and remember how much there is left to learn. New roads return you hungrier than you left.</div>
 
 <div data-i18n-html="article_beginner-again_p4">Expertise is a quiet trap.</div>
 

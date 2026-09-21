@@ -1,4 +1,6 @@
 ---
+import { getLangFromUrl, getLocalePath } from "../utils/i18n";
+
 interface Props {
   kicker?: string;
   title: string;
@@ -10,6 +12,11 @@ interface Props {
 }
 
 const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/images/hero-mountain-man.jpg", primaryCta, secondaryCta, meta } = Astro.props;
+// The homepage hero is shared by / and /fr/, so its CTAs must carry the locale
+// of the page being built instead of always pointing at the English funnels.
+const locale = getLangFromUrl(Astro.url);
+const primaryCtaHref = getLocalePath(primaryCta.href, locale);
+const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 const titleText = title.replace(/<[^>]+>/g, '');
 const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
 ---
@@ -52,11 +59,11 @@ const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
       <p class="hero-subtitle" data-stagger-reveal data-i18n="heroSubtitle">{subtitle}</p>
 
       <div class="hero-btns" data-stagger-reveal>
-        <a class="btn btn-primary btn-magnetic" href={primaryCta.href}>
+        <a class="btn btn-primary btn-magnetic" href={primaryCtaHref}>
           <span data-i18n="heroPrimary">{primaryCta.label}</span>
           <span class="btn-arrow-sm">→</span>
         </a>
-        <a class="btn btn-ghost btn-magnetic" href={secondaryCta.href}>
+        <a class="btn btn-ghost btn-magnetic" href={secondaryCtaHref}>
           <span data-i18n="heroSecondary">{secondaryCta.label}</span>
           <span class="btn-arrow-sm">→</span>
         </a>

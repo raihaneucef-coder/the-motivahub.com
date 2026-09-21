@@ -53,10 +53,19 @@ function scoreRelated(p: any): number {
 const scored = all
   .map((p) => ({ post: p, score: scoreRelated(p) }))
   .filter((x) => x.score > 0)
-  .sort((a, b) => b.score - a.score)
-  .slice(0, 4);
-const related = scored.length >= 1 ? scored.map((x) => x.post) : all.filter((p) => p.id !== post.id).slice(0, 4);
-const relatedPosts = related.slice(0, 4);
+  .sort((a, b) => b.score - a.score);
+
+// The hand-curated relatedArticles frontmatter wins; the topic/keyword score
+// only pads the list. Unknown slugs (guides, typos) are dropped so that no
+// card can ever link to a 404.
+const curated = (post.data.relatedArticles || [])
+  .map((slug: string) => all.find((p) => p.id === slug))
+  .filter(Boolean) as any[];
+const curatedPosts = curated.filter((p, i) => p.id !== post.id && curated.indexOf(p) === i);
+const padded = scored.map((x) => x.post).filter((p: any) => !curatedPosts.includes(p));
+const related = [...curatedPosts, ...padded].slice(0, 4);
+const fallback = all.filter((p) => p.id !== post.id && !related.includes(p)).slice(0, 4 - related.length);
+const relatedPosts = related.concat(fallback).slice(0, 4);
 
 const postLang = detectLangFromSlug(post.id);
 const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";

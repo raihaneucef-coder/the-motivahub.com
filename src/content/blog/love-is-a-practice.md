@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_love-is-a-practice_p2"><strong>Love Is a Practice, Not a Feeling</strong> — practical guide based on real experiments. Love Is a Practice, Not a Feeling works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_love-is-a-practice_p2">We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows.</div>
 
 <div data-i18n-html="article_love-is-a-practice_p3">We think love is a feeling that makes us act. Most days it is the opposite: acting with love is what creates the feeling.</div>
 

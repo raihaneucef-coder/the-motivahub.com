@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_habitudes-mentales-performants_p2"><strong>The 5 Mental Habits of Highly Performant People</strong> — practical guide based on real experiments. The 5 Mental Habits of Highly Performant People works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_habitudes-mentales-performants_p2">Discover the daily mental routines that separate top performers from everyone else. Practical habits you can start today.</div>
 
 <div data-i18n-html="article_habitudes-mentales-performants_p3">High performers are not lucky. They are consistent. And their consistency is built on invisible mental habits — routines that happen before the day even begins.</div>
 

@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_pourquoi-profond-objectifs_p2"><strong>The Goal Behind the Goal: Finding Your Deep Why</strong> — practical guide based on real experiments. The Goal Behind the Goal: Finding Your Deep Why works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_pourquoi-profond-objectifs_p2">Every goal has a deeper purpose. Finding your deep why gives you the resilience to keep going when things get hard.</div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p3">"I want to lose 10 kg." But why? "Because I want to be healthier." But why? "Because I want to be there for my kids." That is the deep why.</div>
 

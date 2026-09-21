@@ -2,12 +2,17 @@
 interface Props {
   variant?: "compact" | "full";
   showSchema?: boolean;
+  lang?: "en" | "fr";
   name: string;
   jobTitle: string;
   bio: string;
 }
 
-const { variant = "full", showSchema = true, name, jobTitle, bio } = Astro.props;
+const { variant = "full", showSchema = true, lang = "en", name, jobTitle, bio } = Astro.props;
+
+// The author page has a French twin; without this every French page was
+// pointing its readers at the English bio.
+const localePrefix = lang === "fr" ? "/fr" : "";
 
 const author = {
   name: "Youssef Raihane",
@@ -85,7 +90,7 @@ const personSchema = {
     <div class="author-meta">
       <p class="author-name">{author.name}</p>
       <p class="author-role">{author.jobTitle} · {author.worksFor}</p>
-      <a class="author-link" href="/author/youssef-raihane/">Read full bio →</a>
+      <a class="author-link" href={localePrefix + "/author/youssef-raihane/"}>Read full bio →</a>
     </div>
   </aside>
 )}
@@ -119,7 +124,7 @@ const personSchema = {
       {author.externalLinks.map((l) => (
         <a class="author-link-pill" href={l.url} target="_blank" rel="me noopener noreferrer">{l.name}</a>
       ))}
-      <a class="author-link-pill author-link-pill--primary" href="/author/youssef-raihane/">Full Author Page →</a>
+      <a class="author-link-pill author-link-pill--primary" href={localePrefix + "/author/youssef-raihane/"}>Full Author Page →</a>
     </div>
   </aside>
 )}

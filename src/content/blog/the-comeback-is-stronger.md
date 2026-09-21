@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_the-comeback-is-stronger_p2"><strong>The Comeback Is Always Stronger Than the Setback</strong> — practical guide based on real experiments. The Comeback Is Always Stronger Than the Setback works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_the-comeback-is-stronger_p2">Every setback is a setup for a stronger comeback. Your greatest growth is not in never falling — it is in rising with more fire.</div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p3">They told you the fall would break you. It didn't. It built you.</div>
 

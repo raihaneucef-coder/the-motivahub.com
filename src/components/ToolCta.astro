@@ -1,8 +1,13 @@
 ---
 interface Props {
   topic?: string;
+  lang?: "en" | "fr";
 }
-const { topic = "" } = Astro.props;
+const { topic = "", lang = "en" } = Astro.props;
+
+// Tool pages exist in both locales; without this the French articles were
+// sending their readers back to the English funnels.
+const localePrefix = lang === "fr" ? "/fr" : "";
 
 const TOOLS = {
   tracker: {
@@ -51,11 +56,11 @@ const secondary = TOOLS[secondaryKey];
   <p class="tool-cta-kicker" data-i18n="toolCtaKicker">Free Tool · Motiva Hub</p>
   <p class="tool-cta-headline" data-i18n={headlineKey}>{headlineKey === "toolHeadlineDiscipline" ? "Turn this essay into 30 days of action" : headlineKey === "toolHeadlineHabits" ? "Track the habit, not the motivation" : headlineKey === "toolHeadlineMindset" ? "Time is the raw material of change" : "Free tools from Motiva Hub"}</p>
   <div class="tool-cta-links">
-    <a href={primary.url} class="tool-cta-card tool-cta-primary">
+    <a href={localePrefix + primary.url} class="tool-cta-card tool-cta-primary">
       <span class="tool-cta-name" data-i18n={"toolName" + primaryKey.charAt(0).toUpperCase() + primaryKey.slice(1)}>{primary.name} →</span>
       <span class="tool-cta-desc" data-i18n={"toolDesc" + primaryKey.charAt(0).toUpperCase() + primaryKey.slice(1)}>{primary.desc}</span>
     </a>
-    <a href={secondary.url} class="tool-cta-card">
+    <a href={localePrefix + secondary.url} class="tool-cta-card">
       <span class="tool-cta-name" data-i18n={"toolName" + secondaryKey.charAt(0).toUpperCase() + secondaryKey.slice(1)}>{secondary.name} →</span>
       <span class="tool-cta-desc" data-i18n={"toolDesc" + secondaryKey.charAt(0).toUpperCase() + secondaryKey.slice(1)}>{secondary.desc}</span>
     </a>

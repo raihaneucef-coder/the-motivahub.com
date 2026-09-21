@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_boundaries-are-love_p2"><strong>Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do</strong> — practical guide based on real experiments. Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_boundaries-are-love_p2">Loving yourself is a verb. Saying no is the verb. Here is how to build walls that protect relationships instead of breaking them — without losing the people you love.</div>
 
 <div data-i18n-html="article_boundaries-are-love_p4">We think boundaries push people away. The opposite is true: unclear boundaries slowly poison closeness, until distance feels safer than honesty.</div>
 
@@ -190,6 +190,6 @@ I used to say yes when people pushed back. The fix: hold the boundary. The peopl
 
 <div data-i18n-html="article_boundaries-are-love_p69">---</div>
 
-<div data-i18n-html="article_boundaries-are-love_p70"><strong>Boundaries are love in action.</strong> To see how boundaries fit into the larger system of identity and habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to relationships instead of habits.</div>
+<div data-i18n-html="article_boundaries-are-love_p70"><strong>Boundaries are love in action.</strong> To see how boundaries fit into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to relationships instead of habits.</div>
 
 <div data-i18n-html="article_boundaries-are-love_p71"><em>Last updated: September 12, 2026 — added personal story about saying yes to every request, the 6-month resentment buildup, and the three rules of healthy boundaries.</em></div>

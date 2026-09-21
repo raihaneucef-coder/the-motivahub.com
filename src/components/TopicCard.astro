@@ -1,16 +1,19 @@
 ---
 import type { Topic } from "../data/topics";
 import { getCollection } from "astro:content";
+import { getLangFromUrl, getLocalePath } from "../utils/i18n";
 
 interface Props {
   topic: Topic;
 }
 const { topic } = Astro.props;
+// Rendered on /topics/ and /fr/topics/, so the card link follows the page locale.
+const topicHref = getLocalePath(`/topics/${topic.id}/`, getLangFromUrl(Astro.url));
 const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
 const posts = (await getCollection("blog")).filter((p) => !p.data.draft && norm(p.data.topic) === topic.id);
 ---
 
-<a class="topic-card" href={`/topics/${topic.id}/`}>
+<a class="topic-card" href={topicHref}>
   <div class="topic-top">
     <h3>{topic.title}</h3>
     <span class="topic-count">{posts.length} <span data-i18n={posts.length === 1 ? "topicEssay" : "topicEssays"}>{posts.length === 1 ? "Essay" : "Essays"}</span></span>

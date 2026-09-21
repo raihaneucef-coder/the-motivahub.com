@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_body-votes-first_p2"><strong>Body Votes First — The Hidden Election That Runs Your Life</strong> — practical guide based on real experiments. Body Votes First — The Hidden Election That Runs Your Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_body-votes-first_p2">Your body votes before your mind does. Learn why physical training is not vanity — it is the maintenance of the instrument that does everything else.</div>
 
 <div data-i18n-html="article_body-votes-first_p4">We like to believe the mind is in charge.</div>
 
@@ -164,6 +164,6 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p57">---</div>
 
-<div data-i18n-html="article_body-votes-first_p58"><strong>The body votes first.</strong> To see how to protect that vote with the 2-minute rule and the 2-day rule, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
+<div data-i18n-html="article_body-votes-first_p58"><strong>The body votes first.</strong> To see how to protect that vote with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
 
 <div data-i18n-html="article_body-votes-first_p59"><em>Last updated: September 12, 2026 — added personal half marathon training story, specific body-mind connection examples, and the identity file framework.</em></div>

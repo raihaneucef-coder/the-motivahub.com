@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_gestion-energie_p2"><strong>Energy Management: The Real Productivity Hack</strong> — practical guide based on real experiments. Energy Management: The Real Productivity Hack works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_gestion-energie_p2">Time management is not enough. Energy management is the real productivity hack. Learn how to optimize your energy for peak performance.</div>
 
 <div data-i18n-html="article_gestion-energie_p3">You can have 8 hours in a day and waste every one of them if your energy is low. You can have 2 hours and accomplish more than most people do in a full day — if your energy is high.</div>
 

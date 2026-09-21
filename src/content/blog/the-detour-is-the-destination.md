@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_the-detour-is-the-destination_p2"><strong>The Detour Is the Destination</strong> — practical guide based on real experiments. The Detour Is the Destination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_the-detour-is-the-destination_p2">The best travel stories never happened on the planned route. They happened on the detour you almost skipped.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p3">We plan the route and miss the travel.</div>
 

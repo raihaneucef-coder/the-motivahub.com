@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_focus-monde-distractions_p2"><strong>How to Maintain Focus in a World Designed to Distract You</strong> — practical guide based on real experiments. How to Maintain Focus in a World Designed to Distract You works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_focus-monde-distractions_p2">Your attention is the most valuable asset you own. Learn how to protect it, sharpen it, and use it to achieve what matters most.</div>
 
 <div data-i18n-html="article_focus-monde-distractions_p3">Your attention is being stolen. Every notification, every app, every headline is designed to capture your focus and sell it to the highest bidder.</div>
 

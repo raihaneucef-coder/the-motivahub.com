@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_detox-numerique_p2"><strong>Digital Detox: How Screen Time Is Destroying Your Health</strong> — practical guide based on real experiments. Digital Detox: How Screen Time Is Destroying Your Health works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_detox-numerique_p2">The average person spends 7 hours a day on screens. This is destroying your sleep, your focus, and your health. Learn how to take back control.</div>
 
 <div data-i18n-html="article_detox-numerique_p3">Your phone is the first thing you touch in the morning and the last thing you touch at night. It is also destroying your health — and you do not even realize it.</div>
 

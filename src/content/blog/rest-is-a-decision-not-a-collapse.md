@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p2"><strong>Rest Is a Decision, Not a Collapse</strong> — practical guide based on real experiments. Rest Is a Decision, Not a Collapse works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p2">There is a difference between resting on purpose and collapsing because you ran out of resistance. Only one of them recovers you.</div>
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p3">There are two ways a productive stretch can end. One is a decision: you look at the week, decide the account is due for a deposit, and step back on your own terms. The other is a collapse: you push until the body or the mind refuses to continue, and rest is what happens to you rather than something you chose. Both look similar from the outside. They are not similar at all.</div>
 

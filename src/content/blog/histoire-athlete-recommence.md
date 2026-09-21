@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_histoire-athlete-recommence_p2"><strong>The Athlete Who Lost Everything and Started Over</strong> — practical guide based on real experiments. The Athlete Who Lost Everything and Started Over works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_histoire-athlete-recommence_p2">She lost her medal, her sponsor, and her reputation. But she gained something more valuable — the ability to start again.</div>
 
 <div data-i18n-html="article_histoire-athlete-recommence_p3">She was at the top of her sport. Gold medals, sponsorships, magazine covers. Then the injury hit. Surgery after surgery. The medals stopped. The sponsors left. The magazines moved on.</div>
 

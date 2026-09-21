@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_pack-light-stay-long_p2"><strong>Pack Light, Stay Long</strong> — practical guide based on real experiments. Pack Light, Stay Long works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_pack-light-stay-long_p2">The best travelers carry less and stay longer. What you leave behind matters more than what you bring.</div>
 
 <div data-i18n-html="article_pack-light-stay-long_p3">We pack as if we are moving house. Then we carry that house on our backs and wonder why travel feels heavy.</div>
 

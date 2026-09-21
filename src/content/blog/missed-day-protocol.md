@@ -49,7 +49,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_missed-day-protocol_p2"><strong>What to Do When You Miss a Day (Without Quitting Everything)</strong> — practical guide based on real experiments. What to Do When You Miss a Day (Without Quitting Everything) works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_missed-day-protocol_p2">Missing a day is not the end of a habit. It is the test of the system. Here is the exact protocol for the day after a miss — and the three rules that prevent the miss from becoming a relapse.</div>
 
 <div data-i18n-html="article_missed-day-protocol_p4">Most habit articles talk about how to start. Almost none talk about what to do the day after you fail. This is the part that determines whether the habit survives.</div>
 

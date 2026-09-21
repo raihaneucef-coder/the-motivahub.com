@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p2"><strong>How to Break a Bad Habit — The Reverse Four Laws</strong> — practical guide based on real experiments. How to Break a Bad Habit — The Reverse Four Laws works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p2">Want to quit smoking, stop procrastinating, or eliminate junk food? Use the reverse four laws to break any bad habit permanently.</div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p4">Breaking a bad habit is harder than building a good one. But the same principles that create habits can destroy them — you just reverse them.</div>
 
@@ -202,6 +202,6 @@ I tried to stop scrolling without any negative consequence. There was no cost. T
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p65">---</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start designing against it.</strong> To see how the reverse four laws fit into the larger system of identity and habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to breaking bad habits instead of building good ones.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start designing against it.</strong> To see how the reverse four laws fit into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to breaking bad habits instead of building good ones.</div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p67"><em>Last updated: September 12, 2026 — added personal 30-day scrolling habit break, the reverse four laws protocol, and the identity-based framework for breaking habits.</em></div>

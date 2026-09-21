@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_attention-as-asset_p2"><strong>Attention as Asset</strong> — practical guide based on real experiments. Attention as Asset works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_attention-as-asset_p2">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>
 
 <div data-i18n-html="article_attention-as-asset_p4">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>
 
@@ -214,6 +214,6 @@ I never tracked where my attention went. The theft was invisible. The audit made
 
 <div data-i18n-html="article_attention-as-asset_p73">---</div>
 
-<div data-i18n-html="article_attention-as-asset_p74"><strong>Attention is the new currency.</strong> To see how to budget it alongside your habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
+<div data-i18n-html="article_attention-as-asset_p74"><strong>Attention is the new currency.</strong> To see how to budget it alongside your habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 
 <div data-i18n-html="article_attention-as-asset_p75"><em>Last updated: September 12, 2026 — added personal attention audit story, specific numbers, and the single-tab protocol.</em></div>

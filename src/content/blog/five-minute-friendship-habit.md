@@ -42,7 +42,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_five-minute-friendship-habit_p2"><strong>The Five-Minute Friendship Habit</strong> — practical guide based on real experiments. The Five-Minute Friendship Habit works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_five-minute-friendship-habit_p2">Friendship does not require weekends away — it requires five minutes of real attention, repeated.</div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p3">We tell ourselves friendship needs big blocks of time we do not have. So we wait for the free weekend that never comes, and friendships quietly go hungry.</div>
 

@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_the-letter-he-never-sent_p2"><strong>The Letter He Never Sent — And the Day It Changed His Life</strong> — practical guide based on real experiments. The Letter He Never Sent — And the Day It Changed His Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_the-letter-he-never-sent_p2">He wrote it in rage. He never mailed it. But every morning, for forty years, he read it again — and made the same quiet choice. Sometimes the unsaid letters write our lives.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p3">He was angry for ten years.</div>
 

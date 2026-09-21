@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_calm-is-a-superpower_p2"><strong>Calm Is a Superpower: How Composure Quietly Outperforms Talent</strong> — practical guide based on real experiments. Calm Is a Superpower: How Composure Quietly Outperforms Talent works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_calm-is-a-superpower_p2">The room quiets when calm walks in. In a world of noise, the ability to stay centered is the rarest skill. Here is how to build it — without years of meditation.</div>
 
 <div data-i18n-html="article_calm-is-a-superpower_p4">The room quiets when calm walks in. In a world of noise, the ability to stay centered is the rarest skill.</div>
 
@@ -199,6 +199,6 @@ I thought calm meant avoiding stressful situations. It does not. Calm means stay
 
 <div data-i18n-html="article_calm-is-a-superpower_p71">---</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p72"><strong>Calm is the invisible work that makes all visible work better.</strong> To see how calm fits into the larger system of identity and habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to emotional regulation instead of habits.</div>
+<div data-i18n-html="article_calm-is-a-superpower_p72"><strong>Calm is the invisible work that makes all visible work better.</strong> To see how calm fits into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to emotional regulation instead of habits.</div>
 
 <div data-i18n-html="article_calm-is-a-superpower_p73"><em>Last updated: September 12, 2026 — added personal calm story, the three calm practices, and the stress test protocol.</em></div>
