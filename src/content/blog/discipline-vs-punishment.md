@@ -53,8 +53,6 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-vs-punishment_p2"><strong>Discipline vs Punishment: The Difference That Changes Everything</strong> — practical guide based on real experiments. Discipline vs Punishment: The Difference That Changes Everything works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_discipline-vs-punishment_p3"><h1>The Difference Between Discipline and Punishment</h1></div>
-
 <div data-i18n-html="article_discipline-vs-punishment_p4">Discipline is the system that builds the person. Punishment is the system that breaks them. The two look identical from the outside. Both involve doing hard things. The difference is in the direction of the work.</div>
 
 <div data-i18n-html="article_discipline-vs-punishment_p5">This is the most important distinction in any practice of self-improvement, and almost no one names it. The cultural model of discipline has been corrupted by the schoolroom and prison models. The corrupt model says discipline is doing something you hate so you can suffer for it. This is not discipline. This is punishment wearing a discipline costume.</div>

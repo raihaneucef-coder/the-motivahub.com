@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_habitude-5-min-relations_p2"><strong>The 5-Minute Daily Habit That Strengthens Every Relationship</strong> — practical guide based on real experiments. The 5-Minute Daily Habit That Strengthens Every Relationship works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p3"><h1>The 5-Minute Daily Habit That Strengthens Every Relationship</h1>
-Relationships do not need grand gestures. They need small, consistent acts of attention. The 5-minute daily habit is simple: spend 5 minutes giving your full, undivided attention to the person you love.</div>
+<div data-i18n-html="article_habitude-5-min-relations_p3">Relationships do not need grand gestures. They need small, consistent acts of attention. The 5-minute daily habit is simple: spend 5 minutes giving your full, undivided attention to the person you love.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p4"><h2>How It Works</h2></div>
 

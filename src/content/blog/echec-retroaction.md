@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_echec-retroaction_p2"><strong>Failure Is Feedback: How to Use Setbacks as Stepping Stones</strong> — practical guide based on real experiments. Failure Is Feedback: How to Use Setbacks as Stepping Stones works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_echec-retroaction_p3"><h1>Failure Is Feedback: How to Use Setbacks as Stepping Stones</h1>
-Thomas Edison failed 10,000 times before inventing the lightbulb. When asked about his failures, he said: "I have not failed. I have just found 10,000 ways that will not work."</div>
+<div data-i18n-html="article_echec-retroaction_p3">Thomas Edison failed 10,000 times before inventing the lightbulb. When asked about his failures, he said: "I have not failed. I have just found 10,000 ways that will not work."</div>
 
 <div data-i18n-html="article_echec-retroaction_p4">Failure is not the opposite of success. It is part of success.</div>
 

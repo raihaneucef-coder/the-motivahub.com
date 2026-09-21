@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p2"><strong>The Overnight Success Myth: Why It Takes Years to Succeed</strong> — practical guide based on real experiments. The Overnight Success Myth: Why It Takes Years to Succeed works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_mythe-reussite-instantanee_p3"><h1>The Overnight Success Myth: Why It Takes Years to Succeed</h1>
-We hear stories about people who "made it overnight." The reality? There is no such thing. Behind every overnight success are years of invisible work, failures, and persistence.</div>
+<div data-i18n-html="article_mythe-reussite-instantanee_p3">We hear stories about people who "made it overnight." The reality? There is no such thing. Behind every overnight success are years of invisible work, failures, and persistence.</div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p4"><h2>The Iceberg Illusion</h2></div>
 

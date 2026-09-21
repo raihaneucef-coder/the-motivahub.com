@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_force-mentale-sport_p2"><strong>Mental Toughness in Sport: How to Perform Under Pressure</strong> — practical guide based on real experiments. Mental Toughness in Sport: How to Perform Under Pressure works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_force-mentale-sport_p3"><h1>Mental Toughness in Sport: How to Perform Under Pressure</h1>
-The best athletes in the world are not the most talented. They are the ones who can perform when the pressure is highest — when the crowd is loud, the stakes are high, and the margin for error is zero.</div>
+<div data-i18n-html="article_force-mentale-sport_p3">The best athletes in the world are not the most talented. They are the ones who can perform when the pressure is highest — when the crowd is loud, the stakes are high, and the margin for error is zero.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p4"><h2>What Is Mental Toughness?</h2></div>
 

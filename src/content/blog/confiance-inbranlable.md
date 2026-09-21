@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_confiance-inbranlable_p2"><strong>How to Build Unshakable Self-Confidence in 30 Days</strong> — practical guide based on real experiments. How to Build Unshakable Self-Confidence in 30 Days works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_confiance-inbranlable_p3"><h1>How to Build Unshakable Self-Confidence in 30 Days</h1>
-Confidence is not a personality trait. It is a skill. And like any skill, it can be built, trained, and strengthened.</div>
+<div data-i18n-html="article_confiance-inbranlable_p3">Confidence is not a personality trait. It is a skill. And like any skill, it can be built, trained, and strengthened.</div>
 
 <div data-i18n-html="article_confiance-inbranlable_p4">The difference between a confident person and an insecure one is not talent — it is practice. Confident people have simply practiced confidence more.</div>
 

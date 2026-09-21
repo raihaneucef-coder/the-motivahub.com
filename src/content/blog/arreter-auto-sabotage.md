@@ -45,8 +45,6 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-auto-sabotage_p2"><strong>Self-sabotage is fear in disguise.</strong> Your brain protects you from risk by creating doubt, distraction, or excuses. Most self-sabotage shows up as procrastination, perfectionism, self-doubt, or choosing comfort over growth — even when you know better. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p3"><h1>How to Stop Self-Sabotaging Once and for All</h1></div>
-
 <div data-i18n-html="article_arreter-auto-sabotage_p4">I missed my own book launch.</div>
 
 <div data-i18n-html="article_arreter-auto-sabotage_p5">Not because I forgot. Not because I was sick. Not because something external happened. I missed it because I spent the three days before the launch scrolling through social media, reorganizing my desk, and cleaning my apartment. I was doing everything except what I knew I needed to do: send the final emails, test the download link, write the launch announcement.</div>

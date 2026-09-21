@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_sprint-90-jours_p2"><strong>The 90-Day Sprint: Why Quarterly Goals Beat Annual Goals</strong> — practical guide based on real experiments. The 90-Day Sprint: Why Quarterly Goals Beat Annual Goals works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_sprint-90-jours_p3"><h1>The 90-Day Sprint: Why Quarterly Goals Beat Annual Goals</h1>
-Annual goals are too easy to postpone. "I will do it later" works when "later" is 10 months away. But when "later" is 90 days away, everything changes.</div>
+<div data-i18n-html="article_sprint-90-jours_p3">Annual goals are too easy to postpone. "I will do it later" works when "later" is 10 months away. But when "later" is 90 days away, everything changes.</div>
 
 <div data-i18n-html="article_sprint-90-jours_p4">The 90-day sprint is the most effective goal-setting timeframe. It is long enough to accomplish something meaningful — and short enough to create urgency.</div>
 

@@ -44,8 +44,7 @@ relatedArticles:
   - "comment-creer-des-habitudes"
 ---
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p1"><h1>How to Read 30 Books in a Year (My 90-Day Test of the 20-Minute Habit)</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_how-to-read-30-books-a-year_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p2"><strong>The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit.</strong> Research on micro-habits shows small daily actions stick better than longer weekly ones. I tested this for 90 days and finished 7 books. The key: stop counting books, start counting minutes. The goal is not the number. The goal is being the kind of person who reads every day.</div>
 

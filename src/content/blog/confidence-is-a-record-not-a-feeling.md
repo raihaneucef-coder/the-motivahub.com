@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p2"><strong>Confidence Is a Record, Not a Feeling</strong> — practical guide based on real experiments. Confidence Is a Record, Not a Feeling works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p3"><h1>Confidence Is a Record, Not a Feeling</h1>
-We wait to feel confident before we act. It is a polite way to stay still.</div>
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p3">We wait to feel confident before we act. It is a polite way to stay still.</div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p4">Confidence does not work like that. It does not arrive before you begin, like a permission slip. It arrives after — as a record of what you did when you did not feel it.</div>
 

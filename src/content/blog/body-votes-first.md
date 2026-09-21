@@ -44,8 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p2"><strong>Body Votes First — The Hidden Election That Runs Your Life</strong> — practical guide based on real experiments. Body Votes First — The Hidden Election That Runs Your Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_body-votes-first_p3"><h1>Body Votes First — The Hidden Election That Runs Your Life</h1></div>
-
 <div data-i18n-html="article_body-votes-first_p4">We like to believe the mind is in charge.</div>
 
 <div data-i18n-html="article_body-votes-first_p5">It writes the plans. It sets the alarms. It recites the ambitions at midnight. But watch closely on any given afternoon and you will see who actually runs the day: the body votes first, and the mind simply obeys.</div>

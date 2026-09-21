@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p2"><strong>The Plate That Keeps You Steady</strong> — practical guide based on real experiments. The Plate That Keeps You Steady works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_the-plate-that-keeps-you-steady_p3"><h1>The Plate That Keeps You Steady</h1>
-A steady day starts with a steady plate.</div>
+<div data-i18n-html="article_the-plate-that-keeps-you-steady_p3">A steady day starts with a steady plate.</div>
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p4">When your plate is mostly quick carbs, your energy spikes and crashes. When it is balanced, your energy stays even. This is not a diet. It is a ratio you can use for years.</div>
 

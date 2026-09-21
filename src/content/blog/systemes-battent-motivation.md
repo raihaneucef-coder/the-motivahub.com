@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_systemes-battent-motivation_p2"><strong>When Motivation Fails, Systems Take Over</strong> — practical guide based on real experiments. When Motivation Fails, Systems Take Over works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_systemes-battent-motivation_p3"><h1>When Motivation Fails, Systems Take Over</h1>
-Motivation gets you started. Systems keep you going. The problem is that most people rely on motivation — and motivation disappears when things get hard.</div>
+<div data-i18n-html="article_systemes-battent-motivation_p3">Motivation gets you started. Systems keep you going. The problem is that most people rely on motivation — and motivation disappears when things get hard.</div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p4">Systems do not care how you feel. They run regardless. And that is why systems always beat motivation.</div>
 

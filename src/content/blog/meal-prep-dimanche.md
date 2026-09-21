@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_meal-prep-dimanche_p2"><strong>Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours</strong> — practical guide based on real experiments. Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_meal-prep-dimanche_p3"><h1>Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours</h1>
-The reason most people eat poorly is not lack of knowledge — it is lack of preparation. When you are hungry and there is no healthy food ready, you order delivery. Meal prep eliminates this problem.</div>
+<div data-i18n-html="article_meal-prep-dimanche_p3">The reason most people eat poorly is not lack of knowledge — it is lack of preparation. When you are hungry and there is no healthy food ready, you order delivery. Meal prep eliminates this problem.</div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p4"><h2>The Sunday System</h2></div>
 

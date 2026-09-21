@@ -42,8 +42,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_regle-21-jours_p1"><h1>The 21-Day Myth: How Long It Really Takes to Build a Habit</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_regle-21-jours_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regle-21-jours_p2"><strong>Habit formation takes 66 days on average, not 21.</strong> Research from Lally et al. (2009) found a range of 18-254 days depending on habit complexity. The 21-day myth comes from a misapplied observation about amputees adjusting to limb loss. The real timeline is longer, but understanding it helps you stay the course.</div>
 

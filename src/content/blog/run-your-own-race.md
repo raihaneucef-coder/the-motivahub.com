@@ -46,8 +46,7 @@ relatedArticles:
 
 <div data-i18n-html="article_run-your-own-race_p2"><strong>Run Your Own Race: The Discipline of Pacing</strong> — practical guide based on real experiments. Run Your Own Race: The Discipline of Pacing works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_run-your-own-race_p3"><h1>Run Your Own Race: The Discipline of Pacing</h1>
-The start of any race is loud. Everyone sprints. The crowd cheers the fast start.</div>
+<div data-i18n-html="article_run-your-own-race_p3">The start of any race is loud. Everyone sprints. The crowd cheers the fast start.</div>
 
 <div data-i18n-html="article_run-your-own-race_p4">The smart runner does not listen.</div>
 

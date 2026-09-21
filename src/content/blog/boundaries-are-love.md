@@ -44,8 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_boundaries-are-love_p2"><strong>Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do</strong> — practical guide based on real experiments. Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p3"><h1>Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do</h1></div>
-
 <div data-i18n-html="article_boundaries-are-love_p4">We think boundaries push people away. The opposite is true: unclear boundaries slowly poison closeness, until distance feels safer than honesty.</div>
 
 <div data-i18n-html="article_boundaries-are-love_p5">I learned this in 2023, when I said yes to every request for 6 months. Every meeting. Every favor. Every "can you help me with this?" By July, I was exhausted. I was resentful. I was avoiding friends because I knew they would ask for something.</div>

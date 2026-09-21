@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-choix-quotidien_p2"><strong>Discipline Is a Choice You Make Every Single Day</strong> — practical guide based on real experiments. Discipline Is a Choice You Make Every Single Day works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_discipline-choix-quotidien_p3"><h1>Discipline Is a Choice You Make Every Single Day</h1>
-Every morning, you face the same choice: comfort or discipline. The alarm goes off — do you get up or hit snooze? The workout awaits — do you show up or stay in bed? The work is waiting — do you start or scroll?</div>
+<div data-i18n-html="article_discipline-choix-quotidien_p3">Every morning, you face the same choice: comfort or discipline. The alarm goes off — do you get up or hit snooze? The workout awaits — do you show up or stay in bed? The work is waiting — do you start or scroll?</div>
 
 <div data-i18n-html="article_discipline-choix-quotidien_p4">Discipline is not a personality trait. It is not something you are born with or without. It is a <strong>choice</strong> — and you make it every single day.</div>
 

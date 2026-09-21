@@ -40,8 +40,6 @@ faq:
 
 <div data-i18n-html="article_atomic-habits-review_p2"><strong>I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time.</strong> — practical guide based on real experiments. I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_atomic-habits-review_p3"><h1>I Read Atomic Habits 4 Times in 18 Months. Here's What Changed Each Time.</h1></div>
-
 <div data-i18n-html="article_atomic-habits-review_p4">It is probably the most highlighted book of the decade. Millions own a copy, a fraction finish it, and only a handful actually live it. That gap is ironic — because Atomic Habits is precisely about closing small gaps, one repetition at a time.</div>
 
 <div data-i18n-html="article_atomic-habits-review_p5">I read it 4 times in 18 months. Not because I forgot the content. Because each read changed what I saw.</div>

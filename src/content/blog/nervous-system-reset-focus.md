@@ -44,8 +44,7 @@ relatedArticles:
   - "regle-40-pourcent"
 ---
 
-<div data-i18n-html="article_nervous-system-reset-focus_p1"><h1>Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_nervous-system-reset-focus_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p2"><strong>Most focus problems aren't willpower issues — they're nervous system issues.</strong> When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first. The fastest way: slow exhales (4-7-8 breathing) for 60-90 seconds. This activates the parasympathetic nervous system and is the fastest, free, portable tool available.</div>
 

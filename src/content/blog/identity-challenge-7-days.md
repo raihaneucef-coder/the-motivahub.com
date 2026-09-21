@@ -49,8 +49,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_identity-challenge-7-days_p1"><h1>I Ran a 7-Day Identity Challenge. Here's What 7 Days of Voting Actually Does.</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_identity-challenge-7-days_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_identity-challenge-7-days_p2"><strong>A 7-day identity challenge</strong> is a structured micro-experiment: pick one identity statement ("I am a writer"), one tiny daily action (write one sentence), and repeat for 7 days. Seven days is not enough to form a habit (median is 66 days), but it's enough to start the automaticity curve and gather evidence that you are the kind of person who does this thing. The first week is the steepest part of the curve.</div>
 

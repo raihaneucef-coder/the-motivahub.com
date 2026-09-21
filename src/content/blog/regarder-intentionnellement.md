@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regarder-intentionnellement_p2"><strong>How to Watch Movies and Shows That Actually Improve Your Life</strong> — practical guide based on real experiments. How to Watch Movies and Shows That Actually Improve Your Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_regarder-intentionnellement_p3"><h1>How to Watch Movies and Shows That Actually Improve Your Life</h1>
-Entertainment is not inherently bad. It becomes bad when it is mindless. When you watch with intention, entertainment can be educational, inspiring, and even life-changing.</div>
+<div data-i18n-html="article_regarder-intentionnellement_p3">Entertainment is not inherently bad. It becomes bad when it is mindless. When you watch with intention, entertainment can be educational, inspiring, and even life-changing.</div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p4"><h2>Mindful Entertainment</h2></div>
 

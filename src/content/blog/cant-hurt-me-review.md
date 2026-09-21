@@ -48,8 +48,7 @@ relatedArticles:
 
 <div data-i18n-html="article_cant-hurt-me-review_p2"><strong>I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You.</strong> — practical guide based on real experiments. I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p3"><h1>I Read Can't Hurt Me 3 Times. Here's What Goggins Won't Tell You.</h1>
-I picked up Can't Hurt Me on a Tuesday in October 2024. I was tired. I'd read half a dozen self-help books that year and forgotten most of them. By the end of that week, I'd read it twice.</div>
+<div data-i18n-html="article_cant-hurt-me-review_p3">I picked up Can't Hurt Me on a Tuesday in October 2024. I was tired. I'd read half a dozen self-help books that year and forgotten most of them. By the end of that week, I'd read it twice.</div>
 
 <div data-i18n-html="article_cant-hurt-me-review_p4">I went back a third time eight months later. And then a fourth.</div>
 

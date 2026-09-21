@@ -45,8 +45,7 @@ relatedArticles:
   - "fuel-before-willpower"
 ---
 
-<div data-i18n-html="article_the-morning-athlete_p1"><h1>The Morning Athlete: Why 5 AM Still Wins (And How to Actually Do It)</h1>
-<blockquote><strong>Medical Disclaimer</strong>: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.</blockquote></div>
+<div data-i18n-html="article_the-morning-athlete_p1"><blockquote><strong>Medical Disclaimer</strong>: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.</blockquote></div>
 
 <div data-i18n-html="article_the-morning-athlete_p2"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 

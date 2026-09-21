@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_small-wins-big-life_p2"><strong>Small Wins, Big Life: The Power of Tiny Habits</strong> — practical guide based on real experiments. Small Wins, Big Life: The Power of Tiny Habits works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_small-wins-big-life_p3"><h1>Small Wins, Big Life: The Power of Tiny Habits</h1>
-We wait for a big moment to change our lives. It never comes that way.</div>
+<div data-i18n-html="article_small-wins-big-life_p3">We wait for a big moment to change our lives. It never comes that way.</div>
 
 <div data-i18n-html="article_small-wins-big-life_p4">Big lives are not built in big moments. They are built in small wins, repeated so often they become who you are.</div>
 

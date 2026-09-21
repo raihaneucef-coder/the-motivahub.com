@@ -44,8 +44,7 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p1"><h1>I Tested 12 Morning Routines for 30 Days. Only One Actually Worked.</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_i-tested-12-morning-routines_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p2"><strong>There is no one-size-fits-all morning routine.</strong> The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a 90-minute ritual that requires quitting your job. I tested 12 routines for 30 days. Only one survived contact with a real Tuesday.</div>
 

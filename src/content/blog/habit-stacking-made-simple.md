@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_habit-stacking-made-simple_p2"><strong>Habit Stacking: Link New Habits to Old Ones</strong> — practical guide based on real experiments. Habit Stacking: Link New Habits to Old Ones works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_habit-stacking-made-simple_p3"><h1>Habit Stacking: Link New Habits to Old Ones</h1>
-We try to build new habits in empty space. We say: I will meditate at 7 AM. But 7 AM does not yet mean anything to our brain.</div>
+<div data-i18n-html="article_habit-stacking-made-simple_p3">We try to build new habits in empty space. We say: I will meditate at 7 AM. But 7 AM does not yet mean anything to our brain.</div>
 
 <div data-i18n-html="article_habit-stacking-made-simple_p4">Old habits already have space. They have a time, a place, and a cue that your brain knows by heart.</div>
 

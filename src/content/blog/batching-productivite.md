@@ -44,8 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_batching-productivite_p2"><strong>Batching: The Secret Weapon of Highly Productive People</strong> — practical guide based on real experiments. Batching: The Secret Weapon of Highly Productive People works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
-<div data-i18n-html="article_batching-productivite_p3"><h1>Batching: The Secret Weapon of Highly Productive People</h1></div>
-
 <div data-i18n-html="article_batching-productivite_p4">Every time you switch between different types of tasks, your brain pays a cognitive tax. It takes time to refocus, reorient, and get back into flow. Batching eliminates this tax.</div>
 
 <div data-i18n-html="article_batching-productivite_p5">I learned this in 2023, when I was trying to write a book while running a business. Every day was a mess of email, writing, calls, admin, and more email. I felt busy. I was not productive.</div>

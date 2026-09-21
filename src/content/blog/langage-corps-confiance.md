@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_langage-corps-confiance_p2"><strong>Body Language Secrets: How to Project Confidence Without Saying a Word</strong> — practical guide based on real experiments. Body Language Secrets: How to Project Confidence Without Saying a Word works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_langage-corps-confiance_p3"><h1>Body Language Secrets: How to Project Confidence Without Saying a Word</h1>
-Research shows that 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Your body is already speaking — make sure it is saying the right things.</div>
+<div data-i18n-html="article_langage-corps-confiance_p3">Research shows that 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Your body is already speaking — make sure it is saying the right things.</div>
 
 <div data-i18n-html="article_langage-corps-confiance_p4"><h2>Power Postures</h2></div>
 

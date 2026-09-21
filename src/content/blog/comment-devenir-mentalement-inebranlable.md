@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p2"><strong>How to Become Mentally Unbreakable — Nothing Can Break You</strong> — practical guide based on real experiments. How to Become Mentally Unbreakable — Nothing Can Break You works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p3"><h1>How to Become Mentally Unbreakable — Nothing Can Break You</h1>
-<blockquote><em>Source d'inspiration : <a href="https://www.youtube.com/watch?v=2KsoiHBZGVc">David Goggins — Comment devenir mentalement inébranlable (YouTube)</a></em></blockquote></div>
+<div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p3"><blockquote><em>Source d'inspiration : <a href="https://www.youtube.com/watch?v=2KsoiHBZGVc">David Goggins — Comment devenir mentalement inébranlable (YouTube)</a></em></blockquote></div>
 
 <div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p4">Tu ne nais pas inébranlable. Tu le deviens — répétition après répétition, dans l'inconfort que les autres évitent.</div>
 

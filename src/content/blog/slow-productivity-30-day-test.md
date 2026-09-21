@@ -44,8 +44,7 @@ relatedArticles:
   - "discipline-beat-motivation"
 ---
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p1"><h1>I Tried Slow Productivity for 30 Days. Here's What Actually Changed.</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_slow-productivity-30-day-test_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p2"><strong>Slow productivity</strong> is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days and cut my active projects in half while doubling output quality. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.</div>
 

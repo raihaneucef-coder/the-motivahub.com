@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_podcasts-education_p2"><strong>Podcasts as Education: How to Learn While You Do Everything Else</strong> — practical guide based on real experiments. Podcasts as Education: How to Learn While You Do Everything Else works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_podcasts-education_p3"><h1>Podcasts as Education: How to Learn While You Do Everything Else</h1>
-You spend hours every week commuting, exercising, and doing chores. What if you could learn during those hours? Podcasts make it possible.</div>
+<div data-i18n-html="article_podcasts-education_p3">You spend hours every week commuting, exercising, and doing chores. What if you could learn during those hours? Podcasts make it possible.</div>
 
 <div data-i18n-html="article_podcasts-education_p4"><h2>Why Podcasts Work</h2></div>
 

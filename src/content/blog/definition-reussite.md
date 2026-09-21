@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_definition-reussite_p2"><strong>The Definition of Success Is Personal: Stop Copying Others</strong> — practical guide based on real experiments. The Definition of Success Is Personal: Stop Copying Others works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_definition-reussite_p3"><h1>The Definition of Success Is Personal: Stop Copying Others</h1>
-The biggest mistake you can make is chasing someone else's version of success. A Ferrari does not make you successful if you hate driving. A corner office does not make you successful if you hate your job.</div>
+<div data-i18n-html="article_definition-reussite_p3">The biggest mistake you can make is chasing someone else's version of success. A Ferrari does not make you successful if you hate driving. A corner office does not make you successful if you hate your job.</div>
 
 <div data-i18n-html="article_definition-reussite_p4"><h2>Why We Copy Others</h2></div>
 

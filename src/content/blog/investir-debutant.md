@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_investir-debutant_p2"><strong>Investing for Beginners: Start Building Wealth Today</strong> — practical guide based on real experiments. Investing for Beginners: Start Building Wealth Today works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_investir-debutant_p3"><h1>Investing for Beginners: Start Building Wealth Today</h1>
-The best time to start investing was 20 years ago. The second best time is today. Investing is how you make your money work for you — instead of you working for your money.</div>
+<div data-i18n-html="article_investir-debutant_p3">The best time to start investing was 20 years ago. The second best time is today. Investing is how you make your money work for you — instead of you working for your money.</div>
 
 <div data-i18n-html="article_investir-debutant_p4"><h2>Why You Should Invest</h2></div>
 

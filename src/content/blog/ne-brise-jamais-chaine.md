@@ -42,8 +42,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_ne-brise-jamais-chaine_p1"><h1>Never Break the Chain: The Simple Rule That Changes Everything</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_ne-brise-jamais-chaine_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p2"><strong>Jerry Seinfeld's habit strategy:</strong> mark an X on a calendar every day you complete your habit, and never break the chain. It works because of loss aversion, visual proof, and momentum. The longer the chain, the harder it is to break. The practical version includes the 2-day rule: never miss twice, not never miss once.</div>
 

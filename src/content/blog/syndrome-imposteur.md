@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_syndrome-imposteur_p2"><strong>Imposter Syndrome: Why You Feel Like a Fraud and How to Stop</strong> — practical guide based on real experiments. Imposter Syndrome: Why You Feel Like a Fraud and How to Stop works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_syndrome-imposteur_p3"><h1>Imposter Syndrome: Why You Feel Like a Fraud and How to Stop</h1>
-You got the promotion, but you feel like you do not deserve it. You published the article, but you feel like it was luck. You achieved the goal, but you feel like anyone could have done it.</div>
+<div data-i18n-html="article_syndrome-imposteur_p3">You got the promotion, but you feel like you do not deserve it. You published the article, but you feel like it was luck. You achieved the goal, but you feel like anyone could have done it.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p4">This is imposter syndrome — and 70% of people experience it at some point in their lives.</div>
 

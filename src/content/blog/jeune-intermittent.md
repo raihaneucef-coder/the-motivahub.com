@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_jeune-intermittent_p2"><strong>Intermittent Fasting: Does It Really Work?</strong> — practical guide based on real experiments. Intermittent Fasting: Does It Really Work? works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_jeune-intermittent_p3"><h1>Intermittent Fasting: Does It Really Work?</h1>
-Intermittent fasting (IF) is not a diet — it is an eating pattern. You cycle between periods of eating and fasting. The most common method is 16:8 — fast for 16 hours, eat for 8.</div>
+<div data-i18n-html="article_jeune-intermittent_p3">Intermittent fasting (IF) is not a diet — it is an eating pattern. You cycle between periods of eating and fasting. The most common method is 16:8 — fast for 16 hours, eat for 8.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p4"><h2>What the Science Says</h2></div>
 

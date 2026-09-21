@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_social-muscle_p2"><strong>The Social Muscle — Why Connection Is a Discipline</strong> — practical guide based on real experiments. The Social Muscle — Why Connection Is a Discipline works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_social-muscle_p3"><h1>The Social Muscle — Why Connection Is a Discipline</h1>
-A brief social lesson is 19 seconds long: a man says, "You do not find community. You build it, one awkward hello at a time." The message resonates not because of charisma — but because of relief. Everyone thought they were the only ones who found it hard.</div>
+<div data-i18n-html="article_social-muscle_p3">A brief social lesson is 19 seconds long: a man says, "You do not find community. You build it, one awkward hello at a time." The message resonates not because of charisma — but because of relief. Everyone thought they were the only ones who found it hard.</div>
 
 <div data-i18n-html="article_social-muscle_p4"><h2>Social Connection Is a Skill</h2></div>
 

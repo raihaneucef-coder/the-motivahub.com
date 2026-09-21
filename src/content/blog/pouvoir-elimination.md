@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_pouvoir-elimination_p2"><strong>The Power of Elimination: Do Less, Achieve More</strong> — practical guide based on real experiments. The Power of Elimination: Do Less, Achieve More works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_pouvoir-elimination_p3"><h1>The Power of Elimination: Do Less, Achieve More</h1>
-We live in a culture that celebrates busyness. More tasks, more meetings, more emails, more everything. But the most productive people do not do more — they do less.</div>
+<div data-i18n-html="article_pouvoir-elimination_p3">We live in a culture that celebrates busyness. More tasks, more meetings, more emails, more everything. But the most productive people do not do more — they do less.</div>
 
 <div data-i18n-html="article_pouvoir-elimination_p4">They eliminate ruthlessly. They focus only on what matters. And the results speak for themselves.</div>
 

@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p2"><strong>Mindset: How to Adopt a Winning Mindset and Transform Your Life</strong> — practical guide based on real experiments. Mindset: How to Adopt a Winning Mindset and Transform Your Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p3"><h1>Mindset: How to Adopt a Winning Mindset and Transform Your Life</h1>
-Ton mindset détermine tout. Pas ton talent. Pas tes circonstances. Pas ta chance. <strong>Ta façon de penser.</strong></div>
+<div data-i18n-html="article_mindset-etat-esprit_p3">Ton mindset détermine tout. Pas ton talent. Pas tes circonstances. Pas ta chance. <strong>Ta façon de penser.</strong></div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p4">Voici comment adopter un état d'esprit gagnant — et transformer chaque domaine de ta vie.</div>
 

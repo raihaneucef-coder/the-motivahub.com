@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p2"><strong>Your Nervous System Is the Boss</strong> — practical guide based on real experiments. Your Nervous System Is the Boss works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_nervous-system-is-the-boss_p3"><h1>Your Nervous System Is the Boss</h1>
-You cannot think your way out of a body that believes it is in danger.</div>
+<div data-i18n-html="article_nervous-system-is-the-boss_p3">You cannot think your way out of a body that believes it is in danger.</div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p4">You can repeat affirmations while your jaw is clenched, your shoulders are up to your ears, and your breath is shallow. Your nervous system will not be convinced. It listens to the body first, and to words last.</div>
 

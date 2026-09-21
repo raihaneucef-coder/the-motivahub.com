@@ -42,8 +42,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_journal-croissance_p1"><h1>Journaling for Growth: How Writing Transforms Your Self-Awareness</h1>
-<blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
+<div data-i18n-html="article_journal-croissance_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_journal-croissance_p2"><strong>Journaling works because it forces you to examine your thoughts objectively.</strong> When you write, you understand your thoughts. When you understand them, you can change them. Research shows that 10 minutes of daily writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking.</div>
 

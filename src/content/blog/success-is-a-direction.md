@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_success-is-a-direction_p2"><strong>Success Is a Direction, Not a Destination</strong> — practical guide based on real experiments. Success Is a Direction, Not a Destination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_success-is-a-direction_p3"><h1>Success Is a Direction, Not a Destination</h1>
-We picture success as a door. Once we walk through it, we will finally feel done.</div>
+<div data-i18n-html="article_success-is-a-direction_p3">We picture success as a door. Once we walk through it, we will finally feel done.</div>
 
 <div data-i18n-html="article_success-is-a-direction_p4">No one who has walked through that door describes it that way. They describe what happened next: another hallway, another door.</div>
 

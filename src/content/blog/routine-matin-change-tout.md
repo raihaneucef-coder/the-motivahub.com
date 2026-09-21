@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_routine-matin-change-tout_p2"><strong>The Morning Routine That Changes Everything</strong> — practical guide based on real experiments. The Morning Routine That Changes Everything works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_routine-matin-change-tout_p3"><h1>The Morning Routine That Changes Everything</h1>
-The morning is the only time of day that is truly yours. Before the emails, before the meetings, before the world starts making demands — there is a window of freedom. How you use it determines the quality of your entire day.</div>
+<div data-i18n-html="article_routine-matin-change-tout_p3">The morning is the only time of day that is truly yours. Before the emails, before the meetings, before the world starts making demands — there is a window of freedom. How you use it determines the quality of your entire day.</div>
 
 <div data-i18n-html="article_routine-matin-change-tout_p4"><h2>Why the Morning Matters</h2></div>
 

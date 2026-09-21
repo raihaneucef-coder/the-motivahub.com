@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-budget_p2"><strong>Budget Travel: How to See the World Without Going Broke</strong> — practical guide based on real experiments. Budget Travel: How to See the World Without Going Broke works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_voyage-budget_p3"><h1>Budget Travel: How to See the World Without Going Broke</h1>
-"Travel is too expensive" is the most common excuse for not exploring the world. But it is just that — an excuse. With the right strategies, you can travel for less than you spend at home.</div>
+<div data-i18n-html="article_voyage-budget_p3">"Travel is too expensive" is the most common excuse for not exploring the world. But it is just that — an excuse. With the right strategies, you can travel for less than you spend at home.</div>
 
 <div data-i18n-html="article_voyage-budget_p4"><h2>How to Travel Cheap</h2></div>
 

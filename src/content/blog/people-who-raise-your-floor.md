@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_people-who-raise-your-floor_p2"><strong>The People Who Raise Your Floor</strong> — practical guide based on real experiments. The People Who Raise Your Floor works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_people-who-raise-your-floor_p3"><h1>The People Who Raise Your Floor</h1>
-We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.</div>
+<div data-i18n-html="article_people-who-raise-your-floor_p3">We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.</div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p4">Your floor is not set by you alone. It is set by the room you keep returning to. The friends who normalize early mornings or late-night scrolling. The family that expects you to try or to stay small. The conversations that leave you lighter or heavier.</div>
 

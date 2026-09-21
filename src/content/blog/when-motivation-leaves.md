@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_when-motivation-leaves_p2"><strong>When Motivation Leaves</strong> — practical guide based on real experiments. When Motivation Leaves works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_when-motivation-leaves_p3"><h1>When Motivation Leaves</h1>
-Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day.</div>
+<div data-i18n-html="article_when-motivation-leaves_p3">Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day.</div>
 
 <div data-i18n-html="article_when-motivation-leaves_p4"><h2>The Day the Feeling Doesn't Come</h2></div>
 

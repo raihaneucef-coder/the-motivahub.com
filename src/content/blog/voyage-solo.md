@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-solo_p2"><strong>Solo Travel: Why Everyone Should Travel Alone at Least Once</strong> — practical guide based on real experiments. Solo Travel: Why Everyone Should Travel Alone at Least Once works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_voyage-solo_p3"><h1>Solo Travel: Why Everyone Should Travel Alone at Least Once</h1>
-Most people are terrified of traveling alone. They imagine eating alone, being lost in a foreign city, and having no one to talk to. But solo travel is not about loneliness — it is about freedom.</div>
+<div data-i18n-html="article_voyage-solo_p3">Most people are terrified of traveling alone. They imagine eating alone, being lost in a foreign city, and having no one to talk to. But solo travel is not about loneliness — it is about freedom.</div>
 
 <div data-i18n-html="article_voyage-solo_p4"><h2>Why Solo Travel Is Transformative</h2></div>
 

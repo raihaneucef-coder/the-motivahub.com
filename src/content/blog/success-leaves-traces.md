@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_success-leaves-traces_p2"><strong>Success Leaves Traces</strong> — practical guide based on real experiments. Success Leaves Traces works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_success-leaves-traces_p3"><h1>Success Leaves Traces</h1>
-We study the trophy and ignore the traces.</div>
+<div data-i18n-html="article_success-leaves-traces_p3">We study the trophy and ignore the traces.</div>
 
 <div data-i18n-html="article_success-leaves-traces_p4">The trophy is the photo. The traces are the habits that made the photo possible — the early mornings, the notes in the margin, the hundred small choices that never made it to Instagram.</div>
 

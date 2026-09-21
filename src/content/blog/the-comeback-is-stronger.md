@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-comeback-is-stronger_p2"><strong>The Comeback Is Always Stronger Than the Setback</strong> — practical guide based on real experiments. The Comeback Is Always Stronger Than the Setback works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_the-comeback-is-stronger_p3"><h1>The Comeback Is Always Stronger Than the Setback</h1>
-They told you the fall would break you. It didn't. It built you.</div>
+<div data-i18n-html="article_the-comeback-is-stronger_p3">They told you the fall would break you. It didn't. It built you.</div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p4">Every person who has ever grown has a chapter they did not want to live through — a loss, a failure, a season where nothing worked. That chapter is not the end of the story. It is the training montage.</div>
 

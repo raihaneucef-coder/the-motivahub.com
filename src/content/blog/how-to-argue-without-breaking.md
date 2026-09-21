@@ -46,8 +46,7 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p2"><strong>How to Argue Without Breaking</strong> — practical guide based on real experiments. How to Argue Without Breaking works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_how-to-argue-without-breaking_p3"><h1>How to Argue Without Breaking</h1>
-Every relationship will argue. The question is not whether you will disagree, but how you will return.</div>
+<div data-i18n-html="article_how-to-argue-without-breaking_p3">Every relationship will argue. The question is not whether you will disagree, but how you will return.</div>
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p4">Most arguments break not because the topic is hard, but because people stop feeling safe. Voices rise, old scores are pulled in, and the goal shifts from understanding to winning. No one wins that game.</div>
 

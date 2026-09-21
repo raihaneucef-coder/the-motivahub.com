@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_habit-stacking-routine_p2"><strong>Habit Stacking: The Easiest Way to Build New Routines</strong> — practical guide based on real experiments. Habit Stacking: The Easiest Way to Build New Routines works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_habit-stacking-routine_p3"><h1>Habit Stacking: The Easiest Way to Build New Routines</h1>
-You already have dozens of habits. You wake up, brush your teeth, make coffee, check your phone. These behaviors run on autopilot. The key to building new habits is to <strong>attach them to the ones that already exist</strong>.</div>
+<div data-i18n-html="article_habit-stacking-routine_p3">You already have dozens of habits. You wake up, brush your teeth, make coffee, check your phone. These behaviors run on autopilot. The key to building new habits is to <strong>attach them to the ones that already exist</strong>.</div>
 
 <div data-i18n-html="article_habit-stacking-routine_p4">This is habit stacking — and it is the most reliable way to build consistent routines.</div>
 

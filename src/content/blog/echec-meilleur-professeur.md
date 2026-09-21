@@ -43,8 +43,7 @@ relatedArticles:
 
 <div data-i18n-html="article_echec-meilleur-professeur_p2"><strong>Failure Is Your Best Teacher: Why Losing Is the Real Winning</strong> — practical guide based on real experiments. Failure Is Your Best Teacher: Why Losing Is the Real Winning works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_echec-meilleur-professeur_p3"><h1>Failure Is Your Best Teacher: Why Losing Is the Real Winning</h1>
-Everyone wants to win. But the people who win the most are the ones who have failed the most. This is not a paradox — it is the price of admission.</div>
+<div data-i18n-html="article_echec-meilleur-professeur_p3">Everyone wants to win. But the people who win the most are the ones who have failed the most. This is not a paradox — it is the price of admission.</div>
 
 <div data-i18n-html="article_echec-meilleur-professeur_p4">Failure is not the opposite of success. It is the path to success. And the sooner you learn to embrace it, the sooner you start actually winning.</div>
 

@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_two-minute-breath-reset_p2"><strong>The Two-Minute Breath Reset</strong> — practical guide based on real experiments. The Two-Minute Breath Reset works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_two-minute-breath-reset_p3"><h1>The Two-Minute Breath Reset</h1>
-Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.</div>
+<div data-i18n-html="article_two-minute-breath-reset_p3">Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p4">When stress rises, breathing shortens. When breathing shortens, the brain hears danger. It is a loop that feeds itself — unless you interrupt it at the body.</div>
 

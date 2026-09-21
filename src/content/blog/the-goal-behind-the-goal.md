@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p2"><strong>The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working</strong> — practical guide based on real experiments. The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_the-goal-behind-the-goal_p3"><h1>The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working</h1>
-We set a goal and chase it. Then we wonder why motivation fades halfway.</div>
+<div data-i18n-html="article_the-goal-behind-the-goal_p3">We set a goal and chase it. Then we wonder why motivation fades halfway.</div>
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p4">Often the goal on paper is not the real goal.</div>
 

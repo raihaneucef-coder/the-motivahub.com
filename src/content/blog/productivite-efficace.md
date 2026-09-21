@@ -44,8 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_productivite-efficace_p2"><strong>How to Be More Productive — Work Smarter, Not Harder</strong> — practical guide based on real experiments. How to Be More Productive — Work Smarter, Not Harder works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_productivite-efficace_p3"><h1>How to Be More Productive — Work Smarter, Not Harder</h1>
-Être productif ne signifie pas faire plus. C'est faire <strong>mieux</strong> — moins de bruit, plus de résultat.</div>
+<div data-i18n-html="article_productivite-efficace_p3">Être productif ne signifie pas faire plus. C'est faire <strong>mieux</strong> — moins de bruit, plus de résultat.</div>
 
 <div data-i18n-html="article_productivite-efficace_p4">Voici les stratégies les plus efficaces pour transformer ta journée sans travailler plus dur.</div>
 

@@ -45,8 +45,6 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p2"><strong>Caring what people think is human. Letting it control your life is a choice.</strong> Most people are focused on themselves, not you. The spotlight effect is real: you think people notice you more than they do. The goal is not to stop caring entirely — it is to care less about strangers' opinions and more about the opinions of people who know and respect you.</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p3"><h1>How to Stop Caring What People Think of You</h1></div>
-
 <div data-i18n-html="article_arreter-couper-avis_p4">The average person spends 5 hours a day worrying about what others think. That is 75 days per year spent on opinions that do not matter.</div>
 
 <div data-i18n-html="article_arreter-couper-avis_p5">I know this because I was that person.</div>

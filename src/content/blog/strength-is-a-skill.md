@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_strength-is-a-skill_p2"><strong>Strength Is a Skill, Not a Talent</strong> — practical guide based on real experiments. Strength Is a Skill, Not a Talent works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_strength-is-a-skill_p3"><h1>Strength Is a Skill, Not a Talent</h1>
-We treat strength as something people have. It is something people build, rep by rep, with attention.</div>
+<div data-i18n-html="article_strength-is-a-skill_p3">We treat strength as something people have. It is something people build, rep by rep, with attention.</div>
 
 <div data-i18n-html="article_strength-is-a-skill_p4">The strongest people in the gym are not the ones who lift the most on day one. They are the ones who still care about form on rep 100.</div>
 

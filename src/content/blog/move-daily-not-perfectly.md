@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_move-daily-not-perfectly_p2"><strong>Move Daily, Not Perfectly</strong> — practical guide based on real experiments. Move Daily, Not Perfectly works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_move-daily-not-perfectly_p3"><h1>Move Daily, Not Perfectly</h1>
-The perfect workout is the one you keep skipping because you are waiting for the perfect hour, the perfect gym, the perfect energy.</div>
+<div data-i18n-html="article_move-daily-not-perfectly_p3">The perfect workout is the one you keep skipping because you are waiting for the perfect hour, the perfect gym, the perfect energy.</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p4"><strong>A daily, imperfect move beats a perfect, occasional one every time.</strong></div>
 

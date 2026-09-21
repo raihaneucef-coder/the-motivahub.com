@@ -45,8 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p2"><strong>The Tyranny of the Visible Timeline</strong> — practical guide based on real experiments. The Tyranny of the Visible Timeline works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
-<div data-i18n-html="article_tyranny-of-the-visible-timeline_p3"><h1>The Tyranny of the Visible Timeline</h1>
-Ask most people why they quit something and they will tell you a story about the goal — it stopped mattering, it turned out to be the wrong one, life got in the way. Look closer and a different pattern shows up more often: they quit because they were checking the clock, and the clock kept saying the same discouraging thing.</div>
+<div data-i18n-html="article_tyranny-of-the-visible-timeline_p3">Ask most people why they quit something and they will tell you a story about the goal — it stopped mattering, it turned out to be the wrong one, life got in the way. Look closer and a different pattern shows up more often: they quit because they were checking the clock, and the clock kept saying the same discouraging thing.</div>
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p4">Progress is rarely linear, but the mind expects it to be. Week one should lead to a slightly better week two, which should lead to a visibly better week three. When the graph refuses to cooperate — when week six looks disappointingly like week one — the temptation is to conclude the method has failed, rather than the more accurate conclusion: the method is working on a timescale the mind wasn't prepared to wait for.</div>
 
