@@ -22,7 +22,7 @@ keywords:
   - "need"
 tags:
   - "mindset"
-wordCount: 507
+wordCount: 574
 
 faq:
   - q: "What is the difference between discipline and motivation?"

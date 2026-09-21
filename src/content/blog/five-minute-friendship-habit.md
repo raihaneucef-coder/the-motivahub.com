@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 204
+wordCount: 263
 
 faq:
   - q: "How long does it take to build this habit?"

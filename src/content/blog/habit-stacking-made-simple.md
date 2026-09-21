@@ -22,7 +22,7 @@ keywords:
   - "easiest"
 tags:
   - "habits"
-wordCount: 206
+wordCount: 280
 
 faq:
   - q: "How long does it take to build this habit?"

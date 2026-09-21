@@ -29,7 +29,7 @@ tags:
   - "discipline"
   - "philosophy"
   - "psychology"
-wordCount: 1240
+wordCount: 1709
 faq:
   - q: "What is the difference between discipline and punishment?"
     a: "Discipline is a system of self-directed rules that builds the person you want to become. Punishment is a system of self-imposed suffering that breaks the person you currently are. The two are often confused because they look identical from the outside — both involve doing hard things. The difference is in the direction of the work. Discipline builds upward. Punishment tears downward. Most self-inflicted suffering labeled 'discipline' is actually punishment, and the difference matters because the two systems produce opposite long-term results."

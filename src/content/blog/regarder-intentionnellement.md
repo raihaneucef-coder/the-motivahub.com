@@ -21,17 +21,8 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 228
+wordCount: 307
 
-faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)"
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
@@ -73,16 +64,5 @@ If a movie inspires you, act on it. If a show teaches you something, apply it. E
 <div data-i18n-html="article_regarder-intentionnellement_p12">Entertainment is like sugar — enjoyable in moderation, harmful in excess. Set limits on screen time and choose content that adds value to your life.</div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p13"><blockquote><em>We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle</em></blockquote></div>
-
-<div data-i18n-html="article_regarder-intentionnellement_p14">faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----</div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p15"><strong>Watch with intention today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you to consume mindfully. Track your habits with our <a href="/tracker/">Habit Tracker</a>.</div>

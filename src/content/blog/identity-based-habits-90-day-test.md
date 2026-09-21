@@ -25,7 +25,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "identity"
-wordCount: 1750
+wordCount: 1997
 faq:
   - q: "What is an identity-based habit?"
     a: "An identity-based habit is one where you focus on who you want to become (a writer, a runner, a calm person) rather than what you want to achieve (write a book, run a marathon, reduce stress). Each action becomes a 'vote' for that identity. Over time, the identity becomes self-reinforcing."
@@ -269,7 +269,7 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p93">Welcome to being someone different.</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p94"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_identity-based-habits-90-day-test_p94"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>The book that taught me this</strong></p>
 <p><a href="https://www.amazon.fr/dp/1847941834?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=identity-habits" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Atomic Habits by James Clear</a> — the identity-first habit framework</p>
 <p><a href="https://www.amazon.fr/dp/0735211290?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=identity-habits" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Tiny Habits by BJ Fogg</a> — for the small-vote approach</p>

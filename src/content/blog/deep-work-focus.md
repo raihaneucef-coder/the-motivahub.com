@@ -21,7 +21,7 @@ keywords:
 tags:
   - "productivity"
   - "how-to"
-wordCount: 302
+wordCount: 380
 bookSlug: deep-work
 
 faq:
@@ -74,16 +74,5 @@ Use our <a href="/tracker/">Habit Tracker</a> to mark every day you complete a d
 <div data-i18n-html="article_deep-work-focus_p14">The best time for deep work is the morning, when your willpower is highest. Protect your morning for deep work. Save shallow work for the afternoon.</div>
 
 <div data-i18n-html="article_deep-work-focus_p15"><blockquote><em>The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable. — Cal Newport</em></blockquote></div>
-
-<div data-i18n-html="article_deep-work-focus_p16">faq:
-  - q: "Why can't I focus even when I try?"
-    a: "Most focus problems are nervous system issues, not willpower issues. When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first: 4-7-8 breathing for 60-90 seconds."
-  - q: "What is the best focus technique?"
-    a: "Deep work in 90-minute blocks, protected from interruptions. The setup: phone in another room, tasks defined in advance, single-tasking only. The recovery: 20-minute break between blocks. The consistency: same time every day."
-  - q: "How do I stop multitasking?"
-    a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
-  - q: "Can focus be trained?"
-    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity.
----</div>
 
 <div data-i18n-html="article_deep-work-focus_p17"><strong>Master deep work.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> trains your focus through daily challenges. Track your sessions with our <a href="/tracker/">Habit Tracker</a>.</div>

@@ -20,7 +20,7 @@ keywords:
   - "others"
 tags:
   - "personal growth"
-wordCount: 407
+wordCount: 487
 
 faq:
   - q: "Why can't I focus even when I try?"

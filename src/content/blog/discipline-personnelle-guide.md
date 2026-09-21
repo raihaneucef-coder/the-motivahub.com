@@ -21,7 +21,7 @@ keywords:
 tags:
   - "discipline"
   - "guide"
-wordCount: 726
+wordCount: 882
 
 faq:
   - q: "What is the difference between discipline and motivation?"
@@ -133,28 +133,6 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-personnelle-guide_p39">Comment ? En te poussant un peu plus chaque jour. Pas 50% de plus. Juste 10%. Leaccumulation de ces 10% crée des résultats extraordinaires.</div>
 
-<div data-i18n-html="article_discipline-personnelle-guide_p40">faq:
-  - q: "What is the difference between discipline and motivation?"
-    a: "Motivation is a feeling that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
-  - q: "How do I build discipline when I have no motivation?"
-    a: "Use the 2-minute rule. The goal is not the full habit — it is the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning."
-  - q: "Can discipline be kind?"
-    a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
-  - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
----</div>
-
 <div data-i18n-html="article_discipline-personnelle-guide_p41"><strong>Prêt à tester ta discipline ?</strong> Commence notre <a href="/30-days-discipline/">30 Days of Discipline</a> — un défi quotidien pour construire une discipline en béton. Et utilise notre <a href="/tracker/">Habit Tracker</a> pour ne jamais perdre le fil.</div>
-
-<div data-i18n-html="article_discipline-personnelle-guide_p42">faq:
-  - q: "What is the difference between discipline and motivation?"
-    a: "Motivation is a feeling that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
-  - q: "How do I build discipline when I have no motivation?"
-    a: "Use the 2-minute rule. The goal is not the full habit — it is the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning."
-  - q: "Can discipline be kind?"
-    a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
-  - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
----</div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p43"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>

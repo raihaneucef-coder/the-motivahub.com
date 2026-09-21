@@ -23,7 +23,7 @@ keywords:
 tags:
   - "sport"
   - "discipline"
-wordCount: 170
+wordCount: 237
 
 faq:
   - q: "What is the difference between discipline and motivation?"

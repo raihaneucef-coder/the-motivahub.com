@@ -24,7 +24,7 @@ tags:
   - "stories"
   - "endurance"
   - "discipline"
-wordCount: 300
+wordCount: 279
 faq:
   - q: "Why did the shop stay open when others closed?"
     a: "Because staying was a promise, not a business plan. The owner understood that endurance is a competitive advantage. When everyone else pivots, the one who stays becomes the default. Customers return not because the shop is the best, but because it is the only one that showed up."

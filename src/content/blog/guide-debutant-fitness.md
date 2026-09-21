@@ -22,7 +22,7 @@ tags:
   - "sport"
   - "habits"
   - "guide"
-wordCount: 266
+wordCount: 355
 
 faq:
   - q: "How long does it take to build this habit?"
@@ -75,16 +75,5 @@ relatedArticles:
 <div data-i18n-html="article_guide-debutant-fitness_p15">Did you exercise 3 days in a row? Celebrate. Did you increase your reps? Celebrate. Small wins create momentum. Momentum creates habits. Habits create transformation.</div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p16"><blockquote><em>The secret of getting ahead is getting started. — Mark Twain</em></blockquote></div>
-
-<div data-i18n-html="article_guide-debutant-fitness_p17">faq:
-  - q: "How long does it take to build this habit?"
-    a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on complexity. The 2-minute rule makes starting easy. The 2-day rule protects the streak. Identity voting makes it stick."
-  - q: "What if I miss a day?"
-    a: "One missed day is data. Two missed days is a pattern. The 2-day rule: never miss twice. If you miss one day, restart immediately. The streak is not about perfection — it is about showing up more often than not."
-  - q: "Is this habit sustainable long-term?"
-    a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
-  - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
----</div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p18"><strong>Start your fitness habit today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you the daily structure. Track your streak with our <a href="/tracker/">Habit Tracker</a>.</div>

@@ -22,7 +22,7 @@ keywords:
   - "keep"
 tags:
   - "habits"
-wordCount: 183
+wordCount: 261
 
 faq:
   - q: "How long does it take to build this habit?"

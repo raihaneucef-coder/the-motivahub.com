@@ -22,7 +22,7 @@ keywords:
   - "physical health mental health"
 tags:
   - "sport"
-wordCount: 1200
+wordCount: 1521
 faq:
   - q: "What does 'body votes first' mean?"
     a: "It means your body's state determines your mind's performance before you even make a conscious choice. If you are tired, hungry, or sedentary, your mind will make worse decisions — not because you are weak, but because your biology is running the election."

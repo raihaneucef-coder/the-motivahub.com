@@ -29,7 +29,7 @@ tags:
   - "habits"
   - "experiment"
   - "morning"
-wordCount: 2780
+wordCount: 2430
 faq:
   - q: "What is the best morning routine?"
     a: "There is no single best morning routine. The best routine is the one your chronotype, your discipline archetype, and your real-life schedule can sustain for 66 days (the median for habit automaticity, Lally 2009). I tested 12 routines for 14 days. The three that stuck were: 5-minute journaling, 20-minute walk, and 10-minute cold shower. Everything else collapsed under the weight of its own ambition."

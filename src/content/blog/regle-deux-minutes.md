@@ -20,7 +20,7 @@ keywords:
   - "brain"
 tags:
   - "habits"
-wordCount: 659
+wordCount: 745
 bookSlug: atomic-habits
 
 faq:
@@ -118,16 +118,5 @@ After two weeks of the two-minute version, increase it slightly. One page become
 <div data-i18n-html="article_regle-deux-minutes_p34">The two-minute rule is not about the two minutes. It is about the person you become by showing up every day.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p35"><blockquote><em>Habits are the compound interest of self-improvement. The two-minute rule is the first deposit.</em></blockquote></div>
-
-<div data-i18n-html="article_regle-deux-minutes_p36">faq:
-  - q: "How long does it take to build this habit?"
-    a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on complexity. The 2-minute rule makes starting easy. The 2-day rule protects the streak. Identity voting makes it stick."
-  - q: "What if I miss a day?"
-    a: "One missed day is data. Two missed days is a pattern. The 2-day rule: never miss twice. If you miss one day, restart immediately. The streak is not about perfection — it is about showing up more often than not."
-  - q: "Is this habit sustainable long-term?"
-    a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
-  - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
----</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p37"><strong>Start your first two-minute habit today.</strong> Use our <a href="/tracker/">Habit Tracker</a> to mark your first day. Then come back tomorrow. And the day after. And watch what happens.</div>

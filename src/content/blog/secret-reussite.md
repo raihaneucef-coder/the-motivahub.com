@@ -20,17 +20,8 @@ keywords:
   - "secret"
 tags:
   - "mindset"
-wordCount: 661
+wordCount: 753
 
-faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)"
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
@@ -121,16 +112,5 @@ relatedArticles:
 <div data-i18n-html="article_secret-reussite_p35">But consistency is the only thing that actually works. Every extraordinary result is just a long chain of ordinary days.</div>
 
 <div data-i18n-html="article_secret-reussite_p36"><blockquote><em>Success is not a single act. It is a thousand small acts, repeated until they become who you are.</em></blockquote></div>
-
-<div data-i18n-html="article_secret-reussite_p37">faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----</div>
 
 <div data-i18n-html="article_secret-reussite_p38"><strong>Become consistently great.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds the muscle of daily action. Track your streak with our <a href="/tracker/">Habit Tracker</a>.</div>

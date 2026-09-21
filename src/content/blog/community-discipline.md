@@ -21,7 +21,7 @@ keywords:
 tags:
   - "confidence"
   - "discipline"
-wordCount: 322
+wordCount: 398
 
 faq:
   - q: "What is the difference between discipline and motivation?"

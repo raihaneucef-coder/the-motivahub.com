@@ -20,17 +20,8 @@ keywords:
   - "vote"
 tags:
   - "habits"
-wordCount: 612
+wordCount: 712
 
-faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)"
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
@@ -115,16 +106,5 @@ relatedArticles:
 <div data-i18n-html="article_identite-precde-resultat_p31">After 30 days of reading, you are a reader. After 30 days of exercising, you are an athlete. After 30 days of writing, you are a writer. The identity is no longer something you are trying to be. It is something you are.</div>
 
 <div data-i18n-html="article_identite-precde-resultat_p32"><blockquote><em>You do not have to be great to start, but you have to start to be great. The first step is deciding who you want to become. The second step is proving it with your actions.</em></blockquote></div>
-
-<div data-i18n-html="article_identite-precde-resultat_p33">faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----</div>
 
 <div data-i18n-html="article_identite-precde-resultat_p34"><strong>Build your new identity.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of evidence for your new self. Track your votes with our <a href="/tracker/">Habit Tracker</a>.</div>

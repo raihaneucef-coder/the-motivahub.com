@@ -22,7 +22,7 @@ keywords:
   - "why travel is important"
 tags:
   - "travel"
-wordCount: 1200
+wordCount: 1213
 faq:
   - q: "Why does travel make you a beginner again?"
     a: "Because travel removes all the familiar cues that make you competent. You cannot read the menu. You do not know the language. You do not know the customs. Within hours, you are demoted from expert to beginner. This is not a failure. It is a reset."

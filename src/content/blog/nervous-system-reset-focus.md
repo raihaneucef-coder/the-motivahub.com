@@ -26,7 +26,7 @@ tags:
   - "self-improvement"
   - "nervous-system"
   - "somatic"
-wordCount: 1850
+wordCount: 2154
 faq:
   - q: "Why can't I focus even when I want to?"
     a: "Most focus problems aren't willpower issues — they're nervous system issues. When your body is in fight-or-flight mode (chronic stress, poor sleep, screen overload), your prefrontal cortex — the part responsible for focus — is suppressed. You can't think your way into focus. You have to calm the body first."
@@ -333,7 +333,7 @@ Tried complex multi-step routines. Skipped when I missed one part.</div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p108">The hardest part isn't the technique. It's believing that something so simple could work. Try it anyway. The evidence will convince you.</div>
 
-<div data-i18n-html="article_nervous-system-reset-focus_p109"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_nervous-system-reset-focus_p109"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Books that deepened this work</strong></p>
 <p><a href="https://www.amazon.fr/dp/0735213664?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=nervous-system" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">The Body Keeps the Score by Bessel van der Kolk</a> — for the trauma-body connection</p>
 <p><a href="https://www.amazon.fr/dp/B07D3JKZD3?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=nervous-system" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Breath by James Nestor</a> — for the breathing research</p>

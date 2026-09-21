@@ -25,7 +25,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "sleep"
-wordCount: 1900
+wordCount: 2084
 faq:
   - q: "How much sleep do I actually need?"
     a: "Research from Matthew Walker and the National Sleep Foundation suggests 7-9 hours for most adults. Less than 6 is associated with cognitive decline, immune dysfunction, and increased mortality risk. Individual needs vary by genetics, but consistency matters more than exact hours."
@@ -310,7 +310,7 @@ Morning sunlight ($0): biggest energy boost.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p105">You can do the same. Start with the cheapest rule (cool room) tonight.</div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p106"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_sleep-is-unfair-advantage_p106"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>The cheapest sleep upgrades that work</strong></p>
 <p><a href="https://www.amazon.fr/s?k=blackout+curtains&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Blackout Curtains</a> — best single sleep upgrade (€20-40)</p>
 <p><a href="https://www.amazon.fr/s?k=sleep+mask+comfortable&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Sleep Mask</a> — for travel or light leak (€10-20)</p>

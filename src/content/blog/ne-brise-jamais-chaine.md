@@ -24,7 +24,7 @@ tags:
   - "habits"
   - "consistency"
   - "tracking"
-wordCount: 900
+wordCount: 715
 faq:
   - q: "What is the never break the chain method?"
     a: "Jerry Seinfeld's habit strategy: mark an X on a calendar every day you complete your habit. The goal is to never break the chain of Xs. It works because of loss aversion, visual proof, and momentum. The longer the chain, the harder it is to break."

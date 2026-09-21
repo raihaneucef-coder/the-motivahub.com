@@ -21,17 +21,8 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 706
+wordCount: 827
 
-faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)"
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
@@ -135,28 +126,6 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p40"><blockquote><em>Le mindset gagnant ne souhaite pas. Il planifie. Il visualise. Il agit.</em></blockquote></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p41">faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----</div>
-
 <div data-i18n-html="article_mindset-etat-esprit_p42"><strong>Prêt à transformer ton mindset ?</strong> Commence par notre <a href="/30-days-discipline/">30 Days of Discipline</a> — 30 jours pour forger un mental d'acier. Et utilise notre <a href="/tracker/">Habit Tracker</a> pour construire des routines qui soutiennent ton nouvel état d'esprit.</div>
-
-<div data-i18n-html="article_mindset-etat-esprit_p43">faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----</div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p44"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>

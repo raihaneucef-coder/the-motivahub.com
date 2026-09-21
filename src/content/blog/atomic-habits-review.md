@@ -23,7 +23,7 @@ keywords:
 tags:
   - "habits"
   - "book-review"
-wordCount: 1500
+wordCount: 1264
 bookSlug: atomic-habits
 faq:
   - q: "Is Atomic Habits worth reading multiple times?"

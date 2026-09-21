@@ -20,17 +20,8 @@ keywords:
   - "mental"
 tags:
   - "discipline"
-wordCount: 479
+wordCount: 583
 
-faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009)"
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
@@ -114,16 +105,5 @@ Once the small discomfort becomes easy, increase it. 30 seconds becomes 1 minute
 <div data-i18n-html="article_inconfort-volontaire_p24">When you are comfortable with discomfort, nothing can stop you. You can handle any challenge, any setback, any failure. Because you have already proven — daily — that you can handle hard things.</div>
 
 <div data-i18n-html="article_inconfort-volontaire_p25"><blockquote><em>The more you voluntarily embrace discomfort, the less pain life can throw at you that will actually hurt.</em></blockquote></div>
-
-<div data-i18n-html="article_inconfort-volontaire_p26">faq:
-  - q: "What is the most important principle here?"
-    a: "The principle is personal experimentation, not theory. Test it for 30 days, track the results, adjust based on evidence. What works for others may not work for you. The only valid test is your own experience."
-  - q: "How do I apply this in my daily life?"
-    a: "Start with the 2-minute version. Not the full habit — the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Small + sustainable > big + abandoned."
-  - q: "What if this doesn't work for me?"
-    a: "Then it is not the right system for you. The test: does it work on your worst day? If yes, keep it. If no, redesign it. The goal is not to follow a system — it is to build a system that serves you."
-  - q: "How long before I see results?"
-    a: "The first 7 days install the habit. The first 30 days make it automatic. The first 90 days shift the identity. Track starts, not finishes. The results compound after day 66 (Lally 2009).
----</div>
 
 <div data-i18n-html="article_inconfort-volontaire_p27"><strong>Choose discomfort today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 daily challenges to build your comfort with discomfort. Track your courage with our <a href="/tracker/">Habit Tracker</a>.</div>

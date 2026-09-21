@@ -21,7 +21,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 736
+wordCount: 861
 
 faq:
   - q: "Why can't I focus even when I try?"
@@ -137,28 +137,6 @@ relatedArticles:
 
 <div data-i18n-html="article_focus-monde-distractions_p38"><blockquote><em>Where your attention goes, your life follows. Choose where it goes. Do not let the world choose for you.</em></blockquote></div>
 
-<div data-i18n-html="article_focus-monde-distractions_p39">faq:
-  - q: "Why can't I focus even when I try?"
-    a: "Most focus problems are nervous system issues, not willpower issues. When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first: 4-7-8 breathing for 60-90 seconds."
-  - q: "What is the best focus technique?"
-    a: "Deep work in 90-minute blocks, protected from interruptions. The setup: phone in another room, tasks defined in advance, single-tasking only. The recovery: 20-minute break between blocks. The consistency: same time every day."
-  - q: "How do I stop multitasking?"
-    a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
-  - q: "Can focus be trained?"
-    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity.
----</div>
-
 <div data-i18n-html="article_focus-monde-distractions_p40"><strong>Sharpen your focus.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> trains your mind to concentrate through daily challenges. Track your focus sessions with our <a href="/tracker/">Habit Tracker</a>.</div>
-
-<div data-i18n-html="article_focus-monde-distractions_p41">faq:
-  - q: "Why can't I focus even when I try?"
-    a: "Most focus problems are nervous system issues, not willpower issues. When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first: 4-7-8 breathing for 60-90 seconds."
-  - q: "What is the best focus technique?"
-    a: "Deep work in 90-minute blocks, protected from interruptions. The setup: phone in another room, tasks defined in advance, single-tasking only. The recovery: 20-minute break between blocks. The consistency: same time every day."
-  - q: "How do I stop multitasking?"
-    a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
-  - q: "Can focus be trained?"
-    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity.
----</div>
 
 <div data-i18n-html="article_focus-monde-distractions_p42"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>

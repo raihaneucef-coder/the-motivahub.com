@@ -25,7 +25,7 @@ tags:
   - "guide"
   - "self-help"
   - "performance"
-wordCount: 1500
+wordCount: 1298
 faq:
   - q: "Is the 40% rule scientifically proven?"
     a: "Partially. Dr. Tim Noakes' Central Governor Theory (2004) proved the brain limits muscular exertion before muscles are truly depleted. The 40% number itself is Goggins' framing, not exact science — but the principle (most 'walls' are mental, not physical) is well-documented."

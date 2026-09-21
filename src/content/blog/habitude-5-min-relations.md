@@ -21,7 +21,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 245
+wordCount: 313
 
 faq:
   - q: "How long does it take to build this habit?"
@@ -70,16 +70,5 @@ End the 5 minutes with one specific thing you appreciate about them. "Thank you 
 <div data-i18n-html="article_habitude-5-min-relations_p12">That is all most people need.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p13"><blockquote><em>The most important thing in communication is hearing what isn't said. — Peter Drucker</em></blockquote></div>
-
-<div data-i18n-html="article_habitude-5-min-relations_p14">faq:
-  - q: "How long does it take to build this habit?"
-    a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on complexity. The 2-minute rule makes starting easy. The 2-day rule protects the streak. Identity voting makes it stick."
-  - q: "What if I miss a day?"
-    a: "One missed day is data. Two missed days is a pattern. The 2-day rule: never miss twice. If you miss one day, restart immediately. The streak is not about perfection — it is about showing up more often than not."
-  - q: "Is this habit sustainable long-term?"
-    a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
-  - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
----</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p15"><strong>Strengthen your relationships today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds the habits that make you a better partner. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

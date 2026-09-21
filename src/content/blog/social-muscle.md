@@ -21,7 +21,7 @@ keywords:
 tags:
   - "personal growth"
   - "discipline"
-wordCount: 262
+wordCount: 332
 
 faq:
   - q: "What is the difference between discipline and motivation?"

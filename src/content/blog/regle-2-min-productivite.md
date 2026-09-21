@@ -20,7 +20,7 @@ keywords:
   - "list"
 tags:
   - "productivity"
-wordCount: 247
+wordCount: 322
 bookSlug: atomic-habits
 
 faq:
@@ -79,16 +79,5 @@ Your to-do list stays focused on important tasks, not trivial ones.</div>
 <div data-i18n-html="article_regle-2-min-productivite_p14">The goal is not to do everything in 2 minutes. The goal is to eliminate the small stuff so you can focus on the big stuff.</div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p15"><blockquote><em>The 2-minute rule prevents small tasks from becoming big problems.</em></blockquote></div>
-
-<div data-i18n-html="article_regle-2-min-productivite_p16">faq:
-  - q: "Why can't I focus even when I try?"
-    a: "Most focus problems are nervous system issues, not willpower issues. When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first: 4-7-8 breathing for 60-90 seconds."
-  - q: "What is the best focus technique?"
-    a: "Deep work in 90-minute blocks, protected from interruptions. The setup: phone in another room, tasks defined in advance, single-tasking only. The recovery: 20-minute break between blocks. The consistency: same time every day."
-  - q: "How do I stop multitasking?"
-    a: "Multitasking is a myth. Your brain switches between tasks, not processes them simultaneously. The cost: 40% loss in productivity, 10-point IQ drop. The fix: single-tasking with protected time blocks. One task, one window, one outcome."
-  - q: "Can focus be trained?"
-    a: "Yes. Focus is a trainable skill, not a fixed trait. Start with 10-minute focus blocks, then increase to 20, 45, 90. The nervous system adapts. The key is consistency, not intensity.
----</div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p17"><strong>Apply the 2-minute rule today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you to handle small tasks efficiently. Track your habits with our <a href="/tracker/">Habit Tracker</a>.</div>

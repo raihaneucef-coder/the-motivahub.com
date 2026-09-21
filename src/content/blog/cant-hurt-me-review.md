@@ -26,7 +26,7 @@ tags:
   - "self-help"
   - "book-review"
   - "mental-toughness"
-wordCount: 1850
+wordCount: 1697
 bookSlug: cant-hurt-me
 faq:
   - q: "Is Can't Hurt Me worth reading in 2026?"
