@@ -10,3 +10,5 @@ reels/output/
 *.mov
 *.avi
 .env*
+test-results/
+tests/screenshots/
