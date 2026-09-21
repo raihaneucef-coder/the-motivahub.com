@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_viral-mindset-shift_p2"><strong>The Viral Mindset Shift — How One Idea Changes Everything</strong> — practical guide based on real experiments. The Viral Mindset Shift — How One Idea Changes Everything works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_viral-mindset-shift_p2">A powerful mindset clip, 27 seconds long: identity precedes outcome. Here is the full story behind a transformative idea on motivation.</div>
 
 <div data-i18n-html="article_viral-mindset-shift_p3">A powerful mindset video is not a speech. It is 27 seconds of a man saying: "You do not rise to your goals. You fall to your identity." The comments are not about the words — they are about the shock of recognition.</div>
 

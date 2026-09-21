@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_resolution-conflits_p2"><strong>Conflict Resolution: How to Fight Fair in Relationships</strong> — practical guide based on real experiments. Conflict Resolution: How to Fight Fair in Relationships works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_resolution-conflits_p2">Every relationship has conflict. The question is not whether you will fight — it is how. Learn to fight fairly and strengthen your bond.</div>
 
 <div data-i18n-html="article_resolution-conflits_p3">Conflict is not the enemy of relationships. Contempt is. When you fight fairly, conflict can actually strengthen your bond. When you fight unfairly, it destroys trust.</div>
 

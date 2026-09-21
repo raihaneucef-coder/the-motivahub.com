@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_people-who-raise-your-floor_p2"><strong>The People Who Raise Your Floor</strong> — practical guide based on real experiments. The People Who Raise Your Floor works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_people-who-raise-your-floor_p2">You do not rise to the level of your goals — you fall to the level of the people around you. Choose the room that raises your floor.</div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p3">We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.</div>
 

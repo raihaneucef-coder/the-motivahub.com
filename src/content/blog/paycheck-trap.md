@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_paycheck-trap_p2"><strong>The Paycheck Trap: Why Earning More Isn't Enough</strong> — practical guide based on real experiments. The Paycheck Trap: Why Earning More Isn't Enough works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_paycheck-trap_p2">A higher income feels like freedom until lifestyle rises with it. Learn how to keep the raise you just earned.</div>
 
 <div data-i18n-html="article_paycheck-trap_p3">Every raise comes with a silent partner: lifestyle inflation.</div>
 

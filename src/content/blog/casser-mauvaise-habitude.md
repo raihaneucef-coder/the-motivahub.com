@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p2"><strong>How to Break a Bad Habit — The Reverse Four Laws</strong> — practical guide based on real experiments. How to Break a Bad Habit — The Reverse Four Laws works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p2">Want to quit smoking, stop procrastinating, or eliminate junk food? Use the reverse four laws to break any bad habit permanently.</div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p4">Breaking a bad habit is harder than building a good one. But the same principles that create habits can destroy them — you just reverse them.</div>
 

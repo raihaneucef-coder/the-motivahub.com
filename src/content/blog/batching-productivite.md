@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_batching-productivite_p2"><strong>Batching: The Secret Weapon of Highly Productive People</strong> — practical guide based on real experiments. Batching: The Secret Weapon of Highly Productive People works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_batching-productivite_p2">Batching is grouping similar tasks together to minimize context switching. Learn how this simple technique can double your productivity.</div>
 
 <div data-i18n-html="article_batching-productivite_p4">Every time you switch between different types of tasks, your brain pays a cognitive tax. It takes time to refocus, reorient, and get back into flow. Batching eliminates this tax.</div>
 

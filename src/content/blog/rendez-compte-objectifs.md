@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_rendez-compte-objectifs_p2"><strong>Goal Accountability: Why You Need Someone to Keep You on Track</strong> — practical guide based on real experiments. Goal Accountability: Why You Need Someone to Keep You on Track works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_rendez-compte-objectifs_p2">Accountability doubles your chances of achieving a goal. Learn how to build an accountability system that keeps you committed and consistent.</div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p3">You are 65% more likely to achieve a goal if you commit to someone. You are 95% more likely if you have a scheduled accountability appointment.</div>
 

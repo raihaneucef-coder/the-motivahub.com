@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_pouvoir-du-non_p2"><strong>The Power of Saying No — Why It Is Your Most Important Skill</strong> — practical guide based on real experiments. The Power of Saying No — Why It Is Your Most Important Skill works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_pouvoir-du-non_p2">Every yes is a no to something else. Learn why saying no is the most important discipline you can build and how to do it without guilt.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p3">Every time you say yes to something that does not serve you, you say no to something that does. Every yes to a meaningless meeting is a no to deep work. Every yes to a toxic relationship is a no to your peace.</div>
 

@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_the-movie-that-changed-your-week_p2"><strong>The Movie That Changed Your Week</strong> — practical guide based on real experiments. The Movie That Changed Your Week works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_the-movie-that-changed-your-week_p2">A good film does not just entertain — it rearranges you. Choose stories that profit your life.</div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p3">A bad film wastes two hours. A good film gives you a week.</div>
 

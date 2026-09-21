@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_protein-is-not-just-for-athletes_p2"><strong>Protein Is Not Just for Athletes</strong> — practical guide based on real experiments. Protein Is Not Just for Athletes works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p2">Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive.</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p3">We think protein is for bodybuilders. It is for anyone who wants to feel full and keep muscle.</div>
 

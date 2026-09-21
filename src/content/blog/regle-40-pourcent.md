@@ -40,7 +40,7 @@ relatedArticles:
   - "deep-work-ritual"
 ---
 
-<div data-i18n-html="article_regle-40-pourcent_p2"><strong>The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens</strong> — practical guide based on real experiments. The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_regle-40-pourcent_p2">David Goggins says we're only operating at 40% of our capacity. I tested this for 30 days. Here's what worked, what failed, and the scientific truth about the wall.</div>
 
 <div data-i18n-html="article_regle-40-pourcent_p3">I tested the 40% rule for 30 days. This is what actually happened.</div>
 

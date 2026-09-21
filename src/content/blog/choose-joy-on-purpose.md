@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_choose-joy-on-purpose_p2"><strong>Choose Joy on Purpose</strong> — practical guide based on real experiments. Choose Joy on Purpose works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_choose-joy-on-purpose_p2">Joy does not find you — you choose it. Learn to schedule delight the way you schedule work.</div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p3">We wait for joy to find us. It rarely does, because we never make room for it.</div>
 

@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_the-goal-behind-the-goal_p2"><strong>The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working</strong> — practical guide based on real experiments. The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_the-goal-behind-the-goal_p2">Every goal hides a deeper goal — a why beneath the why. Most people chase the surface. The few who arrive are the ones who dug past the first layer.</div>
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p3">We set a goal and chase it. Then we wonder why motivation fades halfway.</div>
 

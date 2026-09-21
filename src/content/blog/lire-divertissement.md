@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_lire-divertissement_p2"><strong>Reading as Entertainment: Why Books Are the Best Escape</strong> — practical guide based on real experiments. Reading as Entertainment: Why Books Are the Best Escape works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_lire-divertissement_p2">Reading is not work — it is entertainment. And unlike Netflix, it makes you smarter, more empathetic, and more creative. Here is why you should read more.</div>
 
 <div data-i18n-html="article_lire-divertissement_p3">Reading is the most underrated form of entertainment. It is free (or nearly free), portable, and it improves your brain while you enjoy it. No other entertainment can claim that.</div>
 

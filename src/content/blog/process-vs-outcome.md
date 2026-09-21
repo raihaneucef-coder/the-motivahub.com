@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_process-vs-outcome_p2"><strong>Process Goals vs Outcome Goals: Why the Process Wins</strong> — practical guide based on real experiments. Process Goals vs Outcome Goals: Why the Process Wins works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_process-vs-outcome_p2">Stop obsessing over outcomes. Process goals — the daily actions — are what actually produce results. Learn to focus on what you can control.</div>
 
 <div data-i18n-html="article_process-vs-outcome_p3">There are two types of goals: outcome goals and process goals. Outcome goals are what you want to achieve. Process goals are what you do every day to get there.</div>
 

@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_vaincre-procrastination_p2"><strong>How to Stop Procrastinating — The Real Science Behind Procrastination</strong> — practical guide based on real experiments. How to Stop Procrastinating — The Real Science Behind Procrastination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_vaincre-procrastination_p2">Understand why you procrastinate and learn proven techniques to beat it forever. Practical strategies to take action now.</div>
 
 <div data-i18n-html="article_vaincre-procrastination_p3">Tu procrastines pas parce que tu es paresseux. Tu procrastines parce que ton cerveau <strong>évite la douleur</strong> — et la tâche que tu repousses génère de l'inconfort.</div>
 

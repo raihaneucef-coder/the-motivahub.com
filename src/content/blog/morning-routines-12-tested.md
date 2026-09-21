@@ -49,7 +49,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_morning-routines-12-tested_p2"><strong>I Tested 12 Morning Routines for 14 Days. Only 3 of Them Stuck.</strong> — practical guide based on real experiments. I Tested 12 Morning Routines for 14 Days. Only 3 of Them Stuck. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
+<div data-i18n-html="article_morning-routines-12-tested_p2">Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive.</div>
 
 <div data-i18n-html="article_morning-routines-12-tested_p4"><strong>There is no single best morning routine.</strong> I tested 12 routines for 14 days. The three that stuck were: 5-minute journaling, 20-minute walk, and 10-minute cold shower. Everything else collapsed under its own ambition. The best routine is the one you can sustain on your worst day. Most morning routines fail because they're designed for a day that doesn't exist.</div>
 

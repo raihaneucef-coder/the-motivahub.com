@@ -39,7 +39,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_pouvoir-elimination_p2"><strong>The Power of Elimination: Do Less, Achieve More</strong> — practical guide based on real experiments. The Power of Elimination: Do Less, Achieve More works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_pouvoir-elimination_p2">Productivity is not about doing more things. It is about doing fewer things — but the right ones. Learn the art of strategic elimination.</div>
 
 <div data-i18n-html="article_pouvoir-elimination_p3">We live in a culture that celebrates busyness. More tasks, more meetings, more emails, more everything. But the most productive people do not do more — they do less.</div>
 

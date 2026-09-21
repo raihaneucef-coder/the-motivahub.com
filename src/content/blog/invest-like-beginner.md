@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_invest-like-beginner_p2"><strong>Invest Like a Beginner, Think Like an Owner</strong> — practical guide based on real experiments. Invest Like a Beginner, Think Like an Owner works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_invest-like-beginner_p2">You don't need to be an expert to start investing — you need to start and stay. Ownership beats prediction.</div>
 
 <div data-i18n-html="article_invest-like-beginner_p3">Waiting to feel ready is the most expensive investment strategy.</div>
 

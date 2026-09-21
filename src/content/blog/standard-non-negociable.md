@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_standard-non-negociable_p2"><strong>The Non-Negotiable Standard: How to Set Rules That Never Bend</strong> — practical guide based on real experiments. The Non-Negotiable Standard: How to Set Rules That Never Bend works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_standard-non-negociable_p2">The most disciplined people have one thing in common: non-negotiable standards. Learn how to set rules that create consistency without willpower.</div>
 
 <div data-i18n-html="article_standard-non-negociable_p3">A non-negotiable standard is a rule you follow regardless of how you feel, what the weather is like, or what anyone else says. It is the foundation of discipline — and it removes the need for daily decision-making.</div>
 

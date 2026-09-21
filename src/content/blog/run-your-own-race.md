@@ -42,7 +42,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_run-your-own-race_p2"><strong>Run Your Own Race: The Discipline of Pacing</strong> — practical guide based on real experiments. Run Your Own Race: The Discipline of Pacing works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_run-your-own-race_p2">The fastest way to lose a race is to run someone else's. Learn to hold your pace when everyone sprints.</div>
 
 <div data-i18n-html="article_run-your-own-race_p3">The start of any race is loud. Everyone sprints. The crowd cheers the fast start.</div>
 

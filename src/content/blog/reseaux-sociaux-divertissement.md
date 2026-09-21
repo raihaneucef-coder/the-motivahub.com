@@ -40,7 +40,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_reseaux-sociaux-divertissement_p2"><strong>Social Media as Entertainment: How to Enjoy It Without Losing Your Mind</strong> — practical guide based on real experiments. Social Media as Entertainment: How to Enjoy It Without Losing Your Mind works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_reseaux-sociaux-divertissement_p2">Social media is not the enemy — your relationship with it is. Learn how to enjoy social media without letting it control your life.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p3">Social media is the most powerful tool ever created — and the most dangerous. It connects you to the world and disconnects you from yourself. The key is using it intentionally.</div>
 

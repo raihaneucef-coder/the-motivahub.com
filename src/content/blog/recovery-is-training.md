@@ -41,7 +41,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_recovery-is-training_p2"><strong>Recovery Is Training Too</strong> — practical guide based on real experiments. Recovery Is Training Too works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
+<div data-i18n-html="article_recovery-is-training_p2">You do not get stronger by lifting — you get stronger by recovering from lifting. Rest is not the absence of training.</div>
 
 <div data-i18n-html="article_recovery-is-training_p3">We glorify the lift and ignore the rest that makes the lift matter.</div>
 
