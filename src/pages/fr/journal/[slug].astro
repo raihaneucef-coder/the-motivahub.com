@@ -15,7 +15,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { getCollection } from "astro:content";
 import { getLangFromUrl, getPathWithoutLocale, getFrenchSlug, getEnglishSlug } from "../../../utils/i18n";
-import { getImageDimensions } from "../../../utils/image";
+import { getImageDimensions, thumbSrc } from "../../../utils/image";
 import frSlugs from "../../../i18n/slugs-fr.json";
 
 export async function getStaticPaths() {
@@ -259,7 +259,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
         <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
         <h1 data-i18n={`article_${post.id}_title`} data-en-text={post.data.title}>{displayTitle}</h1>
         <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-        <img class="article-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} width={coverDims.width} height={coverDims.height} fetchpriority="high" />
+        <img class="article-img" src={post.data.image} srcset={`${thumbSrc(post.data.image)} 640w, ${thumbSrc(post.data.image).replace("-sm.jpg", "-md.jpg")} 800w, ${post.data.image} ${coverDims.width}w`} sizes="calc(min(1200px, 100vw) - clamp(40px, 8vw, 112px))" alt={post.data.imageAlt || post.data.title} width={coverDims.width} height={coverDims.height} fetchpriority="high" />
       </div>
     </header>
 

@@ -100,13 +100,13 @@ const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
         const span = document.createElement('span');
         span.className = 'hero-letter';
         span.textContent = letter === ' ' ? '\u00A0' : letter;
-        span.style.transitionDelay = (0.1 + (i * 0.05) + (j * 0.025)) + 's';
+        span.style.transitionDelay = (0.05 + (i * 0.02) + (j * 0.008)) + 's';
         word.appendChild(span);
       });
     });
     requestAnimationFrame(() => {
       hero.querySelectorAll('[data-stagger-reveal]').forEach((el, idx) => {
-        el.style.transitionDelay = (0.1 + idx * 0.15) + 's';
+        el.style.transitionDelay = (0.05 + idx * 0.05) + 's';
         el.classList.add('revealed');
       });
       hero.querySelectorAll('.hero-letter').forEach((l) => l.classList.add('revealed'));
