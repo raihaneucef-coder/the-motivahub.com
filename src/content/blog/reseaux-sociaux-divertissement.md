@@ -6,8 +6,8 @@ descriptionFr: "Les réseaux sociaux peuvent être un divertissement addictif. A
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/reseaux-sociaux-divertissement.jpg"
-imageAlt: "Youssef Raihane - reseaux sociaux divertissement concept"
+image: "/images/blog/reseaux-sociaux-divertissement-2.jpg"
+imageAlt: "Person lying on the sofa scrolling a smartphone - social media as entertainment"
 topic: "Entertainment"
 keywords:
   - "social"

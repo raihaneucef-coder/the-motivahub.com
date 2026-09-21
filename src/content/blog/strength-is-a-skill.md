@@ -7,8 +7,8 @@ pubDate: 2026-08-19
 updatedDate: 2026-09-12
 topic: "Sport"
 readTime: "5 min read"
-image: "/images/blog/strength-is-a-skill.jpg"
-imageAlt: "Youssef Raihane - strength is a skill concept"
+image: "/images/blog/strength-is-a-skill-2.jpg"
+imageAlt: "Row of colorful kettlebells in a gym - strength is a skill"
 featured: false
 draft: false
 keywords:

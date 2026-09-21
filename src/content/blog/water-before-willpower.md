@@ -7,8 +7,8 @@ pubDate: 2026-08-15
 updatedDate: 2026-09-12
 topic: "Nutrition"
 readTime: "3 min read"
-image: "/images/blog/water-before-willpower.jpg"
-imageAlt: "Youssef Raihane - water before willpower concept"
+image: "/images/blog/water-before-willpower-2.jpg"
+imageAlt: "Water bottle pouring a fresh glass - water before willpower"
 featured: false
 draft: false
 keywords:

@@ -7,8 +7,8 @@ pubDate: 2026-08-13
 updatedDate: 2026-09-12
 topic: "Finance"
 readTime: "5 min read"
-image: "/images/blog/invest-like-beginner.jpg"
-imageAlt: "Youssef Raihane - invest like beginner concept"
+image: "/images/blog/invest-like-beginner-2.jpg"
+imageAlt: "Stacked coins in front of a piggy bank - investing like a beginner"
 featured: false
 draft: false
 keywords:

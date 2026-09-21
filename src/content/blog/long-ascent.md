@@ -6,8 +6,8 @@ descriptionFr: "Il y a deux types de grimpeurs — ceux qui sprintent et ceux qu
 pubDate: 2026-07-18
 updatedDate: 2026-09-12
 readTime: "9 MIN"
-image: "/images/blog/long-ascent.jpg"
-imageAlt: "Youssef Raihane - long ascent concept"
+image: "/images/blog/long-ascent-2.jpg"
+imageAlt: "Winding footpath through a green mountain valley - the long ascent"
 topic: "Personal Growth"
 keywords:
   - "mountain"

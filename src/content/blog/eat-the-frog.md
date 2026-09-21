@@ -6,8 +6,8 @@ descriptionFr: "Le secret de productivité de Mark Twain : mange la grenouille d
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/real-reason-you-procrastinate.jpg"
-imageAlt: "Youssef Raihane - eat the frog concept"
+image: "/images/blog/eat-the-frog-2.jpg"
+imageAlt: "Frog resting on lily pads in a pond - eat the frog first"
 topic: "Productivity"
 keywords:
   - "frog"

@@ -7,8 +7,8 @@ pubDate: 2026-08-08
 updatedDate: 2026-09-12
 topic: "Entertainment"
 readTime: "4 min read"
-image: "/images/blog/play-is-practice-for-life.jpg"
-imageAlt: "Youssef Raihane - play is practice for life concept"
+image: "/images/blog/play-is-practice-for-life-2.jpg"
+imageAlt: "Children playing soccer on a grassy field - play as practice for life"
 featured: false
 draft: false
 keywords:

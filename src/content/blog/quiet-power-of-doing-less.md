@@ -6,8 +6,8 @@ descriptionFr: "Faire moins n'est pas de la paresse — c'est une stratégie. D�
 pubDate: 2026-08-14
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/pouvoir-elimination.jpg"
-imageAlt: "Youssef Raihane - quiet power of doing less concept"
+image: "/images/blog/quiet-power-of-doing-less-2.jpg"
+imageAlt: "Single chair in an empty white room - the quiet power of doing less"
 topic: "Productivity"
 keywords:
   - "thing"

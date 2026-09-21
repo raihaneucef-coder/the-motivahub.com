@@ -6,8 +6,8 @@ descriptionFr: "La discipline n'est pas une punition — c'est un choix quotidie
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/consistance-bat-intensite.jpg"
-imageAlt: "Youssef Raihane - discipline choix quotidien concept"
+image: "/images/blog/discipline-choix-quotidien-2.jpg"
+imageAlt: "Hand gripping an alarm clock at dawn - discipline is a daily choice"
 topic: "Discipline"
 keywords:
   - "discipline"

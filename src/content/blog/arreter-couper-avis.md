@@ -6,8 +6,8 @@ descriptionFr: "Dire non est une compétence essentielle pour protéger votre te
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "8 MIN"
-image: "/images/blog/confiance-inbranlable.jpg"
-imageAlt: "Youssef Raihane - arreter couper avis concept"
+image: "/images/blog/arreter-couper-avis-2.jpg"
+imageAlt: "Woman with eyes closed facing the breeze - cutting loose from other people's opinions"
 topic: "Confidence"
 keywords:
   - "how to stop caring what people think"

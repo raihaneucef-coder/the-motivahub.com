@@ -7,8 +7,8 @@ pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Nutrition"
 readTime: "5 min read"
-image: "/images/blog/fuel-before-willpower.jpg"
-imageAlt: "Youssef Raihane - fuel before willpower concept"
+image: "/images/blog/fuel-before-willpower-2.jpg"
+imageAlt: "Brown organic eggs piled in a white bowl - fueling the body before relying on willpower"
 featured: false
 draft: false
 keywords:

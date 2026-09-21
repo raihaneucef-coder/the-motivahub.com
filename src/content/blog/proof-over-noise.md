@@ -7,8 +7,8 @@ pubDate: 2026-08-21
 updatedDate: 2026-09-12
 topic: "Stories"
 readTime: "5 min read"
-image: "/images/blog/proof-over-noise.jpg"
-imageAlt: "Youssef Raihane - proof over noise concept"
+image: "/images/blog/proof-over-noise-2.jpg"
+imageAlt: "Gold first-place medal with a red ribbon - proof over noise"
 featured: false
 draft: false
 keywords:

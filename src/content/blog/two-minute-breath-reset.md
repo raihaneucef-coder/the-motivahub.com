@@ -7,8 +7,8 @@ pubDate: 2026-08-19
 updatedDate: 2026-09-12
 topic: "Wellness"
 readTime: "3 min read"
-image: "/images/blog/two-minute-breath-reset.jpg"
-imageAlt: "Youssef Raihane - two minute breath reset concept"
+image: "/images/blog/two-minute-breath-reset-2.jpg"
+imageAlt: "Woman breathing calmly with closed eyes in a quiet room - the two minute breath reset"
 featured: false
 draft: false
 keywords:

@@ -6,8 +6,8 @@ descriptionFr: "J'ai essayé toutes les routines matinales connues pendant 30 jo
 pubDate: 2026-09-01
 updatedDate: 2026-09-12
 readTime: "12 MIN"
-image: "/images/blog/routine-matin-sante.jpg"
-imageAlt: "Youssef Raihane - i tested 12 morning routines concept"
+image: "/images/blog/i-tested-12-morning-routines-2.jpg"
+imageAlt: "Hand reaching for a ringing alarm clock in the morning - twelve routines put to the test"
 topic: "Habits"
 keywords:
   - "morning routine"

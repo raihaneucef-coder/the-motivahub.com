@@ -6,8 +6,8 @@ descriptionFr: "Voyager ne doit pas être cher. Avec les bonnes stratégies, vou
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/voyage-budget.jpg"
-imageAlt: "Youssef Raihane - voyage budget concept"
+image: "/images/blog/voyage-budget-2.jpg"
+imageAlt: "Hand holding a model plane over a map with coins and a passport - budget travel"
 topic: "Travel"
 keywords:
   - "travel"

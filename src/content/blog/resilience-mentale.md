@@ -6,8 +6,8 @@ descriptionFr: "La résilience mentale se construit. Découvrez les exercices et
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/echec-retroaction.jpg"
-imageAlt: "Youssef Raihane in Casablanca - mental resilience and nervous system reset"
+image: "/images/blog/resilience-mentale-2.jpg"
+imageAlt: "Worn boxing gloves hanging - mental resilience"
 topic: "Mindset"
 keywords:
   - "mental resilience"

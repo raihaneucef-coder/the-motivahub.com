@@ -6,8 +6,8 @@ descriptionFr: "Une routine matinale santé est essentielle pour votre bien-êtr
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/routine-matin-sante.jpg"
-imageAlt: "Youssef Raihane - routine matin sante concept"
+image: "/images/blog/routine-matin-sante-2.jpg"
+imageAlt: "Person exercising at sunrise among palm trees - a healthy morning routine"
 topic: "Wellness"
 keywords:
   - "morning"

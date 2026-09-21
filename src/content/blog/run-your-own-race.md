@@ -7,8 +7,8 @@ pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Sport"
 readTime: "4 min read"
-image: "/images/blog/athlete-discipline.jpg"
-imageAlt: "Youssef Raihane - run your own race concept"
+image: "/images/blog/run-your-own-race-2.jpg"
+imageAlt: "Lone runner on an outdoor track - run your own race"
 featured: false
 draft: false
 keywords:

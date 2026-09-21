@@ -6,8 +6,8 @@ descriptionFr: "Lire n'est pas du travail — c'est du divertissement. Et contra
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/lire-divertissement.jpg"
-imageAlt: "Youssef Raihane - lire divertissement concept"
+image: "/images/blog/lire-divertissement-2.jpg"
+imageAlt: "Hand holding an open book on a warm blanket - reading for pleasure"
 topic: "Entertainment"
 keywords:
   - "reading"

@@ -6,8 +6,8 @@ descriptionFr: "Votre voix compte. Mais si vous ne l'utilisez jamais, personne n
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/trouver-voix.jpg"
-imageAlt: "Youssef Raihane - trouver voix concept"
+image: "/images/blog/trouver-voix-2.jpg"
+imageAlt: "Woman speaking into a megaphone - finding your voice"
 topic: "Confidence"
 keywords:
   - "speaking"

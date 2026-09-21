@@ -6,8 +6,8 @@ descriptionFr: "Tout le monde veut le succès du jour au lendemain. Mais c'est u
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/secret-reussite.jpg"
-imageAlt: "Youssef Raihane - mythe reussite instantanee concept"
+image: "/images/blog/mythe-reussite-instantanee-2.jpg"
+imageAlt: "Tall bamboo grove - slow invisible growth before sudden success"
 topic: "Success"
 keywords:
   - "success"

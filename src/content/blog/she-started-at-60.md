@@ -7,8 +7,8 @@ pubDate: 2026-08-06
 updatedDate: 2026-09-12
 topic: "Stories"
 readTime: "4 min read"
-image: "/images/blog/she-started-at-60.jpg"
-imageAlt: "Youssef Raihane - she started at 60 concept"
+image: "/images/blog/she-started-at-60-2.jpg"
+imageAlt: "Senior woman stretching in a fitness class - she started at sixty"
 featured: false
 draft: false
 keywords:

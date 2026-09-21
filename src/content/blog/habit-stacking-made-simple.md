@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Habits"
 readTime: "4 min read"
-image: "/images/blog/habit-stacking-made-simple.jpg"
-imageAlt: "Youssef Raihane - habit stacking made simple concept"
+image: "/images/blog/habit-stacking-made-simple-2.jpg"
+imageAlt: "Balanced stack of pebbles beside a flowing river - habit stacking made simple"
 featured: false
 draft: false
 keywords:
