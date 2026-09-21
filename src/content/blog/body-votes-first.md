@@ -4,7 +4,7 @@ description: "Your body votes before your mind does. Learn why physical training
 titleFr: "Le Corps Vote d'Abord : Écouter Votre Corps"
 descriptionFr: "Votre corps connaît la vérité avant votre esprit. Apprenez à écouter les signaux de votre corps pour prendre de meilleures décisions."
 pubDate: 2026-08-17
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/body-votes-first.jpg"
 imageAlt: "Youssef Raihane running in the rain during half marathon training - body votes first"

@@ -4,7 +4,7 @@ description: "They promised to walk every day for a year. The promise, not the w
 titleFr: "Deux amis, une promesse : pourquoi la communauté se construit, ne se trouve pas"
 descriptionFr: "Ils avaient promis de marcher ensemble chaque jour pendant un an. La promesse, pas la marche, est ce qui les a changés. Une histoire de responsabilité, de communauté et de la différence entre une habitude et un engagement."
 pubDate: 2026-08-04
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "4 min read"
 image: "/images/blog/two-friends-one-promise-3.jpg"
 imageAlt: "Two hands locking in a pinky promise outdoors"

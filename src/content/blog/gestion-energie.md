@@ -4,7 +4,7 @@ description: "Time management is not enough. Energy management is the real produ
 titleFr: "Gestion de l'énergie : le vrai hack de productivité"
 descriptionFr: "La gestion du temps ne suffit pas. La gestion de l'énergie est le vrai hack de productivité. Apprends à optimiser ton énergie pour une performance maximale."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "6 MIN"
 image: "/images/blog/gestion-energie-2.jpg"
 imageAlt: "A woman stretching her arms overhead with energy in a bright gym"

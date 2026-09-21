@@ -4,7 +4,7 @@ description: "Loving yourself is a verb. Saying no is the verb. Here is how to b
 titleFr: "Les Limites Sont de l'Amour : Fixer des Frontières Saines"
 descriptionFr: "Fixer des limites n'est pas égoïste — c'est un acte d'amour. Découvrez pourquoi les limites sont essentielles pour des relations saines."
 pubDate: 2026-08-18
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "9 MIN"
 image: "/images/blog/boundaries-are-love-2.jpg"
 imageAlt: "A white picket fence standing before blooming flowers in the sun"

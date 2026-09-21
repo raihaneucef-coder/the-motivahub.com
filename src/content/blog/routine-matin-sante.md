@@ -4,7 +4,7 @@ description: "The world's healthiest people share common morning habits. Learn t
 titleFr: "Routine Matinale Santé : Démarrer la Journée avec Énergie"
 descriptionFr: "Une routine matinale santé est essentielle pour votre bien-être. Découvrez les habitudes matinales qui transforment votre énergie."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "6 MIN"
 image: "/images/blog/routine-matin-sante-3.jpg"
 imageAlt: "A woman stretching her arms toward the sun at sunrise"

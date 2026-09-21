@@ -4,7 +4,7 @@ description: "The fastest way to lose a race is to run someone else's. Learn to 
 titleFr: "Courez Votre Propre Course : Ne Comparez pas votre Chapitre 1 au Chapitre 20"
 descriptionFr: "Courez votre propre course. La comparaison est le voleur de la joie. Concentrez-vous sur votre propre progression."
 pubDate: 2026-08-18
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 topic: "Sport"
 readTime: "4 min read"
 image: "/images/blog/run-your-own-race-2.jpg"

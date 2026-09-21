@@ -4,7 +4,7 @@ description: "The 2-minute rule is the simplest productivity hack that actually 
 titleFr: "La Règle de 2 Minutes pour la Productivité : Commencer Petit"
 descriptionFr: "La règle de 2 minutes pour la productivité est simple : commencez petit. Découvrez comment cette astuce peut transformer votre efficacité."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "4 MIN"
 image: "/images/blog/regle-2-min-productivite-3.jpg"
 imageAlt: "A blue kitchen timer sitting on a table in soft light"

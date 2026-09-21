@@ -4,7 +4,7 @@ description: "Jerry Seinfeld's productivity secret revealed. Learn why never bre
 titleFr: "Ne brise jamais la chaîne : la règle simple qui change tout"
 descriptionFr: "Le secret de productivité de Jerry Seinfeld révélé. Découvre pourquoi ne jamais briser ta chaîne d'habitudes est la stratégie la plus puissante pour un changement durable. La règle des 2 jours la rend pratique."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "5 MIN"
 image: "/images/blog/ne-brise-jamais-chaine-2.jpg"
 imageAlt: "A heap of heavy weathered metal chains linked together"

@@ -4,7 +4,7 @@ description: "You were told that focusing on yourself is selfish. A more secure 
 titleFr: "Soi Sécurisé : Comment Développer un Attachement Sain"
 descriptionFr: "Un soi sécurisé est la base d'une vie épanouie. Apprenez à développer un attachement sain avec vous-même et les autres."
 pubDate: 2026-08-12
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "7 MIN"
 image: "/images/blog/secure-self-2.jpg"
 imageAlt: "A happy woman with glasses hugging a pillow on the couch"

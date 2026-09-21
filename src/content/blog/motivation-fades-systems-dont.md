@@ -4,7 +4,7 @@ description: "You do not need more motivation. You need a system that works on t
 titleFr: "La motivation passe. Les systèmes restent."
 descriptionFr: "Tu n'as pas besoin de plus de motivation. Tu as besoin d'un système qui fonctionne les jours où la motivation refuse de se montrer."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 topic: "Mindset"
 readTime: "5 min read"
 image: "/images/blog/motivation-fades-systems-dont-2.jpg"

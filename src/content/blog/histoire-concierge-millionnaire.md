@@ -4,7 +4,7 @@ description: "Ronald Read cleaned floors for 25 years. When he died, he left beh
 titleFr: "Le concierge qui est devenu millionnaire : une histoire de discipline"
 descriptionFr: "Ronald Read a nettoyé des sols pendant 25 ans. À sa mort, il a laissé 8 millions de dollars. Son histoire prouve que la richesse se construit avec patience, pas avec des raccourcis."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "5 MIN"
 image: "/images/blog/histoire-concierge-millionnaire-3.jpg"
 imageAlt: "A cleaning team tidying a bright modern living room with mops and a vacuum"

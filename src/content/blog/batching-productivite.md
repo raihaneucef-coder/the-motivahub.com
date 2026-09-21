@@ -4,7 +4,7 @@ description: "Batching is grouping similar tasks together to minimize context sw
 titleFr: "Le Batching pour la Productivité : Regrouper les Tâches"
 descriptionFr: "Le batching est une technique de productivité qui consiste à regrouper les tâches similaires. Découvrez comment cela peut transformer votre efficacité."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "9 MIN"
 image: "/images/blog/batching-productivite.jpg"
 imageAlt: "Youssef Raihane's batching schedule - four productivity blocks for deep work"

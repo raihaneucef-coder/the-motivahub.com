@@ -4,7 +4,7 @@ description: "Discover the two-minute rule that has helped millions start new ha
 titleFr: "La Règle des 2 Minutes : Construire des Habitudes en 120 Secondes"
 descriptionFr: "La règle des 2 minutes est la clé pour construire des habitudes durables. Commencez petit, restez constant."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "5 MIN"
 image: "/images/blog/regle-deux-minutes-3.jpg"
 imageAlt: "Hands tying the laces of a running shoe before a workout"

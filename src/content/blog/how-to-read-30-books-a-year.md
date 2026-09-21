@@ -4,7 +4,7 @@ description: "I tried to build a daily reading habit for 90 days. Here's what wo
 titleFr: "Comment lire 30 livres par an (mon test de 90 jours sur l'habitude de 20 minutes)"
 descriptionFr: "J'ai essayé de construire une habitude de lecture quotidienne pendant 90 jours. Voici ce qui a fonctionné, ce qui a échoué, et le système exact de 20 minutes qui m'a aidé à finir 7 livres en 3 mois. Et les livres qui ont vraiment changé ma façon de penser."
 pubDate: 2026-09-01
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "10 MIN"
 image: "/images/blog/how-to-read-30-books-a-year-3.jpg"
 imageAlt: "A tall stack of books with a red hardcover on top in front of a bookshelf"

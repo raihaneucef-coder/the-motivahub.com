@@ -4,7 +4,7 @@ description: "Build unshakeable mental resilience. Learn the science-backed stra
 titleFr: "Résilience Mentale : Comment Devenir Plus Fort"
 descriptionFr: "La résilience mentale se construit. Découvrez les exercices et les mindset shifts pour développer une résilience à toute épreuve."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "7 MIN"
 image: "/images/blog/resilience-mentale-2.jpg"
 imageAlt: "Worn boxing gloves hanging - mental resilience"

@@ -4,7 +4,7 @@ description: "Fourteen days, twelve routines, four archetypes. A field report on
 titleFr: "J'ai testé 12 routines matinales pendant 14 jours. Seules 3 ont tenu."
 descriptionFr: "Quatorze jours, douze routines, quatre archétypes. Un rapport de terrain sur les routines matinales qui fonctionnent réellement pour quel type de personne disciplinée — et celles qui ne sont que des moyens coûteux de se sentir productif."
 pubDate: 2026-09-03
-updatedDate: 2026-09-07
+updatedDate: 2026-09-21
 readTime: "16 MIN"
 image: "/images/blog/morning-routines-12-tested-1.jpg"
 imageAlt: "Youssef Raihane - morning routines 12 tested concept"

@@ -4,7 +4,7 @@ description: "Discipline is not a trait you are born with. It is a choice you ma
 titleFr: "La Discipline est un Choix Quotidien : Vivre par Choix"
 descriptionFr: "La discipline n'est pas une punition — c'est un choix quotidien. Découvrez comment transformer la discipline en liberté."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "6 MIN"
 image: "/images/blog/discipline-choix-quotidien-2.jpg"
 imageAlt: "Hand gripping an alarm clock at dawn - discipline is a daily choice"

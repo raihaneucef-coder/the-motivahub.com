@@ -4,7 +4,7 @@ description: "One small habit before 8 AM saved me from drowning in unread email
 titleFr: "L'Habitude Matinale de 5 Minutes : Comment Transformer Votre Matinée"
 descriptionFr: "Commencez votre journée avec une habitude de 5 minutes qui change tout. Découvrez comment une routine matinale simple peut transformer votre productivité et votre bien-être."
 pubDate: 2026-09-02
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/5-minute-morning-habit-3.jpg"
 imageAlt: "Woman writing in her journal in bed with a cup of coffee and her phone beside her in soft morning light"

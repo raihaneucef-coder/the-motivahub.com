@@ -4,7 +4,7 @@ description: "Caring what people think is human. Letting it control your life is
 titleFr: "Apprendre à Dire Non : Comment Fixer des Limites Sainement"
 descriptionFr: "Dire non est une compétence essentielle pour protéger votre temps et votre énergie. Apprenez à couper les avis et les demandes qui ne servent pas vos objectifs."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/arreter-couper-avis-2.jpg"
 imageAlt: "Woman with eyes closed facing the breeze - cutting loose from other people's opinions"

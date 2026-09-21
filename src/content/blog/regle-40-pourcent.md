@@ -4,7 +4,7 @@ description: "David Goggins says we're only operating at 40% of our capacity. I 
 titleFr: "La Règle des 40% : Comment Surpasser Vos Limites"
 descriptionFr: "La règle des 40% dit que vous n'utilisez que 40% de votre potentiel. Découvrez comment débloquer les 60% restants."
 pubDate: 2026-09-01
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/regle-40-pourcent-3.jpg"
 imageAlt: "A runner pushing hard through a sprint on an outdoor track"

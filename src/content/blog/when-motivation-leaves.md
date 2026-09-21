@@ -4,7 +4,7 @@ description: "Motivation is weather. Discipline is the building you construct so
 titleFr: "Quand la motivation s'en va"
 descriptionFr: "La motivation est comme le temps. La discipline est le bâtiment que vous construisez pour que le temps ne décide plus de votre journée."
 pubDate: 2026-07-27
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/when-motivation-leaves-2.jpg"
 imageAlt: "A candle just blown out with a thin ribbon of smoke rising"

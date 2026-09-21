@@ -4,7 +4,7 @@ description: "The reason willpower-based productivity failed me — and what fin
 titleFr: "Pourquoi tu ne peux pas te concentrer (et l'exercice de 5 minutes qui m'a sauvé)"
 descriptionFr: "La raison pour laquelle la productivité basée sur la volonté m'a échoué — et ce qui a finalement fonctionné. Une approche centrée sur le corps pour la concentration que les neurosciences soutiennent de plus en plus. Avec des protocoles pratiques à essayer ce soir."
 pubDate: 2026-09-04
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "10 MIN"
 image: "/images/blog/nervous-system-reset-focus-3.jpg"
 imageAlt: "A calm woman with eyes closed resting in warm golden light"

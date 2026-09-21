@@ -4,7 +4,7 @@ description: "Your attention is the only thing the modern economy cannot manufac
 titleFr: "L'Attention comme Actif : Protéger Votre Concentration"
 descriptionFr: "Dans un monde de distractions, l'attention est votre actif le plus précieux. Découvrez comment protéger et cultiver votre concentration pour accomplir un travail significatif."
 pubDate: 2026-07-10
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "10 MIN"
 image: "/images/blog/attention-as-asset.jpg"
 imageAlt: "Youssef Raihane's attention audit notebook showing 147 distractions tracked in one day"

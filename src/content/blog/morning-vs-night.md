@@ -4,7 +4,7 @@ description: "Chronotype science, not willpower, decides which discipline routin
 titleFr: "Matin contre soir : quelle discipline fonctionne vraiment ?"
 descriptionFr: "La science du chronotype, pas la volonté, décide quelle routine de discipline survivra. Les données sur les routines matinales vs du soir — et le test en 4 questions qui te dit laquelle fonctionnera pour toi."
 pubDate: 2026-09-05
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "9 MIN"
 image: "/images/blog/morning-vs-night-1.jpg"
 imageAlt: "Youssef Raihane - morning vs night concept"

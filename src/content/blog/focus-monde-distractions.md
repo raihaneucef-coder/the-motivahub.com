@@ -4,7 +4,7 @@ description: "Your attention is the most valuable asset you own. Learn how to pr
 titleFr: "Comment rester concentré dans un monde fait pour te distraire"
 descriptionFr: "Ton attention est l'actif le plus précieux que tu possèdes. Apprends à la protéger, l'aiguiser et l'utiliser pour accomplir ce qui compte vraiment."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "7 MIN"
 image: "/images/blog/focus-monde-distractions-2.jpg"
 imageAlt: "A woman in headphones working with deep focus on her laptop by a window"

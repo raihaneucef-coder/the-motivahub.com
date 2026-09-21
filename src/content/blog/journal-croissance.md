@@ -4,7 +4,7 @@ description: "Journaling is the cheapest therapy you will ever find. Learn how 1
 titleFr: "Le journal pour grandir : comment l'écriture transforme ta conscience de toi"
 descriptionFr: "Le journal est la thérapie la moins chère que tu trouveras jamais. Découvre comment 10 minutes d'écriture quotidienne peuvent transformer ta conscience de toi, ton traitement émotionnel et tes décisions — appuyé par la recherche en psychologie."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "5 MIN"
 image: "/images/blog/journal-croissance-3.jpg"
 imageAlt: "An open journal and pen on a wooden desk next to a laptop"

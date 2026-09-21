@@ -4,7 +4,7 @@ description: "Want to quit smoking, stop procrastinating, or eliminate junk food
 titleFr: "Comment Casser une Mauvaise Habitude : Guide Pratique"
 descriptionFr: "Casser une mauvaise habitude demande plus que de la volonté. Découvrez les stratégies basées sur la science pour remplacer les habitudes nocives."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "9 MIN"
 image: "/images/blog/casser-mauvaise-habitude-2.jpg"
 imageAlt: "A woman holding a pink frosted donut in one hand and a green apple in the other, choosing between them"

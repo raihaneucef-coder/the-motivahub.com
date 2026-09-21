@@ -4,7 +4,7 @@ description: "Motivation is a visitor. Discipline is a resident. Learn why relyi
 titleFr: "La Discipline Bat la Motivation : Pourquoi les Systèmes Marchent"
 descriptionFr: "La motivation est émotionnelle, la discipline est systémique. Découvrez pourquoi la discipline est la clé d'un succès durable."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "5 MIN"
 image: "/images/blog/discipline-beat-motivation-2.jpg"
 imageAlt: "A man in a red beanie tying down ropes alone in an empty boxing gym"

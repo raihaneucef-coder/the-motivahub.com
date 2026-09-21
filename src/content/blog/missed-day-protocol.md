@@ -4,7 +4,7 @@ description: "Missing a day is not the end of a habit. It is the test of the sys
 titleFr: "Que faire quand tu manques un jour (sans tout abandonner)"
 descriptionFr: "Manquer un jour n'est pas la fin d'une habitude. C'est le test du système. Voici le protocole exact pour le jour après une absence — et les trois règles qui empêchent la rechute."
 pubDate: 2026-09-05
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "7 MIN"
 image: "/images/blog/missed-day-protocol-1.jpg"
 imageAlt: "Youssef Raihane - missed day protocol concept"

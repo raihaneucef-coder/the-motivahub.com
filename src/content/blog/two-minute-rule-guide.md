@@ -4,7 +4,7 @@ description: "James Clear's most underrated idea. Start so small it feels stupid
 titleFr: "La règle des 2 minutes : protocole de 7 jours + guide complet"
 descriptionFr: "L'idée la plus sous-estimée de James Clear. Commencez si petit que ça semble stupide. Puis regardez la porte rester ouverte. La base complète, le protocole, et quoi faire quand vous avez grandi."
 pubDate: 2026-09-03
-updatedDate: 2026-09-07
+updatedDate: 2026-09-21
 readTime: "12 MIN"
 image: "/images/blog/two-minute-rule-guide-1.jpg"
 imageAlt: "Youssef Raihane - two minute rule guide concept"
