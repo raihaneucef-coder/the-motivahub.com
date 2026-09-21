@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_time-blocking-journee_p2"><strong>Time Blocking: How to Own Your Day Instead of Reacting to It</strong> — practical guide based on real experiments. Time Blocking: How to Own Your Day Instead of Reacting to It works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_time-blocking-journee_p3">Most people use a to-do list. The most productive people use a time-blocked calendar. The difference is dramatic.</div>

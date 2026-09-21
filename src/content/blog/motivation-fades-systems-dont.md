@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_motivation-fades-systems-dont_p2"><strong>Motivation Fades. Systems Don't.</strong> — practical guide based on real experiments. Motivation Fades. Systems Don't. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_motivation-fades-systems-dont_p3">Motivation is a mood. It arrives uninvited, usually on a good night's sleep and a clear calendar, and it leaves the same way — without warning, halfway through a Tuesday. If your progress depends on it showing up, your progress depends on the weather.</div>

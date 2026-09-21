@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_proof-over-noise_p2"><strong>Proof Over Noise</strong> — practical guide based on real experiments. Proof Over Noise works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_proof-over-noise_p3">Your attention has a diet, whether you chose it or not.</div>

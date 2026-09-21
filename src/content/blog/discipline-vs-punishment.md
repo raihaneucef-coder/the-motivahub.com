@@ -49,7 +49,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_discipline-vs-punishment_p2"><strong>Discipline vs Punishment: The Difference That Changes Everything</strong> — practical guide based on real experiments. Discipline vs Punishment: The Difference That Changes Everything works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_discipline-vs-punishment_p4">Discipline is the system that builds the person. Punishment is the system that breaks them. The two look identical from the outside. Both involve doing hard things. The difference is in the direction of the work.</div>

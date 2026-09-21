@@ -49,7 +49,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_identity-challenge-7-days_p2"><strong>A 7-day identity challenge</strong> is a structured micro-experiment: pick one identity statement ("I am a writer"), one tiny daily action (write one sentence), and repeat for 7 days. Seven days is not enough to form a habit (median is 66 days), but it's enough to start the automaticity curve and gather evidence that you are the kind of person who does this thing. The first week is the steepest part of the curve.</div>
 
 <div data-i18n-html="article_identity-challenge-7-days_p3">Six months ago I told myself a small lie. I said I was a writer.</div>

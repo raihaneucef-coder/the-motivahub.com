@@ -44,7 +44,6 @@ relatedArticles:
   - "regle-40-pourcent"
 ---
 
-
 <div data-i18n-html="article_nervous-system-reset-focus_p2"><strong>Most focus problems aren't willpower issues — they're nervous system issues.</strong> When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first. The fastest way: slow exhales (4-7-8 breathing) for 60-90 seconds. This activates the parasympathetic nervous system and is the fastest, free, portable tool available.</div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p3">I used to think focus was a willpower problem. Wake up. Drink coffee. Open laptop. Force yourself to work.</div>

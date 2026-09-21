@@ -39,7 +39,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_inconfort-volontaire_p2"><strong>Voluntary Discomfort: The Secret to Mental Toughness</strong> — practical guide based on real experiments. Voluntary Discomfort: The Secret to Mental Toughness works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_inconfort-volontaire_p3">You do not become tough by accident. You become tough by <strong>choosing</strong> things that are hard — not because you have to, but because you want to.</div>

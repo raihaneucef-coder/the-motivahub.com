@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_routine-matin-sante_p2"><strong>Morning Routines of the World's Healthiest People</strong> — practical guide based on real experiments. Morning Routines of the World's Healthiest People works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_routine-matin-sante_p3">The first hour of your day determines the rest. If you start with chaos, you will live in chaos. If you start with intention, you will live with purpose.</div>

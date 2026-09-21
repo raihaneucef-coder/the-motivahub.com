@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_arreter-auto-sabotage_p2"><strong>Self-sabotage is fear in disguise.</strong> Your brain protects you from risk by creating doubt, distraction, or excuses. Most self-sabotage shows up as procrastination, perfectionism, self-doubt, or choosing comfort over growth — even when you know better. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different.</div>
 
 <div data-i18n-html="article_arreter-auto-sabotage_p4">I missed my own book launch.</div>

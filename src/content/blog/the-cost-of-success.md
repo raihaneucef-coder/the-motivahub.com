@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_the-cost-of-success_p2"><strong>The Cost of Success No One Talks About</strong> — practical guide based on real experiments. The Cost of Success No One Talks About works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_the-cost-of-success_p3">We love the highlight. We rarely ask what it cost when the cameras were off.</div>

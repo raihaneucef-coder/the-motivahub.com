@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p2"><strong>The Plate That Keeps You Steady</strong> — practical guide based on real experiments. The Plate That Keeps You Steady works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p3">A steady day starts with a steady plate.</div>

@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_growth-feels-like-breaking_p2"><strong>Growth Feels Like Breaking Before It Feels Like Becoming</strong> — practical guide based on real experiments. Growth Feels Like Breaking Before It Feels Like Becoming works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p3">You thought growth would feel like becoming. At first, it feels like breaking.</div>

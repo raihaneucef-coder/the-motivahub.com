@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_water-before-willpower_p2"><strong>Water Before Willpower</strong> — practical guide based on real experiments. Water Before Willpower works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_water-before-willpower_p3">We blame willpower for what is often just dehydration.</div>

@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_boundaries-are-love_p2"><strong>Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do</strong> — practical guide based on real experiments. Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_boundaries-are-love_p4">We think boundaries push people away. The opposite is true: unclear boundaries slowly poison closeness, until distance feels safer than honesty.</div>

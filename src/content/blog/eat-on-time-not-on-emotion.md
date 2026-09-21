@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p2"><strong>Eat on Time, Not on Emotion</strong> — practical guide based on real experiments. Eat on Time, Not on Emotion works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p3">Hunger is not a good time to decide what to eat.</div>

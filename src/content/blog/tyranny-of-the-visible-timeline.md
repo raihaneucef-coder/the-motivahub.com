@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p2"><strong>The Tyranny of the Visible Timeline</strong> — practical guide based on real experiments. The Tyranny of the Visible Timeline works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p3">Ask most people why they quit something and they will tell you a story about the goal — it stopped mattering, it turned out to be the wrong one, life got in the way. Look closer and a different pattern shows up more often: they quit because they were checking the clock, and the clock kept saying the same discouraging thing.</div>

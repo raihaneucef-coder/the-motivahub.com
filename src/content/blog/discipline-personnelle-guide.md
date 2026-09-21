@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_discipline-personnelle-guide_p2"><strong>Personal Discipline: The Complete Guide to Self-Control and Consistency</strong> — practical guide based on real experiments. Personal Discipline: The Complete Guide to Self-Control and Consistency works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p3">La discipline personnelle n'est pas un talent. C'est un muscle. Et comme tout muscle, elle se développe par la répétition, pas par l'inspiration.</div>

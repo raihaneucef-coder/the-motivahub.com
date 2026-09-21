@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p2"><strong>Make It Measurable, Make It Mine</strong> — practical guide based on real experiments. Make It Measurable, Make It Mine works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p3">Vague goals inspire no one, least of all the person who set them.</div>

@@ -39,7 +39,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_comparison-trap_p2"><strong>I Compared Myself to Strangers Online for 5 Years. Here's What It Cost Me.</strong> — practical guide based on real experiments. I Compared Myself to Strangers Online for 5 Years. Here's What It Cost Me. works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_comparison-trap_p3">Comparison is older than Instagram. Cain compared himself to Abel; the ancient Greeks had a word for the pain of seeing others prosper. What changed is not the instinct — it is the volume. Your grandfather compared himself to a few dozen people in his village. You compare yourself to thousands of curated strangers before breakfast.</div>

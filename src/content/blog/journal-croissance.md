@@ -42,7 +42,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_journal-croissance_p2"><strong>Journaling works because it forces you to examine your thoughts objectively.</strong> When you write, you understand your thoughts. When you understand them, you can change them. Research shows that 10 minutes of daily writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking.</div>
 
 <div data-i18n-html="article_journal-croissance_p3">Every successful person in history has journaled. Marcus Aurelius. Leonardo da Vinci. Oprah Winfrey. They all wrote — not for others, but for themselves.</div>

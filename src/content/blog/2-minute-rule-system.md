@@ -49,7 +49,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_2-minute-rule-system_p2"><strong>The 2-Minute Rule: A Complete System, Not Just a Trick</strong> — practical guide based on real experiments. The 2-Minute Rule: A Complete System, Not Just a Trick works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_2-minute-rule-system_p4"><strong>The 2-minute rule</strong>, from James Clear's Atomic Habits, says: when you start a new habit, it should take less than two minutes to do. Read for two minutes. Meditate for two minutes. Do ten pushups. The goal is not the two minutes. The goal is to make the start so easy you cannot say no. The actual behavior grows from the doorway. Most people stop at the doorway. The system continues past it.</div>

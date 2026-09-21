@@ -42,7 +42,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_discipline-depass-motivation_p2"><strong>Motivation gets you started. Discipline keeps you going.</strong> Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic. The difference matters most on the days you feel like quitting.</div>
 
 <div data-i18n-html="article_discipline-depass-motivation_p3">Motivation is like weather — unpredictable and temporary. Discipline is like a rock — solid and reliable. The most successful people do not rely on motivation. They rely on discipline.</div>

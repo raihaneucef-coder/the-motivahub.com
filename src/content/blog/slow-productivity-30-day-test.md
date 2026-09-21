@@ -44,7 +44,6 @@ relatedArticles:
   - "discipline-beat-motivation"
 ---
 
-
 <div data-i18n-html="article_slow-productivity-30-day-test_p2"><strong>Slow productivity</strong> is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days and cut my active projects in half while doubling output quality. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.</div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p3">I've been a productivity nerd for 15 years. I've read every book. Tried every system. Built apps to track my habits. Spent $2,000+ on courses. The whole thing.</div>

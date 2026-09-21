@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_community-discipline_p2"><strong>Community as Discipline — The Long Game of Belonging</strong> — practical guide based on real experiments. Community as Discipline — The Long Game of Belonging works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_community-discipline_p3">The most enduring business and sport stories have the same ending: no one did it alone. The founder who sold his company thanks his first two employees. The marathoner thanks the training partner who waited when he was slow. The most meaningful stories are never about the win — they are about who was there when no one was watching.</div>

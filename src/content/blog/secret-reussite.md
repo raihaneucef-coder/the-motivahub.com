@@ -39,7 +39,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_secret-reussite_p2"><strong>The Secret of People Who Always Succeed — It Is Not What You Think</strong> — practical guide based on real experiments. The Secret of People Who Always Succeed — It Is Not What You Think works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_secret-reussite_p3">We admire successful people and assume they have something we do not. A special talent. A secret advantage. A hidden connection.</div>

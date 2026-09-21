@@ -50,7 +50,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_two-minute-rule-guide_p2"><strong>The 2-Minute Rule: 7-Day Protocol + Full Guide</strong> — practical guide based on real experiments. The 2-Minute Rule: 7-Day Protocol + Full Guide works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p4">The most underrated idea in <em>Atomic Habits</em> is also the most copied. And most people copy it wrong.</div>

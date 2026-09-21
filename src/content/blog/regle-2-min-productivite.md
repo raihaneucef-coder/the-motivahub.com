@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_regle-2-min-productivite_p2"><strong>The 2-Minute Rule for Productivity: Get More Done in Less Time</strong> — practical guide based on real experiments. The 2-Minute Rule for Productivity: Get More Done in Less Time works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p3">David Allen introduced this rule in Getting Things Done: if a task takes less than 2 minutes, do it immediately instead of adding it to your list.</div>

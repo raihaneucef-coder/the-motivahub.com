@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_make-good-habits-obvious_p2"><strong>Make Good Habits Obvious, Bad Habits Invisible</strong> — practical guide based on real experiments. Make Good Habits Obvious, Bad Habits Invisible works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_make-good-habits-obvious_p3">Willpower is not the problem. Visibility is.</div>

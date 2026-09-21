@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_two-minute-breath-reset_p2"><strong>The Two-Minute Breath Reset</strong> — practical guide based on real experiments. The Two-Minute Breath Reset works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p3">Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.</div>

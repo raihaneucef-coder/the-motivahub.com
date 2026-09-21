@@ -42,7 +42,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_debt-is-a-story_p2"><strong>Debt Is a Story You Can Rewrite</strong> — practical guide based on real experiments. Debt Is a Story You Can Rewrite works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_debt-is-a-story_p3">Debt whispers that you are bad with money. That is not helpful, and it is not true.</div>

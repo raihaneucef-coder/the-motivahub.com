@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_play-on-purpose_p2"><strong>Play On Purpose</strong> — practical guide based on real experiments. Play On Purpose works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_play-on-purpose_p3">Nobody warns you that rest can be exhausting.</div>

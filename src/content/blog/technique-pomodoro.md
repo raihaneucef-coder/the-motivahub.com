@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_technique-pomodoro_p2"><strong>The Pomodoro Technique: Work Smarter, Not Harder</strong> — practical guide based on real experiments. The Pomodoro Technique: Work Smarter, Not Harder works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p3">The Pomodoro Technique was invented by Francesco Cirillo in the 1980s. He named it after the tomato-shaped kitchen timer he used as a student. It is deceptively simple — and it works.</div>

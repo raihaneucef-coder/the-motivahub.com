@@ -44,7 +44,6 @@ relatedArticles:
   - "slow-productivity-30-day-test"
 ---
 
-
 <div data-i18n-html="article_identity-based-habits-90-day-test_p2"><strong>An identity-based habit</strong> focuses on who you want to become (a writer, a runner) rather than what you want to achieve (write a book, run a marathon). Each action becomes a 'vote' for that identity. Identity shifts in 30-90 days if you consistently vote for it. The shift isn't dramatic — it's a quiet realization one day that you stopped debating whether to do the thing.</div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p3">For ten years, my habit attempts looked the same: set a goal, work toward it, fail, abandon, try a different goal. The cycle was identical. New Year, new resolution, February failure.</div>

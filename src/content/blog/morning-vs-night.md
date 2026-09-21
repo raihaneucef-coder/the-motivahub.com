@@ -49,7 +49,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_morning-vs-night_p2"><strong>Morning vs Night: Which Discipline Actually Sticks?</strong> — practical guide based on real experiments. Morning vs Night: Which Discipline Actually Sticks? works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_morning-vs-night_p4">The most common reason a discipline routine fails is not the routine itself. It is the time of day.</div>

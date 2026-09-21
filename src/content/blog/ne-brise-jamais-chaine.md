@@ -42,7 +42,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_ne-brise-jamais-chaine_p2"><strong>Jerry Seinfeld's habit strategy:</strong> mark an X on a calendar every day you complete your habit, and never break the chain. It works because of loss aversion, visual proof, and momentum. The longer the chain, the harder it is to break. The practical version includes the 2-day rule: never miss twice, not never miss once.</div>
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p3">Jerry Seinfeld was asked how he became a better comedian. His answer was one sentence: "Write a joke every day. When you do, put a big red X on a calendar. After a few days, you will have a chain. Do not break the chain."</div>

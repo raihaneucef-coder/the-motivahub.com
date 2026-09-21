@@ -39,7 +39,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_secure-self_p2"><strong>The Secure Self — Why Focusing on Yourself Is the Safest Love</strong> — practical guide based on real experiments. The Secure Self — Why Focusing on Yourself Is the Safest Love works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_secure-self_p3">You were told that focusing on yourself is selfish. That you should think about others first, give more, be more available. And you did — until you noticed that the more you focused on people, the less you felt yourself. A more secure perspective has a different instruction: focus on yourself more than you focus on people. Not because people do not matter, but because self-love is the only love that is truly secure — safe.</div>

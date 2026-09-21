@@ -44,7 +44,6 @@ relatedArticles:
   - "comment-creer-des-habitudes"
 ---
 
-
 <div data-i18n-html="article_how-to-read-30-books-a-year_p2"><strong>The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit.</strong> Research on micro-habits shows small daily actions stick better than longer weekly ones. I tested this for 90 days and finished 7 books. The key: stop counting books, start counting minutes. The goal is not the number. The goal is being the kind of person who reads every day.</div>
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p3">Last year, I made a goal that should have been easy: read 30 books in 12 months. Two decades of reading habits. Thousands of dollars in book purchases. A library card. Audible. Kindle. A reading app that tracks streaks.</div>

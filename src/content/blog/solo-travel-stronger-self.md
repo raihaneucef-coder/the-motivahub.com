@@ -41,7 +41,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_solo-travel-stronger-self_p2"><strong>Solo Travel, Stronger Self</strong> — practical guide based on real experiments. Solo Travel, Stronger Self works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p3">Travel with others and you learn about the place. Travel alone and you learn about yourself.</div>

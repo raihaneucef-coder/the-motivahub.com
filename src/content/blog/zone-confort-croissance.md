@@ -39,7 +39,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_zone-confort-croissance_p2"><strong>Comfort Zone vs Growth Zone: Why Discomfort Is Your Friend</strong> — practical guide based on real experiments. Comfort Zone vs Growth Zone: Why Discomfort Is Your Friend works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_zone-confort-croissance_p3">Your comfort zone is where you feel safe. No risk, no judgment, no failure. It is also where you stop growing. Growth only happens outside your comfort zone.</div>

@@ -40,7 +40,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_attention-as-asset_p2"><strong>Attention as Asset</strong> — practical guide based on real experiments. Attention as Asset works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_attention-as-asset_p4">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>

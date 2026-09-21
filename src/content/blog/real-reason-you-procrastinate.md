@@ -39,7 +39,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_real-reason-you-procrastinate_p2"><strong>The Real Reason You Procrastinate (It's Not Laziness)</strong> — practical guide based on real experiments. The Real Reason You Procrastinate (It's Not Laziness) works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p3">You are not lazy. Lazy people do not feel guilty while scrolling. You feel guilty, which means something entirely different is going on.</div>

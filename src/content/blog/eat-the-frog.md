@@ -39,7 +39,6 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-
 <div data-i18n-html="article_eat-the-frog_p2"><strong>Eat the Frog: Why You Should Do the Hard Thing First</strong> — practical guide based on real experiments. Eat the Frog: Why You Should Do the Hard Thing First works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_eat-the-frog_p3">"If the first thing you do each morning is eat a live frog, you can go through the rest of the day knowing the worst is behind you." — Mark Twain</div>
