@@ -9,6 +9,7 @@ import NewsletterSection from "../../components/NewsletterSection.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
 import BookCTA from "../../components/BookCTA.astro";
 import AuthorBio from "../../components/AuthorBio.astro";
+import ArticleFaq from "../../components/ArticleFaq.astro";
 import TableOfContents from "../../components/TableOfContents.astro";
 import { getCollection, render } from "astro:content";
 import { detectLangFromSlug } from "../../utils/lang";
@@ -151,6 +152,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
       <div class="prose">
         <Content />
       </div>
+      <ArticleFaq faq={post.data.faq} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} />

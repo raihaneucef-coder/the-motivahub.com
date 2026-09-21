@@ -1,0 +1,86 @@
+---
+/**
+ * Visible FAQ block for article pages.
+ *
+ * The JSON-LD FAQPage markup in the article templates must never describe
+ * content the reader cannot see — Google's FAQPage guidance requires the
+ * marked-up questions and answers to be visible on the page. This component
+ * renders exactly the same `faq` entries that feed that markup, so the two
+ * can never drift apart.
+ */
+interface FaqEntry {
+  q: string;
+  a: string;
+}
+
+interface Props {
+  faq?: FaqEntry[];
+}
+
+const { faq = [] } = Astro.props;
+---
+
+{faq.length > 0 && (
+  <section class="article-faq" aria-labelledby="article-faq-heading">
+    <h2 id="article-faq-heading" class="article-faq-title" data-i18n="faqHeading">Frequently Asked Questions</h2>
+    <dl class="article-faq-list">
+      {faq.map((item) => (
+        <div class="article-faq-item">
+          <dt class="article-faq-q">{item.q}</dt>
+          <dd class="article-faq-a">{item.a}</dd>
+        </div>
+      ))}
+    </dl>
+  </section>
+)}
+
+<style>
+  .article-faq {
+    margin: 56px auto 0;
+    max-width: var(--col-read, 760px);
+    padding-top: 32px;
+    border-top: 1px solid var(--line, #d8d1c0);
+  }
+  .article-faq-title {
+    font-family: var(--serif, Georgia, serif);
+    font-size: var(--fs-h3, 1.35rem);
+    font-weight: 500;
+    letter-spacing: -0.015em;
+    line-height: 1.2;
+    color: var(--ink, #0a0a0a);
+    margin: 0 0 24px;
+  }
+  .article-faq-list {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .article-faq-item {
+    padding-left: 20px;
+    border-left: 2px solid var(--or, #b8965a);
+  }
+  .article-faq-q {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.35;
+    color: var(--ink, #0a0a0a);
+    margin-bottom: 8px;
+  }
+  .article-faq-a {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: var(--fs-body, 1.0625rem);
+    line-height: 1.7;
+    color: var(--muted, #6b665e);
+    margin: 0;
+  }
+  @media (max-width: 768px) {
+    .article-faq {
+      margin-top: 40px;
+    }
+    .article-faq-item {
+      padding-left: 16px;
+    }
+  }
+</style>
