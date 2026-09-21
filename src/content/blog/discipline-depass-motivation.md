@@ -32,6 +32,13 @@ faq:
     a: "Yes. Motivation is useful for starting. Discipline is useful for continuing. The ideal system uses motivation as the spark and discipline as the engine. Start with a motivated burst (new year, new project), then immediately install the discipline systems that will keep you going when motivation fades."
   - q: "Is discipline the same as being hard on yourself?"
     a: "No. Discipline is kind. It includes rest days, the 2-day rule, and the 2-minute doorway. Self-punishment is cruel. It has no recovery, no kindness, and no identity. The test: is the work building something or tearing something down? If it builds, it is discipline. If it tears, it is punishment wearing a discipline costume."
+faqFr:
+  - q: "Pourquoi la discipline est-elle plus fiable que la motivation ?"
+    a: "La motivation est une émotion qui va et vient. La discipline est une compétence qui se construit et se renforce. La motivation disparaît quand vous êtes fatigué, stressé ou découragé. La discipline, elle, est présente quoi qu'il arrive. Les personnes les plus réussies ne comptent pas sur la motivation — elles comptent sur des systèmes qui rendent la discipline automatique."
+  - q: "Motivation et discipline peuvent-elles travailler ensemble ?"
+    a: "Oui. La motivation est utile pour démarrer. La discipline est utile pour continuer. Le système idéal utilise la motivation comme étincelle et la discipline comme moteur. Commencez par une poussée motivée (nouvelle année, nouveau projet), puis installez immédiatement les systèmes de discipline qui vous porteront quand la motivation retombera."
+  - q: "La discipline, est-ce être dur avec soi-même ?"
+    a: "Non. La discipline est bienveillante. Elle comprend les jours de repos, la règle des 2 jours et la porte des 2 minutes. L'autopunition est cruelle. Elle n'a ni rétablissement, ni bonté, ni identité. Le test : le travail construit-il quelque chose ou détruit-il quelque chose ? S'il construit, c'est de la discipline. S'il détruit, c'est une punition déguisée en discipline."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

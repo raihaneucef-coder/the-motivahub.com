@@ -36,6 +36,15 @@ faq:
     a: "Research suggests 18-66 days for habit consolidation. Expect 30 days to feel the shift and 90 days for the routine to be automatic. If you keep missing days, the routine is probably designed too big."
   - q: "What is the Miracle Morning by Hal Elrod?"
     a: "The Miracle Morning is a 6-step routine called SAVERS: Silence, Affirmations, Visualization, Exercise, Reading, Scribing (journaling). Each step takes 5-10 minutes. Total: 30-60 minutes. Popular but not one-size-fits-all."
+faqFr:
+  - q: "Quelle est la meilleure routine matinale ?"
+    a: "Il n'y a pas de routine universelle. La meilleure routine matinale est celle que vous pouvez tenir les mauvais jours. Pour la plupart des gens, c'est un empilement de 15 à 30 minutes fait de 3 ou 4 petites habitudes — pas un rituel de 90 minutes qui exigerait de quitter votre emploi."
+  - q: "Dois-je me lever à 5 heures ?"
+    a: "Pas forcément. Les recherches sur le chronotype montrent que votre meilleure heure de réveil dépend de la génétique. La bonne question est : combien de temps après le réveil pouvez-vous tenir une heure productive ? Pour certains, c'est 5 h. Pour d'autres, 7 h ou 8 h."
+  - q: "Combien de temps pour former une routine matinale ?"
+    a: "La recherche suggère 18 à 66 jours pour la consolidation d'une habitude. Comptez 30 jours pour sentir le changement et 90 jours pour que la routine devienne automatique. Si vous continuez à sauter des jours, la routine est probablement trop ambitieuse."
+  - q: "C'est quoi Miracle Morning de Hal Elrod ?"
+    a: "Miracle Morning est une routine en six étapes appelée SAVERS : Silence, Affirmations, Visualisation, Exercise, Reading, Scribing (écriture journalière). Chaque étape prend 5 à 10 minutes. Total : 30 à 60 minutes. Populaire, mais pas universelle."
 relatedArticles:
   - "routine-matin-change-tout"
   - "routine-matin-sante"
