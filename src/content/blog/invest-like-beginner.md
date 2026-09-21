@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_invest-like-beginner_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_invest-like-beginner_p2"><strong>Invest Like a Beginner, Think Like an Owner</strong> — practical guide based on real experiments. Invest Like a Beginner, Think Like an Owner works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_invest-like-beginner_p3">Waiting to feel ready is the most expensive investment strategy.</div>
+
+<div data-i18n-html="article_invest-like-beginner_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_invest-like-beginner_p4">Most people delay investing because they believe they need to understand everything first. Experts, charts, perfect timing. Meanwhile, time — the most powerful asset — keeps moving.</div>
 

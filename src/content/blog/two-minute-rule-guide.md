@@ -50,11 +50,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_two-minute-rule-guide_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p2"><strong>The 2-Minute Rule: 7-Day Protocol + Full Guide</strong> — practical guide based on real experiments. The 2-Minute Rule: 7-Day Protocol + Full Guide works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p4">The most underrated idea in <em>Atomic Habits</em> is also the most copied. And most people copy it wrong.</div>
+
+<div data-i18n-html="article_two-minute-rule-guide_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p5">James Clear calls it <strong>the 2-minute rule</strong>: when you start a new habit, it should take less than two minutes to do. Read for two minutes. Meditate for two minutes. Do ten pushups — which takes about forty seconds, then stretch for another eighty. The point is not the two minutes. The point is that the start becomes impossible to refuse.</div>
 

@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_regle-1-pourcent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regle-1-pourcent_p2"><strong>The 1% Rule: How to Improve Yourself Every Single Day</strong> — practical guide based on real experiments. The 1% Rule: How to Improve Yourself Every Single Day works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p3">If you improve by 1% every day for a year, you will be 37 times better by the end of the year. This is the compound effect, and it is the most powerful force in personal growth.</div>
+
+<div data-i18n-html="article_regle-1-pourcent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regle-1-pourcent_p4"><h2>The Math</h2></div>
 

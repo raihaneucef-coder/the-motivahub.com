@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p2"><strong>Rest Is a Decision, Not a Collapse</strong> — practical guide based on real experiments. Rest Is a Decision, Not a Collapse works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p3">There are two ways a productive stretch can end. One is a decision: you look at the week, decide the account is due for a deposit, and step back on your own terms. The other is a collapse: you push until the body or the mind refuses to continue, and rest is what happens to you rather than something you chose. Both look similar from the outside. They are not similar at all.</div>
+
+<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p4">Collapse-rest tends to come with guilt attached, because it feels like a failure of discipline rather than an act of it. Decision-rest carries no such weight, because it was planned as part of the discipline all along. The body cannot always tell the difference in how tired it feels, but the mind can tell the difference in how it recovers.</div>
 

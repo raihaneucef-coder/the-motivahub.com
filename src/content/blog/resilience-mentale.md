@@ -42,11 +42,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_resilience-mentale_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_resilience-mentale_p2"><strong>Mental resilience is a trainable skill, not a fixed trait.</strong> Neuroscience shows that your parasympathetic nervous system — the recovery system — can be trained through specific practices. Resilient people recover from stress faster not because they feel less, but because their recovery system is better trained. You can develop this through breathwork, reframing, and the 2-day rule.</div>
 
 <div data-i18n-html="article_resilience-mentale_p3">Life will knock you down. This is not a possibility — it is a certainty. The question is not whether you will face adversity, but whether you will <strong>bounce back</strong> when you do.</div>
+
+<div data-i18n-html="article_resilience-mentale_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_resilience-mentale_p4">Mental resilience is not about being tough. It is about being flexible. It is the ability to absorb a hit, process it, and keep moving forward.</div>
 

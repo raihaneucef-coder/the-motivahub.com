@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_community-discipline_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_community-discipline_p2"><strong>Community as Discipline — The Long Game of Belonging</strong> — practical guide based on real experiments. Community as Discipline — The Long Game of Belonging works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_community-discipline_p3">The most enduring business and sport stories have the same ending: no one did it alone. The founder who sold his company thanks his first two employees. The marathoner thanks the training partner who waited when he was slow. The most meaningful stories are never about the win — they are about who was there when no one was watching.</div>
+
+<div data-i18n-html="article_community-discipline_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_community-discipline_p4"><h2>Social Is Not Soft — It Is Strategic</h2></div>
 

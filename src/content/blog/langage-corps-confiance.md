@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_langage-corps-confiance_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_langage-corps-confiance_p2"><strong>Body Language Secrets: How to Project Confidence Without Saying a Word</strong> — practical guide based on real experiments. Body Language Secrets: How to Project Confidence Without Saying a Word works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_langage-corps-confiance_p3">Research shows that 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Your body is already speaking — make sure it is saying the right things.</div>
+
+<div data-i18n-html="article_langage-corps-confiance_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_langage-corps-confiance_p4"><h2>Power Postures</h2></div>
 

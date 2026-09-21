@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_body-votes-first_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_body-votes-first_p2"><strong>Body Votes First — The Hidden Election That Runs Your Life</strong> — practical guide based on real experiments. Body Votes First — The Hidden Election That Runs Your Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_body-votes-first_p4">We like to believe the mind is in charge.</div>
+
+<div data-i18n-html="article_body-votes-first_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_body-votes-first_p5">It writes the plans. It sets the alarms. It recites the ambitions at midnight. But watch closely on any given afternoon and you will see who actually runs the day: the body votes first, and the mind simply obeys.</div>
 

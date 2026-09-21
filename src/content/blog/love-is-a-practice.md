@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_love-is-a-practice_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_love-is-a-practice_p2"><strong>Love Is a Practice, Not a Feeling</strong> — practical guide based on real experiments. Love Is a Practice, Not a Feeling works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_love-is-a-practice_p3">We think love is a feeling that makes us act. Most days it is the opposite: acting with love is what creates the feeling.</div>
+
+<div data-i18n-html="article_love-is-a-practice_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_love-is-a-practice_p4">Waiting to feel patient before we listen, to feel grateful before we thank, to feel close before we reach out — this keeps love hostage to mood. Mood is weather. Practice is climate.</div>
 

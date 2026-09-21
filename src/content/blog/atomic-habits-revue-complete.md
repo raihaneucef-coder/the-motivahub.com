@@ -34,11 +34,12 @@ faq:
     a: "Yes. The four laws work in reverse for breaking habits: make the cue invisible, make the reward unattractive, make the behavior difficult, make the outcome unsatisfying. The book provides specific tactics for each inversion."
 ---
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p2"><strong>Atomic Habits by James Clear — The Complete Breakdown</strong> — practical guide based on real experiments. Atomic Habits by James Clear — The Complete Breakdown works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p4">Atomic Habits is not just a book. It is an operating system for behavior change. James Clear distilled years of research into four simple laws — and those laws have helped millions of people build better habits and break bad ones.</div>
+
+<div data-i18n-html="article_atomic-habits-revue-complete_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p5">I first read it in January 2024. I read it again in April, August, and January 2025. Four times in 18 months. Each read changed what I saw.</div>
 

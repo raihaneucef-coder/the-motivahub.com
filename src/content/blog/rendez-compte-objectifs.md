@@ -39,11 +39,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_rendez-compte-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p2"><strong>Goal Accountability: Why You Need Someone to Keep You on Track</strong> — practical guide based on real experiments. Goal Accountability: Why You Need Someone to Keep You on Track works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p3">You are 65% more likely to achieve a goal if you commit to someone. You are 95% more likely if you have a scheduled accountability appointment.</div>
+
+<div data-i18n-html="article_rendez-compte-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p4">Accountability is not about punishment. It is about support, commitment, and the social pressure that keeps you honest.</div>
 

@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_growth-feels-like-breaking_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p2"><strong>Growth Feels Like Breaking Before It Feels Like Becoming</strong> — practical guide based on real experiments. Growth Feels Like Breaking Before It Feels Like Becoming works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p3">You thought growth would feel like becoming. At first, it feels like breaking.</div>
+
+<div data-i18n-html="article_growth-feels-like-breaking_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p4">The old habits crack. The old stories do not fit. The person you were holds on while the person you are becoming tries to be born. It is uncomfortable, and it is exactly right.</div>
 

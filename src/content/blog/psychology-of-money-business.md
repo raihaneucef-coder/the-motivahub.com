@@ -39,11 +39,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_psychology-of-money-business_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_psychology-of-money-business_p2"><strong>The Psychology of Money — Why Business Is a Behavior</strong> — practical guide based on real experiments. The Psychology of Money — Why Business Is a Behavior works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_psychology-of-money-business_p3">A powerful business book of the last two years has nothing to do with spreadsheets. It has to do with stories. Money is not a math problem — it is a behavior problem, and behavior is where the money is made or lost.</div>
+
+<div data-i18n-html="article_psychology-of-money-business_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_psychology-of-money-business_p4"><h2>Greed Has No Finish Line</h2></div>
 

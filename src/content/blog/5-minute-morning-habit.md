@@ -43,11 +43,12 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
-<div data-i18n-html="article_5-minute-morning-habit_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p2"><strong>A 5-minute morning habit</strong> beats a 30-minute routine because small + sustainable > big + abandoned. The most effective is the 3-priority brain dump: write down the 3 most important tasks for the day, in order, on a single piece of paper. Takes 60 seconds. Prevents 60+ minutes of decision-making throughout the day. Do it before checking email, before handing your priorities to someone else.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p3">I used to start every morning by checking email. By 9 AM, I'd already lost 90 minutes of my own priorities reacting to everyone else's. By noon, I was exhausted from decisions I didn't need to make. By Friday, I'd accomplished maybe 30% of what I'd hoped to on Monday.</div>
+
+<div data-i18n-html="article_5-minute-morning-habit_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p4">That changed when I added one small habit to my morning. It takes 5 minutes. It doesn't require an alarm clock change, a meditation app, or a 30-minute ritual. It works on sick days, tired days, and chaotic days.</div>
 

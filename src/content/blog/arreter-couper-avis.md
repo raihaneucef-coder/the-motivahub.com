@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_arreter-couper-avis_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_arreter-couper-avis_p2"><strong>Caring what people think is human. Letting it control your life is a choice.</strong> Most people are focused on themselves, not you. The spotlight effect is real: you think people notice you more than they do. The goal is not to stop caring entirely — it is to care less about strangers' opinions and more about the opinions of people who know and respect you.</div>
 
 <div data-i18n-html="article_arreter-couper-avis_p4">The average person spends 5 hours a day worrying about what others think. That is 75 days per year spent on opinions that do not matter.</div>
+
+<div data-i18n-html="article_arreter-couper-avis_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_arreter-couper-avis_p5">I know this because I was that person.</div>
 

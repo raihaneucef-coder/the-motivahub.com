@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_regle-deux-minutes_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regle-deux-minutes_p2"><strong>The Two-Minute Rule: The Simple Secret to Building Better Habits</strong> — practical guide based on real experiments. The Two-Minute Rule: The Simple Secret to Building Better Habits works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p3">Most habits fail because they start too big. You want to read 30 pages, so you do not read at all. You want to run 5 km, so you do not even put on your shoes. The ambition kills the habit before it starts.</div>
+
+<div data-i18n-html="article_regle-deux-minutes_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regle-deux-minutes_p4">The two-minute rule fixes this. And it is deceptively simple.</div>
 

@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p2"><strong>How to Break a Bad Habit — The Reverse Four Laws</strong> — practical guide based on real experiments. How to Break a Bad Habit — The Reverse Four Laws works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step.</div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p4">Breaking a bad habit is harder than building a good one. But the same principles that create habits can destroy them — you just reverse them.</div>
+
+<div data-i18n-html="article_casser-mauvaise-habitude_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p5">I learned this in 2023, when I was scrolling on my phone for 3 hours every night. I was tired. I was unproductive. I was frustrated with myself. I tried to stop. I failed. I tried again. I failed again.</div>
 

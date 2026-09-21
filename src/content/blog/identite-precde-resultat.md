@@ -39,11 +39,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_identite-precde-resultat_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_identite-precde-resultat_p2"><strong>Identity Precedes Outcome: Become Before You Achieve</strong> — practical guide based on real experiments. Identity Precedes Outcome: Become Before You Achieve works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_identite-precde-resultat_p3">Most people try to change their lives by changing their behavior. They set goals, create plans, and rely on willpower. But the deepest, most lasting change happens when you change who you believe you are.</div>
+
+<div data-i18n-html="article_identite-precde-resultat_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_identite-precde-resultat_p4">Your identity precedes your outcomes. If you see yourself as a reader, you will read. If you see yourself as an athlete, you will exercise. If you see yourself as a writer, you will write.</div>
 

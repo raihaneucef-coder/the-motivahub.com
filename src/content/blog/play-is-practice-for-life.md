@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_play-is-practice-for-life_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p2"><strong>Play Is Practice for Life</strong> — practical guide based on real experiments. Play Is Practice for Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p3">We stopped playing when life got serious. That is when we needed play most.</div>
+
+<div data-i18n-html="article_play-is-practice-for-life_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p4">Children play to learn: how to share, how to lose, how to try again. Adults stop, and then wonder why life feels heavy.</div>
 

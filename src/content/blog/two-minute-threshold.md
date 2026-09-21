@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_two-minute-threshold_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_two-minute-threshold_p2"><strong>The Two-Minute Threshold</strong> — practical guide based on real experiments. The Two-Minute Threshold works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_two-minute-threshold_p3">A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever.</div>
+
+<div data-i18n-html="article_two-minute-threshold_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_two-minute-threshold_p4"><h2>The War Is Won at the Door</h2></div>
 

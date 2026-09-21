@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_mindset-etat-esprit_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p2"><strong>Mindset: How to Adopt a Winning Mindset and Transform Your Life</strong> — practical guide based on real experiments. Mindset: How to Adopt a Winning Mindset and Transform Your Life works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p3">Ton mindset détermine tout. Pas ton talent. Pas tes circonstances. Pas ta chance. <strong>Ta façon de penser.</strong></div>
+
+<div data-i18n-html="article_mindset-etat-esprit_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p4">Voici comment adopter un état d'esprit gagnant — et transformer chaque domaine de ta vie.</div>
 

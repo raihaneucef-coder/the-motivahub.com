@@ -39,11 +39,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p2"><strong>Focus on Yourself and Stay Silent — The Lesson of Shi Heng Yi</strong> — practical guide based on real experiments. Focus on Yourself and Stay Silent — The Lesson of Shi Heng Yi works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p3"><blockquote><em>Source d'inspiration : <a href="https://www.youtube.com/watch?v=teJ_rMsFJn0">Shi Heng Yi — Focus on Yourself and Stay Silent (YouTube)</a></em></blockquote></div>
+
+<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p4">Dans un monde plein de bruit, d'opinions et de comparaisons constantes, le geste le plus puissant que tu peux faire est simple : <strong>te concentrer sur toi-même et rester silencieux.</strong></div>
 

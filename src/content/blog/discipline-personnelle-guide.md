@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_discipline-personnelle-guide_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p2"><strong>Personal Discipline: The Complete Guide to Self-Control and Consistency</strong> — practical guide based on real experiments. Personal Discipline: The Complete Guide to Self-Control and Consistency works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p3">La discipline personnelle n'est pas un talent. C'est un muscle. Et comme tout muscle, elle se développe par la répétition, pas par l'inspiration.</div>
+
+<div data-i18n-html="article_discipline-personnelle-guide_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p4">Voici le guide complet pour construire une discipline inébranlable — sans te haïr en cours de route.</div>
 

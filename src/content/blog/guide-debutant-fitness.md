@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_guide-debutant-fitness_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p2"><strong>The Beginner's Guide to Building a Fitness Habit</strong> — practical guide based on real experiments. The Beginner's Guide to Building a Fitness Habit works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p3">You do not need a perfect workout plan. You do not need expensive equipment. You do not need a personal trainer. You need one thing: the ability to show up consistently. Everything else can be learned.</div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p4"><h2>Step 1: Start Embarrassingly Small</h2></div>
 

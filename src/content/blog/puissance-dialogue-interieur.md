@@ -39,11 +39,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_puissance-dialogue-interieur_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p2"><strong>The Power of Inner Dialogue: How Self-Talk Shapes Your Reality</strong> — practical guide based on real experiments. The Power of Inner Dialogue: How Self-Talk Shapes Your Reality works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p3">You talk to yourself 6,000 times a day. Most of the time, you do not even realize it.</div>
+
+<div data-i18n-html="article_puissance-dialogue-interieur_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p4">This inner dialogue — the constant narration running in the background — shapes everything. Your confidence. Your decisions. Your results. If your self-talk is cruel, your life will feel cruel. If your self-talk is empowering, your life will feel possible.</div>
 

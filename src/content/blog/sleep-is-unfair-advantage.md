@@ -44,11 +44,12 @@ relatedArticles:
   - "fuel-before-willpower"
 ---
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p2"><strong>The cheapest way to improve sleep quality:</strong> cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and typically improve sleep quality by 20-30% within 2 weeks. Consumer sleep trackers are useful for trends but not absolute measurements. The best tracker is your subjective morning energy.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p3">I tracked every night of sleep for 60 days. Wore an Oura ring. Logged when I went to bed, when I woke up, how I felt. Did this while testing every sleep hack I could find.</div>
+
+<div data-i18n-html="article_sleep-is-unfair-advantage_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p4">Here's what I found: <strong>most sleep advice is wrong about what matters.</strong> The cheap Amazon basics beat every premium gadget I tried. The cheapest habit changes were the most powerful.</div>
 

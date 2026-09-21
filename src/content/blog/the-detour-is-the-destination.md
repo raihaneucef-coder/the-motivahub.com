@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_the-detour-is-the-destination_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p2"><strong>The Detour Is the Destination</strong> — practical guide based on real experiments. The Detour Is the Destination works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p3">We plan the route and miss the travel.</div>
+
+<div data-i18n-html="article_the-detour-is-the-destination_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p4">The itinerary says: be here at 10, be there at 2. The detour says: get lost for an hour, talk to the person who waves you over, follow the small street because of the smell of bread.</div>
 

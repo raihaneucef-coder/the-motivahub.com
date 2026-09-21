@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_small-wins-big-life_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_small-wins-big-life_p2"><strong>Small Wins, Big Life: The Power of Tiny Habits</strong> — practical guide based on real experiments. Small Wins, Big Life: The Power of Tiny Habits works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_small-wins-big-life_p3">We wait for a big moment to change our lives. It never comes that way.</div>
+
+<div data-i18n-html="article_small-wins-big-life_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_small-wins-big-life_p4">Big lives are not built in big moments. They are built in small wins, repeated so often they become who you are.</div>
 

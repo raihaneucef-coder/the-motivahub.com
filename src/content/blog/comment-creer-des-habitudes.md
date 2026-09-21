@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_comment-creer-des-habitudes_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_comment-creer-des-habitudes_p2"><strong>How to Build Habits That Actually Last — The Science of Consistency</strong> — practical guide based on real experiments. How to Build Habits That Actually Last — The Science of Consistency works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_comment-creer-des-habitudes_p3">Tu as déjà essayé de changer une habitude — et tu as abandonné au bout de deux semaines. Ce n'est pas un manque de volonté. C'est un manque de système.</div>
+
+<div data-i18n-html="article_comment-creer-des-habitudes_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_comment-creer-des-habitudes_p4">Voici comment créer des habitudes qui durent vraiment, sans te brûler.</div>
 

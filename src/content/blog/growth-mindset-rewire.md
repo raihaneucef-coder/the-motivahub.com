@@ -40,11 +40,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_growth-mindset-rewire_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p2"><strong>Growth Mindset: How to Rewire Your Brain for Success</strong> — practical guide based on real experiments. Growth Mindset: How to Rewire Your Brain for Success works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p3">Your brain is not hardwired. It is softwired — and you hold the tools to rewire it.</div>
+
+<div data-i18n-html="article_growth-mindset-rewire_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p4">The difference between people who plateau and people who climb is not talent. It is the belief that they can improve. Psychologist Carol Dweck calls this the <strong>growth mindset</strong> — and it changes everything.</div>
 

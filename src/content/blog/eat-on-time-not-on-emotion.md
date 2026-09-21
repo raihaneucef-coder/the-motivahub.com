@@ -41,11 +41,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_eat-on-time-not-on-emotion_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p2"><strong>Eat on Time, Not on Emotion</strong> — practical guide based on real experiments. Eat on Time, Not on Emotion works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p3">Hunger is not a good time to decide what to eat.</div>
+
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p4">When you are starving, everything quick and sweet looks like the answer. Your brain, low on fuel, chooses what is fastest, not what is best for the afternoon you still have to live.</div>
 

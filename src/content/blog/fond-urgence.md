@@ -39,11 +39,12 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_fond-urgence_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_fond-urgence_p2"><strong>Emergency Fund: Why It Is Your Financial Foundation</strong> — practical guide based on real experiments. Emergency Fund: Why It Is Your Financial Foundation works when you test it personally, not when you read about it theoretically. This article gives you the exact protocol, the mistakes to avoid, and the evidence behind each step. The goal is not perfection. The goal is progress.</div>
 
 <div data-i18n-html="article_fond-urgence_p3">Your car breaks down. Your roof leaks. You get sick. These are not possibilities — they are certainties. The question is not if they will happen, but when. An emergency fund is what keeps them from becoming financial disasters.</div>
+
+<div data-i18n-html="article_fond-urgence_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_fond-urgence_p4"><h2>How Much Do You Need?</h2></div>
 

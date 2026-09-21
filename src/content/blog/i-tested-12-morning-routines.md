@@ -44,11 +44,12 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p2"><strong>There is no one-size-fits-all morning routine.</strong> The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a 90-minute ritual that requires quitting your job. I tested 12 routines for 30 days. Only one survived contact with a real Tuesday.</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p3">I spent 30 days testing every famous morning routine. Hal Elrod's Miracle Morning. Tim Ferriss's slow wake-up. The 5 AM cult. The cold plunge. The 4-minute workout. The journal-only protocol. Twelve different routines, one month of experimentation, two stress fractures, and a freezer full of ice cubes.</div>
+
+<div data-i18n-html="article_i-tested-12-morning-routines_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p4">Here's the truth that doesn't make it into productivity YouTube: most morning routines are designed for people who don't have jobs, kids, or chronic illness. They're aspirational theater, not sustainable systems. Most people try them for 6 days, fail day 7, and conclude they "don't have what it takes."</div>
 
