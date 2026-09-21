@@ -4,7 +4,7 @@ description: "Most reviews tell you if a book is good. This one tells you what a
 titleFr: "Revue Atomic Habits : Rapport de Terrain en 4 Lectures"
 descriptionFr: "Analyse complète du livre Atomic Habits de James Clear. Les 4 lois, la science, le protocole de 30 jours — et ce que la plupart des critiques laissent de côté."
 pubDate: 2026-08-13
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "12 MIN"
 image: "/images/blog/atomic-habits-review-2.jpg"
 imageAlt: "Open books fanned out with pink sticky tabs marking key pages"

@@ -4,7 +4,7 @@ description: "Starting a fitness routine is easy. Sticking to one is hard. Here 
 titleFr: "Le guide du débutant pour construire une habitude de fitness"
 descriptionFr: "Commencer une routine de fitness est facile. La maintenir est difficile. Voici le guide adapté aux débutants pour construire une habitude de fitness qui dure."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "6 MIN"
 image: "/images/blog/guide-debutant-fitness.jpg"
 imageAlt: "Youssef Raihane - guide debutant fitness concept"

@@ -4,7 +4,7 @@ description: "Motivation is unreliable. Systems are dependable. Learn why buildi
 titleFr: "Quand la motivation échoue, les systèmes prennent le relais"
 descriptionFr: "La motivation est imprévisible. Les systèmes sont fiables. Découvrez pourquoi construire des systèmes vaut mieux que de fixer des objectifs — et comment créer des systèmes qui fonctionnent."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "6 MIN"
 image: "/images/blog/systemes-battent-motivation-2.jpg"
 imageAlt: "A hand drawing a system flowchart on a whiteboard"

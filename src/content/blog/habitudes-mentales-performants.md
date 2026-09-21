@@ -4,7 +4,7 @@ description: "Discover the daily mental routines that separate top performers fr
 titleFr: "Les 5 habitudes mentales des personnes très performantes"
 descriptionFr: "Découvre les routines mentales quotidiennes qui séparent les meilleurs des autres. Des habitudes pratiques que tu peux commencer aujourd'hui."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "6 MIN"
 image: "/images/blog/habitudes-mentales-performants-2.jpg"
 imageAlt: "A player studying the chessboard while an opponent reaches for a piece"

@@ -4,7 +4,7 @@ description: "The room quiets when calm walks in. In a world of noise, the abili
 titleFr: "Le Calme est un Super-Pouvoir : Cultiver la Sérenité"
 descriptionFr: "Dans un monde bruyant, le calme est votre super-pouvoir. Apprenez à cultiver la sérénité pour prendre de meilleures décisions."
 pubDate: 2026-08-11
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/calm-is-a-superpower.jpg"
 imageAlt: "Youssef Raihane practicing calm before a difficult client meeting - one slow breath"

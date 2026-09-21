@@ -4,7 +4,7 @@ description: "Deep work is the ability to focus without distraction on a cogniti
 titleFr: "Deep Work : Le Protocole de Concentration Profonde"
 descriptionFr: "Deep Work de Cal Newport est le guide définitif pour maîtriser la concentration. Découvrez le protocole pour un travail profond et significatif."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "7 MIN"
 image: "/images/blog/deep-work-focus.jpg"
 imageAlt: "Youssef Raihane - deep work focus concept"

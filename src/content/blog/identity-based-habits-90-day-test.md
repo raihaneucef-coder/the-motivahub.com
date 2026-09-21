@@ -4,7 +4,7 @@ description: "Goal-based habits fail because the goal is external. Identity-base
 titleFr: "Objectifs identitaires : le seul changement qui a fait que mes habitudes tiennent"
 descriptionFr: "Les habitudes basées sur des objectifs échouent parce que l'objectif est externe. Les habitudes identitaires tiennent parce que tu deviens quelqu'un. J'ai testé ça pendant 90 jours. Voici la différence, les preuves, et comment l'appliquer ce soir."
 pubDate: 2026-09-05
-updatedDate: 2026-09-07
+updatedDate: 2026-09-21
 readTime: "9 MIN"
 image: "/images/blog/identity-based-habits-90-day-test-2.jpg"
 imageAlt: "Calendar with a circled date and a check habits note - the ninety day identity test"

@@ -4,7 +4,7 @@ description: "James Clear's 2-minute rule is the most misunderstood idea in habi
 titleFr: "La Règle des 2 Minutes : Un Système Complet, pas une Simple Astuce"
 descriptionFr: "La règle des 2 minutes de James Clear est l'idée la plus mal comprise en science des habitudes. Ce n'est pas un hack de productivité. C'est un système complet d'identité, de conception et de récupération."
 pubDate: 2026-09-05
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "18 MIN"
 image: "/images/blog/2-minute-rule-system-2.jpg"
 imageAlt: "Running shoes taking the first step on a track - the two minute rule system"

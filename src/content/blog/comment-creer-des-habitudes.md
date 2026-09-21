@@ -4,7 +4,7 @@ description: "Discover how to create habits that stick. A practical guide to bui
 titleFr: "Comment Créer des Habitudes Qui Durables : Le Guide Complet"
 descriptionFr: "Créer des habitudes durables demande un système, pas de la motivation. Découvrez comment construire des routines qui tiennent sur le long terme."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/comment-creer-des-habitudes.jpg"
 imageAlt: "Youssef Raihane - comment creer des habitudes concept"

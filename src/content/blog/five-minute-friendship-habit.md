@@ -4,7 +4,7 @@ description: "Friendship does not require weekends away — it requires five min
 titleFr: "L'habitude d'amitié en cinq minutes"
 descriptionFr: "L'amitié n'a pas besoin de week-ends loin — elle demande cinq minutes d'attention vraie, répétées."
 pubDate: 2026-08-17
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 topic: "Relationships"
 readTime: "4 min read"
 image: "/images/blog/five-minute-friendship-habit-3.jpg"

@@ -4,7 +4,7 @@ description: "Everyone else pivoted. He stayed. For 32 years, the doors opened a
 titleFr: "Le commerce qui est resté ouvert : pourquoi l'endurance bat le pivot"
 descriptionFr: "Tout le monde a pivoté. Lui est resté. Pendant 32 ans, les portes ont ouvert à 7h du matin — et les leçons qu'il a apprises à l'intérieur sont celles que la plupart des professionnels ne trouvent jamais. Une histoire d'endurance tranquille."
 pubDate: 2026-08-05
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "4 min read"
 image: "/images/blog/the-shop-that-stayed-open-3.jpg"
 imageAlt: "A small grocery store glowing at night with its window lights on"

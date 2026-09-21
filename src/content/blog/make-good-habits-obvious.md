@@ -4,7 +4,7 @@ description: "You do not need more willpower — you need a clearer path. Design
 titleFr: "Rends les bonnes habitudes évidentes, les mauvaises invisibles"
 descriptionFr: "Tu n'as pas besoin de plus de volonté — tu as besoin d'un chemin plus clair. Conçois ton monde pour que les bonnes habitudes soient faciles à voir et les mauvaises difficiles à trouver."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 topic: "Habits"
 readTime: "4 min read"
 image: "/images/blog/make-good-habits-obvious-2.jpg"

@@ -4,7 +4,7 @@ description: "From Jocko to the CrossFit Games: why the most durable sport minds
 titleFr: "La Discipline des Athlètes : Ce Que Nous Pouvons Apprendre"
 descriptionFr: "Les athlètes de haut niveau maîtrisent la discipline. Découvrez leurs secrets et comment les appliquer à votre vie quotidienne pour atteindre l'excellence."
 pubDate: 2026-08-21
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "10 MIN"
 image: "/images/blog/athlete-discipline.jpg"
 imageAlt: "Youssef Raihane - athlete discipline concept"

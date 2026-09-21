@@ -4,7 +4,7 @@ description: "A powerful social lesson is not about tactics — it is about show
 titleFr: "Muscle Social : Renforcer vos Relations avec Intention"
 descriptionFr: "Le muscle social se construit avec intention. Découvrez comment renforcer vos relations et développer un réseau solide."
 pubDate: 2026-08-10
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "7 MIN"
 image: "/images/blog/social-muscle-3.jpg"
 imageAlt: "Two climbing partners belaying each other at an indoor climbing wall"

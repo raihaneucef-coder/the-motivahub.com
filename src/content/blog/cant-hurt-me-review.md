@@ -4,7 +4,7 @@ description: "After three reads of David Goggins' book across two years, here's 
 titleFr: "Revue Can't Hurt Me : Le Mindset de David Goggins"
 descriptionFr: "Analyse complète du livre Can't Hurt Me de David Goggins. La psychologie de l'endurance, la discipline extrême et comment briser vos limites."
 pubDate: 2026-09-01
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "11 MIN"
 image: "/images/blog/cant-hurt-me-review.jpg"
 imageAlt: "Youssef Raihane's accountability mirror sticky notes from Can't Hurt Me - 90 day experiment"

@@ -4,7 +4,7 @@ description: "Forget the 21-day rule. Research shows habit formation takes 66 da
 titleFr: "La Règle des 21 Jours : Construire une Habitude en 3 Semaines"
 descriptionFr: "La règle des 21 jours est populaire pour une raison. Découvrez comment 3 semaines de pratique peuvent ancrer une habitude durable."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "5 MIN"
 image: "/images/blog/regle-21-jours.jpg"
 imageAlt: "Youssef Raihane journaling in Casablanca - 21 day habit myth vs reality"

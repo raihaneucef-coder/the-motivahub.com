@@ -4,7 +4,7 @@ description: "I tried every famous morning routine for 30 days — Hal Elrod's M
 titleFr: "J'ai testé 12 routines matinales pendant 30 jours. Une seule a vraiment fonctionné."
 descriptionFr: "J'ai essayé toutes les routines matinales connues pendant 30 jours — le Miracle Morning de Hal Elrod, le protocole 4-Hour Body de Tim Ferriss, le réveil à 5h, le matin lent, le bain froid, et plus encore. Voici ce qui a survécu à un mardi réel."
 pubDate: 2026-09-01
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "12 MIN"
 image: "/images/blog/i-tested-12-morning-routines-3.jpg"
 imageAlt: "A vintage alarm clock showing six o'clock in soft early-morning light"

@@ -4,7 +4,7 @@ description: "A personal experiment. Seven days, one identity statement, one tin
 titleFr: "J'ai fait un défi identitaire de 7 jours. Voici ce que 7 jours de votes font vraiment."
 descriptionFr: "Une expérience personnelle. Sept jours, une affirmation d'identité, une petite action quotidienne. Les chiffres, la science, et le résultat surprenant au jour 7 — et ce qui s'est passé quand j'ai arrêté."
 pubDate: 2026-09-03
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "14 MIN"
 image: "/images/blog/identity-challenge-7-days-1.jpg"
 imageAlt: "Youssef Raihane - identity challenge 7 days concept"

@@ -4,7 +4,7 @@ description: "The easiest way to build a new habit is to tie it to one you alrea
 titleFr: "L'empilement d'habitudes : relie les nouvelles habitudes aux anciennes"
 descriptionFr: "La façon la plus simple de construire une nouvelle habitude est de la lier à une que tu fais déjà. Empile-la, ne la commence pas from scratch."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 topic: "Habits"
 readTime: "4 min read"
 image: "/images/blog/habit-stacking-made-simple-3.jpg"

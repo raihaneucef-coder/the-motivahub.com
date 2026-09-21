@@ -4,7 +4,7 @@ description: "Big change does not require big actions — it requires small wins
 titleFr: "Petites Victoires, Grande Vie : Le Pouvoir des Micro-Gains"
 descriptionFr: "Les petites victoires créent une grande vie. Découvrez comment les micro-gains quotidiens transforment votre existence."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 topic: "Habits"
 readTime: "4 min read"
 image: "/images/blog/small-wins-big-life-2.jpg"

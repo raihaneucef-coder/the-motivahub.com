@@ -4,7 +4,7 @@ description: "Travel is not escape — it is the fastest way to reset arrogance 
 titleFr: "Recommencer en Débutant : Le Pouvoir de l'Humilité"
 descriptionFr: "Recommencer en débutant est une force. Découvrez comment l'humilité et la curiosité peuvent transformer votre apprentissage et votre croissance personnelle."
 pubDate: 2026-08-19
-updatedDate: 2026-09-12
+updatedDate: 2026-09-21
 readTime: "8 MIN"
 image: "/images/blog/beginner-again.jpg"
 imageAlt: "Youssef Raihane - beginner again concept"
