@@ -7,8 +7,8 @@ pubDate: 2026-08-11
 updatedDate: 2026-09-12
 topic: "Travel"
 readTime: "5 min read"
-image: "/images/blog/pack-light-stay-long.jpg"
-imageAlt: "Youssef Raihane - solo travel stronger self concept"
+image: "/images/blog/solo-travel-stronger-self-2.jpg"
+imageAlt: "Lone hiker with a backpack trekking through the mountains - solo travel builds a stronger self"
 featured: false
 draft: false
 keywords:

@@ -6,8 +6,8 @@ descriptionFr: "La psychologie de l'argent en affaires est cruciale. Découvrez 
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 readTime: "8 MIN"
-image: "/images/blog/psychology-of-money-business.jpg"
-imageAlt: "Youssef Raihane - psychology of money business concept"
+image: "/images/blog/psychology-of-money-business-2.jpg"
+imageAlt: "Hands holding a glass jar full of coins for savings - the psychology of money"
 topic: "Success"
 keywords:
   - "business"

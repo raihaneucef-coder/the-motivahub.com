@@ -7,8 +7,8 @@ pubDate: 2026-08-17
 updatedDate: 2026-09-12
 topic: "Sport"
 readTime: "4 min read"
-image: "/images/blog/recovery-is-training.jpg"
-imageAlt: "Youssef Raihane - recovery is training concept"
+image: "/images/blog/recovery-is-training-2.jpg"
+imageAlt: "Athlete using a foam roller on the gym floor - recovery is training"
 featured: false
 draft: false
 keywords:

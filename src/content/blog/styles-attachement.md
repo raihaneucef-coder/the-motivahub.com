@@ -6,8 +6,8 @@ descriptionFr: "Les styles d'attachement influencent vos relations. Découvrez l
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/styles-attachement.jpg"
-imageAlt: "Youssef Raihane - styles attachement concept"
+image: "/images/blog/styles-attachement-2.jpg"
+imageAlt: "Two people holding each other in a close embrace - attachment styles"
 topic: "Relationships"
 keywords:
   - "attachment"

@@ -6,8 +6,8 @@ descriptionFr: "La règle du 1% est simple mais puissante. Améliorer de 1% chaq
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/regle-1-pourcent.jpg"
-imageAlt: "Youssef Raihane - regle 1 pourcent concept"
+image: "/images/blog/regle-1-pourcent-2.jpg"
+imageAlt: "A single water drop creating ripples - the one percent rule"
 topic: "Personal Growth"
 keywords:
   - "year"
