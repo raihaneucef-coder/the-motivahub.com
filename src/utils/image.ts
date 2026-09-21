@@ -28,3 +28,8 @@ export async function getImageDimensions(imagePath: string): Promise<{ width: nu
     return { width: 1200, height: 630 };
   }
 }
+
+export function thumbSrc(imagePath: string): string {
+  if (!imagePath.startsWith("/") || imagePath.includes("-sm.jpg")) return imagePath;
+  return imagePath.replace(/\.jpg$/, "-sm.jpg");
+}
