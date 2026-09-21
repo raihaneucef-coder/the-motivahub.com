@@ -269,14 +269,14 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
       <div class="prose" data-ssr-fr="1" set:html={proseHtml} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
-      <ToolCta topic={post.data.topic} />
+      <ToolCta topic={post.data.topic} lang="fr" />
       {isReviewPost && <AffiliateBanner variant="footer" lang={postLang} />}
       <SocialShare title={displayTitle} description={displayDesc} />
-      <AuthorBio variant="compact" showSchema={false} />
+      <AuthorBio variant="compact" showSchema={false} lang="fr" />
       <div class="article-nav">
-        {prev ? <a class="link-ochre" href={`/journal/${prev.id}/`}>← {prev.data.title}</a> : <span></span>}
-        <a class="link-ochre" href="/journal/" data-i18n="returnToJournal">Return to Journal</a>
-        {next ? <a class="link-ochre" href={`/journal/${next.id}/`}>{next.data.title} →</a> : <span></span>}
+        {prev ? <a class="link-ochre" href={`/fr/journal/${getFrenchSlug(prev.id)}/`}>← {(prev.data.titleFr || prev.data.title)}</a> : <span></span>}
+        <a class="link-ochre" href="/fr/journal/" data-i18n="returnToJournal">Return to Journal</a>
+        {next ? <a class="link-ochre" href={`/fr/journal/${getFrenchSlug(next.id)}/`}>{(next.data.titleFr || next.data.title)} →</a> : <span></span>}
       </div>
     </div>
   </article>
