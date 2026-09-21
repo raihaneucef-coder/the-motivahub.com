@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"
 readTime: "4 min read"
-image: "/images/blog/success-leaves-traces.jpg"
-imageAlt: "Youssef Raihane - success leaves traces concept"
+image: "/images/blog/success-leaves-traces-2.jpg"
+imageAlt: "Footprints trailing across smooth sand"
 featured: false
 draft: false
 keywords:

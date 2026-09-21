@@ -165,3 +165,15 @@ Unified cinematic treatment applied by Motiva Hub.
 - **success-is-a-direction** — [Thilina Alagiyawanna](https://www.pexels.com/@thilina-alagiyawanna-3266092) via [Pexels](https://www.pexels.com/photo/a-street-sign-with-a-black-and-white-design-27626854/)
 - **rendez-compte-objectifs** — [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via [Pexels](https://www.pexels.com/photo/two-people-checking-their-wristwatches-5038817/)
 - **secure-self** — [Tessy Agbonome](https://www.pexels.com/@tessy-agbonome-521343232) via [Pexels](https://www.pexels.com/photo/smiling-woman-sitting-on-a-couch-hugging-a-pillow-16385807/)
+
+## Covers replaced — batch 4/4 (branch images/covers-2)
+
+- **success-leaves-traces** — [Chinu](https://www.pexels.com/@chinu-2149838611) via [Pexels](https://www.pexels.com/photo/animal-and-human-footprints-on-sandy-beach-37512109/)
+- **syndrome-imposteur** — [Engin Akyurt](https://www.pexels.com/@enginakyurt) via [Pexels](https://www.pexels.com/photo/woman-in-black-long-sleeve-shirt-holding-black-skull-4056216/)
+- **systemes-battent-motivation** — [Christina Morillo](https://www.pexels.com/@divinetechygirl) via [Pexels](https://www.pexels.com/photo/white-dry-erase-board-with-red-diagram-1181311/)
+- **the-cost-of-success** — [Vitaly Gariev](https://www.pexels.com/@silverkblack) via [Pexels](https://www.pexels.com/photo/dedicated-professional-working-late-in-office-36713441/)
+- **the-detour-is-the-destination** — [taakill](https://www.pexels.com/@taakill) via [Pexels](https://www.pexels.com/photo/a-road-in-the-forest-5690516/)
+- **the-goal-behind-the-goal** — [Ahmed  Shan](https://www.pexels.com/@ahmed-shan-3258660) via [Pexels](https://www.pexels.com/photo/split-level-photography-of-sea-4890167/)
+- **the-movie-that-changed-your-week** — [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via [Pexels](https://www.pexels.com/photo/red-chairs-in-the-cinema-7991381/)
+- **two-minute-threshold** — [M1nh  Art](https://www.pexels.com/@m1nhosuy) via [Pexels](https://www.pexels.com/photo/young-adult-standing-by-open-door-in-sunlit-room-37976675/)
+- **when-motivation-leaves** — [Robert Śliwiński](https://www.pexels.com/@robert-sliwinski-2155126657) via [Pexels](https://www.pexels.com/photo/extinguished-candle-with-rising-smoke-36975554/)

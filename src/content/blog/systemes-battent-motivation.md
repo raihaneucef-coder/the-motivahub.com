@@ -6,8 +6,8 @@ descriptionFr: "La motivation est imprévisible. Les systèmes sont fiables. Dé
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/systemes-battent-motivation.jpg"
-imageAlt: "Youssef Raihane - systemes battent motivation concept"
+image: "/images/blog/systemes-battent-motivation-2.jpg"
+imageAlt: "A hand drawing a system flowchart on a whiteboard"
 topic: "Goals"
 keywords:
   - "system"

@@ -7,8 +7,8 @@ pubDate: 2026-08-09
 updatedDate: 2026-09-12
 topic: "Entertainment"
 readTime: "4 min read"
-image: "/images/blog/the-movie-that-changed-your-week.jpg"
-imageAlt: "Youssef Raihane - the movie that changed your week concept"
+image: "/images/blog/the-movie-that-changed-your-week-2.jpg"
+imageAlt: "Empty red cinema seats facing the glowing projector screen"
 featured: false
 draft: false
 keywords:

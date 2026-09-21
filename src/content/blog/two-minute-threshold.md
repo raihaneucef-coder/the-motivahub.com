@@ -6,8 +6,8 @@ descriptionFr: "Une habitude n'est pas une ligne d'arrivée mais une porte. Réd
 pubDate: 2026-08-02
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/two-minute-threshold.jpg"
-imageAlt: "Youssef Raihane - two minute threshold concept"
+image: "/images/blog/two-minute-threshold-2.jpg"
+imageAlt: "A person standing at an open doorway with light pouring in"
 topic: "Habits"
 keywords:
   - "doorway"

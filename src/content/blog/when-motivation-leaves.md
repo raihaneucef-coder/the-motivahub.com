@@ -6,8 +6,8 @@ descriptionFr: "La motivation est comme le temps. La discipline est le bâtiment
 pubDate: 2026-07-27
 updatedDate: 2026-09-12
 readTime: "8 MIN"
-image: "/images/blog/when-motivation-leaves.jpg"
-imageAlt: "Youssef Raihane - when motivation leaves concept"
+image: "/images/blog/when-motivation-leaves-2.jpg"
+imageAlt: "A candle just blown out with a thin ribbon of smoke rising"
 topic: "Discipline"
 keywords:
   - "motivation"
