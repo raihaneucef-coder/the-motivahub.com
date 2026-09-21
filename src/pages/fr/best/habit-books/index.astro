@@ -4,7 +4,6 @@ import Link from "../../../../components/Link.astro";
 import { books } from "../../../../data/books";
 import BookCard from "../../../../components/BookCard.astro";
 import AffiliateBanner from "../../../../components/AffiliateBanner.astro";
-import AdSlot from "../../../../components/AdSlot.astro";
 
 const habitBooks = books.filter((b) => b.category === "HABITS" || b.category === "DISCIPLINE");
 const title = "Meilleurs Livres sur les Habitudes 2026 — Motiva Hub";
@@ -93,8 +92,6 @@ const description = "Les meilleurs livres pour construire des habitudes durables
           </div>
         ))}
       </div>
-
-      <AdSlot format="horizontal" />
 
       <AffiliateBanner variant="footer" lang="fr" />
     </div>

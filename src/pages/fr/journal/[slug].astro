@@ -5,7 +5,6 @@ import ArticleCard from "../../../components/ArticleCard.astro";
 import RelatedArticles from "../../../components/RelatedArticles.astro";
 import SocialShare from "../../../components/SocialShare.astro";
 import ToolCta from "../../../components/ToolCta.astro";
-import AdSlot from "../../../components/AdSlot.astro";
 import NewsletterSection from "../../../components/NewsletterSection.astro";
 import AffiliateBanner from "../../../components/AffiliateBanner.astro";
 import BookCTA from "../../../components/BookCTA.astro";
@@ -286,7 +285,6 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
       <div class="prose" data-ssr-fr="1" set:html={proseHtml} />
       <ArticleFaq faq={faqFr ?? undefined} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
-      <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} lang="fr" />
       {isReviewPost && <AffiliateBanner variant="footer" lang={postLang} />}
       <SocialShare title={displayTitle} description={displayDesc} />

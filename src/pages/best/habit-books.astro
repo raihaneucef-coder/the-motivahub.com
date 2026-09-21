@@ -3,7 +3,6 @@ import Layout from "../../layouts/Layout.astro";
 import { books } from "../../data/books";
 import BookCard from "../../components/BookCard.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
-import AdSlot from "../../components/AdSlot.astro";
 
 const habitBooks = books.filter((b) => b.category === "HABITS" || b.category === "DISCIPLINE");
 const title = "Best Habit & Discipline Books 2026 — Motiva Hub";
@@ -92,8 +91,6 @@ const description = "The best books on building habits, discipline, and the syst
           </div>
         ))}
       </div>
-
-      <AdSlot format="horizontal" />
 
       <AffiliateBanner variant="footer" lang="en" />
     </div>
