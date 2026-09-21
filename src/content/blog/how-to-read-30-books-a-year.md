@@ -26,7 +26,7 @@ tags:
   - "guide"
   - "books"
   - "self-improvement"
-wordCount: 1950
+wordCount: 2117
 faq:
   - q: "How many books should I read per year?"
     a: "Research shows that 24-30 books per year is the sweet spot for most professionals. Less than 6 and you're missing out on compounding knowledge. More than 60 and retention suffers. Aim for 2-3 books per month, finished, not started."
@@ -206,7 +206,7 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p67">You can do the same. Start with one book. Read 20 minutes tonight.</div>
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p68"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_how-to-read-30-books-a-year_p68"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Resources for building a reading habit</strong></p>
 <p><a href="https://www.amazon.fr/dp/1847941834?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=reading-habit" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Atomic Habits by James Clear</a> — the framework that makes this work</p>
 <p><a href="https://www.amazon.fr/dp/0140449337?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=reading-habit" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Meditations by Marcus Aurelius (Hays translation)</a> — the 20-minute daily book</p>

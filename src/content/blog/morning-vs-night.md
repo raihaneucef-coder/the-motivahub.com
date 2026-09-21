@@ -29,7 +29,7 @@ tags:
   - "habits"
   - "science"
   - "timing"
-wordCount: 1180
+wordCount: 1448
 faq:
   - q: "Is it better to build a habit in the morning or at night?"
     a: "It depends on your chronotype. Morning types (larks) have peak willpower and focus in the first 2-3 hours after waking. Evening types (owls) have peak willpower in the late afternoon and evening. The wrong time of day for your chronotype is the most common reason a discipline routine fails. The science: willpower is a finite daily resource that follows your circadian rhythm, not a 24/7 constant."

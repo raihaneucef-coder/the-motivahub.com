@@ -25,7 +25,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "deep-work"
-wordCount: 1950
+wordCount: 2175
 faq:
   - q: "What is slow productivity?"
     a: "Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. Three core principles. It rejects hustle culture's assumption that more projects + more hours = better output. The research shows the opposite: fewer commitments, deeper focus, longer sustainable careers."
@@ -285,7 +285,7 @@ The same principle applies to hobbies, side projects, social commitments. 2-3 ac
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p89">The cost of staying busy is invisible. The benefit of slowing down is invisible — until it isn't.</div>
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p90"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_slow-productivity-30-day-test_p90"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>The books that started this thinking</strong></p>
 <p><a href="https://www.amazon.fr/dp/B0CC9LVDQ2?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=slow-productivity" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Slow Productivity by Cal Newport</a> — the framework that changed how I work</p>
 <p><a href="https://www.amazon.fr/dp/1455586692?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=slow-productivity" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Deep Work by Cal Newport</a> — the deep work blocks principle</p>

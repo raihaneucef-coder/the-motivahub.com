@@ -22,7 +22,7 @@ keywords:
   - "sport long term success"
 tags:
   - "discipline"
-wordCount: 1200
+wordCount: 1804
 faq:
   - q: "What is athlete discipline?"
     a: "Athlete discipline is the ability to do the boring, repetitive work every day, even when no one is watching. It is not about talent. It is about showing up when motivation is low and the results are not visible."

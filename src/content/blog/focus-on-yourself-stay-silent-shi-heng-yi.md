@@ -20,7 +20,7 @@ keywords:
   - "discipline"
 tags:
   - "mindset"
-wordCount: 608
+wordCount: 656
 
 faq:
   - q: "Why can't I focus even when I try?"

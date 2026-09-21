@@ -20,7 +20,7 @@ keywords:
   - "read"
 tags:
   - "habits"
-wordCount: 679
+wordCount: 799
 
 faq:
   - q: "How long does it take to build this habit?"
@@ -126,28 +126,6 @@ The power of habit stacking is in the repetition. If you miss one link, the chai
 
 <div data-i18n-html="article_habit-stacking-routine_p30"><blockquote><em>You do not rise to the level of your goals. You fall to the level of your systems. Habit stacking is the simplest system there is.</em></blockquote></div>
 
-<div data-i18n-html="article_habit-stacking-routine_p31">faq:
-  - q: "How long does it take to build this habit?"
-    a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on complexity. The 2-minute rule makes starting easy. The 2-day rule protects the streak. Identity voting makes it stick."
-  - q: "What if I miss a day?"
-    a: "One missed day is data. Two missed days is a pattern. The 2-day rule: never miss twice. If you miss one day, restart immediately. The streak is not about perfection — it is about showing up more often than not."
-  - q: "Is this habit sustainable long-term?"
-    a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
-  - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
----</div>
-
 <div data-i18n-html="article_habit-stacking-routine_p32"><strong>Build your first habit stack today.</strong> Use our <a href="/tracker/">Habit Tracker</a> to track your chain. Start with one stack. Then add another. Watch your routine build itself.</div>
-
-<div data-i18n-html="article_habit-stacking-routine_p33">faq:
-  - q: "How long does it take to build this habit?"
-    a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on complexity. The 2-minute rule makes starting easy. The 2-day rule protects the streak. Identity voting makes it stick."
-  - q: "What if I miss a day?"
-    a: "One missed day is data. Two missed days is a pattern. The 2-day rule: never miss twice. If you miss one day, restart immediately. The streak is not about perfection — it is about showing up more often than not."
-  - q: "Is this habit sustainable long-term?"
-    a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
-  - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
----</div>
 
 <div data-i18n-html="article_habit-stacking-routine_p34"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>

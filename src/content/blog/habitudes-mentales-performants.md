@@ -21,7 +21,7 @@ keywords:
 tags:
   - "mindset"
   - "habits"
-wordCount: 592
+wordCount: 684
 bookSlug: atomic-habits
 
 faq:
@@ -113,16 +113,5 @@ relatedArticles:
 <div data-i18n-html="article_habitudes-mentales-performants_p29">But everyone sees the results. The promotion. The physique. The calm confidence. The consistent output.</div>
 
 <div data-i18n-html="article_habitudes-mentales-performants_p30">High performance is not about what you do when people are watching. It is about what you do when no one is.</div>
-
-<div data-i18n-html="article_habitudes-mentales-performants_p31">faq:
-  - q: "How long does it take to build this habit?"
-    a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on complexity. The 2-minute rule makes starting easy. The 2-day rule protects the streak. Identity voting makes it stick."
-  - q: "What if I miss a day?"
-    a: "One missed day is data. Two missed days is a pattern. The 2-day rule: never miss twice. If you miss one day, restart immediately. The streak is not about perfection — it is about showing up more often than not."
-  - q: "Is this habit sustainable long-term?"
-    a: "Yes, if it is designed for your worst day, not your best day. The test: can you do the 2-minute version when you are sick, tired, or traveling? If yes, it is sustainable. If no, redesign it."
-  - q: "How do I make this habit automatic?"
-    a: "Three steps: (1) Anchor it to an existing habit (habit stacking). (2) Reduce friction to under 2 minutes. (3) Track it visually. After 30-66 days of consistent voting, the identity shifts and the habit becomes automatic.
----</div>
 
 <div data-i18n-html="article_habitudes-mentales-performants_p32"><strong>Build the mental habits that matter.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 daily challenges to build these habits. Use our <a href="/tracker/">Habit Tracker</a> to stay consistent.</div>

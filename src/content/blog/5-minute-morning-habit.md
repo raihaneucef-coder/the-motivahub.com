@@ -25,7 +25,7 @@ tags:
   - "morning-routine"
   - "guide"
   - "productivity"
-wordCount: 1750
+wordCount: 1969
 faq:
   - q: "What is the best 5-minute morning habit?"
     a: "The most effective is what I call the 3-priority brain dump: write down the 3 most important tasks for the day, in order, on a single piece of paper. Takes 60 seconds. Prevents 60+ minutes of decision-making throughout the day."

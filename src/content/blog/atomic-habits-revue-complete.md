@@ -21,7 +21,7 @@ keywords:
 tags:
   - "habits"
   - "guide"
-wordCount: 1800
+wordCount: 1586
 bookSlug: atomic-habits
 faq:
   - q: "What are the four laws of Atomic Habits?"

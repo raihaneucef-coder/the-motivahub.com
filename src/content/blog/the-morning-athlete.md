@@ -26,7 +26,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "fitness"
-wordCount: 2050
+wordCount: 2052
 faq:
   - q: "Is 5 AM really the best time to work out?"
     a: "Research suggests it's the most consistent time. Most people who work out at 5 AM stick with it 2-3x longer than afternoon exercisers. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings, family obligations, or 'I had a long day.' They're protected by time itself."
@@ -289,7 +289,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-morning-athlete_p85">You can build the same thing. Start tomorrow.</div>
 
-<div data-i18n-html="article_the-morning-athlete_p86"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_the-morning-athlete_p86"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>Tools that survived 12 years of training</strong></p>
 <p><a href="https://www.amazon.fr/s?k=running+shoes&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Running Shoes (any quality brand)</a> — rotate 2-3 pairs for injury prevention</p>
 <p><a href="https://www.amazon.fr/s?k=foam+roller&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Foam Roller (basic density)</a> — for daily mobility work</p>

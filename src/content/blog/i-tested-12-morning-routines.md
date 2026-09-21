@@ -26,7 +26,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "review"
-wordCount: 2100
+wordCount: 1999
 faq:
   - q: "What is the best morning routine?"
     a: "There is no one-size-fits-all. The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a90-minute ritual that requires quitting your job."
@@ -220,7 +220,7 @@ relatedArticles:
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p72">If your morning routine is dying, shrink it. Don't kill it. Shrink it.</div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p73"><div style="text-align:center;margin:2.5rem0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_i-tested-12-morning-routines_p73"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
 <p><strong>The 3 best resources for morning routines</strong></p>
 <p><a href="https://www.amazon.fr/dp/1451663896?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=morning-routine-test" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Hal Elrod — The Miracle Morning</a> (the book that started the modern routine movement — even if my version is smaller)</p>
 <p><a href="https://www.amazon.fr/s?k=moleskine+journal&tag=motivahub-21&utm_source=motivahub&utm_medium=article" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">The Journal I Use → Moleskine Classic</a> (the paper journal that's survived every digital alternative)</p>

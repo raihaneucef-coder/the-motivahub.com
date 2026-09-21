@@ -20,7 +20,7 @@ keywords:
   - "words"
 tags:
   - "goals"
-wordCount: 392
+wordCount: 480
 
 faq:
   - q: "What is the difference between discipline and motivation?"
@@ -92,16 +92,5 @@ Every week, ask: "Is my system producing results?" If not, adjust the system —
 <div data-i18n-html="article_systemes-battent-motivation_p22">The compound effect of daily systems is extraordinary. Small daily actions, repeated for years, produce results that seem impossible from the outside.</div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p23"><blockquote><em>You do not rise to the level of your goals. You fall to the level of your systems. — James Clear</em></blockquote></div>
-
-<div data-i18n-html="article_systemes-battent-motivation_p24">faq:
-  - q: "What is the difference between discipline and motivation?"
-    a: "Motivation is a feeling that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
-  - q: "How do I build discipline when I have no motivation?"
-    a: "Use the 2-minute rule. The goal is not the full habit — it is the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning."
-  - q: "Can discipline be kind?"
-    a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. Kind discipline includes rest days, the 2-day rule, and the 2-minute doorway. Cruel discipline treats the person as a vehicle for the work."
-  - q: "How long does it take to build discipline?"
-    a: "The first 30 days install the habit. The next 60 days make it automatic. The full system matures around day 90. Track starts, not finishes. The identity shift happens around day 66 (Lally 2009).
----</div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p25"><strong>Build your system today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you a system to follow. Track your consistency with our <a href="/tracker/">Habit Tracker</a>.</div>

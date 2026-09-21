@@ -29,7 +29,7 @@ tags:
   - "habits"
   - "system"
   - "advanced"
-wordCount: 3200
+wordCount: 3632
 faq:
   - q: "What is the 2-minute rule as a system, not a trick?"
     a: "Most people treat the 2-minute rule as a productivity hack: do something tiny so you start. As a system, it is a four-part architecture: (1) a doorway that scales indefinitely, (2) an anchor that runs on autopilot, (3) a 2-day rule that protects the streak, and (4) an identity statement that gives the votes a destination. Treat it as a trick and it dies in three weeks. Treat it as a system and it lasts decades."

@@ -22,7 +22,7 @@ keywords:
   - "love and boundaries"
 tags:
   - "relationships"
-wordCount: 1200
+wordCount: 1676
 faq:
   - q: "Why are boundaries a form of love?"
     a: "Boundaries are love in action because they protect relationships from resentment. When you say no clearly and kindly, you prevent the slow accumulation of unspoken frustration that eventually poisons closeness."
