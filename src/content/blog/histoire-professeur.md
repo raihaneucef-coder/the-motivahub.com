@@ -6,8 +6,8 @@ descriptionFr: "Maria n'avait pas d'argent, pas de gloire et pas de pouvoir. Mai
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/histoire-professeur.jpg"
-imageAlt: "Youssef Raihane - histoire professeur concept"
+image: "/images/blog/histoire-professeur-2.jpg"
+imageAlt: "A teacher at the blackboard as students raise their hands in class"
 topic: "Stories"
 keywords:
   - "maria"

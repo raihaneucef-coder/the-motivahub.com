@@ -7,8 +7,8 @@ pubDate: 2026-08-10
 updatedDate: 2026-09-12
 topic: "Relationships"
 readTime: "4 min read"
-image: "/images/blog/love-is-a-practice.jpg"
-imageAlt: "Youssef Raihane - love is a practice concept"
+image: "/images/blog/love-is-a-practice-2.jpg"
+imageAlt: "A couple laughing together over coffee while cooking in the kitchen"
 featured: false
 draft: false
 keywords:

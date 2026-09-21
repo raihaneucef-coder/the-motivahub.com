@@ -6,8 +6,8 @@ descriptionFr: "Le secret de productivité de Jerry Seinfeld révélé. Découvr
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/ne-brise-jamais-chaine.jpg"
-imageAlt: "Youssef Raihane marking a habit tracker in Casablanca - never break the chain method"
+image: "/images/blog/ne-brise-jamais-chaine-2.jpg"
+imageAlt: "A heap of heavy weathered metal chains linked together"
 topic: "Habits"
 keywords:
   - "never break the chain"

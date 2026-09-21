@@ -6,8 +6,8 @@ descriptionFr: "Découvre la puissance d'un état d'esprit gagnant. Apprends à 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "8 MIN"
-image: "/images/blog/mindset-etat-esprit.jpg"
-imageAlt: "Youssef Raihane - mindset etat esprit concept"
+image: "/images/blog/mindset-etat-esprit-2.jpg"
+imageAlt: "A silhouette raising both arms to the sunrise over the mountains"
 topic: "Mindset"
 keywords:
   - "mindset"

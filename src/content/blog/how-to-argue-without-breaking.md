@@ -7,8 +7,8 @@ pubDate: 2026-08-15
 updatedDate: 2026-09-12
 topic: "Relationships"
 readTime: "5 min read"
-image: "/images/blog/how-to-argue-without-breaking.jpg"
-imageAlt: "Youssef Raihane - how to argue without breaking concept"
+image: "/images/blog/how-to-argue-without-breaking-2.jpg"
+imageAlt: "A couple in a heated but controlled discussion on the living room couch"
 featured: false
 draft: false
 keywords:

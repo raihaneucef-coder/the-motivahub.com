@@ -6,8 +6,8 @@ descriptionFr: "La stratégie d'habitude la plus puissante ne concerne pas ce qu
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/identite-precde-resultat.jpg"
-imageAlt: "Youssef Raihane - identite precde resultat concept"
+image: "/images/blog/identite-precde-resultat-2.jpg"
+imageAlt: "A small figure in a number seven jersey beside a golden trophy"
 topic: "Habits"
 keywords:
   - "identity"
