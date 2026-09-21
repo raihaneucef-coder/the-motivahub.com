@@ -32,6 +32,15 @@ faq:
     a: "A boundary is a instruction manual for how to love you well. A wall is what happens when boundaries are not communicated. Walls are silent. Boundaries are spoken. Walls push people away. Boundaries invite them closer, with clarity."
   - q: "Can boundaries save a relationship?"
     a: "Yes. Resentment is almost always a boundary that was not stated in time. State it early, plainly, and without blame. The relationship that survives the boundary is the relationship that was real."
+faqFr:
+  - q: "Pourquoi les limites sont-elles une forme d'amour ?"
+    a: "Les limites sont de l'amour en action parce qu'elles protègent la relation du ressentiment. Quand vous dites non clairement et avec douceur, vous empêchez l'accumulation lente d'une frustration tue qui finit par empoisonner l'intimité."
+  - q: "Comment poser des limites sans culpabilité ?"
+    a: "Commencez petit. Nommez un besoin par semaine. Répétez la phrase : « je tiens à toi, et j'ai besoin de cela ». La culpabilité est normale au début. Elle s'estompe à force de répétition. Les gens qui vous aiment veulent bien vous aimer — les limites leur en donnent la carte."
+  - q: "Quelle différence entre une limite et un mur ?"
+    a: "Une limite est le mode d'emploi pour bien vous aimer. Un mur est ce qui arrive quand les limites ne sont pas communiquées. Les murs sont silencieux. Les limites sont dites. Les murs repoussent les gens. Les limites les invitent à approcher, avec clarté."
+  - q: "Les limites peuvent-elles sauver une relation ?"
+    a: "Oui. Le ressentiment est presque toujours une limite qui n'a pas été dite à temps. Dites-la tôt, simplement, sans reproche. La relation qui survit à la limite est celle qui était vraie."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

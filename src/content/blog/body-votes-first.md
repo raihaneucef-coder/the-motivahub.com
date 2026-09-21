@@ -32,6 +32,15 @@ faq:
     a: "No. You need consistency, not intensity. Two 20-minute walks per week preserve the body that carries your mind. One hard effort per week reminds you that discomfort is survivable. The minimum effective dose is much smaller than you think."
   - q: "What is the relationship between body and identity?"
     a: "Every workout is evidence filed away: 'I am someone who does what I said.' Miss a week and the file thins. Keep showing up for a month and it thickens into something the mind can lean on when motivation goes quiet. The body votes first. Make sure it votes the way you would have chosen."
+faqFr:
+  - q: "Que veut dire « le corps vote en premier » ?"
+    a: "Cela veut dire que l'état de votre corps détermine les performances de votre esprit avant même que vous fassiez un choix conscient. Si vous êtes fatigué, affamé ou sédentaire, votre esprit prendra de moins bonnes décisions — non parce que vous êtes faible, mais parce que votre biologie tient les urnes."
+  - q: "Comment l'exercice influence-t-il la prise de décision ?"
+    a: "L'exercice modifie la chimie cérébrale. Il augmente la dopamine, la sérotonine et le BDNF (facteur neurotrophique dérivé du cerveau). Ces substances améliorent l'humeur, la concentration et la flexibilité cognitive. Une marche de 20 minutes peut changer la chimie d'un après-midi entier."
+  - q: "Faut-il être athlète pour en bénéficier ?"
+    a: "Non. Il faut de la régularité, pas de l'intensité. Deux marches de 20 minutes par semaine préservent le corps qui porte votre esprit. Un effort difficile par semaine vous rappelle que l'inconfort est supportable. La dose minimale efficace est bien plus petite que ce que vous croyez."
+  - q: "Quel lien entre le corps et l'identité ?"
+    a: "Chaque séance est une preuve archivée : « je suis quelqu'un qui fait ce qu'il a dit ». Sautez une semaine et le dossier s'amincit. Soyez présent un mois entier et il s'épaissit en quelque chose sur lequel l'esprit peut s'appuyer quand la motivation se tait. Le corps vote en premier. Faites en sorte qu'il vote comme vous l'auriez choisi."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

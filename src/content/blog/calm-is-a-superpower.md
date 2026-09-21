@@ -32,6 +32,15 @@ faq:
     a: "No. Calm is not passivity. It is the ability to act from clarity, not from reaction. A calm person can still be assertive, ambitious, and driven. The difference is that the calm person's actions are chosen, not triggered."
   - q: "Can calm be learned?"
     a: "Yes. Calm is a skill, not a trait. It is built like a muscle, with small repetitions. One breath. One pause. One moment of stillness. Over time, these small practices become automatic."
+faqFr:
+  - q: "Pourquoi le calme est-il un super-pouvoir ?"
+    a: "Parce que dans un monde de bruit, rester centré est la compétence la plus rare. Les gens calmes prennent de meilleures décisions, inspirent plus de confiance et se relèvent plus vite des revers. Le talent attire l'attention. Le calme obtient des résultats."
+  - q: "Comment construire le calme ?"
+    a: "Commencez par une respiration lente avant de répondre. Puis dormez 8 heures. Puis 10 minutes d'immobilité chaque jour. Ces petites pratiques se composent. Après 30 jours, vous remarquerez la différence. Après 90 jours, les autres aussi."
+  - q: "Le calme, est-ce la même chose que la passivité ?"
+    a: "Non. Le calme n'est pas de la passivité. C'est la capacité d'agir depuis la clarté, et non depuis la réaction. Une personne calme peut rester affirmée, ambitieuse et déterminée. La différence : ses actions sont choisies, pas déclenchées."
+  - q: "Le calme s'apprend-il ?"
+    a: "Oui. Le calme est une compétence, pas un trait. Il se construit comme un muscle, par petites répétitions. Une respiration. Une pause. Un instant d'immobilité. Avec le temps, ces petites pratiques deviennent automatiques."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

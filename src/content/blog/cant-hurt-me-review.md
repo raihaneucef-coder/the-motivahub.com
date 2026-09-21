@@ -37,6 +37,15 @@ faq:
     a: "Goggins himself has said he's extreme. Take the principles (accountability, ownership, voluntary hardship), leave the intensity (running ultramarathons with broken bones is not required). The book works if you adapt the mindset, not the masochism."
   - q: "How do I apply the 40% rule today?"
     a: "Pick one thing you've quit on this week. Restart it. When your mind says stop, give it ten more minutes. That's the entry point. You'll find more than you thought."
+faqFr:
+  - q: "Can't Hurt Me vaut-il la peine d'être lu en 2026 ?"
+    a: "Oui — mais seulement si vous le lisez trois fois. La première lecture frappe vos émotions. La deuxième révèle le système. La troisième montre ce que vous évitez chez vous."
+  - q: "La règle des 40 %, en termes simples ?"
+    a: "Quand votre esprit dit que vous êtes fini, vous n'êtes en général qu'à 40 %. Le mur auquel vous butez est rarement votre vraie limite — c'est votre esprit qui abandonne tôt. Les 60 % restants sont ce qui sépare les Navy SEALs du reste d'entre nous."
+  - q: "La méthode de David Goggins est-elle saine ?"
+    a: "Goggins lui-même a dit qu'il est extrême. Prenez les principes (responsabilité, appropriation, épreuve volontaire), laissez l'intensité (courir des ultra-marathons avec des os cassés n'est pas requis). Le livre fonctionne si vous adaptez l'état d'esprit, pas le masochisme."
+  - q: "Comment appliquer la règle des 40 % dès aujourd'hui ?"
+    a: "Choisissez une chose que vous avez abandonnée cette semaine. Reprenez-la. Quand votre esprit dit stop, donnez-lui dix minutes de plus. C'est le point d'entrée. Vous découvrirez que vous en avez plus que prévu."
 relatedArticles:
   - "discipline-beat-motivation"
   - "regles-goggins-mental"
