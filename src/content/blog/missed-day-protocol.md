@@ -41,6 +41,17 @@ faq:
     a: "No. The recovery protocol is the smallest possible version, not a longer session. Longer sessions after a miss are a coping mechanism for the guilt of missing — and they set up a pattern where missing is rewarded with a longer session. The 2-minute version is the only correct response. It is small on purpose. The smallness is the point."
   - q: "What if I miss two days in a row?"
     a: "The 2-day rule has been triggered. The system has detected a pattern. The protocol is the same — but the cost of the next miss is higher. If you miss a third day, the habit is no longer a habit. The recovery is possible, but it requires restarting the 2-minute rule from day 1. The 2-day rule is a hard boundary. Crossing it is the failure mode of the entire system."
+faqFr:
+  - q: "Que faire le jour où j'ai raté une habitude ?"
+    a: "Faites la version 2 minutes de l'habitude, immédiatement, sans négociation. L'action qui suit un raté n'est pas une séance complète. C'est la version la plus petite possible — la porte. Le vote qui suit un raté compte plus que les votes d'un jour normal, parce qu'il prouve que le système survit au raté. Le protocole est détaillé dans l'article — mais le premier geste est toujours le même : faire la version 2 minutes, aujourd'hui."
+  - q: "Rater une journée met-elle fin à la série ?"
+    a: "Non. Un raté isolé est une donnée. Deux ratés consécutifs forment le schéma qui tue une habitude. La règle des 2 jours (issue d'Atomic Habits) dit : ne jamais rater deux fois de suite. Un raté est supportable. Deux sont un verdict. Les 24 heures qui suivent un raté sont les plus importantes de toute l'habitude — et ce sont aussi les plus négligées."
+  - q: "Comment empêcher le raté de devenir une rechute ?"
+    a: "Trois règles : (1) la version 2 minutes de l'habitude, aujourd'hui, quoi qu'il arrive ; (2) ne négociez pas sur le fait de la faire — la négociation est l'endroit où les ratés deviennent des rechutes ; (3) le raté suivant reçoit le même traitement. Appliquez la règle des 2 jours. Le protocole de rétablissement est identique pour chaque raté — c'est tout l'intérêt d'un protocole."
+  - q: "Dois-je faire une séance plus longue pour rattraper le jour raté ?"
+    a: "Non. Le protocole de rétablissement est la version la plus petite possible, pas une séance plus longue. Les longues séances qui suivent un raté sont un mécanisme de compensation de la culpabilité — et elles installent un schéma où rater est récompensé par une séance plus longue. La version 2 minutes est la seule réponse correcte. Elle est petite volontairement. C'est tout le sens de sa petitesse."
+  - q: "Et si je rate deux jours de suite ?"
+    a: "La règle des 2 jours a été déclenchée. Le système a détecté un schéma. Le protocole reste le même — mais le coût du prochain raté est plus élevé. Si vous ratez un troisième jour, l'habitude n'est plus une habitude. Le rétablissement reste possible, mais il repart de la règle des 2 minutes, jour 1. La règle des 2 jours est une frontière dure. La franchir, c'est le mode d'échec de tout le système."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

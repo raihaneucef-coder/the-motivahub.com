@@ -33,6 +33,15 @@ faq:
     a: "No, and you should not. Some social feedback is useful. The goal is not to stop caring entirely. The goal is to care less about strangers' opinions and more about the opinions of people who know and respect you."
   - q: "What is the spotlight effect?"
     a: "The spotlight effect is the psychological phenomenon where you think people notice you more than they actually do. In reality, everyone is focused on their own lives, mistakes, and insecurities."
+faqFr:
+  - q: "Comment arrêter de penser à ce que les gens pensent ?"
+    a: "Commencez par réaliser que la plupart des gens sont occupés d'eux-mêmes, pas de vous. L'effet de projecteur est réel : vous croyez qu'on vous remarque plus qu'on ne le fait. Ensuite, instaurez une petite pratique : faites chaque jour une chose que vous évitez normalement par peur du jugement."
+  - q: "Pourquoi est-ce que ça me touche autant ?"
+    a: "Évolutionnellement, le rejet social signifiait la mort. Votre cerveau est câblé pour l'appartenance. Mais dans la vie moderne, ce câblage fait plus de dégâts que de bien. La clé est de distinguer l'appartenance de la quête d'approbation."
+  - q: "Puis-je arrêter d'y penser complètement ?"
+    a: "Non, et il ne le faudrait pas. Une partie du feedback social est utile. L'objectif n'est pas de ne plus rien ressentir, mais de moins peser l'avis des inconnus et de plus peser celui des gens qui vous connaissent et vous respectent."
+  - q: "Qu'est-ce que l'effet de projecteur ?"
+    a: "C'est un phénomène psychologique par lequel vous croyez que les gens vous remarquent davantage qu'ils ne le font réellement. En pratique, chacun est occupé de sa propre vie, de ses erreurs et de ses incertitudes."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

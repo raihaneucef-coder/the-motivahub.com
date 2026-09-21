@@ -34,6 +34,15 @@ faq:
     a: "You will miss a day. Everyone does. The rule is: never miss twice. One missed day is data. Two missed days is a pattern. Start a new chain from the missed day. The chain is not about perfection — it is about showing up more often than not."
   - q: "What's the best way to track my chain?"
     a: "Use a physical calendar (Jerry Seinfeld's original method), a habit tracker app, or a simple notebook. The format does not matter. The consistency does. Mark every day you complete the habit. The act of marking is its own reward."
+faqFr:
+  - q: "Qu'est-ce que la méthode de la chaîne ?"
+    a: "La stratégie d'habitude de Jerry Seinfeld : marquez un X sur un calendrier chaque jour où vous faites votre habitude. L'objectif est de ne jamais briser la chaîne de X. Elle fonctionne par aversion de la perte, preuve visuelle et élan. Plus la chaîne est longue, plus il est difficile de la rompre."
+  - q: "La méthode de la chaîne fonctionne-t-elle vraiment ?"
+    a: "Oui, mais avec une modification essentielle : ne jamais rater deux fois, et non ne jamais rater une fois. Un jour manqué est un accident. Deux jours manqués sont le début d'une nouvelle habitude — celle d'abandonner. La règle des 2 jours rend la méthode de la chaîne praticable."
+  - q: "Et si je rate un jour avec la méthode de la chaîne ?"
+    a: "Vous raterez un jour. Comme tout le monde. La règle est : ne jamais rater deux fois. Un jour manqué est une donnée. Deux jours manqués forment un schéma. Repartez d'une nouvelle chaîne à partir du jour raté. La chaîne ne parle pas de perfection — elle parle d'être présent plus souvent qu'on ne l'est pas."
+  - q: "Comment suivre ma chaîne au mieux ?"
+    a: "Un calendrier papier (la méthode originale de Jerry Seinfeld), une application d'habitudes ou un simple carnet. Le format n'a pas d'importance. La régularité, si. Marquez chaque jour où vous faites l'habitude. Le geste de marquer est déjà sa propre récompense."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

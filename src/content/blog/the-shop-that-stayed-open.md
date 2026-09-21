@@ -34,6 +34,15 @@ faq:
     a: "The lesson is that consistency compounds. The shop owner did not need to be the best. He needed to be the one who stayed. In careers, in habits, in relationships — the person who shows up every day eventually wins, not because they are the most talented, but because they are the most reliable."
   - q: "How do I practice quiet endurance?"
     a: "Start with one daily non-negotiable. Not a goal, not a project — a daily act of showing up. Write one sentence. Walk for 10 minutes. Open the shop. The act itself is the lesson. The duration is the proof. The 2-day rule protects the streak. The identity statement gives it meaning."
+faqFr:
+  - q: "Pourquoi le magasin est-il resté ouvert quand les autres ont fermé ?"
+    a: "Parce que rester était une promesse, pas un plan d'affaires. Le propriétaire avait compris que l'endurance est un avantage concurrentiel. Quand tout le monde pivote, celui qui reste devient le choix par défaut. Les clients reviennent non parce que le magasin est le meilleur, mais parce que c'est le seul qui était là."
+  - q: "L'endurance est-elle plus importante que la stratégie ?"
+    a: "Une stratégie sans endurance est un plan qui ne s'exécute jamais. Une endurance sans stratégie est de l'entêtement. Le magasin qui est resté ouvert avait les deux : une stratégie tranquille (être là chaque jour, servir ceux qui viennent) et l'endurance de l'exécuter pendant 32 ans. L'association est rare."
+  - q: "Quelle est la leçon pour les professionnels ?"
+    a: "Que la régularité se compose. Le propriétaire n'avait pas besoin d'être le meilleur. Il devait être celui qui reste. Dans les carrières, les habitudes, les relations — la personne qui est là chaque jour finit par gagner, non parce qu'elle est la plus talentueuse, mais parce qu'elle est la plus fiable."
+  - q: "Comment pratiquer l'endurance tranquille ?"
+    a: "Commencez par un non-négociable quotidien. Pas un objectif, pas un projet — un acte journalier de présence. Écrire une phrase. Marcher 10 minutes. Ouvrir le magasin. L'acte lui-même est la leçon. La durée est la preuve. La règle des 2 jours protège la série, et la phrase d'identité lui donne un sens."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

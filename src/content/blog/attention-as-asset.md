@@ -32,6 +32,15 @@ faq:
     a: "Yes. Research from the University of Michigan found that multitasking can reduce productivity by up to 40%. The switching cost compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work."
   - q: "What is the attention economy?"
     a: "The attention economy is the market for human attention. Apps, social media, and news are designed to capture and hold your attention because attention is the new currency. The more attention they harvest, the more they earn from advertisers."
+faqFr:
+  - q: "Pourquoi l'attention est-elle l'actif le plus précieux ?"
+    a: "Parce qu'elle est finie et qu'on ne peut pas la fabriquer. L'argent s'imprime. Le temps s'économise. L'attention, non. À chaque heure d'éveil, votre attention est récoltée par les applications, les notifications et les publicités. La protéger est la compétence de productivité la plus importante qui soit."
+  - q: "Comment protéger mon attention ?"
+    a: "Commencez par un audit d'attention : notez chaque distraction pendant une journée. Puis instaurez deux règles : (1) le téléphone dans une autre pièce pendant le travail profond, (2) un seul onglet, une seule tâche. Ces deux règles seules peuvent rendre 2 à 3 heures par jour."
+  - q: "Le multitâche est-il vraiment si nocif ?"
+    a: "Oui. Des travaux de l'université du Michigan ont montré que le multitâche peut réduire la productivité jusqu'à 40 %. Le coût de bascule se compose à chaque changement de tâche. Le mono-tâche n'est pas seulement meilleur : c'est la seule manière durable de travailler."
+  - q: "Qu'est-ce que l'économie de l'attention ?"
+    a: "C'est le marché de l'attention humaine. Les applications, les réseaux sociaux et les médias sont conçus pour capter et retenir votre attention, parce que l'attention est la nouvelle monnaie. Plus ils en récoltent, plus ils gagnent auprès des annonceurs."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

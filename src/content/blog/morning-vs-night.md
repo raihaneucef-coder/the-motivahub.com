@@ -41,6 +41,17 @@ faq:
     a: "The time that matches your chronotype AND is consistently the same time. Consistency matters more than the specific hour. A habit at 7 AM for a night owl will fail. A habit at 10 AM for the same night owl will stick. The variable is the alignment between the time and your natural energy peak. The article gives the framework for finding the right hour for any habit."
   - q: "What is the 2-day rule for habit timing?"
     a: "The 2-day rule (also used in recovery from a missed day) applies to timing: if you cannot do the habit at your usual time on a given day, do it within 2 hours of the usual time. Same day, close to the same time. This prevents the timing from drifting, which is a more common cause of habit death than missing a day entirely."
+faqFr:
+  - q: "Vaut-il mieux construire une habitude le matin ou le soir ?"
+    a: "Cela dépend de votre chronotype. Les du matin (alouettes) ont un pic de volonté et de concentration dans les 2 à 3 premières heures après le réveil. Les du soir (chouettes) ont leur pic en fin d'après-midi et en soirée. Le mauvais moment de la journée pour votre chronotype est la raison la plus fréquente d'échec d'une routine de discipline. La science : la volonté est une ressource quotidienne finie qui suit votre rythme circadien, pas une constante disponible 24 h/24."
+  - q: "Comment savoir si je suis du matin ou du soir ?"
+    a: "Le Questionnaire de Munich (MCTQ) est la référence. Version courte : quand êtes-vous le plus éveillé les jours sans obligation ? Entre 6 h et 10 h, vous êtes du matin. Entre 16 h et 22 h, vous êtes du soir. Le test rapide à 4 questions de l'article (meilleur moment pour le travail difficile, réveil sans alarme, pic de concentration, énergie du soir) est une bonne approximation pour 80 % des gens."
+  - q: "Puis-je devenir du matin si je suis du soir ?"
+    a: "Partiellement. Le chronotype est environ à 50 % génétique et à 50 % environnemental. Vous pouvez le décaler d'une à deux heures par une exposition lumineuse régulière, des horaires de repas stables et une planification de l'exercice. Mais forcer une chouette à une routine à 5 h est l'erreur de discipline la plus courante. L'article explique les leviers qui font vraiment bouger l'aiguille — et ceux qui sont surévalués."
+  - q: "À quelle heure une habitude a-t-elle le plus de chances de tenir ?"
+    a: "L'heure qui correspond à votre chronotype ET qui reste toujours la même. La régularité compte plus que l'heure précise. Une habitude à 7 h pour une chouette échouera. La même habitude à 10 h tiendra. La variable clé est l'alignement entre le moment et votre pic d'énergie naturel. L'article donne le cadre pour trouver la bonne heure de n'importe quelle habitude."
+  - q: "C'est quoi la règle des 2 jours appliquée à l'horaire ?"
+    a: "La règle des 2 jours (utilisée aussi après un jour raté) s'applique au moment : si vous ne pouvez pas faire l'habitude à votre heure habituelle, faites-la dans les 2 heures autour. Même jour, près de la même heure. Cela prévient la dérive de l'horaire, qui tue plus souvent les habitudes que le simple fait de rater un jour."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

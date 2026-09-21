@@ -35,6 +35,15 @@ faq:
     a: "No. The 5-minute habit fits into any morning schedule. The trick is doing it before email, not as a separate 'ritual' that requires 30 extra minutes."
   - q: "Why does this work better than a full morning routine?"
     a: "Because small + sustainable > big + abandoned. A 5-minute habit survives bad days. A 30-minute routine dies on the first sick Tuesday. The shortest version of the right habit beats the longest version."
+faqFr:
+  - q: "Quelle est la meilleure habitude matinale de 5 minutes ?"
+    a: "La plus efficace, c'est ce que j'appelle le vidage à trois priorités : écrire les 3 tâches les plus importantes de la journée, dans l'ordre, sur une seule feuille. Cela prend 60 secondes et évite plus de 60 minutes de prise de décision étalée sur la journée."
+  - q: "Quand faire mon habitude matinale ?"
+    a: "Juste après le réveil et avant de regarder votre téléphone. Le téléphone est l'ennemi de l'intention. Si vous ouvrez vos emails en premier, vous avez déjà confié vos priorités à quelqu'un d'autre."
+  - q: "Faut-il se lever plus tôt pour une habitude de 5 minutes ?"
+    a: "Non. Une habitude de 5 minutes tient dans n'importe quel emploi du temps matinal. L'astuce consiste à la faire avant les emails, pas comme un rituel séparé qui exigerait 30 minutes de plus."
+  - q: "Pourquoi cela marche mieux qu'une routine matinale complète ?"
+    a: "Parce que petit + durable bat grand + abandonné. Une habitude de 5 minutes survit aux mauvaises journées. Une routine de 30 minutes meurt au premier mardi de maladie. La version la plus courte de la bonne habitude l'emporte sur la version la plus longue."
 relatedArticles:
   - "i-tested-12-morning-routines"
   - "routine-matin-change-tout"

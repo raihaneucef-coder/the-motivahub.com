@@ -32,6 +32,15 @@ faq:
     a: "Identity-based habits. Goals are about outcomes. Systems are about identity. The question is not 'What do I want to achieve?' but 'Who do I want to become?' The habits are the votes that make the identity true."
   - q: "Can Atomic Habits help me break bad habits?"
     a: "Yes. The four laws work in reverse for breaking habits: make the cue invisible, make the reward unattractive, make the behavior difficult, make the outcome unsatisfying. The book provides specific tactics for each inversion."
+faqFr:
+  - q: "Quelles sont les quatre lois d'Atomic Habits ?"
+    a: "Les quatre lois sont : (1) la rendre évidente, (2) la rendre attractive, (3) la rendre facile, (4) la rendre satisfaisante. Elles servent à construire de bonnes habitudes. Pour casser une mauvaise habitude, on les inverse : la rendre invisible, peu attractive, difficile et insatisfaisante."
+  - q: "Atomic Habits est-il vraiment si bon ?"
+    a: "Oui, mais seulement si vous l'appliquez. Le livre n'est pas un raccourci, c'est un manuel de conception de système. La plupart le lisent pour la motivation. La vraie valeur vient de l'application d'une loi à la fois, pendant 30 à 90 jours."
+  - q: "Quelle est la leçon la plus importante d'Atomic Habits ?"
+    a: "Les habitudes basées sur l'identité. Les objectifs concernent les résultats ; les systèmes concernent l'identité. La question n'est pas « qu'est-ce que je veux accomplir ? » mais « qui veux-je devenir ? ». Les habitudes sont les votes qui rendent l'identité vraie."
+  - q: "Atomic Habits peut-il m'aider à casser de mauvaises habitudes ?"
+    a: "Oui. Les quatre lois fonctionnent à l'envers pour casser : rendre l'indice invisible, la récompense peu attractive, le comportement difficile et la conséquence insatisfaisante. Le livre donne des tactiques précises pour chaque inversion."
 ---
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p2">A deep dive into Atomic Habits: the 1% better every day philosophy, the four laws of behavior change, and how to build habits that actually stick.</div>

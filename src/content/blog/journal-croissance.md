@@ -34,6 +34,15 @@ faq:
     a: "Start with three prompts: (1) What am I grateful for today? (2) What did I learn today? (3) What am I struggling with? These cover the three core functions of journaling: appreciation, learning, and problem-solving. Add more as the habit establishes."
   - q: "Does journaling actually work?"
     a: "Yes. Research from UC Davis and Harvard shows that expressive writing reduces anxiety, improves mood, and increases cognitive processing. The effect is cumulative — 10 minutes daily for 30 days produces measurable changes in self-awareness and decision-making."
+faqFr:
+  - q: "Comment le journaling aide-t-il la croissance personnelle ?"
+    a: "Tenir un journal vous force à examiner vos pensées objectivement, à traiter les émotions bloquées et à trouver des solutions par l'écriture. Les recherches montrent que l'écriture expressive réduit le stress, améliore la fonction immunitaire et augmente la conscience de soi. L'acte d'écrire engage le cerveau différemment de la simple réflexion."
+  - q: "Combien de temps tenir mon journal chaque jour ?"
+    a: "10 minutes suffisent. L'objectif n'est pas le volume — c'est la régularité. Les Pages Matinales de Julia Cameron en recommandent trois, mais la version minimale viable est de 10 minutes d'écriture en flux de conscience. L'essentiel est d'être présent chaque jour, pas d'écrire bien."
+  - q: "Que dois-je écrire dans mon journal ?"
+    a: "Commencez par trois amorces : (1) pour quoi suis-je reconnaissant aujourd'hui ? (2) qu'ai-je appris aujourd'hui ? (3) avec quoi est-ce que je lutte ? Elles couvrent les trois fonctions du journaling : appréciation, apprentissage, résolution de problème. Ajoutez le reste quand l'habitude sera installée."
+  - q: "Le journaling fonctionne-t-il vraiment ?"
+    a: "Oui. Des travaux de UC Davis et Harvard montrent que l'écriture expressive réduit l'anxiété, améliore l'humeur et augmente le traitement cognitif. L'effet est cumulatif — 10 minutes par jour pendant 30 jours produisent des changements mesurables de conscience de soi et de prise de décision."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

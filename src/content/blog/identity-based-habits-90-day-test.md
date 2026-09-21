@@ -35,6 +35,15 @@ faq:
     a: "Identity shifts in 30-90 days if you consistently vote for it. The shift isn't dramatic — it's a quiet realization. One day you notice you stopped debating whether to read. You just read. That's the identity shift."
   - q: "Can you have multiple identity goals?"
     a: "Yes — but stack them. Build the first identity (e.g., 'I'm a reader') to automaticity before adding the second ('I'm a writer'). Each new identity compounds on the last. Trying to build three at once is a recipe for none."
+faqFr:
+  - q: "Qu'est-ce qu'une habitude basée sur l'identité ?"
+    a: "C'est une habitude où vous vous concentrez sur qui vous voulez devenir (un écrivain, un coureur, une personne calme) plutôt que sur ce que vous voulez accomplir (écrire un livre, courir un marathon, réduire le stress). Chaque action devient un « vote » pour cette identité. Avec le temps, l'identité se renforce elle-même."
+  - q: "Comment construire une habitude basée sur l'identité ?"
+    a: "Trois étapes : 1) décidez du type de personne que vous voulez être ; 2) prouvez-le par des petites actions (la version 2 minutes) ; 3) chaque action est un vote pour cette identité. Commencez par « je veux devenir quelqu'un qui lit chaque jour », pas par « je veux lire 30 livres »."
+  - q: "Combien de temps pour changer d'identité ?"
+    a: "L'identité bascule en 30 à 90 jours si vous votez régulièrement pour elle. Le basculement n'a rien de dramatique — c'est une réalisation tranquille. Un jour, vous remarquez que vous ne débattez plus pour savoir si vous devez lire. Vous lisez. C'est le basculement identitaire."
+  - q: "Peut-on poursuivre plusieurs objectifs d'identité ?"
+    a: "Oui — mais empilez-les. Construisez la première identité (par exemple « je suis un lecteur ») jusqu'à l'automatisme avant d'ajouter la deuxième (« je suis un écrivain »). Chaque nouvelle identité se compose sur la précédente. En construire trois à la fois, c'est la recette pour n'en obtenir aucune."
 relatedArticles:
   - "atomic-habits-review"
   - "atomic-habits-revue-complete"

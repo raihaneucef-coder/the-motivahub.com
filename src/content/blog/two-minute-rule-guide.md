@@ -42,6 +42,17 @@ faq:
     a: "Two weeks minimum. The doorway has to feel automatic before you lengthen the hallway. If you scale too soon, you turn the doorway back into a wall."
   - q: "Is the 2-minute rule the same as the 2-day rule?"
     a: "No. The 2-day rule (also from Clear) says: never miss twice in a row. The 2-minute rule is about starting small. They are complementary: the 2-minute rule makes the start easy, the 2-day rule protects the consistency."
+faqFr:
+  - q: "Qu'est-ce que la règle des 2 minutes ?"
+    a: "La règle des 2 minutes, issue d'Atomic Habits de James Clear, dit : quand vous commencez une nouvelle habitude, elle doit prendre moins de deux minutes. L'objectif est de rendre le démarrage si facile que vous ne pouvez pas dire non. Le comportement réel se développe ensuite depuis cette porte d'entrée."
+  - q: "La règle des 2 minutes fonctionne-t-elle vraiment ?"
+    a: "Oui. Les recherches sur la formation des habitudes (Lally et al., 2009) montrent que les deux premières minutes sont les plus dures — une fois lancé, l'élan vous porte. La règle des 2 minutes déplace tout l'effort au démarrage pour contourner la résistance."
+  - q: "Et si je veux lire 30 minutes ?"
+    a: "Lisez deux minutes. C'est tout. Réglez un minuteur. Arrêtez-vous à deux. La plupart des jours, vous continuerez, mais le contrat est de deux minutes. Les mauvais jours, deux minutes comptent encore."
+  - q: "Combien de temps garder la version 2 minutes avant d'agrandir ?"
+    a: "Deux semaines minimum. La porte d'entrée doit devenir automatique avant qu'on allonge le couloir. Si vous agrandissez trop tôt, vous transformez la porte en mur."
+  - q: "La règle des 2 minutes est-elle la même que la règle des 2 jours ?"
+    a: "Non. La règle des 2 jours (elle aussi de Clear) dit : ne jamais rater deux fois de suite. La règle des 2 minutes concerne le fait de commencer petit. Elles sont complémentaires : la règle des 2 minutes rend le départ facile, celle des 2 jours protège la constance."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

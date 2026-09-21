@@ -35,7 +35,16 @@ faq:
   - q: "Do I need to read 30 minutes a day?"
     a: "No. The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit. Research on micro-habits shows small daily actions stick better than longer weekly ones."
   - q: "What if I read and don't remember?"
-    a: "You will remember 20-30% of what you read, even without notes. The act of reading trains your attention and vocabulary more than memory. For retention, take 2 minutes after each session to write down the one one idea."
+    a: "You will remember 20-30% of what you read, even without notes. The act of reading trains your attention and vocabulary more than memory. For retention, take 2 minutes after each session to write down the single key idea."
+faqFr:
+  - q: "Combien de livres lire par an ?"
+    a: "Les recherches indiquent que 24 à 30 livres par an est le point optimal pour la plupart des professionnels. Moins de 6 et vous passez à côté de la connaissance composée. Plus de 60 et la rétention souffre. Visez 2 à 3 livres par mois, terminés, pas commencés."
+  - q: "Quel est le meilleur moment pour lire ?"
+    a: "Celui où vous serez réellement présent. Pour la plupart des gens, c'est 20 minutes avant de dormir ou dès le réveil. Le « meilleur » moment est celui où la lecture a le moins de chances d'être en concurrence avec d'autres obligations."
+  - q: "Faut-il lire 30 minutes par jour ?"
+    a: "Non. L'habitude quotidienne de 20 minutes construit la régularité plus vite que l'habitude de 60 minutes trois fois par semaine. Les recherches sur les micro-habitudes montrent que les petites actions quotidiennes tiennent mieux que les longues hebdomadaires."
+  - q: "Et si je lis sans rien retenir ?"
+    a: "Vous retiendrez 20 à 30 % de ce que vous lisez, même sans notes. L'acte de lire entraîne votre attention et votre vocabulaire plus que votre mémoire. Pour la rétention, prenez 2 minutes après chaque session pour écrire l'idée principale."
 relatedArticles:
   - "i-tested-12-morning-routines"
   - "regle-deux-minutes"

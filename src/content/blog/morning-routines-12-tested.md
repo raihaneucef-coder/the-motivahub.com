@@ -41,6 +41,17 @@ faq:
     a: "Ice baths. The 5-minute ice bath added zero measurable benefit over a 30-second cold shower at the end of a normal shower. The 5-minute version is what people post on social media. The 30-second version is what people actually do for 365 days."
   - q: "How do I find the right morning routine for me?"
     a: "Three filters. (1) Your chronotype: if you are a night owl, do not schedule deep focus work at 6 AM. (2) Your discipline archetype: Builders (start small and stack) want 5-minute routines. Sprinters (intense bursts) want 60-90 minute routines. Marathoners (consistent long effort) want 30-45 minute routines. Strategists (systems first) want a written protocol. (3) Your real schedule: a routine that does not survive a 6:30 AM call is a routine you will quit by day 7."
+faqFr:
+  - q: "Quelle est la meilleure routine matinale ?"
+    a: "Il n'existe pas une seule meilleure routine. La meilleure est celle que votre chronotype, votre archétype de discipline et votre emploi du temps réel peuvent tenir pendant 66 jours (la médiane d'automatisation d'une habitude, Lally 2009). J'ai testé 12 routines pendant 14 jours. Les trois qui sont restées : 5 minutes de journaling, 20 minutes de marche, 10 minutes de douche froide. Tout le reste s'est effondré sous le poids de sa propre ambition."
+  - q: "Combien de temps doit durer une routine matinale ?"
+    a: "La plupart de celles que j'ai testées duraient 60 à 90 minutes. Une seule a tenu à cette longueur (douche froide + marche + journaling + lecture, mais seulement le week-end). En semaine, toute routine matinale ayant survécu au jour 14 durait moins de 30 minutes. La règle des 2 minutes s'applique : une routine que vous ne pouvez pas faire les mauvais jours n'est pas une routine, c'est un projet."
+  - q: "Les routines matinales fonctionnent-elles vraiment ?"
+    a: "Oui, mais avec une réserve. Les travaux d'Andrew Huberman et d'autres montrent que les 1 à 2 premières heures après le réveil déterminent la régulation du cortisol, la concentration et l'humeur pour le reste de la journée. La réserve : la routine matinale n'est pas la cause de la discipline. Elle est la *sortie* de quelqu'un qui a décidé d'être une personne qui fait son matin. Sans l'identité sous-jacente, la routine est un déguisement."
+  - q: "Quelle est la routine matinale la plus surévaluée ?"
+    a: "Les bains de glace. Le bain de glace de 5 minutes n'a ajouté aucun bénéfice mesurable par rapport à une douche froide de 30 secondes en fin de douche normale. La version de 5 minutes est celle qu'on publie sur les réseaux. La version de 30 secondes est celle que les gens font pendant 365 jours."
+  - q: "Comment trouver la routine matinale qui me convient ?"
+    a: "Trois filtres. (1) Votre chronotype : si vous êtes du soir, ne planifiez pas de travail profond à 6 h. (2) Votre archétype de discipline : les Bâtisseurs (commencer petit et empiler) veulent des routines de 5 minutes ; les Sprinters (rafales intenses) veulent 60 à 90 minutes ; les Marathonniens (effort long et régulier) veulent 30 à 45 minutes ; les Stratèges (systèmes d'abord) veulent un protocole écrit. (3) Votre agenda réel : une routine qui ne survit pas à un appel à 6 h 30 est une routine que vous abandonnerez avant le jour 7."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

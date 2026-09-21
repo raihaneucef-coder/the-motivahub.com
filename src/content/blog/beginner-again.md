@@ -32,6 +32,15 @@ faq:
     a: "Go where you know no one. Plan less than feels safe. Talk to strangers deliberately. Keep one habit alive on the road. Bring the lesson home. The trip ends; the recalibrated eyes should not."
   - q: "How long should I travel to get the benefit?"
     a: "You do not need a long trip. A weekend in a town whose name you cannot pronounce will do. The requirement is not distance. It is unfamiliarity. Go where your competence means nothing, where every hour asks you to learn."
+faqFr:
+  - q: "Pourquoi le voyage vous remet-il au statut de débutant ?"
+    a: "Parce que le voyage supprime tous les repères familiers qui vous rendaient compétent. Vous ne savez pas lire le menu. Vous ne parlez pas la langue. Vous ne connaissez pas les coutumes. En quelques heures, vous êtes rétrogradé d'expert à débutant. Ce n'est pas un échec. C'est une remise à zéro."
+  - q: "Le voyage est-il vraiment nécessaire pour progresser ?"
+    a: "Non, mais c'est le chemin le plus rapide. La croissance demande de l'inconfort, et le voyage en procure à petites doses supportables. La leçon selon laquelle « être mauvais dans quelque chose est supportable » s'apprend plus vite quand on est réellement mauvais — comme commander à manger dans une langue qu'on ne parle pas."
+  - q: "Quelle est la meilleure façon de voyager pour progresser ?"
+    a: "Allez là où vous ne connaissez personne. Prévoyez moins que ce qui vous semble sûr. Parlez à des inconnus volontairement. Faites survivre une habitude sur la route. Ramenez la leçon chez vous. Le voyage se termine ; le regard recalibré, non."
+  - q: "Combien de temps voyager pour en tirer le bénéfice ?"
+    a: "Il ne faut pas un long voyage. Un week-end dans une ville dont vous ne savez pas prononcer le nom suffit. L'exigence n'est pas la distance. C'est l'étrangeté. Allez là où votre compétence ne pèse rien, là où chaque heure vous demande d'apprendre."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

@@ -10,6 +10,7 @@ import NewsletterSection from "../../../components/NewsletterSection.astro";
 import AffiliateBanner from "../../../components/AffiliateBanner.astro";
 import BookCTA from "../../../components/BookCTA.astro";
 import AuthorBio from "../../../components/AuthorBio.astro";
+import ArticleFaq from "../../../components/ArticleFaq.astro";
 import TableOfContents from "../../../components/TableOfContents.astro";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
@@ -153,6 +154,11 @@ const proseHtml = frSwapDivs(post.body).replace(
   }
 );
 
+// Only the French Q&A may appear on a French page: the visible block and the
+// FAQPage markup are the same list, so when faqFr is absent the FR page shows
+// no FAQ at all rather than borrowed English text.
+const faqFr = post.data.faqFr && post.data.faqFr.length > 0 ? post.data.faqFr : null;
+
 const all = (await getCollection("blog")).filter((p) => !p.data.draft).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const enSlug = getEnglishSlug(post.id);
@@ -252,12 +258,12 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
       "inLanguage": postLang
     })} />
   )}
-  {post.data.faq && post.data.faq.length > 0 && (
+  {faqFr && (
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
       "@type": "FAQPage",
       "inLanguage": postLang,
-      "mainEntity": post.data.faq.map((f) => ({
+      "mainEntity": faqFr.map((f) => ({
         "@type": "Question",
         "name": f.q,
         "acceptedAnswer": { "@type": "Answer", "text": f.a }
@@ -278,6 +284,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
       {isReviewPost && <AffiliateBanner variant="callout" lang={postLang} />}
       <TableOfContents headings={frHeadings} />
       <div class="prose" data-ssr-fr="1" set:html={proseHtml} />
+      <ArticleFaq faq={faqFr ?? undefined} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <AdSlot format="horizontal" />
       <ToolCta topic={post.data.topic} lang="fr" />

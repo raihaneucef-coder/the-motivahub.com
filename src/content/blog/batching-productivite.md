@@ -32,6 +32,15 @@ faq:
     a: "Batch similar tasks: email, writing, calls, admin, creative work, errands. The key is to group by mental mode, not by urgency. Check email at set times, not whenever it arrives."
   - q: "Can batching work for creative work?"
     a: "Yes. Creative batching means doing all creative work in one block. Write all articles in one sitting. Record all videos in one session. Design all graphics in one block. The creative mode is hard to enter, but once you are in it, stay there."
+faqFr:
+  - q: "Qu'est-ce que le regroupement de tâches ?"
+    a: "Le regroupement de tâches consiste à rassembler les tâches similaires et à les traiter dans un seul bloc concentré, au lieu de passer d'un type de tâche à l'autre toute la journée. Cela réduit les changements de contexte et augmente le temps de travail profond."
+  - q: "Comment le regroupement améliore-t-il la productivité ?"
+    a: "À chaque changement de tâche, votre cerveau paie un impôt cognitif. Le regroupement supprime cet impôt en vous maintenant dans le même mode mental pendant une durée prolongée. Les recherches montrent qu'il peut rendre les 2 à 3 heures par jour perdues en changements de contexte."
+  - q: "Quelles tâches dois-je regrouper ?"
+    a: "Regroupez ce qui est semblable : emails, écriture, appels, administratif, travail créatif, déplacements. La clé est de grouper par mode mental, pas par urgence. Consultez vos mails à heures fixes, pas à chaque réception."
+  - q: "Le regroupement fonctionne-t-il pour le travail créatif ?"
+    a: "Oui. Le regroupement créatif consiste à concentrer tout le travail créatif dans un seul bloc. Écrire tous les articles d'une traite. Enregistrer toutes les vidéos dans une même session. Concevoir tous les visuels dans un seul bloc. Le mode créatif est difficile à atteindre, mais une fois dedans, restez-y."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

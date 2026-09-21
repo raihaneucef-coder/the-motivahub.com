@@ -34,6 +34,15 @@ faq:
     a: "Three steps: (1) Name the emotion without judgment. (2) Reframe the setback as data, not identity. (3) Take one small action within 24 hours. The action does not need to solve the whole problem — it just needs to prove that movement is still possible. Momentum returns faster than motivation."
   - q: "Is resilience about never feeling pain?"
     a: "No. Resilience is about feeling the pain and choosing to move forward anyway. The resilient person does not avoid storms — they learn to dance in the rain. The difference between resilience and suppression: suppression hides the pain. Resilience processes it and keeps moving."
+faqFr:
+  - q: "Qu'est-ce que la résilience mentale ?"
+    a: "La résilience mentale, c'est la capacité d'encaisser un coup, de le traiter et d'avancer quand même. Il ne s'agit pas d'être dur — il s'agit d'être souple. Les neurosciences montrent que la résilience est une compétence entraînable, pas un trait fixe. Vous pouvez la développer par des pratiques précises : le travail respiratoire, le recadrage et la règle des 2 jours."
+  - q: "La résilience peut-elle s'entraîner ?"
+    a: "Oui. Votre cerveau dispose d'un système nerveux parasympathique qui s'active après le stress pour vous ramener au calme. Les personnes résilientes ont un système de récupération plus rapide et plus efficace. Vous pouvez entraîner cela par une respiration lente (rythme 4-7-8), une exposition régulière au froid et des pratiques de récupération délibérées. Le système s'améliore à l'usage."
+  - q: "Quel est le moyen le plus rapide de se relever d'un revers ?"
+    a: "Trois étapes : (1) nommer l'émotion sans jugement ; (2) recadrer le revers en donnée, pas en identité ; (3) poser une petite action dans les 24 heures. L'action n'a pas à résoudre tout le problème — elle doit seulement prouver que le mouvement reste possible. L'élan revient plus vite que la motivation."
+  - q: "Être résilient, est-ce ne jamais ressentir de douleur ?"
+    a: "Non. La résilience, c'est ressentir la douleur et choisir d'avancer quand même. La personne résiliente n'évite pas les tempêtes — elle apprend à danser sous la pluie. La différence entre résilience et refoulement : le refoulement cache la douleur. La résilience la traite et continue d'avancer."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

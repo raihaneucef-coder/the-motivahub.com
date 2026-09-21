@@ -25,6 +25,13 @@ const blog = defineCollection({
       q: z.string(),
       a: z.string(),
     })).optional(),
+    // French wording of the same questions, rendered on /fr/ pages. The FR
+    // page shows nothing until this exists: the FAQPage markup has to match
+    // visible text, and English Q&A is not visible French content.
+    faqFr: z.array(z.object({
+      q: z.string(),
+      a: z.string(),
+    })).optional(),
   }),
 });
 

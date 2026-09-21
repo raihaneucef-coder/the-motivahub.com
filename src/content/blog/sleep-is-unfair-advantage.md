@@ -35,6 +35,15 @@ faq:
     a: "Mixed. Consumer trackers (Oura, Whoop, Apple Watch) overestimate deep sleep and underestimate light sleep. They're useful for trends (is your sleep getting better or worse) but not for absolute measurements. The best tracker is your subjective morning energy."
   - q: "Is napping good or bad?"
     a: "Short naps (10-20 min, before 2 PM) improve afternoon performance without affecting nighttime sleep. Longer naps (30+ min) or late naps (after 3 PM) can disrupt nighttime sleep architecture. If you're tired enough to need a long nap, your nighttime sleep probably needs attention first."
+faqFr:
+  - q: "De combien de sommeil ai-je vraiment besoin ?"
+    a: "Les travaux de Matthew Walker et de la National Sleep Foundation indiquent 7 à 9 heures pour la plupart des adultes. Moins de 6 heures est associé au déclin cognitif, au dysfonctionnement immunitaire et à une mortalité accrue. Les besoins individuels varient selon la génétique, mais la régularité compte plus que le nombre exact d'heures."
+  - q: "Quel est le moyen le moins cher d'améliorer la qualité du sommeil ?"
+    a: "Une chambre plus fraîche (18 à 20 °C), une heure de réveil fixe, pas d'écran une heure avant le coucher et de la lumière du matin. Ces quatre changements coûtent 0 et améliorent généralement la qualité du sommeil de 20 à 30 % en deux semaines. Après cela, envisagez des rideaux occultants et un masque de sommeil basique."
+  - q: "Les applications de suivi du sommeil fonctionnent-elles ?"
+    a: "Résultats mitigés. Les traceurs grand public (Oura, Whoop, Apple Watch) surestiment le sommeil profond et sous-estiment le sommeil léger. Ils sont utiles pour les tendances (votre sommeil s'améliore-t-il ou se dégrade-t-il), pas pour des mesures absolues. Le meilleur traceur, c'est votre énergie subjective au réveil."
+  - q: "La sieste : bonne ou mauvaise ?"
+    a: "Les siestes courtes (10 à 20 minutes, avant 14 h) améliorent la performance de l'après-midi sans affecter le sommeil de nuit. Les siestes plus longues (30 minutes et plus) ou tardives (après 15 h) peuvent désorganiser l'architecture du sommeil nocturne. Si vous êtes assez fatigué pour avoir besoin d'une longue sieste, c'est votre sommeil de nuit qui demande d'abord votre attention."
 relatedArticles:
   - "routine-matin-sante"
   - "hydration-performance"

@@ -33,6 +33,15 @@ faq:
     a: "The hardest bad habits are the ones that serve a purpose. Smoking relieves stress. Scrolling relieves boredom. Junk food relieves emotional pain. If you only remove the habit without addressing the underlying need, the habit will come back. The fix: replace the habit with a better one that serves the same purpose."
   - q: "Can I break a bad habit without willpower?"
     a: "Yes. Willpower is a finite resource. The reverse four laws work by removing the need for willpower. Make the trigger invisible. Make the habit unattractive. Make it difficult. Make it unsatisfying. The habit breaks itself."
+faqFr:
+  - q: "Que sont les quatre lois inversées du changement d'habitude ?"
+    a: "Les quatre lois inversées sont : (1) la rendre invisible — supprimer le déclencheur, (2) la rendre peu attractive — reformuler le récit, (3) la rendre difficile — augmenter la friction, (4) la rendre insatisfaisante — ajouter une conséquence négative. Ce sont l'inverse des quatre lois qui servent à construire de bonnes habitudes."
+  - q: "Combien de temps pour casser une mauvaise habitude ?"
+    a: "Cela dépend de l'habitude et de la personne. Certaines se cassent en 21 jours avec le bon système. D'autres demandent 90 jours ou plus. L'important n'est pas le calendrier, c'est le système. Supprimez le déclencheur, augmentez la friction et rendez l'habitude insatisfaisante."
+  - q: "Quelle est la mauvaise habitude la plus difficile à casser ?"
+    a: "Ce sont celles qui rendent un service. La cigarette soulage le stress. Le scroll soulage l'ennui. La malbouffe soulage une douleur émotionnelle. Si vous retirez l'habitude sans traiter le besoin sous-jacent, elle reviendra. La correction : remplacer par une meilleure habitude qui rend le même service."
+  - q: "Peut-on casser une habitude sans volonté ?"
+    a: "Oui. La volonté est une ressource finie. Les quatre lois inversées fonctionnent en supprimant le besoin de volonté. Rendez le déclencheur invisible. Rendez l'habitude peu attractive. Rendez-la difficile. Rendez-la insatisfaisante. L'habitude se casse d'elle-même."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

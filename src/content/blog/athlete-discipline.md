@@ -32,6 +32,15 @@ faq:
     a: "You can learn that the boring work is the work. Champions are not made in the moment of victory. They are made in the thousands of hours of preparation that no one sees."
   - q: "Is discipline the same as motivation?"
     a: "No. Motivation is a feeling. Discipline is a practice. Motivation comes and goes. Discipline is what you do when motivation is gone."
+faqFr:
+  - q: "Qu'est-ce que la discipline de l'athlète ?"
+    a: "La discipline de l'athlète, c'est la capacité de faire le travail ennuyeux et répétitif chaque jour, même quand personne ne regarde. Ce n'est pas une histoire de talent. C'est être présent quand la motivation est basse et que les résultats ne sont pas encore visibles."
+  - q: "Comment les athlètes restent-ils disciplinés ?"
+    a: "Ils rattachent leurs habitudes à un système, pas à un objectif. L'objectif est de gagner le championnat. Le système est de se présenter à l'entraînement chaque jour, de manger les mêmes repas, de dormir aux mêmes heures. C'est le système qui dure."
+  - q: "Que puis-je apprendre de la discipline des athlètes ?"
+    a: "Que le travail ennuyeux EST le travail. Les champions ne se forgent pas dans l'instant de la victoire. Ils se forgent dans les milliers d'heures de préparation que personne ne voit."
+  - q: "La discipline, est-ce la même chose que la motivation ?"
+    a: "Non. La motivation est un sentiment. La discipline est une pratique. La motivation va et vient. La discipline, c'est ce que vous faites quand la motivation est partie."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
