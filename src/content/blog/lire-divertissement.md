@@ -6,8 +6,8 @@ descriptionFr: "Lire n'est pas du travail — c'est du divertissement. Et contra
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/lire-divertissement-2.jpg"
-imageAlt: "Hand holding an open book on a warm blanket - reading for pleasure"
+image: "/images/blog/lire-divertissement-3.jpg"
+imageAlt: "A stack of worn books wrapped in a cozy brown blanket"
 topic: "Entertainment"
 keywords:
   - "reading"

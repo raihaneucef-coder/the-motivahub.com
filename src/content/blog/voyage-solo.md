@@ -6,8 +6,8 @@ descriptionFr: "Voyager seul n'est pas être seul — c'est être libre. Découv
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/voyage-solo-2.jpg"
-imageAlt: "Lone woman sitting by the window of an empty train - traveling solo"
+image: "/images/blog/voyage-solo-3.jpg"
+imageAlt: "A young woman gazing out of a train window as the landscape passes by"
 topic: "Travel"
 keywords:
   - "travel"

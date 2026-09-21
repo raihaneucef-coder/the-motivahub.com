@@ -6,8 +6,8 @@ descriptionFr: "Ils avaient promis de marcher ensemble chaque jour pendant un an
 pubDate: 2026-08-04
 updatedDate: 2026-09-12
 readTime: "4 min read"
-image: "/images/blog/two-friends-one-promise-2.jpg"
-imageAlt: "Two hands making a pinky promise - one promise between friends"
+image: "/images/blog/two-friends-one-promise-3.jpg"
+imageAlt: "Two hands locking in a pinky promise outdoors"
 topic: "Stories"
 keywords:
   - "accountability partner"

@@ -6,8 +6,8 @@ descriptionFr: "Un sprint de 90 jours est suffisant pour transformer votre vie. 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/sprint-90-jours-2.jpg"
-imageAlt: "Runner set in the starting blocks - the ninety day sprint begins"
+image: "/images/blog/sprint-90-jours-3.jpg"
+imageAlt: "A sprinter set in the starting blocks on an outdoor track"
 topic: "Goals"
 keywords:
   - "days"

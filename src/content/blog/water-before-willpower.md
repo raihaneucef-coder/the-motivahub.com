@@ -7,8 +7,8 @@ pubDate: 2026-08-15
 updatedDate: 2026-09-12
 topic: "Nutrition"
 readTime: "3 min read"
-image: "/images/blog/water-before-willpower-2.jpg"
-imageAlt: "Water bottle pouring a fresh glass - water before willpower"
+image: "/images/blog/water-before-willpower-3.jpg"
+imageAlt: "A hand pouring fresh water into a glass against a blurred city backdrop"
 featured: false
 draft: false
 keywords:

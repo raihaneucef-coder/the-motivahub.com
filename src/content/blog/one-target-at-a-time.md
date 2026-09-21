@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
 readTime: "5 min read"
-image: "/images/blog/one-target-at-a-time-2.jpg"
-imageAlt: "Single arrow hitting the archery bullseye - one target at a time"
+image: "/images/blog/one-target-at-a-time-3.jpg"
+imageAlt: "A yellow dart hitting the bullseye of a black and white dartboard"
 featured: false
 draft: false
 keywords:

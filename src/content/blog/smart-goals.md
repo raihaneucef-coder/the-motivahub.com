@@ -6,8 +6,8 @@ descriptionFr: "Les objectifs SMART sont spécifiques, mesurables, atteignables,
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/smart-goals-2.jpg"
-imageAlt: "Weekly planner with goals and colorful markers - SMART goals"
+image: "/images/blog/smart-goals-3.jpg"
+imageAlt: "A pink flat lay of a planner, notebooks and pens ready for goal setting"
 topic: "Goals"
 keywords:
   - "goal"

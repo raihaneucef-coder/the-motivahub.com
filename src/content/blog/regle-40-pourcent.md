@@ -6,8 +6,8 @@ descriptionFr: "La règle des 40% dit que vous n'utilisez que 40% de votre poten
 pubDate: 2026-09-01
 updatedDate: 2026-09-12
 readTime: "8 MIN"
-image: "/images/blog/regle-40-pourcent-2.jpg"
-imageAlt: "Exhausted marathon runner with arms on his head - pushing past the forty percent limit"
+image: "/images/blog/regle-40-pourcent-3.jpg"
+imageAlt: "A runner pushing hard through a sprint on an outdoor track"
 topic: "Discipline"
 keywords:
   - "40 percent rule"

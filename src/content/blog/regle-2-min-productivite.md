@@ -6,8 +6,8 @@ descriptionFr: "La règle de 2 minutes pour la productivité est simple : commen
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "4 MIN"
-image: "/images/blog/regle-2-min-productivite-2.jpg"
-imageAlt: "Kitchen timer counting down on a stove - the two minute productivity rule"
+image: "/images/blog/regle-2-min-productivite-3.jpg"
+imageAlt: "A blue kitchen timer sitting on a table in soft light"
 topic: "Productivity"
 keywords:
   - "minute"

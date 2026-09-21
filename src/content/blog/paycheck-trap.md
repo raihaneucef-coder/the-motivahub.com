@@ -7,8 +7,8 @@ pubDate: 2026-08-14
 updatedDate: 2026-09-12
 topic: "Finance"
 readTime: "4 min read"
-image: "/images/blog/paycheck-trap-2.jpg"
-imageAlt: "Hands using a calculator among bills and receipts - escaping the paycheck trap"
+image: "/images/blog/paycheck-trap-3.jpg"
+imageAlt: "Hands counting dollar bills across a desk covered with receipts and a wallet"
 featured: false
 draft: false
 keywords:
