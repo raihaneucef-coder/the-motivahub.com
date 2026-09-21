@@ -6,8 +6,8 @@ descriptionFr: "Le muscle social se construit avec intention. Découvrez comment
 pubDate: 2026-08-10
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/social-muscle-2.jpg"
-imageAlt: "Climber supporting a partner on a climbing wall - social muscle"
+image: "/images/blog/social-muscle-3.jpg"
+imageAlt: "Two climbing partners belaying each other at an indoor climbing wall"
 topic: "Personal Growth"
 keywords:
   - "social"

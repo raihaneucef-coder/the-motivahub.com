@@ -6,8 +6,8 @@ descriptionFr: "J'ai testé l'entraînement matinal pendant 5 ans — en tant qu
 pubDate: 2026-09-06
 updatedDate: 2026-09-12
 readTime: "10 MIN"
-image: "/images/blog/the-morning-athlete-2.jpg"
-imageAlt: "Runner training at sunrise in a park - the morning athlete"
+image: "/images/blog/the-morning-athlete-3.jpg"
+imageAlt: "A runner crossing a green field in the early morning light"
 topic: "Sport"
 keywords:
   - "morning athlete"

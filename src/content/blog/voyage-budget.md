@@ -6,8 +6,8 @@ descriptionFr: "Voyager ne doit pas être cher. Avec les bonnes stratégies, vou
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/voyage-budget-2.jpg"
-imageAlt: "Hand holding a model plane over a map with coins and a passport - budget travel"
+image: "/images/blog/voyage-budget-3.jpg"
+imageAlt: "A world map shaped from scattered coins on a white table"
 topic: "Travel"
 keywords:
   - "travel"

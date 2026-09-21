@@ -6,8 +6,8 @@ descriptionFr: "Les styles d'attachement influencent vos relations. Découvrez l
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/styles-attachement-2.jpg"
-imageAlt: "Two people holding each other in a close embrace - attachment styles"
+image: "/images/blog/styles-attachement-3.jpg"
+imageAlt: "A couple holding each other close, hands resting on shoulders"
 topic: "Relationships"
 keywords:
   - "attachment"
