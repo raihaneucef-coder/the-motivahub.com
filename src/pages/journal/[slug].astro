@@ -12,7 +12,7 @@ import AuthorBio from "../../components/AuthorBio.astro";
 import TableOfContents from "../../components/TableOfContents.astro";
 import { getCollection, render } from "astro:content";
 import { detectLangFromSlug } from "../../utils/lang";
-import { getImageDimensions } from "../../utils/image";
+import { getImageDimensions, thumbSrc } from "../../utils/image";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -132,7 +132,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
          <p class="card-meta"><span>{post.data.topic.toUpperCase()}</span> · {post.data.readTime}</p>
          <h1>{displayTitle}</h1>
         <p class="card-date">{post.data.pubDate.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
-        <img class="article-img" src={post.data.image} alt={post.data.imageAlt || post.data.title} width={coverDims.width} height={coverDims.height} fetchpriority="high" />
+        <img class="article-img" src={post.data.image} srcset={`${thumbSrc(post.data.image)} 640w, ${thumbSrc(post.data.image).replace("-sm.jpg", "-md.jpg")} 800w, ${post.data.image} ${coverDims.width}w`} sizes="calc(min(1200px, 100vw) - clamp(40px, 8vw, 112px))" alt={post.data.imageAlt || post.data.title} width={coverDims.width} height={coverDims.height} fetchpriority="high" />
       </div>
     </header>
 
