@@ -181,10 +181,21 @@ function scoreRelated(p: any): number {
 const scored = all
   .map((p) => ({ post: p, score: scoreRelated(p) }))
   .filter((x) => x.score > 0)
-  .sort((a, b) => b.score - a.score)
-  .slice(0, 4);
-const related = scored.length >= 1 ? scored.map((x) => x.post) : all.filter((p) => p.id !== post.id).slice(0, 4);
-const relatedPosts = related.slice(0, 4);
+  .sort((a, b) => b.score - a.score);
+
+// Same rule as the English page: curated relatedArticles win and the topic /
+// keyword score only pads them. relatedArticles are stored as English ids, so
+// they are resolved through the FR slug map; unknown slugs are dropped and a
+// French card can never link to a 404.
+const byFrSlug = (slug: string) => all.find((p) => getEnglishSlug(p.id) === slug);
+const curated = (post.data.relatedArticles || [])
+  .map(byFrSlug)
+  .filter(Boolean) as any[];
+const curatedPosts = curated.filter((p, i) => p.id !== post.id && curated.indexOf(p) === i);
+const padded = scored.map((x) => x.post).filter((p: any) => !curatedPosts.includes(p));
+const related = [...curatedPosts, ...padded].slice(0, 4);
+const fallback = all.filter((p) => p.id !== post.id && !related.includes(p)).slice(0, 4 - related.length);
+const relatedPosts = related.concat(fallback).slice(0, 4);
 
 const postLang = currentLocale;
 const displayTitle = currentLocale === "fr" && post.data.titleFr ? post.data.titleFr : post.data.title;
