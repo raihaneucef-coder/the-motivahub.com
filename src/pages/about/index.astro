@@ -2,16 +2,18 @@
 import Layout from '../../layouts/Layout.astro';
 ---
 
-<Layout title="About Youssef Raihane — Motiva Hub" description="Youssef Raihane is a writer and researcher focused on mindset, habits, and the long ascent. This is the story behind Motiva Hub." image="/images/youssef-raihane.jpg" lang="en">
-  <article class="article-body container">
+<Layout title="About Youssef Raihane — Motiva Hub" description="Youssef Raihane is a writer and researcher focused on mindset, habits, and the long ascent. This is the story behind Motiva Hub." lang="en">
+  <article>
     <header class="article-header">
-      <p class="card-meta" data-i18n="aboutPageKicker">ABOUT</p>
-      <h1>Youssef Raihane</h1>
-      <p class="card-date" data-i18n="aboutPageSubtitle">Writer, Researcher, Founder of Motiva Hub</p>
-      <img class="article-img about-hero-img" src="/images/youssef-raihane.jpg" alt="Youssef Raihane portrait" />
+      <div class="container">
+        <p class="card-meta" data-i18n="aboutPageKicker">ABOUT</p>
+        <h1>Youssef Raihane</h1>
+        <p class="card-date" data-i18n="aboutPageSubtitle">Writer, Researcher, Founder of Motiva Hub</p>
+        <img class="article-img about-hero-img" src="/images/youssef-raihane.jpg" alt="Youssef Raihane portrait" />
+      </div>
     </header>
 
-    <div class="container">
+    <div class="article-body container">
       <h2 data-i18n="aboutStoryTitle">The Story</h2>
       <p data-i18n="aboutStoryP1">I founded MotivaHub in 2025 after spending eight months writing my first book, but I failed to launch it because of self-sabotage. I had the content. I had the plan. After many attempts that did not go as I had hoped, I began to understand that failure was not the end, but part of the journey. With each attempt, I learned more about myself, about discipline, and about the need to build a system that helps me keep going.</p>
 
@@ -30,13 +32,13 @@ import Layout from '../../layouts/Layout.astro';
       <p data-i18n="aboutMissionP2">The mission is simple: help you build the thing that builds everything else — yourself.</p>
 
       <h2 data-i18n="aboutContactTitle">Contact</h2>
-      <p data-i18n="aboutContactP1">For collaborations, speaking, or just to say hello: <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
+      <p data-i18n-html="aboutContactP1">For collaborations, speaking, or just to say hello: <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
 
       <h2 data-i18n="aboutConnectTitle">Connect</h2>
       <p data-i18n="aboutConnectSubtitle">Follow the journey:</p>
       <ul>
         <li><a href="https://www.instagram.com/motivahub/" target="_blank" rel="noopener" data-i18n="aboutInstagramLink">Instagram</a></li>
-        <li><a href="https://twitter.com/motivahub" target="_blank" rel="noopener" data-i18n="aboutTwitterLink">Twitter/X</a></li>
+        <li><a href="https://www.facebook.com/share/1EDShganVC/" target="_blank" rel="noopener" data-i18n="aboutFacebookLink">Facebook</a></li>
         <li><a href="https://www.linkedin.com/company/motivahub" target="_blank" rel="noopener" data-i18n="aboutLinkedInLink">LinkedIn</a></li>
       </ul>
 
@@ -48,3 +50,7 @@ import Layout from '../../layouts/Layout.astro';
     </div>
   </article>
 </Layout>
+
+<style>
+.article-header .article-img.about-hero-img{max-height:none;object-fit:cover}
+</style>
