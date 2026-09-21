@@ -33,6 +33,15 @@ faq:
     a: "Start by noticing your patterns. Write down when you sabotage yourself and what you were feeling. Then separate the behavior from your identity: you are not a procrastinator, you are a person who sometimes procrastinates. Finally, create friction for the sabotage and ease for the progress."
   - q: "Can self-sabotage be cured?"
     a: "It cannot be cured, but it can be managed. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different."
+faqFr:
+  - q: "Qu'est-ce que l'auto-sabotage ?"
+    a: "L'auto-sabotage, c'est quand vous minez sans le vouloir vos propres objectifs, vos progrès ou votre bonheur. Il prend la forme de la procrastination, du perfectionnisme, du doute de soi, ou du choix du confort plutôt que de la croissance — même quand vous savez mieux faire."
+  - q: "Pourquoi est-ce que je me sabote ?"
+    a: "La plupart du temps, l'auto-sabotage est une peur déguisée. Votre cerveau vous protège du risque en fabriquant du doute, de la distraction ou des excuses. Le problème : « en sécurité » et « accompli » ne sont pas la même chose."
+  - q: "Comment arrêter de me saboter ?"
+    a: "Commencez par repérer vos schémas. Notez quand vous vous sabotez et ce que vous ressentiez à ce moment-là. Puis séparez le comportement de l'identité : vous n'êtes pas un procrastinateur, vous êtes une personne qui procrastine parfois. Enfin, créez de la friction pour le sabotage et de la facilité pour le progrès."
+  - q: "L'auto-sabotage peut-il se guérir ?"
+    a: "On ne le guérit pas, on l'administre. L'objectif n'est de ne plus jamais se saboter. L'objectif est de le remarquer plus vite, de s'en relever plus tôt, et de rendre le choix suivant différent."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

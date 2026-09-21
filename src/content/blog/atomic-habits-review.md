@@ -34,6 +34,15 @@ faq:
     a: "Never miss twice. One miss is data. Two misses is a pattern. This single rule prevented more relapses than any other technique in the book."
   - q: "Is Atomic Habits overrated?"
     a: "No, but it is often misapplied. The book is not about motivation or inspiration. It is about system design. If you read it looking for a quick fix, you will be disappointed. If you read it looking for a architecture, it is one of the best books ever written on the subject."
+faqFr:
+  - q: "Atomic Habits mérite-t-il d'être lu plusieurs fois ?"
+    a: "Oui. Chaque lecture révèle une couche différente. La première donne le cadre. La deuxième montre où vous l'aviez mal compris. La troisième aide à l'appliquer à des habitudes précises. La quatrième devient un outil d'étalonnage de votre identité."
+  - q: "Qu'est-ce qui a changé après quatre lectures d'Atomic Habits ?"
+    a: "Le plus grand changement, ce sont les habitudes basées sur l'identité. J'ai cessé de fixer des objectifs comme « perdre 10 kg » et j'ai commencé à construire des systèmes comme « je suis une personne qui marche chaque matin ». Le poids a suivi l'identité, et non l'inverse."
+  - q: "Quelle leçon d'Atomic Habits a eu le plus d'impact ?"
+    a: "Ne jamais rater deux fois. Un raté est une donnée. Deux ratés forment un schéma. Cette règle à elle seule a empêché plus de rechutes que n'importe quelle autre technique du livre."
+  - q: "Atomic Habits est-il surévalué ?"
+    a: "Non, mais il est souvent mal appliqué. Le livre ne parle pas de motivation ni d'inspiration : c'est un manuel de conception de systèmes. Si vous y cherchez un correctif rapide, vous serez déçu. Si vous y cherchez une architecture, c'est l'un des meilleurs livres écrits sur le sujet."
 ---
 
 <div data-i18n-html="article_atomic-habits-review_p2">Most reviews tell you if a book is good. This one tells you what a book does to you — across 18 months, four reads, and one stubborn habit that finally stuck.</div>
