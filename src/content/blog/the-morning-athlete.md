@@ -6,8 +6,8 @@ descriptionFr: "J'ai testé l'entraînement matinal pendant 5 ans — en tant qu
 pubDate: 2026-09-06
 updatedDate: 2026-09-12
 readTime: "10 MIN"
-image: "/images/blog/the-morning-athlete.jpg"
-imageAlt: "Youssef Raihane - the morning athlete concept"
+image: "/images/blog/the-morning-athlete-2.jpg"
+imageAlt: "Runner training at sunrise in a park - the morning athlete"
 topic: "Sport"
 keywords:
   - "morning athlete"

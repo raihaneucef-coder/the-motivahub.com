@@ -7,8 +7,8 @@ pubDate: 2026-08-07
 updatedDate: 2026-09-12
 topic: "Stories"
 readTime: "5 min read"
-image: "/images/blog/the-letter-he-never-sent.jpg"
-imageAlt: "Youssef Raihane - the letter he never sent concept"
+image: "/images/blog/the-letter-he-never-sent-2.jpg"
+imageAlt: "Pile of handwritten letters and envelopes - the letter he never sent"
 featured: false
 draft: false
 keywords:

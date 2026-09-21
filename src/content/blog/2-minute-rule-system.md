@@ -6,8 +6,8 @@ descriptionFr: "La règle des 2 minutes de James Clear est l'idée la plus mal c
 pubDate: 2026-09-05
 updatedDate: 2026-09-12
 readTime: "18 MIN"
-image: "/images/blog/two-minute-threshold.jpg"
-imageAlt: "Youssef Raihane writing one sentence at his desk in Casablanca - 2 minute rule doorway"
+image: "/images/blog/2-minute-rule-system-2.jpg"
+imageAlt: "Running shoes taking the first step on a track - the two minute rule system"
 topic: "Habits"
 keywords:
   - "2-minute rule complete system"

@@ -6,8 +6,8 @@ descriptionFr: "La technique Pomodoro est le système de productivité le plus s
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/technique-pomodoro.jpg"
-imageAlt: "Youssef Raihane - technique pomodoro concept"
+image: "/images/blog/technique-pomodoro-2.jpg"
+imageAlt: "Red timer sitting on a book beside a green plant - the Pomodoro technique"
 topic: "Productivity"
 keywords:
   - "work"

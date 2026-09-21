@@ -6,8 +6,8 @@ descriptionFr: "Votre zone de confort est un endroit magnifique, mais rien n'y p
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/zone-confort-croissance.jpg"
-imageAlt: "Youssef Raihane - zone confort croissance concept"
+image: "/images/blog/zone-confort-croissance-2.jpg"
+imageAlt: "Person leaping from a rock into the open sea - leaving the comfort zone"
 topic: "Personal Growth"
 keywords:
   - "zone"

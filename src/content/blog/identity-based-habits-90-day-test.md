@@ -6,8 +6,8 @@ descriptionFr: "Les habitudes basées sur des objectifs échouent parce que l'ob
 pubDate: 2026-09-05
 updatedDate: 2026-09-07
 readTime: "9 MIN"
-image: "/images/blog/identite-precde-resultat.jpg"
-imageAlt: "Youssef Raihane - identity based habits 90 day test concept"
+image: "/images/blog/identity-based-habits-90-day-test-2.jpg"
+imageAlt: "Calendar with a circled date and a check habits note - the ninety day identity test"
 topic: "Habits"
 keywords:
   - "identity based habits"

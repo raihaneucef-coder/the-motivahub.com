@@ -6,8 +6,8 @@ descriptionFr: "Le time blocking consiste à assigner chaque heure de votre jour
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/time-blocking-journee.jpg"
-imageAlt: "Youssef Raihane - time blocking journee concept"
+image: "/images/blog/time-blocking-journee-2.jpg"
+imageAlt: "Hand writing time blocks in a weekly planner - time blocking the day"
 topic: "Productivity"
 keywords:
   - "time"

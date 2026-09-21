@@ -6,8 +6,8 @@ descriptionFr: "Tout le monde a pivoté. Lui est resté. Pendant 32 ans, les por
 pubDate: 2026-08-05
 updatedDate: 2026-09-12
 readTime: "4 min read"
-image: "/images/blog/the-shop-that-stayed-open.jpg"
-imageAlt: "Youssef Raihane in a quiet bookstore in Casablanca - endurance and consistency"
+image: "/images/blog/the-shop-that-stayed-open-2.jpg"
+imageAlt: "Small corner shop with its lights on at dusk - the shop that stayed open"
 topic: "Stories"
 keywords:
   - "endurance"
