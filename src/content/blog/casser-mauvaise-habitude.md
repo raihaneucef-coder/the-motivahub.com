@@ -6,8 +6,8 @@ descriptionFr: "Casser une mauvaise habitude demande plus que de la volont√©. D√
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "9 MIN"
-image: "/images/blog/casser-mauvaise-habitude.jpg"
-imageAlt: "Youssef Raihane's phone with social media apps deleted - reverse four laws for breaking habits"
+image: "/images/blog/casser-mauvaise-habitude-2.jpg"
+imageAlt: "A woman holding a pink frosted donut in one hand and a green apple in the other, choosing between them"
 topic: "Habits"
 keywords:
   - "how to break a bad habit"

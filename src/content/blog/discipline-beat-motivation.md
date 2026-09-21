@@ -6,8 +6,8 @@ descriptionFr: "La motivation est émotionnelle, la discipline est systémique. 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/discipline-beat-motivation.jpg"
-imageAlt: "Youssef Raihane - discipline beat motivation concept"
+image: "/images/blog/discipline-beat-motivation-2.jpg"
+imageAlt: "A man in a red beanie tying down ropes alone in an empty boxing gym"
 topic: "Discipline"
 keywords:
   - "discipline"

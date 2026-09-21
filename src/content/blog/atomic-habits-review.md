@@ -6,8 +6,8 @@ descriptionFr: "Analyse complète du livre Atomic Habits de James Clear. Les 4 l
 pubDate: 2026-08-13
 updatedDate: 2026-09-12
 readTime: "12 MIN"
-image: "/images/blog/atomic-habits-review.jpg"
-imageAlt: "Youssef Raihane's atomic habits notebook with 18-month reading journey and four reads"
+image: "/images/blog/atomic-habits-review-2.jpg"
+imageAlt: "Open books fanned out with pink sticky tabs marking key pages"
 topic: "Habits"
 keywords:
   - "atomic habits review"

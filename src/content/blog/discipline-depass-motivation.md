@@ -6,8 +6,8 @@ descriptionFr: "La motivation est volatile, la discipline est constante. Apprene
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/discipline-depass-motivation.jpg"
-imageAlt: "Youssef Raihane in Casablanca - discipline over motivation concept"
+image: "/images/blog/discipline-depass-motivation-2.jpg"
+imageAlt: "Hands lacing up a gray running shoe on asphalt before a training session"
 topic: "Success"
 keywords:
   - "discipline over motivation"
