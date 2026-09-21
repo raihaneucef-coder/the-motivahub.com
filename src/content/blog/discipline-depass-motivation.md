@@ -30,8 +30,6 @@ faq:
     a: "Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. Motivation disappears when you are tired, stressed, or discouraged. Discipline shows up regardless. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
   - q: "Can motivation and discipline work together?"
     a: "Yes. Motivation is useful for starting. Discipline is useful for continuing. The ideal system uses motivation as the spark and discipline as the engine. Start with a motivated burst (new year, new project), then immediately install the discipline systems that will keep you going when motivation fades."
-  - q: "How do I build discipline when I have no motivation?"
-    a: "Use the 2-minute rule. The goal is not the full habit — it is the doorway. One sentence, one pushup, one page. The 2-day rule protects the streak. The identity statement gives it meaning. Discipline is not about heroic effort. It is about showing up for 2 minutes, even when you do not feel like it."
   - q: "Is discipline the same as being hard on yourself?"
     a: "No. Discipline is kind. It includes rest days, the 2-day rule, and the 2-minute doorway. Self-punishment is cruel. It has no recovery, no kindness, and no identity. The test: is the work building something or tearing something down? If it builds, it is discipline. If it tears, it is punishment wearing a discipline costume."
 relatedArticles:

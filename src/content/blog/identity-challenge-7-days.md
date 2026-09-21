@@ -35,8 +35,6 @@ faq:
     a: "A 7-day identity challenge is a structured micro-experiment where you pick one identity statement ('I am a writer'), one tiny daily action (write one sentence), and repeat for 7 days. The goal is not the action — it is casting 7 votes for the person you want to become."
   - q: "Does a 7-day identity challenge actually work?"
     a: "Seven days is not enough to form a habit (Lally 2009 puts the median at 66 days). It is enough to start the automaticity curve and to gather evidence that you are the kind of person who does this thing. The first week is the steepest part of the curve — that is where the doorway gets installed."
-  - q: "What if I miss a day?"
-    a: "The 2-day rule (also from Clear) applies: never miss twice in a row. One miss is a data point. Two misses is a pattern. The protocol is designed for misses — week 4 of any long protocol is dedicated to resilience for exactly this reason."
   - q: "What is the difference between an identity challenge and a goal?"
     a: "A goal is an outcome ('run a marathon'). An identity is a way of being ('I am a runner'). The goal is finished in 26.2 miles. The identity is reinforced every time you train, eat, sleep, and think like a runner — forever. Identity lasts; goals are checkpoints."
   - q: "Can I run more than one identity challenge at the same time?"

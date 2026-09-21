@@ -39,8 +39,6 @@ faq:
     a: "No. Discipline is the opposite of self-punishment. Self-punishment tears the person down. Discipline builds the person up. The hard part of discipline is the cost, not the suffering. The hard part of punishment is the suffering, with no constructive cost. A 5 AM workout is discipline if it serves the person you are becoming. The same 5 AM workout is punishment if it serves only to make you feel bad about the person you currently are."
   - q: "How do I tell if my discipline is actually punishment?"
     a: "Three tests. (1) Direction test: is the work building something or tearing something down? (2) Identity test: is the work voting for the person you want to become, or punishing the person you currently are? (3) Recovery test: does the work include rest, nourishment, and kindness, or only more suffering? If the answer to any of these is punishment, the system is broken. The article explains each test in detail and gives the recovery protocol for systems that have crossed the line."
-  - q: "Can discipline be kind?"
-    a: "Yes — and it must be. Discipline that is not kind is punishment, regardless of the name. The kind discipline includes rest days, the 2-day rule, the 2-minute doorway, and the explicit recognition that the person doing the work is more important than the work being done. The cruel version of discipline treats the work as the only thing that matters and the person as a vehicle for the work. The kind version treats the person as the only thing that matters and the work as a service to the person."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
