@@ -34,6 +34,15 @@ faq:
     a: "Choose someone who is also building a habit, not someone who is already perfect. The best accountability partners are at the same level of commitment, not above it. Set a specific promise (not 'I'll try to exercise more' but 'I'll walk every day at 6 AM'). The specificity is what makes the accountability real."
   - q: "What if my accountability partner quits?"
     a: "Then you continue alone. The habit was never about the partner — it was about the promise. The partner is a training wheel. The promise is the structure. If the partner quits, you keep the promise to yourself. The habit survives. The community may not, but the discipline does."
+faqFr:
+  - q: "La redevabilité aide-t-elle vraiment pour les habitudes ?"
+    a: "Oui. Les recherches montrent que les personnes qui s'engagent sur une habitude avec un partenaire ont 2 à 3 fois plus de chances de tenir. L'engagement social crée une redevabilité différente de l'autodiscipline. Quand on manque une promesse faite à soi-même, on ressent de la déception. Quand on manque une promesse faite à un ami, on ressent de la honte. L'émotion la plus forte protège l'habitude."
+  - q: "Qu'est-ce que la méthode de la chaîne ?"
+    a: "La stratégie de Jerry Seinfeld : marquer un X sur un calendrier chaque jour où vous faites votre habitude. L'objectif est de ne jamais briser la chaîne de X. Elle fonctionne par aversion de la perte, preuve visuelle et élan. Plus la chaîne est longue, plus il est difficile de la rompre."
+  - q: "Comment trouver un partenaire de redevabilité ?"
+    a: "Choisissez quelqu'un qui construit lui aussi une habitude, pas quelqu'un qui est déjà parfait. Les meilleurs partenaires sont au même niveau d'engagement, pas au-dessus. Fixez une promesse précise (non pas « je vais essayer de bouger plus », mais « je marcherai chaque jour à 6 h »). C'est la précision qui rend la redevabilité réelle."
+  - q: "Et si mon partenaire abandonne ?"
+    a: "Alors vous continuez seul. L'habitude n'a jamais concerné le partenaire — elle concernait la promesse. Le partenaire est une roue stabilisatrice. La promesse est la structure. Si le partenaire part, vous tenez la promesse faite à vous-même. L'habitude survit. La communauté, peut-être pas ; la discipline, si."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

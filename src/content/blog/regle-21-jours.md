@@ -34,6 +34,15 @@ faq:
     a: "No. Counting days creates a finish-line mindset. Habits are about building a lifestyle, not reaching a goal. Focus on the system, not the timeline. The 2-day rule (never miss twice) is more useful than day-counting."
   - q: "What should I do instead of counting 21 days?"
     a: "Focus on the 2-minute rule for starting, the 2-day rule for recovery, and identity-based voting for long-term motivation. Track whether you showed up, not how many days you've completed."
+faqFr:
+  - q: "Combien de temps faut-il vraiment pour former une habitude ?"
+    a: "Les travaux de Lally et al. (2009) donnent 66 jours en moyenne, avec une plage de 18 à 254 jours selon la complexité de l'habitude. Les habitudes simples comme boire de l'eau prennent environ 18 jours. Les habitudes complexes comme l'exercice prennent environ 254 jours. Il n'existe pas de calendrier universel."
+  - q: "D'où vient le mythe des 21 jours ?"
+    a: "Du Dr Maxwell Maltz, chirurgien esthétique dans les années 1960, qui a observé que les amputés mettaient environ 21 jours à s'adapter à la perte d'un membre. Cette observation a été mal appliquée à la formation des habitudes puis popularisée par la culture du développement personnel. Le contexte d'origine parlait d'adaptation, pas d'habitude."
+  - q: "Compter les jours aide-t-il à tenir une habitude ?"
+    a: "Non. Compter les jours crée un état d'esprit de ligne d'arrivée. Une habitude, c'est la construction d'un mode de vie, pas l'atteinte d'un objectif. Concentrez-vous sur le système, pas sur le calendrier. La règle des 2 jours (ne jamais rater deux fois) est plus utile que le comptage."
+  - q: "Que faire à la place de compter 21 jours ?"
+    a: "Concentrez-vous sur la règle des 2 minutes pour démarrer, la règle des 2 jours pour se rétablir, et le vote identitaire pour la motivation longue. Mesurez si vous étiez présent, pas combien de jours vous avez accumulés."
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

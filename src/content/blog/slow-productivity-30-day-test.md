@@ -35,6 +35,15 @@ faq:
     a: "Start by reducing your active projects to 2-3 high-impact ones. Decline new commitments for 30 days. Notice how your work quality improves. Then renegotiate your ongoing responsibilities from a position of strength, not busyness."
   - q: "What if I work for someone else and can't choose my projects?"
     a: "You can still apply the principle: protect deep work blocks, refuse excessive meetings, and obsesses over quality in your 2-3 most important deliverables. The principle of slow productivity applies even when you can't fully control your project load."
+faqFr:
+  - q: "Qu'est-ce que la productivité lente ?"
+    a: "La philosophie de Cal Newport : faire moins de choses, travailler à un rythme naturel, et être obsédé par la qualité. Trois principes centraux. Elle rejette l'hypothèse de la culture du rush selon laquelle plus de projets plus d'heures = de meilleurs résultats. La recherche montre l'inverse : moins d'engagements, une concentration plus profonde, des carrières plus longues et durables."
+  - q: "La productivité lente, est-ce simplement faire moins ?"
+    a: "Non. C'est faire moins de choses avec plus de profondeur. La différence est cruciale. Faire moins veut dire moins de tâches. Faire moins de choses veut dire moins de projets actifs — la recommandation exacte de Cal Newport est de ne pas dépasser 2 à 3 grands projets à la fois."
+  - q: "Comment appliquer la productivité lente quand on a un emploi ?"
+    a: "Commencez par réduire vos projets actifs à 2 ou 3 à fort impact. Refusez tout nouvel engagement pendant 30 jours. Remarquez comment la qualité de votre travail progresse. Puis renégociez vos responsabilités permanentes depuis une position de force, pas de saturation."
+  - q: "Et si je travaille pour quelqu'un d'autre et ne choisis pas mes projets ?"
+    a: "Vous pouvez quand même appliquer le principe : protéger des blocs de travail profond, refuser les réunions excessives et soigner obsessionnellement la qualité de vos 2 ou 3 livrables les plus importants. Le principe de la productivité lente tient même quand on ne maîtrise pas complètement sa charge de projets."
 relatedArticles:
   - "deep-work-ritual"
   - "deep-work-focus"

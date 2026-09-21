@@ -36,6 +36,15 @@ faq:
     a: "Yes. Research from Stanford, Harvard, and the NIH shows that controlled breathing patterns directly affect the autonomic nervous system, reducing cortisol and activating the prefrontal cortex. It's not woo-woo — it's measurable physiology."
   - q: "How often should I do nervous system resets?"
     a: "Three times minimum: once in the morning (to start regulated), once before deep work (to enter focus), once before bed (to support sleep). The habit compounds. After 30 days, your baseline shifts — you become calmer overall, not just in the moment."
+faqFr:
+  - q: "Pourquoi est-ce que je n'arrive pas à me concentrer, même quand je le veux ?"
+    a: "La plupart des problèmes de concentration ne sont pas des problèmes de volonté — ce sont des problèmes de système nerveux. Quand votre corps est en mode combat-fuite (stress chronique, mauvais sommeil, surcharge d'écrans), votre cortex préfrontal — la zone responsable de la concentration — est mis en sourdine. On ne pense pas son chemin jusqu'à la concentration. Il faut d'abord calmer le corps."
+  - q: "Quel est le moyen le plus rapide de réinitialiser mon système nerveux ?"
+    a: "Des expirations lentes. Plus précisément : expirer plus longtemps qu'inspirer (le rythme 4-7-8 : inspirer 4 secondes, retenir 7, expirer 8). Cela active le système nerveux parasympathique en 60 à 90 secondes. C'est l'outil le plus rapide, gratuit et portable qui existe."
+  - q: "Le travail respiratoire aide-t-il vraiment la productivité ?"
+    a: "Oui. Des recherches de Stanford, Harvard et des NIH montrent que des rythmes respiratoires contrôlés agissent directement sur le système nerveux autonome, réduisent le cortisol et activent le cortex préfrontal. Ce n'est pas ésotérique — c'est de la physiologie mesurable."
+  - q: "À quelle fréquence faire ces réinitialisations ?"
+    a: "Trois fois au minimum : une le matin (démarrer régulé), une avant le travail profond (entrer en concentration), une avant de dormir (favoriser le sommeil). L'habitude se compose. Après 30 jours, votre ligne de base se déplace — vous devenez plus calme en général, pas seulement sur l'instant."
 relatedArticles:
   - "i-tested-12-morning-routines"
   - "5-minute-morning-habit"

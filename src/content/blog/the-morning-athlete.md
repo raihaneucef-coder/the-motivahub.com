@@ -36,6 +36,15 @@ faq:
     a: "No. Most coaches recommend 3-4 sessions per week with active recovery on other days. The morning athlete principle is about doing something (even small) every morning. Walk, stretch, mobility — something. Build the daily movement first."
   - q: "What if I feel terrible after early workouts?"
     a: "That's a sign of wrong intensity, not wrong timing. 5 AM workouts should be moderate to hard, but not all-out. If you're wrecked by 9 AM, you're going too hard. Moderate intensity morning workouts energize rather than deplete."
+faqFr:
+  - q: "5 h du matin est-il vraiment la meilleure heure pour s'entraîner ?"
+    a: "La recherche suggère que c'est l'heure la plus régulière. La plupart de ceux qui s'entraînent à 5 h tiennent 2 à 3 fois plus longtemps que les sportifs de l'après-midi. La raison n'a rien de magique — elle est structurelle. Une séance du matin ne peut pas être annulée par une réunion, une obligation familiale ou un « j'ai eu une longue journée ». Elle est protégée par l'heure elle-même."
+  - q: "Et si je ne suis pas une personne du matin ?"
+    a: "Alors 5 h n'est pas pour vous. Le principe est : choisissez une heure protégée des interruptions. Pour certains c'est 5 h, pour d'autres 6 h 30. La « morning athlete » parle de régularité, pas d'une heure précise. Trouvez ce qui marche pour vous."
+  - q: "Faut-il s'entraîner tous les jours ?"
+    a: "Non. La plupart des coachs recommandent 3 à 4 séances par semaine avec une récupération active les autres jours. Le principe de l'athlète du matin, c'est de faire quelque chose (même peu) chaque matin. Marcher, s'étirer, mobilité — quelque chose. Construisez d'abord le mouvement quotidien."
+  - q: "Et si je me sens horrible après une séance matinale ?"
+    a: "C'est le signe d'une mauvaise intensité, pas d'une mauvaise heure. Une séance à 5 h doit être modérée à difficile, jamais maximale. Si vous êtes détruit à 9 h, vous en faites trop. Une séance matinale d'intensité modérée donne de l'énergie au lieu d'en prendre."
 relatedArticles:
   - "i-tested-12-morning-routines"
   - "5-minute-morning-habit"
