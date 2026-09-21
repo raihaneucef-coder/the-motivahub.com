@@ -202,6 +202,6 @@ I tried to stop scrolling without any negative consequence. There was no cost. T
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p65">---</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start designing against it.</strong> To see how the reverse four laws fit into the larger system of identity and habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to breaking bad habits instead of building good ones.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start designing against it.</strong> To see how the reverse four laws fit into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to breaking bad habits instead of building good ones.</div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p67"><em>Last updated: September 12, 2026 — added personal 30-day scrolling habit break, the reverse four laws protocol, and the identity-based framework for breaking habits.</em></div>

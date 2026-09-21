@@ -214,6 +214,6 @@ I never tracked where my attention went. The theft was invisible. The audit made
 
 <div data-i18n-html="article_attention-as-asset_p73">---</div>
 
-<div data-i18n-html="article_attention-as-asset_p74"><strong>Attention is the new currency.</strong> To see how to budget it alongside your habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
+<div data-i18n-html="article_attention-as-asset_p74"><strong>Attention is the new currency.</strong> To see how to budget it alongside your habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 
 <div data-i18n-html="article_attention-as-asset_p75"><em>Last updated: September 12, 2026 — added personal attention audit story, specific numbers, and the single-tab protocol.</em></div>

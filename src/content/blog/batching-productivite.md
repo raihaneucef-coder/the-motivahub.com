@@ -206,6 +206,6 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 
 <div data-i18n-html="article_batching-productivite_p70">---</div>
 
-<div data-i18n-html="article_batching-productivite_p71"><strong>Batching is the gateway to deep work.</strong> To see how to protect that deep work with the 2-minute rule and the 2-day rule, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
+<div data-i18n-html="article_batching-productivite_p71"><strong>Batching is the gateway to deep work.</strong> To see how to protect that deep work with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 
 <div data-i18n-html="article_batching-productivite_p72"><em>Last updated: September 12, 2026 — added personal 30-day batching experiment, specific time blocks, and the communication batch protocol.</em></div>

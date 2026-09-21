@@ -190,6 +190,6 @@ relatedArticles:
 
 <div data-i18n-html="article_athlete-discipline_p69">---</div>
 
-<div data-i18n-html="article_athlete-discipline_p70"><strong>Sport is a mirror.</strong> To see the same discipline applied to writing and creativity, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
+<div data-i18n-html="article_athlete-discipline_p70"><strong>Sport is a mirror.</strong> To see the same discipline applied to writing and creativity, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
 
 <div data-i18n-html="article_athlete-discipline_p71"><em>Last updated: September 12, 2026 — added personal half marathon training story, 2-day rule for sports, and the schedule-based training system.</em></div>

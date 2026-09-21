@@ -241,6 +241,6 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-auto-sabotage_p85">---</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p86"><strong>Self-sabotage is not a character flaw. It is a system failure.</strong> To see the system repaired with the 2-minute rule and the 2-day rule, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of moments.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p86"><strong>Self-sabotage is not a character flaw. It is a system failure.</strong> To see the system repaired with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of moments.</div>
 
 <div data-i18n-html="article_arreter-auto-sabotage_p87"><em>Last updated: September 12, 2026 — added personal launch failure story, 3-step recovery protocol, and the identity-alignment framework.</em></div>

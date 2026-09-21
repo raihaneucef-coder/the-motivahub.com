@@ -164,6 +164,6 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p57">---</div>
 
-<div data-i18n-html="article_body-votes-first_p58"><strong>The body votes first.</strong> To see how to protect that vote with the 2-minute rule and the 2-day rule, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
+<div data-i18n-html="article_body-votes-first_p58"><strong>The body votes first.</strong> To see how to protect that vote with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
 
 <div data-i18n-html="article_body-votes-first_p59"><em>Last updated: September 12, 2026 — added personal half marathon training story, specific body-mind connection examples, and the identity file framework.</em></div>

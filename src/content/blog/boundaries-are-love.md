@@ -190,6 +190,6 @@ I used to say yes when people pushed back. The fix: hold the boundary. The peopl
 
 <div data-i18n-html="article_boundaries-are-love_p69">---</div>
 
-<div data-i18n-html="article_boundaries-are-love_p70"><strong>Boundaries are love in action.</strong> To see how boundaries fit into the larger system of identity and habits, read our <a href="/journal/two-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to relationships instead of habits.</div>
+<div data-i18n-html="article_boundaries-are-love_p70"><strong>Boundaries are love in action.</strong> To see how boundaries fit into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to relationships instead of habits.</div>
 
 <div data-i18n-html="article_boundaries-are-love_p71"><em>Last updated: September 12, 2026 — added personal story about saying yes to every request, the 6-month resentment buildup, and the three rules of healthy boundaries.</em></div>
