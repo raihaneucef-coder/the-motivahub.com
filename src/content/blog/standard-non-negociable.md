@@ -6,8 +6,8 @@ descriptionFr: "Les standards non-négociables sont vos lignes rouges. Apprenez 
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/standard-non-negociable.jpg"
-imageAlt: "Youssef Raihane - standard non negociable concept"
+image: "/images/blog/standard-non-negociable-2.jpg"
+imageAlt: "A loaded barbell with heavy blue plates resting in the rack"
 topic: "Discipline"
 keywords:
   - "standard"

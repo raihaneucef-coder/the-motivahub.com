@@ -7,8 +7,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Habits"
 readTime: "4 min read"
-image: "/images/blog/small-wins-big-life.jpg"
-imageAlt: "Youssef Raihane - small wins big life concept"
+image: "/images/blog/small-wins-big-life-2.jpg"
+imageAlt: "Hands stacking coins into small growing towers"
 featured: false
 draft: false
 keywords:

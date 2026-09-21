@@ -6,8 +6,8 @@ descriptionFr: "Un soi sécurisé est la base d'une vie épanouie. Apprenez à d
 pubDate: 2026-08-12
 updatedDate: 2026-09-12
 readTime: "7 MIN"
-image: "/images/blog/secure-self.jpg"
-imageAlt: "Youssef Raihane - secure self concept"
+image: "/images/blog/secure-self-2.jpg"
+imageAlt: "A happy woman with glasses hugging a pillow on the couch"
 topic: "Personal Growth"
 keywords:
   - "love"

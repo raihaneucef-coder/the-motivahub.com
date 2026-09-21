@@ -6,8 +6,8 @@ descriptionFr: "La procrastination n'est pas de la paresse. Découvrez les vraie
 pubDate: 2026-08-16
 updatedDate: 2026-09-12
 readTime: "6 MIN"
-image: "/images/blog/real-reason-you-procrastinate.jpg"
-imageAlt: "Youssef Raihane - real reason you procrastinate concept"
+image: "/images/blog/real-reason-you-procrastinate-2.jpg"
+imageAlt: "A person hidden under the duvet scrolling their phone in bed"
 topic: "Productivity"
 keywords:
   - "procrastination"

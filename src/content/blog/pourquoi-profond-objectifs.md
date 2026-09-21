@@ -6,8 +6,8 @@ descriptionFr: "Chaque objectif a un but plus profond. Trouver ton pourquoi prof
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/pourquoi-profond-objectifs.jpg"
-imageAlt: "Youssef Raihane - pourquoi profond objectifs concept"
+image: "/images/blog/pourquoi-profond-objectifs-2.jpg"
+imageAlt: "A woman writing in her journal with a cup of coffee in warm morning light"
 topic: "Goals"
 keywords:
   - "deep"

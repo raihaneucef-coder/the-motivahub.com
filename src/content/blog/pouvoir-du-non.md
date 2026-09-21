@@ -6,8 +6,8 @@ descriptionFr: "Chaque oui est un non à autre chose. Découvre pourquoi dire no
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
-image: "/images/blog/pouvoir-du-non.jpg"
-imageAlt: "Youssef Raihane - pouvoir du non concept"
+image: "/images/blog/pouvoir-du-non-2.jpg"
+imageAlt: "A woman raising her open palm toward the camera in a firm no gesture"
 topic: "Discipline"
 keywords:
   - "every"
