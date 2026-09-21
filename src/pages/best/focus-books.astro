@@ -3,7 +3,6 @@ import Layout from "../../layouts/Layout.astro";
 import { books } from "../../data/books";
 import BookCard from "../../components/BookCard.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
-import AdSlot from "../../components/AdSlot.astro";
 
 const focusBooks = books.filter((b) => b.category === "FOCUS" || b.category === "PRODUCTIVITY");
 const title = "Best Focus & Deep Work Books 2026 — Motiva Hub";
@@ -92,8 +91,6 @@ const description = "The best books on focus, deep work, and concentration. Trai
           </div>
         ))}
       </div>
-
-      <AdSlot format="horizontal" />
 
       <AffiliateBanner variant="footer" lang="en" />
     </div>

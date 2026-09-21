@@ -4,7 +4,6 @@ import Link from "../../../../components/Link.astro";
 import { books } from "../../../../data/books";
 import BookCard from "../../../../components/BookCard.astro";
 import AffiliateBanner from "../../../../components/AffiliateBanner.astro";
-import AdSlot from "../../../../components/AdSlot.astro";
 
 const focusBooks = books.filter((b) => b.category === "FOCUS" || b.category === "PRODUCTIVITY");
 const title = "Meilleurs Livres sur la Concentration et le Deep Work 2026";
@@ -93,8 +92,6 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
           </div>
         ))}
       </div>
-
-      <AdSlot format="horizontal" />
 
       <AffiliateBanner variant="footer" lang="fr" />
     </div>
