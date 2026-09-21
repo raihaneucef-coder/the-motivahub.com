@@ -35,7 +35,7 @@ faq:
   - q: "Do I need to read 30 minutes a day?"
     a: "No. The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit. Research on micro-habits shows small daily actions stick better than longer weekly ones."
   - q: "What if I read and don't remember?"
-    a: "You will remember 20-30% of what you read, even without notes. The act of reading trains your attention and vocabulary more than memory. For retention, take 2 minutes after each session to write down the one one idea."
+    a: "You will remember 20-30% of what you read, even without notes. The act of reading trains your attention and vocabulary more than memory. For retention, take 2 minutes after each session to write down the single key idea."
 faqFr:
   - q: "Combien de livres lire par an ?"
     a: "Les recherches indiquent que 24 à 30 livres par an est le point optimal pour la plupart des professionnels. Moins de 6 et vous passez à côté de la connaissance composée. Plus de 60 et la rétention souffre. Visez 2 à 3 livres par mois, terminés, pas commencés."

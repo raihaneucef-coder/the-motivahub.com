@@ -30,7 +30,7 @@ faq:
   - q: "Is the 40% rule scientifically proven?"
     a: "Partially. Dr. Tim Noakes' Central Governor Theory (2004) proved the brain limits muscular exertion before muscles are truly depleted. The 40% number itself is Goggins' framing, not exact science — but the principle (most 'walls' are mental, not physical) is well-documented."
   - q: "How do I know when to push vs. when to rest?"
-    a: "Rule of thumb: if the wall is accompanied you in emotion the (you 'want' to stop), it's likely mental. If you have physical symptoms (sharp pain, dizziness, injury), respect your body. The 40% rule is for mental resistance, not physical damage."
+    a: "Rule of thumb: if the wall shows up as a feeling (you 'want' to stop), it's likely mental. If you have physical symptoms (sharp pain, dizziness, injury), respect your body. The 40% rule is for mental resistance, not physical damage."
   - q: "Can I apply the 40% rule to mental work?"
     a: "Yes. The same principle applies: when you 'can't focus anymore,' you usually can — for 10-20 more minutes. Schedule deep work blocks for 90 minutes, then negotiate 10 more minutes when you hit the wall."
 relatedArticles:

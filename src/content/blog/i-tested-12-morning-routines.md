@@ -29,7 +29,7 @@ tags:
 wordCount: 1999
 faq:
   - q: "What is the best morning routine?"
-    a: "There is no one-size-fits-all. The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a90-minute ritual that requires quitting your job."
+    a: "There is no one-size-fits-all. The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a 90-minute ritual that requires quitting your job."
   - q: "Should I wake up at 5 AM?"
     a: "Not necessarily. Chronotype research shows your best wake-up time depends on genetics. The right question is: how soon after waking can you have a productive hour? For some people, that's 5 AM. For others, it's 7 or 8 AM."
   - q: "How long does it take to form a morning routine?"
