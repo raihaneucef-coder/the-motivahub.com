@@ -9,6 +9,8 @@ reels/output/
 *.mp3
 *.mov
 *.avi
+!public/videos/*.mp4
+!public/videos/*.webm
 .env*
 test-results/
 tests/screenshots/
