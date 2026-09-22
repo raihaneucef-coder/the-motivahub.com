@@ -235,3 +235,5 @@ relatedArticles:
 <div data-i18n-html="article_2-minute-rule-system_p87">- <a href="/journal/missed-day-protocol/">What to Do When You Miss a Day (Without Quitting Everything)</a> — The 3-step recovery protocol for the day after a miss.
 - <a href="/journal/morning-vs-night/">Morning vs Night: Which Discipline Actually Sticks?</a> — The chronotype test that tells you which discipline routine will survive.
 - <a href="/journal/discipline-vs-punishment/">The Difference Between Discipline and Punishment</a> — Three tests to tell whether you are building or breaking.</div>
+
+<div data-i18n-html="article_2-minute-rule-system_p88"><strong>How this page differs:</strong> here the rule is treated as a complete habit system. If you want the evidence and a step-by-step week, go to the <a href="/journal/two-minute-rule-guide/">2-Minute Rule: 7-Day Protocol &amp; Full Guide</a>; for a gentler just-start introduction, see <a href="/journal/regle-deux-minutes/">Building Better Habits in 120 Seconds</a>.</div>

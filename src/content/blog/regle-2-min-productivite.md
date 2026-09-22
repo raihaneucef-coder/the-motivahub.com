@@ -23,6 +23,25 @@ tags:
 wordCount: 322
 bookSlug: atomic-habits
 
+faq:
+  - q: "What is the 2-minute rule for productivity?"
+    a: "A task-management rule from David Allen's Getting Things Done: if an action will take less than two minutes to complete, do it immediately instead of writing it down, scheduling it or deferring it. The aim is to stop small open tasks from piling up into an overwhelming list."
+  - q: "Where does the 2-minute rule come from?"
+    a: "From productivity consultant David Allen's book Getting Things Done (2001). It is a rule about clearing tiny loose ends — what Allen calls 'open loops' — and belongs to task hygiene, not habit formation."
+  - q: "Is David Allen's 2-minute rule the same as the Atomic Habits 2-minute rule?"
+    a: "No. They share a name but solve different problems. David Allen's version means 'if a task takes under two minutes, do it now' — handling small finished actions. James Clear's Atomic Habits version means 'shrink any new habit to a two-minute version' so that starting is easy. This article covers the productivity rule; the habit-starter is a separate technique."
+  - q: "When should you not use the 2-minute rule?"
+    a: "When 'two minutes' is optimistic. If a one-line reply turns into a fifteen-minute thread, capture it as a task and schedule it instead. Use the rule to clear genuinely tiny actions, and batch or book anything that is going to expand."
+faqFr:
+  - q: "Qu'est-ce que la règle des 2 minutes pour la productivité ?"
+    a: "Une règle de gestion des tâches issue de Getting Things Done de David Allen : si une action prend moins de deux minutes, faites-la immédiatement au lieu de la noter, de la planifier ou de la reporter. Le but est d'empêcher les petites tâches en suspens de s'accumuler en une liste écrasante."
+  - q: "D'où vient la règle des 2 minutes ?"
+    a: "Du livre Getting Things Done (2001) du consultant en productivité David Allen. C'est une règle qui consiste à éliminer les minuscules fins en suspens — ce qu'Allen appelle les « boucles ouvertes » — et elle relève de l'hygiène des tâches, pas de la formation des habitudes."
+  - q: "La règle des 2 minutes de David Allen est-elle la même que celle d'Atomic Habits ?"
+    a: "Non. Elles portent le même nom mais résolvent des problèmes différents. La version de David Allen signifie « si une tâche prend moins de deux minutes, faites-la maintenant » — traiter des actions terminées. La version d'Atomic Habits de James Clear signifie « réduisez toute nouvelle habitude à une version de deux minutes » pour que démarrer soit facile. Cet article traite de la règle de productivité ; le déclencheur d'habitude est une technique distincte."
+  - q: "Quand ne pas utiliser la règle des 2 minutes ?"
+    a: "Quand « deux minutes » est optimiste. Si une réponse d'une ligne se transforme en fil de quinze minutes, notez-la comme tâche et planifiez-la. Utilisez la règle pour éliminer les actions réellement minuscules, et regroupez ou planifiez tout ce qui est appelé à s'étendre."
+
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

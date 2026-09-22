@@ -42,12 +42,20 @@ relatedArticles:
 
 <div data-i18n-html="article_earn-keep-grow_p5"><strong>Money has three jobs, and each demands a different discipline.</strong> Earn it, keep it, grow it. Most of us are fluent in one and illiterate in two. That is why a raise rarely feels like freedom for long.</div>
 
+<div data-i18n-html="article_earn-keep-grow_p11"><h2>1. Earn It</h2></div>
+
 <div data-i18n-html="article_earn-keep-grow_p6"><strong>To earn</strong> is to solve a problem for someone who will pay. The better the problem and the clearer your solution, the higher the price. This is a craft, not a lottery. Read one book on your skill, do one uncomfortable sales conversation a week, raise your price by ten percent and watch what happens. The market answers quickly when you do.</div>
 
+<div data-i18n-html="article_earn-keep-grow_p12"><h2>2. Keep It</h2></div>
+
 <div data-i18n-html="article_earn-keep-grow_p7"><strong>To keep</strong> is to protect what you earned from the person most likely to spend it — you, tired, at night, scrolling. Keeping is not about stinginess; it is about giving every dirham a job before the month begins. Pay yourself first, automate savings on payday, and make spending a conscious choice rather than a default drift.</div>
+
+<div data-i18n-html="article_earn-keep-grow_p13"><h2>3. Grow It</h2></div>
 
 <div data-i18n-html="article_earn-keep-grow_p8"><strong>To grow</strong> is to make yesterday's work pay again today. A skill compounds when you reinvest its earnings — a course, a tool, an index fund that quietly buys the world's best companies while you sleep. Growing is slow at first and then it is not. That is why most quit before the curve bends.</div>
 
 <div data-i18n-html="article_earn-keep-grow_p9">Try a simple audit this week. Look at last month's income and ask: which of the three jobs got my best energy? Earning, keeping, or growing? Then give the weakest one two hours of deliberate practice.</div>
 
 <div data-i18n-html="article_earn-keep-grow_p10">Freedom is not a number in an account. It is the day you can say: I can earn, I can keep, and what I keep is already growing — even while I rest.</div>
+
+<div data-i18n-html="article_earn-keep-grow_p14"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/regle-50-30-20/">The 50/30/20 budget rule</a> · <a href="/journal/invest-like-beginner/">How to start investing as a beginner</a> · <a href="/journal/histoire-concierge-millionnaire/">The janitor who became a millionaire</a></div>
