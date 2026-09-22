@@ -550,8 +550,85 @@ em, i { font-style: normal; font-family: inherit; }
 
 /* --- 6. Header (Dark) --- */
 .site-header.scrolled { background: rgba(10, 10, 10, 0.95) !important; border-bottom-color: #2a2a2a !important; }
-.logo { color: #ff4d00 !important; font-family: "Space Grotesk", sans-serif !important; }
+.logo { color: #ff4d00 !important; font-family: "Space Grotesk", sans-serif !important; display: inline-flex !important; align-items: center !important; gap: 8px !important; }
 .logo-word em { color: #f0f0f0 !important; font-style: normal !important; }
+
+/* --- 6b. Animated Orbital Logo Mark --- */
+.logo-mark {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.logo-core {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 6px;
+  height: 6px;
+  margin: -3px 0 0 -3px;
+  border-radius: 50%;
+  background: #ff4d00;
+  box-shadow: 0 0 6px #ff4d00, 0 0 12px rgba(255,77,0,0.4);
+}
+.logo-ring {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 1px solid rgba(255,77,0,0.5);
+  border-radius: 50%;
+  background: transparent;
+}
+.logo-ring--1 {
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -10px;
+  transform: rotateX(60deg) rotateZ(0deg);
+  animation: orbit1 4s linear infinite;
+}
+.logo-ring--2 {
+  width: 26px;
+  height: 26px;
+  margin: -13px 0 0 -13px;
+  transform: rotateX(60deg) rotateZ(60deg);
+  animation: orbit2 6s linear infinite;
+  border-color: rgba(255,77,0,0.3);
+}
+.logo-dot {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: #ff6a2a;
+  top: 50%;
+  left: 50%;
+}
+.logo-dot--1 {
+  animation: dot1 4s linear infinite;
+}
+.logo-dot--2 {
+  animation: dot2 6s linear infinite;
+  background: #f0f0f0;
+  width: 2px;
+  height: 2px;
+}
+@keyframes orbit1 {
+  from { transform: rotateX(60deg) rotateZ(0deg); }
+  to { transform: rotateX(60deg) rotateZ(360deg); }
+}
+@keyframes orbit2 {
+  from { transform: rotateX(60deg) rotateZ(60deg); }
+  to { transform: rotateX(60deg) rotateZ(420deg); }
+}
+@keyframes dot1 {
+  from { transform: rotateX(60deg) rotateZ(0deg) translateX(10px); }
+  to { transform: rotateX(60deg) rotateZ(360deg) translateX(10px); }
+}
+@keyframes dot2 {
+  from { transform: rotateX(60deg) rotateZ(60deg) translateX(13px); }
+  to { transform: rotateX(60deg) rotateZ(420deg) translateX(13px); }
+}
 .menu-btn { color: #ff4d00 !important; border-color: #333 !important; background: rgba(255,255,255,0.05) !important; }
 .menu-btn .menu-btn-bars span { background: #f0f0f0 !important; }
 .menu-btn:hover { background: #ff4d00 !important; color: #fff !important; border-color: #ff4d00 !important; }
