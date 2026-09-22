@@ -673,14 +673,35 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 /* Mobile: lighter overlay + figure centered */
 @media (max-width: 768px) {
   .hero-portrait {
-    min-height: 85vh !important;
-    min-height: 85svh !important;
+    min-height: 100vh !important;
+    min-height: 100svh !important;
   }
   .hero-video {
-    object-position: center 35% !important;
+    object-position: center 15% !important;
   }
   .hero-portrait-overlay {
-    background: linear-gradient(135deg, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.7) 100%) !important;
+    background: linear-gradient(180deg, rgba(10,10,10,0.2) 0%, rgba(10,10,10,0.6) 50%, rgba(10,10,10,0.9) 100%) !important;
+  }
+  .hero-portrait .hero-title {
+    font-size: clamp(2rem, 8vw, 2.8rem) !important;
+    line-height: 1.15 !important;
+  }
+  .hero-portrait .hero-subtitle {
+    font-size: 0.95rem !important;
+    max-width: 100% !important;
+  }
+  .hero-content {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .hero-btns .btn {
+    width: 100% !important;
+    justify-content: center !important;
+  }
+  .hero-meta {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 16px !important;
   }
 }
 .hero-portrait .hero-title {
