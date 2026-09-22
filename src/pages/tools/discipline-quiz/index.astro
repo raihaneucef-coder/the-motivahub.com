@@ -244,7 +244,7 @@ const archetypesFr = {
       <p class="kicker" data-i18n="quizKicker">Free Tool · 2-Minute Quiz</p>
       <h1 data-i18n-html="quizTitle">What's Your <em>Discipline Type?</em></h1>
       <p class="quiz-sub" data-i18n="quizSubtitle">5 questions. 4 archetypes. One custom protocol. Find out why most productivity advice fails you — and what to do instead.</p>
-      <p class="page-head-tagline">Small tools. Daily use. Real change.</p>
+      <p class="page-head-tagline" data-i18n="quizTagline">Small tools. Daily use. Real change.</p>
     </div>
   </section>
 
@@ -252,7 +252,7 @@ const archetypesFr = {
     <div class="container">
       <div class="quiz-shell" id="quiz">
         <div class="quiz-progress">
-          <span id="quiz-progress-text" data-i18n="quizProgress">Question 1 of 5</span>
+          <span id="quiz-progress-text">Question 1 of 5</span>
           <div class="quiz-progress-bar"><div class="quiz-progress-fill" id="quiz-progress-fill"></div></div>
         </div>
 
@@ -389,7 +389,12 @@ const archetypesFr = {
 <script define:vars={{ questions, archetypes, questionsFr, archetypesFr }}>
 (function () {
   const i18nDict = window.i18nDict || {};
-  const lang = localStorage.getItem("lang") || "en";
+  const lang = (function(){
+    const l = localStorage.getItem("lang");
+    if(l === "fr" || l === "ar") return l;
+    if(window.location.pathname.startsWith("/fr")) return "fr";
+    return "en";
+  })();
   const t = (i18nDict[lang] || i18nDict.en || {});
   const qs = lang === "fr" ? questionsFr : questions;
   const arch = lang === "fr" ? archetypesFr : archetypes;
@@ -475,7 +480,7 @@ const archetypesFr = {
 })();
 </script>
 
-<style>
+<style is:global>
   .quiz-head { padding: 80px 0 32px; text-align: center; }
   .quiz-sub { max-width: 600px; margin: 16px auto auto; color: var(--muted); font-size: 18px; line-height: 1.6; }
   .quiz-main { padding: 32px 0 64px; }
