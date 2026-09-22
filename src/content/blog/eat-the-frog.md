@@ -10,17 +10,27 @@ image: "/images/blog/eat-the-frog-2.jpg"
 imageAlt: "Frog resting on lily pads in a pond - eat the frog first"
 topic: "Productivity"
 keywords:
-  - "frog"
-  - "first"
-  - "thing"
-  - "hard"
-  - "morning"
-  - "task"
-  - "mark"
-  - "twain"
+  - "eat the frog method"
+  - "do the hard thing first"
+  - "mark twain eat the frog"
+  - "productivity morning routine"
+  - "how to tackle difficult tasks"
+  - "why do hard things first"
+  - "procrastination cure eat the frog"
+  - "most important task first"
 tags:
   - "productivity"
 wordCount: 365
+faq:
+  - q: "What does 'eat the frog' mean?"
+    a: "Based on Mark Twain's quote: if your job is to eat a frog, do it first thing and nothing worse will happen all day. In productivity, it means tackling your hardest, most dreaded task first — before email, before social media, before anything easier."
+  - q: "Why is doing the hard thing first so effective?"
+    a: "Willpower is a finite resource (ego depletion theory, Baumeister 1998). Your prefrontal cortex is freshest in the morning. By spending peak willpower on your hardest task, you eliminate 3 hours of procrastination anxiety and create momentum for everything after."
+faqFr:
+  - q: "Que signifie « avalez le crapaud » ?"
+    a: "Basé sur la citation de Mark Twain : si votre travail est de manger un crapaud, faites-le en premier et rien de pire n'arrivera de la journée. En productivité, cela signifie attaquer votre tâche la plus difficile en premier."
+  - q: "Pourquoi faire la chose difficile en premier est si efficace ?"
+    a: "La volonté est une ressource finie (théorie de l'épuisement de l'ego, Baumeister 1998). Votre cortex préfrontal est plus frais le matin. En dépensant votre pic de volonté sur votre tâche la plus dure, vous éliminez 3 heures d'anxiété de procrastination."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
