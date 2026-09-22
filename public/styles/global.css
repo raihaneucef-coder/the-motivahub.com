@@ -550,31 +550,32 @@ em, i { font-style: normal; font-family: inherit; }
 
 /* --- 6. Header (Dark) --- */
 .site-header.scrolled { background: rgba(10, 10, 10, 0.95) !important; border-bottom-color: #2a2a2a !important; }
-.logo { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
-.logo-word em { color: #ff4d00 !important; font-style: normal !important; }
-.menu-btn { color: #f0f0f0 !important; border-color: #333 !important; background: rgba(255,255,255,0.05) !important; }
+.logo { color: #ff4d00 !important; font-family: "Space Grotesk", sans-serif !important; }
+.logo-word em { color: #f0f0f0 !important; font-style: normal !important; }
+.menu-btn { color: #ff4d00 !important; border-color: #333 !important; background: rgba(255,255,255,0.05) !important; }
+.menu-btn .menu-btn-bars span { background: #f0f0f0 !important; }
 .menu-btn:hover { background: #ff4d00 !important; color: #fff !important; border-color: #ff4d00 !important; }
 .lang-switcher { border-color: #333 !important; background: rgba(255,255,255,0.05) !important; color: #f0f0f0 !important; }
-.lang-btn { color: #888 !important; }
-.lang-btn.active { color: #f0f0f0 !important; }
-.lang-sep { color: #333 !important; }
+.lang-btn { color: #f0f0f0 !important; }
+.lang-btn.active { color: #ff4d00 !important; }
+.lang-sep { color: #555 !important; }
 .header-nav a { color: #b0b0b0 !important; }
 .header-nav a:hover { color: #ff4d00 !important; }
 
 /* Fix header scoping for dark theme */
-body:has(.hero-portrait) .site-header:not(.scrolled) .logo { color: #FFFFFF }
-body:has(.hero-portrait) .site-header:not(.scrolled) .logo .logo-word em { color: #ff4d00 }
-body:has(.hero-portrait) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.3);background:rgba(255,255,255,0.08) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .logo { color: #ff4d00 }
+body:has(.hero-portrait) .site-header:not(.scrolled) .logo .logo-word em { color: #FFFFFF }
+body:has(.hero-portrait) .site-header:not(.scrolled) .menu-btn { color:#ff4d00;border-color:rgba(255,255,255,0.3);background:rgba(255,255,255,0.08) }
 body:has(.hero-portrait) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.25);background:rgba(255,255,255,0.08) }
-body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.7) }
-body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn.active { color:#FFFFFF }
+body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.85) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn.active { color:#ff4d00 }
 body:not(:has(.hero-portrait)) .site-header:not(.scrolled) { color: #f0f0f0 }
-body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .logo { color: #f0f0f0 }
-body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .logo .logo-word em { color: #ff4d00 }
-body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .menu-btn { color:#f0f0f0;border-color:#333;background:rgba(255,255,255,0.05) }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .logo { color: #ff4d00 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .logo .logo-word em { color: #f0f0f0 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .menu-btn { color:#ff4d00;border-color:#333;background:rgba(255,255,255,0.05) }
 body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-switcher { color:#f0f0f0;border-color:#333;background:rgba(255,255,255,0.05) }
-body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn { color:#888 }
-body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { color:#f0f0f0 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn { color:#f0f0f0 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { color:#ff4d00 }
 
 /* --- 7. Hero Section --- */
 .hero-portrait { background: #0a0a0a !important; color: #f0f0f0 !important; }
@@ -583,7 +584,7 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   font-weight: 700 !important;
   font-style: normal !important;
   color: #fff !important;
-  text-shadow: 0 2px 20px rgba(0,0,0,0.5) !important;
+  text-shadow: 0 2px 30px rgba(0,0,0,0.8), 0 0 60px rgba(0,0,0,0.5) !important;
   text-align: left !important;
   margin-left: 0 !important;
   max-width: none !important;
@@ -619,7 +620,7 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .hero-scroll { display: none !important; }
 .hero-corner { display: none !important; }
 .hero-portrait-overlay {
-  background: linear-gradient(135deg, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.8) 100%) !important;
+  background: linear-gradient(135deg, rgba(10,10,10,0.55) 0%, rgba(10,10,10,0.88) 100%) !important;
 }
 
 /* --- 8. Buttons --- */
