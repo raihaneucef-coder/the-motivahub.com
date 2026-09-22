@@ -12,18 +12,25 @@ imageAlt: "Lone runner on an outdoor track - run your own race"
 featured: false
 draft: false
 keywords:
-  - "race"
-  - "start"
-  - "pace"
-  - "person"
-  - "pacing"
-  - "everyone"
-  - "sprints"
-  - "running"
+  - "stop comparing yourself to others"
+  - "run your own race motivation"
+  - "comparison is the thief of joy"
+  - "focus on your own journey"
+  - "why comparison kills motivation"
+  - "personal progress vs others"
+  - "social media comparison depression"
+  - "trust your own timing"
 tags:
   - "sport"
   - "discipline"
 wordCount: 237
+faq:
+  - q: "Why should I 'run my own race'?"
+    a: "Because comparing your Chapter 1 to someone else's Chapter 20 distorts reality and drains motivation. Elite runners pace their own race — those who sprint to match others hit the wall first. Your only valid comparison is yesterday's you vs today's you."
+  - q: "How do I stop comparing myself to others on social media?"
+    a: "Unfollow accounts that trigger comparison (even friends). Mute for 30 days and notice your baseline mood. Replace scrolling with a 'progress journal' where you track YOUR improvements weekly. Social comparison is automatic — the solution is reducing inputs, not strengthening willpower."
+  - q: "What does 'don't compare your Chapter 1 to their Chapter 20' mean?"
+    a: "You see the finished product publicly but never the 19 chapters of invisible struggle, failures, and boring consistency. Someone 'overnight successful' has usually been building for 7-15 years. Judge your journey by your own pace, not their visible highlight."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

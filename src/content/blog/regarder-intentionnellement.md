@@ -10,18 +10,25 @@ image: "/images/blog/regarder-intentionnellement.jpg"
 imageAlt: "Youssef Raihane - regarder intentionnellement concept"
 topic: "Entertainment"
 keywords:
-  - "watch"
-  - "entertainment"
-  - "life"
-  - "movies"
-  - "learn"
-  - "intention"
-  - "choose"
-  - "shows"
+  - "how to watch movies intentionally"
+  - "mindful entertainment consumption"
+  - "stop binge watching netflix"
+  - "watch less but better"
+  - "intentional media consumption"
+  - "how to choose what to watch"
+  - "TV habits that waste your life"
+  - "screen time management entertainment"
 tags:
   - "entertainment"
   - "how-to"
 wordCount: 307
+faq:
+  - q: "What does it mean to watch intentionally?"
+    a: "Choosing content before you're bored, deciding what to watch rather than letting an algorithm decide. Watching with full attention (no phone scrolling simultaneously). Setting a time limit and stopping when it's met. Treating your attention as a budget, not an infinite resource."
+  - q: "How do I stop mindless binge-watching?"
+    a: "Three rules: 1) Never auto-play the next episode. 2) Watch only scheduled content (pick 2 shows/week, not 10). 3) When you catch yourself scrolling 'what to watch' for 10+ minutes, close the app — the scrolling IS the addiction, not the show. Replace with a book or walk for 20 minutes."
+  - q: "Is watching TV always a waste of time?"
+    a: "No. 30-60 minutes of quality film/series you chose and enjoyed fully is valid leisure and even stimulates creativity. The problem is passive consumption: watching for 4 hours something you didn't choose and barely remember. Quality attention to entertainment is fine; autopilot scrolling is what costs you."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

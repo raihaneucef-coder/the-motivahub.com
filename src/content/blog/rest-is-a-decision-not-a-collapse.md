@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - rest is a decision not a collapse concept"
 featured: false
 draft: false
 keywords:
-  - "rest"
-  - "because"
-  - "body"
-  - "recovery"
-  - "decision"
-  - "collapse"
-  - "difference"
-  - "recovers"
+  - "rest is productive not lazy"
+  - "how to rest without guilt"
+  - "burnout vs need for rest"
+  - "intentional rest vs collapse"
+  - "recovery days importance"
+  - "why do I feel guilty resting"
+  - "active recovery vs passive rest"
+  - "rest and productivity science"
 tags:
   - "wellness"
 wordCount: 455
+faq:
+  - q: "What's the difference between rest and collapse?"
+    a: "Rest is a decision — you stop before you're broken, recover deliberately, and return refreshed. Collapse is what happens when you ignored rest signals for weeks: you crash, feel guilty, and recover poorly. The difference is agency: one is strategic, the other is forced."
+  - q: "Why do I feel guilty when I rest?"
+    a: "Because productivity culture equates self-worth with output. Your nervous system may also be stuck in sympathetic overdrive — stillness feels unsafe when cortisol is elevated. The fix: reframe rest as part of the work (like sleep for an athlete). If you wouldn't guilt-trip a runner for recovery days, don't guilt-trip yourself."
+  - q: "How much rest do I actually need?"
+    a: "Ultradian rhythm research: a 90-minute focus cycle followed by 15-20 min down-regulation (walk, stare out window, breathe). Plus: one full day off weekly and 10-14 vacation days annually for cortisol recovery. More than 2 hours of TV scrolling is NOT rest — it's passive stimulation that doesn't restore."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

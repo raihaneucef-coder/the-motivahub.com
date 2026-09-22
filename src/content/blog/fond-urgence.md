@@ -10,17 +10,24 @@ image: "/images/blog/fond-urgence.jpg"
 imageAlt: "Youssef Raihane - fond urgence concept"
 topic: "Finance"
 keywords:
-  - "emergency"
-  - "fund"
-  - "expenses"
-  - "financial"
-  - "essential"
-  - "months"
-  - "unexpected"
-  - "keep"
+  - "emergency fund how much"
+  - "financial foundation beginner"
+  - "why you need savings before investing"
+  - "3-6 months expenses emergency fund"
+  - "how to build an emergency fund fast"
+  - "financial security starting point"
+  - "where to keep emergency fund"
+  - "emergency fund vs investing"
 tags:
   - "finance"
 wordCount: 344
+faq:
+  - q: "How much should I save for an emergency fund?"
+    a: "3 to 6 months of essential living expenses (rent, food, utilities, insurance). Start with a 1,000€ mini-fund, then build to one month, then three. A 6-month target applies if you're self-employed; employed workers can often start with 3 months due to more predictable income."
+  - q: "Where is the best place to keep an emergency fund?"
+    a: "A high-yield savings account that's separate from your checking (to reduce temptation) but accessible within 24 hours. In France: Livret A or LDDS. In the US: an online HYSA paying 4-5%. The priority is liquidity and safety, not return — this money's job is insurance, not growth."
+  - q: "Should I build an emergency fund before investing?"
+    a: "Yes. Without a cash buffer, the first car repair forces you to sell investments (possibly at a loss) or go into credit-card debt at 20%+. One month of expenses saved gives you the psychological stability to actually stay invested long-term — which is where all returns come from."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

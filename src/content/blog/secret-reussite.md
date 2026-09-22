@@ -10,17 +10,24 @@ image: "/images/blog/secret-reussite.jpg"
 imageAlt: "Youssef Raihane - secret reussite concept"
 topic: "Mindset"
 keywords:
-  - "consistency"
-  - "people"
-  - "success"
-  - "talent"
-  - "work"
-  - "every"
-  - "habit"
-  - "secret"
+  - "secret to success consistency"
+  - "why consistency beats talent"
+  - "successful people daily habits"
+  - "the real secret nobody tells you"
+  - "show up every day success"
+  - "boring consistency compound effect"
+  - "talent vs hard work research"
+  - "how successful people stay consistent"
 tags:
   - "mindset"
 wordCount: 753
+faq:
+  - q: "What is the real secret to success?"
+    a: "Boring consistency. Angela Duckworth's research on 'grit' across West Point cadets, spelling bees, and sales teams found: the #1 predictor of success isn't talent, IQ, or opportunity — it's the ability to keep doing the same work day after day when results aren't visible yet."
+  - q: "Is consistency really more important than talent?"
+    a: "Long-term, yes. The 'talent education gap' (Ericsson, deliberate practice research): talented people who practice inconsistently lose to average people who practice daily within 2-3 years. Talent gives a faster start; consistency gives a higher ceiling. Most gifted people quit before the compounding kicks in."
+  - q: "How do you stay consistent when results are invisible?"
+    a: "Track inputs, not outcomes. Count days showing up, not pounds lost or dollars earned. The 'plateau of latent potential' (James Clear): 90% of results arrive in the final 10% of time. Use a visible streak calendar — the chain itself becomes motivation once it's 20+ days long."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -10,17 +10,24 @@ image: "/images/blog/pouvoir-du-non-2.jpg"
 imageAlt: "A woman raising her open palm toward the camera in a firm no gesture"
 topic: "Discipline"
 keywords:
-  - "every"
-  - "saying"
-  - "discipline"
-  - "time"
-  - "priorities"
-  - "successful"
-  - "people"
-  - "something"
+  - "power of saying no"
+  - "why successful people say no"
+  - "how to protect your time"
+  - "saying no is a skill"
+  - "priority discipline"
+  - "stop saying yes to everything"
+  - "warren buffett saying no"
+  - "focus by eliminating distractions"
 tags:
   - "discipline"
 wordCount: 384
+faq:
+  - q: "Why is saying no a discipline skill?"
+    a: "Because every yes costs time and energy from your real priorities. Warren Buffett said 'The difference between successful people and really successful people is that really successful people say no to almost everything.' Saying no is the discipline that protects your yes."
+  - q: "How do I start saying no more?"
+    a: "Use the 24-hour rule: never commit immediately. Ask 'If this weren't already on my calendar, would I choose it today?' If no, decline. Start with low-stakes situations. Each no creates time; track the freed hours for one month and you'll see the compound effect."
+  - q: "Does saying no make you likeable?"
+    a: "Paradoxically, yes. Research on boundaries (Nedbriukh, 2022) shows people respect those with clear limits more than constant agreeable people. Chronic yes-sayers are perceived as low-commitment because their yes means nothing — it's always given."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

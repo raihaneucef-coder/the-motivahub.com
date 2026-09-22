@@ -10,17 +10,24 @@ image: "/images/blog/definition-reussite-2.jpg"
 imageAlt: "Three hikers taking their own path through a mountain landscape beside a trail signpost"
 topic: "Success"
 keywords:
-  - "success"
-  - "else"
-  - "definition"
-  - "someone"
-  - "define"
-  - "make"
-  - "successful"
-  - "want"
+  - "define your own success"
+  - "personal definition of success"
+  - "stop chasing others dreams"
+  - "what success really means"
+  - "success vs happiness"
+  - "societal expectations of success"
+  - "authentic life purpose"
+  - "living on your own terms"
 tags:
   - "success"
 wordCount: 340
+faq:
+  - q: "How do you define success for yourself?"
+    a: "Ask three questions: 1) What would I do even if no one paid or praised me? 2) Who do I admire and WHY specifically? 3) On my deathbed, what would make me say 'that was a good life'? Your answers reveal your personal success metric — which rarely matches society's template of money + status."
+  - q: "Why is copying other people's definition of success a trap?"
+    a: "Because you inherit their values without their context. A 25-year-old chasing a million-dollar goal set by a 50-year-old podcast guest is running a borrowed race. Hedonic adaptation means their reward won't satisfy YOUR needs. Research shows goal alignment with personal values predicts wellbeing 3× better than goal achievement alone."
+  - q: "Can success mean something different at different life stages?"
+    a: "Absolutely — and that's healthy. Success at 20 might be learning and adventure. At 30, building. At 40, depth and meaning. The danger is locking your definition at one stage and judging yourself by outdated metrics. Revisit your personal definition annually — your values evolve and that's not failure, it's growth."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

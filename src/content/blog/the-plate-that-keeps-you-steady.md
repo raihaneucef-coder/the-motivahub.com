@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - the plate that keeps you steady concept"
 featured: false
 draft: false
 keywords:
-  - "steady"
-  - "plate"
-  - "quarter"
-  - "keeps"
-  - "energy"
-  - "carbs"
-  - "slow"
-  - "makes"
+  - "balanced plate method"
+  - "how to build a steady energy meal"
+  - "protein carbs fat ratio plate"
+  - "food for stable blood sugar"
+  - "avoid energy crashes afternoon"
+  - "healthy eating plate formula"
+  - "meal composition for focus"
+  - "lunch that prevents afternoon slump"
 tags:
   - "nutrition"
 wordCount: 234
+faq:
+  - q: "What is the 'steady plate' method?"
+    a: "Fill half your plate with vegetables, one quarter with protein (palm-sized), one quarter with slow carbs (rice, potato, whole grain), plus a thumb of healthy fat. This ratio keeps blood sugar even, prevents 3pm crashes, and eliminates hunger between meals without calorie counting."
+  - q: "Why do I get energy crashes after lunch?"
+    a: "Because a high-glycemic, low-protein meal (pasta, white bread, sugary sauce) spikes blood sugar then triggers an insulin overshoot — the crash. Adding protein + fiber + fat to every meal slows glucose absorption and keeps energy flat for 4-5 hours."
+  - q: "How much protein do I need per meal?"
+    a: "A palm-sized portion (20-35g) at each main meal. Research on muscle protein synthesis shows this amount maximizes the anabolic response. Under-eating protein causes hunger and muscle loss; the 'plate method' ensures you hit this target visually without weighing food."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

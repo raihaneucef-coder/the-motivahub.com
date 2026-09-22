@@ -12,17 +12,24 @@ imageAlt: "A hand pouring fresh water into a glass against a blurred city backdr
 featured: false
 draft: false
 keywords:
-  - "water"
-  - "little"
-  - "drink"
-  - "willpower"
-  - "make"
-  - "everything"
-  - "reach"
-  - "brain"
+  - "dehydration and brain function"
+  - "drink water before coffee"
+  - "how water affects willpower and focus"
+  - "morning hydration benefits"
+  - "dehydration causes fatigue brain fog"
+  - "how much water to drink daily"
+  - "hydration for productivity"
+  - "water intake and energy levels"
 tags:
   - "nutrition"
 wordCount: 215
+faq:
+  - q: "Does dehydration affect willpower and focus?"
+    a: "Yes. Even 1-2% dehydration impairs attention, working memory, and mood (University of Connecticut studies). You wake up dehydrated after 7-8 hours without water — drinking 500ml before coffee restores cognitive function and prevents the mid-morning brain fog most people blame on 'laziness.'"
+  - q: "How much water should I drink per day?"
+    a: "35ml per kg of body weight minimum (a 70kg person needs ~2.5 liters). Include water from food (fruits, soups count). The urine test: pale yellow = hydrated. Dark = behind. Drink consistently throughout the day rather than gulping large amounts at once."
+  - q: "Should I drink water first thing in the morning?"
+    a: "Yes — before coffee, before food. After 7-8 hours of sleep, you're mildly dehydrated. 500ml of water upon waking jumpstarts metabolism by 24% for 60 minutes (German research), flushes waste, and rehydrates the brain before caffeine hits. Keep a glass by your bed the night before."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

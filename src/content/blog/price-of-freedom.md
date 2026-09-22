@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - price of freedom concept"
 featured: false
 draft: false
 keywords:
-  - "freedom"
-  - "small"
-  - "payments"
-  - "because"
-  - "daily"
-  - "rented"
-  - "every"
-  - "boring"
+  - "price of freedom paid daily"
+  - "financial freedom daily discipline"
+  - "freedom is rented not owned"
+  - "cost of independent life"
+  - "daily habits for freedom"
+  - "discipline equals freedom"
+  - "long-term freedom short-term sacrifice"
+  - "how to buy your freedom"
 tags:
   - "finance"
 wordCount: 303
+faq:
+  - q: "What does 'freedom is rented, not owned' mean?"
+    a: "Financial and personal freedom has no lump-sum purchase price — it requires daily small payments: saving consistently, maintaining health, investing in skills. Miss the payments and you lose the freedom (like rent). The 'price' is boring consistency, not one heroic act."
+  - q: "How do I calculate my freedom number?"
+    a: "Multiply your monthly essential expenses by 25 (the 4% rule inverse). If you spend 2,000€/month, you need 600,000€ invested to cover expenses from returns. That's your financial 'rent.' Alternatively, calculate what you save monthly and how many years to reach that number at 7% return."
+  - q: "Why is freedom harder to keep than to achieve?"
+    a: "Achieving requires one decision; keeping requires ten thousand small ones. After reaching a goal, identity shifts from 'pursuer' to 'maintainer' — and humans adapt to comfort (hedonic treadmill). The solution: make maintenance itself a new system, not something you do only when you feel like it."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

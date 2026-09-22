@@ -10,17 +10,24 @@ image: "/images/blog/jeune-intermittent.jpg"
 imageAlt: "Youssef Raihane - jeune intermittent concept"
 topic: "Nutrition"
 keywords:
-  - "fasting"
-  - "eating"
-  - "intermittent"
-  - "fast"
-  - "hours"
-  - "window"
-  - "insulin"
-  - "body"
+  - "intermittent fasting how it works"
+  - "16 8 intermittent fasting results"
+  - "does intermittent fasting work"
+  - "intermittent fasting for beginners"
+  - "fasting window benefits science"
+  - "intermittent fasting weight loss"
+  - "le jeûne intermittent"
+  - "intermittent fasting before and after"
 tags:
   - "nutrition"
 wordCount: 336
+faq:
+  - q: "Does intermittent fasting actually work for weight loss?"
+    a: "Yes — but not by magic. A 2020 New England Journal review confirms it works primarily by restricting the eating window (reducing calories naturally) and improving insulin sensitivity. Average result: 3-8% body weight loss over 12 weeks, similar to conventional caloric restriction without hunger counting."
+  - q: "What is the best intermittent fasting schedule for beginners?"
+    a: "14:10 (14 hours fasting, 10 eating) for week 1 — essentially just skipping late-night snacking. Progress to 16:8 (skip breakfast or make it late). The 16:8 protocol (eating from noon to 8pm) has the most research support and is sustainable socially for most people."
+  - q: "Is intermittent fasting safe every day?"
+    a: "For healthy adults, yes. Daily 16:8 shows no muscle loss when protein intake is adequate (1.6g/kg) and no metabolic slowdown in trials up to 12 months. Not recommended for: pregnant women, history of eating disorders, type 1 diabetes, or under-medication without doctor supervision."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

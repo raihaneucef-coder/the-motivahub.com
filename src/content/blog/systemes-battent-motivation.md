@@ -10,17 +10,24 @@ image: "/images/blog/systemes-battent-motivation-2.jpg"
 imageAlt: "A hand drawing a system flowchart on a whiteboard"
 topic: "Goals"
 keywords:
-  - "system"
-  - "systems"
-  - "motivation"
-  - "goal"
-  - "write"
-  - "gets"
-  - "cannot"
-  - "words"
+  - "systems beat goals"
+  - "when motivation fails systems take over"
+  - "build systems not goals"
+  - "james clear systems vs goals"
+  - "reliable daily system productivity"
+  - "why motivation is unreliable"
+  - "process vs outcome thinking"
+  - "automatic habits system design"
 tags:
   - "goals"
 wordCount: 480
+faq:
+  - q: "What's the difference between a system and a goal?"
+    a: "A goal is the desired result ('lose 10 kg'). A system is the repeatable process that produces it ('I walk 8,000 steps daily and eat protein at every meal'). Goals provide direction; systems provide progress. Winners and losers set the same goals — the system is what separates them."
+  - q: "Why does motivation fail and systems don't?"
+    a: "Motivation is an emotion — it fluctuates with sleep, hormones, weather, and stress. Systems are structures — they work regardless of feelings. If you only exercise when motivated, you'll train 3 times/month. If you schedule it like a meeting, you'll train 20 times. Structure beats mood."
+  - q: "How do I build a system when I have zero motivation?"
+    a: "Shrink the action to absurdly small. System ≠ intense routine. It's: lay out gym clothes (even if you don't train), open the book (even if you read 1 page), write one sentence. The system's job is keeping the chain alive, not producing results. Momentum returns after consistency."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -10,17 +10,24 @@ image: "/images/blog/secure-self-2.jpg"
 imageAlt: "A happy woman with glasses hugging a pillow on the couch"
 topic: "Personal Growth"
 keywords:
-  - "love"
-  - "yourself"
-  - "people"
-  - "secure"
-  - "focusing"
-  - "self"
-  - "because"
-  - "others"
+  - "secure attachment style"
+  - "how to focus on yourself without guilt"
+  - "self-love is not selfish"
+  - "developing a secure sense of self"
+  - "attachment theory in relationships"
+  - "healthy self-focus"
+  - "inner security not from others"
+  - "becoming emotionally self-sufficient"
 tags:
   - "personal growth"
 wordCount: 487
+faq:
+  - q: "What does it mean to have a 'secure self'?"
+    a: "A secure self is someone whose worth doesn't depend on external validation. They can be alone without feeling abandoned, say no without guilt, and focus on their growth without calling it selfish. Attachment theory calls this 'earned security' — developed through consistent self-honesty."
+  - q: "Why is focusing on yourself the safest love?"
+    a: "Because people leave, circumstances change, and external sources of validation are unpredictable. Your relationship with yourself is the only one present every waking hour. When you invest there first, you stop grasping at others to fill a void — which paradoxically makes your relationships better."
+  - q: "How do I build self-security after years of people-pleasing?"
+    a: "Start by noticing when you perform vs when you're authentic. Ask 'what do I actually want?' before answering anyone. Set one small boundary per week. The nervous system recalibrates through repetition: each time you choose yourself and nothing terrible happens, your baseline security rises."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
