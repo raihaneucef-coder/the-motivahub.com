@@ -10,17 +10,24 @@ image: "/images/blog/detox-numerique-1.jpg"
 imageAlt: "Youssef Raihane - detox numerique concept"
 topic: "Wellness"
 keywords:
-  - "screen"
-  - "time"
-  - "screens"
-  - "sleep"
-  - "social"
-  - "detox"
-  - "destroying"
-  - "health"
+  - "digital detox benefits"
+  - "how to reduce screen time"
+  - "screen time effects on health"
+  - "digital detox weekend guide"
+  - "7 hours screen time too much"
+  - "smartphone addiction how to quit"
+  - "detox numérique guide"
+  - "screen fatigue symptoms and cure"
 tags:
   - "wellness"
 wordCount: 354
+faq:
+  - q: "What happens during a digital detox?"
+    a: "First 24 hours: anxiety, phantom vibration, compulsive hand-to-pocket reaching (withdrawal). Day 3-5: boredom returns, which triggers creativity. Week 2: attention span measurably improves, sleep deepens, and you notice how much of your 'free time' was actually consumed by scrolling."
+  - q: "How long should a digital detox last?"
+    a: "Research suggests a minimum of 48 hours to break the compulsive loop. A weekend (Fri evening to Mon morning) is practical. For deeper recovery from burnout, 7 days shows cortisol reduction and dopamine receptor reset. You don't need to delete everything forever — just reset the baseline."
+  - q: "What are the signs I need a digital detox?"
+    a: "1) You pick up your phone within 5 minutes of waking. 2) You can't watch a full movie without second-screening. 3) You feel anxious when battery drops below 20%. 4) Your 'screen time' stat is over 6 hours. 5) You scroll when you're not actually looking for anything. If 3+ apply, your attention is fragmented."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

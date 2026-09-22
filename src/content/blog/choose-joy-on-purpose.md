@@ -12,17 +12,24 @@ imageAlt: "Two women laughing with arms spread wide on a sunny boardwalk"
 featured: false
 draft: false
 keywords:
-  - "schedule"
-  - "choose"
-  - "purpose"
-  - "delight"
-  - "work"
-  - "find"
-  - "finishing"
-  - "ones"
+  - "choose happiness on purpose"
+  - "how to be happier daily"
+  - "schedule joy in your life"
+  - "intentional happiness habits"
+  - "why you need to plan fun"
+  - "pleasure and productivity balance"
+  - "how to enjoy life more"
+  - "delight as a discipline"
 tags:
   - "entertainment"
 wordCount: 238
+faq:
+  - q: "Can you really choose to be happy?"
+    a: "Not as a forced emotion — but you can choose the conditions that produce it. Research on 'behavioral activation' shows scheduling pleasant activities (walks, music, friends) increases happiness as effectively as medication for mild depression. You can't summon joy, but you can build the path it walks in on."
+  - q: "Why should I schedule fun like work?"
+    a: "Because unscheduled leisure always loses to urgency. If joy isn't on the calendar, it gets deprioritized until you 'earn' it — which never comes. Scheduling delight makes it non-negotiable, just like a meeting. The anticipation itself boosts baseline happiness (Harvard, Gilbert)."
+  - q: "What's the difference between pleasure and joy?"
+    a: "Pleasure is consumption (food, scrolling, shopping) — short spike, quick adaptation. Joy is connection and meaning (laughing with friends, finishing something hard, nature). Joy requires presence; pleasure often avoids it. Schedule both, but prioritize what leaves you full vs what leaves you wanting more."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

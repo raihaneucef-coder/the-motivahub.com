@@ -10,17 +10,24 @@ image: "/images/blog/deep-work-ritual-1.jpg"
 imageAlt: "Youssef Raihane - deep work ritual concept"
 topic: "Productivity"
 keywords:
-  - "work"
-  - "room"
-  - "deep"
-  - "hour"
-  - "mind"
-  - "ritual"
-  - "mood"
-  - "desk"
+  - "deep work ritual routine"
+  - "how to focus for 3 hours without distraction"
+  - "deep work environment setup"
+  - "morning routine for deep work"
+  - "focus ritual that actually works"
+  - "how to get into deep focus state"
+  - "cal newport deep work ritual"
+  - "distraction free work setup"
 tags:
   - "productivity"
 wordCount: 799
+faq:
+  - q: "What is a deep work ritual?"
+    a: "A fixed sequence of actions that signals your brain it's time to focus: same location, same time, same preparation steps (coffee, phone away, timer set, one tab open). After 2-3 weeks, the ritual itself triggers a focus state automatically — you no longer need willpower to start."
+  - q: "How long should a deep work session last?"
+    a: "Start with 90 minutes (one ultradian cycle). Experts like Cal Newport do 3-4 hours daily but build up over months. The key: one uninterrupted block beats four distracted ones. If you can do 90 focused minutes consistently, you'll out-produce most people working 8 scattered hours."
+  - q: "What if I can't concentrate for more than 10 minutes?"
+    a: "That's normal for a 'attention fitness' beginner. Start with 25 minutes (one pomodoro), then add 5 minutes weekly. Remove one distraction source per week (notifications, phone location, browser tabs). Attention is trainable — neuroplasticity shows focus improves measurably in 6-8 weeks of daily practice."
 bookSlug: deep-work
 
 relatedArticles:

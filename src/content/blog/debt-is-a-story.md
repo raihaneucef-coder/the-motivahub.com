@@ -12,18 +12,25 @@ imageAlt: "Youssef Raihane - debt is a story concept"
 featured: false
 draft: false
 keywords:
-  - "debt"
-  - "story"
-  - "rewrite"
-  - "numbers"
-  - "make"
-  - "balance"
-  - "rate"
-  - "first"
+  - "how to get out of debt mindset"
+  - "debt is not a character flaw"
+  - "paying off debt strategy"
+  - "rewriting your money story"
+  - "debt shame how to overcome"
+  - "snowball vs avalanche debt method"
+  - "financial recovery after debt"
+  - "changing relationship with money"
 tags:
   - "finance"
   - "story"
 wordCount: 278
+faq:
+  - q: "Why do I feel ashamed about debt?"
+    a: "Because we confuse numbers with character. Debt is a financial state, not a moral failure. Research on 'financial shame' (University of Florida) shows that self-judgment about debt leads to avoidance — checking statements later, spending to cope. Self-compassion actually increases repayment speed because you face the numbers instead of hiding."
+  - q: "What's the fastest way to pay off debt?"
+    a: "Two proven methods: 1) Debt avalanche: pay highest interest rate first (saves most money mathematically). 2) Debt snowball: pay smallest balance first (creates quick wins and dopamine motivation). Choose based on your psychology: if you need motivation, snowball; if you need logic, avalanche."
+  - q: "How do I rewrite my story about money?"
+    a: "Separate identity from circumstance. Replace 'I'm bad with money' with 'I made decisions based on information I had.' Then create a new narrative with numbers: list every debt as a line item, make one plan, track progress. Action rewrites the story faster than affirmations — each payment is a sentence in your new chapter."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

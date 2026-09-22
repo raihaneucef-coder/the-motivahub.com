@@ -10,17 +10,24 @@ image: "/images/blog/comparison-trap-2.jpg"
 imageAlt: "A face distorted through a glass lens held above a laptop, warping self-perception"
 topic: "Mindset"
 keywords:
-  - "envy"
-  - "behind"
-  - "comparison"
-  - "someone"
-  - "compare"
-  - "people"
-  - "chapter"
-  - "yourself"
+  - "comparison trap social media"
+  - "how to stop comparing yourself to others"
+  - "feeling behind in life"
+  - "why everyone seems more successful"
+  - "envy and self worth"
+  - "comparing my life to others online"
+  - "how comparison destroys happiness"
+  - "stop feeling inadequate around others"
 tags:
   - "mindset"
 wordCount: 688
+faq:
+  - q: "Why am I always comparing myself to others?"
+    a: "Social comparison is automatic — your brain evaluates position by measuring against nearby signals (Festinger, 1954). Social media hacked this by providing 500+ 'nearby' people who are all showing their peak moments. You're comparing your average Tuesday to their curated highlights reel."
+  - q: "How do I break the comparison loop?"
+    a: "1) Name the specific comparison ('I'm comparing my income to his car'). 2) Ask 'do I actually want that, or just the feeling it promises?' 3) Shift to self-referenced progress (vs you 6 months ago). 4) Reduce inputs: mute or unfollow triggers. 5) Gratitude journaling at bedtime — proven to reset the comparison baseline within 2 weeks."
+  - q: "Is comparing yourself to others ever healthy?"
+    a: "Yes, when it's 'upward comparison' used for information, not self-judgment. Watching someone 2 steps ahead shows you the next move. The toxic version is measuring the gap between your Chapter 1 and their Chapter 20 and concluding you're worthless. Use others as maps, not mirrors."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

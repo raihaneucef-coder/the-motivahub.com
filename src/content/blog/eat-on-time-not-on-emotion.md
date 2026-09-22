@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - eat on time not on emotion concept"
 featured: false
 draft: false
 keywords:
-  - "hunger"
-  - "lunch"
-  - "time"
-  - "good"
-  - "decide"
-  - "decisions"
-  - "regular"
-  - "meals"
+  - "eat on schedule not when emotional"
+  - "emotional eating how to stop"
+  - "regular meal times benefits"
+  - "hunger affects decision making"
+  - "why I eat when not hungry"
+  - "meal timing and willpower"
+  - "stop stress eating routine"
+  - "regular meals better focus"
 tags:
   - "nutrition"
 wordCount: 256
+faq:
+  - q: "Why is eating on a schedule better than eating when hungry?"
+    a: "Because 'hunger' is often a mix of actual need and emotional triggers. A fixed schedule (breakfast 8am, lunch 1pm, dinner 7pm) prevents glucose crashes that trigger poor decisions — snacking, irritability, and 'reward eating' after stress. You decide what to eat while calm, not while desperate."
+  - q: "How do I stop emotional eating?"
+    a: "The 20-minute rule: when a craving hits, set a timer and do anything else (walk, water, breathe). If hunger persists after 20 min, eat. If it fades, it was emotion. Track your emotional eating triggers for one week — boredom, stress, and loneliness cause 85% of non-hunger eating."
+  - q: "Does skipping meals make you make bad decisions?"
+    a: "Yes. Glucose is the brain's primary fuel, and self-control specifically draws on prefrontal glucose. A 2022 meta-analysis confirmed: fasting beyond your window increases impulsivity and risk-taking. Three regular meals keep glucose stable, protecting willpower for things that matter."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
