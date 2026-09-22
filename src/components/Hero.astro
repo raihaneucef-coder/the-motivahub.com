@@ -18,9 +18,9 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 ---
 
 <section class="hero hero-portrait" id="hero">
-  <video class="hero-video" autoplay muted loop playsinline poster={image}>
-    <source src="/videos/hero-bg.webm" type="video/webm">
-    <source src="/videos/hero-bg.mp4" type="video/mp4">
+  <video class="hero-video" muted loop playsinline poster={image}
+    data-src-webm="/videos/hero-bg.webm"
+    data-src-mp4="/videos/hero-bg.mp4">
   </video>
   <div class="hero-portrait-overlay"></div>
 
@@ -63,16 +63,33 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 </section>
 
 <script>
-  // Force autoplay on Safari (ignores muted+autoplay attrs sometimes)
-  document.addEventListener('DOMContentLoaded', () => {
+  // Defer video loading until after LCP paint (improves PageSpeed)
+  function initHeroVideo() {
     const video = document.querySelector('.hero-video');
-    if (video) {
-      video.muted = true;
-      video.play().catch(() => {
-        // Retry on first user interaction
-        const retry = () => { video.play(); document.removeEventListener('click', retry); };
-        document.addEventListener('click', retry);
-      });
+    if (!video || video.querySelector('source')) return;
+    const webm = video.dataset.srcWebm;
+    const mp4 = video.dataset.srcMp4;
+    if (webm) {
+      const src = document.createElement('source');
+      src.src = webm; src.type = 'video/webm';
+      video.appendChild(src);
     }
-  });
+    if (mp4) {
+      const src = document.createElement('source');
+      src.src = mp4; src.type = 'video/mp4';
+      video.appendChild(src);
+    }
+    video.load();
+    video.muted = true;
+    video.play().catch(() => {
+      const retry = () => { video.play(); document.removeEventListener('click', retry); };
+      document.addEventListener('click', retry);
+    });
+  }
+  // Load video after first paint to not block LCP
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(initHeroVideo, { timeout: 2000 });
+  } else {
+    setTimeout(initHeroVideo, 1000);
+  }
 </script>
