@@ -1,8 +1,8 @@
 ---
-title: "Focus on Yourself and Stay Silent — The Lesson of Shi Heng Yi"
-description: "In a noisy world of opinions and comparisons, the most powerful move is to turn inward: focus, silence, discipline, and self-mastery."
-titleFr: "Concentre-toi sur toi et reste silencieux — la leçon de Shi Heng Yi"
-descriptionFr: "Dans un monde bruyant d'opinions et de comparaisons, le geste le plus puissant est de se tourner vers l'intérieur : concentration, silence, discipline et maîtrise de soi."
+title: "Focus on Yourself and Stay Silent — The Shi Heng Yi Lesson (2026)"
+description: "Why silence is your superpower. Shi Heng Yi's Shaolin teaching on focusing on yourself, stopping the noise, and building inner strength through discipline."
+titleFr: "Concentre-toi sur Toi et Reste Silencieux — La Leçon Shaolin (2026)"
+descriptionFr: "Pourquoi le silence est votre superpouvoir. L'enseignement de Shi Heng Yi sur la concentration, la discipline intérieure et la force tranquille."
 pubDate: 2026-08-22
 updatedDate: 2026-09-21
 readTime: "6 MIN"
@@ -10,14 +10,14 @@ image: "/images/blog/focus-on-yourself-stay-silent-shi-heng-yi.jpg"
 imageAlt: "Youssef Raihane - focus on yourself stay silent shi heng yi concept"
 topic: "Mindset"
 keywords:
-  - "silence"
-  - "heng"
-  - "bruit"
-  - "plus"
-  - "quand"
-  - "fais"
-  - "focus"
-  - "discipline"
+  - "focus on yourself and stay silent"
+  - "shi heng yi"
+  - "power of silence self improvement"
+  - "shaolin monk focus discipline"
+  - "stop sharing your goals stay silent"
+  - "inner peace through silence"
+  - "when to stay silent and work"
+  - "self mastery shaolin wisdom"
 tags:
   - "mindset"
 wordCount: 657
