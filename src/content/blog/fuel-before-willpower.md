@@ -12,17 +12,24 @@ imageAlt: "A colorful healthy bowl with boiled eggs, avocado and fresh vegetable
 featured: false
 draft: false
 keywords:
-  - "fuel"
-  - "willpower"
-  - "discipline"
-  - "sugar"
-  - "something"
-  - "first"
-  - "expensive"
-  - "diet"
+  - "food affects willpower and discipline"
+  - "eat before making decisions"
+  - "nutrition for self control"
+  - "blood sugar and discipline"
+  - "why you lack willpower when hungry"
+  - "brain fuel for productivity"
+  - "diet vs discipline energy"
+  - "protein breakfast willpower"
 tags:
   - "nutrition"
 wordCount: 488
+faq:
+  - q: "Does food affect willpower and self-control?"
+    a: "Yes. The prefrontal cortex (responsible for self-control) runs on glucose. Studies at Princeton showed deprived mice made 'impulsive' choices until given sugar. Humans aren't simple sugar-burners, but skipping meals drops blood glucose and measurably increases impulsivity and poor decisions."
+  - q: "What should I eat to maintain discipline all day?"
+    a: "Protein + complex carbs + healthy fat at breakfast (eggs, oats, nuts). This combo releases glucose slowly over 3-4 hours, avoiding the spike-and-crash cycle that depletes willpower. Avoid sugar-heavy breakfasts — they create a crash 90 minutes later right when you need focus most."
+  - q: "Is willpower really like a muscle that needs fuel?"
+    a: "The 'ego depletion' model (Baumeister) has mixed replication data, but the practical insight holds: when you're hungry, tired, or stressed, your capacity for self-denial drops. Whether it's glucose or motivation, the fix is the same: eat well, sleep enough, and schedule hard decisions for when you're fueled."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

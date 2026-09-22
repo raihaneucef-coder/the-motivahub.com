@@ -10,18 +10,25 @@ image: "/images/blog/habitude-5-min-relations-2.jpg"
 imageAlt: "Two people holding hands warmly while sitting close together"
 topic: "Relationships"
 keywords:
-  - "habit"
-  - "minute"
-  - "relationships"
-  - "need"
-  - "attention"
-  - "minutes"
-  - "works"
-  - "daily"
+  - "5 minute daily habit relationships"
+  - "small daily acts strengthen relationships"
+  - "how to show love daily"
+  - "relationship maintenance habits"
+  - "quick things that improve relationships"
+  - "daily appreciation partner"
+  - "micro habits for better communication"
+  - "quality time in 5 minutes"
 tags:
   - "relationships"
   - "habits"
 wordCount: 313
+faq:
+  - q: "What 5-minute daily habit strengthens relationships?"
+    a: "One undistracted check-in: ask 'how was your day?' and listen for 3 minutes without your phone. Add 2 minutes of specific appreciation ('I loved how you handled X today'). This tiny ritual creates emotional safety and signals 'you matter' — the #1 predictor of relationship satisfaction (Gottman Institute)."
+  - q: "Why do small daily gestures matter more than big occasions?"
+    a: "Gottman's research: successful couples have a 5:1 ratio of positive to negative micro-interactions daily. One birthday dinner does less for connection than 365 small 'I made you coffee' moments. The brain tracks frequency, not intensity — daily proof of being seen beats monthly proof of being celebrated."
+  - q: "How do I remember to do this every day?"
+    a: "Stack it onto an existing shared moment: after dinner, before bed, when you both get home. Set a gentle phone reminder for the first two weeks. Once the check-in becomes automatic (66 days average), skipping it will feel weirder than doing it — the habit loop takes over."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

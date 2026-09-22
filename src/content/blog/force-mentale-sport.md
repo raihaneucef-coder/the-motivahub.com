@@ -10,18 +10,25 @@ image: "/images/blog/force-mentale-sport-2.jpg"
 imageAlt: "A gymnast mid-performance on the arena floor, fully concentrated"
 topic: "Sport"
 keywords:
-  - "mental"
-  - "toughness"
-  - "pressure"
-  - "failure"
-  - "perform"
-  - "best"
-  - "control"
-  - "even"
+  - "mental toughness in sports"
+  - "how to perform under pressure"
+  - "sports psychology techniques"
+  - "staying calm during competition"
+  - "how athletes handle pressure"
+  - "mental training for athletes"
+  - "choke under pressure how to stop"
+  - "pre-performance routine"
 tags:
   - "sport"
   - "how-to"
 wordCount: 384
+faq:
+  - q: "How do athletes stay calm under pressure?"
+    a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. Stanford research shows 'I am excited' self-talk outperforms 'I am calm' because both are high-arousal states — the brain just needs a positive label."
+  - q: "What is mental toughness in sports?"
+    a: "The ability to maintain focus, effort, and confidence despite fatigue, setbacks, or high stakes. Clough's 4C model: Control (I influence outcomes), Commitment (I follow through), Challenge (threats are growth opportunities), Confidence (I believe in my ability). All four are trainable."
+  - q: "How can I stop choking under pressure?"
+    a: "Choking happens when you overthink automatic skills (explicit monitoring). Solution: practice under pressure conditions so competition feels normal, use external focus cues ('land on that spot' not 'extend your leg'), and keep your pre-performance routine identical to training."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

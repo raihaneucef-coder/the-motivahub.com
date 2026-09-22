@@ -10,17 +10,24 @@ image: "/images/blog/gestion-energie-2.jpg"
 imageAlt: "A woman stretching her arms overhead with energy in a bright gym"
 topic: "Productivity"
 keywords:
-  - "energy"
-  - "management"
-  - "time"
-  - "performance"
-  - "hours"
-  - "daily"
-  - "take"
-  - "mental"
+  - "energy management vs time management"
+  - "how to manage energy not time"
+  - "productivity energy levels"
+  - "ultradian rhythm work schedule"
+  - "why I'm tired all day"
+  - "energy peaks and crashes"
+  - "manage mental energy productivity"
+  - "the real productivity hack"
 tags:
   - "productivity"
 wordCount: 387
+faq:
+  - q: "What is energy management?"
+    a: "Prioritizing when you do work over how long you work. Instead of cramming tasks into every free hour, you schedule demanding tasks during peak energy windows (typically 90 min after waking) and low-energy work (email, admin) during slumps. Based on Tony Schwartz's Energy Management model."
+  - q: "Why is time management not enough?"
+    a: "Because you can have 8 open hours but only 3 hours of usable mental energy. Scheduling a complex task during a low-energy window guarantees poor output and frustration. Energy management multiplies the quality of every hour by matching task difficulty to alertness level."
+  - q: "How do I find my peak energy hours?"
+    a: "Track your energy (1-10 scale) every 2 hours for 5 days. Most people discover a pattern: peak (9am-12pm for early risers), dip (2-4pm post-lunch), second wind (5-7pm). Once identified, protect your peak for deep work ruthlessly — no meetings, no email, no scrolling."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -10,18 +10,25 @@ image: "/images/blog/growth-mindset-rewire-2.jpg"
 imageAlt: "Two hands fitting large white puzzle pieces together"
 topic: "Mindset"
 keywords:
-  - "mindset"
-  - "growth"
-  - "fixed"
-  - "learn"
-  - "brain"
-  - "every"
-  - "failure"
-  - "celebrate"
+  - "growth mindset vs fixed mindset"
+  - "how to rewire your brain for success"
+  - "carol dweck growth mindset"
+  - "neuroplasticity and learning"
+  - "how to change your mindset"
+  - "growth mindset exercises"
+  - "brain changes with learning"
+  - "embracing failure growth mindset"
 tags:
   - "mindset"
   - "how-to"
 wordCount: 793
+faq:
+  - q: "What is a growth mindset?"
+    a: "The belief that abilities can be developed through effort and learning, vs a fixed mindset (talent is innate, unchangeable). Carol Dweck's Stanford research found students taught that the brain grows with challenge improved grades by 30% — the belief itself changes behavior which changes results."
+  - q: "How do you rewire a fixed mindset?"
+    a: "1) Notice fixed self-talk ('I'm not a math person') and add 'yet.' 2) Praise effort and strategy, not outcomes. 3) Reframe failure as data ('what did this teach me?'). 4) Learn about neuroplasticity — knowing your brain physically grows with practice makes the shift feel real. Change takes 6-8 weeks of conscious practice."
+  - q: "Does growth mindset actually work?"
+    a: "Meta-analyses show moderate but real effects (Sisk 2018: +0.4 grade points for disadvantaged students). It works best paired with specific strategy instruction — telling someone 'you can improve' plus showing them HOW. Growth mindset alone is encouragement; with tools it becomes transformation."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -12,18 +12,25 @@ imageAlt: "Two friends laughing together over takeaway coffee on a city street"
 featured: false
 draft: false
 keywords:
-  - "friendship"
-  - "time"
-  - "need"
-  - "minutes"
-  - "next"
-  - "minute"
-  - "habit"
-  - "attention"
+  - "how to maintain friendships"
+  - "5 minute daily habit relationships"
+  - "how to be a better friend"
+  - "friendship requires effort"
+  - "how to stay connected with friends"
+  - "small acts that strengthen friendships"
+  - "adult friendship maintenance"
+  - "how to not lose touch with friends"
 tags:
   - "relationships"
   - "habits"
 wordCount: 263
+faq:
+  - q: "What is the five-minute friendship habit?"
+    a: "A daily 5-minute action to maintain a friendship: one text ('thinking of you'), one voice note, one comment on their post, or one 3-minute call. Rotating through 7 friends per week means everyone in your circle gets consistent attention without it feeling like work."
+  - q: "Why do friendships fade without effort?"
+    a: "Research shows adult friendships decay in 7 years without contact (University of Oxford, Dunbar). The 'proximity effect' that made school friendships effortless disappears with adulthood. Without deliberate scheduling, even best friends become strangers who once knew you."
+  - q: "How do I remember to stay in touch with friends?"
+    a: "Attach friendship maintenance to an existing habit (after morning coffee, send one text). Use a recurring reminder on Sunday: 'pick 3 people to reach out to.' Lower the bar: a meme or 'saw this and thought of you' counts. Quality presence matters more than long conversations."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
