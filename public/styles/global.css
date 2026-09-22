@@ -663,7 +663,20 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
+  object-position: center 30% !important;
   z-index: 0 !important;
+}
+@media (max-width: 768px) {
+  .hero-portrait {
+    min-height: 85vh !important;
+    min-height: 85svh !important;
+  }
+  .hero-video {
+    object-position: center 25% !important;
+    transform: scale(0.85) !important;
+    left: -7.5% !important;
+    width: 115% !important;
+  }
 }
 .hero-portrait-overlay {
   z-index: 1 !important;
