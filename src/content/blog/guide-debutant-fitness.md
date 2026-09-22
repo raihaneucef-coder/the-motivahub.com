@@ -24,6 +24,25 @@ tags:
   - "guide"
 wordCount: 355
 
+faq:
+  - q: "How do I start going to the gym as a complete beginner?"
+    a: "Start smaller than feels useful. Go to the gym twice a week for fifteen minutes and do one simple machine or bodyweight exercise each visit. The first goal is not fitness — it is learning the building, the equipment and the routine well enough that going stops feeling intimidating. Add time and weight only once showing up is automatic."
+  - q: "How many days a week should a beginner train?"
+    a: "Two to three non-consecutive days is enough to build the habit and still recover. Training more than that in the first weeks usually produces soreness and burnout rather than faster results. Consistency across months matters far more than intensity inside a single week."
+  - q: "How long before working out becomes a habit?"
+    a: "For most people, four to eight weeks of showing up before it starts to feel automatic. The variable is not how hard you train but how predictable the trigger is — the same time, the same place, attached to something you already do every day."
+  - q: "Do I need a workout plan or a trainer to start?"
+    a: "No. A plan you actually follow beats an optimal plan you abandon. A fixed beginner routine of five or six exercises — one push, one pull, one leg movement and a short walk — is enough for your first few months. Add coaching later, once the habit itself is secure."
+faqFr:
+  - q: "Comment commencer la salle de sport quand on est débutant ?"
+    a: "Commencez plus petit que ce qui semble utile. Allez à la salle deux fois par semaine pendant quinze minutes et faites un seul exercice simple à chaque séance. Le premier objectif n'est pas la forme physique, mais de vous familiariser avec le lieu, le matériel et la routine pour que d'y aller cesse d'être intimidant. N'ajoutez du temps et de la charge que lorsque le fait de se présenter devient automatique."
+  - q: "Combien de jours par semaine un débutant doit-il s'entraîner ?"
+    a: "Deux à trois jours non consécutifs suffisent pour créer l'habitude et récupérer. S'entraîner davantage les premières semaines produit souvent courbatures et épuisement plutôt que des résultats plus rapides. La régularité sur plusieurs mois compte bien plus que l'intensité d'une seule semaine."
+  - q: "Combien de temps avant que le sport devienne une habitude ?"
+    a: "Pour la plupart des gens, quatre à huit semaines à se présenter avant que cela devienne automatique. La variable n'est pas l'intensité de l'entraînement mais la prévisibilité du déclencheur : même heure, même lieu, associé à quelque chose que vous faites déjà chaque jour."
+  - q: "Faut-il un programme d'entraînement ou un coach pour commencer ?"
+    a: "Non. Un programme que vous suivez vraiment vaut mieux qu'un programme optimal que vous abandonnez. Une routine fixe de cinq ou six exercices — un mouvement de poussée, un de tirage, un pour les jambes et une courte marche — suffit pour vos premiers mois. Prenez un coach plus tard, une fois l'habitude bien installée."
+
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

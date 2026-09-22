@@ -24,6 +24,25 @@ tags:
   - "story"
 wordCount: 321
 
+faq:
+  - q: "Who was Ronald Read?"
+    a: "Ronald Read was a gas-station attendant and janitor from Brattleboro, Vermont, who died in 2014 in his nineties and left an estate worth around eight million dollars — most of it to his local hospital — despite never earning a high salary or seeking any attention. His story became widely known through Morgan Housel's book The Psychology of Money."
+  - q: "How did a janitor become a millionaire?"
+    a: "He saved a steady share of a modest income for decades, invested in well-known companies, and then held them for years instead of trading. Left untouched, compounding on an ordinary portfolio across a whole working lifetime turned small, patient contributions into an eight-figure estate. The mechanism was time in the market, not a high salary or a hot tip."
+  - q: "Is the janitor-who-became-a-millionaire story true?"
+    a: "Yes. Read's death and his donation to the hospital were reported by journalists, and the details — janitor, gas-station attendant, a battered old car, a huge estate — are fact, not legend. Figures quoted in retellings are usually rounded, but the outline of his life and his investing habit is real."
+  - q: "What is the real lesson of Ronald Read's story?"
+    a: "That wealth is a behaviour more than an income. Consistent saving, a lifestyle that never inflated to match earnings, and very long holding periods beat sporadic big bets. The transferable lesson is the habit — live below your means and let compounding run — not his specific stock picks."
+faqFr:
+  - q: "Qui était Ronald Read ?"
+    a: "Ronald Read était pompiste et concierge à Brattleboro, dans le Vermont. Mort en 2014 à un âge avancé, il a laissé une succession d'environ huit millions de dollars — dont la majeure partie à son hôpital local — alors qu'il n'a jamais gagné un gros salaire ni cherché la moindre attention. Son histoire s'est fait connaître grâce au livre The Psychology of Money de Morgan Housel."
+  - q: "Comment un concierge est-il devenu millionnaire ?"
+    a: "Il a épargné pendant des décennies une part régulière d'un revenu modeste, a investi dans des entreprises connues, puis a conservé ses titres pendant des années au lieu de les négocier. Laissé intact, l'effet des intérêts composés sur un portefeuille ordinaire tout au long d'une vie de travail a transformé de petites contributions patientes en une fortune à huit chiffres. Le mécanisme, c'est le temps passé sur le marché, pas un gros salaire ni un tuyau."
+  - q: "L'histoire du concierge devenu millionnaire est-elle vraie ?"
+    a: "Oui. Sa mort et son don à l'hôpital ont été rapportés par des journalistes, et les détails — concierge, pompiste, une vieille voiture, une immense succession — sont des faits, pas une légende. Les chiffres cités dans les récits sont souvent arrondis, mais la trame de sa vie et de ses investissements est réelle."
+  - q: "Quelle est la vraie leçon de l'histoire de Ronald Read ?"
+    a: "Que la richesse est avant tout un comportement plutôt qu'un revenu. Une épargne régulière, un train de vie qui n'a jamais gonflé au rythme des gains et des durées de détention très longues battent les gros paris ponctuels. La leçon transférable, c'est l'habitude — vivre en dessous de ses moyens et laisser les intérêts composés agir — et non ses choix de titres précis."
+
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

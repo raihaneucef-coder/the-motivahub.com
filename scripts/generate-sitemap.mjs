@@ -69,6 +69,16 @@ async function getPostLastmod(slug) {
   return new Date().toISOString().split("T")[0];
 }
 
+// Reads the `noindex` frontmatter flag of a blog markdown file.
+async function isNoindex(slug) {
+  try {
+    const md = await readFile(join(BLOG_DIR, `${slug}.md`), "utf8");
+    return /^noindex:\s*true\s*$/m.test(md);
+  } catch {
+    return false;
+  }
+}
+
 async function main() {
   const blogFiles = (await readdir(BLOG_DIR, { withFileTypes: true }))
     .filter((e) => e.isFile() && e.name.endsWith(".md"))
@@ -111,6 +121,10 @@ async function main() {
 
   // EN blog articles
   for (const slug of blogFiles) {
+    // An article marked `noindex: true` deprecates its English route (the page
+    // carries noindex and its /fr/ twin stays in the index) — keep it out of the
+    // sitemap so we never ask Google to index a page we told it to drop.
+    if (await isNoindex(slug)) continue;
     const lastmod = await getPostLastmod(slug);
     urls.push({
       loc: `${SITE}/journal/${slug}/`,
