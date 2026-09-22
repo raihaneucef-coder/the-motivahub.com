@@ -10,18 +10,25 @@ image: "/images/blog/histoire-professeur-2.jpg"
 imageAlt: "A teacher at the blackboard as students raise their hands in class"
 topic: "Stories"
 keywords:
-  - "maria"
-  - "pursue"
-  - "impact"
-  - "changed"
-  - "lives"
-  - "told"
-  - "became"
-  - "money"
+  - "teacher who changed lives story"
+  - "one person can make a difference"
+  - "impact over money success"
+  - "true meaning of success story"
+  - "how one teacher inspired thousands"
+  - "legacy vs wealth"
+  - "small actions big impact"
+  - "inspiring teacher stories"
 tags:
   - "stories"
   - "story"
 wordCount: 305
+faq:
+  - q: "How can one person change so many lives?"
+    a: "By showing up consistently for one person at a time. The teacher's story isn't about a grand gesture — it's about saying 'you can' to each student who'd been told they couldn't. Impact multiplies through the ripple effect: each student changes other lives, and the teacher's influence extends far beyond the classroom."
+  - q: "Why is legacy more fulfilling than wealth?"
+    a: "Research on eudaimonic wellbeing (Self-Determination Theory) shows fulfillment comes from competence, autonomy, and connection — not accumulation. A high income with no impact produces hedonic adaptation (lifestyle creep). Knowing you changed someone's trajectory provides meaning that money literally cannot purchase."
+  - q: "How do I find my 'teacher' purpose?"
+    a: "Ask: what do people thank me for that feels easy to give? What knowledge or skill did someone once share with me that changed my path? Your purpose is often the thing you received and now feel compelled to pass forward. Start with one person — teaching one student is the same as teaching a thousand."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

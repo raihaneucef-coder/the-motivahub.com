@@ -10,18 +10,25 @@ image: "/images/blog/habitudes-mentales-performants-2.jpg"
 imageAlt: "A player studying the chessboard while an opponent reaches for a piece"
 topic: "Mindset"
 keywords:
-  - "high"
-  - "habits"
-  - "performers"
-  - "minutes"
-  - "every"
-  - "energy"
-  - "mental"
-  - "daily"
+  - "mental habits of highly successful people"
+  - "daily routines of top performers"
+  - "habits of mental toughness"
+  - "what successful people do differently"
+  - "performance psychology habits"
+  - "5 habits of high performers"
+  - "morning routine of successful people"
+  - "elite performance mindset"
 tags:
   - "mindset"
   - "habits"
 wordCount: 684
+faq:
+  - q: "What mental habits do top performers share?"
+    a: "Five research-backed habits: 1) Visualization (mentally rehearsing the process, not just outcome). 2) Self-talk reframing ('I get to' vs 'I have to'). 3) Deliberate recovery blocks. 4) Pre-performance routines. 5) Post-effort review (what worked, what to adjust). These separate consistent winners from one-hit wonders."
+  - q: "How do successful people manage their energy?"
+    a: "They work in 90-minute ultradian cycles with 15-minute true breaks (walk, breathe — not scrolling). They protect sleep above all, schedule hardest work at peak cortisol (first 3 hours after waking), and do NOT make important decisions when depleted. Energy management > time management."
+  - q: "Can I develop these mental habits at any age?"
+    a: "Yes. Neuroplasticity research confirms the brain forms new patterns throughout life. The key is deliberate repetition under emotional load: doing the habit when you don't feel like it creates stronger neural tracks than when motivated. Expect 60-90 days for each habit to feel automatic."
 bookSlug: atomic-habits
 
 relatedArticles:

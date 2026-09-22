@@ -10,17 +10,24 @@ image: "/images/blog/investir-debutant.jpg"
 imageAlt: "Youssef Raihane - investir debutant concept"
 topic: "Finance"
 keywords:
-  - "investing"
-  - "start"
-  - "money"
-  - "time"
-  - "market"
-  - "index"
-  - "wealth"
-  - "today"
+  - "investing for beginners guide"
+  - "how to start investing with little money"
+  - "beginner stock market guide"
+  - "investing 101 explained"
+  - "how to build wealth from zero"
+  - "ETF for beginners"
+  - "compound interest investing"
+  - "first investment step by step"
 tags:
   - "finance"
 wordCount: 378
+faq:
+  - q: "How do beginners start investing?"
+    a: "Open a tax-advantaged account (PEA in France, ISA/401k in US/UK), automate a monthly transfer (even 50€), and buy a broad index fund (MSCI World or S&P 500). That's the entire 'getting started' — complexity comes later. Time in the market beats timing the market, always."
+  - q: "What is the best investment for a beginner?"
+    a: "A low-cost global index fund (0.1-0.2% annual fees). It gives instant diversification across 1,500+ companies in 23 countries. Historical average return: 7-10% annually over 10+ year periods. No stock picking, no market timing, no financial advisor fees — just consistent monthly buying."
+  - q: "How does compound interest build wealth?"
+    a: "Returns generate their own returns. Invest 200€/month at 8%: year 1 = 2,571€; year 10 = 36,547€; year 30 = 298,000€. The last 10 years generate more than the first 20 combined. Starting 5 years earlier adds approximately 40% to your final total — time is more powerful than amount."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

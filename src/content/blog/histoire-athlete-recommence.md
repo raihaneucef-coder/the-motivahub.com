@@ -10,17 +10,24 @@ image: "/images/blog/histoire-athlete-recommence-3.jpg"
 imageAlt: "A lone runner crossing a long empty bridge under a clear sky"
 topic: "Stories"
 keywords:
-  - "medals"
-  - "person"
-  - "start"
-  - "lost"
-  - "started"
-  - "reputation"
-  - "something"
-  - "sponsorships"
+  - "athlete comeback story"
+  - "starting over after losing everything"
+  - "reinventing yourself after failure"
+  - "career ending and new beginning"
+  - "lost identity after retirement"
+  - "second act motivation"
+  - "when your career is over who are you"
+  - "starting from zero again"
 tags:
   - "stories"
 wordCount: 295
+faq:
+  - q: "How do you start over after losing everything?"
+    a: "By separating your identity from your achievement. The athlete's story shows: when medals, sponsors, and status vanish, what remains is the discipline, the love of movement, the person underneath. Start with one small action you control today — the new chapter begins smaller than you expect."
+  - q: "Why is starting over harder the second time?"
+    a: "Because you now know what it costs. First starts run on ignorance and excitement. Second starts require choosing difficulty with full knowledge of the fall that might follow. This makes the decision braver but also more sustainable — you build for the long game, not the highlight reel."
+  - q: "What can we learn from athletes who came back from nothing?"
+    a: "That identity is deeper than achievement. The comeback isn't about winning again — it's about discovering you were never just the win. Each 'retired' athlete who rebuilds proves the core trait was never the medal: it was the willingness to show up when no one is watching."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

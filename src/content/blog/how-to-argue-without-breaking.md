@@ -12,18 +12,25 @@ imageAlt: "A couple in a heated but controlled discussion on the living room cou
 featured: false
 draft: false
 keywords:
-  - "need"
-  - "argue"
-  - "distance"
-  - "without"
-  - "relationship"
-  - "return"
-  - "because"
-  - "topic"
+  - "how to argue without hurting relationship"
+  - "healthy conflict resolution"
+  - "fighting fair in relationships"
+  - "how to disagree without being disagreeable"
+  - "arguments that strengthen relationships"
+  - "communication during conflict"
+  - "stop damaging fights"
+  - "repair after an argument"
 tags:
   - "relationships"
   - "how-to"
 wordCount: 269
+faq:
+  - q: "How do you argue without damaging the relationship?"
+    a: "Attack the problem, not the person. Use 'I feel' statements instead of 'you always.' Take a 20-minute break when heart rate exceeds 100bpm (physiological flooding makes rational discussion impossible). End with repair: 'We're on the same team — this disagreement is the enemy, not you.'"
+  - q: "What's the difference between a healthy and toxic argument?"
+    a: "Healthy: specific topic, both voices heard, no contempt or name-calling, ends with understanding or compromise. Toxic: character assassination ('you're lazy'), stonewalling, bringing up past grievances, needs a winner and loser. Gottman's research: contempt is the #1 predictor of divorce — more than frequency of fighting."
+  - q: "How do I repair after a bad fight?"
+    a: "Wait until calm (minimum 30 min). Open with ownership ('I'm sorry I raised my voice'), not conditions ('I'm sorry but you...'). Ask 'what did you need in that moment that you didn't get?' Listen without defending. Physical touch (hand on shoulder) releases oxytocin and signals safety restoration."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

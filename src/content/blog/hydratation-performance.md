@@ -10,17 +10,24 @@ image: "/images/blog/hydratation-performance-2.jpg"
 imageAlt: "An athlete drinking from a water bottle between gym rings"
 topic: "Nutrition"
 keywords:
-  - "water"
-  - "dehydration"
-  - "drink"
-  - "performance"
-  - "exercise"
-  - "days"
-  - "decrease"
-  - "every"
+  - "hydration and physical performance"
+  - "dehydration decreases exercise performance"
+  - "how much water during exercise"
+  - "water benefits athletic performance"
+  - "signs of dehydration during workout"
+  - "hydration strategy for athletes"
+  - "electrolytes and performance"
+  - "water intake for muscle growth"
 tags:
   - "nutrition"
 wordCount: 328
+faq:
+  - q: "How does dehydration affect physical performance?"
+    a: "Even 2% body water loss reduces endurance by 10-20%, increases perceived effort, and impairs strength output. At 4%, cognitive function drops — reaction time slows and decision-making suffers. Elite athletes lose approximately 2% performance capacity for every 1% dehydration."
+  - q: "How much water should I drink during exercise?"
+    a: "150-250ml every 15-20 minutes during sustained activity over 60 minutes. For shorter sessions, hydrate before and after. Don't wait until thirsty — thirst signals you're already 1-2% dehydrated. Weigh yourself pre/post session: replace 1.5× any lost weight in fluid."
+  - q: "Do electrolytes matter for hydration?"
+    a: "Yes, for sessions over 60-90 minutes or heavy sweating. Water alone dilutes blood sodium, risking hyponatremia. A pinch of salt + squeeze of lemon in your bottle, or a commercial electrolyte tab (300-500mg sodium), maintains fluid balance and prevents cramps in prolonged exercise."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
