@@ -12,17 +12,27 @@ imageAlt: "A green sprout pushing up through cracked old wood"
 featured: false
 draft: false
 keywords:
-  - "breaking"
-  - "becoming"
-  - "feels"
-  - "growth"
-  - "feel"
-  - "comfortable"
-  - "first"
-  - "person"
+  - "growth feels like breaking"
+  - "personal growth is painful"
+  - "why change feels so hard"
+  - "transformation before breakthrough"
+  - "growing pains self improvement"
+  - "comfort zone breaking point"
+  - "becoming a new person"
+  - "growth before breakdown"
 tags:
   - "personal growth"
 wordCount: 266
+faq:
+  - q: "Why does personal growth feel like breaking?"
+    a: "Because growth requires dismantling your old identity before building a new one. There's a gap between who you were and who you're becoming — and in that gap, nothing feels stable. Psychologists call this 'liminal space.' It's not a sign of failure; it's the architecture of transformation."
+  - q: "How long does the 'breaking' phase last before growth feels natural?"
+    a: "Typically 3-6 weeks of consistent effort. The first 2 weeks feel like loss (old identity dying). Weeks 3-4 feel like confusion (new identity forming). By week 5-6, the new behaviors start feeling like 'you.' Trust the timeline."
+faqFr:
+  - q: "Pourquoi la croissance personnelle ressemble à une cassure ?"
+    a: "Parce que la croissance exige de démonter votre ancienne identité avant d'en construire une nouvelle. Il y a un écart entre qui vous étiez et qui vous devenez — et dans cet écart, rien ne semble stable."
+  - q: "Combien de temps dure la phase de « cassure » avant que la croissance paraisse naturelle ?"
+    a: "Typiquement 3 à 6 semaines d'effort cohérent. Les 2 premières semaines ressemblent à une perte. Les semaines 3-4 à une confusion. À partir de la semaine 5-6, les nouveaux comportements commencent à sembler « vous »."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

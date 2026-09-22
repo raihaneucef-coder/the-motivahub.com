@@ -10,17 +10,27 @@ image: "/images/blog/pouvoir-elimination-2.jpg"
 imageAlt: "A clean minimal desk with only a monitor, keyboard and a plant"
 topic: "Productivity"
 keywords:
-  - "eliminate"
-  - "meetings"
-  - "emails"
-  - "focus"
-  - "matters"
-  - "results"
-  - "time"
-  - "delegate"
+  - "power of elimination productivity"
+  - "do less achieve more"
+  - "how to eliminate distractions"
+  - "essentialism prioritize what matters"
+  - "stop doing list"
+  - "simplify your life productivity"
+  - "eliminate unnecessary tasks"
+  - "focus on what matters most"
 tags:
   - "productivity"
 wordCount: 354
+faq:
+  - q: "What is the power of elimination in productivity?"
+    a: "The power of elimination means removing everything that doesn't directly serve your top priority. Instead of adding more tools or tasks, subtract. Steve Jobs said 'focus is about saying no' — to 1,000 good ideas, so you can execute the one great one."
+  - q: "How do I decide what to eliminate from my life?"
+    a: "Use the 3-question filter: (1) If I weren't already doing this, would I start today? (2) Does this directly serve my #1 goal? (3) What happens if I stop entirely? If the answer to all three is 'nothing important' — eliminate it."
+faqFr:
+  - q: "Qu'est-ce que le pouvoir d'élimination dans la productivité ?"
+    a: "Le pouvoir d'élimination signifie retirer tout ce qui ne sert pas directement votre priorité principale. Au lieu d'ajouter des outils ou tâches, soustrayez. Steve Jobs disait : « se concentrer, c'est dire non à 1000 bonnes idées »."
+  - q: "Comment décider quoi éliminer de ma vie ?"
+    a: "Utilisez le filtre des 3 questions : (1) Si je ne faisais pas déjà ceci, commencerais-je aujourd'hui ? (2) Est-ce que cela sert mon objectif n°1 ? (3) Que se passe-t-il si j'arrête complètement ? Si la réponse est « rien d'important » — éliminez."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

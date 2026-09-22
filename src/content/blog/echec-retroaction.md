@@ -10,18 +10,28 @@ image: "/images/blog/echec-retroaction-2.jpg"
 imageAlt: "Two coaches reviewing notes together on the sideline of a soccer field"
 topic: "Success"
 keywords:
-  - "failure"
-  - "work"
-  - "learn"
-  - "failed"
-  - "failures"
-  - "success"
-  - "setbacks"
-  - "every"
+  - "failure is feedback"
+  - "how to use setbacks for growth"
+  - "learning from failure"
+  - "reframe failure as data"
+  - "setback to success mindset"
+  - "growth mindset after failure"
+  - "turn failure into feedback"
+  - "why setbacks are necessary"
 tags:
   - "success"
   - "how-to"
 wordCount: 323
+faq:
+  - q: "How do you turn failure into feedback?"
+    a: "After a setback, ask 3 questions: (1) What specifically went wrong? (2) What was within my control? (3) What will I do differently next time? Write the answers. This converts emotional pain into actionable data within 24 hours."
+  - q: "Why is failure necessary for success?"
+    a: "Every expert was once a beginner who failed repeatedly. Thomas Edison tested 1,000 materials before finding the right filament. Failure eliminates wrong paths and reveals what actually works. Without it, you're guessing."
+faqFr:
+  - q: "Comment transformer l'échec en feedback ?"
+    a: "Après un revers, posez 3 questions : (1) Qu'est-ce qui a spécifiquement mal tourné ? (2) Qu'est-ce qui était sous mon contrôle ? (3) Que ferai-je différemment la prochaine fois ? Écrivez les réponses."
+  - q: "Pourquoi l'échec est-il nécessaire pour réussir ?"
+    a: "Chaque expert a été un débutant qui a échoué répétitivement. Edison a testé 1000 matériaux avant de trouver le bon filament. L'échec élimine les mauvais chemins et révèle ce qui fonctionne réellement."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

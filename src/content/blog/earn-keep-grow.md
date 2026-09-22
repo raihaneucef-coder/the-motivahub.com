@@ -12,17 +12,27 @@ imageAlt: "Youssef Raihane - earn keep grow concept"
 featured: false
 draft: false
 keywords:
-  - "earn"
-  - "keep"
-  - "money"
-  - "growing"
-  - "grow"
-  - "jobs"
-  - "skill"
-  - "keeping"
+  - "earn keep grow money"
+  - "three jobs of money"
+  - "personal finance basics"
+  - "how to manage money simply"
+  - "wealth building principles"
+  - "financial discipline habits"
+  - "money mindset for beginners"
+  - "grow wealth step by step"
 tags:
   - "finance"
 wordCount: 384
+faq:
+  - q: "What does 'earn, keep, grow' mean in personal finance?"
+    a: "Three sequential jobs: (1) EARN — increase income through skills and value creation, (2) KEEP — protect money by spending less than you earn and avoiding debt, (3) GROW — invest the surplus in assets that compound (index funds, real estate, businesses). Most people skip to 'grow' without mastering 'keep.'"
+  - q: "What order should I handle my finances?"
+    a: "Always: earn → keep → grow. First, maximize income (skills, side projects). Second, control spending (budget, emergency fund). Third, invest the difference. Trying to invest while in debt or under-earning is the #1 beginner mistake."
+faqFr:
+  - q: "Que signifie « gagner, garder, faire grandir » en finances personnelles ?"
+    a: "Trois jobs séquentiels : (1) GAGNER — augmenter le revenu par les compétences, (2) GARDER — protéger l'argent en dépensant moins qu'on ne gagne, (3) FAIRE GRANDIR — investir le surplus dans des actifs qui composent."
+  - q: "Dans quel ordre dois-je gérer mes finances ?"
+    a: "Toujours : gagner → garder → faire grandir. D'abord maximiser le revenu. Ensuite contrôler les dépenses. Enfin investir la différence. Essayer d'investir tout en étant endetté est l'erreur n°1 du débutant."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
