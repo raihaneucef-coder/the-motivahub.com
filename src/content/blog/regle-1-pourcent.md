@@ -10,18 +10,25 @@ image: "/images/blog/regle-1-pourcent-3.jpg"
 imageAlt: "A single water drop creating ripples across a dark surface"
 topic: "Personal Growth"
 keywords:
-  - "year"
-  - "minutes"
-  - "daily"
-  - "discipline"
-  - "pages"
-  - "hours"
-  - "enough"
-  - "rule"
+  - "1% rule self improvement"
+  - "improve 1 percent every day"
+  - "37 times better in one year"
+  - "atomic habits 1 percent better"
+  - "small daily improvements compound"
+  - "how to get better every day"
+  - "marginal gains method"
+  - "daily 1 percent growth"
 tags:
   - "personal growth"
   - "how-to"
 wordCount: 342
+faq:
+  - q: "What is the 1% rule?"
+    a: "The 1% rule means improving by just 1% each day. Mathematically, 1.01³⁶⁵ = 37.8 — you become 37 times better in a year. Popularized by James Clear in Atomic Habits, the principle shows that tiny consistent gains compound into extraordinary results over time."
+  - q: "How do I apply the 1% rule in real life?"
+    a: "Pick one area (fitness, reading, skills) and add one small action daily: 1 extra rep, 5 more pages, 2 minutes of practice. The key is reducing the action to something so small you can't say no — then let consistency, not intensity, drive the compounding."
+  - q: "Is 1% improvement per day realistic?"
+    a: "Not literally every day — progress is non-linear. The 1% rule works as a mindset shift: focus on direction, not speed. Measuring weekly averages (did I show up 6/7 days?) beats obsessing over daily perfection. Most people improve 0.3-0.7% on average and still get massive annual results."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

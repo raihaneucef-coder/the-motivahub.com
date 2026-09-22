@@ -10,18 +10,25 @@ image: "/images/blog/retroengineering-objectifs-2.jpg"
 imageAlt: "A hand sketching a business plan timeline and growth curve in a notebook"
 topic: "Goals"
 keywords:
-  - "goal"
-  - "reverse"
-  - "daily"
-  - "words"
-  - "engineering"
-  - "work"
-  - "backward"
-  - "action"
+  - "reverse engineering your goals"
+  - "how to work backward from your goal"
+  - "break down big goals into steps"
+  - "goal achievement method"
+  - "reverse engineering success"
+  - "monthly milestone plan"
+  - "how to plan a big goal"
+  - "backwards planning technique"
 tags:
   - "goals"
   - "how-to"
 wordCount: 441
+faq:
+  - q: "What is reverse engineering a goal?"
+    a: "Reverse engineering a goal means starting at the desired end result and working backward to today. You define the final outcome, break it into quarterly milestones, then monthly targets, then weekly actions — so every daily task has a direct line to the goal."
+  - q: "How do you reverse engineer a goal step by step?"
+    a: "1) Write the specific end result with a deadline. 2) Identify the last milestone before the finish. 3) Ask 'what must be done just before that?' repeatedly until you reach this week. 4) Schedule those actions in your calendar as non-negotiable tasks."
+  - q: "Why is reverse planning more effective than forward planning?"
+    a: "Forward planning lets you add tasks that don't serve the goal. Reverse planning forces every action to justify its place because each step is derived from the endpoint. Studies on implementation intentions show specific backward plans double follow-through versus vague goal-setting."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

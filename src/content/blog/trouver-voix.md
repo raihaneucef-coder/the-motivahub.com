@@ -10,18 +10,25 @@ image: "/images/blog/trouver-voix-3.jpg"
 imageAlt: "A woman singing into a microphone in front of an audience"
 topic: "Confidence"
 keywords:
-  - "speaking"
-  - "speak"
-  - "voice"
-  - "ideas"
-  - "never"
-  - "share"
-  - "perfect"
-  - "past"
+  - "how to find your voice"
+  - "speaking up with confidence"
+  - "how to speak your mind"
+  - "overcome fear of speaking up"
+  - "assertive communication skills"
+  - "learn to express yourself clearly"
+  - "why can't I speak up"
+  - "build confidence in speaking"
 tags:
   - "confidence"
   - "how-to"
 wordCount: 348
+faq:
+  - q: "How do you find your voice and speak up?"
+    a: "Start in low-stakes settings: share an opinion with one trusted person, write before you speak, and use 'I think' sentences. Your voice strengthens through repetition, not perfection. Set a daily micro-goal — one sentence spoken that you would previously have kept silent."
+  - q: "Why is it hard to speak up?"
+    a: "The brain treats social rejection like physical pain (fMRI research, UCLA 2011). Fear of judgment triggers the same threat response as danger. The solution isn't eliminating fear — it's acting despite it. Each time you speak up and survive the discomfort, the amygdala recalibrates."
+  - q: "What's the difference between being assertive and aggressive?"
+    a: "Assertiveness states your needs clearly while respecting others' right to disagree. Aggression imposes your needs at others' expense. Formula: 'I feel/need X when Y happens, and I'd prefer Z.' This owns your position without attacking the listener."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

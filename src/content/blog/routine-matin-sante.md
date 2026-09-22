@@ -10,18 +10,25 @@ image: "/images/blog/routine-matin-sante-3.jpg"
 imageAlt: "A woman stretching her arms toward the sun at sunrise"
 topic: "Wellness"
 keywords:
-  - "morning"
-  - "live"
-  - "focus"
-  - "start"
-  - "routine"
-  - "routines"
-  - "world"
-  - "healthiest"
+  - "healthy morning routine"
+  - "morning habits backed by science"
+  - "how to start your day right"
+  - "best morning routine for energy"
+  - "world's healthiest people routines"
+  - "morning routine that changes your life"
+  - "science-based morning habits"
+  - "how to build a morning routine"
 tags:
   - "wellness"
   - "morning-routine"
 wordCount: 379
+faq:
+  - q: "What makes a healthy morning routine?"
+    a: "Research points to five evidence-backed elements: bright light exposure within 30 minutes of waking, hydration before caffeine, 20+ minutes of movement, a protein-rich breakfast, and no phone for the first 15 minutes. These regulate cortisol, boost dopamine, and set focus for the day."
+  - q: "What time should a healthy morning routine start?"
+    a: "Consistency matters more than the exact hour. Studies show waking at the same time daily (±30 min) improves sleep quality and energy more than an early alarm. Choose a wake time you can sustain 7 days a week, then work backward to allocate 45-60 minutes for your routine."
+  - q: "How long does it take to build a morning routine?"
+    a: "On average 66 days for a new habit to become automatic (University College London study). Start with just 2 habits for the first two weeks, add one more every 14 days. Trying to implement five changes at once drops adherence below 20%."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

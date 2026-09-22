@@ -10,18 +10,25 @@ image: "/images/blog/standard-non-negociable-2.jpg"
 imageAlt: "A loaded barbell with heavy blue plates resting in the rack"
 topic: "Discipline"
 keywords:
-  - "standard"
-  - "negotiable"
-  - "standards"
-  - "every"
-  - "rules"
-  - "never"
-  - "create"
-  - "identity"
+  - "non negotiable standards"
+  - "how to set personal rules"
+  - "stop negotiating with yourself"
+  - "discipline without willpower"
+  - "non negotiables personal development"
+  - "rules high achievers follow"
+  - "self discipline systems"
+  - "how to keep promises to yourself"
 tags:
   - "discipline"
   - "how-to"
 wordCount: 581
+faq:
+  - q: "What are non-negotiable standards?"
+    a: "Non-negotiable standards are personal rules you follow regardless of mood, weather, or external pressure. Unlike goals, they describe a floor — the minimum behavior you accept from yourself daily. Examples: 'I train 4× per week', 'I never skip writing', 'I am in bed by 11pm'."
+  - q: "How do I stop negotiating with myself?"
+    a: "Decide in advance, not in the moment. Write your 3-5 non-negotiables down and treat them as identity statements ('I am someone who…'). When a rule is already decided, your brain stops generating alternatives — willpower becomes unnecessary."
+  - q: "How many non-negotiables should you have?"
+    a: "Between 3 and 5. Too few and the system lacks structure; too many and compliance feels overwhelming. Start with the three rules that would make the biggest impact if never broken, then add more only after 60 days of full consistency."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
