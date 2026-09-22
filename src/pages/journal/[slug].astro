@@ -11,7 +11,7 @@ import AuthorBio from "../../components/AuthorBio.astro";
 import ArticleFaq from "../../components/ArticleFaq.astro";
 import TableOfContents from "../../components/TableOfContents.astro";
 import { getCollection, render } from "astro:content";
-import { detectLangFromSlug } from "../../utils/lang";
+import { getLangFromUrl } from "../../utils/i18n";
 import { getImageDimensions, thumbSrc } from "../../utils/image";
 
 export async function getStaticPaths() {
@@ -67,14 +67,18 @@ const related = [...curatedPosts, ...padded].slice(0, 4);
 const fallback = all.filter((p) => p.id !== post.id && !related.includes(p)).slice(0, 4 - related.length);
 const relatedPosts = related.concat(fallback).slice(0, 4);
 
-const postLang = detectLangFromSlug(post.id);
+// The language of an article comes from the route that renders it, never from
+// the slug: /journal/<slug>/ is the English route. Guessing from the slug made
+// every French-worded slug (regle-…, …-focus, …-guide…) declare lang="fr" +
+// og:locale fr_FR + inLanguage fr on its English page.
+const postLang = getLangFromUrl(Astro.url);
 const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
 const displayTitle = lang === "fr" && post.data.titleFr ? post.data.titleFr : post.data.title;
 const displayDesc = lang === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
 const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(post.data.topic) || post.data.topic.toLowerCase() === "books";
 ---
 
-<Layout title={`${displayTitle} — Motiva Hub`} description={displayDesc} image={post.data.image} ogType="article" lang={postLang}>
+<Layout title={`${displayTitle} — Motiva Hub`} description={displayDesc} image={post.data.image} ogType="article" lang={postLang} noindex={post.data.noindex}>
   <meta slot="head" property="article:published_time" content={post.data.pubDate.toISOString()} />
   <meta slot="head" property="article:modified_time" content={(post.data.updatedDate || post.data.pubDate).toISOString()} />
   <meta slot="head" name="keywords" content={(post.data.keywords || []).join(", ")} />

@@ -177,3 +177,5 @@ relatedArticles:
 2. Dr. Tim Noakes — <em>Challenging Beliefs</em> (2004), Central Governor Theory research
 3. <em>The Sports Scientist</em> — endurance and perceived exertion studies
 4. Atomic Habits by James Clear — for the system-level thinking behind habit test protocols</div>
+
+<div data-i18n-html="article_regle-40-pourcent_p58"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/cant-hurt-me-review/">Can't Hurt Me — what Goggins won't tell you</a> · <a href="/journal/deep-work-ritual/">The 3-hour deep work ritual</a> · <a href="/journal/discipline-beat-motivation/">Discipline beats motivation, every time</a></div>

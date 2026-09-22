@@ -22,6 +22,25 @@ tags:
   - "travel"
 wordCount: 315
 
+faq:
+  - q: "What is solo travel?"
+    a: "Solo travel means journeying alone — planning, moving and deciding for yourself with no travel companion. It is not the same as travelling by necessity alone; it is a deliberate choice to spend a trip answerable only to yourself, which is what turns an ordinary holiday into a very fast lesson in who you are when nobody is watching."
+  - q: "Is solo travel safe for a first-timer?"
+    a: "For most first trips, yes — provided you treat safety as a checklist rather than a mood. Tell someone your itinerary, favour well-reviewed accommodation near transit, keep digital copies of your documents, and trust the instinct that tells you a street or a situation is wrong. The risk is manageable and lower than the fear suggests; the fear itself is the main thing you are training to move past."
+  - q: "What are the real benefits of travelling alone?"
+    a: "Total control over your schedule, faster self-knowledge, and a confidence that comes from solving problems in a language you do not speak. Solo travellers also meet far more people, because a person dining or wandering alone reads as approachable in a way that a closed group does not."
+  - q: "How do I avoid feeling lonely on a solo trip?"
+    a: "Design for optional company rather than needing it. Stay in places with shared spaces, take one group activity a day — a walking tour, a class — and keep the evenings open to say yes. Loneliness on the road is almost always a problem of unstructured downtime, and a loose plan for the empty hours solves it."
+faqFr:
+  - q: "C'est quoi voyager seul ?"
+    a: "Voyager seul, c'est entreprendre un voyage en solitaire — planifier, se déplacer et décider par soi-même, sans compagnon de route. Ce n'est pas voyager seul par nécessité, mais faire le choix délibéré de passer un voyage à ne se rendre qu'à soi-même : c'est ce qui transforme des vacances ordinaires en une leçon très rapide sur qui l'on est quand personne ne nous regarde."
+  - q: "Est-ce que voyager seul est sûr pour une première fois ?"
+    a: "Pour la plupart des premiers voyages, oui — à condition de traiter la sécurité comme une liste de vérifications et non comme une humeur. Communiquez votre itinéraire à quelqu'un, privilégiez des hébergements bien notés près des transports, gardez des copies numériques de vos documents, et faites confiance à l'instinct qui vous dit qu'une rue ou une situation est mauvaise. Le risque est maîtrisable et inférieur à ce que laisse croire la peur ; c'est cette peur elle-même que l'on apprend à dépasser."
+  - q: "Quels sont les vrais bénéfices de voyager seul ?"
+    a: "Un contrôle total sur votre agenda, une meilleure connaissance de soi, et une confiance qui vient du fait de résoudre des problèmes dans une langue que l'on ne parle pas. Les voyageurs solitaires rencontrent aussi beaucoup plus de monde, car une personne qui mange ou se promène seule paraît abordable là où un groupe fermé ne l'est pas."
+  - q: "Comment ne pas se sentir seul pendant un voyage en solitaire ?"
+    a: "Concevez le voyage pour une compagnie facultative plutôt que nécessaire. Restez dans des lieux avec des espaces partagés, faites une activité de groupe par jour — visite à pied, cours — et gardez les soirées ouvertes pour pouvoir dire oui. La solitude sur la route est presque toujours un problème de temps libre non structuré, et un plan souple pour ces moments vides le résout."
+
 relatedArticles:
   - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"

@@ -57,3 +57,5 @@ relatedArticles:
 <div data-i18n-html="article_habit-stacking-made-simple_p11">You do not need more discipline. You need a better link.</div>
 
 <div data-i18n-html="article_habit-stacking-made-simple_p12">Stack it, and the new habit stops being new — it just becomes what you do next.</div>
+
+<div data-i18n-html="article_habit-stacking-made-simple_p13"><strong>Go deeper on habit stacking:</strong> the full chaining method is in <a href="/journal/habit-stacking-routine/">Habit Stacking: The Easiest Way to Build New Routines</a>, and you can build a stack line by line with the <a href="/tools/habit-stacker/">free Habit Stacker tool</a>.</div>

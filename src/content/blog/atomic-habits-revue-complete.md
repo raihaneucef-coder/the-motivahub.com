@@ -178,3 +178,5 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 <div data-i18n-html="article_atomic-habits-revue-complete_p60"><em>Youssef Raihane read Atomic Habits 4 times in 18 months. Each read changed a different layer: framework, misunderstandings, application, and calibration. The book is now permanently on his desk — not as a reference, but as a calibration tool.</em></div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p61"><em>Last updated: September 12, 2026 — added personal 18-month reading journey, specific changes in habits, and the calibration insight.</em></div>
+
+<div data-i18n-html="article_atomic-habits-revue-complete_p62"><strong>The other Atomic Habits pages on Motiva Hub:</strong> this is the complete conceptual breakdown. For the practical, step-by-step system, see the <a href="/guides/atomic-habits-ultimate-guide/">Atomic Habits Ultimate Guide</a>; for a first-person account of what changed across four reads, see <a href="/journal/atomic-habits-review/">I Read Atomic Habits 4 Times</a>.</div>

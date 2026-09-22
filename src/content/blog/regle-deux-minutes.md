@@ -111,3 +111,5 @@ After two weeks of the two-minute version, increase it slightly. One page become
 <div data-i18n-html="article_regle-deux-minutes_p35"><blockquote><em>Habits are the compound interest of self-improvement. The two-minute rule is the first deposit.</em></blockquote></div>
 
 <div data-i18n-html="article_regle-deux-minutes_p37"><strong>Start your first two-minute habit today.</strong> Use our <a href="/tracker/">Habit Tracker</a> to mark your first day. Then come back tomorrow. And the day after. And watch what happens.</div>
+
+<div data-i18n-html="article_regle-deux-minutes_p38"><strong>Ready to go deeper on the same idea?</strong> This is the beginner introduction. The full evidence and week-by-week protocol live in the <a href="/journal/two-minute-rule-guide/">2-Minute Rule: 7-Day Protocol &amp; Full Guide</a>, and the reflection on why two minutes works is in <a href="/journal/two-minute-threshold/">The Two-Minute Threshold</a>.</div>

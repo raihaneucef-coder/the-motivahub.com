@@ -101,3 +101,5 @@ relatedArticles:
 <div data-i18n-html="article_two-minute-threshold_p31">This is the doorway pattern in a single paragraph. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> turns it into a 7-day protocol and explains the science behind why shrinking a habit to something ridiculous is the only reliable way to keep it alive.</div>
 
 <div data-i18n-html="article_two-minute-threshold_p32">Shrink the habit. Open the door. The rest will follow.</div>
+
+<div data-i18n-html="article_two-minute-threshold_p33"><strong>Want the fuller mechanism behind this reflection?</strong> The complete identity-and-recovery framework is in <a href="/journal/2-minute-rule-system/">The 2-Minute Rule: A Complete System</a>, and the beginner how-to is in <a href="/journal/regle-deux-minutes/">Building Better Habits in 120 Seconds</a>.</div>

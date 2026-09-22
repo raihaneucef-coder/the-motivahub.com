@@ -21,7 +21,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 827
+wordCount: 753
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
@@ -33,99 +33,87 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p2">Discover the power of a winning mindset. Learn how to shift your thinking, overcome self-doubt, and build mental toughness for success.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p3">Ton mindset détermine tout. Pas ton talent. Pas tes circonstances. Pas ta chance. <strong>Ta façon de penser.</strong></div>
+<div data-i18n-html="article_mindset-etat-esprit_p3">Your mindset decides almost everything. Not your talent. Not your circumstances. Not your luck. <strong>The way you think.</strong></div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p4">Voici comment adopter un état d'esprit gagnant — et transformer chaque domaine de ta vie.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p4">Here is how to adopt a winning mindset — and, in doing so, change every area of your life.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p5"><h2>1. La différence entre mindset fixe et mindset de croissance</h2></div>
+<div data-i18n-html="article_mindset-etat-esprit_p5"><h2>1. Fixed Mindset vs. Growth Mindset</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p6">Carol Dweck, psychologue à Stanford, a découvert deux types de mindset :</div>
+<div data-i18n-html="article_mindset-etat-esprit_p6">Carol Dweck, a psychologist at Stanford, identified two basic mindsets:</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p7"><strong>Mindset fixe :</strong> « Je suis nul en maths. Je ne peux pas changer. »
-<strong>Mindset de croissance :</strong> « Je suis nul en maths <em>pour l'instant</em>. Je peux apprendre. »</div>
+<div data-i18n-html="article_mindset-etat-esprit_p7"><strong>Fixed mindset:</strong> “I'm bad at maths. That is just how I am.”<br><strong>Growth mindset:</strong> “I'm bad at maths <em>for now</em>. I can learn.”</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p8">La différence est un mot : <strong>« encore »</strong> (yet).</div>
+<div data-i18n-html="article_mindset-etat-esprit_p8">The entire difference fits in one word: <strong>yet</strong>.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p9">- « Je ne sais pas nager » → « Je ne sais pas nager <em>encore</em> »
-- « Je ne peux pas courir un marathon » → « Je ne peux pas courir un marathon <em>encore</em> »</div>
+<div data-i18n-html="article_mindset-etat-esprit_p9"><ul><li>“I can't swim” → “I can't swim <em>yet</em>.”</li><li>“I can't run a marathon” → “I can't run a marathon <em>yet</em>.”</li></ul></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p10">Ce petit mot change tout. Il transforme une limite en possibilité.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p10">That single small word changes everything. It turns a limit into a possibility.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p11"><h2>2. Le dialogue intérieur est tout</h2></div>
+<div data-i18n-html="article_mindset-etat-esprit_p11"><h2>2. Your Inner Dialogue Is Everything</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p12">Tu te parles à toi-même 6 000 fois par jour. La plupart du temps, tu ne le remarques même pas.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p12">You talk to yourself thousands of times a day, and most of it you never even notice.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p13">Le problème : ce dialogue est souvent cruel. « Tu es nul. Tu ne pourras jamais. Regarde les autres, ils sont meilleurs que toi. »</div>
+<div data-i18n-html="article_mindset-etat-esprit_p13">The problem is that the commentary is usually cruel: “You're useless. You'll never manage this. Look at everyone else — they're better than you.”</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p14"><strong>Le mindset gagnant commence par changer cette voix.</strong></div>
+<div data-i18n-html="article_mindset-etat-esprit_p14"><strong>A winning mindset begins by changing that voice.</strong></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p15">Pas enbeing positif de manière artificielle. Mais enbeing <strong>réaliste et bienveillant</strong>.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p15">Not by forcing fake positivity — but by learning to be <strong>honest and kind at the same time</strong>.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p16">Quand tu te dis « je suis nul », remplace par : « j'ai du mal avec ça en ce moment, mais je peux m'améliorer. »</div>
+<div data-i18n-html="article_mindset-etat-esprit_p16">When you catch yourself thinking “I'm bad at this,” replace it with “I'm struggling with this right now, and I can get better.”</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p17">Ce n'est pas du blabla positif. C'est la vérité. Tu peux t'améliorer. C'est prouvé.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p17">That is not positive spin. It is the truth: you can improve. That part is well established.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p18"><h2>3. L'inconfort est le prix du progrès</h2></div>
+<div data-i18n-html="article_mindset-etat-esprit_p18"><h2>3. Discomfort Is the Price of Progress</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p19"><blockquote><em>Si c'était facile, tout le le monde le ferait.</em></blockquote></div>
+<div data-i18n-html="article_mindset-etat-esprit_p19"><blockquote><em>If it were easy, everyone would do it.</em></blockquote></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p20">Le mindset gagnant ne fuit pas l'inconfort. Il le recherche. Parce qu'il sait que <strong>l'inconfort est le signal que tu progresses.</strong></div>
+<div data-i18n-html="article_mindset-etat-esprit_p20">A winning mindset does not run from discomfort. It looks for it, because it knows that <strong>discomfort is the signal that you are growing.</strong></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p21">Quand c'est dur, c'est que tu es en train de grandir. Quand c'est facile, c'est que tu stagnes.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p21">When it is hard, you are growing. When it is easy, you are stalling.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p22">Trois signes que tu es dans la zone de croissance :
-- Tu doutes de toi (c'est normal)
-- Tu fais quelque chose de nouveau (c'est effrayant)
-- Tu te sens légèrement mal à l'aise (c'est le signal)</div>
+<div data-i18n-html="article_mindset-etat-esprit_p22">Three signs that you are in the growth zone:
+<ul><li>You doubt yourself — normal.</li><li>You are doing something new — frightening.</li><li>You feel slightly uncomfortable — that is the signal.</li></ul></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p23"><h2>4. Les échecs sont des données, pas des verdicts</h2></div>
+<div data-i18n-html="article_mindset-etat-esprit_p23"><h2>4. Failures Are Data, Not Verdicts</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p24">Thomas Edison a fait 10 000 expériences avant d'inventer l'ampoule. Quand on lui a demandé s'il avait échoué, il a répondu : « Non, j'ai découvert 10 000 façons qui ne fonctionnent pas. »</div>
+<div data-i18n-html="article_mindset-etat-esprit_p24">Thomas Edison ran thousands of attempts before a light bulb finally worked. When someone asked whether he had failed, he answered that he had not failed — he had simply found thousands of ways that did not work.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p25">Le mindset gagnant voit l'échec comme <strong>une donnée</strong>, pas comme un verdict.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p25">A winning mindset treats failure as <strong>data</strong>, never as a verdict.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p26">- Tu as raté un examen ? C'est une donnée sur ta méthode de révision.
-- Tu as perdu un client ? C'est une donnée sur ton approche.
-- Tu as échoué dans un projet ? C'est une donnée sur ton système.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p26"><ul><li>Failed an exam? That is data about your study method.</li><li>Lost a client? That is data about your approach.</li><li>A project fell apart? That is data about your system.</li></ul></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p27"><strong>Ne pleure pas sur l'échec. Analyse-le. Ajuste. Recommence.</strong></div>
+<div data-i18n-html="article_mindset-etat-esprit_p27"><strong>Do not mourn the failure. Analyse it. Adjust. Start again.</strong></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p28"><h2>5. L'entourage fait 50% du travail</h2></div>
+<div data-i18n-html="article_mindset-etat-esprit_p28"><h2>5. Your Environment Does Half the Work</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p29">Jim Rohn l'a dit : « Tu es la moyenne des 5 personnes avec qui tu passes le plus de temps. »</div>
+<div data-i18n-html="article_mindset-etat-esprit_p29">As Jim Rohn put it: “You are the average of the five people you spend the most time with.”</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p30">Si ton entourage se plaint tout le temps, tu te plains. Si ton entourage progresse, tu progresses. Si ton entourage est confortable, tu restes confortable.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p30">If the people around you complain constantly, you complain. If they grow, you grow. If they stay comfortable, you stay comfortable.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p31"><strong>Choisis ton entourage comme tu choisiras ton_DIET_ — avec intention.</strong></div>
+<div data-i18n-html="article_mindset-etat-esprit_p31"><strong>Choose your company the way you would choose your food — deliberately.</strong></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p32">- Cherche des gens qui te soulèvent, pas qui t'enfoncent
-- Lis des livres qui te challengeent, pas qui te confirment
-- Écoute des podcasts qui t'éduquent, pas qui te divertissent</div>
+<div data-i18n-html="article_mindset-etat-esprit_p32"><ul><li>Seek people who lift you, not people who drag you down.</li><li>Read books that challenge you, not books that only confirm what you already believe.</li><li>Listen to podcasts that teach you, not only ones that entertain you.</li></ul></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p33"><h2>6. La discipline du matin crée le mindset de la journée</h2></div>
+<div data-i18n-html="article_mindset-etat-esprit_p33"><h2>6. Morning Discipline Sets the Tone of the Day</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p34">La première heure de ta journée détermine le reste. Si tu commences par les réseaux sociaux, tu commences en mode réactif. Si tu commences par quelque chose de volontaire, tu commences en mode proactif.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p34">The first hour of your day decides the rest of it. Start on social media and you begin in reactive mode. Start with something deliberate and you begin in proactive mode.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p35"><strong>Routine du mindset gagnant :</strong>
-1. 5 minutes de silence (méditation ou respiration)
-2. 5 minutes de journaling (ce que je suis reconnaissant, ce que je veux accomplir)
-3. 10 minutes de lecture (quelque chose qui t'élève)</div>
+<div data-i18n-html="article_mindset-etat-esprit_p35"><strong>A winning-mindset morning:</strong>
+<ol><li>5 minutes of silence — meditation or breathing.</li><li>5 minutes of journaling — what you are grateful for, what you want to accomplish.</li><li>10 minutes of reading — something that raises you.</li></ol></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p36">20 minutes pour programmer ton cerveau pour la victoire.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p36">Twenty minutes to program your brain for the day.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p37"><h2>7. La visualisation n'est pas du rêve — c'est de la planification</h2></div>
+<div data-i18n-html="article_mindset-etat-esprit_p37"><h2>7. Visualisation Is Not Daydreaming — It Is Planning</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p38">Les athlètes de haut niveau visualisent leur performance avant de la faire. Ce n'est pas du rêve. C'est de la <strong>préparation mentale</strong>.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p38">Elite athletes rehearse a performance long before they deliver it. That is not wishful thinking; it is <strong>mental preparation</strong>.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p39">Chaque matin, visualise :
-- La journée que tu veux vivre
-- Les défis que tu rencontreras
-- Comment tu vas les surmonter</div>
+<div data-i18n-html="article_mindset-etat-esprit_p39">Every morning, visualise:
+<ul><li>The day you want to have.</li><li>The obstacles you will meet.</li><li>Exactly how you intend to handle them.</li></ul></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p40"><blockquote><em>Le mindset gagnant ne souhaite pas. Il planifie. Il visualise. Il agit.</em></blockquote></div>
+<div data-i18n-html="article_mindset-etat-esprit_p40"><blockquote><em>A winning mindset does not wish. It plans. It rehearses. It acts.</em></blockquote></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p42"><strong>Prêt à transformer ton mindset ?</strong> Commence par notre <a href="/30-days-discipline/">30 Days of Discipline</a> — 30 jours pour forger un mental d'acier. Et utilise notre <a href="/tracker/">Habit Tracker</a> pour construire des routines qui soutiennent ton nouvel état d'esprit.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p42"><strong>Ready to change your mindset?</strong> Start with our <a href="/30-days-discipline/">30 Days of Discipline</a> — thirty days to forge a tougher mind — and use our <a href="/tracker/">Habit Tracker</a> to build the routines that hold your new mindset in place.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p44"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>
+<div data-i18n-html="article_mindset-etat-esprit_p44"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/growth-mindset-rewire/">Growth Mindset: Rewire Your Brain</a> · <a href="/journal/comment-devenir-mentalement-inebranlable/">How to Become Mentally Unbreakable</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Habits: The 90-Day Test</a></div>

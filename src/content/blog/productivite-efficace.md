@@ -22,6 +22,9 @@ tags:
   - "productivity"
   - "how-to"
 wordCount: 698
+# English route deprecated: the body is French and the intent is covered by
+# technique-pomodoro / deep-work-focus (EN). The French page stays live.
+noindex: true
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

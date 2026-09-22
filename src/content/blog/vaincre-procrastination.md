@@ -22,6 +22,9 @@ tags:
   - "productivity"
   - "how-to"
 wordCount: 796
+# English route deprecated: the body is French and the intent is covered by
+# real-reason-you-procrastinate (EN). The French page at /fr/journal/ stays live.
+noindex: true
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
