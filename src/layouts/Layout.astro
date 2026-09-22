@@ -107,7 +107,7 @@ const deferGa = GA_ID
     {GA_ID && (
       <script is:inline define:vars={{ gaSnippet, deferGa }} set:html={gaSnippet + deferGa}></script>
     )}
-    <link rel="preload" href="/fonts/fraunces-normal-latin-63f165.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/space-grotesk-normal-latin.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/inter-normal-latin-1ab1ad.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href={`/styles/global.css?v=${globalCssV}`} />
     <slot name="head" />
@@ -518,39 +518,15 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
         if (!ticking) { window.requestAnimationFrame(update); ticking = true; }
       }, { passive: true });
       update();
-
+    
       const observer = new IntersectionObserver((entries) => {
         entries.forEach((e) => {
           if (e.isIntersecting) e.target.classList.add('visible');
         });
       }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
       document.querySelectorAll('.reveal, .reveal-stagger, .reveal-scale').forEach((el) => {
-        // Only below-fold elements start hidden; above-fold paint instantly (LCP)
         if (el.getBoundingClientRect().top > window.innerHeight) el.classList.add('reveal-init');
         observer.observe(el);
-      });
-
-      // (magnetic buttons + 3D card tilt + custom cursor removed for performance)
-
-      // Page transition (fade-up on link click)
-      document.querySelectorAll('a[href^="/"]:not([href^="//"])').forEach((a) => {
-        a.addEventListener('click', (e) => {
-          const href = a.getAttribute('href');
-          if (href.startsWith('#') || a.target === '_blank' || e.metaKey || e.ctrlKey) return;
-          if (document.querySelector('.page-leaving')) return;
-          if (document.querySelector('.page-curtain')) return;
-          e.preventDefault();
-          const curtain = document.createElement('div');
-          curtain.className = 'page-curtain';
-          document.body.appendChild(curtain);
-          requestAnimationFrame(() => curtain.classList.add('active'));
-          const cleanup = () => {
-            try { curtain.remove(); } catch (e) {}
-          };
-          setTimeout(() => { cleanup(); window.location.href = href; }, 120);
-          window.addEventListener('pagehide', cleanup, { once: true });
-          window.addEventListener('pageshow', cleanup, { once: true });
-        });
       });
     })();
   </script>

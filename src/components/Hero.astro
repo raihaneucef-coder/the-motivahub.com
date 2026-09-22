@@ -11,39 +11,18 @@ interface Props {
   meta?: Array<{ num: string; label: string }>;
 }
 
-const { kicker = "Est. 2025 · The Long Ascent", title, subtitle, image = "/images/hero-mountain-man.jpg", primaryCta, secondaryCta, meta } = Astro.props;
-// The homepage hero is shared by / and /fr/, so its CTAs must carry the locale
-// of the page being built instead of always pointing at the English funnels.
+const { kicker = "Motiva Hub", title, subtitle, image = "/images/hero-poster.jpg", primaryCta, secondaryCta, meta } = Astro.props;
 const locale = getLangFromUrl(Astro.url);
 const primaryCtaHref = getLocalePath(primaryCta.href, locale);
 const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
-const titleText = title.replace(/<[^>]+>/g, '');
-const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
 ---
 
 <section class="hero hero-portrait" id="hero">
-    <img
-      class="hero-portrait-bg"
-      src={webpImage}
-      alt=""
-      fetchpriority="high"
-      loading="eager"
-      decoding="async"
-      width="1920"
-      height="1080"
-    />
-  <noscript>
-    <style>.hero-portrait-bg{background-image:url('${webpImage}')}</style>
-  </noscript>
+  <video class="hero-video" autoplay muted loop playsinline poster={image}>
+    <source src="/videos/hero-bg.webm" type="video/webm">
+    <source src="/videos/hero-bg.mp4" type="video/mp4">
+  </video>
   <div class="hero-portrait-overlay"></div>
-
-  <div class="hero-vertical-text" aria-hidden="true">
-    <span data-i18n="heroVertical1">EST · MMXXV</span>
-    <span>·</span>
-    <span data-i18n="heroVertical2">THE LONG ASCENT</span>
-    <span>·</span>
-    <span data-i18n="heroVertical3">NO SHORTCUTS</span>
-  </div>
 
   <div class="container">
     <div class="hero-content">
@@ -56,21 +35,21 @@ const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
         <Fragment set:html={title} />
       </h1>
 
-      <p class="hero-subtitle" data-stagger-reveal data-i18n="heroSubtitle">{subtitle}</p>
+      <p class="hero-subtitle" data-i18n="heroSubtitle">{subtitle}</p>
 
-      <div class="hero-btns" data-stagger-reveal>
-        <a class="btn btn-primary btn-magnetic" href={primaryCtaHref}>
+      <div class="hero-btns">
+        <a class="btn btn-primary" href={primaryCtaHref}>
           <span data-i18n="heroPrimary">{primaryCta.label}</span>
-          <span class="btn-arrow-sm">→</span>
+          <span class="btn-arrow-sm">{String.fromCharCode(8594)}</span>
         </a>
-        <a class="btn btn-ghost btn-magnetic" href={secondaryCtaHref}>
+        <a class="btn btn-ghost" href={secondaryCtaHref}>
           <span data-i18n="heroSecondary">{secondaryCta.label}</span>
-          <span class="btn-arrow-sm">→</span>
+          <span class="btn-arrow-sm">{String.fromCharCode(8594)}</span>
         </a>
       </div>
 
       {meta && meta.length > 0 && (
-        <div class="hero-meta" data-stagger-reveal>
+        <div class="hero-meta">
           {meta.map((m) => (
             <div class="hero-meta-item">
               <span class="hero-meta-num" set:html={m.num}></span>
@@ -81,52 +60,15 @@ const webpImage = image.replace(/\.(jpg|jpeg|png)$/i, '.webp');
       )}
     </div>
   </div>
-
-  <div class="hero-scroll">
-    <span data-i18n="heroScroll">SCROLL</span>
-    <span class="hero-scroll-line"></span>
-  </div>
-
-  <div class="hero-corner hero-corner-br" aria-hidden="true">
-    <span data-i18n="heroFrame">Frame 01 / 12</span>
-  </div>
 </section>
 
-<script is:inline>
-  (function () {
-    const hero = document.getElementById('hero');
-    if (!hero) return;
-
-    // Letter-by-letter reveal
-    const words = hero.querySelectorAll('.hero-title-word');
-    words.forEach((word, i) => {
-      const text = word.textContent;
-      word.innerHTML = '';
-      const letters = text.split('');
-      letters.forEach((letter, j) => {
-        const span = document.createElement('span');
-        span.className = 'hero-letter';
-        span.textContent = letter === ' ' ? '\u00A0' : letter;
-        span.style.transitionDelay = (0.05 + (i * 0.02) + (j * 0.008)) + 's';
-        word.appendChild(span);
-      });
-    });
-    requestAnimationFrame(() => {
-      hero.querySelectorAll('[data-stagger-reveal]').forEach((el, idx) => {
-        el.style.transitionDelay = (0.05 + idx * 0.05) + 's';
-        el.classList.add('revealed');
-      });
-      hero.querySelectorAll('.hero-letter').forEach((l) => l.classList.add('revealed'));
-    });
-
-    // Single-layer scroll-driven parallax (no mouse, no rotation, no second layer)
-    const onScroll = () => {
-      const rect = hero.getBoundingClientRect();
-      if (rect.bottom < 0) return;
-      const progress = Math.max(0, Math.min(1, 1 - (rect.bottom / window.innerHeight)));
-      hero.style.setProperty('--scroll-depth', progress.toFixed(3));
-    };
-    window.addEventListener('scroll', onScroll, { passive: true });
-    onScroll();
-  })();
-</script>
+<style>
+  .hero-video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
+</style>

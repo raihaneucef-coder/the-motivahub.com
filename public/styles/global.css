@@ -437,6 +437,14 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-sep { color:rgb
   src: url(/fonts/jetbrains-mono-normal-latin-1cd702.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url(/fonts/space-grotesk-normal-latin.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 
 /* Manifesto watermark is now an inline SVG (axe ignores SVG text for contrast) */
 svg.manifesto-bg{width:min(92vw,1500px);height:auto}
@@ -449,3 +457,371 @@ svg.manifesto-bg{width:min(92vw,1500px);height:auto}
 .affiliate-footer a{text-decoration:underline !important}
 
 .card-date{color:var(--muted) !important}
+
+/* ==========================================================================
+   DARK THEME REDESIGN - Complete visual overhaul
+   ========================================================================== */
+
+/* --- 1. Color System Override --- */
+:root {
+  --cream: #0a0a0a;
+  --cream-deep: #111111;
+  --cream-soft: #161616;
+  --ink: #f0f0f0;
+  --ink-soft: #d4d4d4;
+  --ink-mute: #b0b0b0;
+  --paper: #141414;
+  --sage: #ff4d00;
+  --sage-deep: #ff4d00;
+  --sage-soft: #ff6a2a;
+  --or: #ff4d00;
+  --or-light: #ff6a2a;
+  --or-deep: #e04400;
+  --rust: #ff4d00;
+  --line: #2a2a2a;
+  --line-soft: #1e1e1e;
+  --muted: #888888;
+  --muted-soft: #666666;
+  --serif: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --sans: "Inter", system-ui, sans-serif;
+  --mono: "JetBrains Mono", monospace;
+}
+
+/* --- 2. Remove AI Decorations --- */
+body::before { display: none !important; }
+.prose hr::before { content: none !important; }
+.prose hr { border-top: 1px solid var(--line); margin: 3em 0; height: 0; }
+.prose .drop-cap::first-letter { font-size: inherit; font-weight: inherit; float: none; line-height: inherit; margin: 0; color: inherit; }
+.cursor-follower, .cursor-dot { display: none !important; }
+.page-curtain { display: none !important; }
+main { animation: none !important; }
+body { cursor: auto !important; }
+body.custom-cursor { cursor: auto !important; }
+body.custom-cursor a, body.custom-cursor button { cursor: pointer !important; }
+
+/* --- 3. Dark Background + Light Text --- */
+body {
+  background: #0a0a0a !important;
+  color: #f0f0f0 !important;
+}
+::selection { background: #ff4d00; color: #fff; }
+::-moz-selection { background: #ff4d00; color: #fff; }
+::-webkit-scrollbar-track { background: #111111; }
+::-webkit-scrollbar-thumb { background: #333; border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: #ff4d00; }
+
+/* --- 4. Typography: Bold Sans Headings --- */
+h1, h2, h3, h4 {
+  font-family: "Space Grotesk", "Inter", system-ui, sans-serif !important;
+  font-weight: 700 !important;
+  color: #f0f0f0 !important;
+  letter-spacing: -0.02em;
+}
+em, i { font-style: normal; font-family: inherit; }
+.lead {
+  font-family: "Inter", system-ui, sans-serif !important;
+  font-style: normal !important;
+  color: #b0b0b0 !important;
+}
+
+/* --- 5. Prose (Article Body) --- */
+.prose {
+  font-family: "Inter", system-ui, sans-serif !important;
+  color: #d4d4d4 !important;
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}
+.prose p { font-family: "Inter", system-ui, sans-serif !important; color: #d4d4d4; }
+.prose h2 { color: #f0f0f0 !important; font-weight: 700 !important; }
+.prose h3 { color: #f0f0f0 !important; }
+.prose h2::before { background: #ff4d00 !important; }
+.prose a { color: #ff6a2a !important; background-image: none !important; text-decoration: underline; text-underline-offset: 3px; }
+.prose a:hover { color: #ff4d00 !important; }
+.prose strong { color: #f0f0f0 !important; }
+.prose blockquote {
+  color: #f0f0f0 !important;
+  background: rgba(255, 77, 0, 0.06) !important;
+  border-left-color: #ff4d00 !important;
+  font-style: normal !important;
+  font-family: "Inter", system-ui, sans-serif !important;
+}
+.prose ul, .prose ol { font-family: "Inter", system-ui, sans-serif !important; }
+.prose li::marker { color: #ff4d00; }
+
+/* --- 6. Header (Dark) --- */
+.site-header.scrolled { background: rgba(10, 10, 10, 0.95) !important; border-bottom-color: #2a2a2a !important; }
+.logo { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.logo-word em { color: #ff4d00 !important; font-style: normal !important; }
+.menu-btn { color: #f0f0f0 !important; border-color: #333 !important; background: rgba(255,255,255,0.05) !important; }
+.menu-btn:hover { background: #ff4d00 !important; color: #fff !important; border-color: #ff4d00 !important; }
+.lang-switcher { border-color: #333 !important; background: rgba(255,255,255,0.05) !important; color: #f0f0f0 !important; }
+.lang-btn { color: #888 !important; }
+.lang-btn.active { color: #f0f0f0 !important; }
+.lang-sep { color: #333 !important; }
+.header-nav a { color: #b0b0b0 !important; }
+.header-nav a:hover { color: #ff4d00 !important; }
+
+/* Fix header scoping for dark theme */
+body:has(.hero-portrait) .site-header:not(.scrolled) .logo { color: #FFFFFF }
+body:has(.hero-portrait) .site-header:not(.scrolled) .logo .logo-word em { color: #ff4d00 }
+body:has(.hero-portrait) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.3);background:rgba(255,255,255,0.08) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.25);background:rgba(255,255,255,0.08) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.7) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn.active { color:#FFFFFF }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) { color: #f0f0f0 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .logo { color: #f0f0f0 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .logo .logo-word em { color: #ff4d00 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .menu-btn { color:#f0f0f0;border-color:#333;background:rgba(255,255,255,0.05) }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-switcher { color:#f0f0f0;border-color:#333;background:rgba(255,255,255,0.05) }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn { color:#888 }
+body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { color:#f0f0f0 }
+
+/* --- 7. Hero Section --- */
+.hero-portrait { background: #0a0a0a !important; color: #f0f0f0 !important; }
+.hero-portrait .hero-title {
+  font-family: "Space Grotesk", sans-serif !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
+  color: #fff !important;
+  text-shadow: 0 2px 20px rgba(0,0,0,0.5) !important;
+  text-align: left !important;
+  margin-left: 0 !important;
+  max-width: none !important;
+}
+.hero-portrait .hero-title em {
+  color: #ff4d00 !important;
+  font-style: normal !important;
+  background: none !important;
+  -webkit-background-clip: initial !important;
+  background-clip: initial !important;
+  -webkit-text-fill-color: #ff4d00 !important;
+  filter: none !important;
+  text-shadow: none !important;
+}
+.hero-portrait .hero-subtitle {
+  font-style: normal !important;
+  font-family: "Inter", sans-serif !important;
+  color: #b0b0b0 !important;
+  text-align: left !important;
+  margin-left: 0 !important;
+  max-width: 50ch !important;
+}
+.hero-content { text-align: left !important; padding-left: clamp(20px, 4vw, 56px) !important; }
+.hero-eyebrow { border-color: rgba(255,255,255,0.2) !important; background: rgba(255,77,0,0.1) !important; color: #ff6a2a !important; margin: 0 0 28px !important; }
+.hero-eyebrow::before { background: #ff4d00 !important; box-shadow: 0 0 12px #ff4d00 !important; }
+.hero-btns { justify-content: flex-start !important; }
+.hero-meta { text-align: left !important; margin: 0 !important; max-width: none !important; }
+.hero-meta-item { align-items: flex-start !important; }
+.hero-meta-num { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.hero-meta-num em { color: #ff4d00 !important; font-style: normal !important; }
+.hero-meta-label { color: #888 !important; }
+.hero-vertical-text { display: none !important; }
+.hero-scroll { display: none !important; }
+.hero-corner { display: none !important; }
+.hero-portrait-overlay {
+  background: linear-gradient(135deg, rgba(10,10,10,0.3) 0%, rgba(10,10,10,0.8) 100%) !important;
+}
+
+/* --- 8. Buttons --- */
+.btn-primary { background: #ff4d00 !important; color: #fff !important; box-shadow: 0 4px 20px rgba(255,77,0,0.3) !important; }
+.btn-primary:hover { background: #ff6a2a !important; transform: translateY(-2px); box-shadow: 0 8px 30px rgba(255,77,0,0.4) !important; }
+.btn-ghost { border-color: rgba(255,255,255,0.3) !important; color: #f0f0f0 !important; background: rgba(255,255,255,0.05) !important; }
+.btn-ghost:hover { background: #fff !important; color: #0a0a0a !important; }
+.btn-ink { background: #f0f0f0 !important; color: #0a0a0a !important; }
+.btn-ink:hover { background: #fff !important; }
+.btn-outline { border-color: #333 !important; color: #f0f0f0 !important; }
+.btn-outline:hover { background: #ff4d00 !important; border-color: #ff4d00 !important; color: #fff !important; }
+.btn-arrow { color: #f0f0f0 !important; }
+.btn-arrow:hover { color: #ff4d00 !important; }
+
+/* --- 9. Sections --- */
+.section-head { border-bottom-color: #2a2a2a !important; }
+.section-head h2 { color: #f0f0f0 !important; }
+.section-head h2 em { color: #ff4d00 !important; font-style: normal !important; }
+.section-head p { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+.section-dark { background: #111111 !important; }
+.section-cream-deep { background: #111111 !important; }
+.kicker { color: #ff4d00 !important; }
+.kicker::before { background: #ff4d00 !important; }
+
+/* --- 10. Cards --- */
+.card { background: #141414 !important; border-color: #2a2a2a !important; }
+.card:hover { border-color: #ff4d00 !important; box-shadow: 0 8px 30px rgba(255,77,0,0.1) !important; }
+.card-title { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; font-weight: 600 !important; }
+.card:hover .card-title { color: #ff4d00 !important; }
+.card-excerpt { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+.card-meta { color: #666 !important; }
+.card-tag { background: #ff4d00 !important; color: #fff !important; }
+.card-img-wrap { background: #1a1a1a !important; }
+.card-foot { border-top-color: #2a2a2a !important; }
+.card-author { color: #666 !important; }
+.card-date { color: #666 !important; }
+.featured-card { background: #141414 !important; border-color: #2a2a2a !important; }
+.featured-card h2 { color: #f0f0f0 !important; }
+.featured-card h2 a { background-image: none !important; color: #f0f0f0 !important; }
+.featured-card h2 a:hover { color: #ff4d00 !important; }
+.featured-card .card-pad > p:not(.card-meta):not(.card-date) { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+
+/* --- 11. Footer --- */
+.site-footer { background: #0a0a0a !important; border-top: 1px solid #2a2a2a; }
+.footer-newsletter { background: #111111 !important; }
+.footer-newsletter::before { background: radial-gradient(circle, rgba(255,77,0,0.08) 0%, transparent 70%) !important; }
+.footer-newsletter h2 { color: #f0f0f0 !important; }
+.footer-newsletter h2 em { color: #ff4d00 !important; font-style: normal !important; }
+.footer-newsletter p { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+.newsletter-form { border-color: #333 !important; background: rgba(255,255,255,0.03) !important; }
+.newsletter-form:focus-within { border-color: #ff4d00 !important; }
+.newsletter-form input { color: #f0f0f0 !important; }
+.newsletter-form button { background: #ff4d00 !important; color: #fff !important; }
+.newsletter-form button:hover { background: #ff6a2a !important; }
+.footer-col h3 { color: #ff4d00 !important; }
+.footer-col a { color: #888 !important; }
+.footer-col a:hover { color: #f0f0f0 !important; }
+.footer-bottom { border-top-color: #2a2a2a !important; }
+.footer-bottom p { color: #555 !important; }
+.footer-bottom-links a { color: #555 !important; }
+.footer-bottom-links a:hover { color: #f0f0f0 !important; }
+.footer-tagline { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+.footer-social a { border-color: #333 !important; color: #888 !important; }
+.footer-social a:hover { background: #ff4d00 !important; color: #fff !important; border-color: #ff4d00 !important; }
+.footer-brand .logo { color: #f0f0f0 !important; }
+.footer-brand .logo em { color: #ff4d00 !important; }
+
+/* --- 12. Trust Strip / Brand Stats --- */
+.trust-strip { background: #111111 !important; border-color: #2a2a2a !important; }
+.trust-logo { color: #666 !important; font-style: normal !important; }
+.trust-logo:hover { color: #f0f0f0 !important; }
+.trust-label { color: #555 !important; }
+.brand-stats { background: #111111 !important; }
+.brand-stats::before { background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px) !important; }
+.brand-stat { border-right-color: #2a2a2a !important; }
+.brand-stat-num { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.brand-stat-label { color: #ff4d00 !important; }
+.brand-stat-desc { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+
+/* --- 13. Manifesto --- */
+.manifesto { background: #0a0a0a !important; }
+.manifesto-bg { color: #1a1a1a !important; font-style: normal !important; }
+.manifesto-statement { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; font-weight: 700 !important; }
+.manifesto-statement em { color: #ff4d00 !important; font-style: normal !important; }
+.manifesto-cite { color: #666 !important; }
+.manifesto-cite::before, .manifesto-cite::after { background: #333 !important; }
+
+/* --- 14. Founder --- */
+.founder { background: #0a0a0a !important; }
+.founder-title { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; font-weight: 700 !important; }
+.founder-title em { color: #ff4d00 !important; font-style: normal !important; }
+.founder-lead { font-style: normal !important; color: #b0b0b0 !important; font-family: "Inter", sans-serif !important; }
+.founder-text p { font-family: "Inter", sans-serif !important; color: #888 !important; }
+.founder-portrait { background: #1a1a1a !important; }
+.founder-signature { color: #ff4d00 !important; }
+
+/* --- 15. Quote --- */
+.quote-premium { background: #111111 !important; }
+.quote-premium::before { background: radial-gradient(circle, rgba(255,77,0,0.06) 0%, transparent 60%) !important; }
+.quote-premium-mark { color: #ff4d00 !important; font-style: normal !important; }
+.quote-premium-text { font-style: normal !important; color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.quote-premium-author { font-style: normal !important; color: #f0f0f0 !important; }
+.quote-premium-line { background: #ff4d00 !important; }
+
+/* --- 16. Page Head (Left-aligned) --- */
+.page-head { text-align: left !important; }
+.page-head p { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; margin: 0 !important; max-width: 60ch !important; }
+.page-head-tagline { color: #ff4d00 !important; margin: 16px 0 0 !important; }
+@media (min-width: 769px) {
+  .page-head { text-align: left !important; }
+  .article-header, .article-header .container { text-align: left !important; }
+  .legal .container > h1 { text-align: left !important; }
+  .legal .container > p:first-of-type { text-align: left !important; }
+}
+
+/* --- 17. Article Page --- */
+.article-hero { background: #0a0a0a !important; }
+.article-title { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; font-weight: 700 !important; }
+.article-title em { color: #ff4d00 !important; font-style: normal !important; }
+.article-deck { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+.article-meta { color: #666 !important; border-top-color: #2a2a2a !important; }
+.article-meta strong { color: #f0f0f0 !important; }
+.article-body { color: #d4d4d4 !important; }
+.article-nav { border-top-color: #2a2a2a !important; }
+.article-header { background: transparent !important; }
+.article-cover { background: #1a1a1a !important; }
+.link-ochre { color: #ff4d00 !important; }
+.link-ochre:hover { color: #ff6a2a !important; }
+.read-more { color: #ff4d00 !important; }
+.read-more:hover { color: #ff6a2a !important; }
+
+/* --- 18. Overlay Menu --- */
+.overlay-menu { background: #0a0a0a !important; color: #f0f0f0 !important; }
+.overlay-nav a { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.overlay-nav a:hover { color: #ff4d00 !important; }
+.overlay-nav-heading { color: #ff4d00 !important; border-bottom-color: #2a2a2a !important; }
+.overlay-foot { border-top-color: #2a2a2a !important; }
+.overlay-foot p { font-style: normal !important; color: #666 !important; }
+.overlay-head .logo { color: #f0f0f0 !important; }
+.overlay-head .logo em { color: #ff4d00 !important; }
+.overlay-head .menu-btn { color: #f0f0f0 !important; border-color: #333 !important; }
+
+/* --- 19. Cookie Banner --- */
+.cookie-inner { background: #1a1a1a !important; border-color: #333 !important; }
+.cookie-inner p { color: #b0b0b0 !important; }
+.cookie-inner a { color: #ff4d00 !important; }
+.cookie-accept { background: #ff4d00 !important; color: #fff !important; }
+.cookie-accept:hover { background: #ff6a2a !important; }
+.cookie-decline { border-color: #444 !important; color: #b0b0b0 !important; }
+
+/* --- 20. Tools Section --- */
+.tool-card { background: #141414 !important; border: 1px solid #2a2a2a !important; }
+.tool-card:hover { border-color: #ff4d00 !important; }
+.tool-card-title { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.tool-card-desc { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+.tool-card-link { color: #ff4d00 !important; }
+.tool-card-num { color: #ff4d00 !important; }
+
+/* --- 21. Book Cards --- */
+.book-card { background: #141414 !important; border-color: #2a2a2a !important; }
+.book-body h3 { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.book-author { font-style: normal !important; color: #888 !important; }
+.book-desc { color: #888 !important; }
+.book-reason { color: #888 !important; }
+.book-reason strong { color: #f0f0f0 !important; }
+
+/* --- 22. Author/Contact pages --- */
+.author-bio-content p, .author-bio-text p,
+.article-body .container > p:not(.card-meta):not(.card-date):not(.kicker) {
+  font-family: "Inter", system-ui, sans-serif !important;
+  color: #b0b0b0 !important;
+}
+
+/* --- 23. Read Progress Bar --- */
+.read-progress::after { background: linear-gradient(90deg, #ff4d00 0%, #ff6a2a 100%) !important; }
+
+/* --- 24. Pillars --- */
+.pillars { border-color: #2a2a2a !important; }
+.pillar { border-right-color: #2a2a2a !important; }
+.pillar:hover { background: #141414 !important; }
+.pillar-num { color: #ff4d00 !important; }
+.pillar-title { color: #f0f0f0 !important; font-family: "Space Grotesk", sans-serif !important; }
+.pillar-title em { color: #ff4d00 !important; font-style: normal !important; }
+.pillar-desc { font-style: normal !important; color: #888 !important; font-family: "Inter", sans-serif !important; }
+
+/* --- 25. CTA Strip --- */
+.cta-strip { justify-content: flex-start !important; }
+
+/* --- 26. Hide stagger animation --- */
+[data-stagger-reveal] { opacity: 1 !important; transform: none !important; transition: none !important; }
+
+/* --- 27. Reveal animations: simplify --- */
+.reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+.reveal-stagger > * { opacity: 1 !important; transform: none !important; transition: none !important; }
+.reveal-scale { opacity: 1 !important; }
+
+/* --- 28. Mobile hero fixes --- */
+@media (max-width: 768px) {
+  .hero-content { padding-left: 20px !important; text-align: left !important; }
+  .hero-portrait .hero-title { text-align: left !important; }
+  .hero-portrait .hero-subtitle { text-align: left !important; }
+  .hero-btns { justify-content: flex-start !important; }
+  .hero-meta { text-align: left !important; margin: 0 !important; max-width: none !important; justify-items: start !important; }
+  .hero-meta-item { align-items: flex-start !important; }
+}
