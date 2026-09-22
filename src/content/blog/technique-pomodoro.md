@@ -10,18 +10,25 @@ image: "/images/blog/technique-pomodoro-3.jpg"
 imageAlt: "A red vintage timer standing on a windowsill"
 topic: "Productivity"
 keywords:
-  - "work"
-  - "pomodoro"
-  - "pomodoros"
-  - "minutes"
-  - "technique"
-  - "timer"
-  - "minute"
-  - "works"
+  - "pomodoro technique"
+  - "how to focus for 25 minutes"
+  - "pomodoro method productivity"
+  - "work in intervals technique"
+  - "pomodoro timer benefits"
+  - "how many pomodoros per day"
+  - "la méthode pomodoro"
+  - "focus timer technique study"
 tags:
   - "productivity"
 wordCount: 370
 bookSlug: deep-work
+faq:
+  - q: "What is the Pomodoro Technique?"
+    a: "A time-management method created by Francesco Cirillo in the 1980s: work with full focus for 25 minutes (one 'Pomodoro'), take a 5-minute break, repeat. After 4 Pomodoros, take a longer 15-30 minute break. The timer creates urgency; the breaks prevent burnout."
+  - q: "How many Pomodoros should you do per day?"
+    a: "Most knowledge workers sustain 8-12 Pomodoros (3-5 hours of deep work). Beginners start with 4-6. Quality matters over quantity — four focused Pomodoros beat eight distracted ones. Track your energy: schedule hardest tasks during peak focus windows."
+  - q: "Why does the Pomodoro Technique work?"
+    a: "Three psychological mechanisms: 1) Time-boxing reduces procrastination ('only 25 minutes'). 2) Forced breaks reset attention and prevent diminishing returns. 3) Tallying completed Pomodoros gives tangible progress, triggering dopamine and sustaining motivation throughout the day."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

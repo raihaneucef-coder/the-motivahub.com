@@ -10,18 +10,25 @@ image: "/images/blog/time-blocking-journee-3.jpg"
 imageAlt: "A weekly planner with a May calendar, pen and ribbon laid out on a desk"
 topic: "Productivity"
 keywords:
-  - "time"
-  - "work"
-  - "blocking"
-  - "task"
-  - "calendar"
-  - "deep"
-  - "people"
-  - "list"
+  - "time blocking method"
+  - "how to plan your day effectively"
+  - "time blocking vs to-do list"
+  - "calendar management productivity"
+  - "how to stop wasting time"
+  - "deep work schedule template"
+  - "time blocking for beginners"
+  - "how Elon Musk schedules his day"
 tags:
   - "productivity"
   - "how-to"
 wordCount: 350
+faq:
+  - q: "What is time blocking?"
+    a: "Time blocking is scheduling your day into dedicated blocks, each assigned to one task or category of work. Instead of a to-do list, every task gets a specific time slot on your calendar. Popularized by Cal Newport (Deep Work) and used by executives like Elon Musk and Bill Gates."
+  - q: "Is time blocking better than a to-do list?"
+    a: "For most people, yes. To-do lists don't account for time constraints — you can list 20 items and only fit 8 into the day. Time blocking forces realistic planning by matching tasks to available hours, reduces decision fatigue, and creates accountability through scheduled start times."
+  - q: "How do I start time blocking my day?"
+    a: "1) List tasks for tomorrow (evening before). 2) Assign each a realistic time slot in your calendar. 3) Group shallow work (email, admin) into one block. 4) Protect 2-3 deep work blocks during your peak energy hours. 5) Add 15-minute buffers between blocks. Adjust after one week based on what actually took how long."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

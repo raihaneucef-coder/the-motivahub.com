@@ -10,18 +10,25 @@ image: "/images/blog/reseaux-sociaux-divertissement-3.jpg"
 imageAlt: "A woman relaxing on a couch scrolling her phone in a bright living room"
 topic: "Entertainment"
 keywords:
-  - "social"
-  - "media"
-  - "without"
-  - "time"
-  - "enjoy"
-  - "learn"
-  - "tool"
-  - "intentionally"
+  - "social media addiction how to stop"
+  - "healthy relationship with social media"
+  - "how to use social media without wasting time"
+  - "social media dopamine detox"
+  - "how to do a digital detox weekend"
+  - "reduce screen time practical tips"
+  - "social media entertainment vs waste"
+  - "intentional social media use"
 tags:
   - "entertainment"
   - "how-to"
 wordCount: 341
+faq:
+  - q: "How do I enjoy social media without wasting hours?"
+    a: "Set a timer before opening any app (15-20 minutes max). Unfollow accounts that don't educate or genuinely inspire. Turn off all non-human notifications. Use social media only during a pre-planned 'leisure block' — never as a gap-filler between tasks."
+  - q: "Is social media bad for your brain?"
+    a: "The mechanism is variable-ratio reinforcement (same pattern as slot machines): unpredictable likes and new posts trigger dopamine spikes that rewire attention span. fMRI studies show heavy users have reduced gray matter in the ventral striatum. Moderate, intentional use causes no measurable harm."
+  - q: "What's a healthy daily social media limit?"
+    a: "Research from the University of Pennsylvania: limiting to 30 minutes/day reduces loneliness, FOMO, and depressive symptoms by 40% in three weeks. The exact number matters less than intentionality — 30 minutes you chose beats 30 minutes you didn't notice passing."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

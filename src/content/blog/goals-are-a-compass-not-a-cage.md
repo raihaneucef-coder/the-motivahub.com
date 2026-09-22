@@ -12,17 +12,24 @@ imageAlt: "A seagull soaring free above a calm open ocean under a clear sky"
 featured: false
 draft: false
 keywords:
-  - "compass"
-  - "goals"
-  - "goal"
-  - "north"
-  - "without"
-  - "feel"
-  - "change"
-  - "even"
+  - "how to set goals without pressure"
+  - "flexible goal setting"
+  - "when goals feel overwhelming"
+  - "goals vs direction"
+  - "why goals make me feel trapped"
+  - "healthy relationship with goals"
+  - "letting go of rigid goals"
+  - "process over outcome goals"
 tags:
   - "goals"
 wordCount: 337
+faq:
+  - q: "Why do my goals feel like a prison?"
+    a: "Because you framed them as contracts ('I must do X or I fail'). This triggers loss-aversion anxiety. Reframe: a goal is a compass pointing toward a direction. You're allowed to take detours, rest, and adjust the route without abandoning the destination."
+  - q: "What is the difference between a goal and a direction?"
+    a: "A goal has a fixed endpoint and deadline — miss it and you 'failed.' A direction (compass) indicates which way to walk today without demanding arrival by a specific date. Directions sustain motivation because progress counts even when perfection doesn't."
+  - q: "How do you stay motivated without being rigid about goals?"
+    a: "Ask one question nightly: 'Did I move north today, even slightly?' Celebrate the smallest directional action. Weekly, reassess whether the compass still points where you want to go. This keeps you accountable without all-or-nothing thinking."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

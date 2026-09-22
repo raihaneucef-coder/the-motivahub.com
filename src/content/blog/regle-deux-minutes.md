@@ -10,18 +10,25 @@ image: "/images/blog/regle-deux-minutes-3.jpg"
 imageAlt: "Hands tying the laces of a running shoe before a workout"
 topic: "Habits"
 keywords:
-  - "habit"
-  - "minute"
-  - "minutes"
-  - "rule"
-  - "start"
-  - "every"
-  - "becomes"
-  - "brain"
+  - "2 minute rule"
+  - "how to start a new habit"
+  - "two minute rule atomic habits"
+  - "trick to build habits"
+  - "how to stop procrastinating instantly"
+  - "make habits easy to start"
+  - "james clear 2 minute rule"
+  - "start small habit building"
 tags:
   - "habits"
 wordCount: 745
 bookSlug: atomic-habits
+faq:
+  - q: "What is the 2-minute rule?"
+    a: "The 2-minute rule states: when you start a new habit, it should take less than two minutes to do. Instead of 'read 30 minutes,' scale down to 'read one page.' The goal is to master showing up before optimizing duration. James Clear popularized this in Atomic Habits."
+  - q: "Why does the 2-minute rule work for procrastination?"
+    a: "Procrastination is an activation-energy problem — starting feels heavy. A 2-minute version makes the barrier so low your brain can't generate a convincing excuse. Once you start, the Zeigarnik effect (desire to finish begun tasks) usually carries you well past 2 minutes."
+  - q: "How do you apply the 2-minute rule step by step?"
+    a: "1) Write the habit you want. 2) Scale it to a version taking under 120 seconds (put on running shoes = exercise). 3) Do only that version for 2 weeks until it feels automatic. 4) Gradually expand duration. Never skip the 2-minute version even on bad days."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
