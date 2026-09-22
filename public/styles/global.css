@@ -677,6 +677,9 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
     left: 0 !important;
     width: 100% !important;
   }
+  .hero-portrait-overlay {
+    background: linear-gradient(135deg, rgba(10,10,10,0.35) 0%, rgba(10,10,10,0.75) 100%) !important;
+  }
 }
 .hero-portrait-overlay {
   z-index: 1 !important;
