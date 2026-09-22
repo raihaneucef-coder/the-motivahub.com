@@ -671,37 +671,34 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   z-index: 1 !important;
   background: linear-gradient(180deg, rgba(10,10,10,0.1) 0%, rgba(10,10,10,0.4) 40%, rgba(10,10,10,0.85) 70%, rgba(10,10,10,0.95) 100%) !important;
 }
-/* Mobile: less zoom, figure fully visible */
+/* Mobile: text overlays video, positioned lower */
 @media (max-width: 768px) {
   .hero-portrait {
-    display: block !important;
-    height: 100svh !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
     min-height: 100svh !important;
     padding-top: 0 !important;
-    overflow: hidden !important;
-    position: relative !important;
   }
   .hero-portrait .container {
-    position: absolute !important;
-    bottom: 0 !important;
-    left: 0 !important;
-    right: 0 !important;
+    position: relative !important;
     z-index: 3 !important;
-    padding: 0 20px 20px !important;
+    padding: 0 20px 24px !important;
     max-width: 100% !important;
     margin: 0 !important;
+    width: 100% !important;
   }
   .hero-video {
-    transform: scale(0.8) !important;
-    object-position: center 25% !important;
+    transform: scale(0.85) !important;
+    object-position: center 20% !important;
   }
   .hero-portrait-overlay {
-    background: linear-gradient(180deg, rgba(10,10,10,0) 0%, rgba(10,10,10,0.3) 50%, rgba(10,10,10,0.92) 75%, rgba(10,10,10,0.98) 100%) !important;
+    background: linear-gradient(180deg, rgba(10,10,10,0) 0%, rgba(10,10,10,0.2) 40%, rgba(10,10,10,0.7) 65%, rgba(10,10,10,0.92) 100%) !important;
   }
   .hero-portrait .hero-title {
     font-size: clamp(1.6rem, 6.5vw, 2.2rem) !important;
     line-height: 1.15 !important;
-    margin-bottom: 16px !important;
+    margin-bottom: 12px !important;
   }
   .hero-portrait .hero-subtitle {
     font-size: 0.85rem !important;
