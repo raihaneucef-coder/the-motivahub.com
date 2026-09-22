@@ -10,18 +10,25 @@ image: "/images/blog/art-dire-non-1.jpg"
 imageAlt: "Youssef Raihane - art dire non concept"
 topic: "Confidence"
 keywords:
-  - "saying"
-  - "time"
-  - "people"
-  - "boundaries"
-  - "something"
-  - "every"
-  - "approval"
-  - "discomfort"
+  - "how to say no without guilt"
+  - "art of saying no"
+  - "people pleasing how to stop"
+  - "setting boundaries with others"
+  - "why saying no is hard"
+  - "how to say no politely"
+  - "boundaries and self respect"
+  - "overcommitting time management"
 tags:
   - "confidence"
   - "how-to"
 wordCount: 346
+faq:
+  - q: "How do you say no without feeling guilty?"
+    a: "Reframe: every 'yes' to someone else is a 'no' to your own priorities. Say it simply — 'I can't commit to that' — without over-explaining. Guilt fades with repetition: each refusal that doesn't destroy the relationship proves your fear was disproportionate."
+  - q: "Why is it so hard to say no to people?"
+    a: "Evolutionary: being rejected from the tribe meant death. The brain processes social refusal like physical threat (fMRI, UCLA). People pleasers often learned that approval = safety in childhood. Saying no triggers the same alarm as danger — courage isn't the absence of that alarm but acting despite it."
+  - q: "What are polite ways to say no?"
+    a: "1) 'I'd love to but I'm already committed.' 2) 'Let me check and get back' (buys time). 3) 'No, but here's someone who could.' 4) 'I'm protecting my focus this month.' 5) Simple 'I won't be able to.' The key: brief, warm, firm. A no with 5 excuses sounds like a no you'll be talked out of."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -10,17 +10,24 @@ image: "/images/blog/quiet-power-of-doing-less-2.jpg"
 imageAlt: "Single chair in an empty white room - the quiet power of doing less"
 topic: "Productivity"
 keywords:
-  - "thing"
-  - "attention"
-  - "less"
-  - "hour"
-  - "person"
-  - "first"
-  - "enough"
-  - "saying"
+  - "power of doing less"
+  - "essentialism do less better"
+  - "how to simplify your life"
+  - "overwhelmed with too many tasks"
+  - "quality over quantity productivity"
+  - "the art of focus one thing"
+  - "stop multitasking benefit"
+  - "minimalism productivity method"
 tags:
   - "productivity"
 wordCount: 716
+faq:
+  - q: "Why does doing less produce more?"
+    a: "Because attention is a finite resource. Each additional task dilutes focus quality (context-switching costs 23 minutes per interruption, per UC Irvine research). Narrowing to 1-3 priorities lets you complete them at a level of depth that 10 scattered tasks never achieve."
+  - q: "How do I decide what to stop doing?"
+    a: "Apply Greg McKeown's Essentialism filter: if something isn't a clear 'yes' in terms of your top goal, it's a 'no.' Track your week for 3 days. Any activity that doesn't serve your #1 priority, that you'd never choose if it weren't already on your calendar — eliminate or delegate it."
+  - q: "What's the difference between laziness and strategic rest?"
+    a: "Laziness avoids effort and leaves you drained with guilt. Strategic rest is intentional recovery that fuels output — athletes call it periodization. If rest makes you return sharper and more motivated, it was productive. If avoidance keeps you stuck, it's fear in disguise."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

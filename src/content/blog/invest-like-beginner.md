@@ -12,17 +12,24 @@ imageAlt: "A black piggy bank surrounded by scattered coins"
 featured: false
 draft: false
 keywords:
-  - "need"
-  - "start"
-  - "owner"
-  - "investing"
-  - "stay"
-  - "monthly"
-  - "years"
-  - "beginner"
+  - "how to start investing as a beginner"
+  - "investing with little money"
+  - "beginner investment guide"
+  - "stock market for beginners"
+  - "how to build wealth young"
+  - "index fund investing starter"
+  - "investing 101 monthly contributions"
+  - "first steps to financial freedom"
 tags:
   - "finance"
 wordCount: 267
+faq:
+  - q: "How do beginners start investing?"
+    a: "Open a brokerage or tax-advantaged account (ISA, 401k, PEA), set up an automatic monthly transfer (even 50€), and buy a broad-market index fund (S&P 500 or MSCI World). Avoid picking individual stocks until you have at least 6 months of consistent contributions."
+  - q: "How much money do I need to start investing?"
+    a: "As little as 25-50€ per month thanks to fractional shares and ETFs. The amount matters less than the habit. Investing 50€/month for 30 years at 8% annual return yields ~74,000€. The real enemy is waiting until you 'have enough.'"
+  - q: "What should a beginner invest in first?"
+    a: "A low-cost, broad-market index fund (0.1-0.2% fees). Historically, global diversified index funds return 7-10% annually over 10+ year periods. This single vehicle gives ownership in 1,500+ companies without requiring stock-picking skill."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

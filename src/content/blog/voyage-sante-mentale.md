@@ -10,17 +10,24 @@ image: "/images/blog/voyage-sante-mentale.jpg"
 imageAlt: "Youssef Raihane - voyage sante mentale concept"
 topic: "Travel"
 keywords:
-  - "travel"
-  - "mental"
-  - "health"
-  - "brain"
-  - "environments"
-  - "stress"
-  - "creativity"
-  - "breaks"
+  - "benefits of travel for mental health"
+  - "how travel reduces stress"
+  - "vacation and creativity science"
+  - "mental health break from routine"
+  - "why you need a change of environment"
+  - "solo travel psychological benefits"
+  - "travel therapy anxiety depression"
+  - "novelty and brain health"
 tags:
   - "travel"
 wordCount: 328
+faq:
+  - q: "Does travel actually improve mental health?"
+    a: "Yes. A Cornell University study found that planning a trip increases happiness for 8 weeks — longer than any purchase. Travel disrupts rumination cycles, exposes you to novelty (dopamine), and provides perspective shifts that reduce anxiety by breaking the 'problem = everything' tunnel vision."
+  - q: "How long should a mental health break be?"
+    a: "Research shows measurable stress reduction begins at day 3 of a vacation. The optimal 'reset window' is 7-10 days — long enough to decompress, short enough to avoid disrupting routines. Even a 48-hour change of scenery (new city, nature) reduces cortisol and boosts creative problem-solving."
+  - q: "What if I can't afford to travel for my mental health?"
+    a: "The active ingredient is novelty and environmental change, not distance. Walk a new route, visit a neighborhood you've never explored, eat outdoors, change your workspace weekly. Studies show even 20 minutes in a new environment improves cognitive flexibility and mood through mild novelty stimulation."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -10,17 +10,24 @@ image: "/images/blog/rendez-compte-objectifs-2.jpg"
 imageAlt: "Two workout partners checking their fitness watches together after training"
 topic: "Goals"
 keywords:
-  - "accountability"
-  - "goal"
-  - "partner"
-  - "someone"
-  - "tracker"
-  - "check"
-  - "goals"
-  - "track"
+  - "accountability partner for goals"
+  - "how to stay accountable"
+  - "goal tracking system"
+  - "weekly review habit"
+  - "why accountability works"
+  - "how to achieve goals with a partner"
+  - "progress tracking method"
+  - "commitment device self discipline"
 tags:
   - "goals"
 wordCount: 430
+faq:
+  - q: "What is an accountability partner?"
+    a: "A person you check in with weekly to report progress on your goals. Unlike a coach, they don't advise — they simply ask 'did you do what you said?' The social commitment of reporting to another person increases follow-through by 65% (Dominican University study, Dr. Gail Matthews)."
+  - q: "How do I create an accountability system?"
+    a: "1) Write your 1-3 goals as weekly actions. 2) Choose a partner (friend, colleague, online community). 3) Schedule a 15-minute weekly check-in. 4) Report numbers, not feelings. 5) Agree on a consequence for missed check-ins. The system works because it converts private intentions into public commitments."
+  - q: "Why do goals fail without accountability?"
+    a: "Without external check-ins, your brain negotiates: 'I'll start Monday,' 'No one will know.' Accountability removes the negotiation by creating a fixed reporting deadline. The loss aversion of facing your partner's question 'did you do it?' is more motivating than the abstract promise you made to yourself."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -12,17 +12,24 @@ imageAlt: "A couple laughing together over coffee while cooking in the kitchen"
 featured: false
 draft: false
 keywords:
-  - "feel"
-  - "love"
-  - "practice"
-  - "feeling"
-  - "loving"
-  - "follows"
-  - "mood"
-  - "made"
+  - "love is an action not a feeling"
+  - "how to practice love daily"
+  - "commitment vs feelings in relationships"
+  - "love languages daily practice"
+  - "keeping love alive long term"
+  - "relationship effort matters"
+  - "unconditional love practice"
+  - "love as a verb discipline"
 tags:
   - "relationships"
 wordCount: 325
+faq:
+  - q: "Is love a feeling or a choice?"
+    a: "Both — but the sustainable part is choice. The feeling (limerence) lasts 12-24 months (chemical: dopamine + oxytocin surge). After that, love becomes a daily practice: showing up, choosing their wellbeing alongside yours, staying when the initial high fades. The couples who thrive treat love as a verb, not a mood."
+  - q: "How do you practice love when you don't feel it?"
+    a: "Do the actions anyway. Research on 'behavioral confirmation' shows acting lovingly triggers emotional reconnection — feelings follow behavior, not the reverse. Small deliberate acts (make their coffee, ask about their day, put your phone away) rebuild the emotional bond that the initial excitement created for free."
+  - q: "What's the difference between infatuation and real love?"
+    a: "Infatuation is projection — you love the idea of them. Real love is perception — you see their full humanity and choose them anyway. Infatuation feels effortless; real love costs something and you pay willingly. The shift happens when you stop asking 'how do they make me feel?' and start asking 'how do I show up for them?'"
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
