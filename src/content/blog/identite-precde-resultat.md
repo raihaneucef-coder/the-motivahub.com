@@ -1,8 +1,8 @@
 ---
-title: "Identity Precedes Outcome: Become Before You Achieve"
-description: "The most powerful habit strategy is not about what you do — it is about who you are. Learn how identity-based habits create lasting change."
-titleFr: "L'identité précède le résultat : deviens avant d'atteindre"
-descriptionFr: "La stratégie d'habitude la plus puissante ne concerne pas ce que tu fais — mais qui tu es. Apprends comment les habitudes identitaires créent un changement durable."
+title: "How to Change Your Identity: The 5-Step Identity-Based Habits System"
+description: "Identity-based habits in practice: five steps to become who you want to be - start the identity-behavior loop, prove it with small actions, and never miss twice."
+titleFr: "Comment changer d'identité : le système d'habitudes identitaires en 5 étapes"
+descriptionFr: "Les habitudes identitaires en pratique : 5 étapes pour devenir la personne que tu veux être - lance la boucle identité-comportement, prouve-la par de petites actions et ne manque jamais deux fois."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
@@ -108,3 +108,5 @@ relatedArticles:
 <div data-i18n-html="article_identite-precde-resultat_p32"><blockquote><em>You do not have to be great to start, but you have to start to be great. The first step is deciding who you want to become. The second step is proving it with your actions.</em></blockquote></div>
 
 <div data-i18n-html="article_identite-precde-resultat_p34"><strong>Build your new identity.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of evidence for your new self. Track your votes with our <a href="/tracker/">Habit Tracker</a>.</div>
+
+<div data-i18n-html="article_identite-precde-resultat_p35"><strong>Why this works — the deeper idea:</strong> for the philosophical case that identity comes before goals, read the companion essay <a href="/journal/identity-precedes-outcome/">Identity Precedes Outcome</a>.</div>

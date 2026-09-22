@@ -96,3 +96,5 @@ relatedArticles:
 <div data-i18n-html="article_identity-precedes-outcome_p30">Fill it with one word. One identity. Then design tomorrow's smallest act to serve it.</div>
 
 <div data-i18n-html="article_identity-precedes-outcome_p31">Goals give you a direction for a season. Identity gives you a direction for a life. Begin with the second, and the first will take care of itself.</div>
+
+<div data-i18n-html="article_identity-precedes-outcome_p32"><strong>Want the practical method?</strong> This essay is the why. For the step-by-step how, use the companion guide <a href="/journal/identite-precde-resultat/">How to Change Your Identity: The 5-Step Identity-Based Habits System</a>.</div>
