@@ -61,3 +61,18 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
     </div>
   </div>
 </section>
+
+<script>
+  // Force autoplay on Safari (ignores muted+autoplay attrs sometimes)
+  document.addEventListener('DOMContentLoaded', () => {
+    const video = document.querySelector('.hero-video');
+    if (video) {
+      video.muted = true;
+      video.play().catch(() => {
+        // Retry on first user interaction
+        const retry = () => { video.play(); document.removeEventListener('click', retry); };
+        document.addEventListener('click', retry);
+      });
+    }
+  });
+</script>

@@ -576,7 +576,7 @@ em, i { font-style: normal; font-family: inherit; }
   position: absolute;
   top: 50%;
   left: 50%;
-  border: 1px solid rgba(255,77,0,0.5);
+  border: 1px solid rgba(255, 77, 0, 0.636);
   border-radius: 50%;
   background: transparent;
 }
