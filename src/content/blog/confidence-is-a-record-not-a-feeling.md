@@ -12,17 +12,27 @@ imageAlt: "A hand reaching for gold trophies lined up on a wooden shelf"
 featured: false
 draft: false
 keywords:
-  - "record"
-  - "confidence"
-  - "feeling"
-  - "promise"
-  - "small"
-  - "built"
-  - "wait"
-  - "kept"
+  - "confidence is a record not a feeling"
+  - "how to build real confidence"
+  - "self-trust through kept promises"
+  - "confidence from evidence"
+  - "stop waiting for confidence"
+  - "build self-belief daily"
+  - "confidence through action"
+  - "prove it to yourself"
 tags:
   - "confidence"
 wordCount: 368
+faq:
+  - q: "How do you build genuine self-confidence?"
+    a: "Stop waiting to 'feel' confident. Confidence is a record of promises you've kept to yourself. Start with tiny commitments (make your bed, do 10 push-ups) and keep them daily. After 30+ kept promises, your brain updates its model of you. Evidence beats affirmation."
+  - q: "Why doesn't positive thinking build confidence?"
+    a: "Because your brain discounts unearned claims. Saying 'I am confident' without evidence creates cognitive dissonance. But doing one small brave thing creates actual data. The brain trusts evidence from action 10x more than verbal affirmation."
+faqFr:
+  - q: "Comment construire une vraie confiance en soi ?"
+    a: "Arrêtez d'attendre de « ressentir » la confiance. La confiance est un registre de promesses tenues envers soi-même. Commencez par de petits engagements et tenez-les quotidiennement. Après 30+ promesses tenues, votre cerveau met à jour son modèle de vous."
+  - q: "Pourquoi la pensée positive ne construit-elle pas la confiance ?"
+    a: "Parce que votre cerveau ignore les affirmations non méritées. Dire « je suis confiant » sans preuve crée une dissonance cognitive. Mais faire une petite action courageuse crée des données réelles."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

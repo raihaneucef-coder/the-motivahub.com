@@ -10,17 +10,27 @@ image: "/images/blog/discipline-choix-quotidien-2.jpg"
 imageAlt: "Hand gripping an alarm clock at dawn - discipline is a daily choice"
 topic: "Discipline"
 keywords:
-  - "discipline"
-  - "comfort"
-  - "choice"
-  - "disciplined"
-  - "every"
-  - "choose"
-  - "days"
-  - "want"
+  - "discipline is a daily choice"
+  - "how to choose discipline every day"
+  - "discipline vs comfort zone"
+  - "daily discipline practice"
+  - "how to stay disciplined daily"
+  - "discipline over motivation"
+  - "choosing discomfort daily"
+  - "build discipline habit"
 tags:
   - "discipline"
 wordCount: 649
+faq:
+  - q: "How do I choose discipline every single day?"
+    a: "Make it a binary decision, not a negotiation. The moment you wake up, execute your first non-negotiable (bed, water, movement) before the brain starts debating. Discipline isn't a feeling — it's a decision made before emotions have a vote. Use the 5-second rule: count 5-4-3-2-1 and move."
+  - q: "What's the difference between discipline and motivation?"
+    a: "Motivation is emotional and unreliable — it vanishes when you're tired or stressed. Discipline is a decision independent of feelings. The disciplined person acts whether motivated or not. Motivation starts habits; discipline sustains them."
+faqFr:
+  - q: "Comment choisir la discipline chaque jour ?"
+    a: "Faites-en une décision binaire, pas une négociation. Au réveil, exécutez votre premier non-négociable (lit, eau, mouvement) avant que le cerveau ne commence à débattre. La discipline n'est pas un sentiment — c'est une décision prise avant que les émotions n'aient un vote."
+  - q: "Quelle est la différence entre discipline et motivation ?"
+    a: "La motivation est émotionnelle et peu fiable — elle disparaît quand vous êtes fatigué ou stressé. La discipline est une décision indépendante des sentiments. La motivation démarre les habitudes ; la discipline les soutient."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -10,18 +10,28 @@ image: "/images/blog/podcasts-education-2.jpg"
 imageAlt: "A woman in headphones walking through the city listening to a podcast"
 topic: "Entertainment"
 keywords:
-  - "podcasts"
-  - "learn"
-  - "time"
-  - "hours"
-  - "learning"
-  - "commuting"
-  - "exercising"
-  - "education"
+  - "podcasts as education"
+  - "learn while commuting"
+  - "best educational podcasts"
+  - "podcast learning benefits"
+  - "learn while exercising"
+  - "audio learning effectiveness"
+  - "self education through podcasts"
+  - "turn dead time into learning"
 tags:
   - "entertainment"
   - "how-to"
 wordCount: 304
+faq:
+  - q: "Can you really learn from podcasts?"
+    a: "Yes. Research from Stanford (2023) shows audio learning retention matches reading for narrative content. Podcasts excel for ideas, interviews, and frameworks. Best for: commutes, workouts, chores. Not ideal for: technical depth requiring visuals or note-taking."
+  - q: "How many hours per week can I learn from podcasts?"
+    a: "Most people reclaim 5-10 hours weekly by replacing music or scrolling during commutes, exercise, and chores. At 1 hour daily, that's 365 hours per year — equivalent to reading 25 books at 1.5x speed."
+faqFr:
+  - q: "Peut-on vraiment apprendre avec des podcasts ?"
+    a: "Oui. La recherche de Stanford (2023) montre que la rétention audio égale celle de la lecture pour le contenu narratif. Les podcasts excellent pour les idées, interviews et frameworks."
+  - q: "Combien d'heures par semaine puis-je apprendre avec des podcasts ?"
+    a: "La plupart des gens récupèrent 5 à 10 heures par semaine en remplaçant la musique ou le scroll pendant les trajets, l'exercice et les tâches ménagères. À 1 heure par jour, cela fait 365 heures par an."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

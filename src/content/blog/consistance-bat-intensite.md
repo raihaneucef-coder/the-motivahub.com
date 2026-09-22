@@ -10,17 +10,27 @@ image: "/images/blog/consistance-bat-intensite.jpg"
 imageAlt: "Youssef Raihane - consistance bat intensite concept"
 topic: "Sport"
 keywords:
-  - "days"
-  - "consistent"
-  - "habit"
-  - "consistency"
-  - "tracker"
-  - "showing"
-  - "every"
-  - "show"
+  - "consistency beats intensity"
+  - "why showing up daily matters"
+  - "steady progress vs bursts"
+  - "how to stay consistent"
+  - "daily habit vs weekend warrior"
+  - "small daily actions compound"
+  - "consistency in fitness"
+  - "never miss twice rule"
 tags:
   - "sport"
 wordCount: 359
+faq:
+  - q: "Why does consistency beat intensity?"
+    a: "Because results compound. 20 minutes daily for a year (120 hours) beats 3-hour sessions every two weeks (78 hours). Intensity creates soreness and burnout; consistency creates neural pathways and identity. The athlete who shows up mediocre daily outperforms the one who trains perfectly twice a week."
+  - q: "How do I stay consistent when motivation drops?"
+    a: "Lower the bar, not the standard. On bad days, do the minimum viable version: 5 push-ups instead of 50, 1 page instead of a chapter. The goal isn't the workout — it's keeping the chain alive. James Clear calls this 'never miss twice.'"
+faqFr:
+  - q: "Pourquoi la cohérence bat l'intensité ?"
+    a: "Parce que les résultats se composent. 20 minutes par jour pendant un an (120 heures) battent des sessions de 3 heures toutes les deux semaines (78 heures). L'intensité crée des courbatures et l'épuisement ; la cohérence crée des voies neuronales et une identité."
+  - q: "Comment rester cohérent quand la motivation baisse ?"
+    a: "Abaissez la barre, pas le standard. Les mauvais jours, faites la version minimale : 5 pompes au lieu de 50, 1 page au lieu d'un chapitre. L'objectif n'est pas l'entraînement — c'est de garder la chaîne vivante."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

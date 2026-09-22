@@ -12,17 +12,27 @@ imageAlt: "A yellow dart hitting the bullseye of a black and white dartboard"
 featured: false
 draft: false
 keywords:
-  - "target"
-  - "goal"
-  - "ring"
-  - "visit"
-  - "without"
-  - "enough"
-  - "address"
-  - "every"
+  - "one goal at a time"
+  - "focus on one target"
+  - "why multitasking goals fails"
+  - "single goal focus strategy"
+  - "how to prioritize goals"
+  - "one thing at a time success"
+  - "goal stacking vs focus"
+  - "narrow your focus achieve more"
 tags:
   - "goals"
 wordCount: 521
+faq:
+  - q: "Why should I focus on one goal at a time?"
+    a: "Research from Stanford shows task-switching reduces IQ by 10 points and increases completion time by 40%. Multiple goals compete for the same willpower reservoir. One target with full focus beats five targets with split attention every time."
+  - q: "How do I choose which single goal to pursue?"
+    a: "Ask: 'If I could only accomplish ONE thing this year, which would make the biggest ripple effect?' Then check: Do I genuinely want it, or do I think I 'should'? The right goal energizes you even when it's hard."
+faqFr:
+  - q: "Pourquoi me concentrer sur un seul objectif à la fois ?"
+    a: "La recherche de Stanford montre que le changement de tâche réduit le QI de 10 points et augmente le temps d'achèvement de 40 %. Plusieurs objectifs se disputent la même réserve de volonté."
+  - q: "Comment choisir quel objectif unique poursuivre ?"
+    a: "Demandez-vous : « Si je ne pouvais accomplir qu'UNE chose cette année, laquelle aurait le plus grand effet d'entraînement ? » Puis vérifiez : est-ce que je le veux vraiment ou je pense que je « devrais » ?"
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
