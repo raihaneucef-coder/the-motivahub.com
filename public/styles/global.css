@@ -3001,3 +3001,13 @@ body.menu-open #cookie-consent {
   .journal-newsletter-form input,
   .journal-newsletter-form button { min-width: 0; max-width: 100%; }
 }
+
+/* ============================================================
+   20. Hero portrait art direction — dedicated 9:16 asset <=1024px
+   ============================================================ */
+@media (max-width: 1024px) {
+  /* Portrait asset keeps the subject in frame; overrides the old 20%/top rules */
+  .hero-video { object-position: center 22% !important; }
+  /* Slightly deeper scrim behind the headline band (bright sky sits mid-frame) */
+  .hero-portrait-overlay { background: linear-gradient(180deg, rgba(10,10,10,0.15) 0%, rgba(10,10,10,0.45) 35%, rgba(10,10,10,0.78) 62%, rgba(10,10,10,0.95) 100%) !important; }
+}

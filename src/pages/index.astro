@@ -43,7 +43,8 @@ const stats = [
 ---
 
 <Layout title="Motiva Hub: Build the Discipline | Mindset & Habits" description="Mindset, habits, books, and free tools — for the long ascent, one day at a time. Build the discipline that outlasts the motivation.">
-  <link slot="head" rel="preload" href="/images/hero-editorial.webp" as="image" type="image/webp" fetchpriority="high" />
+  <link slot="head" rel="preload" href="/images/hero-editorial.webp" as="image" type="image/webp" fetchpriority="high" media="(min-width: 1025px)" />
+  <link slot="head" rel="preload" href="/images/hero-editorial-mobile.webp" as="image" type="image/webp" fetchpriority="high" media="(max-width: 1024px)" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [
