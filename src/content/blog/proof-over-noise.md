@@ -12,17 +12,24 @@ imageAlt: "Marathon runners crossing the finish line through the finish tape"
 featured: false
 draft: false
 keywords:
-  - "feed"
-  - "proof"
-  - "ordinary"
-  - "people"
-  - "every"
-  - "noise"
-  - "becomes"
-  - "ceiling"
+  - "proof over noise mindset"
+  - "show results not talk"
+  - "silent grind vs social media"
+  - "why actions speak louder"
+  - "stop announcing start doing"
+  - "consistency beats motivation quotes"
+  - "quiet confidence through competence"
+  - "evidence based self improvement"
 tags:
   - "stories"
 wordCount: 494
+faq:
+  - q: "Why is 'proof over noise' a better strategy than self-promotion?"
+    a: "Because noise requires constant feeding while proof compounds silently. A person posting 'I wake up at 5am' gets likes; the person who wakes at 5am for 3 years gets a business. Proof creates actual results; noise creates the appearance of progress without the substance."
+  - q: "How do I stay consistent when nobody's watching?"
+    a: "Shift your audience from external (followers, peers) to internal (your own standard). Track silently: a private calendar, a photo of day 1 vs day 60. You don't need validation — you need evidence. The moment you stop performing for an audience is the moment the work becomes real."
+  - q: "When should you share your results instead of staying quiet?"
+    a: "After the work is done. Peter Thiel's 'secret' principle: work in stealth until you have something undeniable, then reveal all at once. Timing your announcement to a completed milestone (not a planned intention) converts noise into proof and gets 10x more respect."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

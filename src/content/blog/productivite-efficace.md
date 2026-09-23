@@ -10,18 +10,26 @@ image: "/images/blog/productivite-efficace-3.jpg"
 imageAlt: "A man deeply focused on his work at a desk with a tablet and headphones"
 topic: "Productivity"
 keywords:
-  - "plus"
-  - "pour"
-  - "work"
-  - "heures"
-  - "time"
-  - "journée"
-  - "sans"
-  - "deep"
+  - "productive habits that work"
+  - "how to be more productive every day"
+  - "productivity systems that stick"
+  - "time management for beginners"
+  - "how to get more done in less time"
+  - "focus and productivity techniques"
+  - "deep work productivity"
+  - "stop being busy start being productive"
 tags:
   - "productivity"
   - "how-to"
 wordCount: 698
+faq:
+  - q: "What's the difference between being busy and being productive?"
+    a: "Busy means high activity; productive means high output on what matters. Research shows knowledge workers spend only ~2.5 hours/day on actual focused work — the rest is email, meetings, and 'admin theatre.' True productivity = doing the few things that move outcomes, not doing many things that feel urgent."
+  - q: "How do I actually become more productive?"
+    a: "The 3 levers that work: 1) Energy management (sleep, nutrition, exercise) — you can't produce output from an empty tank. 2) Single-tasking (multitasking reduces IQ by 10 points, UCL study). 3) Environment design (remove phone, close tabs, set a specific work location). The fourth lever is just: start smaller than you think."
+  - q: "What is 'deep work' and how do I practice it?"
+    a: "Deep work (Cal Newport) = distraction-free concentration on cognitively demanding tasks that creates value. Practice: block 90 min with phone in another room, define one specific outcome, work until it's done or time expires. Start with 1 session/day. After 2 weeks, increase to 2-3."
+
 # English route deprecated: the body is French and the intent is covered by
 # technique-pomodoro / deep-work-focus (EN). The French page stays live.
 noindex: true

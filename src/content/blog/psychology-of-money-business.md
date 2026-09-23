@@ -10,17 +10,24 @@ image: "/images/blog/psychology-of-money-business-3.jpg"
 imageAlt: "A hand holding a glass jar full of coins with a savings label"
 topic: "Success"
 keywords:
-  - "business"
-  - "money"
-  - "every"
-  - "behavior"
-  - "problem"
-  - "story"
-  - "patience"
-  - "years"
+  - "psychology of money habits"
+  - "money mindset blocks wealth"
+  - "emotional spending psychology"
+  - "why rich people think differently about money"
+  - "money scripts and financial behavior"
+  - "behavioral finance personal"
+  - "scarcity mindset vs abundance"
+  - "psychology of building wealth"
 tags:
   - "success"
 wordCount: 357
+faq:
+  - q: "What is the 'psychology of money' and why does it matter more than strategy?"
+    a: "Your 'money scripts' (unconscious beliefs formed in childhood) drive 80%+ of financial behavior. A person who believes 'money is evil' will self-sabotage wealth-building despite knowing the right strategy. Change the story first, and the budget executes itself."
+  - q: "How does emotional spending actually work in the brain?"
+    a: "Negative moods activate the desire to restore positive affect. Shopping provides a short dopamine hit (anticipation + acquisition). Research (Cicero, 2022) found sad people spend 11-17% more on unnecessary items. The purchase treats the emotion, not the need — which is why identifying triggers breaks the cycle."
+  - q: "What beliefs separate wealthy thinking from poor thinking?"
+    a: "Three key shifts: 1) 'I can learn to earn' vs 'I'll never have enough.' 2) 'Money is a tool I direct' vs 'Money is a scarce resource I pray survives.' 3) 'Delayed gratification builds compound' vs 'I deserve this now.' These aren't affirmations — they're operating assumptions that change what actions you take daily."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

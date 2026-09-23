@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - protein is not just for athletes concept"
 featured: false
 draft: false
 keywords:
-  - "protein"
-  - "enough"
-  - "muscle"
-  - "full"
-  - "cheaper"
-  - "people"
-  - "survive"
-  - "thrive"
+  - "how much protein do i need daily"
+  - "protein for muscle loss prevention"
+  - "protein deficiency signs"
+  - "best protein sources for beginners"
+  - "why protein keeps you full"
+  - "how much protein to eat to lose weight"
+  - "protein for energy and focus"
+  - "cheap high protein foods"
 tags:
   - "nutrition"
 wordCount: 221
+faq:
+  - q: "Why does protein matter if you're not an athlete?"
+    a: "Protein is every cell's building material: immune antibodies, gut lining, neurotransmitters, hair, skin. After 30, you lose 3-8% muscle per decade (sarcopenia) unless protein is adequate. Non-athletes need 1.0-1.2g/kg (vs 0.8 RDA) to preserve functional strength and metabolic health."
+  - q: "How much protein do I need per day?"
+    a: "Sedentary adults: 0.8g per kg bodyweight minimum. Active adults: 1.2-1.6g/kg. If you weigh 70kg, that's 56-112g daily. Distribute across meals (25-35g per serving) — the body can't store protein like fat, so every meal needs a source."
+  - q: "What are the cheapest high-protein foods?"
+    a: "1) Eggs (6g each, ~0.20€/unit). 2) Lentils (18g per cooked cup, cheapest per gram). 3) Canned sardines (25g/tin + omega-3s). 4) Greek yogurt (15g/100g). 5) Chicken thighs (26g/100g, cheaper than breast). 6) Cottage cheese. 7) Peanut butter (8g per tbsp)."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

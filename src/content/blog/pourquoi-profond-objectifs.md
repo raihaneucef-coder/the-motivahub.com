@@ -10,17 +10,24 @@ image: "/images/blog/pourquoi-profond-objectifs-2.jpg"
 imageAlt: "A woman writing in her journal with a cup of coffee in warm morning light"
 topic: "Goals"
 keywords:
-  - "deep"
-  - "goal"
-  - "want"
-  - "purpose"
-  - "because"
-  - "every"
-  - "find"
-  - "meaning"
+  - "find your deep why"
+  - "why purpose matters more than goals"
+  - "how to find your reason to keep going"
+  - "meaning behind your goals"
+  - "your why drives discipline"
+  - "how to stay motivated long term"
+  - "nietszhe he who has a why"
+  - "deep purpose personal growth"
 tags:
   - "goals"
 wordCount: 423
+faq:
+  - q: "Why is a 'deep why' more powerful than a goal?"
+    a: "Goals have deadlines — once achieved, motivation collapses. A deep why (protecting your family, proving to yourself it's possible, serving something larger) is inexhaustible. Viktor Frankl observed in concentration camps: those who survived had a 'why' that made any 'how' bearable."
+  - q: "How do I find my deep purpose?"
+    a: "Ask 'why?' five times past your first answer. 'I want to earn money' → why? → 'security' → why? → 'because I grew up with nothing' → why does that matter? → 'so my children never feel that fear.' The last answer is your deep why. It's emotional, personal, and energizing to state."
+  - q: "Can purpose sustain you through failure?"
+    a: "Yes — because a purpose-based identity is failure-proof. If your why is 'become someone who never quits,' then one failure doesn't negate the identity. Goal-based motivation breaks after one failure because the metric says you 'failed.' Purpose provides continuity that outcomes can't."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

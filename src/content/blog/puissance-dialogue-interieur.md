@@ -10,17 +10,24 @@ image: "/images/blog/puissance-dialogue-interieur-2.jpg"
 imageAlt: "A man sitting alone on a ledge with his backpack, lost in thought"
 topic: "Mindset"
 keywords:
-  - "talk"
-  - "critic"
-  - "self"
-  - "change"
-  - "yourself"
-  - "inner"
-  - "feel"
-  - "dialogue"
+  - "inner dialogue self talk"
+  - "how to change your self talk"
+  - "positive self talk exercises"
+  - "inner critic how to stop"
+  - "self talk and performance"
+  - "how your inner voice shapes reality"
+  - "reframing negative thoughts technique"
+  - "talk to yourself like a friend"
 tags:
   - "mindset"
 wordCount: 804
+faq:
+  - q: "How does inner dialogue affect performance?"
+    a: "Research by Hatzigeorgiadis (2011) found self-talk interventions improve performance by 10-18%. Instructional self-talk ('elbow high' during a shot) enhances focus; motivational self-talk ('you can do this') enhances endurance. The inner voice isn't noise — it's the coaching channel your brain actually follows."
+  - q: "How do I stop my inner critic?"
+    a: "You don't silence it — you rename it. When the voice says 'you're a failure,' respond: 'That's the critic talking, not a fact.' This creates cognitive distance (distanced self-talk). Research (Kross, 2014) shows referring to yourself in third person ('Youssef can handle this') reduces anxiety and increases rational thinking."
+  - q: "What's the difference between positive affirmations and powerful self-talk?"
+    a: "Affirmations ('I am successful') often backfire when your brain rejects them as false. Instructional self-talk ('Focus on the next step') works because it's true and actionable. Replace 'I am the best' with 'I'm prepared, I'll take it one rep at a time.' The brain trusts process language over outcome language."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

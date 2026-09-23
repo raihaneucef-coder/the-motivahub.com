@@ -10,17 +10,24 @@ image: "/images/blog/pouvoir-ecrire-objectifs.jpg"
 imageAlt: "Youssef Raihane - pouvoir ecrire objectifs concept"
 topic: "Goals"
 keywords:
-  - "goal"
-  - "write"
-  - "writing"
-  - "goals"
-  - "written"
-  - "achieve"
-  - "brain"
-  - "becomes"
+  - "writing down goals makes them work"
+  - "benefits of writing goals"
+  - "goal setting journal method"
+  - "how writing affects the brain"
+  - "smart goals writing exercise"
+  - "write your goals every morning"
+  - "the power of written goals"
+  - "dominant goals study harvard"
 tags:
   - "goals"
 wordCount: 404
+faq:
+  - q: "Does writing goals down actually increase achievement?"
+    a: "Yes — a Dominican University study (Gail Matthews, 2015) found people who wrote goals were 42% more likely to achieve them than those who only thought about them. Writing activates the reticular activating system (RAS), priming your brain to notice opportunities aligned with the stated goal."
+  - q: "How should I write my goals for maximum effect?"
+    a: "Use this formula: 1) Specific (not 'get fit' but 'run 5K under 25 min'). 2) Present tense as if already achieved ('I am running 4x per week'). 3) Include the WHY. 4) Write them daily (morning commitment ritual). 5) Share with one accountable person — the study showed accountability partners added another 33% success rate."
+  - q: "Why does my brain forget goals I don't write down?"
+    a: "Working memory holds only 4±1 chunks at a time (Cowan, 2001). Unwritten goals compete with every other thought and get overwritten within 48 hours. Writing externalizes the goal into your environment where it can 'remind' you through visual cues, bypassing the memory bottleneck entirely."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
