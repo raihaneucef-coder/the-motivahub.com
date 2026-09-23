@@ -10,17 +10,24 @@ image: "/images/blog/smart-goals-3.jpg"
 imageAlt: "A pink flat lay of a planner, notebooks and pens ready for goal setting"
 topic: "Goals"
 keywords:
-  - "goal"
-  - "smart"
-  - "want"
-  - "goals"
-  - "write"
-  - "setting"
-  - "specific"
-  - "framework"
+  - "SMART goals examples"
+  - "how to set SMART goals"
+  - "SMART goal framework explained"
+  - "specific measurable achievable relevant time bound"
+  - "goal setting method that works"
+  - "SMART goals for personal development"
+  - "why SMART goals fail sometimes"
+  - "SMART criteria goal planning"
 tags:
   - "goals"
 wordCount: 554
+faq:
+  - q: "What does SMART stand for in goal setting?"
+    a: "S-pecific (exactly what), M-easurable (how will you know), A-chievable (realistic stretch), R-elevant (matters to your values), T-ime-bound (has a deadline). Example: 'Run a 10K race by December 1st, training 3x/week, to prove to myself I can finish what I start.'"
+  - q: "Do SMART goals actually work or are they just corporate buzzwords?"
+    a: "Locke & Latham's Goal Setting Theory (35 years of research) confirms: specific + challenging goals outperform 'do your best' by 11-25%. SMART operationalizes this. Weakness: it doesn't address WHY (motivation) or systems (process). Best used paired with daily action plans, not as standalone wishlists."
+  - q: "What's better than SMART goals?"
+    a: "Process goals + identity shifts. Instead of 'lose 10kg in 3 months' (outcome), try 'I am someone who moves daily' (identity) + 'walk 30 min after lunch' (process). Systems beat goals because they don't create a 'failure state' on day 75 if you've lost 9.5kg instead of 10."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -12,17 +12,24 @@ imageAlt: "An exhausted athlete lying on a foam roller on the gym floor after tr
 featured: false
 draft: false
 keywords:
-  - "easy"
-  - "recovery"
-  - "training"
-  - "hours"
-  - "sleep"
-  - "train"
-  - "recover"
-  - "stronger"
+  - "recovery is part of training"
+  - "rest days build muscle"
+  - "why sleep matters for gains"
+  - "overtraining signs and recovery"
+  - "active recovery techniques"
+  - "how much rest between workouts"
+  - "muscle grows during rest not gym"
+  - "recovery routine for athletes"
 tags:
   - "sport"
-wordCount: 211
+wordCount: 224
+faq:
+  - q: "Why is recovery considered part of training?"
+    a: "Exercise creates micro-tears in muscle fibers; recovery is when they repair STRONGER. Without adequate rest (48-72 hrs between muscle groups), you accumulate damage without adaptation. The gym is the stimulus; sleep and rest are where the actual growth happens."
+  - q: "How many hours of sleep do athletes need?"
+    a: "Elite endurance and strength athletes need 8-10 hours. Research (Stanford, 2011) showed basketball players sleeping 10 hours improved sprint times, reaction time, and shooting accuracy by 9%. Sleep deprivation increases injury risk 1.7x (Milewski, 2014)."
+  - q: "What's the difference between passive and active recovery?"
+    a: "Passive: complete rest (sleep, nap, do nothing). Active: low-intensity movement that increases blood flow without creating fatigue (walking, light cycling, swimming, yoga). Active recovery clears lactate 2x faster than sitting still but requires heart rate below 60% max."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

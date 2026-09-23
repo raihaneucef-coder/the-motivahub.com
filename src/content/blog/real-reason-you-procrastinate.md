@@ -10,17 +10,24 @@ image: "/images/blog/real-reason-you-procrastinate-2.jpg"
 imageAlt: "A person hidden under the duvet scrolling their phone in bed"
 topic: "Productivity"
 keywords:
-  - "procrastination"
-  - "feeling"
-  - "because"
-  - "task"
-  - "start"
-  - "self"
-  - "brain"
-  - "feel"
+  - "why do i procrastinate psychology"
+  - "procrastination is not laziness"
+  - "emotional regulation procrastination"
+  - "how to stop procrastinating today"
+  - "procrastination root cause"
+  - "why cant i make myself start"
+  - "task avoidance psychology"
+  - "procrastination cure science based"
 tags:
   - "productivity"
 wordCount: 658
+faq:
+  - q: "Why do I procrastinate if I'm not lazy?"
+    a: "Research (Sirois & Pychyl, 2013) shows procrastination is an emotion-regulation problem, not a time-management one. You avoid the task because it triggers a negative feeling (boredom, anxiety, self-doubt). Your brain chooses short-term mood repair over long-term goal completion."
+  - q: "What's the fastest way to break a procrastination spiral?"
+    a: "1) Forgive yourself for procrastinating (self-blame increases future procrastination). 2) Shrink the task to 2 minutes ('just open the file'). 3) Remove the emotion: schedule at the same time daily so it becomes mechanical. 4) Do it badly first — a terrible draft breaks the perfectionism freeze."
+  - q: "Is procrastination a form of ADHD?"
+    a: "Chronic procrastination overlaps with ADHD (executive dysfunction, time blindness) but isn't identical. ADHD procrastination is neurological; situational procrastination is emotional. If procrastination affects all life domains since childhood, consider professional evaluation. For most adults, it's a specific avoidance pattern, not a disorder."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

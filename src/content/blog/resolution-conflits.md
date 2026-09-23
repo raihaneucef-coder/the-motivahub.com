@@ -10,18 +10,25 @@ image: "/images/blog/resolution-conflits-3.jpg"
 imageAlt: "Two people shaking hands to settle a disagreement, one in a suit and one in a checked shirt"
 topic: "Relationships"
 keywords:
-  - "fight"
-  - "conflict"
-  - "resolution"
-  - "fair"
-  - "relationships"
-  - "relationship"
-  - "contempt"
-  - "person"
+  - "how to resolve conflict in relationships"
+  - "fight fair with your partner"
+  - "gottman four horsemen relationships"
+  - "conflict resolution communication skills"
+  - "how to argue without hurting"
+  - "stop contempt in marriage"
+  - "healthy conflict resolution couples"
+  - "de-escalate arguments techniques"
 tags:
   - "relationships"
   - "how-to"
 wordCount: 334
+faq:
+  - q: "What are the 'Four Horsemen' of relationship conflict?"
+    a: "Gottman's research identified 4 predictors of divorce: 1) Criticism (attacking character vs behavior), 2) Contempt (mockery, eye-rolling), 3) Defensiveness (refusing responsibility), 4) Stonewalling (shutting down). Contempt is the #1 predictor — even 1 disagreeable interaction per 20 positive ones signals danger."
+  - q: "How do I fight fair when I'm angry?"
+    a: "Use 'soft start-up': complain WITHOUT blame. Instead of 'You never listen' say 'I felt unheard when...' Also: take a 20-min break if heart rate exceeds 100bpm (physiologically flooded = can't think clearly). Return to the conversation, don't avoid it permanently."
+  - q: "What's the difference between healthy and destructive conflict?"
+    a: "Healthy conflict: specific issue, both voices heard, repair attempts accepted, outcome is closer understanding. Destructive: character attacks, stonewalling, score-keeping, outcome is resentment. The goal isn't to eliminate conflict — happy couples argue 4-6 times/week. The HOW matters, not the WHETHER."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

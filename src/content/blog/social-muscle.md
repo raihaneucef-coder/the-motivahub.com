@@ -10,18 +10,24 @@ image: "/images/blog/social-muscle-3.jpg"
 imageAlt: "Two climbing partners belaying each other at an indoor climbing wall"
 topic: "Personal Growth"
 keywords:
-  - "social"
-  - "community"
-  - "muscle"
-  - "connection"
-  - "discipline"
-  - "lesson"
-  - "grows"
-  - "says"
+  - "social connection is a discipline"
+  - "how to maintain friendships as adult"
+  - "loneliness epidemic solutions"
+  - "social fitness exercise"
+  - "relationships need work not just feelings"
+  - "how to build community from scratch"
+  - "friendship requires consistency"
+  - "social muscle atrophy and recovery"
 tags:
   - "personal growth"
-  - "discipline"
 wordCount: 332
+faq:
+  - q: "Why is social connection called a 'muscle'?"
+    a: "Because it atrophies with disuse and strengthens with consistent exercise. The same principles apply: progressive overload (slightly harder social situations), regularity (weekly contact, not yearly), and recovery (introverts need downtime between). Loneliness literally increases mortality risk by 26% (Holt-Lunstad, 2010)."
+  - q: "How do I rebuild my social life after isolation?"
+    a: "Start absurdly small: text 1 person today, accept 1 invitation this week, attend 1 recurring event monthly (class, club, volunteer). The 'mere exposure effect' means familiarity breeds liking — show up consistently and friendships form naturally. Don't wait to feel ready; the feeling follows the action."
+  - q: "How often should you contact friends to maintain the bond?"
+    a: "Research suggests weekly contact maintains close friendships; monthly keeps them alive; yearly makes them nostalgic. The minimum viable habit: one 5-minute voice call or genuine text per important person per week. Quality matters but frequency is the actual variable that predicts long-term friendship survival."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

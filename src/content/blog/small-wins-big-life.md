@@ -12,17 +12,24 @@ imageAlt: "Hands stacking coins into small growing towers"
 featured: false
 draft: false
 keywords:
-  - "small"
-  - "page"
-  - "becomes"
-  - "wins"
-  - "repeated"
-  - "often"
-  - "minutes"
-  - "life"
+  - "small wins compound into big changes"
+  - "tiny habits big results"
+  - "power of 1 percent better daily"
+  - "micro habits that transform life"
+  - "small consistent actions over time"
+  - "how to change your life with tiny steps"
+  - "progress not perfection habits"
+  - "atomic habits summary principles"
 tags:
   - "habits"
 wordCount: 265
+faq:
+  - q: "How do small wins create big life changes?"
+    a: "Each tiny win releases dopamine (the 'achievement' neurotransmitter), which motivates the next action. This creates a 'winning spiral' (Amabile, Harvard). 5% improvement daily compounds to 17x better in one year. Small wins aren't lesser — they're the mechanism through which all big transformations physically occur."
+  - q: "Why can't I stick to big ambitious goals?"
+    a: "Big goals require big willpower (depletes fast) and show results slowly (discouragement kills motivation). Small wins provide immediate feedback, require minimal activation energy, and build identity ('I'm someone who shows up'). The gap between where you are and where you want to be is filled by actions so small they seem trivial."
+  - q: "What are examples of 'small wins' habits?"
+    a: "1) Read 1 page (often becomes 10). 2) Do 1 pushup (often becomes 20). 3) Write 1 sentence. 4) Walk 2 minutes. 5) Meditate for 30 seconds. 6) Wash 1 dish. The rule: make it so easy you can't say no. Once started, the Zeigarnik effect compels completion."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
