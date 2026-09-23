@@ -12,17 +12,24 @@ imageAlt: "A split-level view of a tropical island above the surface and the ree
 featured: false
 draft: false
 keywords:
-  - "goal"
-  - "want"
-  - "hides"
-  - "hidden"
-  - "write"
-  - "motivation"
-  - "someone"
-  - "keeps"
+  - "goal behind the goal meaning"
+  - "why your goals keep failing"
+  - "dig deeper into your desires"
+  - "intrinsic vs extrinsic motivation"
+  - "how to find what you truly want"
+  - "self determination theory goals"
+  - "understand your deeper needs"
+  - "motivation that lasts beyond achievement"
 tags:
   - "goals"
 wordCount: 229
+faq:
+  - q: "What is the goal behind the goal?"
+    a: "The surface goal (lose 10kg, earn 100k) is a symbol for a deeper psychological need: safety, recognition, autonomy, or belonging. When you identify the real need, you can fulfill it through multiple paths, including ones you have not yet considered."
+  - q: "How do I discover my hidden motivation?"
+    a: "Write your goal, then ask and if I achieve that, what would it give me? Keep asking 5 layers deep. A degree leads to a job leads to security leads to parents proud leads to I matter. The last answer is your real fuel. Goals that connect to it energize; ones that do not feel empty."
+  - q: "Why does achieving a goal sometimes feel pointless?"
+    a: "Because you achieved the symbol, not the substance. If your real need was recognition and you won a trophy but nobody saw it, the hunger persists. The solution: identify the need first, then find the most direct path to fulfill it, which may not be the goal you assumed." 
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

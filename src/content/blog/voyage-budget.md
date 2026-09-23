@@ -10,18 +10,25 @@ image: "/images/blog/voyage-budget-3.jpg"
 imageAlt: "A world map shaped from scattered coins on a white table"
 topic: "Travel"
 keywords:
-  - "travel"
-  - "budget"
-  - "world"
-  - "expensive"
-  - "less"
-  - "cheap"
-  - "cheaper"
-  - "accommodation"
+  - "how to travel cheap"
+  - "budget travel tips for beginners"
+  - "travel the world with little money"
+  - "cheap destinations for backpacking"
+  - "how to save money traveling"
+  - "budget travel accommodation hacks"
+  - "see europe on a shoestring"
+  - "travel without spending a fortune"
 tags:
   - "travel"
   - "how-to"
 wordCount: 345
+faq:
+  - q: "How can I travel the world on a tight budget?"
+    a: "3 rules that save 50 percent: 1) Travel in shoulder season (not July/August). 2) Stay minimum 7 days per city (weekly discounts vs nightly rates). 3) Eat where locals eat: markets, street food, not tourist restaurants. Southeast Asia, Eastern Europe, Morocco, and Latin America offer the best value-per-experience."
+  - q: "What is the cheapest way to find accommodation?"
+    a: "Prioritize: house-sitting (free, requires commitment), work-exchange (20 hrs work equals bed), then hostels (10-25 dollars), then private apartments on weekly rates. Airbnb long-stay discounts: 30-40 percent off 28+ nights. Skyscanner explore function filters by price when destination is flexible."
+  - q: "Is budget travel worth the discomfort?"
+    a: "The research on experiential spending (Van Boven, Cornell) shows experiences create more lasting happiness than possessions regardless of comfort level. A shared bathroom teaches cultural connection a resort never will. Discomfort IS the experience when it strips away the filtered tourist bubble." 
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

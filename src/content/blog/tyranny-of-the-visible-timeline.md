@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - tyranny of the visible timeline concept"
 featured: false
 draft: false
 keywords:
-  - "week"
-  - "visible"
-  - "month"
-  - "clock"
-  - "people"
-  - "looks"
-  - "compounding"
-  - "long"
+  - "comparison with others timelines"
+  - "feeling behind in life"
+  - "everyone else seems successful"
+  - "social media makes me feel like failure"
+  - "my career is too slow"
+  - "quitting before compounding kicks in"
+  - "why results take years not weeks"
+  - "invisible progress before breakthrough"
 tags:
   - "mindset"
 wordCount: 451
+faq:
+  - q: "Why do I feel behind compared to people my age?"
+    a: "Because you are comparing your invisible chapter 3 to their visible chapter 10. You do not see their 7 years of unrecognized work, their failures, their debts behind the highlight. The timeline you are measuring against is a curated performance, not a documented reality."
+  - q: "What is the tyranny of the visible timeline?"
+    a: "The false belief that there is a correct pace for milestones (married by 30, millionaire by 40, published by 25). This industrial-age clock creates anxiety at every deviation. Real mastery has different timelines: Colonel Sanders at 62, Vera Wang at 40. The only tyranny is comparing your unedited draft to their final cut."
+  - q: "How do I stay patient with slow progress?"
+    a: "Track your own baseline (month 1 vs month 6), not external ones. The compound curve is non-linear: 5 years of flat then sudden visible results. If you judge by looking down (comparison to others), you quit. If you judge by looking forward (am I closer to my own standard?), you continue." 
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

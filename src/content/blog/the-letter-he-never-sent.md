@@ -12,17 +12,24 @@ imageAlt: "A bundle of old letters tied with twine next to a handwritten letter 
 featured: false
 draft: false
 keywords:
-  - "letter"
-  - "never"
-  - "every"
-  - "because"
-  - "sent"
-  - "wrote"
-  - "changed"
-  - "person"
+  - "writing letters that change your life"
+  - "journaling to heal regret"
+  - "unsent letter therapy technique"
+  - "the power of written honesty"
+  - "how to process things left unsaid"
+  - "letter to your past self"
+  - "expressive writing health benefits"
+  - "words that go unspoken change you"
 tags:
   - "stories"
 wordCount: 259
+faq:
+  - q: "Why is writing an unsent letter powerful?"
+    a: "It externalizes trapped emotions without social risk. James Pennebaker research shows expressive writing about unprocessed experiences improves immune function, reduces rumination, and increases clarity within 4 days. The letter purpose is not delivery; it is the author liberation."
+  - q: "Should I send the letter after writing it?"
+    a: "Wait 30 days. Re-read: if it still serves a constructive purpose (not blame, but genuine sharing), consider it. If reading it again creates the same relief you felt writing it, the recipient was always you. Most unsent letters achieve their healing purpose without ever being mailed."
+  - q: "What if I never get to say what I needed to say?"
+    a: "Write it anyway. The brain does not distinguish between spoken and written expression for emotional processing. You cannot control whether they hear you, but you can control whether the words exist outside your body. The unsaid weighs more than the imperfectly said." 
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

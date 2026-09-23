@@ -10,17 +10,24 @@ image: "/images/blog/two-minute-threshold-2.jpg"
 imageAlt: "A person standing at an open doorway with light pouring in"
 topic: "Habits"
 keywords:
-  - "doorway"
-  - "habit"
-  - "minutes"
-  - "becomes"
-  - "open"
-  - "minute"
-  - "sentence"
-  - "shrink"
+  - "two minute rule habit formation"
+  - "make habits so small you cannot fail"
+  - "how to start when you cannot motivate"
+  - "activation energy of habits"
+  - "tiny starting rituals work"
+  - "stop procrastinating with 2 minutes"
+  - "the hardest part is starting"
+  - "shrink the first step discipline"
 tags:
   - "habits"
 wordCount: 766
+faq:
+  - q: "What is the two-minute rule in habit formation?"
+    a: "From David Allen and James Clear: when starting a new habit, scale the first action to 2 minutes or less. Read before bed becomes read one page. The purpose is not to read one page; it is to master showing up. You cannot improve a habit that does not exist."
+  - q: "Why does the first 2 minutes feel so hard?"
+    a: "Because of activation energy: the brain perceives the entire task when you think about starting (I have to work out an hour!), triggering avoidance. Shrinking the commitment to 2 minutes tricks the threat assessment. Once started, the Zeigarnik effect (open loops demand closure) makes continuing easier than quitting."
+  - q: "How do I use the threshold when I have zero motivation?"
+    a: "Define your doorway moment: the action that crosses you from not doing into doing. Open the document. Put on gym shoes. Step outside. The commitment is ONLY to that doorway action, not the activity beyond it. 90 percent of days, crossing the threshold is all you need to actually work out." 
 bookSlug: atomic-habits
 
 relatedArticles:

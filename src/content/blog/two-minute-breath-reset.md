@@ -12,17 +12,24 @@ imageAlt: "A woman meditating cross-legged in a dark studio with soft window lig
 featured: false
 draft: false
 keywords:
-  - "calm"
-  - "minutes"
-  - "exhale"
-  - "breath"
-  - "enough"
-  - "state"
-  - "body"
-  - "breathing"
+  - "2 minute breathing exercise for anxiety"
+  - "how to calm down fast"
+  - "box breathing technique"
+  - "physiological sigh instant calm"
+  - "breathing exercises for stress relief"
+  - "how to regulate emotions in 2 minutes"
+  - "double inhale long exhale benefits"
+  - "quick calm technique before a meeting"
 tags:
   - "wellness"
 wordCount: 277
+faq:
+  - q: "What is the fastest breathing technique to calm anxiety?"
+    a: "The physiological sigh: two quick inhales through the nose followed by one long exhale through the mouth. Andrew Huberman (Stanford) highlights this as the fastest voluntary way to reduce sympathetic activation: works in 60-90 seconds with just 2-3 cycles."
+  - q: "How does controlled breathing actually calm the nervous system?"
+    a: "Longer exhale than inhale activates the vagus nerve, which sends a safety signal from the body to the brainstem. This flips the autonomic balance from sympathetic (fight-or-flight) to parasympathetic (rest-and-digest). Your conscious breathing is the ONLY voluntary control over your autonomic nervous system."
+  - q: "What is the best 2-minute reset for stress at work?"
+    a: "4-7-8 pattern: inhale 4 counts, hold 7, exhale 8. Repeat 4 cycles (about 90 seconds). Then one physiological sigh (double-inhale plus long exhale) to finish. Combined: 2 minutes exactly, resets heart rate variability, and requires zero equipment or private space." 
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

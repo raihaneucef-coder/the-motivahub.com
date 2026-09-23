@@ -12,17 +12,24 @@ imageAlt: "Empty red cinema seats facing the glowing projector screen"
 featured: false
 draft: false
 keywords:
-  - "film"
-  - "week"
-  - "choose"
-  - "question"
-  - "want"
-  - "movie"
-  - "good"
-  - "life"
+  - "movies that change your perspective"
+  - "films that motivate you to act"
+  - "best inspirational movies list"
+  - "how a movie changed my life"
+  - "films that make you think differently"
+  - "purposeful entertainment choices"
+  - "intentional movie watching"
+  - "media that inspires growth"
 tags:
   - "entertainment"
 wordCount: 236
+faq:
+  - q: "Can a movie actually change your life?"
+    a: "Yes: narrative transportation research (Green and Brock, 2000) shows stories can shift beliefs more effectively than arguments. When you emotionally identify with a character facing a dilemma parallel to yours, the resolution provides a behavioral template your brain accepts as experienced rather than instructed."
+  - q: "How do I choose films that genuinely help me grow?"
+    a: "Before watching, ask: what am I seeking? Clarity? Courage? Perspective? Then choose intentionally (not algorithmically). A 30-minute documentary on a craft can shift your approach more than 3 hours of passive entertainment. You are curating input, not killing time."
+  - q: "Is there something wrong with only watching entertainment?"
+    a: "No, but audit the ratio. If 100 percent of your media consumption is pure escapism with no emotional or intellectual residue, you might be using distraction to avoid processing. The goal is not elevate everything but ensure at least one weekly input leaves you thinking differently." 
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

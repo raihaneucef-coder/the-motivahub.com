@@ -10,18 +10,25 @@ image: "/images/blog/vaincre-procrastination-1.jpg"
 imageAlt: "Youssef Raihane - vaincre procrastination concept"
 topic: "Productivity"
 keywords:
-  - "minutes"
-  - "plus"
-  - "parce"
-  - "procrastination"
-  - "tâche"
-  - "fais"
-  - "procrastines"
-  - "cerveau"
+  - "why you procrastinate science"
+  - "how to stop procrastinating permanently"
+  - "procrastination psychology explained"
+  - "brain tricks to beat procrastination"
+  - "french productivity techniques"
+  - "vaincre procrastination méthode"
+  - "science de la procrastination"
+  - "comment arrêter de procrastiner"
 tags:
   - "productivity"
   - "how-to"
 wordCount: 796
+faq:
+  - q: "What causes procrastination in the brain?"
+    a: "The limbic system (emotional, seeks immediate pleasure) hijacks the prefrontal cortex (rational, plans long-term). When a task triggers anxiety or boredom, the brain registers it as a threat and seeks immediate relief. Procrastination is not laziness, it is emotional regulation failure."
+  - q: "How do I actually stop procrastinating?"
+    a: "1) Shrink the task until starting feels trivial (just open the document). 2) Set a timer for 10 minutes. 3) Remove choice: schedule at same time daily. 4) Pair the task with something pleasant (music, coffee). 5) Most importantly: forgive yourself, research shows self-blame INCREASES future procrastination (Sirois, 2015)."
+  - q: "Is procrastination genetic or learned?"
+    a: "Both. Temperament (impulsivity, sensation-seeking) has about 40 percent heritability. But procrastination PATTERNS are learned responses to task-related anxiety, perfectionism, and reward sensitivity. The good news: cognitive behavioral techniques rewire these patterns in 6-8 weeks." 
 # English route deprecated: the body is French and the intent is covered by
 # real-reason-you-procrastinate (EN). The French page at /fr/journal/ stays live.
 noindex: true
