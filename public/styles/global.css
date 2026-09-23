@@ -2424,3 +2424,152 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   .bk-quote-inner { grid-template-columns: 1fr; }
   .bk-quote-img { aspect-ratio: 16/9; }
 }
+
+/* --- 35. Podcast / The Daily Drive (Phase 7) --- */
+
+/* 35a. Hero */
+.pc-hero {
+  background: #0a0a0a;
+  padding: clamp(100px, 14vh, 140px) 0 clamp(48px, 6vh, 72px);
+}
+.pc-hero-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 clamp(20px, 4vw, 56px);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(32px, 5vw, 64px);
+  align-items: center;
+}
+.pc-hero-text { display: flex; flex-direction: column; gap: 14px; }
+.pc-hero-eyebrow {
+  font-family: var(--mono); font-size: 0.6875rem;
+  text-transform: uppercase; letter-spacing: 0.22em; color: #ff4d00; margin: 0;
+}
+.pc-hero-title {
+  font-family: var(--serif); font-size: clamp(2.5rem, 5vw, 3.75rem);
+  font-weight: 700; line-height: 1.05; color: #f0f0f0; margin: 0; letter-spacing: -0.02em;
+}
+.pc-hero-title em { color: #ff4d00; font-style: normal; }
+.pc-hero-sub {
+  font-family: var(--sans); font-size: 1.15rem; font-weight: 600; color: #ccc; margin: 0;
+}
+.pc-hero-desc {
+  font-family: var(--sans); font-size: 1rem; line-height: 1.65; color: #b0b0b0;
+  max-width: 48ch; margin: 0;
+}
+.pc-hero-cta {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 14px 28px; background: #ff4d00; color: #fff; border-radius: 8px;
+  font-family: var(--sans); font-size: 0.9375rem; font-weight: 600;
+  text-decoration: none; transition: background 0.2s; align-self: flex-start;
+}
+.pc-hero-cta:hover { background: #ff6a2a; }
+.pc-hero-divider { display: block; width: 48px; height: 2px; background: #ff4d00; margin: 8px 0; }
+.pc-hero-tagline {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.18em; color: #888; margin: 0;
+}
+.pc-hero-media {
+  position: relative; border-radius: 12px; overflow: hidden; aspect-ratio: 4/5;
+  border: 1px solid #2a2a2a;
+}
+.pc-hero-media img { width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.pc-hero-img-label {
+  position: absolute; top: 24px; right: 24px;
+  font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase;
+  letter-spacing: 0.16em; color: rgba(255,255,255,0.72); text-align: right;
+  line-height: 1.6; margin: 0;
+}
+@media (max-width: 768px) {
+  .pc-hero-inner { grid-template-columns: 1fr; }
+  .pc-hero-media { aspect-ratio: 16/10; order: -1; }
+  .pc-hero { padding-top: clamp(88px, 12vh, 110px); }
+}
+
+/* 35b. Episodes section head */
+.pc-episodes { padding: clamp(40px, 6vh, 64px) 0 clamp(48px, 7vh, 72px); border-top: 1px solid #1e1e1e; }
+.pc-section-head { margin-bottom: clamp(24px, 3.5vh, 36px); }
+.pc-section-kicker {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.2em; color: #ff4d00; margin: 0 0 10px;
+}
+.pc-section-head .journal-section-title { margin: 0; }
+.pc-section-count {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.14em; color: #666; margin: 10px 0 0;
+}
+
+/* 35c. Latest episode feature */
+.pc-latest {
+  display: grid; grid-template-columns: 1.15fr 1fr;
+  background: #141414; border: 1px solid #2a2a2a; border-radius: 12px;
+  overflow: hidden; margin-bottom: clamp(24px, 4vh, 40px);
+  transition: border-color 0.25s ease;
+}
+.pc-latest:hover { border-color: #ff4d00; }
+.pc-latest-cover { display: block; aspect-ratio: 16/10; overflow: hidden; background: #1a1a1a; }
+.pc-latest-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.pc-latest-body {
+  padding: clamp(22px, 3vw, 36px); display: flex; flex-direction: column;
+  justify-content: center; gap: 12px; min-width: 0;
+}
+.pc-latest-label {
+  font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase;
+  letter-spacing: 0.18em; color: #ff4d00; margin: 0;
+}
+.pc-latest-title {
+  font-family: var(--serif); font-size: clamp(1.25rem, 2.1vw, 1.6rem);
+  font-weight: 700; line-height: 1.25; color: #f0f0f0; margin: 0;
+}
+.pc-latest-desc {
+  font-family: var(--sans); font-size: 0.9375rem; line-height: 1.6; color: #b0b0b0; margin: 0;
+}
+@media (max-width: 768px) {
+  .pc-latest { grid-template-columns: 1fr; }
+  .pc-latest-cover { aspect-ratio: 16/9; }
+}
+
+/* 35d. Episode grid */
+.pc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.pc-card {
+  display: flex; flex-direction: column;
+  background: #141414; border: 1px solid #2a2a2a;
+  border-radius: 10px; overflow: hidden; transition: border-color 0.25s ease;
+}
+.pc-card:hover { border-color: #ff4d00; }
+.pc-cover { aspect-ratio: 1/1; overflow: hidden; background: #1a1a1a; }
+.pc-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.pc-card-body {
+  padding: 18px; display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 0;
+}
+.pc-card-title {
+  font-family: var(--serif); font-size: 1rem; font-weight: 700;
+  color: #f0f0f0; margin: 0; line-height: 1.3;
+}
+.pc-card-desc {
+  font-family: var(--sans); font-size: 0.8125rem; line-height: 1.55; color: #b0b0b0; margin: 0;
+}
+.pc-meta {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.1em; color: #888; margin: 0;
+}
+.pc-listen {
+  display: inline-flex; align-items: center; gap: 6px; margin-top: auto;
+  padding: 10px 16px; background: transparent; border: 1px solid #2a2a2a;
+  border-radius: 6px; color: #f0f0f0; align-self: flex-start;
+  font-family: var(--sans); font-size: 0.8125rem; font-weight: 600;
+  text-decoration: none; transition: border-color 0.2s, color 0.2s;
+}
+.pc-listen:hover { border-color: #ff4d00; color: #ff4d00; }
+.pc-listen:focus-visible,
+.pc-hero-cta:focus-visible,
+.pc-latest-cover:focus-visible { outline: 2px solid #ff4d00; outline-offset: 2px; }
+@media (max-width: 1024px) { .pc-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .pc-grid { grid-template-columns: 1fr; } }
+
+/* 35e. Curation note */
+.pc-note {
+  font-family: var(--sans); font-size: 0.75rem; color: #666;
+  line-height: 1.6; margin: 28px 0 0; max-width: 72ch;
+}

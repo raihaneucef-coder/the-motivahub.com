@@ -1,31 +1,109 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
-import Link from "../../../components/Link.astro";
 import { podcasts } from "../../../data/podcasts";
-import PodcastCard from "../../../components/PodcastCard.astro";
-import NewsletterSection from "../../../components/NewsletterSection.astro";
+
+// Curated listening list of third-party shows. Episode titles and descriptions
+// are fixed metadata of English-language shows (the dataset has no FR fields),
+// so they stay as-is; only the page chrome and dates are localised.
+const latest = podcasts[0];
+const rest = podcasts.slice(1);
+
+const monthsFr: Record<string, string> = {
+  Jan: "janvier", Feb: "février", Mar: "mars", Apr: "avril", May: "mai", Jun: "juin",
+  Jul: "juillet", Aug: "août", Sep: "septembre", Oct: "octobre", Nov: "novembre", Dec: "décembre",
+};
+const frDate = (d: string) => {
+  const m = d.match(/^([A-Za-z]{3})\s+(\d{1,2}),\s+(\d{4})$/);
+  return m ? `${m[2]} ${monthsFr[m[1]] ?? m[1]} ${m[3]}` : d;
+};
 ---
 
-<Layout title="Podcast — Motiva Hub" description="The Daily Drive — conversations on mindset, discipline and the long ascent.">
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker" data-i18n="podcastKicker">The Daily Drive · Podcast</p>
-      <h1 data-i18n-html="podcastTitle">The <em>podcast.</em></h1>
-      <p data-i18n="podcastSubtitle">Short conversations for the disciplined mind — mindset, habits and the work before the work.</p>
-      <p class="page-head-tagline">Lance l'épisode. Retiens une idée. Applique-la aujourd'hui.</p>
+<Layout title="Podcast — Motiva Hub" description="The Daily Drive — une liste d'écoute sélectionnée sur l'état d'esprit, la discipline et la longue ascension.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Podcast", "item": "https://the-motivahub.com/fr/podcast/" }
+    ]
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "The Daily Drive — une liste d'écoute sélectionnée",
+    "description": "Épisodes sélectionnés par Motiva Hub sur la discipline, la concentration et la croissance personnelle.",
+    "url": "https://the-motivahub.com/fr/podcast/",
+    "numberOfItems": podcasts.length,
+    "itemListElement": podcasts.map((p, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "name": p.title,
+      "url": p.podcastUrl
+    }))
+  })} />
+
+  <!-- Hero -->
+  <section class="pc-hero">
+    <div class="pc-hero-inner">
+      <div class="pc-hero-text">
+        <p class="pc-hero-eyebrow">Podcast</p>
+        <h1 class="pc-hero-title">The Daily<br /><em>Drive.</em></h1>
+        <p class="pc-hero-sub">Des idées pour la route.</p>
+        <p class="pc-hero-desc">Une liste d'écoute sélectionnée à la main — les conversations sur la discipline, la concentration et la croissance personnelle que nous jugeons assez bonnes pour y revenir. Réunies au même endroit, pour écouter les idées qui méritent de vous accompagner.</p>
+        <a href="#episodes" class="pc-hero-cta">Découvrir les épisodes →</a>
+        <span class="pc-hero-divider"></span>
+        <p class="pc-hero-tagline">Écouter. Apprendre. Appliquer. Grandir.</p>
+      </div>
+      <div class="pc-hero-media">
+        <img src="/images/podcast.jpg" alt="Microphone de studio professionnel sur fond noir charbon" loading="eager" width="800" height="1000" />
+        <p class="pc-hero-img-label">Une liste<br />d'écoute sélectionnée.</p>
+      </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- Episodes -->
+  <section class="pc-episodes" id="episodes">
     <div class="container">
-      <div class="book-grid">
-        {podcasts.map((podcast) => <PodcastCard podcast={podcast} />)}
+      <div class="pc-section-head">
+        <p class="pc-section-kicker">Notre sélection</p>
+        <h2 class="journal-section-title">Épisodes</h2>
+        <p class="pc-section-count">{podcasts.length} épisodes · sélectionnés par Motiva Hub</p>
       </div>
-      <p class="affiliate-note" data-i18n="podcastNote">
-        New episodes are added here first. When a podcastUrl is configured, the Listen button will open the real episode in a new tab.
+
+      {latest && (
+        <article class="pc-latest" id={latest.id}>
+          <a class="pc-latest-cover" href={latest.podcastUrl} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
+            <img src={latest.cover} alt={`${latest.title} artwork`} loading="eager" />
+          </a>
+          <div class="pc-latest-body">
+            <p class="pc-latest-label">Dernier épisode</p>
+            <h3 class="pc-latest-title">{latest.title}</h3>
+            <p class="pc-latest-desc">{latest.description}</p>
+            <p class="pc-meta">{frDate(latest.date)} · {latest.duration}</p>
+            <a class="pc-listen" href={latest.podcastUrl} target="_blank" rel="noopener noreferrer" data-podcast-id={latest.id}>Écouter sur l'émission d'origine <span aria-hidden="true">→</span></a>
+          </div>
+        </article>
+      )}
+
+      <div class="pc-grid">
+        {rest.map((podcast) => (
+          <article class="pc-card" id={podcast.id}>
+            <div class="pc-cover">
+              <img src={podcast.cover} alt={`${podcast.title} artwork`} loading="lazy" />
+            </div>
+            <div class="pc-card-body">
+              <h3 class="pc-card-title">{podcast.title}</h3>
+              <p class="pc-card-desc">{podcast.description}</p>
+              <p class="pc-meta">{frDate(podcast.date)} · {podcast.duration}</p>
+              <a class="pc-listen" href={podcast.podcastUrl} target="_blank" rel="noopener noreferrer" data-podcast-id={podcast.id}>Écouter sur l'émission d'origine <span aria-hidden="true">→</span></a>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      <p class="pc-note">
+        À propos de cette liste : chaque épisode ci-dessus est sélectionné dans des émissions créées par d'autres. Motiva Hub ne produit pas ces conversations et ne publie pas encore son propre flux podcast. Chaque lien ouvre l'épisode sur sa plateforme d'origine dans un nouvel onglet.
       </p>
     </div>
   </section>
-
-  <NewsletterSection />
 </Layout>

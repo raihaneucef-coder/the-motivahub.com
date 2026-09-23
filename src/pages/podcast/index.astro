@@ -1,30 +1,100 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import { podcasts } from "../../data/podcasts";
-import PodcastCard from "../../components/PodcastCard.astro";
-import NewsletterSection from "../../components/NewsletterSection.astro";
+
+// The dataset is a curated listening list of third-party shows (real, public
+// episodes we point readers to) — not Motiva Hub productions. Dates exist and
+// are stored newest-first, so the first entry is objectively the most recent.
+const latest = podcasts[0];
+const rest = podcasts.slice(1);
 ---
 
-<Layout title="Podcast — Motiva Hub" description="The Daily Drive — conversations on mindset, discipline and the long ascent.">
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker" data-i18n="podcastKicker">The Daily Drive · Podcast</p>
-      <h1 data-i18n="podcastTitle">The <em>podcast.</em></h1>
-      <p data-i18n="podcastSubtitle">Short conversations for the disciplined mind — mindset, habits and the work before the work.</p>
-      <p class="page-head-tagline">Press play. Keep one idea. Act on it today.</p>
+<Layout title="Podcast — Motiva Hub" description="The Daily Drive — a curated listening list on mindset, discipline and the long ascent.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Podcast", "item": "https://the-motivahub.com/podcast/" }
+    ]
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "The Daily Drive — a curated listening list",
+    "description": "Hand-picked episodes on mindset, discipline, focus and growth, selected by Motiva Hub.",
+    "url": "https://the-motivahub.com/podcast/",
+    "numberOfItems": podcasts.length,
+    "itemListElement": podcasts.map((p, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "name": p.title,
+      "url": p.podcastUrl
+    }))
+  })} />
+
+  <!-- Hero -->
+  <section class="pc-hero">
+    <div class="pc-hero-inner">
+      <div class="pc-hero-text">
+        <p class="pc-hero-eyebrow">Podcast</p>
+        <h1 class="pc-hero-title">The Daily<br /><em>Drive.</em></h1>
+        <p class="pc-hero-sub">Ideas for the road ahead.</p>
+        <p class="pc-hero-desc">A handpicked listening list — the conversations on discipline, focus and growth we rate enough to return to. Gathered in one place, so you can press play on the ideas worth carrying into your day.</p>
+        <a href="#episodes" class="pc-hero-cta">Explore the Episodes →</a>
+        <span class="pc-hero-divider"></span>
+        <p class="pc-hero-tagline">Listen. Learn. Apply. Grow.</p>
+      </div>
+      <div class="pc-hero-media">
+        <img src="/images/podcast.jpg" alt="Professional studio microphone on a dark charcoal background" loading="eager" width="800" height="1000" />
+        <p class="pc-hero-img-label">A curated<br />listening list.</p>
+      </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- Episodes -->
+  <section class="pc-episodes" id="episodes">
     <div class="container">
-      <div class="book-grid">
-        {podcasts.map((podcast) => <PodcastCard podcast={podcast} />)}
+      <div class="pc-section-head">
+        <p class="pc-section-kicker">The Shortlist</p>
+        <h2 class="journal-section-title">Episodes</h2>
+        <p class="pc-section-count">{podcasts.length} episodes · curated by Motiva Hub</p>
       </div>
-      <p class="affiliate-note" data-i18n="podcastNote">
-        New episodes are added here first. When a podcastUrl is configured, the Listen button will open the real episode in a new tab.
+
+      {latest && (
+        <article class="pc-latest" id={latest.id}>
+          <a class="pc-latest-cover" href={latest.podcastUrl} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
+            <img src={latest.cover} alt={`${latest.title} artwork`} loading="eager" />
+          </a>
+          <div class="pc-latest-body">
+            <p class="pc-latest-label">Latest episode</p>
+            <h3 class="pc-latest-title">{latest.title}</h3>
+            <p class="pc-latest-desc">{latest.description}</p>
+            <p class="pc-meta">{latest.date} · {latest.duration}</p>
+            <a class="pc-listen" href={latest.podcastUrl} target="_blank" rel="noopener noreferrer" data-podcast-id={latest.id}>Listen on the original show <span aria-hidden="true">→</span></a>
+          </div>
+        </article>
+      )}
+
+      <div class="pc-grid">
+        {rest.map((podcast) => (
+          <article class="pc-card" id={podcast.id}>
+            <div class="pc-cover">
+              <img src={podcast.cover} alt={`${podcast.title} artwork`} loading="lazy" />
+            </div>
+            <div class="pc-card-body">
+              <h3 class="pc-card-title">{podcast.title}</h3>
+              <p class="pc-card-desc">{podcast.description}</p>
+              <p class="pc-meta">{podcast.date} · {podcast.duration}</p>
+              <a class="pc-listen" href={podcast.podcastUrl} target="_blank" rel="noopener noreferrer" data-podcast-id={podcast.id}>Listen on the original show <span aria-hidden="true">→</span></a>
+            </div>
+          </article>
+        ))}
+      </div>
+
+      <p class="pc-note">
+        A note on this list: every episode above is selected from other creators' shows. Motiva Hub does not produce these conversations and publishes no podcast feed of its own yet. Each link opens the episode on its original platform in a new tab.
       </p>
     </div>
   </section>
-
-  <NewsletterSection />
 </Layout>
