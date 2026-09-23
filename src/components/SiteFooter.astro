@@ -1,0 +1,78 @@
+---
+import Link from "./Link.astro";
+---
+
+<footer class="site-footer">
+  <div class="footer-newsletter">
+    <div class="container">
+      <div class="footer-newsletter-inner">
+        <p class="kicker kicker-or" style="justify-content:center; display:flex;" data-i18n="footerNewsletterKicker">The Daily Drive · Newsletter</p>
+        <h2 data-i18n-html="footerNewsletterTitle">One letter. <em>Every Sunday.</em></h2>
+        <p data-i18n="footerNewsletterSubtitle">The week's essays, one book worth reading, and a small practice to try — delivered to people building the long ascent.</p>
+        <form class="newsletter-form" action="https://formsubmit.co/contact@the-motivahub.com" method="POST">
+          <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" data-i18n-placeholder="footerEmailPlaceholder" />
+          <button type="submit" data-i18n="footerSubscribe">Subscribe</button>
+        </form>
+        <p style="font-family:var(--mono); font-size:0.6875rem; text-transform:uppercase; letter-spacing:0.14em; color:rgba(245,241,232,0.4); margin-top:16px;" data-i18n="footerTrust">Free · No spam · Unsubscribe anytime</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="footer-main">
+      <div class="footer-brand">
+        <Link href="/" class="logo logo-text logo-text-cream" data-magnetic aria-label="Motiva Hub">
+          <span class="logo-word">Motiva <em>Hub</em></span>
+        </Link>
+        <p class="footer-tagline" data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
+        <div class="footer-social">
+          <a href="https://www.instagram.com/motivahub/" aria-label="IG — Instagram" rel="noopener">IG</a>
+          <a href="https://x.com/themotivahub" aria-label="Twitter / X" rel="noopener">X</a>
+          <a href="https://www.youtube.com/@motivahub" aria-label="YT — YouTube" rel="noopener">YT</a>
+          <a href="https://www.linkedin.com/company/motivahub" aria-label="LinkedIn" rel="noopener">in</a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h3 data-i18n="footerColRead">Read</h3>
+        <ul>
+          <li><Link href="/journal/" data-i18n="journal">The Journal</Link></li>
+          <li><Link href="/books/" data-i18n="footerBookstand">The Bookstand</Link></li>
+          <li><Link href="/quotes/" data-i18n="footerQuotes">Daily Quotes</Link></li>
+          <li><Link href="/podcast/" data-i18n="podcast">Podcast</Link></li>
+          <li><Link href="/topics/" data-i18n="footerAllTopics">All Topics</Link></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h3 data-i18n="footerColGuides">Guides</h3>
+        <ul>
+          <li><Link href="/guides/atomic-habits-ultimate-guide/" data-i18n="navAtomicHabits">Atomic Habits</Link></li>
+          <li><Link href="/best/books/" data-i18n="footerBestBooks">Best Books 2026</Link></li>
+          <li><Link href="/best/focus-books/" data-i18n="footerBestFocus">Best Focus Books</Link></li>
+          <li><Link href="/best/habit-books/" data-i18n="footerBestHabit">Best Habit Books</Link></li>
+          <li><Link href="/best/stoicism-books/" data-i18n="footerStoicism">Stoicism</Link></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h3 data-i18n="footerColTools">Tools</h3>
+        <ul>
+          <li><Link href="/tools/discipline-quiz/" data-i18n="footerDisciplineQuiz">Discipline Quiz</Link></li>
+          <li><Link href="/tools/habit-stacker/" data-i18n="footerHabitStacker">Habit Stacker</Link></li>
+          <li><Link href="/tools/meditation-timer/" data-i18n="footerMeditation">Meditation Timer</Link></li>
+          <li><Link href="/tools/cold-shower-tracker/" data-i18n="footerColdShower">Cold Shower Tracker</Link></li>
+          <li><Link href="/tools/reading-calculator/" data-i18n="footerReadingCalc">Reading Calculator</Link></li>
+          <li><Link href="/30-days-discipline/" data-i18n="footerPdf">30 Days PDF</Link></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p data-i18n="footerCopyright">© {new Date().getFullYear()} Motiva Hub · The Long Ascent</p>
+      <div class="footer-bottom-links">
+        <Link href="/about/" data-i18n="footerAbout">About</Link>
+        <Link href="/contact/" data-i18n="footerContact">Contact</Link>
+        <Link href="/privacy/" data-i18n="footerPrivacy">Privacy</Link>
+        <Link href="/terms/" data-i18n="footerTerms">Terms</Link>
+        <Link href="/affiliate-disclosure/" data-i18n="footerDisclosure">Disclosure</Link>
+      </div>
+    </div>
+  </div>
+</footer>

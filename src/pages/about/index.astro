@@ -1,56 +1,156 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { books } from '../../data/books';
+import { podcasts } from '../../data/podcasts';
+
+// Verified-at-build-time counts only — no invented audience metrics.
+const essayCount = (await getCollection('blog')).filter((p) => !p.data.draft).length;
+const bookCount = books.length;
+const episodeCount = podcasts.length;
+
+const principles = [
+  { num: '01', word: 'Clarity', desc: 'We strip away the noise to find the one thing that matters.' },
+  { num: '02', word: 'Consistency', desc: 'Small, repeated acts compound into an unrecognisable life.' },
+  { num: '03', word: 'Composure', desc: 'The mind that can hold its centre decides the shape of the day.' },
+];
 ---
 
-<Layout title="About Youssef Raihane — Motiva Hub" description="Youssef Raihane is a writer and researcher focused on mindset, habits, and the long ascent. This is the story behind Motiva Hub." lang="en">
-  <article>
-    <header class="article-header">
-      <div class="container">
-        <p class="card-meta" data-i18n="aboutPageKicker">ABOUT</p>
-        <h1>Youssef Raihane</h1>
-        <p class="card-date" data-i18n="aboutPageSubtitle">Writer, Researcher, Founder of Motiva Hub</p>
-        <img class="article-img about-hero-img" src="/images/youssef-raihane.jpg" alt="Youssef Raihane portrait" />
+<Layout title="About Motiva Hub — A Sanctuary for the Disciplined Mind" description="Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress. A premium editorial sanctuary for the disciplined mind.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "About Motiva Hub",
+    "description": "What Motiva Hub is, why it exists, and the editorial philosophy behind it.",
+    "url": "https://the-motivahub.com/about/",
+    "isPartOf": { "@type": "WebSite", "name": "Motiva Hub", "url": "https://the-motivahub.com/" }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "About", "item": "https://the-motivahub.com/about/" }
+    ]
+  })} />
+
+  <!-- Hero -->
+  <section class="ab-hero">
+    <div class="ab-hero-inner">
+      <div class="ab-hero-text">
+        <p class="ab-hero-eyebrow">About Motiva Hub</p>
+        <h1 class="ab-hero-title">A Sanctuary for the<br /><em>Disciplined Mind.</em></h1>
+        <p class="ab-hero-desc">Motiva Hub exists to help people build a stronger mindset, better habits and consistent daily progress — through honest writing, useful tools, and recommendations we actually stand behind.</p>
+        <a href="/journal/" class="ab-hero-cta">Explore the Journal →</a>
+        <span class="ab-hero-divider"></span>
+        <p class="ab-hero-tagline">Read. Learn. Apply. Grow.</p>
       </div>
-    </header>
-
-    <div class="article-body container">
-      <h2 data-i18n="aboutStoryTitle">The Story</h2>
-      <p data-i18n="aboutStoryP1">I founded MotivaHub in 2025 after spending eight months writing my first book, but I failed to launch it because of self-sabotage. I had the content. I had the plan. After many attempts that did not go as I had hoped, I began to understand that failure was not the end, but part of the journey. With each attempt, I learned more about myself, about discipline, and about the need to build a system that helps me keep going.</p>
-
-      <p data-i18n="aboutStoryP2">That failure taught me more than any success could have taught me. It taught me that discipline is not about motivation, but about designing systems, building identity, and showing up even when there is no accountability.</p>
-
-      <p data-i18n="aboutStoryP3">That is where the idea for MotivaHub began: to build something that helps people turn these lessons into systems, habits, and practices they can continue even when motivation disappears.</p>
-
-      <h2 data-i18n="aboutWriteAboutTitle">What I Write About</h2>
-      <p data-i18n="aboutWriteAboutP1">I write about the things I have tested personally: habits, discipline, productivity, mindset, and the long game. Every article on this site is based on real experiments, real failures, and real results.</p>
-
-      <p data-i18n="aboutWriteAboutP2">I do not write theory. I write about what worked, what did not work, and what I learned from both.</p>
-
-      <h2 data-i18n="aboutMissionTitle">The Mission</h2>
-      <p data-i18n="aboutMissionP1">Motiva Hub is a premium editorial sanctuary for the disciplined mind. It is not a motivation factory. It is a place for people who want to build systems that last, habits that stick, and identities that matter.</p>
-
-      <p data-i18n="aboutMissionP2">The mission is simple: help you build the thing that builds everything else — yourself.</p>
-
-      <h2 data-i18n="aboutContactTitle">Contact</h2>
-      <p data-i18n-html="aboutContactP1">For collaborations, speaking, or just to say hello: <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
-
-      <h2 data-i18n="aboutConnectTitle">Connect</h2>
-      <p data-i18n="aboutConnectSubtitle">Follow the journey:</p>
-      <ul>
-        <li><a href="https://www.instagram.com/motivahub/" target="_blank" rel="noopener" data-i18n="aboutInstagramLink">Instagram</a></li>
-        <li><a href="https://www.facebook.com/share/1EDShganVC/" target="_blank" rel="noopener" data-i18n="aboutFacebookLink">Facebook</a></li>
-        <li><a href="https://www.linkedin.com/company/motivahub" target="_blank" rel="noopener" data-i18n="aboutLinkedInLink">LinkedIn</a></li>
-      </ul>
-
-      <h2 data-i18n="about90DayTitle">The 90-Day Test</h2>
-      <p data-i18n-html="about90DayP1">If you want to see the system in action, try our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a>. It is the same architecture I used to rebuild my writing practice, my running habit, and my morning routine.</p>
-
-      <p data-i18n-html="about90DayP2">Or start with the <a href="/journal/2-minute-rule-system/">2-Minute Rule guide</a> — the doorway to every habit that actually sticks.</p>
-
+      <div class="ab-hero-media">
+        <img src="/images/about-portrait.jpg" alt="Silhouette with outstretched arms facing a sunrise over the mist" loading="eager" width="1200" height="800" />
+        <p class="ab-hero-img-label">The long<br />ascent.</p>
+      </div>
     </div>
-  </article>
-</Layout>
+  </section>
 
-<style>
-.article-header .article-img.about-hero-img{max-height:none;object-fit:cover}
-</style>
+  <!-- Principles -->
+  <section class="ab-principles">
+    <div class="container">
+      <div class="ab-principles-grid">
+        {principles.map((p) => (
+          <div class="ab-principle">
+            <span class="ab-principle-num">{p.num}</span>
+            <h3 class="ab-principle-word">{p.word}</h3>
+            <p class="ab-principle-desc">{p.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Why we exist -->
+  <section class="ab-why">
+    <div class="container">
+      <div class="ab-why-inner">
+        <p class="ab-section-kicker">Why Motiva Hub Exists</p>
+        <h2 class="journal-section-title">Not a Motivation<br /><em>Factory.</em></h2>
+        <p class="ab-why-lead">Motiva Hub is a premium editorial sanctuary for the disciplined mind. It is a place for people who want to build systems that last, habits that stick, and identities that matter.</p>
+        <p>It began as a private notebook — the kind of writing you do for yourself at 5 AM, when the house is quiet and the work is honest. It became a site. Then a publication. The mission never changed: help you build the thing that builds everything else — yourself.</p>
+        <p>Every essay here is written to be read slowly. Every tool is built for the person who would rather act than scroll. The Daily Drive is a long game. We play it like one.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Ecosystem -->
+  <section class="ab-eco">
+    <div class="container">
+      <div class="ab-section-head">
+        <p class="ab-section-kicker">What You'll Find Here</p>
+        <h2 class="journal-section-title">One Ascent,<br /><em>Many Paths.</em></h2>
+      </div>
+      <div class="ab-eco-grid">
+        <a class="ab-eco-item" href="/journal/">
+          <h3>The Journal</h3>
+          <p class="ab-eco-count">{essayCount} essays</p>
+          <p>Habit systems, discipline protocols and stoic practice — written from experience, tested in real life.</p>
+        </a>
+        <a class="ab-eco-item" href="/guides/">
+          <h3>Guides</h3>
+          <p class="ab-eco-count">Long-form playbooks</p>
+          <p>Deep, complete guides for the ideas that deserve more than one article.</p>
+        </a>
+        <a class="ab-eco-item" href="/tools/">
+          <h3>Tools</h3>
+          <p class="ab-eco-count">5 free tools</p>
+          <p>A habit tracker, discipline quiz, meditation timer and more — built for action, not scrolling.</p>
+        </a>
+        <a class="ab-eco-item" href="/books/">
+          <h3>The Bookstand</h3>
+          <p class="ab-eco-count">{bookCount} books</p>
+          <p>The books we return to — summarized, reviewed and honestly recommended.</p>
+        </a>
+        <a class="ab-eco-item" href="/podcast/">
+          <h3>Curated Listening</h3>
+          <p class="ab-eco-count">{episodeCount} episodes</p>
+          <p>A handpicked listening list of conversations on discipline, focus and growth.</p>
+        </a>
+        <a class="ab-eco-item" href="/30-days-discipline/">
+          <h3>30 Days of Discipline</h3>
+          <p class="ab-eco-count">Free program</p>
+          <p>A day-by-day plan to build the system — with a free PDF companion.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Manifesto -->
+  <section class="ab-manifesto">
+    <div class="container">
+      <p class="ab-manifesto-kicker">A Quiet Manifesto</p>
+      <blockquote class="ab-manifesto-quote">
+        We are not here to be inspired for an afternoon.<br />
+        <em>We are here to be built, slowly,</em><br />
+        into the kind of person<br />
+        who does the work<br />
+        even when no one is watching.
+      </blockquote>
+      <p class="ab-manifesto-cite">— Motiva Hub · 2026</p>
+    </div>
+  </section>
+
+  <!-- Author link -->
+  <section class="ab-author">
+    <div class="container">
+      <a class="ab-author-inner" href="/author/youssef-raihane/">
+        <span class="ab-author-photo">
+          <img src="/images/yr-320.jpg" srcset="/images/yr-320.jpg 320w, /images/yr-640.jpg 640w" sizes="96px" alt="Youssef Raihane" width="96" height="96" loading="lazy" />
+        </span>
+        <span class="ab-author-text">
+          <span class="ab-author-kicker">The Person Behind the Words</span>
+          <span class="ab-author-name">Youssef Raihane</span>
+          <span class="ab-author-role">Founder &amp; Editor-in-Chief of Motiva Hub — read the full story →</span>
+        </span>
+      </a>
+      <p class="ab-contact">Collaborations, speaking, or just to say hello: <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
+    </div>
+  </section>
+</Layout>

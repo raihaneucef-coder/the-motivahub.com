@@ -5,58 +5,76 @@ import Manifesto from "../../components/Manifesto.astro";
 import Founder from "../../components/Founder.astro";
 import Quote from "../../components/Quote.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
-import BookCard from "../../components/BookCard.astro";
-import PodcastCard from "../../components/PodcastCard.astro";
-import NewsletterSection from "../../components/NewsletterSection.astro";
 import { getCollection } from "astro:content";
 import { books } from "../../data/books";
 import { podcasts } from "../../data/podcasts";
+import { getFrenchSlug } from "../../utils/i18n";
 
+// All counts are computed from the real corpus at build time — never hardcoded.
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
+const essayCount = posts.length;
+const wordCount = posts.reduce(
+  (sum, p) => sum + (p.body || "").split(/\s+/).filter(Boolean).length,
+  0
+);
+const wordLabel = `${Math.floor(wordCount / 1000)}k+`;
+const bookCount = books.length;
+const episodeCount = podcasts.length;
+const toolCount = 5;
+
 const recentPosts = posts.slice(0, 6);
 const toolItems = [
-  { name: "Discipline Type Quiz", url: "https://the-motivahub.com/tools/discipline-quiz/" },
-  { name: "Habit Stack Generator", url: "https://the-motivahub.com/tools/habit-stacker/" },
-  { name: "Meditation Timer", url: "https://the-motivahub.com/tools/meditation-timer/" },
-  { name: "Cold Shower Tracker", url: "https://the-motivahub.com/tools/cold-shower-tracker/" },
-  { name: "Reading Calculator", url: "https://the-motivahub.com/tools/reading-calculator/" },
+  { name: "Discipline Type Quiz", url: "https://the-motivahub.com/fr/tools/discipline-quiz/" },
+  { name: "Habit Stack Generator", url: "https://the-motivahub.com/fr/tools/habit-stacker/" },
+  { name: "Meditation Timer", url: "https://the-motivahub.com/fr/tools/meditation-timer/" },
+  { name: "Cold Shower Tracker", url: "https://the-motivahub.com/fr/tools/cold-shower-tracker/" },
+  { name: "Reading Calculator", url: "https://the-motivahub.com/fr/tools/reading-calculator/" },
+];
+
+// Same verified counts, French labels and descriptions.
+const stats = [
+  { num: String(essayCount), label: "Essais", labelKey: "statEssays", desc: "Chaque essai, écrit à la main. Aucun contenu automatique." },
+  { num: String(bookCount), label: "Livres", labelKey: "statBooks", desc: "Les références auxquelles nous revenons." },
+  { num: String(episodeCount), label: "Épisodes choisis", labelKey: "statEpisodes", desc: "Des émissions tierces, choisies avec intention." },
+  { num: String(toolCount), label: "Outils gratuits", labelKey: "statFreeTools", desc: "Conçus pour l'action, pas pour le défilement." },
+  { num: wordLabel, label: "Mots écrits", labelKey: "statWordsWritten", desc: "Lu une fois. Relu souvent. Toujours pertinent." },
 ];
 ---
 
-<Layout title="Motiva Hub: Build the Discipline | Mindset & Habits" description="Mindset, habits, books, and free tools — for the long ascent, one day at a time. Build the discipline that outlasts the motivation.">
+<Layout title="Motiva Hub : Bâtir la discipline | Mindset & Habitudes" description="Mindset, habitudes, livres et outils gratuits — pour la longue ascension, un jour à la fois. Bâtis la discipline qui survit à la motivation.">
   <link slot="head" rel="preload" href="/images/hero-poster.webp" as="image" type="image/webp" fetchpriority="high" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://the-motivahub.com/#webpage",
-        "url": "https://the-motivahub.com/",
-        "name": "Motiva Hub — The Long Ascent",
+        "@id": "https://the-motivahub.com/fr/#webpage-fr",
+        "url": "https://the-motivahub.com/fr/",
+        "name": "Motiva Hub — La Longue Ascension",
         "isPartOf": { "@id": "https://the-motivahub.com/#website" },
-        "inLanguage": ["en", "fr"]
+        "inLanguage": "fr"
       },
       {
         "@type": "ItemList",
-        "@id": "https://the-motivahub.com/#recent-articles",
-        "name": "Recent articles from the Journal",
-        "url": "https://the-motivahub.com/journal/",
+        "@id": "https://the-motivahub.com/fr/#recent-articles",
+        "name": "Articles récents du Journal",
+        "url": "https://the-motivahub.com/fr/journal/",
         "numberOfItems": recentPosts.length,
         "itemListElement": recentPosts.map((p, i) => ({
           "@type": "ListItem",
           "position": i + 1,
-          "url": `https://the-motivahub.com/journal/${p.id}/`,
-          "name": p.data.title
+          "url": `https://the-motivahub.com/fr/journal/${getFrenchSlug(p.id)}/`,
+          "name": p.data.titleFr ?? p.data.title
         }))
       },
       {
         "@type": "ItemList",
-        "@id": "https://the-motivahub.com/#free-tools",
-        "name": "Free discipline tools",
-        "url": "https://the-motivahub.com/tools/discipline-quiz/",
+        "@id": "https://the-motivahub.com/fr/#free-tools",
+        "name": "Outils gratuits de discipline",
+        "url": "https://the-motivahub.com/fr/tools/discipline-quiz/",
         "numberOfItems": toolItems.length,
         "itemListElement": toolItems.map((t, i) => ({
           "@type": "ListItem",
@@ -68,11 +86,13 @@ const toolItems = [
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" }
+          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" }
         ]
       }
     ]
   })} />
+
+  {/* ============ ENTRY ============ */}
   <Hero
     kicker="EST. 2025 · THE LONG ASCENT"
     title={`Build the discipline.<br/><em>One day at a time.</em>`}
@@ -81,10 +101,10 @@ const toolItems = [
     primaryCta={{ label: "Start Reading", href: "/journal/" }}
     secondaryCta={{ label: "Take the Quiz", href: "/tools/discipline-quiz/" }}
     meta={[
-       { num: "169", label: "Editorial Pages", labelKey: "metaPages" },
-      { num: "5", label: "Free Tools", labelKey: "metaTools" },
+      { num: String(essayCount), label: "Essays", labelKey: "metaEssays" },
+      { num: String(bookCount), label: "Books", labelKey: "metaBooks" },
+      { num: String(toolCount), label: "Free Tools", labelKey: "metaTools" },
       { num: "EN · FR", label: "Bilingual", labelKey: "metaBilingual" },
-      { num: "30", label: "Day Programs", labelKey: "metaPrograms" },
     ]}
   />
 
@@ -97,15 +117,15 @@ const toolItems = [
         <span class="trust-logo">Meditations</span>
         <span class="trust-logo-bold">DEEP WORK</span>
         <span class="trust-logo">The Daily Stoic</span>
-        <span class="trust-logo-bold">30 DAYS</span>
       </div>
     </div>
   </section>
 
-  <Manifesto />
+  <Manifesto stats={stats} />
 
   <Founder />
 
+  {/* ============ READ ============ */}
   <section>
     <div class="container">
       <div class="section-head reveal">
@@ -116,7 +136,7 @@ const toolItems = [
         </div>
       </div>
       <div class="feed-grid reveal-stagger">
-          {posts.slice(0, 6).map((post) => <ArticleCard post={post} locale="fr" />)}
+        {recentPosts.map((post) => <ArticleCard post={post} locale="fr" />)}
       </div>
       <div class="text-center" style="margin-top:48px;">
         <a class="btn-arrow" href="/fr/journal/" data-i18n="readAllEssays">Read all essays</a>
@@ -124,13 +144,104 @@ const toolItems = [
     </div>
   </section>
 
+  {/* ============ LEARN — Guides ============ */}
+  <section class="hp-guides">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker" data-i18n="hpGuidesKicker">Guides</span>
+        <div>
+          <h2 data-i18n-html="hpGuidesTitle">The long-form <em>playbooks.</em></h2>
+          <p data-i18n="hpGuidesSubtitle">Structured, honest guides — the kind you keep open in a second tab while the work is hard.</p>
+        </div>
+      </div>
+      <div class="hp-guides-grid reveal-stagger">
+        <a class="hp-guide-card" href="/fr/guides/atomic-habits-ultimate-guide/">
+          <span class="hp-guide-tag">Guide · Habits</span>
+          <h3 class="hp-guide-title" data-i18n="hpGuideAtomic">The Ultimate Guide to Atomic Habits</h3>
+          <p class="hp-guide-desc" data-i18n="hpGuideAtomicDesc">Everything James Clear built, examined honestly — the framework, the fine print, and what actually survives contact with real life.</p>
+          <span class="hp-guide-link" data-i18n="hpGuideRead">Read the guide →</span>
+        </a>
+        <a class="hp-guide-card" href="/fr/guides/">
+          <span class="hp-guide-tag" data-i18n="hpGuideAllTag">All guides</span>
+          <h3 class="hp-guide-title" data-i18n="hpGuideAllTitle">The guides index</h3>
+          <p class="hp-guide-desc" data-i18n="hpGuideAllDesc">Every long-form guide on Motiva Hub, in one place. Start with the discipline basics.</p>
+          <span class="hp-guide-link" data-i18n="hpGuideBrowse">Browse all guides →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  {/* ============ LEARN — Books ============ */}
+  <section class="hp-books">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker" data-i18n="wisdomKicker">The Wisdom Stack</span>
+        <div>
+          <h2 data-i18n-html="wisdomTitle">Books that <em>built the work.</em></h2>
+          <p data-i18n="wisdomSubtitle">The texts that shaped Motiva Hub. The texts that will outlast the noise. Read slowly. Re-read often.</p>
+        </div>
+      </div>
+      <div class="hp-books-grid reveal-stagger">
+        {books.slice(0, 6).map((book) => (
+          <article class="hp-book">
+            <img class="hp-book-cover" src={book.cover} alt={`${book.title} cover`} loading="lazy" onerror="this.onerror=null;this.src='/images/cover-fallback.svg';" />
+            <div class="hp-book-body">
+              <p class="hp-book-meta">{book.categoryFr ?? book.category}</p>
+              <h3 class="hp-book-title">{book.title}</h3>
+              <p class="hp-book-author">{book.author}</p>
+              <p class="hp-book-reason">{book.reasonFr ?? book.reason}</p>
+              <a class="hp-book-link" href="/fr/books/" data-i18n="hpBookView">On the bookstand →</a>
+            </div>
+          </article>
+        ))}
+      </div>
+      <div class="text-center" style="margin-top:48px;">
+        <a class="btn-arrow" href="/fr/books/" data-i18n="wisdomAll">The full bookstand</a>
+      </div>
+    </div>
+  </section>
+
+  {/* ============ LEARN — Curated Listening ============ */}
+  <section class="hp-listen">
+    <div class="container">
+      <div class="section-head reveal">
+        <span class="kicker" data-i18n="listenKicker">Curated Listening</span>
+        <div>
+          <h2 data-i18n-html="listenTitle">Conversations we <em>come back to.</em></h2>
+          <p data-i18n="listenSubtitle">Third-party episodes we actually listen to — chosen, kept, and linked to the original show.</p>
+        </div>
+      </div>
+      <div class="hp-listen-grid reveal-stagger">
+        {podcasts.slice(0, 3).map((p) => (
+          <article class="hp-listen-item">
+            <img class="hp-listen-cover" src={p.cover} alt={`${p.title} cover`} loading="lazy" onerror="this.onerror=null;this.src='/images/cover-fallback.svg';" />
+            <div class="hp-listen-body">
+              <p class="hp-listen-meta">{p.date} · {p.duration}</p>
+              <h3 class="hp-listen-title">{p.title}</h3>
+              <p class="hp-listen-desc">{p.description}</p>
+              {p.podcastUrl && p.podcastUrl.trim().length > 0 ? (
+                <a class="hp-listen-link" href={p.podcastUrl} target="_blank" rel="noopener noreferrer" data-i18n="listenCta">Listen on the original show →</a>
+              ) : (
+                <span class="hp-listen-link hp-listen-link-disabled" aria-disabled="true" data-i18n="listenComingSoon">Episode coming soon</span>
+              )}
+            </div>
+          </article>
+        ))}
+      </div>
+      <div class="text-center" style="margin-top:48px;">
+        <a class="btn-arrow" href="/fr/podcast/" data-i18n="listenAll">See the full list</a>
+      </div>
+    </div>
+  </section>
+
+  {/* ============ APPLY ============ */}
   <section class="section-dark">
     <div class="container">
       <div class="section-head reveal">
         <span class="kicker" data-i18n="toolsKicker">Free Tools</span>
         <div>
           <h2 data-i18n-html="toolsTitle">Not just reading. <em>Doing.</em></h2>
-          <p data-i18n="toolsSubtitle">Six tools, built for the people who would rather act than scroll. No accounts. No paywall. No noise.</p>
+          <p data-i18n="toolsSubtitle">Five free tools + the 30-Day program — built for the people who would rather act than scroll. No accounts. No paywall. No noise.</p>
         </div>
       </div>
       <div class="feed-grid reveal-stagger">
@@ -164,50 +275,42 @@ const toolItems = [
           <p class="tool-card-desc" data-i18n="tool05Desc">How many books can you actually read this year? Set the daily page target. Make the math honest.</p>
           <span class="tool-card-link" data-i18n="tool05Link">Run the numbers</span>
         </a>
-        <a class="tool-card" href="/pdf/30-days-discipline/">
-          <p class="tool-card-num">06</p>
-          <h3 class="tool-card-title" data-i18n="tool06">30 Days of Discipline</h3>
-          <p class="tool-card-desc" data-i18n="tool06Desc">One page a day, for one month. A free PDF that turns these ideas into a daily practice you can hold.</p>
-          <span class="tool-card-link" data-i18n="tool06Link">Get the PDF</span>
+      </div>
+
+      <div class="hp-program reveal">
+        <div class="hp-program-text">
+          <p class="hp-program-tag" data-i18n="hpProgramTag">The 30-Day Program</p>
+          <h3 class="hp-program-title" data-i18n="hpProgramTitle">30 Days of Discipline</h3>
+          <p class="hp-program-desc" data-i18n="hpProgramDesc">One page a day, for one month. A free PDF that turns these ideas into a daily practice you can hold.</p>
+        </div>
+        <a class="btn btn-primary" href="/fr/30-days-discipline/">
+          <span data-i18n="hpProgramLink">Open the program</span>
+          <span class="btn-arrow-sm">{String.fromCharCode(8594)}</span>
         </a>
       </div>
     </div>
   </section>
 
+  {/* ============ GROW ============ */}
   <Quote />
 
-  <section class="section-cream-deep">
+  <section class="hp-grow">
     <div class="container">
-      <div class="section-head reveal">
-        <span class="kicker" data-i18n="wisdomKicker">The Wisdom Stack</span>
-        <div>
-          <h2 data-i18n-html="wisdomTitle">Books that <em>built the work.</em></h2>
-          <p data-i18n="wisdomSubtitle">The texts that shaped Motiva Hub. The texts that will outlast the noise. Read slowly. Re-read often.</p>
+      <div class="hp-grow-inner reveal">
+        <p class="hp-grow-loop" aria-hidden="true">
+          <span data-i18n="hpLoopRead">Read</span><span class="hp-grow-arrow">→</span>
+          <span data-i18n="hpLoopLearn">Learn</span><span class="hp-grow-arrow">→</span>
+          <span data-i18n="hpLoopApply">Apply</span><span class="hp-grow-arrow">→</span>
+          <span data-i18n="hpLoopGrow">Grow</span>
+        </p>
+        <p class="kicker" style="justify-content:center; display:flex;" data-i18n="hpGrowKicker">Grow</p>
+        <h2 class="hp-grow-title" data-i18n-html="hpGrowTitle">The loop doesn't end. <em>It compounds.</em></h2>
+        <p class="hp-grow-desc" data-i18n="hpGrowDesc">Start with one essay. Follow one guide. Run one tool for thirty days. That is the whole method — quiet, repeatable, built to outlast motivation.</p>
+        <div class="hp-grow-links">
+          <a class="btn-arrow" href="/fr/about/" data-i18n="hpGrowAbout">About Motiva Hub</a>
+          <a class="btn-arrow" href="/fr/author/youssef-raihane/" data-i18n="hpGrowAuthor">Meet the founder</a>
         </div>
-      </div>
-      <div class="feed-grid reveal-stagger">
-        {books.slice(0, 8).map((book) => <BookCard book={book} />)}
-      </div>
-      <div class="text-center" style="margin-top:48px;">
-        <a class="btn-arrow" href="/fr/books/" data-i18n="wisdomAll">The full bookstand</a>
       </div>
     </div>
   </section>
-
-  <section>
-    <div class="container">
-      <div class="section-head reveal">
-        <span class="kicker" data-i18n="listenKicker">Listen</span>
-        <div>
-          <h2 data-i18n-html="listenTitle">The Daily Drive · <em>Podcast</em></h2>
-          <p data-i18n="listenSubtitle">Conversations with the people doing the quiet work — founders, athletes, monks, and the writers who shaped how we think.</p>
-        </div>
-      </div>
-      <div class="feed-grid reveal-stagger">
-        {podcasts.slice(0, 3).map((p) => <PodcastCard podcast={p} />)}
-      </div>
-    </div>
-  </section>
-
-  <NewsletterSection showPdf={true} />
 </Layout>

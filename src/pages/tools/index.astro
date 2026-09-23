@@ -1,0 +1,136 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Link from "../../components/Link.astro";
+
+// Real tools — sourced from existing /src/pages/tools/ routes
+const tools = [
+  {
+    slug: "discipline-quiz",
+    name: "Discipline Quiz",
+    category: "Self-Assessment",
+    description: "Discover your discipline archetype — Builder, Sprinter, Marathoner, or Strategist. Get a custom 30-day plan based on your type.",
+    image: "/images/desk.jpg",
+  },
+  {
+    slug: "habit-stacker",
+    name: "Habit Stack Generator",
+    category: "Habits",
+    description: "Combine any new habit with an existing one. Get a personalized 30-day implementation plan based on James Clear's habit stacking formula.",
+    image: "/images/journal.jpg",
+  },
+  {
+    slug: "meditation-timer",
+    name: "Meditation Timer",
+    category: "Wellness",
+    description: "A simple meditation timer with a soft bell at the start and end. No account. No ads. No setup. Pick your duration, close your eyes, begin.",
+    image: "/images/candle.jpg",
+  },
+  {
+    slug: "cold-shower-tracker",
+    name: "Cold Shower Tracker",
+    category: "Health",
+    description: "Track every cold shower, build your streak, see your progress. A simple tool for the cold exposure practice. No account. Just start.",
+    image: "/images/hero-fog-runner.jpg",
+  },
+  {
+    slug: "reading-calculator",
+    name: "Reading Calculator",
+    category: "Learning",
+    description: "Turn your reading goal into a daily page target. Pick the number of books, average page count, and your daily minutes. Get a custom plan.",
+    image: "/images/books.jpg",
+  },
+];
+---
+
+<Layout title="Practical Tools — Motiva Hub" description="Simple, focused tools to help you turn ideas into action. Build better habits, stay consistent and make real progress — one small step at a time.">
+  <link rel="canonical" href="https://the-motivahub.com/tools/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Practical Tools — Motiva Hub",
+    "description": "Simple, focused self-improvement tools to turn ideas into action.",
+    "url": "https://the-motivahub.com/tools/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Motiva Hub",
+      "url": "https://the-motivahub.com/"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": tools.length,
+      "itemListElement": tools.map((t, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://the-motivahub.com/tools/${t.slug}/`,
+        "name": t.name
+      }))
+    }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Tools", "item": "https://the-motivahub.com/tools/" }
+    ]
+  })} />
+
+  <!-- Hero -->
+  <section class="tools-hero-banner">
+    <div class="tools-hero-inner">
+      <div class="tools-hero-text">
+        <p class="tools-hero-eyebrow">Apply. Build. Improve.</p>
+        <h1 class="tools-hero-title">Practical Tools.<br />Real <em>Progress.</em></h1>
+        <p class="tools-hero-desc">Simple, focused tools to help you turn ideas into action. Build better habits, stay consistent and make real progress — one small step at a time.</p>
+        <span class="tools-hero-divider"></span>
+        <p class="tools-hero-tagline">Tools for a more intentional life.</p>
+      </div>
+      <div class="tools-hero-img">
+        <img src="/images/hero-mountain-man.jpg" alt="Person standing on a mountain peak at sunset" loading="eager" width="1024" height="1024" />
+      </div>
+    </div>
+  </section>
+
+  <!-- All Tools -->
+  <section class="tools-collection">
+    <div class="container">
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">All <em>Tools</em></h2>
+        <p class="tools-count">{tools.length} tools</p>
+      </div>
+      <div class="tools-grid">
+        {tools.map((t) => (
+          <Link href={`/tools/${t.slug}/`} class="tool-card">
+            <div class="tool-card-img">
+              <img src={t.image} alt={t.name} loading="lazy" width="400" height="260" />
+            </div>
+            <div class="tool-card-body">
+              <span class="tool-card-category">{t.category}</span>
+              <h3 class="tool-card-name">{t.name}</h3>
+              <p class="tool-card-desc">{t.description}</p>
+              <span class="tool-card-cta">Open Tool →</span>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Program -->
+  <section class="tools-featured-program">
+    <div class="container">
+      <div class="program-card">
+        <div class="program-card-content">
+          <p class="program-label">Featured Program</p>
+          <h2 class="program-title">30 Days of Discipline</h2>
+          <p class="program-subtitle">One page. One action. Every day.</p>
+          <p class="program-desc">A simple, practical 30-day program to help you build consistency and take control of your habits.</p>
+          <Link href="/30-days-discipline/" class="program-cta">Start the 30-Day Program →</Link>
+        </div>
+        <div class="program-card-img">
+          <img src="/images/path.jpg" alt="Mountain path at sunrise" loading="lazy" width="600" height="400" />
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

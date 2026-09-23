@@ -1,18 +1,22 @@
 ---
 import { getDailyQuote } from "../data/quotes";
+import { getLangFromUrl } from "../utils/i18n";
 const daily = getDailyQuote();
+const lang = getLangFromUrl(Astro.url);
+const quoteText = lang === "fr" && daily.quoteFr ? daily.quoteFr : daily.quote;
+const quoteSource = lang === "fr" && daily.sourceFr ? daily.sourceFr : daily.source;
 ---
 
 <section class="quote-premium">
   <div class="container">
     <div class="quote-premium-inner reveal">
       <div class="quote-premium-mark" aria-hidden="true">"</div>
-      <p class="quote-premium-text">{daily.quote}</p>
+      <p class="quote-premium-text">{quoteText}</p>
       <div class="quote-premium-cite">
         <span class="quote-premium-line"></span>
         <div>
           <span class="quote-premium-author">{daily.author}</span>
-          <span class="quote-premium-source">{daily.source}</span>
+          <span class="quote-premium-source">{quoteSource}</span>
         </div>
         <span class="quote-premium-line"></span>
       </div>

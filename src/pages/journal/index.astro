@@ -1,16 +1,32 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import Link from "../../components/Link.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
+import NewsletterSection from "../../components/NewsletterSection.astro";
 import { getCollection } from "astro:content";
 import { topics as allTopics } from "../../data/topics";
 
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
+
+const featured = posts[0];
+const latest = posts.slice(1, 5);
+
+// Compute real article counts per topic
+const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
+const topicCounts = allTopics.map((t) => ({
+  ...t,
+  count: posts.filter((p) => norm(p.data.topic) === t.id).length,
+})).filter((t) => t.count > 0)
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 6);
+
+// Topics shown in the filter bar (same 6)
+const filterTopics = topicCounts;
 ---
 
-<Layout title="The Journal — Motiva Hub" description="Practical essays on mindset, habits, discipline and deep work. Read one. Apply one habit today. Repeat.">
+<Layout title="The Journal — Motiva Hub" description="Practical articles, personal reflections and actionable ideas to help you think clearer, build better habits and create a more intentional life.">
   <link rel="canonical" href="https://the-motivahub.com/journal/" />
   <link rel="next" href="/journal/page/2/" />
   <script type="application/ld+json" set:html={JSON.stringify({
@@ -27,45 +43,171 @@ const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "e
       "name": p.data.title
     }))
   })} />
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker">The Journal</p>
-      <h1>Essays for the <em>long climb.</em></h1>
-      <p>Mindset, habits, discipline, productivity, deep work — written to be read slowly and returned to.</p>
+
+  <!-- Hero Banner -->
+  <section class="journal-hero-banner">
+    <div class="journal-hero-inner">
+      <div class="journal-hero-text">
+        <p class="journal-hero-eyebrow">Thoughts. Ideas. Progress.</p>
+        <h1 class="journal-hero-title">The <em>Journal</em></h1>
+        <p class="journal-hero-desc">Practical articles, personal reflections and actionable ideas to help you think clearer, build better habits and create a more intentional life.</p>
+        <span class="journal-hero-divider"></span>
+        <p class="journal-hero-tagline">Real ideas for a better you.</p>
+      </div>
+      <div class="journal-hero-img">
+        <img src="/images/hero-mountain-man.jpg" alt="Person sitting on a mountain peak at sunset" loading="eager" width="1024" height="1024" />
+      </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- Category Filters + Sort -->
+  <section class="journal-filters">
     <div class="container">
-      <div class="journal-hero">
-        <p class="journal-hero-lead">Motivation is a spark. Discipline is the fire.</p>
-        <p class="journal-hero-sub">The Motiva Hub Journal: practical essays on mindset, habits, discipline and deep work.</p>
-        <p class="journal-hero-cta">Read one. Apply one habit today. Repeat.</p>
+      <div class="journal-filters-inner">
+        <div class="journal-pills" id="journal-pills">
+          <a class="journal-pill active" href="/journal/" data-i18n="all">All Articles</a>
+          {filterTopics.map((t) => (
+            <a class="journal-pill" href={`/topics/${t.id}/`} data-i18n={`topic-${t.id}`}>{t.title}</a>
+          ))}
+        </div>
+        <p class="journal-sort-label">Sorted by <span>Latest</span></p>
       </div>
+    </div>
+  </section>
 
-      <div style="width:100%;margin:0 0 24px;">
-        <input id="journal-search" type="search" placeholder="Search by title, topic or keywords..." data-i18n-placeholder="searchPlaceholder" aria-label="Search articles" style="width:100%;padding:14px 16px;border:1px solid var(--line);background:var(--white);font-family:var(--sans);font-size:0.95rem;" />
+  <!-- Featured Article -->
+  {featured && (
+    <section class="journal-featured">
+      <div class="container">
+        <div class="featured-card-new">
+          <Link href={`/journal/${featured.id}/`} class="featured-card-img">
+            <img src={featured.data.image} alt={featured.data.imageAlt || featured.data.title} loading="eager" width="600" height="400" />
+          </Link>
+          <div class="featured-card-body">
+            <p class="featured-card-label">Featured Article</p>
+            <h2 class="featured-card-title">
+              <Link href={`/journal/${featured.id}/`}>{featured.data.title}</Link>
+            </h2>
+            <p class="featured-card-desc">{featured.data.description}</p>
+            <div class="featured-card-meta">
+              <div class="featured-card-author">
+                <img src="/images/yr-640.jpg" alt="Youssef" width="32" height="32" class="featured-avatar" />
+                <div>
+                  <span class="featured-author-name">By Achraf</span>
+                  <span class="featured-author-info">{featured.data.pubDate.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })} &middot; {featured.data.readTime} read</span>
+                </div>
+              </div>
+              <Link href={`/journal/${featured.id}/`} class="featured-read-link">Read Article →</Link>
+            </div>
+          </div>
+        </div>
       </div>
+    </section>
+  )}
 
-      <div class="topic-filter">
-        <a class="active" href="/journal/" data-i18n="all">All</a>
-        {allTopics.map((t) => (
-          <a href={`/topics/${t.id}/`} data-i18n={`topic-${t.id}`}>{t.title}</a>
+  <!-- Latest Articles -->
+  <section class="journal-latest">
+    <div class="container">
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">Latest <em>Articles</em></h2>
+        <Link href="/journal/page/2/" class="journal-view-all">View all articles →</Link>
+      </div>
+      <div class="journal-grid-4">
+        {latest.map((post) => (
+          <ArticleCard post={post} />
         ))}
       </div>
+    </div>
+  </section>
 
+  <!-- Popular Topics -->
+  <section class="journal-topics">
+    <div class="container">
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">Explore <em>Topics</em></h2>
+        <Link href="/topics/" class="journal-view-all">View all topics →</Link>
+      </div>
+      <div class="journal-topics-grid">
+        {topicCounts.map((t) => (
+          <Link href={`/topics/${t.id}/`} class="journal-topic-card">
+            <span class="journal-topic-icon" aria-hidden="true">
+              {t.id === "mindset" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 3C7 3 4 7 4 10c0 2 1 4 2 5l1 5h10l1-5c1-1 2-3 2-5 0-3-3-7-8-7z"/></svg>}
+              {t.id === "habits" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="14" width="4" height="6" rx="1"/><rect x="10" y="9" width="4" height="11" rx="1"/><rect x="16" y="4" width="4" height="16" rx="1"/></svg>}
+              {t.id === "discipline" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V7a4 4 0 018 0v4"/></svg>}
+              {t.id === "productivity" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M9 12l2 2 4-4"/></svg>}
+              {t.id === "wellness" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 3c-2 4-6 6-6 10a6 6 0 0012 0c0-4-4-6-6-10z"/></svg>}
+              {t.id === "goals" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="3"/><circle cx="12" cy="12" r="9"/><path d="M12 3v2M12 19v2M3 12h2M19 12h2"/></svg>}
+              {t.id === "confidence" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2l3 7h7l-5.5 4.5 2 7L12 16l-6.5 4.5 2-7L2 9h7z"/></svg>}
+              {t.id === "sport" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3v18M3 12h18M5.6 5.6l12.8 12.8M18.4 5.6L5.6 18.4"/></svg>}
+              {t.id === "personal-growth" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 20V4M5 12l7-8 7 8"/></svg>}
+              {t.id === "finance" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 6v12M9 9.5c0-1 1.3-2 3-2s3 .7 3 1.8c0 2.7-6 1.7-6 4.4 0 1.1 1.3 2 3 2s3-1 3-2"/></svg>}
+              {t.id === "relationships" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 21s-7-5.5-7-10a4 4 0 018 0 4 4 0 018 0c0 4.5-7 10-7 10z"/></svg>}
+              {t.id === "nutrition" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 21c-4 0-7-3-7-7 0-5 7-12 7-12s7 7 7 12c0 4-3 7-7 7z"/></svg>}
+              {t.id === "travel" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14 0 18M12 3c-3 3.5-3 14 0 18"/></svg>}
+              {t.id === "entertainment" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polygon points="5,3 19,12 5,21"/></svg>}
+              {t.id === "stories" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 19.5A2.5 2.5 0 016.5 17H20V2H6.5A2.5 2.5 0 004 4.5v15z"/><path d="M4 19.5A2.5 2.5 0 006.5 22H20v-5"/></svg>}
+              {t.id === "success" && <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M6 21V3l12 6-12 6"/></svg>}
+            </span>
+            <div class="journal-topic-info">
+              <span class="journal-topic-name" data-i18n={`topic-${t.id}`}>{t.title}</span>
+              <span class="journal-topic-count">{t.count} {t.count === 1 ? "article" : "articles"}</span>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Quote Banner -->
+  <section class="journal-quote-banner">
+    <div class="journal-quote-bg">
+      <img src="/images/mountain.jpg" alt="" loading="lazy" aria-hidden="true" />
+    </div>
+    <div class="journal-quote-overlay"></div>
+    <div class="journal-quote-content">
+      <p class="journal-quote-text">"A better you doesn't happen by accident. It happens by the choices you make today."</p>
+      <span class="journal-quote-line"></span>
+      <p class="journal-quote-attr">Motiva Hub</p>
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <section class="journal-newsletter">
+    <div class="container">
+      <div class="journal-newsletter-inner">
+        <div class="journal-newsletter-text">
+          <p class="kicker kicker-or" data-i18n="journalNewsletterKicker">The Motiva Letter</p>
+          <h2 data-i18n="journalNewsletterTitle">Get new articles in your inbox.</h2>
+          <p data-i18n="journalNewsletterDesc">Practical ideas, straight to your inbox. No spam. Just value.</p>
+        </div>
+        <form class="journal-newsletter-form" action="https://formsubmit.co/ajax/raihaneucef@gmail.com" method="POST">
+          <input type="email" name="email" placeholder="Your email address" required aria-label="Email address" data-i18n-placeholder="journalNewsletterPlaceholder" />
+          <button type="submit" data-i18n="journalNewsletterBtn">Subscribe →</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Search (hidden, triggered from header) -->
+  <div class="container" style="margin-top:-8px;margin-bottom:16px;">
+    <input id="journal-search" type="search" placeholder="Search by title, topic or keywords..." data-i18n-placeholder="searchPlaceholder" aria-label="Search articles" class="journal-search-input" />
+  </div>
+
+  <!-- Full article grid + pagination -->
+  <section class="journal-full-grid">
+    <div class="container">
       <div class="grid" id="journal-grid">
         {posts.slice(0, 12).map((post) => {
-          const searchTitle = lang === "fr" && post.data.titleFr ? post.data.titleFr.toLowerCase() : post.data.title.toLowerCase();
-          const searchDesc = lang === "fr" && post.data.descriptionFr ? post.data.descriptionFr.toLowerCase() : post.data.description.toLowerCase();
+          const searchTitle = post.data.title.toLowerCase();
+          const searchDesc = post.data.description.toLowerCase();
           return (
-          <div class="searchable" data-title={searchTitle} data-topic={post.data.topic.toLowerCase()} data-desc={searchDesc}>
-            <ArticleCard post={post} />
-          </div>
+            <div class="searchable" data-title={searchTitle} data-topic={post.data.topic.toLowerCase()} data-desc={searchDesc}>
+              <ArticleCard post={post} />
+            </div>
           );
         })}
       </div>
-      <p id="no-results" hidden style="text-align:center;color:var(--muted);margin-top:32px;" data-i18n="noResults">No results found.</p>
+      <p id="no-results" hidden class="journal-no-results" data-i18n="noResults">No results found.</p>
 
       <nav class="pagination" aria-label="Pagination">
         <span class="pagination-link disabled" data-i18n="newerPagination">← Newer</span>
@@ -76,6 +218,7 @@ const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "e
   </section>
 
   <script>
+    // Search filter
     const input = document.getElementById('journal-search') as HTMLInputElement | null;
     const grid = document.getElementById('journal-grid');
     const noRes = document.getElementById('no-results');
@@ -93,74 +236,60 @@ const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "e
         noRes.hidden = vis !== 0;
       });
     }
+
+    // Newsletter form
+    const nlForm = document.querySelector('.journal-newsletter-form') as HTMLFormElement | null;
+    if (nlForm) {
+      nlForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const email = (nlForm.querySelector('input[type="email"]') as HTMLInputElement).value.trim();
+        if (!email) return;
+        const btn = nlForm.querySelector('button')!;
+        btn.textContent = 'Sending...';
+        btn.disabled = true;
+        try {
+          const res = await fetch(nlForm.action, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify({ email, _subject: 'New Motiva Hub subscriber', _template: 'table' })
+          });
+          if (res.ok) { btn.textContent = '✓ Subscribed!'; nlForm.reset(); }
+          else throw new Error();
+        } catch { btn.textContent = 'Error — try again'; }
+        finally { setTimeout(() => { btn.textContent = 'Subscribe →'; btn.disabled = false; }, 3000); }
+      });
+    }
   </script>
 </Layout>
 
 <style>
-  .topic-filter {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-    margin: 24px 0;
-  }
-  .topic-filter a {
-    padding: 8px 16px;
-    border: 1px solid var(--line, #e5e5e5);
-    border-radius: 6px;
-    color: var(--ink, #1a1a1a);
-    text-decoration: none;
-    font-size: 14px;
-    font-family: var(--sans, system-ui, sans-serif);
-    transition: border-color 0.2s ease, color 0.2s ease;
-  }
-  .topic-filter a:hover {
-    border-color: var(--gold, #c8a04a);
-    color: var(--gold, #c8a04a);
-  }
-  .topic-filter a.active {
-    border-color: var(--gold, #c8a04a);
-    color: var(--gold, #c8a04a);
-    font-weight: 600;
-  }
+  /* Pagination */
   .pagination {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 56px 0 24px;
     padding: 20px 0;
-    border-top: 1px solid var(--line, #e5e5e5);
-    font-family: var(--sans, system-ui, sans-serif);
+    border-top: 1px solid var(--line, #2a2a2a);
+    font-family: var(--sans);
     font-size: 14px;
     gap: 12px;
     flex-wrap: wrap;
   }
   .pagination-link {
-    color: var(--gold, #c8a04a);
+    color: #ff4d00;
     text-decoration: none;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 12px;
     padding: 8px 16px;
-    border: 1px solid var(--line, #e5e5e5);
+    border: 1px solid var(--line, #2a2a2a);
     border-radius: 6px;
     transition: border-color 0.2s ease;
   }
-  .pagination-link:hover { border-color: var(--gold, #c8a04a); }
-  .pagination-link.disabled {
-    color: var(--muted, #999);
-    cursor: not-allowed;
-    opacity: 0.5;
-  }
-  .pagination-current {
-    color: var(--muted, #666);
-    font-size: 13px;
-  }
-
-  /* Journal hero: 3 centered lines (no images, static content, no CLS) */
-  .journal-hero{max-width:780px;margin:4px auto 40px;text-align:center;}
-  .journal-hero-lead{font-family:var(--serif, Georgia, serif);font-size:clamp(1.35rem, 3vw, 1.7rem);line-height:1.35;color:var(--ink, #0a0a0a);margin:0 0 12px;}
-  .journal-hero-sub{font-family:var(--sans, system-ui, sans-serif);font-size:1rem;line-height:1.65;color:var(--muted, #555);margin:0 auto;max-width:640px;}
-  .journal-hero-cta{font-family:var(--sans, system-ui, sans-serif);font-size:0.95rem;color:var(--gold, #c8a04a);letter-spacing:0.3px;margin:14px 0 0;}
-  </style>
+  .pagination-link:hover { border-color: #ff4d00; }
+  .pagination-link.disabled { color: #666; cursor: not-allowed; opacity: 0.5; }
+  .pagination-current { color: #888; font-size: 13px; }
+  .journal-no-results { text-align: center; color: #888; margin-top: 32px; }
+</style>

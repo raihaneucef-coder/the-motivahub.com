@@ -1,0 +1,126 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Link from "../../components/Link.astro";
+
+// Guide data — sourced from the actual guide pages in /src/pages/guides/
+const guides = [
+  {
+    slug: "atomic-habits-ultimate-guide",
+    title: "The Ultimate Guide to Atomic Habits — What Actually Works in 2026",
+    description: "A complete, research-backed breakdown of James Clear's Atomic Habits. The 4 laws, the science, the 30-day protocol — and what most reviews leave out.",
+    topic: "Habits",
+    wordCount: 3800,
+    image: "/images/blog/atomic-habits-review-2.jpg",
+    datePublished: "2026-09-01",
+  },
+];
+
+// Derive read time from word count (~250 wpm)
+const readTime = (words: number) => `${Math.round(words / 250)} MIN READ`;
+---
+
+<Layout title="Practical Guides — Motiva Hub" description="Step-by-step guides, frameworks and real strategies to help you build better habits, a healthier mind and a more intentional life.">
+  <link rel="canonical" href="https://the-motivahub.com/guides/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Practical Guides — Motiva Hub",
+    "description": "Step-by-step guides and frameworks for building better habits and a more intentional life.",
+    "url": "https://the-motivahub.com/guides/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Motiva Hub",
+      "url": "https://the-motivahub.com/"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": guides.length,
+      "itemListElement": guides.map((g, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://the-motivahub.com/guides/${g.slug}/`,
+        "name": g.title
+      }))
+    }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://the-motivahub.com/guides/" }
+    ]
+  })} />
+
+  <!-- Hero Banner -->
+  <section class="guides-hero-banner">
+    <div class="guides-hero-inner">
+      <div class="guides-hero-text">
+        <p class="guides-hero-eyebrow">Learn. Apply. Grow.</p>
+        <h1 class="guides-hero-title">Practical Guides<br />for a <em>Better You.</em></h1>
+        <p class="guides-hero-desc">Turn ideas into practical knowledge. Step-by-step guides, frameworks and real strategies to help you build better habits, a healthier mind and a more intentional life.</p>
+        <span class="guides-hero-divider"></span>
+        <p class="guides-hero-tagline">Real knowledge for a brighter you.</p>
+      </div>
+      <div class="guides-hero-img">
+        <img src="/images/hero-stoic-ascent.jpg" alt="Person ascending a mountain path at golden hour" loading="eager" width="1024" height="1024" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Guide -->
+  {guides[0] && (
+    <section class="guides-featured">
+      <div class="container">
+        <p class="guide-section-label">Featured Guide</p>
+        <div class="guide-featured-card">
+          <Link href={`/guides/${guides[0].slug}/`} class="guide-featured-img">
+            <img src={guides[0].image} alt={guides[0].title} loading="eager" width="600" height="400" />
+          </Link>
+          <div class="guide-featured-body">
+            <div class="guide-featured-meta-top">
+              <span class="guide-meta-item guide-meta-topic">{guides[0].topic}</span>
+              <span class="guide-meta-sep">·</span>
+              <span class="guide-meta-item">{readTime(guides[0].wordCount)}</span>
+            </div>
+            <h2 class="guide-featured-title">
+              <Link href={`/guides/${guides[0].slug}/`}>{guides[0].title}</Link>
+            </h2>
+            <p class="guide-featured-desc">{guides[0].description}</p>
+            <Link href={`/guides/${guides[0].slug}/`} class="guide-read-btn">Read the Guide →</Link>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- All Guides -->
+  <section class="guides-all">
+    <div class="container">
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">All <em>Guides</em></h2>
+        <p class="guides-count">{guides.length} {guides.length === 1 ? "guide" : "guides"}</p>
+      </div>
+      <div class="guides-list">
+        {guides.map((g) => (
+          <Link href={`/guides/${g.slug}/`} class="guide-list-item">
+            <div class="guide-list-thumb">
+              <img src={g.image} alt={g.title} loading="lazy" width="120" height="80" />
+            </div>
+            <div class="guide-list-body">
+              <div class="guide-list-meta-top">
+                <span class="guide-meta-item guide-meta-topic">{g.topic}</span>
+                <span class="guide-meta-sep">·</span>
+                <span class="guide-meta-item">{readTime(g.wordCount)}</span>
+              </div>
+              <h3 class="guide-list-title">{g.title}</h3>
+              <p class="guide-list-desc">{g.description}</p>
+            </div>
+            <span class="guide-list-arrow">Read →</span>
+          </Link>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</Layout>

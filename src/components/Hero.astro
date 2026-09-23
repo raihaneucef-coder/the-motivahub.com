@@ -8,7 +8,7 @@ interface Props {
   image?: string;
   primaryCta: { label: string; href: string };
   secondaryCta: { label: string; href: string };
-  meta?: Array<{ num: string; label: string }>;
+  meta?: Array<{ num: string; label: string; labelKey?: string }>;
 }
 
 const { kicker = "Motiva Hub", title, subtitle, image = "/images/hero-poster.jpg", primaryCta, secondaryCta, meta } = Astro.props;
@@ -86,10 +86,14 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
       document.addEventListener('click', retry);
     });
   }
-  // Load video after first paint to not block LCP
-  if ('requestIdleCallback' in window) {
-    requestIdleCallback(initHeroVideo, { timeout: 2000 });
-  } else {
-    setTimeout(initHeroVideo, 1000);
+  // Respect reduced-motion: keep the static poster, never load the video.
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (!prefersReducedMotion) {
+    // Load video after first paint to not block LCP
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(initHeroVideo, { timeout: 2000 });
+    } else {
+      setTimeout(initHeroVideo, 1000);
+    }
   }
 </script>

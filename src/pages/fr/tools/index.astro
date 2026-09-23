@@ -1,0 +1,136 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import Link from "../../../components/Link.astro";
+
+// Real tools — FR mirror with French descriptions from existing /fr/tools/ routes
+const tools = [
+  {
+    slug: "discipline-quiz",
+    name: "Quiz de Discipline",
+    category: "Auto-évaluation",
+    description: "Découvrez votre archétype de discipline — Builder, Sprinter, Marathoner ou Strategist. Obtenez un plan personnalisé de 30 jours basé sur votre type.",
+    image: "/images/desk.jpg",
+  },
+  {
+    slug: "habit-stacker",
+    name: "Générateur d'Habitudes",
+    category: "Habitudes",
+    description: "Utilisez le Habit Stacker pour créer des routines durables. Empilez les habitudes, suivez votre progression et construisez un système qui fonctionne.",
+    image: "/images/journal.jpg",
+  },
+  {
+    slug: "meditation-timer",
+    name: "Minuteur de Méditation",
+    category: "Bien-être",
+    description: "Minuteur de méditation simple et gratuit. Commencez avec 5 minutes par jour et construisez une habitude de méditation durable.",
+    image: "/images/candle.jpg",
+  },
+  {
+    slug: "cold-shower-tracker",
+    name: "Suivi des Douches Froides",
+    category: "Santé",
+    description: "Suivez votre progression de douches froides sur 30 jours. Construisez la résilience mentale et la discipline avec ce tracker simple.",
+    image: "/images/hero-fog-runner.jpg",
+  },
+  {
+    slug: "reading-calculator",
+    name: "Calculateur de Lecture",
+    category: "Apprentissage",
+    description: "Calculez combien de livres vous pouvez lire cette année en fonction de votre vitesse de lecture et du temps que vous y consacrez.",
+    image: "/images/books.jpg",
+  },
+];
+---
+
+<Layout title="Outils Pratiques — Motiva Hub" description="Des outils simples et concentrés pour vous aider à transformer les idées en actions. Construisez de meilleures habitudes et faites de vrais progrès — un petit pas à la fois.">
+  <link rel="canonical" href="https://the-motivahub.com/fr/tools/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Outils Pratiques — Motiva Hub",
+    "description": "Outils simples et concentrés d'auto-amélioration pour transformer les idées en actions.",
+    "url": "https://the-motivahub.com/fr/tools/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Motiva Hub",
+      "url": "https://the-motivahub.com/"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": tools.length,
+      "itemListElement": tools.map((t, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://the-motivahub.com/fr/tools/${t.slug}/`,
+        "name": t.name
+      }))
+    }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "Outils", "item": "https://the-motivahub.com/fr/tools/" }
+    ]
+  })} />
+
+  <!-- Hero -->
+  <section class="tools-hero-banner">
+    <div class="tools-hero-inner">
+      <div class="tools-hero-text">
+        <p class="tools-hero-eyebrow">Appliquer. Construire. S'améliorer.</p>
+        <h1 class="tools-hero-title">Outils Pratiques.<br />Vrais <em>Progrès.</em></h1>
+        <p class="tools-hero-desc">Des outils simples et concentrés pour vous aider à transformer les idées en actions. Construisez de meilleures habitudes, restez constant et faites de vrais progrès — un petit pas à la fois.</p>
+        <span class="tools-hero-divider"></span>
+        <p class="tools-hero-tagline">Des outils pour une vie plus intentionnelle.</p>
+      </div>
+      <div class="tools-hero-img">
+        <img src="/images/hero-mountain-man.jpg" alt="Personne au sommet d'une montagne au coucher du soleil" loading="eager" width="1024" height="1024" />
+      </div>
+    </div>
+  </section>
+
+  <!-- All Tools -->
+  <section class="tools-collection">
+    <div class="container">
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">Tous les <em>Outils</em></h2>
+        <p class="tools-count">{tools.length} outils</p>
+      </div>
+      <div class="tools-grid">
+        {tools.map((t) => (
+          <Link href={`/fr/tools/${t.slug}/`} class="tool-card">
+            <div class="tool-card-img">
+              <img src={t.image} alt={t.name} loading="lazy" width="400" height="260" />
+            </div>
+            <div class="tool-card-body">
+              <span class="tool-card-category">{t.category}</span>
+              <h3 class="tool-card-name">{t.name}</h3>
+              <p class="tool-card-desc">{t.description}</p>
+              <span class="tool-card-cta">Ouvrir l'outil →</span>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Program -->
+  <section class="tools-featured-program">
+    <div class="container">
+      <div class="program-card">
+        <div class="program-card-content">
+          <p class="program-label">Programme en Vedette</p>
+          <h2 class="program-title">30 Jours de Discipline</h2>
+          <p class="program-subtitle">Une page. Une action. Chaque jour.</p>
+          <p class="program-desc">Un programme simple et pratique de 30 jours pour vous aider à construire la constance et prendre le contrôle de vos habitudes.</p>
+          <Link href="/fr/30-days-discipline/" class="program-cta">Commencer le Programme →</Link>
+        </div>
+        <div class="program-card-img">
+          <img src="/images/path.jpg" alt="Sentier de montagne au lever du soleil" loading="lazy" width="600" height="400" />
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

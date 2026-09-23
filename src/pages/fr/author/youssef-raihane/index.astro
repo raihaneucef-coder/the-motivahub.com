@@ -2,283 +2,120 @@
 import Layout from "../../../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 import ArticleCard from "../../../../components/ArticleCard.astro";
-import AuthorBio from "../../../../components/AuthorBio.astro";
 
+// FR mirror of /author/youssef-raihane/ — verified identity facts only.
+// No awards, no credentials, no audience numbers, no social links.
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 12);
 
-const personSchema = {
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://the-motivahub.com/author/youssef-raihane/#person",
-  name: "Youssef Raihane",
-  jobTitle: "Founder & Editor-in-Chief",
-  worksFor: { "@type": "Organization", name: "Motiva Hub", url: "https://the-motivahub.com" },
-  url: "https://the-motivahub.com/author/youssef-raihane/",
-  image: "https://the-motivahub.com/images/youssef-raihane.jpg",
-  description: "Founder of Motiva Hub, a premium editorial sanctuary for the disciplined mind. 8 years applied practice in habits, focus, stoicism, performance systems. Writes from practice — not theory.",
-  knowsAbout: [
-    "Habits",
-    "Discipline",
-    "Stoicism",
-    "Deep Work",
-    "Productivity",
-    "Mental Models",
-    "Focus",
-    "Goal Setting",
-    "Performance Psychology",
-    "Behavior Change",
-  ],
-  sameAs: [
-    "https://www.linkedin.com/in/youssefraihane/",
-    "https://www.instagram.com/uce__f/",
-    "https://www.facebook.com/youssefraihane/",
-  ],
-  foundingDate: "2025",
-  award: ["Top 10 Personal Development Sites (niche, 2026)"],
-};
+const essayCount = (await getCollection("blog")).filter((p) => !p.data.draft).length;
 
+const focus = [
+  { word: "État d’esprit", desc: "Modèles mentaux, clarté stoïcienne, penser juste dans le bruit." },
+  { word: "Habitudes & Discipline", desc: "Des systèmes qui tiennent quand la motivation quitte la pièce." },
+  { word: "Travail Profond & Concentration", desc: "L’attention comme ressource rare — protégée volontairement." },
+  { word: "L’Ascension de Longue Haleine", desc: "Un progrès patient et composé — livres, outils et pratique quotidienne." },
+];
+
+// The Person entity is declared on the canonical EN page; this FR twin
+// carries only its own breadcrumb so schema and visible content agree.
 const breadcrumb = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Youssef Raihane", "item": "https://the-motivahub.com/author/youssef-raihane/" },
+    { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+    { "@type": "ListItem", "position": 2, "name": "Youssef Raihane", "item": "https://the-motivahub.com/fr/author/youssef-raihane/" },
   ],
 };
 ---
 
-<Layout title="Youssef Raihane — Founder of Motiva Hub" description="Founder of Motiva Hub. 8 years applied practice in habits, focus, stoicism, performance. Writes from practice — not theory." image="/images/youssef-raihane.jpg">
-  <link rel="canonical" href="https://the-motivahub.com/fr/author/youssef-raihane/" />
-  <link rel="author" href="https://the-motivahub.com/author/youssef-raihane/" />
-  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
+<Layout title="Youssef Raihane — Fondateur de Motiva Hub" description="Youssef Raihane a fondé Motiva Hub en 2025. Rédacteur du Journal, il construit un sanctuaire pour l’esprit discipliné — une idée à la fois." image="/images/youssef-raihane.jpg">
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumb)} />
 
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker" data-i18n="authorKicker">The Person Behind The Words</p>
-      <h1>Youssef <em>Raihane</em></h1>
-      <p data-i18n="authorSubtitle">Founder & Editor-in-Chief of Motiva Hub. Building a sanctuary for the disciplined mind — one idea at a time.</p>
-    </div>
-  </section>
-
-  <section class="author-section">
-    <div class="container">
-      <div class="author-grid">
-        <div class="author-photo-wrap">
-          <div class="author-photo">
-            <img
-              src="/images/yr-640.jpg"
-              srcset="/images/yr-320.jpg 320w, /images/yr-640.jpg 640w, /images/yr-1024.jpg 1024w"
-              sizes="(max-width: 720px) 200px, 240px"
-              alt="Youssef Raihane — Founder of Motiva Hub"
-              width="240" height="240"
-              loading="eager"
-              fetchpriority="high"
-            />
-          </div>
-          <div class="author-meta-block">
-            <p class="author-meta-tag" data-i18n="authorActiveSince">Active since</p>
-            <p class="author-meta-value">2025</p>
-          </div>
-          <div class="author-meta-block">
-          <p class="author-meta-tag" data-i18n="authorArticlesWritten">Articles written</p>
-          <p class="author-meta-value">169</p>
-          </div>
-        </div>
-        <div class="author-bio-content">
-          <p class="kicker" data-i18n="authorPromise">My Promise To You</p>
-          <h2 data-i18n="authorPromiseTitle">I write what I built.</h2>
-          <p data-i18n="authorBioText1">Motiva Hub is not a content farm. It is a daily practice, written in public, edited in private, and tested in my own life before it reaches yours.</p>
-          <p data-i18n="authorBioText2">I started this site in 2025 after a decade of reading the same five books on habits, focus, and discipline — and noticing that nobody was turning them into a daily, edible practice. The gap between knowing what to do and actually doing it, day after day, is the gap this site exists to close.</p>
-          <p data-i18n-html="authorBioText3">Eight years into building systems for myself — discipline rituals, focus stacks, sleep protocols — I can tell you one thing: <strong>motivation is a visitor, discipline is a resident</strong>. And the resident always wins.</p>
-        </div>
+  <!-- Hero -->
+  <section class="au-hero">
+    <div class="au-hero-inner">
+      <div class="au-hero-text">
+        <p class="au-hero-eyebrow">Auteur</p>
+        <h1 class="au-hero-title">Youssef<br /><em>Raihane.</em></h1>
+        <p class="au-hero-sub">Fondateur &amp; Rédacteur en Chef de Motiva Hub</p>
+        <p class="au-hero-desc">Motiva Hub est le travail éditorial d’une seule personne, qui construit en public, en choisissant volontairement la voie lente. Chaque essai est écrit à partir de l’expérience — testé dans la vie réelle avant d’atteindre la vôtre.</p>
+        <a href="/fr/about/" class="au-hero-cta">En savoir plus sur Motiva Hub →</a>
+        <span class="au-hero-divider"></span>
+        <p class="au-hero-tagline">Depuis 2025 · {essayCount} essais publiés</p>
+      </div>
+      <div class="au-hero-media">
+        <img
+          src="/images/yr-640.jpg"
+          srcset="/images/yr-320.jpg 320w, /images/yr-480.jpg 480w, /images/yr-640.jpg 640w, /images/yr-1024.jpg 1024w"
+          sizes="(max-width: 768px) 100vw, 480px"
+          alt="Youssef Raihane — Fondateur de Motiva Hub"
+          width="640" height="640"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <p class="au-hero-img-label">La personne<br />derrière les mots.</p>
       </div>
     </div>
   </section>
 
-  <section class="author-section">
+  <!-- L’Histoire (moved from /fr/about/ — real project copy) -->
+  <section class="au-story">
     <div class="container">
-      <div class="topics-block">
-        <h2 data-i18n="topicsTitle">Topics I Write About</h2>
-        <div class="topics-pills">
-          <span class="topic-pill" data-i18n="topicHabits">Habits</span>
-          <span class="topic-pill" data-i18n="topicDiscipline">Discipline</span>
-          <span class="topic-pill" data-i18n="topicStoicism">Stoicism</span>
-          <span class="topic-pill" data-i18n="topicDeepWork">Deep Work</span>
-          <span class="topic-pill" data-i18n="topicProductivity">Productivity</span>
-          <span class="topic-pill" data-i18n="topicFocus">Focus</span>
-          <span class="topic-pill" data-i18n="topicMentalModels">Mental Models</span>
-          <span class="topic-pill" data-i18n="topicGoalSetting">Goal Setting</span>
-          <span class="topic-pill" data-i18n="topicPerformancePsych">Performance Psychology</span>
-          <span class="topic-pill" data-i18n="topicBehaviorChange">Behavior Change</span>
-          <span class="topic-pill" data-i18n="topicConfidence">Confidence</span>
-          <span class="topic-pill" data-i18n="topicMindset">Mindset</span>
-        </div>
+      <div class="au-story-inner">
+        <p class="au-section-kicker">L’Histoire</p>
+        <h2 class="journal-section-title">L’échec fut<br /><em>la leçon.</em></h2>
+        <p>J’ai fondé MotivaHub en 2025 après avoir passé huit mois à écrire mon premier livre, mais je n’ai pas réussi à le lancer à cause de l’autosabotage. J’avais le contenu. J’avais le plan. Après de nombreuses tentatives qui ne se sont pas déroulées comme je l’espérais, j’ai commencé à comprendre que l’échec n’était pas la fin, mais une partie du chemin. À chaque tentative, j’ai appris à me connaître davantage, sur la discipline, et sur la nécessité de construire un système qui m’aide à continuer.</p>
+        <p>Cet échec m’a appris plus que tout succès aurait pu m’apprendre. Il m’a appris que la discipline ne concerne pas la motivation, mais la conception de systèmes, la construction de l’identité, et le fait de se présenter même en l’absence de responsabilité.</p>
+        <p>C’est là que l’idée de MotivaHub a commencé : construire quelque chose qui aide les gens à transformer ces leçons en systèmes, habitudes et pratiques qu’ils peuvent continuer même lorsque la motivation disparaît.</p>
+        <blockquote class="au-pullquote">« La motivation est une visiteuse, la discipline est une résidente. »</blockquote>
       </div>
     </div>
   </section>
 
-  <section class="author-section author-section--alt">
+  <!-- Promesse -->
+  <section class="au-promise">
     <div class="container">
-      <AuthorBio variant="full" showSchema={false} lang="fr" />
+      <div class="au-promise-inner">
+        <p class="au-section-kicker">Ma Promesse</p>
+        <h2 class="journal-section-title">J’écris<br /><em>ce que j’ai construit.</em></h2>
+        <p class="au-promise-lead">Motiva Hub n’est pas une usine à contenu. C’est une pratique quotidienne, écrite en public, éditée en privé et testée dans ma propre vie avant d’atteindre la vôtre.</p>
+        <p>J’écris sur ce que j’ai personnellement testé : les habitudes, la discipline, la productivité, l’état d’esprit et le jeu long. Chaque article est basé sur de vraies expériences, de vrais échecs et de vrais résultats. Je n’écris pas de théorie. J’écris sur ce qui a fonctionné, ce qui n’a pas fonctionné, et ce que j’ai appris des deux.</p>
+        <p class="au-promise-links">Voir le système en action : <a href="/fr/journal/identity-based-habits-90-day-test/">le Test Identitaire sur 90 Jours</a> — ou commencez par <a href="/fr/journal/2-minute-rule-system/">le guide de la Règle des 2 Minutes</a>.</p>
+      </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- Domaines -->
+  <section class="au-focus">
+    <div class="container">
+      <div class="au-section-head">
+        <p class="au-section-kicker">Ce sur quoi je me concentre</p>
+        <h2 class="journal-section-title">Les domaines<br /><em>que j’explore et dont j’écris.</em></h2>
+      </div>
+      <div class="au-focus-grid">
+        {focus.map((f) => (
+          <div class="au-focus-item">
+            <h3>{f.word}</h3>
+            <p>{f.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Travaux récents -->
+  <section class="au-work">
     <div class="container">
       <div class="feed-head">
-        <p class="kicker" data-i18n="recentEssays">Recent Essays</p>
-        <a class="link-ochre" href="/fr/journal/" data-i18n="allEssensLink">All Essays →</a>
+        <p class="kicker">Essais Récents</p>
+        <a class="link-ochre" href="/fr/journal/">Tous les essais →</a>
+      </div>
+      <div class="book-grid">
+        {posts.map((post) => <ArticleCard post={post} locale="fr" />)}
       </div>
     </div>
   </section>
 </Layout>
-
-<style>
-  .author-section {
-    padding: 56px 0;
-  }
-  .author-section--alt {
-    background: var(--cream, #faf7f2);
-  }
-  .author-grid {
-    display: grid;
-    grid-template-columns: 280px 1fr;
-    gap: 56px;
-    align-items: start;
-  }
-  .author-photo-wrap {
-    text-align: center;
-  }
-  .author-photo {
-    width: 100%;
-    max-width: 240px;
-    aspect-ratio: 1;
-    overflow: hidden;
-    border-radius: 50%;
-    border: 3px solid var(--gold, #c8a04a);
-    margin: 0 auto 24px;
-    display: block;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
-    background: var(--ink, #0a0a0a);
-  }
-  .author-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
-  .author-meta-block {
-    border: 1px solid var(--line, #e5e5e5);
-    border-radius: 8px;
-    padding: 12px;
-    margin-bottom: 12px;
-    background: var(--white, #fff);
-  }
-  .author-meta-tag {
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    color: var(--muted, #888);
-    margin: 0 0 4px;
-  }
-  .author-meta-value {
-    font-family: var(--serif, Georgia, serif);
-    font-size: 22px;
-    font-weight: 700;
-    color: var(--ink, #1a1a1a);
-    margin: 0;
-  }
-  .author-bio-content h2 {
-    font-family: var(--serif, Georgia, serif);
-    font-size: 36px;
-    font-weight: 600;
-    margin: 8px 0 24px;
-    color: var(--ink, #1a1a1a);
-    line-height: 1.2;
-  }
-  .author-bio-content p {
-    font-family: var(--serif, Georgia, serif);
-    font-size: 1.0625rem;
-    line-height: 1.7;
-    color: var(--muted);
-    margin: 0 0 18px;
-  }
-  .credentials-block {
-    max-width: 720px;
-    margin: 0 auto;
-  }
-  .credentials-block h2 {
-    font-family: var(--serif, Georgia, serif);
-    font-size: 28px;
-    font-weight: 600;
-    margin: 0 0 24px;
-    text-align: center;
-    color: var(--ink, #1a1a1a);
-  }
-  .cred-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  .cred-list li {
-    display: flex;
-    gap: 16px;
-    align-items: flex-start;
-    padding: 16px 0;
-    border-bottom: 1px solid var(--line, #e5e5e5);
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 15px;
-    line-height: 1.6;
-    color: var(--ink, #1a1a1a);
-  }
-  .cred-tag {
-    flex-shrink: 0;
-    display: inline-block;
-    font-size: 11px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    color: var(--gold, #c8a04a);
-    background: rgba(200, 160, 74, 0.1);
-    padding: 4px 10px;
-    border-radius: 4px;
-    font-weight: 700;
-    min-width: 90px;
-    text-align: center;
-  }
-  .topics-block {
-    max-width: 720px;
-    margin: 0 auto;
-    text-align: center;
-  }
-  .topics-block h2 {
-    font-family: var(--serif, Georgia, serif);
-    font-size: 28px;
-    font-weight: 600;
-    margin: 0 0 24px;
-    color: var(--ink, #1a1a1a);
-  }
-  .topics-pills {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-  }
-  .topic-pill {
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 14px;
-    color: var(--ink, #1a1a1a);
-    background: var(--white, #fff);
-    border: 1px solid var(--line, #e5e5e5);
-    padding: 10px 18px;
-    border-radius: 22px;
-  }
-  @media (max-width: 720px) {
-    .author-grid {
-      grid-template-columns: 1fr;
-      gap: 32px;
-    }
-    .author-bio-content h2 {
-      font-size: 28px;
-    }
-  }
-</style>

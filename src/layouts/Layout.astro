@@ -1,6 +1,7 @@
 ---
 import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
-import MegaMenu from "../components/MegaMenu.astro";
+import SiteHeader from "../components/SiteHeader.astro";
+import SiteFooter from "../components/SiteFooter.astro";
 import Link from "../components/Link.astro";
 import { getLangFromUrl, getFrenchSlug, getEnglishSlug } from "../utils/i18n";
 import { createHash } from "node:crypto";
@@ -14,11 +15,14 @@ interface Props {
   ogType?: string;
   lang?: "en" | "fr" | "ar";
   schema?: any;
+  // Optional canonical override (pagination page 1 points at /journal/).
+  // Defaults to the page's own URL so every other page is unaffected.
+  canonical?: string;
 }
 
-const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema } = Astro.props;
+const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema, canonical: canonicalOverride } = Astro.props;
 const currentLocale = getLangFromUrl(Astro.url);
-const canonical = Astro.url.href;
+const canonical = canonicalOverride ?? Astro.url.href;
 // hreflang alternates must point at the real sibling page: map the journal
 // slug both ways (1 of 169 slugs differs, e.g. sleep-is-unfair-advantage <->
 // sommeil-avantage-indefendable) instead of just stripping the /fr prefix,
@@ -108,7 +112,7 @@ const deferGa = GA_ID
     {GA_ID && (
       <script is:inline define:vars={{ gaSnippet, deferGa }} set:html={gaSnippet + deferGa}></script>
     )}
-    <link rel="preload" href="/fonts/space-grotesk-normal-latin.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/fraunces-normal-latin-63f165.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/inter-normal-latin-1ab1ad.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href={`/styles/global.css?v=${globalCssV}`} />
     <slot name="head" />
@@ -147,176 +151,14 @@ const deferGa = GA_ID
     )}
   </head>
   <body>
-    <header class="site-header" id="site-header">
-      <div class="header-inner container">
-    <Link href="/" class="logo logo-text" data-magnetic>
-      <span class="logo-mark" aria-hidden="true">
-        <span class="logo-core"></span>
-        <span class="logo-ring logo-ring--1"></span>
-        <span class="logo-ring logo-ring--2"></span>
-        <span class="logo-dot logo-dot--1"></span>
-        <span class="logo-dot logo-dot--2"></span>
-      </span>
-      <span class="logo-word">Motiva <em>Hub</em></span>
-    </Link>
-    <div class="header-actions">
-      <div class="lang-switcher" aria-label="Language switcher">
-        <button class="lang-btn active" data-lang="en" aria-label="Switch to English" aria-pressed="true">EN</button>
-        <span class="lang-sep">/</span>
-        <button class="lang-btn" data-lang="fr" aria-label="Passer en français" aria-pressed="false">FR</button>
-      </div>
-      <button class="menu-btn" id="menu-btn" aria-label="Open menu" data-magnetic>
-        <span data-i18n="menu">Menu</span>
-        <span class="menu-btn-bars"><span></span><span></span></span>
-      </button>
-    </div>
-      </div>
-    </header>
-
-    <MegaMenu />
+    <SiteHeader />
 
     <main>
       <slot />
     </main>
 
-    <footer class="site-footer">
-      <div class="footer-newsletter">
-        <div class="container">
-          <div class="footer-newsletter-inner">
-            <p class="kicker kicker-or" style="justify-content:center; display:flex;" data-i18n="footerNewsletterKicker">The Daily Drive · Newsletter</p>
-            <h2 data-i18n-html="footerNewsletterTitle">One letter. <em>Every Sunday.</em></h2>
-            <p data-i18n="footerNewsletterSubtitle">The week's essays, one book worth reading, and a small practice to try — delivered to people building the long ascent.</p>
-            <form class="newsletter-form" action="https://formsubmit.co/contact@the-motivahub.com" method="POST">
-              <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" data-i18n-placeholder="footerEmailPlaceholder" />
-              <button type="submit" data-i18n="footerSubscribe">Subscribe</button>
-            </form>
-            <p style="font-family:var(--mono); font-size:0.6875rem; text-transform:uppercase; letter-spacing:0.14em; color:rgba(245,241,232,0.4); margin-top:16px;" data-i18n="footerTrust">Free · No spam · Unsubscribe anytime</p>
-          </div>
-        </div>
-      </div>
+    <SiteFooter />
 
-      <div class="container">
-        <div class="footer-main">
-          <div class="footer-brand">
-            <Link href="/" class="logo logo-text logo-text-cream" data-magnetic aria-label="Motiva Hub">
-              <span class="logo-word">Motiva <em>Hub</em></span>
-            </Link>
-            <p class="footer-tagline" data-i18n="footerTagline">The Daily Drive. Mindset, habits, books and free tools — for the long ascent, one day at a time.</p>
-            <div class="footer-social">
-              <a href="https://www.instagram.com/motivahub/" aria-label="IG — Instagram" rel="noopener">IG</a>
-              <a href="https://x.com/themotivahub" aria-label="Twitter / X" rel="noopener">X</a>
-              <a href="https://www.youtube.com/@motivahub" aria-label="YT — YouTube" rel="noopener">YT</a>
-              <a href="https://www.linkedin.com/company/motivahub" aria-label="LinkedIn" rel="noopener">in</a>
-            </div>
-          </div>
-          <div class="footer-col">
-            <h3 data-i18n="footerColRead">Read</h3>
-            <ul>
-              <li><Link href="/journal/" data-i18n="journal">The Journal</Link></li>
-              <li><Link href="/books/" data-i18n="footerBookstand">The Bookstand</Link></li>
-              <li><Link href="/quotes/" data-i18n="footerQuotes">Daily Quotes</Link></li>
-              <li><Link href="/podcast/" data-i18n="podcast">Podcast</Link></li>
-              <li><Link href="/topics/" data-i18n="footerAllTopics">All Topics</Link></li>
-            </ul>
-          </div>
-          <div class="footer-col">
-            <h3 data-i18n="footerColGuides">Guides</h3>
-            <ul>
-              <li><Link href="/guides/atomic-habits-ultimate-guide/" data-i18n="navAtomicHabits">Atomic Habits</Link></li>
-              <li><Link href="/best/books/" data-i18n="footerBestBooks">Best Books 2026</Link></li>
-              <li><Link href="/best/focus-books/" data-i18n="footerBestFocus">Best Focus Books</Link></li>
-              <li><Link href="/best/habit-books/" data-i18n="footerBestHabit">Best Habit Books</Link></li>
-              <li><Link href="/best/stoicism-books/" data-i18n="footerStoicism">Stoicism</Link></li>
-            </ul>
-          </div>
-          <div class="footer-col">
-            <h3 data-i18n="footerColTools">Tools</h3>
-            <ul>
-              <li><Link href="/tools/discipline-quiz/" data-i18n="footerDisciplineQuiz">Discipline Quiz</Link></li>
-              <li><Link href="/tools/habit-stacker/" data-i18n="footerHabitStacker">Habit Stacker</Link></li>
-              <li><Link href="/tools/meditation-timer/" data-i18n="footerMeditation">Meditation Timer</Link></li>
-              <li><Link href="/tools/cold-shower-tracker/" data-i18n="footerColdShower">Cold Shower Tracker</Link></li>
-              <li><Link href="/tools/reading-calculator/" data-i18n="footerReadingCalc">Reading Calculator</Link></li>
-              <li><Link href="/pdf/30-days-discipline/" data-i18n="footerPdf">30 Days PDF</Link></li>
-            </ul>
-          </div>
-        </div>
-        <div class="footer-bottom">
-          <p data-i18n="footerCopyright">© {new Date().getFullYear()} Motiva Hub · The Long Ascent</p>
-          <div class="footer-bottom-links">
-            <Link href="/about/" data-i18n="footerAbout">About</Link>
-            <Link href="/contact/" data-i18n="footerContact">Contact</Link>
-            <Link href="/privacy/" data-i18n="footerPrivacy">Privacy</Link>
-            <Link href="/terms/" data-i18n="footerTerms">Terms</Link>
-            <Link href="/affiliate-disclosure/" data-i18n="footerDisclosure">Disclosure</Link>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-    <script>
-      const header = document.getElementById("site-header");
-      const menuBtn = document.getElementById("menu-btn");
-      const menuClose = document.getElementById("menu-close");
-      const overlay = document.getElementById("overlay-menu");
-
-      const onScroll = () => {
-        if (window.scrollY > 40) {
-          header.classList.add("scrolled");
-        } else {
-          header.classList.remove("scrolled");
-        }
-      };
-      window.addEventListener("scroll", onScroll);
-      onScroll();
-
-      const openMenu = () => {
-        overlay.classList.add("open");
-        document.body.style.overflow = "hidden";
-      };
-      const closeMenu = () => {
-        overlay.classList.remove("open");
-        document.body.style.overflow = "";
-      };
-      menuBtn.addEventListener("click", openMenu);
-      menuClose.addEventListener("click", closeMenu);
-      overlay.addEventListener("click", (e) => {
-        const link = e.target.closest("a");
-        if (link) closeMenu();
-      });
-
-      const resetOverlay = () => {
-        overlay.classList.remove("open");
-        document.body.style.overflow = "";
-      };
-
-      const resetPageCurtain = () => {
-        document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
-      };
-
-      window.addEventListener("astro:page-load", () => {
-        resetOverlay();
-        resetPageCurtain();
-      });
-      window.addEventListener("pagehide", () => {
-        resetPageCurtain();
-        resetOverlay();
-        document.body.style.overflow = "";
-      });
-      window.addEventListener("pageshow", (event) => {
-        resetOverlay();
-        resetPageCurtain();
-        document.body.style.overflow = "";
-        if (event.persisted) {
-          document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
-          if (overlay) overlay.classList.remove("open");
-        }
-      });
-
-      setTimeout(() => {
-        document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
-      }, 2000);
-    </script>
     <script is:inline>
       (function(){
 const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email address.","newsletterEmailValid":"Please enter a valid email address.","newsletterSending":"Sending...","newsletterWelcome":"🎉 Welcome! Check your inbox for confirmation.","newsletterWelcomeName":"🎉 Welcome aboard, {name}! Check your inbox for confirmation.","newsletterError":"⚠️ Something went wrong. Try email us directly.","quizNext":"Next →","quizProgress":"Question {n} of {total}","quizSeeMyType":"See My Type →"},"fr":{"newsletterEmailRequired":"Veuillez entrer votre adresse email.","newsletterEmailValid":"Veuillez entrer une adresse email valide.","newsletterSending":"Envoi en cours...","newsletterWelcome":"🎉 Bienvenue ! Vérifiez votre boîte de réception.","newsletterWelcomeName":"🎉 Bienvenue à bord, {name} ! Vérifiez votre boîte de réception.","newsletterError":"⚠️ Quelque chose s'est mal passé. Essayez de nous envoyer un email directement.","quizNext":"Suivant →","quizProgress":"Question {n} sur {total}","quizSeeMyType":"Voir Mon Type →"}};
@@ -502,8 +344,8 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
       </div>
     </div>
     <script is:inline>
-      function showCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(0)';el.style.opacity='1';el.style.pointerEvents='auto';}
-      function hideCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(110%)';el.style.opacity='0';el.style.pointerEvents='none';}
+      function showCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(0)';el.style.opacity='1';el.style.pointerEvents='auto';document.body.classList.add('cookie-visible');}
+      function hideCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(110%)';el.style.opacity='0';el.style.pointerEvents='none';document.body.classList.remove('cookie-visible');}
       function acceptCookies(){localStorage.setItem('cookie_consent','accepted');hideCookieBanner();}
       function declineCookies(){localStorage.setItem('cookie_consent','declined');hideCookieBanner();}
       if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,1500);
