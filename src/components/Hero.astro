@@ -11,7 +11,7 @@ interface Props {
   meta?: Array<{ num: string; label: string; labelKey?: string }>;
 }
 
-const { kicker = "Motiva Hub", title, subtitle, image = "/images/hero-poster.jpg", primaryCta, secondaryCta, meta } = Astro.props;
+const { kicker = "Motiva Hub", title, subtitle, image = "/images/hero-editorial.webp", primaryCta, secondaryCta, meta } = Astro.props;
 const locale = getLangFromUrl(Astro.url);
 const primaryCtaHref = getLocalePath(primaryCta.href, locale);
 const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
@@ -19,8 +19,8 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 
 <section class="hero hero-portrait" id="hero">
   <video class="hero-video" muted loop playsinline poster={image}
-    data-src-webm="/videos/hero-bg.webm"
-    data-src-mp4="/videos/hero-bg.mp4">
+    data-src-webm="/videos/hero-bg-v2.webm"
+    data-src-mp4="/videos/hero-bg-v2.mp4">
   </video>
   <div class="hero-portrait-overlay"></div>
 
