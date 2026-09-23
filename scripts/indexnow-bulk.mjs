@@ -7,7 +7,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const SITEMAP = join(__dirname, "..", "dist", "sitemap-0.xml");
+const SITEMAP = join(__dirname, "..", "dist", "sitemap.xml");
 const HOST = "the-motivahub.com";
 
 const KEY = process.env.INDEXNOW_KEY || "eb6a9565c4614708a8f55f09aefa0e67";
