@@ -12,17 +12,24 @@ imageAlt: "An athlete doing weighted push-ups between kettlebells in a gym"
 featured: false
 draft: false
 keywords:
-  - "strength"
-  - "form"
-  - "skill"
-  - "talent"
-  - "people"
-  - "progress"
-  - "patience"
-  - "something"
+  - "strength is trained not born"
+  - "how to build muscle strength"
+  - "progressive overload explained"
+  - "getting stronger takes patience"
+  - "strength training for beginners"
+  - "skill acquisition exercise"
+  - "growth mindset fitness"
+  - "perfect form over heavy weight"
 tags:
   - "sport"
 wordCount: 243
+faq:
+  - q: "Is strength a skill or a natural talent?"
+    a: "Strength is a skill, specifically a neural adaptation. Your brain learns to recruit more muscle fibers simultaneously, fire them faster, and coordinate movement patterns. This is why untrained people can get 40% stronger in 8 weeks without visible muscle growth: the nervous system learns strength like any skill."
+  - q: "How do I get stronger if I'm naturally skinny or small?"
+    a: "Genetics affect muscle shape and insertion points, not your ability to gain strength. The process is universal: progressive overload (add weight/reps weekly), adequate protein (1.6g/kg), and sleep (7+ hrs). Beginners with bad genetics often progress FASTER initially due to newbie neural gains."
+  - q: "Why does perfect form matter more than heavier weight?"
+    a: "Form IS the skill. A squat performed correctly trains 200+ muscles in coordination; performed incorrectly, it loads joints and reinforces bad motor patterns. You are building a movement groove in your nervous system: once wired incorrectly, it takes 10x longer to fix than to learn right initially."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

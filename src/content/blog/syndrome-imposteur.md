@@ -10,18 +10,25 @@ image: "/images/blog/syndrome-imposteur-2.jpg"
 imageAlt: "A person in the dark holding a white mask away from their face"
 topic: "Confidence"
 keywords:
-  - "imposter"
-  - "syndrome"
-  - "feel"
-  - "evidence"
-  - "fraud"
-  - "failure"
-  - "overcome"
-  - "success"
+  - "how to overcome imposter syndrome"
+  - "imposter syndrome at work"
+  - "feeling like a fraud professionally"
+  - "imposter syndrome high achievers"
+  - "why successful people feel like frauds"
+  - "imposter syndrome signs and solutions"
+  - "how to stop doubting your accomplishments"
+  - "imposter phenomenon psychology"
 tags:
   - "confidence"
   - "how-to"
 wordCount: 400
+faq:
+  - q: "What is imposter syndrome and who gets it?"
+    a: "The persistent belief that your success is undeserved despite evidence. Originally identified in high-achieving women (Clance and Imes, 1978), research now shows 70% of people experience it at some point. Common in: new roles, career changes, minority groups in dominant fields, and after any external validation."
+  - q: "How do I actually stop feeling like a fraud?"
+    a: "1) Separate feelings from facts: I feel like a fraud does not mean I am one. 2) Document wins (evidence journal). 3) Name the specific trigger (one comment, one meeting). 4) Reframe anxiety as growth evidence, imposters do not worry about being good enough. 5) Talk to a peer: shared recognition normalizes it instantly."
+  - q: "Is imposter syndrome ever useful?"
+    a: "Mildly: it keeps you humble and continuously learning (the Dunning-Kruger inverse, incompetent people never doubt themselves). It becomes toxic only when it prevents you from applying for roles, charging fair rates, or accepting praise. The goal is not to eliminate all self-doubt, it is to act despite it."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

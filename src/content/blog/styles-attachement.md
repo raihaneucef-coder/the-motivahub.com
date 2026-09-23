@@ -10,17 +10,24 @@ image: "/images/blog/styles-attachement-3.jpg"
 imageAlt: "A couple holding each other close, hands resting on shoulders"
 topic: "Relationships"
 keywords:
-  - "attachment"
-  - "style"
-  - "people"
-  - "secure"
-  - "intimacy"
-  - "styles"
-  - "pull"
-  - "away"
+  - "attachment styles in relationships"
+  - "anxious avoidant attachment explained"
+  - "how to become securely attached"
+  - "attachment style test"
+  - "childhood attachment adult relationships"
+  - "anxious attachment how to calm"
+  - "avoidant attachment signs"
+  - "secure attachment habits"
 tags:
   - "relationships"
 wordCount: 357
+faq:
+  - q: "What are the 4 attachment styles?"
+    a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized (wants closeness but fears it simultaneously). 50-60% of people are secure; the rest show patterns formed in childhood caregiving."
+  - q: "Can I change my attachment style?"
+    a: "Yes, research calls this earned security. Therapy (especially attachment-focused), a consistently secure partner, self-awareness practices (noticing trigger patterns), and mindfulness can shift anxious or avoidant toward secure over 1-3 years. Neuroplasticity does not stop at 25."
+  - q: "Why do anxious and avoidant attract each other?"
+    a: "Each confirms the other's core belief: anxious thinks love means chasing and avoidant thinks love means losing freedom. The push-pull creates familiar intensity that feels like passion. Breaking the cycle requires either becoming secure yourself or consciously choosing partners who match your healing pace."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
