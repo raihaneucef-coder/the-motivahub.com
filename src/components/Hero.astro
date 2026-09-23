@@ -18,10 +18,24 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 ---
 
 <section class="hero hero-portrait" id="hero">
-  <video class="hero-video" muted loop playsinline poster={image}
+  <video class="hero-video" muted loop playsinline
+    data-img={image}
     data-src-webm="/videos/hero-bg-v2.webm"
-    data-src-mp4="/videos/hero-bg-v2.mp4">
+    data-src-mp4="/videos/hero-bg-v2.mp4"
+    data-src-webm-mobile="/videos/hero-bg-mobile-v1.webm"
+    data-src-mp4-mobile="/videos/hero-bg-mobile-v1.mp4"
+    data-img-mobile="/images/hero-editorial-mobile.webp">
   </video>
+  <script is:inline>
+    // Set the poster synchronously per viewport so only ONE image is ever fetched.
+    (function () {
+      var v = document.querySelector('.hero-video');
+      if (!v) return;
+      var portrait = window.matchMedia('(max-width: 1024px)').matches;
+      v.poster = (portrait && v.dataset.imgMobile) ? v.dataset.imgMobile : v.dataset.img;
+    })();
+  </script>
+  <noscript><img src="/images/hero-editorial.webp" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top;z-index:0"></noscript>
   <div class="hero-portrait-overlay"></div>
 
   <div class="container">
@@ -63,12 +77,15 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 </section>
 
 <script>
+  // Portrait art direction: phones/tablets get a dedicated 9:16 hero composition.
+  const portraitMq = window.matchMedia('(max-width: 1024px)');
   // Defer video loading until after LCP paint (improves PageSpeed)
   function initHeroVideo() {
     const video = document.querySelector('.hero-video');
     if (!video || video.querySelector('source')) return;
-    const webm = video.dataset.srcWebm;
-    const mp4 = video.dataset.srcMp4;
+    const usePortrait = portraitMq.matches && video.dataset.srcWebmMobile;
+    const webm = usePortrait ? video.dataset.srcWebmMobile : video.dataset.srcWebm;
+    const mp4 = usePortrait ? video.dataset.srcMp4Mobile : video.dataset.srcMp4;
     if (webm) {
       const src = document.createElement('source');
       src.src = webm; src.type = 'video/webm';
