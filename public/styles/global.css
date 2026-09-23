@@ -916,6 +916,9 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 @media (min-width: 1024px) {
   .overlay-nav { grid-template-columns: repeat(5, 1fr) !important; gap: clamp(24px, 2.5vw, 44px) !important; }
 }
+/* START HERE gateway link: quieter than the editorial items, not a headline */
+.overlay-nav a.overlay-nav-entry { font-size: 1rem !important; color: #9a9a9a !important; letter-spacing: 0.01em; }
+.overlay-nav a.overlay-nav-entry:hover { color: #ff6a2a !important; }
 .overlay-foot { border-top-color: #2a2a2a !important; }
 .overlay-foot p { font-style: normal !important; color: #666 !important; }
 .overlay-head .logo { color: #f0f0f0 !important; }

@@ -63,7 +63,7 @@ const sections = [
       <div class="overlay-nav-section">
         <p class="overlay-nav-heading" data-i18n={section.headingKey}>{section.heading}</p>
         {section.items.map((item) => (
-          <Link href={item.href} data-num={item.num}>
+          <Link href={item.href} data-num={item.num} class={section.headingKey === "navStartHere" ? "overlay-nav-entry" : undefined}>
             <span data-i18n={item.labelKey}>{item.label}</span>
           </Link>
         ))}
