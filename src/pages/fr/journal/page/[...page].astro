@@ -18,7 +18,7 @@ const prevHref = page.url.prev;
 const nextHref = page.url.next;
 ---
 
-<Layout title={`Le Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} sur ${totalPages} — Articles pratiques sur le mindset, les habitudes, la discipline et le travail profond.`}>
+<Layout title={`Le Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} sur ${totalPages} — Articles pratiques sur le mindset, les habitudes, la discipline et le travail profond.`} canonical={isFirst ? "https://the-motivahub.com/fr/journal/" : undefined}>
   {isFirst && (
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
@@ -35,7 +35,6 @@ const nextHref = page.url.next;
       }))
     })} />
   )}
-  <link rel="canonical" href={`https://the-motivahub.com/fr/journal/${isFirst ? "" : `page/${page.currentPage}/`}`} />
   {!isFirst && <link rel="prev" href={prevHref} />}
   {page.url.next && <link rel="next" href={nextHref} />}
 

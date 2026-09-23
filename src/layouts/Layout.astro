@@ -15,11 +15,14 @@ interface Props {
   ogType?: string;
   lang?: "en" | "fr" | "ar";
   schema?: any;
+  // Optional canonical override (pagination page 1 points at /journal/).
+  // Defaults to the page's own URL so every other page is unaffected.
+  canonical?: string;
 }
 
-const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema } = Astro.props;
+const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema, canonical: canonicalOverride } = Astro.props;
 const currentLocale = getLangFromUrl(Astro.url);
-const canonical = Astro.url.href;
+const canonical = canonicalOverride ?? Astro.url.href;
 // hreflang alternates must point at the real sibling page: map the journal
 // slug both ways (1 of 169 slugs differs, e.g. sleep-is-unfair-advantage <->
 // sommeil-avantage-indefendable) instead of just stripping the /fr prefix,
