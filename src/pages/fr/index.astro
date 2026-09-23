@@ -184,7 +184,7 @@ const stats = [
       <div class="hp-books-grid reveal-stagger">
         {books.slice(0, 6).map((book) => (
           <article class="hp-book">
-            <img class="hp-book-cover" src={book.cover} alt={`${book.title} cover`} loading="lazy" />
+            <img class="hp-book-cover" src={book.cover} alt={`${book.title} cover`} loading="lazy" onerror="this.onerror=null;this.src='/images/cover-fallback.svg';" />
             <div class="hp-book-body">
               <p class="hp-book-meta">{book.categoryFr ?? book.category}</p>
               <h3 class="hp-book-title">{book.title}</h3>
@@ -214,7 +214,7 @@ const stats = [
       <div class="hp-listen-grid reveal-stagger">
         {podcasts.slice(0, 3).map((p) => (
           <article class="hp-listen-item">
-            <img class="hp-listen-cover" src={p.cover} alt={`${p.title} cover`} loading="lazy" />
+            <img class="hp-listen-cover" src={p.cover} alt={`${p.title} cover`} loading="lazy" onerror="this.onerror=null;this.src='/images/cover-fallback.svg';" />
             <div class="hp-listen-body">
               <p class="hp-listen-meta">{p.date} · {p.duration}</p>
               <h3 class="hp-listen-title">{p.title}</h3>
