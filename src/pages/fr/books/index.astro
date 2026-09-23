@@ -1,89 +1,175 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
-import Link from "../../../components/Link.astro";
 import { books } from "../../../data/books";
-import BookCard from "../../../components/BookCard.astro";
-import NewsletterSection from "../../../components/NewsletterSection.astro";
+
+// Deterministic editorial selection: the first five entries of the
+// hand-maintained dataset lead the shelf; the rest follow below.
+const featured = books.slice(0, 5);
+const shelf = books.slice(5);
+
+// Internal editorial companions (same mapping as BookCard.astro)
+const related: Record<string, { href: string; label: string }> = {
+  "atomic-habits": { href: "/fr/journal/atomic-habits-review/", label: "Lire le rapport de terrain Atomic Habits" },
+  "deep-work": { href: "/fr/journal/deep-work-focus/", label: "Lire le protocole Deep Work" },
+  "cant-hurt-me": { href: "/fr/journal/cant-hurt-me-review/", label: "Lire la critique de Can't Hurt Me" },
+  "meditations": { href: "/fr/journal/morning-routines-12-tested/", label: "Lire le test de terrain du rituel matinal stoïcien" },
+};
 ---
 
-<Layout title="The Bookstand — Motiva Hub" description="Six books we return to. A curated bookstand for the disciplined mind.">
+<Layout title="The Bookstand — Motiva Hub" description="Douze livres que nous relisons. Une bibliothèque choisie pour l'esprit discipliné.">
+  <link rel="canonical" href="https://the-motivahub.com/fr/books/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "Livres", "item": "https://the-motivahub.com/fr/books/" }
+    ]
+  })} />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "The Wisdom Stack — Motiva Hub Bookstand",
-    "description": "Hand-picked books on mindset, habits, discipline, focus, stoicism.",
-    "url": "https://the-motivahub.com/books/",
+    "name": "The Wisdom Stack — La Bibliothèque Motiva Hub",
+    "description": "Livres choisis sur l'état d'esprit, les habitudes, la discipline, la concentration et le stoïcisme.",
+    "url": "https://the-motivahub.com/fr/books/",
     "numberOfItems": books.length,
     "itemListElement": books.map((b, i) => ({
       "@type": "ListItem",
       "position": i + 1,
-      "name": `${b.title} by ${b.author}`,
-      "url": b.affiliateUrl || `https://the-motivahub.com/books/`
+      "name": `${b.title} par ${b.author}`,
+      "url": b.affiliateUrl || `https://the-motivahub.com/fr/books/`
     }))
   })} />
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker" data-i18n="booksKicker">The Wisdom Stack</p>
-      <h1 data-i18n-html="booksTitle">A curated <em>bookstand.</em></h1>
-      <p data-i18n="booksSubtitle">Not the year's loudest titles, but the ones that earn their place on the shelf beside the bed.</p>
-      <p class="page-head-tagline">Lis moins, relis plus. Un grand livre est un outil, pas un trophée.</p>
+
+  <!-- Hero -->
+  <section class="bk-hero">
+    <div class="bk-hero-inner">
+      <div class="bk-hero-text">
+        <p class="bk-hero-eyebrow">De Meilleurs Livres. Une Meilleure Version de Vous.</p>
+        <h1 class="bk-hero-title">Une Bibliothèque<br />Choisie pour de<br /><em>Vrais Progrès.</em></h1>
+        <p class="bk-hero-sub">Des idées intemporelles. Une sagesse pratique. Un vous plus fort.</p>
+        <p class="bk-hero-desc">Douze livres que nous relisons. Choisis avec soin, classés et honnêtement critiqués — ceux qui méritent leur place sur l'étagère à côté du lit.</p>
+        <a href="#collection" class="bk-hero-cta">Explorer les Livres →</a>
+        <span class="bk-hero-divider"></span>
+        <p class="bk-hero-tagline">Lire. Réfléchir. Appliquer. Grandir.</p>
+      </div>
+      <div class="bk-hero-img">
+        <img src="/images/books.jpg" alt="Pile de livres influents sur la croissance et la discipline" loading="eager" width="800" height="600" />
+        <p class="bk-hero-img-label">Lis moins,<br />relis plus.</p>
+      </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- Benefits -->
+  <section class="bk-benefits">
     <div class="container">
-      <div class="best-links">
-        <p class="kicker" data-i18n="lookingForRanked">Looking for ranked picks?</p>
-        <a class="best-link" href="/fr/best/books/" data-i18n="bestSelfHelpBooksLink">Best Self-Help Books 2026 →</a>
-        <a class="best-link" href="/fr/best/focus-books/" data-i18n="bestFocusBooksLink">Best Focus & Deep Work Books →</a>
-        <a class="best-link" href="/fr/best/habit-books/" data-i18n="bestHabitBooksLink">Best Habit & Discipline Books →</a>
-        <a class="best-link" href="/fr/best/stoicism-books/" data-i18n="bestStoicismBooksLink">Best Stoicism Books →</a>
+      <div class="bk-benefits-grid">
+        <div class="bk-benefit">
+          <div class="bk-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></div>
+          <div><h3>Soigneusement Sélectionnés</h3><p>Seuls les livres qui valent votre temps.</p></div>
+        </div>
+        <div class="bk-benefit">
+          <div class="bk-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></div>
+          <div><h3>Impact Réel</h3><p>Des idées que vous pouvez vraiment appliquer.</p></div>
+        </div>
+        <div class="bk-benefit">
+          <div class="bk-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><line x1="4" y1="20" x2="20" y2="20"/><rect x="5" y="12" width="3" height="8"/><rect x="11" y="7" width="3" height="13"/><rect x="17" y="3" width="3" height="17"/></svg></div>
+          <div><h3>Plusieurs Catégories</h3><p>Mindset, habitudes, discipline, concentration, philosophie et plus.</p></div>
+        </div>
+        <div class="bk-benefit">
+          <div class="bk-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/></svg></div>
+          <div><h3>Un Meilleur Vous</h3><p>Petites intuitions. Grand changement.</p></div>
+        </div>
       </div>
-      <div class="book-grid">
-        {books.map((book) => <BookCard book={book} />)}
+    </div>
+  </section>
+
+  <!-- Featured Books -->
+  <section class="bk-featured" id="collection">
+    <div class="container">
+      <div class="bk-section-head">
+        <h2 class="journal-section-title">Livres en <em>Vedette</em></h2>
+        <a href="#shelf" class="bk-see-all">Voir Tous les Livres →</a>
       </div>
-      <p class="affiliate-note" data-i18n="booksAffiliate">
-        Affiliate disclosure: some "View Book" buttons may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. We only recommend books we actually read and return to.
+      <div class="bk-featured-grid">
+        {featured.map((book) => (
+          <article class="bk-card" id={`fr-${book.id}`}>
+            <div class="bk-cover">
+              <img src={book.cover} alt={`Couverture de ${book.title}`} loading="lazy" />
+            </div>
+            <h3 class="bk-card-title">{book.title}</h3>
+            <p class="bk-card-author">{book.author.split(" · ")[0]}</p>
+            {related[book.id] ? (
+              <a class="bk-card-review" href={related[book.id].href}>{related[book.id].label} →</a>
+            ) : null}
+            <a class="bk-card-cta" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">Voir le Livre →</a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- The Complete Shelf -->
+  <section class="bk-shelf" id="shelf">
+    <div class="container">
+      <div class="bk-section-head">
+        <h2 class="journal-section-title">L'Étagère <em>Complète</em></h2>
+        <p class="bk-shelf-count">{books.length} livres · choisis à la main</p>
+      </div>
+      <div class="bk-shelf-list">
+        {shelf.map((book) => (
+          <article class="bk-shelf-item" id={`fr-${book.id}`}>
+            <div class="bk-shelf-cover">
+              <img src={book.cover} alt={`Couverture de ${book.title}`} loading="lazy" />
+            </div>
+            <div class="bk-shelf-body">
+              <p class="bk-shelf-cat">{book.categoryFr ?? book.category}</p>
+              <h3 class="bk-shelf-title">{book.title}</h3>
+              <p class="bk-shelf-author">{book.author}</p>
+              <p class="bk-shelf-desc">{book.descriptionFr ?? book.description}</p>
+              <p class="bk-shelf-reason"><strong>Pourquoi nous le recommandons :</strong> {book.reasonFr ?? book.reason}</p>
+            </div>
+            <a class="bk-shelf-cta" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">Voir le Livre →</a>
+          </article>
+        ))}
+      </div>
+      <p class="bk-affiliate-note">
+        Divulgation d'affiliation : certains boutons « Voir le Livre » peuvent contenir des liens d'affiliation. Si vous achetez via eux, nous pouvons percevoir une petite commission sans frais supplémentaires pour vous. Nous ne recommandons que des livres que nous lisons réellement et auxquels nous revenons.
       </p>
-      <p class="book-note" data-i18n="booksNote">Read one book this season — not six. Mark it heavily, return to it often, and let the rest of the shelf wait.</p>
     </div>
   </section>
 
-  <NewsletterSection />
-</Layout>
+  <!-- Ranked reading guides -->
+  <section class="bk-guides">
+    <div class="container">
+      <div class="bk-guides-inner">
+        <div class="bk-guides-text">
+          <p class="bk-guides-kicker">Vous cherchez des choix classés ?</p>
+          <p class="bk-guides-sub">Nos équipes éditoriales vont plus loin — des listes classées et critiquées pour des objectifs précis.</p>
+        </div>
+        <nav class="bk-guides-links" aria-label="Guides de meilleurs livres">
+          <a href="/fr/best/books/">Meilleurs Livres de Développement Personnel 2026 →</a>
+          <a href="/fr/best/focus-books/">Meilleurs Livres sur la Concentration →</a>
+          <a href="/fr/best/habit-books/">Meilleurs Livres sur les Habitudes →</a>
+          <a href="/fr/best/stoicism-books/">Meilleurs Livres sur le Stoïcisme →</a>
+        </nav>
+      </div>
+    </div>
+  </section>
 
-<style>
-  .best-links {
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    margin: 0 auto 40px;
-    max-width: 720px;
-    padding: 24px 28px;
-    background: var(--cream, #faf7f2);
-    border-left: 3px solid var(--gold, #c8a04a);
-    border-radius: 0 8px 8px 0;
-  }
-  .best-links .kicker {
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 11px;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    color: var(--gold, #c8a04a);
-    margin: 0 0 6px;
-  }
-  .best-link {
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 15px;
-    color: var(--ink, #1a1a1a);
-    text-decoration: none;
-    font-weight: 500;
-    padding: 6px 0;
-    border-bottom: 1px solid transparent;
-    transition: border-color 0.2s ease, color 0.2s ease;
-  }
-  .best-link:hover {
-    color: var(--gold, #c8a04a);
-    border-color: var(--gold, #c8a04a);
-  }
-</style>
+  <!-- Editorial banner -->
+  <section class="bk-quote">
+    <div class="container">
+      <div class="bk-quote-inner">
+        <div class="bk-quote-text-wrap">
+          <p class="bk-quote-label">Une Vérité Durable</p>
+          <blockquote class="bk-quote-block">« Lis moins, relis plus. Un grand livre est un <em>outil</em>, pas un trophée. »</blockquote>
+          <p class="bk-quote-attr">— La Bibliothèque, Motiva Hub</p>
+        </div>
+        <div class="bk-quote-img">
+          <img src="/images/desk.jpg" alt="Bureau d'écriture avec café et notes manuscrites" loading="lazy" width="600" height="400" />
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
