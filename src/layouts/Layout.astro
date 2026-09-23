@@ -341,8 +341,8 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
       </div>
     </div>
     <script is:inline>
-      function showCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(0)';el.style.opacity='1';el.style.pointerEvents='auto';}
-      function hideCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(110%)';el.style.opacity='0';el.style.pointerEvents='none';}
+      function showCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(0)';el.style.opacity='1';el.style.pointerEvents='auto';document.body.classList.add('cookie-visible');}
+      function hideCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(110%)';el.style.opacity='0';el.style.pointerEvents='none';document.body.classList.remove('cookie-visible');}
       function acceptCookies(){localStorage.setItem('cookie_consent','accepted');hideCookieBanner();}
       function declineCookies(){localStorage.setItem('cookie_consent','declined');hideCookieBanner();}
       if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,1500);

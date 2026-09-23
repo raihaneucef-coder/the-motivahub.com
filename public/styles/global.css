@@ -2938,3 +2938,13 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   body:has(.hero-portrait) .hp-book:hover,
   body:has(.hero-portrait) .hp-listen-item:hover { transform: none; }
 }
+
+/* ==========================================================
+   38. FINAL AUDIT FIXES — cookie banner footer clearance
+   ========================================================== */
+/* While the consent banner is visible, add bottom clearance so
+   it never covers footer links (class removed on accept/decline). */
+body.cookie-visible { padding-bottom: 150px; }
+@media (max-width: 768px) {
+  body.cookie-visible { padding-bottom: 300px; }
+}
