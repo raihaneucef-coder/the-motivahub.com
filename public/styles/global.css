@@ -3061,8 +3061,10 @@ body.menu-open #cookie-consent {
     margin-left: calc((100% - min(100%, 1200px)) / 2);
     margin-right: auto;
   }
-  /* D1 + D3 — 18px/1.7 on a 612px measure (~66 cpl EN, ~69 FR) */
-  .prose {
+  /* D1 + D3 — 18px/1.7 on a 612px measure (~66 cpl EN, ~69 FR)
+     scoped to .article-body so guide pages (Markdown.astro prose outside
+     the article wrapper) keep their existing layout */
+  .article-body .prose {
     max-width: 612px;
     margin-left: 0;
     font-size: 1.125rem;
