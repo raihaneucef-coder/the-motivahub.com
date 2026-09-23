@@ -1,0 +1,165 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import Link from "../../../components/Link.astro";
+
+// Guide data — mirrors EN, with French titles/descriptions from the FR guide page
+const guides = [
+  {
+    slug: "atomic-habits-ultimate-guide",
+    title: "Le Guide Ultime Atomic Habits — Ce Qui Fonctionne Vraiment en 2026",
+    description: "Une analyse complète et fondée sur la recherche du livre Atomic Habits de James Clear. Les 4 lois, la science, le protocole de 30 jours — et ce que la plupart des critiques laissent de côté.",
+    topic: "Habitudes",
+    wordCount: 3800,
+    image: "/images/blog/atomic-habits-review-2.jpg",
+    datePublished: "2026-09-01",
+  },
+];
+
+const readTime = (words: number) => `${Math.round(words / 250)} MIN DE LECTURE`;
+---
+
+<Layout title="Guides Pratiques — Motiva Hub" description="Des guides étape par étape, des frameworks et de vraies stratégies pour vous aider à construire de meilleures habitudes, un esprit plus sain et une vie plus intentionnelle.">
+  <link rel="canonical" href="https://the-motivahub.com/fr/guides/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Guides Pratiques — Motiva Hub",
+    "description": "Guides étape par étape et frameworks pour construire de meilleures habitudes et une vie plus intentionnelle.",
+    "url": "https://the-motivahub.com/fr/guides/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Motiva Hub",
+      "url": "https://the-motivahub.com/"
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": guides.length,
+      "itemListElement": guides.map((g, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://the-motivahub.com/fr/guides/${g.slug}/`,
+        "name": g.title
+      }))
+    }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://the-motivahub.com/fr/guides/" }
+    ]
+  })} />
+
+  <!-- Hero Banner -->
+  <section class="guides-hero-banner">
+    <div class="guides-hero-inner">
+      <div class="guides-hero-text">
+        <p class="guides-hero-eyebrow">Apprendre. Appliquer. Grandir.</p>
+        <h1 class="guides-hero-title">Guides Pratiques<br />pour un <em>Vous Meilleur.</em></h1>
+        <p class="guides-hero-desc">Transformez les idées en connaissances pratiques. Des guides étape par étape, des frameworks et de vraies stratégies pour construire de meilleures habitudes, un esprit plus sain et une vie plus intentionnelle.</p>
+        <span class="guides-hero-divider"></span>
+        <p class="guides-hero-tagline">De vraies connaissances pour un vous plus lumineux.</p>
+      </div>
+      <div class="guides-hero-img">
+        <img src="/images/hero-stoic-ascent.jpg" alt="Personne gravissant un sentier de montagne à l'heure dorée" loading="eager" width="1024" height="1024" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Guide -->
+  {guides[0] && (
+    <section class="guides-featured">
+      <div class="container">
+        <p class="guide-section-label">Guide à la une</p>
+        <div class="guide-featured-card">
+          <Link href={`/fr/guides/${guides[0].slug}/`} class="guide-featured-img">
+            <img src={guides[0].image} alt={guides[0].title} loading="eager" width="600" height="400" />
+          </Link>
+          <div class="guide-featured-body">
+            <div class="guide-featured-meta-top">
+              <span class="guide-meta-item guide-meta-topic">{guides[0].topic}</span>
+              <span class="guide-meta-sep">·</span>
+              <span class="guide-meta-item">{readTime(guides[0].wordCount)}</span>
+            </div>
+            <h2 class="guide-featured-title">
+              <Link href={`/fr/guides/${guides[0].slug}/`}>{guides[0].title}</Link>
+            </h2>
+            <p class="guide-featured-desc">{guides[0].description}</p>
+            <Link href={`/fr/guides/${guides[0].slug}/`} class="guide-read-btn">Lire le Guide →</Link>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- All Guides -->
+  <section class="guides-all">
+    <div class="container">
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">Tous les <em>Guides</em></h2>
+        <p class="guides-count">{guides.length} {guides.length === 1 ? "guide" : "guides"}</p>
+      </div>
+      <div class="guides-list">
+        {guides.map((g) => (
+          <Link href={`/fr/guides/${g.slug}/`} class="guide-list-item">
+            <div class="guide-list-thumb">
+              <img src={g.image} alt={g.title} loading="lazy" width="120" height="80" />
+            </div>
+            <div class="guide-list-body">
+              <div class="guide-list-meta-top">
+                <span class="guide-meta-item guide-meta-topic">{g.topic}</span>
+                <span class="guide-meta-sep">·</span>
+                <span class="guide-meta-item">{readTime(g.wordCount)}</span>
+              </div>
+              <h3 class="guide-list-title">{g.title}</h3>
+              <p class="guide-list-desc">{g.description}</p>
+            </div>
+            <span class="guide-list-arrow">Lire →</span>
+          </Link>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <section class="journal-newsletter">
+    <div class="container">
+      <div class="journal-newsletter-inner">
+        <div class="journal-newsletter-text">
+          <p class="kicker kicker-or">Le Daily Drive · Newsletter</p>
+          <h2>Une lettre. Chaque dimanche.</h2>
+          <p>Les meilleures idées, outils et guides de la semaine — livrés aux personnes qui construisent une vie meilleure.</p>
+        </div>
+        <form class="journal-newsletter-form guides-nl-form">
+          <input type="email" name="email" placeholder="Votre adresse e-mail" required aria-label="Adresse e-mail" />
+          <button type="submit">S'abonner →</button>
+        </form>
+      </div>
+      <p class="guides-nl-note">Gratuit. Pas de spam. Désabonnement à tout moment.</p>
+    </div>
+  </section>
+
+  <script>
+    const form = document.querySelector('.guides-nl-form') as HTMLFormElement | null;
+    if (form) {
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const email = (form.querySelector('input[type="email"]') as HTMLInputElement).value.trim();
+        if (!email) return;
+        const btn = form.querySelector('button')!;
+        btn.textContent = 'Envoi…'; btn.disabled = true;
+        try {
+          await fetch('https://formsubmit.co/ajax/raihaneucef@gmail.com', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+            body: JSON.stringify({ email, source: 'guides-fr', page: '/fr/guides/', _subject: '🌱 Nouvel abonné (Guides FR)', _template: 'table' })
+          });
+          btn.textContent = '✓ Inscrit!';
+          (form.querySelector('input') as HTMLInputElement).value = '';
+        } catch { btn.textContent = 'Réessayer'; }
+        finally { setTimeout(() => { btn.textContent = "S'abonner →"; btn.disabled = false; }, 3000); }
+      });
+    }
+  </script>
+</Layout>
