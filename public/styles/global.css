@@ -3049,3 +3049,23 @@ body.menu-open #cookie-consent {
     margin: 2.2em 0;
   }
 }
+
+/* ============================================================
+   23. Journal desktop reading polish (audit D1-D3) — desktop only
+   ============================================================ */
+@media (min-width: 1025px) {
+  /* D2 — share the container grid: reading box hangs off the same left edge
+     as the title/hero image instead of floating centered */
+  .article-body {
+    max-width: 760px;
+    margin-left: calc((100% - min(100%, 1200px)) / 2);
+    margin-right: auto;
+  }
+  /* D1 + D3 — 18px/1.7 on a 612px measure (~66 cpl EN, ~69 FR) */
+  .prose {
+    max-width: 612px;
+    margin-left: 0;
+    font-size: 1.125rem;
+    line-height: 1.7;
+  }
+}
