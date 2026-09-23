@@ -1,443 +1,263 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
-import Link from "../../../components/Link.astro";
-import NewsletterSection from "../../../components/NewsletterSection.astro";
+
+const weeks = [
+  {
+    label: "Semaine 1 — Fondation",
+    title: "Construire la Base",
+    days: [
+      { n: 1, title: "Se Lever à la Même Heure", text: "Mettez un seul réveil. Sortez du lit au premier son. Pas de snooze. Votre journée commence par la discipline, pas par la négociation.", action: "Lever à 6h00 demain. Pas d'exception." },
+      { n: 2, title: "Faire Son Lit", text: "La première petite victoire de la journée. Un lit fait signale : je suis en contrôle. L'amiral William McRaven avait raison — ça change le monde.", action: "Faites votre lit dans les 2 minutes après le réveil." },
+      { n: 3, title: "Douche Froide — 30 Secondes", text: "Terminez votre douche par 30 secondes d'eau froide. Cela entraîne votre cerveau à faire des choses difficiles volontairement.", action: "Mettez l'eau froide pendant les 30 dernières secondes." },
+      { n: 4, title: "Écrivez 3 Choses Dont Vous Êtes Reconnaissant", text: "La discipline n'est pas seulement physique. La gratitude entraîne votre esprit à voir ce qui compte. Écrivez-les à la main.", action: "Avant de dormir, écrivez 3 gratitudes dans un carnet." },
+      { n: 5, title: "Pas de Téléphone pendant la Première Heure", text: "Votre matinée vous appartient, pas aux notifications. La première heure définit le ton de tout le reste.", action: "Laissez votre téléphone dans une autre pièce jusqu'à 7h00." },
+      { n: 6, title: "10 Pompes", text: "La discipline vit dans le corps. Dix pompes ne sont rien — mais les faire quand vous n'en avez pas envie, c'est tout.", action: "Faites 10 pompes maintenant." },
+      { n: 7, title: "Révisez Votre Semaine", text: "Qu'avez-vous fait ? Qu'avez-vous sauté ? Écrivez-le. La conscience de soi est la fondation de la croissance.", action: "Passez 10 minutes à réviser votre semaine honnêtement." },
+    ],
+  },
+  {
+    label: "Semaine 2 — Constance",
+    title: "Empiler les Habitudes",
+    days: [
+      { n: 8, title: "Mangez un Repas Sain", text: "Vous n'avez pas besoin d'un régime. Vous avez besoin d'un bon repas. Cuisinez-le, mangez-le lentement, remarquez comment vous vous sentez.", action: "Préparez et mangez un repas nutritif aujourd'hui." },
+      { n: 9, title: "Lisez 10 Pages", text: "Pas un chapitre. Pas un livre. Juste 10 pages. La constance bat l'intensité à chaque fois.", action: "Lisez 10 pages de n'importe quel livre avant de dormir." },
+      { n: 10, title: "Marchez 20 Minutes", text: "Le mouvement est un médicament. Une marche de 20 minutes clarifie votre esprit, renforce votre corps et construit l'habitude de se présenter.", action: "Marchez pendant 20 minutes sans votre téléphone." },
+      { n: 11, title: "Dites Non à une Distraction", text: "Une notification ignorée. Une session de défilement évitée. Chaque « non » à la distraction est un « oui » à votre avenir.", action: "Identifiez votre plus grande distraction et évitez-la pendant 2 heures." },
+      { n: 12, title: "Planifiez Demain ce Soir", text: "Écrivez vos 3 principales priorités pour demain. Réveillez-vous avec une direction, pas avec la confusion.", action: "Avant de dormir, écrivez vos 3 priorités pour demain." },
+      { n: 13, title: "5 Minutes de Silence", text: "Asseyez-vous seul. Pas de musique. Pas de téléphone. Pas de pensées — observez juste. L'esprit qui peut être tranquille peut tout faire.", action: "Asseyez-vous dans le silence complet pendant 5 minutes." },
+      { n: 14, title: "Révision de la Semaine 2", text: "Deux semaines déjà. Êtes-vous constant ? Écrivez ce qui a fonctionné, ce qui n'a pas fonctionné, et ce que vous changerez.", action: "Révisez vos progrès honnêtement. Ajustez si nécessaire." },
+    ],
+  },
+  {
+    label: "Semaine 3 — Défi",
+    title: "Repousser les Limites",
+    days: [
+      { n: 15, title: "Douche Froide — 1 Minute", text: "Vous avez survécu à 30 secondes. Maintenant doublez. Le confort est l'ennemi de la croissance.", action: "1 minute d'eau froide. Respirez à travers." },
+      { n: 16, title: "Pas de Plaintes pendant 24 Heures", text: "Zéro plainte. Pas sur le temps. Pas sur le travail. Pas sur quoi que ce soit. La gratitude remplace les plaintes.", action: "Passez toute la journée sans vous plaindre une fois." },
+      { n: 17, title: "20 Pompes + 20 Squats", text: "Le corps devient plus fort. Prouvez-le-vous. Doublez ce que vous avez fait le Jour 6.", action: "20 pompes et 20 squats. Pas de repos entre les deux." },
+      { n: 18, title: "Faites la Chose que Vous Évitez", text: "Cet email. Cette conversation. Cette tâche. Faites-la aujourd'hui. La discipline signifie faire ce qui doit être fait.", action: "Complétez la seule tâche que vous avez remise à plus tard." },
+      { n: 19, title: "Mangez Sain toute la Journée", text: "Pas de malbouffe. Pas de sucre. Pas de nourriture transformée. Une journée saine vous montre ce dont votre corps est capable.", action: "Mangez uniquement des aliments entiers pendant une journée complète." },
+      { n: 20, title: "Se Lever à 5h00", text: "Vous vous entraînez depuis 20 jours. Maintenant levez-vous une heure plus tôt. Possédez la matinée avant que le monde ne vous possède.", action: "Réveil à 5h00. Hors du lit au premier son." },
+      { n: 21, title: "Révision de la Semaine 3", text: "Trois semaines. Vous n'êtes plus la même personne qui a commencé. Écrivez comment vous avez changé.", action: "Journalisez sur la personne que vous devenez." },
+    ],
+  },
+  {
+    label: "Semaine 4 — Maîtrise",
+    title: "Devenir la Personne",
+    days: [
+      { n: 22, title: "2 Minutes d'Eau Froide", text: "Vous êtes allé aussi loin. Deux minutes ne sont plus rien maintenant. Votre esprit est plus fort qu'il ne l'était le Jour 3.", action: "2 minutes de douche froide. Vous l'avez mérité." },
+      { n: 23, title: "Aidez Quelqu'un Aujourd'hui", text: "La discipline n'est pas égoïste. Utilisez votre force pour élever quelqu'un d'autre. Un mot gentil, un coup de main, un moment de votre temps.", action: "Faites un acte de gentillesse pour quelqu'un d'autre." },
+      { n: 24, title: "30 Pompes + 30 Squats", text: "Trois fois ce avec quoi vous avez commencé. Le corps suit l'esprit. Vous êtes la preuve.", action: "30 pompes et 30 squats. Sentez la différence." },
+      { n: 25, title: "Pas de Réseaux Sociaux pendant 24 Heures", text: "Une journée complète. Pas de défilement. Pas d'histoires. Pas de reels. Vous survivrez. Vous pourriez même prospérer.", action: "Supprimez les applications pendant 24 heures. Réinstallez demain." },
+      { n: 26, title: "Écrivez une Lettre à Votre Futur Moi", text: "Où serez-vous dans un an ? Écrivez à cette personne. Dites-lui ce que vous avez commencé. Dites-lui pourquoi.", action: "Écrivez une lettre à vous-même, dans un an." },
+      { n: 27, title: "Jeûnez Jusqu'au Déjeuner", text: "La faim est un sentiment, pas une urgence. Sautez le petit-déjeuner. Mangez à midi. Apprenez la différence entre vouloir et avoir besoin.", action: "Ne mangez qu'après 12h00." },
+      { n: 28, title: "Courez ou Marchez 5K", text: "28 jours de discipline vous ont amené ici. Bougez votre corps pendant 5 kilomètres. Vous n'êtes plus la même personne qu'au Jour 1.", action: "Complétez 5K — courir, jogger ou marcher." },
+      { n: 29, title: "Enseignez ce que Vous Avez Appris", text: "Partagez une leçon de ce voyage avec un ami, un membre de la famille, un collègue. Enseigner cimente l'apprentissage.", action: "Dites à une personne ce que 30 jours de discipline vous ont appris." },
+      { n: 30, title: "Recommencez — Jour 1", text: "Vous avez fini. Mais la discipline n'a pas de ligne d'arrivée. Recommencez. Cette fois, vous savez qui vous êtes.", action: "Demain est le Jour 1 à nouveau. Serez-vous présent ?" },
+    ],
+  },
+];
+
+const allDays = weeks.flatMap((w) => w.days);
 ---
 
-<Layout title="30 Days of Discipline — Free Guide | Motiva Hub" description="A free 30-day challenge to build unshakable discipline. One small act per day — transforms your life by the end.">
-  <section class="page-head">
-    <div class="container">
-      <p class="kicker" data-i18n="daysKicker">FREE GUIDE</p>
-      <h1 data-i18n-html="daysTitle">30 Days of <em>Discipline</em></h1>
-      <p data-i18n="daysPageSubtitle">A free challenge to build unshakable discipline. One small act per day — transforms your life by the end.</p>
-      <div class="hero-btns" style="margin-top:1.5rem;">
-        <a class="btn-pill" href="#day-1" data-i18n="daysStartDay1">Start Day 1</a>
-        <a class="btn-pill btn-pill-outline" href="/30-days-discipline.pdf" download data-i18n="daysDownloadPdf">Download PDF</a>
-        <a class="btn-pill btn-pill-outline" href="#subscribe" data-i18n="daysGetViaEmail">Get via Email</a>
+<Layout title="30 Jours de Discipline — Guide Gratuit | Motiva Hub" description="Un défi gratuit de 30 jours pour construire une discipline inébranlable. Un petit acte par jour — transforme votre vie à la fin.">
+  <link rel="canonical" href="https://the-motivahub.com/fr/30-days-discipline/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "Outils", "item": "https://the-motivahub.com/fr/tools/" },
+      { "@type": "ListItem", "position": 3, "name": "30 Jours de Discipline", "item": "https://the-motivahub.com/fr/30-days-discipline/" }
+    ]
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "Qu'est-ce que le programme 30 Jours de Discipline ?", "acceptedAnswer": { "@type": "Answer", "text": "Un défi gratuit et pratique de 30 jours. Chaque jour vous donne une petite action qui prend 5 minutes ou moins. Complétez les 30 jours pour construire une discipline et une constance durables." } },
+      { "@type": "Question", "name": "Ai-je besoin d'un compte ?", "acceptedAnswer": { "@type": "Answer", "text": "Non. Tout le programme est gratuit et accessible sur une seule page. Pas d'inscription, pas de connexion, pas de suivi. Venez simplement et faites l'action du jour." } },
+      { "@type": "Question", "name": "Comment ça marche ?", "acceptedAnswer": { "@type": "Answer", "text": "Chaque jour a un défi — une petite action concrète. Commencez au Jour 1, complétez l'action, puis passez au Jour 2. Vous pouvez télécharger la version PDF pour suivre votre progression hors ligne." } }
+    ]
+  })} />
+
+  <!-- Hero -->
+  <section class="d30-hero">
+    <div class="d30-hero-inner">
+      <div class="d30-hero-text">
+        <p class="d30-hero-eyebrow">Un Petit Pas. Chaque Jour.</p>
+        <h1 class="d30-hero-title">30 Jours de<br /><em>Discipline.</em></h1>
+        <p class="d30-hero-sub">Une page. Une action. Chaque jour.</p>
+        <p class="d30-hero-desc">Un programme simple et pratique de 30 jours pour vous aider à construire la constance, prendre le contrôle de vos habitudes et devenir une meilleure version de vous-même.</p>
+        <a href="#day-1" class="d30-hero-cta">Commencer le Jour 1 →</a>
+        <span class="d30-hero-divider"></span>
+        <p class="d30-hero-tagline">Discipline aujourd'hui. Un demain meilleur.</p>
+      </div>
+      <div class="d30-hero-img">
+        <img src="/images/hero-mountain-man.jpg" alt="Personne au sommet d'une montagne au coucher du soleil" loading="eager" width="1024" height="1024" />
+        <p class="d30-hero-img-label">Des actions<br />constantes<br />produisent des<br />résultats<br />extraordinaires.</p>
       </div>
     </div>
   </section>
 
-  <section class="premise">
+  <!-- Benefits -->
+  <section class="d30-benefits">
     <div class="container">
-      <div class="pillars">
-        <div class="pillar">
-          <p class="pillar-num">30</p>
-          <p class="pillar-word">Days</p>
-          <p data-i18n="pillarDaysText">One challenge per day. No excuses.</p>
+      <div class="d30-benefits-grid">
+        <div class="d30-benefit">
+          <div class="d30-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="4" width="18" height="16" rx="2"/><line x1="3" y1="10" x2="21" y2="10"/><line x1="9" y1="4" x2="9" y2="10"/></svg></div>
+          <div><h3>30 Actions Quotidiennes</h3><p>Petits pas pratiques qui se cumulent.</p></div>
         </div>
-        <div class="pillar">
-          <p class="pillar-num">5</p>
-          <p class="pillar-word">Min</p>
-          <p data-i18n="pillarMinText">Each task takes 5 minutes or less.</p>
+        <div class="d30-benefit">
+          <div class="d30-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="22,12 18,12 15,21 9,3 6,12 2,12"/></svg></div>
+          <div><h3>Construire la Constance</h3><p>Créez de vraies habitudes qui durent.</p></div>
         </div>
-        <div class="pillar">
-          <p class="pillar-num">1</p>
-          <p class="pillar-word">Life</p>
-          <p data-i18n="pillarLifeText">One month changes everything.</p>
+        <div class="d30-benefit">
+          <div class="d30-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><path d="M8 14s1.5 2 4 2 4-2 4-2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg></div>
+          <div><h3>Pensé pour la Vraie Vie</h3><p>Simple. Concentré. Pas de perfection requise.</p></div>
+        </div>
+        <div class="d30-benefit">
+          <div class="d30-benefit-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></div>
+          <div><h3>Un Meilleur Vous</h3><p>Plus de clarté, d'énergie et de direction.</p></div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- Day Index Grid -->
+  <section class="d30-journey">
     <div class="container">
-      <div class="feed-head">
-        <p class="kicker" data-i18n="daysWeek1Kicker">Week 1 — Foundation</p>
-        <h2 data-i18n="daysBuildBase">Build the Base</h2>
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">Le Parcours <em>30 Jours</em></h2>
+        <p class="d30-journey-label">30 Jours. Vrais Progrès.</p>
       </div>
-
-      <div class="day-cards">
-        <article class="day-card" id="day-1">
-          <span class="day-num">01</span>
-          <div class="day-body">
-            <h3 data-i18n="day1Title">Wake Up at the Same Time</h3>
-            <p data-i18n="day1Text">Set one alarm. Get out of bed on the first ring. No snooze. Your day starts with discipline, not negotiation.</p>
-            <p class="day-action" data-i18n="day1Action">Challenge: Wake up at 6:00 AM tomorrow. No exceptions.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-2">
-          <span class="day-num">02</span>
-          <div class="day-body">
-            <h3 data-i18n="day2Title">Make Your Bed</h3>
-            <p data-i18n="day2Text">The first small win of the day. A made bed signals: I am in control. Admiral William McRaven was right — it changes the world.</p>
-            <p class="day-action" data-i18n="day2Action">Challenge: Make your bed within 2 minutes of waking up.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-3">
-          <span class="day-num">03</span>
-          <div class="day-body">
-            <h3 data-i18n="day3Title">Cold Shower — 30 Seconds</h3>
-            <p data-i18n="day3Text">End your shower with 30 seconds of cold water. It trains your brain to do hard things voluntarily.</p>
-            <p class="day-action" data-i18n="day3Action">Challenge: Turn the water cold for the last 30 seconds.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-4">
-          <span class="day-num">04</span>
-          <div class="day-body">
-            <h3 data-i18n="day4Title">Write 3 Things You're Grateful For</h3>
-            <p data-i18n="day4Text">Discipline is not just physical. Gratitude trains your mind to see what matters. Write them by hand.</p>
-            <p class="day-action" data-i18n="day4Action">Challenge: Before bed, write 3 gratitudes in a notebook.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-5">
-          <span class="day-num">05</span>
-          <div class="day-body">
-            <h3 data-i18n="day5Title">No Phone for the First Hour</h3>
-            <p data-i18n="day5Text">Your morning belongs to you, not to notifications. The first hour sets the tone for everything.</p>
-            <p class="day-action" data-i18n="day5Action">Challenge: Leave your phone in another room until 7:00 AM.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-6">
-          <span class="day-num">06</span>
-          <div class="day-body">
-            <h3 data-i18n="day6Title">10 Push-Ups</h3>
-            <p data-i18n="day6Text">Discipline lives in the body. Ten push-ups is nothing — but doing them when you don't want to is everything.</p>
-            <p class="day-action" data-i18n="day6Action">Challenge: Drop and do 10 push-ups right now.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-7">
-          <span class="day-num">07</span>
-          <div class="day-body">
-            <h3 data-i18n="day7Title">Review Your Week</h3>
-            <p data-i18n="day7Text">What did you do? What did you skip? Write it down. Self-awareness is the foundation of growth.</p>
-            <p class="day-action" data-i18n="day7Action">Challenge: Spend 10 minutes reviewing your week honestly.</p>
-          </div>
-        </article>
+      <div class="d30-grid">
+        {allDays.map((d) => (
+          <a href={`#day-${d.n}`} class={`d30-grid-item${d.n === 1 ? ' active' : ''}`}>Jour {d.n}</a>
+        ))}
       </div>
     </div>
   </section>
 
-  <section class="feed">
-    <div class="container">
-      <div class="feed-head">
-        <p class="kicker" data-i18n="daysWeek2Kicker">Week 2 — Consistency</p>
-        <h2 data-i18n="daysStackHabits">Stack the Habits</h2>
+  <!-- Day Cards -->
+  {weeks.map((week) => (
+    <section class="d30-week">
+      <div class="container">
+        <div class="d30-week-head">
+          <p class="d30-week-kicker">{week.label}</p>
+          <h2 class="d30-week-title">{week.title}</h2>
+        </div>
+        <div class="d30-days">
+          {week.days.map((d) => (
+            <article class="d30-day-card" id={`day-${d.n}`}>
+              <span class="d30-day-num">{String(d.n).padStart(2, '0')}</span>
+              <div class="d30-day-body">
+                <h3 class="d30-day-title">{d.title}</h3>
+                <p class="d30-day-text">{d.text}</p>
+                <p class="d30-day-action"><strong>Défi :</strong> {d.action}</p>
+              </div>
+            </article>
+          ))}
+        </div>
       </div>
+    </section>
+  ))}
 
-      <div class="day-cards">
-        <article class="day-card" id="day-8">
-          <span class="day-num">08</span>
-          <div class="day-body">
-            <h3 data-i18n="day8Title">Eat One Healthy Meal</h3>
-            <p data-i18n="day8Text">You don't need a diet. You need one good meal. Cook it, eat it slowly, notice how you feel.</p>
-            <p class="day-action" data-i18n="day8Action">Challenge: Prepare and eat one nutritious meal today.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-9">
-          <span class="day-num">09</span>
-          <div class="day-body">
-            <h3 data-i18n="day9Title">Read 10 Pages</h3>
-            <p data-i18n="day9Text">Not a chapter. Not a book. Just 10 pages. Consistency beats intensity every single time.</p>
-            <p class="day-action" data-i18n="day9Action">Challenge: Read 10 pages of any book before bed.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-10">
-          <span class="day-num">10</span>
-          <div class="day-body">
-            <h3 data-i18n="day10Title">Walk 20 Minutes</h3>
-            <p data-i18n="day10Text">Movement is medicine. A 20-minute walk clears your mind, strengthens your body, and builds the habit of showing up.</p>
-            <p class="day-action" data-i18n="day10Action">Challenge: Walk for 20 minutes without your phone.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-11">
-          <span class="day-num">11</span>
-          <div class="day-body">
-            <h3 data-i18n="day11Title">Say No to One Distraction</h3>
-            <p data-i18n="day11Text">One notification ignored. One scroll session skipped. Every "no" to distraction is a "yes" to your future.</p>
-            <p class="day-action" data-i18n="day11Action">Challenge: Identify your biggest distraction and avoid it for 2 hours.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-12">
-          <span class="day-num">12</span>
-          <div class="day-body">
-            <h3 data-i18n="day12Title">Plan Tomorrow Tonight</h3>
-            <p data-i18n="day12Text">Write down your top 3 priorities for tomorrow. Wake up with direction, not confusion.</p>
-            <p class="day-action" data-i18n="day12Action">Challenge: Before bed, write your 3 priorities for tomorrow.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-13">
-          <span class="day-num">13</span>
-          <div class="day-body">
-            <h3 data-i18n="day13Title">5 Minutes of Silence</h3>
-            <p data-i18n="day13Text">Sit alone. No music. No phone. No thoughts — just observe. The mind that can be still can do anything.</p>
-            <p class="day-action" data-i18n="day13Action">Challenge: Sit in complete silence for 5 minutes.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-14">
-          <span class="day-num">14</span>
-          <div class="day-body">
-            <h3 data-i18n="day14Title">Week 2 Review</h3>
-            <p data-i18n="day14Text">Two weeks in. Are you consistent? Write down what worked, what didn't, and what you'll change.</p>
-            <p class="day-action" data-i18n="day14Action">Challenge: Review your progress honestly. Adjust if needed.</p>
-          </div>
-        </article>
+  <!-- Quote -->
+  <section class="d30-quote">
+    <div class="container">
+      <div class="d30-quote-inner">
+        <div class="d30-quote-text-wrap">
+          <p class="d30-quote-label">Mentalité de Discipline</p>
+          <blockquote class="d30-quote-block">« Vous ne vous élevez pas au niveau de vos objectifs. Vous tombez au niveau de <em>vos systèmes</em>. »</blockquote>
+          <p class="d30-quote-attr">— James Clear</p>
+        </div>
+        <div class="d30-quote-img">
+          <img src="/images/path.jpg" alt="Sentier de montagne au lever du soleil" loading="lazy" width="600" height="400" />
+        </div>
       </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- FAQ -->
+  <section class="d30-faq">
     <div class="container">
-      <div class="feed-head">
-        <p class="kicker" data-i18n="daysWeek3Kicker">Week 3 — Challenge</p>
-        <h2 data-i18n="daysPushLimits">Push the Limits</h2>
+      <div class="journal-section-head">
+        <h2 class="journal-section-title">Questions <em>Fréquentes</em></h2>
+        <p class="d30-journey-label">Restons Simples.</p>
       </div>
-
-      <div class="day-cards">
-        <article class="day-card" id="day-15">
-          <span class="day-num">15</span>
-          <div class="day-body">
-            <h3 data-i18n="day15Title">Cold Shower — 1 Minute</h3>
-            <p data-i18n="day15Text">You survived 30 seconds. Now double it. Comfort is the enemy of growth.</p>
-            <p class="day-action" data-i18n="day15Action">Challenge: 1 minute of cold water. Breathe through it.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-16">
-          <span class="day-num">16</span>
-          <div class="day-body">
-            <h3 data-i18n="day16Title">No Complaining for 24 Hours</h3>
-            <p data-i18n="day16Text">Zero complaints. Not about the weather. Not about work. Not about anything. Gratitude replaces complaining.</p>
-            <p class="day-action" data-i18n="day16Action">Challenge: Go the entire day without complaining once.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-17">
-          <span class="day-num">17</span>
-          <div class="day-body">
-            <h3 data-i18n="day17Title">20 Push-Ups + 20 Squats</h3>
-            <p data-i18n="day17Text">The body is getting stronger. Prove it to yourself. Double what you did on Day 6.</p>
-            <p class="day-action" data-i18n="day17Action">Challenge: 20 push-ups and 20 squats. No rest between.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-18">
-          <span class="day-num">18</span>
-          <div class="day-body">
-            <h3 data-i18n="day18Title">Do the Thing You've Been Avoiding</h3>
-            <p data-i18n="day18Text">That email. That conversation. That task. Do it today. Discipline means doing what needs to be done.</p>
-            <p class="day-action" data-i18n="day18Action">Challenge: Complete the one task you've been putting off.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-19">
-          <span class="day-num">19</span>
-          <div class="day-body">
-            <h3 data-i18n="day19Title">Eat Clean All Day</h3>
-            <p data-i18n="day19Text">No junk food. No sugar. No processed food. One clean day shows you what your body is capable of.</p>
-            <p class="day-action" data-i18n="day19Action">Challenge: Eat only whole foods for one full day.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-20">
-          <span class="day-num">20</span>
-          <div class="day-body">
-            <h3 data-i18n="day20Title">Wake Up at 5:00 AM</h3>
-            <p data-i18n="day20Text">You've been training for 20 days. Now wake up an hour earlier. Own the morning before the world owns you.</p>
-            <p class="day-action" data-i18n="day20Action">Challenge: Alarm at 5:00 AM. Out of bed on the first ring.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-21">
-          <span class="day-num">21</span>
-          <div class="day-body">
-            <h3 data-i18n="day21Title">Week 3 Review</h3>
-            <p data-i18n="day21Text">Three weeks. You're not the same person who started. Write down how you've changed.</p>
-            <p class="day-action" data-i18n="day21Action">Challenge: Journal about the person you're becoming.</p>
-          </div>
-        </article>
+      <div class="d30-faq-list">
+        <details class="d30-faq-item">
+          <summary>Qu'est-ce que le programme 30 Jours de Discipline ?</summary>
+          <p>Un défi gratuit et pratique de 30 jours. Chaque jour vous donne une petite action qui prend 5 minutes ou moins. Complétez les 30 jours pour construire une discipline et une constance durables.</p>
+        </details>
+        <details class="d30-faq-item">
+          <summary>Ai-je besoin d'un compte ?</summary>
+          <p>Non. Tout le programme est gratuit et accessible sur une seule page. Pas d'inscription, pas de connexion, pas de suivi. Venez simplement et faites l'action du jour.</p>
+        </details>
+        <details class="d30-faq-item">
+          <summary>Comment ça marche ?</summary>
+          <p>Chaque jour a un défi — une petite action concrète. Commencez au Jour 1, complétez l'action, puis passez au Jour 2. Vous pouvez télécharger la version PDF pour suivre votre progression hors ligne.</p>
+        </details>
       </div>
     </div>
   </section>
 
-  <section class="feed">
+  <!-- PDF Download -->
+  <section class="d30-pdf" id="subscribe">
     <div class="container">
-      <div class="feed-head">
-        <p class="kicker" data-i18n="daysWeek4Kicker">Week 4 — Mastery</p>
-        <h2 data-i18n="daysBecomePerson">Become the Person</h2>
-      </div>
-
-      <div class="day-cards">
-        <article class="day-card" id="day-22">
-          <span class="day-num">22</span>
-          <div class="day-body">
-            <h3 data-i18n="day22Title">2 Minutes of Cold Water</h3>
-            <p data-i18n="day22Text">You've come this far. Two minutes is nothing now. Your mind is stronger than it was on Day 3.</p>
-            <p class="day-action" data-i18n="day22Action">Challenge: 2 minutes cold shower. You've earned this.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-23">
-          <span class="day-num">23</span>
-          <div class="day-body">
-            <h3 data-i18n="day23Title">Help Someone Today</h3>
-            <p data-i18n="day23Text">Discipline is not selfish. Use your strength to lift someone else. A kind word, a helping hand, a moment of your time.</p>
-            <p class="day-action" data-i18n="day23Action">Challenge: Do one act of kindness for someone else.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-24">
-          <span class="day-num">24</span>
-          <div class="day-body">
-            <h3 data-i18n="day24Title">30 Push-Ups + 30 Squats</h3>
-            <p data-i18n="day24Text">Three times what you started with. The body follows the mind. You are proof.</p>
-            <p class="day-action" data-i18n="day24Action">Challenge: 30 push-ups and 30 squats. Feel the difference.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-25">
-          <span class="day-num">25</span>
-          <div class="day-body">
-            <h3 data-i18n="day25Title">No Social Media for 24 Hours</h3>
-            <p data-i18n="day25Text">One full day. No scrolling. No stories. No reels. You'll survive. You might even thrive.</p>
-            <p class="day-action" data-i18n="day25Action">Challenge: Delete apps for 24 hours. Reinstall tomorrow.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-26">
-          <span class="day-num">26</span>
-          <div class="day-body">
-            <h3 data-i18n="day26Title">Write Your Future Self a Letter</h3>
-            <p data-i18n="day26Text">Where will you be in one year? Write to that person. Tell them what you started. Tell them why.</p>
-            <p class="day-action" data-i18n="day26Action">Challenge: Write a letter to yourself, one year from now.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-27">
-          <span class="day-num">27</span>
-          <div class="day-body">
-            <h3 data-i18n="day27Title">Fast Until Lunch</h3>
-            <p data-i18n="day27Text">Hunger is a feeling, not an emergency. Skip breakfast. Eat at noon. Learn the difference between want and need.</p>
-            <p class="day-action" data-i18n="day27Action">Challenge: Eat only after 12:00 PM.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-28">
-          <span class="day-num">28</span>
-          <div class="day-body">
-            <h3 data-i18n="day28Title">Run or Walk 5K</h3>
-            <p data-i18n="day28Text">28 days of discipline led here. Move your body for 5 kilometers. You are not who you were on Day 1.</p>
-            <p class="day-action" data-i18n="day28Action">Challenge: Complete 5K — run, jog, or walk.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-29">
-          <span class="day-num">29</span>
-          <div class="day-body">
-            <h3 data-i18n="day29Title">Teach Someone What You've Learned</h3>
-            <p data-i18n="day29Text">Share one lesson from this journey with a friend, a family member, a colleague. Teaching cements learning.</p>
-            <p class="day-action" data-i18n="day29Action">Challenge: Tell one person what 30 days of discipline taught you.</p>
-          </div>
-        </article>
-
-        <article class="day-card" id="day-30">
-          <span class="day-num">30</span>
-          <div class="day-body">
-            <h3 data-i18n="day30Title">Start Again — Day 1</h3>
-            <p data-i18n="day30Text">You finished. But discipline has no finish line. Start again. This time, you know who you are.</p>
-            <p class="day-action" data-i18n="day30Action">Challenge: Tomorrow is Day 1 again. Will you show up?</p>
-          </div>
-        </article>
+      <div class="d30-pdf-inner">
+        <div class="d30-pdf-text">
+          <p class="d30-pdf-label">Obtenir le PDF</p>
+          <h2>Téléchargez « 30 Jours de Discipline »</h2>
+          <p>Emportez le programme avec vous. Un PDF propre, prêt à imprimer ou à utiliser sur n'importe quel appareil.</p>
+        </div>
+        <div class="d30-pdf-actions">
+          <a href="/30-days-discipline.pdf" download class="d30-pdf-btn">Télécharger le PDF</a>
+          <form class="d30-pdf-form" id="pdf-form" novalidate>
+            <input type="text" name="name" placeholder="Prénom (facultatif)" aria-label="Prénom" autocomplete="name" />
+            <input type="email" name="email" placeholder="Ou recevez-le par email" aria-label="Adresse e-mail" required autocomplete="email" />
+            <button type="submit">Envoyer →</button>
+          </form>
+          <p id="pdf-msg" class="d30-pdf-msg" aria-live="polite"></p>
+        </div>
       </div>
     </div>
   </section>
-
-  <section class="newsletter" id="subscribe">
-    <div class="container">
-      <p class="kicker" data-i18n="daysGetPdfKicker">GET THE PDF</p>
-      <h2 data-i18n="daysDownloadTitle">Download "30 Days of Discipline"</h2>
-      <p class="newsletter-sub" data-i18n="daysDownloadSub">Enter your email and receive the free PDF guide — or download it directly below.</p>
-      <div class="hero-btns" style="margin-bottom:1.5rem;">
-        <a class="btn-pill" href="/30-days-discipline.pdf" download data-i18n="daysDownloadPdfNow">Download PDF Now</a>
-      </div>
-      <form class="newsletter-form" id="pdf-form" novalidate>
-        <input type="text" name="name" placeholder="Name (optional)" aria-label="Name" autocomplete="name" data-i18n-placeholder="daysNamePlaceholder">
-        <input type="email" name="email" placeholder="Your email address *" aria-label="Email address" required autocomplete="email" data-i18n-placeholder="daysEmailPlaceholder">
-        <button type="submit" class="btn-pill btn-pill-cream" data-i18n="daysGetFreePdf">Get the Free PDF</button>
-      </form>
-      <p id="pdf-msg" class="newsletter-note" aria-live="polite"></p>
-      <p class="newsletter-note" data-i18n="daysNoSpam">No spam. Unsubscribe anytime.</p>
-    </div>
-  </section>
-
-  <style>
-    .day-cards { display: flex; flex-direction: column; gap: 1.5rem; margin-top: 2rem; }
-    .day-card {
-      display: flex; gap: 1.5rem; align-items: flex-start;
-      padding: 1.5rem; border-radius: 12px;
-      background: var(--cream); border: 1px solid var(--gold-light);
-      transition: transform 0.2s;
-    }
-    .day-card:hover { transform: translateY(-2px); }
-    .day-num {
-      font-family: var(--font-display); font-size: 2.5rem; font-weight: 700;
-      color: var(--gold); line-height: 1; min-width: 60px; text-align: center;
-    }
-    .day-body h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
-    .day-body p { color: var(--muted); font-size: 0.92rem; line-height: 1.6; }
-    .day-action {
-      margin-top: 0.75rem; padding: 0.75rem 1rem;
-      background: var(--ink); color: var(--cream); border-radius: 8px;
-      font-size: 0.85rem; font-weight: 500;
-    }
-    @media (max-width: 600px) {
-      .day-card { flex-direction: column; gap: 0.75rem; }
-      .day-num { font-size: 2rem; min-width: auto; text-align: left; }
-    }
-  </style>
 
   <script>
-    const pdfForm = document.getElementById("pdf-form");
+    const pdfForm = document.getElementById("pdf-form") as HTMLFormElement | null;
     const pdfMsg = document.getElementById("pdf-msg");
-    const getT = () => {
-      const lang = localStorage.getItem("lang") || "en";
-      return window.i18nDict?.[lang] || window.i18nDict?.en || {};
-    };
     pdfForm?.addEventListener("submit", async (e) => {
       e.preventDefault();
       const fd = new FormData(pdfForm);
       const email = String(fd.get("email") || "").trim();
       const name = String(fd.get("name") || "").trim();
-      const t = getT();
       if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-        if (pdfMsg) { pdfMsg.textContent = t.daysEmailError || "Please enter a valid email address."; pdfMsg.style.color = "#a67c52"; }
+        if (pdfMsg) { pdfMsg.textContent = "Veuillez entrer un email valide."; pdfMsg.style.color = "#ff4d00"; }
         return;
       }
-      if (pdfMsg) { pdfMsg.textContent = t.daysSending || "Sending..."; pdfMsg.style.color = "#6b665e"; }
+      if (pdfMsg) { pdfMsg.textContent = "Envoi en cours..."; pdfMsg.style.color = "#888"; }
       try {
         const res = await fetch("https://formsubmit.co/ajax/raihaneucef@gmail.com", {
           method: "POST",
           headers: { "Content-Type": "application/json", Accept: "application/json" },
           body: JSON.stringify({
-            name: name || "(no name)",
+            name: name || "(sans nom)",
             email,
-            _subject: "New 30 Days of Discipline subscriber",
+            _subject: "Nouvel abonné 30 Jours de Discipline (FR)",
             _template: "table",
-            _response: `Thanks for subscribing! Here is your free PDF: https://the-motivahub.com/30-days-discipline.pdf\n\nStart your 30-day journey now: https://the-motivahub.com/30-days-discipline/\n\n— Motiva Hub`,
-            source: "30-days-discipline-page"
+            _response: "Merci ! Votre PDF gratuit : https://the-motivahub.com/30-days-discipline.pdf",
+            source: "30-days-discipline-page-fr"
           })
         });
         if (res.ok) {
-          if (pdfMsg) {
-            pdfMsg.innerHTML = t.daysThanks || "Thanks! Your PDF is ready. <a href='#day-1' style='color:var(--gold);text-decoration:underline;'>Start Day 1 now →</a>";
-            pdfMsg.style.color = "#121212";
-          }
+          if (pdfMsg) { pdfMsg.textContent = "✓ Vérifiez votre boîte mail pour le lien PDF."; pdfMsg.style.color = "#4caf50"; }
           pdfForm.reset();
         } else throw new Error("failed");
       } catch {
-        if (pdfMsg) { pdfMsg.textContent = t.daysSomethingWrong || "Something went wrong. Please try again."; pdfMsg.style.color = "#a67c52"; }
+        if (pdfMsg) { pdfMsg.textContent = "Une erreur est survenue. Essayez le téléchargement direct."; pdfMsg.style.color = "#ff4d00"; }
       }
     });
   </script>
