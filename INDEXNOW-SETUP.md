@@ -17,27 +17,19 @@ Example: `a1b2c3d4e5f6...` (32 chars)
 - File contents: just the key string
 
 ### 3. Add to Vercel env
-- `INDEXNOW_KEY` = your key
-- `ADMIN_TOKEN` = another secret
+- `INDEXNOW_KEY` = your key (optional — the postbuild script falls back to the deployed key file)
 
 ### 4. Submit URLs
 
-#### Manual via URL:
-```
-GET https://the-motivahub.com/api/admin-indexnow?token=YOUR_ADMIN_TOKEN&urls=/best/books/,/best/focus-books/,/best/habit-books/,/best/stoicism-books/
+#### Automatic (after every build):
+`npm run build` runs `scripts/postbuild-indexnow.mjs`, which reads `dist/sitemap-0.xml` and submits all URLs directly to `api.indexnow.org` using the key file at `public/<KEY>.txt`.
+
+#### Manual bulk run:
+```bash
+node scripts/indexnow-bulk.mjs
 ```
 
-#### Programmatic (after deploy):
-```bash
-curl -X POST https://the-motivahub.com/api/indexnow.js \
-  -H "Content-Type: application/json" \
-  -d '{"urls":["https://the-motivahub.com/best/books/","https://the-motivahub.com/best/focus-books/"]}'
-```
-
-#### Bulk submit all 4 Best of pages:
-```bash
-curl "https://the-motivahub.com/api/admin-indexnow?token=YOUR_TOKEN&urls=/best/books/,/best/focus-books/,/best/habit-books/,/best/stoicism-books/"
-```
+> Note: the old serverless endpoints `api/indexnow.js` and `api/admin-indexnow.js` were removed pre-launch (unused, and the admin one relied on an `ADMIN_TOKEN` env that was never configured). No endpoint replacement is needed — submissions go straight from the build script to IndexNow.
 
 ## Free Backlinks Sources
 1. Reddit: r/selfimprovement, r/books, r/productivity
