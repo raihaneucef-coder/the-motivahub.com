@@ -10,18 +10,25 @@ image: "/images/blog/langage-corps-confiance-1.jpg"
 imageAlt: "Youssef Raihane - langage corps confiance concept"
 topic: "Confidence"
 keywords:
-  - "body"
-  - "confidence"
-  - "language"
-  - "contact"
-  - "project"
-  - "saying"
-  - "voice"
-  - "words"
+  - "body language for confidence"
+  - "how to project confidence without speaking"
+  - "power posing science"
+  - "body language tricks that work"
+  - "nonverbal communication confidence"
+  - "how to look confident in any room"
+  - "open body language tips"
+  - "first impressions body language"
 tags:
   - "confidence"
   - "how-to"
 wordCount: 291
+faq:
+  - q: "Can body language really make you feel confident?"
+    a: "Yes — 'embodied cognition' research shows posture affects hormones and self-perception. Standing tall for 2 minutes increases feelings of power (Carney, 2010). Even if the testosterone effect is debated, the psychological feedback loop is clear: act confident → feel more confident → perform better."
+  - q: "What are the best body language tips for confidence?"
+    a: "1) Shoulders back, chest open. 2) Slow deliberate movements (rushing signals anxiety). 3) Steady eye contact (60-70% of conversation). 4) Take up space — don't cross arms or shrink. 5) Pause before speaking rather than filling silence. These project calm authority in any room."
+  - q: "How do I stop looking nervous in social situations?"
+    a: "Nervousness shows through fidgeting, fast speech, and closed posture. Counter it by: planting both feet flat, holding a warm drink (grounding), and deliberately slowing your walk speed. The 'fake it till you make it' approach actually works for body language — others respond to your signals, which changes their behavior, which makes you genuinely comfortable."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

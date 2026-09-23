@@ -12,17 +12,24 @@ imageAlt: "A counter bowl of fresh fruit with apples, strawberries and kiwi in v
 featured: false
 draft: false
 keywords:
-  - "habits"
-  - "want"
-  - "make"
-  - "good"
-  - "need"
-  - "obvious"
-  - "path"
-  - "keep"
+  - "make good habits obvious"
+  - "first law of behavior change"
+  - "habit cues and triggers"
+  - "atomic habits environment design"
+  - "how to remember good habits"
+  - "visual cues for habits"
+  - "make bad habits invisible"
+  - "habit stacking visual prompts"
 tags:
   - "habits"
 wordCount: 261
+faq:
+  - q: "What does 'make it obvious' mean in habit formation?"
+    a: "The First Law of Behavior Change (James Clear): design your environment so the cue for good habits is impossible to miss. Put your running shoes by the bed, fruit on the counter, book on your pillow. You don't need motivation — you need visibility."
+  - q: "How do I make bad habits invisible?"
+    a: "Remove the cue from your environment entirely. Don't keep junk food in the house. Put your phone in a drawer (not face-down — out of sight). Delete social apps from your home screen. Research shows people who don't have cookies at home eat fewer calories than those who resist temptation daily."
+  - q: "Why are visual cues so powerful for habits?"
+    a: "93% of brain processing is visual, and cues in your sight-line automatically trigger craving and action sequences (Duke University habit research). A guitar on a stand gets played daily; the same guitar in a closet gets forgotten. You're not lazy — you're cue-starved."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

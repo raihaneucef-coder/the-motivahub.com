@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - move daily not perfectly concept"
 featured: false
 draft: false
 keywords:
-  - "perfect"
-  - "daily"
-  - "move"
-  - "need"
-  - "workout"
-  - "goal"
-  - "progress"
-  - "perfectly"
+  - "move every day even imperfectly"
+  - "any exercise is better than none"
+  - "consistency over perfection fitness"
+  - "how to stay active daily"
+  - "imperfect workout still counts"
+  - "movement habit not perfection"
+  - "gentle daily exercise benefits"
+  - "stop all or nothing fitness"
 tags:
   - "wellness"
 wordCount: 236
+faq:
+  - q: "Is a short imperfect workout better than skipping entirely?"
+    a: "Yes. Research shows even 10 minutes of movement improves mood, metabolism, and sleep quality. More importantly, skipping creates a identity break ('I'm not someone who exercises'), while showing up imperfectly maintains the habit chain and the self-image that sustains long-term consistency."
+  - q: "How do I stop the all-or-nothing fitness mindset?"
+    a: "Define your 'B-day workout' — the version you do when life is chaotic. A 15-minute walk counts. 10 pushups count. Stretching for 5 minutes counts. On good days you do more; on hard days you do the minimum. The goal is never zero — it's never breaking the identity of 'someone who moves.'"
+  - q: "What counts as daily movement?"
+    a: "Anything that raises your heart rate or challenges your muscles: walking, gardening, dancing, taking stairs, playing with kids. The WHO recommendation (150 min moderate activity) doesn't require a gym. Seven 20-minute daily walks meet it perfectly. Movement, not workouts, is the health variable."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

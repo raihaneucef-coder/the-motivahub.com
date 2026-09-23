@@ -12,17 +12,24 @@ imageAlt: "Close-up of interlocking clockwork gears turning together"
 featured: false
 draft: false
 keywords:
-  - "motivation"
-  - "room"
-  - "system"
-  - "mood"
-  - "page"
-  - "small"
-  - "habit"
-  - "need"
+  - "motivation fades discipline stays"
+  - "systems over motivation"
+  - "when you have zero motivation"
+  - "build routine without motivation"
+  - "how to keep going when unmotivated"
+  - "motivation is unreliable"
+  - "automatic habits system design"
+  - "do the work without feeling like it"
 tags:
   - "mindset"
 wordCount: 574
+faq:
+  - q: "What happens when motivation completely disappears?"
+    a: "You rely on your system. A system is pre-made decisions: what you do, when, where, for how long. When motivation fades (it always does), you follow the plan mechanically. Athletes don't feel like training daily — they follow a schedule. The system carries you through the 'why bother' phase."
+  - q: "How do I build a system when I can't even start?"
+    a: "Shrink to the absurdly small. Your system isn't 'write a book' — it's 'open the document and write one sentence.' It's not 'work out 1 hour' — it's 'put on gym clothes.' The minimum viable action keeps the chain alive on zero-motivation days, which matters more than big sessions on good days."
+  - q: "Why does discipline feel easier in the morning?"
+    a: "Willpower and decision-making capacity are highest after sleep (prefrontal cortex rested). Every decision you make throughout the day depletes this resource. Morning systems (wake, train, write) run on full battery; evening systems require willpower you've already spent. Design around your biology."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

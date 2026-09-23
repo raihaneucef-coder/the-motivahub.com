@@ -10,17 +10,24 @@ image: "/images/blog/long-ascent-3.jpg"
 imageAlt: "A long trail climbing a green mountain ridge into the clouds"
 topic: "Personal Growth"
 keywords:
-  - "mountain"
-  - "summit"
-  - "growth"
-  - "every"
-  - "climb"
-  - "plateau"
-  - "false"
-  - "long"
+  - "slow progress is still progress"
+  - "why consistency beats speed"
+  - "plateau before breakthrough"
+  - "long term growth mindset"
+  - "patience and persistence in life"
+  - "the compound effect over years"
+  - "why most people quit early"
+  - "marathon not a sprint mentality"
 tags:
   - "personal growth"
 wordCount: 833
+faq:
+  - q: "Why do slow climbers reach the top while sprinters burn out?"
+    a: "Because sustainable pace builds capacity incrementally. Sprinters rely on motivation (finite), deplete adrenals, and crash at the first plateau. Slow climbers build systems, recover between pushes, and treat plateaus as consolidation — they never generate the debt that forces a quit."
+  - q: "What is the 'plateau' in personal growth?"
+    a: "A plateau is a period of apparent no-progress where the body/brain consolidates previous gains. Research on skill acquisition shows S-curves: rapid improvement, then a flat stretch, then another jump. Most people quit during the flat — but it's where the foundation for the next breakthrough is literally built."
+  - q: "How long should you commit before judging results?"
+    a: "Minimum 90 days for physical changes, 6 months for skill acquisition, and 12 months for financial/career shifts. The 'plateau of latent potential' means visible results lag actual progress by weeks. If you haven't given a consistent effort 90 days, you don't have data — you have impatience."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

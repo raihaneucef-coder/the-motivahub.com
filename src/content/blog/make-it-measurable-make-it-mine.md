@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - make it measurable make it mine concept"
 featured: false
 draft: false
 keywords:
-  - "make"
-  - "measurable"
-  - "goal"
-  - "mine"
-  - "means"
-  - "measure"
-  - "night"
-  - "write"
+  - "track your progress daily"
+  - "measurement increases motivation"
+  - "habit tracking method"
+  - "make goals measurable"
+  - "what gets measured gets managed"
+  - "progress journal for habits"
+  - "accountability through tracking"
+  - "quantified self improvement"
 tags:
   - "goals"
 wordCount: 259
+faq:
+  - q: "Why does making goals measurable increase achievement?"
+    a: "Vague goals ('get fit') activate no specific behavior. Measurable goals ('do 30 pushups daily') create a binary tracking system: you either did it or didn't. The clarity eliminates negotiation, and the data shows you whether you're actually progressing or just feeling busy."
+  - q: "How do I track habits without it becoming obsessive?"
+    a: "Use binary tracking: mark X on a calendar (done/not done). Don't record times, calories, or feelings. One visual per habit per day. The goal is 80% consistency — not perfection. If tracking causes anxiety, simplify to once-per-week review until the underlying habit is automatic."
+  - q: "What's the link between measurement and ownership?"
+    a: "When you measure something yourself, it becomes YOUR data — not someone else's judgment. The act of tracking transforms an obligation ('I should exercise') into a personal system ('I'm at day 14 of my streak'). Autonomy and competence are core psychological needs — measurement serves both."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

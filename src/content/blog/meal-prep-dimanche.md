@@ -10,18 +10,25 @@ image: "/images/blog/meal-prep-dimanche-1.jpg"
 imageAlt: "Youssef Raihane - meal prep dimanche concept"
 topic: "Nutrition"
 keywords:
-  - "meal"
-  - "healthy"
-  - "week"
-  - "step"
-  - "meals"
-  - "need"
-  - "sunday"
-  - "hours"
+  - "meal prep for the week"
+  - "how to meal prep on a budget"
+  - "healthy eating made easy"
+  - "meal prep for beginners guide"
+  - "how to prepare 5 days of meals"
+  - "sunday meal prep routine"
+  - "2 hour meal prep ideas"
+  - "batch cooking weekly meals"
 tags:
   - "nutrition"
   - "how-to"
 wordCount: 327
+faq:
+  - q: "How do I meal prep for the week in 2 hours?"
+    a: "Sunday workflow: 1) Preheat oven, season proteins (30 min). 2) While cooking, wash and chop vegetables (20 min). 3) Start grains in a pot (20 min passive). 4) Assemble 5 containers: protein + grain + vegetables + sauce (20 min). You now have Mon-Fri lunches and need only 10 min for dinners."
+  - q: "What foods are best for meal prep?"
+    a: "Choose foods that taste equal or better on day 2-3: roasted chicken, rice/quinoa, sweet potatoes, hard-boiled eggs, lentil soups, stir-fries. Avoid: lettuce (wilts), fried foods (soggy), mayo-based salads. Dress just before eating. Glass containers keep food fresher than plastic."
+  - q: "Does meal prep help with weight loss?"
+    a: "Research shows meal preppers consume 25% more vegetables and reduce fast food frequency by half. The mechanism: when a healthy option is ready in the fridge, decision fatigue disappears. You eat what you prepared instead of ordering takeout at 7pm when willpower is depleted."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
