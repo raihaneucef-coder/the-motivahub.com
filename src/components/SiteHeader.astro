@@ -1,0 +1,126 @@
+---
+import Link from "./Link.astro";
+import MegaMenu from "./MegaMenu.astro";
+import { getPathWithoutLocale } from "../utils/i18n";
+
+// Desktop navigation is visible from 769px up (see global.css .header-nav
+// mobile rule) — on smaller screens the full-screen MegaMenu (opened via the
+// Menu button) is the only navigation, exactly as before this redesign.
+const section = getPathWithoutLocale(Astro.url).split("/").filter(Boolean)[0] || "";
+
+const navItems = [
+  { label: "Journal", href: "/journal/", key: "navJournal", slug: "journal" },
+  { label: "Guides", href: "/guides/", key: "navGuides", slug: "guides" },
+  { label: "Tools", href: "/tools/", key: "navTools", slug: "tools" },
+  { label: "Books", href: "/books/", key: "books", slug: "books" },
+  { label: "Podcast", href: "/podcast/", key: "podcast", slug: "podcast" },
+];
+---
+
+<header class="site-header" id="site-header">
+  <div class="header-inner container">
+    <Link href="/" class="logo logo-text" data-magnetic>
+      <span class="logo-mark" aria-hidden="true">
+        <span class="logo-core"></span>
+        <span class="logo-ring logo-ring--1"></span>
+        <span class="logo-ring logo-ring--2"></span>
+        <span class="logo-dot logo-dot--1"></span>
+        <span class="logo-dot logo-dot--2"></span>
+      </span>
+      <span class="logo-word">Motiva <em>Hub</em></span>
+    </Link>
+
+    <nav class="header-nav" aria-label="Main navigation">
+      {navItems.map((item) => (
+        <Link href={item.href} class={section === item.slug ? "active" : undefined} data-i18n={item.key}>
+          {item.label}
+        </Link>
+      ))}
+    </nav>
+
+    <div class="header-actions">
+      <Link href="/journal/" class="header-search" aria-label="Search articles">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <span data-i18n="headerSearch">Search</span>
+      </Link>
+      <div class="lang-switcher" aria-label="Language switcher">
+        <button class="lang-btn active" data-lang="en" aria-label="Switch to English" aria-pressed="true">EN</button>
+        <span class="lang-sep">/</span>
+        <button class="lang-btn" data-lang="fr" aria-label="Passer en français" aria-pressed="false">FR</button>
+      </div>
+      <button class="menu-btn" id="menu-btn" aria-label="Open menu" data-magnetic>
+        <span data-i18n="menu">Menu</span>
+        <span class="menu-btn-bars"><span></span><span></span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<MegaMenu />
+
+<script>
+  const header = document.getElementById("site-header");
+  const menuBtn = document.getElementById("menu-btn");
+  const menuClose = document.getElementById("menu-close");
+  const overlay = document.getElementById("overlay-menu");
+
+  const onScroll = () => {
+    if (window.scrollY > 40) {
+      header.classList.add("scrolled");
+    } else {
+      header.classList.remove("scrolled");
+    }
+  };
+  window.addEventListener("scroll", onScroll);
+  onScroll();
+
+  const openMenu = () => {
+    overlay.classList.add("open");
+    document.body.style.overflow = "hidden";
+  };
+  const closeMenu = () => {
+    overlay.classList.remove("open");
+    document.body.style.overflow = "";
+  };
+  menuBtn.addEventListener("click", openMenu);
+  menuClose.addEventListener("click", closeMenu);
+  overlay.addEventListener("click", (e) => {
+    const link = e.target.closest("a");
+    if (link) closeMenu();
+  });
+
+  const resetOverlay = () => {
+    overlay.classList.remove("open");
+    document.body.style.overflow = "";
+  };
+
+  const resetPageCurtain = () => {
+    document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
+  };
+
+  window.addEventListener("astro:page-load", () => {
+    resetOverlay();
+    resetPageCurtain();
+  });
+  window.addEventListener("pagehide", () => {
+    resetPageCurtain();
+    resetOverlay();
+    document.body.style.overflow = "";
+  });
+  window.addEventListener("pageshow", (event) => {
+    resetOverlay();
+    resetPageCurtain();
+    document.body.style.overflow = "";
+    if (event.persisted) {
+      document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
+      if (overlay) overlay.classList.remove("open");
+    }
+  });
+
+  setTimeout(() => {
+    document.querySelectorAll(".page-curtain").forEach((el) => el.remove());
+  }, 2000);
+</script>
