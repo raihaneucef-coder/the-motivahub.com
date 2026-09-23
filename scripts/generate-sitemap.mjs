@@ -49,10 +49,19 @@ const STATIC_PAGES = [
   { path: "/objectives/", priority: PRIORITY.static, changefreq: "monthly" },
   { path: "/30-days-discipline/", priority: PRIORITY.static, changefreq: "monthly" },
   { path: "/bio/", priority: PRIORITY.static, changefreq: "monthly" },
-  { path: "/login/", priority: PRIORITY.auth, changefreq: "yearly" },
-  { path: "/register/", priority: PRIORITY.auth, changefreq: "yearly" },
-  { path: "/forgot-password/", priority: PRIORITY.auth, changefreq: "yearly" },
-  { path: "/reset-password/", priority: PRIORITY.auth, changefreq: "yearly" },
+  // Free tools + guides clusters (indexable pages that were missing from the
+  // sitemap since the generator only listed the static routes above).
+  { path: "/tools/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/tools/discipline-quiz/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/tools/habit-stacker/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/tools/meditation-timer/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/tools/cold-shower-tracker/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/tools/reading-calculator/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/guides/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/guides/atomic-habits-ultimate-guide/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/pdf/30-days-discipline/", priority: PRIORITY.static, changefreq: "monthly" },
+  // NOTE: /login/, /register/, /forgot-password/, /reset-password/ are
+  // noindex,nofollow — they must NOT appear in the sitemap.
 ];
 
 // Same rule the pages themselves use for dateModified / article:modified_time:
