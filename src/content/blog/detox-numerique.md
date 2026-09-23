@@ -30,11 +30,10 @@ faq:
     a: "1) You pick up your phone within 5 minutes of waking. 2) You can't watch a full movie without second-screening. 3) You feel anxious when battery drops below 20%. 4) Your 'screen time' stat is over 6 hours. 5) You scroll when you're not actually looking for anything. If 3+ apply, your attention is fragmented."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "calm-is-a-superpower"
+  - "move-daily-not-perfectly"
+  - "nervous-system-is-the-boss"
+  - "rest-is-a-decision-not-a-collapse"
 ---
 
 <div data-i18n-html="article_detox-numerique_p2">The average person spends 7 hours a day on screens. This is destroying your sleep, your focus, and your health. Learn how to take back control.</div>

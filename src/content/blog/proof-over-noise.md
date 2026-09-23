@@ -32,11 +32,10 @@ faq:
     a: "After the work is done. Peter Thiel's 'secret' principle: work in stealth until you have something undeniable, then reveal all at once. Timing your announcement to a completed milestone (not a planned intention) converts noise into proof and gets 10x more respect."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "histoire-concierge-millionnaire"
+  - "histoire-professeur"
+  - "she-started-at-60"
+  - "the-letter-he-never-sent"
 ---
 
 <div data-i18n-html="article_proof-over-noise_p2">The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions.</div>

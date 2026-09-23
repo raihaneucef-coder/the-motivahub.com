@@ -30,11 +30,10 @@ faq:
     a: "Yes — because a purpose-based identity is failure-proof. If your why is 'become someone who never quits,' then one failure doesn't negate the identity. Goal-based motivation breaks after one failure because the metric says you 'failed.' Purpose provides continuity that outcomes can't."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "smart-goals"
+  - "sprint-90-jours"
+  - "systemes-battent-motivation"
+  - "the-goal-behind-the-goal"
 ---
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p2">Every goal has a deeper purpose. Finding your deep why gives you the resilience to keep going when things get hard.</div>

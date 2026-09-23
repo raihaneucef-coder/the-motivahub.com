@@ -33,11 +33,10 @@ faq:
     a: "Attach friendship maintenance to an existing habit (after morning coffee, send one text). Use a recurring reminder on Sunday: 'pick 3 people to reach out to.' Lower the bar: a meme or 'saw this and thought of you' counts. Quality presence matters more than long conversations."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "boundaries-are-love"
+  - "habitude-5-min-relations"
+  - "how-to-argue-without-breaking"
+  - "love-is-a-practice"
 ---
 
 <div data-i18n-html="article_five-minute-friendship-habit_p2">Friendship does not require weekends away — it requires five minutes of real attention, repeated.</div>

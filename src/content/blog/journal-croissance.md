@@ -44,11 +44,10 @@ faqFr:
   - q: "Le journaling fonctionne-t-il vraiment ?"
     a: "Oui. Des travaux de UC Davis et Harvard montrent que l'écriture expressive réduit l'anxiété, améliore l'humeur et augmente le traitement cognitif. L'effet est cumulatif — 10 minutes par jour pendant 30 jours produisent des changements mesurables de conscience de soi et de prise de décision."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "long-ascent"
+  - "regle-1-pourcent"
+  - "secure-self"
+  - "social-muscle"
 ---
 
 <div data-i18n-html="article_journal-croissance_p2"><strong>Journaling works because it forces you to examine your thoughts objectively.</strong> When you write, you understand your thoughts. When you understand them, you can change them. Research shows that 10 minutes of daily writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking.</div>

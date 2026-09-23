@@ -33,11 +33,10 @@ faqFr:
     a: "La volonté est une ressource finie (théorie de l'épuisement de l'ego, Baumeister 1998). Votre cortex préfrontal est plus frais le matin. En dépensant votre pic de volonté sur votre tâche la plus dure, vous éliminez 3 heures d'anxiété de procrastination."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "quiet-power-of-doing-less"
+  - "real-reason-you-procrastinate"
+  - "regle-2-min-productivite"
+  - "slow-productivity-30-day-test"
 ---
 
 <div data-i18n-html="article_eat-the-frog_p2">Mark Twain's productivity secret: eat the frog first thing in the morning. Learn why tackling your hardest task first changes everything.</div>

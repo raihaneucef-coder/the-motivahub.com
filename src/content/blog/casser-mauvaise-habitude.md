@@ -43,11 +43,10 @@ faqFr:
   - q: "Peut-on casser une habitude sans volonté ?"
     a: "Oui. La volonté est une ressource finie. Les quatre lois inversées fonctionnent en supprimant le besoin de volonté. Rendez le déclencheur invisible. Rendez l'habitude peu attractive. Rendez-la difficile. Rendez-la insatisfaisante. L'habitude se casse d'elle-même."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "regle-deux-minutes"
+  - "routine-matin-change-tout"
+  - "small-wins-big-life"
+  - "two-minute-rule-guide"
 ---
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p2">Want to quit smoking, stop procrastinating, or eliminate junk food? Use the reverse four laws to break any bad habit permanently.</div>

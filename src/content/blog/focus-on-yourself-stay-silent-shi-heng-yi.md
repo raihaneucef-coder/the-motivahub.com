@@ -42,11 +42,10 @@ faqFr:
     a: "Concrètement : parlez moins et remarquez combien d'énergie vous récupérez, choisissez une habitude et pratiquez-la chaque jour en silence sans l'annoncer, prenez cette semaine les décisions que vous repoussez par peur du jugement, et faites les choses difficiles sans attendre d'applaudissements. L'essentiel est la régularité faite en silence, pas les mots."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "motivation-fades-systems-dont"
+  - "puissance-dialogue-interieur"
+  - "resilience-mentale"
+  - "secret-reussite"
 ---
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p2">In a noisy world of opinions and comparisons, the most powerful move is to turn inward: focus, silence, discipline, and self-mastery.</div>

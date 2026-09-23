@@ -45,11 +45,10 @@ faqFr:
   - q: "Pourquoi cela marche mieux qu'une routine matinale complète ?"
     a: "Parce que petit + durable bat grand + abandonné. Une habitude de 5 minutes survit aux mauvaises journées. Une routine de 30 minutes meurt au premier mardi de maladie. La version la plus courte de la bonne habitude l'emporte sur la version la plus longue."
 relatedArticles:
-  - "i-tested-12-morning-routines"
-  - "routine-matin-change-tout"
-  - "the-morning-athlete"
-  - "habit-stacking-routine"
+  - "nervous-system-reset-focus"
+  - "regle-21-jours"
   - "regle-deux-minutes"
+  - "routine-matin-change-tout"
 ---
 
 <div data-i18n-html="article_5-minute-morning-habit_p2"><strong>A 5-minute morning habit</strong> beats a 30-minute routine because small + sustainable > big + abandoned. The most effective is the 3-priority brain dump: write down the 3 most important tasks for the day, in order, on a single piece of paper. Takes 60 seconds. Prevents 60+ minutes of decision-making throughout the day. Do it before checking email, before handing your priorities to someone else.</div>

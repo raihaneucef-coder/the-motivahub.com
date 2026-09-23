@@ -30,11 +30,10 @@ faq:
     a: "That identity is deeper than achievement. The comeback isn't about winning again — it's about discovering you were never just the win. Each 'retired' athlete who rebuilds proves the core trait was never the medal: it was the willingness to show up when no one is watching."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "she-started-at-60"
+  - "the-letter-he-never-sent"
+  - "the-shop-that-stayed-open"
+  - "two-friends-one-promise"
 ---
 
 <div data-i18n-html="article_histoire-athlete-recommence_p2">She lost her medal, her sponsor, and her reputation. But she gained something more valuable — the ability to start again.</div>

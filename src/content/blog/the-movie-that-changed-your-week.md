@@ -32,11 +32,10 @@ faq:
     a: "No, but audit the ratio. If 100 percent of your media consumption is pure escapism with no emotional or intellectual residue, you might be using distraction to avoid processing. The goal is not elevate everything but ensure at least one weekly input leaves you thinking differently." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "play-is-practice-for-life"
+  - "play-on-purpose"
+  - "podcasts-education"
+  - "regarder-intentionnellement"
 ---
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p2">A good film does not just entertain — it rearranges you. Choose stories that profit your life.</div>

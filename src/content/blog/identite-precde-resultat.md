@@ -37,11 +37,10 @@ faqFr:
     a: "Les objectifs créent un binaire succès/échec. L'identité crée un spectre continu — chaque action soutient ou contredit qui vous croyez être. Le changement basé sur l'identité est auto-entretenu car il ne nécessite pas d'atteindre une ligne d'arrivée."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "environnement-beat-volonte"
+  - "habit-stacking-made-simple"
+  - "habit-stacking-routine"
+  - "how-to-read-30-books-a-year"
 ---
 
 <div data-i18n-html="article_identite-precde-resultat_p2">The most powerful habit strategy is not about what you do — it is about who you are. Learn how identity-based habits create lasting change.</div>

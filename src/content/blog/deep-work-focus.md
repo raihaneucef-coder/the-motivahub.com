@@ -44,11 +44,10 @@ faqFr:
     a: "Non. Le flow est l'état où le travail semble sans effort et se nourrit lui-même, et il n'arrive généralement qu'après un certain temps passé sur une tâche adaptée à votre niveau. Le deep work comprend les dix premières minutes difficiles, la révision pénible et les parties qui ne font jamais plaisir. On veut le flow, mais une session réussie se juge à ce qui a été terminé, pas à la sensation."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "pouvoir-elimination"
+  - "productivite-efficace"
+  - "quiet-power-of-doing-less"
+  - "real-reason-you-procrastinate"
 ---
 
 <div data-i18n-html="article_deep-work-focus_p2">Deep work is the ability to focus without distraction on a cognitively demanding task. Learn how to develop this rare skill and multiply your output.</div>

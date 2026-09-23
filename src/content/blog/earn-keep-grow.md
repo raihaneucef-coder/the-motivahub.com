@@ -35,11 +35,10 @@ faqFr:
     a: "Toujours : gagner → garder → faire grandir. D'abord maximiser le revenu. Ensuite contrôler les dépenses. Enfin investir la différence. Essayer d'investir tout en étant endetté est l'erreur n°1 du débutant."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "invest-like-beginner"
+  - "investir-debutant"
+  - "paycheck-trap"
+  - "price-of-freedom"
 ---
 
 <div data-i18n-html="article_earn-keep-grow_p2">Money is not one skill but three — earning, keeping and growing. Most people master only one. Freedom begins when you practice all three.</div>

@@ -32,11 +32,10 @@ faq:
     a: "4-7-8 pattern: inhale 4 counts, hold 7, exhale 8. Repeat 4 cycles (about 90 seconds). Then one physiological sigh (double-inhale plus long exhale) to finish. Combined: 2 minutes exactly, resets heart rate variability, and requires zero equipment or private space." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "calm-is-a-superpower"
+  - "detox-numerique"
+  - "move-daily-not-perfectly"
+  - "nervous-system-is-the-boss"
 ---
 
 <div data-i18n-html="article_two-minute-breath-reset_p2">You cannot think your way calm — you breathe your way there. Two minutes is enough to change your state.</div>

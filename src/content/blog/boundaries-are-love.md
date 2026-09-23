@@ -42,11 +42,10 @@ faqFr:
   - q: "Les limites peuvent-elles sauver une relation ?"
     a: "Oui. Le ressentiment est presque toujours une limite qui n'a pas été dite à temps. Dites-la tôt, simplement, sans reproche. La relation qui survit à la limite est celle qui était vraie."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "how-to-argue-without-breaking"
+  - "love-is-a-practice"
+  - "people-who-raise-your-floor"
+  - "resolution-conflits"
 ---
 
 <div data-i18n-html="article_boundaries-are-love_p2">Loving yourself is a verb. Saying no is the verb. Here is how to build walls that protect relationships instead of breaking them — without losing the people you love.</div>

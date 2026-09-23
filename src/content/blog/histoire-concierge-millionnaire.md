@@ -44,11 +44,10 @@ faqFr:
     a: "Que la richesse est avant tout un comportement plutôt qu'un revenu. Une épargne régulière, un train de vie qui n'a jamais gonflé au rythme des gains et des durées de détention très longues battent les gros paris ponctuels. La leçon transférable, c'est l'habitude — vivre en dessous de ses moyens et laisser les intérêts composés agir — et non ses choix de titres précis."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "proof-over-noise"
+  - "she-started-at-60"
+  - "the-letter-he-never-sent"
+  - "the-shop-that-stayed-open"
 ---
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p2">Ronald Read cleaned floors for 25 years. When he died, he left behind 8 million dollars. His story proves that wealth is built with patience, not shortcuts.</div>

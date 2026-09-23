@@ -32,11 +32,10 @@ faq:
     a: "Achieving requires one decision; keeping requires ten thousand small ones. After reaching a goal, identity shifts from 'pursuer' to 'maintainer' — and humans adapt to comfort (hedonic treadmill). The solution: make maintenance itself a new system, not something you do only when you feel like it."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "invest-like-beginner"
+  - "investir-debutant"
+  - "paycheck-trap"
+  - "regle-50-30-20"
 ---
 
 <div data-i18n-html="article_price-of-freedom_p2">Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns.</div>

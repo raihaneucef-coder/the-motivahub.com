@@ -32,11 +32,10 @@ faq:
     a: "1) Eggs (6g each, ~0.20€/unit). 2) Lentils (18g per cooked cup, cheapest per gram). 3) Canned sardines (25g/tin + omega-3s). 4) Greek yogurt (15g/100g). 5) Chicken thighs (26g/100g, cheaper than breast). 6) Cottage cheese. 7) Peanut butter (8g per tbsp)."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "hydratation-performance"
+  - "jeune-intermittent"
+  - "meal-prep-dimanche"
+  - "the-plate-that-keeps-you-steady"
 ---
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p2">Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive.</div>

@@ -31,11 +31,10 @@ faq:
     a: "Healthy conflict: specific issue, both voices heard, repair attempts accepted, outcome is closer understanding. Destructive: character attacks, stonewalling, score-keeping, outcome is resentment. The goal isn't to eliminate conflict — happy couples argue 4-6 times/week. The HOW matters, not the WHETHER."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "how-to-argue-without-breaking"
+  - "love-is-a-practice"
+  - "people-who-raise-your-floor"
+  - "styles-attachement"
 ---
 
 <div data-i18n-html="article_resolution-conflits_p2">Every relationship has conflict. The question is not whether you will fight — it is how. Learn to fight fairly and strengthen your bond.</div>

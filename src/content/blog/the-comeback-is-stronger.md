@@ -32,11 +32,10 @@ faq:
     a: "Research (Tedeschi and Calhoun, 1996) shows 70% of people who endure severe crises report positive transformation: deeper relationships, personal strength recognition, life appreciation, spiritual development, and new possibilities. The setback does not cause growth; processing the setback builds the capacity that becomes unshakeable."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "journal-croissance"
+  - "long-ascent"
+  - "regle-1-pourcent"
+  - "secure-self"
 ---
 
 <div data-i18n-html="article_the-comeback-is-stronger_p2">Every setback is a setup for a stronger comeback. Your greatest growth is not in never falling — it is in rising with more fire.</div>

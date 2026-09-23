@@ -32,11 +32,10 @@ faq:
     a: "Willpower requires a decision; stacking piggybacks on an already-automatic neural pathway. Research (Gollwitzer, 1999) shows 'implementation intentions' (specific when-then plans) double follow-through. You're not trying harder — you're leveraging existing brain architecture."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "identity-challenge-7-days"
+  - "make-good-habits-obvious"
+  - "missed-day-protocol"
 ---
 
 <div data-i18n-html="article_habit-stacking-made-simple_p2">The easiest way to build a new habit is to tie it to one you already do. Stack it, don't start it from scratch.</div>

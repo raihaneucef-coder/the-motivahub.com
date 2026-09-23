@@ -44,11 +44,10 @@ faqFr:
   - q: "Être résilient, est-ce ne jamais ressentir de douleur ?"
     a: "Non. La résilience, c'est ressentir la douleur et choisir d'avancer quand même. La personne résiliente n'évite pas les tempêtes — elle apprend à danser sous la pluie. La différence entre résilience et refoulement : le refoulement cache la douleur. La résilience la traite et continue d'avancer."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "growth-mindset-rewire"
+  - "habitudes-mentales-performants"
+  - "identity-precedes-outcome"
+  - "mindset-etat-esprit"
 ---
 
 <div data-i18n-html="article_resilience-mentale_p2"><strong>Mental resilience is a trainable skill, not a fixed trait.</strong> Neuroscience shows that your parasympathetic nervous system — the recovery system — can be trained through specific practices. Resilient people recover from stress faster not because they feel less, but because their recovery system is better trained. You can develop this through breathwork, reframing, and the 2-day rule.</div>

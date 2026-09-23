@@ -30,11 +30,10 @@ faq:
     a: "Yes, for sessions over 60-90 minutes or heavy sweating. Water alone dilutes blood sodium, risking hyponatremia. A pinch of salt + squeeze of lemon in your bottle, or a commercial electrolyte tab (300-500mg sodium), maintains fluid balance and prevents cramps in prolonged exercise."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "meal-prep-dimanche"
+  - "protein-is-not-just-for-athletes"
+  - "the-plate-that-keeps-you-steady"
+  - "water-before-willpower"
 ---
 
 <div data-i18n-html="article_hydratation-performance_p2">Dehydration reduces performance by up to 25%. Water is the simplest, cheapest, and most effective performance enhancer available.</div>

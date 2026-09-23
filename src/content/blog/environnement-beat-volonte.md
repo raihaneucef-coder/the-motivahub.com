@@ -30,11 +30,10 @@ faq:
     a: "Yes. A Northwestern University study found kitchen environment predicted BMI better than exercise frequency. A clean desk increases focus; visible books increase reading; an unmade bed triggers procrastination. You don't rise above your environment — you fall to it."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "habit-stacking-routine"
+  - "how-to-read-30-books-a-year"
+  - "i-tested-12-morning-routines"
+  - "identite-precde-resultat"
 ---
 
 <div data-i18n-html="article_environnement-beat-volonte_p2">Stop relying on willpower to build habits. Design your environment for success and make good habits automatic.</div>

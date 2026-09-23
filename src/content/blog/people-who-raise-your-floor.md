@@ -32,11 +32,10 @@ faq:
     a: "You don't need to cut people — you need to add. Join a running club, book group, or mastermind where 'raising the floor' people gather naturally. Proximity to new standards does the work. Old friends fade without confrontation when they're replaced in calendar time, not in loyalty."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "habitude-5-min-relations"
+  - "how-to-argue-without-breaking"
+  - "love-is-a-practice"
+  - "resolution-conflits"
 ---
 
 <div data-i18n-html="article_people-who-raise-your-floor_p2">You do not rise to the level of your goals — you fall to the level of the people around you. Choose the room that raises your floor.</div>

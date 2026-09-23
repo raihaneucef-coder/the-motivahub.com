@@ -40,11 +40,10 @@ faqFr:
   - q: "La discipline, est-ce être dur avec soi-même ?"
     a: "Non. La discipline est bienveillante. Elle comprend les jours de repos, la règle des 2 jours et la porte des 2 minutes. L'autopunition est cruelle. Elle n'a ni rétablissement, ni bonté, ni identité. Le test : le travail construit-il quelque chose ou détruit-il quelque chose ? S'il construit, c'est de la discipline. S'il détruit, c'est une punition déguisée en discipline."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "echec-retroaction"
+  - "mythe-reussite-instantanee"
+  - "psychology-of-money-business"
+  - "success-is-a-direction"
 ---
 
 <div data-i18n-html="article_discipline-depass-motivation_p2"><strong>Motivation gets you started. Discipline keeps you going.</strong> Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. The most successful people do not rely on motivation — they rely on systems that make discipline automatic. The difference matters most on the days you feel like quitting.</div>

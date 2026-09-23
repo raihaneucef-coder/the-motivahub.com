@@ -34,11 +34,10 @@ faqFr:
     a: "La plupart des gens récupèrent 5 à 10 heures par semaine en remplaçant la musique ou le scroll pendant les trajets, l'exercice et les tâches ménagères. À 1 heure par jour, cela fait 365 heures par an."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "lire-divertissement"
+  - "play-is-practice-for-life"
+  - "play-on-purpose"
+  - "regarder-intentionnellement"
 ---
 
 <div data-i18n-html="article_podcasts-education_p2">Podcasts turn dead time into learning time. Commuting, exercising, cooking — all become education. Here is how to use podcasts effectively.</div>

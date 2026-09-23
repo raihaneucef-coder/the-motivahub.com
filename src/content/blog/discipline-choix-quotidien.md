@@ -33,11 +33,10 @@ faqFr:
     a: "La motivation est émotionnelle et peu fiable — elle disparaît quand vous êtes fatigué ou stressé. La discipline est une décision indépendante des sentiments. La motivation démarre les habitudes ; la discipline les soutient."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
   - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "inconfort-volontaire"
+  - "pouvoir-du-non"
+  - "regle-40-pourcent"
 ---
 
 <div data-i18n-html="article_discipline-choix-quotidien_p2">Discipline is not a trait you are born with. It is a choice you make daily. Learn how to choose discipline over comfort, again and again.</div>

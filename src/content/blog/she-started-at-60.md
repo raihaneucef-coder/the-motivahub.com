@@ -32,11 +32,10 @@ faq:
     a: "Their discomfort often reflects their own unlived ambitions. Reframe: you have 20-30 productive years ahead. At 60, someone who starts today will have 10,000 hours of mastery by 70. The research is clear: regret of inaction outweighs regret of failed action by 3:1 (Gilovich, Cornell)."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "histoire-athlete-recommence"
+  - "histoire-concierge-millionnaire"
+  - "histoire-professeur"
+  - "proof-over-noise"
 ---
 
 <div data-i18n-html="article_she-started-at-60_p2">Everyone told her she was too late. She started anyway, and the late start became the advantage.</div>

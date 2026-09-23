@@ -38,11 +38,10 @@ faqFr:
     a: "Oui. La neuroplasticité permet au cerveau de s'adapter à tout âge. La clé est la surcharge progressive — commencez par de petits défis, augmentez la difficulté graduellement."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
   - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "inconfort-volontaire"
+  - "pouvoir-du-non"
+  - "regle-40-pourcent"
 ---
 
 <div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p2">You are not born unbreakable. You become unbreakable — repetition after repetition, inside the discomfort other people spend their lives avoiding. This is a five-part training guide for building a mind that holds under pressure.</div>

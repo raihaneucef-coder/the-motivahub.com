@@ -30,11 +30,10 @@ faq:
     a: "Yes, when it's 'upward comparison' used for information, not self-judgment. Watching someone 2 steps ahead shows you the next move. The toxic version is measuring the gap between your Chapter 1 and their Chapter 20 and concluding you're worthless. Use others as maps, not mirrors."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "growth-mindset-rewire"
+  - "habitudes-mentales-performants"
+  - "identity-precedes-outcome"
+  - "mindset-etat-esprit"
 ---
 
 <div data-i18n-html="article_comparison-trap_p2">Comparison is the thief of joy — and also of focus, savings, friendships, and sleep. Five years of tracking my digital habits revealed one truth: the cure is not what I expected.</div>

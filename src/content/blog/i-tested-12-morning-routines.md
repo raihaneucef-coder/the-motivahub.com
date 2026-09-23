@@ -46,10 +46,9 @@ faqFr:
   - q: "C'est quoi Miracle Morning de Hal Elrod ?"
     a: "Miracle Morning est une routine en six étapes appelée SAVERS : Silence, Affirmations, Visualisation, Exercise, Reading, Scribing (écriture journalière). Chaque étape prend 5 à 10 minutes. Total : 30 à 60 minutes. Populaire, mais pas universelle."
 relatedArticles:
-  - "routine-matin-change-tout"
-  - "routine-matin-sante"
-  - "the-morning-athlete"
-  - "atomic-habits-review"
+  - "ne-brise-jamais-chaine"
+  - "nervous-system-reset-focus"
+  - "regle-21-jours"
   - "regle-deux-minutes"
 ---
 

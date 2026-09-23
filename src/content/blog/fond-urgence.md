@@ -30,11 +30,10 @@ faq:
     a: "Yes. Without a cash buffer, the first car repair forces you to sell investments (possibly at a loss) or go into credit-card debt at 20%+. One month of expenses saved gives you the psychological stability to actually stay invested long-term — which is where all returns come from."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "invest-like-beginner"
+  - "investir-debutant"
+  - "paycheck-trap"
+  - "price-of-freedom"
 ---
 
 <div data-i18n-html="article_fond-urgence_p2">An emergency fund is not optional — it is essential. Without one, a single unexpected expense can derail your entire financial life.</div>

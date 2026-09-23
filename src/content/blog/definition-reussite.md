@@ -30,11 +30,10 @@ faq:
     a: "Absolutely — and that's healthy. Success at 20 might be learning and adventure. At 30, building. At 40, depth and meaning. The danger is locking your definition at one stage and judging yourself by outdated metrics. Revisit your personal definition annually — your values evolve and that's not failure, it's growth."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "discipline-depass-motivation"
+  - "echec-retroaction"
+  - "mythe-reussite-instantanee"
+  - "psychology-of-money-business"
 ---
 
 <div data-i18n-html="article_definition-reussite_p2">Success is not a one-size-fits-all formula. What works for someone else may not work for you. Learn to define success on your own terms.</div>

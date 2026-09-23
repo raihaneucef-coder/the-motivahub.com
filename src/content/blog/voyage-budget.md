@@ -31,11 +31,10 @@ faq:
     a: "The research on experiential spending (Van Boven, Cornell) shows experiences create more lasting happiness than possessions regardless of comfort level. A shared bathroom teaches cultural connection a resort never will. Discomfort IS the experience when it strips away the filtered tourist bubble." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "the-detour-is-the-destination"
+  - "voyage-lent"
+  - "voyage-sante-mentale"
+  - "voyage-solo"
 ---
 
 <div data-i18n-html="article_voyage-budget_p2">Travel does not have to be expensive. With the right strategies, you can see the world on a shoestring budget. Here is how.</div>

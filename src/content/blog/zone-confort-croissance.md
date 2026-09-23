@@ -30,11 +30,10 @@ faq:
     a: "Only if comfort becomes a cage. Comfort zone expansion is not about constant suffering; it is about choosing which comforts you want and earning them through graduated challenge. A life of zero stretch creates fragility: you are not choosing safety, you are being held hostage by fear." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "long-ascent"
+  - "regle-1-pourcent"
+  - "secure-self"
+  - "social-muscle"
 ---
 
 <div data-i18n-html="article_zone-confort-croissance_p2">Your comfort zone is a beautiful place, but nothing grows there. Learn why stepping into discomfort is the only path to growth.</div>

@@ -37,11 +37,10 @@ faqFr:
     a: "Chaque matin, regardez-vous dans le miroir et écrivez sur des post-its vos faiblesses honnêtes et les actions spécifiques pour les corriger. Sans édulcoration. Cela construit l'honnêteté radicale envers soi-même."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
+  - "discipline-choix-quotidien"
+  - "discipline-personnelle-guide"
   - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "inconfort-volontaire"
 ---
 
 <div data-i18n-html="article_regles-goggins-mental_p2">The 5 cold rules of David Goggins to forge mental toughness, embrace discomfort, and become mentally unbreakable. Practical strategies you can apply today.</div>

@@ -32,11 +32,10 @@ faq:
     a: "A goal is a finish line: hit it, done, empty. Direction is a heading: you never arrive at being healthier or more creative, you simply check daily if you are still oriented correctly. Goals without direction create burnout cycles; direction without goals creates drift."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "mythe-reussite-instantanee"
+  - "psychology-of-money-business"
+  - "success-leaves-traces"
+  - "the-cost-of-success"
 ---
 
 <div data-i18n-html="article_success-is-a-direction_p2">Stop waiting to arrive. Success is not a place you reach — it is the way you walk.</div>

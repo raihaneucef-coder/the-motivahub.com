@@ -37,11 +37,10 @@ faqFr:
     a: "Commencez par : (1) 30 secondes d'eau froide sous la douche, (2) pas de téléphone la première heure, (3) une répétition de plus à la salle, (4) 5 minutes de silence, (5) les escaliers."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
+  - "discipline-choix-quotidien"
+  - "discipline-personnelle-guide"
   - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "pouvoir-du-non"
 ---
 
 <div data-i18n-html="article_inconfort-volontaire_p2">Why the most successful people deliberately choose discomfort — and how voluntary suffering builds the mental strength that makes everything else easy.</div>

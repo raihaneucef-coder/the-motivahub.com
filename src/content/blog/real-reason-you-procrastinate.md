@@ -30,11 +30,10 @@ faq:
     a: "Chronic procrastination overlaps with ADHD (executive dysfunction, time blindness) but isn't identical. ADHD procrastination is neurological; situational procrastination is emotional. If procrastination affects all life domains since childhood, consider professional evaluation. For most adults, it's a specific avoidance pattern, not a disorder."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "productivite-efficace"
+  - "quiet-power-of-doing-less"
+  - "regle-2-min-productivite"
+  - "slow-productivity-30-day-test"
 ---
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p2">Procrastination is not a character flaw — it is your brain avoiding a feeling. Understand the mechanism and you can finally beat it.</div>

@@ -33,11 +33,10 @@ faqFr:
     a: "Utilisez le filtre des 3 questions : (1) Si je ne faisais pas déjà ceci, commencerais-je aujourd'hui ? (2) Est-ce que cela sert mon objectif n°1 ? (3) Que se passe-t-il si j'arrête complètement ? Si la réponse est « rien d'important » — éliminez."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "batching-productivite"
+  - "deep-work-focus"
+  - "deep-work-ritual"
+  - "eat-the-frog"
 ---
 
 <div data-i18n-html="article_pouvoir-elimination_p2">Productivity is not about doing more things. It is about doing fewer things — but the right ones. Learn the art of strategic elimination.</div>

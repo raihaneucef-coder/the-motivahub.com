@@ -30,11 +30,10 @@ faq:
     a: "Goals have finish lines — once achieved, motivation collapses. Identity is continuous: 'I am a writer' doesn't end after one book. Research on possible selves (Markus & Nurius) shows people act consistently with their self-concept, making identity the most durable behavior driver."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "identity-precedes-outcome"
+  - "mindset-etat-esprit"
+  - "motivation-fades-systems-dont"
+  - "puissance-dialogue-interieur"
 ---
 
 <div data-i18n-html="article_viral-mindset-shift_p2">A powerful mindset clip, 27 seconds long: identity precedes outcome. Here is the full story behind a transformative idea on motivation.</div>

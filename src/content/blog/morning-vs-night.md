@@ -53,11 +53,10 @@ faqFr:
   - q: "C'est quoi la règle des 2 jours appliquée à l'horaire ?"
     a: "La règle des 2 jours (utilisée aussi après un jour raté) s'applique au moment : si vous ne pouvez pas faire l'habitude à votre heure habituelle, faites-la dans les 2 heures autour. Même jour, près de la même heure. Cela prévient la dérive de l'horaire, qui tue plus souvent les habitudes que le simple fait de rater un jour."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
+  - "identite-precde-resultat"
   - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "identity-challenge-7-days"
+  - "make-good-habits-obvious"
 ---
 
 <div data-i18n-html="article_morning-vs-night_p2">Chronotype science, not willpower, decides which discipline routine will survive. The data on morning vs evening routines — and the 4-question test that tells you which one will work for you.</div>

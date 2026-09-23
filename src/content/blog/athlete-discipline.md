@@ -42,11 +42,10 @@ faqFr:
   - q: "La discipline, est-ce la même chose que la motivation ?"
     a: "Non. La motivation est un sentiment. La discipline est une pratique. La motivation va et vient. La discipline, c'est ce que vous faites quand la motivation est partie."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "inconfort-volontaire"
+  - "pouvoir-du-non"
+  - "regle-40-pourcent"
+  - "regles-goggins-mental"
 ---
 
 <div data-i18n-html="article_athlete-discipline_p2"><strong>Athlete discipline is the ability to do the boring, repetitive work every day, even when no one is watching.</strong> It is not about talent. It is about showing up when motivation is low and the results are not visible. Champions are not made in the moment of victory. They are made in the thousands of hours of preparation that no one sees.</div>

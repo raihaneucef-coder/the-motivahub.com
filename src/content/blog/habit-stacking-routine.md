@@ -37,11 +37,10 @@ faqFr:
     a: "Parce qu'il exploite des voies neuronales existantes. Votre cerveau exécute déjà l'habitude ancre en mode automatique. En enchaînant une nouvelle action, vous sautez l'étape de décision qui cause la procrastination."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "regle-21-jours"
+  - "regle-deux-minutes"
+  - "routine-matin-change-tout"
+  - "small-wins-big-life"
 ---
 
 <div data-i18n-html="article_habit-stacking-routine_p2">Learn how to chain your habits together using habit stacking. A proven method to create automatic routines without willpower.</div>

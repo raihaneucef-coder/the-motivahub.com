@@ -31,11 +31,10 @@ faq:
     a: "Prepare the night before (lay out clothes, set the coffee). Never miss twice in a row. Start at your natural wake time — don't jump to 5am overnight. Track streaks visually (calendar X method). After 66 days the routine feels automatic and skipping feels worse than doing it."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "nervous-system-reset-focus"
+  - "regle-21-jours"
+  - "regle-deux-minutes"
+  - "small-wins-big-life"
 ---
 
 <div data-i18n-html="article_routine-matin-change-tout_p2">The most successful people in the world have one thing in common: a non-negotiable morning routine. Here is how to build yours.</div>

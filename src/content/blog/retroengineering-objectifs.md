@@ -31,11 +31,10 @@ faq:
     a: "Forward planning lets you add tasks that don't serve the goal. Reverse planning forces every action to justify its place because each step is derived from the endpoint. Studies on implementation intentions show specific backward plans double follow-through versus vague goal-setting."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "goals-are-a-compass-not-a-cage"
+  - "make-it-measurable-make-it-mine"
+  - "one-target-at-a-time"
+  - "pourquoi-profond-objectifs"
 ---
 
 <div data-i18n-html="article_retroengineering-objectifs_p2">The most effective way to achieve any goal is to start at the end and work backward. Learn the reverse engineering method for goal achievement.</div>

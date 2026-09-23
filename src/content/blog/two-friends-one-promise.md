@@ -44,11 +44,10 @@ faqFr:
   - q: "Et si mon partenaire abandonne ?"
     a: "Alors vous continuez seul. L'habitude n'a jamais concerné le partenaire — elle concernait la promesse. Le partenaire est une roue stabilisatrice. La promesse est la structure. Si le partenaire part, vous tenez la promesse faite à vous-même. L'habitude survit. La communauté, peut-être pas ; la discipline, si."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "histoire-athlete-recommence"
+  - "histoire-concierge-millionnaire"
+  - "histoire-professeur"
+  - "proof-over-noise"
 ---
 
 <div data-i18n-html="article_two-friends-one-promise_p2"><strong>Accountability to a friend is 2-3x more effective than self-discipline alone.</strong> The social commitment creates a different kind of pressure — not shame, but mutual respect. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel something stronger. That difference is what keeps the habit alive on the days motivation fails.</div>

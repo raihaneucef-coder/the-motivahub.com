@@ -32,11 +32,10 @@ faq:
     a: "Ultradian rhythm research: a 90-minute focus cycle followed by 15-20 min down-regulation (walk, stare out window, breathe). Plus: one full day off weekly and 10-14 vacation days annually for cortisol recovery. More than 2 hours of TV scrolling is NOT rest — it's passive stimulation that doesn't restore."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "detox-numerique"
+  - "move-daily-not-perfectly"
+  - "nervous-system-is-the-boss"
+  - "routine-matin-sante"
 ---
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p2">There is a difference between resting on purpose and collapsing because you ran out of resistance. Only one of them recovers you.</div>

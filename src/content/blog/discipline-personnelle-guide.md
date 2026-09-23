@@ -38,11 +38,10 @@ faqFr:
     a: "La recherche de l'UCL (2010) montre que les habitudes se forment en 66 jours en moyenne. Les 2 premières semaines sont les plus difficiles. Après 30 jours de pratique cohérente, la discipline devient automatique."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
+  - "discipline-beat-motivation"
+  - "discipline-choix-quotidien"
   - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "inconfort-volontaire"
 ---
 
 <div data-i18n-html="article_discipline-personnelle-guide_p2">Master personal discipline with proven strategies. Learn how to stay consistent, control your impulses, and build unstoppable self-discipline.</div>

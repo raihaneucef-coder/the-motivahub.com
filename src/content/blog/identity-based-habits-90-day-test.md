@@ -45,12 +45,10 @@ faqFr:
   - q: "Peut-on poursuivre plusieurs objectifs d'identité ?"
     a: "Oui — mais empilez-les. Construisez la première identité (par exemple « je suis un lecteur ») jusqu'à l'automatisme avant d'ajouter la deuxième (« je suis un écrivain »). Chaque nouvelle identité se compose sur la précédente. En construire trois à la fois, c'est la recette pour n'en obtenir aucune."
 relatedArticles:
-  - "atomic-habits-review"
-  - "atomic-habits-revue-complete"
-  - "identity-precedes-outcome"
+  - "habit-stacking-routine"
+  - "how-to-read-30-books-a-year"
   - "i-tested-12-morning-routines"
-  - "5-minute-morning-habit"
-  - "slow-productivity-30-day-test"
+  - "identite-precde-resultat"
 ---
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p2"><strong>An identity-based habit</strong> focuses on who you want to become (a writer, a runner) rather than what you want to achieve (write a book, run a marathon). Each action becomes a 'vote' for that identity. Identity shifts in 30-90 days if you consistently vote for it. The shift isn't dramatic — it's a quiet realization one day that you stopped debating whether to do the thing.</div>

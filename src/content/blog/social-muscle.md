@@ -30,11 +30,10 @@ faq:
     a: "Research suggests weekly contact maintains close friendships; monthly keeps them alive; yearly makes them nostalgic. The minimum viable habit: one 5-minute voice call or genuine text per important person per week. Quality matters but frequency is the actual variable that predicts long-term friendship survival."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "long-ascent"
+  - "regle-1-pourcent"
+  - "secure-self"
+  - "the-comeback-is-stronger"
 ---
 
 <div data-i18n-html="article_social-muscle_p2">A powerful social lesson is not about tactics — it is about showing up. Connection, like any muscle, grows only with reps.</div>

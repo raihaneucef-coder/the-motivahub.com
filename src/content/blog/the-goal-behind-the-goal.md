@@ -32,11 +32,10 @@ faq:
     a: "Because you achieved the symbol, not the substance. If your real need was recognition and you won a trophy but nobody saw it, the hunger persists. The solution: identify the need first, then find the most direct path to fulfill it, which may not be the goal you assumed." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "rendez-compte-objectifs"
+  - "retroengineering-objectifs"
+  - "smart-goals"
+  - "sprint-90-jours"
 ---
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p2">Every goal hides a deeper goal — a why beneath the why. Most people chase the surface. The few who arrive are the ones who dug past the first layer.</div>

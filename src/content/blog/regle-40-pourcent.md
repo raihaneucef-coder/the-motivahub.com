@@ -41,10 +41,10 @@ faqFr:
   - q: "Puis-je appliquer la règle des 40 % au travail intellectuel ?"
     a: "Oui. Le même principe s'applique : quand vous « n'arrivez plus à vous concentrer », vous le pouvez encore — pendant 10 à 20 minutes. Planifiez des blocs de travail profond de 90 minutes, puis négociez 10 minutes de plus quand vous butez au mur."
 relatedArticles:
-  - "cant-hurt-me-review"
-  - "discipline-beat-motivation"
-  - "voluntary-discomfort-secret-mental-toughness"
-  - "deep-work-ritual"
+  - "inconfort-volontaire"
+  - "pouvoir-du-non"
+  - "regles-goggins-mental"
+  - "standard-non-negociable"
 ---
 
 <div data-i18n-html="article_regle-40-pourcent_p2">David Goggins says we're only operating at 40% of our capacity. I tested this for 30 days. Here's what worked, what failed, and the scientific truth about the wall.</div>

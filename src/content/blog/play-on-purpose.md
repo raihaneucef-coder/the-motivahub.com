@@ -32,11 +32,10 @@ faq:
     a: "At minimum 30-60 minutes of 'flow-adjacent' activity: something you do for the pure enjoyment of doing it, not for output. Can be sports, music, cooking, games, dancing. The WHO and various longevity studies consistently identify regular leisure activity as a mortality risk reducer equivalent to quitting smoking."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "lire-divertissement"
+  - "play-is-practice-for-life"
+  - "podcasts-education"
+  - "regarder-intentionnellement"
 ---
 
 <div data-i18n-html="article_play-on-purpose_p2">Leisure that leaves you emptier is not rest. Choose entertainment the way champions choose training — deliberately — and recovery becomes a weapon instead of a leak.</div>

@@ -37,11 +37,10 @@ faqFr:
     a: "La lecture quotidienne renforce la connectivité neuronale, améliore le vocabulaire, retarde le déclin cognitif jusqu'à 2,5 ans et augmente l'empathie en simulant des expériences sociales dans le cerveau."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "play-is-practice-for-life"
+  - "play-on-purpose"
+  - "podcasts-education"
+  - "regarder-intentionnellement"
 ---
 
 <div data-i18n-html="article_lire-divertissement_p2">Reading is not work — it is entertainment. And unlike Netflix, it makes you smarter, more empathetic, and more creative. Here is why you should read more.</div>

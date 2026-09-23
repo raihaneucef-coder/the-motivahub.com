@@ -32,11 +32,10 @@ faq:
     a: "A palm-sized portion (20-35g) at each main meal. Research on muscle protein synthesis shows this amount maximizes the anabolic response. Under-eating protein causes hunger and muscle loss; the 'plate method' ensures you hit this target visually without weighing food."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "fuel-before-willpower"
+  - "hydratation-performance"
+  - "jeune-intermittent"
+  - "meal-prep-dimanche"
 ---
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p2">A steady plate makes a steady day. Learn the simple ratio that keeps energy even and cravings quiet.</div>

@@ -31,11 +31,10 @@ faq:
     a: "Mildly: it keeps you humble and continuously learning (the Dunning-Kruger inverse, incompetent people never doubt themselves). It becomes toxic only when it prevents you from applying for roles, charging fair rates, or accepting praise. The goal is not to eliminate all self-doubt, it is to act despite it."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "confiance-inbranlable"
+  - "confidence-is-a-record-not-a-feeling"
+  - "langage-corps-confiance"
+  - "trouver-voix"
 ---
 
 <div data-i18n-html="article_syndrome-imposteur_p2">70% of people experience imposter syndrome. It is not a sign of inadequacy — it is a sign of growth. Learn to recognize and overcome it.</div>

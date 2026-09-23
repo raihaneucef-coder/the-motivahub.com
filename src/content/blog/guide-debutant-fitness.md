@@ -44,10 +44,9 @@ faqFr:
     a: "Non. Un programme que vous suivez vraiment vaut mieux qu'un programme optimal que vous abandonnez. Une routine fixe de cinq ou six exercices — un mouvement de poussée, un de tirage, un pour les jambes et une courte marche — suffit pour vos premiers mois. Prenez un coach plus tard, une fois l'habitude bien installée."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
+  - "recovery-is-training"
+  - "run-your-own-race"
+  - "strength-is-a-skill"
   - "the-morning-athlete"
 ---
 

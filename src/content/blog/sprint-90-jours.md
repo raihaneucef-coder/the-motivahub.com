@@ -42,11 +42,10 @@ faqFr:
     a: "Vous faites une revue, puis une transmission. Soit le résultat devient une habitude stable qui n'a plus besoin de sprint, soit il reçoit un nouveau sprint avec une barre plus haute, soit vous l'abandonnez parce que la revue a montré qu'il n'était pas vraiment à vous. Ce qu'il ne faut pas faire, c'est démarrer le sprint suivant le soir même sans rien écrire."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "goals-are-a-compass-not-a-cage"
+  - "make-it-measurable-make-it-mine"
+  - "one-target-at-a-time"
+  - "pourquoi-profond-objectifs"
 ---
 
 <div data-i18n-html="article_sprint-90-jours_p2">Annual goals are too distant to create urgency. 90-day goals create focus, momentum, and accountability. Learn the power of quarterly sprints.</div>

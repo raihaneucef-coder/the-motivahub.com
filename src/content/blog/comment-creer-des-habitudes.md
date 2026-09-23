@@ -38,11 +38,10 @@ faqFr:
     a: "La méthode fondée sur les preuves : (1) Commencez absurdement petit — 2 minutes max, (2) Empilez sur une habitude existante, (3) Concevez votre environnement, (4) Suivez vos séries, (5) Célébrez la présence, pas le résultat."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
   - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "5-minute-morning-habit"
+  - "atomic-habits-review"
+  - "atomic-habits-revue-complete"
 ---
 
 <div data-i18n-html="article_comment-creer-des-habitudes_p2">Discover how to create habits that stick. A practical guide to building lasting routines, backed by neuroscience and daily discipline.</div>

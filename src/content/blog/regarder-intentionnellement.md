@@ -31,11 +31,10 @@ faq:
     a: "No. 30-60 minutes of quality film/series you chose and enjoyed fully is valid leisure and even stimulates creativity. The problem is passive consumption: watching for 4 hours something you didn't choose and barely remember. Quality attention to entertainment is fine; autopilot scrolling is what costs you."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "play-is-practice-for-life"
+  - "play-on-purpose"
+  - "podcasts-education"
+  - "reseaux-sociaux-divertissement"
 ---
 
 <div data-i18n-html="article_regarder-intentionnellement_p2">Not all entertainment is created equal. Some movies and shows inspire, educate, and transform. Learn how to watch with intention.</div>

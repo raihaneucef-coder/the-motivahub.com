@@ -30,11 +30,10 @@ faq:
     a: "Process goals + identity shifts. Instead of 'lose 10kg in 3 months' (outcome), try 'I am someone who moves daily' (identity) + 'walk 30 min after lunch' (process). Systems beat goals because they don't create a 'failure state' on day 75 if you've lost 9.5kg instead of 10."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "process-vs-outcome"
+  - "rendez-compte-objectifs"
+  - "retroengineering-objectifs"
+  - "sprint-90-jours"
 ---
 
 <div data-i18n-html="article_smart-goals_p2">Stop setting vague goals. The SMART framework — Specific, Measurable, Achievable, Relevant, Time-bound — turns wishes into results.</div>

@@ -31,11 +31,10 @@ faq:
     a: "1) 'I'd love to but I'm already committed.' 2) 'Let me check and get back' (buys time). 3) 'No, but here's someone who could.' 4) 'I'm protecting my focus this month.' 5) Simple 'I won't be able to.' The key: brief, warm, firm. A no with 5 excuses sounds like a no you'll be talked out of."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "confiance-inbranlable"
+  - "confidence-is-a-record-not-a-feeling"
+  - "langage-corps-confiance"
+  - "syndrome-imposteur"
 ---
 
 <div data-i18n-html="article_art-dire-non_p2">Every time you say yes to something you do not want, you say no to something you do. Learn the art of setting boundaries.</div>

@@ -30,11 +30,10 @@ faq:
     a: "Shrink the action to absurdly small. System ≠ intense routine. It's: lay out gym clothes (even if you don't train), open the book (even if you read 1 page), write one sentence. The system's job is keeping the chain alive, not producing results. Momentum returns after consistency."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "one-target-at-a-time"
+  - "pourquoi-profond-objectifs"
+  - "pouvoir-ecrire-objectifs"
+  - "process-vs-outcome"
 ---
 
 <div data-i18n-html="article_systemes-battent-motivation_p2">Motivation is unreliable. Systems are dependable. Learn why building systems beats setting goals — and how to create systems that work.</div>

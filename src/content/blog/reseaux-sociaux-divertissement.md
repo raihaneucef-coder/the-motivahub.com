@@ -31,11 +31,10 @@ faq:
     a: "Research from the University of Pennsylvania: limiting to 30 minutes/day reduces loneliness, FOMO, and depressive symptoms by 40% in three weeks. The exact number matters less than intentionality — 30 minutes you chose beats 30 minutes you didn't notice passing."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "choose-joy-on-purpose"
+  - "lire-divertissement"
+  - "play-is-practice-for-life"
+  - "play-on-purpose"
 ---
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p2">Social media is not the enemy — your relationship with it is. Learn how to enjoy social media without letting it control your life.</div>

@@ -30,11 +30,10 @@ faq:
     a: "Cities where daily life itself is the attraction: Lisbon, Mexico City, Istanbul, Chiang Mai, Marrakech, Porto, Tbilisi. Criteria: affordable long-term rentals, walkable neighborhoods, vibrant food culture, and a rhythm that rewards regular presence over checklist sightseeing." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "beginner-again"
+  - "pack-light-stay-long"
+  - "solo-travel-stronger-self"
+  - "the-detour-is-the-destination"
 ---
 
 <div data-i18n-html="article_voyage-lent_p2">Rushing through 10 cities in 10 days is not travel — it is tourism. Slow travel is about depth, not breadth. Learn why less is more.</div>

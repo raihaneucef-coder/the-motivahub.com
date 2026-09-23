@@ -31,11 +31,10 @@ faq:
     a: "Ask: what do people thank me for that feels easy to give? What knowledge or skill did someone once share with me that changed my path? Your purpose is often the thing you received and now feel compelled to pass forward. Start with one person — teaching one student is the same as teaching a thousand."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "histoire-athlete-recommence"
+  - "histoire-concierge-millionnaire"
+  - "proof-over-noise"
+  - "she-started-at-60"
 ---
 
 <div data-i18n-html="article_histoire-professeur_p2">Maria had no money, no fame, and no power. But she had something more valuable — she had the ability to make people believe in themselves.</div>

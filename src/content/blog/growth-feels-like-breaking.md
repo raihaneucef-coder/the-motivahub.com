@@ -35,11 +35,10 @@ faqFr:
     a: "Typiquement 3 à 6 semaines d'effort cohérent. Les 2 premières semaines ressemblent à une perte. Les semaines 3-4 à une confusion. À partir de la semaine 5-6, les nouveaux comportements commencent à sembler « vous »."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "journal-croissance"
+  - "long-ascent"
+  - "regle-1-pourcent"
+  - "secure-self"
 ---
 
 <div data-i18n-html="article_growth-feels-like-breaking_p2">Growth is not comfortable — it feels like breaking. But breaking is not the end; it is the beginning of becoming.</div>

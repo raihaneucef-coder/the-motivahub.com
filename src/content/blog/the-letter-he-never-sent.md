@@ -32,11 +32,10 @@ faq:
     a: "Write it anyway. The brain does not distinguish between spoken and written expression for emotional processing. You cannot control whether they hear you, but you can control whether the words exist outside your body. The unsaid weighs more than the imperfectly said." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "histoire-athlete-recommence"
+  - "histoire-concierge-millionnaire"
+  - "histoire-professeur"
+  - "proof-over-noise"
 ---
 
 <div data-i18n-html="article_the-letter-he-never-sent_p2">He wrote it in rage. He never mailed it. But every morning, for forty years, he read it again — and made the same quiet choice. Sometimes the unsaid letters write our lives.</div>

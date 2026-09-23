@@ -42,11 +42,10 @@ faqFr:
   - q: "Quel lien entre le corps et l'identité ?"
     a: "Chaque séance est une preuve archivée : « je suis quelqu'un qui fait ce qu'il a dit ». Sautez une semaine et le dossier s'amincit. Soyez présent un mois entier et il s'épaissit en quelque chose sur lequel l'esprit peut s'appuyer quand la motivation se tait. Le corps vote en premier. Faites en sorte qu'il vote comme vous l'auriez choisi."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "guide-debutant-fitness"
+  - "recovery-is-training"
+  - "run-your-own-race"
+  - "strength-is-a-skill"
 ---
 
 <div data-i18n-html="article_body-votes-first_p2">Your body votes before your mind does. Learn why physical training is not vanity — it is the maintenance of the instrument that does everything else.</div>

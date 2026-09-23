@@ -30,11 +30,10 @@ faq:
     a: "Shift your metric from external validation (followers, income) to internal compound (skill growth, output volume, streak consistency). Compare yourself to 6 months ago, not to the visible person at year 10. The invisible years aren't wasted — they're when foundations are poured."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "psychology-of-money-business"
+  - "success-is-a-direction"
+  - "success-leaves-traces"
+  - "the-cost-of-success"
 ---
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p2">Everyone wants overnight success. But overnight success is a myth. Behind every 'sudden' success are years of invisible work. Learn the truth.</div>

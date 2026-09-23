@@ -32,11 +32,10 @@ faq:
     a: "Yes. Glucose is the brain's primary fuel, and self-control specifically draws on prefrontal glucose. A 2022 meta-analysis confirmed: fasting beyond your window increases impulsivity and risk-taking. Three regular meals keep glucose stable, protecting willpower for things that matter."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "jeune-intermittent"
+  - "meal-prep-dimanche"
+  - "protein-is-not-just-for-athletes"
+  - "the-plate-that-keeps-you-steady"
 ---
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p2">Hunger makes bad decisions. Regular meals make good ones automatic.</div>

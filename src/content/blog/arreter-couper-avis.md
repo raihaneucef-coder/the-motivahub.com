@@ -43,11 +43,10 @@ faqFr:
   - q: "Qu'est-ce que l'effet de projecteur ?"
     a: "C'est un phénomène psychologique par lequel vous croyez que les gens vous remarquent davantage qu'ils ne le font réellement. En pratique, chacun est occupé de sa propre vie, de ses erreurs et de ses incertitudes."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "confidence-is-a-record-not-a-feeling"
+  - "langage-corps-confiance"
+  - "syndrome-imposteur"
+  - "trouver-voix"
 ---
 
 <div data-i18n-html="article_arreter-couper-avis_p2"><strong>Caring what people think is human. Letting it control your life is a choice.</strong> Most people are focused on themselves, not you. The spotlight effect is real: you think people notice you more than they do. The goal is not to stop caring entirely — it is to care less about strangers' opinions and more about the opinions of people who know and respect you.</div>

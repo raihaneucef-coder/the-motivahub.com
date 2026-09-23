@@ -31,11 +31,10 @@ faq:
     a: "Choking happens when you overthink automatic skills (explicit monitoring). Solution: practice under pressure conditions so competition feels normal, use external focus cues ('land on that spot' not 'extend your leg'), and keep your pre-performance routine identical to training."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "body-votes-first"
+  - "consistance-bat-intensite"
+  - "guide-debutant-fitness"
+  - "recovery-is-training"
 ---
 
 <div data-i18n-html="article_force-mentale-sport_p2">Talent gets you to the game. Mental toughness wins it. Learn the mental skills that separate good athletes from great ones.</div>

@@ -53,11 +53,10 @@ faqFr:
   - q: "Comment trouver la routine matinale qui me convient ?"
     a: "Trois filtres. (1) Votre chronotype : si vous êtes du soir, ne planifiez pas de travail profond à 6 h. (2) Votre archétype de discipline : les Bâtisseurs (commencer petit et empiler) veulent des routines de 5 minutes ; les Sprinters (rafales intenses) veulent 60 à 90 minutes ; les Marathonniens (effort long et régulier) veulent 30 à 45 minutes ; les Stratèges (systèmes d'abord) veulent un protocole écrit. (3) Votre agenda réel : une routine qui ne survit pas à un appel à 6 h 30 est une routine que vous abandonnerez avant le jour 7."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "ne-brise-jamais-chaine"
+  - "nervous-system-reset-focus"
+  - "regle-21-jours"
+  - "regle-deux-minutes"
 ---
 
 <div data-i18n-html="article_morning-routines-12-tested_p2">Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive.</div>

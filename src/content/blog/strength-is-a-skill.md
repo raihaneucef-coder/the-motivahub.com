@@ -32,11 +32,10 @@ faq:
     a: "Form IS the skill. A squat performed correctly trains 200+ muscles in coordination; performed incorrectly, it loads joints and reinforces bad motor patterns. You are building a movement groove in your nervous system: once wired incorrectly, it takes 10x longer to fix than to learn right initially."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "consistance-bat-intensite"
+  - "force-mentale-sport"
+  - "guide-debutant-fitness"
+  - "recovery-is-training"
 ---
 
 <div data-i18n-html="article_strength-is-a-skill_p2">Strength is not given — it is practiced. Every rep is a lesson in patience and form.</div>

@@ -32,11 +32,10 @@ faq:
     a: "Pleasure is consumption (food, scrolling, shopping) — short spike, quick adaptation. Joy is connection and meaning (laughing with friends, finishing something hard, nature). Joy requires presence; pleasure often avoids it. Schedule both, but prioritize what leaves you full vs what leaves you wanting more."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "play-is-practice-for-life"
+  - "play-on-purpose"
+  - "podcasts-education"
+  - "regarder-intentionnellement"
 ---
 
 <div data-i18n-html="article_choose-joy-on-purpose_p2">Joy does not find you — you choose it. Learn to schedule delight the way you schedule work.</div>

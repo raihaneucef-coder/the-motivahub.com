@@ -38,11 +38,10 @@ faqFr:
     a: "Vous absorbez les croyances des cinq personnes avec qui vous passez le plus de temps. Organisez vos inputs : suivez des personnes qui vous défient, limitez l'exposition aux plaignants."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "puissance-dialogue-interieur"
+  - "resilience-mentale"
+  - "secret-reussite"
+  - "tyranny-of-the-visible-timeline"
 ---
 
 <div data-i18n-html="article_mindset-etat-esprit_p2">Discover the power of a winning mindset. Learn how to shift your thinking, overcome self-doubt, and build mental toughness for success.</div>

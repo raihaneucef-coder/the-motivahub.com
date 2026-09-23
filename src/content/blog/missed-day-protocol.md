@@ -53,11 +53,10 @@ faqFr:
   - q: "Et si je rate deux jours de suite ?"
     a: "La règle des 2 jours a été déclenchée. Le système a détecté un schéma. Le protocole reste le même — mais le coût du prochain raté est plus élevé. Si vous ratez un troisième jour, l'habitude n'est plus une habitude. Le rétablissement reste possible, mais il repart de la règle des 2 minutes, jour 1. La règle des 2 jours est une frontière dure. La franchir, c'est le mode d'échec de tout le système."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "habit-stacking-routine"
+  - "how-to-read-30-books-a-year"
+  - "i-tested-12-morning-routines"
+  - "identite-precde-resultat"
 ---
 
 <div data-i18n-html="article_missed-day-protocol_p2">Missing a day is not the end of a habit. It is the test of the system. Here is the exact protocol for the day after a miss — and the three rules that prevent the miss from becoming a relapse.</div>

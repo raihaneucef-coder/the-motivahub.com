@@ -32,11 +32,10 @@ faq:
     a: "Anything that raises your heart rate or challenges your muscles: walking, gardening, dancing, taking stairs, playing with kids. The WHO recommendation (150 min moderate activity) doesn't require a gym. Seven 20-minute daily walks meet it perfectly. Movement, not workouts, is the health variable."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "rest-is-a-decision-not-a-collapse"
+  - "routine-matin-sante"
+  - "sleep-is-unfair-advantage"
+  - "two-minute-breath-reset"
 ---
 
 <div data-i18n-html="article_move-daily-not-perfectly_p2">You do not need the perfect workout — you need a daily one that survives bad days.</div>

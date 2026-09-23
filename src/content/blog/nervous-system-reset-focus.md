@@ -46,11 +46,10 @@ faqFr:
   - q: "À quelle fréquence faire ces réinitialisations ?"
     a: "Trois fois au minimum : une le matin (démarrer régulé), une avant le travail profond (entrer en concentration), une avant de dormir (favoriser le sommeil). L'habitude se compose. Après 30 jours, votre ligne de base se déplace — vous devenez plus calme en général, pas seulement sur l'instant."
 relatedArticles:
-  - "i-tested-12-morning-routines"
-  - "5-minute-morning-habit"
-  - "slow-productivity-30-day-test"
-  - "discipline-choix-quotidien"
-  - "regle-40-pourcent"
+  - "identite-precde-resultat"
+  - "identity-based-habits-90-day-test"
+  - "identity-challenge-7-days"
+  - "make-good-habits-obvious"
 ---
 
 <div data-i18n-html="article_nervous-system-reset-focus_p2"><strong>Most focus problems aren't willpower issues — they're nervous system issues.</strong> When your body is in fight-or-flight mode, your prefrontal cortex is suppressed. You can't think your way into focus. You have to calm the body first. The fastest way: slow exhales (4-7-8 breathing) for 60-90 seconds. This activates the parasympathetic nervous system and is the fastest, free, portable tool available.</div>

@@ -31,11 +31,10 @@ faq:
 bookSlug: atomic-habits
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "make-good-habits-obvious"
+  - "missed-day-protocol"
+  - "morning-routines-12-tested"
+  - "morning-vs-night"
 ---
 
 <div data-i18n-html="article_two-minute-threshold_p3">A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever.</div>

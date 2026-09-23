@@ -32,11 +32,10 @@ faq:
     a: "Only if it's avoidance disguised as recreation. 60-90 minutes of intentional play that leaves you energized is productive recovery. 6 hours of numb scrolling that leaves you drained is avoidance. The test: after play, do you feel restored and ready, or guilty and depleted? One is nourishment; the other is escape."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "play-on-purpose"
+  - "podcasts-education"
+  - "regarder-intentionnellement"
+  - "reseaux-sociaux-divertissement"
 ---
 
 <div data-i18n-html="article_play-is-practice-for-life_p2">We think play is what we do after life. Play is how we learn to live — lightly, creatively, together.</div>

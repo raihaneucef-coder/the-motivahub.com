@@ -35,11 +35,10 @@ faqFr:
     a: "Demandez-vous : « Si je ne pouvais accomplir qu'UNE chose cette année, laquelle aurait le plus grand effet d'entraînement ? » Puis vérifiez : est-ce que je le veux vraiment ou je pense que je « devrais » ?"
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "pourquoi-profond-objectifs"
+  - "pouvoir-ecrire-objectifs"
+  - "process-vs-outcome"
+  - "rendez-compte-objectifs"
 ---
 
 <div data-i18n-html="article_one-target-at-a-time_p2">A goal is not a wish written on paper — it is an address you visit every day until the door finally opens. Aim small, aim precise, and let the days do the heavy lifting.</div>

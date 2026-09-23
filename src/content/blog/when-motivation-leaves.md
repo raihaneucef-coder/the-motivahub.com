@@ -30,11 +30,10 @@ faq:
     a: "They do not decide whether to train. The schedule decides. Training at 6am Mon/Wed/Fri is non-negotiable regardless of feeling. This is the shift: motivation is a choice (unreliable), discipline is a schedule (automatic). The athlete who felt like it quits by week 3; the one who did not decide makes it 3 years." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "pouvoir-du-non"
+  - "regle-40-pourcent"
+  - "regles-goggins-mental"
+  - "standard-non-negociable"
 ---
 
 <div data-i18n-html="article_when-motivation-leaves_p3">Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day.</div>

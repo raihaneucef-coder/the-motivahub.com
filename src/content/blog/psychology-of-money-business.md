@@ -30,11 +30,10 @@ faq:
     a: "Three key shifts: 1) 'I can learn to earn' vs 'I'll never have enough.' 2) 'Money is a tool I direct' vs 'Money is a scarce resource I pray survives.' 3) 'Delayed gratification builds compound' vs 'I deserve this now.' These aren't affirmations — they're operating assumptions that change what actions you take daily."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "definition-reussite"
+  - "discipline-depass-motivation"
+  - "echec-retroaction"
+  - "mythe-reussite-instantanee"
 ---
 
 <div data-i18n-html="article_psychology-of-money-business_p2">An enduring business lesson: wealth is not a math problem, it is a story you tell yourself about risk and patience.</div>

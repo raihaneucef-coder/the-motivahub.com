@@ -34,11 +34,10 @@ faqFr:
     a: "Chaque expert a été un débutant qui a échoué répétitivement. Edison a testé 1000 matériaux avant de trouver le bon filament. L'échec élimine les mauvais chemins et révèle ce qui fonctionne réellement."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "mythe-reussite-instantanee"
+  - "psychology-of-money-business"
+  - "success-is-a-direction"
+  - "success-leaves-traces"
 ---
 
 <div data-i18n-html="article_echec-retroaction_p2">Every failure contains a lesson. The only true failure is the failure to learn. Learn how to turn setbacks into comebacks.</div>

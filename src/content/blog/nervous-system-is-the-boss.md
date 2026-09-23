@@ -32,11 +32,10 @@ faq:
     a: "Your nervous system can get 'stuck' in protective mode after prolonged stress, trauma, or even chronic sleep debt. The body keeps score (van der Kolk): it continues sending danger signals even when circumstances are safe. Consistent regulation practices teach your system the threat has passed."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "calm-is-a-superpower"
+  - "detox-numerique"
+  - "move-daily-not-perfectly"
+  - "rest-is-a-decision-not-a-collapse"
 ---
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p2">Your mind does not decide how you feel — your nervous system does. Learn to work with it, not against it.</div>

@@ -30,11 +30,10 @@ faq:
     a: "Without external check-ins, your brain negotiates: 'I'll start Monday,' 'No one will know.' Accountability removes the negotiation by creating a fixed reporting deadline. The loss aversion of facing your partner's question 'did you do it?' is more motivating than the abstract promise you made to yourself."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "smart-goals"
+  - "sprint-90-jours"
+  - "systemes-battent-motivation"
+  - "the-goal-behind-the-goal"
 ---
 
 <div data-i18n-html="article_rendez-compte-objectifs_p2">Accountability doubles your chances of achieving a goal. Learn how to build an accountability system that keeps you committed and consistent.</div>

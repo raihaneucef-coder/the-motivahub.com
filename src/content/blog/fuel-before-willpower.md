@@ -32,11 +32,10 @@ faq:
     a: "The 'ego depletion' model (Baumeister) has mixed replication data, but the practical insight holds: when you're hungry, tired, or stressed, your capacity for self-denial drops. Whether it's glucose or motivation, the fix is the same: eat well, sleep enough, and schedule hard decisions for when you're fueled."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "eat-on-time-not-on-emotion"
+  - "hydratation-performance"
+  - "jeune-intermittent"
+  - "meal-prep-dimanche"
 ---
 
 <div data-i18n-html="article_fuel-before-willpower_p2">Discipline is expensive when you run it on caffeine, sugar and good intentions. Eat in a way that makes the hard things cheaper — nutrition is not a diet, it is infrastructure.</div>

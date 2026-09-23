@@ -53,11 +53,10 @@ faqFr:
   - q: "La règle des 2 minutes s'applique-t-elle à un défi de discipline de 90 jours ?"
     a: "Oui — et c'est là que la plupart se trompent. Un défi de 90 jours n'est pas un engagement de 90 jours envers la règle des 2 minutes. La règle des 2 minutes est la porte d'entrée. Les 90 jours sont le couloir. La porte reste petite. Le couloir grandit. Le défi se termine. La porte, elle, reste."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "environnement-beat-volonte"
+  - "habit-stacking-made-simple"
+  - "habit-stacking-routine"
+  - "how-to-read-30-books-a-year"
 ---
 
 <div data-i18n-html="article_2-minute-rule-system_p2">James Clear's 2-minute rule is the most misunderstood idea in habit science. It is not a productivity hack. It is a complete system of identity, design, and recovery. Here is the full architecture — including what to do when it stops working.</div>

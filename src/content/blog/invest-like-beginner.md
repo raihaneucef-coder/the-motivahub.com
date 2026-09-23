@@ -32,11 +32,10 @@ faq:
     a: "A low-cost, broad-market index fund (0.1-0.2% fees). Historically, global diversified index funds return 7-10% annually over 10+ year periods. This single vehicle gives ownership in 1,500+ companies without requiring stock-picking skill."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "earn-keep-grow"
+  - "fond-urgence"
+  - "investir-debutant"
+  - "paycheck-trap"
 ---
 
 <div data-i18n-html="article_invest-like-beginner_p2">You don't need to be an expert to start investing — you need to start and stay. Ownership beats prediction.</div>

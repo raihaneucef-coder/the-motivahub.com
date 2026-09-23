@@ -32,11 +32,10 @@ faq:
     a: "Yes, with 20% adaptation. The 80/20 rule: copy their process framework (schedule, practice volume, feedback loops) but adjust for your context (family, location, starting point). Bruce Lee said absorb what is useful. Pure imitation fails because it ignores your variables; total originality fails because it ignores proven structure."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "echec-retroaction"
+  - "mythe-reussite-instantanee"
+  - "psychology-of-money-business"
+  - "success-is-a-direction"
 ---
 
 <div data-i18n-html="article_success-leaves-traces_p2">Success is not a mystery — it leaves traces. Follow the traces, not the trophy.</div>

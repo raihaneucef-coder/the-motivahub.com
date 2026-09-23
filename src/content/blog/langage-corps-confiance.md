@@ -31,11 +31,10 @@ faq:
     a: "Nervousness shows through fidgeting, fast speech, and closed posture. Counter it by: planting both feet flat, holding a warm drink (grounding), and deliberately slowing your walk speed. The 'fake it till you make it' approach actually works for body language — others respond to your signals, which changes their behavior, which makes you genuinely comfortable."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "confiance-inbranlable"
+  - "confidence-is-a-record-not-a-feeling"
+  - "syndrome-imposteur"
+  - "trouver-voix"
 ---
 
 <div data-i18n-html="article_langage-corps-confiance_p2">Your body speaks before your mouth opens. Learn the body language techniques that project confidence, authority, and presence.</div>

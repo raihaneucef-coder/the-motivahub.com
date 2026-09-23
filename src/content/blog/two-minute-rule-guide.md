@@ -54,11 +54,10 @@ faqFr:
   - q: "La règle des 2 minutes est-elle la même que la règle des 2 jours ?"
     a: "Non. La règle des 2 jours (elle aussi de Clear) dit : ne jamais rater deux fois de suite. La règle des 2 minutes concerne le fait de commencer petit. Elles sont complémentaires : la règle des 2 minutes rend le départ facile, celle des 2 jours protège la constance."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "morning-vs-night"
+  - "ne-brise-jamais-chaine"
+  - "nervous-system-reset-focus"
+  - "regle-21-jours"
 ---
 
 <div data-i18n-html="article_two-minute-rule-guide_p2">James Clear's most underrated idea. Start so small it feels stupid. Then watch the doorway stay open. The full evidence base, the protocol, and what to do when you outgrow it.</div>

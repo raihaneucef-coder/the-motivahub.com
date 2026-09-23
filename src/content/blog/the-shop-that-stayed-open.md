@@ -44,11 +44,10 @@ faqFr:
   - q: "Comment pratiquer l'endurance tranquille ?"
     a: "Commencez par un non-négociable quotidien. Pas un objectif, pas un projet — un acte journalier de présence. Écrire une phrase. Marcher 10 minutes. Ouvrir le magasin. L'acte lui-même est la leçon. La durée est la preuve. La règle des 2 jours protège la série, et la phrase d'identité lui donne un sens."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "histoire-athlete-recommence"
+  - "histoire-concierge-millionnaire"
+  - "histoire-professeur"
+  - "proof-over-noise"
 ---
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p2"><strong>Endurance is a competitive advantage.</strong> When everyone else pivoted, he stayed. For 32 years, the doors opened at 7 a.m. The lesson: consistency compounds. The shop owner did not need to be the best. He needed to be the one who showed up every day. In careers, in habits, in relationships — the person who stays eventually wins, not because they are the most talented, but because they are the most reliable.</div>

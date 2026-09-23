@@ -31,11 +31,10 @@ faq:
     a: "Meta-analyses show moderate but real effects (Sisk 2018: +0.4 grade points for disadvantaged students). It works best paired with specific strategy instruction — telling someone 'you can improve' plus showing them HOW. Growth mindset alone is encouragement; with tools it becomes transformation."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "resilience-mentale"
+  - "secret-reussite"
+  - "tyranny-of-the-visible-timeline"
+  - "viral-mindset-shift"
 ---
 
 <div data-i18n-html="article_growth-mindset-rewire_p2">Learn how a growth mindset transforms failures into opportunities. Practical strategies to shift from fixed thinking to limitless potential.</div>

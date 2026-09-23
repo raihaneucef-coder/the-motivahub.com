@@ -49,11 +49,10 @@ faqFr:
   - q: "Puis-je faire plusieurs défis d'identité en même temps ?"
     a: "Non, si vous voulez qu'ils tiennent. Les 7 premiers jours de toute nouvelle habitude sont ceux où le cerveau construit l'échafaudage neuronal le plus solide. Diviser cet échafaudage entre deux ou trois nouveaux schémas le dilue. Un défi à la fois. Empilez-les seulement après que chacun a passé le jour 14."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "atomic-habits-revue-complete"
+  - "casser-mauvaise-habitude"
+  - "comment-creer-des-habitudes"
+  - "environnement-beat-volonte"
 ---
 
 <div data-i18n-html="article_identity-challenge-7-days_p2"><strong>A 7-day identity challenge</strong> is a structured micro-experiment: pick one identity statement ("I am a writer"), one tiny daily action (write one sentence), and repeat for 7 days. Seven days is not enough to form a habit (median is 66 days), but it's enough to start the automaticity curve and gather evidence that you are the kind of person who does this thing. The first week is the steepest part of the curve.</div>

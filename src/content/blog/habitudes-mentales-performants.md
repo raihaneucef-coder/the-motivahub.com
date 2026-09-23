@@ -32,11 +32,10 @@ faq:
 bookSlug: atomic-habits
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "arreter-auto-sabotage"
+  - "comparison-trap"
+  - "echec-meilleur-professeur"
+  - "focus-monde-distractions"
 ---
 
 <div data-i18n-html="article_habitudes-mentales-performants_p2">Discover the daily mental routines that separate top performers from everyone else. Practical habits you can start today.</div>

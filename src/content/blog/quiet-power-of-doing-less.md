@@ -30,11 +30,10 @@ faq:
     a: "Laziness avoids effort and leaves you drained with guilt. Strategic rest is intentional recovery that fuels output — athletes call it periodization. If rest makes you return sharper and more motivated, it was productive. If avoidance keeps you stuck, it's fear in disguise."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "batching-productivite"
+  - "deep-work-focus"
+  - "deep-work-ritual"
+  - "eat-the-frog"
 ---
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p3">We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus.</div>

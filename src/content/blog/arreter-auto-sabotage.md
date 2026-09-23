@@ -43,11 +43,10 @@ faqFr:
   - q: "L'auto-sabotage peut-il se guérir ?"
     a: "On ne le guérit pas, on l'administre. L'objectif n'est de ne plus jamais se saboter. L'objectif est de le remarquer plus vite, de s'en relever plus tôt, et de rendre le choix suivant différent."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "resilience-mentale"
+  - "secret-reussite"
+  - "tyranny-of-the-visible-timeline"
+  - "viral-mindset-shift"
 ---
 
 <div data-i18n-html="article_arreter-auto-sabotage_p2"><strong>Self-sabotage is fear in disguise.</strong> Your brain protects you from risk by creating doubt, distraction, or excuses. Most self-sabotage shows up as procrastination, perfectionism, self-doubt, or choosing comfort over growth — even when you know better. The goal is not to never sabotage yourself again. The goal is to notice it faster, recover sooner, and make the next choice different.</div>

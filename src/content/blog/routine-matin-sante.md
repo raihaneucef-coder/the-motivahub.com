@@ -31,11 +31,10 @@ faq:
     a: "On average 66 days for a new habit to become automatic (University College London study). Start with just 2 habits for the first two weeks, add one more every 14 days. Trying to implement five changes at once drops adherence below 20%."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "calm-is-a-superpower"
+  - "detox-numerique"
+  - "move-daily-not-perfectly"
+  - "nervous-system-is-the-boss"
 ---
 
 <div data-i18n-html="article_routine-matin-sante_p2">The world's healthiest people share common morning habits. Learn the routines that transform your energy, focus, and health from day one.</div>

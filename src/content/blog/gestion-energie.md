@@ -30,11 +30,10 @@ faq:
     a: "Track your energy (1-10 scale) every 2 hours for 5 days. Most people discover a pattern: peak (9am-12pm for early risers), dip (2-4pm post-lunch), second wind (5-7pm). Once identified, protect your peak for deep work ruthlessly — no meetings, no email, no scrolling."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "pouvoir-elimination"
+  - "productivite-efficace"
+  - "quiet-power-of-doing-less"
+  - "real-reason-you-procrastinate"
 ---
 
 <div data-i18n-html="article_gestion-energie_p2">Time management is not enough. Energy management is the real productivity hack. Learn how to optimize your energy for peak performance.</div>

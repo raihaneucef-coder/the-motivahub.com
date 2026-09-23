@@ -32,11 +32,10 @@ faq:
     a: "Yes — before coffee, before food. After 7-8 hours of sleep, you're mildly dehydrated. 500ml of water upon waking jumpstarts metabolism by 24% for 60 minutes (German research), flushes waste, and rehydrates the brain before caffeine hits. Keep a glass by your bed the night before."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "eat-on-time-not-on-emotion"
+  - "fuel-before-willpower"
+  - "hydratation-performance"
+  - "jeune-intermittent"
 ---
 
 <div data-i18n-html="article_water-before-willpower_p2">Before you reach for willpower, reach for water. Hydration is the cheapest performance enhancer you own.</div>

@@ -46,11 +46,10 @@ faqFr:
   - q: "Et si je lis sans rien retenir ?"
     a: "Vous retiendrez 20 à 30 % de ce que vous lisez, même sans notes. L'acte de lire entraîne votre attention et votre vocabulaire plus que votre mémoire. Pour la rétention, prenez 2 minutes après chaque session pour écrire l'idée principale."
 relatedArticles:
-  - "i-tested-12-morning-routines"
+  - "regle-21-jours"
   - "regle-deux-minutes"
-  - "atomic-habits-review"
-  - "habit-stacking-routine"
-  - "comment-creer-des-habitudes"
+  - "routine-matin-change-tout"
+  - "small-wins-big-life"
 ---
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p2"><strong>The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit.</strong> Research on micro-habits shows small daily actions stick better than longer weekly ones. I tested this for 90 days and finished 7 books. The key: stop counting books, start counting minutes. The goal is not the number. The goal is being the kind of person who reads every day.</div>

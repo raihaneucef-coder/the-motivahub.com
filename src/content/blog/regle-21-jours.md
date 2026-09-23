@@ -44,11 +44,10 @@ faqFr:
   - q: "Que faire à la place de compter 21 jours ?"
     a: "Concentrez-vous sur la règle des 2 minutes pour démarrer, la règle des 2 jours pour se rétablir, et le vote identitaire pour la motivation longue. Mesurez si vous étiez présent, pas combien de jours vous avez accumulés."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "casser-mauvaise-habitude"
+  - "comment-creer-des-habitudes"
+  - "environnement-beat-volonte"
+  - "habit-stacking-made-simple"
 ---
 
 <div data-i18n-html="article_regle-21-jours_p2"><strong>Habit formation takes 66 days on average, not 21.</strong> Research from Lally et al. (2009) found a range of 18-254 days depending on habit complexity. The 21-day myth comes from a misapplied observation about amputees adjusting to limb loss. The real timeline is longer, but understanding it helps you stay the course.</div>

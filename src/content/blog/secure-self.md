@@ -30,11 +30,10 @@ faq:
     a: "Start by noticing when you perform vs when you're authentic. Ask 'what do I actually want?' before answering anyone. Set one small boundary per week. The nervous system recalibrates through repetition: each time you choose yourself and nothing terrible happens, your baseline security rises."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "regle-1-pourcent"
+  - "social-muscle"
+  - "the-comeback-is-stronger"
+  - "zone-confort-croissance"
 ---
 
 <div data-i18n-html="article_secure-self_p2">You were told that focusing on yourself is selfish. A more secure perspective says the opposite: you focus on yourself more than people because self-love is the only love that never leaves.</div>

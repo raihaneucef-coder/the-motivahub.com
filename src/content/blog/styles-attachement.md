@@ -30,11 +30,10 @@ faq:
     a: "Each confirms the other's core belief: anxious thinks love means chasing and avoidant thinks love means losing freedom. The push-pull creates familiar intensity that feels like passion. Breaking the cycle requires either becoming secure yourself or consciously choosing partners who match your healing pace."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "how-to-argue-without-breaking"
+  - "love-is-a-practice"
+  - "people-who-raise-your-floor"
+  - "resolution-conflits"
 ---
 
 <div data-i18n-html="article_styles-attachement_p2">Your attachment style shapes how you love, how you fight, and how you handle separation. Understanding it changes everything.</div>

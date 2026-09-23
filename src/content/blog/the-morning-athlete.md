@@ -46,12 +46,10 @@ faqFr:
   - q: "Et si je me sens horrible après une séance matinale ?"
     a: "C'est le signe d'une mauvaise intensité, pas d'une mauvaise heure. Une séance à 5 h doit être modérée à difficile, jamais maximale. Si vous êtes détruit à 9 h, vous en faites trop. Une séance matinale d'intensité modérée donne de l'énergie au lieu d'en prendre."
 relatedArticles:
-  - "i-tested-12-morning-routines"
-  - "5-minute-morning-habit"
-  - "hydration-performance"
-  - "recovery-is-training"
-  - "strength-is-a-skill"
-  - "fuel-before-willpower"
+  - "body-votes-first"
+  - "consistance-bat-intensite"
+  - "force-mentale-sport"
+  - "guide-debutant-fitness"
 ---
 
 <div data-i18n-html="article_the-morning-athlete_p1"><blockquote><strong>Medical Disclaimer</strong>: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.</blockquote></div>

@@ -30,11 +30,10 @@ faq:
     a: "Working memory holds only 4±1 chunks at a time (Cowan, 2001). Unwritten goals compete with every other thought and get overwritten within 48 hours. Writing externalizes the goal into your environment where it can 'remind' you through visual cues, bypassing the memory bottleneck entirely."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "rendez-compte-objectifs"
+  - "retroengineering-objectifs"
+  - "smart-goals"
+  - "sprint-90-jours"
 ---
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p2">Studies show you are 42% more likely to achieve goals when you write them down. Learn why writing transforms wishes into reality.</div>

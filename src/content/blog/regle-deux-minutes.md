@@ -31,11 +31,10 @@ faq:
     a: "1) Write the habit you want. 2) Scale it to a version taking under 120 seconds (put on running shoes = exercise). 3) Do only that version for 2 weeks until it feels automatic. 4) Gradually expand duration. Never skip the 2-minute version even on bad days."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
   - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "identity-challenge-7-days"
+  - "make-good-habits-obvious"
+  - "missed-day-protocol"
 ---
 
 <div data-i18n-html="article_regle-deux-minutes_p2">Discover the two-minute rule that has helped millions start new habits. Simple, powerful, and works every single time.</div>

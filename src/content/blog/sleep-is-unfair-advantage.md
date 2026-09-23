@@ -45,12 +45,10 @@ faqFr:
   - q: "La sieste : bonne ou mauvaise ?"
     a: "Les siestes courtes (10 à 20 minutes, avant 14 h) améliorent la performance de l'après-midi sans affecter le sommeil de nuit. Les siestes plus longues (30 minutes et plus) ou tardives (après 15 h) peuvent désorganiser l'architecture du sommeil nocturne. Si vous êtes assez fatigué pour avoir besoin d'une longue sieste, c'est votre sommeil de nuit qui demande d'abord votre attention."
 relatedArticles:
-  - "routine-matin-sante"
-  - "hydration-performance"
-  - "recovery-is-training"
-  - "i-tested-12-morning-routines"
-  - "nervous-system-reset-focus"
-  - "fuel-before-willpower"
+  - "detox-numerique"
+  - "move-daily-not-perfectly"
+  - "nervous-system-is-the-boss"
+  - "rest-is-a-decision-not-a-collapse"
 ---
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p2"><strong>The cheapest way to improve sleep quality:</strong> cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and typically improve sleep quality by 20-30% within 2 weeks. Consumer sleep trackers are useful for trends but not absolute measurements. The best tracker is your subjective morning energy.</div>

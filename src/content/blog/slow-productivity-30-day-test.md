@@ -45,12 +45,10 @@ faqFr:
   - q: "Et si je travaille pour quelqu'un d'autre et ne choisis pas mes projets ?"
     a: "Vous pouvez quand même appliquer le principe : protéger des blocs de travail profond, refuser les réunions excessives et soigner obsessionnellement la qualité de vos 2 ou 3 livrables les plus importants. Le principe de la productivité lente tient même quand on ne maîtrise pas complètement sa charge de projets."
 relatedArticles:
-  - "deep-work-ritual"
-  - "deep-work-focus"
-  - "batching-productivite"
-  - "technique-pomodoro"
-  - "time-blocking-journee"
-  - "discipline-beat-motivation"
+  - "productivite-efficace"
+  - "quiet-power-of-doing-less"
+  - "real-reason-you-procrastinate"
+  - "regle-2-min-productivite"
 ---
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p2"><strong>Slow productivity</strong> is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days and cut my active projects in half while doubling output quality. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.</div>

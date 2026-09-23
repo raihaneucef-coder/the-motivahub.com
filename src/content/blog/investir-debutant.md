@@ -30,11 +30,10 @@ faq:
     a: "Returns generate their own returns. Invest 200€/month at 8%: year 1 = 2,571€; year 10 = 36,547€; year 30 = 298,000€. The last 10 years generate more than the first 20 combined. Starting 5 years earlier adds approximately 40% to your final total — time is more powerful than amount."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "debt-is-a-story"
+  - "earn-keep-grow"
+  - "fond-urgence"
+  - "invest-like-beginner"
 ---
 
 <div data-i18n-html="article_investir-debutant_p2">You do not need thousands to start investing. You need consistency. Learn the simplest way to start building wealth from scratch.</div>

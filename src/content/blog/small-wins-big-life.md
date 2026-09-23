@@ -32,11 +32,10 @@ faq:
     a: "1) Read 1 page (often becomes 10). 2) Do 1 pushup (often becomes 20). 3) Write 1 sentence. 4) Walk 2 minutes. 5) Meditate for 30 seconds. 6) Wash 1 dish. The rule: make it so easy you can't say no. Once started, the Zeigarnik effect compels completion."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "comment-creer-des-habitudes"
+  - "environnement-beat-volonte"
+  - "habit-stacking-made-simple"
+  - "habit-stacking-routine"
 ---
 
 <div data-i18n-html="article_small-wins-big-life_p2">Big change does not require big actions — it requires small wins, repeated. Learn how tiny habits build a big life.</div>

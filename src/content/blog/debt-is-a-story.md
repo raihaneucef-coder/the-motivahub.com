@@ -33,11 +33,10 @@ faq:
     a: "Separate identity from circumstance. Replace 'I'm bad with money' with 'I made decisions based on information I had.' Then create a new narrative with numbers: list every debt as a line item, make one plan, track progress. Action rewrites the story faster than affirmations — each payment is a sentence in your new chapter."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "fond-urgence"
+  - "invest-like-beginner"
+  - "investir-debutant"
+  - "paycheck-trap"
 ---
 
 <div data-i18n-html="article_debt-is-a-story_p2">Debt feels like a character flaw — it is not. It is a story with numbers. Rewrite the numbers and the story changes.</div>

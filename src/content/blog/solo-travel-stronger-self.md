@@ -32,11 +32,10 @@ faq:
     a: "A 2018 Cornell study found solo travelers reported higher self-direction and personal growth than group travelers. The mechanism: without familiar social roles, you experiment with new identities, solve problems independently, and build the evidence-based confidence that I figured it out alone."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "beginner-again"
+  - "pack-light-stay-long"
+  - "the-detour-is-the-destination"
+  - "voyage-budget"
 ---
 
 <div data-i18n-html="article_solo-travel-stronger-self_p2">Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself.</div>

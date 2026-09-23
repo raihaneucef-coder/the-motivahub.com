@@ -37,11 +37,10 @@ faqFr:
     a: "Michael Jordan a été rejeté de son équipe de lycée. J.K. Rowling a été refusée par 12 éditeurs. Oprah a été licenciée de son premier job TV. Walt Disney a été renvoyé pour « manque d'imagination »."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "mindset-etat-esprit"
+  - "motivation-fades-systems-dont"
+  - "puissance-dialogue-interieur"
+  - "resilience-mentale"
 ---
 
 <div data-i18n-html="article_echec-meilleur-professeur_p2">Stop fearing failure and start using it. Discover why the most successful people fail the most — and what they do differently.</div>

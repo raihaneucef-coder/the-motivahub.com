@@ -38,11 +38,10 @@ faqFr:
     a: "La recherche montre 2 à 4 semaines de pratique cohérente. Commencez par des blocs de 10 minutes, ajoutez 5 minutes par semaine. À la semaine 4, la plupart des gens soutiennent 60-90 minutes de travail profond."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "focus-on-yourself-stay-silent-shi-heng-yi"
+  - "growth-mindset-rewire"
+  - "habitudes-mentales-performants"
+  - "identity-precedes-outcome"
 ---
 
 <div data-i18n-html="article_focus-monde-distractions_p2">Your attention is the most valuable asset you own. Learn how to protect it, sharpen it, and use it to achieve what matters most.</div>

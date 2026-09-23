@@ -49,11 +49,10 @@ faqFr:
   - q: "Comment savoir si ma discipline est en fait une punition ?"
     a: "Trois tests. (1) Test de direction : le travail construit-il quelque chose ou détruit-il quelque chose ? (2) Test d'identité : le travail vote-t-il pour la personne que vous voulez devenir, ou punit-il la personne que vous êtes aujourd'hui ? (3) Test de rétablissement : le travail inclut-il le repos, la nourriture et la bonté, ou seulement plus de souffrance ? Si l'une des réponses est « punition », le système est cassé. L'article détaille chaque test et donne le protocole de rétablissement pour les systèmes qui ont franchi la ligne."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "athlete-discipline"
+  - "cant-hurt-me-review"
+  - "comment-devenir-mentalement-inebranlable"
+  - "discipline-beat-motivation"
 ---
 
 <div data-i18n-html="article_discipline-vs-punishment_p2">Discipline builds the person. Punishment breaks them. The psychological difference — and the moment most people cross from one to the other without realizing. Three tests to tell them apart.</div>

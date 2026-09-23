@@ -35,11 +35,10 @@ faqFr:
     a: "Parce que votre cerveau ignore les affirmations non méritées. Dire « je suis confiant » sans preuve crée une dissonance cognitive. Mais faire une petite action courageuse crée des données réelles."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "arreter-couper-avis"
+  - "art-dire-non"
+  - "community-discipline"
+  - "confiance-inbranlable"
 ---
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p2">Confidence is not a feeling you wait for — it is a record you build, one kept promise at a time.</div>

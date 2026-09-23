@@ -32,11 +32,10 @@ faq:
     a: "Willpower and decision-making capacity are highest after sleep (prefrontal cortex rested). Every decision you make throughout the day depletes this resource. Morning systems (wake, train, write) run on full battery; evening systems require willpower you've already spent. Design around your biology."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "growth-mindset-rewire"
+  - "habitudes-mentales-performants"
+  - "identity-precedes-outcome"
+  - "mindset-etat-esprit"
 ---
 
 <div data-i18n-html="article_motivation-fades-systems-dont_p2">You do not need more motivation. You need a system that works on the days motivation refuses to show up.</div>

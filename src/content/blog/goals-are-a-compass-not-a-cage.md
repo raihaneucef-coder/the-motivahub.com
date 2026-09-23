@@ -32,11 +32,10 @@ faq:
     a: "Ask one question nightly: 'Did I move north today, even slightly?' Celebrate the smallest directional action. Weekly, reassess whether the compass still points where you want to go. This keeps you accountable without all-or-nothing thinking."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "process-vs-outcome"
+  - "rendez-compte-objectifs"
+  - "retroengineering-objectifs"
+  - "smart-goals"
 ---
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p2">A good goal does not trap you — it points you. Learn how to set goals that pull you forward without breaking you.</div>

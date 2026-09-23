@@ -44,11 +44,10 @@ faqFr:
   - q: "Comment suivre ma chaîne au mieux ?"
     a: "Un calendrier papier (la méthode originale de Jerry Seinfeld), une application d'habitudes ou un simple carnet. Le format n'a pas d'importance. La régularité, si. Marquez chaque jour où vous faites l'habitude. Le geste de marquer est déjà sa propre récompense."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "identity-challenge-7-days"
+  - "make-good-habits-obvious"
+  - "missed-day-protocol"
+  - "morning-routines-12-tested"
 ---
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p2"><strong>Jerry Seinfeld's habit strategy:</strong> mark an X on a calendar every day you complete your habit, and never break the chain. It works because of loss aversion, visual proof, and momentum. The longer the chain, the harder it is to break. The practical version includes the 2-day rule: never miss twice, not never miss once.</div>

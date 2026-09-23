@@ -30,11 +30,10 @@ faq:
     a: "Track inputs, not outcomes. Count days showing up, not pounds lost or dollars earned. The 'plateau of latent potential' (James Clear): 90% of results arrive in the final 10% of time. Use a visible streak calendar — the chain itself becomes motivation once it's 20+ days long."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "growth-mindset-rewire"
+  - "habitudes-mentales-performants"
+  - "identity-precedes-outcome"
+  - "mindset-etat-esprit"
 ---
 
 <div data-i18n-html="article_secret-reussite_p2">Discover the hidden pattern behind consistent success. It is not talent, luck, or connections — it is something far more simple and powerful.</div>

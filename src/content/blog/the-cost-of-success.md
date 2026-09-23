@@ -32,11 +32,10 @@ faq:
     a: "Because achievement answers external questions (am I good enough?) without addressing internal ones (who am I without the chase?). The brain reward system is designed for pursuit, not possession. Dopamine fires on the hunt, not the meal. Sustainable fulfillment comes from meaning, not milestones." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "discipline-depass-motivation"
+  - "echec-retroaction"
+  - "mythe-reussite-instantanee"
+  - "psychology-of-money-business"
 ---
 
 <div data-i18n-html="article_the-cost-of-success_p2">Every success has a price paid in advance — in boredom, in no, and in staying when it would be easier to leave.</div>

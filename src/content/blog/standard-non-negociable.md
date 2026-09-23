@@ -31,11 +31,10 @@ faq:
     a: "Between 3 and 5. Too few and the system lacks structure; too many and compliance feels overwhelming. Start with the three rules that would make the biggest impact if never broken, then add more only after 60 days of full consistency."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
   - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "inconfort-volontaire"
+  - "pouvoir-du-non"
+  - "regle-40-pourcent"
 ---
 
 <div data-i18n-html="article_standard-non-negociable_p2">The most disciplined people have one thing in common: non-negotiable standards. Learn how to set rules that create consistency without willpower.</div>

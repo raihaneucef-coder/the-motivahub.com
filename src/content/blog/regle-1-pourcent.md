@@ -31,11 +31,10 @@ faq:
     a: "Not literally every day — progress is non-linear. The 1% rule works as a mindset shift: focus on direction, not speed. Measuring weekly averages (did I show up 6/7 days?) beats obsessing over daily perfection. Most people improve 0.3-0.7% on average and still get massive annual results."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "secure-self"
+  - "social-muscle"
+  - "the-comeback-is-stronger"
+  - "zone-confort-croissance"
 ---
 
 <div data-i18n-html="article_regle-1-pourcent_p2">Improving by just 1% per day makes you 37 times better in one year. The math is simple. The execution requires discipline.</div>

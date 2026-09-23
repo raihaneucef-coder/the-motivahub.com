@@ -31,11 +31,10 @@ faq:
 bookSlug: deep-work
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "slow-productivity-30-day-test"
+  - "technique-pomodoro"
+  - "time-blocking-journee"
+  - "vaincre-procrastination"
 ---
 
 <div data-i18n-html="article_deep-work-ritual_p2">Distraction is the default. Focus is the exception. After a dozen failed attempts at rituals, here is the one deep work stack that survived contact with a real Tuesday.</div>

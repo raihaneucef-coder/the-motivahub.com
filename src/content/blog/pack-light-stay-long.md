@@ -32,11 +32,10 @@ faq:
     a: "The 'just in case' items — book 3, laptop for 'maybe work', 4 outfit options per day. These cost weight at every transition to protect against a scenario that happens <10% of the time. The discipline of packing light teaches you that you can solve problems locally, not pre-emptively."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "solo-travel-stronger-self"
+  - "the-detour-is-the-destination"
+  - "voyage-budget"
+  - "voyage-lent"
 ---
 
 <div data-i18n-html="article_pack-light-stay-long_p2">The best travelers carry less and stay longer. What you leave behind matters more than what you bring.</div>

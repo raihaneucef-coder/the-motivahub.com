@@ -32,11 +32,10 @@ faq:
     a: "Passive: complete rest (sleep, nap, do nothing). Active: low-intensity movement that increases blood flow without creating fatigue (walking, light cycling, swimming, yoga). Active recovery clears lactate 2x faster than sitting still but requires heart rate below 60% max."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "consistance-bat-intensite"
+  - "force-mentale-sport"
+  - "guide-debutant-fitness"
+  - "run-your-own-race"
 ---
 
 <div data-i18n-html="article_recovery-is-training_p2">You do not get stronger by lifting — you get stronger by recovering from lifting. Rest is not the absence of training.</div>

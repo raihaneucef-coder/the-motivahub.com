@@ -30,11 +30,10 @@ faq:
     a: "Goals create a binary: success or failure. You either hit it or you didn't. Identity creates a spectrum: you're always 'becoming.' On a bad day, the goal-person quits because they 'failed.' The identity-person shows up because one bad day doesn't erase who they are. Direction survives what resolution cannot."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "puissance-dialogue-interieur"
+  - "resilience-mentale"
+  - "secret-reussite"
+  - "tyranny-of-the-visible-timeline"
 ---
 
 <div data-i18n-html="article_identity-precedes-outcome_p3">You do not rise to the level of your goals; you fall to the level of your identity. Lasting change begins not with what you want, but with who you are.</div>

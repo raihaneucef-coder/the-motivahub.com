@@ -42,11 +42,10 @@ faqFr:
     a: "Concevez le voyage pour une compagnie facultative plutôt que nécessaire. Restez dans des lieux avec des espaces partagés, faites une activité de groupe par jour — visite à pied, cours — et gardez les soirées ouvertes pour pouvoir dire oui. La solitude sur la route est presque toujours un problème de temps libre non structuré, et un plan souple pour ces moments vides le résout."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "solo-travel-stronger-self"
+  - "the-detour-is-the-destination"
+  - "voyage-budget"
+  - "voyage-lent"
 ---
 
 <div data-i18n-html="article_voyage-solo_p2">Solo travel is not about being lonely — it is about being free. Learn why traveling alone is the most transformative experience you can have.</div>

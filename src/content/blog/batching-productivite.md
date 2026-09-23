@@ -42,11 +42,10 @@ faqFr:
   - q: "Le regroupement fonctionne-t-il pour le travail créatif ?"
     a: "Oui. Le regroupement créatif consiste à concentrer tout le travail créatif dans un seul bloc. Écrire tous les articles d'une traite. Enregistrer toutes les vidéos dans une même session. Concevoir tous les visuels dans un seul bloc. Le mode créatif est difficile à atteindre, mais une fois dedans, restez-y."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "real-reason-you-procrastinate"
+  - "regle-2-min-productivite"
+  - "slow-productivity-30-day-test"
+  - "technique-pomodoro"
 ---
 
 <div data-i18n-html="article_batching-productivite_p2">Batching is grouping similar tasks together to minimize context switching. Learn how this simple technique can double your productivity.</div>

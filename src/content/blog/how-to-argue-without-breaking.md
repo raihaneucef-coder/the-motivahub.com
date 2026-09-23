@@ -33,11 +33,10 @@ faq:
     a: "Wait until calm (minimum 30 min). Open with ownership ('I'm sorry I raised my voice'), not conditions ('I'm sorry but you...'). Ask 'what did you need in that moment that you didn't get?' Listen without defending. Physical touch (hand on shoulder) releases oxytocin and signals safety restoration."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "love-is-a-practice"
+  - "people-who-raise-your-floor"
+  - "resolution-conflits"
+  - "styles-attachement"
 ---
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p2">Disagreement is not the enemy of love — distance is. Learn the art of arguing in a way that leaves you closer.</div>

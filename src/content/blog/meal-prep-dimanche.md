@@ -31,11 +31,10 @@ faq:
     a: "Research shows meal preppers consume 25% more vegetables and reduce fast food frequency by half. The mechanism: when a healthy option is ready in the fridge, decision fatigue disappears. You eat what you prepared instead of ordering takeout at 7pm when willpower is depleted."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "jeune-intermittent"
+  - "protein-is-not-just-for-athletes"
+  - "the-plate-that-keeps-you-steady"
+  - "water-before-willpower"
 ---
 
 <div data-i18n-html="article_meal-prep-dimanche_p2">Meal prepping saves time, money, and willpower. Learn the simple system that makes healthy eating effortless.</div>

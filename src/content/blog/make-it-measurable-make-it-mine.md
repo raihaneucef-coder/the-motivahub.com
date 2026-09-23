@@ -32,11 +32,10 @@ faq:
     a: "When you measure something yourself, it becomes YOUR data — not someone else's judgment. The act of tracking transforms an obligation ('I should exercise') into a personal system ('I'm at day 14 of my streak'). Autonomy and competence are core psychological needs — measurement serves both."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "pouvoir-ecrire-objectifs"
+  - "process-vs-outcome"
+  - "rendez-compte-objectifs"
+  - "retroengineering-objectifs"
 ---
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p2">A vague goal inspires no one, least of all you. Make it measurable, make it personal, and let progress pull you.</div>

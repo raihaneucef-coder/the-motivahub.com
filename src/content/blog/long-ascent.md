@@ -30,11 +30,10 @@ faq:
     a: "Minimum 90 days for physical changes, 6 months for skill acquisition, and 12 months for financial/career shifts. The 'plateau of latent potential' means visible results lag actual progress by weeks. If you haven't given a consistent effort 90 days, you don't have data — you have impatience."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "journal-croissance"
+  - "regle-1-pourcent"
+  - "secure-self"
+  - "social-muscle"
 ---
 
 <div data-i18n-html="article_long-ascent_p2">There are two kinds of climbers — the ones who sprint and the ones who ascend. The sprinters hit a wall. The ascenders reach the summit. Here is why the long climb wins.</div>

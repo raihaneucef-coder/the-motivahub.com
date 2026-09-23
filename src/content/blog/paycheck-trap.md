@@ -32,11 +32,10 @@ faq:
     a: "Income is what you earn; wealth is what you keep and what earns for you while you sleep. A 150k€ earner with 140k€ spending has less freedom than a 45k€ earner with 15k invested monthly. Wealth = assets minus liabilities. The paycheck trap keeps you trading time for money at any salary level."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "fond-urgence"
+  - "invest-like-beginner"
+  - "investir-debutant"
+  - "price-of-freedom"
 ---
 
 <div data-i18n-html="article_paycheck-trap_p2">A higher income feels like freedom until lifestyle rises with it. Learn how to keep the raise you just earned.</div>

@@ -50,10 +50,10 @@ faqFr:
   - q: "Comment appliquer la règle des 40 % dès aujourd'hui ?"
     a: "Choisissez une chose que vous avez abandonnée cette semaine. Reprenez-la. Quand votre esprit dit stop, donnez-lui dix minutes de plus. C'est le point d'entrée. Vous découvrirez que vous en avez plus que prévu."
 relatedArticles:
-  - "discipline-beat-motivation"
+  - "inconfort-volontaire"
+  - "pouvoir-du-non"
+  - "regle-40-pourcent"
   - "regles-goggins-mental"
-  - "voluntary-discomfort-secret-mental-toughness"
-  - "how-to-build-unshakable-self-confidence-30-days"
 ---
 
 <div data-i18n-html="article_cant-hurt-me-review_p2">After three reads of David Goggins' book across two years, here's the real lesson the headlines miss — and the one that actually changed my discipline. With brutal honesty and a 30-day plan.</div>

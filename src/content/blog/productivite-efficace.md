@@ -35,11 +35,10 @@ faq:
 noindex: true
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "regle-2-min-productivite"
+  - "slow-productivity-30-day-test"
+  - "technique-pomodoro"
+  - "time-blocking-journee"
 ---
 
 <div data-i18n-html="article_productivite-efficace_p2">Boost your productivity with proven strategies. Learn to manage your time, eliminate distractions, and focus on what truly matters.</div>

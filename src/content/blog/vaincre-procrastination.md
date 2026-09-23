@@ -34,11 +34,10 @@ faq:
 noindex: true
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "real-reason-you-procrastinate"
+  - "regle-2-min-productivite"
+  - "slow-productivity-30-day-test"
+  - "technique-pomodoro"
 ---
 
 <div data-i18n-html="article_vaincre-procrastination_p2">Understand why you procrastinate and learn proven techniques to beat it forever. Practical strategies to take action now.</div>

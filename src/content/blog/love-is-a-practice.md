@@ -32,11 +32,10 @@ faq:
     a: "Infatuation is projection — you love the idea of them. Real love is perception — you see their full humanity and choose them anyway. Infatuation feels effortless; real love costs something and you pay willingly. The shift happens when you stop asking 'how do they make me feel?' and start asking 'how do I show up for them?'"
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "habitude-5-min-relations"
+  - "how-to-argue-without-breaking"
+  - "people-who-raise-your-floor"
+  - "resolution-conflits"
 ---
 
 <div data-i18n-html="article_love-is-a-practice_p2">We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows.</div>

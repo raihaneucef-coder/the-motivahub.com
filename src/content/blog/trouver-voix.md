@@ -31,11 +31,10 @@ faq:
     a: "Assertiveness states your needs clearly while respecting others' right to disagree. Aggression imposes your needs at others' expense. Formula: 'I feel/need X when Y happens, and I'd prefer Z.' This owns your position without attacking the listener."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "community-discipline"
+  - "confiance-inbranlable"
+  - "confidence-is-a-record-not-a-feeling"
+  - "langage-corps-confiance"
 ---
 
 <div data-i18n-html="article_trouver-voix_p2">Your voice matters. But if you never use it, no one will hear it. Learn how to speak up with clarity, conviction, and confidence.</div>

@@ -30,11 +30,10 @@ faq:
     a: "Affirmations ('I am successful') often backfire when your brain rejects them as false. Instructional self-talk ('Focus on the next step') works because it's true and actionable. Replace 'I am the best' with 'I'm prepared, I'll take it one rep at a time.' The brain trusts process language over outcome language."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "echec-meilleur-professeur"
+  - "focus-monde-distractions"
+  - "focus-on-yourself-stay-silent-shi-heng-yi"
+  - "growth-mindset-rewire"
 ---
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p2">Your inner voice creates your outer world. Learn how to master self-talk and transform your mindset for lasting success.</div>

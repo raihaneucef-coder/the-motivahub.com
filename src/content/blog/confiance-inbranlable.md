@@ -43,11 +43,10 @@ faqFr:
     a: "Parce que l'évitement supprime toute chance de rassembler des preuves du contraire. Chaque fois que vous fuyez une situation, vous vous convincez que vous n'auriez pas su la gérer, et le périmètre de ce qui semble sûr se réduit. La confiance ne grandit qu'aux limites de l'inconfort, jamais dans la zone où vous êtes déjà à l'aise."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "arreter-couper-avis"
+  - "art-dire-non"
+  - "community-discipline"
+  - "confidence-is-a-record-not-a-feeling"
 ---
 
 <div data-i18n-html="article_confiance-inbranlable_p2">Confidence is not something you are born with. It is something you build, one decision at a time. Here is your 30-day plan.</div>

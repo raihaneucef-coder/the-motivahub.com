@@ -42,11 +42,10 @@ faqFr:
   - q: "Le calme s'apprend-il ?"
     a: "Oui. Le calme est une compétence, pas un trait. Il se construit comme un muscle, par petites répétitions. Une respiration. Une pause. Un instant d'immobilité. Avec le temps, ces petites pratiques deviennent automatiques."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "detox-numerique"
+  - "move-daily-not-perfectly"
+  - "nervous-system-is-the-boss"
+  - "rest-is-a-decision-not-a-collapse"
 ---
 
 <div data-i18n-html="article_calm-is-a-superpower_p2">The room quiets when calm walks in. In a world of noise, the ability to stay centered is the rarest skill. Here is how to build it — without years of meditation.</div>

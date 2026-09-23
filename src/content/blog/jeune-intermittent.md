@@ -30,11 +30,10 @@ faq:
     a: "For healthy adults, yes. Daily 16:8 shows no muscle loss when protein intake is adequate (1.6g/kg) and no metabolic slowdown in trials up to 12 months. Not recommended for: pregnant women, history of eating disorders, type 1 diabetes, or under-medication without doctor supervision."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "eat-on-time-not-on-emotion"
+  - "fuel-before-willpower"
+  - "hydratation-performance"
+  - "meal-prep-dimanche"
 ---
 
 <div data-i18n-html="article_jeune-intermittent_p2">Intermittent fasting is the most popular eating pattern in the world. But does it actually deliver results? The science says yes — with a caveat.</div>

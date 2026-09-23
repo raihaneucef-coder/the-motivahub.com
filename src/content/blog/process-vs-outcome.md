@@ -42,11 +42,10 @@ faqFr:
     a: "Posez trois questions dans l'ordre. D'abord : quel résultat je veux ? Ensuite : quel standard me dirait que j'y arrive ? Enfin : quelle action unique, faite chaque jour, fait avancer ce standard ? Écrivez la troisième réponse avec une heure et un lieu. Si elle est impossible lors de votre pire journée, réduisez-la jusqu'à ce qu'elle le soit."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "pouvoir-ecrire-objectifs"
+  - "rendez-compte-objectifs"
+  - "retroengineering-objectifs"
+  - "smart-goals"
 ---
 
 <div data-i18n-html="article_process-vs-outcome_p2">Stop obsessing over outcomes. Process goals — the daily actions — are what actually produce results. Learn to focus on what you can control.</div>

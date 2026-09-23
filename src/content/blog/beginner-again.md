@@ -42,11 +42,10 @@ faqFr:
   - q: "Combien de temps voyager pour en tirer le bénéfice ?"
     a: "Il ne faut pas un long voyage. Un week-end dans une ville dont vous ne savez pas prononcer le nom suffit. L'exigence n'est pas la distance. C'est l'étrangeté. Allez là où votre compétence ne pèse rien, là où chaque heure vous demande d'apprendre."
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "solo-travel-stronger-self"
+  - "the-detour-is-the-destination"
+  - "voyage-budget"
+  - "voyage-lent"
 ---
 
 <div data-i18n-html="article_beginner-again_p2">Travel is not escape — it is the fastest way to reset arrogance and remember how much there is left to learn. New roads return you hungrier than you left.</div>

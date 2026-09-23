@@ -43,11 +43,10 @@ faqFr:
     a: "Quand « deux minutes » est optimiste. Si une réponse d'une ligne se transforme en fil de quinze minutes, notez-la comme tâche et planifiez-la. Utilisez la règle pour éliminer les actions réellement minuscules, et regroupez ou planifiez tout ce qui est appelé à s'étendre."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "batching-productivite"
+  - "deep-work-focus"
+  - "deep-work-ritual"
+  - "eat-the-frog"
 ---
 
 <div data-i18n-html="article_regle-2-min-productivite_p2">The 2-minute rule is the simplest productivity hack that actually works. If it takes less than 2 minutes, do it now.</div>

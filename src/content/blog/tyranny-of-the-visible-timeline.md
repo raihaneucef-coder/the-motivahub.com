@@ -32,11 +32,10 @@ faq:
     a: "Track your own baseline (month 1 vs month 6), not external ones. The compound curve is non-linear: 5 years of flat then sudden visible results. If you judge by looking down (comparison to others), you quit. If you judge by looking forward (am I closer to my own standard?), you continue." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "puissance-dialogue-interieur"
+  - "resilience-mentale"
+  - "secret-reussite"
+  - "viral-mindset-shift"
 ---
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p2">Most quitting has nothing to do with the goal being wrong. It has to do with the clock being visible.</div>

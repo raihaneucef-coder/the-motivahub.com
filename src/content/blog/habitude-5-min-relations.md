@@ -31,11 +31,10 @@ faq:
     a: "Stack it onto an existing shared moment: after dinner, before bed, when you both get home. Set a gentle phone reminder for the first two weeks. Once the check-in becomes automatic (66 days average), skipping it will feel weirder than doing it — the habit loop takes over."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "how-to-argue-without-breaking"
+  - "love-is-a-practice"
+  - "people-who-raise-your-floor"
+  - "resolution-conflits"
 ---
 
 <div data-i18n-html="article_habitude-5-min-relations_p2">Most relationships do not die from big betrayals. They die from small neglects. This 5-minute habit prevents that.</div>

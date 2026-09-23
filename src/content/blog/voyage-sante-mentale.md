@@ -30,11 +30,10 @@ faq:
     a: "The active ingredient is novelty and environmental change, not distance. Walk a new route, visit a neighborhood you've never explored, eat outdoors, change your workspace weekly. Studies show even 20 minutes in a new environment improves cognitive flexibility and mood through mild novelty stimulation."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "the-detour-is-the-destination"
+  - "voyage-budget"
+  - "voyage-lent"
+  - "voyage-solo"
 ---
 
 <div data-i18n-html="article_voyage-sante-mentale_p2">Travel is not a luxury — it is therapy. New environments reduce stress, boost creativity, and improve mental health. Here is the science.</div>

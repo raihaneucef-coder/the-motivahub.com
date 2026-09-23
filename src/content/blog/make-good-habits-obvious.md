@@ -32,11 +32,10 @@ faq:
     a: "93% of brain processing is visual, and cues in your sight-line automatically trigger craving and action sequences (Duke University habit research). A guitar on a stand gets played daily; the same guitar in a closet gets forgotten. You're not lazy — you're cue-starved."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "ne-brise-jamais-chaine"
+  - "nervous-system-reset-focus"
+  - "regle-21-jours"
+  - "regle-deux-minutes"
 ---
 
 <div data-i18n-html="article_make-good-habits-obvious_p2">You do not need more willpower — you need a clearer path. Design your world so good habits are easy to see and bad ones are hard to find.</div>

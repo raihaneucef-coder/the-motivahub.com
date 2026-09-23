@@ -33,11 +33,10 @@ faqFr:
     a: "Abaissez la barre, pas le standard. Les mauvais jours, faites la version minimale : 5 pompes au lieu de 50, 1 page au lieu d'un chapitre. L'objectif n'est pas l'entraînement — c'est de garder la chaîne vivante."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "force-mentale-sport"
+  - "guide-debutant-fitness"
+  - "recovery-is-training"
+  - "run-your-own-race"
 ---
 
 <div data-i18n-html="article_consistance-bat-intensite_p2">The best athletes are not the most talented. They are the most consistent. Learn why showing up every day beats showing off occasionally.</div>

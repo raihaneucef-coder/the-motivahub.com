@@ -30,11 +30,10 @@ faq:
     a: "Paradoxically, yes. Research on boundaries (Nedbriukh, 2022) shows people respect those with clear limits more than constant agreeable people. Chronic yes-sayers are perceived as low-commitment because their yes means nothing — it's always given."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "cant-hurt-me-review"
+  - "comment-devenir-mentalement-inebranlable"
+  - "discipline-beat-motivation"
+  - "discipline-choix-quotidien"
 ---
 
 <div data-i18n-html="article_pouvoir-du-non_p2">Every yes is a no to something else. Learn why saying no is the most important discipline you can build and how to do it without guilt.</div>

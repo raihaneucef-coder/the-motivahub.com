@@ -32,11 +32,10 @@ faq:
     a: "No, because the practical application is specific: you can be fully committed to a destination AND present at every unplanned stop. These are not contradictions. Navy SEALs train for the mission but adapt to terrain. Hold the vision loosely, execute the steps tightly." 
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "voyage-budget"
+  - "voyage-lent"
+  - "voyage-sante-mentale"
+  - "voyage-solo"
 ---
 
 <div data-i18n-html="article_the-detour-is-the-destination_p2">The best travel stories never happened on the planned route. They happened on the detour you almost skipped.</div>

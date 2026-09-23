@@ -33,11 +33,10 @@ faq:
     a: "You see the finished product publicly but never the 19 chapters of invisible struggle, failures, and boring consistency. Someone 'overnight successful' has usually been building for 7-15 years. Judge your journey by your own pace, not their visible highlight."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "force-mentale-sport"
+  - "guide-debutant-fitness"
+  - "recovery-is-training"
+  - "strength-is-a-skill"
 ---
 
 <div data-i18n-html="article_run-your-own-race_p2">The fastest way to lose a race is to run someone else's. Learn to hold your pace when everyone sprints.</div>

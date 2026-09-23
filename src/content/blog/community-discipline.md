@@ -31,11 +31,10 @@ faq:
     a: "Yes — solitude builds self-trust and internal motivation. The healthiest pattern is both: community for consistency on weak days, solitude for depth and self-knowledge on strong ones. 'You go faster alone, but you last longer together' means solo sprints work; solo marathons don't."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "art-dire-non"
+  - "confiance-inbranlable"
+  - "confidence-is-a-record-not-a-feeling"
+  - "langage-corps-confiance"
 ---
 
 <div data-i18n-html="article_community-discipline_p2">From business to sport, the most resilient people are never alone. Why a timeless social lesson endures: you go faster alone, but you last longer together.</div>

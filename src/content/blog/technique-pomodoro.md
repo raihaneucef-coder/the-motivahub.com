@@ -31,11 +31,10 @@ faq:
     a: "Three psychological mechanisms: 1) Time-boxing reduces procrastination ('only 25 minutes'). 2) Forced breaks reset attention and prevent diminishing returns. 3) Tallying completed Pomodoros gives tangible progress, triggering dopamine and sustaining motivation throughout the day."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "productivite-efficace"
+  - "quiet-power-of-doing-less"
+  - "real-reason-you-procrastinate"
+  - "regle-2-min-productivite"
 ---
 
 <div data-i18n-html="article_technique-pomodoro_p2">The Pomodoro Technique is the simplest productivity system in the world. Work for 25 minutes, break for 5, repeat. Here is why it works.</div>

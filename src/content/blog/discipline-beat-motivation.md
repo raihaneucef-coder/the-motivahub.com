@@ -37,11 +37,10 @@ faqFr:
     a: "Oui. Après 66 jours de répétition cohérente (recherche UCL), les comportements passent du cortex préfrontal (effort) aux ganglions de la base (automatique). Ce qui semble impossible en semaine 1 devient inconscient en semaine 10."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "athlete-discipline"
+  - "cant-hurt-me-review"
+  - "comment-devenir-mentalement-inebranlable"
+  - "discipline-choix-quotidien"
 ---
 
 <div data-i18n-html="article_discipline-beat-motivation_p2">Motivation is a visitor. Discipline is a resident. Learn why relying on motivation guarantees failure and how to build discipline instead.</div>

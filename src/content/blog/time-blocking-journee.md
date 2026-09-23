@@ -31,11 +31,10 @@ faq:
     a: "1) List tasks for tomorrow (evening before). 2) Assign each a realistic time slot in your calendar. 3) Group shallow work (email, admin) into one block. 4) Protect 2-3 deep work blocks during your peak energy hours. 5) Add 15-minute buffers between blocks. Adjust after one week based on what actually took how long."
 
 relatedArticles:
-  - "atomic-habits-ultimate-guide"
-  - "2-minute-rule-system"
-  - "identity-based-habits-90-day-test"
-  - "discipline-vs-punishment"
-  - "the-morning-athlete"
+  - "deep-work-focus"
+  - "deep-work-ritual"
+  - "eat-the-frog"
+  - "gestion-energie"
 ---
 
 <div data-i18n-html="article_time-blocking-journee_p2">Time blocking is the practice of assigning every hour of your day to a specific task. Learn how to take control of your calendar and your life.</div>
