@@ -51,7 +51,7 @@ const navItems = [
         <span class="lang-sep">/</span>
         <button class="lang-btn" data-lang="fr" aria-label="Passer en français" aria-pressed="false">FR</button>
       </div>
-      <button class="menu-btn" id="menu-btn" aria-label="Open menu" data-magnetic>
+      <button class="menu-btn" id="menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="overlay-menu" data-magnetic>
         <span data-i18n="menu">Menu</span>
         <span class="menu-btn-bars"><span></span><span></span></span>
       </button>
@@ -80,10 +80,32 @@ const navItems = [
   const openMenu = () => {
     overlay.classList.add("open");
     document.body.style.overflow = "hidden";
+    document.body.classList.add("menu-open");
+    menuBtn.setAttribute("aria-expanded", "true");
+    document.addEventListener("keydown", onMenuKey);
+    // Move focus into the menu so keyboard users don't stay behind the overlay.
+    const firstLink = overlay.querySelector(".overlay-nav a");
+    if (firstLink) firstLink.focus();
   };
   const closeMenu = () => {
     overlay.classList.remove("open");
     document.body.style.overflow = "";
+    document.body.classList.remove("menu-open");
+    menuBtn.setAttribute("aria-expanded", "false");
+    document.removeEventListener("keydown", onMenuKey);
+    menuBtn.focus();
+  };
+  const onMenuKey = (e) => {
+    if (e.key === "Escape") { closeMenu(); return; }
+    if (e.key !== "Tab") return;
+    // Minimal focus trap: keep Tab cycling inside the open overlay.
+    const focusables = overlay.querySelectorAll('a[href], button:not([disabled])');
+    if (!focusables.length) return;
+    const first = focusables[0];
+    const last = focusables[focusables.length - 1];
+    if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+    else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    else if (!overlay.contains(document.activeElement)) { e.preventDefault(); first.focus(); }
   };
   menuBtn.addEventListener("click", openMenu);
   menuClose.addEventListener("click", closeMenu);
@@ -95,6 +117,9 @@ const navItems = [
   const resetOverlay = () => {
     overlay.classList.remove("open");
     document.body.style.overflow = "";
+    document.body.classList.remove("menu-open");
+    menuBtn.setAttribute("aria-expanded", "false");
+    document.removeEventListener("keydown", onMenuKey);
   };
 
   const resetPageCurtain = () => {

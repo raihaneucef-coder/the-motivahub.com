@@ -2948,3 +2948,14 @@ body.cookie-visible { padding-bottom: 150px; }
 @media (max-width: 768px) {
   body.cookie-visible { padding-bottom: 300px; }
 }
+
+/* ============================================
+   39. Brand polish: fullscreen menu vs cookie banner
+   ============================================ */
+/* While the MegaMenu overlay is open, slide the consent banner away
+   so it never overlaps the menu footer (class toggled in SiteHeader). */
+body.menu-open #cookie-consent {
+  transform: translateY(110%) !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
