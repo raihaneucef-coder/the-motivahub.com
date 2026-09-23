@@ -2573,3 +2573,279 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   font-family: var(--sans); font-size: 0.75rem; color: #666;
   line-height: 1.6; margin: 28px 0 0; max-width: 72ch;
 }
+
+/* --- 36. About / Author (Phase 8) --- */
+
+/* 36a. About hero — editorial split, cinematic image right */
+.ab-hero {
+  background: #0a0a0a;
+  padding: clamp(100px, 14vh, 140px) 0 clamp(48px, 6vh, 72px);
+}
+.ab-hero-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 0 clamp(20px, 4vw, 56px);
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: clamp(32px, 5vw, 64px); align-items: center;
+}
+.ab-hero-text { display: flex; flex-direction: column; gap: 14px; }
+.ab-hero-eyebrow {
+  font-family: var(--mono); font-size: 0.6875rem;
+  text-transform: uppercase; letter-spacing: 0.22em; color: #ff4d00; margin: 0;
+}
+.ab-hero-title {
+  font-family: var(--serif); font-size: clamp(2.25rem, 4.4vw, 3.35rem);
+  font-weight: 700; line-height: 1.08; color: #f0f0f0; margin: 0; letter-spacing: -0.02em;
+}
+.ab-hero-title em { color: #ff4d00; font-style: normal; }
+.ab-hero-desc {
+  font-family: var(--sans); font-size: 1rem; line-height: 1.65; color: #b0b0b0;
+  max-width: 48ch; margin: 0;
+}
+.ab-hero-cta {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 14px 28px; background: #ff4d00; color: #fff; border-radius: 8px;
+  font-family: var(--sans); font-size: 0.9375rem; font-weight: 600;
+  text-decoration: none; transition: background 0.2s; align-self: flex-start;
+}
+.ab-hero-cta:hover { background: #ff6a2a; }
+.ab-hero-divider { display: block; width: 48px; height: 2px; background: #ff4d00; margin: 8px 0; }
+.ab-hero-tagline {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.18em; color: #888; margin: 0;
+}
+.ab-hero-media {
+  position: relative; border-radius: 12px; overflow: hidden; aspect-ratio: 3/2;
+  border: 1px solid #2a2a2a;
+}
+.ab-hero-media img { width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.ab-hero-img-label {
+  position: absolute; top: 24px; right: 24px;
+  font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase;
+  letter-spacing: 0.16em; color: rgba(255,255,255,0.72); text-align: right;
+  line-height: 1.6; margin: 0;
+}
+@media (max-width: 768px) {
+  .ab-hero-inner { grid-template-columns: 1fr; }
+  .ab-hero-media { aspect-ratio: 16/10; order: -1; }
+  .ab-hero { padding-top: clamp(88px, 12vh, 110px); }
+}
+
+/* 36b. Principles — three numbered columns */
+.ab-principles { padding: clamp(48px, 7vh, 72px) 0; border-top: 1px solid #1e1e1e; }
+.ab-principles-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  gap: clamp(28px, 4vw, 48px);
+}
+.ab-principle { border-top: 2px solid #ff4d00; padding-top: 20px; }
+.ab-principle-num {
+  font-family: var(--mono); font-size: 0.6875rem; letter-spacing: 0.18em; color: #666;
+}
+.ab-principle-word {
+  font-family: var(--serif); font-size: 1.5rem; font-weight: 600; color: #f0f0f0;
+  margin: 10px 0 8px; line-height: 1.2;
+}
+.ab-principle-desc {
+  font-family: var(--sans); font-size: 0.9375rem; line-height: 1.65; color: #b0b0b0; margin: 0;
+}
+@media (max-width: 768px) { .ab-principles-grid { grid-template-columns: 1fr; gap: 32px; } }
+
+/* 36c. Why we exist — narrow prose */
+.ab-why { padding: clamp(56px, 8vh, 88px) 0; border-top: 1px solid #1e1e1e; }
+.ab-why-inner { max-width: 68ch; margin: 0 auto; }
+.ab-section-kicker {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.2em; color: #ff4d00; margin: 0 0 10px;
+}
+.ab-why-inner .journal-section-title { margin: 0 0 28px; }
+.ab-why-lead {
+  font-family: var(--serif); font-size: clamp(1.15rem, 2vw, 1.375rem);
+  line-height: 1.55; color: #e8e8e8; margin: 0 0 22px;
+}
+.ab-why-inner > p:not(.ab-section-kicker):not(.ab-why-lead) {
+  font-family: var(--sans); font-size: 1rem; line-height: 1.75; color: #b0b0b0; margin: 0 0 18px;
+}
+
+/* 36d. Ecosystem — quiet link cards, counts as mono metadata */
+.ab-eco { padding: clamp(56px, 8vh, 88px) 0; border-top: 1px solid #1e1e1e; }
+.ab-section-head { margin-bottom: clamp(28px, 4vh, 40px); }
+.ab-section-head .journal-section-title { margin: 0; }
+.ab-eco-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.ab-eco-item {
+  display: block; background: #141414; border: 1px solid #2a2a2a; border-radius: 10px;
+  padding: 26px 24px; text-decoration: none; transition: border-color 0.2s, transform 0.2s;
+}
+.ab-eco-item:hover { border-color: #ff4d00; transform: translateY(-2px); }
+.ab-eco-item h3 {
+  font-family: var(--serif); font-size: 1.25rem; font-weight: 600; color: #f0f0f0; margin: 0 0 6px;
+}
+.ab-eco-count {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.16em; color: #ff4d00; margin: 0 0 12px;
+}
+.ab-eco-item p:last-child {
+  font-family: var(--sans); font-size: 0.875rem; line-height: 1.6; color: #b0b0b0; margin: 0;
+}
+@media (max-width: 1024px) { .ab-eco-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .ab-eco-grid { grid-template-columns: 1fr; } }
+
+/* 36e. Manifesto — centered Fraunces statement */
+.ab-manifesto {
+  padding: clamp(72px, 11vh, 120px) 0; border-top: 1px solid #1e1e1e; text-align: center;
+}
+.ab-manifesto-kicker {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.22em; color: #888; margin: 0 0 26px;
+}
+.ab-manifesto-quote {
+  font-family: var(--serif); font-size: clamp(1.5rem, 3.2vw, 2.35rem);
+  font-weight: 500; line-height: 1.5; color: #f0f0f0;
+  margin: 0 auto; max-width: 22ch; border: 0; padding: 0;
+}
+.ab-manifesto-quote em { color: #ff4d00; font-style: italic; }
+.ab-manifesto-cite {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.18em; color: #666; margin: 30px 0 0;
+}
+
+/* 36f. Author strip + contact */
+.ab-author { padding: clamp(48px, 7vh, 72px) 0 clamp(64px, 9vh, 96px); border-top: 1px solid #1e1e1e; }
+.ab-author-inner {
+  display: flex; align-items: center; gap: 26px;
+  background: #141414; border: 1px solid #2a2a2a; border-radius: 12px;
+  padding: 30px clamp(24px, 4vw, 40px); text-decoration: none; transition: border-color 0.2s;
+}
+.ab-author-inner:hover { border-color: #ff4d00; }
+.ab-author-photo {
+  width: 96px; height: 96px; border-radius: 50%; overflow: hidden;
+  flex-shrink: 0; border: 1px solid #2a2a2a;
+}
+.ab-author-photo img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.ab-author-text { display: flex; flex-direction: column; gap: 5px; }
+.ab-author-kicker {
+  font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase;
+  letter-spacing: 0.2em; color: #ff4d00;
+}
+.ab-author-name { font-family: var(--serif); font-size: 1.5rem; font-weight: 600; color: #f0f0f0; }
+.ab-author-role { font-family: var(--sans); font-size: 0.9375rem; color: #b0b0b0; }
+.ab-contact {
+  font-family: var(--sans); font-size: 0.875rem; color: #888; text-align: center; margin: 26px 0 0;
+}
+.ab-contact a { color: #ff4d00; text-decoration: none; }
+.ab-contact a:hover { text-decoration: underline; }
+@media (max-width: 560px) {
+  .ab-author-inner { flex-direction: column; text-align: center; }
+  .ab-author-text { align-items: center; }
+}
+
+/* 36g. Author hero — square real portrait, editorial split */
+.au-hero {
+  background: #0a0a0a;
+  padding: clamp(100px, 14vh, 140px) 0 clamp(48px, 6vh, 72px);
+}
+.au-hero-inner {
+  max-width: 1200px; margin: 0 auto;
+  padding: 0 clamp(20px, 4vw, 56px);
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: clamp(32px, 5vw, 64px); align-items: center;
+}
+.au-hero-text { display: flex; flex-direction: column; gap: 14px; }
+.au-hero-eyebrow {
+  font-family: var(--mono); font-size: 0.6875rem;
+  text-transform: uppercase; letter-spacing: 0.22em; color: #ff4d00; margin: 0;
+}
+.au-hero-title {
+  font-family: var(--serif); font-size: clamp(2.5rem, 5vw, 3.75rem);
+  font-weight: 700; line-height: 1.05; color: #f0f0f0; margin: 0; letter-spacing: -0.02em;
+}
+.au-hero-title em { color: #ff4d00; font-style: normal; }
+.au-hero-sub {
+  font-family: var(--sans); font-size: 1.15rem; font-weight: 600; color: #ccc; margin: 0;
+}
+.au-hero-desc {
+  font-family: var(--sans); font-size: 1rem; line-height: 1.65; color: #b0b0b0;
+  max-width: 48ch; margin: 0;
+}
+.au-hero-cta {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 14px 28px; background: #ff4d00; color: #fff; border-radius: 8px;
+  font-family: var(--sans); font-size: 0.9375rem; font-weight: 600;
+  text-decoration: none; transition: background 0.2s; align-self: flex-start;
+}
+.au-hero-cta:hover { background: #ff6a2a; }
+.au-hero-divider { display: block; width: 48px; height: 2px; background: #ff4d00; margin: 8px 0; }
+.au-hero-tagline {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.18em; color: #888; margin: 0;
+}
+.au-hero-media {
+  position: relative; border-radius: 12px; overflow: hidden; aspect-ratio: 1;
+  border: 1px solid #2a2a2a; max-width: 520px; justify-self: center; width: 100%;
+}
+.au-hero-media img { width: 100%; height: 100%; object-fit: cover; object-position: center 22%; }
+.au-hero-img-label {
+  position: absolute; top: 24px; right: 24px;
+  font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase;
+  letter-spacing: 0.16em; color: rgba(255,255,255,0.72); text-align: right;
+  line-height: 1.6; margin: 0;
+}
+@media (max-width: 768px) {
+  .au-hero-inner { grid-template-columns: 1fr; }
+  .au-hero-media { aspect-ratio: 4/3; order: -1; }
+  .au-hero { padding-top: clamp(88px, 12vh, 110px); }
+}
+
+/* 36h. Author story + pull-quote */
+.au-story { padding: clamp(56px, 8vh, 88px) 0; border-top: 1px solid #1e1e1e; }
+.au-story-inner { max-width: 68ch; margin: 0 auto; }
+.au-section-kicker {
+  font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
+  letter-spacing: 0.2em; color: #ff4d00; margin: 0 0 10px;
+}
+.au-story-inner .journal-section-title { margin: 0 0 28px; }
+.au-story-inner p:not(.au-section-kicker) {
+  font-family: var(--sans); font-size: 1rem; line-height: 1.75; color: #b0b0b0; margin: 0 0 18px;
+}
+.au-pullquote {
+  font-family: var(--serif); font-style: italic; font-size: clamp(1.3rem, 2.6vw, 1.75rem);
+  line-height: 1.45; color: #f0f0f0; border-left: 3px solid #ff4d00;
+  margin: 34px 0 0; padding: 6px 0 6px 26px;
+}
+
+/* 36i. Author promise */
+.au-promise { padding: clamp(56px, 8vh, 88px) 0; border-top: 1px solid #1e1e1e; }
+.au-promise-inner { max-width: 68ch; margin: 0 auto; }
+.au-promise-inner .journal-section-title { margin: 0 0 28px; }
+.au-promise-lead {
+  font-family: var(--serif); font-size: clamp(1.15rem, 2vw, 1.375rem);
+  line-height: 1.55; color: #e8e8e8; margin: 0 0 22px;
+}
+.au-promise-inner p:not(.au-section-kicker):not(.au-promise-lead) {
+  font-family: var(--sans); font-size: 1rem; line-height: 1.75; color: #b0b0b0; margin: 0 0 18px;
+}
+.au-promise-links a { color: #ff4d00; text-decoration: none; }
+.au-promise-links a:hover { text-decoration: underline; }
+
+/* 36j. Focus areas */
+.au-focus { padding: clamp(56px, 8vh, 88px) 0; border-top: 1px solid #1e1e1e; }
+.au-section-head { margin-bottom: clamp(28px, 4vh, 40px); }
+.au-section-head .journal-section-title { margin: 0; }
+.au-focus-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: clamp(20px, 3vw, 32px); }
+.au-focus-item { border-top: 2px solid #ff4d00; padding-top: 18px; }
+.au-focus-item h3 {
+  font-family: var(--serif); font-size: 1.15rem; font-weight: 600; color: #f0f0f0; margin: 0 0 8px;
+  line-height: 1.3;
+}
+.au-focus-item p {
+  font-family: var(--sans); font-size: 0.875rem; line-height: 1.6; color: #b0b0b0; margin: 0;
+}
+@media (max-width: 1024px) { .au-focus-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .au-focus-grid { grid-template-columns: 1fr; } }
+
+/* 36k. Recent work — reuses .feed-head / .book-grid / ArticleCard */
+.au-work { padding: clamp(48px, 7vh, 72px) 0 clamp(64px, 9vh, 96px); border-top: 1px solid #1e1e1e; }
+
+/* 36l. Focus states */
+.ab-hero-cta:focus-visible, .ab-eco-item:focus-visible, .ab-author-inner:focus-visible,
+.ab-contact a:focus-visible, .au-hero-cta:focus-visible, .au-promise-links a:focus-visible {
+  outline: 2px solid #ff4d00; outline-offset: 3px; border-radius: 4px;
+}

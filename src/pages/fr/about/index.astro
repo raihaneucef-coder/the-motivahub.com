@@ -1,53 +1,157 @@
 ---
-import Layout from "../../../layouts/Layout.astro";
-import Link from "../../../components/Link.astro";
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { books } from '../../../data/books';
+import { podcasts } from '../../../data/podcasts';
+
+// Comptes vérifiés au build — aucune audience inventée.
+const essayCount = (await getCollection('blog')).filter((p) => !p.data.draft).length;
+const bookCount = books.length;
+const episodeCount = podcasts.length;
+
+const principles = [
+  { num: '01', word: 'Clarté', desc: 'Nous éliminons le bruit pour trouver la seule chose qui compte.' },
+  { num: '02', word: 'Constance', desc: 'De petits actes répétés se composent en une vie méconnaissable.' },
+  { num: '03', word: 'Sérénité', desc: "L'esprit qui garde son centre décide de la forme du jour." },
+];
 ---
 
-<Layout title="À Propos de Youssef Raihane — Motiva Hub" description="Youssef Raihane est un écrivain et chercheur axé sur le mindset, les habitudes et la longue ascension. Voici l'histoire derrière Motiva Hub." image="/images/youssef-raihane.jpg" lang="fr">
-  <article class="article-body container">
-    <header class="article-header">
-      <div class="container">
-        <p class="card-meta" data-i18n="aboutPageKicker">À PROPOS</p>
-        <h1>Youssef Raihane</h1>
-        <p class="card-date" data-i18n="aboutPageSubtitle">Écrivain, chercheur, fondateur de Motiva Hub</p>
-        <img class="article-img" src="/images/youssef-raihane.jpg" alt="Youssef Raihane portrait" />
+<Layout title="À Propos de Motiva Hub — Un Sanctuaire pour l'Esprit Discipliné" description="Motiva Hub aide à construire un état d'esprit plus fort, de meilleures habitudes et des progrès quotidiens réguliers. Un sanctuaire éditorial premium pour l'esprit discipliné.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "À Propos de Motiva Hub",
+    "description": "Ce qu'est Motiva Hub, pourquoi il existe, et la philosophie éditoriale qui le guide.",
+    "url": "https://the-motivahub.com/fr/about/",
+    "isPartOf": { "@type": "WebSite", "name": "Motiva Hub", "url": "https://the-motivahub.com/" }
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/" },
+      { "@type": "ListItem", "position": 2, "name": "À Propos", "item": "https://the-motivahub.com/fr/about/" }
+    ]
+  })} />
+
+  <!-- Hero -->
+  <section class="ab-hero">
+    <div class="ab-hero-inner">
+      <div class="ab-hero-text">
+        <p class="ab-hero-eyebrow">À Propos de Motiva Hub</p>
+        <h1 class="ab-hero-title">Un Sanctuaire pour<br /><em>l'Esprit Discipliné.</em></h1>
+        <p class="ab-hero-desc">Motiva Hub aide à construire un état d'esprit plus fort, de meilleures habitudes et des progrès quotidiens réguliers — grâce à une écriture honnête, des outils utiles et des recommandations que nous assumons vraiment.</p>
+        <a href="/fr/journal/" class="ab-hero-cta">Explorer le Journal →</a>
+        <span class="ab-hero-divider"></span>
+        <p class="ab-hero-tagline">Lire. Apprendre. Appliquer. Grandir.</p>
       </div>
-    </header>
-
-    <div class="container">
-      <h2 data-i18n="aboutStoryTitle">L'Histoire</h2>
-      <p data-i18n="aboutStoryP1">J'ai fondé MotivaHub en 2025 après avoir passé huit mois à écrire mon premier livre, mais je n'ai pas réussi à le lancer à cause de l'autosabotage. J'avais le contenu. J'avais le plan. Après de nombreuses tentatives qui ne se sont pas déroulées comme je l'espérais, j'ai commencé à comprendre que l'échec n'était pas la fin, mais une partie du chemin. À chaque tentative, j'ai appris à me connaître davantage, sur la discipline, et sur la nécessité de construire un système qui m'aide à continuer.</p>
-
-      <p data-i18n="aboutStoryP2">Cet échec m'a appris plus que tout succès aurait pu m'apprendre. Il m'a appris que la discipline ne concerne pas la motivation, mais la conception de systèmes, la construction de l'identité, et le fait de se présenter même en l'absence de responsabilité.</p>
-
-      <p data-i18n="aboutStoryP3">C'est là que l'idée de MotivaHub a commencé : construire quelque chose qui aide les gens à transformer ces leçons en systèmes, habitudes et pratiques qu'ils peuvent continuer même lorsque la motivation disparaît.</p>
-
-      <h2 data-i18n="aboutWriteAboutTitle">Ce Que J'Écris</h2>
-      <p data-i18n="aboutWriteAboutP1">J'écris sur les choses que j'ai personnellement testées : habitudes, discipline, productivité, mindset et le long terme. Chaque article sur ce site est basé sur de véritables expériences, de véritables échecs et de véritables résultats.</p>
-
-      <p data-i18n="aboutWriteAboutP2">Je n'écris pas de théorie. J'écris sur ce qui a fonctionné, ce qui n'a pas fonctionné et ce que j'ai appris des deux.</p>
-
-      <h2 data-i18n="aboutMissionTitle">La Mission</h2>
-      <p data-i18n="aboutMissionP1">Motiva Hub est un sanctuaire éditorial premium pour l'esprit discipliné. Ce n'est pas une usine à motivation. C'est un lieu pour les personnes qui veulent construire des systèmes qui durent, des habitudes qui tiennent et des identités qui comptent.</p>
-
-      <p data-i18n="aboutMissionP2">La mission est simple : vous aider à construire la chose qui construit tout le reste — vous-même.</p>
-
-      <h2 data-i18n="aboutContactTitle">Contact</h2>
-      <p data-i18n-html="aboutContactP1">Pour des collaborations, des interventions ou simplement pour dire bonjour : <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
-
-      <h2 data-i18n="aboutConnectTitle">Suivre</h2>
-      <p data-i18n="aboutConnectSubtitle">Suivez le parcours :</p>
-      <ul>
-        <li><a href="https://www.instagram.com/motivahub/" target="_blank" rel="noopener" data-i18n="aboutInstagramLink">Instagram</a></li>
-        <li><a href="https://twitter.com/motivahub" target="_blank" rel="noopener" data-i18n="aboutTwitterLink">Twitter/X</a></li>
-        <li><a href="https://www.linkedin.com/company/motivahub" target="_blank" rel="noopener" data-i18n="aboutLinkedInLink">LinkedIn</a></li>
-      </ul>
-
-      <h2 data-i18n="about90DayTitle">Le Test de 90 Jours</h2>
-      <p data-i18n-html="about90DayP1">Si vous voulez voir le système en action, essayez notre <a href="/fr/journal/identity-based-habits-90-day-test/">Test de 90 Jours Basé sur l'Identité</a>. C'est la même architecture que j'ai utilisée pour reconstruire ma pratique d'écriture, mon habitude de course et ma routine matinale.</p>
-
-      <p data-i18n-html="about90DayP2">Ou commencez par le <a href="/fr/journal/2-minute-rule-system/">guide de la Règle des 2 Minutes</a> — la porte d'entrée de chaque habitude qui tient vraiment.</p>
-
+      <div class="ab-hero-media">
+        <img src="/images/about-portrait.jpg" alt="Silhouette bras levés face au soleil levant sur la brume" loading="eager" width="1200" height="800" />
+        <p class="ab-hero-img-label">La longue<br />ascension.</p>
+      </div>
     </div>
-  </article>
+  </section>
+
+  <!-- Principles -->
+  <section class="ab-principles">
+    <div class="container">
+      <div class="ab-principles-grid">
+        {principles.map((p) => (
+          <div class="ab-principle">
+            <span class="ab-principle-num">{p.num}</span>
+            <h3 class="ab-principle-word">{p.word}</h3>
+            <p class="ab-principle-desc">{p.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Why we exist -->
+  <section class="ab-why">
+    <div class="container">
+      <div class="ab-why-inner">
+        <p class="ab-section-kicker">Pourquoi Motiva Hub Existe</p>
+        <h2 class="journal-section-title">Pas une Usine<br /><em>à Motivation.</em></h2>
+        <p class="ab-why-lead">Motiva Hub est un sanctuaire éditorial premium pour l'esprit discipliné. C'est un lieu pour les personnes qui veulent construire des systèmes qui durent, des habitudes qui tiennent et des identités qui comptent.</p>
+        <p>Tout a commencé comme un carnet privé — ce genre d'écriture que l'on fait pour soi à 5 h du matin, quand la maison est silencieuse et le travail honnête. C'est devenu un site. Puis une publication. La mission n'a jamais changé : vous aider à construire la chose qui construit tout le reste — vous-même.</p>
+        <p>Chaque essai ici s'écrit pour être lu lentement. Chaque outil se construit pour celle ou celui qui préfère agir à faire défiler. The Daily Drive est un jeu de patience. Nous y jouons comme tel.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Ecosystem -->
+  <section class="ab-eco">
+    <div class="container">
+      <div class="ab-section-head">
+        <p class="ab-section-kicker">Ce Que Vous Trouverez Ici</p>
+        <h2 class="journal-section-title">Une Ascension,<br /><em>Plusieurs Chemins.</em></h2>
+      </div>
+      <div class="ab-eco-grid">
+        <a class="ab-eco-item" href="/fr/journal/">
+          <h3>Le Journal</h3>
+          <p class="ab-eco-count">{essayCount} essais</p>
+          <p>Systèmes d'habitudes, protocoles de discipline et pratique stoïcienne — écrits d'expérience, testés dans la vraie vie.</p>
+        </a>
+        <a class="ab-eco-item" href="/fr/guides/">
+          <h3>Guides</h3>
+          <p class="ab-eco-count">Guides longs</p>
+          <p>Des guides complets et approfondis pour les idées qui méritent plus qu'un simple article.</p>
+        </a>
+        <a class="ab-eco-item" href="/fr/tools/">
+          <h3>Outils</h3>
+          <p class="ab-eco-count">5 outils gratuits</p>
+          <p>Un suivi d'habitudes, un quiz de discipline, une minuteur de méditation et plus — conçus pour l'action, pas pour le défilement.</p>
+        </a>
+        <a class="ab-eco-item" href="/fr/books/">
+          <h3>Le Bookstand</h3>
+          <p class="ab-eco-count">{bookCount} livres</p>
+          <p>Les livres auxquels nous revenons — résumés, chroniqués et recommandés honnêtement.</p>
+        </a>
+        <a class="ab-eco-item" href="/fr/podcast/">
+          <h3>Liste d'Écoute</h3>
+          <p class="ab-eco-count">{episodeCount} épisodes</p>
+          <p>Une liste d'écoute sélectionnée à la main : conversations sur la discipline, la concentration et la croissance.</p>
+        </a>
+        <a class="ab-eco-item" href="/fr/30-days-discipline/">
+          <h3>30 Jours de Discipline</h3>
+          <p class="ab-eco-count">Programme gratuit</p>
+          <p>Un plan jour par jour pour construire le système — avec un PDF gratuit en compagnon.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Manifesto -->
+  <section class="ab-manifesto">
+    <div class="container">
+      <p class="ab-manifesto-kicker">Un Manifeste Tranquille</p>
+      <blockquote class="ab-manifesto-quote">
+        Nous ne sommes pas ici pour être inspirés<br />
+        pendant un après-midi.<br />
+        <em>Nous sommes ici pour être bâtis, lentement,</em><br />
+        jusqu'à devenir la sorte de personne<br />
+        qui fait le travail<br />
+        même quand personne ne regarde.
+      </blockquote>
+      <p class="ab-manifesto-cite">— Motiva Hub · 2026</p>
+    </div>
+  </section>
+
+  <!-- Author link -->
+  <section class="ab-author">
+    <div class="container">
+      <a class="ab-author-inner" href="/fr/author/youssef-raihane/">
+        <span class="ab-author-photo">
+          <img src="/images/yr-320.jpg" srcset="/images/yr-320.jpg 320w, /images/yr-640.jpg 640w" sizes="96px" alt="Youssef Raihane" width="96" height="96" loading="lazy" />
+        </span>
+        <span class="ab-author-text">
+          <span class="ab-author-kicker">La Personne Derrière les Mots</span>
+          <span class="ab-author-name">Youssef Raihane</span>
+          <span class="ab-author-role">Fondateur et Rédacteur en Chef de Motiva Hub — lire l'histoire complète →</span>
+        </span>
+      </a>
+      <p class="ab-contact">Collaborations, interventions ou simplement pour dire bonjour : <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a></p>
+    </div>
+  </section>
 </Layout>
