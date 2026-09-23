@@ -2966,3 +2966,38 @@ body.menu-open #cookie-consent {
   opacity: 0 !important;
   pointer-events: none !important;
 }
+
+/* ============================================================
+   19. Responsive polish pass (audit R1-R4) — CSS only, appended
+   ============================================================ */
+/* R1 — 360px: header actions no longer clip; MENU label drops first */
+@media (max-width: 380px) {
+  .header-actions { gap: 8px; }
+  .header-search { display: none; } /* duplicates the Journal link; keeps the wordmark clean */
+  .lang-switcher { padding: 6px 9px; gap: 5px; }
+  .menu-btn { padding: 10px 12px; gap: 0; }
+  .menu-btn > span:not(.menu-btn-bars) { display: none; }
+}
+/* R2 — hero stats: wrap to multiple rows instead of clipping the last item */
+@media (max-width: 430px) {
+  .hero-meta { flex-wrap: wrap !important; gap: 20px 28px !important; }
+  .hero-meta-item { min-width: 0; }
+}
+/* R3 — touch targets >= 44px without changing the visual hierarchy */
+@media (max-width: 768px) {
+  /* language buttons: invisible hit-area expansion, pill looks identical */
+  .lang-btn { position: relative; }
+  .lang-btn::before { content: ""; position: absolute; inset: -9px -11px; }
+  /* MegaMenu links */
+  .overlay-nav a { min-height: 44px; }
+  /* cookie banner buttons */
+  .cookie-btn { min-height: 44px; padding: 12px 20px; }
+  /* footer social icons */
+  .footer-social a { width: 44px; height: 44px; }
+}
+/* R4 — journal newsletter button must not hang past the viewport on small screens */
+@media (max-width: 430px) {
+  .journal-newsletter-form { flex-wrap: wrap !important; max-width: 100% !important; }
+  .journal-newsletter-form input,
+  .journal-newsletter-form button { min-width: 0; max-width: 100%; }
+}
