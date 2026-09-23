@@ -12,17 +12,24 @@ imageAlt: "Friends laughing around a table game in colorful light"
 featured: false
 draft: false
 keywords:
-  - "play"
-  - "rest"
-  - "recovery"
-  - "effort"
-  - "scrolling"
-  - "escape"
-  - "life"
-  - "chosen"
+  - "intentional rest and play"
+  - "how to actually relax"
+  - "productive recovery techniques"
+  - "why scrolling isn't resting"
+  - "active vs passive leisure"
+  - "choose recovery activities deliberately"
+  - "play as self care not escape"
+  - "burnout recovery through play"
 tags:
   - "entertainment"
 wordCount: 488
+faq:
+  - q: "What's the difference between intentional play and scrolling?"
+    a: "Intentional play is CHOSEN, time-bounded, and leaves you energized (pickup basketball, board games, hiking). Scrolling is passive, endless, and leaves you flat. The key variable isn't the activity — it's whether YOU decided to do it, and whether it restores or drains your nervous system."
+  - q: "Why do I feel guilty when I take a break?"
+    a: "Because modern culture conflates productivity with self-worth. Your inner critic has learned that 'rest must be earned.' But research shows unchosen breaks don't restore — guilt activates cortisol even while sitting still. The solution: schedule play the same way you schedule meetings. No guilt, just a calendar appointment."
+  - q: "How much play should adults get per day?"
+    a: "At minimum 30-60 minutes of 'flow-adjacent' activity: something you do for the pure enjoyment of doing it, not for output. Can be sports, music, cooking, games, dancing. The WHO and various longevity studies consistently identify regular leisure activity as a mortality risk reducer equivalent to quitting smoking."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

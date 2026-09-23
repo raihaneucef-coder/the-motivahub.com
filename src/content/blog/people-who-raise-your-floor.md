@@ -12,17 +12,24 @@ imageAlt: "Two silhouettes at sunset, one person pulling another up over a ledge
 featured: false
 draft: false
 keywords:
-  - "people"
-  - "floor"
-  - "time"
-  - "room"
-  - "raises"
-  - "level"
-  - "fall"
-  - "keep"
+  - "people who raise your standards"
+  - "you are the average of 5 people"
+  - "how friends affect your success"
+  - "toxic friends vs growth friends"
+  - "surround yourself with better people"
+  - "social circle influences behavior"
+  - "relationships that level you up"
+  - "Jim Rohn you average of five"
 tags:
   - "relationships"
 wordCount: 343
+faq:
+  - q: "Who are 'the people who raise your floor'?"
+    a: "They're the friends whose standards silently pull you up. Not motivational speakers — just people who train consistently, read regularly, speak with integrity. You don't 'hang out with successful people to get famous' — you simply absorb their non-negotiables as your new baseline."
+  - q: "Is it true you're the average of the 5 people around you?"
+    a: "Research supports it. The Framingham Heart Study showed obesity, smoking, and happiness spread through social networks up to 3 degrees. A 2008 study found your chance of becoming obese increases 57% if a close friend becomes obese. Behavioral norms spread through proximity, not willpower."
+  - q: "How do I upgrade my social circle without losing old friends?"
+    a: "You don't need to cut people — you need to add. Join a running club, book group, or mastermind where 'raising the floor' people gather naturally. Proximity to new standards does the work. Old friends fade without confrontation when they're replaced in calendar time, not in loyalty."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

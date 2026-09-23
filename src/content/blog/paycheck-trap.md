@@ -12,17 +12,24 @@ imageAlt: "Hands counting dollar bills across a desk covered with receipts and a
 featured: false
 draft: false
 keywords:
-  - "keep"
-  - "raise"
-  - "paycheck"
-  - "earning"
-  - "income"
-  - "freedom"
-  - "lifestyle"
-  - "rises"
+  - "lifestyle creep when salary increases"
+  - "why earning more doesn't help"
+  - "living paycheck to paycheck despite good salary"
+  - "paycheck trap explained"
+  - "how to stop lifestyle inflation"
+  - "rich but broke syndrome"
+  - "escape the rat race salary"
+  - "increase savings rate not income"
 tags:
   - "finance"
 wordCount: 231
+faq:
+  - q: "Why don't raises solve money problems?"
+    a: "Because of 'lifestyle creep': spending automatically expands to match income (Parkinson's law of money). A 20% raise typically produces 20% more spending — same gap, bigger numbers. The solution isn't earning more; it's keeping a fixed savings percentage before spending whatever remains."
+  - q: "How do I escape the paycheck trap?"
+    a: "1) Automate savings BEFORE spending (pay yourself first, 20% minimum). 2) On your next raise, save 100% of the increase. 3) Build income that doesn't require your time (investments, side business). 4) Track one month of spending — awareness alone reduces expenditure by 10-15%. Freedom is gap between income and lifestyle, not income alone."
+  - q: "What's the difference between 'high income' and 'wealthy'?"
+    a: "Income is what you earn; wealth is what you keep and what earns for you while you sleep. A 150k€ earner with 140k€ spending has less freedom than a 45k€ earner with 15k invested monthly. Wealth = assets minus liabilities. The paycheck trap keeps you trading time for money at any salary level."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - nervous system is the boss concept"
 featured: false
 draft: false
 keywords:
-  - "boss"
-  - "calm"
-  - "nervous"
-  - "system"
-  - "mind"
-  - "feel"
-  - "work"
-  - "body"
+  - "nervous system regulation"
+  - "fight or flight response explained"
+  - "how to calm your nervous system"
+  - "window of tolerance psychology"
+  - "somatic healing nervous system"
+  - "why you feel anxious for no reason"
+  - "vagus nerve exercises"
+  - "sympathetic vs parasympathetic"
 tags:
   - "wellness"
 wordCount: 327
+faq:
+  - q: "What does it mean that 'your nervous system is the boss'?"
+    a: "Your thoughts and discipline run on top of your nervous system state. If your body is in fight-or-flight (sympathetic overdrive), your 'rational brain' goes offline. You can't think your way out of a stress response — you must regulate the body first (breath, movement, safety cues), then the mind follows."
+  - q: "How do I regulate an overactive nervous system?"
+    a: "Fastest evidence-based methods: 1) Physiological sigh (double inhale + long exhale) — 2-3 rounds. 2) Cold water on wrists/face. 3) 20 minutes of walking outdoors. 4) Weighted blanket or self-hug (deep pressure). 5) Humming or prolonged exhale (activates vagus nerve). These work in 60-90 seconds."
+  - q: "Why do I feel anxious even when nothing is wrong?"
+    a: "Your nervous system can get 'stuck' in protective mode after prolonged stress, trauma, or even chronic sleep debt. The body keeps score (van der Kolk): it continues sending danger signals even when circumstances are safe. Consistent regulation practices teach your system the threat has passed."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"

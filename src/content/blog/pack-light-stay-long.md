@@ -12,17 +12,24 @@ imageAlt: "Youssef Raihane - pack light stay long concept"
 featured: false
 draft: false
 keywords:
-  - "pack"
-  - "stay"
-  - "because"
-  - "light"
-  - "long"
-  - "travelers"
-  - "carry"
-  - "less"
+  - "how to pack light for travel"
+  - "minimalist travel packing guide"
+  - "one bag travel tips"
+  - "capsule wardrobe for travel"
+  - "packing less stuff freedom"
+  - "carry on only packing list"
+  - "long term travel packing"
+  - "travel lighter advice"
 tags:
   - "travel"
 wordCount: 252
+faq:
+  - q: "Why should you pack light for long trips?"
+    a: "Heavy luggage creates friction at every transition: hauling bags, waiting at check-in, navigating stairs, and paying overweight fees. Long-term travelers who carry one bag move more, spend less, and choose experiences over logistics. The lighter you pack, the longer you can stay anywhere without settling."
+  - q: "How many items do I need to pack for a month?"
+    a: "The experienced traveler's formula: 7 days of clothing (wash weekly), 1 pair walking shoes, 1 versatile layer, 1 formal option, toiletries for 3 days (buy rest locally), and a single electronics bag. Total: 8-12 kg / one carry-on. Anything more is insurance against problems that rarely happen."
+  - q: "What's the hardest thing to give up when packing light?"
+    a: "The 'just in case' items — book 3, laptop for 'maybe work', 4 outfit options per day. These cost weight at every transition to protect against a scenario that happens <10% of the time. The discipline of packing light teaches you that you can solve problems locally, not pre-emptively."
 
 relatedArticles:
   - "atomic-habits-ultimate-guide"
