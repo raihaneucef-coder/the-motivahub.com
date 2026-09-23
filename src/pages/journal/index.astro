@@ -70,10 +70,7 @@ const filterTopics = topicCounts;
             <a class="journal-pill" href={`/topics/${t.id}/`} data-i18n={`topic-${t.id}`}>{t.title}</a>
           ))}
         </div>
-        <div class="journal-sort">
-          <span class="journal-sort-label" data-i18n="journalSortLatest">Latest</span>
-          <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-        </div>
+        <p class="journal-sort-label">Sorted by <span>Latest</span></p>
       </div>
     </div>
   </section>
@@ -127,7 +124,7 @@ const filterTopics = topicCounts;
   <section class="journal-topics">
     <div class="container">
       <div class="journal-section-head">
-        <h2 class="journal-section-title">Popular <em>Topics</em></h2>
+        <h2 class="journal-section-title">Explore <em>Topics</em></h2>
         <Link href="/topics/" class="journal-view-all">View all topics →</Link>
       </div>
       <div class="journal-topics-grid">

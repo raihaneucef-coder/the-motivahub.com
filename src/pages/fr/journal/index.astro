@@ -70,10 +70,7 @@ const featuredSlug = featured ? getFrenchSlug(featured.id) : "";
             <a class="journal-pill" href={`/fr/topics/${t.id}/`} data-i18n={`topic-${t.id}`}>{t.title}</a>
           ))}
         </div>
-        <div class="journal-sort">
-          <span class="journal-sort-label" data-i18n="journalSortLatest">Récents</span>
-          <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M3 5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-        </div>
+        <p class="journal-sort-label">Triés par <span>Récents</span></p>
       </div>
     </div>
   </section>
@@ -127,7 +124,7 @@ const featuredSlug = featured ? getFrenchSlug(featured.id) : "";
   <section class="journal-topics">
     <div class="container">
       <div class="journal-section-head">
-        <h2 class="journal-section-title">Sujets <em>Populaires</em></h2>
+        <h2 class="journal-section-title">Explorer les <em>Sujets</em></h2>
         <Link href="/fr/topics/" class="journal-view-all">Voir tous les sujets →</Link>
       </div>
       <div class="journal-topics-grid">

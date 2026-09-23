@@ -1120,19 +1120,15 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   border-color: #ff4d00;
   color: #fff;
 }
-.journal-sort {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-family: var(--sans);
-  font-size: 0.8125rem;
-  color: #b0b0b0;
-  padding: 8px 14px;
-  border: 1px solid #2a2a2a;
-  border-radius: 6px;
-  cursor: default;
+.journal-sort-label {
+  font-family: var(--mono);
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: #666;
+  margin: 0;
 }
-.journal-sort-label { text-transform: capitalize; }
+.journal-sort-label span { color: #b0b0b0; font-weight: 500; }
 @media (max-width: 768px) {
   .journal-filters-inner { flex-direction: column; align-items: flex-start; }
 }
