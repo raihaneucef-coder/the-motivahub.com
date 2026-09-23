@@ -2849,3 +2849,92 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .ab-contact a:focus-visible, .au-hero-cta:focus-visible, .au-promise-links a:focus-visible {
   outline: 2px solid #ff4d00; outline-offset: 3px; border-radius: 4px;
 }
+
+/* --- 37. Homepage (Phase 9) — dark editorial migration, hp-* only --- */
+
+/* 37a. Guides entry (LEARN) */
+.hp-guides { padding: clamp(80px, 10vw, 130px) 0; }
+.hp-guides-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 24px; margin-top: 8px; }
+.hp-guide-card {
+  display: flex; flex-direction: column; gap: 14px;
+  background: #141414; border: 1px solid #2a2a2a; border-top: 2px solid #ff4d00;
+  border-radius: 10px; padding: clamp(28px, 3.5vw, 44px);
+  transition: border-color 0.3s ease, transform 0.3s ease;
+}
+.hp-guide-card:hover { border-color: #ff4d00; transform: translateY(-3px); }
+.hp-guide-tag { font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase; letter-spacing: 0.18em; color: #ff4d00; }
+.hp-guide-title { font-family: var(--serif); font-size: clamp(1.3rem, 2vw, 1.7rem); line-height: 1.2; color: #f0f0f0; font-weight: 600; }
+.hp-guide-desc { color: #b0b0b0; font-size: 0.9375rem; line-height: 1.65; flex: 1; }
+.hp-guide-link { font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase; letter-spacing: 0.16em; color: #ff4d00; }
+.hp-guide-card:hover .hp-guide-link { color: #ff6a2a; }
+@media (max-width: 900px) { .hp-guides-grid { grid-template-columns: 1fr; } }
+
+/* 37b. Bookstand preview (LEARN) */
+.hp-books { padding: clamp(80px, 10vw, 130px) 0; border-top: 1px solid #1e1e1e; }
+.hp-books-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 8px; }
+.hp-book { display: flex; flex-direction: column; background: #141414; border: 1px solid #2a2a2a; border-radius: 10px; overflow: hidden; transition: border-color 0.3s ease; }
+.hp-book:hover { border-color: #ff4d00; }
+.hp-book-cover { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; background: #1a1a1a; }
+.hp-book-body { display: flex; flex-direction: column; gap: 8px; padding: 22px 24px 26px; flex: 1; }
+.hp-book-meta { font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase; letter-spacing: 0.16em; color: #666; }
+.hp-book-title { font-family: var(--serif); font-size: 1.05rem; line-height: 1.3; color: #f0f0f0; font-weight: 600; }
+.hp-book-author { font-size: 0.8125rem; color: #888; }
+.hp-book-reason { font-size: 0.875rem; line-height: 1.6; color: #b0b0b0; font-style: italic; flex: 1; margin-top: 4px; }
+.hp-book-link { font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase; letter-spacing: 0.16em; color: #ff4d00; margin-top: 10px; }
+.hp-book-link:hover { color: #ff6a2a; }
+@media (max-width: 1024px) { .hp-books-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px) { .hp-books-grid { grid-template-columns: 1fr; } }
+
+/* 37c. Curated listening (LEARN) */
+.hp-listen { padding: clamp(80px, 10vw, 130px) 0; border-top: 1px solid #1e1e1e; }
+.hp-listen-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 8px; }
+.hp-listen-item { display: flex; flex-direction: column; background: #141414; border: 1px solid #2a2a2a; border-radius: 10px; overflow: hidden; transition: border-color 0.3s ease; }
+.hp-listen-item:hover { border-color: #ff4d00; }
+.hp-listen-cover { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; background: #1a1a1a; }
+.hp-listen-body { display: flex; flex-direction: column; gap: 10px; padding: 22px 24px 26px; flex: 1; }
+.hp-listen-meta { font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase; letter-spacing: 0.14em; color: #666; }
+.hp-listen-title { font-family: var(--serif); font-size: 1.05rem; line-height: 1.35; color: #f0f0f0; font-weight: 600; }
+.hp-listen-desc { font-size: 0.875rem; line-height: 1.6; color: #b0b0b0; flex: 1; }
+.hp-listen-link { font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase; letter-spacing: 0.16em; color: #ff4d00; margin-top: 8px; }
+.hp-listen-link:hover { color: #ff6a2a; }
+.hp-listen-link-disabled { color: #666; cursor: default; }
+@media (max-width: 1024px) { .hp-listen-grid { grid-template-columns: 1fr; max-width: 560px; margin-left: auto; margin-right: auto; } }
+
+/* 37d. The 30-Day program band (APPLY) — deliberately not a sixth tool card */
+.hp-program {
+  display: flex; align-items: center; justify-content: space-between; gap: 32px; flex-wrap: wrap;
+  margin-top: 48px; padding: clamp(28px, 3.5vw, 40px) clamp(28px, 4vw, 48px);
+  background: #141414; border: 1px solid #2a2a2a; border-left: 3px solid #ff4d00; border-radius: 10px;
+}
+.hp-program-text { display: flex; flex-direction: column; gap: 8px; max-width: 62ch; }
+.hp-program-tag { font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase; letter-spacing: 0.18em; color: #ff4d00; }
+.hp-program-title { font-family: var(--serif); font-size: clamp(1.35rem, 2vw, 1.7rem); color: #f0f0f0; font-weight: 600; }
+.hp-program-desc { font-size: 0.9375rem; line-height: 1.65; color: #b0b0b0; }
+@media (max-width: 640px) { .hp-program { flex-direction: column; align-items: flex-start; } }
+
+/* 37e. Grow close (GROW) */
+.hp-grow { padding: clamp(90px, 12vw, 150px) 0; border-top: 1px solid #1e1e1e; text-align: center; }
+.hp-grow-inner { max-width: 720px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 20px; }
+.hp-grow-loop { font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase; letter-spacing: 0.22em; color: #888; display: flex; align-items: center; gap: 14px; flex-wrap: wrap; justify-content: center; }
+.hp-grow-loop > span:not(.hp-grow-arrow) { color: #f0f0f0; }
+.hp-grow-arrow { color: #ff4d00 !important; }
+.hp-grow-title { font-family: var(--serif); font-size: clamp(1.75rem, 3.4vw, 2.6rem); line-height: 1.15; letter-spacing: -0.02em; color: #f0f0f0; font-weight: 700; }
+.hp-grow-title em { color: #ff4d00; font-style: normal; }
+.hp-grow-desc { max-width: 62ch; color: #b0b0b0; font-size: 1rem; line-height: 1.7; }
+.hp-grow-links { display: flex; align-items: center; gap: 32px; flex-wrap: wrap; justify-content: center; margin-top: 12px; }
+
+/* 37f. Focus states */
+.hp-guide-card:focus-visible, .hp-book-link:focus-visible, .hp-listen-link:focus-visible,
+.hp-grow-links a:focus-visible, .hp-program .btn:focus-visible {
+  outline: 2px solid #ff4d00; outline-offset: 3px; border-radius: 4px;
+}
+
+/* 37g. Reduced motion (homepage-scoped: only pages carrying the hero) */
+@media (prefers-reduced-motion: reduce) {
+  body:has(.hero-portrait) [class*="reveal"] {
+    opacity: 1 !important; transform: none !important; transition: none !important;
+  }
+  body:has(.hero-portrait) .hp-guide-card:hover,
+  body:has(.hero-portrait) .hp-book:hover,
+  body:has(.hero-portrait) .hp-listen-item:hover { transform: none; }
+}

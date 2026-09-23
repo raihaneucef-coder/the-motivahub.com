@@ -1,10 +1,13 @@
 ---
-const stats = [
-  { num: "227", label: "Pages Published", desc: "Every essay, hand-written. No AI filler." },
-  { num: "30k+", label: "Words Written", desc: "Read once. Re-read often. Returned to." },
-  { num: "5", label: "Free Tools", desc: "Built for action, not scrolling." },
-  { num: "EN·FR", label: "Bilingual", desc: "Two languages, one standard." },
-];
+// Stats are passed in by the homepage, computed from real content at build time.
+// Nothing here is hardcoded or estimated.
+interface Stat {
+  num: string;
+  label: string;
+  labelKey: string;
+  desc: string;
+}
+const { stats = [] } = Astro.props as { stats?: Stat[] };
 ---
 
 <section class="manifesto">
@@ -35,7 +38,7 @@ const stats = [
       {stats.map((s) => (
         <div class="brand-stat">
           <span class="brand-stat-num">{s.num}</span>
-          <span class="brand-stat-label" data-i18n={"stat" + s.label.replace(/\s+/g, "").replace(/[^a-zA-Z]/g, "")}>{s.label}</span>
+          <span class="brand-stat-label" data-i18n={s.labelKey}>{s.label}</span>
           <span class="brand-stat-desc">{s.desc}</span>
         </div>
       ))}
