@@ -19,61 +19,12 @@ const author = {
   jobTitle: "Founder & Editor-in-Chief",
   worksFor: "Motiva Hub",
   url: "https://the-motivahub.com",
-  bio: "Founder of Motiva Hub. 8 years building systems, habits and the long climb. Studied psychology, performance, and the science of motivation. Believes discipline beats motivation — every single time.",
-  credentials: [
-    "MSc Candidate, Behavioral Psychology",
-    "Google Analytics Certified",
-    "8 years applied practice in habits, focus, and performance systems",
-  ],
-  externalLinks: [
-    { name: "LinkedIn", url: "https://www.linkedin.com/in/youssefraihane/" },
-    { name: "Instagram", url: "https://www.instagram.com/uce__f/" },
-    { name: "Facebook", url: "https://www.facebook.com/youssefraihane/" },
-    { name: "Google Scholar Profile", url: "#" },
-  ],
-  experience: "Built Motiva Hub from zero into a daily sanctuary for the disciplined mind. Has reviewed and synthesized 50+ titles on habits, focus, stoicism, and performance. Writes from practice — not theory.",
+  bio: "Founder of Motiva Hub, launched in 2025. Writes essays on discipline, habits, and stoicism. Believes discipline beats motivation — every single time.",
   avatar: "/images/youssef-raihane.jpg",
   founded: 2025,
 };
 
-const personSchema = {
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://the-motivahub.com/author/youssef-raihane/#person",
-  name: author.name,
-  jobTitle: author.jobTitle,
-  worksFor: { "@type": "Organization", name: author.worksFor, url: author.url },
-  url: "https://the-motivahub.com/author/youssef-raihane/",
-  image: `https://the-motivahub.com/images/youssef-raihane.jpg`,
-  description: author.bio,
-  knowsAbout: [
-    "Habits",
-    "Discipline",
-    "Stoicism",
-    "Deep Work",
-    "Productivity",
-    "Mental Models",
-    "Focus",
-    "Goal Setting",
-    "Performance Psychology",
-    "Behavior Change",
-  ],
-  alumniOf: { "@type:": "CollegeOrUniversity", name: "University of [Region]" },
-  sameAs: author.externalLinks.map((l) => l.url),
-  memberOf: {
-    "@type": "Organization",
-    name: "Motiva Hub",
-    url: "https://the-motivahub.com",
-  },
-  foundingDate: "2025",
-  award: ["8 years applied practice in self-improvement systems"],
-};
-
 ---
-
-{showSchema && (
-  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
-)}
 
 {variant === "compact" && (
   <aside class="author-bio author-bio--compact">
@@ -115,15 +66,7 @@ const personSchema = {
       </div>
     </div>
     <p class="author-bio-text">{author.bio}</p>
-    <p class="author-bio-experience"><strong>Experience:</strong> {author.experience}</p>
-    <ul class="author-credentials">
-      {author.credentials.map((c) => <li>{c}</li>)}
-    </ul>
     <div class="author-links">
-      <span class="author-links-tag">Find me on:</span>
-      {author.externalLinks.map((l) => (
-        <a class="author-link-pill" href={l.url} target="_blank" rel="me noopener noreferrer">{l.name}</a>
-      ))}
       <a class="author-link-pill author-link-pill--primary" href={localePrefix + "/author/youssef-raihane/"}>Full Author Page →</a>
     </div>
   </aside>
@@ -223,34 +166,6 @@ const personSchema = {
     color: var(--ink, #1a1a1a);
     margin: 0 0 14px;
   }
-  .author-bio-experience {
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 14px;
-    line-height: 1.6;
-    color: var(--ink, #1a1a1a);
-    margin: 0 0 16px;
-    padding: 14px 16px;
-    background: rgba(200, 160, 74, 0.08);
-    border-left: 3px solid var(--gold, #c8a04a);
-    border-radius: 0 6px 6px 0;
-  }
-  .author-credentials {
-    list-style: none;
-    padding: 0;
-    margin: 0 0 20px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-  .author-credentials li {
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 12px;
-    color: var(--ink, #1a1a1a);
-    background: var(--white, #fff);
-    border: 1px solid var(--line, #e5e5e5);
-    padding: 6px 12px;
-    border-radius: 6px;
-  }
   .author-links {
     display: flex;
     flex-wrap: wrap;
@@ -258,13 +173,6 @@ const personSchema = {
     gap: 10px;
     padding-top: 16px;
     border-top: 1px solid var(--line, #e5e5e5);
-  }
-  .author-links-tag {
-    font-family: var(--sans, system-ui, sans-serif);
-    font-size: 12px;
-    color: var(--muted, #888);
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
   }
   .author-link-pill {
     display: inline-block;
