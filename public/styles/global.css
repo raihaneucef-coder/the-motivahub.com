@@ -3035,3 +3035,17 @@ body.menu-open #cookie-consent {
   .hero-meta { gap: 18px 16px !important; }
   .hero-meta-label { font-size: 0.55rem !important; }
 }
+
+/* ============================================================
+   22. Journal reading polish (audit J1) — CSS only
+   ============================================================ */
+/* J1 — phone band: blockquotes were desktop-locked (22px + 44px padding left
+   ~240px of text column); scale them down while keeping the editorial frame */
+@media (max-width: 600px) {
+  .prose blockquote {
+    font-size: 1.0625rem;
+    line-height: 1.6;
+    padding: 1.25em 1.25em 1.25em 1.5em;
+    margin: 2.2em 0;
+  }
+}
