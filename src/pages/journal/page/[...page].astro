@@ -17,7 +17,7 @@ const prevHref = page.url.prev;
 const nextHref = page.url.next;
 ---
 
-<Layout title={`The Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} of ${totalPages} — Essays for the long climb.`}>
+<Layout title={`The Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} of ${totalPages} — Practical articles on mindset, habits, discipline and deep work.`}>
   {isFirst && (
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
@@ -38,15 +38,15 @@ const nextHref = page.url.next;
   {!isFirst && <link rel="prev" href={page.url.prev} />}
   {page.url.next && <link rel="next" href={page.url.next} />}
 
-  <section class="page-head">
+  <section class="journal-page-head">
     <div class="container">
-      <p class="kicker">The Journal</p>
-      <h1>Essays for the <em>long climb.</em></h1>
-      <p><span>Page</span> {page.currentPage} <span>of</span> {totalPages} · {page.total} <span>essays total</span></p>
+      <p class="journal-hero-eyebrow">Thoughts. Ideas. Progress.</p>
+      <h1 class="journal-hero-title" style="font-size:clamp(2rem,4vw,3rem);">The <em>Journal</em></h1>
+      <p class="journal-hero-desc">Page {page.currentPage} of {totalPages} · {page.total} articles total</p>
     </div>
   </section>
 
-  <section class="feed">
+  <section class="journal-full-grid">
     <div class="container">
       <div class="grid">
         {page.data.map((post: any) => <ArticleCard post={post} />)}
@@ -62,38 +62,35 @@ const nextHref = page.url.next;
 </Layout>
 
 <style>
+  .journal-page-head {
+    padding: clamp(100px, 14vh, 140px) 0 clamp(24px, 4vh, 40px);
+  }
+  .journal-page-head .journal-hero-desc { margin-top: 8px; }
   .pagination {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin: 56px 0 24px;
     padding: 20px 0;
-    border-top: 1px solid var(--line, #e5e5e5);
-    font-family: var(--sans, system-ui, sans-serif);
+    border-top: 1px solid var(--line, #2a2a2a);
+    font-family: var(--sans);
     font-size: 14px;
     gap: 12px;
     flex-wrap: wrap;
   }
   .pagination-link {
-    color: var(--gold, #c8a04a);
+    color: #ff4d00;
     text-decoration: none;
     letter-spacing: 1.5px;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 12px;
     padding: 8px 16px;
-    border: 1px solid var(--line, #e5e5e5);
+    border: 1px solid var(--line, #2a2a2a);
     border-radius: 6px;
     transition: border-color 0.2s ease;
   }
-  .pagination-link:hover { border-color: var(--gold, #c8a04a); }
-  .pagination-link.disabled {
-    color: var(--muted, #999);
-    cursor: not-allowed;
-    opacity: 0.5;
-  }
-  .pagination-current {
-    color: var(--muted, #666);
-    font-size: 13px;
-  }
+  .pagination-link:hover { border-color: #ff4d00; }
+  .pagination-link.disabled { color: #666; cursor: not-allowed; opacity: 0.5; }
+  .pagination-current { color: #888; font-size: 13px; }
 </style>

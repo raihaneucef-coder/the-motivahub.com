@@ -777,5 +777,11 @@
   "wisdomKicker": "The Wisdom Stack",
   "wisdomSubtitle": "The texts that shaped Motiva Hub. The texts that will outlast the noise. Read slowly. Re-read often.",
   "wisdomTitle": "Books that <em>built the work.</em>",
-  "headerSearch": "Search"
+  "headerSearch": "Search",
+  "journalSortLatest": "Latest",
+  "journalNewsletterKicker": "The Motiva Letter",
+  "journalNewsletterTitle": "Get new articles in your inbox.",
+  "journalNewsletterDesc": "Practical ideas, straight to your inbox. No spam. Just value.",
+  "journalNewsletterPlaceholder": "Your email address",
+  "journalNewsletterBtn": "Subscribe →"
 }
