@@ -3011,3 +3011,27 @@ body.menu-open #cookie-consent {
   /* Slightly deeper scrim behind the headline band (bright sky sits mid-frame) */
   .hero-portrait-overlay { background: linear-gradient(180deg, rgba(10,10,10,0.15) 0%, rgba(10,10,10,0.45) 35%, rgba(10,10,10,0.78) 62%, rgba(10,10,10,0.95) 100%) !important; }
 }
+
+/* ============================================================
+   21. Hero typography polish pass (audit T1-T5) — CSS only
+   ============================================================ */
+/* T1 — iPad portrait band (601-768): dedicated editorial scale instead of phone typography */
+@media (min-width: 601px) and (max-width: 768px) {
+  .hero-portrait .hero-title { font-size: clamp(2.5rem, 6.2vw, 3.2rem) !important; line-height: 1.12 !important; }
+  .hero-portrait .hero-subtitle { font-size: 1.05rem !important; max-width: 46ch !important; margin-bottom: 24px !important; }
+  .hero-btns { flex-direction: row !important; justify-content: flex-start !important; gap: 14px !important; }
+  .hero-btns .btn { width: auto !important; padding: 14px 28px !important; font-size: 0.95rem !important; }
+  .hero-btns .btn-ghost { padding: 13px 27px !important; } /* 13px + 1px border == primary height */
+}
+/* T5 — phone band: subtitle must outrank the CTA label (15.2px > 14.4px) */
+@media (max-width: 600px) {
+  .hero-portrait .hero-subtitle { font-size: 0.95rem !important; }
+  /* T4 — stacked CTAs equal height: compensate the ghost button's 1px border */
+  .hero-btns .btn-ghost { padding: 11px 20px !important; }
+}
+/* T2/T3 — keep the FR stats row on one line so the headline block stays at EN height
+   (orange line lands back on the dark sill band) and the row reads balanced */
+@media (max-width: 430px) {
+  .hero-meta { gap: 18px 16px !important; }
+  .hero-meta-label { font-size: 0.55rem !important; }
+}
