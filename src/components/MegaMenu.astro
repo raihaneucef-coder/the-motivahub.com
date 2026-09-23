@@ -3,45 +3,46 @@ import Link from "./Link.astro";
 
 const sections = [
   {
+    heading: "Start Here",
+    headingKey: "navStartHere",
+    items: [
+      { num: "01", label: "Begin your journey", href: "/journal/", labelKey: "navBeginJourney" },
+    ],
+  },
+  {
     heading: "Read",
     headingKey: "navRead",
     items: [
-      { num: "01", label: "The Journal", href: "/journal/", labelKey: "navJournal" },
-      { num: "02", label: "Daily Quotes", href: "/quotes/", labelKey: "navQuotes" },
-      { num: "03", label: "Topics", href: "/topics/", labelKey: "navTopics" },
-      { num: "04", label: "The Bookstand", href: "/books/", labelKey: "navBookstand" },
+      { num: "02", label: "Journal", href: "/journal/", labelKey: "navJournal" },
+      { num: "03", label: "Essays", href: "/topics/", labelKey: "navEssays" },
+      { num: "04", label: "Quotes", href: "/quotes/", labelKey: "navQuotes" },
     ],
   },
   {
-    heading: "Guides",
-    headingKey: "navGuides",
+    heading: "Learn",
+    headingKey: "navLearn",
     items: [
-      { num: "05", label: "Atomic Habits", href: "/guides/atomic-habits-ultimate-guide/", labelKey: "navAtomicHabits" },
-      { num: "06", label: "Best Books 2026", href: "/best/books/", labelKey: "navBestBooks" },
-      { num: "07", label: "Best Focus Books", href: "/best/focus-books/", labelKey: "navBestFocus" },
-      { num: "08", label: "Best Habit Books", href: "/best/habit-books/", labelKey: "navBestHabit" },
-      { num: "09", label: "Best Stoicism Books", href: "/best/stoicism-books/", labelKey: "navBestStoicism" },
+      { num: "05", label: "Guides", href: "/guides/", labelKey: "navGuides" },
+      { num: "06", label: "Books", href: "/books/", labelKey: "navBooks" },
+      { num: "07", label: "Curated Listening", href: "/podcast/", labelKey: "navCuratedListening" },
     ],
   },
   {
-    heading: "Tools",
-    headingKey: "navTools",
+    heading: "Apply",
+    headingKey: "navApply",
     items: [
-      { num: "10", label: "Discipline Quiz", href: "/tools/discipline-quiz/", labelKey: "navDisciplineQuiz" },
-      { num: "11", label: "Habit Stacker", href: "/tools/habit-stacker/", labelKey: "navHabitStacker" },
-      { num: "12", label: "Meditation Timer", href: "/tools/meditation-timer/", labelKey: "navMeditationTimer" },
-      { num: "13", label: "Cold Shower Tracker", href: "/tools/cold-shower-tracker/", labelKey: "navColdShower" },
-      { num: "14", label: "Reading Calculator", href: "/tools/reading-calculator/", labelKey: "navReadingCalc" },
+      { num: "08", label: "Tools", href: "/tools/", labelKey: "navTools" },
+      { num: "09", label: "30 Days of Discipline", href: "/30-days-discipline/", labelKey: "nav30Days" },
+      { num: "10", label: "Quiz", href: "/tools/discipline-quiz/", labelKey: "navQuiz" },
     ],
   },
   {
-    heading: "Brand",
-    headingKey: "navBrand",
+    heading: "Grow",
+    headingKey: "navGrow",
     items: [
-      { num: "15", label: "The Author", href: "/author/youssef-raihane/", labelKey: "navAuthor" },
-      { num: "16", label: "About", href: "/about/", labelKey: "navAbout" },
-      { num: "17", label: "30 Days of Discipline", href: "/30-days-discipline/", labelKey: "nav30Days" },
-      { num: "18", label: "Contact", href: "/contact/", labelKey: "navContact" },
+      { num: "11", label: "About", href: "/about/", labelKey: "navAbout" },
+      { num: "12", label: "Founder", href: "/author/youssef-raihane/", labelKey: "navFounder" },
+      { num: "13", label: "Newsletter", href: "/#newsletter", labelKey: "navNewsletter" },
     ],
   },
 ];
@@ -62,7 +63,7 @@ const sections = [
       <div class="overlay-nav-section">
         <p class="overlay-nav-heading" data-i18n={section.headingKey}>{section.heading}</p>
         {section.items.map((item) => (
-          <Link href={item.href} data-num={item.num}>
+          <Link href={item.href} data-num={item.num} class={section.headingKey === "navStartHere" ? "overlay-nav-entry" : undefined}>
             <span data-i18n={item.labelKey}>{item.label}</span>
           </Link>
         ))}
