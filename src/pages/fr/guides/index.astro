@@ -122,44 +122,4 @@ const readTime = (words: number) => `${Math.round(words / 250)} MIN DE LECTURE`;
     </div>
   </section>
 
-  <!-- Newsletter -->
-  <section class="journal-newsletter">
-    <div class="container">
-      <div class="journal-newsletter-inner">
-        <div class="journal-newsletter-text">
-          <p class="kicker kicker-or">Le Daily Drive · Newsletter</p>
-          <h2>Une lettre. Chaque dimanche.</h2>
-          <p>Les meilleures idées, outils et guides de la semaine — livrés aux personnes qui construisent une vie meilleure.</p>
-        </div>
-        <form class="journal-newsletter-form guides-nl-form">
-          <input type="email" name="email" placeholder="Votre adresse e-mail" required aria-label="Adresse e-mail" />
-          <button type="submit">S'abonner →</button>
-        </form>
-      </div>
-      <p class="guides-nl-note">Gratuit. Pas de spam. Désabonnement à tout moment.</p>
-    </div>
-  </section>
-
-  <script>
-    const form = document.querySelector('.guides-nl-form') as HTMLFormElement | null;
-    if (form) {
-      form.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        const email = (form.querySelector('input[type="email"]') as HTMLInputElement).value.trim();
-        if (!email) return;
-        const btn = form.querySelector('button')!;
-        btn.textContent = 'Envoi…'; btn.disabled = true;
-        try {
-          await fetch('https://formsubmit.co/ajax/raihaneucef@gmail.com', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-            body: JSON.stringify({ email, source: 'guides-fr', page: '/fr/guides/', _subject: '🌱 Nouvel abonné (Guides FR)', _template: 'table' })
-          });
-          btn.textContent = '✓ Inscrit!';
-          (form.querySelector('input') as HTMLInputElement).value = '';
-        } catch { btn.textContent = 'Réessayer'; }
-        finally { setTimeout(() => { btn.textContent = "S'abonner →"; btn.disabled = false; }, 3000); }
-      });
-    }
-  </script>
 </Layout>
