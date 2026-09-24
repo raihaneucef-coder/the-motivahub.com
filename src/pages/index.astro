@@ -43,8 +43,8 @@ const stats = [
 ---
 
 <Layout title="Motiva Hub: Build the Discipline | Mindset & Habits" description="Mindset, habits, books, and free tools — for the long ascent, one day at a time. Build the discipline that outlasts the motivation.">
-  <link slot="head" rel="preload" href="/images/hero-editorial.webp" as="image" type="image/webp" fetchpriority="high" media="(min-width: 1025px)" />
-  <link slot="head" rel="preload" href="/images/hero-editorial-mobile.webp" as="image" type="image/webp" fetchpriority="high" media="(max-width: 1024px)" />
+  <link slot="head" rel="preload" href="/images/hero-static-pc.webp" as="image" type="image/webp" fetchpriority="high" media="(min-width: 769px)" />
+  <link slot="head" rel="preload" href="/images/hero-static-mobile.webp" as="image" type="image/webp" fetchpriority="high" media="(max-width: 768px) and (orientation: portrait)" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [
@@ -96,7 +96,6 @@ const stats = [
     kicker="EST. 2025 · THE LONG ASCENT"
     title={`Build the discipline.<br/><em>One day at a time.</em>`}
     subtitle="Essays, tools, books, and systems for becoming better — one day at a time."
-    image="/images/hero-editorial.webp"
     primaryCta={{ label: "Explore Journal", href: "/journal/" }}
     secondaryCta={{ label: "Take the Quiz", href: "/tools/discipline-quiz/" }}
     meta={[
