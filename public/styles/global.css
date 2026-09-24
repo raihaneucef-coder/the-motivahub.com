@@ -3119,3 +3119,16 @@ body.menu-open #cookie-consent {
 .trust-logo-bold { color: #c9c9c9 !important; }
 .manifesto-cite-text { color: #8f8f8f !important; }
 .hero .btn { font-size: 1.1875rem; font-weight: 700; }
+
+/* ==========================================================================
+   25b. ACCESSIBILITY PASS — PC-only leftovers (hp-book/listen meta, footer
+   muted text, program CTA + cookie accept white-on-orange). Same recipe:
+   brighten grays to >=4.5:1; enlarge the program CTA to WCAG large text;
+   deepen the small cookie pill's orange just enough for white text.
+   ========================================================================== */
+.hp-book-meta,
+.hp-listen-meta { color: #8f8f8f !important; }
+.footer-bottom p,
+.footer-bottom-links a { color: #8f8f8f !important; }
+.hp-program .btn-primary { font-size: 1.1875rem; font-weight: 700; }
+.cookie-accept { background: #d63f00 !important; }
