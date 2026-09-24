@@ -3051,22 +3051,26 @@ body.menu-open #cookie-consent {
 }
 
 /* ============================================================
-   23. Journal desktop reading polish (audit D1-D3) — desktop only
+   23. Journal desktop reading polish (audit D1-D3, E1-E2) — >=769px only
    ============================================================ */
-@media (min-width: 1025px) {
-  /* D2 — share the container grid: reading box hangs off the same left edge
-     as the title/hero image instead of floating centered */
+@media (min-width: 769px) {
+  /* D2/E2 — share the container grid: reading box hangs off the same left
+     edge as the title/hero image instead of floating centered */
   .article-body {
-    max-width: 760px;
+    max-width: 802px;
     margin-left: calc((100% - min(100%, 1200px)) / 2);
     margin-right: auto;
   }
-  /* D1 + D3 — 18px/1.7 on a 612px measure (~66 cpl EN, ~69 FR)
-     scoped to .article-body so guide pages (Markdown.astro prose outside
-     the article wrapper) keep their existing layout */
+  /* E2 — tablet measure 680px (capped by the 760-802px box padding as needed) */
   .article-body .prose {
-    max-width: 612px;
+    max-width: 680px;
     margin-left: 0;
+  }
+}
+@media (min-width: 1025px) {
+  /* D1 + D3 + E1 — 18px/1.7 on a 690px magazine measure, same left edge */
+  .article-body .prose {
+    max-width: 690px;
     font-size: 1.125rem;
     line-height: 1.7;
   }
