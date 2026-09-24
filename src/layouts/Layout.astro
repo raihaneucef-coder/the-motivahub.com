@@ -55,7 +55,7 @@ const gaSnippet = GA_ID
 // Third-party scripts (AdSense, GA) are deferred to the first user interaction:
 // keeps first paint free of render-blocking/cookie-setting third-party requests.
 const deferTpl = (body: string) =>
-  `(function(){var done=false;function load(){if(done)return;done=true;${body}}["scroll","pointerdown","keydown","touchstart"].forEach(function(e){window.addEventListener(e,load,{once:true,passive:true});});})();`;
+  `(function(){var done=false;function load(){if(done)return;done=true;${body}}function idle(){if("requestIdleCallback"in window){requestIdleCallback(load,{timeout:2000})}else{setTimeout(load,500)}}["scroll","pointerdown","keydown","touchstart"].forEach(function(e){window.addEventListener(e,idle,{once:true,passive:true});});})();`;
 const deferAds = deferTpl(
   `var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);`
 );
