@@ -14,3 +14,4 @@ reels/output/
 .env*
 test-results/
 tests/screenshots/
+pins.batch1/
