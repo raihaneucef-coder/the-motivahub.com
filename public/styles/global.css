@@ -3082,12 +3082,13 @@ body.menu-open #cookie-consent {
 /* ============================================================
    24. Hero static-photo mode (video retired) — picture wrapper
    must not affect layout; .hero-video img keeps all old rules.
-   Portrait screens (phones + iPad) show the COMPLETE photo
-   contained over a blurred backdrop of the same frame.
+   Phone portrait: dedicated portrait crop, full-bleed cover.
+   iPad portrait (769-1024): the COMPLETE photo contained over a
+   softly blurred backdrop of the same frame.
    ============================================================ */
 .hero-picture { display: contents; }
 .hero-full { display: none; }
-@media (orientation: portrait) and (max-width: 1024px) {
+@media (orientation: portrait) and (min-width: 769px) and (max-width: 1024px) {
   .hero-video {
     filter: blur(26px) brightness(0.4) saturate(1.15);
     transform: scale(1.18);

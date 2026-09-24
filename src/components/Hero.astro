@@ -21,9 +21,10 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
   <!-- Static hero art (video retired): full-quality photo; on portrait screens the
        complete picture is shown contained over a softly blurred backdrop. -->
   <picture class="hero-picture">
+    <source media="(max-width: 768px) and (orientation: portrait)" srcset="/images/hero-static-mobile.webp">
     <img class="hero-video" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" fetchpriority="high" decoding="async">
-    <img class="hero-full" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" decoding="async" aria-hidden="true">
   </picture>
+  <img class="hero-full" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" decoding="async" aria-hidden="true">
   <div class="hero-portrait-overlay"></div>
 
   <div class="container">
