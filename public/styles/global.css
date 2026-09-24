@@ -3003,9 +3003,11 @@ body.menu-open #cookie-consent {
 }
 
 /* ============================================================
-   20. Hero portrait art direction — dedicated 9:16 asset <=1024px
+   20. Hero portrait art direction — dedicated 9:16 asset, phones only
+   (<=768 = mobile, exactly as before; iPad 769-1024 now shares the
+   desktop 60fps v3 landscape asset and its base art direction)
    ============================================================ */
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   /* Portrait asset keeps the subject in frame; overrides the old 20%/top rules */
   .hero-video { object-position: center 22% !important; }
   /* Slightly deeper scrim behind the headline band (bright sky sits mid-frame) */
@@ -3074,5 +3076,29 @@ body.menu-open #cookie-consent {
   .article-body .prose {
     font-size: 1.125rem;
     line-height: 1.7;
+  }
+}
+
+/* ============================================================
+   24. Hero static-photo mode (video retired) — picture wrapper
+   must not affect layout; .hero-video img keeps all old rules.
+   Portrait screens (phones + iPad) show the COMPLETE photo
+   contained over a blurred backdrop of the same frame.
+   ============================================================ */
+.hero-picture { display: contents; }
+.hero-full { display: none; }
+@media (orientation: portrait) and (max-width: 1024px) {
+  .hero-video {
+    filter: blur(26px) brightness(0.4) saturate(1.15);
+    transform: scale(1.18);
+  }
+  .hero-full {
+    display: block;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    z-index: 0;
   }
 }

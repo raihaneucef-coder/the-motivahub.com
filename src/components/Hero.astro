@@ -11,31 +11,19 @@ interface Props {
   meta?: Array<{ num: string; label: string; labelKey?: string }>;
 }
 
-const { kicker = "Motiva Hub", title, subtitle, image = "/images/hero-editorial.webp", primaryCta, secondaryCta, meta } = Astro.props;
+const { kicker = "Motiva Hub", title, subtitle, primaryCta, secondaryCta, meta } = Astro.props;
 const locale = getLangFromUrl(Astro.url);
 const primaryCtaHref = getLocalePath(primaryCta.href, locale);
 const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 ---
 
 <section class="hero hero-portrait" id="hero">
-  <video class="hero-video" muted loop playsinline
-    data-img={image}
-    data-src-webm="/videos/hero-bg-v3.webm"
-    data-src-mp4="/videos/hero-bg-v3.mp4"
-    data-src-webm-mobile="/videos/hero-bg-mobile-v1.webm"
-    data-src-mp4-mobile="/videos/hero-bg-mobile-v1.mp4"
-    data-img-mobile="/images/hero-editorial-mobile.webp">
-  </video>
-  <script is:inline>
-    // Set the poster synchronously per viewport so only ONE image is ever fetched.
-    (function () {
-      var v = document.querySelector('.hero-video');
-      if (!v) return;
-      var portrait = window.matchMedia('(max-width: 1024px)').matches;
-      v.poster = (portrait && v.dataset.imgMobile) ? v.dataset.imgMobile : v.dataset.img;
-    })();
-  </script>
-  <noscript><img src="/images/hero-editorial.webp" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top;z-index:0"></noscript>
+  <!-- Static hero art (video retired): full-quality photo; on portrait screens the
+       complete picture is shown contained over a softly blurred backdrop. -->
+  <picture class="hero-picture">
+    <img class="hero-video" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" fetchpriority="high" decoding="async">
+    <img class="hero-full" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" decoding="async" aria-hidden="true">
+  </picture>
   <div class="hero-portrait-overlay"></div>
 
   <div class="container">
@@ -76,41 +64,3 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
   </div>
 </section>
 
-<script>
-  // Portrait art direction: phones/tablets get a dedicated 9:16 hero composition.
-  const portraitMq = window.matchMedia('(max-width: 1024px)');
-  // Defer video loading until after LCP paint (improves PageSpeed)
-  function initHeroVideo() {
-    const video = document.querySelector('.hero-video');
-    if (!video || video.querySelector('source')) return;
-    const usePortrait = portraitMq.matches && video.dataset.srcWebmMobile;
-    const webm = usePortrait ? video.dataset.srcWebmMobile : video.dataset.srcWebm;
-    const mp4 = usePortrait ? video.dataset.srcMp4Mobile : video.dataset.srcMp4;
-    if (webm) {
-      const src = document.createElement('source');
-      src.src = webm; src.type = 'video/webm';
-      video.appendChild(src);
-    }
-    if (mp4) {
-      const src = document.createElement('source');
-      src.src = mp4; src.type = 'video/mp4';
-      video.appendChild(src);
-    }
-    video.load();
-    video.muted = true;
-    video.play().catch(() => {
-      const retry = () => { video.play(); document.removeEventListener('click', retry); };
-      document.addEventListener('click', retry);
-    });
-  }
-  // Respect reduced-motion: keep the static poster, never load the video.
-  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (!prefersReducedMotion) {
-    // Load video after first paint to not block LCP
-    if ('requestIdleCallback' in window) {
-      requestIdleCallback(initHeroVideo, { timeout: 2000 });
-    } else {
-      setTimeout(initHeroVideo, 1000);
-    }
-  }
-</script>
