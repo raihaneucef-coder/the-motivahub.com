@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/generate-sitemap.mjs && node scripts/postbuild-indexnow.mjs",
+    "build": "astro build && node scripts/minify-dist-css.mjs && node scripts/generate-sitemap.mjs && node scripts/postbuild-indexnow.mjs",
     "preview": "astro preview",
     "test:perf": "playwright test tests/perf-baseline.spec.ts --project=chromium"
   },
