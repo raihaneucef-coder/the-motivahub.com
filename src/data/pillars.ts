@@ -26,8 +26,12 @@ export interface PillarBook {
 export interface PillarFeatured {
   href: string;
   hrefFr: string;
+  solvesKey?: string;
   solvesDefault: string;
+  forKey?: string;
   forDefault: string;
+  nextKey?: string;
+  nextHref?: string;
   nextLabelDefault: string;
   kickerKey: string;
   kickerDefault: string;
@@ -139,6 +143,115 @@ export const pillars: Record<string, Pillar> = {
     books: [
       { id: "atomic-habits", review: "/journal/atomic-habits-review/", reviewFr: "/fr/journal/atomic-habits-revue-complete/" },
       { id: "deep-work", review: "/journal/deep-work-focus/", reviewFr: "/fr/journal/deep-work-focus/" },
+    ],
+  },
+
+  mindset: {
+    id: "mindset",
+    brandingKey: "hubMindsetBranding",
+    brandingDefault: "Pillar 02 · Mental Resilience & Self-Mastery",
+    questionKey: "hubMindsetQuestion",
+    questionDefault:
+      "Why do some people break under pressure — while others adapt and grow?",
+    ledeKey: "hubMindsetLede",
+    ledeDefault:
+      "Confidence, focus and grit are not talents you are born with — they are responses you train, one uncomfortable rep at a time.",
+    sections: [
+      {
+        labelKey: "hubSectionQuestion",
+        labelDefault: "The Question",
+        blurbKey: "hubSectionQuestionBlurb",
+        blurbDefault: "Name the mechanism before you fight it.",
+        articles: [
+          "comparison-trap",
+          "arreter-auto-sabotage",
+          "syndrome-imposteur",
+          "growth-mindset-rewire",
+        ],
+        articlesFr: [
+          "arreter-auto-sabotage",
+          "syndrome-imposteur",
+          "comparison-trap",
+          "mindset-etat-esprit",
+        ],
+      },
+      {
+        labelKey: "hubSectionExplanation",
+        labelDefault: "The Explanation",
+        blurbKey: "hubSectionExplanationBlurb",
+        blurbDefault: "What the research actually says.",
+        articles: [
+          "identity-precedes-outcome",
+          "long-ascent",
+          "confidence-is-a-record-not-a-feeling",
+          "motivation-fades-systems-dont",
+        ],
+        articlesFr: [
+          "echec-meilleur-professeur",
+          "puissance-dialogue-interieur",
+          "identity-precedes-outcome",
+          "confidence-is-a-record-not-a-feeling",
+        ],
+      },
+      {
+        labelKey: "hubSectionPractice",
+        labelDefault: "The Practice",
+        blurbKey: "hubSectionPracticeBlurb",
+        blurbDefault: "Where it becomes real — protocols you run today.",
+        articles: [
+          "focus-on-yourself-stay-silent-shi-heng-yi",
+          "confiance-inbranlable",
+          "comment-devenir-mentalement-inebranlable",
+          "regles-goggins-mental",
+        ],
+        articlesFr: [
+          "confiance-inbranlable",
+          "comment-devenir-mentalement-inebranlable",
+          "regles-goggins-mental",
+          "focus-on-yourself-stay-silent-shi-heng-yi",
+        ],
+      },
+    ],
+    tools: [
+      {
+        href: "/tools/discipline-quiz/",
+        labelKey: "hubToolQuiz",
+        labelDefault: "The Discipline Audit",
+      },
+      {
+        href: "/memento-mori/",
+        labelKey: "hubToolMemento",
+        labelDefault: "Memento Mori",
+      },
+    ],
+    featured: {
+      href: "/psychology/",
+      hrefFr: "/fr/psychology/",
+      solvesKey: "hubFeaturedP2Solves",
+      solvesDefault:
+        "What it repairs: the missing inner layer — you have the system, and you still hesitate in front of the effort.",
+      forKey: "hubFeaturedP2For",
+      forDefault:
+        "Who it is for: anyone who knows what to do — and wonders why their head keeps resisting.",
+      nextKey: "hubFeaturedP2Next",
+      nextHref: "/tools/discipline-quiz/",
+      nextLabelDefault: "Take the discipline audit",
+      kickerKey: "hubPsychKicker",
+      kickerDefault: "The Foundation",
+      titleKey: "hubPsychTitle",
+      titleDefault: "The Psychology of Discipline",
+      descKey: "hubPsychDesc",
+      descDefault:
+        "Six psychological mechanisms — from self-sabotage to resilience — that explain why willpower alone fails, and what actually replaces it.",
+      ctaKey: "hubFeaturedP2Cta",
+      ctaDefault: "Read the brief →",
+    },
+    books: [
+      {
+        id: "cant-hurt-me",
+        review: "/journal/cant-hurt-me-review/",
+        reviewFr: "/fr/journal/cant-hurt-me-review/",
+      },
     ],
   },
 };

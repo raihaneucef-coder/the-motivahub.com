@@ -65,12 +65,12 @@ const featured = pillar.featured;
       <h2 class="hub-featured-title" data-i18n={featured.titleKey}>{L(featured.titleKey, featured.titleDefault)}</h2>
       <p class="hub-featured-desc" data-i18n={featured.descKey}>{L(featured.descKey, featured.descDefault)}</p>
       <div class="hub-featured-notes">
-        <p data-i18n="hubFeaturedSolves">{L("hubFeaturedSolves", featured.solvesDefault)}</p>
-        <p data-i18n="hubFeaturedFor">{L("hubFeaturedFor", featured.forDefault)}</p>
+        <p data-i18n={featured.solvesKey ?? "hubFeaturedSolves"}>{L(featured.solvesKey ?? "hubFeaturedSolves", featured.solvesDefault)}</p>
+        <p data-i18n={featured.forKey ?? "hubFeaturedFor"}>{L(featured.forKey ?? "hubFeaturedFor", featured.forDefault)}</p>
       </div>
       <div class="hub-featured-actions">
         <a class="hub-featured-cta" href={fr ? featured.hrefFr : featured.href} data-i18n={featured.ctaKey}>{L(featured.ctaKey, featured.ctaDefault)}</a>
-        <a class="hub-featured-next" href={frHref("/tools/habit-stacker/")} data-i18n="hubFeaturedNext">{L("hubFeaturedNext", featured.nextLabelDefault)} →</a>
+        <a class="hub-featured-next" href={frHref(featured.nextHref ?? "/tools/habit-stacker/")} data-i18n={featured.nextKey ?? "hubFeaturedNext"}>{L(featured.nextKey ?? "hubFeaturedNext", featured.nextLabelDefault)} →</a>
       </div>
     </section>
 

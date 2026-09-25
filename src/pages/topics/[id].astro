@@ -16,6 +16,9 @@ const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft && norm(p.data.topic) === topic.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const pillar = pillars[topic.id];
+// Hub curation is editorial and may span topics (e.g. toughness essays tagged Discipline);
+// the feed below keeps using the topic-filtered list.
+const allPosts = await getCollection("blog", ({ data }) => !data.draft && !data.noindex);
 ---
 
 <Layout title={`${topic.title} — Motiva Hub`} description={topic.description}>
@@ -62,7 +65,7 @@ const pillar = pillars[topic.id];
     </div>
   </section>
 
-  {pillar && <PillarHub pillar={pillar} posts={posts} locale="en" />}
+  {pillar && <PillarHub pillar={pillar} posts={allPosts} locale="en" />}
 
   <section class="feed">
     <div class="container">

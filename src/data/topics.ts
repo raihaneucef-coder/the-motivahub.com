@@ -10,6 +10,8 @@ export const topics: Topic[] = [
     id: "mindset",
     title: "Mindset",
     description: "Before any habit or discipline can take root, the mind must be reshaped. We examine the inner scaffolding that holds a life together.",
+    descriptionFr:
+      "La confiance n'est pas un trait de caractère — c'est une architecture intérieure que l'on construit, épreuve après épreuve.",
   },
   {
     id: "habits",
