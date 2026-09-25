@@ -70,7 +70,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regles-goggins-mental_p7">Your brain has a governor. It shuts you down early to protect you from discomfort. But that discomfort is not danger — it is growth.</div>
 
-<div data-i18n-html="article_regles-goggins-mental_p8"><strong>How to apply it:</strong> The next time you want to quit, tell yourself: "I am only at 40%." Then do 10% more. You will be amazed at what your body and mind can handle.</div>
+<div data-i18n-html="article_regles-goggins-mental_p8"><strong>How to apply it:</strong> The next time you want to quit, tell yourself: "I am only at 40%." Then do 10% more. You will be amazed at what your body and mind can handle. The rule deserves its own 30-day experiment — <a href="/journal/regle-40-pourcent/">see what happened when I tested it</a>.</div>
 
 <div data-i18n-html="article_regles-goggins-mental_p9"><h2>Rule 2: Take Souls</h2></div>
 

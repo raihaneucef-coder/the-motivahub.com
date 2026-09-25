@@ -1,10 +1,10 @@
 ---
 title: "The 40% Rule: I Tested It for 30 Days — Here's What Actually Happens"
-description: "David Goggins says we're only operating at 40% of our capacity. I tested this for 30 days. Here's what worked, what failed, and the scientific truth about the wall."
+description: "I tested Goggins' 40% rule for 30 days and tracked 47 mental walls: 77% of pushes paid off, 10% backfired. The protocol, the science, and when the wall is real."
 titleFr: "La Règle des 40 % : Testée Pendant 30 Jours — Résultats Réels"
-descriptionFr: "La règle des 40 % de David Goggins dit qu'on n'utilise que 40 % de notre potentiel. Test scientifique sur 30 jours : ce qui marche, ce qui échoue, et la vérité derrière le mur."
+descriptionFr: "J'ai testé la règle des 40 % de Goggins pendant 30 jours et relevé 47 murs mentaux : 77 % des poussées ont payé, 10 % ont échoué. Le protocole, la science, et quand le mur est réel."
 pubDate: 2026-09-01
-updatedDate: 2026-09-21
+updatedDate: 2026-09-25
 readTime: "8 MIN"
 image: "/images/blog/regle-40-pourcent-3.jpg"
 imageAlt: "A runner pushing hard through a sprint on an outdoor track"
@@ -25,7 +25,8 @@ tags:
   - "guide"
   - "self-help"
   - "performance"
-wordCount: 1298
+wordCount: 1279
+bookSlug: "cant-hurt-me"
 faq:
   - q: "Is the 40% rule scientifically proven?"
     a: "Partially. Dr. Tim Noakes' Central Governor Theory (2004) proved the brain limits muscular exertion before muscles are truly depleted. The 40% number itself is Goggins' framing, not exact science — but the principle (most 'walls' are mental, not physical) is well-documented."
@@ -51,8 +52,6 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p3">I tested the 40% rule for 30 days. This is what actually happened.</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_regle-40-pourcent_p4">First, the theory: David Goggins claims that when your brain says you're done, you're only operating at 40% of your actual capacity. The other 60% is there, waiting — you just have to push past the signal.</div>
 
 <div data-i18n-html="article_regle-40-pourcent_p5">Sounds great in theory. But theory is cheap. So for 30 days, I tracked my own "walls" and what happened when I pushed through them.</div>
@@ -75,14 +74,18 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p14">For 30 days, I tracked three things every time I hit a "wall":</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p15">1. <strong>What the wall felt like</strong> (physical, mental, emotional)
-2. <strong>What I did</strong> (push through, rest, or compromise)
-3. <strong>The result</strong> (what I actually delivered, vs. what I'd have delivered if I'd stopped)</div>
+<div data-i18n-html="article_regle-40-pourcent_p15"><ol>
+<li><strong>What the wall felt like</strong> (physical, mental, emotional)</li>
+<li><strong>What I did</strong> (push through, rest, or compromise)</li>
+<li><strong>The result</strong> (what I actually delivered, vs. what I'd have delivered if I'd stopped)</li>
+</ol></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p16"><strong>Rules I set:</strong>
-- If the wall felt like sharp physical pain or injury signals → rest
-- If the wall felt like "I want to stop" (mental resistance) → push for 10 more minutes
-- If the wall felt like emotional overwhelm → rest + reflect</div>
+<ul>
+<li>If the wall felt like sharp physical pain or injury signals → rest</li>
+<li>If the wall felt like "I want to stop" (mental resistance) → push for 10 more minutes</li>
+<li>If the wall felt like emotional overwhelm → rest + reflect</li>
+</ul></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p17">Here's what the data showed.</div>
 
@@ -95,9 +98,11 @@ relatedArticles:
 <div data-i18n-html="article_regle-40-pourcent_p21"><strong>Day 17:</strong> Difficult phone call I'd been avoiding. Hit "wall" at 8 minutes in (the confrontation). Pushed 10 more. Closed the deal — would have walked away with a partial result.</div>
 
 <div data-i18n-html="article_regle-40-pourcent_p22">Across 30 days: I had <strong>47 distinct "walls"</strong>. I pushed through 31 of them. Of those 31:
-- 24 produced <em>better</em> results than I'd have gotten by stopping
-- 4 produced <em>equivalent</em> results (no harm done)
-- 3 produced <em>worse</em> results (I'd overdone it — fatigue the next day, lower quality work)</div>
+<ul>
+<li>24 produced <em>better</em> results than I'd have gotten by stopping</li>
+<li>4 produced <em>equivalent</em> results (no harm done)</li>
+<li>3 produced <em>worse</em> results (I'd overdone it — fatigue the next day, lower quality work)</li>
+</ul></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p23">So: <strong>77% better outcomes, 13% neutral, 10% worse</strong>.</div>
 
@@ -119,16 +124,18 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p32">The difference is subtle but enormous.</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p33">- "Should I stop?" — binary, anxiety-inducing, opens every escape route
-- "What would 10 more minutes look like?" — narrow, finite, low-risk</div>
+<div data-i18n-html="article_regle-40-pourcent_p33"><ul>
+<li>"Should I stop?" — binary, anxiety-inducing, opens every escape route</li>
+<li>"What would 10 more minutes look like?" — narrow, finite, low-risk</li>
+</ul></div>
 
-<div data-i18n-html="article_regle-40-pourcent_p34">When I framed it as "just 10 more minutes" (with a hard stop at 10 if the wall was was still real), I pushed through about 60% more walls. The commitment was smaller. The ego didn't have to commit to "I will do all of it." Just 10 minutes. Try it.</div>
+<div data-i18n-html="article_regle-40-pourcent_p34">When I framed it as "just 10 more minutes" (with a hard stop at 10 if the wall was still real), I pushed through about 60% more walls. The commitment was smaller. The ego didn't have to commit to "I will do all of it." Just 10 minutes. Try it.</div>
 
 <div data-i18n-html="article_regle-40-pourcent_p35"><h2>The Cookie Jar: What to Pull Out</h2></div>
 
-<div data-i18n-html="article_regle-40-pourcent_p36">Goggins calls it the <strong>Cookie Jar</strong> — a mental archive of every hard thing you've finished. When the wall hits, you don't motivate yourself; you <em>cite evidence</em>.</div>
+<div data-i18n-html="article_regle-40-pourcent_p36">Goggins calls it the <strong>Cookie Jar</strong> — a mental archive of every hard thing you've finished. When the wall hits, you don't motivate yourself; you <em>cite evidence</em>. It is one of <a href="/journal/regles-goggins-mental/">the full system of Goggins' five mental codes</a>, and arguably the most practical of the five.</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p37">I tested this directly. On days when I "couldn't write," I'd open my notes app and read past wins: "Wrote 2,000 words on Aug 22." "Finished a 30-page report on July 8." "Closed a deal in 4 minutes flat on May6."</div>
+<div data-i18n-html="article_regle-40-pourcent_p37">I tested this directly. On days when I "couldn't write," I'd open my notes app and read past wins: "Wrote 2,000 words on Aug 22." "Finished a 30-page report on July 8." "Closed a deal in 4 minutes flat on May 6."</div>
 
 <div data-i18n-html="article_regle-40-pourcent_p38">Result: 80% of the time, the wall lifted in under 90 seconds. Not from motivation. From evidence.</div>
 
@@ -142,9 +149,11 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p43">But:</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p44">- If you have a medical condition, listen to your body
-- If you're sleep-deprived, sleep is your 40% rule — push through it with a nap
-- If you're mentally exhausted, the wall may be real. Rest is the move move.</div>
+<div data-i18n-html="article_regle-40-pourcent_p44"><ul>
+<li>If you have a medical condition, listen to your body</li>
+<li>If you're sleep-deprived, sleep is your 40% rule — push through it with a nap</li>
+<li>If you're mentally exhausted, the wall may be real. Rest is the move.</li>
+</ul></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p45">The discipline isn't pushing through <em>everything</em>. The discipline is learning which walls are fake and which are real. That takes practice.</div>
 
@@ -152,10 +161,12 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p47">If you want to test this for yourself:</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p48">- <strong>Day 1-7:</strong> Track every "wall" without acting on it. Just notice. Categorize (physical, mental, emotional).
-- <strong>Day 8-14:</strong> Pick 5 mental walls. Negotiate 10 more minutes on each.
-- <strong>Day 15-21:</strong> Add the Cookie Jar. Before each push, cite one past win.
-- <strong>Day 22-30:</strong> Track results. Which pushes improved outcomes? Which backfired?</div>
+<div data-i18n-html="article_regle-40-pourcent_p48"><ul>
+<li><strong>Day 1-7:</strong> Track every "wall" without acting on it. Just notice. Categorize (physical, mental, emotional).</li>
+<li><strong>Day 8-14:</strong> Pick 5 mental walls. Negotiate 10 more minutes on each.</li>
+<li><strong>Day 15-21:</strong> Add the Cookie Jar. Before each push, cite one past win.</li>
+<li><strong>Day 22-30:</strong> Track results. Which pushes improved outcomes? Which backfired?</li>
+</ul></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p49">By Day 30, you'll have your own data. That's worth more than any review — because your brain, your job, your life are yours.</div>
 
@@ -169,13 +180,15 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p54">---</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p55"><em>Youssef Raihane has been tracking his own walls and wins for30 days — and counting. The Cookie Jar is real. The 10-minute negotiation is real. The 40% is real.</em></div>
+<div data-i18n-html="article_regle-40-pourcent_p55"><em>Youssef Raihane has been tracking his own walls and wins for 30 days — and counting. The Cookie Jar is real. The 10-minute negotiation is real. The 40% is real.</em></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p56"><h2>Sources</h2></div>
 
-<div data-i18n-html="article_regle-40-pourcent_p57">1. David Goggins — <em>Can't Hurt Me</em> (2018), for the 40% framework
-2. Dr. Tim Noakes — <em>Challenging Beliefs</em> (2004), Central Governor Theory research
-3. <em>The Sports Scientist</em> — endurance and perceived exertion studies
-4. Atomic Habits by James Clear — for the system-level thinking behind habit test protocols</div>
+<div data-i18n-html="article_regle-40-pourcent_p57"><ol>
+<li>David Goggins — <em>Can't Hurt Me</em> (2018), for the 40% framework</li>
+<li>Dr. Tim Noakes — <em>Challenging Beliefs</em> (2004), Central Governor Theory research</li>
+<li><em>The Sports Scientist</em> — endurance and perceived exertion studies</li>
+<li>Atomic Habits by James Clear — for the system-level thinking behind habit test protocols</li>
+</ol></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p58"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/cant-hurt-me-review/">Can't Hurt Me — what Goggins won't tell you</a> · <a href="/journal/deep-work-ritual/">The 3-hour deep work ritual</a> · <a href="/journal/discipline-beat-motivation/">Discipline beats motivation, every time</a></div>
