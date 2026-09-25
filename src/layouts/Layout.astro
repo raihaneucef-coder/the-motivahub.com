@@ -49,8 +49,10 @@ const globalCssV = createHash("sha256")
   .update(readFileSync(new URL("../../public/styles/global.css", import.meta.url)))
   .digest("hex")
   .slice(0, 10);
+// Consent Mode v2: all storage stays denied until the visitor accepts; a saved
+// decision is replayed here (before gtag.js loads) via the dataLayer stub below.
 const gaSnippet = GA_ID
-  ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}`
+  ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});try{if(localStorage.getItem('cookie_consent')==='accepted')gtag('consent','update',{analytics_storage:'granted',ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted'});}catch(e){}`
   : "";
 // Third-party scripts (AdSense, GA) are deferred to the first user interaction:
 // keeps first paint free of render-blocking/cookie-setting third-party requests.
@@ -346,8 +348,9 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
     <script is:inline>
       function showCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(0)';el.style.opacity='1';el.style.pointerEvents='auto';document.body.classList.add('cookie-visible');}
       function hideCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(110%)';el.style.opacity='0';el.style.pointerEvents='none';document.body.classList.remove('cookie-visible');}
-      function acceptCookies(){localStorage.setItem('cookie_consent','accepted');hideCookieBanner();}
-      function declineCookies(){localStorage.setItem('cookie_consent','declined');hideCookieBanner();}
+      function setConsent(accepted){var st=accepted?'granted':'denied';try{gtag('consent','update',{analytics_storage:st,ad_storage:st,ad_user_data:st,ad_personalization:st});}catch(e){}}
+      function acceptCookies(){localStorage.setItem('cookie_consent','accepted');setConsent(true);hideCookieBanner();}
+      function declineCookies(){localStorage.setItem('cookie_consent','declined');setConsent(false);hideCookieBanner();}
       if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,1500);
     </script>
   <div class="read-progress" id="read-progress" aria-hidden="true"></div>
