@@ -2,6 +2,7 @@ export interface Topic {
   id: string;
   title: string;
   description: string;
+  descriptionFr?: string;
 }
 
 export const topics: Topic[] = [
@@ -14,6 +15,7 @@ export const topics: Topic[] = [
     id: "habits",
     title: "Habits",
     description: "Greatness is not a single act but a thousand small ones, repeated until they disappear into who you are.",
+    descriptionFr: "La grandeur n'est pas un acte unique mais mille petits gestes, répétés jusqu'à s'effacer dans la personne que vous devenez.",
   },
   {
     id: "discipline",

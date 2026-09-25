@@ -1,7 +1,9 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
+import PillarHub from "../../components/PillarHub.astro";
 import { topics } from "../../data/topics";
+import { pillars } from "../../data/pillars";
 import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
@@ -13,6 +15,7 @@ const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
 const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft && norm(p.data.topic) === topic.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const pillar = pillars[topic.id];
 ---
 
 <Layout title={`${topic.title} — Motiva Hub`} description={topic.description}>
@@ -37,7 +40,7 @@ const posts = (await getCollection("blog"))
       "itemListElement": posts.slice(0, 10).map((p, i) => ({
         "@type": "ListItem",
         "position": i + 1,
-        "url": `https://the-motivahub.com/journal/${p.slug}/`,
+        "url": `https://the-motivahub.com/journal/${p.id}/`,
         "name": p.data.title
       }))
     }
@@ -59,8 +62,11 @@ const posts = (await getCollection("blog"))
     </div>
   </section>
 
+  {pillar && <PillarHub pillar={pillar} posts={posts} locale="en" />}
+
   <section class="feed">
     <div class="container">
+      {pillar && <p class="kicker" style="margin-bottom:22px;" data-i18n="hubFeedTitle">The Full Feed — every essay in this topic</p>}
       <div class="grid">
         {posts.map((post) => <ArticleCard post={post} />)}
       </div>
@@ -75,7 +81,7 @@ const posts = (await getCollection("blog"))
     </div>
   </section>
 
-  {topic.id === "habits" && (
+  {topic.id === "habits" && !pillar && (
     <section class="pillar-cta">
       <div class="container" style="text-align:center;padding:48px 24px;background:var(--surface);border-radius:12px;margin:48px auto;max-width:720px;">
         <p class="kicker" data-i18n="pillarKicker">The Pillar</p>
