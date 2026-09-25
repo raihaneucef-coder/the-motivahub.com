@@ -1,11 +1,11 @@
 ---
 title: "The Janitor Who Became a Millionaire: A Story of Discipline"
-description: "Ronald Read cleaned floors for 25 years. When he died, he left behind 8 million dollars. His story proves that wealth is built with patience, not shortcuts."
+description: "The true story of Ronald Read — the Vermont janitor who died leaving $8 million. How 25 years of discipline, not income, built the fortune — and the simple math that proves it can work for anyone."
 titleFr: "Le concierge qui est devenu millionnaire : une histoire de discipline"
-descriptionFr: "Ronald Read a nettoyé des sols pendant 25 ans. À sa mort, il a laissé 8 millions de dollars. Son histoire prouve que la richesse se construit avec patience, pas avec des raccourcis."
+descriptionFr: "L'histoire vraie de Ronald Read — le concierge du Vermont qui est mort en laissant 8 millions de dollars. Comment 25 ans de discipline, et non un salaire, ont bâti cette fortune — et le calcul simple qui prouve que c'est possible pour tout le monde."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
-readTime: "5 MIN"
+updatedDate: 2026-09-25
+readTime: "2 MIN"
 image: "/images/blog/histoire-concierge-millionnaire-3.jpg"
 imageAlt: "A cleaning team tidying a bright modern living room with mops and a vacuum"
 topic: "Stories"
@@ -22,7 +22,8 @@ tags:
   - "stories"
   - "discipline"
   - "story"
-wordCount: 321
+wordCount: 378
+bookSlug: "psychology-of-money"
 
 faq:
   - q: "Who was Ronald Read?"
@@ -54,6 +55,10 @@ relatedArticles:
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p3">Ronald Read was a janitor in Vermont. He cleaned floors at JCPenney and pumped gas at a gas station. He drove a used car. He wore safety pins to hold his coat together.</div>
 
+<div data-i18n-html="article_histoire-concierge-millionnaire_p16"><h2>Ronald Read in Brief</h2></div>
+
+<div data-i18n-html="article_histoire-concierge-millionnaire_p17"><table style="width:100%;border-collapse:collapse;margin:.5rem 0 1.5rem;font-size:.95em;"><thead><tr><th style="text-align:left;padding:.5rem .75rem;border-bottom:2px solid var(--line,#e5e5e5);">Fact</th><th style="text-align:left;padding:.5rem .75rem;border-bottom:2px solid var(--line,#e5e5e5);">Detail</th></tr></thead><tbody><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Profession</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Janitor at JCPenney and gas-station attendant</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Location</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Brattleboro, Vermont, USA</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Age at death</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">92 (died in 2014)</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Estate value</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Around $8 million</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Donation</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Most of it to his local hospital</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Main lesson</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Wealth is a behaviour — live below your means and let compounding run</td></tr></tbody></table></div>
+
 <div data-i18n-html="article_histoire-concierge-millionnaire_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p4">When he died at age 92, he left behind 8 million dollars.</div>
@@ -67,11 +72,13 @@ relatedArticles:
 <div data-i18n-html="article_histoire-concierge-millionnaire_p8">Wealth is not about how much you earn. It is about how much you keep and how long you let it grow. Read earned an average salary his entire life. But he lived like he earned half of that and invested the rest.</div>
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p9">The math is simple:
-- Save 500€ per month
-- Invest in index funds returning 8% per year
-- After 30 years: 745,000€</div>
+<ul>
+<li>Save 500€ per month</li>
+<li>Invest in index funds returning 8% per year</li>
+<li>After 30 years: 745,000€</li>
+</ul></div>
 
-<div data-i18n-html="article_histoire-concierge-millionnaire_p10">You do not need to be a genius. You need to be patient.</div>
+<div data-i18n-html="article_histoire-concierge-millionnaire_p10">You do not need to be a genius. You need to be patient. Housel turns this into the central lesson of <a href="/journal/psychology-of-money-business/">our Psychology of Money breakdown</a>.</div>
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p11"><h2>The Real Wealth</h2></div>
 
