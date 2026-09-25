@@ -4,7 +4,8 @@ import { books } from "../../data/books";
 import BookCard from "../../components/BookCard.astro";
 import AffiliateBanner from "../../components/AffiliateBanner.astro";
 
-const focusBooks = books.filter((b) => b.category === "FOCUS" || b.category === "PRODUCTIVITY");
+const focusIds = ["deep-work", "atomic-habits", "meditations", "cant-hurt-me", "daily-stoic"];
+const focusBooks = focusIds.map((id) => books.find((b) => b.id === id)).filter(Boolean);
 const title = "Best Focus & Deep Work Books 2026 — Motiva Hub";
 const description = "The best books on focus, deep work, and concentration. Train your mind to do hard things — ranked by the Motiva Hub editorial team.";
 ---
@@ -47,8 +48,8 @@ const description = "The best books on focus, deep work, and concentration. Trai
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "What is the best book on deep work?", "acceptedAnswer": { "@type": "Answer", "text": "Deep Work by Cal Newport is the definitive guide on training your attention as a craft." } },
-      { "@type": "Question", "name": "How do I improve my focus?", "acceptedAnswer": { "@type": "Answer", "text": "Start by removing distractions, scheduling deep work blocks, and tracking your attention like a muscle." } }
+      { "@type": "Question", "name": "What is the best book for deep work?", "acceptedAnswer": { "@type": "Answer", "text": "Deep Work by Cal Newport. It defines focused attention as a trainable skill and gives a daily scheduling protocol to build it." } },
+      { "@type": "Question", "name": "How do books improve focus?", "acceptedAnswer": { "@type": "Answer", "text": "A good focus book gives you a pre-built system: a name for the problem, a repeatable practice, and examples that save months of trial and error. Read one book, apply it for 30 days, then start the next." } }
     ]
   })} />
   <script type="application/ld+json" set:html={JSON.stringify({
@@ -78,9 +79,30 @@ const description = "The best books on focus, deep work, and concentration. Trai
 
       <div class="intro-block">
         <h2 data-i18n="focusWhyFail">Why focus books fail</h2>
-        <p data-i18n="focusWhyFailP1">Most productivity books sell motivation. These sell attention. The difference matters: motivation is a feeling, attention is a trainable skill. Deep Work defines the skill, The Practicing Mind defines the training, and Focused Work defines the daily architecture.</p>
+        <p data-i18n="focusWhyFailP1">Most focus books explain what concentration is. Very few hand you a system you can run on a bad Tuesday. That is the filter behind this list: five books we have personally tested, each one a working protocol for attention rather than a pep talk about it.</p>
+        <p data-i18n="focusReasonLead">Why these five:</p>
+        <ul class="book-reasons">
+          <li data-i18n-html="focusReason1"><strong>Deep Work</strong> — names the skill and gives the scheduling protocol to build it.</li>
+          <li data-i18n-html="focusReason2"><strong>Atomic Habits</strong> — engineers your environment so focus stops depending on willpower.</li>
+          <li data-i18n-html="focusReason3"><strong>Meditations</strong> — attention under pressure: the 2,000-year-old operating manual.</li>
+          <li data-i18n-html="focusReason4"><strong>Can't Hurt Me</strong> — holding effort past the point where concentration quits.</li>
+          <li data-i18n-html="focusReason5"><strong>The Daily Stoic</strong> — a two-minute daily practice for keeping your line.</li>
+        </ul>
         <p data-i18n-html="focusWhyFailP2">If you want a practical protocol before buying the books, read our <a href="/journal/deep-work-focus/" data-i18n="focusDeepWorkLink">Deep Work protocol</a> and the <a href="/journal/identity-based-habits-90-day-test/" data-i18n="focus90DayLink">90-day identity test</a>. For a shorter read, the <a href="/journal/two-minute-rule-guide/" data-i18n="focusTwoMinLink">2-Minute Rule guide</a> is the doorway.</p>
+        <p data-i18n-html="focusFieldReportP">Want to see how one of these holds up in practice? <a href="/journal/atomic-habits-review/">Our Atomic Habits field report</a> tests the system over 18 months.</p>
         <p data-i18n-html="focusBrowseFull">Browse the full collection: <a href="/best/books/" data-i18n="focusBestBooksLink">best self-help books</a>, <a href="/best/habit-books/" data-i18n="focusBestHabitLink">best habit books</a>, and <a href="/best/stoicism-books/" data-i18n="focusBestStoicismLink">best stoicism books</a>.</p>
+      </div>
+
+      <div class="selection-block">
+        <h2 data-i18n="focusSelectTitle">How We Selected These Focus Books</h2>
+        <p data-i18n="focusSelectIntro">Four criteria, applied to every book on this page:</p>
+        <ol>
+          <li data-i18n-html="focusSelectC1"><strong>Practical systems:</strong> each book gives steps you can run tomorrow, not just ideas.</li>
+          <li data-i18n-html="focusSelectC2"><strong>Scientific foundation:</strong> grounded in real research on attention, habits, and willpower.</li>
+          <li data-i18n-html="focusSelectC3"><strong>Real-world application:</strong> tested on genuine busy weeks, not ideal conditions.</li>
+          <li data-i18n-html="focusSelectC4"><strong>Long-term usefulness:</strong> still relevant years after the hype cycle that launched them.</li>
+        </ol>
+        <p data-i18n="focusSelectClose">This list is not sponsored and not alphabetical — it is ranked by how reliably each book survives contact with a busy week.</p>
       </div>
 
       <div class="book-grid">
@@ -90,6 +112,14 @@ const description = "The best books on focus, deep work, and concentration. Trai
             <BookCard book={book} />
           </div>
         ))}
+      </div>
+
+      <div class="faq-block">
+        <h2 data-i18n="focusFaqTitle">Focus Books: Frequently Asked Questions</h2>
+        <h3 data-i18n="focusFaqQ1">What is the best book for deep work?</h3>
+        <p data-i18n="focusFaqA1">Deep Work by Cal Newport. It defines focused attention as a trainable skill and gives a daily scheduling protocol to build it.</p>
+        <h3 data-i18n="focusFaqQ2">How do books improve focus?</h3>
+        <p data-i18n="focusFaqA2">A good focus book gives you a pre-built system: a name for the problem, a repeatable practice, and examples that save months of trial and error. Read one book, apply it for 30 days, then start the next.</p>
       </div>
 
       <AffiliateBanner variant="footer" lang="en" />
@@ -152,5 +182,43 @@ const description = "The best books on focus, deep work, and concentration. Trai
   .intro-block strong {
     color: var(--gold, #c8a04a);
     font-weight: 600;
+  }
+  .book-reasons {
+    max-width: 720px;
+    margin: 0 auto 12px;
+    padding-left: 22px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--ink, #1a1a1a);
+  }
+  .book-reasons strong { color: var(--gold, #c8a04a); font-weight: 600; }
+  .selection-block, .faq-block {
+    max-width: 720px;
+    margin: 0 auto 48px;
+    padding: 32px 28px;
+    background: var(--cream, #faf7f2);
+    border-radius: 8px;
+  }
+  .selection-block h2, .faq-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 24px;
+    margin: 0 0 16px;
+    color: var(--ink, #1a1a1a);
+  }
+  .selection-block p, .selection-block li, .faq-block p {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 12px;
+  }
+  .selection-block ol { padding-left: 22px; margin: 0 0 16px; }
+  .selection-block strong { color: var(--gold, #c8a04a); font-weight: 600; }
+  .faq-block h3 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 18px;
+    margin: 20px 0 8px;
+    color: var(--ink, #1a1a1a);
   }
 </style>
