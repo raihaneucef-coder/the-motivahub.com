@@ -1,0 +1,234 @@
+---
+import ArticleCard from "./ArticleCard.astro";
+import { books } from "../data/books";
+import type { Pillar } from "../data/pillars";
+import dictFr from "../../public/i18n/dict-fr.json";
+
+interface Props {
+  pillar: Pillar;
+  posts: Array<{ id: string; data: Record<string, any> }>;
+  locale?: "en" | "fr";
+}
+
+const { pillar, posts, locale = "en" } = Astro.props;
+const fr = locale === "fr";
+// SSR the French copy directly (no runtime-swap dependency for hub text).
+const L = (key: string, fallback: string) =>
+  fr ? ((dictFr as Record<string, string>)[key] ?? fallback) : fallback;
+
+const bySlug = new Map(posts.map((p) => [p.id, p]));
+const sections = pillar.sections.map((section) => {
+  const slugs = fr ? section.articlesFr : section.articles;
+  return { section, list: slugs.map((s) => bySlug.get(s)).filter(Boolean) };
+});
+const pillarBooks = pillar.books
+  .map((b) => ({ link: b, book: books.find((x) => x.id === b.id) }))
+  .filter((x) => x.book);
+const frHref = (href: string) => (fr ? `/fr${href}` : href);
+const featured = pillar.featured;
+---
+
+<div class="hub">
+  <div class="container">
+    <p class="hub-branding" data-i18n={pillar.brandingKey}>{L(pillar.brandingKey, pillar.brandingDefault)}</p>
+    <p class="hub-lede" data-i18n={pillar.ledeKey}>{L(pillar.ledeKey, pillar.ledeDefault)}</p>
+    <div class="hub-question">
+      <h2 data-i18n={pillar.questionKey}>{L(pillar.questionKey, pillar.questionDefault)}</h2>
+    </div>
+
+    {sections.map(({ section, list }) => (
+      <section class="hub-section">
+        <p class="kicker" data-i18n={section.labelKey}>{L(section.labelKey, section.labelDefault)}</p>
+        <h2 class="hub-section-title" data-i18n={section.labelKey}>{L(section.labelKey, section.labelDefault)}</h2>
+        <p class="hub-section-blurb" data-i18n={section.blurbKey}>{L(section.blurbKey, section.blurbDefault)}</p>
+        <div class="hub-grid">
+          {list.map((post) => <ArticleCard post={post} locale={locale} />)}
+        </div>
+      </section>
+    ))}
+
+    <section class="hub-section">
+      <p class="kicker" data-i18n="hubToolsKicker">{L("hubToolsKicker", "Apply It")}</p>
+      <h2 class="hub-section-title" data-i18n="hubToolsTitle">{L("hubToolsTitle", "Tools — the pillar in practice")}</h2>
+      <div class="hub-tools">
+        {pillar.tools.map((tool) => (
+          <a class="hub-tool" href={frHref(tool.href)}>
+            <span class="hub-tool-mark" aria-hidden="true">→</span>
+            <span data-i18n={tool.labelKey}>{L(tool.labelKey, tool.labelDefault)}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="hub-featured">
+      <p class="kicker" data-i18n={featured.kickerKey}>{L(featured.kickerKey, featured.kickerDefault)}</p>
+      <h2 class="hub-featured-title" data-i18n={featured.titleKey}>{L(featured.titleKey, featured.titleDefault)}</h2>
+      <p class="hub-featured-desc" data-i18n={featured.descKey}>{L(featured.descKey, featured.descDefault)}</p>
+      <div class="hub-featured-notes">
+        <p data-i18n="hubFeaturedSolves">{L("hubFeaturedSolves", featured.solvesDefault)}</p>
+        <p data-i18n="hubFeaturedFor">{L("hubFeaturedFor", featured.forDefault)}</p>
+      </div>
+      <div class="hub-featured-actions">
+        <a class="hub-featured-cta" href={fr ? featured.hrefFr : featured.href} data-i18n={featured.ctaKey}>{L(featured.ctaKey, featured.ctaDefault)}</a>
+        <a class="hub-featured-next" href={frHref("/tools/habit-stacker/")} data-i18n="hubFeaturedNext">{L("hubFeaturedNext", featured.nextLabelDefault)} →</a>
+      </div>
+    </section>
+
+    {pillarBooks.length > 0 && (
+      <section class="hub-section">
+        <p class="kicker" data-i18n="hubBooksKicker">{L("hubBooksKicker", "The Library")}</p>
+        <h2 class="hub-section-title" data-i18n="hubBooksTitle">{L("hubBooksTitle", "The books behind the research")}</h2>
+        <p class="hub-section-blurb" data-i18n="hubBooksNote">{L("hubBooksNote", "The sources behind this pillar — read, tested, and summarised in our reviews.")}</p>
+        <div class="hub-books">
+          {pillarBooks.map(({ link, book }) => (
+            <article class="hub-book">
+              <img class="hub-book-cover" src={book!.cover} alt={book!.title} loading="lazy" width="80" height="120" />
+              <div class="hub-book-body">
+                <h3 class="hub-book-title">{book!.title}</h3>
+                <p class="hub-book-author">{book!.author}</p>
+                <p class="hub-book-reason">{fr && book!.reasonFr ? book!.reasonFr : book!.reason}</p>
+                <p class="hub-book-links">
+                  <a class="read-more" href={fr ? link.reviewFr : link.review} data-i18n="hubBookReviewCta">{L("hubBookReviewCta", "Read our review")}</a>
+                </p>
+                {book!.affiliateUrl && (
+                  <p class="hub-book-amazon">
+                    <a href={book!.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book!.id} data-book-title={book!.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}" data-i18n="hubBookAmazonCta">{L("hubBookAmazonCta", "View on Amazon")}</a>
+                  </p>
+                )}
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+</div>
+
+<style>
+  .hub { padding-top: 8px; }
+  .hub-branding {
+    font-family: var(--sans);
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--or);
+    margin-bottom: 14px;
+  }
+  .hub-lede {
+    font-family: var(--serif);
+    font-size: clamp(1.15rem, 2.2vw, 1.45rem);
+    line-height: 1.55;
+    color: var(--ink);
+    max-width: 640px;
+    margin: 0 0 30px;
+  }
+  .hub-question {
+    border-left: 3px solid var(--or);
+    padding: 6px 0 6px 20px;
+    margin: 0 0 46px;
+    max-width: 720px;
+  }
+  .hub-question h2 {
+    font-family: var(--serif);
+    font-size: clamp(1.3rem, 2.6vw, 1.7rem);
+    font-style: italic;
+    line-height: 1.4;
+    color: var(--ink);
+  }
+  .hub-section { margin-bottom: 54px; }
+  .hub-section-title {
+    font-family: var(--serif);
+    font-size: 1.6rem;
+    color: var(--ink);
+    margin: 2px 0 6px;
+  }
+  .hub-section-blurb { color: var(--muted); font-size: 0.95rem; margin-bottom: 22px; max-width: 560px; }
+  .hub-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(255px, 1fr));
+    gap: 22px;
+  }
+  .hub-tools {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+  }
+  .hub-tool {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 18px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    color: var(--ink);
+    text-decoration: none;
+    font-family: var(--sans);
+    font-size: 0.92rem;
+    transition: border-color 0.2s ease, background 0.2s ease;
+  }
+  .hub-tool:hover { border-color: var(--or); background: rgba(255, 77, 0, 0.06); }
+  .hub-tool-mark { color: var(--or); font-weight: 600; }
+  .hub-featured {
+    text-align: center;
+    padding: 44px 24px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    margin: 0 0 54px;
+  }
+  .hub-featured-title {
+    font-family: var(--serif);
+    font-size: 2rem;
+    color: var(--ink);
+    margin: 10px 0 12px;
+  }
+  .hub-featured-desc { color: var(--muted); max-width: 560px; margin: 0 auto 20px; }
+  .hub-featured-notes {
+    max-width: 560px;
+    margin: 0 auto 22px;
+    text-align: left;
+    border-top: 1px solid var(--line);
+    padding-top: 18px;
+  }
+  .hub-featured-notes p { color: var(--ink); font-size: 0.93rem; line-height: 1.6; margin-bottom: 8px; }
+  .hub-featured-actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 26px;
+    flex-wrap: wrap;
+  }
+  .hub-featured-cta { color: var(--or); font-weight: 600; text-decoration: none; }
+  .hub-featured-cta:hover { text-decoration: underline; }
+  .hub-featured-next {
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 9px 18px;
+    text-decoration: none;
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    transition: border-color 0.2s ease;
+  }
+  .hub-featured-next:hover { border-color: var(--or); }
+  .hub-books {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 22px;
+  }
+  .hub-book {
+    display: flex;
+    gap: 16px;
+    padding: 20px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+  }
+  .hub-book-cover { width: 80px; height: auto; border-radius: 6px; flex-shrink: 0; }
+  .hub-book-title { font-family: var(--serif); font-size: 1.15rem; color: var(--ink); margin: 0 0 2px; }
+  .hub-book-author { color: var(--muted); font-size: 0.8rem; margin-bottom: 8px; }
+  .hub-book-reason { color: var(--ink); font-size: 0.9rem; line-height: 1.55; margin-bottom: 10px; }
+  .hub-book-links { margin-bottom: 4px; }
+  .hub-book-amazon { font-size: 0.78rem; margin: 0; }
+  .hub-book-amazon a { color: var(--muted); text-decoration: underline; }
+  .hub-book-amazon a:hover { color: var(--or); }
+</style>
