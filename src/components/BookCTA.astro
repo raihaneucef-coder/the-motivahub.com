@@ -1,5 +1,6 @@
 ---
 import { books } from "../data/books";
+import dictFr from "../../public/i18n/dict-fr.json";
 
 interface Props {
   bookSlug?: string;
@@ -11,6 +12,15 @@ const book = bookSlug ? books.find((b) => b.id === bookSlug) : null;
 const rel = "nofollow sponsored noopener";
 const isPrimary = variant === "primary";
 const showDefaultSlot = Astro.slots.has("default");
+
+// /fr/ routes render the card fully in French at build time: the runtime
+// data-i18n swap only knows the dictionary's raw "{title}"/"{author}"
+// placeholders and has no access to the book data, so leaving them to the
+// client produced "Prêt à lire {title} ?" on French pages. EN routes are
+// untouched and keep the client-side swap.
+const onFr = Astro.url.pathname === "/fr" || Astro.url.pathname.startsWith("/fr/");
+const fill = (s: string) =>
+  s.replace(/\{(\w+)\}/g, (_, v) => (v === "title" ? book?.title ?? "" : v === "author" ? book?.author ?? "" : `{${v}}`));
 
 const t = (() => {
   if (typeof window === "undefined") return {};
@@ -25,23 +35,39 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
 
 {(book || showDefaultSlot) && isPrimary && (
   <aside class="aff-cta">
-    <p class="aff-cta-tag" data-i18n="bookCtaRecommended">★ Recommended</p>
-    {book && (
+    {book && onFr ? (
       <>
-        <h3 class="aff-cta-title" data-i18n="bookCtaReady">Ready to read {book.title}?</h3>
-        <p class="aff-cta-by" data-i18n="bookCtaBy">by {book.author}</p>
-        <p class="aff-cta-desc">{bookReason}</p>
-        <a class="aff-cta-btn" href={book.affiliateUrl} target="_blank" rel={rel} data-i18n="bookCtaViewAmazon">View on Amazon →</a>
-        <p class="aff-cta-foot" data-i18n="bookCtaAssociate">As an Amazon Associate we earn from qualifying purchases. The price you pay is unchanged.</p>
+        <p class="aff-cta-tag">{fill(dictFr.bookCtaRecommended)}</p>
+        <h3 class="aff-cta-title">{fill(dictFr.bookCtaReady)}</h3>
+        <p class="aff-cta-by">{fill(dictFr.bookCtaBy)}</p>
+        <p class="aff-cta-desc">{book.reasonFr || book.reason}</p>
+        <a class="aff-cta-btn" href={book.affiliateUrl} target="_blank" rel={rel}>{fill(dictFr.bookCtaViewAmazon)}</a>
+        <p class="aff-cta-foot">{dictFr.bookCtaAssociate}</p>
+      </>
+    ) : (
+      <>
+        <p class="aff-cta-tag" data-i18n="bookCtaRecommended">★ Recommended</p>
+        {book && (
+          <>
+            <h3 class="aff-cta-title" data-i18n="bookCtaReady">Ready to read {book.title}?</h3>
+            <p class="aff-cta-by" data-i18n="bookCtaBy">by {book.author}</p>
+            <p class="aff-cta-desc">{bookReason}</p>
+            <a class="aff-cta-btn" href={book.affiliateUrl} target="_blank" rel={rel} data-i18n="bookCtaViewAmazon">View on Amazon →</a>
+            <p class="aff-cta-foot" data-i18n="bookCtaAssociate">As an Amazon Associate we earn from qualifying purchases. The price you pay is unchanged.</p>
+          </>
+        )}
+        {!book && showDefaultSlot && <slot />}
       </>
     )}
-    {!book && showDefaultSlot && <slot />}
   </aside>
 )}
 
 {(book || showDefaultSlot) && !isPrimary && (
   <div class="aff-cta-compact">
-    {book && (
+    {book && onFr && (
+      <a class="aff-cta-btn-sm" href={book.affiliateUrl} target="_blank" rel={rel}>{fill(dictFr.bookCtaBuyAmazon)}</a>
+    )}
+    {book && !onFr && (
       <a class="aff-cta-btn-sm" href={book.affiliateUrl} target="_blank" rel={rel} data-i18n="bookCtaBuyAmazon">Buy {book.title} on Amazon →</a>
     )}
     {!book && showDefaultSlot && <slot />}
