@@ -52,7 +52,7 @@ const globalCssV = createHash("sha256")
 // Consent Mode v2: all storage stays denied until the visitor accepts; a saved
 // decision is replayed here (before gtag.js loads) via the dataLayer stub below.
 const gaSnippet = GA_ID
-  ? `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});try{if(localStorage.getItem('cookie_consent')==='accepted')gtag('consent','update',{analytics_storage:'granted',ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted'});}catch(e){}`
+  ? `window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});try{if(localStorage.getItem('cookie_consent')==='accepted')gtag('consent','update',{analytics_storage:'granted',ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted'});}catch(e){}`
   : "";
 // Third-party scripts (AdSense, GA) are deferred to the first user interaction:
 // keeps first paint free of render-blocking/cookie-setting third-party requests.
