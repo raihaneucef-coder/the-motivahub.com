@@ -1,11 +1,11 @@
 ---
 title: "The Beginner's Guide to Building a Fitness Habit"
-description: "Starting a fitness routine is easy. Sticking to one is hard. Here is the beginner-friendly guide to building a fitness habit that lasts."
+description: "How to start going to the gym and keep going: the 5-step beginner guide to building a fitness habit — from two 10-minute sessions a week to a routine that lasts, without burnout."
 titleFr: "Le guide du débutant pour construire une habitude de fitness"
-descriptionFr: "Commencer une routine de fitness est facile. La maintenir est difficile. Voici le guide adapté aux débutants pour construire une habitude de fitness qui dure."
+descriptionFr: "Comment commencer la salle de sport et tenir sur la durée : le guide débutant en 5 étapes pour construire une habitude de fitness — de deux séances de 10 minutes par semaine à une routine qui dure, sans épuisement."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
-readTime: "6 MIN"
+updatedDate: 2026-09-25
+readTime: "2 MIN"
 image: "/images/blog/guide-debutant-fitness.jpg"
 imageAlt: "Youssef Raihane - guide debutant fitness concept"
 topic: "Sport"
@@ -22,7 +22,7 @@ tags:
   - "sport"
   - "habits"
   - "guide"
-wordCount: 355
+wordCount: 366
 
 faq:
   - q: "How do I start going to the gym as a complete beginner?"
@@ -54,8 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_guide-debutant-fitness_p3">You do not need a perfect workout plan. You do not need expensive equipment. You do not need a personal trainer. You need one thing: the ability to show up consistently. Everything else can be learned.</div>
 
-<div data-i18n-html="article_guide-debutant-fitness_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_guide-debutant-fitness_p4"><h2>Step 1: Start Embarrassingly Small</h2></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p5">The biggest mistake beginners make is starting too big. They go from zero to 5 days a week, 1 hour per session. By week 2, they are burned out and back on the couch.</div>
@@ -64,12 +62,14 @@ relatedArticles:
 
 <div data-i18n-html="article_guide-debutant-fitness_p7"><h2>Step 2: Attach to an Existing Habit</h2></div>
 
-<div data-i18n-html="article_guide-debutant-fitness_p8">Use the formula: "After [existing habit], I will [new habit]."</div>
+<div data-i18n-html="article_guide-debutant-fitness_p8">Use the formula: "After [existing habit], I will [new habit]." This is the same habit stacking method explained in <a href="/journal/habit-stacking-routine/">our complete guide</a>.</div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p9">Examples:
-- "After I pour my coffee, I will do 10 push-ups"
-- "After I brush my teeth, I will stretch for 5 minutes"
-- "After I eat lunch, I will walk for 10 minutes"</div>
+<ul>
+<li>"After I pour my coffee, I will do 10 push-ups"</li>
+<li>"After I brush my teeth, I will stretch for 5 minutes"</li>
+<li>"After I eat lunch, I will walk for 10 minutes"</li>
+</ul></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p10"><h2>Step 3: Track Your Progress</h2></div>
 
@@ -78,6 +78,10 @@ relatedArticles:
 <div data-i18n-html="article_guide-debutant-fitness_p12"><h2>Step 4: Gradually Increase</h2></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p13">After 2 weeks of 10 minutes, increase to 15. After another 2 weeks, increase to 20. Keep going until you reach 30-45 minutes. This gradual approach prevents burnout and builds confidence.</div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p19"><h2>Your First 4 Weeks</h2></div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p20"><table style="width:100%;border-collapse:collapse;margin:.5rem 0 1.5rem;font-size:.95em;"><thead><tr><th style="text-align:left;padding:.5rem .75rem;border-bottom:2px solid var(--line,#e5e5e5);">Week</th><th style="text-align:left;padding:.5rem .75rem;border-bottom:2px solid var(--line,#e5e5e5);">Sessions</th><th style="text-align:left;padding:.5rem .75rem;border-bottom:2px solid var(--line,#e5e5e5);">Session length</th><th style="text-align:left;padding:.5rem .75rem;border-bottom:2px solid var(--line,#e5e5e5);">Focus</th></tr></thead><tbody><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Week 1</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">2 per week</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">10 minutes</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Learn the routine</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Week 2</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">2 per week</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">10 minutes</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Same time, same place</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Week 3</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">3 per week</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">15 minutes</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Add one exercise</td></tr><tr><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Week 4</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">3 per week</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">20–30 minutes</td><td style="padding:.5rem .75rem;border-bottom:1px solid var(--line,#eee);">Increase gradually</td></tr></tbody></table></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p14"><h2>Step 5: Celebrate Small Wins</h2></div>
 
