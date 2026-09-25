@@ -5,8 +5,8 @@ import Markdown from "../../../../components/Markdown.astro";
 import BookCTA from "../../../../components/BookCTA.astro";
 
 const title = "Le Guide Ultime Atomic Habits — Ce Qui Fonctionne Vraiment en 2026";
-const description = "Une analyse complète et fondée sur la recherche du livre Atomic Habits de James Clear. Les 4 lois, la science, le protocole de 30 jours — et ce que la plupart des critiques laissent de côté.";
-const wordCount = 3800;
+const description = "Atomic Habits expliqués : les 4 lois (Évident, Attirant, Facile, Satisfaisant), la science de la boucle des habitudes et un protocole de 30 jours — testés sur le terrain pendant 18 mois. Ce que la plupart des résumés laissent de côté.";
+const wordCount = 2872;
 const topic = "Habits";
 const canonical = "https://the-motivahub.com/guides/atomic-habits-ultimate-guide/";
 
@@ -15,6 +15,7 @@ const faq = [
   { q: "How long does it really take to build a habit?", a: "Research shows habits take between 18 and 254 days to fully form (Lally et al., 2009) — with an average of 66 days for a behavior to feel automatic. Forget 21 days. Focus on consistency, not speed." },
   { q: "What's the single most important habit to start with?", a: "The one you'll actually do daily. Start with a 2-minute version of it. Identity precedes action — become the kind of person who does this thing, and the consistency will follow." },
   { q: "What if I keep failing at a habit?", a: "Failing doesn't break the system; it teaches you the system. Adjust the cue, simplify the action, make the reward immediate. Then restart. Most failed habits weren't designed wrong — they were designed too big." },
+  { q: "Quelles sont les 4 lois de Atomic Habits ?", a: "Rends-le évident, rends-le attirant, rends-le facile, rends-le satisfaisant. Les trois premières conçoivent le signal, l'envie et la réponse ; la quatrième ferme la boucle par la récompense immédiate. Inversées, ces mêmes lois servent à briser une mauvaise habitude." },
 ];
 
 const relatedArticles = [
@@ -22,7 +23,6 @@ const relatedArticles = [
   "atomic-habits-revue-complete",
   "regle-deux-minutes",
   "regle-2-min-productivite",
-  "habit-stacking-made-simple",
   "habit-stacking-routine",
   "make-good-habits-obvious",
   "identity-precedes-outcome",
@@ -56,7 +56,7 @@ const articleSchema = {
   "author": { "@id": "https://the-motivahub.com/author/youssef-raihane/#person" },
   "publisher": { "@id": "https://the-motivahub.com/#organization" },
   "datePublished": "2026-09-01",
-  "dateModified": "2026-09-01",
+  "dateModified": "2026-09-25",
   "mainEntityOfPage": { "@type": "WebPage", "@id": canonical },
   "keywords": keywords.join(", "),
   "articleSection": topic
@@ -78,9 +78,23 @@ const articleSchema = {
   <article class="feed">
     <Markdown content={`
 
-# Le Guide Ultime des Atomic Habits
-
 > **TL;DR**: Le framework des Atomic Habits de James Clear se résume à quatre lois — Rends-le Évident, Attirant, Facile, Satisfaisant. Maîtrisez celles-ci, et vous pouvez construire n'importe quelle habitude. Ignorez-les, et vous passerez une autre décennie à vous demander pourquoi vous abandonnez toujours.
+
+**Les 4 lois en un coup d'œil**
+
+<table style="width:100%;border-collapse:collapse;margin:.5rem 0 1.5rem;font-size:.95em;">
+<thead><tr>
+<th style="text-align:left;padding:.5rem;border-bottom:2px solid var(--line,#e5e5e5);">Loi</th>
+<th style="text-align:left;padding:.5rem;border-bottom:2px solid var(--line,#e5e5e5);">Idée clé</th>
+<th style="text-align:left;padding:.5rem;border-bottom:2px solid var(--line,#e5e5e5);">Action de départ</th>
+</tr></thead>
+<tbody>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);"><strong>Rends-le évident</strong></td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Les habitudes commencent par un signal visible, pas par la volonté</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Utilisez le habit stacking : « Après [habitude actuelle], je ferai [nouvelle habitude] »</td></tr>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);"><strong>Rends-le attirant</strong></td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">L'envie moteur de l'action — associez une tentation à l'habitude</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Liez une tâche nécessaire à un plaisir que vous voulez vous accorder</td></tr>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);"><strong>Rends-le facile</strong></td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Réduisez le comportement sous le seuil de friction</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Règle des 2 minutes : commencez par la version la plus petite</td></tr>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);"><strong>Rends-le satisfaisant</strong></td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Une récompense immédiate ferme la boucle</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Cochez l'habitude sur un calendrier — ne manquez jamais deux fois</td></tr>
+</tbody>
+</table>
 
 J'ai lu Atomic Habits quatre fois en dix-huit mois. La première fois, je l'ai trouvé intelligent. La deuxième, j'ai commencé à l'appliquer. La troisième, j'ai réalisé que la plupart des gens n'échouaient pas au niveau des habitudes — ils échouaient au niveau de la conception. À la quatrième lecture, j'avais construit un système qui a transformé 12 tentatives ratées en 9 routines solides que je pratique encore aujourd'hui.
 
@@ -339,6 +353,9 @@ Cette question a sauvé plus de tentatives d'habitudes ratées que n'importe que
 
 ## FAQ
 
+**Q : Quelles sont les 4 lois de Atomic Habits ?**
+R : Rends-le évident, rends-le attirant, rends-le facile, rends-le satisfaisant. Les trois premières conçoivent le signal, l'envie et la réponse ; la quatrième ferme la boucle par la récompense immédiate. Inversées, ces mêmes lois servent à briser une mauvaise habitude. Le tableau plus haut associe chaque loi à une action de départ.
+
 **Q : Et si je n'ai pas la motivation de commencer ?**
 R : La motivation est surévaluée. Utilisez la règle des 2 minutes. L'action crée la motivation, pas l'inverse. Les 2 premières minutes sont les plus difficiles ; après ça, l'élan s'installe.
 
@@ -371,7 +388,7 @@ C'est tout. C'est le système.
 
 Pour une lecture plus approfondie, commencez par ces articles sur Motiva Hub :
 
-- [L'empilage d'habitudes — Comment construire des habitudes qui tiennent vraiment](/journal/habit-stacking-made-simple/)
+- [L'empilage d'habitudes — La façon la plus simple de construire de nouvelles routines](/journal/habit-stacking-routine/)
 - [La règle des 2 minutes — Et quoi faire quand elle échoue](/journal/regle-2-min-productivite/)
 - [L'identité précède le résultat — La leçon la plus profonde des Atomic Habits](/journal/identity-precedes-outcome/)
 - [Rendez les bonnes habitudes évidentes — La première loi en pratique](/journal/make-good-habits-obvious/)
