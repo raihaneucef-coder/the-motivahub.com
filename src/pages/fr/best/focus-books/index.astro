@@ -5,7 +5,8 @@ import { books } from "../../../../data/books";
 import BookCard from "../../../../components/BookCard.astro";
 import AffiliateBanner from "../../../../components/AffiliateBanner.astro";
 
-const focusBooks = books.filter((b) => b.category === "FOCUS" || b.category === "PRODUCTIVITY");
+const focusIds = ["deep-work", "atomic-habits", "meditations", "cant-hurt-me", "daily-stoic"];
+const focusBooks = focusIds.map((id) => books.find((b) => b.id === id)).filter(Boolean);
 const title = "Meilleurs Livres sur la Concentration et le Deep Work 2026";
 const description = "Les meilleurs livres sur la concentration, le deep work et la focus. Entraînez votre esprit à faire des choses difficiles — classés par l'équipe éditoriale de Motiva Hub.";
 ---
@@ -48,8 +49,8 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "What is the best book on deep work?", "acceptedAnswer": { "@type": "Answer", "text": "Deep Work by Cal Newport is the definitive guide on training your attention as a craft." } },
-      { "@type": "Question", "name": "How do I improve my focus?", "acceptedAnswer": { "@type": "Answer", "text": "Start by removing distractions, scheduling deep work blocks, and tracking your attention like a muscle." } }
+      { "@type": "Question", "name": "Quel est le meilleur livre pour le deep work ?", "acceptedAnswer": { "@type": "Answer", "text": "Deep Work de Cal Newport. Il définit l'attention focalisée comme une compétence entraînable et donne un protocole de planification quotidienne pour la construire." } },
+      { "@type": "Question", "name": "Comment les livres améliorent-ils la concentration ?", "acceptedAnswer": { "@type": "Answer", "text": "Un bon livre sur la concentration donne un système pré-construit : un nom pour le problème, une pratique répétible et des exemples qui économisent des mois d'essais-erreurs. Lisez un livre, appliquez-le pendant 30 jours, puis passez au suivant." } }
     ]
   })} />
   <script type="application/ld+json" set:html={JSON.stringify({
@@ -79,9 +80,30 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
 
       <div class="intro-block">
         <h2 data-i18n="focusWhyFail">Why focus books fail</h2>
-        <p data-i18n="focusWhyFailP1">Most productivity books sell motivation. These sell attention. The difference matters: motivation is a feeling, attention is a trainable skill. Deep Work defines the skill, The Practicing Mind defines the training, and Focused Work defines the daily architecture.</p>
-        <p data-i18n-html="focusWhyFailP2">If you want a practical protocol before buying the books, read our <Link href="/fr/journal/deep-work-focus/" data-i18n="focusDeepWorkLink">Deep Work protocol</a> and the <Link href="/fr/journal/identity-based-habits-90-day-test/" data-i18n="focus90DayLink">90-day identity test</a>. For a shorter read, the <Link href="/fr/journal/two-minute-rule-guide/" data-i18n="focusTwoMinLink">2-Minute Rule guide</a> is the doorway.</p>
+        <p data-i18n="focusWhyFailP1">La plupart des livres sur la concentration expliquent ce qu'est l'attention. Très peu vous donnent un système que vous pouvez appliquer même un mauvais mardi. C'est le filtre derrière cette liste : cinq livres testés personnellement, chacun un protocole de travail pour l'attention, pas un discours motivationnel.</p>
+        <p data-i18n="focusReasonLead">Pourquoi ces cinq livres :</p>
+        <ul class="book-reasons">
+          <li data-i18n-html="focusReason1"><strong>Deep Work</strong> — nomme la compétence et donne le protocole de planification pour la construire.</li>
+          <li data-i18n-html="focusReason2"><strong>Atomic Habits</strong> — conçoit votre environnement pour que la concentration ne dépende plus de la volonté.</li>
+          <li data-i18n-html="focusReason3"><strong>Méditations</strong> — l'attention sous pression : le manuel opératoire vieux de 2 000 ans.</li>
+          <li data-i18n-html="focusReason4"><strong>Can't Hurt Me</strong> — tenir l'effort au-delà du point où la concentration abandonne.</li>
+          <li data-i18n-html="focusReason5"><strong>The Daily Stoic</strong> — une pratique quotidienne de deux minutes pour tenir sa ligne.</li>
+        </ul>
+        <p data-i18n-html="focusWhyFailP2">Si vous voulez un protocole pratique avant d'acheter les livres, lisez notre <Link href="/fr/journal/deep-work-focus/" data-i18n="focusDeepWorkLink">protocole Deep Work</Link> et le <Link href="/fr/journal/identity-based-habits-90-day-test/" data-i18n="focus90DayLink">test d'identité de 90 jours</Link>. Pour une lecture plus courte, le <Link href="/fr/journal/two-minute-rule-guide/" data-i18n="focusTwoMinLink">guide de la Règle des 2 Minutes</Link> est la porte d'entrée.</p>
+        <p data-i18n-html="focusFieldReportP">Envie de voir comment l'un de ces livres tient en pratique ? <Link href="/fr/journal/atomic-habits-review/">Notre rapport de terrain sur Atomic Habits</Link> teste le système sur 18 mois.</p>
         <p data-i18n-html="focusBrowseFull">Browse the full collection: <Link href="/fr/best/books/" data-i18n="focusBestBooksLink">best self-help books</a>, <Link href="/fr/best/habit-books/" data-i18n="focusBestHabitLink">best habit books</a>, and <Link href="/fr/best/stoicism-books/" data-i18n="focusBestStoicismLink">best stoicism books</a>.</p>
+      </div>
+
+      <div class="selection-block">
+        <h2 data-i18n="focusSelectTitle">Comment nous avons sélectionné ces livres sur la concentration</h2>
+        <p data-i18n="focusSelectIntro">Quatre critères, appliqués à chaque livre de cette page :</p>
+        <ol>
+          <li data-i18n-html="focusSelectC1"><strong>Systèmes pratiques :</strong> chaque livre donne des étapes applicables dès demain, pas seulement des idées.</li>
+          <li data-i18n-html="focusSelectC2"><strong>Fondement scientifique :</strong> ancré dans la recherche réelle sur l'attention, les habitudes et la volonté.</li>
+          <li data-i18n-html="focusSelectC3"><strong>Application réelle :</strong> testé sur de vraies semaines chargées, pas dans des conditions idéales.</li>
+          <li data-i18n-html="focusSelectC4"><strong>Utilité durable :</strong> encore pertinent des années après la vague d'engouement qui l'a lancé.</li>
+        </ol>
+        <p data-i18n="focusSelectClose">Cette liste n'est pas sponsorisée et n'est pas alphabétique — elle est classée selon la fiabilité de chaque livre face à une semaine chargée.</p>
       </div>
 
       <div class="book-grid">
@@ -91,6 +113,14 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
             <BookCard book={book} />
           </div>
         ))}
+      </div>
+
+      <div class="faq-block">
+        <h2 data-i18n="focusFaqTitle">Livres sur la concentration : questions fréquentes</h2>
+        <h3 data-i18n="focusFaqQ1">Quel est le meilleur livre pour le deep work ?</h3>
+        <p data-i18n="focusFaqA1">Deep Work de Cal Newport. Il définit l'attention focalisée comme une compétence entraînable et donne un protocole de planification quotidienne pour la construire.</p>
+        <h3 data-i18n="focusFaqQ2">Comment les livres améliorent-ils la concentration ?</h3>
+        <p data-i18n="focusFaqA2">Un bon livre sur la concentration donne un système pré-construit : un nom pour le problème, une pratique répétible et des exemples qui économisent des mois d'essais-erreurs. Lisez un livre, appliquez-le pendant 30 jours, puis passez au suivant.</p>
       </div>
 
       <AffiliateBanner variant="footer" lang="fr" />
@@ -153,5 +183,43 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
   .intro-block strong {
     color: var(--gold, #c8a04a);
     font-weight: 600;
+  }
+  .book-reasons {
+    max-width: 720px;
+    margin: 0 auto 12px;
+    padding-left: 22px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--ink, #1a1a1a);
+  }
+  .book-reasons strong { color: var(--gold, #c8a04a); font-weight: 600; }
+  .selection-block, .faq-block {
+    max-width: 720px;
+    margin: 0 auto 48px;
+    padding: 32px 28px;
+    background: var(--cream, #faf7f2);
+    border-radius: 8px;
+  }
+  .selection-block h2, .faq-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 24px;
+    margin: 0 0 16px;
+    color: var(--ink, #1a1a1a);
+  }
+  .selection-block p, .selection-block li, .faq-block p {
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--ink, #1a1a1a);
+    margin: 0 0 12px;
+  }
+  .selection-block ol { padding-left: 22px; margin: 0 0 16px; }
+  .selection-block strong { color: var(--gold, #c8a04a); font-weight: 600; }
+  .faq-block h3 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 18px;
+    margin: 20px 0 8px;
+    color: var(--ink, #1a1a1a);
   }
 </style>
