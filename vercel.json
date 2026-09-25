@@ -16,6 +16,51 @@
       "permanent": true
     },
     {
+      "source": "/blog/:path*/",
+      "destination": "/journal/:path*/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/",
+      "destination": "/journal/",
+      "permanent": true
+    },
+    {
+      "source": "/goals/",
+      "destination": "/objectives/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/:path*/",
+      "destination": "/fr/journal/:path*/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/:path*",
+      "destination": "/fr/journal/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/",
+      "destination": "/fr/journal/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog",
+      "destination": "/fr/journal",
+      "permanent": true
+    },
+    {
+      "source": "/fr/goals/",
+      "destination": "/fr/objectives/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/goals",
+      "destination": "/fr/objectives",
+      "permanent": true
+    },
+    {
       "source": "/sitemap.xml",
       "destination": "/sitemap-0.xml",
       "permanent": true
