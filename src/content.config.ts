@@ -24,6 +24,10 @@ const blog = defineCollection({
     tags: z.array(z.string()).optional().default([]),
     wordCount: z.number().optional().default(0),
     bookSlug: z.string().optional(),
+    // Exact name of the reviewed book for the Review schema (the fallback
+    // derives it from the title, which leaks "Book Review (2026)..." into
+    // itemReviewed.name). Only review posts set this.
+    reviewBookName: z.string().optional(),
     relatedArticles: z.array(z.string()).optional().default([]),
     faq: z.array(z.object({
       q: z.string(),

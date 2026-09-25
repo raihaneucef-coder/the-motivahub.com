@@ -1,10 +1,10 @@
 ---
-title: "Can't Hurt Me Review (2026): 4 Honest Lessons From 3 Reads"
-description: "Honest Can't Hurt Me book review after 3 reads. What David Goggins gets right, what's overhyped, and the 4 lessons that actually build discipline — plus a 30-day action plan."
-titleFr: "Can't Hurt Me : Critique Complète (2026) — 4 Leçons Après 3 Lectures"
-descriptionFr: "Critique honnête du livre Can't Hurt Me de David Goggins après 3 lectures. Ce qui marche, ce qui est surfait, et les 4 leçons qui construisent vraiment la discipline."
+title: "Can't Hurt Me Book Review (2026): 5 Honest Lessons From 3 Reads"
+description: "I read Can't Hurt Me three times in two years. This honest book review separates Goggins' real system from the hype — 5 lessons, a 30-day protocol, and who should skip it."
+titleFr: "Can't Hurt Me : Critique du Livre (2026) — 5 Leçons Après 3 Lectures"
+descriptionFr: "J'ai lu Can't Hurt Me trois fois en deux ans. Cette critique honnête sépare le vrai système de Goggins du mythe — 5 leçons, un protocole de 30 jours, et pour qui ce n'est pas fait."
 pubDate: 2026-09-01
-updatedDate: 2026-09-21
+updatedDate: 2026-09-25
 readTime: "11 MIN"
 image: "/images/blog/cant-hurt-me-review.jpg"
 imageAlt: "Youssef Raihane's accountability mirror sticky notes from Can't Hurt Me - 90 day experiment"
@@ -31,6 +31,7 @@ tags:
   - "mental-toughness"
 wordCount: 1697
 bookSlug: cant-hurt-me
+reviewBookName: "Can't Hurt Me"
 faq:
   - q: "Is Can't Hurt Me worth reading in 2026?"
     a: "Yes — but only if you read it three times. The first read will hit your emotions. The second will reveal the system. The third will show you what you've been avoiding about yourself."
@@ -59,6 +60,14 @@ relatedArticles:
 <div data-i18n-html="article_cant-hurt-me-review_p2">After three reads of David Goggins' book across two years, here's the real lesson the headlines miss — and the one that actually changed my discipline. With brutal honesty and a 30-day plan.</div>
 
 <div data-i18n-html="article_cant-hurt-me-review_p3">I picked up Can't Hurt Me on a Tuesday in October 2024. I was tired. I'd read half a dozen self-help books that year and forgotten most of them. By the end of that week, I'd read it twice.</div>
+
+<div data-i18n-html="article_cant-hurt-me-review_p66"><div style="margin:2rem 0;padding:1.5rem 1.75rem;border:1px solid var(--line,#e5e5e5);border-radius:12px;background:var(--cream,#faf7f2);">
+<p style="margin:0 0 .75rem;"><strong>Quick verdict</strong></p>
+<p style="margin:0 0 .75rem;"><em>The book works — but only if you do.</em></p>
+<p style="margin:0 0 .5rem;"><strong>Read it if:</strong> you need a system to break one specific bad habit, and you can handle being called out.</p>
+<p style="margin:0 0 .5rem;"><strong>Skip it if:</strong> you want a ready-made training plan — Goggins' intensity caused me a stress fracture; the principles are gold, the extremes are not.</p>
+<p style="margin:0;"><strong>Best chapter:</strong> The Accountability Mirror — the hardest and most useful 20 pages in the book.</p>
+</div></div>
 
 <div data-i18n-html="article_cant-hurt-me-review_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 

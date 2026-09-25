@@ -113,7 +113,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
       "@type": "Review",
       "itemReviewed": {
         "@type": "Book",
-        "name": displayTitle.replace(/^(Book Review|Test|Review|Revue):?\s*/i, "").replace(/[—–-]\s*(review|revue|test|complete|complète).*$/i, "").trim()
+        "name": post.data.reviewBookName || displayTitle.replace(/^(Book Review|Test|Review|Revue):?\s*/i, "").replace(/[—–-]\s*(review|revue|test|complete|complète).*$/i, "").trim()
       },
       "reviewRating": {
         "@type": "Rating",
