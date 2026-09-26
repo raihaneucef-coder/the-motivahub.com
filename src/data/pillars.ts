@@ -254,4 +254,108 @@ export const pillars: Record<string, Pillar> = {
       },
     ],
   },
+
+  sport: {
+    id: "sport",
+    brandingKey: "hubSportBranding",
+    brandingDefault: "Pillar 03 · Brain-Body Performance",
+    questionKey: "hubSportQuestion",
+    questionDefault:
+      "How does the body shape the mind's performance before willpower even begins?",
+    ledeKey: "hubSportLede",
+    ledeDefault:
+      "Sleep, food, movement and breath are not lifestyle content — they are the infrastructure under every decision, every habit and every hour of deep work.",
+    sections: [
+      {
+        labelKey: "hubSectionQuestion",
+        labelDefault: "The Question",
+        blurbKey: "hubSectionQuestionBlurb",
+        blurbDefault: "Name the mechanism before you fight it.",
+        articles: [
+          "body-votes-first",
+          "nervous-system-is-the-boss",
+          "strength-is-a-skill",
+          "consistance-bat-intensite",
+        ],
+        articlesFr: [
+          "body-votes-first",
+          "nervous-system-is-the-boss",
+          "strength-is-a-skill",
+          "consistance-bat-intensite",
+        ],
+      },
+      {
+        labelKey: "hubSectionExplanation",
+        labelDefault: "The Explanation",
+        blurbKey: "hubSectionExplanationBlurb",
+        blurbDefault: "What the research actually says.",
+        articles: [
+          "sleep-is-unfair-advantage",
+          "nervous-system-reset-focus",
+          "calm-is-a-superpower",
+          "the-morning-athlete",
+        ],
+        articlesFr: [
+          "sleep-is-unfair-advantage",
+          "nervous-system-reset-focus",
+          "calm-is-a-superpower",
+          "the-morning-athlete",
+        ],
+      },
+      {
+        labelKey: "hubSectionPractice",
+        labelDefault: "The Practice",
+        blurbKey: "hubSectionPracticeBlurb",
+        blurbDefault: "Where it becomes real — protocols you run today.",
+        articles: [
+          "guide-debutant-fitness",
+          "routine-matin-sante",
+          "force-mentale-sport",
+          "two-minute-breath-reset",
+        ],
+        articlesFr: [
+          "guide-debutant-fitness",
+          "routine-matin-sante",
+          "force-mentale-sport",
+          "two-minute-breath-reset",
+        ],
+      },
+    ],
+    tools: [
+      {
+        href: "/tools/cold-shower-tracker/",
+        labelKey: "hubToolCold",
+        labelDefault: "The Cold Shower Tracker",
+      },
+      {
+        href: "/tools/meditation-timer/",
+        labelKey: "hubToolMeditation",
+        labelDefault: "The Meditation Timer",
+      },
+    ],
+    featured: {
+      href: "/journal/sleep-is-unfair-advantage/",
+      hrefFr: "/fr/journal/sommeil-avantage-indefendable/",
+      solvesKey: "hubFeaturedP3Solves",
+      solvesDefault:
+        "What it repairs: the missing foundation — no mindset and no system survives a brain running on five hours.",
+      forKey: "hubFeaturedP3For",
+      forDefault:
+        "Who it is for: anyone optimising routines while their recovery quietly decides the outcome.",
+      nextKey: "hubFeaturedP3Next",
+      nextHref: "/tools/cold-shower-tracker/",
+      nextLabelDefault: "Open the Cold Shower Tracker",
+      kickerKey: "hubSleepKicker",
+      kickerDefault: "The Protocol",
+      titleKey: "hubSleepTitle",
+      titleDefault: "Sleep Is Your Unfair Advantage",
+      descKey: "hubSleepDesc",
+      descDefault:
+        "A 60-night self-experiment turned into a performance system — what sleep science actually says, measured on one body, one tracker, one decision at a time.",
+      ctaKey: "hubFeaturedP3Cta",
+      ctaDefault: "Read the protocol →",
+    },
+    // No reviewed brain-body books yet — section stays hidden (knowledge-first rule).
+    books: [],
+  },
 };
