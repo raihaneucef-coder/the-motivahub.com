@@ -1,6 +1,6 @@
 ---
-title: "Process Goals vs Outcome Goals: Why the Process Wins"
-description: "Stop obsessing over outcomes. Process goals — the daily actions — are what actually produce results. Learn to focus on what you can control."
+title: "Process vs Outcome Goals: Why Process-Oriented People Win"
+description: "Outcome goals set the direction; process goals produce the results. The difference — and how to become process-oriented — with a conversion method."
 titleFr: "Processus vs Résultat : Pourquoi le Voyage Compte Plus"
 descriptionFr: "Se concentrer sur le processus plutôt que sur le résultat change tout. Découvrez pourquoi le voyage est plus important que la destination."
 pubDate: 2026-08-24
