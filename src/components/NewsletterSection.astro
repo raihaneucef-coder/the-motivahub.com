@@ -9,7 +9,7 @@ interface Props {
 
 const {
   variant = "default",
-  title = "One letter each Sunday. One idea worth a week.",
+  title = "Ideas worth a week, sent when they're ready.",
   subtitle = "Mindset, discipline, and the long ascent — distilled into 500 words. No noise, no algorithms.",
   buttonText = "Subscribe Free",
   showLeadMagnet = false
@@ -17,8 +17,6 @@ const {
 
 const magnets = [
   { id: "30-days", label: "30 Days of Discipline", emoji: "🗓️" },
-  { id: "atomic-habits", label: "Atomic Habits Action Plan", emoji: "📖" },
-  { id: "stoic-21", label: "21 Stoic Lessons", emoji: "🏛️" },
 ];
 ---
 
@@ -36,7 +34,7 @@ const magnets = [
         {magnets.map((m) => (
           <label class="magnet-option">
             <input type="radio" name="magnet" value={m.id} checked={m.id === "30-days"} />
-            <span data-i18n={m.id === "30-days" ? "magnet30Days" : m.id === "atomic-habits" ? "magnetAtomic" : "magnetStoic"}>{m.emoji} {m.label}</span>
+            <span data-i18n="magnet30Days">{m.emoji} {m.label}</span>
           </label>
         ))}
       </div>
@@ -49,7 +47,7 @@ const magnets = [
         <button type="submit" class="btn-pill btn-pill-cream" data-i18n="newsletterBtn">{buttonText}</button>
       </form>
       <p id="newsletter-msg" class="newsletter-note" aria-live="polite"></p>
-      <p class="newsletter-note newsletter-trust" data-i18n="newsletterNote">📩 One email per week. Unsubscribe anytime.</p>
+      <p class="newsletter-note newsletter-trust" data-i18n="newsletterNote">🔒 No spam. Your email stays with Motiva Hub only.</p>
     </div>
   )}
 
@@ -75,15 +73,17 @@ const magnets = [
   const t = (i18nDict[lang] || i18nDict.en || {});
 
   forms.forEach((form) => {
+    if (form.hasAttribute('action')) return; // native-POST forms (footer) keep their own flow
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const fd = new FormData(form);
       const email = String(fd.get('email') || '').trim();
       const name = String(fd.get('name') || '').trim();
-      const magnet = String(fd.get('magnet') || '30-days');
+      // magnet radios render outside <form>; read the checked input from the document
+      const magnet = String(document.querySelector('input[name="magnet"]:checked')?.value || '30-days');
       const emailOk = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 
-      const msgEl = form.closest('.newsletter')?.querySelector('(' + '#' + ')' + 'newsletter-msg, .newsletter-compact-text');
+      const msgEl = form.closest('.newsletter')?.querySelector('#newsletter-msg, .newsletter-compact-text');
 
       if (!email) {
         if (msgEl) msgEl.textContent = t.newsletterEmailRequired || 'Please enter your email address.';
@@ -115,8 +115,8 @@ const magnets = [
         if (res.ok) {
           if (msgEl) {
             msgEl.textContent = name
-              ? (t.newsletterWelcomeName || '🎉 Welcome aboard, {name}! Check your inbox for confirmation.').replace('{name}', name)
-              : (t.newsletterWelcome || '🎉 Welcome! Check your inbox for confirmation.');
+              ? (t.newsletterWelcomeName || '🎉 Welcome aboard, {name}! You are on the list.').replace('{name}', name)
+              : (t.newsletterWelcome || '🎉 Welcome! You are on the list.');
             msgEl.style.color = '#c8a04a';
           }
           form.reset();
