@@ -1060,5 +1060,14 @@
   "hubFeaturedP4For": "Pour qui : celles et ceux qui se méfient des histoires motivantes et ne croient que les personnes nommées et les chiffres vérifiés.",
   "hubFeaturedP4Next": "Ouvrir le calculateur de lecture",
   "hubFeaturedP4Cta": "Ouvrir le dossier →",
-  "hubToolReading": "Le Calculateur de Lecture"
+  "hubToolReading": "Le Calculateur de Lecture",
+  "hubGuidesKicker": "Approfondir",
+  "hubGuidesTitle": "Le Guide Complet",
+  "hubGuideAtomic": "Atomic Habits — Le Guide Ultime",
+  "hubRelatedKicker": "Piliers Adjacents",
+  "hubRelatedTitle": "Poursuivre l'ascension",
+  "hubRelHabits": "Pilier 01 · Ingénierie Comportementale",
+  "hubRelMindset": "Pilier 02 · Résilience Mentale & Maîtrise de Soi",
+  "hubRelSport": "Pilier 03 · Performance Cerveau-Corps",
+  "hubRelStories": "Pilier 04 · Histoires à Preuves"
 }

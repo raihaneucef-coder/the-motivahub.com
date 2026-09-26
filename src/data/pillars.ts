@@ -17,6 +17,13 @@ export interface PillarTool {
   labelDefault: string;
 }
 
+// Chip links (guides / adjacent pillars). frHref() in PillarHub adds /fr automatically.
+export interface PillarLink {
+  href: string;
+  labelKey: string;
+  labelDefault: string;
+}
+
 export interface PillarBook {
   id: string;
   review: string;
@@ -53,6 +60,8 @@ export interface Pillar {
   ledeDefault: string;
   sections: PillarSection[];
   tools: PillarTool[];
+  guides?: PillarLink[];
+  related?: PillarLink[];
   featured: PillarFeatured;
   books: PillarBook[];
 }
@@ -121,6 +130,25 @@ export const pillars: Record<string, Pillar> = {
       { href: "/tools/habit-stacker/", labelKey: "hubToolStacker", labelDefault: "Habit Stacker" },
       { href: "/tracker/", labelKey: "hubToolTracker", labelDefault: "Habit Tracker" },
       { href: "/30-days-discipline/", labelKey: "hubToolPdf", labelDefault: "30 Days of Discipline (PDF)" },
+    ],
+    guides: [
+      {
+        href: "/guides/atomic-habits-ultimate-guide/",
+        labelKey: "hubGuideAtomic",
+        labelDefault: "Atomic Habits — The Ultimate Guide",
+      },
+    ],
+    related: [
+      {
+        href: "/topics/mindset/",
+        labelKey: "hubRelMindset",
+        labelDefault: "Pillar 02 · Mental Resilience & Self-Mastery",
+      },
+      {
+        href: "/topics/stories/",
+        labelKey: "hubRelStories",
+        labelDefault: "Pillar 04 · Evidence Stories",
+      },
     ],
     featured: {
       href: "/journal/2-minute-rule-system/",
@@ -222,6 +250,13 @@ export const pillars: Record<string, Pillar> = {
         href: "/memento-mori/",
         labelKey: "hubToolMemento",
         labelDefault: "Memento Mori",
+      },
+    ],
+    related: [
+      {
+        href: "/topics/sport/",
+        labelKey: "hubRelSport",
+        labelDefault: "Pillar 03 · Brain-Body Performance",
       },
     ],
     featured: {
@@ -333,6 +368,13 @@ export const pillars: Record<string, Pillar> = {
         labelDefault: "The Meditation Timer",
       },
     ],
+    related: [
+      {
+        href: "/topics/mindset/",
+        labelKey: "hubRelMindset",
+        labelDefault: "Pillar 02 · Mental Resilience & Self-Mastery",
+      },
+    ],
     featured: {
       href: "/journal/sleep-is-unfair-advantage/",
       hrefFr: "/fr/journal/sommeil-avantage-indefendable/",
@@ -418,6 +460,13 @@ export const pillars: Record<string, Pillar> = {
         href: "/tools/reading-calculator/",
         labelKey: "hubToolReading",
         labelDefault: "The Reading Calculator",
+      },
+    ],
+    related: [
+      {
+        href: "/topics/habits/",
+        labelKey: "hubRelHabits",
+        labelDefault: "Pillar 01 · Behavioral Engineering",
       },
     ],
     featured: {
