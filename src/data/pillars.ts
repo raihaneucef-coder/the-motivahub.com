@@ -358,4 +358,91 @@ export const pillars: Record<string, Pillar> = {
     // No reviewed brain-body books yet — section stays hidden (knowledge-first rule).
     books: [],
   },
+
+  stories: {
+    id: "stories",
+    brandingKey: "hubStoriesBranding",
+    brandingDefault: "Pillar 04 · Evidence Stories",
+    questionKey: "hubStoriesQuestion",
+    questionDefault:
+      "What do real lives prove about discipline and change — that a thousand lectures never will?",
+    ledeKey: "hubStoriesLede",
+    ledeDefault:
+      "We don't preach — we show receipts. Documented lives and self-run experiments that put every claim this site makes to the test.",
+    sections: [
+      {
+        labelKey: "hubSectionQuestion",
+        labelDefault: "The Question",
+        blurbKey: "hubSectionQuestionBlurb",
+        blurbDefault: "Name the mechanism before you fight it.",
+        articles: [
+          "histoire-concierge-millionnaire",
+          "proof-over-noise",
+        ],
+        articlesFr: [
+          "histoire-concierge-millionnaire",
+          "proof-over-noise",
+        ],
+      },
+      {
+        labelKey: "hubSectionExplanation",
+        labelDefault: "The Explanation",
+        blurbKey: "hubSectionExplanationBlurb",
+        blurbDefault: "What the research actually says.",
+        articles: [
+          "psychology-of-money-business",
+          "slow-productivity-30-day-test",
+        ],
+        articlesFr: [
+          "psychology-of-money-business",
+          "slow-productivity-30-day-test",
+        ],
+      },
+      {
+        labelKey: "hubSectionPractice",
+        labelDefault: "The Practice",
+        blurbKey: "hubSectionPracticeBlurb",
+        blurbDefault: "Where it becomes real — protocols you run today.",
+        articles: [
+          "sprint-90-jours",
+          "how-to-read-30-books-a-year",
+        ],
+        articlesFr: [
+          "sprint-90-jours",
+          "how-to-read-30-books-a-year",
+        ],
+      },
+    ],
+    tools: [
+      {
+        href: "/tools/reading-calculator/",
+        labelKey: "hubToolReading",
+        labelDefault: "The Reading Calculator",
+      },
+    ],
+    featured: {
+      href: "/journal/histoire-concierge-millionnaire/",
+      hrefFr: "/fr/journal/histoire-concierge-millionnaire/",
+      solvesKey: "hubFeaturedP4Solves",
+      solvesDefault:
+        "What it repairs: the credibility gap — why patience-as-advice never lands until you see the receipts.",
+      forKey: "hubFeaturedP4For",
+      forDefault:
+        "Who it is for: anyone allergic to motivational stories who trusts named humans and audited numbers.",
+      nextKey: "hubFeaturedP4Next",
+      nextHref: "/tools/reading-calculator/",
+      nextLabelDefault: "Open the Reading Calculator",
+      kickerKey: "hubCaseKicker",
+      kickerDefault: "The Case File",
+      titleKey: "hubCaseTitle",
+      titleDefault: "Ronald Read: The Janitor Who Died Worth $8 Million",
+      descKey: "hubCaseDesc",
+      descDefault:
+        "A documented life, not a moral tale — twenty-five years pumping gas, a buy-and-hold portfolio, and the quiet arithmetic that out-performed Wall Street.",
+      ctaKey: "hubFeaturedP4Cta",
+      ctaDefault: "Open the case file →",
+    },
+    // Evidence-first: no book gets a slot before we publish its real review.
+    books: [],
+  },
 };

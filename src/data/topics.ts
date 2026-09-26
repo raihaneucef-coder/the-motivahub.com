@@ -75,6 +75,8 @@ export const topics: Topic[] = [
     id: "stories",
     title: "Stories",
     description: "Proof over noise. Real people, real rises — curated news and human stories that raise the ceiling of what you believe is possible.",
+    descriptionFr:
+      "La preuve plutôt que le bruit. Des vies documentées et des expériences menées sur soi qui testent chaque affirmation.",
   },
   {
     id: "finance",
