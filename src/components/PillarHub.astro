@@ -24,6 +24,8 @@ const sections = pillar.sections.map((section) => {
 const pillarBooks = pillar.books
   .map((b) => ({ link: b, book: books.find((x) => x.id === b.id) }))
   .filter((x) => x.book);
+const pillarGuides = pillar.guides ?? [];
+const pillarRelated = pillar.related ?? [];
 const frHref = (href: string) => (fr ? `/fr${href}` : href);
 const featured = pillar.featured;
 ---
@@ -59,6 +61,21 @@ const featured = pillar.featured;
         ))}
       </div>
     </section>
+
+    {pillarGuides.length > 0 && (
+      <section class="hub-section">
+        <p class="kicker" data-i18n="hubGuidesKicker">{L("hubGuidesKicker", "Go Deeper")}</p>
+        <h2 class="hub-section-title" data-i18n="hubGuidesTitle">{L("hubGuidesTitle", "The Complete Guide")}</h2>
+        <div class="hub-tools">
+          {pillarGuides.map((guide) => (
+            <a class="hub-tool" href={frHref(guide.href)}>
+              <span class="hub-tool-mark" aria-hidden="true">→</span>
+              <span data-i18n={guide.labelKey}>{L(guide.labelKey, guide.labelDefault)}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
 
     <section class="hub-featured">
       <p class="kicker" data-i18n={featured.kickerKey}>{L(featured.kickerKey, featured.kickerDefault)}</p>
@@ -97,6 +114,21 @@ const featured = pillar.featured;
                 )}
               </div>
             </article>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {pillarRelated.length > 0 && (
+      <section class="hub-section">
+        <p class="kicker" data-i18n="hubRelatedKicker">{L("hubRelatedKicker", "Adjacent Pillars")}</p>
+        <h2 class="hub-section-title" data-i18n="hubRelatedTitle">{L("hubRelatedTitle", "Continue the ascent")}</h2>
+        <div class="hub-tools">
+          {pillarRelated.map((rel) => (
+            <a class="hub-tool" href={frHref(rel.href)}>
+              <span class="hub-tool-mark" aria-hidden="true">→</span>
+              <span data-i18n={rel.labelKey}>{L(rel.labelKey, rel.labelDefault)}</span>
+            </a>
           ))}
         </div>
       </section>
