@@ -3,17 +3,17 @@ import Link from "./Link.astro";
 ---
 
 <footer class="site-footer">
-  <div class="footer-newsletter">
+  <div class="footer-newsletter" id="newsletter">
     <div class="container">
       <div class="footer-newsletter-inner">
         <p class="kicker kicker-or" style="justify-content:center; display:flex;" data-i18n="footerNewsletterKicker">The Daily Drive · Newsletter</p>
-        <h2 data-i18n-html="footerNewsletterTitle">One letter. <em>Every Sunday.</em></h2>
+        <h2 data-i18n-html="footerNewsletterTitle">One letter. <em>Worth your time.</em></h2>
         <p data-i18n="footerNewsletterSubtitle">The week's essays, one book worth reading, and a small practice to try — delivered to people building the long ascent.</p>
         <form class="newsletter-form" action="https://formsubmit.co/contact@the-motivahub.com" method="POST">
           <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" data-i18n-placeholder="footerEmailPlaceholder" />
           <button type="submit" data-i18n="footerSubscribe">Subscribe</button>
         </form>
-        <p style="font-family:var(--mono); font-size:0.6875rem; text-transform:uppercase; letter-spacing:0.14em; color:rgba(245,241,232,0.4); margin-top:16px;" data-i18n="footerTrust">Free · No spam · Unsubscribe anytime</p>
+        <p style="font-family:var(--mono); font-size:0.6875rem; text-transform:uppercase; letter-spacing:0.14em; color:rgba(245,241,232,0.4); margin-top:16px;" data-i18n="footerTrust">Free · No spam · We never share your email</p>
       </div>
     </div>
   </div>
