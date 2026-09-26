@@ -53,6 +53,8 @@ export const topics: Topic[] = [
     id: "sport",
     title: "Sport",
     description: "The body votes first. Before the mind can carry a dream, the body must be able to carry the mind.",
+    descriptionFr:
+      "Votre corps n'est pas l'équipage de votre esprit — c'est son infrastructure. Sommeil, alimentation, mouvement, souffle.",
   },
   {
     id: "nutrition",
