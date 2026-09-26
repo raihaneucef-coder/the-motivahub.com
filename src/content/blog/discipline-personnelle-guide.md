@@ -1,8 +1,8 @@
 ---
 title: "Personal Discipline: The Complete Guide to Self-Control and Consistency"
-description: "Master personal discipline with proven strategies. Learn how to stay consistent, control your impulses, and build unstoppable self-discipline."
-titleFr: "Guide de Discipline Personnelle : 30 Jours pour Transformer Vos Habitudes"
-descriptionFr: "Un guide complet de discipline personnelle. 30 jours d'exercices pratiques pour construire des habitudes durables et transformer votre vie."
+description: "Personal discipline decoded: 8 numbered systems — from identity-first goals and the two-minute rule to morning design, voluntary discomfort and the 40% rule — that make consistency automatic."
+titleFr: "Discipline Personnelle : 8 Systèmes Plutôt que la Volonté"
+descriptionFr: "Un guide complet de discipline personnelle : 8 systèmes concrets — buts identitaires, règle des deux minutes, routine du matin, inconfort volontaire, règle des 40 % — pour tenir sans compter sur la volonté."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21
 readTime: "9 MIN"

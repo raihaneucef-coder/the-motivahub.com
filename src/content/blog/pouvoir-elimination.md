@@ -1,5 +1,5 @@
 ---
-title: "The Power of Elimination: Do Less, Achieve More"
+title: "The Power of Elimination: The 3-Question Stop-Doing List"
 description: "The power of elimination in practice: a 3-question filter, a stop-doing list template, and an honest 80/20 audit of the 80% of work that doesn't matter."
 titleFr: "Le Pouvoir de l'Élimination : Faire Moins pour Accomplir Plus"
 descriptionFr: "L'élimination est plus puissante que l'ajout. Filtre des 3 questions, modèle de liste stop-doing et audit 80/20 honnête des 80 % de travail qui ne comptent pas."
