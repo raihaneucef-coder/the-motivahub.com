@@ -15,3 +15,10 @@ reels/output/
 test-results/
 tests/screenshots/
 pins.batch1/
+pins.batch2/
+
+# artefacts de test (captures d’écran) et exports temporaires
+tests/*.png
+gsc-*.png
+tests/*-audit/
+tests/*-quality/
