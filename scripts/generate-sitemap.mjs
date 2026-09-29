@@ -189,32 +189,9 @@ async function main() {
     });
   }
 
-  // Pagination pages
-  const pageDirs = (await readdir(join(DIST, "journal", "page"), { withFileTypes: true }))
-    .filter((e) => e.isDirectory())
-    .map((e) => e.name);
-  for (const p of pageDirs) {
-    urls.push({
-      loc: `${SITE}/journal/page/${p}/`,
-      lastmod: new Date().toISOString().split("T")[0],
-      changefreq: "daily",
-      priority: 0.5,
-      en: `${SITE}/journal/page/${p}/`,
-      fr: `${SITE}/fr/journal/page/${p}/`,
-    });
-  }
-
-  // FR pagination pages
-  for (const p of pageDirs) {
-    urls.push({
-      loc: `${SITE}/fr/journal/page/${p}/`,
-      lastmod: new Date().toISOString().split("T")[0],
-      changefreq: "daily",
-      priority: 0.5,
-      en: `${SITE}/journal/page/${p}/`,
-      fr: `${SITE}/fr/journal/page/${p}/`,
-    });
-  }
+  // Pagination pages are intentionally EXCLUDED from the sitemap:
+  // /journal/page/N are near-duplicate listing views; submitting them wastes
+  // crawl budget and dilutes the URL set Google should prioritize.
 
   urls.sort((a, b) => {
     if (a.priority !== b.priority) return b.priority - a.priority;
