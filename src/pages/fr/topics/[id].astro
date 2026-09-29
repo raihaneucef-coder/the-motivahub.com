@@ -30,7 +30,7 @@ const allPosts = (await getCollection("blog"))
     "@type": "CollectionPage",
     "name": `${topic.title} — Motiva Hub`,
     "description": topic.description,
-    "url": `https://the-motivahub.com/topics/${topic.id}/`,
+    "url": `https://the-motivahub.com/fr/topics/${topic.id}/`,
     "isPartOf": {
       "@type": "WebSite",
       "name": "Motiva Hub",
@@ -46,7 +46,7 @@ const allPosts = (await getCollection("blog"))
       "itemListElement": posts.slice(0, 10).map((p, i) => ({
         "@type": "ListItem",
         "position": i + 1,
-        "url": `https://the-motivahub.com/journal/${p.id}/`,
+        "url": `https://the-motivahub.com/fr/journal/${p.id}/`,
         "name": p.data.title
       }))
     }
@@ -55,9 +55,9 @@ const allPosts = (await getCollection("blog"))
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
-      { "@type": "ListItem", "position": 2, "name": "Topics", "item": "https://the-motivahub.com/topics/" },
-      { "@type": "ListItem", "position": 3, "name": topic.title, "item": `https://the-motivahub.com/topics/${topic.id}/` }
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "Thèmes", "item": "https://the-motivahub.com/fr/topics/" },
+      { "@type": "ListItem", "position": 3, "name": topic.title, "item": `https://the-motivahub.com/fr/topics/${topic.id}/` }
     ]
   })} />
   <section class="page-head">

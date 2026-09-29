@@ -224,17 +224,17 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
     keywords: (post.data.keywords || []).join(", "),
     articleSection: post.data.topic,
     wordCount: post.data.wordCount || 0,
-    author: { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/about/" },
+    author: { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/fr/about/" },
     publisher: { "@type": "Organization", "name": "Motiva Hub", "logo": { "@type": "ImageObject", "url": "https://the-motivahub.com/logo.jpg" } },
-    mainEntityOfPage: { "@type": "WebPage", "@id": `https://the-motivahub.com/journal/${post.id}/` }
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://the-motivahub.com${Astro.url.pathname}` }
   })} />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
-      { "@type": "ListItem", "position": 2, "name": "Journal", "item": "https://the-motivahub.com/journal/" },
-      { "@type": "ListItem", "position": 3, "name": displayTitle, "item": `https://the-motivahub.com/journal/${post.id}/` }
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "Journal", "item": "https://the-motivahub.com/fr/journal/" },
+      { "@type": "ListItem", "position": 3, "name": displayTitle, "item": `https://the-motivahub.com${Astro.url.pathname}` }
     ]
   })} />
   {isReviewPost && (
@@ -251,7 +251,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
         "bestRating": "5",
         "worstRating": "1"
       },
-      "author": { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/about/" },
+      "author": { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/fr/about/" },
       "publisher": { "@type": "Organization", "name": "Motiva Hub" },
       "datePublished": post.data.pubDate.toISOString(),
       "inLanguage": postLang

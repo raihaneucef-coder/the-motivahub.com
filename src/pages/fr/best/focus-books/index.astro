@@ -18,29 +18,29 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://the-motivahub.com/best/focus-books/#article",
+        "@id": "https://the-motivahub.com/fr/best/focus-books/#article",
         "headline": title,
         "description": description,
         "image": "https://the-motivahub.com/images/hero.jpg",
         "datePublished": "2026-01-01",
         "dateModified": new Date().toISOString().split("T")[0],
-        "inLanguage": "en",
-        "author": { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/about/" },
+        "inLanguage": "fr",
+        "author": { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/fr/about/" },
         "publisher": { "@type": "Organization", "name": "Motiva Hub", "logo": { "@type": "ImageObject", "url": "https://the-motivahub.com/logo.jpg" } },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://the-motivahub.com/best/focus-books/" }
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://the-motivahub.com/fr/best/focus-books/" }
       },
       {
         "@type": "ItemList",
-        "@id": "https://the-motivahub.com/best/focus-books/#list",
+        "@id": "https://the-motivahub.com/fr/best/focus-books/#list",
         "name": title,
         "description": description,
-        "url": "https://the-motivahub.com/best/focus-books/",
+        "url": "https://the-motivahub.com/fr/best/focus-books/",
         "numberOfItems": focusBooks.length,
         "itemListElement": focusBooks.map((b, i) => ({
           "@type": "ListItem",
           "position": i + 1,
           "name": `${b.title} by ${b.author}`,
-          "url": b.affiliateUrl || `https://the-motivahub.com/books/`
+          "url": b.affiliateUrl || `https://the-motivahub.com/fr/books/`
         }))
       }
     ]
@@ -57,9 +57,9 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
-      { "@type": "ListItem", "position": 2, "name": "The Bookstand", "item": "https://the-motivahub.com/books/" },
-      { "@type": "ListItem", "position": 3, "name": "Best Focus Books", "item": "https://the-motivahub.com/best/focus-books/" }
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "L'Étagère à Livres", "item": "https://the-motivahub.com/fr/books/" },
+      { "@type": "ListItem", "position": 3, "name": "Best Focus Books", "item": "https://the-motivahub.com/fr/best/focus-books/" }
     ]
   })} />
 

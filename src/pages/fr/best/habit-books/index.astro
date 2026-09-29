@@ -17,29 +17,29 @@ const description = "Les meilleurs livres pour construire des habitudes durables
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://the-motivahub.com/best/habit-books/#article",
+        "@id": "https://the-motivahub.com/fr/best/habit-books/#article",
         "headline": title,
         "description": description,
         "image": "https://the-motivahub.com/images/hero.jpg",
         "datePublished": "2026-01-01",
         "dateModified": new Date().toISOString().split("T")[0],
-        "inLanguage": "en",
-        "author": { "@type": "Person", name: "Youssef Raihane", url: "https://the-motivahub.com/about/" },
+        "inLanguage": "fr",
+        "author": { "@type": "Person", "name": "Youssef Raihane", url: "https://the-motivahub.com/fr/about/" },
         "publisher": { "@type": "Organization", name: "Motiva Hub", logo: { "@type": "ImageObject", url: "https://the-motivahub.com/logo.jpg" } },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://the-motivahub.com/best/habit-books/" }
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://the-motivahub.com/fr/best/habit-books/" }
       },
       {
         "@type": "ItemList",
-        "@id": "https://the-motivahub.com/best/habit-books/#list",
+        "@id": "https://the-motivahub.com/fr/best/habit-books/#list",
         "name": title,
         "description": description,
-        "url": "https://the-motivahub.com/best/habit-books/",
+        "url": "https://the-motivahub.com/fr/best/habit-books/",
         "numberOfItems": habitBooks.length,
         "itemListElement": habitBooks.map((b, i) => ({
           "@type": "ListItem",
           "position": i + 1,
           "name": `${b.title} by ${b.author}`,
-          "url": b.affiliateUrl || `https://the-motivahub.com/books/`
+          "url": b.affiliateUrl || `https://the-motivahub.com/fr/books/`
         }))
       }
     ]
@@ -56,9 +56,9 @@ const description = "Les meilleurs livres pour construire des habitudes durables
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://the-motivahub.com/" },
-      { "@type": "ListItem", "position": 2, "name": "The Bookstand", "item": "https://the-motivahub.com/books/" },
-      { "@type": "ListItem", "position": 3, "name": "Best Habit Books", "item": "https://the-motivahub.com/best/habit-books/" }
+      { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
+      { "@type": "ListItem", "position": 2, "name": "L'Étagère à Livres", "item": "https://the-motivahub.com/fr/books/" },
+      { "@type": "ListItem", "position": 3, "name": "Best Habit Books", "item": "https://the-motivahub.com/fr/best/habit-books/" }
     ]
   })} />
 
