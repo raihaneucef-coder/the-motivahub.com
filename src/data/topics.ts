@@ -1,6 +1,7 @@
 export interface Topic {
   id: string;
   title: string;
+  titleFr?: string;
   description: string;
   descriptionFr?: string;
 }
@@ -9,49 +10,64 @@ export const topics: Topic[] = [
   {
     id: "mindset",
     title: "Mindset",
+    titleFr: "État d'esprit",
     description: "Before any habit or discipline can take root, the mind must be reshaped. We examine the inner scaffolding that holds a life together.",
     descriptionFr:
-      "La confiance n'est pas un trait de caractère — c'est une architecture intérieure que l'on construit, épreuve après épreuve.",
+      "Avant qu'une habitude ou une discipline ne prenne racine, l'esprit doit être remodelé. Nous examinons l'échafaudage intérieur qui tient une vie debout.",
   },
   {
     id: "habits",
     title: "Habits",
+    titleFr: "Habitudes",
     description: "Greatness is not a single act but a thousand small ones, repeated until they disappear into who you are.",
     descriptionFr: "La grandeur n'est pas un acte unique mais mille petits gestes, répétés jusqu'à s'effacer dans la personne que vous devenez.",
   },
   {
     id: "discipline",
     title: "Discipline",
+    titleFr: "Discipline",
     description: "Motivation is a visitor; discipline is a resident. This is the practice of doing what you said you would, especially when you do not feel like it.",
+    descriptionFr: "La motivation est une visiteuse ; la discipline est une résidente. Faire ce que vous avez dit que vous feriez — surtout quand vous n'en avez plus envie.",
   },
   {
     id: "productivity",
     title: "Productivity",
+    titleFr: "Productivité",
     description: "Busyness is the enemy of meaning. We rebuild the day around deep, uninterrupted work.",
+    descriptionFr: "L'agitation est l'ennemie du sens. Nous rebâtissons la journée autour d'un travail profond et ininterrompu.",
   },
   {
     id: "goals",
     title: "Goals",
+    titleFr: "Objectifs",
     description: "The day is the unit of a life well lived. We design the morning, protect the deep hours, and let the evening fall quietly.",
+    descriptionFr: "Le jour est l'unité d'une vie bien vécue. Nous dessinons le matin, protégeons les heures profondes, et laissons le soir tomber en silence.",
   },
   {
     id: "success",
     title: "Success",
+    titleFr: "Réussite",
     description: "The summit was never the point. The climb was the point — and the person the climb makes of you.",
+    descriptionFr: "Le sommet n'a jamais été le but. L'ascension est le but — et la personne que l'ascension fait de vous.",
   },
   {
     id: "personal-growth",
     title: "Personal Growth",
+    titleFr: "Développement personnel",
     description: "Growth is rarely linear and never finished. We trace the slow climb — the plateaus, the setbacks, the quiet breakthroughs.",
+    descriptionFr: "La croissance est rarement linéaire et jamais achevée. Nous suivons la lente ascension — les paliers, les revers, les percées silencieuses.",
   },
   {
     id: "confidence",
     title: "Confidence",
+    titleFr: "Confiance",
     description: "Confidence is not born — it is built from evidence. Every kept promise to yourself is a brick in the wall of self-trust.",
+    descriptionFr: "La confiance ne naît pas — elle se construit preuve après preuve. Chaque promesse tenue à soi-même est une brique dans le mur de l'estime de soi.",
   },
   {
     id: "sport",
     title: "Sport",
+    titleFr: "Sport",
     description: "The body votes first. Before the mind can carry a dream, the body must be able to carry the mind.",
     descriptionFr:
       "Votre corps n'est pas l'équipage de votre esprit — c'est son infrastructure. Sommeil, alimentation, mouvement, souffle.",
@@ -59,21 +75,28 @@ export const topics: Topic[] = [
   {
     id: "nutrition",
     title: "Nutrition",
+    titleFr: "Nutrition",
     description: "You cannot out-discipline a bad plate. Fuel is the quiet foundation under every strong day — eat so the hard things become cheaper.",
+    descriptionFr: "On ne compense pas une mauvaise assiette avec de la discipline. Le carburant est le socle silencieux de chaque journée forte — mangez pour que les choses difficiles coûtent moins cher.",
   },
   {
     id: "travel",
     title: "Travel",
+    titleFr: "Voyage",
     description: "Go where you are a beginner again. New roads reset the ego and return you hungrier than you left.",
+    descriptionFr: "Allez là où vous redevenez débutant. Les routes neuves recalibrent l'ego et vous rendent plus affamé qu'à l'aller.",
   },
   {
     id: "entertainment",
     title: "Entertainment",
+    titleFr: "Divertissement",
     description: "Rest is a skill, not a reward. Choose your leisure the way champions choose training — deliberately, and always leaving energy behind.",
+    descriptionFr: "Le repos est une compétence, pas une récompense. Choisissez vos loisirs comme les champions choisissent l'entraînement — délibérément, en gardant toujours de l'énergie en réserve.",
   },
   {
     id: "stories",
     title: "Stories",
+    titleFr: "Histoires",
     description: "Proof over noise. Real people, real rises — curated news and human stories that raise the ceiling of what you believe is possible.",
     descriptionFr:
       "La preuve plutôt que le bruit. Des vies documentées et des expériences menées sur soi qui testent chaque affirmation.",
@@ -81,16 +104,22 @@ export const topics: Topic[] = [
   {
     id: "finance",
     title: "Finance",
+    titleFr: "Finance",
     description: "Money is a skill, not a secret. We learn how to earn, keep and grow it — so freedom stops being a wish and becomes a plan.",
+    descriptionFr: "L'argent est une compétence, pas un secret. Nous apprenons à le gagner, le garder et le faire croître — pour que la liberté cesse d'être un souhait et devienne un plan.",
   },
   {
     id: "relationships",
     title: "Relationships",
+    titleFr: "Relations",
     description: "No one climbs alone. We practice the art of connection — family, friendship and love as daily disciplines.",
+    descriptionFr: "Personne ne grimpe seul. Nous pratiquons l'art du lien — la famille, l'amitié et l'amour comme disciplines quotidiennes.",
   },
   {
     id: "wellness",
     title: "Wellness",
+    titleFr: "Bien-être",
     description: "Calm is a superpower. Breath, sleep and stillness — the quiet practices that keep the mind clear and the heart steady.",
+    descriptionFr: "Le calme est un superpouvoir. Souffle, sommeil et silence — les pratiques discrètes qui gardent l'esprit clair et le cœur stable.",
   },
 ];
