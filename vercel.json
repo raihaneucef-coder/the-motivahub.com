@@ -1,6 +1,22 @@
 {
   "redirects": [
     {
+      "source": "/:path*",
+      "has": [
+        { "type": "host", "value": "www.the-motivahub.com" }
+      ],
+      "destination": "https://the-motivahub.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        { "type": "host", "value": "www.the-motivahub.com" }
+      ],
+      "destination": "https://the-motivahub.com/",
+      "permanent": true
+    },
+    {
       "source": "/blog/:path*",
       "destination": "/journal/:path*",
       "permanent": true
