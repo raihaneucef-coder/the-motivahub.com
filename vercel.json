@@ -1,11 +1,11 @@
 {
   "redirects": [
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [
         { "type": "host", "value": "www.the-motivahub.com" }
       ],
-      "destination": "https://the-motivahub.com/:path*",
+      "destination": "https://the-motivahub.com/$1",
       "permanent": true
     },
     {
