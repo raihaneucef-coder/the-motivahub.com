@@ -330,9 +330,9 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
     </script>
     <script is:inline>
       window.trackAffiliateClick = function(bookId, bookTitle){
-        var payload = {event:"affiliate_click", bookId: bookId, bookTitle: bookTitle, timestamp: new Date().toISOString()};
-        try{console.debug("[affiliate_click]", payload);}catch(e){}
-        if (typeof window.gtag === "function") try{window.gtag("event","affiliate_click",{book_id:bookId, book_title:bookTitle});}catch(e){}
+        var payload = {event:"book_affiliate_click", bookId: bookId, bookTitle: bookTitle, timestamp: new Date().toISOString()};
+        try{console.debug("[book_affiliate_click]", payload);}catch(e){}
+        if (typeof window.gtag === "function") try{window.gtag("event","book_affiliate_click",{book_id:bookId, book_title:bookTitle});}catch(e){}
         if (Array.isArray(window.dataLayer)) try{window.dataLayer.push(payload);}catch(e){}
       };
     </script>

@@ -8,12 +8,12 @@ export const GSC_VERIFICATION = ""; // ← insert Search Console verification to
 // Simple internal affiliate click tracking structure (ready for GA or other provider)
 // Tracks: bookId, bookTitle, click event — no private user info.
 export function trackAffiliateClick(bookId: string, bookTitle: string) {
-  const payload = { event: "affiliate_click", bookId, bookTitle, timestamp: new Date().toISOString() };
-  if (typeof console !== "undefined") console.debug("[affiliate_click]", payload);
+  const payload = { event: "book_affiliate_click", bookId, bookTitle, timestamp: new Date().toISOString() };
+  if (typeof console !== "undefined") console.debug("[book_affiliate_click]", payload);
   // @ts-ignore
   if (typeof window !== "undefined" && typeof (window as any).gtag === "function") {
     // @ts-ignore
-    (window as any).gtag("event", "affiliate_click", { book_id: bookId, book_title: bookTitle });
+    (window as any).gtag("event", "book_affiliate_click", { book_id: bookId, book_title: bookTitle });
   }
   // @ts-ignore
   if (typeof window !== "undefined" && Array.isArray((window as any).dataLayer)) {
