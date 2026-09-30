@@ -1,62 +1,61 @@
-# Motiva Hub — llms.txt
+# Motiva Hub
 
-## Site Identity
-- Name: Motiva Hub
-- URL: https://the-motivahub.com
-- Author: Youssef Raihane
-- Focus: Discipline, habits, productivity, Stoicism, practical philosophy
-- Language: English, French, Arabic
-- Tone: Practical, personal, evidence-based, no motivation fluff
+> A premium editorial sanctuary for the disciplined mind. Original essays, practical tools, and curated book guides on discipline, habits, productivity, and Stoicism — written by Youssef Raihane since 2026.
 
-## Core Pillar Pages
-- https://the-motivahub.com/ — Homepage
-- https://the-motivahub.com/guides/atomic-habits-ultimate-guide/ — Pillar: Atomic Habits complete guide
-- https://the-motivahub.com/journal/ — Journal: 156+ articles on discipline and habits
-- https://the-motivahub.com/tools/ — Interactive tools (discipline quiz, focus timer, etc.)
-- https://the-motivahub.com/best/books/ — Best self-help books 2026
-- https://the-motivahub.com/pdf/30-days-discipline/ — Free PDF lead magnet
+## Core Pages
 
-## Key Topics
+- [Homepage](https://the-motivahub.com/): English landing page with journal, tools, and guides
+- [Accueil](https://the-motivahub.com/fr/): French landing page (169+ essays)
+- [The Journal](https://the-motivahub.com/journal/): Long-form essays on discipline and habits
+- [Guides](https://the-motivahub.com/guides/): Ultimate guides (Atomic Habits, etc.)
+- [Tools](https://the-motivahub.com/tools/): Interactive tools (discipline quiz, habit tracker, meditation timer)
+- [Best Books](https://the-motivahub.com/best/books/): Curated self-help book recommendations 2026
+- [Podcast](https://the-motivahub.com/podcast/): Curated listening recommendations
+- [About](https://the-motivahub.com/about/): About Motiva Hub and its founder
+- [Author](https://the-motivahub.com/author/youssef-raihane/): Youssef Raihane — founder and editor-in-chief
+- [Free PDF](https://the-motivahub.com/30-days-discipline.pdf): 30 Days of Discipline lead magnet
+
+## Pillar Content
+
+- [Atomic Habits Ultimate Guide](https://the-motivahub.com/guides/atomic-habits-ultimate-guide/): Complete framework breakdown with modern applications
+- [Best Habit Books](https://the-motivahub.com/best/habit-books/): Top habit & discipline books ranked
+- [Best Focus Books](https://the-motivahub.com/best/focus-books/): Deep work and concentration reading list
+- [Best Stoicism Books](https://the-motivahub.com/best/stoicism-books/): Stoic philosophy reading guide
+- [Discipline Quiz](https://the-motivahub.com/tools/discipline-quiz/): Free archetype assessment tool
+
+## Topics Covered
+
 - Atomic Habits (James Clear)
 - Deep Work (Cal Newport)
 - Stoicism (Marcus Aurelius, Seneca, Epictetus)
 - David Goggins / Can't Hurt Me
-- Morning routines
+- Morning routines and discipline systems
 - Identity-based habits
 - Slow productivity
-- Nervous system / somatic focus
-- Reading habits
+- Nervous system regulation and focus
+- Reading habits and retention
 - 2-minute rule / 2-day rule
 
 ## Content Principles
-- All content is original, first-person, based on real experiments
-- No AI-generated content
-- No scraped or aggregated content
-- Affiliate links are disclosed (Amazon Associate)
+
+- All content is original, first-person, based on real personal experiments
+- No AI-generated content, no scraped or aggregated content
+- Affiliate links are disclosed (Amazon Associates)
 - Every claim is either personal experience or linked to a primary source
+- Bilingual: English and French with full SSR parity
 
-## Authoritative Sources Cited
-- James Clear (jamesclear.com)
-- Cal Newport (calnewport.com)
-- Marcus Aurelius — Meditations (Gregory Hays translation)
-- Seneca — Letters from a Stoic, On the Shortness of Life
-- Epictetus — Discourses
-- David Goggins — Can't Hurt Me
-- Morgan Housel — The Psychology of Money
-- BJ Fogg — Tiny Habits
-- Peter Gollwitzer — Implementation Intentions
-- Lally et al. (2009) — Habit formation median 66 days
-- Matthew Walker — Why We Sleep
-- Andrew Huberman — circadian rhythm, cortisol
+## Technical Notes for AI Agents
 
-## Crawler Notes
-- This file is intended for AI crawlers and LLMs
-- Content is structured for semantic extraction
-- FAQ schema is present on top 10 articles
-- Article schema, BreadcrumbList schema, and ItemList schema are implemented
-- Canonical URLs are set for all major pages
-- Sitemap: https://the-motivahub.com/sitemap.xml
+- Sitemap: [sitemap-0.xml](https://the-motivahub.com/sitemap-0.xml)
+- FAQ schema present on top content pages
+- Article, BreadcrumbList, and ItemList structured data implemented
+- Canonical URLs set for all pages
+- Language: English (`/`) and French (`/fr/`) with hreflang pairs
+- 432 indexed URLs total (215 EN + 217 FR)
 
 ## Contact
-- Email: contact@the-motivahub.com
-- About: https://the-motivahub.com/about/
+
+- Email: [contact@the-motivahub.com](mailto:contact@the-motivahub.com)
+- Instagram: [@motivahub](https://www.instagram.com/motivahub/)
+- X/Twitter: [@themotivahub](https://x.com/themotivahub)
+- YouTube: [@motivahub](https://www.youtube.com/@motivahub)
