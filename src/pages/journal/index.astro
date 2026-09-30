@@ -24,6 +24,19 @@ const topicCounts = allTopics.map((t) => ({
 
 // Topics shown in the filter bar (same 6)
 const filterTopics = topicCounts;
+
+// Archive grouping for crawl discovery
+const archiveGroups: { topic: string; items: typeof posts }[] = (() => {
+  const grouped = new Map<string, typeof posts>();
+  for (const p of posts) {
+    const t = norm(p.data.topic) || 'other';
+    if (!grouped.has(t)) grouped.set(t, []);
+    grouped.get(t)!.push(p);
+  }
+  return [...grouped.entries()]
+    .sort((a, b) => b[1].length - a[1].length)
+    .map(([topic, items]) => ({ topic, items }));
+})();
 ---
 
 <Layout title="The Journal — Motiva Hub" description="Practical articles, personal reflections and actionable ideas to help you think clearer, build better habits and create a more intentional life.">
@@ -217,6 +230,23 @@ const filterTopics = topicCounts;
     </div>
   </section>
 
+  <!-- Complete text archive for crawl discovery -->
+  <section class="journal-archive">
+    <div class="container">
+      <h2 class="journal-archive-title">Complete Archive <span class="journal-archive-count">({posts.length} articles)</span></h2>
+      {archiveGroups.map(({ topic, items }) => (
+        <div class="journal-archive-group">
+          <h3 class="journal-archive-topic">{topic}</h3>
+          <ul class="journal-archive-list">
+            {items.map((p) => (
+              <li><a href={`/journal/${p.id}/`}>{p.data.title}</a></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+
   <script>
     // Search filter
     const input = document.getElementById('journal-search') as HTMLInputElement | null;
@@ -292,4 +322,55 @@ const filterTopics = topicCounts;
   .pagination-link.disabled { color: #666; cursor: not-allowed; opacity: 0.5; }
   .pagination-current { color: #888; font-size: 13px; }
   .journal-no-results { text-align: center; color: #888; margin-top: 32px; }
+
+  .journal-archive {
+    padding: 64px 0 80px;
+    border-top: 1px solid var(--line, #2a2a2a);
+  }
+  .journal-archive-title {
+    font-family: var(--serif);
+    font-size: clamp(1.4rem, 3vw, 2rem);
+    margin-bottom: 32px;
+    color: var(--cream, #f5f1e8);
+  }
+  .journal-archive-count {
+    font-family: var(--sans);
+    font-size: 0.75em;
+    color: var(--muted, #888);
+    font-weight: 400;
+  }
+  .journal-archive-group {
+    margin-bottom: 28px;
+  }
+  .journal-archive-topic {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #ff4d00;
+    margin-bottom: 8px;
+  }
+  .journal-archive-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    columns: 2;
+    column-gap: 32px;
+  }
+  @media (max-width: 640px) {
+    .journal-archive-list { columns: 1; }
+  }
+  .journal-archive-list li {
+    margin-bottom: 6px;
+    break-inside: avoid;
+  }
+  .journal-archive-list a {
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    color: var(--muted, #aaa);
+    text-decoration: none;
+    transition: color 0.2s;
+    line-height: 1.5;
+  }
+  .journal-archive-list a:hover { color: #ff4d00; }
 </style>

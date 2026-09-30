@@ -37,7 +37,6 @@ const STATIC_PAGES = [
   { path: "/privacy/", priority: PRIORITY.static, changefreq: "yearly" },
   { path: "/terms/", priority: PRIORITY.static, changefreq: "yearly" },
   { path: "/affiliate-disclosure/", priority: PRIORITY.static, changefreq: "yearly" },
-  { path: "/credits/", priority: PRIORITY.static, changefreq: "yearly" },
   { path: "/author/youssef-raihane/", priority: PRIORITY.author, changefreq: "monthly" },
   { path: "/best/books/", priority: PRIORITY.best_of, changefreq: "weekly" },
   { path: "/best/focus-books/", priority: PRIORITY.best_of, changefreq: "weekly" },
@@ -48,7 +47,6 @@ const STATIC_PAGES = [
   { path: "/psychology/", priority: PRIORITY.static, changefreq: "monthly" },
   { path: "/objectives/", priority: PRIORITY.static, changefreq: "monthly" },
   { path: "/30-days-discipline/", priority: PRIORITY.static, changefreq: "monthly" },
-  { path: "/bio/", priority: PRIORITY.static, changefreq: "monthly" },
   // Free tools + guides clusters (indexable pages that were missing from the
   // sitemap since the generator only listed the static routes above).
   { path: "/tools/", priority: PRIORITY.topic, changefreq: "monthly" },
