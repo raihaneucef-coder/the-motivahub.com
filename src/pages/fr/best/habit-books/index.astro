@@ -38,7 +38,7 @@ const description = "Les meilleurs livres pour construire des habitudes durables
         "itemListElement": habitBooks.map((b, i) => ({
           "@type": "ListItem",
           "position": i + 1,
-          "name": `${b.title} by ${b.author}`,
+          "name": `${b.title} par ${b.author}`,
           "url": b.affiliateUrl || `https://the-motivahub.com/fr/books/`
         }))
       }
@@ -48,8 +48,9 @@ const description = "Les meilleurs livres pour construire des habitudes durables
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "What is the best book on building habits?", "acceptedAnswer": { "@type": "Answer", "text": "Atomic Habits by James Clear is the clearest modern system for identity-based habit change." } },
-      { "@type": "Question", "name": "How do I build discipline?", "acceptedAnswer": { "@type": "Answer", "text": "Discipline is built by small, repeated acts. Make the cue obvious, the action easy, the reward satisfying." } }
+      { "@type": "Question", "name": "Quel est le meilleur livre pour créer de bonnes habitudes ?", "acceptedAnswer": { "@type": "Answer", "text": "Un rien peut tout changer de James Clear — le système le plus clair pour changer par l'identité plutôt que par la volonté. Les petites améliorations de 1 % finissent par tout transformer." } },
+      { "@type": "Question", "name": "Combien de temps faut-il pour installer une habitude ?", "acceptedAnswer": { "@type": "Answer", "text": "Oubliez le mythe des 21 jours : les recherches parlent de 18 à 254 jours selon l'habitude et la personne. Ce qui compte n'est pas la durée mais la régularité — ne jamais rater deux jours d'affilée." } },
+      { "@type": "Question", "name": "Comment rester discipliné quand la motivation disparaît ?", "acceptedAnswer": { "@type": "Answer", "text": "En rendant le comportement évident et facile : un déclencheur clair, une version à deux minutes, et un environnement qui pousse à l'action. La discipline est un système, pas un effort héroïque." } }
     ]
   })} />
   <script type="application/ld+json" set:html={JSON.stringify({
@@ -58,30 +59,30 @@ const description = "Les meilleurs livres pour construire des habitudes durables
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
       { "@type": "ListItem", "position": 2, "name": "L'Étagère à Livres", "item": "https://the-motivahub.com/fr/books/" },
-      { "@type": "ListItem", "position": 3, "name": "Best Habit Books", "item": "https://the-motivahub.com/fr/best/habit-books/" }
+      { "@type": "ListItem", "position": 3, "name": "Meilleurs livres sur les habitudes", "item": "https://the-motivahub.com/fr/best/habit-books/" }
     ]
   })} />
 
   <section class="page-head">
     <div class="container">
-      <p class="kicker" data-i18n="habitBooksKicker">The Bookstand · Best Of</p>
-      <h1 data-i18n-html="habitBooksTitle">Best Books on <em>Habits & Discipline</em></h1>
-      <p data-i18n="habitBooksSubtitle">The systems that outlast motivation — how to make small acts compound into an unrecognisable life.</p>
+      <p class="kicker" data-i18n="habitBooksKicker">L'Étagère · Sélection</p>
+      <h1 data-i18n-html="habitBooksTitle">Les meilleurs livres sur les <em>habitudes et la discipline</em></h1>
+      <p data-i18n="habitBooksSubtitle">Les systèmes qui durent plus longtemps que la motivation — comment de petits actes se cumulent en une vie méconnaissable.</p>
     </div>
   </section>
 
   <section class="feed">
     <div class="container">
       <div class="affiliate-disclosure">
-        <p><strong data-i18n="habitAffiliateHeading">Divulgation Affiliate :</strong> <span data-i18n="habitAffiliateText">En tant qu'Associé Amazon, nous gagnons des commissions sur les achats éligibles made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <Link href="/fr/affiliate-disclosure/" data-i18n="habitAffiliateLink">Lire notre politique de divulgation complète →</a></p>
+        <p><strong data-i18n="habitAffiliateHeading">Divulgation affiliate :</strong> <span data-i18n="habitAffiliateText">En tant qu'Associé Amazon, nous percevons une commission sur les achats éligibles effectués via les liens de cette page. Le prix que vous payez reste identique. Nous ne recommandons que des livres lus par nous-mêmes et qui nous ont vraiment servi — jamais des emplacements payés.</span> <Link href="/fr/affiliate-disclosure/" data-i18n="habitAffiliateLink">Lire notre politique de divulgation complète →</Link></p>
       </div>
       <AffiliateBanner variant="callout" lang="fr" />
 
       <div class="intro-block">
-        <h2 data-i18n="habitWhyStack">Why habit books stack</h2>
-        <p data-i18n="habitWhyStackP1">These books are not interchangeable. Atomic Habits gives you the design framework. Can't Hurt Me gives you the accountability standard. The Discipline Daily gives you the daily execution layer. Read them in that order.</p>
-        <p data-i18n-html="habitWhyStackP2">If you want to test one habit before buying the books, read our <Link href="/fr/journal/two-minute-rule-guide/" data-i18n="habitTwoMinLink">2-Minute Rule guide</a> and the <Link href="/fr/journal/identity-based-habits-90-day-test/" data-i18n="habit90DayLink">90-day identity test</a>. For the full system, see the <Link href="/fr/guides/atomic-habits-ultimate-guide/" data-i18n="habitAtomicGuideLink">Atomic Habits ultimate guide</a>.</p>
-        <p data-i18n-html="habitBrowseFull">Browse the full collection: <Link href="/fr/best/books/" data-i18n="habitBestBooksLink">best self-help books</a>, <Link href="/fr/best/focus-books/" data-i18n="habitBestFocusLink">best focus books</a>, and <Link href="/fr/best/stoicism-books/" data-i18n="habitBestStoicismLink">best stoicism books</a>.</p>
+        <h2 data-i18n="habitWhyStack">Pourquoi les livres sur les habitudes se complètent</h2>
+        <p data-i18n="habitWhyStackP1">Ces livres ne sont pas interchangeables. Un rien peut tout changer vous donne la méthode de conception. Can't Hurt Me vous donne le niveau d'exigence. The Discipline Daily vous donne l'exécution quotidienne. Lisez-les dans cet ordre.</p>
+        <p data-i18n-html="habitWhyStackP2">Si vous voulez tester une habitude avant d'acheter quoi que ce soit, lisez notre <Link href="/fr/journal/two-minute-rule-guide/" data-i18n="habitTwoMinLink">guide de la règle des 2 minutes</Link> et le <Link href="/fr/journal/identity-based-habits-90-day-test/" data-i18n="habit90DayLink">test d'identité sur 90 jours</Link>. Pour le système complet, voir le <Link href="/fr/guides/atomic-habits-ultimate-guide/" data-i18n="habitAtomicGuideLink">guide ultime Atomic Habits</Link>.</p>
+        <p data-i18n-html="habitBrowseFull">Parcourir toute la sélection : les <Link href="/fr/best/books/" data-i18n="habitBestBooksLink">meilleurs livres de développement personnel</Link>, les <Link href="/fr/best/focus-books/" data-i18n="habitBestFocusLink">meilleurs livres sur la concentration</Link> et les <Link href="/fr/best/stoicism-books/" data-i18n="habitBestStoicismLink">meilleurs livres sur le stoïcisme</Link>.</p>
       </div>
 
       <div class="book-grid">
@@ -91,6 +92,22 @@ const description = "Les meilleurs livres pour construire des habitudes durables
             <BookCard book={book} />
           </div>
         ))}
+      </div>
+
+      <div class="faq-block">
+        <h2>Questions fréquentes</h2>
+        <details>
+          <summary>Quel est le meilleur livre pour créer de bonnes habitudes ?</summary>
+          <p>Un rien peut tout changer de James Clear — c'est le système le plus clair pour changer par l'identité plutôt que par la volonté. Les petites améliorations de 1 % finissent par tout transformer.</p>
+        </details>
+        <details>
+          <summary>Combien de temps faut-il pour installer une habitude ?</summary>
+          <p>Oubliez le mythe des 21 jours. Les recherches parlent de 18 à 254 jours selon l'habitude et la personne. Ce qui compte n'est pas la durée mais la régularité : ne jamais rater deux jours d'affilée.</p>
+        </details>
+        <details>
+          <summary>Comment rester discipliné quand la motivation disparaît ?</summary>
+          <p>En rendant le comportement évident et facile : un déclencheur clair, une version à deux minutes, et un environnement qui pousse à l'action. La discipline est un système, pas un effort héroïque.</p>
+        </details>
       </div>
 
       <AffiliateBanner variant="footer" lang="fr" />
@@ -153,5 +170,47 @@ const description = "Les meilleurs livres pour construire des habitudes durables
   .intro-block strong {
     color: var(--gold, #c8a04a);
     font-weight: 600;
+  }
+
+  .faq-block {
+    max-width: 720px;
+    margin: 64px auto 0;
+    padding: 32px 28px;
+    border: 1px solid var(--line, #e5e5e5);
+    border-radius: 12px;
+    background: var(--white, #fff);
+  }
+  .faq-block h2 {
+    font-family: var(--serif, Georgia, serif);
+    font-size: 22px;
+    margin: 0 0 20px;
+  }
+  .faq-block details {
+    margin-bottom: 12px;
+    border-bottom: 1px solid var(--line, #e5e5e5);
+    padding-bottom: 12px;
+  }
+  .faq-block summary {
+    cursor: pointer;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--ink, #1a1a1a);
+    padding: 8px 0;
+    list-style: none;
+  }
+  .faq-block summary::-webkit-details-marker { display: none; }
+  .faq-block summary::before {
+    content: "▸ ";
+    color: var(--gold, #c8a04a);
+    margin-right: 8px;
+  }
+  .faq-block details[open] summary::before { content: "▾ "; }
+  .faq-block p {
+    margin: 12px 0 0 24px;
+    font-family: var(--sans, system-ui, sans-serif);
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--muted, #666);
   }
 </style>

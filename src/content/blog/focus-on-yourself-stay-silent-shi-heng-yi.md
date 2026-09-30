@@ -1,7 +1,9 @@
 ---
 title: "Focus on Yourself and Stay Silent — The Shi Heng Yi Lesson (2026)"
+seoTitle: "Focus on Yourself and Stay Silent — Shi Heng Yi"
 description: "Why silence is your superpower. Shi Heng Yi's Shaolin teaching on focusing on yourself, stopping the noise, and building inner strength through discipline."
 titleFr: "Concentre-toi sur Toi et Reste Silencieux — La Leçon Shaolin (2026)"
+seoTitleFr: "Reste concentré, reste silencieux : leçon Shaolin"
 descriptionFr: "Pourquoi le silence est votre superpouvoir. L'enseignement de Shi Heng Yi sur la concentration, la discipline intérieure et la force tranquille."
 pubDate: 2026-08-22
 updatedDate: 2026-09-21

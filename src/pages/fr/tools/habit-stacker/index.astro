@@ -49,9 +49,9 @@ const newHabits = [
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "What is habit stacking?", "acceptedAnswer": { "@type": "Answer", "text": "Habit stacking is James Clear's method: link a new habit to an existing one using the formula 'After [CURRENT], I will [NEW].' The current habit becomes the automatic trigger for the new one." } },
-      { "@type": "Question", "name": "How long does it take to build a habit stack?", "acceptedAnswer": { "@type": "Answer", "text": "On average, 66 days for a behavior to feel automatic. Some people take 21 days, others 200+. The 2-minute version usually sticks in 14-21 days." } },
-      { "@type": "Question", "name": "Can I stack more than one new habit on a current habit?", "acceptedAnswer": { "@type": "Answer", "text": "Yes — but only after the first stack is automatic. Don't layer until each piece is reliable. One stack at a time is the rule." } }
+      { "@type": "Question", "name": "Qu'est-ce que l'empilement d'habitudes ?", "acceptedAnswer": { "@type": "Answer", "text": "C'est la méthode de James Clear : greffer une nouvelle habitude sur une habitude déjà installée grâce à la formule « Après [ACTUEL], je fais [NOUVEAU] ». L'habitude existante devient le déclencheur automatique de la nouvelle." } },
+      { "@type": "Question", "name": "Combien de temps pour installer une chaîne d'habitudes ?", "acceptedAnswer": { "@type": "Answer", "text": "En moyenne 66 jours pour qu'un comportement devienne automatique. Certains mettent 21 jours, d'autres plus de 200. La version en 2 minutes s'ancre souvent en 14 à 21 jours." } },
+      { "@type": "Question", "name": "Puis-je empiler plusieurs nouvelles habitudes sur une seule ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, mais seulement quand la première chaîne est devenue automatique. N'ajoutez pas de couche tant que chaque maillon n'est pas fiable. Une chaîne à la fois est la règle." } }
     ]
   })} />
 
@@ -137,14 +137,28 @@ const newHabits = [
 
   <section class="hs-faq">
     <div class="container">
-      <h2 data-i18n="hsFaqTitle">Why habit stacking works</h2>
-      <p data-i18n="hsFaqP1">Most people try to build new habits from nothing. They rely on willpower and motivation — both temporary. Habit stacking works because it the an already-cemented neural pathway. Your brain has thousands of automatic behaviors. By chaining your new habit onto an existing one, you get free momentum.</p>
-      <p data-i18n-html="hsFaqP2">The formula: <em>"After [CURRENT], I will [NEW]."</em> Specific, immediate, no thinking required. This is the same principle every athlete, surgeon, and CEO uses — they don't invent new cues, they reuse existing ones.</p>
-      <p data-i18n="hsFaqP3">You can start using this method right now. The tool above gives you the structure. The discipline is in showing up for 30 days.</p>
+      <h2 data-i18n="hsFaqTitle">Pourquoi l'empilement d'habitudes fonctionne</h2>
+      <p data-i18n="hsFaqP1">La plupart des gens essaient de construire de nouvelles habitudes à partir de rien. Ils s'appuient sur la volonté et la motivation — toutes deux temporaires. L'empilement d'habitudes fonctionne parce qu'il s'appuie sur une voie neuronale déjà consolidée. Votre cerveau compte des milliers de comportements automatiques. En enchaînant votre nouvelle habitude sur une existante, vous gagnez de l'élan gratuitement.</p>
+      <p data-i18n-html="hsFaqP2">La formule : <em>« Après [ACTUEL], je fais [NOUVEAU]. »</em> Spécifique, immédiat, aucune réflexion nécessaire. C'est le même principe qu'utilisent chaque athlète, chirurgien et PDG — ils n'inventent pas de nouveaux déclencheurs, ils réutilisent ceux qui existent.</p>
+      <p data-i18n="hsFaqP3">Vous pouvez utiliser cette méthode dès maintenant. L'outil ci-dessus vous donne la structure. La discipline, c'est d'être présent pendant 30 jours.</p>
+      <div class="hs-faq-details">
+        <details>
+          <summary>Qu'est-ce que l'empilement d'habitudes ?</summary>
+          <p>C'est la méthode de James Clear : greffer une nouvelle habitude sur une habitude déjà installée grâce à la formule « Après [ACTUEL], je fais [NOUVEAU] ». L'habitude existante devient le déclencheur automatique de la nouvelle.</p>
+        </details>
+        <details>
+          <summary>Combien de temps pour installer une chaîne d'habitudes ?</summary>
+          <p>En moyenne 66 jours pour qu'un comportement devienne automatique. Certains mettent 21 jours, d'autres plus de 200. La version en 2 minutes s'ancre souvent en 14 à 21 jours.</p>
+        </details>
+        <details>
+          <summary>Puis-je empiler plusieurs nouvelles habitudes sur une seule ?</summary>
+          <p>Oui, mais seulement quand la première chaîne est devenue automatique. N'ajoutez pas de couche tant que chaque maillon n'est pas fiable. Une chaîne à la fois est la règle.</p>
+        </details>
+      </div>
     </div>
   </section>
 
-  <NewsletterSection variant="default" showLeadMagnet={true} title="Get your stack tracked daily in your inbox." buttonText="Send My Plan" />
+  <NewsletterSection variant="default" showLeadMagnet={true} title="Recevez votre chaîne d'habitudes suivie chaque jour." buttonText="Envoyer mon plan" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -318,6 +332,10 @@ const newHabits = [
   .btn-pill-secondary { background: transparent; color: var(--ink); border: 1px solid var(--line); }
 
   .hs-faq { padding: 64px 0; background: var(--cream); text-align: center; }
+  .hs-faq-details { max-width: 720px; margin: 32px auto 0; text-align: left; }
+  .hs-faq-details details { border-bottom: 1px solid rgba(0,0,0,0.1); padding: 14px 0; }
+  .hs-faq-details summary { font-family: var(--serif); font-size: 18px; cursor: pointer; color: var(--ink); }
+  .hs-faq-details details p { margin: 12px 0 0; }
   .hs-faq h2 { font-family: var(--serif); font-size: 28px; margin: 0 0 24px; color: var(--ink); }
   .hs-faq p { max-width: 720px; margin: 0 auto 16px; line-height: 1.7; color: var(--ink); font-size: 16px; }
 </style>

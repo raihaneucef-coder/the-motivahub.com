@@ -2,6 +2,7 @@
 title: "The 5 Mental Habits of Highly Performant People"
 description: "Discover the daily mental routines that separate top performers from everyone else. Practical habits you can start today."
 titleFr: "Les 5 habitudes mentales des personnes très performantes"
+seoTitleFr: "5 habitudes mentales des très performants"
 descriptionFr: "Découvre les routines mentales quotidiennes qui séparent les meilleurs des autres. Des habitudes pratiques que tu peux commencer aujourd'hui."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21

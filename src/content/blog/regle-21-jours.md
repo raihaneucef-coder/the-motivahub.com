@@ -1,7 +1,9 @@
 ---
 title: "The 21-Day Myth: How Long It Really Takes to Build a Habit"
+seoTitle: "The 21-Day Myth: Real Time to Build a Habit"
 description: "Forget the 21-day rule. Research shows habit formation takes 66 days on average, with a range of 18-254 days depending on complexity. Here is the real timeline and how to stick with it."
 titleFr: "La Règle des 21 Jours : Construire une Habitude en 3 Semaines"
+seoTitleFr: "Le mythe des 21 jours : vrai délai d'une habitude"
 descriptionFr: "La règle des 21 jours est populaire pour une raison. Découvrez comment 3 semaines de pratique peuvent ancrer une habitude durable."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21

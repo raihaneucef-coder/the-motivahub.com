@@ -1,7 +1,9 @@
 ---
 title: "Run Your Own Race: The Discipline of Pacing"
+seoTitle: "Run Your Own Race: The Discipline of Pacing"
 description: "The fastest way to lose a race is to run someone else's. Learn to hold your pace when everyone sprints."
 titleFr: "Courez Votre Propre Course : Ne Comparez pas votre Chapitre 1 au Chapitre 20"
+seoTitleFr: "Courir sa propre course : arrêter de se comparer"
 descriptionFr: "Courez votre propre course. La comparaison est le voleur de la joie. Concentrez-vous sur votre propre progression."
 pubDate: 2026-08-18
 updatedDate: 2026-09-21

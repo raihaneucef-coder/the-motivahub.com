@@ -1,7 +1,9 @@
 ---
 title: "Social Media as Entertainment: How to Enjoy It Without Losing Your Mind"
+seoTitle: "Social Media as Entertainment, Without the Cost"
 description: "Social media is not the enemy — your relationship with it is. Learn how to enjoy social media without letting it control your life."
 titleFr: "Réseaux Sociaux et Divertissement : Trouver l'Équilibre"
+seoTitleFr: "Réseaux sociaux et écran : trouver l'équilibre"
 descriptionFr: "Les réseaux sociaux peuvent être un divertissement addictif. Apprenez à trouver l'équilibre entre connexion et distraction."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

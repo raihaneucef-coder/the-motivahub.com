@@ -1,7 +1,9 @@
 ---
 title: "Process vs Outcome Goals: Why Process-Oriented People Win"
+seoTitle: "Process vs Outcome Goals: Why Process Wins"
 description: "Outcome goals set the direction; process goals produce the results. The difference — and how to become process-oriented — with a conversion method."
 titleFr: "Processus vs Résultat : Pourquoi le Voyage Compte Plus"
+seoTitleFr: "Processus vs résultat : le voyage compte"
 descriptionFr: "Se concentrer sur le processus plutôt que sur le résultat change tout. Découvrez pourquoi le voyage est plus important que la destination."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

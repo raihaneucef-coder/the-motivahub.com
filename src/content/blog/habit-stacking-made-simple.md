@@ -1,7 +1,9 @@
 ---
 title: "Habit Stacking: Link New Habits to Old Ones"
+seoTitle: "Habit Stacking: Link New Habits to Old Ones"
 description: "The easiest way to build a new habit is to tie it to one you already do. Stack it, don't start it from scratch."
 titleFr: "L'empilement d'habitudes : relie les nouvelles habitudes aux anciennes"
+seoTitleFr: "L'empilement d'habitudes : lier le neuf à l'ancien"
 descriptionFr: "La façon la plus simple de construire une nouvelle habitude est de la lier à une que tu fais déjà. Empile-la, ne la commence pas from scratch."
 pubDate: 2026-08-22
 updatedDate: 2026-09-21

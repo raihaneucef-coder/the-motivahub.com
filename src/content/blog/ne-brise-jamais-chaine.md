@@ -1,7 +1,9 @@
 ---
 title: "Never Break the Chain: The Simple Rule That Changes Everything"
+seoTitle: "Never Break the Chain: A Simple Consistency Rule"
 description: "Jerry Seinfeld's productivity secret revealed. Learn why never breaking your habit chain is the most powerful strategy for lasting change. The 2-day rule makes it practical."
 titleFr: "Ne brise jamais la chaîne : la règle simple qui change tout"
+seoTitleFr: "Ne brise jamais la chaîne : la règle simple"
 descriptionFr: "Le secret de productivité de Jerry Seinfeld révélé. Découvre pourquoi ne jamais briser ta chaîne d'habitudes est la stratégie la plus puissante pour un changement durable. La règle des 2 jours la rend pratique."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21

@@ -1,7 +1,9 @@
 ---
 title: "Morning Routines of the World's Healthiest People"
+seoTitle: "Morning Routines of the Healthiest People"
 description: "The world's healthiest people share common morning habits. Learn the routines that transform your energy, focus, and health from day one."
 titleFr: "Routine Matinale Santé : Démarrer la Journée avec Énergie"
+seoTitleFr: "Routine matinale santé : bien démarrer la journée"
 descriptionFr: "Une routine matinale santé est essentielle pour votre bien-être. Découvrez les habitudes matinales qui transforment votre énergie."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21

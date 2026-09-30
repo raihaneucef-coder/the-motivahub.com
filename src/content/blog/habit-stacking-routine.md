@@ -1,7 +1,9 @@
 ---
 title: "Habit Stacking: The Easiest Way to Build New Routines"
+seoTitle: "Habit Stacking: The Easiest Way to Build Routines"
 description: "Habit stacking with the exact anchor formula, its Atomic Habits origins, a 30-day test with honest results, and ready-made stacks for mornings, evenings, health and focus."
 titleFr: "L'empilement d'habitudes : la façon la plus simple de construire de nouvelles routines"
+seoTitleFr: "Empilement d'habitudes : bâtir des routines"
 descriptionFr: "L'empilement d'habitudes avec la formule exacte, ses origines dans Atomic Habits, un test de 30 jours avec résultats honnêtes, et des piles prêtes à l'emploi."
 pubDate: 2026-08-24
 updatedDate: 2026-09-25

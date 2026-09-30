@@ -1,7 +1,9 @@
 ---
 title: "Failure Is Your Best Teacher: Why Losing Is the Real Winning"
+seoTitle: "Failure Is Your Best Teacher: Why Losing Wins"
 description: "Failure is your best teacher — if you extract the lesson. The 5-step debrief method, documented famous failures with real numbers, and who actually said the quote."
 titleFr: "L'échec est ton meilleur professeur : pourquoi perdre, c'est vraiment gagner"
+seoTitleFr: "L'échec comme meilleur professeur"
 descriptionFr: "L'échec est ton meilleur professeur — si tu extrais la leçon. La méthode de débrief en 5 étapes, des échecs célèbres documentés avec des chiffres réels, et qui a vraiment dit la citation."
 pubDate: 2026-08-24
 updatedDate: 2026-09-25

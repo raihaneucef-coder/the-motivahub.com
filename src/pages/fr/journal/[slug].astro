@@ -204,11 +204,12 @@ const relatedPosts = related.concat(fallback).slice(0, 4);
 
 const postLang = currentLocale;
 const displayTitle = currentLocale === "fr" && post.data.titleFr ? post.data.titleFr : post.data.title;
+const seoTitle = post.data.seoTitleFr || displayTitle;
 const displayDesc = currentLocale === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
 const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(post.data.topic) || post.data.topic.toLowerCase() === "books";
 ---
 
-<Layout title={`${displayTitle} — Motiva Hub`} description={displayDesc} image={post.data.image} ogType="article" lang={postLang}>
+<Layout title={`${seoTitle} — Motiva Hub`} description={displayDesc} image={post.data.image} ogType="article" lang={postLang}>
   <meta slot="head" property="article:published_time" content={post.data.pubDate.toISOString()} />
   <meta slot="head" property="article:modified_time" content={(post.data.updatedDate || post.data.pubDate).toISOString()} />
   <meta slot="head" name="keywords" content={(post.data.keywords || []).join(", ")} />

@@ -1,7 +1,9 @@
 ---
 title: "Can't Hurt Me Book Review (2026): 5 Honest Lessons From 3 Reads"
+seoTitle: "Can't Hurt Me Book Review: 5 Honest Lessons"
 description: "I read Can't Hurt Me three times in two years. This honest book review separates Goggins' real system from the hype — 5 lessons, a 30-day protocol, and who should skip it."
 titleFr: "Can't Hurt Me : Critique du Livre (2026) — 5 Leçons Après 3 Lectures"
+seoTitleFr: "Can't Hurt Me : critique et 5 leçons clés"
 descriptionFr: "J'ai lu Can't Hurt Me trois fois en deux ans. Cette critique honnête sépare le vrai système de Goggins du mythe — 5 leçons, un protocole de 30 jours, et pour qui ce n'est pas fait."
 pubDate: 2026-09-01
 updatedDate: 2026-09-25

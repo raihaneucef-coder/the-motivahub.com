@@ -1,5 +1,6 @@
 ---
 title: "The Art of Saying No: How to Set Boundaries Without Guilt"
+seoTitle: "The Art of Saying No: Boundaries Without Guilt"
 description: "Every time you say yes to something you do not want, you say no to something you do. Learn the art of setting boundaries."
 titleFr: "L'Art de Dire Non : Guide pour Fixer des Limites"
 descriptionFr: "Découvrez comment dire non sans culpabilité. Un guide complet pour fixer des limites saines dans votre vie personnelle et professionnelle."

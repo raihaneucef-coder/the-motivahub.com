@@ -1,7 +1,9 @@
 ---
 title: "The 40% Rule: I Tested Goggins' Protocol for 30 Days"
+seoTitle: "The 40% Rule: I Tested It for 30 Days"
 description: "I tested Goggins' 40% rule for 30 days and tracked 47 mental walls: 77% of pushes paid off, 10% backfired. The protocol, the science, and when the wall is real."
 titleFr: "La Règle des 40 % : Testée Pendant 30 Jours — Résultats Réels"
+seoTitleFr: "La règle des 40 % : testée 30 jours, résultats réels"
 descriptionFr: "J'ai testé la règle des 40 % de Goggins pendant 30 jours et relevé 47 murs mentaux : 77 % des poussées ont payé, 10 % ont échoué. Le protocole, la science, et quand le mur est réel."
 pubDate: 2026-09-01
 updatedDate: 2026-09-25

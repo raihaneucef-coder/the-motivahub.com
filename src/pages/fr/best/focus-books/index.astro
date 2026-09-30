@@ -39,7 +39,7 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
         "itemListElement": focusBooks.map((b, i) => ({
           "@type": "ListItem",
           "position": i + 1,
-          "name": `${b.title} by ${b.author}`,
+          "name": `${b.title} par ${b.author}`,
           "url": b.affiliateUrl || `https://the-motivahub.com/fr/books/`
         }))
       }
@@ -59,27 +59,27 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
       { "@type": "ListItem", "position": 2, "name": "L'Étagère à Livres", "item": "https://the-motivahub.com/fr/books/" },
-      { "@type": "ListItem", "position": 3, "name": "Best Focus Books", "item": "https://the-motivahub.com/fr/best/focus-books/" }
+      { "@type": "ListItem", "position": 3, "name": "Meilleurs livres sur la concentration", "item": "https://the-motivahub.com/fr/best/focus-books/" }
     ]
   })} />
 
   <section class="page-head">
     <div class="container">
-      <p class="kicker" data-i18n="focusBooksKicker">The Bookstand · Best Of</p>
-      <h1 data-i18n-html="focusBooksTitle">Best Books on <em>Focus & Deep Work</em></h1>
-      <p data-i18n="focusBooksSubtitle">The books that teach attention as a craft — how to do hard things, on purpose, for a long time.</p>
+      <p class="kicker" data-i18n="focusBooksKicker">L'Étagère · Sélection</p>
+      <h1 data-i18n-html="focusBooksTitle">Les meilleurs livres sur la <em>concentration et le deep work</em></h1>
+      <p data-i18n="focusBooksSubtitle">Les livres qui traitent l'attention comme un métier — comment faire des choses difficiles, exprès, longtemps.</p>
     </div>
   </section>
 
   <section class="feed">
     <div class="container">
       <div class="affiliate-disclosure">
-        <p><strong data-i18n="focusAffiliateHeading">Divulgation Affiliate :</strong> <span data-i18n="focusAffiliateText">En tant qu'Associé Amazon, nous gagnons des commissions sur les achats éligibles made through the Amazon links on this page. The price you pay is unchanged. We only recommend books we've personally read and found genuinely valuable — never paid placements.</span> <Link href="/fr/affiliate-disclosure/" data-i18n="focusAffiliateLink">Lire notre politique de divulgation complète →</a></p>
+        <p><strong data-i18n="focusAffiliateHeading">Divulgation affiliate :</strong> <span data-i18n="focusAffiliateText">En tant qu'Associé Amazon, nous percevons une commission sur les achats éligibles effectués via les liens de cette page. Le prix que vous payez reste identique. Nous ne recommandons que des livres lus par nous-mêmes et qui nous ont vraiment servi — jamais des emplacements payés.</span> <Link href="/fr/affiliate-disclosure/" data-i18n="focusAffiliateLink">Lire notre politique de divulgation complète →</Link></p>
       </div>
       <AffiliateBanner variant="callout" lang="fr" />
 
       <div class="intro-block">
-        <h2 data-i18n="focusWhyFail">Why focus books fail</h2>
+        <h2 data-i18n="focusWhyFail">Pourquoi la plupart des livres sur la concentration échouent</h2>
         <p data-i18n="focusWhyFailP1">La plupart des livres sur la concentration expliquent ce qu'est l'attention. Très peu vous donnent un système que vous pouvez appliquer même un mauvais mardi. C'est le filtre derrière cette liste : cinq livres testés personnellement, chacun un protocole de travail pour l'attention, pas un discours motivationnel.</p>
         <p data-i18n="focusReasonLead">Pourquoi ces cinq livres :</p>
         <ul class="book-reasons">
@@ -91,7 +91,7 @@ const description = "Les meilleurs livres sur la concentration, le deep work et 
         </ul>
         <p data-i18n-html="focusWhyFailP2">Si vous voulez un protocole pratique avant d'acheter les livres, lisez notre <Link href="/fr/journal/deep-work-focus/" data-i18n="focusDeepWorkLink">protocole Deep Work</Link> et le <Link href="/fr/journal/identity-based-habits-90-day-test/" data-i18n="focus90DayLink">test d'identité de 90 jours</Link>. Pour une lecture plus courte, le <Link href="/fr/journal/two-minute-rule-guide/" data-i18n="focusTwoMinLink">guide de la Règle des 2 Minutes</Link> est la porte d'entrée.</p>
         <p data-i18n-html="focusFieldReportP">Envie de voir comment l'un de ces livres tient en pratique ? <Link href="/fr/journal/atomic-habits-review/">Notre rapport de terrain sur Atomic Habits</Link> teste le système sur 18 mois.</p>
-        <p data-i18n-html="focusBrowseFull">Browse the full collection: <Link href="/fr/best/books/" data-i18n="focusBestBooksLink">best self-help books</a>, <Link href="/fr/best/habit-books/" data-i18n="focusBestHabitLink">best habit books</a>, and <Link href="/fr/best/stoicism-books/" data-i18n="focusBestStoicismLink">best stoicism books</a>.</p>
+        <p data-i18n-html="focusBrowseFull">Parcourir toute la sélection : les <Link href="/fr/best/books/" data-i18n="focusBestBooksLink">meilleurs livres de développement personnel</Link>, les <Link href="/fr/best/habit-books/" data-i18n="focusBestHabitLink">meilleurs livres sur les habitudes</Link> et les <Link href="/fr/best/stoicism-books/" data-i18n="focusBestStoicismLink">meilleurs livres sur le stoïcisme</Link>.</p>
       </div>
 
       <div class="selection-block">

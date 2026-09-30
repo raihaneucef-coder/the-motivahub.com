@@ -1,7 +1,9 @@
 ---
 title: "Identity-Based Goals: The One Change That Made My Habits Stick"
+seoTitle: "Identity-Based Habits: What Made Them Stick"
 description: "Goal-based habits fail because the goal is external. Identity-based habits stick because you become someone. I tried this for 90 days. Here's the difference, the evidence, and how to apply it tonight."
 titleFr: "Objectifs identitaires : le seul changement qui a fait que mes habitudes tiennent"
+seoTitleFr: "Habitudes identitaires : le test qui les fait tenir"
 descriptionFr: "Les habitudes basées sur des objectifs échouent parce que l'objectif est externe. Les habitudes identitaires tiennent parce que tu deviens quelqu'un. J'ai testé ça pendant 90 jours. Voici la différence, les preuves, et comment l'appliquer ce soir."
 pubDate: 2026-09-05
 updatedDate: 2026-09-21

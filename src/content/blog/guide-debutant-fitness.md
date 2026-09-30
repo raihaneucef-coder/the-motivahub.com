@@ -2,6 +2,7 @@
 title: "The Beginner's Guide to Building a Fitness Habit"
 description: "How to start going to the gym and keep going: the 5-step beginner guide to building a fitness habit — from two 10-minute sessions a week to a routine that lasts, without burnout."
 titleFr: "Le guide du débutant pour construire une habitude de fitness"
+seoTitleFr: "Habitude fitness : le guide du débutant"
 descriptionFr: "Comment commencer la salle de sport et tenir sur la durée : le guide débutant en 5 étapes pour construire une habitude de fitness — de deux séances de 10 minutes par semaine à une routine qui dure, sans épuisement."
 pubDate: 2026-08-24
 updatedDate: 2026-09-25

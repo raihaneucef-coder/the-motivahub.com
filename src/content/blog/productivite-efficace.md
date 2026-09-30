@@ -2,6 +2,7 @@
 title: "How to Be More Productive — Work Smarter, Not Harder"
 description: "Boost your productivity with proven strategies. Learn to manage your time, eliminate distractions, and focus on what truly matters."
 titleFr: "Productivité Efficace : Travailler Moins pour Accomplir Plus"
+seoTitleFr: "Productivité efficace : moins pour mieux"
 descriptionFr: "La productivité efficace ne veut pas dire travailler plus. Découvrez comment travailler moins mais mieux pour atteindre vos objectifs."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

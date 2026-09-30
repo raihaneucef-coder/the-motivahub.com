@@ -2,6 +2,7 @@
 title: "Why Environment Beats Willpower Every Time"
 description: "Stop relying on willpower to build habits. Design your environment for success and make good habits automatic."
 titleFr: "Pourquoi l'environnement bat la volonté à tous les coups"
+seoTitleFr: "Environnement vs volonté : l'environnement gagne"
 descriptionFr: "Arrête de compter sur la volonté pour construire tes habitudes. Conçois ton environnement pour réussir et rends les bonnes habitudes automatiques."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

@@ -232,9 +232,11 @@ const archetypesFr = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "Is this quiz really free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. 100% free. No signup required to see results." } },
-      { "@type": "Question", "name": "How accurate is it?", "acceptedAnswer": { "@type": "Answer", "text": "Built on patterns from coaching 200+ people over8 years. Not clinical, but useful." } },
-      { "@type": "Question", "name": "Will I get a custom plan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Each archetype comes with a custom30-day protocol based on your type." } }
+      { "@type": "Question", "name": "Ce quiz est-il vraiment gratuit ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, 100 % gratuit. Aucune inscription n'est demandée pour voir les résultats. Pas de carte bancaire, pas d'email. Répondez aux 5 questions et obtenez votre archétype." } },
+      { "@type": "Question", "name": "Quelle est sa précision ?", "acceptedAnswer": { "@type": "Answer", "text": "Il s'appuie sur des schémas observés en accompagnant plus de 200 personnes sur 8 ans. Ce n'est pas un outil clinique, mais il est utile : une boussole, pas une carte." } },
+      { "@type": "Question", "name": "Vais-je obtenir un plan personnalisé ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Chaque archétype est accompagné d'un protocole sur mesure de 30 jours, adapté à votre fonctionnement naturel." } },
+      { "@type": "Question", "name": "Mon archétype peut-il changer ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Il évolue selon le contexte, la saison de vie et l'habitude en cours. Repassez le quiz tous les 90 jours." } },
+      { "@type": "Question", "name": "Et si je suis entre deux archétypes ?", "acceptedAnswer": { "@type": "Answer", "text": "C'est normal. La plupart des gens ont un archétype principal et un secondaire. Lisez les deux protocoles et gardez ce qui marche pour vous." } }
     ]
   })} />
 
@@ -349,31 +351,31 @@ const archetypesFr = {
 
   <section class="quiz-faq">
     <div class="container">
-      <h2 data-i18n="quizFaqTitle">FAQ</h2>
+      <h2 data-i18n="quizFaqTitle">Questions fréquentes</h2>
       <details>
-        <summary data-i18n="quizFaq1Q">Is this quiz really free?</summary>
-        <p data-i18n="quizFaq1A">Yes. 100% free. No signup required to see results. No credit card. No email required. Just answer 5 questions and get your archetype.</p>
+        <summary data-i18n="quizFaq1Q">Ce quiz est-il vraiment gratuit ?</summary>
+        <p data-i18n="quizFaq1A">Oui. 100 % gratuit. Aucune inscription requise pour voir les résultats. Pas de carte de crédit, pas d'email. Répondez simplement aux 5 questions et obtenez votre archétype.</p>
       </details>
       <details>
-        <summary data-i18n="quizFaq2Q">How accurate is it?</summary>
-        <p data-i18n="quizFaq2A">Built on patterns from coaching 200+ people over 8 years. Not clinical, but useful. Think of it as a compass, not a map. It points you in the right direction — you still have to walk.</p>
+        <summary data-i18n="quizFaq2Q">Quelle est sa précision ?</summary>
+        <p data-i18n="quizFaq2A">Construit à partir de schémas observés en accompagnant plus de 200 personnes sur 8 ans. Ce n'est pas de la psychologie clinique, mais c'est utile. Voyez-le comme une boussole, pas une carte. Il indique la bonne direction — à vous de marcher.</p>
       </details>
       <details>
-        <summary data-i18n="quizFaq3Q">Will I get a custom plan?</summary>
-        <p data-i18n="quizFaq3A">Yes. Each archetype comes with a custom 30-day protocol based on your type. The protocol is specific, actionable, and designed for your natural wiring.</p>
+        <summary data-i18n="quizFaq3Q">Vais-je obtenir un plan personnalisé ?</summary>
+        <p data-i18n="quizFaq3A">Oui. Chaque archétype est accompagné d'un protocole personnalisé de 30 jours basé sur votre type. Le protocole est précis, actionnable et conçu pour votre fonctionnement naturel.</p>
       </details>
       <details>
-        <summary data-i18n="quizFaq4Q">Can my archetype change?</summary>
-        <p data-i18n="quizFaq4A">Yes. Your archetype can shift based on context, season of life, and the habit you're building. A Sprinter in fitness can be a Marathoner in writing. Retake the quiz every 90 days.</p>
+        <summary data-i18n="quizFaq4Q">Mon archétype peut-il changer ?</summary>
+        <p data-i18n="quizFaq4A">Oui. Votre archétype peut évoluer selon le contexte, la saison de vie et l'habitude que vous construisez. Un Sprinter côté fitness peut être Marathonien côté écriture. Repassez le quiz tous les 90 jours.</p>
       </details>
       <details>
-        <summary data-i18n="quizFaq5Q">What if I'm between two archetypes?</summary>
-        <p data-i18n="quizFaq5A">That's normal. Most people have a primary and a secondary. Read both protocols. Blend what works. The goal is not to fit a box — it's to build a system that serves you.</p>
+        <summary data-i18n="quizFaq5Q">Et si je suis entre deux archétypes ?</summary>
+        <p data-i18n="quizFaq5A">C'est normal. La plupart des gens ont un archétype principal et un secondaire. Lisez les deux protocoles, mélangez ce qui fonctionne. Le but n'est pas de rentrer dans une case — c'est de bâtir un système qui vous sert.</p>
       </details>
     </div>
   </section>
 
-  <NewsletterSection variant="default" showLeadMagnet={true} title="Get your archetype's 30-day protocol by email." buttonText="Send My Protocol" />
+  <NewsletterSection variant="default" showLeadMagnet={true} title="Recevez le protocole de 30 jours de votre archétype par email." buttonText="Envoyer mon protocole" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",

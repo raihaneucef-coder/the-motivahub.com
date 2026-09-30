@@ -1,7 +1,9 @@
 ---
 title: "The Secret of People Who Always Succeed — It Is Not What You Think"
+seoTitle: "The Secret of People Who Always Succeed"
 description: "Discover the hidden pattern behind consistent success. It is not talent, luck, or connections — it is something far more simple and powerful."
 titleFr: "Le Secret de la Réussite : Ce que les Gens Performants Font Différemment"
+seoTitleFr: "Le secret des gens qui réussissent toujours"
 descriptionFr: "Le secret de la réussite n'est pas un secret. Découvrez les habitudes et les mindset shifts des gens performants."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

@@ -1,7 +1,9 @@
 ---
 title: "Meal Prep Sunday: How to Eat Healthy All Week in 2 Hours"
+seoTitle: "Meal Prep Sunday: Eat Healthy All Week in 2 Hours"
 description: "Meal prepping saves time, money, and willpower. Learn the simple system that makes healthy eating effortless."
 titleFr: "Meal Prep dimanche : comment manger sain toute la semaine en 2 heures"
+seoTitleFr: "Meal prep du dimanche : manger sain 2 h par semaine"
 descriptionFr: "Le meal prep te fait gagner du temps, de l'argent et de la volonté. Découvre le système simple qui rend l'alimentation saine effortless."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

@@ -1,7 +1,9 @@
 ---
 title: "Atomic Habits Book Review (2026): What 4 Reads in 18 Months Actually Changed"
+seoTitle: "Atomic Habits Book Review: 4 Reads, 18 Months"
 description: "An honest Atomic Habits book review: what four reads over 18 months changed in writing, running and identity — with real numbers, academic sources, and who should skip it."
 titleFr: "Revue Atomic Habits : Rapport de Terrain en 4 Lectures"
+seoTitleFr: "Atomic Habits : rapport de terrain en 4 lectures"
 descriptionFr: "Analyse complète du livre Atomic Habits de James Clear. Les 4 lois, la science, le protocole de 30 jours — et ce que la plupart des critiques laissent de côté."
 pubDate: 2026-08-13
 updatedDate: 2026-09-25

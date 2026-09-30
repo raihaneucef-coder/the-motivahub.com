@@ -1,5 +1,6 @@
 ---
 title: "Body Votes First — The Hidden Election That Runs Your Life"
+seoTitle: "Body Votes First: The Hidden Election You Miss"
 description: "Your body votes before your mind does. Learn why physical training is not vanity — it is the maintenance of the instrument that does everything else."
 titleFr: "Le Corps Vote d'Abord : Écouter Votre Corps"
 descriptionFr: "Votre corps connaît la vérité avant votre esprit. Apprenez à écouter les signaux de votre corps pour prendre de meilleures décisions."

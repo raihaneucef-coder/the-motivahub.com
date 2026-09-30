@@ -4,17 +4,17 @@ import AuthorBio from "../../../../components/AuthorBio.astro";
 import Markdown from "../../../../components/Markdown.astro";
 import BookCTA from "../../../../components/BookCTA.astro";
 
-const title = "Le Guide Ultime Atomic Habits — Ce Qui Fonctionne Vraiment en 2026";
+const title = "Guide Atomic Habits : ce qui marche en 2026";
 const description = "Atomic Habits expliqués : les 4 lois (Évident, Attirant, Facile, Satisfaisant), la science de la boucle des habitudes et un protocole de 30 jours — testés sur le terrain pendant 18 mois. Ce que la plupart des résumés laissent de côté.";
 const wordCount = 2872;
 const topic = "Habits";
 const canonical = "https://the-motivahub.com/fr/guides/atomic-habits-ultimate-guide/";
 
 const faq = [
-  { q: "Does the Atomic Habits 4-step system actually work in 2026?", a: "Yes. James Clear's framework (Cue, Craving, Response, Reward) is based on decades of behavioral research. The framework is timeless — what changes is which tools you use to apply each step. We break down the modern adaptations below." },
-  { q: "How long does it really take to build a habit?", a: "Research shows habits take between 18 and 254 days to fully form (Lally et al., 2009) — with an average of 66 days for a behavior to feel automatic. Forget 21 days. Focus on consistency, not speed." },
-  { q: "What's the single most important habit to start with?", a: "The one you'll actually do daily. Start with a 2-minute version of it. Identity precedes action — become the kind of person who does this thing, and the consistency will follow." },
-  { q: "What if I keep failing at a habit?", a: "Failing doesn't break the system; it teaches you the system. Adjust the cue, simplify the action, make the reward immediate. Then restart. Most failed habits weren't designed wrong — they were designed too big." },
+  { q: "Le système en 4 étapes d'Atomic Habits fonctionne-t-il vraiment en 2026 ?", a: "Oui. Le cadre de James Clear (Signal, Envie, Réponse, Récompense) repose sur des décennies de recherche comportementale. Le cadre est intemporel — ce qui change, ce sont les outils pour appliquer chaque étape. On détaille les adaptations modernes plus bas." },
+  { q: "Combien de temps faut-il vraiment pour installer une habitude ?", a: "La recherche situe la formation d'une habitude entre 18 et 254 jours (Lally et al., 2009), avec une moyenne de 66 jours pour qu'un comportement devienne automatique. Oubliez les 21 jours. Visez la régularité, pas la vitesse." },
+  { q: "Quelle est l'habitude unique la plus importante pour commencer ?", a: "Celle que vous ferez vraiment chaque jour. Commencez par sa version de 2 minutes. L'identité précède l'action — devenez le genre de personne qui fait cette chose, et la régularité suivra." },
+  { q: "Et si j'échoue sans arrêt à une habitude ?", a: "L'échec ne casse pas le système : il vous l'enseigne. Ajustez le signal, simplifiez l'action, rendez la récompense immédiate. Puis repartez. La plupart des habitudes ratées n'étaient pas mal conçues — elles étaient conçues trop grosses." },
   { q: "Quelles sont les 4 lois de Atomic Habits ?", a: "Rends-le évident, rends-le attirant, rends-le facile, rends-le satisfaisant. Les trois premières conçoivent le signal, l'envie et la réponse ; la quatrième ferme la boucle par la récompense immédiate. Inversées, ces mêmes lois servent à briser une mauvaise habitude." },
 ];
 
@@ -430,4 +430,24 @@ Deux outils gratuits qui mettent ce guide en pratique en moins de 60 secondes :
 
     `} /></div>
   </article>
+
+  <section class="guide-faq">
+    <div class="container">
+      <h2>Questions fréquentes</h2>
+      {faq.map((item) => (
+        <details>
+          <summary>{item.q}</summary>
+          <p>{item.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
 </Layout>
+
+<style>
+  .guide-faq { max-width: 760px; margin: 0 auto; padding: 24px 20px 8px; }
+  .guide-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 26px; margin: 0 0 16px; }
+  .guide-faq details { border-bottom: 1px solid rgba(0,0,0,0.1); padding: 14px 0; }
+  .guide-faq summary { font-weight: 600; cursor: pointer; }
+  .guide-faq details p { margin: 12px 0 0; line-height: 1.7; }
+</style>

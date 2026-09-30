@@ -1,5 +1,6 @@
 ---
 title: "Reverse Engineering: How to Work Backward from Your Goal"
+seoTitle: "Reverse Engineering: Work Backward from Your Goal"
 description: "The most effective way to achieve any goal is to start at the end and work backward. Learn the reverse engineering method for goal achievement."
 titleFr: "Rétro-ingénierie des Objectifs : Partir de la Fin"
 descriptionFr: "La rétro-ingénierie des objectifs est une approche puissante. Commencez par la fin et travaillez en arrière pour créer un plan clair."

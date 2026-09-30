@@ -1,7 +1,9 @@
 ---
 title: "Eat the Frog: Why You Should Do the Hard Thing First"
+seoTitle: "Eat the Frog: Why the Hard Thing Comes First"
 description: "Mark Twain's productivity secret: eat the frog first thing in the morning. Learn why tackling your hardest task first changes everything."
 titleFr: "Mange la grenouille : pourquoi il faut attaquer la tâche la plus difficile en premier"
+seoTitleFr: "Mange la grenouille : faire le plus dur en premier"
 descriptionFr: "Le secret de productivité de Mark Twain : mange la grenouille dès le matin. Découvre pourquoi commencer par la tâche la plus difficile change tout."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

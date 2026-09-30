@@ -1,5 +1,6 @@
 ---
 title: "The 1% Rule: How to Improve Yourself Every Single Day"
+seoTitle: "The 1% Rule: Improve a Little Every Day"
 description: "Improving by just 1% per day makes you 37 times better in one year. The math is simple. The execution requires discipline."
 titleFr: "La Règle du 1% : Améliorer de 1% Chaque Jour"
 descriptionFr: "La règle du 1% est simple mais puissante. Améliorer de 1% chaque jour conduit à des résultats extraordinaires sur une année."

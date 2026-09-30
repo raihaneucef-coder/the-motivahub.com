@@ -1,7 +1,9 @@
 ---
 title: "Discipline Beats Motivation — Every Single Time"
+seoTitle: "Discipline Beats Motivation — Every Time"
 description: "Motivation is a visitor. Discipline is a resident. Learn why relying on motivation guarantees failure and how to build discipline instead."
 titleFr: "La Discipline Bat la Motivation : Pourquoi les Systèmes Marchent"
+seoTitleFr: "Discipline bat motivation : les systèmes gagnent"
 descriptionFr: "La motivation est émotionnelle, la discipline est systémique. Découvrez pourquoi la discipline est la clé d'un succès durable."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21
