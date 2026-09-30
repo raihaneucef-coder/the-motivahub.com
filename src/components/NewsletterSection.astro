@@ -120,6 +120,10 @@ const magnets = [
             msgEl.style.color = '#c8a04a';
           }
           form.reset();
+          // Fire GA4 conversion event
+          if (typeof window.gtag === 'function') {
+            try { window.gtag('event', 'newsletter_signup', { lead_magnet: magnet, page: window.location.pathname }); } catch(e){}
+          }
         } else throw new Error('failed');
       } catch (err) {
         if (msgEl) msgEl.textContent = t.newsletterError || '⚠️ Something went wrong. Try email us directly.';
