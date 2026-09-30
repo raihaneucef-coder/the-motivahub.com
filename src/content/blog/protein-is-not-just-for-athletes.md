@@ -1,7 +1,9 @@
 ---
 title: "Protein Is Not Just for Athletes"
+seoTitle: "Protein Is Not Just for Athletes"
 description: "Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive."
 titleFr: "Les Protéines ne sont pas que pour les Athlètes : Guide Complet"
+seoTitleFr: "Les protéines ne sont pas que pour les athlètes"
 descriptionFr: "Les protéines sont essentielles pour tout le monde, pas seulement les athlètes. Découvrez pourquoi et comment intégrer plus de protéines dans votre alimentation."
 pubDate: 2026-08-14
 updatedDate: 2026-09-12

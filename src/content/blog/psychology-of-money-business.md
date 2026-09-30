@@ -1,7 +1,9 @@
 ---
 title: "The Psychology of Money — Why Business Is a Behavior"
+seoTitle: "The Psychology of Money: Business Is Behavior"
 description: "An enduring business lesson: wealth is not a math problem, it is a story you tell yourself about risk and patience."
 titleFr: "Psychologie de l'Argent en Affaires : Comprendre Votre Relation avec l'Argent"
+seoTitleFr: "Psychologie de l'argent : changer son rapport"
 descriptionFr: "La psychologie de l'argent en affaires est cruciale. Découvrez comment vos croyances financières affectent vos décisions professionnelles."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12

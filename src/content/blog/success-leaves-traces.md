@@ -2,6 +2,7 @@
 title: "Success Leaves Traces"
 description: "Success is not a mystery — it leaves traces. Follow the traces, not the trophy."
 titleFr: "La Réussite laisse des Traces : Comprendre les Patterns"
+seoTitleFr: "La réussite laisse des traces : lire les patterns"
 descriptionFr: "La réussite laisse des traces. Analysez les patterns des gens réussis pour reproduire leurs résultats dans votre vie."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12

@@ -1,7 +1,9 @@
 ---
 title: "Batching: The Secret Weapon of Highly Productive People"
+seoTitle: "Batching: The Productivity Secret Weapon"
 description: "Batching is grouping similar tasks together to minimize context switching. Learn how this simple technique can double your productivity."
 titleFr: "Le Batching pour la Productivité : Regrouper les Tâches"
+seoTitleFr: "Le batching pour la productivité"
 descriptionFr: "Le batching est une technique de productivité qui consiste à regrouper les tâches similaires. Découvrez comment cela peut transformer votre efficacité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21

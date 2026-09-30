@@ -2,6 +2,7 @@
 title: "Strength Is a Skill, Not a Talent"
 description: "Strength is not given — it is practiced. Every rep is a lesson in patience and form."
 titleFr: "La Force est une Compétence : Développer la Force Mentale"
+seoTitleFr: "Force mentale : une compétence, pas un don"
 descriptionFr: "La force mentale est une compétence qui se développe. Découvrez les exercices pratiques pour renforcer votre résilience."
 pubDate: 2026-08-19
 updatedDate: 2026-09-12

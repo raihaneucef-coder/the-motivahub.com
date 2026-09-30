@@ -1,5 +1,6 @@
 ---
 title: "I Tried Slow Productivity for 30 Days. Here's What Actually Changed."
+seoTitle: "I Tried Slow Productivity for 30 Days"
 description: "Cal Newport's slow productivity system in practice — fewer projects, natural pace, obsession with quality. I tested it for 30 days while building a business. Here's the data, the failures, and the one rule that worked."
 titleFr: "Productivité Lente : Test de 30 Jours"
 descriptionFr: "La productivité lente est une approche différente. Testez-la pendant 30 jours et découvrez comment moins peut être plus."

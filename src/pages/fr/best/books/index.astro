@@ -37,7 +37,7 @@ const description = "Les 12 meilleurs livres de développement personnel qui cha
         "itemListElement": books.map((b, i) => ({
           "@type": "ListItem",
           "position": i + 1,
-          "name": `${b.title} by ${b.author}`,
+          "name": `${b.title} par ${b.author}`,
           "url": b.affiliateUrl || `https://the-motivahub.com/fr/books/`
         }))
       }
@@ -47,9 +47,9 @@ const description = "Les 12 meilleurs livres de développement personnel qui cha
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-      { "@type": "Question", "name": "What is the best self-help book to read?", "acceptedAnswer": { "@type": "Answer", "text": "Atomic Habits by James Clear is the most actionable modern self-help book. For timeless philosophy, Meditations by Marcus Aurelius remains the gold standard." } },
-      { "@type": "Question", "name": "Are these books worth reading in 2026?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Each book on this list has been re-read and recommended because the ideas compound over time, not because they are trendy." } },
-      { "@type": "Question", "name": "Do you earn a commission from these links?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. As an Amazon Associate, we earn from qualifying purchases. The price you pay is unchanged." } }
+      { "@type": "Question", "name": "Quel est le meilleur livre de développement personnel à lire ?", "acceptedAnswer": { "@type": "Answer", "text": "Un rien peut tout changer de James Clear est le livre de développement personnel moderne le plus actionable. Pour la philosophie intemporelle, Les Pensées pour moi-même de Marc Aurèle reste la référence absolue." } },
+      { "@type": "Question", "name": "Ces livres valent-ils la peine d'être lus en 2026 ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Chaque livre de cette liste a été relu et recommandé parce que les idées se cumulent avec le temps, pas parce qu'elles sont tendance." } },
+      { "@type": "Question", "name": "Gagnez-vous une commission sur ces liens ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. En tant qu'Associé Amazon, nous gagnons des commissions sur les achats éligibles. Le prix que vous payez ne change pas." } }
     ]
   })} />
   <script type="application/ld+json" set:html={JSON.stringify({
@@ -58,7 +58,7 @@ const description = "Les 12 meilleurs livres de développement personnel qui cha
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
       { "@type": "ListItem", "position": 2, "name": "L'Étagère à Livres", "item": "https://the-motivahub.com/fr/books/" },
-      { "@type": "ListItem", "position": 3, "name": "Best Self-Help Books 2026", "item": "https://the-motivahub.com/fr/best/books/" }
+      { "@type": "ListItem", "position": 3, "name": "Meilleurs livres de développement personnel", "item": "https://the-motivahub.com/fr/best/books/" }
     ]
   })} />
 

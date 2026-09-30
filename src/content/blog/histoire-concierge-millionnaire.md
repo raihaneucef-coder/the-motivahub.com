@@ -1,7 +1,9 @@
 ---
 title: "The Janitor Who Became a Millionaire: A Story of Discipline"
+seoTitle: "The Janitor Who Became a Millionaire"
 description: "The true story of Ronald Read — the Vermont janitor who died leaving $8 million. How 25 years of discipline, not income, built the fortune — and the simple math that proves it can work for anyone."
 titleFr: "Le concierge qui est devenu millionnaire : une histoire de discipline"
+seoTitleFr: "Le concierge devenu millionnaire : la discipline"
 descriptionFr: "L'histoire vraie de Ronald Read — le concierge du Vermont qui est mort en laissant 8 millions de dollars. Comment 25 ans de discipline, et non un salaire, ont bâti cette fortune — et le calcul simple qui prouve que c'est possible pour tout le monde."
 pubDate: 2026-08-24
 updatedDate: 2026-09-25

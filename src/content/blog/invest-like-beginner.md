@@ -2,6 +2,7 @@
 title: "Invest Like a Beginner, Think Like an Owner"
 description: "You don't need to be an expert to start investing — you need to start and stay. Ownership beats prediction."
 titleFr: "Investis comme un débutant, pense comme un propriétaire"
+seoTitleFr: "Investir débutant, penser comme propriétaire"
 descriptionFr: "Tu n'as pas besoin d'être expert pour commencer à investir — tu as besoin de commencer et de rester. La propriété bat la prédiction."
 pubDate: 2026-08-13
 updatedDate: 2026-09-12

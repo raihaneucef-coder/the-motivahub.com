@@ -2,6 +2,7 @@
 title: "Attachment Styles: Why You Love the Way You Do"
 description: "Your attachment style shapes how you love, how you fight, and how you handle separation. Understanding it changes everything."
 titleFr: "Styles d'Attachement : Comprendre votre Relation aux Autres"
+seoTitleFr: "Styles d'attachement : comprendre ses relations"
 descriptionFr: "Les styles d'attachement influencent vos relations. Découvrez le vôtre et comment développer un attachement sain."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

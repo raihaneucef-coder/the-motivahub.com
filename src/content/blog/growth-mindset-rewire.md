@@ -2,6 +2,7 @@
 title: "Growth Mindset: How to Rewire Your Brain for Success"
 description: "Learn how a growth mindset transforms failures into opportunities. Practical strategies to shift from fixed thinking to limitless potential."
 titleFr: "État d'esprit de croissance : comment reprogrammer ton cerveau pour réussir"
+seoTitleFr: "État d'esprit de croissance : le guide"
 descriptionFr: "Découvre comment un état d'esprit de croissance transforme les échecs en opportunités. Stratégies pratiques pour passer d'une pensée fixe à un potentiel illimité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

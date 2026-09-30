@@ -1,7 +1,9 @@
 ---
 title: "Failure Is Feedback: How to Use Setbacks as Stepping Stones"
+seoTitle: "Failure Is Feedback: Setbacks as Stepping Stones"
 description: "Every failure contains a lesson. The only true failure is the failure to learn. Learn how to turn setbacks into comebacks."
 titleFr: "L'échec est un retour : comment transformer les revers en tremplins"
+seoTitleFr: "L'échec est un retour : les revers comme tremplins"
 descriptionFr: "Chaque échec contient une leçon. Le seul vrai échec est celui qui n'apprend rien. Apprends à transformer les revers en comeback."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

@@ -1,6 +1,7 @@
 ---
 import type { Book } from "../data/books";
 import Link from "./Link.astro";
+import { getLangFromUrl } from "../utils/i18n";
 
 interface Props {
   book: Book;
@@ -8,7 +9,10 @@ interface Props {
 const { book } = Astro.props;
 const hasAffiliate = Boolean(book.affiliateUrl && book.affiliateUrl.trim().length > 0);
 
-const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
+// Server-side language from the route: /fr/ URLs must render French in the
+// raw HTML (Googlebot reads SSR). The old window/localStorage check defaulted
+// to "en" at build time, so French book pages shipped English blurbs to Google.
+const lang = getLangFromUrl(Astro.url);
 const category = lang === "fr" && book.categoryFr ? book.categoryFr : book.category;
 const description = lang === "fr" && book.descriptionFr ? book.descriptionFr : book.description;
 const reason = lang === "fr" && book.reasonFr ? book.reasonFr : book.reason;

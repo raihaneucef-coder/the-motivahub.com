@@ -2,6 +2,7 @@
 title: "Attention as Asset"
 description: "Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is."
 titleFr: "L'Attention comme Actif : Protéger Votre Concentration"
+seoTitleFr: "Attention : un actif à protéger"
 descriptionFr: "Dans un monde de distractions, l'attention est votre actif le plus précieux. Découvrez comment protéger et cultiver votre concentration pour accomplir un travail significatif."
 pubDate: 2026-07-10
 updatedDate: 2026-09-21

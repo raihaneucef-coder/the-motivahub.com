@@ -24,3 +24,4 @@ tests/*-audit/
 tests/*-quality/
 tests/journal-read/
 tests/journal-editorial-check/
+SECURITY-AUDIT.md

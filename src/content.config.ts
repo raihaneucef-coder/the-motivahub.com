@@ -8,6 +8,11 @@ const blog = defineCollection({
     description: z.string(),
     titleFr: z.string().optional(),
     descriptionFr: z.string().optional(),
+    // Concise SERP line for the <title> tag only. The visible H1 keeps the full
+    // headline; this exists so long clickbait-style titles don't get truncated
+    // mid-word in Google. Keyword-first, <=~55 chars. Falls back to title/titleFr.
+    seoTitle: z.string().optional(),
+    seoTitleFr: z.string().optional(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     topic: z.string(),

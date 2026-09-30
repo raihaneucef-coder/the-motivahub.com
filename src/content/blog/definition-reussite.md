@@ -1,7 +1,9 @@
 ---
 title: "The Definition of Success Is Personal: Stop Copying Others"
+seoTitle: "The Definition of Success Is Personal"
 description: "Success is not a one-size-fits-all formula. What works for someone else may not work for you. Learn to define success on your own terms."
 titleFr: "Redéfinir la Réussite : Au-Delà de l'Argent et du Statut"
+seoTitleFr: "Redéfinir la réussite : au-delà de l'argent"
 descriptionFr: "La réussite ne signifie pas la même chose pour tout le monde. Redéfinissez votre propre réussite au-delà des standards sociaux."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

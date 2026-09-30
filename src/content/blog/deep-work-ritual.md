@@ -1,7 +1,9 @@
 ---
 title: "I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)"
+seoTitle: "The 3-Hour Deep Work Ritual That Actually Works"
 description: "Distraction is the default. Focus is the exception. After a dozen failed attempts at rituals, here is the one deep work stack that survived contact with a real Tuesday."
 titleFr: "Le Rituel Deep Work : Créer un Environnement de Concentration"
+seoTitleFr: "Le rituel Deep Work pour la concentration"
 descriptionFr: "Un rituel Deep Work est essentiel pour entrer dans l'état de concentration profonde. Découvrez comment construire votre rituel."
 pubDate: 2026-08-18
 updatedDate: 2026-09-12

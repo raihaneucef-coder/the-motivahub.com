@@ -1,7 +1,9 @@
 ---
 title: "Slow Travel: Why Less Destinations Means More Experience"
+seoTitle: "Slow Travel: Fewer Places, More Experience"
 description: "Rushing through 10 cities in 10 days is not travel — it is tourism. Slow travel is about depth, not breadth. Learn why less is more."
 titleFr: "Voyager lentement : pourquoi moins de destinations signifie plus d'expérience"
+seoTitleFr: "Voyager lentement : moins de lieux, plus de sens"
 descriptionFr: "Foncer dans 10 villes en 10 jours n'est pas du voyage — c'est du tourisme. Le voyage lent, c'est la profondeur, pas la largeur. Découvrez pourquoi moins c'est plus."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

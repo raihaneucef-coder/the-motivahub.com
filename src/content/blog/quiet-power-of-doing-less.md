@@ -2,6 +2,7 @@
 title: "The Quiet Power of Doing Less"
 description: "We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters."
 titleFr: "Le Pouvoir Silencieux de Faire Moins : Moins, mais Mieux"
+seoTitleFr: "Faire moins, mieux : le pouvoir silencieux"
 descriptionFr: "Faire moins n'est pas de la paresse — c'est une stratégie. Découvrez le pouvoir silencieux de la simplification et de la concentration."
 pubDate: 2026-08-14
 updatedDate: 2026-09-12

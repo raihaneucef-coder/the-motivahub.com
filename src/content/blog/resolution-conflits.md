@@ -1,5 +1,6 @@
 ---
 title: "Conflict Resolution: How to Fight Fair in Relationships"
+seoTitle: "Conflict Resolution: How to Fight Fair"
 description: "Every relationship has conflict. The question is not whether you will fight — it is how. Learn to fight fairly and strengthen your bond."
 titleFr: "Résolution de Conflits : Communiquer avec Clarté"
 descriptionFr: "La résolution de conflits demande de la clarté et de l'empathie. Apprenez à naviguer les conflits avec intelligence émotionnelle."

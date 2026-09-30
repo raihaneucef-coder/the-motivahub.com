@@ -2,6 +2,7 @@
 title: "The Social Muscle — Why Connection Is a Discipline"
 description: "A powerful social lesson is not about tactics — it is about showing up. Connection, like any muscle, grows only with reps."
 titleFr: "Muscle Social : Renforcer vos Relations avec Intention"
+seoTitleFr: "Muscle social : renforcer ses relations"
 descriptionFr: "Le muscle social se construit avec intention. Découvrez comment renforcer vos relations et développer un réseau solide."
 pubDate: 2026-08-10
 updatedDate: 2026-09-21

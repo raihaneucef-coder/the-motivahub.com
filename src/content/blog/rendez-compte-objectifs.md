@@ -1,5 +1,6 @@
 ---
 title: "Goal Accountability: Why You Need Someone to Keep You on Track"
+seoTitle: "Goal Accountability: Why You Need a Witness"
 description: "Accountability doubles your chances of achieving a goal. Learn how to build an accountability system that keeps you committed and consistent."
 titleFr: "Rendre des Comptes pour Atteindre vos Objectifs"
 descriptionFr: "La responsabilité est la clé pour atteindre vos objectifs. Découvrez comment créer un système de responsabilité qui fonctionne."

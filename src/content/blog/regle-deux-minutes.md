@@ -1,7 +1,9 @@
 ---
 title: "The Two-Minute Rule: The Simple Secret to Building Better Habits"
+seoTitle: "The Two-Minute Rule: Build Better Habits"
 description: "Discover the two-minute rule that has helped millions start new habits. Simple, powerful, and works every single time."
 titleFr: "La Règle des 2 Minutes : Construire des Habitudes en 120 Secondes"
+seoTitleFr: "La règle des 2 minutes : des habitudes en 120 s"
 descriptionFr: "La règle des 2 minutes est la clé pour construire des habitudes durables. Commencez petit, restez constant."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21
