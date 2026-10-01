@@ -310,6 +310,71 @@ When you come back to Kilo (or anyone reading this):
 
 ---
 
+## 📊 Data Baseline — 1 Octobre 2026 (28 jours: 1–28 Sept)
+
+### GSC Performance
+| Metric | 7 jours | 28 jours | 3 mois |
+|---|---|---|---|
+| Clics | 2 | 35 | 57 |
+| Impressions | 177 | 659 | 1,320 |
+| CTR | 1.1% | 5.3% | 4.3% |
+| Position | 13.8 | 27.7 | 36.7 |
+
+### GSC Indexing
+| Status | Pages |
+|---|---|
+| Indexed | 139 |
+| Discovered – not indexed | 316 |
+| Crawled – not indexed | 1 |
+| 404 | 1 |
+| Total known | 458 |
+
+### GA4 Acquisition (28 jours)
+| Channel | Sessions | % | Key Events |
+|---|---|---|---|
+| Direct | 572 | 71.86% | 6 (100%) |
+| Organic Search | 126 | 15.83% | 0 |
+| Organic Social | 52 | 6.53% | 0 |
+| Referral | 41 | 5.15% | 0 |
+
+### GA4 Key Events (28 jours)
+- quiz_completed: 2
+- newsletter_signup: 2
+- book_affiliate_click: 2
+- Total: 6 (all from Direct channel)
+
+### Top Pages by Impressions (GSC 28j)
+| Page | Impr | Clicks | Pos | CTR Gap |
+|---|---|---|---|---|
+| / (homepage) | 76 | 22 | 2.1 | OK |
+| /guides/atomic-habits-ultimate-guide/ | 70 | 0 | 54.2 | TITLE |
+| /topics/ | 54 | 5 | 3.9 | OK |
+| /journal/cant-hurt-me-review/ | 49 | 1 | 30.2 | TITLE |
+| /books/ | 44 | 0 | 4.1 | TITLE |
+| /journal/standard-non-negociable/ | 28 | 0 | 5.7 | TITLE |
+| /tools/reading-calculator/ | 28 | 0 | 8.4 | TITLE |
+| /objectives/ | 20 | 0 | 7.5 | TITLE |
+| /journal/discipline-personnelle-guide/ | 18 | 0 | 4.7 | TITLE |
+
+### Quick-Win Keywords (pos 10-30, 0 clicks)
+- "can't hurt me" / "cant hurt me" (pos 27-28, 21 impr)
+- "calm is a superpower" (pos 29, 4 impr)
+- "david goggins rules" (pos 11, 2 impr)
+- "what happens if i miss a day" (pos 10, 1 impr)
+- "reading for entertainment" (pos 10, 1 impr)
+
+### Pinterest (30 jours)
+- Impressions: 733
+- Outbound clicks: 3
+- Saves: 0
+- Audience: 1
+
+### Traffic Quality Note
+71% of GSC clicks = Maroc @pos 1.3 = self-traffic (owner clicks).
+Real external organic traffic: ~10 clicks in 28 days.
+
+---
+
 **Built with care. Built slowly. Built to last.**
 
 🌱 Motiva Hub · 2026 · The Long Ascent
