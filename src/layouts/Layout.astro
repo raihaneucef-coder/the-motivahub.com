@@ -169,17 +169,18 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
         window.i18nDict = window.i18nDict || coreDict;
         const dict = { en: null, fr: null };
         const dictPending = {};
-        // Full dictionaries live in cached static files (/i18n/dict-<lang>.json,
+        // Full dictionaries live in cached static files (dict-en.json / dict-fr.json,
         // ~53-64 KB raw, gzipped on the wire) instead of a ~128 KB blob inlined
         // into every page. Network-first with a localStorage fallback; results
         // are merged into window.i18nDict so parse-time consumers (newsletter
         // messages, quiz labels - shipped inline above as coreDict) keep working.
+        const DICT_URLS = { en: "/i18n/dict-en.json", fr: "/i18n/dict-fr.json" };
         function loadDict(lang){
           if(lang !== "en" && lang !== "fr") return Promise.resolve({});
           if(dict[lang]) return Promise.resolve(dict[lang]);
           if(!dictPending[lang]){
             dictPending[lang] = (async function(){
-              try{ dict[lang] = await (await fetch("/i18n/dict-" + lang + ".json")).json(); }
+              try{ dict[lang] = await (await fetch(DICT_URLS[lang])).json(); }
               catch(e){
                 try{
                   const raw = localStorage.getItem("i18n-dict-v1:" + lang);
