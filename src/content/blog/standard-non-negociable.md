@@ -1,9 +1,10 @@
 ---
 title: "The Non-Negotiable Standard: How to Set Rules That Never Bend"
-seoTitle: "The Non-Negotiable Standard: Rules That Hold"
-description: "The most disciplined people have one thing in common: non-negotiable standards. Learn how to set rules that create consistency without willpower."
-titleFr: "Standards Non-Négociables : Fixer des Lignes Rouges"
-descriptionFr: "Les standards non-négociables sont vos lignes rouges. Apprenez à les définir et à les respecter pour vivre avec intégrité."
+seoTitle: "Non-Negotiable Standard: The Discipline Rule That Eliminates Willpower"
+description: "A non-negotiable standard is a rule you follow regardless of mood. Learn how to set 3-5 personal rules that build discipline without willpower."
+titleFr: "Standard Non Négociable : Fixer des Règles de Discipline Qui Tiennent"
+seoTitleFr: "Standard Non Négociable : La Règle de Discipline Sans Négocier"
+descriptionFr: "Un standard non négociable est une règle que vous suivez quoi qu'il arrive. Découvrez comment en fixer 3 à 5 pour bâtir une discipline sans volonté."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
@@ -30,6 +31,13 @@ faq:
     a: "Decide in advance, not in the moment. Write your 3-5 non-negotiables down and treat them as identity statements ('I am someone who…'). When a rule is already decided, your brain stops generating alternatives — willpower becomes unnecessary."
   - q: "How many non-negotiables should you have?"
     a: "Between 3 and 5. Too few and the system lacks structure; too many and compliance feels overwhelming. Start with the three rules that would make the biggest impact if never broken, then add more only after 60 days of full consistency."
+faqFr:
+  - q: "Qu'est-ce qu'un standard non négociable ?"
+    a: "Un standard non négociable est une règle personnelle que vous appliquez indépendamment de votre humeur, de la météo ou de la pression extérieure. Contrairement à un objectif, c'est un plancher : le minimum que vous acceptez de vous-même chaque jour. Exemples : « Je m'entraîne 4× par semaine », « Je n'saute jamais l'écriture », « Je suis au lit avant 23h »."
+  - q: "Comment arrêter de négocier avec soi-même ?"
+    a: "Décidez à l'avance, pas dans l'instant. Écrivez vos 3 à 5 standards non négociables et traitez-les comme des déclarations d'identité (« Je suis quelqu'un qui… »). Quand une règle est déjà décidée, votre cerveau arrête de générer des alternatives — la volonté devient inutile."
+  - q: "Combien de standards non négociables faut-il avoir ?"
+    a: "Entre 3 et 5. Trop peu et le système manque de structure ; trop et l'obéissance devient écrasante. Commencez par les 3 règles qui auraient le plus d'impact si elles n'étaient jamais brisées, puis ajoutez-en seulement après 60 jours de cohérence totale."
 
 relatedArticles:
   - "discipline-vs-punishment"

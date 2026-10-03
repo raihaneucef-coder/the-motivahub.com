@@ -1,8 +1,10 @@
 ---
 title: "The Tyranny of the Visible Timeline"
-description: "Most quitting has nothing to do with the goal being wrong. It has to do with the clock being visible."
-titleFr: "La tyrannie de la timeline visible"
-descriptionFr: "La plupart des abandons n'ont rien à voir avec le fait que l'objectif est mauvais. Ils ont à voir avec le fait que l'horloge est visible."
+seoTitle: "The Tyranny of the Visible Timeline — Why Progress Feels Invisible"
+description: "Most quitting has nothing to do with the goal being wrong. It has to do with the clock being visible. Learn to escape comparison and trust your own pace."
+titleFr: "La Tyrannie de la Timeline Visible"
+seoTitleFr: "La Tyrannie de la Timeline Visible — Pourquoi les Progrès Semblent Invisibles"
+descriptionFr: "La plupart des abandons n'ont rien à voir avec le fait que l'objectif est mauvais. Ils ont à voir avec le fait que l'horloge est visible. Apprenez à vous libérer de la comparaison."
 pubDate: 2026-08-20
 updatedDate: 2026-09-12
 topic: "Mindset"
@@ -29,7 +31,14 @@ faq:
   - q: "What is the tyranny of the visible timeline?"
     a: "The false belief that there is a correct pace for milestones (married by 30, millionaire by 40, published by 25). This industrial-age clock creates anxiety at every deviation. Real mastery has different timelines: Colonel Sanders at 62, Vera Wang at 40. The only tyranny is comparing your unedited draft to their final cut."
   - q: "How do I stay patient with slow progress?"
-    a: "Track your own baseline (month 1 vs month 6), not external ones. The compound curve is non-linear: 5 years of flat then sudden visible results. If you judge by looking down (comparison to others), you quit. If you judge by looking forward (am I closer to my own standard?), you continue." 
+    a: "Track your own baseline (month 1 vs month 6), not external ones. The compound curve is non-linear: 5 years of flat then sudden visible results. If you judge by looking down (comparison to others), you quit. If you judge by looking forward (am I closer to my own standard?), you continue."
+faqFr:
+  - q: "Pourquoi je me sens en retard par rapport aux autres ?"
+    a: "Parce que vous comparez votre chapitre 3 invisible à leur chapitre 10 visible. Vous ne voyez pas leurs 7 années de travail non reconnu, leurs échecs, leurs dettes derrière les highlights. La timeline à laquelle vous vous mesurez est une performance éditée, pas une réalité documentée."
+  - q: "Qu'est-ce que la tyrannie de la timeline visible ?"
+    a: "La fausse croyance qu'il existe un rythme correct pour les jalons (marié à 30 ans, millionnaire à 40, publié à 25). Cette horloge industrielle crée de l'anxiété à chaque déviation. La vraie maîtrise a des timelines différentes : Colonel Sanders à 62 ans, Vera Wang à 40."
+  - q: "Comment rester patient face aux progrès lents ?"
+    a: "Suivez votre propre baseline (mois 1 vs mois 6), pas celle des autres. La courbe du compound est non-linéaire : 5 ans de plat puis résultats soudains visibles. Si vous jugez en regardant en bas (comparaison), vous abandonnez. Si vous jugez en regardant devant (suis-je plus proche de mon standard ?), vous continuez."
 
 relatedArticles:
   - "puissance-dialogue-interieur"

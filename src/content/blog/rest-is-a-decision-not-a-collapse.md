@@ -1,8 +1,10 @@
 ---
 title: "Rest Is a Decision, Not a Collapse"
-description: "There is a difference between resting on purpose and collapsing because you ran out of resistance. Only one of them recovers you."
-titleFr: "Le Repos est une Décision, pas un Effondrement"
-descriptionFr: "Le repos n'est pas un échec — c'est une décision stratégique. Découvrez pourquoi le repos est essentiel pour la performance durable."
+seoTitle: "Rest Is a Decision, Not a Reward — Why You Don't Need to Earn It"
+description: "There is a difference between resting on purpose and collapsing because you ran out of resistance. Learn why rest is a decision, not something you earn."
+titleFr: "Le Repos est une Décision, pas une Récompense"
+seoTitleFr: "Le Repos est une Décision, pas une Récompense à Mériter"
+descriptionFr: "Le repos n'est pas un échec ni une récompense — c'est une décision stratégique. Découvrez pourquoi le repos est essentiel pour la performance durable."
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Wellness"
@@ -30,6 +32,13 @@ faq:
     a: "Because productivity culture equates self-worth with output. Your nervous system may also be stuck in sympathetic overdrive — stillness feels unsafe when cortisol is elevated. The fix: reframe rest as part of the work (like sleep for an athlete). If you wouldn't guilt-trip a runner for recovery days, don't guilt-trip yourself."
   - q: "How much rest do I actually need?"
     a: "Ultradian rhythm research: a 90-minute focus cycle followed by 15-20 min down-regulation (walk, stare out window, breathe). Plus: one full day off weekly and 10-14 vacation days annually for cortisol recovery. More than 2 hours of TV scrolling is NOT rest — it's passive stimulation that doesn't restore."
+faqFr:
+  - q: "Quelle est la différence entre se reposer et s'effondrer ?"
+    a: "Le repos est une décision — vous vous arrêtez avant d'être brisé, vous récupérez délibérément et revenez rafraîchi. L'effondrement arrive quand vous avez ignoré les signaux de repos pendant des semaines : vous craquez, culpabilisez et récupérez mal. La différence, c'est l'agentivité : l'un est stratégique, l'autre est subi."
+  - q: "Pourquoi je culpabilise quand je me repose ?"
+    a: "Parce que la culture de la productivité assimile la valeur de soi à la production. Votre système nerveux est peut-être aussi bloqué en mode sympathique — l'immobilité semble dangereuse quand le cortisol est élevé. La solution : reformuler le repos comme partie intégrante du travail (comme le sommeil pour un athlète)."
+  - q: "De combien de repos ai-je vraiment besoin ?"
+    a: "Recherche sur les rythmes ultradiens : un cycle de concentration de 90 minutes suivi de 15-20 min de descente (marche, respiration). Plus : un jour complet off par semaine et 10-14 jours de congé par an pour la récupération du cortisol. Plus de 2h de scroll TV n'est PAS du repos."
 
 relatedArticles:
   - "detox-numerique"
