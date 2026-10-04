@@ -25,6 +25,21 @@ const TOOLS = {
     name: "30 Days of Discipline — Free PDF",
     desc: "One page a day for one month. A different life on the other side.",
   },
+  habitKit: {
+    url: "/guides/habit-stack-kit/",
+    name: "The Habit Stack Kit — Free 14-Page PDF",
+    desc: "Anchor + behavior + reward. Printable worksheets, 30-day grid, 90-day identity test.",
+  },
+  kitchen: {
+    url: "/guides/discipline-kitchen/",
+    name: "The Discipline Kitchen — Free 12-Page PDF",
+    desc: "2-hour Sunday prep, protein-first framework, 7-day template. Eat like a system.",
+  },
+  athlete: {
+    url: "/guides/home-athlete/",
+    name: "The Home Athlete Blueprint — Free 10-Page PDF",
+    desc: "20-min bodyweight protocol, cold exposure, recovery science. No gym needed.",
+  },
 };
 
 const tLower = topic.toLowerCase();
@@ -33,19 +48,27 @@ let primaryKey, secondaryKey, headlineKey;
 if (["discipline", "productivity", "goals"].includes(tLower)) {
   headlineKey = "toolHeadlineDiscipline";
   primaryKey = "pdf";
-  secondaryKey = "tracker";
-} else if (["habits", "wellness", "sport", "nutrition"].includes(tLower)) {
+  secondaryKey = "habitKit";
+} else if (["habits", "wellness"].includes(tLower)) {
   headlineKey = "toolHeadlineHabits";
-  primaryKey = "tracker";
-  secondaryKey = "pdf";
+  primaryKey = "habitKit";
+  secondaryKey = "tracker";
+} else if (["sport", "fitness"].includes(tLower)) {
+  headlineKey = "toolHeadlineHabits";
+  primaryKey = "athlete";
+  secondaryKey = "tracker";
+} else if (["nutrition", "food"].includes(tLower)) {
+  headlineKey = "toolHeadlineHabits";
+  primaryKey = "kitchen";
+  secondaryKey = "tracker";
 } else if (["mindset", "personal growth", "success", "stories"].includes(tLower)) {
   headlineKey = "toolHeadlineMindset";
   primaryKey = "memento";
-  secondaryKey = "pdf";
+  secondaryKey = "habitKit";
 } else {
   headlineKey = "toolHeadlineDefault";
   primaryKey = "memento";
-  secondaryKey = "tracker";
+  secondaryKey = "habitKit";
 }
 
 const primary = TOOLS[primaryKey];
