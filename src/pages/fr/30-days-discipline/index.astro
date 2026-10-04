@@ -235,7 +235,7 @@ const allDays = weeks.flatMap((w) => w.days);
       const email = String(fd.get("email") || "").trim();
       const name = String(fd.get("name") || "").trim();
       if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-        if (pdfMsg) { pdfMsg.textContent = "Veuillez entrer un email valide."; pdfMsg.style.color = "#ff4d00"; }
+        if (pdfMsg) { pdfMsg.textContent = "Veuillez entrer un email valide."; pdfMsg.style.color = "#d4b377"; }
         return;
       }
       if (pdfMsg) { pdfMsg.textContent = "Envoi en cours..."; pdfMsg.style.color = "#888"; }
@@ -257,7 +257,7 @@ const allDays = weeks.flatMap((w) => w.days);
           pdfForm.reset();
         } else throw new Error("failed");
       } catch {
-        if (pdfMsg) { pdfMsg.textContent = "Une erreur est survenue. Essayez le téléchargement direct."; pdfMsg.style.color = "#ff4d00"; }
+        if (pdfMsg) { pdfMsg.textContent = "Une erreur est survenue. Essayez le téléchargement direct."; pdfMsg.style.color = "#d4b377"; }
       }
     });
   </script>

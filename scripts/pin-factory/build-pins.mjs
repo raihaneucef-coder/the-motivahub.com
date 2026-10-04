@@ -121,17 +121,17 @@ const BASE_CSS = `
   .pin{position:relative;width:1000px;height:1500px;background:#0b0b0d;overflow:hidden;}
   .photo{position:absolute;top:0;left:0;width:1000px;height:850px;background-size:cover;background-position:center;filter:brightness(.72) contrast(1.05);}
   .photo-fade{position:absolute;top:400px;left:0;width:1000px;height:450px;background:linear-gradient(to bottom,transparent 0%,#0b0b0d 100%);}
-  .tag{position:absolute;top:40px;left:40px;color:#c9a961;font-family:'Inter',sans-serif;font-size:16px;font-weight:600;letter-spacing:.25em;text-transform:uppercase;background:rgba(11,11,13,.65);padding:12px 22px;border:1px solid rgba(201,169,97,.4);}
+  .tag{position:absolute;top:40px;left:40px;color:#d4b377;font-family:'Inter',sans-serif;font-size:16px;font-weight:600;letter-spacing:.25em;text-transform:uppercase;background:rgba(11,11,13,.65);padding:12px 22px;border:1px solid rgba(212,179,119,.4);}
   .headline{position:absolute;top:880px;left:60px;right:60px;color:#f5f1e8;font-family:'Fraunces',serif;font-weight:500;font-size:72px;line-height:1.1;letter-spacing:-.02em;}
-  .headline .it{font-style:italic;font-weight:400;color:#d9c9a0;}
-  .bignum{position:absolute;top:760px;left:60px;color:#c9a961;font-family:'Fraunces',serif;font-style:italic;font-weight:400;font-size:200px;line-height:1;letter-spacing:-.03em;}
-  .bignum-label{position:absolute;top:970px;left:60px;color:#c9a961;font-family:'Inter',sans-serif;font-weight:700;font-size:16px;letter-spacing:.3em;text-transform:uppercase;}
+  .headline .it{font-style:italic;font-weight:400;color:#e5c890;}
+  .bignum{position:absolute;top:760px;left:60px;color:#d4b377;font-family:'Fraunces',serif;font-style:italic;font-weight:400;font-size:200px;line-height:1;letter-spacing:-.03em;}
+  .bignum-label{position:absolute;top:970px;left:60px;color:#d4b377;font-family:'Inter',sans-serif;font-weight:700;font-size:16px;letter-spacing:.3em;text-transform:uppercase;}
   .headline.with-bignum{left:280px;font-size:56px;top:900px;}
   .sub{position:absolute;top:1250px;left:60px;right:60px;color:rgba(245,241,232,.75);font-family:'Inter',sans-serif;font-weight:400;font-size:28px;line-height:1.4;}
-  .divider{position:absolute;top:1350px;left:60px;width:100px;height:2px;background:#c9a961;}
-  .brand{position:absolute;top:1375px;left:60px;color:#c9a961;font-family:'Fraunces',serif;font-weight:600;font-size:24px;letter-spacing:.15em;text-transform:uppercase;}
+  .divider{position:absolute;top:1350px;left:60px;width:100px;height:2px;background:#d4b377;}
+  .brand{position:absolute;top:1375px;left:60px;color:#d4b377;font-family:'Fraunces',serif;font-weight:600;font-size:24px;letter-spacing:.15em;text-transform:uppercase;}
   .url{position:absolute;top:1375px;right:60px;color:rgba(245,241,232,.5);font-family:'Inter',sans-serif;font-weight:500;font-size:22px;letter-spacing:.05em;}
-  .accent{position:absolute;bottom:0;left:0;width:1000px;height:10px;background:linear-gradient(to right,#c9a961 0%,rgba(201,169,97,.3) 100%);}
+  .accent{position:absolute;bottom:0;left:0;width:1000px;height:10px;background:linear-gradient(to right,#d4b377 0%,rgba(212,179,119,.3) 100%);}
 `;
 
 // ---------- Build HTML for a pin ----------
