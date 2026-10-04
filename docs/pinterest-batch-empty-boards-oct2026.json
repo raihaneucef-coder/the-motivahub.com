@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "created": "2026-10-04",
+    "publish_start": "2026-10-09",
+    "publish_cadence": "3-4 pins/day for 5-6 days",
+    "reason": "Video 2 warm-up protocol: no new link pins until 4-5 days of manual interaction is completed",
+    "format": "vertical 1000x1500 (2:3) — required by Pinterest algorithm for max reach",
+    "boards_to_fill": 4,
+    "total_pins": 20,
+    "avg_description_length_target": 450,
+    "alt_text_target": "80-140 chars, keyword-rich, describes image visually"
+  },
+  "boards": {
+    "board5_books": {
+      "name": "Best Self-Improvement Books",
+      "url": "https://www.pinterest.com/raihaneucef/best-self-improvement-books/",
+      "sections": ["Atomic Habits & Systems", "Stoic Classics", "Modern Mindset Books"],
+      "pins": [
+        {
+          "slug": "atomic-habits-review",
+          "title": "Atomic Habits Changed My Mornings — But Not the Way You Think (2026 Honest Review)",
+          "url": "https://the-motivahub.com/journal/atomic-habits-review/",
+          "section": "Atomic Habits & Systems",
+          "description": "I read Atomic Habits 4 times in 18 months and this is what actually stuck after the hype wore off. Clear's 4 Laws work for tiny habits but miss the identity layer that makes them permanent. The real shift was the 2-minute rule applied to mornings — not motivation, not willpower, just environment design. If you are thinking about reading it, here is my honest take: skip the case studies, keep the checklists, and pair it with James Clear's habit stacking template for the first 30 days. atomic habits review james clear habit formation tiny habits 4 laws behavior change self-discipline morning routine identity-based habits book summary productivity system",
+          "alt": "Atomic Habits book review pin showing James Clear bestseller with 4 Laws of Behavior Change checklist and honest 2026 take",
+          "image_style": "Cover of Atomic Habits on wooden desk, morning light, quote overlay in serif, vertical 1000x1500"
+        },
+        {
+          "slug": "cant-hurt-me-review",
+          "title": "Can't Hurt Me: 5 Honest Lessons From Reading It 3 Times (Not What You Expect)",
+          "url": "https://the-motivahub.com/journal/cant-hurt-me-review/",
+          "section": "Modern Mindset Books",
+          "description": "David Goggins' Can't Hurt Me is not a self-help book — it is a wake-up slap. After 3 reads, here is what actually holds up: the 40% rule works, the accountability mirror is genius, but callousing your mind without recovery leads to burnout. The book's real gift is reframing suffering as training. Do not read it for tactics. Read it for identity. If you finish chapter 3 and feel uncomfortable, keep going — chapter 7 changes everything. cant hurt me david goggins book review mental toughness callousing mind 40 percent rule accountability mirror self discipline motivation stoic mindset book lessons",
+          "alt": "Can't Hurt Me by David Goggins book review pin with 5 honest lessons overlay and accountability mirror reference",
+          "image_style": "Goggins-style silhouette running at dawn, dark moody tone, book title overlay, vertical 1000x1500"
+        },
+        {
+          "slug": "how-to-read-30-books-a-year",
+          "title": "How I Read 30 Books a Year Without Rushing a Single Page",
+          "url": "https://the-motivahub.com/journal/how-to-read-30-books-a-year/",
+          "section": "Atomic Habits & Systems",
+          "description": "You do not need to read faster. You need to always have a book within arm's reach. My 90-day test: 20 minutes every morning, 20 more at lunch, and 20 before bed = 60 daily minutes = roughly 1 book per week. The trick is context triggers, not willpower. Book on the pillow. Book on the desk. Book in the bag. Audiobook during the commute. This is the exact system I used to read 30 books last year with no 'finding time' excuse. how to read more books daily reading habit 30 books a year morning reading routine book stack reading system productivity self improvement",
+          "alt": "Reading 30 books per year morning routine pin showing stacked books with a bookmark on a wooden desk",
+          "image_style": "Stack of 30 books with reading tracker marks, warm morning light, serif headline overlay, vertical"
+        },
+        {
+          "slug": "meditations-marcus-aurelius",
+          "title": "Meditations by Marcus Aurelius: 5 Rules That Still Work 2,000 Years Later",
+          "url": "https://the-motivahub.com/journal/meditations-marcus-aurelius/",
+          "section": "Stoic Classics",
+          "description": "Marcus Aurelius wrote Meditations for himself, on campaign, at midnight, in a tent. It was never meant to be published. Yet 1,880 years later, it is the most quoted book among CEOs, athletes and anyone rebuilding their mind after failure. The 5 rules that survived everything: control what you can, expect difficulty, act now, remember mortality, love your neighbor. Not self-help. Life-help. meditations marcus aurelius stoic philosophy book ancient wisdom daily stoic practice roman emperor journal resilience mental strength inner peace self discipline philosophy for modern life",
+          "alt": "Meditations by Marcus Aurelius book cover with 5 timeless stoic rules for modern life on dark editorial background",
+          "image_style": "Marble bust of Marcus Aurelius with aged parchment overlay showing 5 numbered stoic rules, moody dark aesthetic, vertical"
+        },
+        {
+          "slug": "lire-divertissement",
+          "title": "Lire Pour Plaisir : Pourquoi les Romans Rendront Votre Esprit Plus Fort",
+          "url": "https://the-motivahub.com/fr/journal/lire-divertissement/",
+          "section": "Modern Mindset Books",
+          "description": "Tout le monde vous dit de lire pour apprendre. Personne ne vous dit de lire pour respirer. Les romans ne sont pas une perte de temps — ce sont des simulations sociales où votre cerveau teste des vies qu'il ne vivra jamais. Après 40 ans de recherche en neurosciences, on sait que la lecture de fiction développe l'empathie, réduit le stress de 68% en 6 minutes et améliore la théorie de l'esprit. Voici pourquoi remplacer 20 minutes de scroll par 20 minutes de roman change réellement votre semaine. lecture plaisir roman fiction développement personnel neurosciences bien-être santé mentale habitude lecture détente productive",
+          "alt": "Citation française sur la lecture comme divertissement enrichissant — pile de romans avec lumière douce",
+          "image_style": "French-language pin: cozy reading corner with novel stack, warm lamp light, serif French headline overlay, vertical"
+        }
+      ]
+    },
+    "board6_money": {
+      "name": "Money Mindset & Financial Discipline",
+      "url": "https://www.pinterest.com/raihaneucef/money-mindset-financial-discipline/",
+      "sections": ["Personal Finance Basics", "Wealth Mindset"],
+      "pins": [
+        {
+          "slug": "regle-50-30-20",
+          "title": "The 50/30/20 Budget Rule: The Simplest System That Actually Works",
+          "url": "https://the-motivahub.com/journal/regle-50-30-20/",
+          "section": "Personal Finance Basics",
+          "description": "Forget $1.27 lattes. The 50/30/20 rule is a budget you can set up in 15 minutes and never think about again. 50% of after-tax income to needs (rent, food, transport), 30% to wants (eating out, hobbies, travel), 20% to savings and debt. It works because it does not demand perfection — only structure. Here's the exact automation setup for banks, credit cards and emergency fund. 50 30 20 rule budget personal finance simple money management savings plan debt repayment emergency fund beginner investing financial discipline wealth building",
+          "alt": "50 30 20 budget rule pie chart showing needs wants savings split on clean editorial background",
+          "image_style": "Minimalist pie chart 50/30/20 with color coding, serif headline, cream background, vertical"
+        },
+        {
+          "slug": "fond-urgence",
+          "title": "Emergency Fund: Why It Is Your Real Financial Foundation (Before Any Investing)",
+          "url": "https://the-motivahub.com/journal/fond-urgence/",
+          "section": "Personal Finance Basics",
+          "description": "You cannot build wealth on a broken foundation. An emergency fund is the difference between a setback and a spiral. The rule: 3-6 months of expenses in a separate account you do not touch except for true emergencies. Not a vacation. Not a sale. An emergency. Here's how to build your first €1,000 fast, then scale to 6 months without feeling like you're sacrificing your life. emergency fund financial foundation savings money mindset personal finance discipline beginner investing budget rules wealth building",
+          "alt": "Emergency fund concept pin showing stacked coins forming a protective wall against unexpected bills",
+          "image_style": "Coins stacked into a wall/shield illustration, dark moody background, serif headline, vertical 1000x1500"
+        },
+        {
+          "slug": "debt-is-a-story",
+          "title": "Debt Is a Story You Can Rewrite — Here's How",
+          "url": "https://the-motivahub.com/journal/debt-is-a-story/",
+          "section": "Wealth Mindset",
+          "description": "The reason most debt plans fail is not math. It is shame. Debt is a story you tell yourself about what you owe. Rewrite the story and you change the behavior. This is the psychological framework — not the snowball vs avalanche spreadsheet — that helped my reader get from €18k to €0 in 22 months. The first step is naming what the debt really represents. debt payoff psychology money mindset personal finance financial discipline freedom journey wealth building debt snowball avalanche method budget plan escape debt",
+          "alt": "Debt story rewrite concept pin showing notebook page with crossed-out financial narrative and new plan",
+          "image_style": "Handwriting on paper showing 'debt' crossed out with 'freedom' written beneath, editorial shot, vertical"
+        },
+        {
+          "slug": "investir-debutant",
+          "title": "Investir pour Débutants : Comment Commencer à Construire Votre Patrimoine Aujourd'hui",
+          "url": "https://the-motivahub.com/fr/journal/investir-debutant/",
+          "section": "Wealth Mindset",
+          "description": "Vous n'avez pas besoin d'être riche pour investir. Vous avez besoin d'investir pour devenir riche. Ce guide français explique les bases de l'investissement pour débutants : ETF, PEA, assurance-vie, l'intérêt composé et pourquoi le temps dans le marché bat le timing du marché. Commencer avec 50 euros par mois vaut mieux que commencer 'plus tard'. investissement débutant bourse ETF PEA épargne patrimoine finance personnelle francophone",
+          "alt": "Guide français d'investissement pour débutants montrant courbe de croissance d'épargne avec intérêts composés",
+          "image_style": "French-language pin: growing plant made of coins showing compound interest curve, warm cream background, vertical"
+        },
+        {
+          "slug": "earn-keep-grow",
+          "title": "Earn, Keep, Grow: The 3 Jobs of Money Nobody Taught You",
+          "url": "https://the-motivahub.com/journal/earn-keep-grow/",
+          "section": "Wealth Mindset",
+          "description": "Money has three jobs. Most people only know one. EARN: your income engine (job, business, skills). KEEP: your defense (emergency fund, insurance, low-interest debt). GROW: your offense (investing, assets, compounding). Skip any one and your financial life is unstable. Here's the audit that shows which job is broken for you right now — and the 30-day fix for each. earn keep grow money principles personal finance wealth building savings investing beginner financial discipline framework",
+          "alt": "Earn Keep Grow three jobs of money framework pin showing three columns with icons and short explanations",
+          "image_style": "Three-column framework Earn/Keep/Grow with simple icons, editorial cream background, serif type, vertical"
+        }
+      ]
+    },
+    "board7_morning": {
+      "name": "Morning Routines & Daily Habits",
+      "url": "https://www.pinterest.com/raihaneucef/morning-routines-daily-habits/",
+      "sections": ["5-Minute Habits", "Full Morning Routines", "Habit Stacking"],
+      "pins": [
+        {
+          "slug": "5-minute-morning-habit",
+          "title": "The 5-Minute Morning Habit That Saves Me 4 Hours a Week",
+          "url": "https://the-motivahub.com/journal/5-minute-morning-habit/",
+          "section": "5-Minute Habits",
+          "description": "Not meditation. Not journaling. Not cold water. Just one 5-minute habit that rewires your entire day: naming the day's ONE priority before touching your phone. It sounds embarrassingly simple. It works because it puts your brain in proactive mode instead of reactive. After 90 days of tracking, I reclaimed 4+ hours per week and stopped feeling hijacked by notifications. Here's how to actually stick with it (the trick is your phone location). 5 minute morning habit productivity priority setting focus morning routine daily discipline self improvement simplicity",
+          "alt": "5-minute morning habit pin showing notebook with 'one priority for today' written in morning light",
+          "image_style": "Notebook with 'Today's ONE Priority' handwritten on desk, warm morning sun rays, serif overlay, vertical"
+        },
+        {
+          "slug": "i-tested-12-morning-routines",
+          "title": "I Tested 12 Morning Routines for 30 Days. Only One Actually Worked.",
+          "url": "https://the-motivahub.com/journal/i-tested-12-morning-routines/",
+          "section": "Full Morning Routines",
+          "description": "Tim Ferriss, The Rock, Obama, Oprah, Jocko, Gary Vee, Robin Sharma's 5am club, my grandmother — I tested 12 famous morning routines for 30 days each. 11 broke within 3 weeks. One survived. It's not the winner everyone expects. It's the one built on friction removal, not willpower. Here's the full comparison table with what actually stuck, what broke, and why — plus the one routine you can copy tomorrow morning. morning routine tested comparison 30 day experiment productivity self improvement habit building discipline real results",
+          "alt": "I tested 12 famous morning routines for 30 days comparison chart showing which one survived",
+          "image_style": "Comparison chart with 12 routine names and pass/fail indicators, dark editorial design, vertical 1000x1500"
+        },
+        {
+          "slug": "morning-vs-night",
+          "title": "Morning vs Night Routine: Which Discipline Actually Sticks?",
+          "url": "https://the-motivahub.com/journal/morning-vs-night/",
+          "section": "Full Morning Routines",
+          "description": "Everyone argues morning routines are superior. The research says otherwise. Chronotype matters more than time of day. If you are a night owl, forcing 5am will destroy your discipline, not build it. Here's the exact framework to decide which one fits your biology, plus the routine templates for both — morning, evening, and the hybrid that's actually the strongest. morning vs night routine chronotype productivity discipline habit building self improvement energy management peak performance science based",
+          "alt": "Morning versus night routine comparison pin showing sunrise and sunset icons with chronotype labels",
+          "image_style": "Split design: sunrise side + sunset side with icons and comparison text, editorial, vertical"
+        },
+        {
+          "slug": "habit-stacking-routine",
+          "title": "Habit Stacking: The Easiest Way to Build New Routines (You Already Know It)",
+          "url": "https://the-motivahub.com/journal/habit-stacking-routine/",
+          "section": "Habit Stacking",
+          "description": "You already have habits. Coffee. Phone. Shower. Brush teeth. Habit stacking uses these existing anchors to install new behaviors without willpower. Formula: After [CURRENT HABIT], I will [NEW HABIT]. This is James Clear's most powerful idea, simplified into a 3-minute setup worksheet. 6 real stacks for morning, midday, and night that anyone can copy today. habit stacking james clear routine building tiny habits morning routine evening routine self improvement productivity framework",
+          "alt": "Habit stacking formula card showing after-current-habit then-new-habit framework with 6 examples",
+          "image_style": "Stacked blocks with habit names on each (Coffee → Journal → Stretch → Plan Day), clean editorial, vertical"
+        },
+        {
+          "slug": "the-morning-athlete",
+          "title": "The Morning Athlete: Why 5 AM Still Wins (And How to Actually Do It)",
+          "url": "https://the-motivahub.com/journal/the-morning-athlete/",
+          "section": "Full Morning Routines",
+          "description": "5am is not about willpower. It's about a system: the previous night's job (lights out time, phone distance, clothing ready), the first 20-minute sequence (water, movement, sunlight), and the identity layer (I am the kind of person who trains before the world wakes up). This is what actually gets you up 6 nights a week — not alarm apps or motivation. morning athlete 5am routine workout fitness discipline elite habits self improvement consistency system over goals",
+          "alt": "Morning athlete 5am workout pin showing runner silhouette against sunrise with elite routine overlay",
+          "image_style": "Silhouette runner on road at 5am sunrise, moody orange-blue light, serif headline overlay, vertical"
+        }
+      ]
+    },
+    "board8_productivity": {
+      "name": "Productivity Systems That Work",
+      "url": "https://www.pinterest.com/raihaneucef/productivity-systems-that-work/",
+      "sections": ["Deep Work Systems", "Focus & Energy"],
+      "pins": [
+        {
+          "slug": "deep-work-ritual",
+          "title": "I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)",
+          "url": "https://the-motivahub.com/journal/deep-work-ritual/",
+          "section": "Deep Work Systems",
+          "description": "Twelve tries. Eleven failed. The 12th ritual is the one I still use two years later. It is not willpower — it is design. Trigger, environment, sequence, exit, review. The exact 3-hour block: 15 min setup, 90 min primary work, 30 min buffer, 45 min secondary, 60 min review. Plus the 4 rules that stop notifications, energy crashes and the mid-block 'quick check' that kills everything. deep work ritual cal newport focus productivity 3 hour block time blocking distraction elimination self discipline knowledge work",
+          "alt": "Deep work 3 hour ritual timer pin showing focused workspace with block schedule and zero distractions",
+          "image_style": "Minimalist desk with timer showing 3:00, notebook, coffee — no phone — moody dark aesthetic, vertical"
+        },
+        {
+          "slug": "batching-productivite",
+          "title": "Batching : L'Arme Secrète des Personnes Ultra Productives",
+          "url": "https://the-motivahub.com/fr/journal/batching-productivite/",
+          "section": "Deep Work Systems",
+          "description": "Changer de tâche toutes les 10 minutes détruit votre QI efficace — la recherche montre un recul équivalent à rester éveillé 24 heures. Le batching, c'est grouper les tâches similaires dans des blocs focus : emails une fois le matin, appels l'après-midi, création en heures pleines. Voici le système exact utilisé par les meilleurs performers pour doubler leur output sans travailler plus. batching productivité focus deep work organisation temps gestion tâches système français",
+          "alt": "Carte française sur le batching productif montrant des blocs de tâches similaires regroupés dans la journée",
+          "image_style": "French-language pin: color-coded day blocks showing batching method, editorial, vertical"
+        },
+        {
+          "slug": "focus-monde-distractions",
+          "title": "How to Maintain Focus in a World Designed to Distract You",
+          "url": "https://the-motivahub.com/journal/focus-monde-distractions/",
+          "section": "Focus & Energy",
+          "description": "Your phone is not the problem. Your environment is. Every app was engineered by a team of psychologists to keep you scrolling. Fighting that with willpower alone is losing. Here are the 7 environment-level fixes — physical, digital, social — that restore 2+ hours of deep focus per day without needing motivation. Some of them sound stupid. They work anyway. focus deep work distraction elimination digital minimalism attention span productivity environment design self discipline",
+          "alt": "Focus in a distracted world pin showing phone in another room and clean workspace with single task",
+          "image_style": "Clean desk with phone visible but in drawer, single notebook open, serif headline, moody, vertical"
+        },
+        {
+          "slug": "slow-productivity-30-day-test",
+          "title": "I Tried Slow Productivity for 30 Days. Here's What Actually Changed.",
+          "url": "https://the-motivahub.com/journal/slow-productivity-30-day-test/",
+          "section": "Focus & Energy",
+          "description": "Cal Newport's Slow Productivity is 4 principles: do fewer things, work at a natural pace, obsess over quality, and — the one that hit me hardest — no busyness as a status signal. I tested it for 30 days. Output actually went up. My phone time went down 62%. But two things broke — one financially, one socially. Honest review with what to keep and what to skip. slow productivity cal newport deep work minimalist productivity 30 day test honest review busyness culture",
+          "alt": "Slow productivity 30 day test pin showing calendar week with few blocks and quality over quantity overlay",
+          "image_style": "Minimal weekly calendar with 3 big blocks only, cream background, serif headline, vertical"
+        },
+        {
+          "slug": "nervous-system-reset-focus",
+          "title": "Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)",
+          "url": "https://the-motivahub.com/journal/nervous-system-reset-focus/",
+          "section": "Focus & Energy",
+          "description": "The reason you cannot focus is not laziness. It is nervous system overload. When your sympathetic nervous system stays in fight-or-flight, no productivity app will save you. This is the exact 5-minute physiological sigh protocol I use to reset before deep work: double inhale, long exhale, 10 rounds. Then two minutes of peripheral vision activation. It sounds too simple to work. Try it for a week. nervous system regulation focus reset polyvagal vagus nerve stress relief calm productivity breathwork exercise",
+          "alt": "Nervous system reset 5 minute exercise pin showing breathing diagram with vagus nerve activation steps",
+          "image_style": "Simple breathing diagram with numbers 4-7-8, calm blue tone, serif headline, vertical 1000x1500"
+        }
+      ]
+    }
+  },
+  "publish_schedule": {
+    "Fri Oct 9": "Board 5 pins 1-3 + Board 6 pins 1-2 = 5 pins",
+    "Sat Oct 10": "Board 5 pins 4-5 + Board 6 pins 3-5 = 5 pins",
+    "Sun Oct 11": "Board 7 pins 1-5 = 5 pins",
+    "Mon Oct 12": "Board 8 pins 1-5 = 5 pins",
+    "Total": "20 pins published in 4 days after warm-up"
+  },
+  "image_generation_status": "PENDING — need to generate 20 vertical images (1000x1500) after user approves style sample",
+  "sample_images_first": "Generate 2 sample verticals (Board 5 pin 1 + Board 7 pin 1) → user reviews → then batch produce remaining 18"
+}

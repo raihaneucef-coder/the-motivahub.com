@@ -25,3 +25,7 @@ tests/*-quality/
 tests/journal-read/
 tests/journal-editorial-check/
 SECURITY-AUDIT.md
+
+# Pinterest pin factory outputs (large binaries, kept locally)
+scripts/pin-factory/out/
+scripts/pin-factory/html/

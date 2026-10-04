@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pin Card — Sample 2 (Morning Habit)</title>
+<style>
+  @font-face {
+    font-family: 'Fraunces';
+    src: url('../../public/fonts/fraunces-normal-latin-63f165.woff2') format('woff2');
+    font-weight: 400 900;
+  }
+  @font-face {
+    font-family: 'Fraunces';
+    src: url('../../public/fonts/fraunces-italic-latin-de4b58.woff2') format('woff2');
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Inter';
+    src: url('../../public/fonts/inter-normal-latin-1ab1ad.woff2') format('woff2');
+    font-weight: 400 700;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1000px; height: 1500px; overflow: hidden; background: #0b0b0d; }
+
+  .pin { position: relative; width: 1000px; height: 1500px; background: #0b0b0d; overflow: hidden; }
+  .photo {
+    position: absolute; top: 0; left: 0;
+    width: 1000px; height: 850px;
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.75) contrast(1.05);
+  }
+  .photo-fade {
+    position: absolute; top: 400px; left: 0;
+    width: 1000px; height: 450px;
+    background: linear-gradient(to bottom, transparent 0%, #0b0b0d 100%);
+  }
+  .tag {
+    position: absolute; top: 40px; left: 40px;
+    color: #c9a961;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px; font-weight: 600;
+    letter-spacing: 0.25em; text-transform: uppercase;
+    background: rgba(11,11,13,0.65);
+    padding: 12px 22px;
+    border: 1px solid rgba(201,169,97,0.4);
+  }
+  .big-number {
+    position: absolute; top: 780px; left: 60px;
+    color: #c9a961;
+    font-family: 'Fraunces', serif; font-style: italic; font-weight: 400;
+    font-size: 200px; line-height: 1;
+    letter-spacing: -0.03em;
+  }
+  .headline {
+    position: absolute; top: 990px; left: 260px; right: 60px;
+    color: #f5f1e8;
+    font-family: 'Fraunces', serif; font-weight: 500;
+    font-size: 62px; line-height: 1.1;
+    letter-spacing: -0.015em;
+  }
+  .headline .italic { font-style: italic; font-weight: 400; color: #d9c9a0; }
+  .sub {
+    position: absolute; top: 1250px; left: 60px; right: 60px;
+    color: rgba(245,241,232,0.75);
+    font-family: 'Inter', sans-serif; font-weight: 400;
+    font-size: 28px; line-height: 1.4;
+  }
+  .divider { position: absolute; top: 1345px; left: 60px; width: 100px; height: 2px; background: #c9a961; }
+  .brand {
+    position: absolute; top: 1370px; left: 60px;
+    color: #c9a961;
+    font-family: 'Fraunces', serif; font-weight: 600;
+    font-size: 24px; letter-spacing: 0.15em; text-transform: uppercase;
+  }
+  .url {
+    position: absolute; top: 1370px; right: 60px;
+    color: rgba(245,241,232,0.5);
+    font-family: 'Inter', sans-serif; font-weight: 500;
+    font-size: 22px; letter-spacing: 0.05em;
+  }
+  .accent-bar { position: absolute; bottom: 0; left: 0; width: 1000px; height: 10px; background: linear-gradient(to right, #c9a961 0%, rgba(201,169,97,0.3) 100%); }
+</style>
+</head>
+<body>
+  <div class="pin">
+    <div class="photo" style="background-image: url('../../public/images/blog/5-minute-morning-habit-2.jpg')"></div>
+    <div class="photo-fade"></div>
+    <div class="tag">Morning Routine · Real Test</div>
+    <div class="big-number">5'</div>
+    <div class="headline">The <span class="italic">5-minute</span> morning habit that saves me <span class="italic">4 hours a week</span></div>
+    <div class="sub">Not meditation. Not cold water. Just one priority named before touching your phone.</div>
+    <div class="divider"></div>
+    <div class="brand">Motiva Hub</div>
+    <div class="url">the-motivahub.com</div>
+    <div class="accent-bar"></div>
+  </div>
+</body>
+</html>

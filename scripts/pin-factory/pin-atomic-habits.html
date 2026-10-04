@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pin Card Template</title>
+<style>
+  @font-face {
+    font-family: 'Fraunces';
+    src: url('../../public/fonts/fraunces-normal-latin-63f165.woff2') format('woff2');
+    font-weight: 400 900;
+  }
+  @font-face {
+    font-family: 'Fraunces';
+    src: url('../../public/fonts/fraunces-italic-latin-de4b58.woff2') format('woff2');
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'Inter';
+    src: url('../../public/fonts/inter-normal-latin-1ab1ad.woff2') format('woff2');
+    font-weight: 400 700;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1000px; height: 1500px; overflow: hidden; background: #0b0b0d; }
+
+  .pin {
+    position: relative;
+    width: 1000px;
+    height: 1500px;
+    background: #0b0b0d;
+    overflow: hidden;
+  }
+
+  /* Top 60%: photo with dark gradient fade to bottom */
+  .photo {
+    position: absolute;
+    top: 0; left: 0;
+    width: 1000px;
+    height: 900px;
+    background-size: cover;
+    background-position: center;
+    filter: brightness(0.72) contrast(1.05);
+  }
+  .photo-fade {
+    position: absolute;
+    top: 400px; left: 0;
+    width: 1000px;
+    height: 500px;
+    background: linear-gradient(to bottom, transparent 0%, #0b0b0d 100%);
+  }
+
+  /* Category tag at top */
+  .tag {
+    position: absolute;
+    top: 40px; left: 40px;
+    color: #c9a961;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    background: rgba(11,11,13,0.65);
+    padding: 12px 22px;
+    border: 1px solid rgba(201,169,97,0.4);
+    backdrop-filter: blur(4px);
+  }
+
+  /* Headline block, positioned lower */
+  .headline {
+    position: absolute;
+    top: 850px; left: 60px; right: 60px;
+    color: #f5f1e8;
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 78px;
+    line-height: 1.08;
+    letter-spacing: -0.02em;
+  }
+  .headline .italic {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 400;
+    color: #d9c9a0;
+  }
+
+  /* Sub-hook */
+  .sub {
+    position: absolute;
+    top: 1220px; left: 60px; right: 60px;
+    color: rgba(245,241,232,0.75);
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.4;
+    letter-spacing: -0.005em;
+  }
+
+  /* Divider ornament */
+  .divider {
+    position: absolute;
+    top: 1335px; left: 60px;
+    width: 100px;
+    height: 2px;
+    background: #c9a961;
+  }
+
+  /* Footer brand */
+  .brand {
+    position: absolute;
+    top: 1360px; left: 60px;
+    color: #c9a961;
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+  .url {
+    position: absolute;
+    top: 1360px; right: 60px;
+    color: rgba(245,241,232,0.5);
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: 0.05em;
+  }
+
+  /* Bottom accent bar */
+  .accent-bar {
+    position: absolute;
+    bottom: 0; left: 0;
+    width: 1000px;
+    height: 10px;
+    background: linear-gradient(to right, #c9a961 0%, rgba(201,169,97,0.3) 100%);
+  }
+</style>
+</head>
+<body>
+  <div class="pin">
+    <div class="photo" style="background-image: url('../../public/images/blog/atomic-habits-review-2-md.jpg')"></div>
+    <div class="photo-fade"></div>
+    <div class="tag">Book Review · 2026</div>
+    <div class="headline">Atomic Habits <span class="italic">changed my mornings</span> — but not the way you think</div>
+    <div class="sub">4 reads in 18 months. Here's what actually stuck after the hype wore off.</div>
+    <div class="divider"></div>
+    <div class="brand">Motiva Hub</div>
+    <div class="url">the-motivahub.com</div>
+    <div class="accent-bar"></div>
+  </div>
+</body>
+</html>
