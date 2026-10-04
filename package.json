@@ -15,7 +15,8 @@
     "@astrojs/vercel": "^9.0.5",
     "astro": "^5.0.0",
     "marked": "^18.0.13",
-    "playwright": "^1.62.1"
+    "playwright": "^1.62.1",
+    "resend": "^6.32.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",

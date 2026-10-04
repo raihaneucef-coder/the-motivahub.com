@@ -1,0 +1,234 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+
+const title = "The Habit Stack Kit — Free 14-Page PDF | Motiva Hub";
+const description = "A printable field guide for people who've read the books but still don't have the habits. Pick an anchor, stack a behavior, remove the friction. Free with your email.";
+const canonical = "https://the-motivahub.com/guides/habit-stack-kit/";
+
+const sections = [
+  { n: '01', title: 'Welcome', text: 'How to use this kit in one sitting — 20 to 40 minutes, pen on paper.' },
+  { n: '02', title: 'The Habit Stack Formula', text: 'The one sentence that turns a wish into a scheduled behavior.' },
+  { n: '03', title: 'Anchor Audit', text: 'Find the 8-12 automatic behaviors you already run daily. Pick 3.' },
+  { n: '04', title: 'Ten Starter Stacks', text: 'Morning, midday, evening, transition, weekly — copy one to start.' },
+  { n: '05', title: '30-Day Grid', text: 'Printable tracker: 3 habits × 5 weeks. Never miss twice.' },
+  { n: '06', title: 'Friction Removal', text: 'The real reason your last five attempts failed. Fix the room, not the will.' },
+  { n: '07', title: 'Environment Design', text: 'Stacks + spaces. Every habit pre-loaded where the anchor happens.' },
+  { n: '08', title: '90-Day Identity Test', text: 'Three questions that tell you whether the stack worked or just made noise.' },
+  { n: '09', title: 'Failure Modes', text: 'Six ways this breaks and the exact fix for each.' },
+  { n: '10', title: 'Digital Tools', text: 'What to use after day 30 (and what to avoid).' },
+  { n: '11', title: 'Extra Tracker Pages', text: 'Backup weeks for the ones who miss twice and restart.' },
+  { n: '12', title: 'After the Kit', text: 'Where to go next depending on which stack stuck.' },
+];
+
+const faq = [
+  { q: 'Is it really free?', a: 'Yes. No upsell, no paywall. Some links inside are Amazon Associates — if you buy through them, we get a small commission at no extra cost to you. The framework itself is not for sale.' },
+  { q: 'Why email to download?', a: 'Because we send you four short emails over the next 10 days that make the framework actually work. The PDF is step one; the sequence is the practice.' },
+  { q: 'Do I need a printer?', a: 'No. The PDF is A5, works on tablets with annotation (GoodNotes, Notability), and the tracker grids are usable digitally.' },
+  { q: 'How is this different from Atomic Habits?', a: 'Clear wrote the book. This is a 14-page worksheet version of the stack method, filled in one sitting. Read the book if you want depth; use the kit if you want a habit running by tomorrow morning.' },
+];
+---
+
+<Layout title={title} description={description} canonical={canonical}>
+  <link rel="canonical" href={canonical} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faq.map((item) => ({
+      "@type": "Question",
+      "name": item.q,
+      "acceptedAnswer": { "@type": "Answer", "text": item.a }
+    }))
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "The Habit Stack Kit",
+    "author": { "@type": "Person", "name": "Youssef Raihane" },
+    "publisher": { "@type": "Organization", "name": "Motiva Hub" },
+    "datePublished": "2026-10-04",
+    "abstract": description,
+    "url": canonical,
+    "isAccessibleForFree": true,
+  })} />
+
+  <style>
+    .hsk-hero {
+      padding: clamp(48px, 8vw, 96px) 0 40px;
+      background: linear-gradient(180deg, var(--bg-elevated, #111) 0%, transparent 100%);
+    }
+    .hsk-hero-inner {
+      display: grid; grid-template-columns: 1.15fr 1fr; gap: 48px; align-items: center;
+      max-width: 1100px; margin: 0 auto; padding: 0 24px;
+    }
+    .hsk-kicker { color: var(--gold, #d4b377); font-size: 11px; letter-spacing: 3px; text-transform: uppercase; font-weight: 600; margin-bottom: 16px; }
+    .hsk-h1 { font-family: 'Fraunces', serif; font-size: clamp(36px, 5vw, 56px); line-height: 1.05; margin: 0 0 20px; color: var(--text, #f5f5f5); font-weight: 600; }
+    .hsk-sub { font-size: 17px; line-height: 1.6; color: var(--text-muted, #999); margin: 0 0 28px; max-width: 520px; }
+    .hsk-form { display: flex; flex-direction: column; gap: 10px; max-width: 460px; }
+    .hsk-form-row { display: flex; gap: 8px; flex-wrap: wrap; }
+    .hsk-form input {
+      flex: 1 1 180px; padding: 14px 16px; background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.12); border-radius: 6px;
+      color: var(--text, #f5f5f5); font-size: 15px; font-family: inherit;
+    }
+    .hsk-form input:focus { outline: none; border-color: var(--gold, #d4b377); background: rgba(212,179,119,0.04); }
+    .hsk-form button {
+      padding: 14px 22px; background: var(--gold, #d4b377); color: #0a0a0a;
+      border: none; border-radius: 6px; font-weight: 600; cursor: pointer;
+      font-size: 15px; letter-spacing: 0.3px; transition: background 0.15s;
+    }
+    .hsk-form button:hover { background: var(--or-light, #e5c890); }
+    .hsk-msg { font-size: 13px; color: var(--text-muted, #888); min-height: 20px; margin: 4px 0 0; }
+    .hsk-msg.err { color: #e57373; }
+    .hsk-msg.ok { color: #7dd67d; }
+    .hsk-legal { font-size: 11px; color: var(--text-muted, #666); margin: 6px 0 0; }
+    .hsk-legal a { color: inherit; }
+    .hsk-preview {
+      background: #faf8f0; border-radius: 8px; padding: 24px; aspect-ratio: 5/7;
+      max-width: 340px; margin: 0 auto; box-shadow: 0 30px 60px -20px rgba(0,0,0,0.4), 0 0 0 1px rgba(212,179,119,0.15);
+      display: flex; flex-direction: column; justify-content: space-between; color: #1a1a1a;
+    }
+    .hsk-preview-kicker { font-size: 9px; color: #b8965a; letter-spacing: 2.5px; text-transform: uppercase; font-weight: 600; }
+    .hsk-preview-title { font-family: 'Fraunces', serif; font-size: 34px; line-height: 1.05; margin: 12px 0 0; color: #0a0a0a; font-weight: 600; }
+    .hsk-preview-rule { width: 40px; height: 2px; background: #b8965a; margin: 14px 0; }
+    .hsk-preview-body { font-size: 12px; color: #333; line-height: 1.5; }
+    .hsk-preview-footer { font-size: 10px; color: #6b5320; font-family: 'Fraunces', serif; font-style: italic; }
+
+    .hsk-section { padding: 60px 0; }
+    .hsk-section h2 { font-family: 'Fraunces', serif; font-size: clamp(26px, 3.5vw, 36px); margin: 0 0 8px; color: var(--text, #f5f5f5); }
+    .hsk-section > .container > p { color: var(--text-muted, #999); max-width: 640px; margin: 0 0 32px; }
+    .hsk-container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+    .hsk-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+    .hsk-card {
+      background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08);
+      padding: 20px; border-radius: 8px; transition: border-color 0.15s;
+    }
+    .hsk-card:hover { border-color: rgba(212,179,119,0.3); }
+    .hsk-card-num { color: var(--gold, #d4b377); font-size: 10px; letter-spacing: 2.5px; font-weight: 600; margin-bottom: 6px; }
+    .hsk-card-title { font-family: 'Fraunces', serif; font-size: 17px; margin: 0 0 6px; color: var(--text, #f5f5f5); font-weight: 600; }
+    .hsk-card-text { font-size: 13.5px; line-height: 1.55; color: var(--text-muted, #999); margin: 0; }
+
+    .hsk-faq details {
+      background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08);
+      padding: 14px 18px; margin-bottom: 10px; border-radius: 6px;
+    }
+    .hsk-faq summary { cursor: pointer; font-weight: 500; color: var(--text, #f5f5f5); font-size: 15px; }
+    .hsk-faq details p { color: var(--text-muted, #999); margin: 10px 0 0; font-size: 14px; line-height: 1.6; }
+
+    .hsk-cta-bottom {
+      padding: 40px 24px; background: linear-gradient(135deg, rgba(212,179,119,0.08), rgba(212,179,119,0.02));
+      border-radius: 12px; text-align: center; margin: 40px 0;
+    }
+    .hsk-cta-bottom h2 { margin: 0 0 8px; font-family: 'Fraunces', serif; font-size: 26px; color: var(--text, #f5f5f5); }
+    .hsk-cta-bottom p { margin: 0 0 20px; color: var(--text-muted, #999); }
+
+    @media (max-width: 780px) {
+      .hsk-hero-inner { grid-template-columns: 1fr; }
+      .hsk-preview { max-width: 260px; }
+    }
+  </style>
+
+  <section class="hsk-hero">
+    <div class="hsk-hero-inner">
+      <div>
+        <div class="hsk-kicker">Motiva Hub · Field Guide № 02</div>
+        <h1 class="hsk-h1">The Habit<br>Stack Kit</h1>
+        <p class="hsk-sub">A 14-page working document for people who've read the books but still don't have the habits. Pick an anchor. Stack a behavior. Remove the friction. Ship the day.</p>
+        <form class="hsk-form" id="hsk-form" novalidate>
+          <input type="hidden" name="source" value="habit-stack-kit" />
+          <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
+          <div class="hsk-form-row">
+            <input type="text" name="name" placeholder="First name (optional)" aria-label="First name" autocomplete="given-name" />
+            <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" required autocomplete="email" />
+            <button type="submit">Send the PDF →</button>
+          </div>
+          <p class="hsk-msg" id="hsk-msg" aria-live="polite"></p>
+          <p class="hsk-legal">Free forever. 4 emails over 10 days, then 1/week. <a href="/privacy/">Privacy</a> · <a href="/affiliate-disclosure/">Affiliate disclosure</a></p>
+        </form>
+      </div>
+      <aside class="hsk-preview" aria-label="PDF preview">
+        <div>
+          <div class="hsk-preview-kicker">Motiva Hub · Field Guide № 02</div>
+          <div class="hsk-preview-title">The Habit<br>Stack Kit</div>
+          <div class="hsk-preview-rule"></div>
+          <div class="hsk-preview-body">A 14-page working document for people who have read the books but still don't have the habits.</div>
+        </div>
+        <div class="hsk-preview-footer">Youssef Raihane · the-motivahub.com</div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="hsk-section">
+    <div class="hsk-container">
+      <h2>What's inside</h2>
+      <p>Twelve sections, one working document. Fill it in a single sitting. Run it for 30 days.</p>
+      <div class="hsk-grid">
+        {sections.map((s) => (
+          <div class="hsk-card">
+            <div class="hsk-card-num">{s.n}</div>
+            <h3 class="hsk-card-title">{s.title}</h3>
+            <p class="hsk-card-text">{s.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="hsk-section">
+    <div class="hsk-container">
+      <h2>Frequently asked</h2>
+      <div class="hsk-faq">
+        {faq.map((f) => (
+          <details>
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="hsk-section">
+    <div class="hsk-container">
+      <div class="hsk-cta-bottom">
+        <h2>Ready to run your first stack?</h2>
+        <p>Free PDF. 14 pages. Yours in 30 seconds.</p>
+        <button type="button" onclick="document.getElementById('hsk-form')?.scrollIntoView({behavior:'smooth', block:'center'}); document.querySelector('#hsk-form input[name=email]')?.focus();">Get the kit →</button>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const form = document.getElementById('hsk-form');
+    const msg = document.getElementById('hsk-msg');
+    form?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const fd = new FormData(form);
+      const email = String(fd.get('email') || '').trim();
+      const name = String(fd.get('name') || '').trim();
+      const source = String(fd.get('source') || 'habit-stack-kit');
+      if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        msg.textContent = 'Please enter a valid email.'; msg.className = 'hsk-msg err'; return;
+      }
+      msg.textContent = 'Sending…'; msg.className = 'hsk-msg';
+      try {
+        const res = await fetch('/api/pdf-subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({ email, name, source }),
+        });
+        const data = await res.json();
+        if (data.ok) {
+          msg.textContent = '✓ Check your inbox — the PDF is on its way.';
+          msg.className = 'hsk-msg ok';
+          form.reset();
+          try { window.gtag && window.gtag('event', 'pdf_subscribe', { source, delivery: data.delivery }); } catch {}
+        } else {
+          throw new Error(data.message || 'Failed');
+        }
+      } catch (err) {
+        msg.textContent = 'Something went wrong. Try again or email us directly.';
+        msg.className = 'hsk-msg err';
+      }
+    });
+  </script>
+</Layout>

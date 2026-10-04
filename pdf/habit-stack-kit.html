@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Habit Stack Kit — Motiva Hub</title>
+<style>
+  @page { size: A5 portrait; margin: 12mm 12mm 14mm 12mm; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    color: #1a1a1a; background: #faf8f0; margin: 0; padding: 0;
+    font-size: 9pt; line-height: 1.4;
+  }
+  .page { page-break-after: always; break-after: page; position: relative; }
+  .page > * { max-width: 100%; }
+  .page:last-child { page-break-after: auto; break-after: auto; }
+  h1, h2, h3, h4 {
+    font-family: 'Fraunces', Georgia, serif; color: #0a0a0a;
+    margin: 0 0 8mm 0; font-weight: 600; letter-spacing: -0.01em;
+  }
+  h1 { font-size: 26pt; line-height: 1.1; }
+  h2 { font-size: 15pt; line-height: 1.2; margin-bottom: 5mm; }
+  h3 { font-size: 12pt; margin-bottom: 2.5mm; color: #6b5320; }
+  h4 { font-size: 10.5pt; margin-bottom: 1.5mm; color: #333; }
+  p { margin: 0 0 3mm 0; }
+  .kicker {
+    color: #b8965a; font-size: 8pt; text-transform: uppercase;
+    letter-spacing: 3px; font-weight: 600; margin-bottom: 4mm;
+  }
+  .gold { color: #6b5320; }
+  .cover {
+    display: flex; flex-direction: column; justify-content: center; align-items: flex-start;
+    text-align: left; padding-top: 30mm;
+  }
+  .cover-rule { width: 40mm; height: 1mm; background: #b8965a; margin: 6mm 0 8mm 0; }
+  .cover-footer { position: absolute; bottom: 12mm; left: 0; right: 0; font-size: 8pt; color: #666; }
+  .callout {
+    background: #ffffff; border-left: 2mm solid #b8965a;
+    padding: 4mm 5mm; margin: 4mm 0; font-size: 9.5pt;
+  }
+  .callout strong { color: #6b5320; }
+  .formula {
+    text-align: center; padding: 6mm 4mm; background: #0a0a0a; color: #f5f5f5;
+    font-family: 'JetBrains Mono', 'Courier New', monospace;
+    font-size: 11pt; margin: 4mm 0; letter-spacing: 0.02em;
+  }
+  .formula .gold-inline { color: #d4b377; }
+  table { width: 100%; border-collapse: collapse; margin: 3mm 0; font-size: 9pt; }
+  th, td { padding: 2mm 3mm; border-bottom: 0.3mm solid #ddd; text-align: left; }
+  th { background: #f0ebe0; font-weight: 600; color: #6b5320; font-size: 8.5pt; text-transform: uppercase; letter-spacing: 1px; }
+  .tracker-grid { display: grid; grid-template-columns: 8mm repeat(7, 1fr); gap: 0.8mm; margin: 2mm 0; font-size: 7.5pt; }
+  .tracker-grid > div {
+    aspect-ratio: 1; border: 0.3mm solid #b8965a; display: flex;
+    align-items: center; justify-content: center; background: #fff;
+  }
+  .tracker-grid .hdr { background: #6b5320; color: #fff; border-color: #6b5320; font-weight: 600; }
+  .tracker-grid .lbl { background: transparent; border: none; justify-content: flex-start; font-family: 'Fraunces', serif; color: #6b5320; }
+  .affiliate {
+    background: #fff; border: 0.3mm dashed #b8965a; padding: 2mm 3mm; margin: 3mm 0;
+    font-size: 8pt; color: #444;
+  }
+  .affiliate::before { content: "📚 RECOMMENDED · "; color: #b8965a; font-weight: 700; font-size: 8pt; letter-spacing: 1.2px; }
+  .affiliate a { color: #6b5320; text-decoration: none; font-weight: 600; word-break: break-all; }
+  .checklist { list-style: none; padding: 0; margin: 3mm 0; }
+  .checklist li { padding: 1.5mm 0 1.5mm 8mm; position: relative; }
+  .checklist li::before {
+    content: "□"; position: absolute; left: 0; top: 1.5mm;
+    color: #b8965a; font-size: 12pt; font-weight: 400;
+  }
+  .stack-card {
+    background: #fff; padding: 2mm 3mm; margin: 1.5mm 0;
+    border-left: 0.8mm solid #d4b377; font-size: 8.5pt;
+  }
+  .stack-card .stack-name { font-family: 'Fraunces', serif; color: #6b5320; font-weight: 600; }
+  .footer-note { position: absolute; bottom: 10mm; left: 0; right: 0; text-align: center; font-size: 7.5pt; color: #999; }
+  .brand-mark { color: #b8965a; font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; }
+  ol { padding-left: 6mm; margin: 3mm 0; }
+  ol li { margin-bottom: 2mm; }
+  .worksheet-box {
+    border: 0.4mm solid #b8965a; padding: 4mm; margin: 3mm 0; background: #fff;
+    min-height: 25mm; font-size: 9pt;
+  }
+  .worksheet-label { color: #6b5320; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2mm; font-weight: 600; }
+  .worksheet-line { border-bottom: 0.2mm dotted #b8965a; height: 6mm; margin-bottom: 2mm; }
+</style>
+</head>
+<body>
+
+<!-- ==================== PAGE 1 · COVER ==================== -->
+<section class="page cover">
+  <div class="kicker">Motiva Hub · Field Guide № 02</div>
+  <h1>The Habit<br>Stack Kit</h1>
+  <div class="cover-rule"></div>
+  <p style="font-size: 11pt; max-width: 120mm; color: #333;">
+    A 14-page working document for people who have read the books but still don't have the habits.
+    Pick an anchor. Stack a behavior. Remove the friction. Ship the day.
+  </p>
+  <p style="margin-top: 12mm; font-size: 9.5pt; color: #666;">Youssef Raihane · <span class="brand-mark">the-motivahub.com</span></p>
+  <div class="cover-footer">Free with attribution. Not for resale.</div>
+</section>
+
+<!-- ==================== PAGE 2 · WELCOME ==================== -->
+<section class="page">
+  <div class="kicker">01 · Welcome</div>
+  <h2>How to use this kit</h2>
+  <p>This is not a book. Books sit on shelves. This is a <strong>worksheet you fill in with a pen, on the desk, in one sitting</strong>. Twenty to forty minutes, and you walk out with three habits you can run for 30 days.</p>
+  <p>The framework is small on purpose:</p>
+  <ol>
+    <li><strong>Anchor</strong> — a habit you already do without thinking (coffee, shower, sitting down at desk).</li>
+    <li><strong>Stack</strong> — a new, tiny behavior attached to that anchor. Two minutes maximum.</li>
+    <li><strong>Friction</strong> — one thing in your environment that made the old attempt fail. Remove it.</li>
+  </ol>
+  <div class="callout">
+    <strong>Rules of the kit.</strong> Fill it in one pass — don't come back tomorrow. Under two minutes per new habit. Never miss twice in a row. Track on paper, not on an app for the first 30 days (apps are the reason your last 5 attempts failed).
+  </div>
+  <p style="margin-top: 6mm; font-size: 9pt; color: #666;">Everything in this kit comes from applied behavior design (Clear, Fogg, Lally), 8 years of personal protocols, and the failure reports of people who tried and quit. Nothing is theory you'll never use.</p>
+</section>
+
+<!-- ==================== PAGE 3 · FORMULA ==================== -->
+<section class="page">
+  <div class="kicker">02 · The Formula</div>
+  <h2>The Habit Stack Formula</h2>
+  <p>The full stack is one sentence. Memorize it:</p>
+  <div class="formula">
+    After I <span class="gold-inline">[ANCHOR]</span>,<br>
+    I will <span class="gold-inline">[TINY NEW HABIT]</span>.<br>
+    <span style="font-size: 9pt; color: #b8965a;">So that I become <span class="gold-inline">[IDENTITY]</span>.</span>
+  </div>
+  <p><strong>Example:</strong> "After I pour my morning coffee, I will write one sentence in my journal. So that I become someone who writes daily."</p>
+  <p>Notice three things:</p>
+  <ol>
+    <li><strong>The anchor is unambiguous.</strong> Not "in the morning" — that's a mood. "After I pour my coffee" — that's a physical event you can point to.</li>
+    <li><strong>The new habit fits in two minutes.</strong> Not "write 500 words". One sentence. You can scale up later, but the entry bar must survive your worst day.</li>
+    <li><strong>The identity clause is stated out loud.</strong> Habits fail when they are only tasks. Reading "so that I become a writer" once makes the sentence feel like evidence for an argument, not a chore.</li>
+  </ol>
+  <div class="affiliate">The full source of this method: James Clear, <em>Atomic Habits</em> — <a href="https://www.amazon.fr/dp/0735211290?tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=atomic-habits">amazon.fr/dp/0735211290</a></div>
+</section>
+
+<!-- ==================== PAGE 4 · ANCHOR WORKSHEET ==================== -->
+<section class="page">
+  <div class="kicker">03 · Anchor Audit</div>
+  <h2>Find your anchors</h2>
+  <p>Every day has 8-12 automatic behaviors you already do daily without willpower. These are your anchors. List them:</p>
+  <div class="worksheet-box">
+    <div class="worksheet-label">Morning (before noon)</div>
+    <div class="worksheet-line"></div>
+    <div class="worksheet-line"></div>
+    <div class="worksheet-line"></div>
+    <div class="worksheet-line"></div>
+  </div>
+  <div class="worksheet-box">
+    <div class="worksheet-label">Midday (noon to 5pm)</div>
+    <div class="worksheet-line"></div>
+    <div class="worksheet-line"></div>
+    <div class="worksheet-line"></div>
+  </div>
+  <div class="worksheet-box">
+    <div class="worksheet-label">Evening (after 6pm)</div>
+    <div class="worksheet-line"></div>
+    <div class="worksheet-line"></div>
+    <div class="worksheet-line"></div>
+  </div>
+  <p style="margin-top: 4mm; font-size: 9pt;"><strong>Selection rule:</strong> pick 3 anchors max — one morning, one midday, one evening. If you pick more, you're building a schedule, not a stack. Schedules fail.</p>
+</section>
+
+<!-- ==================== PAGE 5 · TEN STACKS ==================== -->
+<section class="page">
+  <div class="kicker">04 · Starter Stacks</div>
+  <h2>Ten stacks that survive real weeks</h2>
+  <div class="stack-card"><strong>Morning</strong> · <span class="stack-name">After I pour my coffee, I write one sentence.</span> → Becomes: someone who captures thinking before it evaporates.</div>
+  <div class="stack-card"><strong>Morning</strong> · <span class="stack-name">After I brush my teeth, I do 10 squats before touching my phone.</span> → Becomes: someone whose body moves first.</div>
+  <div class="stack-card"><strong>Morning</strong> · <span class="stack-name">After I sit at my desk, I open ONE file, not my inbox.</span> → Becomes: someone who starts with the work.</div>
+  <div class="stack-card"><strong>Midday</strong> · <span class="stack-name">After I finish lunch, I walk 6 minutes outside — no phone.</span> → Becomes: someone who resets the nervous system, not just eats.</div>
+  <div class="stack-card"><strong>Midday</strong> · <span class="stack-name">After I close a call, I write one sentence about what was decided.</span> → Becomes: someone whose meetings produce artifacts.</div>
+  <div class="stack-card"><strong>Evening</strong> · <span class="stack-name">After I put my phone on the charger, I read 2 pages of a book.</span> → Becomes: someone who ends the day with input, not output.</div>
+  <div class="stack-card"><strong>Evening</strong> · <span class="stack-name">After I change into home clothes, I set tomorrow's top-3 on paper.</span> → Becomes: someone who wakes with a plan.</div>
+  <div class="stack-card"><strong>Evening</strong> · <span class="stack-name">After I brush my teeth at night, I write one thing that worked today.</span> → Becomes: someone who sees evidence for the story "I'm getting better".</div>
+  <div class="stack-card"><strong>Transition</strong> · <span class="stack-name">After I close my laptop, I do one 60-second stretch before standing.</span> → Becomes: someone whose body doesn't pay for the desk hours.</div>
+  <div class="stack-card"><strong>Weekly</strong> · <span class="stack-name">After Sunday coffee, I look at 7 days of my calendar for 5 minutes.</span> → Becomes: someone who audits the week, not just survives it.</div>
+  <div class="affiliate" style="margin-top: 4mm;">For the identity-based approach: James Clear, <em>Atomic Habits</em> — <a href="https://www.amazon.fr/dp/0735211290?tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=atomic-habits">amazon.fr/dp/0735211290</a>. For the tiny-behavior science: B.J. Fogg, <em>Tiny Habits</em> — <a href="https://www.amazon.fr/dp/059323484X?tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=tiny-habits">amazon.fr/dp/059323484X</a>.</div>
+</section>
+
+<!-- ==================== PAGE 6 · 30-DAY TRACKER ==================== -->
+<section class="page">
+  <div class="kicker">05 · The 30-Day Grid</div>
+  <h2 style="margin-bottom:3mm;">Your stack, tracked</h2>
+  <p style="font-size:8.5pt; margin-bottom:2mm;">Print this page. Fill your 3 anchors on the left. Tick a square each day you did the habit. Two empty squares in a row → shrink the habit to 30 seconds, not to zero. <span style="color:#6b5320; font-size:8pt;">(Each column is a weekday, each row is one week W1..W5.)</span></p>
+
+  <table style="font-size:7pt; margin: 1mm 0; padding:0;">
+    <tr><th style="width:32mm; padding:1mm 2mm;">Anchor 1: ______________</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
+    <tr><td style="padding:1.2mm 2mm;">W1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W2</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W3</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W4</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W5</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </table>
+
+  <table style="font-size:7pt; margin: 1mm 0;">
+    <tr><th style="width:32mm; padding:1mm 2mm;">Anchor 2: ______________</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
+    <tr><td style="padding:1.2mm 2mm;">W1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W2</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W3</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W4</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W5</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </table>
+
+  <table style="font-size:7pt; margin: 1mm 0;">
+    <tr><th style="width:32mm; padding:1mm 2mm;">Anchor 3: ______________</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
+    <tr><td style="padding:1.2mm 2mm;">W1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W2</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W3</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W4</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td style="padding:1.2mm 2mm;">W5</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </table>
+
+  <div class="footer-note">Motiva Hub · Habit Stack Kit · 30-day grid — 3 stacks × 5 weeks</div>
+</section>
+
+<!-- ==================== PAGE 7 · FRICTION CHECKLIST ==================== -->
+<section class="page">
+  <div class="kicker">06 · Friction Removal</div>
+  <h2>Why your last 5 attempts failed</h2>
+  <p>It was not motivation. It was that the phone was 30 cm closer than the journal. Behavior is mostly environment. Audit:</p>
+  <h3>Bedroom</h3>
+  <ul class="checklist">
+    <li>Phone charges outside arm's reach (or in another room)</li>
+    <li>Book is on the nightstand, not on a shelf</li>
+    <li>Clothes for tomorrow's workout are laid out visible</li>
+    <li>Alarm clock is a physical clock, not your phone</li>
+  </ul>
+  <h3>Desk</h3>
+  <ul class="checklist">
+    <li>Only the current project is open on screen</li>
+    <li>Notifications disabled for non-human sources</li>
+    <li>Notebook is on top of keyboard, not in a drawer</li>
+    <li>Water bottle sits next to laptop (visual reminder)</li>
+  </ul>
+  <h3>Kitchen</h3>
+  <ul class="checklist">
+    <li>Fruit is at eye level; snacks are in a closed container in a cupboard</li>
+    <li>Prep containers are visible on counter, not buried in a cabinet</li>
+    <li>Supplements sit next to the coffee maker (anchor proximity)</li>
+  </ul>
+  <div class="affiliate">A physical alarm clock, cheap and effective: Philips Somneo — <a href="https://www.amazon.fr/s?k=somneo+hf3525&tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=somneo">amazon.fr/s?k=somneo</a>. Phone-locking box for deep-work hours: k-lock — <a href="https://www.amazon.fr/s?k=phone+locking+box&tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=phone-locker">amazon.fr/s?k=phone+locking+box</a>.</div>
+</section>
+
+<!-- ==================== PAGE 8 · ENVIRONMENT × STACK ==================== -->
+<section class="page">
+  <div class="kicker">07 · Environment Design</div>
+  <h2>Habit stacking × environment</h2>
+  <p>A stack without an environment is a wish. A stack inside a designed space is a machine. Combine them:</p>
+  <table>
+    <tr><th>Anchor</th><th>Stack</th><th>Environment tweak</th></tr>
+    <tr><td>Pour coffee</td><td>Write 1 sentence</td><td>Notebook already open on counter</td></tr>
+    <tr><td>Brush teeth</td><td>10 squats</td><td>Mat unrolled in front of sink</td></tr>
+    <tr><td>Sit at desk</td><td>Open 1 file</td><td>Bookmark on that file; inbox icon removed</td></tr>
+    <tr><td>Close laptop</td><td>60-second stretch</td><td>Yoga block sits on the laptop itself</td></tr>
+    <tr><td>Change clothes</td><td>Write top-3</td><td>Pen taped to wardrobe door</td></tr>
+  </table>
+  <div class="callout"><strong>The one-line rule.</strong> Every habit must be pre-loaded in the physical space where the anchor happens. If it isn't visible, it isn't chosen.</div>
+  <div class="affiliate">For the environment-first framework, the classic read is Charles Duhigg, <em>The Power of Habit</em> — <a href="https://www.amazon.fr/dp/081298160X?tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=power-of-habit">amazon.fr/dp/081298160X</a>.</div>
+</section>
+
+<!-- ==================== PAGE 9 · 90-DAY IDENTITY TEST ==================== -->
+<section class="page">
+  <div class="kicker">08 · Identity Test</div>
+  <h2>The 90-day identity test</h2>
+  <p>Most people quit at day 30 because nothing felt different. Try this instead. Day 90, ask:</p>
+  <div class="worksheet-box">
+    <div class="worksheet-label">The three questions</div>
+    <p style="font-size: 10pt;"><strong>1.</strong> Has the sentence "I'm someone who ___" changed for me? What did I believe 90 days ago vs. now?</p>
+    <div class="worksheet-line"></div><div class="worksheet-line"></div>
+    <p style="font-size: 10pt;"><strong>2.</strong> What do people around me now see that they didn't 90 days ago?</p>
+    <div class="worksheet-line"></div><div class="worksheet-line"></div>
+    <p style="font-size: 10pt;"><strong>3.</strong> If I had to keep only one of the three stacks I built — which one stays?</p>
+    <div class="worksheet-line"></div><div class="worksheet-line"></div>
+  </div>
+  <p style="margin-top: 4mm; font-size: 9pt; color: #666;"><strong>Interpretation.</strong> If question 1 has an honest answer, the stack worked. If it doesn't, the stack was too big or the anchor was weak. Shrink, re-anchor, restart.</p>
+</section>
+
+<!-- ==================== PAGE 10 · FAILURE PATTERNS ==================== -->
+<section class="page">
+  <div class="kicker">09 · Failure Modes</div>
+  <h2>Common ways this breaks</h2>
+  <div class="stack-card"><strong>"I forgot three days in a row."</strong> → Anchor was too passive. Move the stack to a more physical anchor (opening a door, sitting down, brushing teeth — not "when I feel like it").</div>
+  <div class="stack-card"><strong>"The stack felt stupid."</strong> → Habit was too big. Cut it to 30 seconds. One pushup. One word written. Do that for a week, then grow.</div>
+  <div class="stack-card"><strong>"I did the habit but nothing changed."</strong> → Identity clause wasn't written. Re-read the sentence "so that I become ___" out loud every morning for 30 days. Habits compound in identity, not in outcomes.</div>
+  <div class="stack-card"><strong>"I got sick and stopped."</strong> → Restart with the smallest possible version. Never miss twice in a row after a restart; that's the actual rule.</div>
+  <div class="stack-card"><strong>"Traveling broke the anchor."</strong> → Design a travel version of every stack: 2 squats instead of 10; one sentence in phone Notes instead of journal. Anchor stays, habit scales down.</div>
+  <div class="stack-card"><strong>"I tried 5 stacks at once."</strong> → You're not building habits. You're doing a self-improvement project. Cap at 3. One becomes automatic before adding the fourth.</div>
+  <div class="affiliate">For the recovery protocol after a break, Dave Asprey-adjacent is not the answer. The right book is B.J. Fogg, <em>Tiny Habits</em> — <a href="https://www.amazon.fr/dp/059323484X?tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=tiny-habits">amazon.fr/dp/059323484X</a>.</div>
+</section>
+
+<!-- ==================== PAGE 11 · TOOLS ==================== -->
+<section class="page">
+  <div class="kicker">10 · Digital Tools That Help</div>
+  <h2>What to use, what to avoid</h2>
+  <p>For the first 30 days, paper only. After that, if a tool removes a real friction, use it:</p>
+  <table>
+    <tr><th>Tool</th><th>For</th><th>Why</th></tr>
+    <tr><td>Streaks (iOS)</td><td>2-3 tracked habits max</td><td>Beats visual streak psychology, no gamification noise</td></tr>
+    <tr><td>Habitica</td><td>If games help you</td><td>RPG framing turns discipline into play</td></tr>
+    <tr><td>Finch</td><td>Low-energy people</td><td>Gentle self-care loops, no streak-shame</td></tr>
+    <tr><td>Physical journal + Leuchtturm1917</td><td>Deep work stacks</td><td>Analog anchors beat app anchors for identity-building</td></tr>
+    <tr><td>Todoist / Things</td><td>Task capture only</td><td>Not for habits. Habits need calendar + repetition, not lists.</td></tr>
+  </table>
+  <div class="callout"><strong>Avoid:</strong> habit apps with more than 5 habits on the dashboard. If the tool becomes the project, you're using it wrong.</div>
+  <div class="affiliate">Leuchtturm1917 Medium A5 dotted notebook (the one we use on the site): <a href="https://www.amazon.fr/s?k=leuchtturm1917+medium+dotted&tag=motivahub-21&utm_source=pdf&utm_medium=habit-stack-kit&utm_campaign=leuchtturm">amazon.fr/s?k=leuchtturm1917</a></div>
+</section>
+
+<!-- ==================== PAGE 12 · PRINT-READY TRACKER BLANKS ==================== -->
+<section class="page">
+  <div class="kicker">11 · Extra Tracker Pages</div>
+  <h2>Blank 5-week grids</h2>
+  <p>Print 3 of these for backup weeks. Same rule: two misses = shrink habit to 30 seconds, never to zero.</p>
+
+  <table style="font-size:7.5pt; margin: 2mm 0 4mm 0;">
+    <tr><th>Backup Week 1</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
+    <tr><td>Habit A</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit B</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit C</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </table>
+
+  <table style="font-size:7.5pt; margin: 2mm 0 4mm 0;">
+    <tr><th>Backup Week 2</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
+    <tr><td>Habit A</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit B</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit C</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </table>
+
+  <table style="font-size:7.5pt; margin: 2mm 0 4mm 0;">
+    <tr><th>Backup Week 3</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
+    <tr><td>Habit A</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit B</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit C</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </table>
+
+  <table style="font-size:7.5pt; margin: 2mm 0 4mm 0;">
+    <tr><th>Backup Week 4</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
+    <tr><td>Habit A</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit B</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>Habit C</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </table>
+</section>
+
+<!-- ==================== PAGE 13 · NEXT STEPS ==================== -->
+<section class="page">
+  <div class="kicker">12 · Where This Goes</div>
+  <h2>After the kit</h2>
+  <p>The Habit Stack Kit is step one. If you finished 30 days, your next move depends on what actually stuck:</p>
+  <ol>
+    <li><strong>Anchor is automatic, stack still feels forced.</strong> → Shrink the stack to 30 seconds and run 30 more days. Do not grow it yet.</li>
+    <li><strong>Stack is automatic, but you didn't get the outcome.</strong> → Wrong identity clause. Rewrite it. "I'm someone who writes" is different from "I'm someone who writes to think clearly."</li>
+    <li><strong>Stack is automatic and you got the outcome.</strong> → Add the fourth habit only after 30 more days of the three. Slow is fast.</li>
+  </ol>
+  <div class="callout">
+    <strong>Recommended next document:</strong> our 30-day discipline PDF (free) — <a href="https://the-motivahub.com/30-days-discipline.pdf" style="color: #6b5320;">the-motivahub.com/30-days-discipline.pdf</a>. It runs one small challenge per day and pairs perfectly with this framework.
+  </div>
+  <p style="margin-top: 8mm; font-size: 9pt;">Full book list, podcast episodes, and free templates: <strong>the-motivahub.com</strong></p>
+</section>
+
+<!-- ==================== PAGE 14 · ABOUT + DISCLOSURE ==================== -->
+<section class="page">
+  <div class="kicker">13 · About & Disclosure</div>
+  <h2>About the author</h2>
+  <p>Youssef Raihane writes Motiva Hub — a self-improvement library for people who already know the theory and want working protocols. The site publishes 169 long-form articles on habits, discipline, deep work, and the physical side of the mind.</p>
+  <p style="font-size: 9pt; color: #666;">the-motivahub.com · Instagram @themotivahub · X @themotivahub · YouTube @MotivaHub</p>
+  <h3 style="margin-top: 8mm;">Affiliate disclosure</h3>
+  <p style="font-size: 9pt;">Some links in this document are Amazon Associates links. If you buy through them, Motiva Hub earns a small commission (usually 3-5%) at no additional cost to you. Every product linked here is either in our daily use or was tested for at least 30 days. We do not accept payment for placements — the recommendation is honest or it isn't in the kit.</p>
+  <p style="font-size: 9pt; color: #666; margin-top: 4mm;">Full disclosure: <a href="https://the-motivahub.com/affiliate-disclosure/" style="color: #6b5320;">the-motivahub.com/affiliate-disclosure/</a></p>
+  <h3 style="margin-top: 8mm;">License</h3>
+  <p style="font-size: 9pt;">This PDF is free for personal use. Print it, fill it in, keep it forever. Please don't resell it, host it on a paid course site, or rebrand it. Attribution: "Youssef Raihane / Motiva Hub" is enough.</p>
+  <p style="font-size: 8pt; color: #999; margin-top: 10mm;">© Motiva Hub · Field Guide № 02 · The Habit Stack Kit · v1.0 · October 2026</p>
+</section>
+
+</body>
+</html>
