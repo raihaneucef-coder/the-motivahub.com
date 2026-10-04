@@ -1,0 +1,13 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch();
+const p = await (await b.newContext({viewport:{width:1440,height:900}})).newPage();
+await p.goto('https://the-motivahub.com/?_=' + Date.now(), { waitUntil: 'networkidle' });
+await p.waitForTimeout(800);
+await p.screenshot({ path: 'tests/gold-fix/LIVE-homepage.png' });
+const or = await p.evaluate(() => getComputedStyle(document.documentElement).getPropertyValue('--or').trim());
+const gold = await p.evaluate(() => getComputedStyle(document.documentElement).getPropertyValue('--gold').trim());
+const logo = await p.evaluate(() => { const el = document.querySelector('.logo'); return el ? getComputedStyle(el).color : null; });
+console.log('LIVE --or    =', or);
+console.log('LIVE --gold  =', gold);
+console.log('LIVE .logo   =', logo);
+await b.close();
