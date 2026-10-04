@@ -9,7 +9,8 @@
  *   RESEND_API_KEY                 unrestricted key (Full access)
  *   RESEND_AUDIENCE_ID_PDF         audience id for PDF subscribers
  *   RESEND_FROM_EMAIL              e.g. "Motiva Hub <hello@the-motivahub.com>"
- *   FORMSUBMIT_FALLBACK_EMAIL      e.g. raihaneudef@gmail.com (used if RESEND missing)
+ *   OWNER_NOTIFY_EMAIL             owner inbox (default raihaneucef@gmail.com) —
+ *                                  notified via RESEND while the domain is unverified
  */
 import { Resend } from 'resend';
 
@@ -90,64 +91,64 @@ export default async function handler(req, res) {
   const RESEND_KEY = process.env.RESEND_API_KEY;
   const RESEND_AUDIENCE = process.env.RESEND_AUDIENCE_ID_PDF;
   const RESEND_FROM = process.env.RESEND_FROM_EMAIL || 'Motiva Hub <onboarding@resend.dev>';
-  const FALLBACK_EMAIL = process.env.FORMSUBMIT_FALLBACK_EMAIL || 'raihaneucef@gmail.com';
+  const OWNER_EMAIL = process.env.OWNER_NOTIFY_EMAIL || 'raihaneucef@gmail.com';
 
-  // --- Path 1: RESEND full integration ---
-  if (RESEND_KEY && RESEND_AUDIENCE && !RESEND_KEY.startsWith('reRestricted')) {
-    try {
-      const resend = new Resend(RESEND_KEY);
-
-      // 1. Upsert contact into audience
-      const cRes = await resend.contacts.create({
-        email,
-        audienceId: RESEND_AUDIENCE,
-        firstName: name || undefined,
-        unsubscribed: false,
-        metadata: { source, ip, ts: Date.now() },
-      });
-      if (cRes.error && cRes.error.statusCode !== 409) {
-        throw new Error(cRes.error.message || 'contact create failed');
-      }
-
-      // 2. Send welcome email with PDF
-      const eRes = await resend.emails.send({
-        from: RESEND_FROM,
-        to: email,
-        subject: `Your ${pdf.title} is here`,
-        html: welcomeEmailHtml(pdf, name),
-        headers: { 'X-Entity-Ref-ID': `${source}-${Date.now()}` },
-      });
-      if (eRes.error) throw new Error(eRes.error.message || 'email send failed');
-
-      return ok(res, {
-        delivery: 'resend',
-        emailId: eRes.data?.id,
-        contactId: cRes.data?.id,
-      });
-    } catch (err) {
-      // fall through to FormSubmit fallback
-      console.error('[pdf-subscribe] resend failed:', err.message);
-    }
+  if (!RESEND_KEY || !RESEND_AUDIENCE) {
+    console.error('[pdf-subscribe] RESEND env missing');
+    return fail(res, 500, 'Signup is temporarily unavailable. Use the direct download link on the page.');
   }
 
-  // --- Path 2: FormSubmit fallback (works today with restricted key) ---
+  const resend = new Resend(RESEND_KEY);
+
+  // 1. Always capture the subscriber in the audience (works regardless of domain verification)
+  let contactId;
   try {
-    const fsRes = await fetch(`https://formsubmit.co/ajax/${FALLBACK_EMAIL}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-      body: JSON.stringify({
-        email,
-        name: name || '(no name)',
-        source,
-        pdf: pdf.url,
-        _subject: `New PDF subscriber — ${source}`,
-        _template: 'table',
-      }),
+    const cRes = await resend.contacts.create({
+      email,
+      audienceId: RESEND_AUDIENCE,
+      firstName: name || undefined,
+      unsubscribed: false,
+      metadata: { source, ip, ts: Date.now() },
     });
-    if (!fsRes.ok) throw new Error(`formsubmit ${fsRes.status}`);
-    return ok(res, { delivery: 'formsubmit-fallback' });
+    if (cRes.error && cRes.error.statusCode !== 409) {
+      throw new Error(cRes.error.message || 'contact create failed');
+    }
+    contactId = cRes.data?.id;
   } catch (err) {
-    console.error('[pdf-subscribe] fallback failed:', err.message);
-    return fail(res, 502, 'Delivery failed. Try the direct download link on the page.');
+    console.error('[pdf-subscribe] contact create failed:', err.message);
+    return fail(res, 502, 'Could not save your signup. Try the direct download link on the page.');
+  }
+
+  // 2. Send the welcome email to the subscriber.
+  //    Works automatically once the sending domain is verified. Until then RESEND
+  //    returns 403, so we fall back to notifying the owner (nothing is lost).
+  try {
+    const eRes = await resend.emails.send({
+      from: RESEND_FROM,
+      to: email,
+      subject: `Your ${pdf.title} is here`,
+      html: welcomeEmailHtml(pdf, name),
+      headers: { 'X-Entity-Ref-ID': `${source}-${Date.now()}` },
+    });
+    if (eRes.error) throw new Error(eRes.error.message || 'email send failed');
+
+    return ok(res, { delivery: 'resend', emailId: eRes.data?.id, contactId });
+  } catch (err) {
+    console.warn('[pdf-subscribe] welcome send deferred:', err.message);
+  }
+
+  // 3. Domain not verified yet — notify the owner so the lead is not lost.
+  try {
+    const nRes = await resend.emails.send({
+      from: 'Motiva Hub <onboarding@resend.dev>',
+      to: OWNER_EMAIL,
+      subject: `New PDF subscriber — ${source}`,
+      html: `<p><strong>${email}</strong> signed up for <strong>${pdf.title}</strong>.</p><p>Sending domain not verified yet — welcome email deferred. Direct link: <a href="${pdf.url}">${pdf.url}</a></p>`,
+    });
+    if (nRes.error) throw new Error(nRes.error.message);
+    return ok(res, { delivery: 'captured+owner-notified', contactId });
+  } catch (err) {
+    console.error('[pdf-subscribe] owner notify failed:', err.message);
+    return fail(res, 502, 'Signup saved but confirmation failed. Try the direct download link on the page.');
   }
 }
