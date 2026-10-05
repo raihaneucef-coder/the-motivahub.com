@@ -415,7 +415,7 @@ const archetypesFr = {
     const q = qs[state.step];
     progressText.textContent = (t.quizProgress || 'Question {n} of {total}').replace('{n}', state.step + 1).replace('{total}', total);
     progressFill.style.width = ((state.step + 1) / total * 100) + '%';
-    body.innerHTML = '<h3 class="quiz-q">' + q.q + '</h3><div class="quiz-options">' +
+    body.innerHTML = '<h2 class="quiz-q">' + q.q + '</h2><div class="quiz-options">' +
       q.options.map((o, i) =>
         '<button class="quiz-option" data-score="' + o.score + '" data-i="' + i +'">' + o.text + '</button>'
       ).join('') + '</div>';
