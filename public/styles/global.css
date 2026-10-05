@@ -3132,5 +3132,20 @@ body.menu-open #cookie-consent {
 .footer-bottom p,
 .footer-bottom-links a { color: #8f8f8f !important; }
 .hp-program .btn-primary { font-size: 1.1875rem; font-weight: 700; }
-.cookie-accept { background: #d63f00 !important; }
+.cookie-accept { background: #d4b377 !important; color: #1A1208 !important; }
 #newsletter{scroll-margin-top:96px}
+
+/* --- 12. Editorial de-template pass (Oct-5) --- */
+.hero-line { display: flex; align-items: baseline; flex-wrap: wrap; gap: 10px 14px; margin-top: 30px; font-family: var(--mono); font-size: 0.6875rem; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(245,241,232,0.72); }
+.hero-line-item b { font-family: var(--serif); font-size: 1.45rem; letter-spacing: 0; color: #f0f0f0; font-weight: 400; margin-right: 6px; }
+.hero-line-sep { opacity: 0.35; }
+.hero-textlink { color: #d4b377; border-bottom: 1px solid rgba(212,179,119,0.35); transition: color 0.2s ease; }
+.hero-textlink:hover { color: #e5c890; }
+.feed-grid .card-featured { grid-column: 1 / -1; display: grid; grid-template-columns: 1.15fr 1fr; gap: 36px; align-items: center; }
+.feed-grid .card-featured .card-img-wrap { aspect-ratio: 16 / 9; }
+.feed-grid .card-featured .card-img { height: 100%; object-fit: cover; }
+.feed-grid .card-featured .card-title { font-size: 1.9rem; line-height: 1.15; }
+.feed-grid .card-featured .card-excerpt { margin-top: 12px; }
+@media (max-width: 768px) { .feed-grid .card-featured { grid-template-columns: 1fr; gap: 20px; } .feed-grid .card-featured .card-title { font-size: 1.5rem; } }
+.quote-premium-inner { text-align: left; margin: 0; max-width: 880px; }
+.quote-premium-cite { justify-content: flex-start; }
