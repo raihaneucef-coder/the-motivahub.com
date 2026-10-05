@@ -624,7 +624,7 @@ em, i { font-style: normal; font-family: inherit; }
 }
 .menu-btn { color: #d4b377 !important; border-color: #333 !important; background: rgba(255,255,255,0.05) !important; }
 .menu-btn .menu-btn-bars span { background: #f0f0f0 !important; }
-.menu-btn:hover { background: #d4b377 !important; color: #fff !important; border-color: #d4b377 !important; }
+.menu-btn:hover { background: #d4b377 !important; color: #1A1208 !important; border-color: #d4b377 !important; }
 .lang-switcher { border-color: #333 !important; background: rgba(255,255,255,0.05) !important; color: #f0f0f0 !important; }
 .lang-btn { color: #f0f0f0 !important; }
 .lang-btn.active { color: #d4b377 !important; }
@@ -780,14 +780,14 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .hero-corner { display: none !important; }
 
 /* --- 8. Buttons --- */
-.btn-primary { background: #d4b377 !important; color: #fff !important; box-shadow: 0 4px 20px rgba(212,179,119,0.3) !important; }
+.btn-primary { background: #d4b377 !important; color: #1A1208 !important; box-shadow: 0 4px 20px rgba(212,179,119,0.3) !important; }
 .btn-primary:hover { background: #e5c890 !important; transform: translateY(-2px); box-shadow: 0 8px 30px rgba(212,179,119,0.4) !important; }
 .btn-ghost { border-color: rgba(255,255,255,0.3) !important; color: #f0f0f0 !important; background: rgba(255,255,255,0.05) !important; }
 .btn-ghost:hover { background: #fff !important; color: #0a0a0a !important; }
 .btn-ink { background: #f0f0f0 !important; color: #0a0a0a !important; }
 .btn-ink:hover { background: #fff !important; }
 .btn-outline { border-color: #333 !important; color: #f0f0f0 !important; }
-.btn-outline:hover { background: #d4b377 !important; border-color: #d4b377 !important; color: #fff !important; }
+.btn-outline:hover { background: #d4b377 !important; border-color: #d4b377 !important; color: #1A1208 !important; }
 .btn-arrow { color: #f0f0f0 !important; }
 .btn-arrow:hover { color: #d4b377 !important; }
 
