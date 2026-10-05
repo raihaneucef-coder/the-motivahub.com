@@ -40,22 +40,18 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
           <span data-i18n="heroPrimary">{primaryCta.label}</span>
           <span class="btn-arrow-sm">{String.fromCharCode(8594)}</span>
         </a>
-        <a class="btn btn-ghost" href={secondaryCtaHref}>
-          <span data-i18n="heroSecondary">{secondaryCta.label}</span>
-          <span class="btn-arrow-sm">{String.fromCharCode(8594)}</span>
-        </a>
       </div>
 
-      {meta && meta.length > 0 && (
-        <div class="hero-meta">
-          {meta.map((m) => (
-            <div class="hero-meta-item">
-              <span class="hero-meta-num" set:html={m.num}></span>
-              <span class="hero-meta-label" data-i18n={m.labelKey}>{m.label || ''}</span>
-            </div>
-          ))}
-        </div>
-      )}
+      <p class="hero-line">
+        {meta && meta.map((m, i) => (
+          <Fragment>
+            {i > 0 && <span class="hero-line-sep">&middot;</span>}
+            <span class="hero-line-item"><b set:html={m.num}></b><span data-i18n={m.labelKey}>{m.label || ''}</span></span>
+          </Fragment>
+        ))}
+        <span class="hero-line-sep">&middot;</span>
+        <a class="hero-textlink" href={secondaryCtaHref} data-i18n="heroSecondary">{secondaryCta.label}</a>
+      </p>
 
       <span class="hero-eyebrow">
         <span class="hero-eyebrow-dot"></span>

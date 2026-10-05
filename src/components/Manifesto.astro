@@ -1,13 +1,6 @@
 ---
-// Stats are passed in by the homepage, computed from real content at build time.
-// Nothing here is hardcoded or estimated.
-interface Stat {
-  num: string;
-  label: string;
-  labelKey: string;
-  desc: string;
-}
-const { stats = [] } = Astro.props as { stats?: Stat[] };
+// Stats now live in the hero-line on the homepages; the duplicate 5-column
+// stats grid was removed (Oct-5 de-template pass).
 ---
 
 <section class="manifesto">
@@ -28,20 +21,6 @@ const { stats = [] } = Astro.props as { stats?: Stat[] };
         <span class="manifesto-cite-text" data-i18n="manifestoCite">— Motiva Hub · 2026</span>
         <span class="manifesto-cite-line"></span>
       </div>
-    </div>
-  </div>
-</section>
-
-<section class="brand-stats">
-  <div class="container">
-    <div class="brand-stats-grid reveal-stagger">
-      {stats.map((s) => (
-        <div class="brand-stat">
-          <span class="brand-stat-num">{s.num}</span>
-          <span class="brand-stat-label" data-i18n={s.labelKey}>{s.label}</span>
-          <span class="brand-stat-desc">{s.desc}</span>
-        </div>
-      ))}
     </div>
   </div>
 </section>
