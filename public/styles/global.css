@@ -829,7 +829,7 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .newsletter-form { border-color: #333 !important; background: rgba(255,255,255,0.03) !important; }
 .newsletter-form:focus-within { border-color: #d4b377 !important; }
 .newsletter-form input { color: #f0f0f0 !important; }
-.newsletter-form button { background: #d4b377 !important; color: #fff !important; }
+.newsletter-form button { background: #d4b377 !important; color: #1A1208 !important; }
 .newsletter-form button:hover { background: #e5c890 !important; }
 .footer-col h3 { color: #d4b377 !important; }
 .footer-col a { color: #888 !important; }
@@ -1126,14 +1126,14 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .journal-pill.active {
   background: #d4b377;
   border-color: #d4b377;
-  color: #fff;
+  color: #1A1208;
 }
 .journal-sort-label {
   font-family: var(--mono);
   font-size: 0.6875rem;
   text-transform: uppercase;
   letter-spacing: 0.14em;
-  color: #666;
+  color: #8a8a8a;
   margin: 0;
 }
 .journal-sort-label span { color: #b0b0b0; font-weight: 500; }
@@ -1234,7 +1234,7 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   display: block;
   font-family: var(--sans);
   font-size: 0.75rem;
-  color: #666;
+  color: #8a8a8a;
 }
 .featured-read-link {
   font-family: var(--sans);
@@ -1320,7 +1320,7 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .journal-topic-count {
   font-family: var(--mono);
   font-size: 0.6875rem;
-  color: #666;
+  color: #8a8a8a;
 }
 
 /* 30g. Quote Banner */
@@ -1431,7 +1431,7 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .journal-newsletter-form button {
   padding: 12px 24px;
   background: #d4b377;
-  color: #fff;
+  color: #1A1208;
   border: none;
   border-radius: 8px;
   font-family: var(--sans);
