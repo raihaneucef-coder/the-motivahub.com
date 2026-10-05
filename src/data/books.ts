@@ -111,7 +111,7 @@ export const books: Book[] = [
   {
     id: "mountain-is-you",
     title: "The Mountain Is You",
-    cover: "https://covers.openlibrary.org/b/isbn/9781949759224-L.jpg",
+    cover: "https://covers.openlibrary.org/b/id/13838236-L.jpg",
     description: "A practical guide to turning self-sabotage into self-mastery.",
     reason: "A popular personal-growth recommendation — how to turn self-sabotage into strength.",
     affiliateUrl: "https://www.amazon.fr/dp/1949759229?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
@@ -137,7 +137,7 @@ export const books: Book[] = [
   {
     id: "let-them-theory",
     title: "The Let Them Theory",
-    cover: "https://covers.openlibrary.org/b/isbn/9781401991360-L.jpg",
+    cover: "https://covers.openlibrary.org/b/id/15165806-L.jpg",
     description: "Mel Robbins' 2024 phenomenon — let them, let me.",
     reason: "A personal-growth recommendation — the phrase that helps readers set boundaries.",
     affiliateUrl: "https://www.amazon.fr/dp/1401991360?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
