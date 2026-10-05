@@ -174,6 +174,108 @@ export const pillars: Record<string, Pillar> = {
     ],
   },
 
+  discipline: {
+    id: "discipline",
+    brandingKey: "hubDisciplineBranding",
+    brandingDefault: "Pillar 05 · The Practice of Discipline",
+    ledeKey: "hubDisciplineLede",
+    ledeDefault:
+      "Motivation is a mood that leaves. Discipline is a decision you repeat — designed so it holds on the days you don't feel like it.",
+    questionKey: "hubDisciplineQuestion",
+    questionDefault:
+      "What keeps you going the day motivation abandons you — and how do you build that on purpose?",
+    sections: [
+      {
+        labelKey: "hubSectionQuestion",
+        labelDefault: "The Question",
+        blurbKey: "hubDiscSectionQuestionBlurb",
+        blurbDefault:
+          "First, see why motivation alone always loses — and why discipline is a different animal.",
+        articles: ["discipline-beat-motivation", "when-motivation-leaves", "discipline-vs-punishment"],
+        articlesFr: ["discipline-beat-motivation", "when-motivation-leaves", "discipline-vs-punishment"],
+      },
+      {
+        labelKey: "hubSectionExplanation",
+        labelDefault: "The Explanation",
+        blurbKey: "hubDiscSectionExplanationBlurb",
+        blurbDefault:
+          "The operating system: standards, discomfort, and the identity that makes quitting expensive.",
+        articles: [
+          "discipline-personnelle-guide",
+          "standard-non-negociable",
+          "comment-devenir-mentalement-inebranlable",
+          "inconfort-volontaire",
+        ],
+        articlesFr: [
+          "discipline-personnelle-guide",
+          "standard-non-negociable",
+          "comment-devenir-mentalement-inebranlable",
+          "inconfort-volontaire",
+        ],
+      },
+      {
+        labelKey: "hubSectionPractice",
+        labelDefault: "The Practice",
+        blurbKey: "hubDiscSectionPracticeBlurb",
+        blurbDefault: "Protocols you run today — the codes, the rules, and the daily choice.",
+        articles: [
+          "regle-40-pourcent",
+          "regles-goggins-mental",
+          "pouvoir-du-non",
+          "discipline-choix-quotidien",
+          "athlete-discipline",
+          "cant-hurt-me-review",
+        ],
+        articlesFr: [
+          "regle-40-pourcent",
+          "regles-goggins-mental",
+          "pouvoir-du-non",
+          "discipline-choix-quotidien",
+          "athlete-discipline",
+          "cant-hurt-me-review",
+        ],
+      },
+    ],
+    tools: [
+      { href: "/tools/discipline-quiz/", labelKey: "hubToolQuiz", labelDefault: "The Discipline Audit" },
+      { href: "/tools/cold-shower-tracker/", labelKey: "hubToolCold", labelDefault: "The Cold Shower Tracker" },
+      { href: "/30-days-discipline/", labelKey: "hubToolPdf", labelDefault: "30 Days of Discipline (PDF)" },
+    ],
+    guides: [
+      { href: "/guides/discipline-kitchen/", labelKey: "hubGuideKitchen", labelDefault: "The Discipline Kitchen (Guide)" },
+      { href: "/guides/home-athlete/", labelKey: "hubGuideAthlete", labelDefault: "Home Athlete Blueprint (Guide)" },
+    ],
+    related: [
+      { href: "/topics/habits/", labelKey: "hubRelHabits", labelDefault: "Pillar 01 · Behavioral Engineering" },
+      { href: "/topics/mindset/", labelKey: "hubRelMindset", labelDefault: "Pillar 02 · Mental Resilience & Self-Mastery" },
+    ],
+    featured: {
+      href: "/journal/discipline-personnelle-guide/",
+      hrefFr: "/fr/journal/discipline-personnelle-guide/",
+      solvesKey: "hubDiscFeaturedSolves",
+      solvesDefault:
+        "What it fixes: the cycle of starting strong and quietly quitting when the feeling fades.",
+      forKey: "hubDiscFeaturedFor",
+      forDefault:
+        "Who it's for: anyone who knows exactly what to do — and still doesn't do it on the hard days.",
+      nextKey: "hubDiscFeaturedNext",
+      nextHref: "/tools/discipline-quiz/",
+      nextLabelDefault: "Take the Discipline Quiz",
+      kickerKey: "pillarKicker",
+      kickerDefault: "The Pillar",
+      titleKey: "pillarDiscTitle",
+      titleDefault: "Personal Discipline: The Complete Guide",
+      descKey: "pillarDiscDesc",
+      descDefault:
+        "The full system — eight working mechanisms that replace willpower, so consistency survives bad days, travel, and low motivation.",
+      ctaKey: "hubFeaturedCta",
+      ctaDefault: "Explore the system →",
+    },
+    books: [
+      { id: "cant-hurt-me", review: "/journal/cant-hurt-me-review/", reviewFr: "/fr/journal/cant-hurt-me-review/" },
+    ],
+  },
+
   mindset: {
     id: "mindset",
     brandingKey: "hubMindsetBranding",
