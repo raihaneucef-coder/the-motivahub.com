@@ -57,6 +57,11 @@ const STATIC_PAGES = [
   { path: "/tools/reading-calculator/", priority: PRIORITY.topic, changefreq: "monthly" },
   { path: "/guides/", priority: PRIORITY.topic, changefreq: "monthly" },
   { path: "/guides/atomic-habits-ultimate-guide/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/guides/habit-stack-kit/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/guides/discipline-kitchen/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/guides/home-athlete/", priority: PRIORITY.topic, changefreq: "monthly" },
+  { path: "/bio/", priority: PRIORITY.static, changefreq: "monthly" },
+  { path: "/credits/", priority: PRIORITY.static, changefreq: "monthly" },
   { path: "/pdf/30-days-discipline/", priority: PRIORITY.static, changefreq: "monthly" },
   // NOTE: /login/, /register/, /forgot-password/, /reset-password/ are
   // noindex,nofollow — they must NOT appear in the sitemap.
