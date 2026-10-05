@@ -13,29 +13,7 @@
  *                                  notified via RESEND while the domain is unverified
  */
 import { Resend } from 'resend';
-
-const PDF_CATALOG = {
-  '30-days-discipline': {
-    title: '30 Days of Discipline',
-    url: 'https://the-motivahub.com/30-days-discipline.pdf',
-    tagline: 'One small challenge per day for 30 days. Print it, tick it, ship it.',
-  },
-  'habit-stack-kit': {
-    title: 'The Habit Stack Kit',
-    url: 'https://the-motivahub.com/habit-stack-kit.pdf',
-    tagline: '14-page framework: pick an anchor, stack a habit, remove friction.',
-  },
-  'discipline-kitchen': {
-    title: 'The Discipline Kitchen',
-    url: 'https://the-motivahub.com/discipline-kitchen.pdf',
-    tagline: 'Eat like a system, not a mood. 12 pages of meal discipline.',
-  },
-  'home-athlete': {
-    title: 'The Home Athlete Blueprint',
-    url: 'https://the-motivahub.com/home-athlete.pdf',
-    tagline: 'Train at home without the gimmicks. 10 pages, no equipment required.',
-  },
-};
+import { PDF_CATALOG, TEMPLATES, fill } from '../src/data/welcomeEmails.js';
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 
@@ -44,25 +22,6 @@ function ok(res, payload = {}) {
 }
 function fail(res, status, message) {
   res.status(status).json({ ok: false, message });
-}
-
-function welcomeEmailHtml(pdf, subscriberName) {
-  const greeting = subscriberName ? `Hey ${subscriberName},` : 'Hey,';
-  return `<!doctype html>
-<html><body style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0a0a0a;color:#e6e6e6;padding:32px;line-height:1.6;">
-  <div style="max-width:560px;margin:0 auto;">
-    <p style="color:#d4b377;font-size:12px;letter-spacing:2px;text-transform:uppercase;margin:0 0 8px;">Motiva Hub · Free guide</p>
-    <h1 style="color:#f5f5f5;font-size:28px;margin:0 0 20px;font-weight:600;">${pdf.title}</h1>
-    <p style="margin:0 0 20px;">${greeting}</p>
-    <p style="margin:0 0 24px;color:#c9c9c9;">${pdf.tagline}</p>
-    <p style="margin:0 0 20px;"><a href="${pdf.url}" style="display:inline-block;background:#d4b377;color:#0a0a0a;padding:14px 24px;border-radius:4px;text-decoration:none;font-weight:600;">Download the PDF →</a></p>
-    <p style="margin:32px 0 12px;color:#888;font-size:13px;">What's next? Over the next 10 days you'll get 4 short emails — the exact framework, one real story, the science bit, and the tools we use. Reply anytime, I read everything.</p>
-    <p style="margin:24px 0 0;color:#888;font-size:12px;">— Youssef, Motiva Hub<br>
-      <a href="https://the-motivahub.com" style="color:#d4b377;text-decoration:none;">the-motivahub.com</a>
-      · <a href="https://the-motivahub.com/unsubscribe" style="color:#888;text-decoration:none;">Unsubscribe</a>
-    </p>
-  </div>
-</body></html>`;
 }
 
 export default async function handler(req, res) {
@@ -126,8 +85,8 @@ export default async function handler(req, res) {
     const eRes = await resend.emails.send({
       from: RESEND_FROM,
       to: email,
-      subject: `Your ${pdf.title} is here`,
-      html: welcomeEmailHtml(pdf, name),
+      subject: TEMPLATES.day0.subject(pdf),
+      html: fill(TEMPLATES.day0.html(), { firstName: name, pdf }),
       headers: { 'X-Entity-Ref-ID': `${source}-${Date.now()}` },
     });
     if (eRes.error) throw new Error(eRes.error.message || 'email send failed');
