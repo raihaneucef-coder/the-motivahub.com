@@ -74,4 +74,22 @@ export const podcasts: Podcast[] = [
     duration: "47 min",
     podcastUrl: "https://www.youtube.com/@JockoPodcastOfficial",
   },
+  {
+    id: "the-futur-ikigai-niche",
+    title: "The Futur — Find Your Niche & Turn Passion Into Profit",
+    description: "Chris Do — a full Ikigai workshop on turning what you love into work the world will pay for.",
+    cover: "https://i.ytimg.com/vi/BAzs3amtEFA/hqdefault.jpg",
+    date: "Full workshop",
+    duration: "1:53:44",
+    podcastUrl: "https://www.youtube.com/watch?v=BAzs3amtEFA",
+  },
+  {
+    id: "caleb-ralston-personal-brand",
+    title: "Caleb Ralston — How to Build a Personal Brand (Full Course)",
+    description: "Caleb Ralston — a long-form masterclass on building a personal brand that attracts clients.",
+    cover: "https://i.ytimg.com/vi/Ch4Sl0POBhU/hqdefault.jpg",
+    date: "Full course",
+    duration: "6:22:28",
+    podcastUrl: "https://www.youtube.com/watch?v=Ch4Sl0POBhU",
+  },
 ];
