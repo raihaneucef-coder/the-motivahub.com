@@ -56,17 +56,16 @@ const globalCssV = createHash("sha256")
 const gaSnippet = GA_ID
   ? `window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});try{if(localStorage.getItem('cookie_consent')==='accepted')gtag('consent','update',{analytics_storage:'granted',ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted'});}catch(e){}`
   : "";
-// Third-party scripts (AdSense, GA) are deferred to the first user interaction:
+// Third-party AD scripts (AdSense) are deferred to the first user interaction:
 // keeps first paint free of render-blocking/cookie-setting third-party requests.
+// GA4 is handled separately below (loads on DOMContentLoaded so every visit counts).
 const deferTpl = (body: string) =>
   `(function(){var done=false;function load(){if(done)return;done=true;${body}}function idle(){if("requestIdleCallback"in window){requestIdleCallback(load,{timeout:2000})}else{setTimeout(load,500)}}["scroll","pointerdown","keydown","touchstart"].forEach(function(e){window.addEventListener(e,idle,{once:true,passive:true});});})();`;
 const deferAds = deferTpl(
   `var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);`
 );
 const deferGa = GA_ID
-  ? deferTpl(
-      `gtag('js',new Date());gtag('config','${GA_ID}');var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}";document.head.appendChild(s);`
-    )
+  ? `(function(){var done=false;function load(){if(done)return;done=true;gtag('js',new Date());gtag('config','${GA_ID}');var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}";document.head.appendChild(s);}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',load,{once:true});}else{load();}})();`
   : "";
 ---
 
