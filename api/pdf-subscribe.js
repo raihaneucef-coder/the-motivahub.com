@@ -78,9 +78,21 @@ export default async function handler(req, res) {
     return fail(res, 502, 'Could not save your signup. Try the direct download link on the page.');
   }
 
+  // 1b. Always notify the owner of the new lead (fire-safe: never blocks signup).
+  try {
+    await resend.emails.send({
+      from: 'Motiva Hub <onboarding@resend.dev>',
+      to: OWNER_EMAIL,
+      subject: `🔔 New PDF subscriber — ${source}`,
+      html: `<p><strong>${email}</strong>${name ? ` (${name})` : ''} signed up for <strong>${pdf.title}</strong>.</p><p>Source: <code>${source}</code> · Time: ${new Date().toISOString()}</p><p>Direct link: <a href="${pdf.url}">${pdf.url}</a></p>`,
+    });
+  } catch (err) {
+    console.warn('[pdf-subscribe] owner notify failed:', err.message);
+  }
+
   // 2. Send the welcome email to the subscriber.
   //    Works automatically once the sending domain is verified. Until then RESEND
-  //    returns 403, so we fall back to notifying the owner (nothing is lost).
+  //    returns 403 and the welcome is deferred (the owner was already notified in 1b).
   try {
     const eRes = await resend.emails.send({
       from: RESEND_FROM,
@@ -96,18 +108,8 @@ export default async function handler(req, res) {
     console.warn('[pdf-subscribe] welcome send deferred:', err.message);
   }
 
-  // 3. Domain not verified yet — notify the owner so the lead is not lost.
-  try {
-    const nRes = await resend.emails.send({
-      from: 'Motiva Hub <onboarding@resend.dev>',
-      to: OWNER_EMAIL,
-      subject: `New PDF subscriber — ${source}`,
-      html: `<p><strong>${email}</strong> signed up for <strong>${pdf.title}</strong>.</p><p>Sending domain not verified yet — welcome email deferred. Direct link: <a href="${pdf.url}">${pdf.url}</a></p>`,
-    });
-    if (nRes.error) throw new Error(nRes.error.message);
-    return ok(res, { delivery: 'captured+owner-notified', contactId });
-  } catch (err) {
-    console.error('[pdf-subscribe] owner notify failed:', err.message);
-    return fail(res, 502, 'Signup saved but confirmation failed. Try the direct download link on the page.');
-  }
+  // 3. Welcome send failed (domain not verified yet). The owner was already
+  //    notified in step 1b, so the lead is captured — point the user to the
+  //    direct download link so nothing is lost.
+  return ok(res, { delivery: 'captured+welcome-deferred', contactId });
 }
