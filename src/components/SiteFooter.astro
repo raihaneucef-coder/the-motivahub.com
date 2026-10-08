@@ -1,5 +1,7 @@
 ---
 import Link from "./Link.astro";
+import { getLangFromUrl } from '../utils/i18n';
+const lang = getLangFromUrl(Astro.url);
 ---
 
 <footer class="site-footer">
@@ -70,6 +72,7 @@ import Link from "./Link.astro";
     <div class="footer-bottom">
       <p data-i18n="footerCopyright">© {new Date().getFullYear()} Motiva Hub · The Long Ascent</p>
       <div class="footer-bottom-links">
+        <a href={lang === 'fr' ? '/' : '/fr/'} hreflang={lang === 'fr' ? 'en' : 'fr'}>{lang === 'fr' ? 'English' : 'Fran\u00e7ais'}</a>
         <Link href="/about/" data-i18n="footerAbout">About</Link>
         <Link href="/contact/" data-i18n="footerContact">Contact</Link>
         <Link href="/privacy/" data-i18n="footerPrivacy">Privacy</Link>
