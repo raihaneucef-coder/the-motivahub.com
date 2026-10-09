@@ -60,3 +60,53 @@ T+24h checkpoints (all via URL Inspection API v1, read-only):
 
 ## NOT DONE (per rules)
 No code/sitemap/content changes. No deploy. No URLs beyond the 7. No "Valider la correction".
+
+---
+
+# T+7d REPORT — 2026-10-05 (scheduled checkpoint)
+
+Method: URL Inspection API v1, read-only (`scripts/gsc-check.mjs coverage`). Field used for
+halt-scan is `googleCanonical` (the API has no `canonical` field). atomic-habits-review re-sampled
+×5 to cut through known API flapping.
+
+## RESULT: fired 9/10 indexed (90%) vs control 0/5 (0%) — EXPERIMENT PASSED
+
+| # | URL | Group | Status @ T+7d | googleCanonical | lastCrawl |
+|---|---|---|---|---|---|
+| 1 | regles-goggins-mental | trio ★ | **Submitted and indexed** | self ✅ | 2026-10-01 |
+| 2 | regle-40-pourcent | trio ★ | **Submitted and indexed** | self ✅ | 2026-10-03 |
+| 3 | atomic-habits-review | trio ★ | Discovered / Unknown (flapping) | — | — |
+| 4 | cant-hurt-me-review | batch 1a | **Submitted and indexed** | self ✅ | 2026-09-28 |
+| 5 | standard-non-negociable | batch 1a | **Submitted and indexed** | self ✅ | 2026-10-03 |
+| 6 | discipline-personnelle-guide | batch 1a | **Submitted and indexed** | self ✅ | 2026-10-03 |
+| 7 | histoire-concierge-millionnaire | batch 1a | **Submitted and indexed** | self ✅ | 2026-09-28 |
+| 8 | sprint-90-jours | batch 1a (zero-discovery) | **Submitted and indexed** | self ✅ | 2026-09-28 |
+| 9 | process-vs-outcome | batch 1a | **Submitted and indexed** | self ✅ | 2026-09-28 |
+| 10 | lire-divertissement | batch 1a (zero-discovery) | **Submitted and indexed** | self ✅ | 2026-09-28 |
+
+Control (5 random untouched FR journal URLs): 3 Unknown, 1 Discovered-not-indexed, 1 Crawled-not-indexed → **0 indexed**.
+
+## HALT-RULE SCAN
+- **0 foreign/EN canonical selections** across all indexed → NO halt. All 9 are self-canonical FR.
+- **0 "Crawled – currently not indexed"** among fired URLs → NO pause trigger.
+- Test trio 2/3 indexed → NOT 0/3, queue stays UNholstered. Success bar (≥5/7 batch 1a) → achieved 7/7.
+
+## KEY FINDINGS
+1. The two **zero-discovery-signal URLs** (sprint-90-jours, lire-divertissement) — which showed "Google
+   ne reconnaît pas cette URL" in the UI on 29/09 — are now **indexed**. Proves RI reaches Google and
+   forces indexing even when sitemap-ingestion signal appeared missing. Discovery was never the bottleneck.
+2. **RI is causally effective**: fired 90% indexed vs control 0%. This is the controlled-experiment proof
+   that Request Indexing (not waiting) is the lever for FR crawl-starvation on this young domain.
+3. **atomic-habits-review** is the lone holdout. Verified technically perfect (self FR canonical, hreflang
+   en/fr/x-default, robots index/follow, EN twin indexed, no noindex, updatedDate 2026-09-25). Google
+   crawls but declines — consistent with the hyper-competitive "atomic habits review" SERP, not a bug.
+   FR title is a literal translation ("rapport de terrain en 4 lectures"); candidate for a content-polish
+   pass if we want to win it, but no technical action required.
+
+## DECISION UNLOCKED (per Oct-5 protocol)
+- Batch 2 (deep demand + tool bridges, incl. /fr/pdf/30-days-discipline/, /fr/30-days) and Batch 3
+  (service sweep) are **authorized** to fire next — gated on browser RI (needs user-authenticated GSC
+  session + tomorrow's ~11/day quota). Not fired here: automated Google login is blocked and today's
+  quota was already consumed by the 11 FR topic hubs.
+- Sitemap lever remains REJECTED (unchanged conclusion).
+

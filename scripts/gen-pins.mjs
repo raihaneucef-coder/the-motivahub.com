@@ -88,7 +88,7 @@ const trimWords = (s, max) => {
   return cut.slice(0, cut.lastIndexOf(' ') > 30 ? cut.lastIndexOf(' ') : max).replace(/[.,;:—-]\s*$/, '') + '…';
 };
 const titleTag = (s) =>
-  clean(s).replace(/[^a-zA-Z0-9 ]/g, ' ').split(/\s+/).filter(Boolean)
+  clean(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-zA-Z0-9 ]/g, ' ').split(/\s+/).filter(Boolean)
     .map((w) => w[0].toUpperCase() + w.slice(1)).join('');
 // "STOICISM" -> "Stoicism", "SELF HELP" -> "Self Help" (for readable titles/alt)
 const titleCase = (s) => clean(s).toLowerCase().replace(/(^|[\s-])(\p{L})/gu, (_, sp, ch) => sp + ch.toUpperCase());

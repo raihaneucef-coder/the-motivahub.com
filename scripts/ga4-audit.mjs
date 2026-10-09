@@ -10,7 +10,7 @@ const PROPERTY = 'properties/551052915';
 const auth = new GoogleAuth({ keyFile: KEY, scopes: ['https://www.googleapis.com/auth/analytics.readonly'] });
 const c = await auth.getClient();
 
-const today = new Date('2026-10-04');
+const today = new Date('2026-10-08');
 const d28 = new Date(today); d28.setDate(d28.getDate() - 28);
 const d7  = new Date(today); d7.setDate(d7.getDate() - 7);
 const iso = d => d.toISOString().slice(0, 10);
@@ -70,7 +70,7 @@ if (pages) pages.rows.slice(0, 10).forEach(row => console.log('  ' + String(row.
 console.log('\n=== Country last 28 days ===');
 const geo = await run(
   [{ name: 'totalUsers' }],
-  [{ name: 'countryCode' }], iso(d28), iso(today));
+  [{ name: 'countryId' }], iso(d28), iso(today));
 if (geo) geo.rows.slice(0, 8).forEach(row => console.log('  ' + String(row.metricValues[0].value).padStart(4) + ' users | ' + row.dimensionValues[0].value));
 
 console.log('\n=== Device last 28 days ===');
