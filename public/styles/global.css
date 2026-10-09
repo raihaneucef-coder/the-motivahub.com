@@ -3149,3 +3149,17 @@ body.menu-open #cookie-consent {
 @media (max-width: 768px) { .feed-grid .card-featured { grid-template-columns: 1fr; gap: 20px; } .feed-grid .card-featured .card-title { font-size: 1.5rem; } }
 .quote-premium-inner { text-align: left; margin: 0; max-width: 880px; }
 .quote-premium-cite { justify-content: flex-start; }
+
+/* Blog image brand tag — subtle gold wordmark chip, bottom-left, on every blog image (cards + article hero). Non-destructive CSS overlay. */
+.card-img-wrap, .article-img-wrap, .featured-card-img { position: relative; }
+.card-img-wrap::after, .article-img-wrap::after, .featured-card-img::after {
+  content: "MOTIVA HUB";
+  position: absolute; left: 10px; bottom: 10px; z-index: 2; pointer-events: none;
+  font-family: var(--sans); font-weight: 600; font-size: 10px; line-height: 1;
+  letter-spacing: .18em; text-transform: uppercase; color: #f5efe4;
+  padding: 5px 9px; border-radius: 999px;
+  background: rgba(10,10,10,.42); border: 1px solid rgba(212,179,119,.55);
+  -webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);
+  text-shadow: 0 1px 2px rgba(0,0,0,.5);
+}
+.article-img-wrap::after { font-size: 12px; padding: 7px 13px; left: 16px; bottom: 16px; }

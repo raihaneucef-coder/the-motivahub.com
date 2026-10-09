@@ -16,6 +16,7 @@ test-results/
 tests/screenshots/
 pins.batch1/
 pins.batch2/
+/pins/
 
 # artefacts de test (captures d’écran) et exports temporaires
 tests/*.png
