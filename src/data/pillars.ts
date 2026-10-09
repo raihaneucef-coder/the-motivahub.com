@@ -240,6 +240,7 @@ export const pillars: Record<string, Pillar> = {
       { href: "/tools/discipline-quiz/", labelKey: "hubToolQuiz", labelDefault: "The Discipline Audit" },
       { href: "/tools/cold-shower-tracker/", labelKey: "hubToolCold", labelDefault: "The Cold Shower Tracker" },
       { href: "/30-days-discipline/", labelKey: "hubToolPdf", labelDefault: "30 Days of Discipline (PDF)" },
+      { href: "/objectives/", labelKey: "hubToolObjectives", labelDefault: "Daily Objectives Tracker" },
     ],
     guides: [
       { href: "/guides/discipline-kitchen/", labelKey: "hubGuideKitchen", labelDefault: "The Discipline Kitchen (Guide)" },
@@ -248,6 +249,7 @@ export const pillars: Record<string, Pillar> = {
     related: [
       { href: "/topics/habits/", labelKey: "hubRelHabits", labelDefault: "Pillar 01 · Behavioral Engineering" },
       { href: "/topics/mindset/", labelKey: "hubRelMindset", labelDefault: "Pillar 02 · Mental Resilience & Self-Mastery" },
+      { href: "/psychology/", labelKey: "hubRelPsychology", labelDefault: "The Psychology of Discipline" },
     ],
     featured: {
       href: "/journal/discipline-personnelle-guide/",

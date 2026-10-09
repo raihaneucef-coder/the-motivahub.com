@@ -1032,6 +1032,7 @@
   "hubToolStacker": "Empileur d'Habitudes",
   "hubToolTracker": "Traqueur d'Habitudes",
   "hubToolPdf": "30 Jours de Discipline (PDF)",
+  "hubToolObjectives": "Le Traqueur d'Objectifs Quotidiens",
   "hubBooksKicker": "La Bibliothèque",
   "hubBooksTitle": "Les livres derrière la recherche",
   "hubFeedTitle": "Flux Complet — tous les essais de ce thème",
@@ -1084,6 +1085,7 @@
   "hubRelatedTitle": "Poursuivre l'ascension",
   "hubRelHabits": "Pilier 01 · Ingénierie Comportementale",
   "hubRelMindset": "Pilier 02 · Résilience Mentale & Maîtrise de Soi",
+  "hubRelPsychology": "La Psychologie de la Discipline",
   "hubRelSport": "Pilier 03 · Performance Cerveau-Corps",
   "hubRelStories": "Pilier 04 · Histoires à Preuves"
 }
