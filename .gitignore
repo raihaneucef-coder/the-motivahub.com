@@ -30,3 +30,6 @@ SECURITY-AUDIT.md
 # Pinterest pin factory outputs (large binaries, kept locally)
 scripts/pin-factory/out/
 scripts/pin-factory/html/
+
+# Generated WebMCP content index (rebuilt on `npm run build`)
+/public/mcp-index.json

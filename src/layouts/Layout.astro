@@ -2,6 +2,7 @@
 import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
 import SiteHeader from "../components/SiteHeader.astro";
 import SiteFooter from "../components/SiteFooter.astro";
+import WebMcp from "../components/WebMcp.astro";
 import Link from "../components/Link.astro";
 import { getLangFromUrl, getFrenchSlug, getEnglishSlug } from "../utils/i18n";
 import { createHash } from "node:crypto";
@@ -152,6 +153,7 @@ const deferGa = GA_ID
     {schema && (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     )}
+    <WebMcp />
   </head>
   <body>
     <SiteHeader />

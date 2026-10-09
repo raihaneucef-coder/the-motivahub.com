@@ -1,0 +1,86 @@
+---
+// WebMCP integration: exposes Motiva Hub's content as machine-readable "tools"
+// so AI agents (Chrome agentic browsing / Model Context Protocol) can search
+// articles, fetch one by slug, and browse topics. Registration is synchronous
+// and fetch-free; /mcp-index.json is only pulled when a tool is actually called,
+// so this adds zero load-time network and never affects LCP. In browsers without
+// navigator.modelContext the whole block is a no-op.
+---
+<script is:inline>
+(function () {
+  var mc = navigator.modelContext;
+  if (!mc || typeof mc.registerTool !== 'function') return;
+  var INDEX = null;
+  function loadIndex() {
+    if (INDEX) return Promise.resolve(INDEX);
+    return fetch('/mcp-index.json')
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) { INDEX = d || { articles: [], books: [], topics: [] }; return INDEX; })
+      .catch(function () { INDEX = { articles: [], books: [], topics: [] }; return INDEX; });
+  }
+  function text(obj) { return { content: [{ type: 'text', text: JSON.stringify(obj) }] }; }
+  function norm(s) { return (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, ''); }
+
+  mc.registerTool({
+    name: 'search_motivahub',
+    description: 'Search Motiva Hub (the-motivahub.com) for self-improvement articles and recommended books. Returns titles, canonical URLs and snippets.',
+    inputSchema: {
+      type: 'object',
+      properties: {
+        query: { type: 'string', description: 'Keywords, e.g. "morning discipline", "sleep", "atomic habits".' },
+        language: { type: 'string', enum: ['en', 'fr'], description: 'Preferred result language (default en).' },
+        topic: { type: 'string', description: 'Optional topic filter (Discipline, Habits, Productivity, ...).' },
+        limit: { type: 'number', description: 'Max article results (default 8).' }
+      },
+      required: ['query']
+    },
+    action: async function (args) {
+      var idx = await loadIndex();
+      var q = norm(args.query); var lim = args.limit || 8; var lang = args.language === 'fr' ? 'fr' : 'en';
+      var tp = args.topic ? norm(args.topic) : '';
+      var words = q.split(/\s+/).filter(Boolean);
+      var arts = idx.articles.map(function (a) {
+        var hay = norm([a.title, a.titleFr, a.description, a.descriptionFr, a.topic].join(' '));
+        var s = 0; words.forEach(function (w) { if (hay.indexOf(w) !== -1) s++; });
+        if (tp && norm(a.topic) === tp) s += 3;
+        return { a: a, s: s };
+      }).filter(function (x) { return x.s > 0; }).sort(function (p, r) { return r.s - p.s; }).slice(0, lim)
+        .map(function (x) { var a = x.a; return { kind: 'article', title: lang === 'fr' && a.titleFr ? a.titleFr : a.title, topic: a.topic, url: lang === 'fr' && a.urlFr ? a.urlFr : a.url, snippet: lang === 'fr' && a.descriptionFr ? a.descriptionFr : a.description }; });
+      var books = idx.books.map(function (b) {
+        var hay = norm([b.title, b.author, b.category, b.categoryFr, b.description, b.reason].join(' '));
+        var s = 0; words.forEach(function (w) { if (hay.indexOf(w) !== -1) s++; });
+        return { b: b, s: s };
+      }).filter(function (x) { return x.s > 0; }).sort(function (p, r) { return r.s - p.s; }).slice(0, 4)
+        .map(function (x) { var b = x.b; return { kind: 'book', title: b.title, author: b.author, category: b.category, url: b.url, snippet: b.reason || b.description }; });
+      return text({ query: args.query, resultCount: arts.length + books.length, articles: arts, books: books });
+    }
+  });
+
+  mc.registerTool({
+    name: 'get_motivahub_article',
+    description: 'Get one Motiva Hub article by its slug (from search results), with canonical EN/FR URLs and description.',
+    inputSchema: {
+      type: 'object',
+      properties: { slug: { type: 'string', description: 'Article slug, e.g. "2-minute-rule-system".' } },
+      required: ['slug']
+    },
+    action: async function (args) {
+      var idx = await loadIndex();
+      var a = idx.articles.filter(function (x) { return x.slug === args.slug; })[0];
+      if (!a) return text({ found: false, message: 'No article with slug ' + args.slug });
+      return text({ found: true, kind: 'article', title: a.title, titleFr: a.titleFr, topic: a.topic, url: a.url, urlFr: a.urlFr, description: a.description, descriptionFr: a.descriptionFr });
+    }
+  });
+
+  mc.registerTool({
+    name: 'list_motivahub_topics',
+    description: 'List Motiva Hub editorial topics with article counts, to browse the library by theme.',
+    inputSchema: { type: 'object', properties: {} },
+    action: async function () {
+      var idx = await loadIndex();
+      var counts = {}; idx.articles.forEach(function (a) { if (a.topic) counts[a.topic] = (counts[a.topic] || 0) + 1; });
+      return text({ topics: idx.topics.map(function (t) { return { topic: t, articleCount: counts[t] || 0 }; }), totalArticles: idx.articles.length, totalBooks: idx.books.length });
+    }
+  });
+})();
+</script>
