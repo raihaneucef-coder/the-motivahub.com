@@ -17,6 +17,13 @@ const primaryCtaHref = getLocalePath(primaryCta.href, locale);
 const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 ---
 
+<!-- LCP fix: start fetching the hero the preload scanner would otherwise only
+     discover after body parsing begins. Two media-conditioned preloads mirror
+     the <picture> below so each device preloads exactly the file it will paint
+     (portrait phones the 53KB crop, everything else the 85KB wide frame). -->
+<link rel="preload" as="image" href="/images/hero-static-mobile.webp" media="(max-width: 768px) and (orientation: portrait)" fetchpriority="high" />
+<link rel="preload" as="image" href="/images/hero-static-pc.webp" media="(min-width: 769px), (orientation: landscape)" fetchpriority="high" />
+
 <section class="hero hero-portrait" id="hero">
   <!-- Static hero art (video retired): full-quality photo; on portrait screens the
        complete picture is shown contained over a softly blurred backdrop. -->
@@ -24,7 +31,7 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
     <source media="(max-width: 768px) and (orientation: portrait)" srcset="/images/hero-static-mobile.webp">
     <img class="hero-video" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" fetchpriority="high" decoding="async">
   </picture>
-  <img class="hero-full" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" decoding="async" aria-hidden="true">
+  <img class="hero-full" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" decoding="async" fetchpriority="low" loading="lazy" aria-hidden="true">
   <div class="hero-portrait-overlay"></div>
 
   <div class="container">
