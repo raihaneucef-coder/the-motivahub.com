@@ -59,14 +59,17 @@ const gaSnippet = GA_ID
   : "";
 // Third-party AD scripts (AdSense) are deferred to the first user interaction:
 // keeps first paint free of render-blocking/cookie-setting third-party requests.
-// GA4 is handled separately below (loads on DOMContentLoaded so every visit counts).
+// GA4: the pageview (gtag('js')/gtag('config')) is queued into dataLayer
+// immediately so every visit still counts with an accurate timestamp; only the
+// heavy gtag.js download+execution is deferred to idle after load, off the
+// mobile critical path (frees main thread -> lower TBT/LCP contention).
 const deferTpl = (body: string) =>
   `(function(){var done=false;function load(){if(done)return;done=true;${body}}function idle(){if("requestIdleCallback"in window){requestIdleCallback(load,{timeout:2000})}else{setTimeout(load,500)}}["scroll","pointerdown","keydown","touchstart"].forEach(function(e){window.addEventListener(e,idle,{once:true,passive:true});});})();`;
 const deferAds = deferTpl(
   `var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);`
 );
 const deferGa = GA_ID
-  ? `(function(){var done=false;function load(){if(done)return;done=true;gtag('js',new Date());gtag('config','${GA_ID}');var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}";document.head.appendChild(s);}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',load,{once:true});}else{load();}})();`
+  ? `(function(){gtag('js',new Date());gtag('config','${GA_ID}');var done=false;function load(){if(done)return;done=true;var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}";document.head.appendChild(s);}function schedule(){if("requestIdleCallback" in window){requestIdleCallback(load,{timeout:4000});}else{setTimeout(load,1500);}}if(document.readyState==='complete'){schedule();}else{window.addEventListener('load',schedule,{once:true});}})();`
   : "";
 ---
 
@@ -118,6 +121,7 @@ const deferGa = GA_ID
     )}
     <link rel="preload" href="/fonts/fraunces-normal-latin-63f165.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/inter-normal-latin-1ab1ad.woff2" as="font" type="font/woff2" crossorigin />
+    {GA_ID && <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />}
     <link rel="stylesheet" href={`/styles/global.css?v=${globalCssV}`} />
     <slot name="head" />
     <script type="application/ld+json" set:html={JSON.stringify({
