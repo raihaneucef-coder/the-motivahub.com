@@ -9,8 +9,8 @@ pubDate: 2026-10-10
 updatedDate: 2026-10-10
 topic: "Sport"
 readTime: "11 min read"
-image: "/images/sport.jpg"
-imageAlt: "Person training with weights — body recomposition guide"
+image: "/images/hero-athlete.jpg"
+imageAlt: "Athlete training with weights — body recomposition guide"
 featured: false
 draft: false
 keywords:
