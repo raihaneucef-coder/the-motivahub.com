@@ -1,0 +1,264 @@
+---
+import Layout from "../../../../layouts/Layout.astro";
+
+const title = "Recomposition Corporelle — PDF Gratuit Scientifique | Motiva Hub";
+const description = "Un guide gratuit et scientifique pour perdre du gras et construire du muscle en même temps. Trois leviers (entraînement, protéines, énergie), un système quotidien et un démarrage de 30 jours. Téléchargez le PDF.";
+const canonical = "https://the-motivahub.com/fr/pdf/body-recomposition/";
+const pdfUrl = "/body-recomposition-fr.pdf";
+
+const benefits = [
+  { icon: "🧪", title: "Fondé sur la science", text: "Bâti sur Barakat (2017), Morton (2018), Schoenfeld (2017) et Helms (2014) — pas de bro-science d'Instagram." },
+  { icon: "🍗", title: "Protéines d'abord", text: "La seule règle alimentaire qui compte (1,6–2,2 g/kg), rendue simple et répétable — sans aliments interdits." },
+  { icon: "🧱", title: "Piloté par les habitudes", text: "Aucune motivation requise. Fixez des réflexes, ne ratez jamais deux fois, laissez le système travailler." },
+  { icon: "📈", title: "Mesurable", text: "Suivez les signaux qui changent vraiment — charges, tour de taille et photos — pas seulement une balance trompeuse." },
+];
+
+const levers = [
+  { n: "1", title: "Entraînement", focus: "Surcharge progressive, 3–4×/sem, polyarticulaires" },
+  { n: "2", title: "Protéines", focus: "1,6–2,2 g/kg, réparties sur 3–4 repas" },
+  { n: "3", title: "Énergie", focus: "Près de la maintenance ou léger déficit — jamais s'affamer" },
+  { n: "★", title: "Sommeil", focus: "7–9h — le levier silencieux qui décide gras vs muscle" },
+];
+
+const faq = [
+  { q: "Peut-on vraiment perdre du gras et prendre du muscle en même temps ?", a: "Oui — surtout si vous êtes débutant en musculation, que vous avez un gras corporel élevé, ou que vous reprenez après une pause. Votre corps peut utiliser le gras stocké pour alimenter la croissance musculaire quand vous vous entraînez dur et mangez assez de protéines. C'est plus lent pour les personnes déjà sèches et avancées." },
+  { q: "Faut-il compter les calories ?", a: "Pas pour toujours. Estimez votre maintenance une fois, gardez vos protéines fixes, puis utilisez les pas quotidiens et la façon dont vos vêtements tombent. Le comptage formel de calories est optionnel." },
+  { q: "Combien de temps avant de voir des résultats ?", a: "Comptez 8 à 16 semaines pour un changement visible. Le poids stagne souvent pendant une recomposition, donc suivez les photos, le tour de taille et la hausse des charges — c'est ça la vraie histoire." },
+  { q: "Que dois-je manger ?", a: "Ancrez chaque repas sur les protéines (environ une à deux paumes), remplissez la moitié de l'assiette de légumes, ajoutez des féculents autour de l'entraînement, et usez de bonnes graisses avec modération. Visez de manger près de votre maintenance ou en léger déficit." },
+  { q: "Le cardio est-il obligatoire ?", a: "Non. Commencez par les pas quotidiens (8–10k). Ajoutez une ou deux sessions faciles pour la santé si vous le souhaitez, mais ne laissez pas un cardio excessif nuire à votre récupération de la musculation." },
+];
+---
+
+<Layout title={title} description={description} image="/images/hero-mountain-man.jpg">
+  <link rel="canonical" href={canonical} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faq.map((item) => ({
+      "@type": "Question",
+      "name": item.q,
+      "acceptedAnswer": { "@type": "Answer", "text": item.a }
+    }))
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": canonical + "#webpage",
+    "name": title,
+    "description": description,
+    "url": canonical,
+    "inLanguage": "fr"
+  })} />
+
+  <section class="pdf-head">
+    <div class="container">
+      <p class="kicker">PDF Gratuit · 10 Pages · Scientifique</p>
+      <h1>Recomposition <em>Corporelle</em></h1>
+      <p class="pdf-subtitle"><em>Perdre du gras et construire du muscle en même temps — le système honnête et scientifique. Sans régime crash, sans confusion sèche/prise de masse.</em></p>
+    </div>
+  </section>
+
+  <section class="pdf-coming-soon">
+    <div class="container">
+      <div class="coming-soon-box">
+        <p class="coming-soon-label">📥 Téléchargement Gratuit</p>
+        <h2 class="coming-soon-title">Recevez le guide PDF gratuit</h2>
+        <p class="coming-soon-text">Entrez votre email pour débloquer le guide de 10 pages — les 3 leviers, le système quotidien et un démarrage de 30 jours en pilote automatique. Gratuit à vie, pas de spam.</p>
+        <form class="notify-form" id="gate-form" novalidate>
+          <input type="email" name="email" placeholder="votre@email.com" required aria-label="Adresse email">
+          <button type="submit" class="btn-pill btn-pill-cream" id="gate-btn">Envoyez-moi le PDF</button>
+        </form>
+        <p class="notify-note" id="gate-note" aria-live="polite"></p>
+        <p class="gate-download" id="gate-download" hidden><a href={pdfUrl} download>⬇️ Télécharger le PDF</a></p>
+        <p class="gate-alt"><a href={pdfUrl} download>ou ouvrir le PDF directement</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="pdf-content">
+    <div class="container">
+      <div class="pdf-info">
+        <h2>Ce qu'il y a dedans</h2>
+        <p>Ce n'est ni un plan « juste sèche » ni « juste prise de masse ». C'est la méthode validée par la recherche pour <strong>changer votre composition corporelle</strong> — perdre du gras tout en gagnant du muscle — plus le système d'habitudes qui vous garde régulier assez longtemps pour que ça marche.</p>
+
+        <h2>4 raisons que ça marche</h2>
+        <div class="benefits-grid">
+          {benefits.map((b) => (
+            <div class="benefit-card">
+              <p class="benefit-icon">{b.icon}</p>
+              <h3 class="benefit-title">{b.title}</h3>
+              <p class="benefit-text">{b.text}</p>
+            </div>
+          ))}
+        </div>
+
+        <h2>Les 3 leviers (+ 1 silencieux)</h2>
+        <div class="weeks-grid">
+          {levers.map((l) => (
+            <div class="week-card">
+              <p class="week-label">Levier {l.n}</p>
+              <h3 class="week-title">{l.title}</h3>
+              <p class="week-focus">{l.focus}</p>
+            </div>
+          ))}
+        </div>
+
+        <h2>Le système en une page</h2>
+        <div class="day-sample">
+          <p class="day-title">Vos réflexes hebdomadaires</p>
+          <ol>
+            <li><strong>Entraînez-vous</strong> 3–4×/sem en surcharge progressive — notez chaque série, ajoutez un peu.</li>
+            <li><strong>Mangez des protéines</strong> à chaque repas (~0,4 g/kg chacun), légumes sur la moitié de l'assiette.</li>
+            <li><strong>Bougez</strong> 8–10k pas par jour et <strong>dormez</strong> 7–9h avec un réveil fixe.</li>
+            <li><strong>Suivez</strong> la moyenne de poids hebdo, photos, tour de taille et charges — pas la balance seule.</li>
+            <li><strong>Récupérez</strong> un jour de repos par semaine. Ne ratez jamais deux fois.</li>
+          </ol>
+          <p>La motivation périssable s'éteint. Les réflexes, non.</p>
+        </div>
+
+        <div class="related-tools">
+          <h2>Allez plus loin sur Motiva Hub</h2>
+          <div class="related-grid">
+            <a class="related-card" href="/fr/pdf/30-days-discipline/">
+              <p class="related-name">📘 30 Jours de Discipline</p>
+              <p class="related-desc">Le PDF des habitudes qui font tenir le système</p>
+            </a>
+            <a class="related-card" href="/fr/tools/habit-stacker/">
+              <p class="related-name">🧱 Générateur d'empilement d'habitudes</p>
+              <p class="related-desc">Rendez les réflexes automatiques — 2 minutes</p>
+            </a>
+            <a class="related-card" href="/fr/tools/discipline-quiz/">
+              <p class="related-name">🎯 Quiz Type de Discipline</p>
+              <p class="related-desc">Trouvez votre archétype — 2 minutes</p>
+            </a>
+            <a class="related-card" href="/fr/journal/">
+              <p class="related-name">📖 Le Journal</p>
+              <p class="related-desc">Plus d'articles sur les habitudes et la discipline</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pdf-faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      {faq.map((item) => (
+        <details>
+          <summary>{item.q}</summary>
+          <p>{item.a}</p>
+        </details>
+      ))}
+      <p class="disclaimer">Ce guide est une information éducative générale, pas un avis médical. Consultez un professionnel qualifié avant de commencer tout régime ou programme d'exercice.</p>
+    </div>
+  </section>
+
+  <section class="pdf-cta-final">
+    <div class="container">
+      <h2>Le corps suit la routine</h2>
+      <p>Téléchargez le guide gratuit et suivez le démarrage de 30 jours. Au jour 30, vous n'êtes plus « quelqu'un qui essaie de se mettre en forme » — vous êtes quelqu'un qui s'entraîne, mange bien et se présente.</p>
+      <a href={pdfUrl} download class="btn-pill btn-pill-cream">Télécharger le PDF gratuit</a>
+    </div>
+  </section>
+</Layout>
+
+<script is:inline>
+  (function () {
+    const form = document.getElementById('gate-form');
+    const note = document.getElementById('gate-note');
+    const btn = document.getElementById('gate-btn');
+    const dl = document.getElementById('gate-download');
+    if (!form) return;
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = String(new FormData(form).get('email') || '').trim();
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        note.textContent = 'Veuillez entrer une adresse email valide.';
+        note.style.color = '#c0392b';
+        return;
+      }
+      btn.textContent = 'Envoi...'; btn.disabled = true;
+      try {
+        const res = await fetch('https://formsubmit.co/ajax/' + 'raihaneucef@gmail.com', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({
+            email,
+            source: 'pdf/body-recomposition fr (download gate)',
+            page: window.location.pathname,
+            _subject: '📘 Recomposition Corporelle PDF demandé',
+            _template: 'table'
+          })
+        });
+        if (res.ok) {
+          note.textContent = "🎉 C'est fait ! Votre PDF est prêt — cliquez ci-dessous.";
+          note.style.color = '#c8a04a';
+          if (dl) dl.hidden = false;
+          form.reset();
+        } else throw new Error('failed');
+      } catch (err) {
+        note.textContent = '⚠️ Une erreur est survenue. Vous pouvez ouvrir le PDF directement, ou écrire à contact@the-motivahub.com';
+        note.style.color = '#c0392b';
+        if (dl) dl.hidden = false;
+      } finally {
+        btn.textContent = 'Envoyez-moi le PDF'; btn.disabled = false;
+      }
+    });
+  })();
+</script>
+
+<style is:global>
+  .pdf-head { padding: 80px 0 32px; text-align: center; }
+  .pdf-subtitle { max-width: 720px; margin: 24px auto 0; font-size: 18px; color: var(--muted); line-height: 1.6; }
+  .pdf-coming-soon { padding: 32px 0 48px; }
+  .coming-soon-box { max-width: 640px; margin: 0 auto; padding: 40px 32px; background: linear-gradient(180deg, rgba(200, 160, 74, 0.08), rgba(200, 160, 74, 0.02)); border: 1px solid rgba(200, 160, 74, 0.25); border-radius: 16px; text-align: center; }
+  .coming-soon-label { font-size: 11px; letter-spacing: 2px; color: var(--gold, #c8a04a); margin: 0 0 12px; font-weight: 700; }
+  .coming-soon-title { font-family: var(--serif, Georgia, serif); font-size: 26px; font-weight: 600; margin: 0 0 16px; line-height: 1.3; }
+  .coming-soon-text { font-size: 15px; line-height: 1.6; color: var(--muted, #666); margin: 0 0 24px; }
+  .notify-form { display: flex; gap: 8px; max-width: 480px; margin: 0 auto; flex-wrap: wrap; }
+  .notify-form input { flex: 1; min-width: 200px; padding: 14px 18px; border: 1px solid var(--line, #e5e5e5); border-radius: 8px; font-size: 15px; }
+  .notify-form input:focus { outline: 2px solid var(--gold, #c8a04a); outline-offset: 2px; }
+  .notify-note { margin: 12px 0 0; font-size: 14px; min-height: 20px; }
+  .gate-download { margin: 18px 0 0; }
+  .gate-download a { display: inline-block; padding: 12px 26px; background: #141414; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 700; }
+  .gate-alt { margin: 12px 0 0; font-size: 13px; }
+  .gate-alt a { color: var(--muted, #666); }
+  .pdf-content { padding: 32px 0 64px; }
+  .pdf-info { max-width: 720px; margin: 0 auto; line-height: 1.7; }
+  .pdf-info h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; margin: 48px 0 20px; }
+  .pdf-info p { margin: 0 0 20px; font-size: 16px; }
+  .benefits-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 24px 0 32px; }
+  .benefit-card { padding: 24px; background: var(--cream, #faf7f2); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .benefit-icon { font-size: 28px; margin: 0 0 12px; line-height: 1; }
+  .benefit-title { font-family: var(--serif, Georgia, serif); font-size: 18px; font-weight: 600; margin: 0 0 8px; }
+  .benefit-text { font-size: 14px; line-height: 1.6; color: var(--muted, #666); margin: 0; }
+  .weeks-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 24px 0 32px; }
+  .week-card { padding: 20px; background: var(--cream, #faf7f2); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .week-label { font-size: 11px; letter-spacing: 2px; color: var(--gold, #c8a04a); margin: 0 0 8px; font-weight: 700; }
+  .week-title { font-family: var(--serif, Georgia, serif); font-size: 20px; font-weight: 600; margin: 0 0 8px; }
+  .week-focus { font-size: 13px; color: var(--muted, #666); margin: 0; }
+  .day-sample { padding: 24px; background: var(--cream, #faf7f2); border-left: 3px solid var(--gold, #c8a04a); border-radius: 0 12px 12px 0; margin: 24px 0; }
+  .day-title { font-family: var(--serif, Georgia, serif); font-size: 20px; font-weight: 600; margin: 0 0 12px; }
+  .day-sample ol { padding-left: 20px; margin: 0 0 16px; }
+  .day-sample ol li { padding: 4px 0; font-size: 14px; }
+  .related-tools { margin: 48px 0; }
+  .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+  .related-card { padding: 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; text-decoration: none; transition: border-color 0.2s ease; }
+  .related-card:hover { border-color: var(--gold, #c8a04a); }
+  .related-name { font-size: 15px; font-weight: 600; margin: 0 0 6px; }
+  .related-desc { font-size: 13px; color: #555; margin: 0; }
+  .pdf-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
+  .pdf-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 32px; }
+  .pdf-faq details { max-width: 720px; margin: 0 auto 16px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; padding: 16px 20px; }
+  .pdf-faq summary { cursor: pointer; font-size: 15px; font-weight: 600; list-style: none; }
+  .pdf-faq summary::-webkit-details-marker { display: none; }
+  .pdf-faq details p { margin: 12px 0 0; line-height: 1.6; }
+  .disclaimer { max-width: 720px; margin: 24px auto 0; font-size: 12.5px; color: var(--muted, #666); text-align: center; }
+  .pdf-cta-final { padding: 64px 0; text-align: center; }
+  .pdf-cta-final h2 { font-family: var(--serif, Georgia, serif); font-size: 36px; margin: 0 0 16px; }
+  .pdf-cta-final p { max-width: 540px; margin: 0 auto 32px; color: var(--muted, #666); font-size: 16px; }
+  .btn-pill { display: inline-block; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 15px; cursor: pointer; border: none; }
+  .btn-pill-cream { background: var(--gold, #c8a04a); color: #0e0e0e; }
+  .btn-pill-cream:hover { background: #b8965a; }
+</style>

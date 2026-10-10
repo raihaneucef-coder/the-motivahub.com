@@ -40,6 +40,16 @@ const guides = [
     image: "/images/blog/atomic-habits-review-2.jpg",
     datePublished: "2026-09-01",
   },
+  {
+    slug: "body-recomposition",
+    href: "/pdf/body-recomposition/",
+    title: "The Body Recomposition Guide — Free 10-Page PDF",
+    description: "Lose fat and build muscle at the same time — the science, in one system. Training, protein, energy, sleep, tracking, and a 30-day starter.",
+    topic: "Sport",
+    wordCount: 0,
+    image: "/images/sport.jpg",
+    datePublished: "2026-10-08",
+  },
 ];
 
 // Derive read time from word count (~250 wpm)
@@ -65,7 +75,7 @@ const readTime = (words: number) => `${Math.round(words / 250)} MIN READ`;
       "itemListElement": guides.map((g, i) => ({
         "@type": "ListItem",
         "position": i + 1,
-        "url": `https://the-motivahub.com/guides/${g.slug}/`,
+        "url": g.href ?? `https://the-motivahub.com/guides/${g.slug}/`,
         "name": g.title
       }))
     }
@@ -130,7 +140,7 @@ const readTime = (words: number) => `${Math.round(words / 250)} MIN READ`;
       </div>
       <div class="guides-list">
         {guides.map((g) => (
-          <Link href={`/guides/${g.slug}/`} class="guide-list-item">
+          <Link href={g.href ?? `/guides/${g.slug}/`} class="guide-list-item">
             <div class="guide-list-thumb">
               <img src={g.image} alt={g.title} loading="lazy" width="120" height="80" />
             </div>

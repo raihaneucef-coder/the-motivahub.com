@@ -63,6 +63,7 @@ const STATIC_PAGES = [
   { path: "/bio/", priority: PRIORITY.static, changefreq: "monthly" },
   { path: "/credits/", priority: PRIORITY.static, changefreq: "monthly" },
   { path: "/pdf/30-days-discipline/", priority: PRIORITY.static, changefreq: "monthly" },
+  { path: "/pdf/body-recomposition/", priority: PRIORITY.static, changefreq: "monthly" },
   // NOTE: /login/, /register/, /forgot-password/, /reset-password/ are
   // noindex,nofollow — they must NOT appear in the sitemap.
 ];

@@ -1,0 +1,264 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const title = "Body Recomposition — Free Science-Based PDF | Motiva Hub";
+const description = "A free, science-based guide to losing fat and building muscle at the same time. Three levers (training, protein, energy), a daily system, and a 30-day starter. Download the PDF.";
+const canonical = "https://the-motivahub.com/pdf/body-recomposition/";
+const pdfUrl = "/body-recomposition.pdf";
+
+const benefits = [
+  { icon: "🧪", title: "Evidence-based", text: "Built on Barakat (2017), Morton (2018), Schoenfeld (2017) and Helms (2014) — not Instagram bro-science." },
+  { icon: "🍗", title: "Protein first", text: "The one diet rule that matters (1.6–2.2 g/kg) made simple and repeatable — no forbidden foods." },
+  { icon: "🧱", title: "Habit-driven", text: "No motivation required. Set defaults, never miss twice, and let the system do the work." },
+  { icon: "📈", title: "Trackable", text: "Measure the signals that actually change — lifts, waist and photos — not just a misleading scale." },
+];
+
+const levers = [
+  { n: "1", title: "Training", focus: "Progressive overload, 3–4×/week, compound lifts" },
+  { n: "2", title: "Protein", focus: "1.6–2.2 g/kg, spread across 3–4 meals" },
+  { n: "3", title: "Energy", focus: "Near maintenance or a small deficit — never starve" },
+  { n: "★", title: "Sleep", focus: "7–9h — the silent lever that decides fat vs muscle" },
+];
+
+const faq = [
+  { q: "Can you really lose fat and build muscle at the same time?", a: "Yes — especially if you're new to lifting, carrying extra body fat, or returning after a break. Your body can use stored fat to power muscle growth when you train hard and eat enough protein. It's slower for people who are already lean and advanced." },
+  { q: "Do I need to count calories?", a: "Not forever. Estimate your maintenance once, keep your protein fixed, then use daily steps and how your clothes fit. Formal calorie tracking is optional, not required." },
+  { q: "How long until I see results?", a: "Think 8–16 weeks for visible change. The scale often stays flat while you recomp, so track progress photos, waist measurement and your lifts going up — those tell the real story." },
+  { q: "What should I eat?", a: "Anchor every meal on protein (about a palm-to-two of it), fill half the plate with vegetables, add carbs around your training, and use healthy fats in moderation. Aim to eat around maintenance or a small deficit." },
+  { q: "Is cardio required?", a: "No. Start with daily steps (8–10k). Add one or two easy sessions for health if you like, but don't let excessive cardio hurt your recovery from lifting." },
+];
+---
+
+<Layout title={title} description={description} image="/images/hero-mountain-man.jpg">
+  <link rel="canonical" href={canonical} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faq.map((item) => ({
+      "@type": "Question",
+      "name": item.q,
+      "acceptedAnswer": { "@type": "Answer", "text": item.a }
+    }))
+  })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": canonical + "#webpage",
+    "name": title,
+    "description": description,
+    "url": canonical,
+    "inLanguage": "en"
+  })} />
+
+  <section class="pdf-head">
+    <div class="container">
+      <p class="kicker">Free PDF · 10 Pages · Science-Based</p>
+      <h1>Body <em>Recomposition</em></h1>
+      <p class="pdf-subtitle"><em>Lose fat and build muscle at the same time — the honest, science-based system. No crash diets, no bulk/cut confusion.</em></p>
+    </div>
+  </section>
+
+  <section class="pdf-coming-soon">
+    <div class="container">
+      <div class="coming-soon-box">
+        <p class="coming-soon-label">📥 Free Download</p>
+        <h2 class="coming-soon-title">Get the free PDF guide</h2>
+        <p class="coming-soon-text">Enter your email to unlock the 10-page guide — the 3 levers, the daily system, and a 30-day starter you can run on autopilot. Free forever, no spam.</p>
+        <form class="notify-form" id="gate-form" novalidate>
+          <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address">
+          <button type="submit" class="btn-pill btn-pill-cream" id="gate-btn">Send me the PDF</button>
+        </form>
+        <p class="notify-note" id="gate-note" aria-live="polite"></p>
+        <p class="gate-download" id="gate-download" hidden><a href={pdfUrl} download>⬇️ Download the PDF</a></p>
+        <p class="gate-alt"><a href={pdfUrl} download>or open the PDF directly</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="pdf-content">
+    <div class="container">
+      <div class="pdf-info">
+        <h2>What's inside</h2>
+        <p>This isn't another "just cut" or "just bulk" plan. It's the research-backed method for <strong>changing your body composition</strong> — dropping fat while gaining muscle — plus the habit system that keeps you consistent long enough for it to work.</p>
+
+        <h2>4 reasons it works</h2>
+        <div class="benefits-grid">
+          {benefits.map((b) => (
+            <div class="benefit-card">
+              <p class="benefit-icon">{b.icon}</p>
+              <h3 class="benefit-title">{b.title}</h3>
+              <p class="benefit-text">{b.text}</p>
+            </div>
+          ))}
+        </div>
+
+        <h2>The 3 levers (+ 1 silent)</h2>
+        <div class="weeks-grid">
+          {levers.map((l) => (
+            <div class="week-card">
+              <p class="week-label">Lever {l.n}</p>
+              <h3 class="week-title">{l.title}</h3>
+              <p class="week-focus">{l.focus}</p>
+            </div>
+          ))}
+        </div>
+
+        <h2>The system in one page</h2>
+        <div class="day-sample">
+          <p class="day-title">Your weekly defaults</p>
+          <ol>
+            <li><strong>Train</strong> 3–4×/week with progressive overload — log every set, add a little.</li>
+            <li><strong>Eat protein</strong> at every meal (~0.4 g/kg each), vegetables on half the plate.</li>
+            <li><strong>Move</strong> 8–10k steps daily and <strong>sleep</strong> 7–9h on a fixed wake time.</li>
+            <li><strong>Track</strong> weekly weight average, photos, waist and lifts — not the scale alone.</li>
+            <li><strong>Recover</strong> one rest day a week. Never miss twice.</li>
+          </ol>
+          <p>Perishable motivation fades. Defaults don't.</p>
+        </div>
+
+        <div class="related-tools">
+          <h2>Go deeper on Motiva Hub</h2>
+          <div class="related-grid">
+            <a class="related-card" href="/journal/protein-is-not-just-for-athletes/">
+              <p class="related-name">🍗 Protein Is Not Just for Athletes</p>
+              <p class="related-desc">Why protein is the anchor of body composition</p>
+            </a>
+            <a class="related-card" href="/journal/recovery-is-training/">
+              <p class="related-name">😴 Recovery Is Training Too</p>
+              <p class="related-desc">Sleep & rest — the silent lever</p>
+            </a>
+            <a class="related-card" href="/journal/strength-is-a-skill/">
+              <p class="related-name">💪 Strength Is a Skill</p>
+              <p class="related-desc">Progressive overload, explained simply</p>
+            </a>
+            <a class="related-card" href="/tools/habit-stacker/">
+              <p class="related-name">🧱 Habit Stack Generator</p>
+              <p class="related-desc">Make the defaults stick — 2 minutes</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pdf-faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      {faq.map((item) => (
+        <details>
+          <summary>{item.q}</summary>
+          <p>{item.a}</p>
+        </details>
+      ))}
+      <p class="disclaimer">This guide is general educational information, not medical advice. Consult a qualified professional before starting any diet or exercise program.</p>
+    </div>
+  </section>
+
+  <section class="pdf-cta-final">
+    <div class="container">
+      <h2>The body follows the routine</h2>
+      <p>Download the free guide and run the 30-day starter. By day 30 you're not "trying to get in shape" — you're someone who trains, eats well, and shows up.</p>
+      <a href={pdfUrl} download class="btn-pill btn-pill-cream">Download the free PDF</a>
+    </div>
+  </section>
+</Layout>
+
+<script is:inline>
+  (function () {
+    const form = document.getElementById('gate-form');
+    const note = document.getElementById('gate-note');
+    const btn = document.getElementById('gate-btn');
+    const dl = document.getElementById('gate-download');
+    if (!form) return;
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const email = String(new FormData(form).get('email') || '').trim();
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        note.textContent = 'Please enter a valid email address.';
+        note.style.color = '#c0392b';
+        return;
+      }
+      btn.textContent = 'Sending...'; btn.disabled = true;
+      try {
+        const res = await fetch('https://formsubmit.co/ajax/' + 'raihaneucef@gmail.com', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({
+            email,
+            source: 'pdf/body-recomposition (download gate)',
+            page: window.location.pathname,
+            _subject: '📘 Body Recomposition PDF requested',
+            _template: 'table'
+          })
+        });
+        if (res.ok) {
+          note.textContent = "🎉 Done! Your PDF is ready — click below.";
+          note.style.color = '#c8a04a';
+          if (dl) dl.hidden = false;
+          form.reset();
+        } else throw new Error('failed');
+      } catch (err) {
+        note.textContent = '⚠️ Something went wrong. You can open the PDF directly, or email contact@the-motivahub.com';
+        note.style.color = '#c0392b';
+        if (dl) dl.hidden = false;
+      } finally {
+        btn.textContent = 'Send me the PDF'; btn.disabled = false;
+      }
+    });
+  })();
+</script>
+
+<style is:global>
+  .pdf-head { padding: 80px 0 32px; text-align: center; }
+  .pdf-subtitle { max-width: 720px; margin: 24px auto 0; font-size: 18px; color: var(--muted); line-height: 1.6; }
+  .pdf-coming-soon { padding: 32px 0 48px; }
+  .coming-soon-box { max-width: 640px; margin: 0 auto; padding: 40px 32px; background: linear-gradient(180deg, rgba(200, 160, 74, 0.08), rgba(200, 160, 74, 0.02)); border: 1px solid rgba(200, 160, 74, 0.25); border-radius: 16px; text-align: center; }
+  .coming-soon-label { font-size: 11px; letter-spacing: 2px; color: var(--gold, #c8a04a); margin: 0 0 12px; font-weight: 700; }
+  .coming-soon-title { font-family: var(--serif, Georgia, serif); font-size: 26px; font-weight: 600; margin: 0 0 16px; line-height: 1.3; }
+  .coming-soon-text { font-size: 15px; line-height: 1.6; color: var(--muted, #666); margin: 0 0 24px; }
+  .notify-form { display: flex; gap: 8px; max-width: 480px; margin: 0 auto; flex-wrap: wrap; }
+  .notify-form input { flex: 1; min-width: 200px; padding: 14px 18px; border: 1px solid var(--line, #e5e5e5); border-radius: 8px; font-size: 15px; }
+  .notify-form input:focus { outline: 2px solid var(--gold, #c8a04a); outline-offset: 2px; }
+  .notify-note { margin: 12px 0 0; font-size: 14px; min-height: 20px; }
+  .gate-download { margin: 18px 0 0; }
+  .gate-download a { display: inline-block; padding: 12px 26px; background: #141414; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 700; }
+  .gate-alt { margin: 12px 0 0; font-size: 13px; }
+  .gate-alt a { color: var(--muted, #666); }
+  .pdf-content { padding: 32px 0 64px; }
+  .pdf-info { max-width: 720px; margin: 0 auto; line-height: 1.7; }
+  .pdf-info h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; margin: 48px 0 20px; }
+  .pdf-info p { margin: 0 0 20px; font-size: 16px; }
+  .benefits-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 24px 0 32px; }
+  .benefit-card { padding: 24px; background: var(--cream, #faf7f2); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .benefit-icon { font-size: 28px; margin: 0 0 12px; line-height: 1; }
+  .benefit-title { font-family: var(--serif, Georgia, serif); font-size: 18px; font-weight: 600; margin: 0 0 8px; }
+  .benefit-text { font-size: 14px; line-height: 1.6; color: var(--muted, #666); margin: 0; }
+  .weeks-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 24px 0 32px; }
+  .week-card { padding: 20px; background: var(--cream, #faf7f2); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .week-label { font-size: 11px; letter-spacing: 2px; color: var(--gold, #c8a04a); margin: 0 0 8px; font-weight: 700; }
+  .week-title { font-family: var(--serif, Georgia, serif); font-size: 20px; font-weight: 600; margin: 0 0 8px; }
+  .week-focus { font-size: 13px; color: var(--muted, #666); margin: 0; }
+  .day-sample { padding: 24px; background: var(--cream, #faf7f2); border-left: 3px solid var(--gold, #c8a04a); border-radius: 0 12px 12px 0; margin: 24px 0; }
+  .day-title { font-family: var(--serif, Georgia, serif); font-size: 20px; font-weight: 600; margin: 0 0 12px; }
+  .day-sample ol { padding-left: 20px; margin: 0 0 16px; }
+  .day-sample ol li { padding: 4px 0; font-size: 14px; }
+  .related-tools { margin: 48px 0; }
+  .related-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+  .related-card { padding: 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; text-decoration: none; transition: border-color 0.2s ease; }
+  .related-card:hover { border-color: var(--gold, #c8a04a); }
+  .related-name { font-size: 15px; font-weight: 600; margin: 0 0 6px; }
+  .related-desc { font-size: 13px; color: #555; margin: 0; }
+  .pdf-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
+  .pdf-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 32px; }
+  .pdf-faq details { max-width: 720px; margin: 0 auto 16px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; padding: 16px 20px; }
+  .pdf-faq summary { cursor: pointer; font-size: 15px; font-weight: 600; list-style: none; }
+  .pdf-faq summary::-webkit-details-marker { display: none; }
+  .pdf-faq details p { margin: 12px 0 0; line-height: 1.6; }
+  .disclaimer { max-width: 720px; margin: 24px auto 0; font-size: 12.5px; color: var(--muted, #666); text-align: center; }
+  .pdf-cta-final { padding: 64px 0; text-align: center; }
+  .pdf-cta-final h2 { font-family: var(--serif, Georgia, serif); font-size: 36px; margin: 0 0 16px; }
+  .pdf-cta-final p { max-width: 540px; margin: 0 auto 32px; color: var(--muted, #666); font-size: 16px; }
+  .btn-pill { display: inline-block; padding: 14px 32px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 15px; cursor: pointer; border: none; }
+  .btn-pill-cream { background: var(--gold, #c8a04a); color: #0e0e0e; }
+  .btn-pill-cream:hover { background: #b8965a; }
+</style>
