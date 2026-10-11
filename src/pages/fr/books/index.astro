@@ -160,8 +160,21 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
                     <p class="bk-shelf-cat">{book.categoryFr ?? book.category}</p>
                     <h3 class="bk-shelf-title">{book.title}</h3>
                     <p class="bk-shelf-author">{book.author}</p>
-                    <p class="bk-shelf-desc">{book.descriptionFr ?? book.description}</p>
-                    <p class="bk-shelf-reason"><strong>Pourquoi nous le recommandons :</strong> {book.reasonFr ?? book.reason}</p>
+                    {(book.summaryFr ?? book.summary) ? (
+                      <>
+                        {(book.summaryFr ?? book.summary)!.split("\n\n").map((para) => (
+                          <p class="bk-shelf-desc">{para}</p>
+                        ))}
+                        {(book.keyIdeaFr ?? book.keyIdea) ? (
+                          <p class="bk-shelf-key"><strong>Idée clé :</strong> {book.keyIdeaFr ?? book.keyIdea}</p>
+                        ) : null}
+                      </>
+                    ) : (
+                      <>
+                        <p class="bk-shelf-desc">{book.descriptionFr ?? book.description}</p>
+                        <p class="bk-shelf-reason"><strong>Pourquoi nous le recommandons :</strong> {book.reasonFr ?? book.reason}</p>
+                      </>
+                    )}
                   </div>
                   <a class="bk-shelf-cta" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">Voir le Livre →</a>
                 </article>
