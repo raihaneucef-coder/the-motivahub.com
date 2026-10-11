@@ -124,7 +124,7 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
         {featured.map((book) => (
           <article class="bk-card" id={`fr-${book.id}`}>
             <div class="bk-cover">
-              <img src={book.cover} alt={`Couverture de ${book.title}`} loading="lazy" />
+              <img src={book.cover} alt={`Couverture de ${book.title}`} width="300" height="500" decoding="async" loading="lazy" />
             </div>
             <h3 class="bk-card-title">{book.title}</h3>
             <p class="bk-card-author">{book.author.split(" · ")[0]}</p>
@@ -155,7 +155,7 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
               {items.map((book) => (
                 <article class="bk-shelf-item" id={`fr-shelf-${book.id}`}>
                   <div class="bk-shelf-cover">
-                    <img src={book.cover} alt={`Couverture de ${book.title}`} loading="lazy" />
+                    <img src={book.cover} alt={`Couverture de ${book.title}`} width="300" height="500" decoding="async" loading="lazy" />
                   </div>
                   <div class="bk-shelf-body">
                     <p class="bk-shelf-cat">{book.categoryFr ?? book.category}</p>
