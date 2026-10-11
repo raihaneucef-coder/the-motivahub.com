@@ -31,5 +31,8 @@ export async function getImageDimensions(imagePath: string): Promise<{ width: nu
 
 export function thumbSrc(imagePath: string): string {
   if (!imagePath.startsWith("/") || imagePath.includes("-sm.jpg")) return imagePath;
-  return imagePath.replace(/\.jpg$/, "-sm.jpg");
+  const smPath = imagePath.replace(/\.jpg$/, "-sm.jpg");
+  // Fall back to the original when no pre-generated thumbnail exists, so a
+  // missing -sm variant never renders a broken image on the card.
+  return fs.existsSync(path.join(IMAGE_DIR, smPath)) ? smPath : imagePath;
 }
