@@ -2283,6 +2283,29 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 @media (max-width: 768px) { .bk-benefits-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 480px) { .bk-benefits-grid { grid-template-columns: 1fr; } }
 
+/* 34b2. Methodology + top affiliate disclosure */
+.bk-methodology { padding: clamp(32px, 5vh, 48px) 0 clamp(24px, 3vh, 36px); }
+.bk-method-intro {
+  font-family: var(--sans); font-size: 0.9375rem; color: #b0b0b0;
+  line-height: 1.6; margin: 16px 0 0; max-width: 72ch;
+}
+.bk-method-list {
+  margin: 20px 0 0; padding-left: 22px;
+  font-family: var(--sans); font-size: 0.9375rem; color: #b0b0b0;
+  line-height: 1.7; max-width: 72ch;
+}
+.bk-method-list li { margin: 0 0 10px; }
+.bk-method-list strong { color: #f0f0f0; font-weight: 600; }
+.bk-method-advice {
+  font-family: var(--serif); font-style: italic; font-size: 1rem;
+  color: #d4b377; margin: 20px 0 0; max-width: 72ch; line-height: 1.6;
+}
+.bk-affiliate-top {
+  font-family: var(--sans); font-size: 0.75rem; color: #666;
+  line-height: 1.6; margin: 24px 0 0; max-width: 72ch;
+  padding-top: 16px; border-top: 1px solid #1e1e1e;
+}
+
 /* 34c. Featured books */
 .bk-featured { padding: clamp(40px, 6vh, 64px) 0 clamp(24px, 3vh, 36px); }
 .bk-section-head {
@@ -2337,6 +2360,14 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 .bk-shelf-count {
   font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
   letter-spacing: 0.14em; color: #666; margin: 0;
+}
+/* Grouped shelf (5 editorial categories) */
+.bk-shelf-group { margin: 0 0 clamp(28px, 4vh, 40px); }
+.bk-shelf-group:last-child { margin-bottom: 0; }
+.bk-shelf-group-title {
+  font-family: var(--serif); font-size: 1.15rem; font-weight: 700;
+  color: #f0f0f0; margin: 0 0 14px; padding-bottom: 8px;
+  border-bottom: 1px solid #1e1e1e; letter-spacing: 0.01em;
 }
 .bk-shelf-list { display: flex; flex-direction: column; gap: 16px; }
 .bk-shelf-item {

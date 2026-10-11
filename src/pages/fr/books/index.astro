@@ -3,9 +3,10 @@ import Layout from "../../../layouts/Layout.astro";
 import { books } from "../../../data/books";
 
 // Deterministic editorial selection: the first five entries of the
-// hand-maintained dataset lead the shelf; the rest follow below.
+// hand-maintained dataset lead as featured highlights; the complete
+// categorized shelf below shows ALL books grouped by editorial family.
 const featured = books.slice(0, 5);
-const shelf = books.slice(5);
+const shelf = books;
 
 // Internal editorial companions (same mapping as BookCard.astro)
 const related: Record<string, { href: string; label: string }> = {
@@ -14,9 +15,19 @@ const related: Record<string, { href: string; label: string }> = {
   "cant-hurt-me": { href: "/fr/journal/cant-hurt-me-review/", label: "Lire la critique de Can't Hurt Me" },
   "meditations": { href: "/fr/journal/morning-routines-12-tested/", label: "Lire le test de terrain du rituel matinal stoïcien" },
 };
+
+// 5 canonical editorial groups (mirrors page-1 competitor structure).
+const groupLabels: Record<string, string> = {
+  MINDSET: "État d'esprit & croissance",
+  HABITS: "Habitudes & discipline",
+  FOCUS: "Concentration & productivité",
+  STOICISM: "Stoïcisme & sagesse",
+  CLASSICS: "Classiques & stratégie",
+};
+const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
 ---
 
-<Layout title="16 Meilleurs Livres de Développement Personnel 2026 — Motiva Hub" description="Les 16 meilleurs livres de développement personnel à lire en 2026 — habitudes, concentration, résilience et sens. Sélection testée et classée par l'équipe Motiva Hub.">
+<Layout title="17 Meilleurs Livres de Développement Personnel 2026 — Motiva Hub" description="Les 17 meilleurs livres de développement personnel à lire en 2026 — habitudes, concentration, résilience et sens. Sélection testée et classée par l'équipe Motiva Hub.">
   <link rel="canonical" href="https://the-motivahub.com/fr/books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
@@ -48,7 +59,7 @@ const related: Record<string, { href: string; label: string }> = {
         <p class="bk-hero-eyebrow">De Meilleurs Livres. Une Meilleure Version de Vous.</p>
         <h1 class="bk-hero-title">Une Bibliothèque<br />Choisie pour de<br /><em>Vrais Progrès.</em></h1>
         <p class="bk-hero-sub">Des idées intemporelles. Une sagesse pratique. Un vous plus fort.</p>
-        <p class="bk-hero-desc">Douze livres que nous relisons. Choisis avec soin, classés et honnêtement critiqués — ceux qui méritent leur place sur l'étagère à côté du lit.</p>
+        <p class="bk-hero-desc">Dix-sept livres que nous relisons. Choisis avec soin, classés et honnêtement critiqués — ceux qui méritent leur place sur l'étagère à côté du lit.</p>
         <a href="#collection" class="bk-hero-cta">Explorer les Livres →</a>
         <span class="bk-hero-divider"></span>
         <p class="bk-hero-tagline">Lire. Réfléchir. Appliquer. Grandir.</p>
@@ -57,6 +68,23 @@ const related: Record<string, { href: string; label: string }> = {
         <img src="/images/books.jpg" alt="Pile de livres influents sur la croissance et la discipline" loading="eager" width="800" height="600" />
         <p class="bk-hero-img-label">Lis moins,<br />relis plus.</p>
       </div>
+    </div>
+  </section>
+
+  <!-- Methodology + affiliate disclosure (top) -->
+  <section class="bk-methodology">
+    <div class="container">
+      <h2 class="journal-section-title">Comment Nous Avons <em>Choisi</em> Ces {books.length} Livres</h2>
+      <p class="bk-method-intro">Nous ne listons pas des livres parce qu'ils sont populaires. Chaque titre ici a passé cinq tests avant de mériter sa place&nbsp;:</p>
+      <ol class="bk-method-list">
+        <li><strong>Impact prouvé.</strong> Des changements de vie documentés chez les lecteurs, pas des promesses marketing.</li>
+        <li><strong>Idées originales.</strong> Des concepts introuvables dans un résumé YouTube.</li>
+        <li><strong>Fondé sur des preuves.</strong> Psychologie réelle, philosophie, ou observation rigoureuse.</li>
+        <li><strong>Relecture utile.</strong> Vous y reviendrez dans des années et découvrirez de nouvelles couches.</li>
+        <li><strong>Applicable.</strong> Vous pouvez mettre en œuvre un principe cette semaine, pas seulement vous sentir motivé.</li>
+      </ol>
+      <p class="bk-method-advice">Choisissez 2-3 livres qui correspondent à votre défi actuel. Lisez lentement. La profondeur bat le volume.</p>
+      <p class="bk-affiliate-top">Divulgation d'affiliation&nbsp;: certains boutons « Voir le Livre » contiennent des liens d'affiliation Amazon. Si vous achetez via ces liens, nous pouvons toucher une petite commission sans frais supplémentaires pour vous. Nous ne recommandons que des livres que nous lisons vraiment et auxquels nous revenons.</p>
     </div>
   </section>
 
@@ -116,26 +144,32 @@ const related: Record<string, { href: string; label: string }> = {
         <h2 class="journal-section-title">L'Étagère <em>Complète</em></h2>
         <p class="bk-shelf-count">{books.length} livres · choisis à la main</p>
       </div>
-      <div class="bk-shelf-list">
-        {shelf.map((book) => (
-          <article class="bk-shelf-item" id={`fr-${book.id}`}>
-            <div class="bk-shelf-cover">
-              <img src={book.cover} alt={`Couverture de ${book.title}`} loading="lazy" />
+      {shelfGroupOrder.map((gid) => {
+        const items = shelf.filter((b) => b.group === gid);
+        if (items.length === 0) return null;
+        return (
+          <div class="bk-shelf-group">
+            <h3 class="bk-shelf-group-title">{groupLabels[gid]}</h3>
+            <div class="bk-shelf-list">
+              {items.map((book) => (
+                <article class="bk-shelf-item" id={`fr-shelf-${book.id}`}>
+                  <div class="bk-shelf-cover">
+                    <img src={book.cover} alt={`Couverture de ${book.title}`} loading="lazy" />
+                  </div>
+                  <div class="bk-shelf-body">
+                    <p class="bk-shelf-cat">{book.categoryFr ?? book.category}</p>
+                    <h3 class="bk-shelf-title">{book.title}</h3>
+                    <p class="bk-shelf-author">{book.author}</p>
+                    <p class="bk-shelf-desc">{book.descriptionFr ?? book.description}</p>
+                    <p class="bk-shelf-reason"><strong>Pourquoi nous le recommandons :</strong> {book.reasonFr ?? book.reason}</p>
+                  </div>
+                  <a class="bk-shelf-cta" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">Voir le Livre →</a>
+                </article>
+              ))}
             </div>
-            <div class="bk-shelf-body">
-              <p class="bk-shelf-cat">{book.categoryFr ?? book.category}</p>
-              <h3 class="bk-shelf-title">{book.title}</h3>
-              <p class="bk-shelf-author">{book.author}</p>
-              <p class="bk-shelf-desc">{book.descriptionFr ?? book.description}</p>
-              <p class="bk-shelf-reason"><strong>Pourquoi nous le recommandons :</strong> {book.reasonFr ?? book.reason}</p>
-            </div>
-            <a class="bk-shelf-cta" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">Voir le Livre →</a>
-          </article>
-        ))}
-      </div>
-      <p class="bk-affiliate-note">
-        Divulgation d'affiliation : certains boutons « Voir le Livre » peuvent contenir des liens d'affiliation. Si vous achetez via eux, nous pouvons percevoir une petite commission sans frais supplémentaires pour vous. Nous ne recommandons que des livres que nous lisons réellement et auxquels nous revenons.
-      </p>
+          </div>
+        );
+      })}
     </div>
   </section>
 

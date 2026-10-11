@@ -3,9 +3,10 @@ import Layout from "../../layouts/Layout.astro";
 import { books } from "../../data/books";
 
 // Deterministic editorial selection: the first five entries of the
-// hand-maintained dataset lead the shelf; the rest follow below.
+// hand-maintained dataset lead as featured highlights; the complete
+// categorized shelf below shows ALL books grouped by editorial family.
 const featured = books.slice(0, 5);
-const shelf = books.slice(5);
+const shelf = books;
 
 // Internal editorial companions (same mapping as BookCard.astro)
 const related: Record<string, { href: string; label: string }> = {
@@ -14,9 +15,19 @@ const related: Record<string, { href: string; label: string }> = {
   "cant-hurt-me": { href: "/journal/cant-hurt-me-review/", label: "Read the Can't Hurt Me review" },
   "meditations": { href: "/journal/morning-routines-12-tested/", label: "Read the Stoic morning routine test" },
 };
+
+// 5 canonical editorial groups (mirrors page-1 competitor structure).
+const groupLabels: Record<string, string> = {
+  MINDSET: "Mindset & Growth",
+  HABITS: "Habits & Discipline",
+  FOCUS: "Focus & Productivity",
+  STOICISM: "Stoicism & Wisdom",
+  CLASSICS: "Classics & Strategy",
+};
+const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
 ---
 
-<Layout title="16 Best Self-Development Books for 2026 — Motiva Hub" description="The 16 best self-development books to read in 2026 — habits, focus, resilience, and meaning. Ranked and tested by the Motiva Hub editorial team.">
+<Layout title="17 Best Self-Development Books for 2026 — Motiva Hub" description="The 17 best self-development books to read in 2026 — habits, focus, resilience, and meaning. Ranked and tested by the Motiva Hub editorial team.">
   <link rel="canonical" href="https://the-motivahub.com/books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
@@ -57,6 +68,23 @@ const related: Record<string, { href: string; label: string }> = {
         <img src="/images/books.jpg" alt="Stack of influential books on growth and discipline" loading="eager" width="800" height="600" />
         <p class="bk-hero-img-label">Read less,<br />reread more.</p>
       </div>
+    </div>
+  </section>
+
+  <!-- Methodology + affiliate disclosure (top) -->
+  <section class="bk-methodology">
+    <div class="container">
+      <h2 class="journal-section-title">How We <em>Chose</em> These {books.length} Books</h2>
+      <p class="bk-method-intro">We don't list books because they're popular. Every title here passed five tests before earning its place:</p>
+      <ol class="bk-method-list">
+        <li><strong>Proven impact.</strong> Documented life-changes from readers, not marketing claims.</li>
+        <li><strong>Original ideas.</strong> Concepts you can't get from a summary video.</li>
+        <li><strong>Evidence-based.</strong> Grounded in real psychology, philosophy, or lived observation.</li>
+        <li><strong>Re-readability.</strong> You'll return to it years later and find new layers.</li>
+        <li><strong>Actionable.</strong> You can apply a principle this week — not just feel inspired.</li>
+      </ol>
+      <p class="bk-method-advice">Pick 2-3 books that match your current challenge. Read slowly. Depth beats volume.</p>
+      <p class="bk-affiliate-top">Affiliate disclosure: some "View Book" buttons contain Amazon affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. We only recommend books we actually read and return to.</p>
     </div>
   </section>
 
@@ -116,26 +144,32 @@ const related: Record<string, { href: string; label: string }> = {
         <h2 class="journal-section-title">The Complete <em>Shelf</em></h2>
         <p class="bk-shelf-count">{books.length} books · hand-picked</p>
       </div>
-      <div class="bk-shelf-list">
-        {shelf.map((book) => (
-          <article class="bk-shelf-item" id={book.id}>
-            <div class="bk-shelf-cover">
-              <img src={book.cover} alt={`${book.title} cover`} loading="lazy" />
+      {shelfGroupOrder.map((gid) => {
+        const items = shelf.filter((b) => b.group === gid);
+        if (items.length === 0) return null;
+        return (
+          <div class="bk-shelf-group">
+            <h3 class="bk-shelf-group-title">{groupLabels[gid]}</h3>
+            <div class="bk-shelf-list">
+              {items.map((book) => (
+                <article class="bk-shelf-item" id={`shelf-${book.id}`}>
+                  <div class="bk-shelf-cover">
+                    <img src={book.cover} alt={`${book.title} cover`} loading="lazy" />
+                  </div>
+                  <div class="bk-shelf-body">
+                    <p class="bk-shelf-cat">{book.category}</p>
+                    <h3 class="bk-shelf-title">{book.title}</h3>
+                    <p class="bk-shelf-author">{book.author}</p>
+                    <p class="bk-shelf-desc">{book.description}</p>
+                    <p class="bk-shelf-reason"><strong>Why we recommend it:</strong> {book.reason}</p>
+                  </div>
+                  <a class="bk-shelf-cta" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">View Book →</a>
+                </article>
+              ))}
             </div>
-            <div class="bk-shelf-body">
-              <p class="bk-shelf-cat">{book.category}</p>
-              <h3 class="bk-shelf-title">{book.title}</h3>
-              <p class="bk-shelf-author">{book.author}</p>
-              <p class="bk-shelf-desc">{book.description}</p>
-              <p class="bk-shelf-reason"><strong>Why we recommend it:</strong> {book.reason}</p>
-            </div>
-            <a class="bk-shelf-cta" href={book.affiliateUrl} target="_blank" rel="nofollow sponsored noopener" data-book-id={book.id} data-book-title={book.title} onclick="try{window.trackAffiliateClick&&window.trackAffiliateClick(this.dataset.bookId,this.dataset.bookTitle)}catch(e){}">View Book →</a>
-          </article>
-        ))}
-      </div>
-      <p class="bk-affiliate-note">
-        Affiliate disclosure: some "View Book" buttons may contain affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. We only recommend books we actually read and return to.
-      </p>
+          </div>
+        );
+      })}
     </div>
   </section>
 

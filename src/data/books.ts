@@ -1,5 +1,6 @@
 export interface Book {
   id: string;
+  group: string;
   title: string;
   cover: string;
   description: string;
@@ -18,6 +19,7 @@ export interface Book {
 export const books: Book[] = [
   {
     id: "meditations",
+    group: "STOICISM",
     title: "Meditations",
     cover: "https://covers.openlibrary.org/b/isbn/9780140449334-L.jpg",
     description: "The private notebook of an emperor writing to himself.",
@@ -31,6 +33,7 @@ export const books: Book[] = [
   },
   {
     id: "atomic-habits",
+    group: "HABITS",
     title: "Atomic Habits",
     cover: "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
     description: "A systems thinker's case for identity-based change.",
@@ -44,6 +47,7 @@ export const books: Book[] = [
   },
   {
     id: "deep-work",
+    group: "FOCUS",
     title: "Deep Work",
     cover: "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
     description: "The case for treating concentration as a craft.",
@@ -57,6 +61,7 @@ export const books: Book[] = [
   },
   {
     id: "daily-stoic",
+    group: "STOICISM",
     title: "The Daily Stoic",
     cover: "https://covers.openlibrary.org/b/isbn/9780735211735-L.jpg",
     description: "Three hundred and sixty-six meditations, one for each day.",
@@ -70,6 +75,7 @@ export const books: Book[] = [
   },
   {
     id: "cant-hurt-me",
+    group: "HABITS",
     title: "Can't Hurt Me",
     cover: "https://covers.openlibrary.org/b/isbn/9781544512280-L.jpg",
     description: "An unflinching account of self-mastery forged in suffering.",
@@ -83,6 +89,7 @@ export const books: Book[] = [
   },
   {
     id: "mans-search-for-meaning",
+    group: "MINDSET",
     title: "Man's Search for Meaning",
     cover: "https://covers.openlibrary.org/b/isbn/9780807014295-L.jpg",
     description: "A psychiatrist's testament from the camps.",
@@ -97,6 +104,7 @@ export const books: Book[] = [
   // --- Trending 2024-2026 ---
   {
     id: "psychology-of-money",
+    group: "MINDSET",
     title: "The Psychology of Money",
     cover: "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
     description: "Timeless lessons on wealth, greed, and happiness.",
@@ -110,6 +118,7 @@ export const books: Book[] = [
   },
   {
     id: "mountain-is-you",
+    group: "MINDSET",
     title: "The Mountain Is You",
     cover: "https://covers.openlibrary.org/b/id/13838236-L.jpg",
     description: "A practical guide to turning self-sabotage into self-mastery.",
@@ -123,6 +132,7 @@ export const books: Book[] = [
   },
   {
     id: "subtle-art",
+    group: "MINDSET",
     title: "The Subtle Art of Not Giving a F*ck",
     cover: "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
     description: "A counterintuitive approach to living a good life.",
@@ -136,6 +146,7 @@ export const books: Book[] = [
   },
   {
     id: "let-them-theory",
+    group: "MINDSET",
     title: "The Let Them Theory",
     cover: "https://covers.openlibrary.org/b/id/15165806-L.jpg",
     description: "Mel Robbins' 2024 phenomenon — let them, let me.",
@@ -149,6 +160,7 @@ export const books: Book[] = [
   },
   {
     id: "courage-to-be-disliked",
+    group: "MINDSET",
     title: "The Courage to Be Disliked",
     cover: "https://covers.openlibrary.org/b/isbn/9781501197277-L.jpg",
     description: "The Japanese phenomenon that shows you how to be free.",
@@ -162,6 +174,7 @@ export const books: Book[] = [
   },
   {
     id: "48-laws-of-power",
+    group: "CLASSICS",
     title: "The 48 Laws of Power",
     cover: "https://covers.openlibrary.org/b/isbn/9780140280197-L.jpg",
     description: "The ruthless and brilliant playbook for power.",
@@ -176,6 +189,7 @@ export const books: Book[] = [
   // --- Classics added Oct-5 ---
   {
     id: "the-alchemist",
+    group: "CLASSICS",
     title: "The Alchemist",
     cover: "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg",
     description: "A shepherd's journey to find the treasure he was carrying all along.",
@@ -189,6 +203,7 @@ export const books: Book[] = [
   },
   {
     id: "art-of-war",
+    group: "CLASSICS",
     title: "The Art of War",
     cover: "https://covers.openlibrary.org/b/isbn/9781590302255-L.jpg",
     description: "An ancient Chinese treatise on strategy, written for generals.",
@@ -202,6 +217,7 @@ export const books: Book[] = [
   },
   {
     id: "analects",
+    group: "CLASSICS",
     title: "The Analects",
     cover: "https://covers.openlibrary.org/b/id/12541270-L.jpg",
     description: "The sayings and ideas of Confucius, gathered by his disciples.",
@@ -215,6 +231,7 @@ export const books: Book[] = [
   },
   {
     id: "tao-te-ching",
+    group: "CLASSICS",
     title: "Tao Te Ching",
     cover: "https://covers.openlibrary.org/b/id/662232-L.jpg",
     description: "Eighty-one short verses on the Tao — the way that cannot be named.",
@@ -228,6 +245,7 @@ export const books: Book[] = [
   },
   {
     id: "i-ching",
+    group: "CLASSICS",
     title: "I Ching: The Book of Changes",
     cover: "https://covers.openlibrary.org/b/isbn/9780691097503-L.jpg",
     description: "The oldest of the Chinese classics — a book of wisdom and divination.",
