@@ -48,6 +48,7 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
       "@type": "ListItem",
       "position": i + 1,
       "name": `${b.title} par ${b.author}`,
+      "description": b.keyIdeaFr ?? b.reasonFr ?? b.reason,
       "url": b.affiliateUrl || `https://the-motivahub.com/fr/books/`
     }))
   })} />
