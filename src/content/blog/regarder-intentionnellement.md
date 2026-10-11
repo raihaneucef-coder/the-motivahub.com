@@ -48,7 +48,7 @@ relatedArticles:
 <div data-i18n-html="article_regarder-intentionnellement_p4"><h2>Mindful Entertainment</h2></div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p5"><h3>1. Choose with Purpose</h3>
-Before pressing play, ask: "What do I want to gain from this?" Inspiration? Knowledge? Relaxation? Laughter? Choose content that serves your purpose.</div>
+<a href="/journal/the-movie-that-changed-your-week/">Before pressing play</a>, ask: "What do I want to gain from this?" Inspiration? Knowledge? Relaxation? Laughter? Choose content that serves your purpose.</div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p6"><h3>2. Watch Actively</h3>
 Do not just watch — engage. Notice the themes, the character development, the messages. Ask: "What can I learn from this?"</div>
@@ -69,7 +69,7 @@ If a movie inspires you, act on it. If a show teaches you something, apply it. E
 
 <div data-i18n-html="article_regarder-intentionnellement_p11"><h2>The Balance</h2></div>
 
-<div data-i18n-html="article_regarder-intentionnellement_p12">Entertainment is like sugar — enjoyable in moderation, harmful in excess. Set limits on screen time and choose content that adds value to your life.</div>
+<div data-i18n-html="article_regarder-intentionnellement_p12">Entertainment is like sugar — enjoyable in moderation, harmful in excess. Set limits on screen time and choose content that <a href="/journal/play-on-purpose/">adds value to your life</a>.</div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p13"><blockquote><em>We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Aristotle</em></blockquote></div>
 

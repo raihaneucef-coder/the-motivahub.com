@@ -58,11 +58,11 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-solo_p4"><h2>Why Solo Travel Is Transformative</h2></div>
 
-<div data-i18n-html="article_voyage-solo_p5"><h3>1. Complete Freedom</h3>
+<div data-i18n-html="article_voyage-solo_p5"><h3>1. <a href="/journal/price-of-freedom/">Complete Freedom</a></h3>
 You eat when you want. You go where you want. You stay as long as you want. There are no compromises. No arguments. No negotiations. Just pure freedom.</div>
 
 <div data-i18n-html="article_voyage-solo_p6"><h3>2. Self-Discovery</h3>
-When you travel alone, you discover who you really are. Without the influence of friends or family, you learn what you truly enjoy, what you need, and what you value.</div>
+When you travel alone, <a href="/journal/solo-travel-stronger-self/">you discover who you really are</a>. Without the influence of friends or family, you learn what you truly enjoy, what you need, and what you value.</div>
 
 <div data-i18n-html="article_voyage-solo_p7"><h3>3. Confidence</h3>
 Navigating a foreign city alone builds unshakable confidence. You prove to yourself that you can handle anything.</div>

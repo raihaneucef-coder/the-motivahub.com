@@ -54,7 +54,7 @@ relatedArticles:
 <div data-i18n-html="article_lire-divertissement_p4"><h2>Why Reading Is Better Than Screens</h2></div>
 
 <div data-i18n-html="article_lire-divertissement_p5"><h3>1. It Builds Focus</h3>
-Reading requires sustained attention for 20-60 minutes. This trains your brain to focus — a skill that is increasingly rare.</div>
+Reading requires sustained attention for 20-60 minutes. This <a href="/journal/deep-work-focus/">trains your brain to focus</a> — a skill that is increasingly rare.</div>
 
 <div data-i18n-html="article_lire-divertissement_p6"><h3>2. It Expands Vocabulary</h3>
 Readers encounter 50% more vocabulary than non-readers. Better vocabulary means better communication.</div>
@@ -72,7 +72,7 @@ Reading a physical book before bed signals your brain to produce melatonin. Scre
 
 <div data-i18n-html="article_lire-divertissement_p11">1. Start with 10 pages per day
 2. Always carry a book
-3. Read before bed instead of scrolling
+3. <a href="/journal/detox-numerique/">Read before bed instead of scrolling</a>
 4. Join a book club for accountability
 5. Choose books that genuinely interest you — not books you think you should read</div>
 

@@ -82,11 +82,11 @@ If you are counting down to day 21, you are missing the point. Habits are not ab
 <div data-i18n-html="article_regle-21-jours_p13"><h3>2. Expect Plateaus</h3>
 There will be days when the habit feels automatic. There will be days when it feels hard again. This is normal. The habit is still forming — it just needs more time.</div>
 
-<div data-i18n-html="article_regle-21-jours_p14"><h3>3. Focus on the System, Not the Timeline</h3>
+<div data-i18n-html="article_regle-21-jours_p14"><h3>3. <a href="/journal/systemes-battent-motivation/">Focus on the System</a>, Not the Timeline</h3>
 Instead of asking "How long until this is a habit?" ask "Am I following my system today?" The system is what matters. The timeline is irrelevant.</div>
 
 <div data-i18n-html="article_regle-21-jours_p15"><h3>4. Never Miss Twice</h3>
-The most important rule is simple: never miss twice. One missed day is a accident. Two missed days is the start of a new habit — the habit of quitting.</div>
+The most important rule is simple: <a href="/journal/ne-brise-jamais-chaine/">never miss twice</a>. One missed day is a accident. Two missed days is the start of a new habit — the habit of quitting.</div>
 
 <div data-i18n-html="article_regle-21-jours_p16"><h2>The Real Secret</h2></div>
 

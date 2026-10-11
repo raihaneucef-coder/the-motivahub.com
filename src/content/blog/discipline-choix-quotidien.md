@@ -68,7 +68,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-choix-quotidien_p13"><h2>How to Choose Discipline Daily</h2></div>
 
-<div data-i18n-html="article_discipline-choix-quotidien_p14"><h3>1. Have a Non-Negotiable Standard</h3></div>
+<div data-i18n-html="article_discipline-choix-quotidien_p14"><h3>1. Have a <a href="/journal/standard-non-negociable/">Non-Negotiable Standard</a></h3></div>
 
 <div data-i18n-html="article_discipline-choix-quotidien_p15">Choose one thing you will do every day, no matter what. Not five things. One.</div>
 
@@ -98,7 +98,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-choix-quotidien_p26">You will have days when you fail. The key is not to let one failure become two. When you miss a day, do not spiral. Just start again the next day.</div>
 
-<div data-i18n-html="article_discipline-choix-quotidien_p27">One missed day is a mistake. Two missed days is a new habit. Do not let a mistake become a habit.</div>
+<div data-i18n-html="article_discipline-choix-quotidien_p27">One missed day is a mistake. <a href="/journal/ne-brise-jamais-chaine/">Two missed days is a new habit</a>. Do not let a mistake become a habit.</div>
 
 <div data-i18n-html="article_discipline-choix-quotidien_p28"><h3>5. Remember Why</h3></div>
 

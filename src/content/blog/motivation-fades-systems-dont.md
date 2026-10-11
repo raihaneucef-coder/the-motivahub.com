@@ -54,9 +54,9 @@ relatedArticles:
 
 <div data-i18n-html="article_motivation-fades-systems-dont_p8"><h2>Identity Is the Compounding Asset</h2></div>
 
-<div data-i18n-html="article_motivation-fades-systems-dont_p9">Every time you keep the small promise, you are not just completing a task. You are casting a vote for a version of yourself — the kind of person who shows up, page or no page, mood or no mood. Miss the vote and nothing catastrophic happens. Miss it enough times and the identity quietly changes. This is why systems outperform motivation over any meaningful stretch of time: motivation degrades, but identity compounds.</div>
+<div data-i18n-html="article_motivation-fades-systems-dont_p9">Every time you keep the small promise, you are not just completing a task. You are casting a vote for <a href="/journal/identity-precedes-outcome/">a version of yourself</a> — the kind of person who shows up, page or no page, mood or no mood. Miss the vote and nothing catastrophic happens. Miss it enough times and the identity quietly changes. This is why systems outperform motivation over any meaningful stretch of time: motivation degrades, but identity compounds.</div>
 
-<div data-i18n-html="article_motivation-fades-systems-dont_p10">This is also why the size of the habit matters less than its survival rate. A habit you do for ten minutes, every day, for a year, will outperform a habit you do for two hours, twice, before abandoning it. Discipline is not intensity. Discipline is a habit that is still alive in six months.</div>
+<div data-i18n-html="article_motivation-fades-systems-dont_p10">This is also why the size of the habit matters less than its survival rate. A habit you do for ten minutes, <a href="/journal/habitudes-mentales-performants/">every day, for a year</a>, will outperform a habit you do for two hours, twice, before abandoning it. Discipline is not intensity. Discipline is a habit that is still alive in six months.</div>
 
 <div data-i18n-html="article_motivation-fades-systems-dont_p11"><h2>What This Looks Like on a Bad Day</h2></div>
 

@@ -62,10 +62,10 @@ relatedArticles:
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p5">Every morning, he swept the sidewalk, turned the sign to OPEN, and waited. Some days no one came. He read. He wrote a note on the window: "We are still here. Come in for tea."</div>
 
-<div data-i18n-html="article_the-shop-that-stayed-open_p6"><strong>Staying open was not a business plan. It was a promise to the street.</strong></div>
+<div data-i18n-html="article_the-shop-that-stayed-open_p6"><strong>Staying open was not a business plan. It was <a href="/journal/histoire-concierge-millionnaire/">a promise to the street</a>.</strong></div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p7">People started to come — not for books, but for the light. Then for the tea. Then for the books they found while drinking the tea.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p8">When the street woke again, his shop was the reason. Not because he had the best business, but because he was the only one who stayed when staying made no sense.</div>
 
-<div data-i18n-html="article_the-shop-that-stayed-open_p9">Proof over noise: sometimes the most powerful thing you can do is not to be the best, but to be the one who stays.</div>
+<div data-i18n-html="article_the-shop-that-stayed-open_p9"><a href="/journal/proof-over-noise/">Proof over noise</a>: sometimes the most powerful thing you can do is not to be the best, but to be the one who stays.</div>

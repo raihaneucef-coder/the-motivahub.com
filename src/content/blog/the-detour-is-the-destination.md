@@ -38,13 +38,13 @@ relatedArticles:
   - "voyage-solo"
 ---
 
-<div data-i18n-html="article_the-detour-is-the-destination_p2">The best travel stories never happened on the planned route. They happened on the detour you almost skipped.</div>
+<div data-i18n-html="article_the-detour-is-the-destination_p2"><a href="/journal/voyage-solo/">The best travel stories</a> never happened on the planned route. They happened on the detour you almost skipped.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p3">We plan the route and miss the travel.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_the-detour-is-the-destination_p4">The itinerary says: be here at 10, be there at 2. The detour says: get lost for an hour, talk to the person who waves you over, follow the small street because of the smell of bread.</div>
+<div data-i18n-html="article_the-detour-is-the-destination_p4">The itinerary says: be here at 10, be there at 2. The detour says: <a href="/journal/voyage-lent/">get lost for an hour</a>, talk to the person who waves you over, follow the small street because of the smell of bread.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p5"><strong>The detour is not a mistake. It is where travel actually happens.</strong></div>
 

@@ -50,7 +50,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-letter-he-never-sent_p5">For a year, the drawer filled.</div>
 
-<div data-i18n-html="article_the-letter-he-never-sent_p6">In month three, the letters got shorter. In month six, they got kinder. By month nine, he was writing about what he had learned, not what had been taken.</div>
+<div data-i18n-html="article_the-letter-he-never-sent_p6">In month three, <a href="/journal/histoire-professeur/">the letters got shorter</a>. In month six, they got kinder. By month nine, he was writing about what he had learned, not what had been taken.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p7"><strong>He did not forgive because the other person changed. He changed because he kept writing.</strong></div>
 
@@ -58,4 +58,4 @@ relatedArticles:
 
 <div data-i18n-html="article_the-letter-he-never-sent_p9">He took the whole stack to the garden and burned it. Not because the past did not matter, but because he no longer needed to carry it to prove it had happened.</div>
 
-<div data-i18n-html="article_the-letter-he-never-sent_p10">Proof over noise. The most powerful stories are not about what happened to people — they are about what people did next, quietly, when no one was watching.</div>
+<div data-i18n-html="article_the-letter-he-never-sent_p10"><a href="/journal/proof-over-noise/">Proof over noise</a>. The most powerful stories are not about what happened to people — they are about what people did next, quietly, when no one was watching.</div>

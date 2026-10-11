@@ -50,11 +50,11 @@ relatedArticles:
 
 <div data-i18n-html="article_the-comeback-is-stronger_p6">You fell because you tried. You tried because you cared. And now you have something no book can give you: proof that you can get up.</div>
 
-<div data-i18n-html="article_the-comeback-is-stronger_p7">The comeback is always stronger because you are not the same person who fell. You are the person who learned how to rise.</div>
+<div data-i18n-html="article_the-comeback-is-stronger_p7">The comeback is always stronger because you are not the same person who fell. You are the person who <a href="/journal/long-ascent/">learned how to rise</a>.</div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p8">Do not rush the rise. Feel the fire, then use it:</div>
 
-<div data-i18n-html="article_the-comeback-is-stronger_p9">- <strong>Name what the fall taught you.</strong> Not what it took, what it gave. One lesson, written down.
+<div data-i18n-html="article_the-comeback-is-stronger_p9">- <strong>Name what the fall taught you.</strong> Not what it took, what it gave. <a href="/journal/journal-croissance/">One lesson, written down</a>.
 - <strong>Take one bold step today.</strong> Not ten, one. Send the message, make the call, take the walk. Momentum loves a single brave move.
 - <strong>Tell the new story.</strong> Not "I failed," but "I am coming back — and this time I know the terrain."</div>
 

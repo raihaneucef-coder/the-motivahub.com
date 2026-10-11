@@ -50,7 +50,7 @@ relatedArticles:
 From childhood, we are taught that success looks a certain way: money, status, possessions. But this is someone else's definition.</div>
 
 <div data-i18n-html="article_definition-reussite_p6"><h3>2. Comparison Trap</h3>
-Social media shows us highlight reels. We compare our behind-the-scenes to everyone else's best moments.</div>
+Social media shows us <a href="/journal/comparison-trap/">highlight reels</a>. We compare our behind-the-scenes to everyone else's best moments.</div>
 
 <div data-i18n-html="article_definition-reussite_p7"><h3>3. Fear of Being Different</h3>
 It takes courage to define success on your own terms. It is easier to follow the crowd.</div>
@@ -64,7 +64,7 @@ It takes courage to define success on your own terms. It is easier to follow the
 - What does a perfect day look like to you?</div>
 
 <div data-i18n-html="article_definition-reussite_p10"><h3>2. Write Your Definition</h3>
-Write a paragraph describing what success means to you. Not what your parents want. Not what society expects. What YOU want.</div>
+Write a paragraph describing <a href="/journal/pouvoir-ecrire-objectifs/">what success means to you</a>. Not what your parents want. Not what society expects. What YOU want.</div>
 
 <div data-i18n-html="article_definition-reussite_p11"><h3>3. Align Your Life With It</h3>
 Once you know what success means to you, align your daily actions with that definition. This is where fulfillment comes from.</div>

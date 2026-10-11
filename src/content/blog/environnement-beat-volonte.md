@@ -47,11 +47,11 @@ relatedArticles:
 
 <div data-i18n-html="article_environnement-beat-volonte_p5"><h2>The Problem With Willpower</h2></div>
 
-<div data-i18n-html="article_environnement-beat-volonte_p6">Willpower is like a muscle. It fatigues with use. By the end of a long day, your willpower is depleted. That is why you eat junk food at night, skip your workout after work, and scroll your phone before bed.</div>
+<div data-i18n-html="article_environnement-beat-volonte_p6"><a href="/journal/gestion-energie/">Willpower is like a muscle</a>. It fatigues with use. By the end of a long day, your willpower is depleted. That is why you eat junk food at night, skip your workout after work, and scroll your phone before bed.</div>
 
 <div data-i18n-html="article_environnement-beat-volonte_p7">You are not weak. You are exhausted. And relying on a depleted resource to make good decisions is a flawed strategy.</div>
 
-<div data-i18n-html="article_environnement-beat-volonte_p8">The solution is not more willpower. It is better design.</div>
+<div data-i18n-html="article_environnement-beat-volonte_p8">The solution is not more willpower. <a href="/journal/make-good-habits-obvious/">It is better design</a>.</div>
 
 <div data-i18n-html="article_environnement-beat-volonte_p9"><h2>How Environment Shapes Behavior</h2></div>
 

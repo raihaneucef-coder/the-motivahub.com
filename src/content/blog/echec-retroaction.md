@@ -48,14 +48,14 @@ relatedArticles:
 
 <div data-i18n-html="article_echec-retroaction_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_echec-retroaction_p4">Failure is not the opposite of success. It is part of success.</div>
+<div data-i18n-html="article_echec-retroaction_p4"><a href="/journal/the-comeback-is-stronger/">Failure is not the opposite of success</a>. It is part of success.</div>
 
 <div data-i18n-html="article_echec-retroaction_p5"><h2>Why Failure Is Valuable</h2></div>
 
 <div data-i18n-html="article_echec-retroaction_p6"><h3>1. It Teaches What Does Not Work</h3>
 Every failure eliminates an approach that does not work. This brings you closer to the approach that does.</div>
 
-<div data-i18n-html="article_echec-retroaction_p7"><h3>2. It Builds Resilience</h3>
+<div data-i18n-html="article_echec-retroaction_p7"><h3>2. <a href="/journal/resilience-mentale/">It Builds Resilience</a></h3>
 The more you fail, the more comfortable you become with failure. This makes you bolder, more creative, and more willing to take risks.</div>
 
 <div data-i18n-html="article_echec-retroaction_p8"><h3>3. It Reveals Character</h3>

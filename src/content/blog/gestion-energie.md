@@ -84,7 +84,7 @@ Purpose fuels persistence. When you know why you are doing something, you find t
 - Hydrate immediately upon waking
 - Move your body for 10 minutes
 - Eat a protein-rich breakfast
-- Start with your most important task</div>
+- <a href="/journal/eat-the-frog/">Start with your most important task</a></div>
 
 <div data-i18n-html="article_gestion-energie_p16"><h3>Afternoon Energy</h3>
 - Take a 20-minute power nap
@@ -94,7 +94,7 @@ Purpose fuels persistence. When you know why you are doing something, you find t
 
 <div data-i18n-html="article_gestion-energie_p17"><h3>Evening Energy</h3>
 - Wind down with a routine
-- Avoid screens before bed
+- <a href="/journal/detox-numerique/">Avoid screens before bed</a>
 - Reflect on the day
 - Prepare for tomorrow</div>
 

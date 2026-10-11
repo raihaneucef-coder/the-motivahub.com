@@ -51,7 +51,7 @@ relatedArticles:
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p5"><strong>Confidence is not an emotion. It is evidence.</strong></div>
 
-<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p6">Every time you keep a small promise to yourself — the walk you said you would take, the page you said you would write, the difficult conversation you did not postpone — you add one line to a private ledger. No one else sees it. You do. And over weeks, that ledger becomes the quiet voice that says: <em>we do this.</em></div>
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p6">Every time you keep a small promise to yourself — the walk you said you would take, the page you said you would write, <a href="/journal/art-dire-non/">the difficult conversation</a> you did not postpone — you add one line to a private ledger. No one else sees it. You do. And over weeks, that ledger becomes the quiet voice that says: <em>we do this.</em></div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p7">The opposite is also true. Every broken promise, especially the small ones you excuse, writes a different line: <em>we do not do what we say.</em> Do that enough times and no affirmation can compete with the record you have built against yourself.</div>
 
@@ -63,6 +63,6 @@ relatedArticles:
 - <strong>Track it visibly.</strong> A calendar with a mark for each day you kept it. The chain of marks becomes the record your brain trusts.
 - <strong>Keep it when it is inconvenient.</strong> Confidence is not built on easy days. It is built on the Tuesday you were tired and still did the one thing.</div>
 
-<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p11">After thirty days, you will not need to convince yourself you are confident. You will have thirty pieces of evidence. The feeling follows the record — never the other way around.</div>
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p11">After <a href="/journal/confiance-inbranlable/">thirty days</a>, you will not need to convince yourself you are confident. You will have thirty pieces of evidence. The feeling follows the record — never the other way around.</div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p12">Do not wait to feel ready. Build the record, and let the feeling catch up.</div>

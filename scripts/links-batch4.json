@@ -1,0 +1,42 @@
+[
+  {"slug":"real-reason-you-procrastinate","links":[
+    {"p":"p14","en":"Make starting so small","fr":"Commencez si petit que cela semble idiot","t":"regle-2-min-productivite"},
+    {"p":"p6","en":"opened Instagram","fr":"ouvert Instagram comme par magie","t":"attention-as-asset"}
+  ]},
+  {"slug":"recovery-is-training","links":[
+    {"p":"p4","en":"Muscles do not grow in the gym","fr":"Les muscles ne se développent pas dans le gymnase","t":"consistance-bat-intensite"},
+    {"p":"p6","en":"The best athletes","fr":"Les meilleurs sportifs","t":"force-mentale-sport"}
+  ]},
+  {"slug":"rest-is-a-decision-not-a-collapse","links":[
+    {"p":"p9","en":"scroll until I fall asleep","fr":"le flux de la vie des autres","t":"detox-numerique"},
+    {"p":"p10","en":"Rest on your own schedule","fr":"Reposez-vous sur votre propre emploi du temps","t":"routine-matin-sante"}
+  ]},
+  {"slug":"run-your-own-race","links":[
+    {"p":"p5","en":"holding your pace","fr":"maintenir son rythme","t":"force-mentale-sport"},
+    {"p":"p7","en":"still running when others have burned out","fr":"celui qui court encore","t":"recovery-is-training"}
+  ]},
+  {"slug":"secure-self","links":[
+    {"p":"p8","en":"The hour you protect","fr":"que vous protégez pour votre esprit","t":"regle-1-pourcent"},
+    {"p":"p8","en":"not turning away from people","fr":"se détourner des gens","t":"social-muscle"}
+  ]},
+  {"slug":"she-started-at-60","links":[
+    {"p":"p9","en":"Proof over noise","fr":"La preuve contre le bruit","t":"proof-over-noise"},
+    {"p":"p7","en":"overnight success","fr":"un succès du jour au lendemain","t":"histoire-concierge-millionnaire"}
+  ]},
+  {"slug":"small-wins-big-life","links":[
+    {"p":"p5","en":"A tiny habit","fr":"Une petite habitude","t":"comment-creer-des-habitudes"},
+    {"p":"p8","en":"The sentence often becomes a paragraph","fr":"La phrase devient souvent un paragraphe","t":"habit-stacking-made-simple"}
+  ]},
+  {"slug":"social-muscle","links":[
+    {"p":"p5","en":"Sociability is a muscle","fr":"La sociabilité est un muscle","t":"long-ascent"},
+    {"p":"p13","en":"send one message you have been postponing","fr":"envoyez un message que vous avez reporté","t":"regle-1-pourcent"}
+  ]},
+  {"slug":"solo-travel-stronger-self","links":[
+    {"p":"p3","en":"Travel alone and you learn about yourself","fr":"Voyagez seul et vous en apprendrez davantage sur vous-même","t":"beginner-again"},
+    {"p":"p4","en":"take the long way","fr":"pour le long ou le court","t":"the-detour-is-the-destination"}
+  ]},
+  {"slug":"strength-is-a-skill","links":[
+    {"p":"p8","en":"Master the empty bar","fr":"Maîtrisez la barre vide","t":"guide-debutant-fitness"},
+    {"p":"p6","en":"progress is not linear","fr":"que la patience est une forme de force","t":"consistance-bat-intensite"}
+  ]}
+]

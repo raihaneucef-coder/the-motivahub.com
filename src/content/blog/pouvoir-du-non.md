@@ -40,7 +40,7 @@ relatedArticles:
 
 <div data-i18n-html="article_pouvoir-du-non_p2">Every yes is a no to something else. Learn why saying no is the most important discipline you can build and how to do it without guilt.</div>
 
-<div data-i18n-html="article_pouvoir-du-non_p3">Every time you say yes to something that does not serve you, you say no to something that does. Every yes to a meaningless meeting is a no to deep work. Every yes to a toxic relationship is a no to your peace.</div>
+<div data-i18n-html="article_pouvoir-du-non_p3">Every time you say yes to something that does not serve you, you say no to something that does. Every yes to a meaningless meeting <a href="/journal/deep-work-focus/">is a no to deep work</a>. Every yes to a toxic relationship is a no to your peace.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
@@ -54,7 +54,7 @@ relatedArticles:
 - Being perceived as unkind
 - Conflict</div>
 
-<div data-i18n-html="article_pouvoir-du-non_p7">But every yes motivated by fear is a betrayal of yourself. You trade your priorities for someone else's comfort.</div>
+<div data-i18n-html="article_pouvoir-du-non_p7">But every yes motivated by fear is a betrayal of yourself. <a href="/journal/art-dire-non/">You trade your priorities</a> for someone else's comfort.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p8"><h2>The Cost of Saying Yes</h2></div>
 

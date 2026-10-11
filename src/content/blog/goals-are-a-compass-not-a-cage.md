@@ -54,10 +54,10 @@ relatedArticles:
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p8">Try it with one goal this week:</div>
 
-<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p9">- <strong>Write it as a direction, not a contract.</strong> Not "I will run every day at 6am or I fail," but "I am becoming someone who moves daily — north is movement."
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p9">- <strong>Write it <a href="/journal/process-vs-outcome/">as a direction, not a contract</a>.</strong> Not "I will run every day at 6am or I fail," but "I am becoming someone who moves daily — north is movement."
 - <strong>Check the compass, not the clock.</strong> At night, ask: did I move north today, even a little? One walk, one healthy meal, one page — that is north.
 - <strong>Adjust without shame.</strong> If the goal no longer excites you, ask what it was pointing to. Often you keep the direction (health, growth, freedom) and change the vehicle.</div>
 
-<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p10">Goals that motivate are not the ones that pressure you. They are the ones that orient you — so even on a messy day, you know which way is forward.</div>
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p10"><a href="/journal/smart-goals/">Goals that motivate</a> are not the ones that pressure you. They are the ones that orient you — so even on a messy day, you know which way is forward.</div>
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p11">Pick one compass for this month. Keep it visible. Let it pull you, not trap you.</div>

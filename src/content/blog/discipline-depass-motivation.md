@@ -74,9 +74,9 @@ Motivation disappears when you are tired, stressed, or discouraged. Discipline s
 When you act with discipline, you build habits. Habits become automatic. Automatic habits produce results.</div>
 
 <div data-i18n-html="article_discipline-depass-motivation_p11"><h3>3. It Creates Identity</h3>
-Every time you act with discipline, you prove to yourself that you are the type of person who does the hard things. This builds unshakable self-belief.</div>
+Every time you act with discipline, you prove to yourself that you are the type of person who does the hard things. This <a href="/journal/confiance-inbranlable/">builds unshakable self-belief</a>.</div>
 
-<div data-i18n-html="article_discipline-depass-motivation_p12"><h3>4. It Compounds</h3>
+<div data-i18n-html="article_discipline-depass-motivation_p12"><h3>4. <a href="/journal/regle-1-pourcent/">It Compounds</a></h3>
 One day of discipline does not change your life. But 365 days of discipline creates a person you do not recognize.</div>
 
 <div data-i18n-html="article_discipline-depass-motivation_p13"><h2>How to Build Discipline</h2></div>

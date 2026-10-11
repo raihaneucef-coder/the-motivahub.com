@@ -1,0 +1,42 @@
+[
+  {"slug":"retroengineering-objectifs","links":[
+    {"p":"p10","en":"The goal becomes a daily habit","fr":"devient une habitude quotidienne","t":"regle-1-pourcent"},
+    {"p":"p19","en":"It Creates Accountability","fr":"Cela crée une responsabilité","t":"rendez-compte-objectifs"}
+  ]},
+  {"slug":"routine-matin-change-tout","links":[
+    {"p":"p5","en":"Your willpower is highest in the morning","fr":"Votre volonté est la plus élevée le matin","t":"environnement-beat-volonte"},
+    {"p":"p13","en":"Read 10 pages of a book","fr":"Lire 10 pages","t":"lire-divertissement"}
+  ]},
+  {"slug":"routine-matin-sante","links":[
+    {"p":"p6","en":"Drinking 500ml of water first thing","fr":"réhydrate vos cellules et relance votre métabolisme","t":"hydratation-performance"},
+    {"p":"p7","en":"Move Your Body","fr":"Bougez votre corps","t":"consistance-bat-intensite"}
+  ]},
+  {"slug":"secret-reussite","links":[
+    {"p":"p6","en":"years of invisible work","fr":"des années de travail invisible","t":"mythe-reussite-instantanee"},
+    {"p":"p21","en":"attached to an existing routine","fr":"une routine existante","t":"habit-stacking-made-simple"}
+  ]},
+  {"slug":"smart-goals","links":[
+    {"p":"p16","en":"Start With Why","fr":"Commencez par pourquoi","t":"pourquoi-profond-objectifs"},
+    {"p":"p17","en":"is not written is just a thought","fr":"pas écrit","t":"pouvoir-ecrire-objectifs"}
+  ]},
+  {"slug":"standard-non-negociable","links":[
+    {"p":"p12","en":"votes for your identity","fr":"des votes pour votre identité","t":"identity-precedes-outcome"},
+    {"p":"p10","en":"drains willpower","fr":"draine votre volonté","t":"environnement-beat-volonte"}
+  ]},
+  {"slug":"styles-attachement","links":[
+    {"p":"p5","en":"do not fear abandonment","fr":"ne craignez pas","t":"secure-self"},
+    {"p":"p12","en":"Communicate your needs","fr":"Communiquez vos besoins","t":"love-is-a-practice"}
+  ]},
+  {"slug":"syndrome-imposteur","links":[
+    {"p":"p9","en":"compare your behind-the-scenes","fr":"Vous comparez vos coulisses","t":"comparison-trap"},
+    {"p":"p17","en":"Action comes first","fr":"vient en premier","t":"confidence-is-a-record-not-a-feeling"}
+  ]},
+  {"slug":"systemes-battent-motivation","links":[
+    {"p":"p16","en":"Attach your system to an existing habit","fr":"Attachez votre système à une habitude existante","t":"habit-stacking-made-simple"},
+    {"p":"p15","en":"so easy that you cannot say no","fr":"si simple que vous ne pouvez pas dire non","t":"regle-2-min-productivite"}
+  ]},
+  {"slug":"technique-pomodoro","links":[
+    {"p":"p9","en":"Forces Single-Tasking","fr":"Pas de multitâche","t":"deep-work-focus"},
+    {"p":"p11","en":"removes the barrier to start","fr":"supprime la barrière au démarrage","t":"regle-2-min-productivite"}
+  ]}
+]

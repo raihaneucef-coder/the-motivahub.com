@@ -50,8 +50,8 @@ relatedArticles:
 
 <div data-i18n-html="article_price-of-freedom_p6">Skip the payments and freedom quietly moves out. Not with a dramatic eviction, but with small leaks — subscriptions you forgot, dinners that soothed a hard day, a sale you did not need. Each is small. Together they are the reason the month feels shorter than your will.</div>
 
-<div data-i18n-html="article_price-of-freedom_p7">The good news is that rent, once automated, becomes invisible. A transfer on payday hurts once. A habit of cooking three nights a week saves more than any windfall. Saying no to one upgrade funds the next year's freedom more than saying yes to overtime.</div>
+<div data-i18n-html="article_price-of-freedom_p7">The good news is that rent, once automated, becomes invisible. <a href="/journal/regle-50-30-20/">A transfer on payday</a> hurts once. A habit of cooking three nights a week saves more than any windfall. Saying no to one upgrade funds the next year's freedom more than saying yes to overtime.</div>
 
-<div data-i18n-html="article_price-of-freedom_p8">Try this for thirty days. On payday, pay freedom first — a fixed amount moved before you see it. Then live on what remains. You will spend less not because you are disciplined, but because you have removed the choice that requires discipline.</div>
+<div data-i18n-html="article_price-of-freedom_p8">Try this for thirty days. On payday, <a href="/journal/paycheck-trap/">pay freedom first</a> — a fixed amount moved before you see it. Then live on what remains. You will spend less not because you are disciplined, but because you have removed the choice that requires discipline.</div>
 
 <div data-i18n-html="article_price-of-freedom_p9">Freedom does not arrive with a celebration. It arrives quietly, on a Tuesday, when you realize you could walk away and choose to stay — because you built the choice, one daily payment at a time.</div>

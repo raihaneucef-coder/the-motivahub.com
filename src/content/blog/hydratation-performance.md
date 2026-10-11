@@ -38,7 +38,7 @@ relatedArticles:
   - "water-before-willpower"
 ---
 
-<div data-i18n-html="article_hydratation-performance_p2">Dehydration reduces performance by up to 25%. Water is the simplest, cheapest, and most effective performance enhancer available.</div>
+<div data-i18n-html="article_hydratation-performance_p2">Dehydration reduces performance by up to 25%. Water is the simplest, cheapest, and most effective <a href="/journal/water-before-willpower/">performance enhancer</a> available.</div>
 
 <div data-i18n-html="article_hydratation-performance_p3">You can survive 3 weeks without food. You can only survive 3 days without water. Yet most people walk around chronically dehydrated — and wonder why they feel tired, foggy, and unproductive.</div>
 
@@ -50,7 +50,7 @@ relatedArticles:
 - <strong>3% dehydration</strong> = 20% decrease in endurance
 - <strong>5% dehydration</strong> = 30% decrease in performance</div>
 
-<div data-i18n-html="article_hydratation-performance_p6">Even mild dehydration reduces cognitive function, mood, and energy levels.</div>
+<div data-i18n-html="article_hydratation-performance_p6">Even mild dehydration <a href="/journal/gestion-energie/">reduces cognitive function</a>, mood, and energy levels.</div>
 
 <div data-i18n-html="article_hydratation-performance_p7"><h2>How Much Water Do You Need?</h2></div>
 

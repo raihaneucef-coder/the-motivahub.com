@@ -48,7 +48,7 @@ relatedArticles:
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p5"><h2>The Task Is Not the Problem. The Feeling Is.</h2></div>
 
-<div data-i18n-html="article_real-reason-you-procrastinate_p6">Notice what happens the moment you decide to start that report. A tight sensation appears in your chest. Within seconds, your hand has magically opened Instagram. That sequence — discomfort, then escape — is the entire engine of procrastination.</div>
+<div data-i18n-html="article_real-reason-you-procrastinate_p6">Notice what happens the moment you decide to start that report. A tight sensation appears in your chest. Within seconds, your hand has magically <a href="/journal/attention-as-asset/">opened Instagram</a>. That sequence — discomfort, then escape — is the entire engine of procrastination.</div>
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p7">Which means every trick about planners and apps and color-coded calendars misses the point. You were never bad at scheduling. You were running from a feeling, and the feeling won because nobody taught you it is survivable.</div>
 
@@ -64,7 +64,7 @@ relatedArticles:
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p13">Sixty seconds of action changes the chemistry. Once you are inside the task, the dread that kept you outside evaporates, because dread lives in anticipation, never in execution. The report was never heavy. The thought of the report was.</div>
 
-<div data-i18n-html="article_real-reason-you-procrastinate_p14">Make starting so small it feels silly: one push-up. One paragraph. One phone number dialed. Momentum handles the rest.</div>
+<div data-i18n-html="article_real-reason-you-procrastinate_p14"><a href="/journal/regle-2-min-productivite/">Make starting so small</a> it feels silly: one push-up. One paragraph. One phone number dialed. Momentum handles the rest.</div>
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p15"><h2>Name It to Tame It</h2></div>
 

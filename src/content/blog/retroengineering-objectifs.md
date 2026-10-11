@@ -60,7 +60,7 @@ relatedArticles:
 - 2,500 words per week = 500 words per day
 - 500 words per day = 1 hour of writing</div>
 
-<div data-i18n-html="article_retroengineering-objectifs_p10">The goal becomes a daily habit. And daily habits are achievable.</div>
+<div data-i18n-html="article_retroengineering-objectifs_p10"><a href="/journal/regle-1-pourcent/">The goal becomes a daily habit</a>. And daily habits are achievable.</div>
 
 <div data-i18n-html="article_retroengineering-objectifs_p11"><h3>Example: Saving Money</h3></div>
 
@@ -84,7 +84,7 @@ Working backward shows you exactly what needs to happen — and when. There is n
 <div data-i18n-html="article_retroengineering-objectifs_p18"><h3>3. It Eliminates Overwhelm</h3>
 A big goal feels overwhelming. A daily action does not. Reverse engineering breaks the big goal into small, manageable pieces.</div>
 
-<div data-i18n-html="article_retroengineering-objectifs_p19"><h3>4. It Creates Accountability</h3>
+<div data-i18n-html="article_retroengineering-objectifs_p19"><h3>4. <a href="/journal/rendez-compte-objectifs/">It Creates Accountability</a></h3>
 When you know exactly what you need to do each day, you cannot hide from the work. The plan is clear. The execution is up to you.</div>
 
 <div data-i18n-html="article_retroengineering-objectifs_p20"><h2>How to Reverse Engineer Any Goal</h2></div>

@@ -58,7 +58,7 @@ You say yes to avoid discomfort. But the discomfort of saying yes often lasts lo
 <div data-i18n-html="article_art-dire-non_p8"><h2>How to Say No</h2></div>
 
 <div data-i18n-html="article_art-dire-non_p9"><h3>1. Be Direct</h3>
-"I cannot do that" is a complete sentence. You do not need to explain or justify your no.</div>
+"I cannot do that" is <a href="/journal/pouvoir-du-non/">a complete sentence</a>. You do not need to explain or justify your no.</div>
 
 <div data-i18n-html="article_art-dire-non_p10"><h3>2. Offer Alternatives</h3>
 "I cannot do X, but I can do Y" shows you are willing to help — just not in the way they asked.</div>
@@ -70,7 +70,7 @@ You say yes to avoid discomfort. But the discomfort of saying yes often lasts lo
 Start saying no to small things — a salesperson, a minor request, a casual invitation. Build the muscle.</div>
 
 <div data-i18n-html="article_art-dire-non_p13"><h3>5. Remember Your Priorities</h3>
-Every time you say no, you are saying yes to your priorities. Your priorities deserve your protection.</div>
+Every time you say no, you are <a href="/journal/quiet-power-of-doing-less/">saying yes to your priorities</a>. Your priorities deserve your protection.</div>
 
 <div data-i18n-html="article_art-dire-non_p14"><blockquote><em>The difference between successful people and really successful people is that really successful people say no to almost everything. — Warren Buffett</em></blockquote></div>
 

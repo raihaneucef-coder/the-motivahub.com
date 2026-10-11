@@ -48,7 +48,7 @@ relatedArticles:
 <div data-i18n-html="article_rendez-compte-objectifs_p5"><h2>Why Accountability Works</h2></div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p6"><h3>1. Social Pressure</h3>
-When you tell someone you will do something, you feel obligated to follow through. Breaking a promise to yourself is easy. Breaking a promise to someone else is harder.</div>
+When you tell someone you will do something, you feel obligated to follow through. <a href="/journal/two-friends-one-promise/">Breaking a promise to yourself</a> is easy. Breaking a promise to someone else is harder.</div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p7"><h3>2. External Perspective</h3>
 An accountability partner sees things you cannot see. They notice patterns, suggest solutions, and keep you focused on what matters.</div>
@@ -88,6 +88,6 @@ Do not just report successes. Report failures too. The accountability partner is
 - <strong>Habit tracker:</strong> Use our <a href="/tracker/">Habit Tracker</a> to track daily consistency
 - <strong>Community:</strong> Join a group of people with similar goals</div>
 
-<div data-i18n-html="article_rendez-compte-objectifs_p17"><blockquote><em>You are the average of the five people you spend the most time with. — Jim Rohn</em></blockquote></div>
+<div data-i18n-html="article_rendez-compte-objectifs_p17"><blockquote><em>You are <a href="/journal/people-who-raise-your-floor/">the average of the five people</a> you spend the most time with. — Jim Rohn</em></blockquote></div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p19"><strong>Find your accountability partner.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 goals to share with your partner. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

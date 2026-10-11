@@ -52,7 +52,7 @@ Choose 3-4 meals for the week. Keep it simple. You do not need gourmet recipes â
 
 <div data-i18n-html="article_meal-prep-dimanche_p6">Example:
 - Breakfast: Overnight oats with fruit
-- Lunch: Chicken with rice and vegetables
+- Lunch: <a href="/journal/the-plate-that-keeps-you-steady/">Chicken with rice and vegetables</a>
 - Dinner: Salmon with sweet potato and salad
 - Snacks: Nuts, yogurt, fruit</div>
 
@@ -60,7 +60,7 @@ Choose 3-4 meals for the week. Keep it simple. You do not need gourmet recipes â
 Buy only what you need for the planned meals. A list prevents impulse buys and food waste.</div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p8"><h3>Step 3: Cook (90 minutes)</h3>
-- Cook proteins in bulk (chicken, fish, eggs)
+- <a href="/journal/protein-is-not-just-for-athletes/">Cook proteins in bulk</a> (chicken, fish, eggs)
 - Cook grains in bulk (rice, quinoa, pasta)
 - Chop vegetables for the week
 - Prepare sauces and dressings

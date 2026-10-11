@@ -1,0 +1,42 @@
+[
+  {"slug":"choose-joy-on-purpose","links":[
+    {"p":"p6","en":"on purpose","fr":"délibérément","t":"play-on-purpose"},
+    {"p":"p8","en":"A film you love","fr":"Un film que vous aimez","t":"regarder-intentionnellement"}
+  ]},
+  {"slug":"community-discipline","links":[
+    {"p":"p13","en":"The long ascent","fr":"La longue ascension","t":"long-ascent"},
+    {"p":"p13","en":"the social muscle","fr":"le muscle social","t":"social-muscle"}
+  ]},
+  {"slug":"comparison-trap","links":[
+    {"p":"p15","en":"who you were yesterday","fr":"qui vous étiez hier","t":"growth-mindset-rewire"},
+    {"p":"p20","en":"successful people","fr":"les personnes qui réussissent","t":"habitudes-mentales-performants"}
+  ]},
+  {"slug":"confidence-is-a-record-not-a-feeling","links":[
+    {"p":"p11","en":"thirty days","fr":"trente jours","t":"confiance-inbranlable"},
+    {"p":"p6","en":"the difficult conversation","fr":"la conversation difficile","t":"art-dire-non"}
+  ]},
+  {"slug":"debt-is-a-story","links":[
+    {"p":"p4","en":"an emergency","fr":"une urgence","t":"fond-urgence"},
+    {"p":"p3","en":"bad with money","fr":"mauvais avec l'argent","t":"paycheck-trap"}
+  ]},
+  {"slug":"eat-on-time-not-on-emotion","links":[
+    {"p":"p4","en":"low on fuel","fr":"à court de carburant","t":"the-plate-that-keeps-you-steady"},
+    {"p":"p6","en":"Keep a simple backup","fr":"Gardez une solution de secours simple","t":"meal-prep-dimanche"}
+  ]},
+  {"slug":"five-minute-friendship-habit","links":[
+    {"p":"p5","en":"keep a friendship alive","fr":"garder une amitié vivante","t":"habitude-5-min-relations"},
+    {"p":"p9","en":"maintained by frequency","fr":"se maintient par la fréquence","t":"love-is-a-practice"}
+  ]},
+  {"slug":"focus-on-yourself-stay-silent-shi-heng-yi","links":[
+    {"p":"p24","en":"resilience is actually built","fr":"la résilience se construit","t":"resilience-mentale"},
+    {"p":"p13","en":"discipline and patience","fr":"la discipline et la patience","t":"motivation-fades-systems-dont"}
+  ]},
+  {"slug":"fuel-before-willpower","links":[
+    {"p":"p9","en":"Water before coffee","fr":"Eau avant le café","t":"hydratation-performance"},
+    {"p":"p6","en":"The afternoon collapse","fr":"L'effondrement de l'après-midi","t":"eat-on-time-not-on-emotion"}
+  ]},
+  {"slug":"goals-are-a-compass-not-a-cage","links":[
+    {"p":"p9","en":"as a direction, not a contract","fr":"une direction, pas un contrat","t":"process-vs-outcome"},
+    {"p":"p10","en":"Goals that motivate","fr":"Les objectifs qui motivent","t":"smart-goals"}
+  ]}
+]

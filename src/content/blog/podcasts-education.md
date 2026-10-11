@@ -51,7 +51,7 @@ relatedArticles:
 <div data-i18n-html="article_podcasts-education_p4"><h2>Why Podcasts Work</h2></div>
 
 <div data-i18n-html="article_podcasts-education_p5"><h3>1. They Use Dead Time</h3>
-Commuting, waiting, exercising — these are hours you cannot use for anything else. Podcasts turn them into learning time.</div>
+Commuting, waiting, exercising — these are hours you cannot use for anything else. Podcasts <a href="/journal/lire-divertissement/">turn them into learning time</a>.</div>
 
 <div data-i18n-html="article_podcasts-education_p6"><h3>2. They Are Free</h3>
 Thousands of high-quality podcasts are available for free on Spotify, Apple Podcasts, and YouTube. Cost is not an excuse.</div>
@@ -75,7 +75,7 @@ Personal development, business, science, history, health, finance — there is a
 <div data-i18n-html="article_podcasts-education_p12">1. Choose podcasts aligned with your goals
 2. Take notes while listening
 3. Apply what you learn within 24 hours
-4. Discuss episodes with friends
+4. <a href="/journal/social-muscle/">Discuss episodes with friends</a>
 5. Listen at 1.25x speed to cover more content</div>
 
 <div data-i18n-html="article_podcasts-education_p13"><blockquote><em>The more that you read, the more things you will know. The more that you learn, the more places you will go. — Dr. Seuss</em></blockquote></div>

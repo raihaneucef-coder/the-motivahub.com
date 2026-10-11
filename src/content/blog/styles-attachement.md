@@ -46,7 +46,7 @@ relatedArticles:
 <div data-i18n-html="article_styles-attachement_p4"><h2>The 4 Attachment Styles</h2></div>
 
 <div data-i18n-html="article_styles-attachement_p5"><h3>1. Secure</h3>
-You are comfortable with intimacy and independence. You trust easily, communicate openly, and do not fear abandonment. About 56% of people have a secure attachment style.</div>
+You are comfortable with intimacy and independence. You trust easily, communicate openly, and <a href="/journal/secure-self/">do not fear abandonment</a>. About 56% of people have a secure attachment style.</div>
 
 <div data-i18n-html="article_styles-attachement_p6"><h3>2. Anxious-Preoccupied</h3>
 You crave intimacy but fear abandonment. You need constant reassurance, worry about your partner's feelings, and become clingy under stress. About 20% of people have this style.</div>
@@ -64,7 +64,7 @@ You want intimacy but fear it. You push people away when they get close, then pu
 <div data-i18n-html="article_styles-attachement_p11"><h2>How to Build Secure Attachment</h2></div>
 
 <div data-i18n-html="article_styles-attachement_p12">1. Learn your style — understand your patterns
-2. Communicate your needs — do not expect others to guess
+2. <a href="/journal/love-is-a-practice/">Communicate your needs</a> — do not expect others to guess
 3. Practice vulnerability — share your feelings even when it is scary
 4. Build trust through consistency — show up reliably
 5. Seek therapy if needed — a professional can help you rewrite your patterns</div>

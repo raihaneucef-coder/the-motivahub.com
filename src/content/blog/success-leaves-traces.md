@@ -49,7 +49,7 @@ relatedArticles:
 
 <div data-i18n-html="article_success-leaves-traces_p5"><strong>Success leaves traces. Follow the traces, not the trophy.</strong></div>
 
-<div data-i18n-html="article_success-leaves-traces_p6">If you want what someone has, study what they did when no one was watching. Not their announcement, but their calendar. Not their speech, but their schedule. The traces are always less glamorous than the trophy, which is why most people never follow them.</div>
+<div data-i18n-html="article_success-leaves-traces_p6">If you want what someone has, study what they did <a href="/journal/psychology-of-money-business/">when no one was watching</a>. Not their announcement, but their calendar. Not their speech, but their schedule. The traces are always less glamorous than the trophy, which is why most people never follow them.</div>
 
 <div data-i18n-html="article_success-leaves-traces_p7">Pick one person whose work you respect. Do not copy their success. Copy one trace:</div>
 
@@ -59,4 +59,4 @@ relatedArticles:
 
 <div data-i18n-html="article_success-leaves-traces_p9">Do that one trace for thirty days. Not perfectly, just consistently.</div>
 
-<div data-i18n-html="article_success-leaves-traces_p10">Trophies inspire. Traces instruct. Follow the traces long enough and the trophy stops being the point — the person the traces make of you becomes the point.</div>
+<div data-i18n-html="article_success-leaves-traces_p10"><a href="/journal/mythe-reussite-instantanee/">Trophies inspire</a>. Traces instruct. Follow the traces long enough and the trophy stops being the point — the person the traces make of you becomes the point.</div>

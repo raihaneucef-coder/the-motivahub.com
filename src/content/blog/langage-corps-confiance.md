@@ -68,7 +68,7 @@ A firm (not crushing) handshake with eye contact and a genuine smile projects co
 <div data-i18n-html="article_langage-corps-confiance_p11">- Speak slowly and clearly
 - Lower your pitch slightly
 - Pause before answering important questions
-- Eliminate filler words like "um," "uh," "like"</div>
+- <a href="/journal/trouver-voix/">Eliminate filler words</a> like "um," "uh," "like"</div>
 
 <div data-i18n-html="article_langage-corps-confiance_p12"><h2>What to Avoid</h2></div>
 
@@ -78,6 +78,6 @@ A firm (not crushing) handshake with eye contact and a genuine smile projects co
 - Slouching (unconfident)
 - Touching your face (anxious)</div>
 
-<div data-i18n-html="article_langage-corps-confiance_p14"><blockquote><em>Your body language shapes who you are. — Amy Cuddy</em></blockquote></div>
+<div data-i18n-html="article_langage-corps-confiance_p14"><blockquote><em>Your <a href="/journal/identity-precedes-outcome/">body language shapes who you are</a>. — Amy Cuddy</em></blockquote></div>
 
 <div data-i18n-html="article_langage-corps-confiance_p16"><strong>Project confidence today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> helps you build the habits that create natural confidence. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

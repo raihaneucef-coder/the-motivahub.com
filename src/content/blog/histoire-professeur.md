@@ -49,13 +49,13 @@ relatedArticles:
 
 <div data-i18n-html="article_histoire-professeur_p5"><h2>The Ripple Effect</h2></div>
 
-<div data-i18n-html="article_histoire-professeur_p6">Every year, Maria took on 30 new students. She did not just teach them math and reading. She taught them to believe in themselves. She told them they were smart. She told them they mattered. She told them they could be anything they wanted to be.</div>
+<div data-i18n-html="article_histoire-professeur_p6">Every year, Maria took on 30 new students. She did not just teach them math and reading. She taught them to <a href="/journal/confiance-inbranlable/">believe in themselves</a>. She told them they were smart. She told them they mattered. She told them they could be anything they wanted to be.</div>
 
 <div data-i18n-html="article_histoire-professeur_p7">Many of her students became teachers, doctors, engineers, and business owners. They all credit Maria. She gave them the one thing no textbook could: belief.</div>
 
 <div data-i18n-html="article_histoire-professeur_p8"><h2>The Lesson</h2></div>
 
-<div data-i18n-html="article_histoire-professeur_p9">Impact is not measured in money. It is measured in lives changed. Maria never became rich. But she became irreplaceable. She created a legacy that will outlive her by generations.</div>
+<div data-i18n-html="article_histoire-professeur_p9"><a href="/journal/definition-reussite/">Impact is not measured in money</a>. It is measured in lives changed. Maria never became rich. But she became irreplaceable. She created a legacy that will outlive her by generations.</div>
 
 <div data-i18n-html="article_histoire-professeur_p10"><h2>The Choice</h2></div>
 

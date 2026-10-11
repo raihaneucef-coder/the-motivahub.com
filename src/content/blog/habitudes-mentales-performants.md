@@ -62,7 +62,7 @@ relatedArticles:
 
 <div data-i18n-html="article_habitudes-mentales-performants_p10"><h2>2. They Think in Systems, Not Goals</h2></div>
 
-<div data-i18n-html="article_habitudes-mentales-performants_p11">Goals are destinations. Systems are routes. High performers focus on the route.</div>
+<div data-i18n-html="article_habitudes-mentales-performants_p11">Goals are destinations. <a href="/journal/systemes-battent-motivation/">Systems are routes</a>. High performers focus on the route.</div>
 
 <div data-i18n-html="article_habitudes-mentales-performants_p12">"I want to lose 10 kg" is a goal. "I eat protein at every meal and move for 30 minutes daily" is a system. The goal tells you where you want to go. The system gets you there.</div>
 
@@ -70,7 +70,7 @@ relatedArticles:
 
 <div data-i18n-html="article_habitudes-mentales-performants_p14"><blockquote><em>You do not rise to the level of your goals. You fall to the level of your systems. — James Clear</em></blockquote></div>
 
-<div data-i18n-html="article_habitudes-mentales-performants_p15"><h2>3. They Protect Their Energy</h2></div>
+<div data-i18n-html="article_habitudes-mentales-performants_p15"><h2>3. <a href="/journal/gestion-energie/">They Protect Their Energy</a></h2></div>
 
 <div data-i18n-html="article_habitudes-mentales-performants_p16">Energy is more valuable than time. You can have 8 hours in a day and waste every one of them if your energy is low. You can have 2 hours and accomplish more than most people do in a full day — if your energy is high.</div>
 

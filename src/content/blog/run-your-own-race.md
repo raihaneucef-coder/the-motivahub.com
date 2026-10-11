@@ -49,11 +49,11 @@ relatedArticles:
 
 <div data-i18n-html="article_run-your-own-race_p4">The smart runner does not listen.</div>
 
-<div data-i18n-html="article_run-your-own-race_p5"><strong>Running your own race is the discipline of holding your pace when everyone else is proving something.</strong></div>
+<div data-i18n-html="article_run-your-own-race_p5"><strong>Running your own race is the discipline of <a href="/journal/force-mentale-sport/">holding your pace</a> when everyone else is proving something.</strong></div>
 
 <div data-i18n-html="article_run-your-own-race_p6">This is not just sport. It is career, it is saving, it is building anything that matters. The person who sprints at the start is performing. The person who holds their pace is competing.</div>
 
-<div data-i18n-html="article_run-your-own-race_p7">Pacing feels slow. It feels like you are being left behind. But the race is not won at the start. It is won by the person who is still running when others have burned out.</div>
+<div data-i18n-html="article_run-your-own-race_p7">Pacing feels slow. It feels like you are being left behind. But the race is not won at the start. It is won by the person who is <a href="/journal/recovery-is-training/">still running when others have burned out</a>.</div>
 
 <div data-i18n-html="article_run-your-own-race_p8">Practice it this week:</div>
 

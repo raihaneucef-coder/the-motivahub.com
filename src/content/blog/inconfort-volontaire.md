@@ -53,7 +53,7 @@ relatedArticles:
 
 <div data-i18n-html="article_inconfort-volontaire_p5"><h2>Why Voluntary Discomfort Works</h2></div>
 
-<div data-i18n-html="article_inconfort-volontaire_p6">Your brain has a comfort zone. Inside this zone, everything is safe, familiar, and easy. But the comfort zone is also where growth goes to die.</div>
+<div data-i18n-html="article_inconfort-volontaire_p6">Your brain has a comfort zone. Inside this zone, everything is safe, familiar, and easy. But the comfort zone is also <a href="/journal/zone-confort-croissance/">where growth goes to die</a>.</div>
 
 <div data-i18n-html="article_inconfort-volontaire_p7">When you voluntarily step outside your comfort zone, you teach your brain three things:
 1. Discomfort is not dangerous
@@ -66,7 +66,7 @@ relatedArticles:
 
 <div data-i18n-html="article_inconfort-volontaire_p10"><h3>Physical</h3>
 - Cold showers (30 seconds to 2 minutes)
-- Intermittent fasting (skip one meal)
+- <a href="/journal/jeune-intermittent/">Intermittent fasting</a> (skip one meal)
 - Exercise when you do not feel like it
 - Sleep on the floor occasionally</div>
 

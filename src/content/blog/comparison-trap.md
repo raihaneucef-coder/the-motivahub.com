@@ -66,7 +66,7 @@ relatedArticles:
 
 <div data-i18n-html="article_comparison-trap_p14"><h2>Compare With Yesterday's Version of You</h2></div>
 
-<div data-i18n-html="article_comparison-trap_p15">There is only one opponent who shares your starting line, your constraints, and your context: who you were yesterday. This is not a poster slogan; it is the only comparison with clean data.</div>
+<div data-i18n-html="article_comparison-trap_p15">There is only one opponent who shares your starting line, your constraints, and your context: <a href="/journal/growth-mindset-rewire/">who you were yesterday</a>. This is not a poster slogan; it is the only comparison with clean data.</div>
 
 <div data-i18n-html="article_comparison-trap_p16">Make it measurable. Three questions tonight, sixty seconds:</div>
 
@@ -78,7 +78,7 @@ relatedArticles:
 
 <div data-i18n-html="article_comparison-trap_p19"><h2>Use Others as Study Material, Not Verdicts</h2></div>
 
-<div data-i18n-html="article_comparison-trap_p20">The healthiest relationship with successful people is curiosity instead of judgment. When someone achieves what you want, switch from "why not me" to "how exactly": What did they build first? What did they refuse? What does their ordinary Tuesday look like?</div>
+<div data-i18n-html="article_comparison-trap_p20">The healthiest relationship with <a href="/journal/habitudes-mentales-performants/">successful people</a> is curiosity instead of judgment. When someone achieves what you want, switch from "why not me" to "how exactly": What did they build first? What did they refuse? What does their ordinary Tuesday look like?</div>
 
 <div data-i18n-html="article_comparison-trap_p21">Studied this way, other people's success stops being a mirror that humiliates you and becomes a map that instructs you. The difference between resentment and research is a single question.</div>
 

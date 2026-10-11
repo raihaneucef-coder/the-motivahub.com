@@ -63,6 +63,6 @@ relatedArticles:
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p8"><h2>What Deliberate Rest Looks Like</h2></div>
 
-<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p9">It is specific, not vague. "I will stop working at 8pm and read a novel" recovers you. "I will scroll until I fall asleep" rarely does, because the nervous system doesn't register a feed of other people's lives as rest — it registers it as more input. Choose recovery the way you would choose a workout: with intention, and with an idea of what it is meant to restore.</div>
+<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p9">It is specific, not vague. "I will stop working at 8pm and read a novel" recovers you. "I will <a href="/journal/detox-numerique/">scroll until I fall asleep</a>" rarely does, because the nervous system doesn't register a feed of other people's lives as rest — it registers it as more input. Choose recovery the way you would choose a workout: with intention, and with an idea of what it is meant to restore.</div>
 
-<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p10">Rest on your own schedule and you stay the author of your effort. Wait until the body forces the issue, and you have handed the pen to exhaustion. Both will eventually get you to stop. Only one of them lets you choose when to start again.</div>
+<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p10"><a href="/journal/routine-matin-sante/">Rest on your own schedule</a> and you stay the author of your effort. Wait until the body forces the issue, and you have handed the pen to exhaustion. Both will eventually get you to stop. Only one of them lets you choose when to start again.</div>

@@ -48,14 +48,14 @@ relatedArticles:
 
 <div data-i18n-html="article_fuel-before-willpower_p5">Nothing about our character changed between those hours. Only our fuel.</div>
 
-<div data-i18n-html="article_fuel-before-willpower_p6"><strong>Most of what we call laziness is logistics.</strong> The afternoon collapse is rarely a moral failure; it is a blood-sugar curve with excellent timing. The evening binge in front of a screen often begins as an under-eaten, over-caffeinated day looking for fast relief. When we misjudge this, we respond to a engineering problem with shame — and shame has never once fixed a meal schedule.</div>
+<div data-i18n-html="article_fuel-before-willpower_p6"><strong>Most of what we call laziness is logistics.</strong> <a href="/journal/eat-on-time-not-on-emotion/">The afternoon collapse</a> is rarely a moral failure; it is a blood-sugar curve with excellent timing. The evening binge in front of a screen often begins as an under-eaten, over-caffeinated day looking for fast relief. When we misjudge this, we respond to a engineering problem with shame — and shame has never once fixed a meal schedule.</div>
 
 <div data-i18n-html="article_fuel-before-willpower_p7">The shift is simpler than any diet: <strong>stop asking food for pleasure alone, and start asking it for stable energy.</strong> Pleasure still comes. But stability comes first, because stability is what your ambitions run on.</div>
 
 <div data-i18n-html="article_fuel-before-willpower_p8">A few principles survive every trend:</div>
 
 <div data-i18n-html="article_fuel-before-willpower_p9">- <strong>Protein early.</strong> The first meal decides whether your morning runs on steady release or on a spike-and-crash rollercoaster.
-- <strong>Water before coffee.</strong> Half of what feels like fatigue is dehydration wearing a convincing costume.
+- <strong><a href="/journal/hydratation-performance/">Water before coffee</a>.</strong> Half of what feels like fatigue is dehydration wearing a convincing costume.
 - <strong>Do not arrive starving.</strong> Hunger plans your meals poorly; decide lunch while you are still rational.
 - <strong>Cook more than you assemble.</strong> Ten extra minutes at a stove buys back hours of foggy, regretful afternoons.
 - <strong>Keep the 80/20 honest.</strong> Eat well most of the time so that the occasional celebration stays a celebration instead of becoming a pattern.</div>

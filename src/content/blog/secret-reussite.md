@@ -48,7 +48,7 @@ relatedArticles:
 
 <div data-i18n-html="article_secret-reussite_p5"><h2>The Myth of Overnight Success</h2></div>
 
-<div data-i18n-html="article_secret-reussite_p6">Every "overnight success" has years of invisible work behind it. The musician who gets a record deal practiced for a decade. The entrepreneur who "suddenly" built a million-dollar company failed for years first. The athlete who wins the gold medal trained through injuries, losses, and doubt.</div>
+<div data-i18n-html="article_secret-reussite_p6">Every "overnight success" has <a href="/journal/mythe-reussite-instantanee/">years of invisible work</a> behind it. The musician who gets a record deal practiced for a decade. The entrepreneur who "suddenly" built a million-dollar company failed for years first. The athlete who wins the gold medal trained through injuries, losses, and doubt.</div>
 
 <div data-i18n-html="article_secret-reussite_p7">We see the result. We never see the process. And because we only see the result, we believe success is sudden. It is not. It is compound interest on daily effort.</div>
 
@@ -87,7 +87,7 @@ relatedArticles:
 
 <div data-i18n-html="article_secret-reussite_p20"><h3>2. Attach It to Something</h3></div>
 
-<div data-i18n-html="article_secret-reussite_p21">Consistency is easier when it is attached to an existing routine. This is called habit stacking.</div>
+<div data-i18n-html="article_secret-reussite_p21">Consistency is easier when it is <a href="/journal/habit-stacking-made-simple/">attached to an existing routine</a>. This is called habit stacking.</div>
 
 <div data-i18n-html="article_secret-reussite_p22">- After my morning coffee, I will write for 10 minutes
 - After I brush my teeth, I will meditate for 2 minutes

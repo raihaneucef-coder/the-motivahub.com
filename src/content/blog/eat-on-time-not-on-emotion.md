@@ -44,11 +44,11 @@ relatedArticles:
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_eat-on-time-not-on-emotion_p4">When you are starving, everything quick and sweet looks like the answer. Your brain, low on fuel, chooses what is fastest, not what is best for the afternoon you still have to live.</div>
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p4">When you are starving, everything quick and sweet looks like the answer. Your brain, <a href="/journal/the-plate-that-keeps-you-steady/">low on fuel</a>, chooses what is fastest, not what is best for the afternoon you still have to live.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p5"><strong>Regular meals make good decisions automatic.</strong></div>
 
-<div data-i18n-html="article_eat-on-time-not-on-emotion_p6">Eat before you are starving. Decide what lunch will be while you are still full from breakfast. Keep a simple backup — yogurt, nuts, fruit — for the day that goes long.</div>
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p6">Eat before you are starving. Decide what lunch will be while you are still full from breakfast. <a href="/journal/meal-prep-dimanche/">Keep a simple backup</a> — yogurt, nuts, fruit — for the day that goes long.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p7">This is not about perfect timing. It is about never arriving at a meal so hungry that you cannot choose well.</div>
 

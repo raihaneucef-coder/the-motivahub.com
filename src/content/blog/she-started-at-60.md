@@ -50,8 +50,8 @@ relatedArticles:
 
 <div data-i18n-html="article_she-started-at-60_p6">She started with one table, one oven, one perfect cake. People came for the cake and stayed for the way she looked when she served it — like someone who had finally arrived.</div>
 
-<div data-i18n-html="article_she-started-at-60_p7">By 62, the line was around the block. By 63, a food writer called her "an overnight success 40 years in the making."</div>
+<div data-i18n-html="article_she-started-at-60_p7">By 62, the line was around the block. By 63, a food writer called her "an <a href="/journal/histoire-concierge-millionnaire/">overnight success</a> 40 years in the making."</div>
 
 <div data-i18n-html="article_she-started-at-60_p8">She laughed. "I was not late," she said. "I was being prepared."</div>
 
-<div data-i18n-html="article_she-started-at-60_p9">Proof over noise: the best time to start is often the time everyone says is too late.</div>
+<div data-i18n-html="article_she-started-at-60_p9"><a href="/journal/proof-over-noise/">Proof over noise</a>: the best time to start is often the time everyone says is too late.</div>

@@ -48,13 +48,13 @@ relatedArticles:
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p5"><strong>Make it measurable, make it mine.</strong></div>
 
-<div data-i18n-html="article_make-it-measurable-make-it-mine_p6">Measurable means you can answer yes or no at night. Not "be more consistent" but "write 200 words." Not "get fit" but "walk 30 minutes." The smaller the measure, the more honest the answer.</div>
+<div data-i18n-html="article_make-it-measurable-make-it-mine_p6">Measurable means you can answer yes or no at night. Not "be more consistent" but "<a href="/journal/retroengineering-objectifs/">write 200 words</a>." Not "get fit" but "walk 30 minutes." The smaller the measure, the more honest the answer.</div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p7">Mine means it matters to you, not to the audience. A goal you set to impress will be abandoned the first time it is inconvenient. A goal that is yours will be protected.</div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p8">Try this for one goal this week:</div>
 
-<div data-i18n-html="article_make-it-measurable-make-it-mine_p9">- <strong>Write the number.</strong> What is done by Friday, by count?
+<div data-i18n-html="article_make-it-measurable-make-it-mine_p9">- <strong><a href="/journal/pouvoir-ecrire-objectifs/">Write the number</a>.</strong> What is done by Friday, by count?
 - <strong>Write the why in one sentence, in your words.</strong> No borrowed language.
 - <strong>Put both where you will see them at night.</strong> The measure tells you if you moved. The why tells you why it mattered.</div>
 

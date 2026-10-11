@@ -55,8 +55,8 @@ relatedArticles:
 
 <div data-i18n-html="article_one-target-at-a-time_p7">Three practices turn wishing into aiming:</div>
 
-<div data-i18n-html="article_one-target-at-a-time_p8">- <strong>Name the ring precisely.</strong> Write the goal so a stranger could verify whether you hit it. If a stranger cannot judge it, neither can you.
-- <strong>Reverse-engineer the road.</strong> Ask what must be true three months from now, then this month, then this week — until the goal dissolves into a task small enough for this afternoon.
+<div data-i18n-html="article_one-target-at-a-time_p8">- <strong><a href="/journal/pouvoir-ecrire-objectifs/">Name the ring precisely</a>.</strong> Write the goal so a stranger could verify whether you hit it. If a stranger cannot judge it, neither can you.
+- <strong><a href="/journal/retroengineering-objectifs/">Reverse-engineer the road</a>.</strong> Ask what must be true three months from now, then this month, then this week — until the goal dissolves into a task small enough for this afternoon.
 - <strong>Keep score visibly.</strong> A calendar with crossed-off days, a notebook with logged reps. Progress you cannot see is progress your motivation will never believe.</div>
 
 <div data-i18n-html="article_one-target-at-a-time_p9">And when several targets call at once — career, body, family, craft — resist the urge to chase them all with equal fire. <strong>Serial focus beats parallel wishing.</strong> Give each target its season, its hours, its full attention, and rotate deliberately rather than frantically. The archer who fires at five rings at once hits the hay.</div>

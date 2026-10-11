@@ -50,7 +50,7 @@ relatedArticles:
 Blue light from screens suppresses melatonin production. This makes it harder to fall asleep and reduces sleep quality.</div>
 
 <div data-i18n-html="article_detox-numerique_p6"><h3>2. Reduced Focus</h3>
-Constant notifications train your brain to expect interruptions. This makes deep work nearly impossible.</div>
+Constant notifications train your brain to expect interruptions. This makes <a href="/journal/deep-work-focus/">deep work</a> nearly impossible.</div>
 
 <div data-i18n-html="article_detox-numerique_p7"><h3>3. Increased Anxiety</h3>
 Social media comparison, news cycles, and information overload increase anxiety and depression.</div>
@@ -59,7 +59,7 @@ Social media comparison, news cycles, and information overload increase anxiety 
 Hunching over phones causes neck pain, back pain, and eye strain. "Text neck" is a real medical condition.</div>
 
 <div data-i18n-html="article_detox-numerique_p9"><h3>5. Reduced Social Skills</h3>
-When you spend more time on screens than with people, your social skills deteriorate.</div>
+When you spend more time on screens than with people, your <a href="/journal/social-muscle/">social skills deteriorate</a>.</div>
 
 <div data-i18n-html="article_detox-numerique_p10"><h2>How to Detox</h2></div>
 

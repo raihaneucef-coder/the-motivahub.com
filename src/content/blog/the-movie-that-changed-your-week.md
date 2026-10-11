@@ -46,13 +46,13 @@ relatedArticles:
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p4">You walk out and the world looks a little different. A line stays with you. A choice the character made becomes a question you ask yourself.</div>
 
-<div data-i18n-html="article_the-movie-that-changed-your-week_p5"><strong>Entertainment that profits you is not about escaping life — it is about returning to it with more.</strong></div>
+<div data-i18n-html="article_the-movie-that-changed-your-week_p5"><strong><a href="/journal/play-on-purpose/">Entertainment that profits you</a> is not about escaping life — it is about returning to it with more.</strong></div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p6">The film that changes your week is rarely the loudest one. It is the one that asks a question you have been avoiding.</div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p7">Choose it on purpose:</div>
 
-<div data-i18n-html="article_the-movie-that-changed-your-week_p8">- <strong>Before you press play, ask:</strong> What do I want to feel or learn tonight? Comfort, courage, curiosity?
+<div data-i18n-html="article_the-movie-that-changed-your-week_p8">- <strong><a href="/journal/regarder-intentionnellement/">Before you press play</a>, ask:</strong> What do I want to feel or learn tonight? Comfort, courage, curiosity?
 - <strong>Watch with one question in mind.</strong> How does this story want me to live tomorrow?
 - <strong>Talk about it after.</strong> One conversation about a film doubles its impact. What did it make you want to do?</div>
 

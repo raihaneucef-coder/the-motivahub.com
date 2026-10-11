@@ -52,7 +52,7 @@ relatedArticles:
 
 <div data-i18n-html="article_secure-self_p7"><h2>Focusing on Yourself Is Not Selfish</h2></div>
 
-<div data-i18n-html="article_secure-self_p8">Focusing on yourself is not turning away from people. It is turning toward the only person you will be with for the rest of your life. The hour you protect for your mind, the boundary you keep for your peace, the habit you repeat for your body — none of these take love away from people. They make your love for people sustainable.</div>
+<div data-i18n-html="article_secure-self_p8">Focusing on yourself is <a href="/journal/social-muscle/">not turning away from people</a>. It is turning toward the only person you will be with for the rest of your life. <a href="/journal/regle-1-pourcent/">The hour you protect</a> for your mind, the boundary you keep for your peace, the habit you repeat for your body — none of these take love away from people. They make your love for people sustainable.</div>
 
 <div data-i18n-html="article_secure-self_p9">Ask: what would focusing on yourself look like today? Not tomorrow, not when life is easier — today. Perhaps it is saying no to one request that drains you. Perhaps it is walking alone for twenty minutes without your phone. Perhaps it is writing the one objective that is yours, not theirs.</div>
 

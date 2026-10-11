@@ -46,9 +46,9 @@ relatedArticles:
 
 <div data-i18n-html="article_play-is-practice-for-life_p4">Children play to learn: how to share, how to lose, how to try again. Adults stop, and then wonder why life feels heavy.</div>
 
-<div data-i18n-html="article_play-is-practice-for-life_p5"><strong>Play is not the opposite of work. It is practice for work — and for love, and for staying light when it would be easy to be heavy.</strong></div>
+<div data-i18n-html="article_play-is-practice-for-life_p5"><strong>Play is not the opposite of work. It is <a href="/journal/play-on-purpose/">practice for work</a> — and for love, and for staying light when it would be easy to be heavy.</strong></div>
 
-<div data-i18n-html="article_play-is-practice-for-life_p6">Play teaches what no course can: how to be bad at something and enjoy it, how to laugh when you fail, how to stay in the game because the game itself is fun.</div>
+<div data-i18n-html="article_play-is-practice-for-life_p6">Play teaches <a href="/journal/podcasts-education/">what no course can</a>: how to be bad at something and enjoy it, how to laugh when you fail, how to stay in the game because the game itself is fun.</div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p7">Try it this week, without needing to be good at it:</div>
 

@@ -1,0 +1,30 @@
+[
+  {"slug":"time-blocking-journee","links":[
+    {"p":"p11","en":"Deep work gets scheduled first","fr":"Le travail en profondeur est programmé en premier","t":"deep-work-focus"},
+    {"p":"p12","en":"It Creates Accountability","fr":"Cela crée une responsabilité","t":"rendez-compte-objectifs"}
+  ]},
+  {"slug":"trouver-voix","links":[
+    {"p":"p10","en":"sharing one opinion in a small group","fr":"Commencez par partager une opinion en petit groupe","t":"social-muscle"},
+    {"p":"p11","en":"Confidence often comes from preparation","fr":"La confiance vient souvent de la préparation","t":"confidence-is-a-record-not-a-feeling"}
+  ]},
+  {"slug":"voyage-budget","links":[
+    {"p":"p11","en":"Travel Slowly","fr":"Voyagez lentement","t":"voyage-lent"},
+    {"p":"p7","en":"Cook Your Own Meals","fr":"Cuisinez vos propres repas","t":"meal-prep-dimanche"}
+  ]},
+  {"slug":"voyage-lent","links":[
+    {"p":"p4","en":"leave with real memories","fr":"repartent avec de vrais souvenirs","t":"pack-light-stay-long"},
+    {"p":"p10","en":"hidden gems","fr":"les joyaux cachés","t":"the-detour-is-the-destination"}
+  ]},
+  {"slug":"voyage-sante-mentale","links":[
+    {"p":"p9","en":"Navigating unfamiliar environments builds confidence and resilience","fr":"renforce la confiance et la résilience","t":"solo-travel-stronger-self"},
+    {"p":"p5","en":"vacations reduce stress","fr":"les vacances réduisent le stress","t":"recovery-is-training"}
+  ]},
+  {"slug":"voyage-solo","links":[
+    {"p":"p6","en":"you discover who you really are","fr":"vous découvrez qui vous êtes vraiment","t":"solo-travel-stronger-self"},
+    {"p":"p5","en":"Complete Freedom","fr":"Liberté totale","t":"price-of-freedom"}
+  ]},
+  {"slug":"zone-confort-croissance","links":[
+    {"p":"p9","en":"Every time you face discomfort","fr":"Chaque fois que vous rencontrez un inconfort","t":"inconfort-volontaire"},
+    {"p":"p6","en":"This is where growth happens","fr":"là que se produit la croissance","t":"strength-is-a-skill"}
+  ]}
+]

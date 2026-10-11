@@ -75,11 +75,11 @@ relatedArticles:
 
 <div data-i18n-html="article_smart-goals_p15"><h2>How to Set SMART Goals</h2></div>
 
-<div data-i18n-html="article_smart-goals_p16"><h3>1. Start With Why</h3>
+<div data-i18n-html="article_smart-goals_p16"><h3>1. <a href="/journal/pourquoi-profond-objectifs/">Start With Why</a></h3>
 Before setting the goal, ask: "Why does this matter?" If the why is not strong enough, the goal will not survive the first obstacle.</div>
 
 <div data-i18n-html="article_smart-goals_p17"><h3>2. Write It Down</h3>
-A goal that is not written is just a thought. Write your SMART goal somewhere you will see it every day.</div>
+A goal that <a href="/journal/pouvoir-ecrire-objectifs/">is not written is just a thought</a>. Write your SMART goal somewhere you will see it every day.</div>
 
 <div data-i18n-html="article_smart-goals_p18"><h3>3. Break It Down</h3>
 A big SMART goal can be broken into smaller SMART goals. "Write a book" becomes "write 500 words per day for 6 months."</div>

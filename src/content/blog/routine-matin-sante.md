@@ -51,9 +51,9 @@ relatedArticles:
 Most health experts wake up between 5:30 and 6:30 AM. Not because early is better — but because it gives them time to prepare for the day before the world demands their attention.</div>
 
 <div data-i18n-html="article_routine-matin-sante_p6"><h3>2. Hydrate First</h3>
-Before coffee, before food, before anything — water. Your body dehydrates overnight. Drinking 500ml of water first thing rehydrates your cells and kickstarts your metabolism.</div>
+Before coffee, before food, before anything — water. Your body dehydrates overnight. <a href="/journal/hydratation-performance/">Drinking 500ml of water first thing</a> rehydrates your cells and kickstarts your metabolism.</div>
 
-<div data-i18n-html="article_routine-matin-sante_p7"><h3>3. Move Your Body</h3>
+<div data-i18n-html="article_routine-matin-sante_p7"><h3>3. <a href="/journal/consistance-bat-intensite/">Move Your Body</a></h3>
 You do not need a full workout. 10 minutes of stretching, yoga, or a short walk is enough. The goal is to wake up your body and increase blood flow.</div>
 
 <div data-i18n-html="article_routine-matin-sante_p8"><h3>4. Practice Gratitude</h3>

@@ -1,0 +1,42 @@
+[
+  {"slug":"pack-light-stay-long","links":[
+    {"p":"p6","en":"Staying long","fr":"Rester longtemps","t":"voyage-lent"},
+    {"p":"p7","en":"no itinerary","fr":"sans itinéraire","t":"the-detour-is-the-destination"}
+  ]},
+  {"slug":"paycheck-trap","links":[
+    {"p":"p6","en":"half to freedom","fr":"à la liberté","t":"price-of-freedom"},
+    {"p":"p8","en":"What you keep","fr":"Ce que vous gardez après","t":"earn-keep-grow"}
+  ]},
+  {"slug":"people-who-raise-your-floor","links":[
+    {"p":"p7","en":"One relationship","fr":"Une relation","t":"love-is-a-practice"},
+    {"p":"p11","en":"one more person","fr":"une personne supplémentaire","t":"community-discipline"}
+  ]},
+  {"slug":"play-is-practice-for-life","links":[
+    {"p":"p5","en":"practice for work","fr":"une pratique pour le travail","t":"play-on-purpose"},
+    {"p":"p6","en":"what no course can","fr":"aucun cours ne peut faire","t":"podcasts-education"}
+  ]},
+  {"slug":"play-on-purpose","links":[
+    {"p":"p8","en":"A film watched fully","fr":"Un film regardé en entier","t":"regarder-intentionnellement"},
+    {"p":"p14","en":"play like it matters","fr":"Mais jouez comme si","t":"play-is-practice-for-life"}
+  ]},
+  {"slug":"price-of-freedom","links":[
+    {"p":"p8","en":"pay freedom first","fr":"la liberté : un montant fixe","t":"paycheck-trap"},
+    {"p":"p7","en":"A transfer on payday","fr":"Un transfert le jour de paie","t":"regle-50-30-20"}
+  ]},
+  {"slug":"proof-over-noise","links":[
+    {"p":"p6","en":"ordinary people","fr":"des gens ordinaires","t":"she-started-at-60"},
+    {"p":"p10","en":"people building","fr":"les gens qui construisent","t":"histoire-concierge-millionnaire"}
+  ]},
+  {"slug":"protein-is-not-just-for-athletes","links":[
+    {"p":"p4","en":"stay satisfied longer","fr":"restez rassasié plus longtemps","t":"the-plate-that-keeps-you-steady"},
+    {"p":"p6","en":"a part of every meal","fr":"à chaque repas","t":"meal-prep-dimanche"}
+  ]},
+  {"slug":"psychology-of-money-business","links":[
+    {"p":"p9","en":"not overnight success","fr":"pas des succès du jour au lendemain","t":"mythe-reussite-instantanee"},
+    {"p":"p6","en":"what is enough","fr":"est suffisant pour ce trimestre","t":"definition-reussite"}
+  ]},
+  {"slug":"quiet-power-of-doing-less","links":[
+    {"p":"p16","en":"a protected hour","fr":"une heure protégée","t":"deep-work-focus"},
+    {"p":"p26","en":"do that thing first","fr":"faites cette chose en premier","t":"eat-the-frog"}
+  ]}
+]

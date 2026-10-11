@@ -1,0 +1,42 @@
+[
+  {"slug":"art-dire-non","links":[
+    {"p":"p9","en":"a complete sentence","fr":"est une phrase complète","t":"pouvoir-du-non"},
+    {"p":"p13","en":"saying yes to your priorities","fr":"oui à vos priorités","t":"quiet-power-of-doing-less"}
+  ]},
+  {"slug":"body-recomposition-guide","links":[
+    {"p":"p8","en":"Protein first","fr":"Les protéines","t":"protein-is-not-just-for-athletes"},
+    {"p":"p7","en":"Calories decide the direction","fr":"Les calories décident du sens de la balance","t":"the-plate-that-keeps-you-steady"}
+  ]},
+  {"slug":"confiance-inbranlable","links":[
+    {"p":"p3","en":"it can be built, trained, and strengthened","fr":"elle peut être développée, entraînée et renforcée","t":"strength-is-a-skill"},
+    {"p":"p11","en":"evidence that you are capable","fr":"que vous en êtes capable","t":"the-comeback-is-stronger"}
+  ]},
+  {"slug":"consistance-bat-intensite","links":[
+    {"p":"p8","en":"it becomes automatic","fr":"cela devient automatique","t":"systemes-battent-motivation"},
+    {"p":"p10","en":"Skills are built through repetition","fr":"Les compétences se construisent par la répétition","t":"strength-is-a-skill"}
+  ]},
+  {"slug":"definition-reussite","links":[
+    {"p":"p6","en":"highlight reels","fr":"nous montrent les meilleurs moments","t":"comparison-trap"},
+    {"p":"p10","en":"what success means to you","fr":"ce que le succès signifie pour vous","t":"pouvoir-ecrire-objectifs"}
+  ]},
+  {"slug":"detox-numerique","links":[
+    {"p":"p6","en":"deep work","fr":"le travail en profondeur","t":"deep-work-focus"},
+    {"p":"p9","en":"social skills deteriorate","fr":"vos compétences sociales se détériorent","t":"social-muscle"}
+  ]},
+  {"slug":"discipline-beat-motivation","links":[
+    {"p":"p14","en":"Discipline is an identity","fr":"La discipline est une identité","t":"identity-precedes-outcome"},
+    {"p":"p21","en":"Discipline thrives on systems","fr":"La discipline prospère avec les systèmes","t":"systemes-battent-motivation"}
+  ]},
+  {"slug":"discipline-choix-quotidien","links":[
+    {"p":"p14","en":"Non-Negotiable Standard","fr":"une norme non négociable","t":"standard-non-negociable"},
+    {"p":"p27","en":"Two missed days is a new habit","fr":"Deux jours manqués sont une nouvelle habitude","t":"ne-brise-jamais-chaine"}
+  ]},
+  {"slug":"discipline-depass-motivation","links":[
+    {"p":"p12","en":"It Compounds","fr":"Elle a un effet cumulatif","t":"regle-1-pourcent"},
+    {"p":"p11","en":"builds unshakable self-belief","fr":"une confiance en soi inébranlable","t":"confiance-inbranlable"}
+  ]},
+  {"slug":"eat-the-frog","links":[
+    {"p":"p6","en":"willpower is highest in the morning","fr":"Votre volonté est à son maximum le matin","t":"gestion-energie"},
+    {"p":"p4","en":"most likely to procrastinate on","fr":"le plus susceptible de remettre à plus tard","t":"real-reason-you-procrastinate"}
+  ]}
+]

@@ -51,7 +51,7 @@ relatedArticles:
 
 <div data-i18n-html="article_confiance-inbranlable_p2">Confidence is not something you are born with. It is something you build, one decision at a time. Here is your 30-day plan.</div>
 
-<div data-i18n-html="article_confiance-inbranlable_p3">Confidence is not a personality trait. It is a skill. And like any skill, it can be built, trained, and strengthened.</div>
+<div data-i18n-html="article_confiance-inbranlable_p3">Confidence is not a personality trait. It is a skill. And like any skill, <a href="/journal/strength-is-a-skill/">it can be built, trained, and strengthened</a>.</div>
 
 <div data-i18n-html="article_confiance-inbranlable_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
@@ -99,7 +99,7 @@ relatedArticles:
 
 <div data-i18n-html="article_confiance-inbranlable_p10"><h2>The Science of Confidence</h2></div>
 
-<div data-i18n-html="article_confiance-inbranlable_p11">Confidence is built through evidence. Every time you do something that scares you and survive, you create evidence that you are capable. Over time, this evidence builds an unshakable belief in yourself.</div>
+<div data-i18n-html="article_confiance-inbranlable_p11">Confidence is built through evidence. Every time you do something that scares you and survive, you create <a href="/journal/the-comeback-is-stronger/">evidence that you are capable</a>. Over time, this evidence builds an unshakable belief in yourself.</div>
 
 <div data-i18n-html="article_confiance-inbranlable_p12"><blockquote><em>Confidence is not "they will like me." Confidence is "I will be fine if they do not."</em></blockquote></div>
 

@@ -48,8 +48,8 @@ relatedArticles:
 
 <div data-i18n-html="article_pack-light-stay-long_p5"><strong>Light is a decision, not a packing technique.</strong> One bag, one pair of shoes that do three jobs, one book you will actually read. The rest is fear dressed as preparation.</div>
 
-<div data-i18n-html="article_pack-light-stay-long_p6">Staying long is where travel stops being tourism and starts being life. Tourism samples; staying tastes. You learn where the bread is bought at 7 AM, which bus is always late, how to say thank you so it sounds like you mean it. After two weeks, the city stops performing and starts revealing.</div>
+<div data-i18n-html="article_pack-light-stay-long_p6"><a href="/journal/voyage-lent/">Staying long</a> is where travel stops being tourism and starts being life. Tourism samples; staying tastes. You learn where the bread is bought at 7 AM, which bus is always late, how to say thank you so it sounds like you mean it. After two weeks, the city stops performing and starts revealing.</div>
 
-<div data-i18n-html="article_pack-light-stay-long_p7">Try it once, even for a short trip. Pack half of what you think you need. Stay one day longer than you planned. Spend the extra day with no itinerary — walk, sit, ask one local where they eat.</div>
+<div data-i18n-html="article_pack-light-stay-long_p7">Try it once, even for a short trip. Pack half of what you think you need. Stay one day longer than you planned. Spend the extra day with <a href="/journal/the-detour-is-the-destination/">no itinerary</a> — walk, sit, ask one local where they eat.</div>
 
 <div data-i18n-html="article_pack-light-stay-long_p8">You will not remember what you brought. You will remember what you left behind — and what you found because your hands were empty.</div>

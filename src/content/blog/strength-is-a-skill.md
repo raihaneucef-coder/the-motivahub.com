@@ -49,11 +49,11 @@ relatedArticles:
 
 <div data-i18n-html="article_strength-is-a-skill_p5"><strong>Strength is a skill. Skills are learned slowly and kept with practice.</strong></div>
 
-<div data-i18n-html="article_strength-is-a-skill_p6">The bar teaches what books cannot: that progress is not linear, that patience is a form of strength, and that the last rep — the one you almost skip — is the one that teaches you who you are.</div>
+<div data-i18n-html="article_strength-is-a-skill_p6">The bar teaches what books cannot: that <a href="/journal/consistance-bat-intensite/">progress is not linear</a>, that patience is a form of strength, and that the last rep — the one you almost skip — is the one that teaches you who you are.</div>
 
 <div data-i18n-html="article_strength-is-a-skill_p7">Start where you are, not where you wish you were:</div>
 
-<div data-i18n-html="article_strength-is-a-skill_p8">- <strong>Master the empty bar.</strong> Form first, weight second. Strength built on bad form is an injury waiting to happen.
+<div data-i18n-html="article_strength-is-a-skill_p8">- <strong><a href="/journal/guide-debutant-fitness/">Master the empty bar</a>.</strong> Form first, weight second. Strength built on bad form is an injury waiting to happen.
 - <strong>Add one rep, not ten pounds.</strong> Small progress, repeated, is the only progress that lasts.
 - <strong>Rest as hard as you lift.</strong> The muscle grows while you sleep, not while you strain.</div>
 

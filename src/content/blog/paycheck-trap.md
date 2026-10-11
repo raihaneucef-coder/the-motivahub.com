@@ -49,8 +49,8 @@ relatedArticles:
 
 <div data-i18n-html="article_paycheck-trap_p5"><strong>Earning more without a system to keep more is just running faster on the same treadmill.</strong></div>
 
-<div data-i18n-html="article_paycheck-trap_p6">The fix is not willpower; it is a rule you set before the money arrives. When income rises, decide in advance where the extra goes: half to freedom (savings, investments), a quarter to joy (something you truly value), a quarter to buffer (emergencies). Write it when you are calm, so you do not decide when you are excited.</div>
+<div data-i18n-html="article_paycheck-trap_p6">The fix is not willpower; it is a rule you set before the money arrives. When income rises, decide in advance where the extra goes: <a href="/journal/price-of-freedom/">half to freedom</a> (savings, investments), a quarter to joy (something you truly value), a quarter to buffer (emergencies). Write it when you are calm, so you do not decide when you are excited.</div>
 
 <div data-i18n-html="article_paycheck-trap_p7">Try this with your next inflow, however small — a bonus, a side project, even a refund. Before it lands, assign it. What is not assigned will be absorbed. What is assigned will compound.</div>
 
-<div data-i18n-html="article_paycheck-trap_p8">The paycheck is not the prize. What you keep after it is.</div>
+<div data-i18n-html="article_paycheck-trap_p8">The paycheck is not the prize. <a href="/journal/earn-keep-grow/">What you keep</a> after it is.</div>

@@ -53,7 +53,7 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-feels-like-breaking_p5"><strong>Growth does not ask for your comfort. It asks for your courage.</strong></div>
 
-<div data-i18n-html="article_growth-feels-like-breaking_p6">Everyone wants the becoming. Few want the breaking that comes first. But you cannot become without breaking the shell that held the smaller you.</div>
+<div data-i18n-html="article_growth-feels-like-breaking_p6">Everyone wants <a href="/journal/journal-croissance/">the becoming</a>. Few want the breaking that comes first. But you cannot become without breaking the shell that held the smaller you.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p7">The breaking is not failure. It is the sound of expansion:</div>
 
@@ -65,4 +65,4 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-feels-like-breaking_p10">Ask: what is trying to be born in me that needs this discomfort to arrive?</div>
 
-<div data-i18n-html="article_growth-feels-like-breaking_p11">You are not breaking. You are becoming. And becoming, for a while, feels just like breaking — until one morning you realize the shell is gone and you are already flying.</div>
+<div data-i18n-html="article_growth-feels-like-breaking_p11">You are not breaking. <a href="/journal/long-ascent/">You are becoming</a>. And becoming, for a while, feels just like breaking — until one morning you realize the shell is gone and you are already flying.</div>

@@ -50,7 +50,7 @@ relatedArticles:
 Everything is familiar. You feel safe. But you are not growing. You are maintaining.</div>
 
 <div data-i18n-html="article_zone-confort-croissance_p6"><h3>2. Growth Zone (Stretch Zone)</h3>
-Things are challenging but manageable. You feel uncomfortable but capable. This is where growth happens.</div>
+Things are challenging but manageable. You feel uncomfortable but capable. <a href="/journal/strength-is-a-skill/">This is where growth happens</a>.</div>
 
 <div data-i18n-html="article_zone-confort-croissance_p7"><h3>3. Panic Zone</h3>
 Things are too overwhelming. You shut down. This is not productive discomfort â€” it is destructive stress.</div>
@@ -58,7 +58,7 @@ Things are too overwhelming. You shut down. This is not productive discomfort â€
 <div data-i18n-html="article_zone-confort-croissance_p8"><h2>Why Discomfort Is Your Friend</h2></div>
 
 <div data-i18n-html="article_zone-confort-croissance_p9"><h3>1. It Builds Resilience</h3>
-Every time you face discomfort, you prove to yourself that you can handle it. This builds confidence and resilience.</div>
+<a href="/journal/inconfort-volontaire/">Every time you face discomfort</a>, you prove to yourself that you can handle it. This builds confidence and resilience.</div>
 
 <div data-i18n-html="article_zone-confort-croissance_p10"><h3>2. It Expands Your Abilities</h3>
 When you do things that are hard, you develop new skills. The discomfort is the growing pain of improvement.</div>

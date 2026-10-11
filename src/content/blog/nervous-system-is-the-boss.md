@@ -54,10 +54,10 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p8">Three levers, available anywhere:</div>
 
-<div data-i18n-html="article_nervous-system-is-the-boss_p9">- <strong>Move for two minutes.</strong> Walk, shake your hands, do ten slow squats. Motion tells the brain: we are not trapped.
+<div data-i18n-html="article_nervous-system-is-the-boss_p9">- <strong><a href="/journal/move-daily-not-perfectly/">Move for two minutes</a>.</strong> Walk, shake your hands, do ten slow squats. Motion tells the brain: we are not trapped.
 - <strong>Lengthen the exhale.</strong> Four in, eight out. The longer out-breath is a manual override for calm.
 - <strong>Name it plainly.</strong> "I feel activated and tight." Naming moves activity from the alarm center to the observing mind — and the alarm quiets a little.</div>
 
-<div data-i18n-html="article_nervous-system-is-the-boss_p10">Do not try to be calm by demanding calm. Make your body feel a little safer, and calm arrives on its own.</div>
+<div data-i18n-html="article_nervous-system-is-the-boss_p10">Do not try <a href="/journal/calm-is-a-superpower/">to be calm</a> by demanding calm. Make your body feel a little safer, and calm arrives on its own.</div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p11">Your to-do list will never regulate you. Your breath, your sleep, your movement will. Work with the boss, and the boss will work for you.</div>

@@ -52,7 +52,7 @@ relatedArticles:
 
 <div data-i18n-html="article_play-on-purpose_p7">Real entertainment — deliberate play — works differently. It leaves deposits:</div>
 
-<div data-i18n-html="article_play-on-purpose_p8">- <strong>A film watched fully</strong> — lights off, phone elsewhere — can hand you language for feelings you had not untangled.
+<div data-i18n-html="article_play-on-purpose_p8">- <strong><a href="/journal/regarder-intentionnellement/">A film watched fully</a></strong> — lights off, phone elsewhere — can hand you language for feelings you had not untangled.
 - <strong>A match played, not just watched,</strong> restores the body's appetite for effort itself.
 - <strong>Music attended to closely</strong> re-tunes an overstimulated nervous system better than silence does.
 - <strong>A game shared with friends</strong> rebuilds the social muscle that work quietly erodes.
@@ -69,4 +69,4 @@ relatedArticles:
 
 <div data-i18n-html="article_play-on-purpose_p13">Rest is not the absence of effort. Done well, it is effort aimed inward — maintenance of the person who does all the striving.</div>
 
-<div data-i18n-html="article_play-on-purpose_p14">Play, then. But play like it matters.</div>
+<div data-i18n-html="article_play-on-purpose_p14">Play, then. But <a href="/journal/play-is-practice-for-life/">play like it matters</a>.</div>

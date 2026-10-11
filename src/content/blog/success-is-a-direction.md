@@ -48,10 +48,10 @@ relatedArticles:
 
 <div data-i18n-html="article_success-is-a-direction_p5"><strong>Success is not a destination you reach. It is a direction you keep choosing.</strong></div>
 
-<div data-i18n-html="article_success-is-a-direction_p6">The person who sees success as a place is always anxious — have I arrived, am I behind, will I lose it? The person who sees success as a direction is calmer — am I walking north today, even a little?</div>
+<div data-i18n-html="article_success-is-a-direction_p6">The person who sees success as a place is always anxious — have I arrived, <a href="/journal/mythe-reussite-instantanee/">am I behind</a>, will I lose it? The person who sees success as a direction is calmer — am I walking north today, even a little?</div>
 
 <div data-i18n-html="article_success-is-a-direction_p7">Direction is kinder and more useful. It lets you course-correct without shame. Missed a day? You did not fail the destination; you simply drifted east for a day. Come back north tomorrow.</div>
 
-<div data-i18n-html="article_success-is-a-direction_p8">Try it this week. Pick one direction — health, craft, kindness — and ask each night: did I move north today? One walk, one page, one honest conversation. That is success, today.</div>
+<div data-i18n-html="article_success-is-a-direction_p8">Try it this week. Pick one direction — health, craft, kindness — and ask each night: did I move north today? One walk, one page, one honest conversation. <a href="/journal/success-leaves-traces/">That is success</a>, today.</div>
 
 <div data-i18n-html="article_success-is-a-direction_p9">Destinations end. Directions endure.</div>

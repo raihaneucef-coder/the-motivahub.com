@@ -1,0 +1,42 @@
+[
+  {"slug":"inconfort-volontaire","links":[
+    {"p":"p6","en":"where growth goes to die","fr":"où la croissance va mourir","t":"zone-confort-croissance"},
+    {"p":"p10","en":"Intermittent fasting","fr":"Jeûne intermittent","t":"jeune-intermittent"}
+  ]},
+  {"slug":"investir-debutant","links":[
+    {"p":"p7","en":"3-6 months of expenses saved","fr":"économisez 3 à 6 mois de dépenses","t":"fond-urgence"},
+    {"p":"p8","en":"Start with Index Funds","fr":"Commencez avec les fonds indiciels","t":"invest-like-beginner"}
+  ]},
+  {"slug":"jeune-intermittent","links":[
+    {"p":"p12","en":"Fasting does not mean dehydrating","fr":"Jeûner ne signifie pas se déshydrater","t":"hydratation-performance"},
+    {"p":"p11","en":"eat nutritious meals","fr":"manger des repas nutritifs","t":"the-plate-that-keeps-you-steady"}
+  ]},
+  {"slug":"journal-croissance","links":[
+    {"p":"p9","en":"Writing your goals makes them real","fr":"Écrire vos objectifs les rend réels","t":"pouvoir-ecrire-objectifs"},
+    {"p":"p7","en":"releases emotions that are trapped inside","fr":"libère les émotions qui sont emprisonnées","t":"puissance-dialogue-interieur"}
+  ]},
+  {"slug":"langage-corps-confiance","links":[
+    {"p":"p11","en":"Eliminate filler words","fr":"Éliminez les mots de remplissage","t":"trouver-voix"},
+    {"p":"p14","en":"body language shapes who you are","fr":"langage corporel façonne qui vous êtes","t":"identity-precedes-outcome"}
+  ]},
+  {"slug":"lire-divertissement","links":[
+    {"p":"p5","en":"trains your brain to focus","fr":"Cela entraîne votre cerveau à se concentrer","t":"deep-work-focus"},
+    {"p":"p11","en":"Read before bed instead of scrolling","fr":"Lisez avant de vous coucher au lieu de faire défiler","t":"detox-numerique"}
+  ]},
+  {"slug":"meal-prep-dimanche","links":[
+    {"p":"p8","en":"Cook proteins in bulk","fr":"Cuire les protéines en vrac","t":"protein-is-not-just-for-athletes"},
+    {"p":"p6","en":"Chicken with rice and vegetables","fr":"Poulet avec riz et légumes","t":"the-plate-that-keeps-you-steady"}
+  ]},
+  {"slug":"mythe-reussite-instantanee","links":[
+    {"p":"p7","en":"Success is like an iceberg","fr":"Le succès est comme un iceberg","t":"success-leaves-traces"},
+    {"p":"p12","en":"It takes persistence","fr":"Il faut de la persévérance","t":"long-ascent"}
+  ]},
+  {"slug":"ne-brise-jamais-chaine","links":[
+    {"p":"p12","en":"never miss twice","fr":"ne jamais rater deux fois","t":"discipline-choix-quotidien"},
+    {"p":"p6","en":"visual representation of your consistency","fr":"une représentation visuelle de votre cohérence","t":"consistance-bat-intensite"}
+  ]},
+  {"slug":"podcasts-education","links":[
+    {"p":"p5","en":"turn them into learning time","fr":"les transforment en temps","t":"lire-divertissement"},
+    {"p":"p12","en":"Discuss episodes with friends","fr":"Discutez des épisodes avec des amis","t":"social-muscle"}
+  ]}
+]

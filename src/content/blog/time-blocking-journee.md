@@ -66,9 +66,9 @@ relatedArticles:
 You do not waste energy deciding what to work on next. The calendar decides for you.</div>
 
 <div data-i18n-html="article_time-blocking-journee_p11"><h3>2. It Protects Your Priorities</h3>
-Deep work gets scheduled first. Shallow work fills the gaps. Your priorities always come first.</div>
+<a href="/journal/deep-work-focus/">Deep work gets scheduled first</a>. Shallow work fills the gaps. Your priorities always come first.</div>
 
-<div data-i18n-html="article_time-blocking-journee_p12"><h3>3. It Creates Accountability</h3>
+<div data-i18n-html="article_time-blocking-journee_p12"><h3>3. <a href="/journal/rendez-compte-objectifs/">It Creates Accountability</a></h3>
 When a task is scheduled, you know exactly when it should be done. No more "I will do it later."</div>
 
 <div data-i18n-html="article_time-blocking-journee_p13"><h3>4. It Reveals the Truth</h3>

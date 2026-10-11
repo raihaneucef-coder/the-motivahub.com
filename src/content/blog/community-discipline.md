@@ -61,4 +61,4 @@ relatedArticles:
 
 <div data-i18n-html="article_community-discipline_p12">One person who knows your objective for tomorrow and will ask you tomorrow if you did it. One person you can text "I did not want to do it, but I did." That one person is the difference between a goal and a promise.</div>
 
-<div data-i18n-html="article_community-discipline_p13">Tonight, choose that one person. Tell them your one objective for tomorrow. The long ascent was never meant to be climbed alone — the social muscle is what carries you when motivation leaves.</div>
+<div data-i18n-html="article_community-discipline_p13">Tonight, choose that one person. Tell them your one objective for tomorrow. <a href="/journal/long-ascent/">The long ascent</a> was never meant to be climbed alone — <a href="/journal/social-muscle/">the social muscle</a> is what carries you when motivation leaves.</div>

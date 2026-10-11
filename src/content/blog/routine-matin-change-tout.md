@@ -46,7 +46,7 @@ relatedArticles:
 
 <div data-i18n-html="article_routine-matin-change-tout_p4"><h2>Why the Morning Matters</h2></div>
 
-<div data-i18n-html="article_routine-matin-change-tout_p5">Your willpower is highest in the morning. Your decision-making is sharpest. Your distractions are fewest. This is not opinion — it is neuroscience.</div>
+<div data-i18n-html="article_routine-matin-change-tout_p5"><a href="/journal/environnement-beat-volonte/">Your willpower is highest in the morning</a>. Your decision-making is sharpest. Your distractions are fewest. This is not opinion — it is neuroscience.</div>
 
 <div data-i18n-html="article_routine-matin-change-tout_p6">As the day progresses, your willpower depletes. By evening, you are running on fumes. That is why you make poor decisions at night and good decisions in the morning.</div>
 
@@ -74,7 +74,7 @@ Your mind needs direction. Without clarity, you react to whatever shows up. With
 
 <div data-i18n-html="article_routine-matin-change-tout_p13"><h3>3. Growth (10-20 minutes)</h3>
 Your mind needs nourishment. Feed it something that makes you better.
-- Read 10 pages of a book
+- <a href="/journal/lire-divertissement/">Read 10 pages of a book</a>
 - Listen to an educational podcast
 - Study a new skill
 - Practice a language</div>

@@ -60,14 +60,14 @@ Shutting down. Walking away. Giving the silent treatment. This is the relationsh
 
 <div data-i18n-html="article_resolution-conflits_p9"><h2>How to Fight Fair</h2></div>
 
-<div data-i18n-html="article_resolution-conflits_p10"><h3>1. Use "I" Statements</h3>
+<div data-i18n-html="article_resolution-conflits_p10"><h3>1. <a href="/journal/love-is-a-practice/">Use "I" Statements</a></h3>
 "I feel hurt when..." instead of "You always..." This takes ownership without blaming.</div>
 
 <div data-i18n-html="article_resolution-conflits_p11"><h3>2. Stay on Topic</h3>
 Do not bring up past grievances. Focus on the current issue. One argument at a time.</div>
 
 <div data-i18n-html="article_resolution-conflits_p12"><h3>3. Take Breaks</h3>
-If emotions run too high, take a 20-minute break. Come back when you are calm. Never fight when you are flooded with emotion.</div>
+If emotions run too high, take a 20-minute break. <a href="/journal/gestion-energie/">Come back when you are calm</a>. Never fight when you are flooded with emotion.</div>
 
 <div data-i18n-html="article_resolution-conflits_p13"><h3>4. Listen to Understand</h3>
 Your goal is not to win. Your goal is to understand. When you understand the other person's perspective, resolution becomes possible.</div>

@@ -47,12 +47,12 @@ relatedArticles:
 
 <div data-i18n-html="article_eat-the-frog_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_eat-the-frog_p4">The frog is your hardest, most important task — the one you are most likely to procrastinate on. Eating it first means doing it before anything else.</div>
+<div data-i18n-html="article_eat-the-frog_p4">The frog is your hardest, most important task — the one you are <a href="/journal/real-reason-you-procrastinate/">most likely to procrastinate on</a>. Eating it first means doing it before anything else.</div>
 
 <div data-i18n-html="article_eat-the-frog_p5"><h2>Why the Frog Works</h2></div>
 
 <div data-i18n-html="article_eat-the-frog_p6"><h3>1. Willpower Is Finite</h3>
-Your willpower is highest in the morning. By the afternoon, it is depleted. If you save the hard task for later, you will not have the energy to do it well.</div>
+Your <a href="/journal/gestion-energie/">willpower is highest in the morning</a>. By the afternoon, it is depleted. If you save the hard task for later, you will not have the energy to do it well.</div>
 
 <div data-i18n-html="article_eat-the-frog_p7"><h3>2. It Creates Momentum</h3>
 Completing the hardest task first gives you a sense of accomplishment that carries through the rest of the day. Everything else feels easy by comparison.</div>

@@ -62,10 +62,10 @@ Animal studies show that fasting extends lifespan. Human studies are ongoing, bu
 <div data-i18n-html="article_jeune-intermittent_p10"><h2>Common Mistakes</h2></div>
 
 <div data-i18n-html="article_jeune-intermittent_p11"><h3>1. Eating Too Much During the Eating Window</h3>
-IF is not a license to eat junk food. You still need to eat nutritious meals.</div>
+IF is not a license to eat junk food. You still need to <a href="/journal/the-plate-that-keeps-you-steady/">eat nutritious meals</a>.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p12"><h3>2. Not Drinking Enough Water</h3>
-Fasting does not mean dehydrating. Drink plenty of water, black coffee, or tea during your fasting window.</div>
+<a href="/journal/hydratation-performance/">Fasting does not mean dehydrating</a>. Drink plenty of water, black coffee, or tea during your fasting window.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p13"><h3>3. Starting Too Aggressively</h3>
 Start with 12:12 (fast 12 hours, eat 12 hours) and gradually increase to 16:8.</div>

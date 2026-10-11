@@ -48,12 +48,12 @@ relatedArticles:
 
 <div data-i18n-html="article_move-daily-not-perfectly_p5">Ten minutes of walking is not too small to count. It is the vote that keeps the identity alive: I am someone who moves. Twenty squats in your living room are not embarrassing; they are evidence that the streak did not die today.</div>
 
-<div data-i18n-html="article_move-daily-not-perfectly_p6">The goal is not to impress anyone. The goal is to never have a zero day.</div>
+<div data-i18n-html="article_move-daily-not-perfectly_p6">The goal is not to impress anyone. The goal is to <a href="/journal/ne-brise-jamais-chaine/">never have a zero day</a>.</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p7">Build the floor so low you cannot fail it:</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p8">- <strong>Walk after one meal.</strong> Not for steps, for signal — the day includes movement.
-- <strong>One mobility minute in the morning.</strong> Neck, shoulders, hips. Your future joints will thank you quietly.
+- <strong>One mobility minute <a href="/journal/routine-matin-sante/">in the morning</a>.</strong> Neck, shoulders, hips. Your future joints will thank you quietly.
 - <strong>One hard effort a week.</strong> Enough to remember that discomfort is survivable.</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p9">You will have weeks when this is all you do. That is not lost progress. That is progress protected.</div>

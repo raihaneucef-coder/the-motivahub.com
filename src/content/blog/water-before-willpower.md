@@ -46,11 +46,11 @@ relatedArticles:
 
 <div data-i18n-html="article_water-before-willpower_p4">Headache in the afternoon, hunger an hour after lunch, foggy thinking at 3 PM — before you fix any of these with discipline, fix them with water.</div>
 
-<div data-i18n-html="article_water-before-willpower_p5"><strong>Your brain is mostly water. When you are a little dry, it works a little worse.</strong> Not dramatically, just enough to make everything feel harder than it is.</div>
+<div data-i18n-html="article_water-before-willpower_p5"><strong>Your <a href="/journal/hydratation-performance/">brain is mostly water</a>. When you are a little dry, it works a little worse.</strong> Not dramatically, just enough to make everything feel harder than it is.</div>
 
 <div data-i18n-html="article_water-before-willpower_p6">Make it easy to drink:</div>
 
-<div data-i18n-html="article_water-before-willpower_p7">- <strong>Start the day with water.</strong> Before coffee, drink a glass. You woke up dry.
+<div data-i18n-html="article_water-before-willpower_p7">- <strong><a href="/journal/fuel-before-willpower/">Start the day with water</a>.</strong> Before coffee, drink a glass. You woke up dry.
 - <strong>Keep it visible.</strong> A bottle on the desk is a reminder your brain respects.
 - <strong>Drink before you feel thirsty.</strong> Thirst is a late signal, not an early one.</div>
 

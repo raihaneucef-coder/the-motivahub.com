@@ -1,0 +1,42 @@
+[
+  {"slug":"echec-retroaction","links":[
+    {"p":"p4","en":"Failure is not the opposite of success","fr":"Il en fait partie","t":"the-comeback-is-stronger"},
+    {"p":"p7","en":"It Builds Resilience","fr":"Il renforce la résilience","t":"resilience-mentale"}
+  ]},
+  {"slug":"environnement-beat-volonte","links":[
+    {"p":"p8","en":"It is better design","fr":"une meilleure conception","t":"make-good-habits-obvious"},
+    {"p":"p6","en":"Willpower is like a muscle","fr":"La volonté est comme un muscle","t":"gestion-energie"}
+  ]},
+  {"slug":"fond-urgence","links":[
+    {"p":"p12","en":"create a debt spiral","fr":"peut créer une spirale","t":"debt-is-a-story"},
+    {"p":"p8","en":"Set up an automatic transfer","fr":"Mettez en place un virement automatique","t":"regle-50-30-20"}
+  ]},
+  {"slug":"force-mentale-sport","links":[
+    {"p":"p15","en":"Every failure teaches you something","fr":"Chaque échec vous apprend quelque chose","t":"echec-retroaction"},
+    {"p":"p7","en":"Believing in your ability","fr":"Croire en vos capacités","t":"confiance-inbranlable"}
+  ]},
+  {"slug":"gestion-energie","links":[
+    {"p":"p15","en":"Start with your most important task","fr":"Commencez par votre tâche la plus importante","t":"eat-the-frog"},
+    {"p":"p17","en":"Avoid screens before bed","fr":"Évitez les écrans avant de dormir","t":"detox-numerique"}
+  ]},
+  {"slug":"habitude-5-min-relations","links":[
+    {"p":"p5","en":"the enemy of connection","fr":"de la connexion","t":"detox-numerique"},
+    {"p":"p11","en":"give someone your full attention","fr":"votre attention totale pendant 5 minutes","t":"love-is-a-practice"}
+  ]},
+  {"slug":"habitudes-mentales-performants","links":[
+    {"p":"p11","en":"Systems are routes","fr":"Les systèmes sont des itinéraires","t":"systemes-battent-motivation"},
+    {"p":"p15","en":"They Protect Their Energy","fr":"Ils protègent leur énergie","t":"gestion-energie"}
+  ]},
+  {"slug":"histoire-athlete-recommence","links":[
+    {"p":"p9","en":"she could start over","fr":"elle pouvait recommencer","t":"the-comeback-is-stronger"},
+    {"p":"p7","en":"She started training again","fr":"Elle a recommencé","t":"beginner-again"}
+  ]},
+  {"slug":"histoire-professeur","links":[
+    {"p":"p9","en":"Impact is not measured in money","fr":"ne se mesure pas en argent","t":"definition-reussite"},
+    {"p":"p6","en":"believe in themselves","fr":"croire en eux-mêmes","t":"confiance-inbranlable"}
+  ]},
+  {"slug":"hydratation-performance","links":[
+    {"p":"p2","en":"performance enhancer","fr":"le booster","t":"water-before-willpower"},
+    {"p":"p6","en":"reduces cognitive function","fr":"réduit les fonctions cognitives","t":"gestion-energie"}
+  ]}
+]

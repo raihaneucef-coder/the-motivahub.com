@@ -74,7 +74,7 @@ relatedArticles:
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p12">Turning toward yourself is not selfishness. It is responsibility.</div>
 
-<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p13">The Shaolin master is blunt about it: <strong>self-mastery rests on two pillars — discipline and patience.</strong> Discipline makes you do what is right when you do not feel like doing it. Patience stops you from quitting when the results arrive late.</div>
+<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p13">The Shaolin master is blunt about it: <strong>self-mastery rests on two pillars — <a href="/journal/motivation-fades-systems-dont/">discipline and patience</a>.</strong> Discipline makes you do what is right when you do not feel like doing it. Patience stops you from quitting when the results arrive late.</div>
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p14">Stop monitoring other people's lives. Their success, their speed, their noise is not your path. Your only work is to return, again and again, to your own practice.</div>
 
@@ -99,7 +99,7 @@ relatedArticles:
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p23">No story about it. No announcement. No applause you are quietly waiting for. Just the action, repeated.</div>
 
-<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p24">This is how resilience is actually built: not by describing what you are going to do, but by doing it when nobody is watching. Mountains do not move with noise. They move with consistency.</div>
+<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p24">This is how <a href="/journal/resilience-mentale/">resilience is actually built</a>: not by describing what you are going to do, but by doing it when nobody is watching. Mountains do not move with noise. They move with consistency.</div>
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p25">Your challenge for the next 7 days:
 1. Wake up thirty minutes earlier — and tell no one.

@@ -44,7 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-lent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_voyage-lent_p4">The slow traveler spends 2 weeks in one place. They learn the neighborhood, eat at local spots, and leave with real memories — not just photos.</div>
+<div data-i18n-html="article_voyage-lent_p4">The slow traveler spends 2 weeks in one place. They learn the neighborhood, eat at local spots, and <a href="/journal/pack-light-stay-long/">leave with real memories</a> — not just photos.</div>
 
 <div data-i18n-html="article_voyage-lent_p5"><h2>What Is Slow Travel?</h2></div>
 
@@ -59,7 +59,7 @@ When you stay in one place, you meet people. You learn names. You build relation
 No early morning flights. No packed itineraries. No rushing from one place to the next. Slow travel is relaxing.</div>
 
 <div data-i18n-html="article_voyage-lent_p10"><h3>3. More Authentic</h3>
-You discover the hidden gems — the local restaurant, the quiet park, the neighborhood market — that tourists never see.</div>
+You discover the <a href="/journal/the-detour-is-the-destination/">hidden gems</a> — the local restaurant, the quiet park, the neighborhood market — that tourists never see.</div>
 
 <div data-i18n-html="article_voyage-lent_p11"><h3>4. Cheaper</h3>
 Staying in one place is cheaper than constantly moving. You can negotiate weekly rates, cook at home, and avoid transportation costs.</div>

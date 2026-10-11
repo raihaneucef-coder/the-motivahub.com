@@ -52,7 +52,7 @@ relatedArticles:
 <div data-i18n-html="article_force-mentale-sport_p6"><h2>The 4 Pillars of Mental Toughness</h2></div>
 
 <div data-i18n-html="article_force-mentale-sport_p7"><h3>1. Confidence</h3>
-Believing in your ability, even when things are not going well. Confidence is not arrogance — it is trust in your preparation.</div>
+<a href="/journal/confiance-inbranlable/">Believing in your ability</a>, even when things are not going well. Confidence is not arrogance — it is trust in your preparation.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p8"><h3>2. Control</h3>
 Focusing on what you can control (your effort, your attitude, your preparation) and letting go of what you cannot (the opponent, the referee, the weather).</div>
@@ -75,7 +75,7 @@ Before competing, visualize yourself performing at your best. See the plays, fee
 A consistent routine before competition calms your nerves and focuses your mind. It could be breathing, music, or a specific warm-up.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p15"><h3>4. Reframe Failure</h3>
-Failure is not the enemy. It is feedback. Every failure teaches you something. The mentally tough athlete learns from failure and comes back stronger.</div>
+Failure is not the enemy. It is feedback. <a href="/journal/echec-retroaction/">Every failure teaches you something</a>. The mentally tough athlete learns from failure and comes back stronger.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p16"><blockquote><em>Talent wins games, but teamwork and intelligence win championships. — Michael Jordan</em></blockquote></div>
 

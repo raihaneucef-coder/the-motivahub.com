@@ -45,11 +45,11 @@ relatedArticles:
 
 <div data-i18n-html="article_recovery-is-training_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_recovery-is-training_p4">Muscles do not grow in the gym. They grow in the hours after, when you sleep, eat, and do nothing. Without recovery, training is just damage.</div>
+<div data-i18n-html="article_recovery-is-training_p4"><a href="/journal/consistance-bat-intensite/">Muscles do not grow in the gym</a>. They grow in the hours after, when you sleep, eat, and do nothing. Without recovery, training is just damage.</div>
 
 <div data-i18n-html="article_recovery-is-training_p5"><strong>Recovery is not time off. It is part of the program.</strong></div>
 
-<div data-i18n-html="article_recovery-is-training_p6">The best athletes are not the ones who train the most. They are the ones who recover the best. They sleep eight hours, they eat enough, they take the easy day easy so the hard day can be hard.</div>
+<div data-i18n-html="article_recovery-is-training_p6"><a href="/journal/force-mentale-sport/">The best athletes</a> are not the ones who train the most. They are the ones who recover the best. They sleep eight hours, they eat enough, they take the easy day easy so the hard day can be hard.</div>
 
 <div data-i18n-html="article_recovery-is-training_p7">Try it:</div>
 

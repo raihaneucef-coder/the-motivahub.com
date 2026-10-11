@@ -50,7 +50,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p6">What you do not see: the years of practice, the failures, the rejections, the sacrifices, the loneliness.</div>
 
-<div data-i18n-html="article_mythe-reussite-instantanee_p7">Success is like an iceberg — only 10% is visible. The other 90% is underwater.</div>
+<div data-i18n-html="article_mythe-reussite-instantanee_p7"><a href="/journal/success-leaves-traces/">Success is like an iceberg</a> — only 10% is visible. The other 90% is underwater.</div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p8"><h2>Examples</h2></div>
 
@@ -65,7 +65,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p12">1. <strong>It takes time</strong> — years, not months
 2. <strong>It takes failure</strong> — lots of it
-3. <strong>It takes persistence</strong> — continuing when everyone else stops
+3. <strong><a href="/journal/long-ascent/">It takes persistence</a></strong> — continuing when everyone else stops
 4. <strong>It takes patience</strong> — trusting the process even when results are invisible</div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p13"><blockquote><em>Success is not final, failure is not fatal: it is the courage to continue that counts. — Winston Churchill</em></blockquote></div>

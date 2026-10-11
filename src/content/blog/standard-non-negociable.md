@@ -69,13 +69,13 @@ relatedArticles:
 <div data-i18n-html="article_standard-non-negociable_p9"><h2>Why Non-Negotiable Standards Work</h2></div>
 
 <div data-i18n-html="article_standard-non-negociable_p10"><h3>1. They Eliminate Decision Fatigue</h3>
-Every decision you make drains willpower. By making the behavior automatic, you save your willpower for things that actually require decisions.</div>
+Every decision you make <a href="/journal/environnement-beat-volonte/">drains willpower</a>. By making the behavior automatic, you save your willpower for things that actually require decisions.</div>
 
 <div data-i18n-html="article_standard-non-negociable_p11"><h3>2. They Remove Negotiation</h3>
 When the standard is negotiable, you spend energy debating: "Should I exercise today? I am tired. Maybe tomorrow." When it is non-negotiable, the debate does not happen. You just do it.</div>
 
 <div data-i18n-html="article_standard-non-negociable_p12"><h3>3. They Build Identity</h3>
-Non-negotiable standards are votes for your identity. Every time you follow the rule, you prove to yourself that you are the kind of person who does this.</div>
+Non-negotiable standards are <a href="/journal/identity-precedes-outcome/">votes for your identity</a>. Every time you follow the rule, you prove to yourself that you are the kind of person who does this.</div>
 
 <div data-i18n-html="article_standard-non-negociable_p13"><h3>4. They Create Momentum</h3>
 One non-negotiable standard creates momentum for others. When you exercise every morning without fail, it becomes easier to eat well. When you eat well, it becomes easier to sleep well. The standards compound.</div>

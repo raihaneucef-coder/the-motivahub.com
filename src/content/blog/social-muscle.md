@@ -45,7 +45,7 @@ relatedArticles:
 
 <div data-i18n-html="article_social-muscle_p4"><h2>Social Connection Is a Skill</h2></div>
 
-<div data-i18n-html="article_social-muscle_p5">We treat sociability as a trait: you are either extroverted or not. The data says the opposite. Sociability is a muscle. The first rep is always awkward. The tenth is tolerable. The hundredth is warm.</div>
+<div data-i18n-html="article_social-muscle_p5">We treat sociability as a trait: you are either extroverted or not. The data says the opposite. <a href="/journal/long-ascent/">Sociability is a muscle</a>. The first rep is always awkward. The tenth is tolerable. The hundredth is warm.</div>
 
 <div data-i18n-html="article_social-muscle_p6">Consistent creators are not the most talented speakers. They are the most consistent inviters. They invite one more person to lunch. They ask one more question. They stay one minute longer when it would be easier to leave.</div>
 
@@ -61,4 +61,4 @@ relatedArticles:
 
 <div data-i18n-html="article_social-muscle_p12">The algorithm gives you an audience. Community gives you a room. An audience claps. A community notices when you are missing.</div>
 
-<div data-i18n-html="article_social-muscle_p13">Tonight, send one message you have been postponing. Not to be seen, but to see someone. The social muscle does not grow in the gym of viral clips — it grows in the small, unrecorded rep of reaching out.</div>
+<div data-i18n-html="article_social-muscle_p13">Tonight, <a href="/journal/regle-1-pourcent/">send one message you have been postponing</a>. Not to be seen, but to see someone. The social muscle does not grow in the gym of viral clips — it grows in the small, unrecorded rep of reaching out.</div>

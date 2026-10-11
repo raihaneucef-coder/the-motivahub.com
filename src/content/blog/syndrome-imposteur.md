@@ -57,7 +57,7 @@ relatedArticles:
 You set impossibly high standards and then feel like a failure when you do not meet them perfectly.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p9"><h3>2. Comparing Yourself to Others</h3>
-You compare your behind-the-scenes to everyone else's highlight reel.</div>
+You <a href="/journal/comparison-trap/">compare your behind-the-scenes</a> to everyone else's highlight reel.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p10"><h3>3. Fear of Success</h3>
 Deep down, you fear that success will raise expectations you cannot sustain.</div>
@@ -80,7 +80,7 @@ Talk to someone you trust. You will discover that almost everyone has felt the s
 Failure is not evidence of being a fraud. It is evidence of trying. And trying is what separates you from everyone who never attempted anything.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p17"><h3>5. Accept Uncertainty</h3>
-You do not need to feel confident to act confidently. Action comes first. Confidence follows.</div>
+You do not need to feel confident to act confidently. <a href="/journal/confidence-is-a-record-not-a-feeling/">Action comes first</a>. Confidence follows.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p18"><blockquote><em>I have written 11 books, but each time I think, "Uh oh, they're going to find out now. I've run a game on everybody." — Maya Angelou</em></blockquote></div>
 

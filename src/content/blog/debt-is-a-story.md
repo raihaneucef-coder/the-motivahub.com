@@ -43,11 +43,11 @@ relatedArticles:
 
 <div data-i18n-html="article_debt-is-a-story_p2">Debt feels like a character flaw — it is not. It is a story with numbers. Rewrite the numbers and the story changes.</div>
 
-<div data-i18n-html="article_debt-is-a-story_p3">Debt whispers that you are bad with money. That is not helpful, and it is not true.</div>
+<div data-i18n-html="article_debt-is-a-story_p3">Debt whispers that you are <a href="/journal/paycheck-trap/">bad with money</a>. That is not helpful, and it is not true.</div>
 
 <div data-i18n-html="article_debt-is-a-story_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_debt-is-a-story_p4">Debt is not a verdict on who you are; it is the result of a story you lived: an emergency, a celebration, a few months where life cost more than it gave. The story can be rewritten, but not with shame — with a plan.</div>
+<div data-i18n-html="article_debt-is-a-story_p4">Debt is not a verdict on who you are; it is the result of a story you lived: <a href="/journal/fond-urgence/">an emergency</a>, a celebration, a few months where life cost more than it gave. The story can be rewritten, but not with shame — with a plan.</div>
 
 <div data-i18n-html="article_debt-is-a-story_p5"><strong>Make the debt visible, then make it small.</strong> List every balance, rate, and minimum. No judgment, just data. Then choose one method and stay with it:</div>
 

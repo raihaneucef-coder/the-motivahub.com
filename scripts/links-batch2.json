@@ -1,0 +1,42 @@
+[
+  {"slug":"growth-feels-like-breaking","links":[
+    {"p":"p6","en":"the becoming","fr":"le devenir","t":"journal-croissance"},
+    {"p":"p11","en":"You are becoming","fr":"Vous devenez","t":"long-ascent"}
+  ]},
+  {"slug":"how-to-argue-without-breaking","links":[
+    {"p":"p3","en":"Every relationship will argue","fr":"Toute relation connaîtra des disputes","t":"love-is-a-practice"},
+    {"p":"p7","en":"The repair matters more than the perfection","fr":"La réparation compte plus que la perfection","t":"resolution-conflits"}
+  ]},
+  {"slug":"invest-like-beginner","links":[
+    {"p":"p4","en":"delay investing","fr":"tardent à investir","t":"investir-debutant"},
+    {"p":"p5","en":"owning a piece of it","fr":"posséder une partie","t":"earn-keep-grow"}
+  ]},
+  {"slug":"love-is-a-practice","links":[
+    {"p":"p5","en":"the five minutes of real listening","fr":"cinq minutes","t":"habitude-5-min-relations"},
+    {"p":"p7","en":"one unsolicited appreciation","fr":"une appréciation non sollicitée","t":"people-who-raise-your-floor"}
+  ]},
+  {"slug":"make-good-habits-obvious","links":[
+    {"p":"p7","en":"Put the book on your pillow","fr":"Mettez le livre sur votre oreiller","t":"how-to-read-30-books-a-year"},
+    {"p":"p10","en":"Design beats discipline","fr":"Le design bat","t":"regle-deux-minutes"}
+  ]},
+  {"slug":"make-it-measurable-make-it-mine","links":[
+    {"p":"p9","en":"Write the number","fr":"Écrivez le numéro","t":"pouvoir-ecrire-objectifs"},
+    {"p":"p6","en":"write 200 words","fr":"écrivez 200 mots","t":"retroengineering-objectifs"}
+  ]},
+  {"slug":"motivation-fades-systems-dont","links":[
+    {"p":"p9","en":"a version of yourself","fr":"une version de vous-même","t":"identity-precedes-outcome"},
+    {"p":"p10","en":"every day, for a year","fr":"chaque jour, pendant un an","t":"habitudes-mentales-performants"}
+  ]},
+  {"slug":"move-daily-not-perfectly","links":[
+    {"p":"p8","en":"in the morning","fr":"le matin","t":"routine-matin-sante"},
+    {"p":"p6","en":"never have a zero day","fr":"jamais avoir de jour zéro","t":"ne-brise-jamais-chaine"}
+  ]},
+  {"slug":"nervous-system-is-the-boss","links":[
+    {"p":"p10","en":"to be calm","fr":"être calme","t":"calm-is-a-superpower"},
+    {"p":"p9","en":"Move for two minutes","fr":"Bougez pendant deux minutes","t":"move-daily-not-perfectly"}
+  ]},
+  {"slug":"one-target-at-a-time","links":[
+    {"p":"p8","en":"Reverse-engineer the road","fr":"Concevoir la route à rebours","t":"retroengineering-objectifs"},
+    {"p":"p8","en":"Name the ring precisely","fr":"Nommez l'anneau avec précision","t":"pouvoir-ecrire-objectifs"}
+  ]}
+]

@@ -44,7 +44,7 @@ relatedArticles:
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_pourquoi-profond-objectifs_p4">The goal behind the goal is the real reason you are working toward something. And when you find it, you become unstoppable.</div>
+<div data-i18n-html="article_pourquoi-profond-objectifs_p4"><a href="/journal/the-goal-behind-the-goal/">The goal behind the goal</a> is the real reason you are working toward something. And when you find it, you become unstoppable.</div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p5"><h2>Why the Deep Why Matters</h2></div>
 
@@ -58,7 +58,7 @@ The deep why clarifies what matters. When you know why you are doing something, 
 A goal without meaning is just a task. A goal with meaning is a mission. The deep why transforms work into purpose.</div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p9"><h3>4. Identity</h3>
-The deep why connects your goal to who you want to become. "I want to be the kind of parent who is healthy and present" is more powerful than "I want to lose 10 kg."</div>
+The deep why connects your goal to <a href="/journal/identity-precedes-outcome/">who you want to become</a>. "I want to be the kind of parent who is healthy and present" is more powerful than "I want to lose 10 kg."</div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p10"><h2>How to Find Your Deep Why</h2></div>
 

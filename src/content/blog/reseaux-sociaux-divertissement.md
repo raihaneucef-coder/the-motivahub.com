@@ -54,7 +54,7 @@ relatedArticles:
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p7"><h3>1. Set Time Limits</h3>
 Use app timers to limit daily usage. 30 minutes per day is enough to stay connected without getting consumed.</div>
 
-<div data-i18n-html="article_reseaux-sociaux-divertissement_p8"><h3>2. Curate Your Feed</h3>
+<div data-i18n-html="article_reseaux-sociaux-divertissement_p8"><h3>2. <a href="/journal/proof-over-noise/">Curate Your Feed</a></h3>
 Follow accounts that inspire, educate, or make you laugh. Unfollow accounts that make you feel inadequate, angry, or anxious.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p9"><h3>3. Post with Purpose</h3>
@@ -73,6 +73,6 @@ Social media is a tool — not a master. Use it to learn, connect, and share. Do
 - Do not use it in the last hour before bed
 - Replace scrolling with reading, exercise, or connection</div>
 
-<div data-i18n-html="article_reseaux-sociaux-divertissement_p14"><blockquote><em>Comparison is the thief of joy. — Theodore Roosevelt</em></blockquote></div>
+<div data-i18n-html="article_reseaux-sociaux-divertissement_p14"><blockquote><em><a href="/journal/comparison-trap/">Comparison is the thief of joy</a>. — Theodore Roosevelt</em></blockquote></div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p16"><strong>Use social media wisely today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds the habits that protect your attention. Track your screen time with our <a href="/tracker/">Habit Tracker</a>.</div>

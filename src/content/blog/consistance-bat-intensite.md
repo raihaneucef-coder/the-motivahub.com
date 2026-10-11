@@ -57,13 +57,13 @@ relatedArticles:
 <div data-i18n-html="article_consistance-bat-intensite_p7"><h2>Why Consistency Works</h2></div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p8"><h3>1. Habit Formation</h3>
-When you do something daily, it becomes automatic. You do not need willpower to show up — it is just what you do.</div>
+When you do something daily, <a href="/journal/systemes-battent-motivation/">it becomes automatic</a>. You do not need willpower to show up — it is just what you do.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p9"><h3>2. Progressive Overload</h3>
 Consistent training allows gradual improvement. Your body adapts, strengthens, and grows — but only if you give it consistent stimulus.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p10"><h3>3. Skill Development</h3>
-Skills are built through repetition. You cannot master a skill by practicing occasionally. You master it by practicing daily.</div>
+<a href="/journal/strength-is-a-skill/">Skills are built through repetition</a>. You cannot master a skill by practicing occasionally. You master it by practicing daily.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p11"><h3>4. Mental Toughness</h3>
 Showing up on days you do not feel like it builds mental toughness. This toughness transfers to every area of your life.</div>

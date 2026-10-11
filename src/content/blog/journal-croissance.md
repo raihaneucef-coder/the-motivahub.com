@@ -66,13 +66,13 @@ relatedArticles:
 Writing forces you to examine your thoughts objectively. You cannot hide from what you put on paper.</div>
 
 <div data-i18n-html="article_journal-croissance_p7"><h3>2. Emotional Processing</h3>
-Journaling releases emotions that are trapped inside. Writing about anger, fear, or sadness helps you process and let go.</div>
+Journaling <a href="/journal/puissance-dialogue-interieur/">releases emotions that are trapped inside</a>. Writing about anger, fear, or sadness helps you process and let go.</div>
 
 <div data-i18n-html="article_journal-croissance_p8"><h3>3. Problem Solving</h3>
 When you write about a problem, solutions often appear. The act of writing engages your brain differently than thinking.</div>
 
 <div data-i18n-html="article_journal-croissance_p9"><h3>4. Goal Clarity</h3>
-Writing your goals makes them real. Writing your progress keeps you accountable.</div>
+<a href="/journal/pouvoir-ecrire-objectifs/">Writing your goals makes them real</a>. Writing your progress keeps you accountable.</div>
 
 <div data-i18n-html="article_journal-croissance_p10"><h2>How to Start</h2></div>
 

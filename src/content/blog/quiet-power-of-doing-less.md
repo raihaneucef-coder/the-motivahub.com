@@ -67,7 +67,7 @@ relatedArticles:
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p15">The modern day is a sieve. Notifications, meetings, messages — the water of your attention drains out before it can fill anything.</div>
 
-<div data-i18n-html="article_quiet-power-of-doing-less_p16">The fix is architectural, not motivational. You do not need more willpower. You need a protected hour:</div>
+<div data-i18n-html="article_quiet-power-of-doing-less_p16">The fix is architectural, not motivational. You do not need more willpower. You need <a href="/journal/deep-work-focus/">a protected hour</a>:</div>
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p17">- Choose one hour of the day and defend it like a border
 - No phone, no email, no conversation
@@ -89,6 +89,6 @@ relatedArticles:
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p25"><h2>Start Tonight</h2></div>
 
-<div data-i18n-html="article_quiet-power-of-doing-less_p26">Tonight, write tomorrow's list. Then cross out everything that is not the one thing. Keep the one thing at the top. When the morning comes, do that thing first — before the messages, before the news, before the world gets its hands on your attention.</div>
+<div data-i18n-html="article_quiet-power-of-doing-less_p26">Tonight, write tomorrow's list. Then cross out everything that is not the one thing. Keep the one thing at the top. When the morning comes, <a href="/journal/eat-the-frog/">do that thing first</a> — before the messages, before the news, before the world gets its hands on your attention.</div>
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p27">The quiet power of doing less is that it returns to you the only thing that was ever yours: your focus.</div>

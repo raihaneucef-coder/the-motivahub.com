@@ -1,0 +1,42 @@
+[
+  {"slug":"success-is-a-direction","links":[
+    {"p":"p8","en":"That is success","fr":"le succès","t":"success-leaves-traces"},
+    {"p":"p6","en":"am I behind","fr":"suis-je en retard","t":"mythe-reussite-instantanee"}
+  ]},
+  {"slug":"success-leaves-traces","links":[
+    {"p":"p6","en":"when no one was watching","fr":"lorsque personne ne le regardait","t":"psychology-of-money-business"},
+    {"p":"p10","en":"Trophies inspire","fr":"Les trophées inspirent","t":"mythe-reussite-instantanee"}
+  ]},
+  {"slug":"the-comeback-is-stronger","links":[
+    {"p":"p9","en":"One lesson, written down","fr":"Une leçon écrite","t":"journal-croissance"},
+    {"p":"p7","en":"learned how to rise","fr":"la personne qui a appris","t":"long-ascent"}
+  ]},
+  {"slug":"the-cost-of-success","links":[
+    {"p":"p4","en":"boredom, repetition","fr":"la répétition et dire non","t":"discipline-depass-motivation"},
+    {"p":"p7","en":"the reward without the rent","fr":"la récompense sans le loyer","t":"mythe-reussite-instantanee"}
+  ]},
+  {"slug":"the-detour-is-the-destination","links":[
+    {"p":"p4","en":"get lost for an hour","fr":"se perdre une heure","t":"voyage-lent"},
+    {"p":"p2","en":"The best travel stories","fr":"Les meilleures histoires de voyage","t":"voyage-solo"}
+  ]},
+  {"slug":"the-goal-behind-the-goal","links":[
+    {"p":"p8","en":"Write your goal","fr":"Écrivez votre objectif","t":"rendez-compte-objectifs"},
+    {"p":"p9","en":"The first goal","fr":"Le premier objectif","t":"smart-goals"}
+  ]},
+  {"slug":"the-letter-he-never-sent","links":[
+    {"p":"p10","en":"Proof over noise","fr":"Preuve sur le bruit","t":"proof-over-noise"},
+    {"p":"p6","en":"the letters got shorter","fr":"les lettres sont devenues plus courtes","t":"histoire-professeur"}
+  ]},
+  {"slug":"the-movie-that-changed-your-week","links":[
+    {"p":"p8","en":"Before you press play","fr":"sur Play, demandez","t":"regarder-intentionnellement"},
+    {"p":"p5","en":"Entertainment that profits you","fr":"Un divertissement qui vous profite","t":"play-on-purpose"}
+  ]},
+  {"slug":"the-plate-that-keeps-you-steady","links":[
+    {"p":"p4","en":"energy spikes and crashes","fr":"votre énergie monte en flèche","t":"fuel-before-willpower"},
+    {"p":"p6","en":"Half vegetables","fr":"Demi légumes","t":"meal-prep-dimanche"}
+  ]},
+  {"slug":"the-shop-that-stayed-open","links":[
+    {"p":"p9","en":"Proof over noise","fr":"La preuve contre le bruit","t":"proof-over-noise"},
+    {"p":"p6","en":"a promise to the street","fr":"une promesse faite à la rue","t":"histoire-concierge-millionnaire"}
+  ]}
+]

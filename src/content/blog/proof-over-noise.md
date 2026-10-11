@@ -50,7 +50,7 @@ relatedArticles:
 
 <div data-i18n-html="article_proof-over-noise_p5">But there is a third menu, and almost nobody serves it by default: <strong>proof.</strong></div>
 
-<div data-i18n-html="article_proof-over-noise_p6">Evidence that ordinary people — with ordinary mornings, ordinary doubts, and no special genetics — have walked the exact road you are standing at the start of. The student who failed twice and passed on the third attempt with distinction. The runner who began at forty with knees that complained. The founder who ate the same cheap meal for a year so the dream could eat first.</div>
+<div data-i18n-html="article_proof-over-noise_p6">Evidence that <a href="/journal/she-started-at-60/">ordinary people</a> — with ordinary mornings, ordinary doubts, and no special genetics — have walked the exact road you are standing at the start of. The student who failed twice and passed on the third attempt with distinction. The runner who began at forty with knees that complained. The founder who ate the same cheap meal for a year so the dream could eat first.</div>
 
 <div data-i18n-html="article_proof-over-noise_p7"><strong>This is not positive thinking. This is data.</strong></div>
 
@@ -58,7 +58,7 @@ relatedArticles:
 
 <div data-i18n-html="article_proof-over-noise_p9">So curate like it matters, because it does:</div>
 
-<div data-i18n-html="article_proof-over-noise_p10">- <strong>Trade one doom-scroll for one story-scroll.</strong> Same gesture, opposite effect: find one account, one newsletter, one page that documents people building rather than burning.
+<div data-i18n-html="article_proof-over-noise_p10">- <strong>Trade one doom-scroll for one story-scroll.</strong> Same gesture, opposite effect: find one account, one newsletter, one page that documents <a href="/journal/histoire-concierge-millionnaire/">people building</a> rather than burning.
 - <strong>Follow finishers, not announcers.</strong> People who show the middle of the process — the boring, unglamorous middle — teach more than those who only announce launches.
 - <strong>Collect proof in your own category.</strong> Aspiring to write? Read about writers' routines, not their fame. Building a body? Study transformations that started where yours starts.
 - <strong>Keep a private file of evidence.</strong> When you meet resilience — a friend's recovery, a stranger's comeback — save it. That file becomes ammunition for the bad weeks.

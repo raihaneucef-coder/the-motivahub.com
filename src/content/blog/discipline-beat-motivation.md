@@ -74,7 +74,7 @@ relatedArticles:
 <div data-i18n-html="article_discipline-beat-motivation_p13">- Motivation says: "I will eat healthy when I want to"
 - Discipline says: "I eat healthy because that is what I do"</div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p14">The difference is clear. Motivation is a feeling. Discipline is an identity.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p14">The difference is clear. Motivation is a feeling. <a href="/journal/identity-precedes-outcome/">Discipline is an identity</a>.</div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p15"><h2>How to Build Discipline</h2></div>
 
@@ -88,7 +88,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-beat-motivation_p20"><h3>2. Create a System</h3></div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p21">Discipline thrives on systems. When you have a system, you do not need to decide what to do — you just follow the plan.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p21"><a href="/journal/systemes-battent-motivation/">Discipline thrives on systems</a>. When you have a system, you do not need to decide what to do — you just follow the plan.</div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p22">- Wake up at 6 AM (system)
 - Put on gym clothes (system)

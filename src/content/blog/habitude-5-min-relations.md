@@ -48,7 +48,7 @@ relatedArticles:
 <div data-i18n-html="article_habitude-5-min-relations_p4"><h2>How It Works</h2></div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p5"><h3>1. Put Your Phone Away</h3>
-Not on silent. Not face-down. Away. In another room. Your phone is the enemy of connection.</div>
+Not on silent. Not face-down. Away. In another room. Your phone is <a href="/journal/detox-numerique/">the enemy of connection</a>.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p6"><h3>2. Make Eye Contact</h3>
 Look at the person. Not at the TV. Not at the wall. At them. Eye contact is the simplest form of intimacy.</div>
@@ -64,7 +64,7 @@ End the 5 minutes with one specific thing you appreciate about them. "Thank you 
 
 <div data-i18n-html="article_habitude-5-min-relations_p10"><h2>Why It Works</h2></div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it addresses the number one reason relationships fail: feeling unseen. When you give someone your full attention for 5 minutes, you are saying: "You matter. I see you. You are important to me."</div>
+<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it addresses the number one reason relationships fail: feeling unseen. When you <a href="/journal/love-is-a-practice/">give someone your full attention</a> for 5 minutes, you are saying: "You matter. I see you. You are important to me."</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p12">That is all most people need.</div>
 

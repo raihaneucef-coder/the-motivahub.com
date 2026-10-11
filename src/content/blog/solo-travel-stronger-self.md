@@ -42,11 +42,11 @@ relatedArticles:
 
 <div data-i18n-html="article_solo-travel-stronger-self_p2">Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself.</div>
 
-<div data-i18n-html="article_solo-travel-stronger-self_p3">Travel with others and you learn about the place. Travel alone and you learn about yourself.</div>
+<div data-i18n-html="article_solo-travel-stronger-self_p3">Travel with others and you learn about the place. <a href="/journal/beginner-again/">Travel alone and you learn about yourself</a>.</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_solo-travel-stronger-self_p4">When you are alone, you make every decision. Where to eat, when to sleep, whether to take the long way or the short one. No one to ask, no one to blame. It is uncomfortable and it is clarifying.</div>
+<div data-i18n-html="article_solo-travel-stronger-self_p4">When you are alone, you make every decision. Where to eat, when to sleep, whether to <a href="/journal/the-detour-is-the-destination/">take the long way</a> or the short one. No one to ask, no one to blame. It is uncomfortable and it is clarifying.</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p5"><strong>Solo travel is not lonely. It is honest.</strong></div>
 

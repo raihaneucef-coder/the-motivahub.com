@@ -55,7 +55,7 @@ relatedArticles:
 You do not need 10,000€ tomorrow. Start with 500€ — enough to cover a minor emergency. Then keep building.</div>
 
 <div data-i18n-html="article_fond-urgence_p8"><h3>2. Automate It</h3>
-Set up an automatic transfer of 10-20% of your income to a separate savings account. Treat it like a bill — non-negotiable.</div>
+<a href="/journal/regle-50-30-20/">Set up an automatic transfer</a> of 10-20% of your income to a separate savings account. Treat it like a bill — non-negotiable.</div>
 
 <div data-i18n-html="article_fond-urgence_p9"><h3>3. Keep It Separate</h3>
 Do not keep your emergency fund in your checking account. Put it in a high-yield savings account where it is accessible but not tempting.</div>
@@ -65,7 +65,7 @@ An emergency is not a sale at your favorite store. An emergency is a medical bil
 
 <div data-i18n-html="article_fond-urgence_p11"><h2>Why It Matters</h2></div>
 
-<div data-i18n-html="article_fond-urgence_p12">Without an emergency fund, unexpected expenses go on credit cards. Credit cards charge 20%+ interest. One emergency can create a debt spiral that takes years to escape.</div>
+<div data-i18n-html="article_fond-urgence_p12">Without an emergency fund, unexpected expenses go on credit cards. Credit cards charge 20%+ interest. One emergency can <a href="/journal/debt-is-a-story/">create a debt spiral</a> that takes years to escape.</div>
 
 <div data-i18n-html="article_fond-urgence_p13">With an emergency fund, unexpected expenses are inconvenient — not devastating.</div>
 

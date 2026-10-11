@@ -1,0 +1,18 @@
+[
+  {"slug":"two-friends-one-promise","links":[
+    {"p":"p10","en":"Proof over noise","fr":"Preuve sur le bruit","t":"proof-over-noise"},
+    {"p":"p9","en":"kept a promise to a friend","fr":"tenu une promesse envers un ami","t":"histoire-concierge-millionnaire"}
+  ]},
+  {"slug":"tyranny-of-the-visible-timeline","links":[
+    {"p":"p6","en":"everything that compounds","fr":"tout ce qui compose","t":"secret-reussite"},
+    {"p":"p7","en":"kept a boring, invisible process running","fr":"maintenu un processus ennuyeux et invisible","t":"viral-mindset-shift"}
+  ]},
+  {"slug":"viral-mindset-shift","links":[
+    {"p":"p2","en":"identity precedes outcome","fr":"précède le résultat","t":"identity-precedes-outcome"},
+    {"p":"p5","en":"who you believe you are","fr":"ce que vous pensez être","t":"puissance-dialogue-interieur"}
+  ]},
+  {"slug":"water-before-willpower","links":[
+    {"p":"p5","en":"brain is mostly water","fr":"Votre cerveau est principalement constitué","t":"hydratation-performance"},
+    {"p":"p7","en":"Start the day with water","fr":"Commencez la journée","t":"fuel-before-willpower"}
+  ]}
+]

@@ -48,11 +48,11 @@ relatedArticles:
 
 <div data-i18n-html="article_histoire-athlete-recommence_p6">One morning, she looked in the mirror and asked: "Is this who I am now?" The answer was no. She was not her medals. She was not her sponsorships. She was not her reputation. She was the person who earned those things — and that person was still inside her.</div>
 
-<div data-i18n-html="article_histoire-athlete-recommence_p7">She started training again. Not for medals. Not for sponsors. For herself.</div>
+<div data-i18n-html="article_histoire-athlete-recommence_p7"><a href="/journal/beginner-again/">She started training again</a>. Not for medals. Not for sponsors. For herself.</div>
 
 <div data-i18n-html="article_histoire-athlete-recommence_p8"><h2>The Comeback</h2></div>
 
-<div data-i18n-html="article_histoire-athlete-recommence_p9">Two years later, she competed again. She did not win. She finished 12th. But she cried tears of joy. Because she had proven something to herself: she could start over. She could rebuild. She was more than her worst moment.</div>
+<div data-i18n-html="article_histoire-athlete-recommence_p9">Two years later, she competed again. She did not win. She finished 12th. But she cried tears of joy. Because she had proven something to herself: <a href="/journal/the-comeback-is-stronger/">she could start over</a>. She could rebuild. She was more than her worst moment.</div>
 
 <div data-i18n-html="article_histoire-athlete-recommence_p10"><h2>The Lesson</h2></div>
 

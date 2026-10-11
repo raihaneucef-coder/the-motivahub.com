@@ -45,9 +45,9 @@ relatedArticles:
 
 <div data-i18n-html="article_invest-like-beginner_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_invest-like-beginner_p4">Most people delay investing because they believe they need to understand everything first. Experts, charts, perfect timing. Meanwhile, time — the most powerful asset — keeps moving.</div>
+<div data-i18n-html="article_invest-like-beginner_p4">Most people <a href="/journal/investir-debutant/">delay investing</a> because they believe they need to understand everything first. Experts, charts, perfect timing. Meanwhile, time — the most powerful asset — keeps moving.</div>
 
-<div data-i18n-html="article_invest-like-beginner_p5"><strong>Investing is not about predicting the future; it is about owning a piece of it.</strong> When you buy a broad index, you become a tiny owner of hundreds of businesses. Some will stumble, most will keep solving problems and growing. Your job is not to guess which one, but to stay.</div>
+<div data-i18n-html="article_invest-like-beginner_p5"><strong>Investing is not about predicting the future; it is about <a href="/journal/earn-keep-grow/">owning a piece of it</a>.</strong> When you buy a broad index, you become a tiny owner of hundreds of businesses. Some will stumble, most will keep solving problems and growing. Your job is not to guess which one, but to stay.</div>
 
 <div data-i18n-html="article_invest-like-beginner_p6">Start with what you understand and can keep:</div>
 

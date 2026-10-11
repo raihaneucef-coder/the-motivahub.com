@@ -53,7 +53,7 @@ Flights and hotels are 30-50% cheaper during off-peak seasons. The weather might
 <div data-i18n-html="article_voyage-budget_p6"><h3>2. Use Budget Accommodation</h3>
 Hostels, guesthouses, and Airbnb are significantly cheaper than hotels. A dorm bed in Southeast Asia costs 5-10€ per night.</div>
 
-<div data-i18n-html="article_voyage-budget_p7"><h3>3. Cook Your Own Meals</h3>
+<div data-i18n-html="article_voyage-budget_p7"><h3>3. <a href="/journal/meal-prep-dimanche/">Cook Your Own Meals</a></h3>
 Eating out for every meal adds up fast. Cook breakfast and lunch, eat out for dinner. Or shop at local markets and cook in your accommodation.</div>
 
 <div data-i18n-html="article_voyage-budget_p8"><h3>4. Use Public Transportation</h3>
@@ -65,7 +65,7 @@ Southeast Asia, Eastern Europe, Central America, and South America are all signi
 <div data-i18n-html="article_voyage-budget_p10"><h3>6. Use Travel Rewards</h3>
 Credit card points, airline miles, and hotel loyalty programs can save you thousands. Use them wisely.</div>
 
-<div data-i18n-html="article_voyage-budget_p11"><h3>7. Travel Slowly</h3>
+<div data-i18n-html="article_voyage-budget_p11"><h3>7. <a href="/journal/voyage-lent/">Travel Slowly</a></h3>
 Fewer flights = less money spent on transportation. Stay longer in one place.</div>
 
 <div data-i18n-html="article_voyage-budget_p12"><h2>Sample Budget: 1 Month in Southeast Asia</h2></div>

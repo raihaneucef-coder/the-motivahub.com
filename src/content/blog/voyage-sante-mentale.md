@@ -47,7 +47,7 @@ relatedArticles:
 <div data-i18n-html="article_voyage-sante-mentale_p4"><h2>How Travel Heals Your Mind</h2></div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p5"><h3>1. Reduces Stress</h3>
-A study by the American Psychological Association found that vacations reduce stress by removing people from the environments and activities they associate with anxiety.</div>
+A study by the American Psychological Association found that <a href="/journal/recovery-is-training/">vacations reduce stress</a> by removing people from the environments and activities they associate with anxiety.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p6"><h3>2. Boosts Creativity</h3>
 Exposure to new cultures, languages, and experiences increases cognitive flexibility. Your brain makes new connections, leading to more creative thinking.</div>
@@ -59,7 +59,7 @@ Anticipation of a trip boosts mood for weeks before departure. The trip itself c
 Routine is the enemy of creativity and happiness. Travel breaks routine and forces your brain to engage with the world in new ways.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p9"><h3>5. Builds Resilience</h3>
-Navigating unfamiliar environments builds confidence and resilience. You prove to yourself that you can handle the unknown.</div>
+<a href="/journal/solo-travel-stronger-self/">Navigating unfamiliar environments builds confidence and resilience</a>. You prove to yourself that you can handle the unknown.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p10"><h2>How to Travel for Mental Health</h2></div>
 

@@ -53,11 +53,11 @@ relatedArticles:
 - Day 180: 6.04
 - Day 365: 37.78</div>
 
-<div data-i18n-html="article_regle-1-pourcent_p6">One percent does not feel like much. But 1% compounded daily is extraordinary.</div>
+<div data-i18n-html="article_regle-1-pourcent_p6">One percent does not feel like much. But 1% <a href="/journal/long-ascent/">compounded daily is extraordinary</a>.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p7"><h2>How to Apply the 1% Rule</h2></div>
 
-<div data-i18n-html="article_regle-1-pourcent_p8"><h3>1. Read 10 Pages Per Day</h3>
+<div data-i18n-html="article_regle-1-pourcent_p8"><h3>1. <a href="/journal/lire-divertissement/">Read 10 Pages Per Day</a></h3>
 10 pages per day = 3,650 pages per year = about 18 books. That is more than most people read in a decade.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p9"><h3>2. Exercise 10 Minutes Per Day</h3>

@@ -61,10 +61,10 @@ If you were mocked or dismissed for speaking up in the past, your brain learned 
 <div data-i18n-html="article_trouver-voix_p9"><h2>How to Speak Up</h2></div>
 
 <div data-i18n-html="article_trouver-voix_p10"><h3>1. Start Small</h3>
-You do not need to give a speech tomorrow. Start by sharing one opinion in a small group. Then gradually increase the stakes.</div>
+You do not need to give a speech tomorrow. Start by <a href="/journal/social-muscle/">sharing one opinion in a small group</a>. Then gradually increase the stakes.</div>
 
 <div data-i18n-html="article_trouver-voix_p11"><h3>2. Prepare</h3>
-If you know you will be in a situation where speaking up is important, prepare what you want to say beforehand. Confidence often comes from preparation.</div>
+If you know you will be in a situation where speaking up is important, prepare what you want to say beforehand. <a href="/journal/confidence-is-a-record-not-a-feeling/">Confidence often comes from preparation</a>.</div>
 
 <div data-i18n-html="article_trouver-voix_p12"><h3>3. Use "I" Statements</h3>
 "I think..." or "I believe..." is less confrontational than "You are wrong." It also gives you ownership of your thoughts.</div>

@@ -50,7 +50,7 @@ relatedArticles:
 
 <div data-i18n-html="article_people-who-raise-your-floor_p6">That is not a judgment; it is a design principle. If your circle treats discipline as strange, you will pay a tax every time you practice it. If your circle treats it as normal, you get it for free.</div>
 
-<div data-i18n-html="article_people-who-raise-your-floor_p7">This does not mean abandoning people. It means adding people — deliberately. One relationship that raises your standard changes the math for all the others.</div>
+<div data-i18n-html="article_people-who-raise-your-floor_p7">This does not mean abandoning people. It means adding people — deliberately. <a href="/journal/love-is-a-practice/">One relationship</a> that raises your standard changes the math for all the others.</div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p8">Look for three signals:</div>
 
@@ -60,4 +60,4 @@ relatedArticles:
 
 <div data-i18n-html="article_people-who-raise-your-floor_p10">This week, audit your room. List the five people you spoke to most. For each, ask: after time together, am I closer to the person I want to be?</div>
 
-<div data-i18n-html="article_people-who-raise-your-floor_p11">Then adjust the ratio. You do not need a new life. You need one more person who raises your floor — and a little more time with them.</div>
+<div data-i18n-html="article_people-who-raise-your-floor_p11">Then adjust the ratio. You do not need a new life. You need <a href="/journal/community-discipline/">one more person</a> who raises your floor — and a little more time with them.</div>

@@ -52,7 +52,7 @@ relatedArticles:
 
 <div data-i18n-html="article_make-good-habits-obvious_p6">Make good habits obvious and bad habits invisible:</div>
 
-<div data-i18n-html="article_make-good-habits-obvious_p7">- <strong>Want to read?</strong> Put the book on your pillow.
+<div data-i18n-html="article_make-good-habits-obvious_p7">- <strong>Want to read?</strong> <a href="/journal/how-to-read-30-books-a-year/">Put the book on your pillow</a>.
 - <strong>Want to move?</strong> Put your shoes by the door.
 - <strong>Want to scroll less?</strong> Put your phone in another room, not in your hand.</div>
 
@@ -61,6 +61,6 @@ relatedArticles:
 <div data-i18n-html="article_make-good-habits-obvious_p9">- <strong>Want to snack less?</strong> Keep the snacks on the highest shelf, not the counter.
 - <strong>Want to watch less?</strong> Unplug the TV or log out. One extra step is enough to make you choose better.</div>
 
-<div data-i18n-html="article_make-good-habits-obvious_p10">Design beats discipline every time. You do not have to be the person with the strongest will. You just have to be the person who made the good choice the easy choice.</div>
+<div data-i18n-html="article_make-good-habits-obvious_p10"><a href="/journal/regle-deux-minutes/">Design beats discipline</a> every time. You do not have to be the person with the strongest will. You just have to be the person who made the good choice the easy choice.</div>
 
 <div data-i18n-html="article_make-good-habits-obvious_p11">Make it obvious today. Your future self will thank you for the clear path.</div>

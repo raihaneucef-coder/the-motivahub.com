@@ -44,13 +44,13 @@ relatedArticles:
 
 <div data-i18n-html="article_the-cost-of-success_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_the-cost-of-success_p4">Every success you admire was paid for in advance, in a currency most people refuse to spend: boredom, repetition, and saying no when yes would have been more fun.</div>
+<div data-i18n-html="article_the-cost-of-success_p4">Every success you admire was paid for in advance, in a currency most people refuse to spend: <a href="/journal/discipline-depass-motivation/">boredom, repetition</a>, and saying no when yes would have been more fun.</div>
 
 <div data-i18n-html="article_the-cost-of-success_p5"><strong>The cost is not paid once. It is paid daily, in small coins.</strong></div>
 
 <div data-i18n-html="article_the-cost-of-success_p6">The writer who finished the book paid with mornings when the page stayed blank. The athlete who stood on the podium paid with nights when sleep mattered more than the party. The business that looks overnight paid with years when nothing looked like progress.</div>
 
-<div data-i18n-html="article_the-cost-of-success_p7">We want the reward without the rent. But the rent is the work.</div>
+<div data-i18n-html="article_the-cost-of-success_p7">We want <a href="/journal/mythe-reussite-instantanee/">the reward without the rent</a>. But the rent is the work.</div>
 
 <div data-i18n-html="article_the-cost-of-success_p8">Ask before you chase the next success: what is this one asking me to give up, and am I willing to give it not once, but for a year?</div>
 

@@ -61,14 +61,14 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-2-min-productivite_p5"><h2>Why the 2-Minute Rule Works</h2></div>
 
-<div data-i18n-html="article_regle-2-min-productivite_p6"><h3>1. Eliminates Procrastination</h3>
+<div data-i18n-html="article_regle-2-min-productivite_p6"><h3>1. <a href="/journal/real-reason-you-procrastinate/">Eliminates Procrastination</a></h3>
 Small tasks pile up and create mental clutter. When you handle them immediately, your mind stays clear.</div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p7"><h3>2. Reduces Decision Fatigue</h3>
 You do not waste energy deciding whether to do a 2-minute task later. You just do it.</div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p8"><h3>3. Creates Momentum</h3>
-Small wins create momentum. Completing one small task makes you more likely to complete the next one.</div>
+<a href="/journal/small-wins-big-life/">Small wins create momentum</a>. Completing one small task makes you more likely to complete the next one.</div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p9"><h3>4. Keeps Your List Clean</h3>
 Your to-do list stays focused on important tasks, not trivial ones.</div>

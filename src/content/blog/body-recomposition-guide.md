@@ -73,10 +73,10 @@ relatedArticles:
 <li><strong>Surplus</strong> — eat above maintenance. Your body has extra to build with. This is how you gain weight, ideally mostly muscle.</li>
 </ul></div>
 
-<div data-i18n-html="article_body-recomposition-guide_p7">Calories decide the direction of the scale. What you do in the kitchen and the gym decides what that change is made of. Two people can both lose four kilos — one loses mostly fat, the other loses fat and hard-won muscle. The number is identical; the body is not. That is why the next variable matters more than any diet trick:</div>
+<div data-i18n-html="article_body-recomposition-guide_p7"><a href="/journal/the-plate-that-keeps-you-steady/">Calories decide the direction</a> of the scale. What you do in the kitchen and the gym decides what that change is made of. Two people can both lose four kilos — one loses mostly fat, the other loses fat and hard-won muscle. The number is identical; the body is not. That is why the next variable matters more than any diet trick:</div>
 
 <div data-i18n-html="article_body-recomposition-guide_p8"><ul>
-<li><strong>Protein first.</strong> Around 1.6 g per kg of body weight per day maximises muscle gain from training (Morton et al., 2018). Spread it over three to four meals.</li>
+<li><strong><a href="/journal/protein-is-not-just-for-athletes/">Protein first</a>.</strong> Around 1.6 g per kg of body weight per day maximises muscle gain from training (Morton et al., 2018). Spread it over three to four meals.</li>
 <li><strong>Fat for hormones.</strong> Roughly 0.6 to 1 g per kg from olive oil, nuts, avocado, egg yolks — enough to keep you and your hormones healthy.</li>
 <li><strong>Carbs fill the rest.</strong> Rice, potatoes, oats, fruit, bread. Put most of them around your training, when your body uses them best.</li>
 </ul></div>

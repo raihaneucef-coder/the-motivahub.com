@@ -62,7 +62,7 @@ relatedArticles:
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p5"><h2>The Power of the Chain</h2></div>
 
-<div data-i18n-html="article_ne-brise-jamais-chaine_p6">The chain is a visual representation of your consistency. Every day you complete your habit, you add a link. Every link makes the chain stronger. And once the chain is long enough, you will do anything to protect it.</div>
+<div data-i18n-html="article_ne-brise-jamais-chaine_p6">The chain is a <a href="/journal/consistance-bat-intensite/">visual representation of your consistency</a>. Every day you complete your habit, you add a link. Every link makes the chain stronger. And once the chain is long enough, you will do anything to protect it.</div>
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p7">The chain works because of three psychological principles:
 1. <strong>Loss aversion:</strong> You hate losing what you have built
@@ -81,7 +81,7 @@ Use a calendar, a habit tracker app, or our <a href="/tracker/">Habit Tracker</a
 Every day you complete the habit, mark it. Put an X. Check a box. Add a gold star. The act of marking is its own reward.</div>
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p12"><h3>4. Never Miss Twice</h3>
-You will miss a day. Everyone does. The rule is simple: <strong>never miss twice</strong>. One missed day is a accident. Two missed days is the beginning of a new habit — the habit of quitting.</div>
+You will miss a day. Everyone does. The rule is simple: <strong><a href="/journal/discipline-choix-quotidien/">never miss twice</a></strong>. One missed day is a accident. Two missed days is the beginning of a new habit — the habit of quitting.</div>
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p13"><h3>5. Protect the Chain</h3>
 After 7 days, the chain becomes precious. After 30 days, it becomes part of your identity. After 90 days, it becomes who you are. Protect it like you would protect something valuable — because it is.</div>

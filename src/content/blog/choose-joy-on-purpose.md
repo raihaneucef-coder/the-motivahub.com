@@ -48,11 +48,11 @@ relatedArticles:
 
 <div data-i18n-html="article_choose-joy-on-purpose_p5"><strong>Joy is not a reward for finishing everything. It is part of finishing well.</strong></div>
 
-<div data-i18n-html="article_choose-joy-on-purpose_p6">The people who seem most alive are not the ones with the easiest lives. They are the ones who put delight on the calendar on purpose.</div>
+<div data-i18n-html="article_choose-joy-on-purpose_p6">The people who seem most alive are not the ones with the easiest lives. They are the ones who put delight on the calendar <a href="/journal/play-on-purpose/">on purpose</a>.</div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p7">Try it this week:</div>
 
-<div data-i18n-html="article_choose-joy-on-purpose_p8">- <strong>One joyful hour, unscheduled from productivity.</strong> A film you love, a walk with no goal, music loud enough to sing.
+<div data-i18n-html="article_choose-joy-on-purpose_p8">- <strong>One joyful hour, unscheduled from productivity.</strong> <a href="/journal/regarder-intentionnellement/">A film you love</a>, a walk with no goal, music loud enough to sing.
 - <strong>One small delight daily.</strong> Coffee you actually taste, ten minutes of a novel, a call that makes you laugh.
 - <strong>Notice what delights you, then repeat it.</strong> Joy leaves traces. Follow them.</div>
 

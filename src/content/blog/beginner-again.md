@@ -104,7 +104,7 @@ relatedArticles:
 
 <div data-i18n-html="article_beginner-again_p29">Then I lost the map. Then I lost the guidebook. Then I lost the list of places. I was alone in a medina I did not know, with no plan, no map, no guide.</div>
 
-<div data-i18n-html="article_beginner-again_p30">That is when the trip started.</div>
+<div data-i18n-html="article_beginner-again_p30">That is when <a href="/journal/the-detour-is-the-destination/">the trip</a> started.</div>
 
 <div data-i18n-html="article_beginner-again_p31">The discomfort was the point. The uncertainty was the teacher. The beginner mind was the goal.</div>
 
@@ -140,7 +140,7 @@ relatedArticles:
 
 <div data-i18n-html="article_beginner-again_p45">Travel had recalibrated my eyes. The recalibration lasted for weeks. Maybe months.</div>
 
-<div data-i18n-html="article_beginner-again_p46">You do not need a long trip or an expensive one. A bus to a town whose name you cannot pronounce will do. The requirement was never distance. It is unfamiliarity. Go where your competence means nothing, where every hour asks you to learn.</div>
+<div data-i18n-html="article_beginner-again_p46">You do not need a long trip or <a href="/journal/voyage-budget/">an expensive one</a>. A bus to a town whose name you cannot pronounce will do. The requirement was never distance. It is unfamiliarity. Go where your competence means nothing, where every hour asks you to learn.</div>
 
 <div data-i18n-html="article_beginner-again_p47">Beginner again. It is the hungriest you will feel all year.</div>
 

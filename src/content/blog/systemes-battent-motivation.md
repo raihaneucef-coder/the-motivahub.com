@@ -69,10 +69,10 @@ relatedArticles:
 <div data-i18n-html="article_systemes-battent-motivation_p14"><h2>How to Build a System</h2></div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p15"><h3>1. Start Small</h3>
-Your system should be so easy that you cannot say no. "Write 100 words" is a better system than "write 1000 words."</div>
+Your system should be <a href="/journal/regle-2-min-productivite/">so easy that you cannot say no</a>. "Write 100 words" is a better system than "write 1000 words."</div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p16"><h3>2. Make It Automatic</h3>
-Attach your system to an existing habit. "After I pour my coffee, I write 500 words" is automatic.</div>
+<a href="/journal/habit-stacking-made-simple/">Attach your system to an existing habit</a>. "After I pour my coffee, I write 500 words" is automatic.</div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p17"><h3>3. Track It</h3>
 What gets measured gets managed. Track your system daily. Use our <a href="/tracker/">Habit Tracker</a> to see your consistency.</div>

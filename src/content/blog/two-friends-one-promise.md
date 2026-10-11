@@ -68,6 +68,6 @@ relatedArticles:
 
 <div data-i18n-html="article_two-friends-one-promise_p8">At the end of the year, they had walked 365 times. They had also not missed a single day they said they would show up for each other. That record — more than the miles — is what they carry now.</div>
 
-<div data-i18n-html="article_two-friends-one-promise_p9">When people ask how they stayed consistent, they say: we did not keep a walking habit. We kept a promise to a friend. The habit was just what the promise looked like from the outside.</div>
+<div data-i18n-html="article_two-friends-one-promise_p9">When people ask how they stayed consistent, they say: we did not keep a walking habit. We <a href="/journal/histoire-concierge-millionnaire/">kept a promise to a friend</a>. The habit was just what the promise looked like from the outside.</div>
 
-<div data-i18n-html="article_two-friends-one-promise_p10">Proof over noise: community is not found. It is kept, one walk at a time.</div>
+<div data-i18n-html="article_two-friends-one-promise_p10"><a href="/journal/proof-over-noise/">Proof over noise</a>: community is not found. It is kept, one walk at a time.</div>

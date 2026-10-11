@@ -42,7 +42,7 @@ relatedArticles:
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p4">When you write a goal, you move it from the abstract to the concrete. It becomes real. It becomes accountable. It becomes yours.</div>
+<div data-i18n-html="article_pouvoir-ecrire-objectifs_p4">When you write a goal, you move it from the abstract to the concrete. It becomes real. <a href="/journal/rendez-compte-objectifs/">It becomes accountable</a>. It becomes yours.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p5"><h2>Why Writing Works</h2></div>
 
@@ -64,7 +64,7 @@ Your brain retains written information better than thoughts. A written goal stay
 "I want to get fit" is weak. "I want to run a 5K in under 25 minutes by December 31" is powerful.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p12"><h3>2. Use Present Tense</h3>
-Write as if the goal is already achieved: "I am running a 5K in under 25 minutes." This trains your brain to believe it is possible.</div>
+Write as if the goal is already achieved: "I am running a 5K in under 25 minutes." This <a href="/journal/identity-precedes-outcome/">trains your brain to believe it is possible</a>.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p13"><h3>3. Make It Visible</h3>
 Put your written goal where you will see it every day — on your mirror, your desk, your phone wallpaper.</div>

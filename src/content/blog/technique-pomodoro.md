@@ -60,14 +60,14 @@ relatedArticles:
 <div data-i18n-html="article_technique-pomodoro_p8"><h3>1. It Creates Urgency</h3>
 A 25-minute timer creates a sense of urgency. You are racing against the clock. This focused energy produces more output than 2 hours of unfocused work.</div>
 
-<div data-i18n-html="article_technique-pomodoro_p9"><h3>2. It Forces Single-Tasking</h3>
+<div data-i18n-html="article_technique-pomodoro_p9"><h3>2. It <a href="/journal/deep-work-focus/">Forces Single-Tasking</a></h3>
 During a Pomodoro, you work on one thing only. No multitasking. No switching. One task, 25 minutes, complete focus.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p10"><h3>3. It Prevents Burnout</h3>
 The breaks are not optional — they are essential. They allow your brain to recover and maintain high performance throughout the day.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p11"><h3>4. It Makes Starting Easy</h3>
-"I only have to work for 25 minutes" is much less intimidating than "I have to work for 4 hours." The Pomodoro removes the barrier to starting.</div>
+"I only have to work for 25 minutes" is much less intimidating than "I have to work for 4 hours." The Pomodoro <a href="/journal/regle-2-min-productivite/">removes the barrier to start</a>ing.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p12"><h2>Advanced Pomodoro</h2></div>
 

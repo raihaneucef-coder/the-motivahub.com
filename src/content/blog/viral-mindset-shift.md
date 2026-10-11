@@ -38,7 +38,7 @@ relatedArticles:
   - "puissance-dialogue-interieur"
 ---
 
-<div data-i18n-html="article_viral-mindset-shift_p2">A powerful mindset clip, 27 seconds long: identity precedes outcome. Here is the full story behind a transformative idea on motivation.</div>
+<div data-i18n-html="article_viral-mindset-shift_p2">A powerful mindset clip, 27 seconds long: <a href="/journal/identity-precedes-outcome/">identity precedes outcome</a>. Here is the full story behind a transformative idea on motivation.</div>
 
 <div data-i18n-html="article_viral-mindset-shift_p3">A powerful mindset video is not a speech. It is 27 seconds of a man saying: "You do not rise to your goals. You fall to your identity." The comments are not about the words — they are about the shock of recognition.</div>
 
@@ -46,7 +46,7 @@ relatedArticles:
 
 <div data-i18n-html="article_viral-mindset-shift_p4"><h2>Identity Precedes Outcome</h2></div>
 
-<div data-i18n-html="article_viral-mindset-shift_p5">The core idea is simple and brutal: you cannot behave consistently in a way that contradicts who you believe you are. The smoker who says "I am trying to quit" will return. The one who says "I am not a smoker" has already quit.</div>
+<div data-i18n-html="article_viral-mindset-shift_p5">The core idea is simple and brutal: you cannot behave consistently in a way that contradicts <a href="/journal/puissance-dialogue-interieur/">who you believe you are</a>. The smoker who says "I am trying to quit" will return. The one who says "I am not a smoker" has already quit.</div>
 
 <div data-i18n-html="article_viral-mindset-shift_p6">Business, sport, habits — all of them follow the same rule. The person who says "I am trying to be disciplined" is negotiating. The person who says "I am disciplined" has finished negotiating.</div>
 

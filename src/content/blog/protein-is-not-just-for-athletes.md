@@ -46,11 +46,11 @@ relatedArticles:
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_protein-is-not-just-for-athletes_p4">When you eat enough protein, you stay satisfied longer. You protect muscle while you lose fat. You give your body the material it needs to repair, every day.</div>
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p4">When you eat enough protein, you <a href="/journal/the-plate-that-keeps-you-steady/">stay satisfied longer</a>. You protect muscle while you lose fat. You give your body the material it needs to repair, every day.</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p5"><strong>Most people eat enough to survive, not enough to thrive.</strong></div>
 
-<div data-i18n-html="article_protein-is-not-just-for-athletes_p6">You do not need to count grams obsessively. You need to make protein a part of every meal:</div>
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p6">You do not need to count grams obsessively. You need to make protein <a href="/journal/meal-prep-dimanche/">a part of every meal</a>:</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p7">- Breakfast: eggs, yogurt, or beans.
 - Lunch: fish, chicken, lentils, or tofu.

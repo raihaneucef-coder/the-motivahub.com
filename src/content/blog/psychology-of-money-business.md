@@ -48,13 +48,13 @@ relatedArticles:
 
 <div data-i18n-html="article_psychology-of-money-business_p5">Morgan Housel tells the story of the wealthy man who died wanting more. The tragedy was not that he lacked money. It was that he lacked a definition of enough. In business, "enough" is the most profitable word in the dictionary. The entrepreneur who knows when to stop optimizing and start compounding wins every cycle.</div>
 
-<div data-i18n-html="article_psychology-of-money-business_p6">Ask yourself: what is enough for this quarter? For this year? For this life? Write it down. Without a finish line, every race becomes infinite — and infinite races are always lost.</div>
+<div data-i18n-html="article_psychology-of-money-business_p6">Ask yourself: <a href="/journal/definition-reussite/">what is enough</a> for this quarter? For this year? For this life? Write it down. Without a finish line, every race becomes infinite — and infinite races are always lost.</div>
 
 <div data-i18n-html="article_psychology-of-money-business_p7"><h2>Patience Is a Business Model</h2></div>
 
 <div data-i18n-html="article_psychology-of-money-business_p8">The market rewards patience more than intelligence. The investor who holds for ten years beats the genius who trades ten times a day. The business that reinvests quietly for five years beats the one that chases every trend.</div>
 
-<div data-i18n-html="article_psychology-of-money-business_p9">Compound interest is not just money. It is trust. It is reputation. It is the habit of showing up when no one is watching. Successful founders are not overnight successes — they are ten-year stories told in sixty seconds.</div>
+<div data-i18n-html="article_psychology-of-money-business_p9">Compound interest is not just money. It is trust. It is reputation. It is the habit of showing up when no one is watching. Successful founders are <a href="/journal/mythe-reussite-instantanee/">not overnight success</a>es — they are ten-year stories told in sixty seconds.</div>
 
 <div data-i18n-html="article_psychology-of-money-business_p10"><h2>The Story You Tell</h2></div>
 

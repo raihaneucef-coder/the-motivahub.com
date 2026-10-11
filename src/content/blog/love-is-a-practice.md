@@ -46,12 +46,12 @@ relatedArticles:
 
 <div data-i18n-html="article_love-is-a-practice_p4">Waiting to feel patient before we listen, to feel grateful before we thank, to feel close before we reach out — this keeps love hostage to mood. Mood is weather. Practice is climate.</div>
 
-<div data-i18n-html="article_love-is-a-practice_p5"><strong>Love as a practice is boring and reliable.</strong> It is the text sent when you are busy, the apology made before you feel fully ready, the five minutes of real listening without trying to fix anything. None of these feel heroic in the moment. All of them are remembered later as proof.</div>
+<div data-i18n-html="article_love-is-a-practice_p5"><strong>Love as a practice is boring and reliable.</strong> It is the text sent when you are busy, the apology made before you feel fully ready, <a href="/journal/habitude-5-min-relations/">the five minutes of real listening</a> without trying to fix anything. None of these feel heroic in the moment. All of them are remembered later as proof.</div>
 
 <div data-i18n-html="article_love-is-a-practice_p6">The practice is small enough to survive a bad day:</div>
 
 <div data-i18n-html="article_love-is-a-practice_p7">- <strong>Ask one better question a day.</strong> Not "how was your day?" but "what was the hardest part of today?"
-- <strong>Give one unsolicited appreciation.</strong> Name something specific the other person did that made your day easier.
+- <strong>Give <a href="/journal/people-who-raise-your-floor/">one unsolicited appreciation</a>.</strong> Name something specific the other person did that made your day easier.
 - <strong>Repair quickly.</strong> When you are sharp or distant, name it within the hour. "I was short earlier — you deserved better."</div>
 
 <div data-i18n-html="article_love-is-a-practice_p8">Notice what happens after a week. You do not feel magically closer every hour. But you have seven pieces of evidence that you are a person who loves well even when you do not feel like it. That identity — built from kept promises — is what holds a relationship when feelings wobble, as they always do.</div>

@@ -47,7 +47,7 @@ relatedArticles:
 
 <div data-i18n-html="article_five-minute-friendship-habit_p4">They do not need a feast. They need small, regular snacks of attention.</div>
 
-<div data-i18n-html="article_five-minute-friendship-habit_p5"><strong>Five minutes is enough to keep a friendship alive.</strong></div>
+<div data-i18n-html="article_five-minute-friendship-habit_p5"><strong>Five minutes is enough to <a href="/journal/habitude-5-min-relations/">keep a friendship alive</a>.</strong></div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p6">Not a long call. A voice note while you walk. Not a deep dinner. A text that says: <em>I thought of you today because...</em> Not a grand gesture. A meme that says: <em>this is so us.</em></div>
 
@@ -57,6 +57,6 @@ relatedArticles:
 - <strong>Remember one detail.</strong> Their dog's name, their deadline, their mother's test. Ask about it next time. Being remembered is rarer than being praised.
 - <strong>Make the next plan before you leave.</strong> "Next Tuesday walk?" beats "we should catch up sometime" every time.</div>
 
-<div data-i18n-html="article_five-minute-friendship-habit_p9">Friendship is not maintained by intensity. It is maintained by frequency. A friend you hear from for five minutes every two weeks feels closer than a friend you see for five hours twice a year.</div>
+<div data-i18n-html="article_five-minute-friendship-habit_p9">Friendship is not maintained by intensity. It is <a href="/journal/love-is-a-practice/">maintained by frequency</a>. A friend you hear from for five minutes every two weeks feels closer than a friend you see for five hours twice a year.</div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p10">You do not need more time. You need a smaller definition of what counts.</div>
