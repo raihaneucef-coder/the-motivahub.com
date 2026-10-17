@@ -10,7 +10,7 @@ const PROPERTY = 'properties/551052915';
 const auth = new GoogleAuth({ keyFile: KEY, scopes: ['https://www.googleapis.com/auth/analytics.readonly'] });
 const c = await auth.getClient();
 
-const today = new Date('2026-10-08');
+const today = new Date();
 const d28 = new Date(today); d28.setDate(d28.getDate() - 28);
 const d7  = new Date(today); d7.setDate(d7.getDate() - 7);
 const iso = d => d.toISOString().slice(0, 10);
