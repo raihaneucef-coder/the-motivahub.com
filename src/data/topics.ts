@@ -77,7 +77,7 @@ export const topics: Topic[] = [
     title: "Nutrition",
     titleFr: "Nutrition",
     description: "You cannot out-discipline a bad plate. Fuel is the quiet foundation under every strong day — eat so the hard things become cheaper.",
-    descriptionFr: "On ne compense pas une mauvaise assiette avec de la discipline. Le carburant est le socle silencieux de chaque journée forte — mangez pour que les choses difficiles coûtent moins cher.",
+    descriptionFr: "On ne compense pas une mauvaise assiette avec de la discipline. Le carburant est le socle silencieux de chaque journée forte.",
   },
   {
     id: "travel",
@@ -91,7 +91,7 @@ export const topics: Topic[] = [
     title: "Entertainment",
     titleFr: "Divertissement",
     description: "Rest is a skill, not a reward. Choose your leisure the way champions choose training — deliberately, and always leaving energy behind.",
-    descriptionFr: "Le repos est une compétence, pas une récompense. Choisissez vos loisirs comme les champions choisissent l'entraînement — délibérément, en gardant toujours de l'énergie en réserve.",
+    descriptionFr: "Le repos est une compétence, pas une récompense. Choisissez vos loisirs délibérément, en gardant toujours de l’énergie en réserve.",
   },
   {
     id: "stories",
@@ -106,7 +106,7 @@ export const topics: Topic[] = [
     title: "Finance",
     titleFr: "Finance",
     description: "Money is a skill, not a secret. We learn how to earn, keep and grow it — so freedom stops being a wish and becomes a plan.",
-    descriptionFr: "L'argent est une compétence, pas un secret. Nous apprenons à le gagner, le garder et le faire croître — pour que la liberté cesse d'être un souhait et devienne un plan.",
+    descriptionFr: "L’argent est une compétence, pas un secret. Apprenons à le gagner, le garder et le faire croître — pour que la liberté devienne un plan.",
   },
   {
     id: "relationships",

@@ -3,7 +3,7 @@ title: "How to Become Mentally Unbreakable — Nothing Can Break You"
 seoTitle: "How to Become Mentally Unbreakable"
 description: "Mental toughness is built, not born. A five-part resilience guide — control emotions, hold standards, choose discomfort — until nothing can break you."
 titleFr: "Comment Devenir Mentalement Inébranlable : Guide de Résilience"
-seoTitleFr: "Comment Devenir Mentalement Inébranlable : Guide Pratique (Stoïcisme)"
+seoTitleFr: "Comment Devenir Mentalement Inébranlable"
 descriptionFr: "Devenir mentalement inébranlable demande de la pratique. Découvrez les exercices et les mindset shifts pour développer une résilience mentale à toute épreuve."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12

@@ -1,9 +1,9 @@
 ---
 title: "The Non-Negotiable Standard: How to Set Rules That Never Bend"
-seoTitle: "Non-Negotiable Standard: The Discipline Rule That Eliminates Willpower"
+seoTitle: "Non-Negotiable Standards That Never Bend"
 description: "A non-negotiable standard is a rule you follow regardless of mood. Learn how to set 3-5 personal rules that build discipline without willpower."
 titleFr: "Standard Non Négociable : Fixer des Règles de Discipline Qui Tiennent"
-seoTitleFr: "Standard Non Négociable : La Règle de Discipline Sans Négocier"
+seoTitleFr: "Standard Non Négociable : La Règle Sans Négocier"
 descriptionFr: "Un standard non négociable est une règle que vous suivez quoi qu'il arrive. Découvrez comment en fixer 3 à 5 pour bâtir une discipline sans volonté."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12

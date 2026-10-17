@@ -1,9 +1,9 @@
 ---
 title: "Rest Is a Decision, Not a Collapse"
-seoTitle: "Rest Is a Decision, Not a Reward — Why You Don't Need to Earn It"
+seoTitle: "Rest Is a Decision, Not a Reward"
 description: "There is a difference between resting on purpose and collapsing because you ran out of resistance. Learn why rest is a decision, not something you earn."
 titleFr: "Le Repos est une Décision, pas une Récompense"
-seoTitleFr: "Le Repos est une Décision, pas une Récompense à Mériter"
+seoTitleFr: "Le Repos est une Décision, Pas une Récompense"
 descriptionFr: "Le repos n'est pas un échec ni une récompense — c'est une décision stratégique. Découvrez pourquoi le repos est essentiel pour la performance durable."
 pubDate: 2026-08-18
 updatedDate: 2026-09-12

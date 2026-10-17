@@ -1,9 +1,9 @@
 ---
 title: "The Tyranny of the Visible Timeline"
-seoTitle: "The Tyranny of the Visible Timeline — Why Progress Feels Invisible"
+seoTitle: "The Tyranny of the Visible Timeline"
 description: "Most quitting has nothing to do with the goal being wrong. It has to do with the clock being visible. Learn to escape comparison and trust your own pace."
 titleFr: "La Tyrannie de la Timeline Visible"
-seoTitleFr: "La Tyrannie de la Timeline Visible — Pourquoi les Progrès Semblent Invisibles"
+seoTitleFr: "La Tyrannie de la Timeline Visible"
 descriptionFr: "La plupart des abandons n'ont rien à voir avec l'objectif — tout à voir avec l'horloge visible. Apprenez à vous libérer de la comparaison des timelines."
 pubDate: 2026-08-20
 updatedDate: 2026-09-12
