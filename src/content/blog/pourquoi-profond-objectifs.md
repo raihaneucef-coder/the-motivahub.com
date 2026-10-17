@@ -1,7 +1,7 @@
 ---
 title: "The Goal Behind the Goal: Finding Your Deep Why"
 seoTitle: "The Goal Behind the Goal: Finding Your Deep Why"
-description: "Every goal has a deeper purpose. Finding your deep why gives you the resilience to keep going when things get hard."
+description: "Every goal has a deeper purpose. Finding your deep why gives you the resilience to keep going when the surface motivation runs out and things get hard."
 titleFr: "L'objectif derrière l'objectif : trouver ton pourquoi profond"
 seoTitleFr: "Trouver son pourquoi profond"
 descriptionFr: "Chaque objectif a un but plus profond. Trouver ton pourquoi profond te donne la résilience de continuer quand les choses deviennent difficiles."

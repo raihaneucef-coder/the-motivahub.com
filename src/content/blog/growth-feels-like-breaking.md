@@ -1,7 +1,7 @@
 ---
 title: "Growth Feels Like Breaking Before It Feels Like Becoming"
 seoTitle: "Growth Feels Like Breaking Before Becoming"
-description: "Growth is not comfortable — it feels like breaking. But breaking is not the end; it is the beginning of becoming."
+description: "Growth is not comfortable — it feels like breaking. But breaking is not the end; it is the beginning of becoming. What the hard middle teaches you."
 titleFr: "La croissance ressemble à une rupture avant de ressembler à une naissance"
 seoTitleFr: "La croissance commence par une rupture"
 descriptionFr: "La croissance n'est pas confortable — elle ressemble à une rupture. Mais la rupture n'est pas la fin ; c'est le début de la transformation."

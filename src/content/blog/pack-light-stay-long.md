@@ -1,6 +1,6 @@
 ---
 title: "Pack Light, Stay Long"
-description: "The best travelers carry less and stay longer. What you leave behind matters more than what you bring."
+description: "The best travelers carry less and stay longer. What you leave behind matters more than what you bring — a case for lightness in travel and in life."
 titleFr: "Emporte peu, reste longtemps"
 descriptionFr: "Les meilleurs voyageurs portent moins et restent plus longtemps. Ce que tu laisses derrière toi compte plus que ce que tu apportes."
 pubDate: 2026-08-20

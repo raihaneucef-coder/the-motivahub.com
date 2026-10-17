@@ -1,6 +1,6 @@
 ---
 title: "When Motivation Leaves"
-description: "Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day."
+description: "Motivation always leaves — that is its nature. What you build for the day it goes is the real test. How to keep moving when the feeling disappears."
 titleFr: "Quand la motivation s'en va"
 descriptionFr: "La motivation est comme le temps. La discipline est le bâtiment que vous construisez pour que le temps ne décide plus de votre journée."
 pubDate: 2026-07-27

@@ -1,10 +1,10 @@
 ---
 title: "Journaling for Growth: How Writing Transforms Your Self-Awareness"
 seoTitle: "Journaling for Growth: Writing for Self-Awareness"
-description: "Journaling is the cheapest therapy you will ever find. Learn how 10 minutes of daily writing can transform your self-awareness, emotional processing, and decision-making — backed by psychology research."
+description: "Journaling is the cheapest therapy you will ever find. How 10 minutes of daily writing transforms self-awareness, emotional processing and decisions."
 titleFr: "Le journal pour grandir : comment l'écriture transforme ta conscience de toi"
 seoTitleFr: "Tenir un journal : développer sa conscience de soi"
-descriptionFr: "Le journal est la thérapie la moins chère que tu trouveras jamais. Découvre comment 10 minutes d'écriture quotidienne peuvent transformer ta conscience de toi, ton traitement émotionnel et tes décisions — appuyé par la recherche en psychologie."
+descriptionFr: "Le journal est la thérapie la moins chère que tu trouveras. 10 minutes d'écriture quotidienne transforment la conscience de soi et les décisions."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21
 readTime: "5 MIN"

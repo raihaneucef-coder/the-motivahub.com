@@ -1,7 +1,7 @@
 ---
 title: "The 2-Minute Rule for Productivity: Get More Done in Less Time"
 seoTitle: "The 2-Minute Rule for Productivity"
-description: "The 2-minute rule is the simplest productivity hack that actually works. If it takes less than 2 minutes, do it now."
+description: "The 2-minute rule is the simplest productivity hack that actually works. If it takes less than two minutes, do it now — and watch small wins compound daily."
 titleFr: "La Règle de 2 Minutes pour la Productivité : Commencer Petit"
 seoTitleFr: "La règle des 2 minutes pour produire plus"
 descriptionFr: "La règle de 2 minutes pour la productivité est simple : commencez petit. Découvrez comment cette astuce peut transformer votre efficacité."

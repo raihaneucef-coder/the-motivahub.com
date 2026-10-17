@@ -3,7 +3,7 @@ title: "When Motivation Fails, Systems Take Over"
 description: "Motivation is unreliable. Systems are dependable. Learn why building systems beats setting goals — and how to create systems that work."
 titleFr: "Quand la motivation échoue, les systèmes prennent le relais"
 seoTitleFr: "Systèmes vs motivation : le guide qui tient"
-descriptionFr: "La motivation est imprévisible. Les systèmes sont fiables. Découvrez pourquoi construire des systèmes vaut mieux que de fixer des objectifs — et comment créer des systèmes qui fonctionnent."
+descriptionFr: "La motivation est imprévisible, les systèmes sont fiables. Pourquoi construire des systèmes vaut mieux que fixer des objectifs — et comment faire."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21
 readTime: "6 MIN"

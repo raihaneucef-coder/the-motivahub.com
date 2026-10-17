@@ -1,10 +1,10 @@
 ---
 title: "The 2-Minute Rule: 7-Day Protocol + Full Guide"
 seoTitle: "The 2-Minute Rule: 7-Day Protocol + Guide"
-description: "James Clear's most underrated idea. Start so small it feels stupid. Then watch the doorway stay open. The full evidence base, the protocol, and what to do when you outgrow it."
+description: "James Clear's most underrated idea: start so small it feels stupid, then watch the doorway stay open. The evidence base, the protocol, and the exit."
 titleFr: "La règle des 2 minutes : protocole de 7 jours + guide complet"
 seoTitleFr: "La règle des 2 minutes : protocole 7 jours + guide"
-descriptionFr: "L'idée la plus sous-estimée de James Clear. Commencez si petit que ça semble stupide. Puis regardez la porte rester ouverte. La base complète, le protocole, et quoi faire quand vous avez grandi."
+descriptionFr: "L'idée la plus sous-estimée de James Clear : commencez si petit que ça semble stupide, puis regardez la porte rester ouverte. Le protocole complet."
 pubDate: 2026-09-03
 updatedDate: 2026-09-21
 readTime: "12 MIN"

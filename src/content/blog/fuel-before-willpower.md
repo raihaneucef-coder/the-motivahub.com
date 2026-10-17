@@ -1,8 +1,8 @@
 ---
 title: "Fuel Before Willpower"
-description: "Discipline is expensive when you run it on caffeine, sugar and good intentions. Eat in a way that makes the hard things cheaper — nutrition is not a diet, it is infrastructure."
+description: "Discipline is expensive when run on caffeine, sugar and good intentions. Eat to make hard things cheaper — nutrition is infrastructure, not a diet."
 titleFr: "Le carburant d'abord, la volonté après"
-descriptionFr: "La discipline coûte cher quand tu la fais tourner avec de la caféine, du sucre et de bonnes intentions. Mange de façon à rendre les choses difficiles moins coûteuses — la nutrition n'est pas un régime, c'est une infrastructure."
+descriptionFr: "La discipline tourne mal au café et au sucre. Mange pour rendre l'effort moins coûteux — la nutrition n'est pas un régime, c'est une infrastructure."
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Nutrition"

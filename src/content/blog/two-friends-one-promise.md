@@ -1,10 +1,10 @@
 ---
 title: "Two Friends, One Promise: Why Community Is Kept, Not Found"
 seoTitle: "Two Friends, One Promise: Community Is Built"
-description: "They promised to walk every day for a year. The promise, not the walk, is what changed them. A story about accountability, community, and the difference between a habit and a commitment."
+description: "They promised to walk every day for a year. The promise, not the walk, changed them — a story about accountability and the gap between habit and commitment."
 titleFr: "Deux amis, une promesse : pourquoi la communauté se construit, ne se trouve pas"
 seoTitleFr: "Deux amis, une promesse : la communauté se construit"
-descriptionFr: "Ils avaient promis de marcher ensemble chaque jour pendant un an. La promesse, pas la marche, est ce qui les a changés. Une histoire de responsabilité, de communauté et de la différence entre une habitude et un engagement."
+descriptionFr: "Ils avaient promis de marcher chaque jour pendant un an. La promesse, pas la marche, les a changés — une histoire d'engagement et de responsabilité."
 pubDate: 2026-08-04
 updatedDate: 2026-09-21
 readTime: "4 min read"

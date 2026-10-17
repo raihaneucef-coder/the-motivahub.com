@@ -1,8 +1,8 @@
 ---
 title: "The Movie That Changed Your Week"
-description: "A good film does not just entertain — it rearranges you. Choose stories that profit your life."
+description: "A good film does not just entertain — it rearranges you. Choose stories that profit your life, and let a single evening shift your whole week."
 titleFr: "Le film qui a changé votre semaine"
-descriptionFr: "Un bon film ne divertit pas seulement — il vous transforme. Choisissez des histoires qui font fructifier votre vie."
+descriptionFr: "Un bon film ne divertit pas seulement — il vous transforme. Choisissez des histoires qui font fructifier votre vie, pas juste passer le temps."
 pubDate: 2026-08-09
 updatedDate: 2026-09-12
 topic: "Entertainment"

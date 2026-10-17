@@ -1,8 +1,8 @@
 ---
 title: "Success Is a Direction, Not a Destination"
-description: "Stop waiting to arrive. Success is not a place you reach — it is the way you walk."
+description: "Stop waiting to arrive. Success is not a place you reach — it is the way you walk. Choose a direction you can love on the ordinary, unglamorous days."
 titleFr: "La Réussite est une Direction, pas une Destination"
-descriptionFr: "La réussite n'est pas une destination — c'est une direction. Apprenez à avancer dans la bonne direction chaque jour."
+descriptionFr: "La réussite n'est pas une destination — c'est une direction. Apprenez à avancer chaque jour dans la bonne voie, surtout les jours sans éclat."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"

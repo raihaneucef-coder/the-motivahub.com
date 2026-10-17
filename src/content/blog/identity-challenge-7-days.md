@@ -1,10 +1,10 @@
 ---
 title: "I Ran a 7-Day Identity Challenge. Here's What 7 Days of Voting Actually Does."
 seoTitle: "The 7-Day Identity Challenge That Actually Works"
-description: "A personal experiment. Seven days, one identity statement, one tiny daily action. The math, the science, and the surprising result by day 7 — and what happened when I stopped."
+description: "A personal experiment: seven days, one identity statement, one tiny daily action. The math, the science, and the surprising result on day 7."
 titleFr: "J'ai fait un défi identitaire de 7 jours. Voici ce que 7 jours de votes font vraiment."
 seoTitleFr: "Défi identitaire 7 jours : ce que ça change"
-descriptionFr: "Une expérience personnelle. Sept jours, une affirmation d'identité, une petite action quotidienne. Les chiffres, la science, et le résultat surprenant au jour 7 — et ce qui s'est passé quand j'ai arrêté."
+descriptionFr: "Une expérience : sept jours, une affirmation d'identité, une petite action quotidienne. Les chiffres, la science, et le résultat surprenant au jour 7."
 pubDate: 2026-09-03
 updatedDate: 2026-09-21
 readTime: "14 MIN"

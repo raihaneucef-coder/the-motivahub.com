@@ -1,8 +1,8 @@
 ---
 title: "The Five-Minute Friendship Habit"
-description: "Friendship does not require weekends away — it requires five minutes of real attention, repeated."
+description: "Friendship does not require weekends away — it requires five minutes of real attention, repeated. The small habit that keeps long-distance bonds alive."
 titleFr: "L'habitude d'amitié en cinq minutes"
-descriptionFr: "L'amitié n'a pas besoin de week-ends loin — elle demande cinq minutes d'attention vraie, répétées."
+descriptionFr: "L'amitié n'a pas besoin de week-ends loin — elle demande cinq minutes d'attention vraie, répétées chaque jour. Le petit geste qui garde les liens vivants."
 pubDate: 2026-08-17
 updatedDate: 2026-09-21
 topic: "Relationships"

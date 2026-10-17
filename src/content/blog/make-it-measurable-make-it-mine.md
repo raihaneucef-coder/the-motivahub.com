@@ -1,6 +1,6 @@
 ---
 title: "Make It Measurable, Make It Mine"
-description: "A vague goal inspires no one, least of all you. Make it measurable, make it personal, and let progress pull you."
+description: "A vague goal inspires no one, least of all you. Make it measurable, make it personal, and let visible progress pull you on the hard days."
 titleFr: "Rends-le mesurable, rends-le tien"
 descriptionFr: "Un objectif vague n'inspire personne, surtout pas toi. Rends-le mesurable, rends-le personnel, et laisse le progrès te tirer."
 pubDate: 2026-08-22

@@ -1,6 +1,6 @@
 ---
 title: "The Two-Minute Breath Reset"
-description: "You cannot think your way calm — you breathe your way there. Two minutes is enough to change your state."
+description: "You cannot think your way calm — you breathe your way there. Two minutes of the right breathing is enough to change your state. The simple protocol."
 titleFr: "La réinitialisation respiratoire de 2 minutes"
 descriptionFr: "Vous ne pouvez pas vous calmer par la pensée — vous y arrivez par la respiration. Deux minutes suffisent pour changer votre état."
 pubDate: 2026-08-19

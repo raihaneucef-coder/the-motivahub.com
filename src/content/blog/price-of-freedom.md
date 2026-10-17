@@ -1,6 +1,6 @@
 ---
 title: "The Price of Freedom Is Paid Daily"
-description: "Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns."
+description: "Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns. The quiet cost nobody shows you."
 titleFr: "Le Prix de la Liberté : Ce Que Ça Coûte Vraiment"
 descriptionFr: "La liberté a un prix. Découvrez ce que coûte vraiment la liberté financière, temporelle et mentale — et comment le payer."
 pubDate: 2026-08-22

@@ -1,9 +1,9 @@
 ---
 title: "Small Wins, Big Life: The Power of Tiny Habits"
-description: "Big change does not require big actions — it requires small wins, repeated. Learn how tiny habits build a big life."
+description: "Big change does not require big actions — it requires small wins, repeated. Learn how tiny daily habits quietly build a big life over the long run."
 titleFr: "Petites Victoires, Grande Vie : Le Pouvoir des Micro-Gains"
 seoTitleFr: "Petites victoires, grande vie : les micro-gains"
-descriptionFr: "Les petites victoires créent une grande vie. Découvrez comment les micro-gains quotidiens transforment votre existence."
+descriptionFr: "Les petites victoires créent une grande vie. Découvrez comment les micro-gains quotidiens, répétés sans bruit, transforment votre existence sur la durée."
 pubDate: 2026-08-22
 updatedDate: 2026-09-21
 topic: "Habits"

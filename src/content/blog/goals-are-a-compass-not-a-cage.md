@@ -1,8 +1,8 @@
 ---
 title: "Goals Are a Compass, Not a Cage"
-description: "A good goal does not trap you — it points you. Learn how to set goals that pull you forward without breaking you."
+description: "A good goal does not trap you — it points you. Learn how to set goals that pull you forward without breaking you when plans inevitably change."
 titleFr: "Les objectifs sont une boussole, pas une cage"
-descriptionFr: "Un bon objectif ne te piège pas — il t'oriente. Apprends à fixer des objectifs qui te font avancer sans te briser."
+descriptionFr: "Un bon objectif ne te piège pas — il t'oriente. Apprends à fixer des objectifs qui te font avancer sans te briser quand le plan change de direction."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"

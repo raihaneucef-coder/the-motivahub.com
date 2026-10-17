@@ -1,8 +1,8 @@
 ---
 title: "Water Before Willpower"
-description: "Before you reach for willpower, reach for water. Hydration is the cheapest performance enhancer you own."
+description: "Most willpower failures are hydration failures. Drink before you decide, and the hard choices get easier. The cheapest performance upgrade nobody mentions."
 titleFr: "L'eau avant la volonté"
-descriptionFr: "Avant de faire appel à la volonté, buvez de l'eau. L'hydratation est le dopant le moins cher que vous possédiez."
+descriptionFr: "La plupart des échecs de volonté sont des échecs d'hydratation. Bois avant de décider, et les choix difficiles deviennent plus simples à tenir."
 pubDate: 2026-08-15
 updatedDate: 2026-09-12
 topic: "Nutrition"

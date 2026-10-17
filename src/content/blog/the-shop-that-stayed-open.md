@@ -1,10 +1,10 @@
 ---
 title: "The Shop That Stayed Open: Why Endurance Beats Pivoting"
 seoTitle: "The Shop That Stayed Open: Endurance Beats Pivoting"
-description: "Everyone else pivoted. He stayed. For 32 years, the doors opened at 7 a.m. — and the lessons he learned inside are the ones most professionals never find. A story about quiet endurance."
+description: "Everyone else pivoted. He stayed. For 32 years the doors opened at 7 a.m., and the lessons inside are the ones most professionals never find."
 titleFr: "Le commerce qui est resté ouvert : pourquoi l'endurance bat le pivot"
 seoTitleFr: "Le commerce qui est resté ouvert : l'endurance gagne"
-descriptionFr: "Tout le monde a pivoté. Lui est resté. Pendant 32 ans, les portes ont ouvert à 7h du matin — et les leçons qu'il a apprises à l'intérieur sont celles que la plupart des professionnels ne trouvent jamais. Une histoire d'endurance tranquille."
+descriptionFr: "Tout le monde a pivoté, lui est resté. 32 ans, portes ouvertes à 7h — les leçons apprises dedans sont celles que peu de pros trouvent jamais."
 pubDate: 2026-08-05
 updatedDate: 2026-09-21
 readTime: "4 min read"

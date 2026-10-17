@@ -1,10 +1,10 @@
 ---
 title: "Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)"
 seoTitle: "Why You Can't Focus (and a 5-Minute Fix)"
-description: "The reason willpower-based productivity failed me — and what finally worked. A body-first approach to focus that neuroscience is increasingly supporting. With practical protocols you can try tonight."
+description: "The reason willpower-based productivity failed me — and what finally worked. A body-first approach to focus, backed by neuroscience, with protocols to try tonight."
 titleFr: "Pourquoi tu ne peux pas te concentrer (et l'exercice de 5 minutes qui m'a sauvé)"
 seoTitleFr: "Concentration : pourquoi ça bloque, le remède"
-descriptionFr: "La raison pour laquelle la productivité basée sur la volonté m'a échoué — et ce qui a finalement fonctionné. Une approche centrée sur le corps pour la concentration que les neurosciences soutiennent de plus en plus. Avec des protocoles pratiques à essayer ce soir."
+descriptionFr: "Pourquoi la productivité basée sur la volonté m'a échoué — et ce qui a fini par marcher. Une approche centrée sur le corps, soutenue par les neurosciences."
 pubDate: 2026-09-04
 updatedDate: 2026-09-21
 readTime: "10 MIN"

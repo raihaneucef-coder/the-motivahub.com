@@ -1,6 +1,6 @@
 ---
 title: "Love Is a Practice, Not a Feeling"
-description: "We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows."
+description: "We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows. Love as a practice, not a mood."
 titleFr: "L'amour est une pratique, pas un sentiment"
 descriptionFr: "On attend de se sentir aimant avant d'agir avec amour. Ça marche dans l'autre sens : agis avec soin chaque jour et le sentiment suivra."
 pubDate: 2026-08-10

@@ -1,10 +1,10 @@
 ---
 title: "The Letter He Never Sent — And the Day It Changed His Life"
 seoTitle: "The Letter He Never Sent — A Story of Change"
-description: "He wrote it in rage. He never mailed it. But every morning, for forty years, he read it again — and made the same quiet choice. Sometimes the unsaid letters write our lives."
+description: "He wrote it in rage and never mailed it. But every morning for forty years he read it — and made the same quiet choice. Unsent letters write our lives."
 titleFr: "La lettre qu'il n'a jamais envoyée — et le jour où ça a changé sa vie"
 seoTitleFr: "La lettre qu'il n'a jamais envoyée"
-descriptionFr: "Il l'a écrite dans la colère. Il ne l'a jamais postée. Mais chaque matin, pendant quarante ans, il l'a relue — et a fait le même choix silencieux. Parfois, les lettres non envoyées écrivent nos vies."
+descriptionFr: "Il l'a écrite dans la colère, ne l'a jamais postée. Mais chaque matin pendant quarante ans il l'a relue — et a fait le même choix silencieux."
 pubDate: 2026-08-07
 updatedDate: 2026-09-12
 topic: "Stories"

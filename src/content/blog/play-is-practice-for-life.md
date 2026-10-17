@@ -1,6 +1,6 @@
 ---
 title: "Play Is Practice for Life"
-description: "We think play is what we do after life. Play is how we learn to live — lightly, creatively, together."
+description: "We think play is what we do after life. Play is how we learn to live — lightly, creatively, together. Why play is practice, not a reward."
 titleFr: "Jouer, c'est s'entraîner pour la vie"
 descriptionFr: "On pense que jouer est ce qu'on fait après la vie. Jouer, c'est ainsi qu'on apprend à vivre — légèrement, créativement, ensemble."
 pubDate: 2026-08-08

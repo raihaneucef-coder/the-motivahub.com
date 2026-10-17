@@ -1,10 +1,10 @@
 ---
 title: "I Tested 12 Morning Routines for 30 Days. Only One Actually Worked."
 seoTitle: "I Tested 12 Morning Routines for 30 Days"
-description: "I tried every famous morning routine for 30 days — Hal Elrod's Miracle Morning, Tim Ferriss's 4-Hour Body protocol, the5 AM wake-up, the slow morning, the cold plunge, and more. Here's what survived contact with a real Tuesday."
+description: "I tried every famous morning routine for 30 days — Miracle Morning, Ferriss's protocol, 5 AM club, cold plunges. Here's what survived a real Tuesday."
 titleFr: "J'ai testé 12 routines matinales pendant 30 jours. Une seule a vraiment fonctionné."
 seoTitleFr: "12 routines matinales testées pendant 30 jours"
-descriptionFr: "J'ai essayé toutes les routines matinales connues pendant 30 jours — le Miracle Morning de Hal Elrod, le protocole 4-Hour Body de Tim Ferriss, le réveil à 5h, le matin lent, le bain froid, et plus encore. Voici ce qui a survécu à un mardi réel."
+descriptionFr: "J'ai testé toutes les routines matinales connues pendant 30 jours — Miracle Morning, protocole Ferriss, réveil à 5h, bain froid. Voici ce qui a tenu."
 pubDate: 2026-09-01
 updatedDate: 2026-09-21
 readTime: "12 MIN"

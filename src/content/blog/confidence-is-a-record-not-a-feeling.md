@@ -1,6 +1,6 @@
 ---
 title: "Confidence Is a Record, Not a Feeling"
-description: "Confidence is not a feeling you wait for — it is a record you build, one kept promise at a time."
+description: "Confidence is not a feeling you wait for — it is a record you build, one kept promise at a time. The daily practice that quietly writes the record."
 titleFr: "La Confiance est un Record, pas un Sentiment"
 descriptionFr: "La confiance ne vient pas du sentiment — elle vient des actions répétées. Découvrez comment construire la confiance à travers les preuves."
 pubDate: 2026-08-22

@@ -1,7 +1,7 @@
 ---
 title: "Discipline Over Motivation: Why One Shows Up and the Other Doesn't"
 seoTitle: "Discipline Over Motivation: Why One Shows Up"
-description: "Motivation gets you started. Discipline keeps you going. Learn why discipline is more reliable than motivation — and how to build it using the 2-minute rule, 2-day rule, and identity voting."
+description: "Motivation gets you started, discipline keeps you going. Why discipline beats motivation — built with the 2-minute rule, the 2-day rule and identity votes."
 titleFr: "La Discipline Dépass la Motivation : Construire des Systèmes"
 seoTitleFr: "Discipline vs motivation : construire des systèmes"
 descriptionFr: "La motivation est volatile, la discipline est constante. Apprenez à construire des systèmes qui fonctionnent même quand la motivation faiblit."

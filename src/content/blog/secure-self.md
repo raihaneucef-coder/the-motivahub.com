@@ -1,10 +1,10 @@
 ---
 title: "The Secure Self — Why Focusing on Yourself Is the Safest Love"
 seoTitle: "The Secure Self: Why Focus on You Is Safest"
-description: "You were told that focusing on yourself is selfish. A more secure perspective says the opposite: you focus on yourself more than people because self-love is the only love that never leaves."
+description: "You were told focusing on yourself is selfish. A more secure view says the opposite: self-love is the only love that never leaves — build it first."
 titleFr: "Soi Sécurisé : Comment Développer un Attachement Sain"
 seoTitleFr: "Soi sécurisé : construire un attachement sain"
-descriptionFr: "Un soi sécurisé est la base d'une vie épanouie. Apprenez à développer un attachement sain avec vous-même et les autres."
+descriptionFr: "Un soi sécurisé est la base d'une vie épanouie. Apprenez à développer un attachement sain avec vous-même, puis avec les autres autour de vous."
 pubDate: 2026-08-12
 updatedDate: 2026-09-21
 readTime: "7 MIN"

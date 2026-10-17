@@ -1,7 +1,7 @@
 ---
 title: "The 5-Minute Daily Habit That Strengthens Every Relationship"
 seoTitle: "The 5-Minute Habit That Strengthens Relationships"
-description: "Most relationships do not die from big betrayals. They die from small neglects. This 5-minute habit prevents that."
+description: "Most relationships do not die from big betrayals. They die from small neglects. This five-minute habit prevents the slow drift — starting today."
 titleFr: "L'habitude quotidienne de 5 minutes qui renforce chaque relation"
 seoTitleFr: "L'habitude de 5 minutes qui renforce vos relations"
 descriptionFr: "La plupart des relations ne meurent pas par de grandes trahisons. Elles meurent par de petites négligences. Cette habitude de 5 minutes empêche ça."

@@ -1,6 +1,6 @@
 ---
 title: "How to Argue Without Breaking"
-description: "Disagreement is not the enemy of love — distance is. Learn the art of arguing in a way that leaves you closer."
+description: "Disagreement is not the enemy of love — distance is. Learn the art of arguing in a way that leaves you closer on the other side of the fight."
 titleFr: "Comment se disputer sans se briser"
 descriptionFr: "Le désaccord n'est pas l'ennemi de l'amour — la distance l'est. Apprends l'art de se disputer de façon à vous rapprocher."
 pubDate: 2026-08-15

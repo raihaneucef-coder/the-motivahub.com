@@ -1,10 +1,10 @@
 ---
 title: "Personal Discipline: The Complete Guide to Self-Control and Consistency"
 seoTitle: "Personal Discipline: A Guide to Self-Control"
-description: "Personal discipline decoded: 8 numbered systems — from identity-first goals and the two-minute rule to morning design, voluntary discomfort and the 40% rule — that make consistency automatic."
+description: "Personal discipline decoded: 8 systems — identity goals, the 2-minute rule, morning design, voluntary discomfort and the 40% rule — for lasting consistency."
 titleFr: "Discipline Personnelle : 8 Systèmes Plutôt que la Volonté"
 seoTitleFr: "Discipline personnelle : 8 systèmes concrets"
-descriptionFr: "Un guide complet de discipline personnelle : 8 systèmes concrets — buts identitaires, règle des deux minutes, routine du matin, inconfort volontaire, règle des 40 % — pour tenir sans compter sur la volonté."
+descriptionFr: "8 systèmes pour tenir sans compter sur la volonté : objectifs identitaires, règle des 2 minutes, inconfort volontaire, règle des 40 %, routine du matin."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21
 readTime: "9 MIN"
