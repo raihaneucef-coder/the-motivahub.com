@@ -1,6 +1,6 @@
 ---
 title: "Lose Fat and Gain Muscle at the Same Time: The Body Recomposition System"
-description: "The honest, research-backed way to change your body composition — the exact protein, calorie, training and sleep numbers for cutting, bulking, or doing both at once."
+description: "The honest, research-backed way to change body composition — exact protein, calorie, training and sleep numbers for cutting, bulking, or both."
 seoTitle: "Body Recomposition: Lose Fat & Gain Muscle (Science)"
 titleFr: "Perdre du gras et prendre du muscle en même temps : le système de recomposition corporelle"
 descriptionFr: "La méthode scientifique et honnête pour changer votre corps — protéines, calories, entraînement et sommeil pour sécher, prendre du muscle, ou les deux."

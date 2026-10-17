@@ -1,6 +1,6 @@
 ---
 title: "Mental Resilience: How to Bounce Back from Anything"
-description: "Build unshakeable mental resilience. Science-backed strategies to recover from setbacks and come back stronger — the parasympathetic nervous system is trainable."
+description: "Build unshakeable mental resilience. Science-backed strategies to recover from setbacks and come back stronger — the parasympathetic system is trainable."
 titleFr: "Résilience Mentale : Comment Devenir Plus Fort"
 descriptionFr: "La résilience mentale se construit. Découvrez les exercices et les mindset shifts pour développer une résilience à toute épreuve."
 pubDate: 2026-08-24

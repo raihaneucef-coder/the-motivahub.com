@@ -1,7 +1,7 @@
 ---
 title: "How to Change Your Identity: The 5-Step Identity-Based Habits System"
 seoTitle: "How to Change Your Identity: A 5-Step System"
-description: "Identity-based habits in practice: five steps to become who you want to be - start the identity-behavior loop, prove it with small actions, and never miss twice."
+description: "Identity-based habits in practice: five steps to become who you want — start the identity-behavior loop, prove it with small wins, never miss twice."
 titleFr: "Comment changer d'identité : le système d'habitudes identitaires en 5 étapes"
 seoTitleFr: "Changer d'identité : le système en 5 étapes"
 descriptionFr: "5 étapes pour devenir qui tu veux être : lance la boucle identité-comportement, prouve-la par de petites actions, et ne manque jamais deux fois."

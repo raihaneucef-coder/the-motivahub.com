@@ -4,7 +4,7 @@ seoTitle: "Never Break the Chain: A Simple Consistency Rule"
 description: "Jerry Seinfeld's productivity secret: never break the chain. Why consistency beats intensity for lasting change — and how the 2-day rule makes it practical."
 titleFr: "Ne brise jamais la chaîne : la règle simple qui change tout"
 seoTitleFr: "Ne brise jamais la chaîne : la règle simple"
-descriptionFr: "Le secret de productivité de Jerry Seinfeld : ne jamais briser ta chaîne. Pourquoi la régularité bat l'intensité — et comment la règle des 2 jours la rend pratique."
+descriptionFr: "Le secret de productivité de Jerry Seinfeld : ne jamais briser ta chaîne. Pourquoi la régularité bat l'intensité — et la règle des 2 jours pour tenir."
 pubDate: 2026-08-24
 updatedDate: 2026-09-21
 readTime: "5 MIN"

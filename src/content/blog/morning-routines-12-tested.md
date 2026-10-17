@@ -4,7 +4,7 @@ seoTitle: "I Tested 12 Morning Routines for 14 Days"
 description: "Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work — and which are just expensive ways to feel productive."
 titleFr: "J'ai testé 12 routines matinales pendant 14 jours. Seules 3 ont tenu."
 seoTitleFr: "12 routines matinales testées pendant 14 jours"
-descriptionFr: "Quatorze jours, douze routines, quatre archétypes. Les routines matinales qui marchent vraiment, et celles qui ne sont que des façons coûteuses de bien se sentir."
+descriptionFr: "Quatorze jours, douze routines, quatre archétypes. Les routines matinales qui marchent vraiment — et celles qui ne sont que du bien-être coûteux."
 pubDate: 2026-09-03
 updatedDate: 2026-09-21
 readTime: "16 MIN"
