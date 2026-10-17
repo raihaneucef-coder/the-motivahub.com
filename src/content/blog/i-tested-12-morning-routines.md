@@ -247,7 +247,7 @@ relatedArticles:
 2. <em>Andrew Huberman</em> — sleep and chronotype research (Stanford neuroscience)
 3. <em>Matthew Walker's</em> — <em>Why We Sleep</em> (2017) — sleep architecture research
 4. <em>Atomic Habits</em> by James Clear — the habit design framework
-5. <em>James Clear</em> — <a href="jamescle">3-2-1 Newsletter</a> — for morning routine research</div>
+5. <em>James Clear</em> — <a href="https://jamesclear.com">3-2-1 Newsletter</a> — for morning routine research</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p78">---</div>
 
