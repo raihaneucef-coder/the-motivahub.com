@@ -1,7 +1,7 @@
 ---
 title: "The 2-Minute Rule: A Complete System, Not Just a Trick"
 seoTitle: "The 2-Minute Rule: A Complete System"
-description: "James Clear's 2-minute rule is the most misunderstood idea in habit science. It is not a productivity hack. It is a complete system of identity, design, and recovery. Here is the full architecture — including what to do when it stops working."
+description: "James Clear's 2-minute rule is the most misunderstood idea in habit science. Not a productivity hack — a complete system of identity, design, and recovery."
 titleFr: "La Règle des 2 Minutes : Un Système Complet, pas une Simple Astuce"
 seoTitleFr: "La règle des 2 minutes : un système complet"
 descriptionFr: "La règle des 2 minutes de James Clear est l'idée la plus mal comprise en science des habitudes. Ce n'est pas un hack de productivité. C'est un système complet d'identité, de conception et de récupération."

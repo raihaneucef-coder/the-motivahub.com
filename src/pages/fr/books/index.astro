@@ -28,7 +28,6 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
 ---
 
 <Layout title="17 Meilleurs Livres de Développement Personnel 2026 — Motiva Hub" description="Les 17 meilleurs livres de développement personnel à lire en 2026 — habitudes, concentration, résilience et sens. Testés et classés par l'équipe Motiva Hub.">
-  <link rel="canonical" href="https://the-motivahub.com/fr/books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -66,7 +65,10 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
         <p class="bk-hero-tagline">Lire. Réfléchir. Appliquer. Grandir.</p>
       </div>
       <div class="bk-hero-img">
-        <img src="/images/books.jpg" alt="Pile de livres influents sur la croissance et la discipline" loading="eager" width="800" height="600" />
+        <picture>
+          <source type="image/webp" srcset="/images/books.webp">
+          <img src="/images/books.jpg" alt="Pile de livres influents sur la croissance et la discipline" loading="eager" fetchpriority="high" decoding="async" width="800" height="600" />
+        </picture>
         <p class="bk-hero-img-label">Lis moins,<br />relis plus.</p>
       </div>
     </div>

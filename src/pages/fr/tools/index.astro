@@ -43,7 +43,6 @@ const tools = [
 ---
 
 <Layout title="Outils Pratiques — Motiva Hub" description="Des outils simples et concentrés pour vous aider à transformer les idées en actions. Construisez de meilleures habitudes et faites de vrais progrès — un petit pas à la fois.">
-  <link rel="canonical" href="https://the-motivahub.com/fr/tools/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -86,7 +85,10 @@ const tools = [
         <p class="tools-hero-tagline">Des outils pour une vie plus intentionnelle.</p>
       </div>
       <div class="tools-hero-img">
-        <img src="/images/hero-mountain-man.jpg" alt="Personne au sommet d'une montagne au coucher du soleil" loading="eager" width="1024" height="1024" />
+        <picture>
+          <source type="image/webp" srcset="/images/hero-mountain-man.webp">
+          <img src="/images/hero-mountain-man.jpg" alt="Personne au sommet d'une montagne au coucher du soleil" loading="eager" fetchpriority="high" decoding="async" width="1024" height="1024" />
+        </picture>
       </div>
     </div>
   </section>

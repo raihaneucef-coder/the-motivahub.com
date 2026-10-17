@@ -40,7 +40,6 @@ const archiveGroups: { topic: string; items: typeof posts }[] = (() => {
 ---
 
 <Layout title="The Journal — Motiva Hub" description="Practical articles, personal reflections and actionable ideas to help you think clearer, build better habits and create a more intentional life.">
-  <link rel="canonical" href="https://the-motivahub.com/journal/" />
   <link rel="next" href="/journal/page/2/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
@@ -68,7 +67,10 @@ const archiveGroups: { topic: string; items: typeof posts }[] = (() => {
         <p class="journal-hero-tagline">Real ideas for a better you.</p>
       </div>
       <div class="journal-hero-img">
-        <img src="/images/hero-mountain-man.jpg" alt="Person sitting on a mountain peak at sunset" loading="eager" width="1024" height="1024" />
+        <picture>
+          <source type="image/webp" srcset="/images/hero-mountain-man.webp">
+          <img src="/images/hero-mountain-man.jpg" alt="Person sitting on a mountain peak at sunset" loading="eager" fetchpriority="high" decoding="async" width="1024" height="1024" />
+        </picture>
       </div>
     </div>
   </section>

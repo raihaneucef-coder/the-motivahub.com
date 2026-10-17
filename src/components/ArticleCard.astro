@@ -26,7 +26,7 @@ const imageDimensions = await getImageDimensions(thumb);
       </Link>
   <div class="card-body">
     <p class="card-meta"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span> — {post.data.readTime}</p>
-    <h3 class="card-title">
+    <h2 class="card-title">
       <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`}>
         {title}
       </Link>

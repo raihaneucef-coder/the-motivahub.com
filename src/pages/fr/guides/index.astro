@@ -46,7 +46,6 @@ const readTime = (words: number) => `${Math.round(words / 250)} MIN DE LECTURE`;
 ---
 
 <Layout title="Guides Pratiques — Motiva Hub" description="Des guides étape par étape, des frameworks et de vraies stratégies pour vous aider à construire de meilleures habitudes, un esprit plus sain et une vie plus intentionnelle.">
-  <link rel="canonical" href="https://the-motivahub.com/fr/guides/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -89,7 +88,10 @@ const readTime = (words: number) => `${Math.round(words / 250)} MIN DE LECTURE`;
         <p class="guides-hero-tagline">De vraies connaissances pour un vous plus lumineux.</p>
       </div>
       <div class="guides-hero-img">
-        <img src="/images/hero-stoic-ascent.jpg" alt="Personne gravissant un sentier de montagne à l'heure dorée" loading="eager" width="1024" height="1024" />
+        <picture>
+          <source type="image/webp" srcset="/images/hero-stoic-ascent.webp">
+          <img src="/images/hero-stoic-ascent.jpg" alt="Personne gravissant un sentier de montagne à l'heure dorée" loading="eager" fetchpriority="high" decoding="async" width="1024" height="1024" />
+        </picture>
       </div>
     </div>
   </section>

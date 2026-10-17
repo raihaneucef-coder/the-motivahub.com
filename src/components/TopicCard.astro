@@ -15,7 +15,7 @@ const posts = (await getCollection("blog")).filter((p) => !p.data.draft && norm(
 
 <a class="topic-card" href={topicHref}>
   <div class="topic-top">
-    <h3>{topic.title}</h3>
+    <h2>{topic.title}</h2>
     <span class="topic-count">{posts.length} <span data-i18n={posts.length === 1 ? "topicEssay" : "topicEssays"}>{posts.length === 1 ? "Essay" : "Essays"}</span></span>
   </div>
   <p>{topic.description}</p>

@@ -28,7 +28,6 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
 ---
 
 <Layout title="17 Best Self-Development Books for 2026 — Motiva Hub" description="The 17 best self-development books to read in 2026 — habits, focus, resilience, and meaning. Ranked and tested by the Motiva Hub editorial team.">
-  <link rel="canonical" href="https://the-motivahub.com/books/" />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -66,7 +65,10 @@ const shelfGroupOrder = ["MINDSET", "HABITS", "FOCUS", "STOICISM", "CLASSICS"];
         <p class="bk-hero-tagline">Read. Reflect. Apply. Grow.</p>
       </div>
       <div class="bk-hero-img">
-        <img src="/images/books.jpg" alt="Stack of influential books on growth and discipline" loading="eager" width="800" height="600" />
+        <picture>
+          <source type="image/webp" srcset="/images/books.webp">
+          <img src="/images/books.jpg" alt="Stack of influential books on growth and discipline" loading="eager" fetchpriority="high" decoding="async" width="800" height="600" />
+        </picture>
         <p class="bk-hero-img-label">Read less,<br />reread more.</p>
       </div>
     </div>

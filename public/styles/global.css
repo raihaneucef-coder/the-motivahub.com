@@ -141,6 +141,8 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-sep { color:rgb
    via CSSOM) and restore the intended desktop rendering. Layout rules are
    scoped to >=769px so mobile rendering is untouched.
    ========================================================================== */
+/* Goal tracker heading: h2 for hierarchy, kept at h3 display size */
+.goals-head h2 { font-size: var(--fs-h3); }
 @media (min-width: 769px) {
   /* 1. Centered page header: label above, title + subtitle centered */
   .page-head{text-align:center;padding:clamp(48px,8vh,80px) 0 clamp(32px,5vh,56px)}
@@ -1295,6 +1297,8 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
 }
 @media (max-width: 1024px) { .journal-topics-grid { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 560px) { .journal-topics-grid { grid-template-columns: repeat(2, 1fr); } }
+/* Topic cards: h2 for heading hierarchy, kept at h3 display size */
+.topic-card h2 { font-size: var(--fs-h3); }
 .journal-topic-card {
   display: flex;
   flex-direction: column;
@@ -2045,7 +2049,7 @@ body:not(:has(.hero-portrait)) .site-header:not(.scrolled) .lang-btn.active { co
   border: 1px solid #2a2a2a; display: flex; align-items: center; justify-content: center;
   color: #d4b377; flex-shrink: 0;
 }
-.d30-benefit h3 {
+.d30-benefit h2 {
   font-family: var(--sans); font-size: 0.9375rem; font-weight: 600; color: #f0f0f0; margin: 0 0 4px;
 }
 .d30-benefit p {
