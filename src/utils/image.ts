@@ -36,3 +36,16 @@ export function thumbSrc(imagePath: string): string {
   // missing -sm variant never renders a broken image on the card.
   return fs.existsSync(path.join(IMAGE_DIR, smPath)) ? smPath : imagePath;
 }
+
+// Article-cover srcset built from the pre-generated -sm/-md variants. Each
+// candidate is checked on disk first, so an article whose image has no -md
+// (or no -sm) variant still gets a valid srcset instead of a 404.
+export function coverSrcset(imagePath: string, width: number): string {
+  const candidates: string[] = [];
+  const sm = thumbSrc(imagePath);
+  if (sm !== imagePath) candidates.push(`${sm} 640w`);
+  const md = sm.replace(/-sm\.jpg$/, "-md.jpg");
+  if (md !== sm && fs.existsSync(path.join(IMAGE_DIR, md))) candidates.push(`${md} 800w`);
+  candidates.push(`${imagePath} ${width}w`);
+  return candidates.join(', ');
+}
