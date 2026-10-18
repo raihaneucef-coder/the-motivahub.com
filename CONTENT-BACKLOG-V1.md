@@ -13,7 +13,7 @@
 | **Pillar** | P1 Behavioral Engineering (primary) |
 | **Connects to** | `/topics/habits/` (hub card already exists) · `/journal/deep-work-ritual/` · `/journal/deep-work-focus/` (the 2 concept articles → canonical self-loop) · `/guides/atomic-habits-ultimate-guide/` (focus adjacent) · `/best/focus-books/` roundup · `/books/` |
 | **Internal linking plan** | Review links: hub P1 (anchor "the habits system"), both concept articles (descriptive anchors), /best/focus-books/. From review to book: ONE primary inline CTA (style A, BOOKS-MAP rule — replaces no card; hub card already carries style B). The 12 mentioning articles get link-pass later ONLY via Nav-v2 pass, no body farming |
-| **Book/tool/podcast** | Book: deep-work (tag motivahub-21 ✓ live) · Tool: reading-calculator tie-in ("how deep work reads into your year") · Podcast: Jay Shetty focus episode (id `deep-work-in-practice` — first article↔episode link candidate, bundle with B3 later) |
+| **Book/tool/podcast** | Book: deep-work (tag motivahub-21 ✓ live) · Tool: reading-calculator tie-in ("how deep work reads into your year") · Podcast: Jay Shetty "ambitious but lazy" episode (id `deep-work-in-practice` — consistency over motivation angle; first article↔episode link candidate, bundle with B3 later) |
 | **Affiliate potential** | Direct: existing tagged URL, no new tags. Measures as first tracked deep-work click once F-3 measurement pass ships |
 | **Difficulty** | **2/5** — evidence base already written (2 concept articles), standard template, known slug rules |
 | **Priority score** | evidence 4 (12 mentions, card live) + leverage 4 (integrity + E5 email book #2 slot) − diff 2 = **6** |
@@ -26,7 +26,7 @@
 | **Pillar** | P3 Brain-Body Performance |
 | **Connects to** | `/topics/sport/` hub (gets first book card) · `/journal/sleep-is-unfair-advantage/` · `/journal/rest-is-a-decision-not-a-collapse/` · `/journal/nervous-system-is-the-boss/` (hidden-winner cluster, 88-100% eng) · `/tools/meditation-timer/` · `/best/habit-books/` (sleep habit angle) |
 | **Internal linking plan** | Review ↔ the 3 sleep articles (both directions, descriptive anchors, FR parity same-diff). Review → hub P3 + book inline CTA (style A, 1 primary). Sleep articles get the review as their "go deeper" link. **No CTA on the nervous-system story pieces** (concierge rule precedent). After ship: hub P3 book card = style B — first and only until book #2 reviewed |
-| **Book/tool/podcast** | Book: NEW entry in books.ts (walker) with tagged URL — data-only change · Tool: meditation-timer (100% eng, needs entry paths — synergy with BACKLOG-300) · Podcast: Huberman episode has sleep content — link candidate, not required |
+| **Book/tool/podcast** | Book: NEW entry in books.ts (walker) with tagged URL — data-only change · Tool: meditation-timer (100% eng, needs entry paths — synergy with BACKLOG-300) · Podcast: Huberman Lab Essentials "Motivation & Drive" episode — discipline/link candidate, not sleep content (the list no longer carries a sleep episode) |
 | **Affiliate potential** | **The blocked lane opener.** P3 = highest product affinity per reader (gap map F), currently $0 by policy. First sale path for sleep category |
 | **Difficulty** | **3/5** — honest treatment of the criticism wave needs source work (Motiva-5 tier check), then standard bilingual build |
 | **Priority score** | evidence 4 (sleep cluster measured) + leverage 5 (unblocks slot+citation+lane, feeds E-email lane) − diff 3 = **6** |

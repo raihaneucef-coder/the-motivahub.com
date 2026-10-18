@@ -8,7 +8,7 @@ import ArticleCard from "../../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
 import { books } from "../../data/books";
 import { podcasts } from "../../data/podcasts";
-import { getFrenchSlug } from "../../utils/i18n";
+import { getFrenchSlug, localizePodcast } from "../../utils/i18n";
 
 // All counts are computed from the real corpus at build time — never hardcoded.
 const posts = (await getCollection("blog"))
@@ -24,6 +24,11 @@ const wordLabel = `${Math.floor(wordCount / 1000)}k+`;
 const bookCount = books.length;
 const episodeCount = podcasts.length;
 const toolCount = 5;
+
+// Featured episodes: same dataset entries, with title/description/date labels
+// swapped for French copy (public/i18n/podcasts-fr.json). Dates and durations
+// stay the verified values from src/data/podcasts.ts.
+const featuredPodcasts = podcasts.slice(0, 3).map(localizePodcast);
 
 const recentPosts = posts.slice(0, 20);
 const toolItems = [
@@ -212,9 +217,9 @@ const stats = [
         </div>
       </div>
       <div class="hp-listen-grid reveal-stagger">
-        {podcasts.slice(0, 3).map((p) => (
+        {featuredPodcasts.map((p) => (
           <article class="hp-listen-item">
-            <img class="hp-listen-cover" src={p.cover} alt={`${p.title} cover`} loading="lazy" onerror="this.onerror=null;this.src='/images/cover-fallback.svg';" />
+            <img class="hp-listen-cover" src={p.cover} alt={`${p.title} — couverture`} loading="lazy" onerror="this.onerror=null;this.src='/images/cover-fallback.svg';" />
             <div class="hp-listen-body">
               <p class="hp-listen-meta">{p.date} · {p.duration}</p>
               <h3 class="hp-listen-title">{p.title}</h3>

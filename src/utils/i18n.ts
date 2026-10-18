@@ -1,3 +1,5 @@
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import frSlugs from '../i18n/slugs-fr.json';
 
 export type Locale = 'en' | 'fr';
@@ -38,4 +40,44 @@ export function getEnglishSlug(frSlug: string): string {
 export function isFrenchSlug(slug: string): boolean {
   const cleanSlug = slug.replace(/^\/|\/$/g, '');
   return Object.values(frSlugs).includes(cleanSlug);
+}
+
+const MONTHS_FR: Record<string, string> = {
+  Jan: 'janvier', Feb: 'février', Mar: 'mars', Apr: 'avril', May: 'mai', Jun: 'juin',
+  Jul: 'juillet', Aug: 'août', Sep: 'septembre', Oct: 'octobre', Nov: 'novembre', Dec: 'décembre',
+};
+
+// "Aug 19, 2026" -> "19 août 2026". Anything that is not that exact shape
+// (e.g. the "Full workshop" label) is returned unchanged.
+export function formatFrenchDate(date: string): string {
+  const m = date.match(/^([A-Za-z]{3})\s+(\d{1,2}),\s+(\d{4})$/);
+  return m ? `${m[2]} ${MONTHS_FR[m[1]] ?? m[1]} ${m[3]}` : date;
+}
+
+type PodcastFrCopy = { title?: string; description?: string; date?: string };
+
+// French copy for the curated listening list, keyed by podcast id. Parsed once
+// per build and cached; ids missing from the file fall back to the English dataset.
+let podcastFrCache: Record<string, PodcastFrCopy> | null = null;
+function getPodcastFrCopy(): Record<string, PodcastFrCopy> {
+  if (!podcastFrCache) {
+    const parsed: Record<string, PodcastFrCopy> = JSON.parse(
+      readFileSync(join(process.cwd(), 'public', 'i18n', 'podcasts-fr.json'), 'utf-8')
+    );
+    podcastFrCache = parsed;
+    return parsed;
+  }
+  return podcastFrCache;
+}
+
+// Localise the displayed fields of a podcast entry. Dates, durations, ids, covers
+// and links stay exactly as the dataset holds them.
+export function localizePodcast<T extends { id: string; title: string; description: string; date: string }>(podcast: T): T {
+  const copy = getPodcastFrCopy()[podcast.id] ?? {};
+  return {
+    ...podcast,
+    title: copy.title ?? podcast.title,
+    description: copy.description ?? podcast.description,
+    date: copy.date ?? formatFrenchDate(podcast.date),
+  };
 }

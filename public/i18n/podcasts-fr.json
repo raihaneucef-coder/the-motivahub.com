@@ -1,0 +1,50 @@
+{
+  "_note": "French copy for the curated listening list, keyed by the podcast ids in src/data/podcasts.ts. Only title/description/date are displayed; date overrides the two non-date labels. sourceTitle holds the exact verified YouTube title (oEmbed, Oct 2026) for attribution and is never rendered.",
+  "school-of-greatness-motivation": {
+    "sourceTitle": "Your Subconscious Mind Is Sabotaging You (Here's How To Rewire It) | Peter Crone",
+    "title": "Votre subconscient vous sabote (et comment le reprogrammer) | Peter Crone",
+    "description": "Peter Crone, qui entraîne des joueurs du PGA Tour et de la MLB, explique pourquoi la volonté peut forcer une habitude, mais jamais une identité."
+  },
+  "shi-heng-yi-focus-silent": {
+    "sourceTitle": "FOCUS ON YOURSELF AND STAY SILENT - Best Motivational Speech | Shi Heng Yi",
+    "title": "Motiversity — Shi Heng Yi : concentrez-vous sur vous-même et restez silencieux",
+    "description": "Motiversity — la sagesse shaoline sur le silence et la discipline. Une leçon intemporelle sur la maîtrise de soi."
+  },
+  "mel-robbins-5am": {
+    "sourceTitle": "The Science of Self Control: Find Motivation, Increase Your Focus, and Hack Dopamine",
+    "title": "La science de la maîtrise de soi : retrouver la motivation, affûter sa concentration et réguler la dopamine",
+    "description": "Mel Robbins et le Dr Anna Lembke, professeure de psychiatrie et de médecine des addictions, sur la dopamine, les comportements compulsifs et la façon de se relancer quand on est épuisé."
+  },
+  "jocko-discipline": {
+    "sourceTitle": "Jocko Podcast 521: Obey Your Own Orders. Discipline vs. the War in Your Head",
+    "title": "Jocko Podcast 521 : obéir à vos propres ordres. La discipline contre la guerre dans votre tête",
+    "description": "Jocko Willink et Echo Charles sur cette guerre silencieuse dans votre tête — comment de minuscules choix quotidiens, des donuts aux dettes en passant par le scroll compulsif, décident de la victoire ou de la défaite."
+  },
+  "discipline-over-motivation": {
+    "sourceTitle": "The Man Who Wrote Atomic Habits: Your Goals Are Quietly Restricting Your Happiness | James Clear",
+    "title": "L'homme qui a écrit Atomic Habits : vos objectifs brident votre bonheur en silence | James Clear",
+    "description": "James Clear, auteur d'Atomic Habits, sur la science des habitudes durables, la façon de casser les mauvaises et pourquoi les gains de 1 % comptent plus que les objectifs."
+  },
+  "deep-work-in-practice": {
+    "sourceTitle": "If you’re ambitious but lazy, please watch this…",
+    "title": "Si vous êtes ambitieux mais paresseux, regardez cette vidéo…",
+    "description": "Jay Shetty sur la paresse, la distraction et l'épuisement : abaisser la barre, créer des rituels et choisir la régularité plutôt que la motivation."
+  },
+  "morning-drive-01": {
+    "sourceTitle": "How to Increase Motivation & Drive | Huberman Lab Essentials",
+    "title": "Comment renforcer sa motivation et sa détermination | Huberman Lab Essentials",
+    "description": "Andrew Huberman sur la biologie de la motivation et de la détermination : le rôle de la dopamine, l'équilibre plaisir-douleur et des outils contre la procrastination."
+  },
+  "the-futur-ikigai-niche": {
+    "sourceTitle": "How To Find Your Niche & Turn Passion Into Profit — Ikigai Workshop",
+    "title": "The Futur — trouver sa niche et transformer sa passion en activité rentable",
+    "description": "Chris Do — un atelier complet sur l'ikigai pour transformer ce que vous aimez en un travail pour lequel le monde est prêt à payer.",
+    "date": "Atelier complet"
+  },
+  "caleb-ralston-personal-brand": {
+    "sourceTitle": "How to Build a Personal Brand (Full Course)",
+    "title": "Caleb Ralston — construire une marque personnelle (cours complet)",
+    "description": "Caleb Ralston — une masterclass au format long pour bâtir une marque personnelle qui attire des clients.",
+    "date": "Cours complet"
+  }
+}

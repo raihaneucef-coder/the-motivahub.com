@@ -1,21 +1,16 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import { podcasts } from "../../../data/podcasts";
+import { localizePodcast } from "../../../utils/i18n";
 
-// Curated listening list of third-party shows. Episode titles and descriptions
-// are fixed metadata of English-language shows (the dataset has no FR fields),
-// so they stay as-is; only the page chrome and dates are localised.
-const latest = podcasts[0];
-const rest = podcasts.slice(1);
-
-const monthsFr: Record<string, string> = {
-  Jan: "janvier", Feb: "février", Mar: "mars", Apr: "avril", May: "mai", Jun: "juin",
-  Jul: "juillet", Aug: "août", Sep: "septembre", Oct: "octobre", Nov: "novembre", Dec: "décembre",
-};
-const frDate = (d: string) => {
-  const m = d.match(/^([A-Za-z]{3})\s+(\d{1,2}),\s+(\d{4})$/);
-  return m ? `${m[2]} ${monthsFr[m[1]] ?? m[1]} ${m[3]}` : d;
-};
+// Curated listening list of third-party shows. The episodes themselves are
+// English-language shows, so the French page swaps the displayed title,
+// description and date labels through public/i18n/podcasts-fr.json (keyed by
+// podcast id) rather than duplicating the dataset. Ids, covers, durations and
+// links always come from src/data/podcasts.ts.
+const episodes = podcasts.map(localizePodcast);
+const latest = episodes[0];
+const rest = episodes.slice(1);
 ---
 
 <Layout title="Le Podcast — Motiva Hub" description="The Daily Drive — une liste d'écoute sélectionnée sur l'état d'esprit, la discipline et la longue ascension, choisie par Motiva Hub.">
@@ -33,8 +28,8 @@ const frDate = (d: string) => {
     "name": "The Daily Drive — une liste d'écoute sélectionnée",
     "description": "Épisodes sélectionnés par Motiva Hub sur la discipline, la concentration et la croissance personnelle.",
     "url": "https://the-motivahub.com/fr/podcast/",
-    "numberOfItems": podcasts.length,
-    "itemListElement": podcasts.map((p, i) => ({
+    "numberOfItems": episodes.length,
+    "itemListElement": episodes.map((p, i) => ({
       "@type": "ListItem",
       "position": i + 1,
       "name": p.title,
@@ -67,19 +62,19 @@ const frDate = (d: string) => {
       <div class="pc-section-head">
         <p class="pc-section-kicker">Notre sélection</p>
         <h2 class="journal-section-title">Épisodes</h2>
-        <p class="pc-section-count">{podcasts.length} épisodes · sélectionnés par Motiva Hub</p>
+        <p class="pc-section-count">{episodes.length} épisodes · sélectionnés par Motiva Hub</p>
       </div>
 
       {latest && (
         <article class="pc-latest" id={latest.id}>
           <a class="pc-latest-cover" href={latest.podcastUrl} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
-            <img src={latest.cover} alt={`${latest.title} artwork`} loading="eager" />
+            <img src={latest.cover} alt={`${latest.title} — couverture`} loading="eager" />
           </a>
           <div class="pc-latest-body">
             <p class="pc-latest-label">Dernier épisode</p>
             <h3 class="pc-latest-title">{latest.title}</h3>
             <p class="pc-latest-desc">{latest.description}</p>
-            <p class="pc-meta">{frDate(latest.date)} · {latest.duration}</p>
+            <p class="pc-meta">{latest.date} · {latest.duration}</p>
             <a class="pc-listen" href={latest.podcastUrl} target="_blank" rel="noopener noreferrer" data-podcast-id={latest.id}>Écouter sur l'émission d'origine <span aria-hidden="true">→</span></a>
           </div>
         </article>
@@ -89,12 +84,12 @@ const frDate = (d: string) => {
         {rest.map((podcast) => (
           <article class="pc-card" id={podcast.id}>
             <div class="pc-cover">
-              <img src={podcast.cover} alt={`${podcast.title} artwork`} loading="lazy" />
+              <img src={podcast.cover} alt={`${podcast.title} — couverture`} loading="lazy" />
             </div>
             <div class="pc-card-body">
               <h3 class="pc-card-title">{podcast.title}</h3>
               <p class="pc-card-desc">{podcast.description}</p>
-              <p class="pc-meta">{frDate(podcast.date)} · {podcast.duration}</p>
+              <p class="pc-meta">{podcast.date} · {podcast.duration}</p>
               <a class="pc-listen" href={podcast.podcastUrl} target="_blank" rel="noopener noreferrer" data-podcast-id={podcast.id}>Écouter sur l'émission d'origine <span aria-hidden="true">→</span></a>
             </div>
           </article>
