@@ -112,7 +112,8 @@ async function main() {
   for (const p of STATIC_PAGES) {
     urls.push({
       loc: `${SITE}${p.path}`,
-      lastmod: new Date().toISOString().split("T")[0],
+      // Static routes have no real modification date, so omit <lastmod> instead of claiming the build date.
+      lastmod: null,
       changefreq: p.changefreq,
       priority: p.priority,
       en: `${SITE}${p.path}`,
@@ -124,7 +125,7 @@ async function main() {
   for (const p of STATIC_PAGES) {
     urls.push({
       loc: `${SITE}/fr${p.path}`,
-      lastmod: new Date().toISOString().split("T")[0],
+      lastmod: null,
       changefreq: p.changefreq,
       priority: p.priority,
       en: `${SITE}${p.path}`,
@@ -173,7 +174,7 @@ async function main() {
   for (const topic of topicDirs) {
     urls.push({
       loc: `${SITE}/topics/${topic}/`,
-      lastmod: new Date().toISOString().split("T")[0],
+      lastmod: null,
       changefreq: "weekly",
       priority: PRIORITY.topic,
       en: `${SITE}/topics/${topic}/`,
@@ -185,7 +186,7 @@ async function main() {
   for (const topic of topicDirs) {
     urls.push({
       loc: `${SITE}/fr/topics/${topic}/`,
-      lastmod: new Date().toISOString().split("T")[0],
+      lastmod: null,
       changefreq: "weekly",
       priority: PRIORITY.topic,
       en: `${SITE}/topics/${topic}/`,
@@ -205,8 +206,7 @@ async function main() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap/news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${urls.map((u) => `  <url>
-    <loc>${u.loc}</loc>
-    <lastmod>${u.lastmod}</lastmod>
+    <loc>${u.loc}</loc>${u.lastmod ? `\n    <lastmod>${u.lastmod}</lastmod>` : ""}
     <changefreq>${u.changefreq}</changefreq>
     <priority>${u.priority.toFixed(1)}</priority>
     <xhtml:link rel="alternate" hreflang="en" href="${u.en}" />
