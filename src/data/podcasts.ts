@@ -16,7 +16,7 @@ export const podcasts: Podcast[] = [
     title: "Motivation Daily — Shi Heng Yi: Focus on Yourself & Stay Silent",
     description: "Motiversity — Shaolin wisdom on silence and discipline. A timeless lesson on self-mastery.",
     cover: "https://i.ytimg.com/vi/teJ_rMsFJn0/hqdefault.jpg",
-    date: "Aug 22, 2026",
+    date: "Mar 30, 2026",
     duration: "17 min",
     podcastUrl: "https://www.youtube.com/watch?v=teJ_rMsFJn0",
   },
@@ -80,7 +80,7 @@ export const podcasts: Podcast[] = [
     description: "Chris Do — a full Ikigai workshop on turning what you love into work the world will pay for.",
     cover: "https://i.ytimg.com/vi/BAzs3amtEFA/hqdefault.jpg",
     date: "Full workshop",
-    duration: "1:53:44",
+    duration: "1:43:43",
     podcastUrl: "https://www.youtube.com/watch?v=BAzs3amtEFA",
   },
   {
