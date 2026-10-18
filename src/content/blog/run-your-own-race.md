@@ -33,6 +33,13 @@ faq:
     a: "No. It means choosing a pace you can sustain instead of sprinting to match someone else. You can still compete seriously — the goal is to finish strong, not to burn out early."
   - q: "What does 'don't compare your Chapter 1 to their Chapter 20' mean?"
     a: "You see the finished product publicly but never the 19 chapters of invisible struggle, failures, and boring consistency. Someone 'overnight successful' has usually been building for 7-15 years. Judge your journey by your own pace, not their visible highlight."
+faqFr:
+  - q: "Pourquoi « courir sa propre course » ?"
+    a: "Parce que comparer votre chapitre 1 au chapitre 20 de quelqu'un d'autre fausse la réalité et vide la motivation. Les coureurs d'élite gèrent l'allure de leur propre course — ceux qui sprintent pour suivre les autres heurtent le mur les premiers. La seule comparaison valide oppose le vous d'hier au vous d'aujourd'hui."
+  - q: "Courir sa propre course, est-ce renoncer à la compétition ?"
+    a: "Non. Cela veut dire choisir une allure que vous pouvez tenir au lieu de sprinter pour suivre quelqu'un d'autre. Vous pouvez tout à fait prendre la compétition au sérieux — l'objectif est de terminer en force, pas de s'épuiser trop tôt."
+  - q: "Que veut dire « ne comparez pas votre chapitre 1 au chapitre 20 des autres » ?"
+    a: "Vous voyez le produit fini en public, mais jamais les 19 chapitres de lutte invisible, d'échecs et de régularité ennuyeuse. Une personne « réussie du jour au lendemain » construit en général depuis 7 à 15 ans. Jugez votre parcours à votre propre allure, pas aux moments forts qu'ils laissent voir."
 
 relatedArticles:
   - "force-mentale-sport"

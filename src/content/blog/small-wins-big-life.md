@@ -31,6 +31,13 @@ faq:
     a: "Big goals require big willpower (depletes fast) and show results slowly (discouragement kills motivation). Small wins provide immediate feedback, require minimal activation energy, and build identity ('I'm someone who shows up'). The gap between where you are and where you want to be is filled by actions so small they seem trivial."
   - q: "What are examples of 'small wins' habits?"
     a: "1) Read 1 page (often becomes 10). 2) Do 1 pushup (often becomes 20). 3) Write 1 sentence. 4) Walk 2 minutes. 5) Meditate for 30 seconds. 6) Wash 1 dish. The rule: make it so easy you can't say no. Once you have started, most people find it easier to keep going than to stop again — but that is a common experience, not a law, which is exactly why the point is the start and never the length."
+faqFr:
+  - q: "Comment les petites victoires créent-elles de grands changements de vie ?"
+    a: "Chaque petite victoire rend la suivante plus facile parce qu'elle change ce que vous croyez être. Faire le geste est une preuve — pour vous-même — que vous êtes quelqu'un qui le fait, et ce genre de preuve reste disponible le jour où tout va mal, quand la motivation n'y est plus. C'est ainsi que la répétition devient en silence identité, et l'identité une grande vie. Une petite victoire n'est pas une version moindre — c'est ainsi que les grandes transformations se présentent réellement."
+  - q: "Pourquoi n'arrive-je pas à m'en tenir à de grands objectifs ambitieux ?"
+    a: "Les grands objectifs exigent une grande force de volonté (elle s'épuise vite) et montrent leurs résultats lentement (le découragement tue la motivation). Les petites victoires offrent un retour immédiat, demandent une énergie de démarrage minimale et construisent l'identité (« je suis quelqu'un qui se présente »). L'écart entre l'endroit où vous êtes et celui où vous voulez aller se comble par des gestes si petits qu'ils semblent triviaux."
+  - q: "Quels sont des exemples d'habitudes de type « petite victoire » ?"
+    a: "1) Lire une page (elle devient souvent dix). 2) Faire une pompe (elle devient souvent vingt). 3) Écrire une phrase. 4) Marcher deux minutes. 5) Méditer trente secondes. 6) Laver une assiette. La règle : faites-le si petit que vous ne pouvez pas dire non. Une fois lancé, la plupart des gens trouvent plus facile de continuer que de s'arrêter de nouveau — mais c'est une expérience commune, pas une loi, et c'est exactement pour cela que l'important est le départ, jamais la durée."
 
 relatedArticles:
   - "comment-creer-des-habitudes"

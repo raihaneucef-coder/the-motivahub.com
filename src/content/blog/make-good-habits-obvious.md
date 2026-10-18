@@ -32,6 +32,13 @@ faq:
     a: "Remove the cue from your environment entirely. Don't keep junk food in the house. Put your phone in a drawer (not face-down — out of sight). Delete social apps from your home screen. If the cue never appears, you never have to refuse it — you have removed the decision instead of winning it."
   - q: "Why are visual cues so powerful for habits?"
     a: "We notice what is in front of us, and repeated behaviour tends to attach to the cues we keep seeing rather than to intentions we hold in mind — that is the idea behind the First Law of Behavior Change. A guitar on a stand gets played; the same guitar in a closet gets forgotten. You're not lazy — you're cue-starved."
+faqFr:
+  - q: "Que signifie « rendre évident » dans la formation des habitudes ?"
+    a: "C'est la première loi du changement de comportement (James Clear) : concevez votre environnement pour que l'indice des bonnes habitudes soit impossible à manquer. Posez vos chaussures de course près du lit, les fruits sur le comptoir, le livre sur votre oreiller. Vous n'avez pas besoin de motivation — vous avez besoin de visibilité."
+  - q: "Comment rendre les mauvaises habitudes invisibles ?"
+    a: "Retirez l'indice de votre environnement tout simplement. Ne gardez pas de malbouffe à la maison. Mettez votre téléphone dans un tiroir (pas à l'envers — hors de vue). Supprimez les applications sociales de votre écran d'accueil. Si l'indice n'apparaît jamais, vous n'avez jamais à le refuser — vous avez supprimé la décision au lieu de la gagner."
+  - q: "Pourquoi les indices visuels sont-ils si puissants pour les habitudes ?"
+    a: "Nous remarquons ce qui est devant nous, et le comportement répété s'accroche aux indices que nous voyons sans cesse plutôt qu'aux intentions que nous gardons en tête — c'est l'idée derrière la première loi du changement de comportement. Une guitare sur son pied est jouée ; la même guitare dans un placard est oubliée. Vous n'êtes pas paresseux — il vous manque des indices."
 
 relatedArticles:
   - "ne-brise-jamais-chaine"
