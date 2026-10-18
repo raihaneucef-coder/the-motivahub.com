@@ -6,8 +6,8 @@ titleFr: "La Règle de 2 Minutes pour la Productivité : Commencer Petit"
 seoTitleFr: "La règle des 2 minutes pour produire plus"
 descriptionFr: "La règle de 2 minutes pour la productivité est simple : commencez petit. Découvrez comment cette astuce peut transformer votre efficacité."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
-readTime: "4 MIN"
+updatedDate: 2026-10-18
+readTime: "6 MIN"
 image: "/images/blog/regle-2-min-productivite-3.jpg"
 imageAlt: "A blue kitchen timer sitting on a table in soft light"
 topic: "Productivity"
@@ -22,7 +22,7 @@ keywords:
   - "list"
 tags:
   - "productivity"
-wordCount: 322
+wordCount: 774
 bookSlug: atomic-habits
 
 faq:
@@ -59,6 +59,9 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-2-min-productivite_p4">It sounds too simple to be effective. It is not.</div>
 
+<div data-i18n-html="article_regle-2-min-productivite_p18"><h2>The Problem It Actually Solves</h2>
+David Allen calls them <em>open loops</em> — tasks you've noticed but not resolved. A message you read but didn't reply to. A glass on the desk you walked past three times. An idea you meant to write down. Each one sits in the background of your mind, consuming attention you think you're saving. Multiply 30 open loops and you don't have a productivity problem — you have a clutter problem. The 2-minute rule closes loops on the spot. No list. No reminder. No low-grade guilt humming for six hours.</div>
+
 <div data-i18n-html="article_regle-2-min-productivite_p5"><h2>Why the 2-Minute Rule Works</h2></div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p6"><h3>1. <a href="/journal/real-reason-you-procrastinate/">Eliminates Procrastination</a></h3>
@@ -73,7 +76,18 @@ You do not waste energy deciding whether to do a 2-minute task later. You just d
 <div data-i18n-html="article_regle-2-min-productivite_p9"><h3>4. Keeps Your List Clean</h3>
 Your to-do list stays focused on important tasks, not trivial ones.</div>
 
-<div data-i18n-html="article_regle-2-min-productivite_p10"><h2>Examples of 2-Minute Tasks</h2></div>
+<div data-i18n-html="article_regle-2-min-productivite_p10"><h2>How to Implement It — Three Steps</h2></div>
+
+<div data-i18n-html="article_regle-2-min-productivite_p19"><h3>Step 1: Capture Without Thinking</h3>
+When a task appears — email ping, sticky note, colleague walking past your desk — the first move is <em>not</em> to decide whether to do it. The first move is to notice it consciously. Most open loops exist because we half-registered a task and moved on. Acknowledge it. "I see you. I'll handle you in 45 seconds."</div>
+
+<div data-i18n-html="article_regle-2-min-productivite_p20"><h3>Step 2: Apply the Two-Minute Filter</h3>
+Ask one question: <strong>will this take less than two minutes?</strong> Yes → do it <em>right now</em>, start to finish. No → write it down, schedule it, or delegate. There is no third option. "I'll think about it later" is where open loops go to breed.</div>
+
+<div data-i18n-html="article_regle-2-min-productivite_p21"><h3>Step 3: Close the Loop Completely</h3>
+Reply. File. Put it away. Confirm. The key word is <em>completely</em>. Half-doing a 2-minute task creates a worse loop than not starting it. If you can't finish in one pass, it wasn't a 2-minute task — treat it as a "no" at Step 2 and move on.</div>
+
+<div data-i18n-html="article_regle-2-min-productivite_p10b"><h2>Examples of 2-Minute Tasks</h2></div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p11">- Reply to a short email
 - File a document
@@ -83,9 +97,16 @@ Your to-do list stays focused on important tasks, not trivial ones.</div>
 - Write down an idea
 - Confirm an appointment</div>
 
+<div data-i18n-html="article_regle-2-min-productivite_p22">Where the rule works best: <strong>digital</strong> (unsubscribe from one spam email, rename a download, move a file into the right folder), <strong>home</strong> (wipe the counter after cooking, hang your coat, run the dishwasher before sitting down), <strong>work</strong> (confirm a meeting slot, send the file someone asked for, update the status column on one row). These are all small, finite, and immediately closable. That's the signature of a true 2-minute task.</div>
+
 <div data-i18n-html="article_regle-2-min-productivite_p12"><h2>When NOT to Use It</h2></div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p13">The 2-minute rule is for small tasks only. For larger tasks, use the two-minute version of the habit instead: "open the document and write one sentence" or "put on your running shoes."</div>
+
+<div data-i18n-html="article_regle-2-min-productivite_p23"><h2>3 Mistakes That Kill the Rule</h2>
+<strong>1. Calling everything "quick."</strong> A "quick" report revision is not two minutes. A "quick" text back-and-forth becomes fifteen. Be honest with the timer. If the estimate is optimistic, schedule it or <a href="/journal/batching-productivite/">batch it</a> with similar tasks.
+<strong>2. Using it to avoid real work.</strong> Clearing 12 tiny tasks feels productive. It is not the same as progress. If a large project is waiting, <a href="/journal/eat-the-frog/">eat the frog first</a> — then sweep the small stuff as a reward.
+<strong>3. No capture system.</strong> The rule only works when you actually notice tasks in time. If you keep forgetting replies, build a short daily review into your workflow — the <a href="/journal/deep-work-ritual/">deep-work ritual</a> explains how.</div>
 
 <div data-i18n-html="article_regle-2-min-productivite_p14">The goal is not to do everything in 2 minutes. The goal is to eliminate the small stuff so you can focus on the big stuff.</div>
 
