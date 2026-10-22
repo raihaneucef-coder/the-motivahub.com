@@ -22,7 +22,7 @@ keywords:
   - "how successful people stay consistent"
 tags:
   - "mindset"
-wordCount: 753
+wordCount: 710
 faq:
   - q: "What is the real secret to success?"
     a: "Boring consistency. Angela Duckworth's research on 'grit' across West Point cadets, spelling bees, and sales teams found: the #1 predictor of success isn't talent, IQ, or opportunity — it's the ability to keep doing the same work day after day when results aren't visible yet."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_secret-reussite_p3">We admire successful people and assume they have something we do not. A special talent. A secret advantage. A hidden connection.</div>
 
-<div data-i18n-html="article_secret-reussite_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_secret-reussite_p4">The truth is simpler — and more uncomfortable. The secret of people who always succeed is <strong>consistency</strong>. Not intensity. Not inspiration. Not perfection. Just showing up, day after day, and doing the work.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "deep purpose personal growth"
 tags:
   - "goals"
-wordCount: 423
+wordCount: 381
 faq:
   - q: "Why is a 'deep why' more powerful than a goal?"
     a: "Goals have deadlines — once achieved, motivation collapses. A deep why (protecting your family, proving to yourself it's possible, serving something larger) is inexhaustible. Viktor Frankl observed in concentration camps: those who survived had a 'why' that made any 'how' bearable."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p3">"I want to lose 10 kg." But why? "Because I want to be healthier." But why? "Because I want to be there for my kids." That is the deep why.</div>
 
-<div data-i18n-html="article_pourquoi-profond-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p4"><a href="/journal/the-goal-behind-the-goal/">The goal behind the goal</a> is the real reason you are working toward something. And when you find it, you become unstoppable.</div>
 

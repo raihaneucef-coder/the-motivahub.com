@@ -24,7 +24,7 @@ keywords:
   - "evidence based self improvement"
 tags:
   - "stories"
-wordCount: 494
+wordCount: 450
 faq:
   - q: "Why is 'proof over noise' a better strategy than self-promotion?"
     a: "Because noise requires constant feeding while proof compounds silently. A person posting 'I wake up at 5am' gets likes; the person who wakes at 5am for 3 years gets a business. Proof creates actual results; noise creates the appearance of progress without the substance."
@@ -44,7 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_proof-over-noise_p3">Your attention has a diet, whether you chose it or not.</div>
 
-<div data-i18n-html="article_proof-over-noise_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_proof-over-noise_p4">Every headline, every clip, every outrage served fresh each morning goes somewhere. It becomes the background hum against which you think. Feed a mind a steady stream of disasters and it quietly concludes that the world is a place where nothing can be built. Feed it noise and it forgets what signal ever sounded like.</div>
 

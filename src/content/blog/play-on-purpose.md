@@ -22,7 +22,7 @@ keywords:
   - "burnout recovery through play"
 tags:
   - "entertainment"
-wordCount: 488
+wordCount: 445
 faq:
   - q: "What's the difference between intentional play and scrolling?"
     a: "Intentional play is CHOSEN, time-bounded, and leaves you energized (pickup basketball, board games, hiking). Scrolling is passive, endless, and leaves you flat. The key variable isn't the activity — it's whether YOU decided to do it, and whether it restores or drains your nervous system."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_play-on-purpose_p3">Nobody warns you that rest can be exhausting.</div>
 
-<div data-i18n-html="article_play-on-purpose_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_play-on-purpose_p4">You finish a week of hard work, collapse into the evening, and give yourself exactly what you think you earned: hours of scrolling, an autoplay queue left running, a screen glowing until sleep takes you mid-scroll. Eight hours of doing nothing. And yet Monday arrives and you feel... unrested. Slightly thinner somewhere inside.</div>
 

@@ -23,7 +23,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 400
+wordCount: 357
 faq:
   - q: "What is imposter syndrome and who gets it?"
     a: "The persistent belief that your success is undeserved despite evidence. Originally identified in high-achieving women (Clance and Imes, 1978), research now shows 70% of people experience it at some point. Common in: new roles, career changes, minority groups in dominant fields, and after any external validation."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_syndrome-imposteur_p3">You got the promotion, but you feel like you do not deserve it. You published the article, but you feel like it was luck. You achieved the goal, but you feel like anyone could have done it.</div>
 
-<div data-i18n-html="article_syndrome-imposteur_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_syndrome-imposteur_p4">This is imposter syndrome — and 70% of people experience it at some point in their lives.</div>
 

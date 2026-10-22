@@ -22,7 +22,7 @@ keywords:
   - "media that inspires growth"
 tags:
   - "entertainment"
-wordCount: 236
+wordCount: 332
 faq:
   - q: "Can a movie actually change your life?"
     a: "Yes: narrative transportation research (Green and Brock, 2000) shows stories can shift beliefs more effectively than arguments. When you emotionally identify with a character facing a dilemma parallel to yours, the resolution provides a behavioral template your brain accepts as experienced rather than instructed."
@@ -42,13 +42,17 @@ relatedArticles:
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p3">A bad film wastes two hours. A good film gives you a week.</div>
 
-<div data-i18n-html="article_the-movie-that-changed-your-week_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p4">You walk out and the world looks a little different. A line stays with you. A choice the character made becomes a question you ask yourself.</div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p5"><strong><a href="/journal/play-on-purpose/">Entertainment that profits you</a> is not about escaping life — it is about returning to it with more.</strong></div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p6">The film that changes your week is rarely the loudest one. It is the one that asks a question you have been avoiding.</div>
+
+<div data-i18n-html="article_the-movie-that-changed-your-week_p11">Psychologists even have a name for what happens when a film gets under your skin: <em>narrative transportation</em> — full absorption into a story, which shifts beliefs and emotions in ways plain argument rarely manages (Green & Brock, 2000, <em>Journal of Personality and Social Psychology</em>; <a href="https://en.wikipedia.org/wiki/Transportation_theory_(psychology)" target="_blank" rel="noopener">overview of the theory</a>). The films that change your week are the ones that transport you, not the ones that merely entertain you.</div>
+
+<div data-i18n-html="article_the-movie-that-changed-your-week_p12">If you want one to start with tonight: <em>Good Will Hunting</em> (1997, directed by Gus Van Sant — Academy Award for Best Original Screenplay for Matt Damon and Ben Affleck; <a href="https://www.imdb.com/title/tt0119217/" target="_blank" rel="noopener">IMDb</a>). Its real subject is not mathematics — it is a gifted man defending himself from his own potential, exactly the move this site keeps naming. Watch it carrying one question: which of my walls is made of that?</div>
+
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p7">Choose it on purpose:</div>
 

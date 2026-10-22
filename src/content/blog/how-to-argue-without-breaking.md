@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "how-to"
-wordCount: 269
+wordCount: 225
 faq:
   - q: "How do you argue without damaging the relationship?"
     a: "Attack the problem, not the person. Use 'I feel' statements instead of 'you always.' Take a 20-minute break when heart rate exceeds 100bpm (physiological flooding makes rational discussion impossible). End with repair: 'We're on the same team — this disagreement is the enemy, not you.'"
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p3"><a href="/journal/love-is-a-practice/">Every relationship will argue</a>. The question is not whether you will disagree, but how you will return.</div>
 
-<div data-i18n-html="article_how-to-argue-without-breaking_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p4">Most arguments break not because the topic is hard, but because people stop feeling safe. Voices rise, old scores are pulled in, and the goal shifts from understanding to winning. No one wins that game.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "procrastination cure science based"
 tags:
   - "productivity"
-wordCount: 658
+wordCount: 616
 faq:
   - q: "Why do I procrastinate if I'm not lazy?"
     a: "Research (Sirois & Pychyl, 2013) shows procrastination is an emotion-regulation problem, not a time-management one. You avoid the task because it triggers a negative feeling (boredom, anxiety, self-doubt). Your brain chooses short-term mood repair over long-term goal completion."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p3">You are not lazy. Lazy people do not feel guilty while scrolling. You feel guilty, which means something entirely different is going on.</div>
 
-<div data-i18n-html="article_real-reason-you-procrastinate_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p4">Here is the truth that took psychologists decades to confirm: procrastination has almost nothing to do with time management and almost everything to do with emotion management. You do not delay tasks because they take long. You delay them because looking at them triggers a feeling — boredom, anxiety, confusion, fear of doing them badly — and your brain, being an excellent escape artist, chooses the exit door labeled "later."</div>
 

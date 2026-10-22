@@ -22,7 +22,7 @@ keywords:
   - "what comes after achieving your dream"
 tags:
   - "success"
-wordCount: 222
+wordCount: 252
 faq:
   - q: "Why do successful people often feel empty after achievement?"
     a: "The arrival fallacy (Buddhist psychology plus Dan Gilbert research): humans overestimate the lasting happiness a single achievement brings. Hedonic adaptation resets you within 3-6 months. If success is a destination, you are homeless the moment you arrive. If it is a direction, every day counts."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_success-is-a-direction_p3">We picture success as a door. Once we walk through it, we will finally feel done.</div>
 
-<div data-i18n-html="article_success-is-a-direction_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_success-is-a-direction_p4">No one who has walked through that door describes it that way. They describe what happened next: another hallway, another door.</div>
 
@@ -53,5 +52,8 @@ relatedArticles:
 <div data-i18n-html="article_success-is-a-direction_p7">Direction is kinder and more useful. It lets you course-correct without shame. Missed a day? You did not fail the destination; you simply drifted east for a day. Come back north tomorrow.</div>
 
 <div data-i18n-html="article_success-is-a-direction_p8">Try it this week. Pick one direction — health, craft, kindness — and ask each night: did I move north today? One walk, one page, one honest conversation. <a href="/journal/success-leaves-traces/">That is success</a>, today.</div>
+
+<div data-i18n-html="article_success-is-a-direction_p10">Three questions, in writing, this week: what did I do this month that the person I am becoming would simply not do? What direction would I still call good if no one ever knew I made it? And the practical one: what is the smallest weekly action that moves me that way — is it scheduled? A direction is only real once it has a calendar entry with your name on it.</div>
+
 
 <div data-i18n-html="article_success-is-a-direction_p9">Destinations end. Directions endure.</div>

@@ -22,7 +22,7 @@ keywords:
   - "psychology of building wealth"
 tags:
   - "success"
-wordCount: 357
+wordCount: 314
 faq:
   - q: "What is the 'psychology of money' and why does it matter more than strategy?"
     a: "Your 'money scripts' (unconscious beliefs formed in childhood) drive 80%+ of financial behavior. A person who believes 'money is evil' will self-sabotage wealth-building despite knowing the right strategy. Change the story first, and the budget executes itself."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_psychology-of-money-business_p3">A powerful business book of the last two years has nothing to do with spreadsheets. It has to do with stories. Money is not a math problem — it is a behavior problem, and behavior is where the money is made or lost.</div>
 
-<div data-i18n-html="article_psychology-of-money-business_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_psychology-of-money-business_p4"><h2>Greed Has No Finish Line</h2></div>
 

@@ -22,7 +22,7 @@ keywords:
   - "Jim Rohn you average of five"
 tags:
   - "relationships"
-wordCount: 343
+wordCount: 299
 faq:
   - q: "Who are 'the people who raise your floor'?"
     a: "They're the friends whose standards silently pull you up. Not motivational speakers — just people who train consistently, read regularly, speak with integrity. You don't 'hang out with successful people to get famous' — you simply absorb their non-negotiables as your new baseline."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_people-who-raise-your-floor_p3">We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.</div>
 
-<div data-i18n-html="article_people-who-raise-your-floor_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p4">Your floor is not set by you alone. It is set by the room you keep returning to. The friends who normalize early mornings or late-night scrolling. The family that expects you to try or to stay small. The conversations that leave you lighter or heavier.</div>
 

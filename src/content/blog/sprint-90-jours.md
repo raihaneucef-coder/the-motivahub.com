@@ -22,7 +22,7 @@ keywords:
   - "compress your timeline productivity"
 tags:
   - "goals"
-wordCount: 1095
+wordCount: 1067
 
 faq:
   - q: "What is a 90-day growth sprint?"
@@ -54,7 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_sprint-90-jours_p3">Annual goals are too easy to postpone. "I will do it later" works when "later" is 10 months away. But when "later" is 90 days away, everything changes.</div>
 
-<div data-i18n-html="article_sprint-90-jours_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_sprint-90-jours_p4">The 90-day sprint is the most effective goal-setting timeframe. It is long enough to accomplish something meaningful — and short enough to create urgency.</div>
 

@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 313
+wordCount: 270
 faq:
   - q: "What 5-minute daily habit strengthens relationships?"
     a: "One undistracted check-in: ask 'how was your day?' and listen for 3 minutes without your phone. Add 2 minutes of specific appreciation ('I loved how you handled X today'). This tiny ritual creates emotional safety and signals 'you matter' — the #1 predictor of relationship satisfaction (Gottman Institute)."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_habitude-5-min-relations_p3">Relationships do not need grand gestures. They need small, consistent acts of attention. The 5-minute daily habit is simple: spend 5 minutes giving your full, undivided attention to the person you love.</div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p4"><h2>How It Works</h2></div>
 

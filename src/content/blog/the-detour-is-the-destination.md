@@ -22,7 +22,7 @@ keywords:
   - "detour as metaphor for growth"
 tags:
   - "travel"
-wordCount: 233
+wordCount: 260
 faq:
   - q: "What does the detour teach that the direct route does not?"
     a: "Adaptability, presence, and the discovery that your planned destination was never the real goal. The best travel memories (and life lessons) come from breakdowns, wrong turns, and unexpected conversations that only happen when you are forced off-schedule."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_the-detour-is-the-destination_p3">We plan the route and miss the travel.</div>
 
-<div data-i18n-html="article_the-detour-is-the-destination_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p4">The itinerary says: be here at 10, be there at 2. The detour says: <a href="/journal/voyage-lent/">get lost for an hour</a>, talk to the person who waves you over, follow the small street because of the smell of bread.</div>
 
@@ -57,5 +56,8 @@ relatedArticles:
 - <strong>Collect one story, not one souvenir.</strong> Ask someone how long they have lived here and what has changed.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p9">You will not remember the museum you rushed through. You will remember the alley where you got lost and found something you did not know you were looking for.</div>
+
+<div data-i18n-html="article_the-detour-is-the-destination_p11">A concrete kind of detour worth noticing: the rejected application that pushed you into the certification you now use weekly; the injury that traded running for lifting, and the lifting outlived the running habit. Keep a detour ledger for ninety days: whenever a plan fails, write — under the disappointment — what it made contact with instead. Review at month end. Some detours turn out to have been the road.</div>
+
 
 <div data-i18n-html="article_the-detour-is-the-destination_p10">The detour is the destination — if you let it be.</div>

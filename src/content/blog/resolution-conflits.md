@@ -22,7 +22,7 @@ keywords:
 tags:
   - "relationships"
   - "how-to"
-wordCount: 334
+wordCount: 291
 faq:
   - q: "What are the 'Four Horsemen' of relationship conflict?"
     a: "Gottman's research identified 4 predictors of divorce: 1) Criticism (attacking character vs behavior), 2) Contempt (mockery, eye-rolling), 3) Defensiveness (refusing responsibility), 4) Stonewalling (shutting down). Contempt is the #1 predictor — even 1 disagreeable interaction per 20 positive ones signals danger."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_resolution-conflits_p3">Conflict is not the enemy of relationships. Contempt is. When you fight fairly, conflict can actually strengthen your bond. When you fight unfairly, it destroys trust.</div>
 
-<div data-i18n-html="article_resolution-conflits_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_resolution-conflits_p4"><h2>The 4 Horsemen of Relationship Apocalypse</h2></div>
 

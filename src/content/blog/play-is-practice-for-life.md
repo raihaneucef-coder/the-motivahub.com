@@ -22,7 +22,7 @@ keywords:
   - "why games matter for growth"
 tags:
   - "entertainment"
-wordCount: 267
+wordCount: 224
 faq:
   - q: "Why is play important for adults?"
     a: "Play isn't the opposite of productivity — it's the training ground. Stuart Brown's research (National Institute for Play) found that adults who play regularly show higher creativity, better stress resilience, and stronger social bonds. Deprivation of play correlates with depression and rigidity."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_play-is-practice-for-life_p3">We stopped playing when life got serious. That is when we needed play most.</div>
 
-<div data-i18n-html="article_play-is-practice-for-life_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p4">Children play to learn: how to share, how to lose, how to try again. Adults stop, and then wonder why life feels heavy.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "focus by eliminating distractions"
 tags:
   - "discipline"
-wordCount: 384
+wordCount: 341
 faq:
   - q: "Why is saying no a discipline skill?"
     a: "Because every yes costs time and energy from your real priorities. Warren Buffett said 'The difference between successful people and really successful people is that really successful people say no to almost everything.' Saying no is the discipline that protects your yes."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_pouvoir-du-non_p3">Every time you say yes to something that does not serve you, you say no to something that does. Every yes to a meaningless meeting <a href="/journal/deep-work-focus/">is a no to deep work</a>. Every yes to a toxic relationship is a no to your peace.</div>
 
-<div data-i18n-html="article_pouvoir-du-non_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_pouvoir-du-non_p4">Saying no is not selfish. It is essential.</div>
 

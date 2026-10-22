@@ -23,7 +23,7 @@ keywords:
 tags:
   - "nutrition"
   - "how-to"
-wordCount: 327
+wordCount: 363
 faq:
   - q: "How do I meal prep for the week in 2 hours?"
     a: "Sunday workflow: 1) Preheat oven, season proteins (30 min). 2) While cooking, wash and chop vegetables (20 min). 3) Start grains in a pot (20 min passive). 4) Assemble 5 containers: protein + grain + vegetables + sauce (20 min). You now have Mon-Fri lunches and need only 10 min for dinners."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_meal-prep-dimanche_p3">The reason most people eat poorly is not lack of knowledge — it is lack of preparation. When you are hungry and there is no healthy food ready, you order delivery. Meal prep eliminates this problem.</div>
 
-<div data-i18n-html="article_meal-prep-dimanche_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p4"><h2>The Sunday System</h2></div>
 
@@ -78,5 +77,8 @@ Refrigerate meals for the first 3 days. Freeze the rest. Each morning, grab what
 5. <strong>Supports goals</strong> — easier to hit protein, calorie, and nutrient targets</div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p12"><blockquote><em>Failing to plan is planning to fail. — Alan Lakein</em></blockquote></div>
+
+<div data-i18n-html="article_meal-prep-dimanche_p15">The two-hour version (illustrative timings): start the pot of rice or grains; roast a full tray of vegetables while it cooks; one protein in the oven or pan at the same time. Chop everything first, season once, then assemble five boxes while the last batch cools — lids off in the fridge, one box packed for the road. The Sunday investment is not the food. It is removing the decision on the Wednesday evening when willpower is already spent.</div>
+
 
 <div data-i18n-html="article_meal-prep-dimanche_p14"><strong>Start meal prepping today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you the habits of healthy eating. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

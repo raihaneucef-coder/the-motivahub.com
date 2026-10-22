@@ -20,7 +20,7 @@ keywords:
   - "intermittent fasting before and after"
 tags:
   - "nutrition"
-wordCount: 336
+wordCount: 295
 faq:
   - q: "Does intermittent fasting actually work for weight loss?"
     a: "Yes — but not by magic. A 2020 New England Journal review confirms it works primarily by restricting the eating window (reducing calories naturally) and improving insulin sensitivity. Average result: 3-8% body weight loss over 12 weeks, similar to conventional caloric restriction without hunger counting."
@@ -40,7 +40,6 @@ relatedArticles:
 
 <div data-i18n-html="article_jeune-intermittent_p3">Intermittent fasting (IF) is not a diet — it is an eating pattern. You cycle between periods of eating and fasting. The most common method is 16:8 — fast for 16 hours, eat for 8.</div>
 
-<div data-i18n-html="article_jeune-intermittent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_jeune-intermittent_p4"><h2>What the Science Says</h2></div>
 

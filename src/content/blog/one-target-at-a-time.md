@@ -22,7 +22,7 @@ keywords:
   - "narrow your focus achieve more"
 tags:
   - "goals"
-wordCount: 521
+wordCount: 479
 faq:
   - q: "Why should I focus on one goal at a time?"
     a: "Research from Stanford shows task-switching reduces IQ by 10 points and increases completion time by 40%. Multiple goals compete for the same willpower reservoir. One target with full focus beats five targets with split attention every time."
@@ -45,7 +45,6 @@ relatedArticles:
 
 <div data-i18n-html="article_one-target-at-a-time_p3">Most goals fail before they begin — not because they are too big, but because they are too vague.</div>
 
-<div data-i18n-html="article_one-target-at-a-time_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_one-target-at-a-time_p4">"I want to get fit." "I want to build something of my own." "I want to be better with money." Each of these is a direction, not a destination. And a direction, without an address, is just a mood. You cannot visit a mood every morning. You can only visit a target.</div>
 

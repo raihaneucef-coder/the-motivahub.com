@@ -24,7 +24,7 @@ keywords:
   - "love and boundaries"
 tags:
   - "relationships"
-wordCount: 1676
+wordCount: 1635
 faq:
   - q: "Why are boundaries a form of love?"
     a: "Boundaries are love in action because they protect relationships from resentment. When you say no clearly and kindly, you prevent the slow accumulation of unspoken frustration that eventually poisons closeness."
@@ -54,7 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_boundaries-are-love_p4">We think boundaries push people away. The opposite is true: unclear boundaries slowly poison closeness, until distance feels safer than honesty.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_boundaries-are-love_p5">I learned this in 2023, when I said yes to every request for 6 months. Every meeting. Every favor. Every "can you help me with this?" By July, I was exhausted. I was resentful. I was avoiding friends because I knew they would ask for something.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "protein breakfast willpower"
 tags:
   - "nutrition"
-wordCount: 488
+wordCount: 445
 faq:
   - q: "Does food affect willpower and self-control?"
     a: "Yes. The prefrontal cortex (responsible for self-control) runs on glucose. Studies at Princeton showed deprived mice made 'impulsive' choices until given sugar. Humans aren't simple sugar-burners, but skipping meals drops blood glucose and measurably increases impulsivity and poor decisions."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_fuel-before-willpower_p3">We talk about discipline as if it were free.</div>
 
-<div data-i18n-html="article_fuel-before-willpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_fuel-before-willpower_p4">As if focus costs nothing. As if patience is unlimited and willpower renews itself every morning like a subscription. Then noon arrives, we have eaten whatever was nearest — something sweet, something fast — and by three o'clock the important work of the day feels heavier than it did at nine.</div>
 

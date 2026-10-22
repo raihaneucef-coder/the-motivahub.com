@@ -22,7 +22,7 @@ keywords:
   - "how to buy your freedom"
 tags:
   - "finance"
-wordCount: 303
+wordCount: 259
 faq:
   - q: "What does 'freedom is rented, not owned' mean?"
     a: "Financial and personal freedom has no lump-sum purchase price — it requires daily small payments: saving consistently, maintaining health, investing in skills. Miss the payments and you lose the freedom (like rent). The 'price' is boring consistency, not one heroic act."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_price-of-freedom_p3">We imagine freedom as a finish line — a number that, once reached, will finally let us breathe.</div>
 
-<div data-i18n-html="article_price-of-freedom_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_price-of-freedom_p4">It is a comforting story. It is also false.</div>
 

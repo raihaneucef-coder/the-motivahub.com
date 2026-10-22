@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 263
+wordCount: 304
 faq:
   - q: "What is the five-minute friendship habit?"
     a: "A daily 5-minute action to maintain a friendship: one text ('thinking of you'), one voice note, one comment on their post, or one 3-minute call. Rotating through 7 friends per week means everyone in your circle gets consistent attention without it feeling like work."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_five-minute-friendship-habit_p3">We tell ourselves friendship needs big blocks of time we do not have. So we wait for the free weekend that never comes, and friendships quietly go hungry.</div>
 
-<div data-i18n-html="article_five-minute-friendship-habit_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p4">They do not need a feast. They need small, regular snacks of attention.</div>
 
@@ -58,5 +57,8 @@ relatedArticles:
 - <strong>Make the next plan before you leave.</strong> "Next Tuesday walk?" beats "we should catch up sometime" every time.</div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p9">Friendship is not maintained by intensity. It is <a href="/journal/love-is-a-practice/">maintained by frequency</a>. A friend you hear from for five minutes every two weeks feels closer than a friend you see for five hours twice a year.</div>
+
+<div data-i18n-html="article_five-minute-friendship-habit_p11">A script that works tonight: pick the friend you have quietly been drifting from and send one <em>specific</em> message — not "we should catch up" but "saw the old bookshop on our street is closing — remember our rule about never paying full price for tickets?" One shared memory, one concrete door left open ("thinking of doing X Sunday, come if you want"). No ask, no guilt. The specificity is the point: it proves you remember, which "catch up soon" never does.</div>
+
 
 <div data-i18n-html="article_five-minute-friendship-habit_p10">You do not need more time. You need a smaller definition of what counts.</div>

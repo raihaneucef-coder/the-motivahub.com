@@ -21,7 +21,7 @@ keywords:
   - "minimalism productivity method"
 tags:
   - "productivity"
-wordCount: 716
+wordCount: 673
 faq:
   - q: "Why does doing less produce more?"
     a: "Because attention is a finite resource. Each additional task dilutes focus quality (context-switching costs 23 minutes per interruption, per UC Irvine research). Narrowing to 1-3 priorities lets you complete them at a level of depth that 10 scattered tasks never achieve."
@@ -39,7 +39,6 @@ relatedArticles:
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p3">We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus.</div>
 
-<div data-i18n-html="article_quiet-power-of-doing-less_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p4"><h2>The Cult of Busyness</h2></div>
 

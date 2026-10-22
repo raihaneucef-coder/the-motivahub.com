@@ -31,7 +31,7 @@ tags:
   - "habits"
   - "system"
   - "advanced"
-wordCount: 3632
+wordCount: 3636
 faq:
   - q: "What is the 2-minute rule as a system, not a trick?"
     a: "Most people treat the 2-minute rule as a productivity hack: do something tiny so you start. As a system, it is a four-part architecture: (1) a doorway that scales indefinitely, (2) an anchor that runs on autopilot, (3) a 2-day rule that protects the streak, and (4) an identity statement that gives the votes a destination. Treat it as a trick and it dies in three weeks. Treat it as a system and it lasts decades."
@@ -65,7 +65,6 @@ relatedArticles:
 
 <div data-i18n-html="article_2-minute-rule-system_p4"><strong>The 2-minute rule</strong>, from James Clear's Atomic Habits, says: when you start a new habit, it should take less than two minutes to do. Read for two minutes. Meditate for two minutes. Do ten pushups. The goal is not the two minutes. The goal is to make the start so easy you cannot say no. The actual behavior grows from the doorway. Most people stop at the doorway. The system continues past it.</div>
 
-<div data-i18n-html="article_2-minute-rule-system_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_2-minute-rule-system_p5">I first tried the 2-minute rule in January 2024. I was writing my first book, and the blank page was paralyzing me. Every morning I sat down to write, I would open the document, stare at the cursor, and close it after 10 minutes of nothing. Three days in a row. I was not stuck on ideas. I was stuck on starting.</div>
 

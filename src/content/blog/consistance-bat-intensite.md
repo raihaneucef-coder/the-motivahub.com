@@ -22,7 +22,7 @@ keywords:
   - "never miss twice rule"
 tags:
   - "sport"
-wordCount: 359
+wordCount: 317
 faq:
   - q: "Why does consistency beat intensity?"
     a: "Because results compound. 20 minutes daily for a year (120 hours) beats 3-hour sessions every two weeks (78 hours). Intensity creates soreness and burnout; consistency creates neural pathways and identity. The athlete who shows up mediocre daily outperforms the one who trains perfectly twice a week."
@@ -45,7 +45,6 @@ relatedArticles:
 
 <div data-i18n-html="article_consistance-bat-intensite_p3">Every January, gyms are packed. By February, they are empty. The people who show up intensely for a week and then disappear never achieve anything. The people who show up moderately for a year transform everything.</div>
 
-<div data-i18n-html="article_consistance-bat-intensite_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p4"><h2>The Math of Consistency</h2></div>
 

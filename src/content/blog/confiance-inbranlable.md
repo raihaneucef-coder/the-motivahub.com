@@ -21,7 +21,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 484
+wordCount: 442
 
 faq:
   - q: "Is confidence something you are born with or something you build?"
@@ -53,7 +53,6 @@ relatedArticles:
 
 <div data-i18n-html="article_confiance-inbranlable_p3">Confidence is not a personality trait. It is a skill. And like any skill, <a href="/journal/strength-is-a-skill/">it can be built, trained, and strengthened</a>.</div>
 
-<div data-i18n-html="article_confiance-inbranlable_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_confiance-inbranlable_p4">The difference between a confident person and an insecure one is not talent — it is practice. Confident people have simply practiced confidence more.</div>
 

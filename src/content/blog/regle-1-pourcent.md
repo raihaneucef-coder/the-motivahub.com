@@ -22,7 +22,7 @@ keywords:
 tags:
   - "personal growth"
   - "how-to"
-wordCount: 342
+wordCount: 299
 faq:
   - q: "What is the 1% rule?"
     a: "The 1% rule means improving by just 1% each day. Mathematically, 1.01³⁶⁵ = 37.8 — you become 37 times better in a year. Popularized by James Clear in Atomic Habits, the principle shows that tiny consistent gains compound into extraordinary results over time."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-1-pourcent_p3">If you improve by 1% every day for a year, you will be 37 times better by the end of the year. This is the compound effect, and it is the most powerful force in personal growth.</div>
 
-<div data-i18n-html="article_regle-1-pourcent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regle-1-pourcent_p4"><h2>The Math</h2></div>
 

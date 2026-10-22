@@ -22,7 +22,7 @@ keywords:
   - "process over outcome goals"
 tags:
   - "goals"
-wordCount: 337
+wordCount: 294
 faq:
   - q: "Why do my goals feel like a prison?"
     a: "Because you framed them as contracts ('I must do X or I fail'). This triggers loss-aversion anxiety. Reframe: a goal is a compass pointing toward a direction. You're allowed to take detours, rest, and adjust the route without abandoning the destination."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p3">We treat goals as cages. Once we set one, we feel trapped by it. If we miss a day, we feel guilty. If we change our mind, we feel like we failed.</div>
 
-<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p4">A better way is to treat a goal as a compass.</div>
 

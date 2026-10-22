@@ -22,7 +22,7 @@ keywords:
   - "marathon not a sprint mentality"
 tags:
   - "personal growth"
-wordCount: 833
+wordCount: 789
 faq:
   - q: "Why do slow climbers reach the top while sprinters burn out?"
     a: "Because sustainable pace builds capacity incrementally. Sprinters rely on motivation (finite), deplete adrenals, and crash at the first plateau. Slow climbers build systems, recover between pushes, and treat plateaus as consolidation — they never generate the debt that forces a quit."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_long-ascent_p3">Growth is not a staircase but a mountain. The plateaus are not failures — they are the ground reorganising itself beneath you.</div>
 
-<div data-i18n-html="article_long-ascent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_long-ascent_p4"><h2>The Map You Were Given Is Wrong</h2></div>
 

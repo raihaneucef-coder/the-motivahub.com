@@ -22,7 +22,7 @@ keywords:
   - "becoming emotionally self-sufficient"
 tags:
   - "personal growth"
-wordCount: 487
+wordCount: 444
 faq:
   - q: "What does it mean to have a 'secure self'?"
     a: "A secure self is someone whose worth doesn't depend on external validation. They can be alone without feeling abandoned, say no without guilt, and focus on their growth without calling it selfish. Attachment theory calls this 'earned security' — developed through consistent self-honesty."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_secure-self_p3">You were told that focusing on yourself is selfish. That you should think about others first, give more, be more available. And you did — until you noticed that the more you focused on people, the less you felt yourself. A more secure perspective has a different instruction: focus on yourself more than you focus on people. Not because people do not matter, but because self-love is the only love that is truly secure — safe.</div>
 
-<div data-i18n-html="article_secure-self_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_secure-self_p4"><h2>Love That Stays</h2></div>
 

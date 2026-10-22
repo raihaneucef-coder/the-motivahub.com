@@ -24,7 +24,7 @@ keywords:
   - "cheap high protein foods"
 tags:
   - "nutrition"
-wordCount: 221
+wordCount: 292
 faq:
   - q: "Why does protein matter if you're not an athlete?"
     a: "Protein is every cell's building material: immune antibodies, gut lining, neurotransmitters, hair, skin. After 30, you lose 3-8% muscle per decade (sarcopenia) unless protein is adequate. Non-athletes need 1.0-1.2g/kg (vs 0.8 RDA) to preserve functional strength and metabolic health."
@@ -44,7 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p3">We think protein is for bodybuilders. It is for anyone who wants to feel full and keep muscle.</div>
 
-<div data-i18n-html="article_protein-is-not-just-for-athletes_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p4">When you eat enough protein, you <a href="/journal/the-plate-that-keeps-you-steady/">stay satisfied longer</a>. You protect muscle while you lose fat. You give your body the material it needs to repair, every day.</div>
 
@@ -55,6 +54,11 @@ relatedArticles:
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p7">- Breakfast: eggs, yogurt, or beans.
 - Lunch: fish, chicken, lentils, or tofu.
 - Dinner: what you like, with a palm-sized portion of protein.</div>
+
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p11">How much is "enough"? The international recommended allowance is 0.8 grams of protein per kilogram of body weight per day — roughly 56 g if you weigh 70 kg (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5872778/" target="_blank" rel="noopener">Lonnie et al., 2018</a>). Treat that as the floor, not the ceiling; if you train hard, you want the upper side of the range — spread across meals, not stacked at dinner.</div>
+
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p12">And why does protein make discipline cheaper? It is the most satiating macronutrient — the research on protein and weight maintenance keeps landing there (<a href="https://pubmed.ncbi.nlm.nih.gov/25926512/" target="_blank" rel="noopener">Leidy et al., 2015, American Journal of Clinical Nutrition</a>). The palm of chicken at lunch quietly protects the evening you would otherwise negotiate with the fridge.</div>
+
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p8">If you do this, you will eat less without trying to eat less. You will keep more of the strength you build. And you will make the hard things — training, focusing, saying no to the extra snack — a little cheaper.</div>
 

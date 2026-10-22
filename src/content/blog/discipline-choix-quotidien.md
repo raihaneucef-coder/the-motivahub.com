@@ -21,7 +21,7 @@ keywords:
   - "build discipline habit"
 tags:
   - "discipline"
-wordCount: 649
+wordCount: 606
 faq:
   - q: "How do I choose discipline every single day?"
     a: "Make it a binary decision, not a negotiation. The moment you wake up, execute your first non-negotiable (bed, water, movement) before the brain starts debating. Discipline isn't a feeling — it's a decision made before emotions have a vote. Use the 5-second rule: count 5-4-3-2-1 and move."
@@ -44,7 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-choix-quotidien_p3">Every morning, you face the same choice: comfort or discipline. The alarm goes off — do you get up or hit snooze? The workout awaits — do you show up or stay in bed? The work is waiting — do you start or scroll?</div>
 
-<div data-i18n-html="article_discipline-choix-quotidien_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_discipline-choix-quotidien_p4">Discipline is not a personality trait. It is not something you are born with or without. It is a <strong>choice</strong> — and you make it every single day.</div>
 

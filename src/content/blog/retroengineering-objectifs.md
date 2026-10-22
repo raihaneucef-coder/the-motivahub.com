@@ -22,7 +22,7 @@ keywords:
 tags:
   - "goals"
   - "how-to"
-wordCount: 441
+wordCount: 398
 faq:
   - q: "What is reverse engineering a goal?"
     a: "Reverse engineering a goal means starting at the desired end result and working backward to today. You define the final outcome, break it into quarterly milestones, then monthly targets, then weekly actions — so every daily task has a direct line to the goal."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_retroengineering-objectifs_p3">Most people set a goal and then figure out how to get there. The most successful people do the opposite — they start at the end and work backward.</div>
 
-<div data-i18n-html="article_retroengineering-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_retroengineering-objectifs_p4">This is reverse engineering, and it is the fastest path from where you are to where you want to be.</div>
 

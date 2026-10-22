@@ -24,7 +24,7 @@ keywords:
   - "habit stacking visual prompts"
 tags:
   - "habits"
-wordCount: 843
+wordCount: 799
 faq:
   - q: "What does 'make it obvious' mean in habit formation?"
     a: "The First Law of Behavior Change (James Clear): design your environment so the cue for good habits is impossible to miss. Put your running shoes by the bed, fruit on the counter, book on your pillow. You don't need motivation — you need visibility."
@@ -51,7 +51,6 @@ relatedArticles:
 
 <div data-i18n-html="article_make-good-habits-obvious_p3">Willpower is not the problem. Visibility is.</div>
 
-<div data-i18n-html="article_make-good-habits-obvious_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_make-good-habits-obvious_p4">We keep fruit in the back of the fridge and chips on the counter, then wonder why we eat chips. We keep the book in the drawer and the phone on the pillow, then wonder why we scroll.</div>
 

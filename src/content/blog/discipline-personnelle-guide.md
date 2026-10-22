@@ -23,7 +23,7 @@ keywords:
 tags:
   - "discipline"
   - "guide"
-wordCount: 826
+wordCount: 782
 faq:
   - q: "How do I build self-discipline that lasts?"
     a: "Start with one tiny non-negotiable habit (e.g., make your bed daily). Stack gradually. Use environment design to reduce friction. Track streaks visually. The key is consistency over intensity — 1% daily beats 100% once a week."
@@ -50,7 +50,6 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-personnelle-guide_p3">Personal discipline is not a talent. It is a muscle. And like any muscle, it grows through repetition, not through inspiration.</div>
 
-<div data-i18n-html="article_discipline-personnelle-guide_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p4">Here is the complete guide to building unshakeable discipline — without hating yourself along the way.</div>
 

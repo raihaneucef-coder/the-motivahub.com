@@ -22,7 +22,7 @@ keywords:
   - "lunch that prevents afternoon slump"
 tags:
   - "nutrition"
-wordCount: 234
+wordCount: 247
 faq:
   - q: "What is the 'steady plate' method?"
     a: "Fill half your plate with vegetables, one quarter with protein (palm-sized), one quarter with slow carbs (rice, potato, whole grain), plus a thumb of healthy fat. This ratio keeps blood sugar even, prevents 3pm crashes, and eliminates hunger between meals without calorie counting."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p3">A steady day starts with a steady plate.</div>
 
-<div data-i18n-html="article_the-plate-that-keeps-you-steady_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p4">When your plate is mostly quick carbs, your <a href="/journal/fuel-before-willpower/">energy spikes and crashes</a>. When it is balanced, your energy stays even. This is not a diet. It is a ratio you can use for years.</div>
 
@@ -56,5 +55,8 @@ relatedArticles:
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p7">You do not need to weigh or count. Use your hand, your eye, and how you feel two hours later.</div>
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p8">Try it for three lunches. Not perfectly, just steadily. Notice how the afternoon feels. That feeling is the information.</div>
+
+<div data-i18n-html="article_the-plate-that-keeps-you-steady_p10">The plate, concretely: half of what you eat at a sitting is vegetables or salad, a quarter protein, a quarter starch — and the vegetables get the first fork. No weighing, no macro counting, no cleanse. The boring plate, done consistently, is the quiet rival of every aggressive diet that later needs a comeback article.</div>
+
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p9">A steady plate does not require willpower. It creates it.</div>

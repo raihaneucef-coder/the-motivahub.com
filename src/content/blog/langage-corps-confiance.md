@@ -23,7 +23,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 291
+wordCount: 248
 faq:
   - q: "Can body language really make you feel confident?"
     a: "Yes — 'embodied cognition' research shows posture affects hormones and self-perception. Standing tall for 2 minutes increases feelings of power (Carney, 2010). Even if the testosterone effect is debated, the psychological feedback loop is clear: act confident → feel more confident → perform better."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_langage-corps-confiance_p3">Research shows that 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Your body is already speaking — make sure it is saying the right things.</div>
 
-<div data-i18n-html="article_langage-corps-confiance_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_langage-corps-confiance_p4"><h2>Power Postures</h2></div>
 

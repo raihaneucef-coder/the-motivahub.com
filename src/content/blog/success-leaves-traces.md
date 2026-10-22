@@ -23,7 +23,7 @@ keywords:
   - "daily habits that lead to achievement"
 tags:
   - "success"
-wordCount: 239
+wordCount: 259
 faq:
   - q: "What does success leaves traces mean?"
     a: "Every achievement has a visible pathway: daily decisions, habits, and routines that preceded it. Successful people do not have magic, they leave breadcrumbs of consistency you can study and follow. The book they wrote had 500 days of early-morning writing. The business had 5 years of compounding. Traces reveal the formula."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_success-leaves-traces_p3">We study the trophy and ignore the traces.</div>
 
-<div data-i18n-html="article_success-leaves-traces_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_success-leaves-traces_p4">The trophy is the photo. The traces are the habits that made the photo possible — the early mornings, the notes in the margin, the hundred small choices that never made it to Instagram.</div>
 
@@ -58,5 +57,8 @@ relatedArticles:
 - How they end the day. What do they review?</div>
 
 <div data-i18n-html="article_success-leaves-traces_p9">Do that one trace for thirty days. Not perfectly, just consistently.</div>
+
+<div data-i18n-html="article_success-leaves-traces_p11">The traces audit, ten minutes a week: list the three things that actually <em>produced</em> something last week — not felt productive, produced — beside the three that failed. Under each winner, one line: skill, system, or luck? After a month, the pattern is on paper: you can see which "successes" were repeatable processes and which were accidents you should stop praying for.</div>
+
 
 <div data-i18n-html="article_success-leaves-traces_p10"><a href="/journal/mythe-reussite-instantanee/">Trophies inspire</a>. Traces instruct. Follow the traces long enough and the trophy stops being the point — the person the traces make of you becomes the point.</div>

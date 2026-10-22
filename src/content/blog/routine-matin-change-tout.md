@@ -22,7 +22,7 @@ keywords:
 tags:
   - "habits"
   - "morning-routine"
-wordCount: 627
+wordCount: 567
 faq:
   - q: "Can a morning routine really change your life?"
     a: "Yes — not because of the specific activities but because of what a routine builds: a sense of control before the world makes demands. Research on 'self-efficacy' shows that keeping a promise to yourself first thing raises confidence for every subsequent decision that day."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_routine-matin-change-tout_p3">The morning is the only time of day that is truly yours. Before the emails, before the meetings, before the world starts making demands — there is a window of freedom. How you use it determines the quality of your entire day.</div>
 
-<div data-i18n-html="article_routine-matin-change-tout_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_routine-matin-change-tout_p4"><h2>Why the Morning Matters</h2></div>
 

@@ -23,7 +23,7 @@ keywords:
   - "first steps to financial freedom"
 tags:
   - "finance"
-wordCount: 267
+wordCount: 325
 faq:
   - q: "How do beginners start investing?"
     a: "Open a brokerage or tax-advantaged account (ISA, 401k, PEA), set up an automatic monthly transfer (even 50€), and buy a broad-market index fund (S&P 500 or MSCI World). Avoid picking individual stocks until you have at least 6 months of consistent contributions."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_invest-like-beginner_p3">Waiting to feel ready is the most expensive investment strategy.</div>
 
-<div data-i18n-html="article_invest-like-beginner_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_invest-like-beginner_p4">Most people <a href="/journal/investir-debutant/">delay investing</a> because they believe they need to understand everything first. Experts, charts, perfect timing. Meanwhile, time — the most powerful asset — keeps moving.</div>
 
@@ -56,5 +55,8 @@ relatedArticles:
 - <strong>Do not look daily.</strong> Check quarterly. Daily prices are noise; decades are signal.</div>
 
 <div data-i18n-html="article_invest-like-beginner_p8">The beginner who invests 500 MAD monthly for twenty years will almost always beat the expert who waited ten years to feel ready.</div>
+
+<div data-i18n-html="article_invest-like-beginner_p10">The honest boundaries this article cannot cross: no amount you should invest, no product to buy, no guarantee — none of that fits in an article, and anyone claiming otherwise is selling. Before any first purchase: keep three to six months of essential costs in accessible cash; understand in one sentence what the money buys and how it can go down; know the fees; invest only amounts whose loss you could absorb while still sleeping; and if you carry high-interest debt, that math comes first. This is education, not advice — a fee-only professional in your country is worth one consultation.</div>
+
 
 <div data-i18n-html="article_invest-like-beginner_p9">You do not need to be an owner of a company to think like one. You just need to start and not stop.</div>

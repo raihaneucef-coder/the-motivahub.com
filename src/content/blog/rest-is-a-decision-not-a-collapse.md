@@ -24,7 +24,7 @@ keywords:
   - "rest and productivity science"
 tags:
   - "wellness"
-wordCount: 455
+wordCount: 412
 faq:
   - q: "What's the difference between rest and collapse?"
     a: "Rest is a decision — you stop before you're broken, recover deliberately, and return refreshed. Collapse is what happens when you ignored rest signals for weeks: you crash, feel guilty, and recover poorly. The difference is agency: one is strategic, the other is forced."
@@ -51,7 +51,6 @@ relatedArticles:
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p3">There are two ways a productive stretch can end. One is a decision: you look at the week, decide the account is due for a deposit, and step back on your own terms. The other is a collapse: you push until the body or the mind refuses to continue, and rest is what happens to you rather than something you chose. Both look similar from the outside. They are not similar at all.</div>
 
-<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p4">Collapse-rest tends to come with guilt attached, because it feels like a failure of discipline rather than an act of it. Decision-rest carries no such weight, because it was planned as part of the discipline all along. The body cannot always tell the difference in how tired it feels, but the mind can tell the difference in how it recovers.</div>
 

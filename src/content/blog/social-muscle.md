@@ -21,7 +21,7 @@ keywords:
   - "social muscle atrophy and recovery"
 tags:
   - "personal growth"
-wordCount: 332
+wordCount: 364
 faq:
   - q: "Why is social connection called a 'muscle'?"
     a: "Because it atrophies with disuse and strengthens with consistent exercise. The same principles apply: progressive overload (slightly harder social situations), regularity (weekly contact, not yearly), and recovery (introverts need downtime between). Loneliness literally increases mortality risk by 26% (Holt-Lunstad, 2010)."
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_social-muscle_p3">A brief social lesson is 19 seconds long: a man says, "You do not find community. You build it, one awkward hello at a time." The message resonates not because of charisma — but because of relief. Everyone thought they were the only ones who found it hard.</div>
 
-<div data-i18n-html="article_social-muscle_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_social-muscle_p4"><h2>Social Connection Is a Skill</h2></div>
 
@@ -60,5 +59,8 @@ relatedArticles:
 <div data-i18n-html="article_social-muscle_p11"><h2>Community Over Algorithm</h2></div>
 
 <div data-i18n-html="article_social-muscle_p12">The algorithm gives you an audience. Community gives you a room. An audience claps. A community notices when you are missing.</div>
+
+<div data-i18n-html="article_social-muscle_p14">Three reps this week: one specific compliment to a stranger — "that was a kind thing to do" — then walk away, no conversation owed; one question to a colleague that is not about work; one five-minute conversation where you let the silence sit instead of rescuing it. Rate each afterward on one line: how awkward starting, how awkward ending. The scores drop week by week. That is why it is called a muscle.</div>
+
 
 <div data-i18n-html="article_social-muscle_p13">Tonight, <a href="/journal/regle-1-pourcent/">send one message you have been postponing</a>. Not to be seen, but to see someone. The social muscle does not grow in the gym of viral clips — it grows in the small, unrecorded rep of reaching out.</div>

@@ -22,7 +22,7 @@ keywords:
   - "how much discomfort is too much"
 tags:
   - "personal growth"
-wordCount: 338
+wordCount: 296
 faq:
   - q: "Why do you need to leave your comfort zone to grow?"
     a: "Growth requires what exercise science calls progressive overload: a stimulus slightly beyond your current capacity triggers adaptation. The same applies psychologically. Vygotsky Zone of Proximal Development: optimal learning happens just beyond what you can already do alone."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_zone-confort-croissance_p3">Your comfort zone is where you feel safe. No risk, no judgment, no failure. It is also where you stop growing. Growth only happens outside your comfort zone.</div>
 
-<div data-i18n-html="article_zone-confort-croissance_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_zone-confort-croissance_p4"><h2>The Three Zones</h2></div>
 

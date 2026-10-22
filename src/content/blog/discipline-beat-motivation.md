@@ -22,7 +22,7 @@ keywords:
   - "daily discipline over motivation"
 tags:
   - "discipline"
-wordCount: 620
+wordCount: 578
 faq:
   - q: "Why does discipline beat motivation?"
     a: "Motivation is an emotion — it fluctuates with sleep, stress, and mood. Discipline is a system — it works regardless of how you feel. Studies show people who rely on motivation quit in 2-3 weeks. Those who build discipline systems sustain change for months and years."
@@ -49,7 +49,6 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-beat-motivation_p3">Motivation feels amazing. When you are motivated, you can conquer the world. The problem is that motivation disappears — usually within 48 hours of getting inspired.</div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p4">Discipline does not care how you feel. It shows up anyway. And that is why discipline always beats motivation.</div>
 

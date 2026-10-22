@@ -24,7 +24,7 @@ keywords:
   - "growth before breakdown"
 tags:
   - "personal growth"
-wordCount: 266
+wordCount: 290
 faq:
   - q: "Why does personal growth feel like breaking?"
     a: "Because growth requires dismantling your old identity before building a new one. There's a gap between who you were and who you're becoming — and in that gap, nothing feels stable. Psychologists call this 'liminal space.' It's not a sign of failure; it's the architecture of transformation."
@@ -47,7 +47,6 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-feels-like-breaking_p3">You thought growth would feel like becoming. At first, it feels like breaking.</div>
 
-<div data-i18n-html="article_growth-feels-like-breaking_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p4">The old habits crack. The old stories do not fit. The person you were holds on while the person you are becoming tries to be born. It is uncomfortable, and it is exactly right.</div>
 
@@ -64,5 +63,8 @@ relatedArticles:
 <div data-i18n-html="article_growth-feels-like-breaking_p9">Do not rush to feel comfortable again. Stay in the break. Breathe there.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p10">Ask: what is trying to be born in me that needs this discomfort to arrive?</div>
+
+<div data-i18n-html="article_growth-feels-like-breaking_p12">Say the limits out loud, because the metaphor overreaches: tissues genuinely adapt under stress that recovers with rest — but soreness is not a scorecard and pain is not progress. The usable version: one notch more than last week (a rep, a minute, a difficulty), then real rest, then check whether it became easier. That is growth you can verify — without worshipping at damage.</div>
+
 
 <div data-i18n-html="article_growth-feels-like-breaking_p11">You are not breaking. <a href="/journal/long-ascent/">You are becoming</a>. And becoming, for a while, feels just like breaking — until one morning you realize the shell is gone and you are already flying.</div>

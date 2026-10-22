@@ -22,7 +22,7 @@ keywords:
   - "self concept determines results"
 tags:
   - "mindset"
-wordCount: 344
+wordCount: 323
 faq:
   - q: "What does 'you fall to your identity' mean?"
     a: "Popularized by James Clear: 'You do not rise to the level of your goals. You fall to the level of your systems.' More precisely, behavior follows identity. If you see yourself as 'a runner', you run without debating it. If you see yourself as 'someone trying to exercise', you quit when motivation fades."
@@ -40,9 +40,11 @@ relatedArticles:
 
 <div data-i18n-html="article_viral-mindset-shift_p2">A powerful mindset clip, 27 seconds long: <a href="/journal/identity-precedes-outcome/">identity precedes outcome</a>. Here is the full story behind a transformative idea on motivation.</div>
 
+<div data-i18n-html="article_viral-mindset-shift_p14"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
+
+
 <div data-i18n-html="article_viral-mindset-shift_p3">A powerful mindset video is not a speech. It is 27 seconds of a man saying: "You do not rise to your goals. You fall to your identity." The comments are not about the words — they are about the shock of recognition.</div>
 
-<div data-i18n-html="article_viral-mindset-shift_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_viral-mindset-shift_p4"><h2>Identity Precedes Outcome</h2></div>
 

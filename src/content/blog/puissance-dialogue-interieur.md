@@ -22,7 +22,7 @@ keywords:
   - "talk to yourself like a friend"
 tags:
   - "mindset"
-wordCount: 804
+wordCount: 761
 faq:
   - q: "How does inner dialogue affect performance?"
     a: "Research by Hatzigeorgiadis (2011) found self-talk interventions improve performance by 10-18%. Instructional self-talk ('elbow high' during a shot) enhances focus; motivational self-talk ('you can do this') enhances endurance. The inner voice isn't noise — it's the coaching channel your brain actually follows."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p3">You talk to yourself 6,000 times a day. Most of the time, you do not even realize it.</div>
 
-<div data-i18n-html="article_puissance-dialogue-interieur_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p4">This inner dialogue — the constant narration running in the background — shapes everything. Your confidence. Your decisions. Your results. If your self-talk is cruel, your life will feel cruel. If your self-talk is empowering, your life will feel possible.</div>
 

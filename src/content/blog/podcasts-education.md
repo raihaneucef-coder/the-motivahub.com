@@ -23,7 +23,7 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 304
+wordCount: 332
 faq:
   - q: "Can you really learn from podcasts?"
     a: "Yes. Research from Stanford (2023) shows audio learning retention matches reading for narrative content. Podcasts excel for ideas, interviews, and frameworks. Best for: commutes, workouts, chores. Not ideal for: technical depth requiring visuals or note-taking."
@@ -46,7 +46,6 @@ relatedArticles:
 
 <div data-i18n-html="article_podcasts-education_p3">You spend hours every week commuting, exercising, and doing chores. What if you could learn during those hours? Podcasts make it possible.</div>
 
-<div data-i18n-html="article_podcasts-education_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_podcasts-education_p4"><h2>Why Podcasts Work</h2></div>
 
@@ -79,5 +78,8 @@ Personal development, business, science, history, health, finance — there is a
 5. Listen at 1.25x speed to cover more content</div>
 
 <div data-i18n-html="article_podcasts-education_p13"><blockquote><em>The more that you read, the more things you will know. The more that you learn, the more places you will go. — Dr. Seuss</em></blockquote></div>
+
+<div data-i18n-html="article_podcasts-education_p16">A use-it system beats a longer list: one episode per week that earns its hours. Before pressing play, write the question you want it to answer. Listen at normal speed while walking, not while scrolling. Pause twice to say out loud the one thing worth keeping. And within twenty-four hours, act on it or send the exact moment to the person it fits. Three episodes done that way beat thirty half-remembered.</div>
+
 
 <div data-i18n-html="article_podcasts-education_p15"><strong>Start learning today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you the structure to learn daily. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

@@ -23,7 +23,7 @@ keywords:
   - "increase savings rate not income"
 tags:
   - "finance"
-wordCount: 231
+wordCount: 270
 faq:
   - q: "Why don't raises solve money problems?"
     a: "Because of 'lifestyle creep': spending automatically expands to match income (Parkinson's law of money). A 20% raise typically produces 20% more spending — same gap, bigger numbers. The solution isn't earning more; it's keeping a fixed savings percentage before spending whatever remains."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_paycheck-trap_p3">Every raise comes with a silent partner: lifestyle inflation.</div>
 
-<div data-i18n-html="article_paycheck-trap_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_paycheck-trap_p4">You earn more, so you spend a little more to feel it — a better apartment, a newer phone, dinners that used to be for birthdays. Six months later the raise has disappeared, but the new baseline stayed.</div>
 
@@ -52,5 +51,8 @@ relatedArticles:
 <div data-i18n-html="article_paycheck-trap_p6">The fix is not willpower; it is a rule you set before the money arrives. When income rises, decide in advance where the extra goes: <a href="/journal/price-of-freedom/">half to freedom</a> (savings, investments), a quarter to joy (something you truly value), a quarter to buffer (emergencies). Write it when you are calm, so you do not decide when you are excited.</div>
 
 <div data-i18n-html="article_paycheck-trap_p7">Try this with your next inflow, however small — a bonus, a side project, even a refund. Before it lands, assign it. What is not assigned will be absorbed. What is assigned will compound.</div>
+
+<div data-i18n-html="article_paycheck-trap_p9">The thirty-minute audit that cracks the trap: export the last three months of your bank statement; label every line with one word — needed, wanted, or automatic; add up the "automatic" column. That total is the subscription form of the trap: money moving on decisions you no longer remember making. Cancel or renegotiate one item tonight, and set the freed amount to move automatically on payday morning — before the lifestyle absorbs it. No app, no spreadsheet discipline. One evening.</div>
+
 
 <div data-i18n-html="article_paycheck-trap_p8">The paycheck is not the prize. <a href="/journal/earn-keep-grow/">What you keep</a> after it is.</div>

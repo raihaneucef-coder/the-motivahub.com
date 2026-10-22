@@ -21,7 +21,7 @@ keywords:
   - "automatic habits system design"
 tags:
   - "goals"
-wordCount: 480
+wordCount: 438
 faq:
   - q: "What's the difference between a system and a goal?"
     a: "A goal is the desired result ('lose 10 kg'). A system is the repeatable process that produces it ('I walk 8,000 steps daily and eat protein at every meal'). Goals provide direction; systems provide progress. Winners and losers set the same goals — the system is what separates them."
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_systemes-battent-motivation_p3">Motivation gets you started. Systems keep you going. The problem is that most people rely on motivation — and motivation disappears when things get hard.</div>
 
-<div data-i18n-html="article_systemes-battent-motivation_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p4">Systems do not care how you feel. They run regardless. And that is why systems always beat motivation.</div>
 

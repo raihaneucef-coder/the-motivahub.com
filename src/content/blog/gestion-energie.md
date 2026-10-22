@@ -20,7 +20,7 @@ keywords:
   - "the real productivity hack"
 tags:
   - "productivity"
-wordCount: 387
+wordCount: 406
 faq:
   - q: "What is energy management?"
     a: "Prioritizing when you do work over how long you work. Instead of cramming tasks into every free hour, you schedule demanding tasks during peak energy windows (typically 90 min after waking) and low-energy work (email, admin) during slumps. Based on Tony Schwartz's Energy Management model."
@@ -40,7 +40,6 @@ relatedArticles:
 
 <div data-i18n-html="article_gestion-energie_p3">You can have 8 hours in a day and waste every one of them if your energy is low. You can have 2 hours and accomplish more than most people do in a full day — if your energy is high.</div>
 
-<div data-i18n-html="article_gestion-energie_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_gestion-energie_p4">Time management is not enough. You need energy management.</div>
 
@@ -99,5 +98,8 @@ Purpose fuels persistence. When you know why you are doing something, you find t
 - Prepare for tomorrow</div>
 
 <div data-i18n-html="article_gestion-energie_p18"><blockquote><em>Energy, not time, is the fundamental currency of high performance. — Tony Schwartz</em></blockquote></div>
+
+<div data-i18n-html="article_gestion-energie_p21">For provenance, since this page runs on the framework: the four dimensions of energy and the principle "energy, not time" come from Jim Loehr and Tony Schwartz, <em>The Power of Full Engagement</em> (2003). The ideas above are simplified from their work — the book is where the reasoning and the actual drills live, if you want to go deeper than the summary.</div>
+
 
 <div data-i18n-html="article_gestion-energie_p20"><strong>Manage your energy.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds energy through daily challenges. Track your energy with our <a href="/tracker/">Habit Tracker</a>.</div>

@@ -23,7 +23,7 @@ keywords:
 tags:
   - "travel"
   - "how-to"
-wordCount: 345
+wordCount: 301
 faq:
   - q: "How can I travel the world on a tight budget?"
     a: "3 rules that save 50 percent: 1) Travel in shoulder season (not July/August). 2) Stay minimum 7 days per city (weekly discounts vs nightly rates). 3) Eat where locals eat: markets, street food, not tourist restaurants. Southeast Asia, Eastern Europe, Morocco, and Latin America offer the best value-per-experience."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-budget_p3">"Travel is too expensive" is the most common excuse for not exploring the world. But it is just that — an excuse. With the right strategies, you can travel for less than you spend at home.</div>
 
-<div data-i18n-html="article_voyage-budget_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_voyage-budget_p4"><h2>How to Travel Cheap</h2></div>
 

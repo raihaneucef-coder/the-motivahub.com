@@ -23,7 +23,7 @@ keywords:
 tags:
   - "sport"
   - "how-to"
-wordCount: 384
+wordCount: 343
 faq:
   - q: "How do athletes stay calm under pressure?"
     a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. Stanford research shows 'I am excited' self-talk outperforms 'I am calm' because both are high-arousal states — the brain just needs a positive label."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_force-mentale-sport_p3">The best athletes in the world are not the most talented. They are the ones who can perform when the pressure is highest — when the crowd is loud, the stakes are high, and the margin for error is zero.</div>
 
-<div data-i18n-html="article_force-mentale-sport_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_force-mentale-sport_p4"><h2>What Is Mental Toughness?</h2></div>
 

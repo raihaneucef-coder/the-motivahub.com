@@ -25,7 +25,7 @@ keywords:
 tags:
   - "finance"
   - "story"
-wordCount: 278
+wordCount: 311
 faq:
   - q: "Why do I feel ashamed about debt?"
     a: "Because we confuse numbers with character. Debt is a financial state, not a moral failure. Research on 'financial shame' (University of Florida) shows that self-judgment about debt leads to avoidance — checking statements later, spending to cope. Self-compassion actually increases repayment speed because you face the numbers instead of hiding."
@@ -45,7 +45,6 @@ relatedArticles:
 
 <div data-i18n-html="article_debt-is-a-story_p3">Debt whispers that you are <a href="/journal/paycheck-trap/">bad with money</a>. That is not helpful, and it is not true.</div>
 
-<div data-i18n-html="article_debt-is-a-story_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_debt-is-a-story_p4">Debt is not a verdict on who you are; it is the result of a story you lived: <a href="/journal/fond-urgence/">an emergency</a>, a celebration, a few months where life cost more than it gave. The story can be rewritten, but not with shame — with a plan.</div>
 
@@ -57,5 +56,8 @@ relatedArticles:
 <div data-i18n-html="article_debt-is-a-story_p7">Automate the minimums so you never miss, then put any extra — even 100 MAD — on the one you are attacking. Cancel one subscription and redirect it. Sell one thing you no longer use. Momentum matters more than amount.</div>
 
 <div data-i18n-html="article_debt-is-a-story_p8">Track the total owed weekly, not daily. Watch it fall. Each payment is a sentence in the new story: I am someone who keeps promises, even to my past self.</div>
+
+<div data-i18n-html="article_debt-is-a-story_p10">Try the rewrite on paper with illustrative numbers: "I owe 3,000" is a sentence that ends in dread. The same facts, rewritten: "3,000 at 400 a month is fully mine by month eight — here is what I cut to protect the 400." Same debt, different job: the second version carries a date and a decision. Keep the date visible and tick it monthly; a story only works when you revise the ending on schedule.</div>
+
 
 <div data-i18n-html="article_debt-is-a-story_p9">You do not need to be debt-free tomorrow. You need to be moving in the right direction today.</div>

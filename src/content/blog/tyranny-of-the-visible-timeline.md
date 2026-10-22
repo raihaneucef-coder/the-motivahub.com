@@ -24,7 +24,7 @@ keywords:
   - "invisible progress before breakthrough"
 tags:
   - "mindset"
-wordCount: 451
+wordCount: 407
 faq:
   - q: "Why do I feel behind compared to people my age?"
     a: "Because you are comparing your invisible chapter 3 to their visible chapter 10. You do not see their 7 years of unrecognized work, their failures, their debts behind the highlight. The timeline you are measuring against is a curated performance, not a documented reality."
@@ -51,7 +51,6 @@ relatedArticles:
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p3">Ask most people why they quit something and they will tell you a story about the goal — it stopped mattering, it turned out to be the wrong one, life got in the way. Look closer and a different pattern shows up more often: they quit because they were checking the clock, and the clock kept saying the same discouraging thing.</div>
 
-<div data-i18n-html="article_tyranny-of-the-visible-timeline_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p4">Progress is rarely linear, but the mind expects it to be. Week one should lead to a slightly better week two, which should lead to a visibly better week three. When the graph refuses to cooperate — when week six looks disappointingly like week one — the temptation is to conclude the method has failed, rather than the more accurate conclusion: the method is working on a timescale the mind wasn't prepared to wait for.</div>
 

@@ -22,7 +22,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 346
+wordCount: 304
 faq:
   - q: "How do you say no without feeling guilty?"
     a: "Reframe: every 'yes' to someone else is a 'no' to your own priorities. Say it simply — 'I can't commit to that' — without over-explaining. Guilt fades with repetition: each refusal that doesn't destroy the relationship proves your fear was disproportionate."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_art-dire-non_p3">Saying no is not selfish. It is necessary. Every time you say yes to something you do not want, you say no to something you do — your time, your energy, your peace.</div>
 
-<div data-i18n-html="article_art-dire-non_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_art-dire-non_p4"><h2>Why Saying No Is Hard</h2></div>
 

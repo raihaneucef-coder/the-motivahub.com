@@ -23,7 +23,7 @@ keywords:
   - "recovery routine for athletes"
 tags:
   - "sport"
-wordCount: 224
+wordCount: 293
 faq:
   - q: "Why is recovery considered part of training?"
     a: "Exercise creates micro-tears in muscle fibers; recovery is when they repair STRONGER. Without adequate rest (48-72 hrs between muscle groups), you accumulate damage without adaptation. The gym is the stimulus; sleep and rest are where the actual growth happens."
@@ -43,9 +43,13 @@ relatedArticles:
 
 <div data-i18n-html="article_recovery-is-training_p3">We glorify the lift and ignore the rest that makes the lift matter.</div>
 
-<div data-i18n-html="article_recovery-is-training_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_recovery-is-training_p4"><a href="/journal/consistance-bat-intensite/">Muscles do not grow in the gym</a>. They grow in the hours after, when you sleep, eat, and do nothing. Without recovery, training is just damage.</div>
+
+<div data-i18n-html="article_recovery-is-training_p10">There is evidence behind the cliché. When researchers gave collegiate basketball players the opportunity to sleep ten hours a night, sprint times, shooting accuracy and daytime alertness all measurably improved (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119836/" target="_blank" rel="noopener">Mah et al., 2011, Sleep</a>). Rest is not the pause between the work — in that study, it <em>was</em> the work.</div>
+
+<div data-i18n-html="article_recovery-is-training_p11">Why would sleep build muscle? Sleep restriction appears to tip the body's hormonal balance toward breakdown rather than repair — a mechanism researchers have proposed but not fully proven (Dattilo et al., 2011, <em>Medical Hypotheses</em>; see the <a href="https://pubmed.ncbi.nlm.nih.gov/21550729/">PubMed record</a>). Until the last word is written, the practical rule is unchanged: train hard, sleep enough, or train hard and shrink. For the deep dive, see <a href="/journal/sleep-is-unfair-advantage/">why sleep is the unfair advantage</a>.</div>
+
 
 <div data-i18n-html="article_recovery-is-training_p5"><strong>Recovery is not time off. It is part of the program.</strong></div>
 

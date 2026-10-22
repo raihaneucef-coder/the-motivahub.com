@@ -22,7 +22,7 @@ keywords:
   - "sympathetic vs parasympathetic"
 tags:
   - "wellness"
-wordCount: 327
+wordCount: 284
 faq:
   - q: "What does it mean that 'your nervous system is the boss'?"
     a: "Your thoughts and discipline run on top of your nervous system state. If your body is in fight-or-flight (sympathetic overdrive), your 'rational brain' goes offline. You can't think your way out of a stress response — you must regulate the body first (breath, movement, safety cues), then the mind follows."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p3">You cannot think your way out of a body that believes it is in danger.</div>
 
-<div data-i18n-html="article_nervous-system-is-the-boss_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p4">You can repeat affirmations while your jaw is clenched, your shoulders are up to your ears, and your breath is shallow. Your nervous system will not be convinced. It listens to the body first, and to words last.</div>
 

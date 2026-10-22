@@ -20,7 +20,7 @@ keywords:
   - "callousing the mind technique"
 tags:
   - "discipline"
-wordCount: 583
+wordCount: 540
 faq:
   - q: "What is voluntary discomfort?"
     a: "Voluntary discomfort is the deliberate practice of choosing short-term hardship — cold showers, fasting, intense exercise — to build mental resilience. Stoics and Navy SEALs use it to expand their comfort zone and reduce fear of difficulty."
@@ -47,7 +47,6 @@ relatedArticles:
 
 <div data-i18n-html="article_inconfort-volontaire_p3">You do not become tough by accident. You become tough by <strong>choosing</strong> things that are hard — not because you have to, but because you want to.</div>
 
-<div data-i18n-html="article_inconfort-volontaire_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_inconfort-volontaire_p4">Voluntary discomfort is the fastest path to mental toughness. And it is available to anyone, anytime, for free.</div>
 

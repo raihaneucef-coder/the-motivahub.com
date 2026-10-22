@@ -26,10 +26,10 @@ tags:
   - "stories"
   - "accountability"
   - "habits"
-wordCount: 271
+wordCount: 249
 faq:
   - q: "Does accountability actually help with habits?"
-    a: "Yes. Research shows that people who commit to habits with a partner are 2-3x more likely to stick with them. The social commitment creates a different kind of accountability than self-discipline. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel shame. The stronger emotion protects the habit."
+    a: "Yes. Committing to a habit with a partner tends to strengthen follow-through in a way solo willpower often does not. The social commitment creates a different kind of accountability than self-discipline. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel shame. The stronger emotion protects the habit."
   - q: "What is the never break the chain method?"
     a: "Jerry Seinfeld's strategy: mark an X on a calendar every day you complete your habit. The goal is to never break the chain of Xs. It works because of loss aversion, visual proof, and momentum. The longer the chain, the harder it is to break."
   - q: "How do I find an accountability partner?"
@@ -38,7 +38,7 @@ faq:
     a: "Then you continue alone. The habit was never about the partner — it was about the promise. The partner is a training wheel. The promise is the structure. If the partner quits, you keep the promise to yourself. The habit survives. The community may not, but the discipline does."
 faqFr:
   - q: "La redevabilité aide-t-elle vraiment pour les habitudes ?"
-    a: "Oui. Les recherches montrent que les personnes qui s'engagent sur une habitude avec un partenaire ont 2 à 3 fois plus de chances de tenir. L'engagement social crée une redevabilité différente de l'autodiscipline. Quand on manque une promesse faite à soi-même, on ressent de la déception. Quand on manque une promesse faite à un ami, on ressent de la honte. L'émotion la plus forte protège l'habitude."
+    a: "Oui. S'engager sur une habitude avec un partenaire renforce généralement la régularité là où la seule volonté fléchit. L'engagement social crée une redevabilité différente de l'autodiscipline. Quand on manque une promesse faite à soi-même, on ressent de la déception. Quand on manque une promesse faite à un ami, on ressent de la honte. L'émotion la plus forte protège l'habitude."
   - q: "Qu'est-ce que la méthode de la chaîne ?"
     a: "La stratégie de Jerry Seinfeld : marquer un X sur un calendrier chaque jour où vous faites votre habitude. L'objectif est de ne jamais briser la chaîne de X. Elle fonctionne par aversion de la perte, preuve visuelle et élan. Plus la chaîne est longue, plus il est difficile de la rompre."
   - q: "Comment trouver un partenaire de redevabilité ?"
@@ -52,11 +52,13 @@ relatedArticles:
   - "proof-over-noise"
 ---
 
-<div data-i18n-html="article_two-friends-one-promise_p2"><strong>Accountability to a friend is 2-3x more effective than self-discipline alone.</strong> The social commitment creates a different kind of pressure — not shame, but mutual respect. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel something stronger. That difference is what keeps the habit alive on the days motivation fails.</div>
+<div data-i18n-html="article_two-friends-one-promise_p2"><strong>Accountability to a friend often holds where self-discipline alone fails.</strong> The social commitment creates a different kind of pressure — not shame, but mutual respect. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel something stronger. That difference is what keeps the habit alive on the days motivation fails.</div>
+
+<div data-i18n-html="article_two-friends-one-promise_p11"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
+
 
 <div data-i18n-html="article_two-friends-one-promise_p3">They promised to walk every day for a year. No matter the weather, no matter the mood.</div>
 
-<div data-i18n-html="article_two-friends-one-promise_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_two-friends-one-promise_p4">Day 4, it rained. They walked in the rain.</div>
 

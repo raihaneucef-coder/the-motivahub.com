@@ -22,7 +22,7 @@ keywords:
   - "novelty and brain health"
 tags:
   - "travel"
-wordCount: 328
+wordCount: 285
 faq:
   - q: "Does travel actually improve mental health?"
     a: "Yes. A Cornell University study found that planning a trip increases happiness for 8 weeks — longer than any purchase. Travel disrupts rumination cycles, exposes you to novelty (dopamine), and provides perspective shifts that reduce anxiety by breaking the 'problem = everything' tunnel vision."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-sante-mentale_p3">Your brain is a pattern-recognition machine. When you are in the same environment every day, your brain goes on autopilot. Travel breaks the pattern — and that is exactly what your mental health needs.</div>
 
-<div data-i18n-html="article_voyage-sante-mentale_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p4"><h2>How Travel Heals Your Mind</h2></div>
 

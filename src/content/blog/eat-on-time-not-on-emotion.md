@@ -22,7 +22,7 @@ keywords:
   - "regular meals better focus"
 tags:
   - "nutrition"
-wordCount: 256
+wordCount: 299
 faq:
   - q: "Why is eating on a schedule better than eating when hungry?"
     a: "Because 'hunger' is often a mix of actual need and emotional triggers. A fixed schedule (breakfast 8am, lunch 1pm, dinner 7pm) prevents glucose crashes that trigger poor decisions — snacking, irritability, and 'reward eating' after stress. You decide what to eat while calm, not while desperate."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p3">Hunger is not a good time to decide what to eat.</div>
 
-<div data-i18n-html="article_eat-on-time-not-on-emotion_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p4">When you are starving, everything quick and sweet looks like the answer. Your brain, <a href="/journal/the-plate-that-keeps-you-steady/">low on fuel</a>, chooses what is fastest, not what is best for the afternoon you still have to live.</div>
 
@@ -59,5 +58,8 @@ relatedArticles:
 - <strong>Decide when you are calm.</strong> What you will eat for dinner is best decided at lunch, not at 7 PM when you are tired.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p10">You do not need more discipline at the table. You need less hunger at the table.</div>
+
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p12">The three-day log that shows the pattern: for three days, write each eating moment as "time + what happened just before" — not what you ate, what happened before it. By the second evening the truth is on paper: the 16:30 biscuit is the dead meeting, the late snack is the unfinished task. You cannot delete every trigger, but you can meet a known one with a pre-decided response — water, a walk, ten minutes outside — chosen in advance, not improvised at the low moment.</div>
+
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p11">Eat on time, and the right choice stops feeling like a choice at all.</div>

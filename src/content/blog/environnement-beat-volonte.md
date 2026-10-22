@@ -21,7 +21,7 @@ keywords:
   - "atomic habits environment design"
 tags:
   - "habits"
-wordCount: 708
+wordCount: 666
 faq:
   - q: "Why does environment beat willpower?"
     a: "Willpower is a finite resource that depletes with stress, decisions, and time (ego depletion, Baumeister research). Environment works 24/7 without effort. If your kitchen has fruit at eye level and cookies in a high cupboard, you eat better without 'trying.'"
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_environnement-beat-volonte_p3">You do not resist temptation. You avoid it. This is the secret that people with good habits understand — and the secret that people who struggle with habits miss entirely.</div>
 
-<div data-i18n-html="article_environnement-beat-volonte_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_environnement-beat-volonte_p4">Willpower is finite. Environment is constant. Design your environment correctly, and you do not need willpower at all.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "turn pain into power practice"
 tags:
   - "personal growth"
-wordCount: 292
+wordCount: 250
 faq:
   - q: "Why are comeback stories more powerful than first successes?"
     a: "Because adversity builds what easy success cannot: self-knowledge (you learn who you are under pressure), humility (you stop taking stability for granted), and pattern recognition (you know exactly what went wrong and how to prevent it). The comeback carries the weight of earned wisdom, not naive optimism."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_the-comeback-is-stronger_p3">They told you the fall would break you. It didn't. It built you.</div>
 
-<div data-i18n-html="article_the-comeback-is-stronger_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p4">Every person who has ever grown has a chapter they did not want to live through — a loss, a failure, a season where nothing worked. That chapter is not the end of the story. It is the training montage.</div>
 

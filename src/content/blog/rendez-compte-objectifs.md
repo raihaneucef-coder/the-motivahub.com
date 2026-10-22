@@ -21,7 +21,7 @@ keywords:
   - "commitment device self discipline"
 tags:
   - "goals"
-wordCount: 430
+wordCount: 386
 faq:
   - q: "What is an accountability partner?"
     a: "A person you check in with weekly to report progress on your goals. Unlike a coach, they don't advise — they simply ask 'did you do what you said?' The social commitment of reporting to another person increases follow-through by 65% (Dominican University study, Dr. Gail Matthews)."
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_rendez-compte-objectifs_p3">You are 65% more likely to achieve a goal if you commit to someone. You are 95% more likely if you have a scheduled accountability appointment.</div>
 
-<div data-i18n-html="article_rendez-compte-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p4">Accountability is not about punishment. It is about support, commitment, and the social pressure that keeps you honest.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "stop all or nothing fitness"
 tags:
   - "wellness"
-wordCount: 236
+wordCount: 275
 faq:
   - q: "Is a short imperfect workout better than skipping entirely?"
     a: "Yes. Research shows even 10 minutes of movement improves mood, metabolism, and sleep quality. More importantly, skipping creates a identity break ('I'm not someone who exercises'), while showing up imperfectly maintains the habit chain and the self-image that sustains long-term consistency."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_move-daily-not-perfectly_p3">The perfect workout is the one you keep skipping because you are waiting for the perfect hour, the perfect gym, the perfect energy.</div>
 
-<div data-i18n-html="article_move-daily-not-perfectly_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p4"><strong>A daily, imperfect move beats a perfect, occasional one every time.</strong></div>
 
@@ -57,5 +56,8 @@ relatedArticles:
 - <strong>One hard effort a week.</strong> Enough to remember that discomfort is survivable.</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p9">You will have weeks when this is all you do. That is not lost progress. That is progress protected.</div>
+
+<div data-i18n-html="article_move-daily-not-perfectly_p11">The daily menu — pick one line, that is the whole system: a twenty-minute brisk walk after the first meal; stairs instead of the lift on two trips today; a five-minute stretch between calls; parking deliberately at the far end twice; eight minutes of bodyweight while the kettle boils. The minimum is "something moved, every day." The best line is the one you still chose on the bad Thursday. Streaks are cheap, but visible — write the line down each evening.</div>
+
 
 <div data-i18n-html="article_move-daily-not-perfectly_p10">Move daily. Let perfect catch up when it can.</div>

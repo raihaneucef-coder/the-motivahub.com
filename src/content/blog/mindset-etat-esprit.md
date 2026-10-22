@@ -23,7 +23,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 753
+wordCount: 735
 faq:
   - q: "What is a winning mindset?"
     a: "A winning mindset is the belief that your abilities can be developed through effort, strategy, and persistence. It combines growth thinking, self-belief, and accountability — focusing on what you control rather than what you can't change."
@@ -50,7 +50,6 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p3">Your mindset decides almost everything. Not your talent. Not your circumstances. Not your luck. <strong>The way you think.</strong></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p4">Here is how to adopt a winning mindset — and, in doing so, change every area of your life.</div>
 

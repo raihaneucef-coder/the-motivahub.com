@@ -22,7 +22,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 793
+wordCount: 749
 faq:
   - q: "What is a growth mindset?"
     a: "The belief that abilities can be developed through effort and learning, vs a fixed mindset (talent is innate, unchangeable). Carol Dweck's Stanford research found students taught that the brain grows with challenge improved grades by 30% — the belief itself changes behavior which changes results."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-mindset-rewire_p3">Your brain is not hardwired. It is softwired — and you hold the tools to rewire it.</div>
 
-<div data-i18n-html="article_growth-mindset-rewire_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p4">The difference between people who plateau and people who climb is not talent. It is the belief that they can improve. Psychologist Carol Dweck calls this the <strong>growth mindset</strong> — and it changes everything.</div>
 

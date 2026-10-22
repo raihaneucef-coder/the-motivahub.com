@@ -20,7 +20,7 @@ keywords:
   - "act as if you are already"
 tags:
   - "mindset"
-wordCount: 737
+wordCount: 721
 faq:
   - q: "What does 'identity precedes outcome' mean?"
     a: "Your results match who you believe you are before they match what you want. A person who identifies as 'a writer' writes daily without negotiation. Someone who wants 'to be a writer' waits for inspiration. Change the identity first, and the outcomes follow naturally because behavior aligns with self-concept."
@@ -38,7 +38,6 @@ relatedArticles:
 
 <div data-i18n-html="article_identity-precedes-outcome_p3">You do not rise to the level of your goals; you fall to the level of your identity. Lasting change begins not with what you want, but with who you are.</div>
 
-<div data-i18n-html="article_identity-precedes-outcome_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_identity-precedes-outcome_p4"><h2>The Two Levels of Change</h2></div>
 

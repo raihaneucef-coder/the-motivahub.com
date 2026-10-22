@@ -22,7 +22,7 @@ keywords:
   - "quantified self improvement"
 tags:
   - "goals"
-wordCount: 259
+wordCount: 218
 faq:
   - q: "Why does making goals measurable increase achievement?"
     a: "Vague goals ('get fit') activate no specific behavior. Measurable goals ('do 30 pushups daily') create a binary tracking system: you either did it or didn't. The clarity eliminates negotiation, and the data shows you whether you're actually progressing or just feeling busy."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p3">Vague goals inspire no one, least of all the person who set them.</div>
 
-<div data-i18n-html="article_make-it-measurable-make-it-mine_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p4">"I will try harder" feels noble for ten seconds and means nothing by Tuesday. The brain cannot chase what it cannot measure, and it will not chase what it does not own.</div>
 

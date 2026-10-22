@@ -22,7 +22,7 @@ keywords:
   - "quick calm technique before a meeting"
 tags:
   - "wellness"
-wordCount: 277
+wordCount: 336
 faq:
   - q: "What is the fastest breathing technique to calm anxiety?"
     a: "The physiological sigh: two quick inhales through the nose followed by one long exhale through the mouth. Andrew Huberman (Stanford) highlights this as the fastest voluntary way to reduce sympathetic activation: works in 60-90 seconds with just 2-3 cycles."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_two-minute-breath-reset_p3">Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.</div>
 
-<div data-i18n-html="article_two-minute-breath-reset_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p4">When stress rises, breathing shortens. When breathing shortens, the brain hears danger. It is a loop that feeds itself — unless you interrupt it at the body.</div>
 
@@ -61,5 +60,8 @@ relatedArticles:
 <div data-i18n-html="article_two-minute-breath-reset_p10">Use it before the meeting, after the argument, between tasks. It is portable, free, and always available — which is why we forget to use it.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p11">The 2-minute breath is also a doorway. To see how the doorway pattern works across meditation, reading, pushups, journaling, and more, read the <a href="/journal/two-minute-rule-guide/">full 2-Minute Rule guide and 7-day protocol</a>.</div>
+
+<div data-i18n-html="article_two-minute-breath-reset_p13">The two minutes, exactly: sit upright, one hand on the belly. Inhale through the nose to a count of four — the belly rises, not the chest; exhale slowly to a count of six through pursed lips. One cycle is about ten seconds; twelve cycles fill the two minutes. When your mind wanders, count the exhale, not the inhale — the long exhale is what sets the pace. Use it <em>before</em> the hard conversation, not during the spiral you are trying to talk yourself out of. It is a pace tool, not a treatment — if something hurts, stop and consult a professional.</div>
+
 
 <div data-i18n-html="article_two-minute-breath-reset_p12">Two minutes of breath is not a luxury. It is maintenance for the instrument that has to carry you through the whole day.</div>

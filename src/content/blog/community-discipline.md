@@ -21,7 +21,7 @@ keywords:
 tags:
   - "confidence"
   - "discipline"
-wordCount: 398
+wordCount: 354
 faq:
   - q: "Why is discipline easier in a community?"
     a: "Because social accountability multiplies willpower. The 'Köhler effect' (2006) shows people exert 78% more effort when being seen by others. A community makes your commitment visible: skipping feels like letting someone down, which is a stronger motivator than breaking a private promise."
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_community-discipline_p3">The most enduring business and sport stories have the same ending: no one did it alone. The founder who sold his company thanks his first two employees. The marathoner thanks the training partner who waited when he was slow. The most meaningful stories are never about the win — they are about who was there when no one was watching.</div>
 
-<div data-i18n-html="article_community-discipline_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_community-discipline_p4"><h2>Social Is Not Soft — It Is Strategic</h2></div>
 

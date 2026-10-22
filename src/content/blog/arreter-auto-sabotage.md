@@ -23,7 +23,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 2034
+wordCount: 1993
 faq:
   - q: "What is self-sabotage?"
     a: "Self-sabotage is when you unconsciously undermine your own goals, progress, or happiness. It shows up as procrastination, perfectionism, self-doubt, or choosing comfort over growth — even when you know better."
@@ -53,7 +53,6 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-auto-sabotage_p4">I missed my own book launch.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_arreter-auto-sabotage_p5">Not because I forgot. Not because I was sick. Not because something external happened. I missed it because I spent the three days before the launch scrolling through social media, reorganizing my desk, and cleaning my apartment. I was doing everything except what I knew I needed to do: send the final emails, test the download link, write the launch announcement.</div>
 

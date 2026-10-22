@@ -22,7 +22,7 @@ keywords:
   - "most important task first"
 tags:
   - "productivity"
-wordCount: 365
+wordCount: 323
 faq:
   - q: "What does 'eat the frog' mean?"
     a: "Based on Mark Twain's quote: if your job is to eat a frog, do it first thing and nothing worse will happen all day. In productivity, it means tackling your hardest, most dreaded task first — before email, before social media, before anything easier."
@@ -45,7 +45,6 @@ relatedArticles:
 
 <div data-i18n-html="article_eat-the-frog_p3">"If the first thing you do each morning is eat a live frog, you can go through the rest of the day knowing the worst is behind you." — Mark Twain</div>
 
-<div data-i18n-html="article_eat-the-frog_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_eat-the-frog_p4">The frog is your hardest, most important task — the one you are <a href="/journal/real-reason-you-procrastinate/">most likely to procrastinate on</a>. Eating it first means doing it before anything else.</div>
 

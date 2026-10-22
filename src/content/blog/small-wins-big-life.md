@@ -23,7 +23,7 @@ keywords:
   - "atomic habits summary principles"
 tags:
   - "habits"
-wordCount: 811
+wordCount: 767
 faq:
   - q: "How do small wins create big life changes?"
     a: "Each small win makes the next one easier because it changes what you believe you are. Doing the thing is proof — to yourself — that you are someone who does it, and that kind of proof is still available on a bad day when motivation is not. That is how repetition quietly turns into identity, and identity into a big life. Small wins aren't lesser — they are how big transformations actually show up."
@@ -50,7 +50,6 @@ relatedArticles:
 
 <div data-i18n-html="article_small-wins-big-life_p3">We wait for a big moment to change our lives. It never comes that way.</div>
 
-<div data-i18n-html="article_small-wins-big-life_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_small-wins-big-life_p4">Big lives are not built in big moments. They are built in small wins, repeated so often they become who you are.</div>
 

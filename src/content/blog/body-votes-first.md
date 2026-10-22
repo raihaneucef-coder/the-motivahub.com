@@ -23,7 +23,7 @@ keywords:
   - "physical health mental health"
 tags:
   - "sport"
-wordCount: 1521
+wordCount: 1481
 faq:
   - q: "What does 'body votes first' mean?"
     a: "It means your body's state determines your mind's performance before you even make a conscious choice. If you are tired, hungry, or sedentary, your mind will make worse decisions — not because you are weak, but because your biology is running the election."
@@ -53,7 +53,6 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p4">We like to believe the mind is in charge.</div>
 
-<div data-i18n-html="article_body-votes-first_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_body-votes-first_p5">It writes the plans. It sets the alarms. It recites the ambitions at midnight. But watch closely on any given afternoon and you will see who actually runs the day: the body votes first, and the mind simply obeys.</div>
 

@@ -23,7 +23,7 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 341
+wordCount: 298
 faq:
   - q: "How do I enjoy social media without wasting hours?"
     a: "Set a timer before opening any app (15-20 minutes max). Unfollow accounts that don't educate or genuinely inspire. Turn off all non-human notifications. Use social media only during a pre-planned 'leisure block' — never as a gap-filler between tasks."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p3">Social media is the most powerful tool ever created — and the most dangerous. It connects you to the world and disconnects you from yourself. The key is using it intentionally.</div>
 
-<div data-i18n-html="article_reseaux-sociaux-divertissement_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p4"><h2>The Problem</h2></div>
 

@@ -20,7 +20,7 @@ keywords:
   - "motivation is not required for progress"
 tags:
   - "discipline"
-wordCount: 804
+wordCount: 760
 faq:
   - q: "What do I do when motivation completely disappears?"
     a: "Execute the minimum viable action. On zero-motivation days, your only job is to show up for 2 minutes: open the laptop, put on running shoes, read one page. This maintains the identity and the streak. You do not need to feel like it. Feeling follows action, not the other way around."
@@ -38,7 +38,6 @@ relatedArticles:
 
 <div data-i18n-html="article_when-motivation-leaves_p3">Motivation is weather. Discipline is the building you construct so that the weather no longer decides your day.</div>
 
-<div data-i18n-html="article_when-motivation-leaves_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_when-motivation-leaves_p4"><h2>The Day the Feeling Doesn't Come</h2></div>
 

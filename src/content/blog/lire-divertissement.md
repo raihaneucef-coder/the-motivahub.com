@@ -22,7 +22,7 @@ keywords:
   - "best books for entertainment"
 tags:
   - "entertainment"
-wordCount: 300
+wordCount: 257
 faq:
   - q: "Is reading really better than watching TV?"
     a: "Yes. Reading activates multiple brain regions (language, imagination, empathy), while passive TV watching reduces cortical activity. Studies show 6 minutes of reading reduces stress by 68% — more than music or walking."
@@ -49,7 +49,6 @@ relatedArticles:
 
 <div data-i18n-html="article_lire-divertissement_p3">Reading is the most underrated form of entertainment. It is free (or nearly free), portable, and it improves your brain while you enjoy it. No other entertainment can claim that.</div>
 
-<div data-i18n-html="article_lire-divertissement_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_lire-divertissement_p4"><h2>Why Reading Is Better Than Screens</h2></div>
 

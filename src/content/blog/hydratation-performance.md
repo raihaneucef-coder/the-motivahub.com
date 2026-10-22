@@ -22,7 +22,7 @@ keywords:
   - "water intake for muscle growth"
 tags:
   - "nutrition"
-wordCount: 328
+wordCount: 342
 faq:
   - q: "How does dehydration affect physical performance?"
     a: "Even 2% body water loss reduces endurance by 10-20%, increases perceived effort, and impairs strength output. At 4%, cognitive function drops — reaction time slows and decision-making suffers. Elite athletes lose approximately 2% performance capacity for every 1% dehydration."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_hydratation-performance_p3">You can survive 3 weeks without food. You can only survive 3 days without water. Yet most people walk around chronically dehydrated — and wonder why they feel tired, foggy, and unproductive.</div>
 
-<div data-i18n-html="article_hydratation-performance_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_hydratation-performance_p4"><h2>How Dehydration Affects You</h2></div>
 
@@ -81,5 +80,8 @@ Replace the fluid you lost. Weigh yourself before and after exercise — drink 1
 5. Eat water-rich foods (watermelon, cucumber, oranges)</div>
 
 <div data-i18n-html="article_hydratation-performance_p17"><blockquote><em>Water is the driving force of all nature. — Leonardo da Vinci</em></blockquote></div>
+
+<div data-i18n-html="article_hydratation-performance_p20">A self-check that needs no equipment: urine pale like lemonade rather than dark like apple juice is the rough, widely used public-health shorthand for "probably hydrated." Concentrated and dark means drink now — and take the rest of the afternoon seriously. For the science of the 1–2% attention dip behind mid-afternoon fog, see <a href="/journal/water-before-willpower/">Water Before Willpower</a>.</div>
+
 
 <div data-i18n-html="article_hydratation-performance_p19"><strong>Stay hydrated today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> includes daily hydration goals. Track your intake with our <a href="/tracker/">Habit Tracker</a>.</div>

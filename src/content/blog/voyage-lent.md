@@ -22,7 +22,7 @@ keywords:
   - "travel less see more philosophy"
 tags:
   - "travel"
-wordCount: 358
+wordCount: 314
 faq:
   - q: "What is slow travel and why is it better?"
     a: "Staying 2-4 weeks in one location instead of 2 nights in 7 cities. Benefits: 40 percent lower costs (weekly rentals, local prices), deeper cultural connection, language progress, less transit fatigue, and memories that feel lived rather than collected. You actually remember your trip."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-lent_p3">The typical tourist checks off 5 countries in 2 weeks. They take photos at every landmark, eat at every chain restaurant, and return home more exhausted than when they left.</div>
 
-<div data-i18n-html="article_voyage-lent_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_voyage-lent_p4">The slow traveler spends 2 weeks in one place. They learn the neighborhood, eat at local spots, and <a href="/journal/pack-light-stay-long/">leave with real memories</a> — not just photos.</div>
 

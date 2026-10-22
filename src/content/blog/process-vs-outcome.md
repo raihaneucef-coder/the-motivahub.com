@@ -22,7 +22,7 @@ keywords:
   - "want"
 tags:
   - "goals"
-wordCount: 999
+wordCount: 955
 
 faq:
   - q: "What is the difference between a process goal and an outcome goal?"
@@ -54,7 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_process-vs-outcome_p3">There are two types of goals: outcome goals and process goals. Outcome goals are what you want to achieve. Process goals are what you do every day to get there.</div>
 
-<div data-i18n-html="article_process-vs-outcome_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_process-vs-outcome_p4">Most people focus on outcomes. The most successful people focus on processes.</div>
 

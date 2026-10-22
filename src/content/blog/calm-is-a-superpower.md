@@ -23,7 +23,7 @@ keywords:
   - "mindfulness calm"
 tags:
   - "wellness"
-wordCount: 1569
+wordCount: 1529
 faq:
   - q: "Why is calm a superpower?"
     a: "Because in a world of noise, the ability to stay centered is the rarest skill. Calm people make better decisions, inspire more trust, and recover faster from setbacks. Talent gets attention. Calm gets results."
@@ -53,7 +53,6 @@ relatedArticles:
 
 <div data-i18n-html="article_calm-is-a-superpower_p4">The room quiets when calm walks in. In a world of noise, the ability to stay centered is the rarest skill.</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_calm-is-a-superpower_p5">I learned this in 2023, during a client meeting that was going badly. The client was angry. He was yelling. He was threatening to leave. My instinct was to defend, to argue, to match his energy.</div>
 

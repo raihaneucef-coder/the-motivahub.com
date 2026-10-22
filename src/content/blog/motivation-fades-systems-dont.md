@@ -22,7 +22,7 @@ keywords:
   - "do the work without feeling like it"
 tags:
   - "mindset"
-wordCount: 574
+wordCount: 531
 faq:
   - q: "What happens when motivation completely disappears?"
     a: "You rely on your system. A system is pre-made decisions: what you do, when, where, for how long. When motivation fades (it always does), you follow the plan mechanically. Athletes don't feel like training daily — they follow a schedule. The system carries you through the 'why bother' phase."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_motivation-fades-systems-dont_p3">Motivation is a mood. It arrives uninvited, usually on a good night's sleep and a clear calendar, and it leaves the same way — without warning, halfway through a Tuesday. If your progress depends on it showing up, your progress depends on the weather.</div>
 
-<div data-i18n-html="article_motivation-fades-systems-dont_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_motivation-fades-systems-dont_p4">This is not a character flaw. It is how the feeling was designed to work. Motivation is a spark, not a fuel supply. It is meant to get you moving, not to keep you moving for the next ninety days. The people who look "disciplined" from the outside are rarely running on more motivation than you. They are running on less dependence on it.</div>
 

@@ -24,7 +24,7 @@ keywords:
   - "easy way to remember new habits"
 tags:
   - "habits"
-wordCount: 280
+wordCount: 275
 faq:
   - q: "What is habit stacking?"
     a: "A method where you attach a new habit to an existing one using the formula: 'After [CURRENT HABIT], I will [NEW HABIT].' Example: 'After I pour my morning coffee, I will meditate for 1 minute.' The existing habit becomes an automatic cue, removing the need to remember or decide."
@@ -44,7 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_habit-stacking-made-simple_p3">We try to build new habits in empty space. We say: I will meditate at 7 AM. But 7 AM does not yet mean anything to our brain.</div>
 
-<div data-i18n-html="article_habit-stacking-made-simple_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_habit-stacking-made-simple_p4">Old habits already have space. They have a time, a place, and a cue that your brain knows by heart.</div>
 

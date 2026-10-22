@@ -22,7 +22,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 348
+wordCount: 306
 faq:
   - q: "How do you find your voice and speak up?"
     a: "Start in low-stakes settings: share an opinion with one trusted person, write before you speak, and use 'I think' sentences. Your voice strengthens through repetition, not perfection. Set a daily micro-goal — one sentence spoken that you would previously have kept silent."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_trouver-voix_p3">Some people have brilliant ideas but never share them. Others have mediocre ideas but share them confidently. The difference is not intelligence — it is the willingness to speak up.</div>
 
-<div data-i18n-html="article_trouver-voix_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_trouver-voix_p4"><h2>Why People Stay Silent</h2></div>
 

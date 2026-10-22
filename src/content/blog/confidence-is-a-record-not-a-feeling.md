@@ -22,7 +22,7 @@ keywords:
   - "prove it to yourself"
 tags:
   - "confidence"
-wordCount: 368
+wordCount: 325
 faq:
   - q: "How do you build genuine self-confidence?"
     a: "Stop waiting to 'feel' confident. Confidence is a record of promises you've kept to yourself. Start with tiny commitments (make your bed, do 10 push-ups) and keep them daily. After 30+ kept promises, your brain updates its model of you. Evidence beats affirmation."
@@ -45,7 +45,6 @@ relatedArticles:
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p3">We wait to feel confident before we act. It is a polite way to stay still.</div>
 
-<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p4">Confidence does not work like that. It does not arrive before you begin, like a permission slip. It arrives after — as a record of what you did when you did not feel it.</div>
 

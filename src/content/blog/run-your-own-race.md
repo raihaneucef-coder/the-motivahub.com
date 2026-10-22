@@ -25,7 +25,7 @@ keywords:
 tags:
   - "sport"
   - "discipline"
-wordCount: 642
+wordCount: 607
 faq:
   - q: "Why should I 'run my own race'?"
     a: "Because comparing your Chapter 1 to someone else's Chapter 20 distorts reality and drains motivation. Elite runners pace their own race — those who sprint to match others hit the wall first. Your only valid comparison is yesterday's you vs today's you."
@@ -52,7 +52,6 @@ relatedArticles:
 
 <div data-i18n-html="article_run-your-own-race_p3">The start of any race is loud. Everyone sprints. The crowd cheers the fast start.</div>
 
-<div data-i18n-html="article_run-your-own-race_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_run-your-own-race_p4">The smart runner does not listen.</div>
 

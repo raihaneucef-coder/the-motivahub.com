@@ -24,7 +24,7 @@ keywords:
 tags:
   - "habits"
   - "how-to"
-wordCount: 1702
+wordCount: 1661
 faq:
   - q: "What are the reverse four laws of habit change?"
     a: "The reverse four laws are: (1) Make it invisible — remove the trigger, (2) Make it unattractive — reframe the narrative, (3) Make it difficult — increase friction, (4) Make it unsatisfying — add a negative consequence. These are the inverse of the four laws for building good habits."
@@ -54,7 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p4">Breaking a bad habit is harder than building a good one. But the same principles that create habits can destroy them — you just reverse them.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p5">I learned this in 2023, when I was scrolling on my phone for 3 hours every night. I was tired. I was unproductive. I was frustrated with myself. I tried to stop. I failed. I tried again. I failed again.</div>
 

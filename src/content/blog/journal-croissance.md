@@ -26,7 +26,7 @@ tags:
   - "personal growth"
   - "habits"
   - "self-awareness"
-wordCount: 378
+wordCount: 336
 faq:
   - q: "How does journaling help with personal growth?"
     a: "Journaling forces you to examine your thoughts objectively, process trapped emotions, and find solutions through writing. Research shows that expressive writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking."
@@ -56,7 +56,6 @@ relatedArticles:
 
 <div data-i18n-html="article_journal-croissance_p3">Every successful person in history has journaled. Marcus Aurelius. Leonardo da Vinci. Oprah Winfrey. They all wrote — not for others, but for themselves.</div>
 
-<div data-i18n-html="article_journal-croissance_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_journal-croissance_p4">Journaling is not about grammar or spelling. It is about clarity. When you write your thoughts, you understand them. When you understand them, you can change them.</div>
 

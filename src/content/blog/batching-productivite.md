@@ -24,7 +24,7 @@ keywords:
   - "how to batch tasks"
 tags:
   - "productivity"
-wordCount: 1516
+wordCount: 1475
 faq:
   - q: "What is task batching?"
     a: "Task batching is grouping similar tasks together and doing them in one focused block, instead of switching between different types of tasks throughout the day. It reduces context switching and increases deep work time."
@@ -54,7 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_batching-productivite_p4">Every time you switch between different types of tasks, your brain pays a cognitive tax. It takes time to refocus, reorient, and get back into flow. Batching eliminates this tax.</div>
 
-<div data-i18n-html="article_batching-productivite_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_batching-productivite_p5">I learned this in 2023, when I was trying to write a book while running a business. Every day was a mess of email, writing, calls, admin, and more email. I felt busy. I was not productive.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "travel lighter advice"
 tags:
   - "travel"
-wordCount: 252
+wordCount: 278
 faq:
   - q: "Why should you pack light for long trips?"
     a: "Heavy luggage creates friction at every transition: hauling bags, waiting at check-in, navigating stairs, and paying overweight fees. Long-term travelers who carry one bag move more, spend less, and choose experiences over logistics. The lighter you pack, the longer you can stay anywhere without settling."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_pack-light-stay-long_p3">We pack as if we are moving house. Then we carry that house on our backs and wonder why travel feels heavy.</div>
 
-<div data-i18n-html="article_pack-light-stay-long_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_pack-light-stay-long_p4">The travelers who stay longest pack lightest. Not because they own less, but because they decided what matters before they left.</div>
 
@@ -51,5 +50,8 @@ relatedArticles:
 <div data-i18n-html="article_pack-light-stay-long_p6"><a href="/journal/voyage-lent/">Staying long</a> is where travel stops being tourism and starts being life. Tourism samples; staying tastes. You learn where the bread is bought at 7 AM, which bus is always late, how to say thank you so it sounds like you mean it. After two weeks, the city stops performing and starts revealing.</div>
 
 <div data-i18n-html="article_pack-light-stay-long_p7">Try it once, even for a short trip. Pack half of what you think you need. Stay one day longer than you planned. Spend the extra day with <a href="/journal/the-detour-is-the-destination/">no itinerary</a> — walk, sit, ask one local where they eat.</div>
+
+<div data-i18n-html="article_pack-light-stay-long_p9">A packing list that actually keeps you light: one bag that fits the overhead bin; two shoes maximum, one already broken in; neutral layers only — every piece must mix with every other; documents photographed and uploaded; one spare cable; a pen for arrival forms; toiletries decanted to 100 ml. And the rule that decides everything else: if you would not miss it on day three, it does not come.</div>
+
 
 <div data-i18n-html="article_pack-light-stay-long_p8">You will not remember what you brought. You will remember what you left behind — and what you found because your hands were empty.</div>

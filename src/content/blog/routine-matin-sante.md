@@ -23,7 +23,7 @@ keywords:
 tags:
   - "wellness"
   - "morning-routine"
-wordCount: 379
+wordCount: 335
 faq:
   - q: "What makes a healthy morning routine?"
     a: "Research points to five evidence-backed elements: bright light exposure within 30 minutes of waking, hydration before caffeine, 20+ minutes of movement, a protein-rich breakfast, and no phone for the first 15 minutes. These regulate cortisol, boost dopamine, and set focus for the day."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_routine-matin-sante_p3">The first hour of your day determines the rest. If you start with chaos, you will live in chaos. If you start with intention, you will live with purpose.</div>
 
-<div data-i18n-html="article_routine-matin-sante_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_routine-matin-sante_p4"><h2>The Morning Routines of the Healthiest People</h2></div>
 

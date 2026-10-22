@@ -23,7 +23,7 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 307
+wordCount: 265
 faq:
   - q: "What does it mean to watch intentionally?"
     a: "Choosing content before you're bored, deciding what to watch rather than letting an algorithm decide. Watching with full attention (no phone scrolling simultaneously). Setting a time limit and stopping when it's met. Treating your attention as a budget, not an infinite resource."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_regarder-intentionnellement_p3">Entertainment is not inherently bad. It becomes bad when it is mindless. When you watch with intention, entertainment can be educational, inspiring, and even life-changing.</div>
 
-<div data-i18n-html="article_regarder-intentionnellement_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p4"><h2>Mindful Entertainment</h2></div>
 

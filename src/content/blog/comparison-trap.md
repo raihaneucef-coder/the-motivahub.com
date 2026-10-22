@@ -22,7 +22,7 @@ keywords:
   - "stop feeling inadequate around others"
 tags:
   - "mindset"
-wordCount: 688
+wordCount: 645
 faq:
   - q: "Why am I always comparing myself to others?"
     a: "Social comparison is automatic — your brain evaluates position by measuring against nearby signals (Festinger, 1954). Social media hacked this by providing 500+ 'nearby' people who are all showing their peak moments. You're comparing your average Tuesday to their curated highlights reel."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_comparison-trap_p3">Comparison is older than Instagram. Cain compared himself to Abel; the ancient Greeks had a word for the pain of seeing others prosper. What changed is not the instinct — it is the volume. Your grandfather compared himself to a few dozen people in his village. You compare yourself to thousands of curated strangers before breakfast.</div>
 
-<div data-i18n-html="article_comparison-trap_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_comparison-trap_p4">The feed industrialized envy. And it quietly became the reason many people abandon goals that were perfectly on track.</div>
 

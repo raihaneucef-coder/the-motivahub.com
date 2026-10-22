@@ -24,7 +24,7 @@ keywords:
   - "motivation that lasts beyond achievement"
 tags:
   - "goals"
-wordCount: 229
+wordCount: 268
 faq:
   - q: "What is the goal behind the goal?"
     a: "The surface goal (lose 10kg, earn 100k) is a symbol for a deeper psychological need: safety, recognition, autonomy, or belonging. When you identify the real need, you can fulfill it through multiple paths, including ones you have not yet considered."
@@ -44,7 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p3">We set a goal and chase it. Then we wonder why motivation fades halfway.</div>
 
-<div data-i18n-html="article_the-goal-behind-the-goal_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p4">Often the goal on paper is not the real goal.</div>
 
@@ -55,5 +54,8 @@ relatedArticles:
 <div data-i18n-html="article_the-goal-behind-the-goal_p7">When the hidden goal is clear, the boring work makes sense. Early runs are not punishment; they are evidence that you are becoming someone who does not quit. Saving is not deprivation; it is building safety.</div>
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p8">Ask the second question tonight. <a href="/journal/rendez-compte-objectifs/">Write your goal</a>, then ask: <em>why do I want this, really?</em> Write that answer too. Keep both visible.</div>
+
+<div data-i18n-html="article_the-goal-behind-the-goal_p10">Do it now, five whys deep on one line: write the goal you would defend in public — "run a marathon" — then ask <em>why that?</em> and answer honestly each time, four or five layers down ("to prove I can finish what I start"). The last sentence you reach is the real goal; the first was only its socially acceptable costume. Keep the layers on paper — planning against the bottom one is what finally makes the top one feel light.</div>
+
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p9"><a href="/journal/smart-goals/">The first goal</a> gets you moving. The second goal keeps you moving when the first one feels heavy.</div>

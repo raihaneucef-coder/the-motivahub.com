@@ -31,7 +31,7 @@ tags:
   - "habits"
   - "identity"
   - "experiment"
-wordCount: 2423
+wordCount: 2382
 faq:
   - q: "What is a 7-day identity challenge?"
     a: "A 7-day identity challenge is a structured micro-experiment where you pick one identity statement ('I am a writer'), one tiny daily action (write one sentence), and repeat for 7 days. The goal is not the action — it is casting 7 votes for the person you want to become."
@@ -61,7 +61,6 @@ relatedArticles:
 
 <div data-i18n-html="article_identity-challenge-7-days_p3">Six months ago I told myself a small lie. I said I was a writer.</div>
 
-<div data-i18n-html="article_identity-challenge-7-days_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_identity-challenge-7-days_p4">I had not written anything that year. I had no deadline, no audience, no draft. I had a Substack account I had not logged into since March and a folder of half-finished essays titled "stuff I will finish one day." But the sentence was useful, so I said it.</div>
 

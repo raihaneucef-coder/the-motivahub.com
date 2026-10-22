@@ -24,7 +24,7 @@ keywords:
   - "grow wealth step by step"
 tags:
   - "finance"
-wordCount: 384
+wordCount: 373
 faq:
   - q: "What does 'earn, keep, grow' mean in personal finance?"
     a: "Three sequential jobs: (1) EARN — increase income through skills and value creation, (2) KEEP — protect money by spending less than you earn and avoiding debt, (3) GROW — invest the surplus in assets that compound (index funds, real estate, businesses). Most people skip to 'grow' without mastering 'keep.'"
@@ -47,7 +47,6 @@ relatedArticles:
 
 <div data-i18n-html="article_earn-keep-grow_p3">We treat money as if it were a single problem: not enough of it. So we chase the single answer: earn more.</div>
 
-<div data-i18n-html="article_earn-keep-grow_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_earn-keep-grow_p4">It is a start, but it is only one third of the job.</div>
 

@@ -24,7 +24,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 1480
+wordCount: 1441
 faq:
   - q: "How do I stop caring what people think?"
     a: "Start by realizing that most people are focused on themselves, not you. The spotlight effect is real: you think people notice you more than they do. Then, build a small practice of doing one thing daily that you would normally avoid for fear of judgment."
@@ -54,7 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p4">The average person spends 5 hours a day worrying about what others think. That is 75 days per year spent on opinions that do not matter.</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_arreter-couper-avis_p5">I know this because I was that person.</div>
 

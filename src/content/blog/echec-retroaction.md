@@ -23,7 +23,7 @@ keywords:
 tags:
   - "success"
   - "how-to"
-wordCount: 323
+wordCount: 280
 faq:
   - q: "How do you turn failure into feedback?"
     a: "After a setback, ask 3 questions: (1) What specifically went wrong? (2) What was within my control? (3) What will I do differently next time? Write the answers. This converts emotional pain into actionable data within 24 hours."
@@ -46,7 +46,6 @@ relatedArticles:
 
 <div data-i18n-html="article_echec-retroaction_p3">Thomas Edison failed 10,000 times before inventing the lightbulb. When asked about his failures, he said: "I have not failed. I have just found 10,000 ways that will not work."</div>
 
-<div data-i18n-html="article_echec-retroaction_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_echec-retroaction_p4"><a href="/journal/the-comeback-is-stronger/">Failure is not the opposite of success</a>. It is part of success.</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "le voyage en solitaire"
 tags:
   - "travel"
-wordCount: 315
+wordCount: 272
 
 faq:
   - q: "What is solo travel?"
@@ -54,7 +54,6 @@ relatedArticles:
 
 <div data-i18n-html="article_voyage-solo_p3">Most people are terrified of traveling alone. They imagine eating alone, being lost in a foreign city, and having no one to talk to. But solo travel is not about loneliness — it is about freedom.</div>
 
-<div data-i18n-html="article_voyage-solo_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_voyage-solo_p4"><h2>Why Solo Travel Is Transformative</h2></div>
 

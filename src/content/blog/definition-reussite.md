@@ -22,7 +22,7 @@ keywords:
   - "living on your own terms"
 tags:
   - "success"
-wordCount: 340
+wordCount: 298
 faq:
   - q: "How do you define success for yourself?"
     a: "Ask three questions: 1) What would I do even if no one paid or praised me? 2) Who do I admire and WHY specifically? 3) On my deathbed, what would make me say 'that was a good life'? Your answers reveal your personal success metric — which rarely matches society's template of money + status."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_definition-reussite_p3">The biggest mistake you can make is chasing someone else's version of success. A Ferrari does not make you successful if you hate driving. A corner office does not make you successful if you hate your job.</div>
 
-<div data-i18n-html="article_definition-reussite_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_definition-reussite_p4"><h2>Why We Copy Others</h2></div>
 

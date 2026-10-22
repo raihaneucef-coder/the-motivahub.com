@@ -23,7 +23,7 @@ keywords:
 tags:
   - "productivity"
   - "how-to"
-wordCount: 796
+wordCount: 753
 faq:
   - q: "What causes procrastination in the brain?"
     a: "The limbic system (emotional, seeks immediate pleasure) hijacks the prefrontal cortex (rational, plans long-term). When a task triggers anxiety or boredom, the brain registers it as a threat and seeks immediate relief. Procrastination is not laziness, it is emotional regulation failure."
@@ -46,7 +46,6 @@ relatedArticles:
 
 <div data-i18n-html="article_vaincre-procrastination_p3">Tu procrastines pas parce que tu es paresseux. Tu procrastines parce que ton cerveau <strong>évite la douleur</strong> — et la tâche que tu repousses génère de l'inconfort.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_vaincre-procrastination_p4">Voici la vraie science de la procrastination et comment la vaincre.</div>
 

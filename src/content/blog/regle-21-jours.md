@@ -26,7 +26,7 @@ tags:
   - "habits"
   - "myth-busting"
   - "research"
-wordCount: 542
+wordCount: 500
 faq:
   - q: "How long does it actually take to form a habit?"
     a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on habit complexity. Simple habits like drinking water take ~18 days. Complex habits like exercise take ~254 days. There is no universal timeline."
@@ -56,7 +56,6 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-21-jours_p3">You have heard it before: "It takes 21 days to form a habit." It sounds scientific. It sounds precise. And it is wrong.</div>
 
-<div data-i18n-html="article_regle-21-jours_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_regle-21-jours_p4">The real number is 66 days — and that is just the average. Some habits take longer. But understanding the real timeline helps you stay the course.</div>
 

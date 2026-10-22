@@ -24,7 +24,7 @@ keywords:
   - "solo female travel safety tips"
 tags:
   - "travel"
-wordCount: 260
+wordCount: 297
 faq:
   - q: "What does solo travel teach you that group travel doesn't?"
     a: "Complete self-reliance. When alone, you make every decision, navigate every problem, and sit with every discomfort, building what psychologists call self-efficacy. You discover you can handle the unknown without a safety net, which transfers directly to career and relationships."
@@ -44,7 +44,6 @@ relatedArticles:
 
 <div data-i18n-html="article_solo-travel-stronger-self_p3">Travel with others and you learn about the place. <a href="/journal/beginner-again/">Travel alone and you learn about yourself</a>.</div>
 
-<div data-i18n-html="article_solo-travel-stronger-self_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p4">When you are alone, you make every decision. Where to eat, when to sleep, whether to <a href="/journal/the-detour-is-the-destination/">take the long way</a> or the short one. No one to ask, no one to blame. It is uncomfortable and it is clarifying.</div>
 
@@ -59,5 +58,8 @@ relatedArticles:
 - <strong>Write one page each night.</strong> What surprised you today? What was hard? What was beautiful?</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p9">You will come back with the same life. You will not be the same person in it.</div>
+
+<div data-i18n-html="article_solo-travel-stronger-self_p11">The first-day protocol that makes solo travel work: arrive with only the guaranteed basics — transport, bed, one meal — and schedule nothing else until you are standing in the city. Then choose in public: the decision you make while looking at a physical map is exactly who solo travel is training. Say yes to one thing you would have declined with company, and end the day with three written lines: what I feared, what happened, what I will keep.</div>
+
 
 <div data-i18n-html="article_solo-travel-stronger-self_p10">Solo travel does not make you stronger by teaching you the world. It makes you stronger by showing you that you can be alone and still be okay — and sometimes, more than okay.</div>

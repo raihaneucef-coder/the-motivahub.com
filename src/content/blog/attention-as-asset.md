@@ -23,7 +23,7 @@ keywords:
   - "productivity attention"
 tags:
   - "productivity"
-wordCount: 1837
+wordCount: 1795
 faq:
   - q: "Why is attention the most valuable asset?"
     a: "Because it is finite and cannot be manufactured. Money can be printed. Time can be saved. Attention cannot. Every waking hour, your attention is harvested by apps, notifications, and ads. Protecting it is the single most important productivity skill."
@@ -53,7 +53,6 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p4">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>
 
-<div data-i18n-html="article_attention-as-asset_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_attention-as-asset_p5">I learned this the hard way in 2023. I was working on my first book, and I thought I was being productive. I had my laptop open, my phone on the desk, three tabs in the browser, and a Slack notification every 5 minutes.</div>
 

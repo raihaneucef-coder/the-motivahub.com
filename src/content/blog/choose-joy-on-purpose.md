@@ -22,7 +22,7 @@ keywords:
   - "delight as a discipline"
 tags:
   - "entertainment"
-wordCount: 238
+wordCount: 275
 faq:
   - q: "Can you really choose to be happy?"
     a: "Not as a forced emotion — but you can choose the conditions that produce it. Research on 'behavioral activation' shows scheduling pleasant activities (walks, music, friends) increases happiness as effectively as medication for mild depression. You can't summon joy, but you can build the path it walks in on."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_choose-joy-on-purpose_p3">We wait for joy to find us. It rarely does, because we never make room for it.</div>
 
-<div data-i18n-html="article_choose-joy-on-purpose_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p4">We schedule work, we schedule errands, we schedule the dentist. Joy gets what is left — which is often nothing.</div>
 
@@ -57,5 +56,8 @@ relatedArticles:
 - <strong>Notice what delights you, then repeat it.</strong> Joy leaves traces. Follow them.</div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p9">You do not need a perfect life to feel joy. You need to choose it, on purpose, before the week fills up without it.</div>
+
+<div data-i18n-html="article_choose-joy-on-purpose_p11">Build the inventory before you need it: ten five-minute joys you have personally verified — the song, the corner bakery, the first cold drink after a walk, the old sitcom rewatched, the sunset from a specific street. Put them where a bad day will find them: notes app, one line each. The rule: choose one deliberately before noon, without earning it, without optimizing it. Joy practiced on schedule is the one that shows up unscheduled when you need it.</div>
+
 
 <div data-i18n-html="article_choose-joy-on-purpose_p10">Choose joy. The work will still be there — and you will be better for having paused.</div>

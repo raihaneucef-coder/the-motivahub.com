@@ -23,7 +23,7 @@ keywords:
 tags:
   - "stories"
   - "story"
-wordCount: 305
+wordCount: 284
 faq:
   - q: "How can one person change so many lives?"
     a: "By showing up consistently for one person at a time. The teacher's story isn't about a grand gesture — it's about saying 'you can' to each student who'd been told they couldn't. Impact multiplies through the ripple effect: each student changes other lives, and the teacher's influence extends far beyond the classroom."
@@ -41,9 +41,11 @@ relatedArticles:
 
 <div data-i18n-html="article_histoire-professeur_p2">Maria had no money, no fame, and no power. But she had something more valuable — she had the ability to make people believe in themselves.</div>
 
+<div data-i18n-html="article_histoire-professeur_p16"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
+
+
 <div data-i18n-html="article_histoire-professeur_p3">Maria taught in a small school in a poor neighborhood. Her salary was barely enough to cover rent. She had no car, no vacation home, no investment portfolio. By the world's standards, she was not successful.</div>
 
-<div data-i18n-html="article_histoire-professeur_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_histoire-professeur_p4">But Maria changed 1000 lives.</div>
 

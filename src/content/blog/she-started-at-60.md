@@ -22,7 +22,7 @@ keywords:
   - "reinvent yourself later in life"
 tags:
   - "stories"
-wordCount: 230
+wordCount: 208
 faq:
   - q: "Is it really never too late to start something new?"
     a: "Neuroplasticity research confirms the brain continues forming new connections throughout life. Colonel Sanders franchised KFC at 62, Vera Wang entered fashion at 40, andRay Kroc started McDonald's at 52. The only real barrier is social permission — not cognitive capacity."
@@ -40,9 +40,11 @@ relatedArticles:
 
 <div data-i18n-html="article_she-started-at-60_p2">Everyone told her she was too late. She started anyway, and the late start became the advantage.</div>
 
+<div data-i18n-html="article_she-started-at-60_p10"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
+
+
 <div data-i18n-html="article_she-started-at-60_p3">At 60, she started a small bakery. Her friends said, "At your age?"</div>
 
-<div data-i18n-html="article_she-started-at-60_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_she-started-at-60_p4">She had spent thirty years feeding other people — children, a husband, a team at work. She had never fed the part of herself that woke at 5 AM to try a new recipe.</div>
 

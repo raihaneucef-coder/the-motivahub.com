@@ -31,7 +31,7 @@ tags:
   - "habits"
   - "failure"
   - "recovery"
-wordCount: 1193
+wordCount: 1149
 faq:
   - q: "What should I do the day after I miss a habit?"
     a: "Do the 2-minute version of the habit, immediately, no negotiation. The action after a miss is not a full session. It is the smallest possible version — the doorway. The vote after a miss is more important than the votes on a normal day, because it proves the system survives the miss. The protocol is in the article — but the first move is always the same: do the 2-minute version, today."
@@ -65,7 +65,6 @@ relatedArticles:
 
 <div data-i18n-html="article_missed-day-protocol_p4">Most habit articles talk about how to start. Almost none talk about what to do the day after you fail. This is the part that determines whether the habit survives.</div>
 
-<div data-i18n-html="article_missed-day-protocol_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_missed-day-protocol_p5">Missing a day is not the end of a habit. It is the test of the system. The day you miss is the easy day. The day after the miss is the hard day. Most people lose the habit not on the day they missed, but on the day after.</div>
 

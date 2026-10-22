@@ -23,7 +23,7 @@ keywords:
 tags:
   - "productivity"
   - "how-to"
-wordCount: 350
+wordCount: 383
 faq:
   - q: "What is time blocking?"
     a: "Time blocking is scheduling your day into dedicated blocks, each assigned to one task or category of work. Instead of a to-do list, every task gets a specific time slot on your calendar. Popularized by Cal Newport (Deep Work) and used by executives like Elon Musk and Bill Gates."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_time-blocking-journee_p3">Most people use a to-do list. The most productive people use a time-blocked calendar. The difference is dramatic.</div>
 
-<div data-i18n-html="article_time-blocking-journee_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_time-blocking-journee_p4">A to-do list tells you what to do. A time-blocked calendar tells you when to do it. And "when" is what makes the difference between intention and action.</div>
 
@@ -82,5 +81,8 @@ Time blocking shows you how much time you actually have. Most people overestimat
 - Review and adjust daily</div>
 
 <div data-i18n-html="article_time-blocking-journee_p16"><blockquote><em>A schedule is not a cage. It is a framework that gives your day structure and your work meaning.</em></blockquote></div>
+
+<div data-i18n-html="article_time-blocking-journee_p19">A realistic first day, blocked: 07:00–07:30 buffer — never schedule the first half hour; 07:30–09:00 deep block on the single most important task; 09:00–09:30 admin catch-up; 09:30–11:00 second block; 13:00–14:00 lunch away from screens; 14:00–15:00 shallow work only — afternoons are for email, calls and chores; 15:00–16:00 one reserve block for whatever will inevitably explode; 17:30–18:00 close-out: write tomorrow's single task. Notice what is missing: nothing is booked back-to-back. Blocks fail from density, not from length.</div>
+
 
 <div data-i18n-html="article_time-blocking-journee_p18"><strong>Block your time today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you a daily structure to practice. Track your blocks with our <a href="/tracker/">Habit Tracker</a>.</div>

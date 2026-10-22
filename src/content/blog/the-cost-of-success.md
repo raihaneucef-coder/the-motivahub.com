@@ -22,7 +22,7 @@ keywords:
   - "what nobody tells you about winning"
 tags:
   - "success"
-wordCount: 259
+wordCount: 295
 faq:
   - q: "What is the hidden cost of success?"
     a: "Beyond the visible wins: relationships strained by your schedule, identity fused with achievement (collapse when you stop), loss of privacy, and a moving goalpost that never lets you enjoy what you built. The cost is not failure; it is arriving and realizing the prize does not fill the void."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_the-cost-of-success_p3">We love the highlight. We rarely ask what it cost when the cameras were off.</div>
 
-<div data-i18n-html="article_the-cost-of-success_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-cost-of-success_p4">Every success you admire was paid for in advance, in a currency most people refuse to spend: <a href="/journal/discipline-depass-motivation/">boredom, repetition</a>, and saying no when yes would have been more fun.</div>
 
@@ -55,5 +54,8 @@ relatedArticles:
 <div data-i18n-html="article_the-cost-of-success_p8">Ask before you chase the next success: what is this one asking me to give up, and am I willing to give it not once, but for a year?</div>
 
 <div data-i18n-html="article_the-cost-of-success_p9">If the answer is yes, the price stops feeling like a punishment and starts feeling like proof. You are not losing something. You are buying the person you want to become.</div>
+
+<div data-i18n-html="article_the-cost-of-success_p11">Write the price list before choosing the climb. Take the goal you are chasing and list what it will take each week — hours, energy, presence, relationships, health margins — then list in the next column what you are <em>already</em> quietly paying. If the second column is empty, you have not really started. If its rows scare you, the fear is data, not weakness: resize the goal or its speed, keep the list visible, and revisit it monthly.</div>
+
 
 <div data-i18n-html="article_the-cost-of-success_p10">Success is not free. It is just worth the cost — if you choose the cost on purpose.</div>

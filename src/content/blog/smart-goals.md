@@ -21,7 +21,7 @@ keywords:
   - "SMART criteria goal planning"
 tags:
   - "goals"
-wordCount: 554
+wordCount: 511
 faq:
   - q: "What does SMART stand for in goal setting?"
     a: "S-pecific (exactly what), M-easurable (how will you know), A-chievable (realistic stretch), R-elevant (matters to your values), T-ime-bound (has a deadline). Example: 'Run a 10K race by December 1st, training 3x/week, to prove to myself I can finish what I start.'"
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_smart-goals_p3">"I want to be successful" is not a goal. It is a wish. And wishes do not come true — plans do.</div>
 
-<div data-i18n-html="article_smart-goals_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_smart-goals_p4">The SMART framework transforms vague wishes into actionable plans. It is the most proven goal-setting system in the world — and it works.</div>
 

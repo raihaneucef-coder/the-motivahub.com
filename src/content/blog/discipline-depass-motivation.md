@@ -26,7 +26,7 @@ tags:
   - "success"
   - "discipline"
   - "habits"
-wordCount: 388
+wordCount: 345
 faq:
   - q: "Why is discipline more reliable than motivation?"
     a: "Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. Motivation disappears when you are tired, stressed, or discouraged. Discipline shows up regardless. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
@@ -52,7 +52,6 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-depass-motivation_p3">Motivation is like weather — unpredictable and temporary. Discipline is like a rock — solid and reliable. The most successful people do not rely on motivation. They rely on discipline.</div>
 
-<div data-i18n-html="article_discipline-depass-motivation_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_discipline-depass-motivation_p4"><h2>The Difference</h2></div>
 

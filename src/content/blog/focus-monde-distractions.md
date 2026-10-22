@@ -23,7 +23,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 861
+wordCount: 818
 faq:
   - q: "How do I maintain focus in a world full of distractions?"
     a: "Three evidence-based strategies: (1) Design your environment — phone in another room, website blockers active, single tab open. (2) Work in 90-minute ultradian cycles with 15-minute breaks. (3) Practice 'attention residue' management — finish one task completely before switching."
@@ -50,7 +50,6 @@ relatedArticles:
 
 <div data-i18n-html="article_focus-monde-distractions_p3">Your attention is being stolen. Every notification, every app, every headline is designed to capture your focus and sell it to the highest bidder.</div>
 
-<div data-i18n-html="article_focus-monde-distractions_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_focus-monde-distractions_p4">In this war for your attention, the winners are not the most talented or the most intelligent. They are the most focused. And focus, in the modern world, is a superpower.</div>
 

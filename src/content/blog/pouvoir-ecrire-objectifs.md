@@ -20,7 +20,7 @@ keywords:
   - "dominant goals study harvard"
 tags:
   - "goals"
-wordCount: 404
+wordCount: 362
 faq:
   - q: "Does writing goals down actually increase achievement?"
     a: "Yes — a Dominican University study (Gail Matthews, 2015) found people who wrote goals were 42% more likely to achieve them than those who only thought about them. Writing activates the reticular activating system (RAS), priming your brain to notice opportunities aligned with the stated goal."
@@ -40,7 +40,6 @@ relatedArticles:
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p3">There is a famous study from Dominican University where students who wrote down their goals were 42% more likely to achieve them than those who did not. Writing is not just recording — it is activating.</div>
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p4">When you write a goal, you move it from the abstract to the concrete. It becomes real. <a href="/journal/rendez-compte-objectifs/">It becomes accountable</a>. It becomes yours.</div>
 

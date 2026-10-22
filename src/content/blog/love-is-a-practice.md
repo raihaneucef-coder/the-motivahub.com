@@ -22,7 +22,7 @@ keywords:
   - "love as a verb discipline"
 tags:
   - "relationships"
-wordCount: 325
+wordCount: 282
 faq:
   - q: "Is love a feeling or a choice?"
     a: "Both — but the sustainable part is choice. The feeling (limerence) lasts 12-24 months (chemical: dopamine + oxytocin surge). After that, love becomes a daily practice: showing up, choosing their wellbeing alongside yours, staying when the initial high fades. The couples who thrive treat love as a verb, not a mood."
@@ -42,7 +42,6 @@ relatedArticles:
 
 <div data-i18n-html="article_love-is-a-practice_p3">We think love is a feeling that makes us act. Most days it is the opposite: acting with love is what creates the feeling.</div>
 
-<div data-i18n-html="article_love-is-a-practice_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_love-is-a-practice_p4">Waiting to feel patient before we listen, to feel grateful before we thank, to feel close before we reach out — this keeps love hostage to mood. Mood is weather. Practice is climate.</div>
 

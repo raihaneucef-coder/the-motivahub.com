@@ -21,7 +21,7 @@ keywords:
   - "first investment step by step"
 tags:
   - "finance"
-wordCount: 378
+wordCount: 336
 faq:
   - q: "How do beginners start investing?"
     a: "Open a tax-advantaged account (PEA in France, ISA/401k in US/UK), automate a monthly transfer (even 50€), and buy a broad index fund (MSCI World or S&P 500). That's the entire 'getting started' — complexity comes later. Time in the market beats timing the market, always."
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_investir-debutant_p3">The best time to start investing was 20 years ago. The second best time is today. Investing is how you make your money work for you — instead of you working for your money.</div>
 
-<div data-i18n-html="article_investir-debutant_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_investir-debutant_p4"><h2>Why You Should Invest</h2></div>
 

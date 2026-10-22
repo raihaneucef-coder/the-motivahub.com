@@ -21,7 +21,7 @@ keywords:
   - "secure attachment habits"
 tags:
   - "relationships"
-wordCount: 357
+wordCount: 314
 faq:
   - q: "What are the 4 attachment styles?"
     a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized (wants closeness but fears it simultaneously). 50-60% of people are secure; the rest show patterns formed in childhood caregiving."
@@ -41,7 +41,6 @@ relatedArticles:
 
 <div data-i18n-html="article_styles-attachement_p3">Have you ever wondered why some people pull away when things get close, while others cling desperately? The answer lies in your attachment style — a pattern of relating to others that forms in childhood.</div>
 
-<div data-i18n-html="article_styles-attachement_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_styles-attachement_p4"><h2>The 4 Attachment Styles</h2></div>
 

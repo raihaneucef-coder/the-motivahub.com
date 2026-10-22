@@ -23,7 +23,7 @@ keywords:
   - "perfect form over heavy weight"
 tags:
   - "sport"
-wordCount: 243
+wordCount: 288
 faq:
   - q: "Is strength a skill or a natural talent?"
     a: "Strength is a skill, specifically a neural adaptation. Your brain learns to recruit more muscle fibers simultaneously, fire them faster, and coordinate movement patterns. This is why untrained people can get 40% stronger in 8 weeks without visible muscle growth: the nervous system learns strength like any skill."
@@ -43,7 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_strength-is-a-skill_p3">We treat strength as something people have. It is something people build, rep by rep, with attention.</div>
 
-<div data-i18n-html="article_strength-is-a-skill_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_strength-is-a-skill_p4">The strongest people in the gym are not the ones who lift the most on day one. They are the ones who still care about form on rep 100.</div>
 
@@ -56,5 +55,8 @@ relatedArticles:
 <div data-i18n-html="article_strength-is-a-skill_p8">- <strong><a href="/journal/guide-debutant-fitness/">Master the empty bar</a>.</strong> Form first, weight second. Strength built on bad form is an injury waiting to happen.
 - <strong>Add one rep, not ten pounds.</strong> Small progress, repeated, is the only progress that lasts.
 - <strong>Rest as hard as you lift.</strong> The muscle grows while you sleep, not while you strain.</div>
+
+<div data-i18n-html="article_strength-is-a-skill_p10">A safe week-one template: two sessions, non-consecutive days, full body — one push (incline push-up or bench), one pull (row or band), one squat or hinge, one carry (walk with heavy bags). Three sets of each, stopping two reps before failure, adding a rep or a few kilos per week. That "little and often" is the entire skill. Rest days are for walking and sleeping, not for testing. With an injury or a medical condition, a professional clears the plan before the barbell does.</div>
+
 
 <div data-i18n-html="article_strength-is-a-skill_p9">Strength is not a talent you wait for. It is a skill you practice until it looks like talent to everyone else.</div>

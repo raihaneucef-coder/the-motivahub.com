@@ -22,7 +22,7 @@ keywords:
   - "water intake and energy levels"
 tags:
   - "nutrition"
-wordCount: 215
+wordCount: 309
 faq:
   - q: "Does dehydration affect willpower and focus?"
     a: "Yes. Even 1-2% dehydration impairs attention, working memory, and mood (University of Connecticut studies). You wake up dehydrated after 7-8 hours without water — drinking 500ml before coffee restores cognitive function and prevents the mid-morning brain fog most people blame on 'laziness.'"
@@ -42,11 +42,15 @@ relatedArticles:
 
 <div data-i18n-html="article_water-before-willpower_p3">We blame willpower for what is often just dehydration.</div>
 
-<div data-i18n-html="article_water-before-willpower_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_water-before-willpower_p4">Headache in the afternoon, hunger an hour after lunch, foggy thinking at 3 PM — before you fix any of these with discipline, fix them with water.</div>
 
 <div data-i18n-html="article_water-before-willpower_p5"><strong>Your <a href="/journal/hydratation-performance/">brain is mostly water</a>. When you are a little dry, it works a little worse.</strong> Not dramatically, just enough to make everything feel harder than it is.</div>
+
+<div data-i18n-html="article_water-before-willpower_p10">"A little dry" has a number attached to it. Losing just 1–2% of your body water measurably impairs attention, concentration and mood — a conclusion drawn from experimental studies in adults (Ganio et al., 2011, <em>British Journal of Nutrition</em>; summarized in <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207053/" target="_blank" rel="noopener">this review of the hydration-and-cognition research</a>). That is the size of one long sweat, and it lands squarely on the tasks willpower needs.</div>
+
+<div data-i18n-html="article_water-before-willpower_p11">A concrete target beats a vague "drink more": Europe's food-safety authority sets adequate total intake at about 2.5 litres a day for men and 2.0 for women, counted across food <em>and</em> drinks together (<a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1459" target="_blank" rel="noopener">EFSA, 2010</a>). Most people who lose the 3 PM battle are quietly several hundred millilitres behind that pace — check the number before blaming the character. For timing and performance detail, see <a href="/journal/hydratation-performance/">hydration and performance</a>.</div>
+
 
 <div data-i18n-html="article_water-before-willpower_p6">Make it easy to drink:</div>
 
