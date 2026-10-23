@@ -23,10 +23,10 @@ keywords:
 tags:
   - "sport"
   - "how-to"
-wordCount: 343
+wordCount: 572
 faq:
   - q: "How do athletes stay calm under pressure?"
-    a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. Stanford research shows 'I am excited' self-talk outperforms 'I am calm' because both are high-arousal states — the brain just needs a positive label."
+    a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. Harvard research shows 'I am excited' self-talk outperforms 'I am calm' because both are high-arousal states — the brain just needs a positive label."
   - q: "What is mental toughness in sports?"
     a: "The ability to maintain focus, effort, and confidence despite fatigue, setbacks, or high stakes. Clough's 4C model: Control (I influence outcomes), Commitment (I follow through), Challenge (threats are growth opportunities), Confidence (I believe in my ability). All four are trainable."
   - q: "How can I stop choking under pressure?"
@@ -51,24 +51,25 @@ relatedArticles:
 <div data-i18n-html="article_force-mentale-sport_p6"><h2>The 4 Pillars of Mental Toughness</h2></div>
 
 <div data-i18n-html="article_force-mentale-sport_p7"><h3>1. Confidence</h3>
-<a href="/journal/confiance-inbranlable/">Believing in your ability</a>, even when things are not going well. Confidence is not arrogance — it is trust in your preparation.</div>
+<a href="/journal/confiance-inbranlable/">Believing in your ability</a> even when a match is going badly. In the 4C model (Clough, Smecher & Keough) this is the hardest C to build quickly because it rests on a bank of evidence. Coach it with a "completed reps" log: write down the three hardest sessions you finished this month. On competition day you draw belief from recorded fact, not from hoping.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p8"><h3>2. Control</h3>
-Focusing on what you can control (your effort, your attitude, your preparation) and letting go of what you cannot (the opponent, the referee, the weather).</div>
+Focusing on what you can control (your effort, your attitude, your between-point routine) and releasing what you cannot (the opponent, the call, the weather). The concrete tool is a two-column list you refresh before every event: under "controllable" write process cues — first serve percentage, recovery steps, breathing. If a worry won't fit the left column, it is not a task, it is weather.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p9"><h3>3. Commitment</h3>
-Sticking to your goals and values, even when it is hard. Commitment means doing the work even when you do not feel like it.</div>
+Setting a goal and honouring it even when the feeling fades. Research on implementation intentions (Gollwitzer, 1999) shows a goal phrased as "When X happens, I will do Y" is far more likely to survive a bad day than "I'll give my best." So pre-decide the ugly scenarios: "When I'm a break down and tired, I still complete the last set."
+</div>
 
 <div data-i18n-html="article_force-mentale-sport_p10"><h3>4. Challenge</h3>
-Seeing obstacles as opportunities, not threats. Every challenge is a chance to prove yourself.</div>
+Appraising pressure as a threat or as a demand you can meet. Physiologically anxiety and excitement are near-identical — high arousal, elevated heart rate. The difference is the label. Brooks' Harvard work found athletes who re-framed "I'm nervous" into "I'm excited" performed better, because they rode the arousal instead of trying to talk themselves down from it.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p11"><h2>How to Build Mental Toughness</h2></div>
 
 <div data-i18n-html="article_force-mentale-sport_p12"><h3>1. Practice Under Pressure</h3>
-Simulate pressure situations in practice. Train when you are tired. Practice with distractions. This prepares you for the real thing.</div>
+Choking happens when you consciously monitor a skill that should run on autopilot — psychologists call it explicit monitoring. The defence is rehearsal under the same load you'll compete under: crowd noise, a scored consequence, fatigue. Train the emotion of the moment so the real one stops being novel.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p13"><h3>2. Use Visualization</h3>
-Before competing, visualize yourself performing at your best. See the plays, feel the emotions, hear the crowd. Your brain does not distinguish between visualization and reality.</div>
+Before competing, rehearse the sequence — see the play, feel the timing, hear the crowd. Mental practice produces a real, measurable benefit (a Driskell meta-analysis found it helps), but be honest about the size: it primes the motor system and builds familiarity; it does not replace physical reps and is weakest for raw strength or endurance. Use it to groove a routine, not to skip the gym.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p14"><h3>3. Develop Pre-Performance Routines</h3>
 A consistent routine before competition calms your nerves and focuses your mind. It could be breathing, music, or a specific warm-up.</div>

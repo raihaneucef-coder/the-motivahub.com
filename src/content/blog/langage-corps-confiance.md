@@ -47,7 +47,7 @@ relatedArticles:
 <div data-i18n-html="article_langage-corps-confiance_p4"><h2>Power Postures</h2></div>
 
 <div data-i18n-html="article_langage-corps-confiance_p5"><h3>The Victory Pose</h3>
-Stand with your feet shoulder-width apart, hands on your hips, chin slightly raised. Hold for 2 minutes. Studies show this increases testosterone by 20% and decreases cortisol by 25%.</div>
+Stand with your feet shoulder-width apart, hands on your hips, chin slightly raised. Hold for 2 minutes. The original 2010 hormone findings (testosterone up, cortisol down) failed to replicate in later studies, so treat this as a confidence posture, not a biochemical guarantee — many people still feel subjectively more assertive and upright before a high-pressure moment.</div>
 
 <div data-i18n-html="article_langage-corps-confiance_p6"><h3>The Confident Walk</h3>
 Walk with your shoulders back, head up, and arms swinging naturally. Take up space. Do not shrink yourself.</div>

@@ -40,7 +40,7 @@ faq:
   - q: "What is the difference between the 2-minute rule and the 2-day rule?"
     a: "The 2-minute rule makes the start easy. The 2-day rule protects the consistency. You can use both: 2-minute rule on the days you do the habit, 2-day rule on the days you miss. Together they form a complete resilience system: one rule for the start, one rule for the recovery."
   - q: "How long does it take to build a 2-minute rule system?"
-    a: "Three weeks to feel automatic (the doorway installs). Six to eight weeks for the 2-day rule to become reflexive (you stop negotiating with yourself). Three months for the hallway to feel natural. The full system is mature around day 90, which is the median for identity-level habit formation (Lally 2009, extended by research on identity in 2023-2025)."
+    a: "Three weeks to feel automatic (the doorway installs). Six to eight weeks for the 2-day rule to become reflexive (you stop negotiating with yourself). Three months for the hallway to feel natural. The full system is mature around day 90, which is the median for identity-level habit formation (Lally 2010, extended by research on identity in 2023-2025)."
   - q: "Can the 2-minute rule be applied to a 90-day discipline challenge?"
     a: "Yes — and this is where most people get it wrong. A 90-day challenge is not a 90-day commitment to a 2-minute rule. The 2-minute rule is the doorway. The 90 days is the hallway. The doorway stays small. The hallway grows. The challenge completes. The doorway remains."
 faqFr:
@@ -51,7 +51,7 @@ faqFr:
   - q: "Quelle différence entre la règle des 2 minutes et la règle des 2 jours ?"
     a: "La règle des 2 minutes rend le démarrage facile. La règle des 2 jours protège la constance. On peut utiliser les deux : la règle des 2 minutes les jours où l'on fait l'habitude, celle des 2 jours les jours où on la rate. Ensemble elles forment un système complet de résilience : une règle pour le départ, une règle pour le rétablissement."
   - q: "Combien de temps pour construire un système basé sur la règle des 2 minutes ?"
-    a: "Trois semaines pour que cela devienne automatique (la porte s'installe). Six à huit semaines pour que la règle des 2 jours devienne un réflexe (on arrête de négocier avec soi-même). Trois mois pour que le couloir paraisse naturel. Le système complet arrive à maturité vers le jour 90, qui est la médiane observée pour un changement d'habitude au niveau identitaire (Lally 2009, prolongé par les recherches sur l'identité en 2023-2025)."
+    a: "Trois semaines pour que cela devienne automatique (la porte s'installe). Six à huit semaines pour que la règle des 2 jours devienne un réflexe (on arrête de négocier avec soi-même). Trois mois pour que le couloir paraisse naturel. Le système complet arrive à maturité vers le jour 90, qui est la médiane observée pour un changement d'habitude au niveau identitaire (Lally 2010, prolongé par les recherches sur l'identité en 2023-2025)."
   - q: "La règle des 2 minutes s'applique-t-elle à un défi de discipline de 90 jours ?"
     a: "Oui — et c'est là que la plupart se trompent. Un défi de 90 jours n'est pas un engagement de 90 jours envers la règle des 2 minutes. La règle des 2 minutes est la porte d'entrée. Les 90 jours sont le couloir. La porte reste petite. Le couloir grandit. Le défi se termine. La porte, elle, reste."
 relatedArticles:

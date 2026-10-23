@@ -29,7 +29,7 @@ tags:
 wordCount: 500
 faq:
   - q: "How long does it actually take to form a habit?"
-    a: "Research from Lally et al. (2009) found 66 days on average, with a range of 18-254 days depending on habit complexity. Simple habits like drinking water take ~18 days. Complex habits like exercise take ~254 days. There is no universal timeline."
+    a: "Research from Lally et al. (2010) found 66 days on average, with a range of 18-254 days depending on habit complexity. Simple habits like drinking water take ~18 days. Complex habits like exercise take ~254 days. There is no universal timeline."
   - q: "Where did the 21-day myth come from?"
     a: "Dr. Maxwell Maltz, a plastic surgeon in the 1960s, observed that amputees took about 21 days to adjust to limb loss. This was misapplied to habit formation and popularized by self-help culture. The original context was about adjustment, not habit formation."
   - q: "Does counting days help with habit formation?"
@@ -38,7 +38,7 @@ faq:
     a: "Focus on the 2-minute rule for starting, the 2-day rule for recovery, and identity-based voting for long-term motivation. Track whether you showed up, not how many days you've completed."
 faqFr:
   - q: "Combien de temps faut-il vraiment pour former une habitude ?"
-    a: "Les travaux de Lally et al. (2009) donnent 66 jours en moyenne, avec une plage de 18 à 254 jours selon la complexité de l'habitude. Les habitudes simples comme boire de l'eau prennent environ 18 jours. Les habitudes complexes comme l'exercice prennent environ 254 jours. Il n'existe pas de calendrier universel."
+    a: "Les travaux de Lally et al. (2010) donnent 66 jours en moyenne, avec une plage de 18 à 254 jours selon la complexité de l'habitude. Les habitudes simples comme boire de l'eau prennent environ 18 jours. Les habitudes complexes comme l'exercice prennent environ 254 jours. Il n'existe pas de calendrier universel."
   - q: "D'où vient le mythe des 21 jours ?"
     a: "Du Dr Maxwell Maltz, chirurgien esthétique dans les années 1960, qui a observé que les amputés mettaient environ 21 jours à s'adapter à la perte d'un membre. Cette observation a été mal appliquée à la formation des habitudes puis popularisée par la culture du développement personnel. Le contexte d'origine parlait d'adaptation, pas d'habitude."
   - q: "Compter les jours aide-t-il à tenir une habitude ?"
@@ -52,7 +52,7 @@ relatedArticles:
   - "habit-stacking-made-simple"
 ---
 
-<div data-i18n-html="article_regle-21-jours_p2"><strong>Habit formation takes 66 days on average, not 21.</strong> Research from Lally et al. (2009) found a range of 18-254 days depending on habit complexity. The 21-day myth comes from a misapplied observation about amputees adjusting to limb loss. The real timeline is longer, but understanding it helps you stay the course.</div>
+<div data-i18n-html="article_regle-21-jours_p2"><strong>Habit formation takes 66 days on average, not 21.</strong> Research from Lally et al. (2010) found a range of 18-254 days depending on habit complexity. The 21-day myth comes from a misapplied observation about amputees adjusting to limb loss. The real timeline is longer, but understanding it helps you stay the course.</div>
 
 <div data-i18n-html="article_regle-21-jours_p3">You have heard it before: "It takes 21 days to form a habit." It sounds scientific. It sounds precise. And it is wrong.</div>
 

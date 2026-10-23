@@ -22,7 +22,7 @@ keywords:
   - "le voyage en solitaire"
 tags:
   - "travel"
-wordCount: 272
+wordCount: 460
 
 faq:
   - q: "What is solo travel?"
@@ -58,19 +58,19 @@ relatedArticles:
 <div data-i18n-html="article_voyage-solo_p4"><h2>Why Solo Travel Is Transformative</h2></div>
 
 <div data-i18n-html="article_voyage-solo_p5"><h3>1. <a href="/journal/price-of-freedom/">Complete Freedom</a></h3>
-You eat when you want. You go where you want. You stay as long as you want. There are no compromises. No arguments. No negotiations. Just pure freedom.</div>
+You eat when you want, go where you want, stay as long as you want. No compromises, no negotiating the itinerary over a map while someone else wants a different museum. Travel companionship adds logistics cost — the freedom is not only about destination choice; it is about owning every micro-decision: when to wake, when to pause, when to skip the landmark and sit in a café for two hours instead.</div>
 
 <div data-i18n-html="article_voyage-solo_p6"><h3>2. Self-Discovery</h3>
-When you travel alone, <a href="/journal/solo-travel-stronger-self/">you discover who you really are</a>. Without the influence of friends or family, you learn what you truly enjoy, what you need, and what you value.</div>
+Without the social mirroring of friends or family, you learn your own preferences for the first time in years. You discover whether you actually enjoy museums or just went because your companion did, whether you prefer hiking or beaches, silence or nightlife. <a href="/journal/solo-travel-stronger-self/">Solo travel strips the identity borrowed from your usual group</a> and reveals what you choose when nobody is watching.</div>
 
-<div data-i18n-html="article_voyage-solo_p7"><h3>3. Confidence</h3>
-Navigating a foreign city alone builds unshakable confidence. You prove to yourself that you can handle anything.</div>
+<div data-i18n-html="article_voyage-solo_p7"><h3>3. Confidence Through Competence</h3>
+Navigating a foreign transit system, ordering food in a language you do not speak, finding your hotel at midnight after a missed bus — each micro-crisis solved alone deposits evidence in your self-trust file. The confidence is not abstract “I am brave”; it is concrete “I handled fourteen unfamiliar situations this week and survived all of them.”</div>
 
-<div data-i18n-html="article_voyage-solo_p8"><h3>4. Mindfulness</h3>
-When you travel alone, you are more present. You notice details you would miss in a group. You observe. You absorb. You experience.</div>
+<div data-i18n-html="article_voyage-solo_p8"><h3>4. Presence</h3>
+Without a companion to converse with, your attention defaults to the environment: the smell of the market, the cadence of a foreign language, the way light hits the hillside at 6 pm. Group travel splits attention between conversation and scenery; solo travel collapses that split. You notice details you would otherwise filter out because the social layer is gone.</div>
 
 <div data-i18n-html="article_voyage-solo_p9"><h3>5. Better Connections</h3>
-When you travel alone, you are more likely to meet locals and fellow travelers. Groups are intimidating — solo travelers are approachable.</div>
+Groups are self-contained; strangers rarely approach them. A solo traveller sitting alone in a café signals availability — the shopkeeper chats, the guest at the next table asks where you are from, the hostel common room turns into a conversation. Research on weak ties (Granovetter, 1973) shows these brief encounters produce disproportionate novelty and information; solo travel maximises them.</div>
 
 <div data-i18n-html="article_voyage-solo_p10"><h2>Tips for Solo Travel</h2></div>
 

@@ -48,8 +48,6 @@ faqFr:
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p4">Atomic Habits is not just a book. It is an operating system for behavior change. James Clear distilled years of research into four simple laws — and those laws have helped millions of people build better habits and break bad ones.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_atomic-habits-revue-complete_p5">I first read it in January 2024. I read it again in April, August, and January 2025. Four times in 18 months. Each read changed what I saw.</div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p6">Here is everything you need to know, filtered through 18 months of actual application.</div>
@@ -171,7 +169,7 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 <div data-i18n-html="article_atomic-habits-revue-complete_p57"><h2>Sources</h2></div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p58">1. <em>Clear, J.</em> (2018). <em>Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.</em> — for the core framework
-2. <em>Lally, P., et al.</em> (2009). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009. — for the 66-day habit formation median
+2. <em>Lally, P., et al.</em> (2010). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009. — for the 66-day habit formation median
 3. <em>Gollwitzer, P. M., & Sheeran, P.</em> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119. — for the implementation intentions research</div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p59">---</div>

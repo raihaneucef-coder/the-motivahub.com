@@ -22,14 +22,14 @@ keywords:
 tags:
   - "relationships"
   - "how-to"
-wordCount: 291
+wordCount: 482
 faq:
   - q: "What are the 'Four Horsemen' of relationship conflict?"
-    a: "Gottman's research identified 4 predictors of divorce: 1) Criticism (attacking character vs behavior), 2) Contempt (mockery, eye-rolling), 3) Defensiveness (refusing responsibility), 4) Stonewalling (shutting down). Contempt is the #1 predictor — even 1 disagreeable interaction per 20 positive ones signals danger."
+    a: "Gottman's research identified 4 predictors of divorce: 1) Criticism (attacking character vs behavior), 2) Contempt (mockery, eye-rolling), 3) Defensiveness (refusing responsibility), 4) Stonewalling (shutting down). Contempt is the #1 predictor. Stable couples hold roughly 5 positive interactions for every 1 negative during conflict — and closer to 20:1 in ordinary, non-argument day-to-day life."
   - q: "How do I fight fair when I'm angry?"
     a: "Use 'soft start-up': complain WITHOUT blame. Instead of 'You never listen' say 'I felt unheard when...' Also: take a 20-min break if heart rate exceeds 100bpm (physiologically flooded = can't think clearly). Return to the conversation, don't avoid it permanently."
   - q: "What's the difference between healthy and destructive conflict?"
-    a: "Healthy conflict: specific issue, both voices heard, repair attempts accepted, outcome is closer understanding. Destructive: character attacks, stonewalling, score-keeping, outcome is resentment. The goal isn't to eliminate conflict — happy couples argue 4-6 times/week. The HOW matters, not the WHETHER."
+    a: "Healthy conflict: specific issue, both voices heard, repair attempts accepted, outcome is closer understanding. Destructive: character attacks, stonewalling, score-keeping, outcome is resentment. The goal isn't to eliminate conflict — even very happy couples disagree; what predicts a stable relationship is HOW you handle your differences, not WHETHER you argue or how often."
 
 relatedArticles:
   - "how-to-argue-without-breaking"
@@ -60,19 +60,19 @@ Shutting down. Walking away. Giving the silent treatment. This is the relationsh
 <div data-i18n-html="article_resolution-conflits_p9"><h2>How to Fight Fair</h2></div>
 
 <div data-i18n-html="article_resolution-conflits_p10"><h3>1. <a href="/journal/love-is-a-practice/">Use "I" Statements</a></h3>
-"I feel hurt when..." instead of "You always..." This takes ownership without blaming.</div>
+Gottman calls the antidote to criticism a <em>soft start-up</em>: describe the feeling, name the specific situation, then state one concrete need — and skip the word "always." "I felt alone when I cooked alone tonight; I'd love twenty minutes together after dinner" lands differently than "You never help around here." Same complaint, but one invites repair and the other invites defence.</div>
 
 <div data-i18n-html="article_resolution-conflits_p11"><h3>2. Stay on Topic</h3>
-Do not bring up past grievances. Focus on the current issue. One argument at a time.</div>
+Defensiveness escalates when an argument becomes a subpoena of past grievances. Hold one issue per conversation. If the older hurt is real, it gets its own time later — dragging it in now only lets both people lose the actual thread and arrive nowhere.</div>
 
 <div data-i18n-html="article_resolution-conflits_p12"><h3>3. Take Breaks</h3>
-If emotions run too high, take a 20-minute break. <a href="/journal/gestion-energie/">Come back when you are calm</a>. Never fight when you are flooded with emotion.</div>
+Gottman's labs found that when heart rate climbs past roughly 100 bpm during a fight, you're "flooded" — your thinking brain is essentially offline and you cannot process words. A 20-minute break <a href="/journal/gestion-energie/">resets your physiology</a> — it's long enough for the nervous system to come out of flood. The non-negotiable rule: say when you'll return ("I need 20 minutes, then I want to finish this") so a break isn't experienced as stonewalling.</div>
 
 <div data-i18n-html="article_resolution-conflits_p13"><h3>4. Listen to Understand</h3>
-Your goal is not to win. Your goal is to understand. When you understand the other person's perspective, resolution becomes possible.</div>
+Your goal is not to win; it's to make the other person feel heard before you make yourself understood. The test is simple: you can't accurately restate their point to their satisfaction until you've actually taken it in. Repeat it back before you answer.</div>
 
 <div data-i18n-html="article_resolution-conflits_p14"><h3>5. Repair Attempts</h3>
-Humor, affection, or an apology during conflict can de-escalate tension. The willingness to repair matters more than the conflict itself.</div>
+A repair attempt is any gesture — a joke, an admission, a soft tone, a touch — that lowers tension mid-argument. Gottman's 36-year data found the dividing line wasn't whether couples fight but whether they <em>accept</em> each other's repairs. Stable relationships run about five positive interactions for every one negative; the number is a summary of a habit, not a scoreboard to game.</div>
 
 <div data-i18n-html="article_resolution-conflits_p15"><blockquote><em>In the end, the quality of your relationships determines the quality of your life. — Esther Perel</em></blockquote></div>
 

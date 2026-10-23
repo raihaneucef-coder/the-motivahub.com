@@ -7,7 +7,7 @@ seoTitleFr: "Détox numérique : reprendre le contrôle"
 descriptionFr: "Une détox numérique est essentielle dans notre monde connecté. Découvrez comment réduire votre temps d'écran et retrouver votre concentration."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
-readTime: "5 MIN"
+readTime: "6 MIN"
 image: "/images/blog/detox-numerique-1.jpg"
 imageAlt: "Youssef Raihane - detox numerique concept"
 topic: "Wellness"
@@ -22,7 +22,7 @@ keywords:
   - "screen fatigue symptoms and cure"
 tags:
   - "wellness"
-wordCount: 311
+wordCount: 609
 faq:
   - q: "What happens during a digital detox?"
     a: "First 24 hours: anxiety, phantom vibration, compulsive hand-to-pocket reaching (withdrawal). Day 3-5: boredom returns, which triggers creativity. Week 2: attention span measurably improves, sleep deepens, and you notice how much of your 'free time' was actually consumed by scrolling."
@@ -46,16 +46,16 @@ relatedArticles:
 <div data-i18n-html="article_detox-numerique_p4"><h2>The Effects of Excessive Screen Time</h2></div>
 
 <div data-i18n-html="article_detox-numerique_p5"><h3>1. Sleep Disruption</h3>
-Blue light from screens suppresses melatonin production. This makes it harder to fall asleep and reduces sleep quality.</div>
+The specialist cells in your retina (ipRGCs) read blue light as "daytime" and tell the pineal gland to hold melatonin back. One study found two hours of screen light before bed suppressed melatonin and pushed sleep onset later by around 90 minutes. The fix is not a night-mode filter — the light is dimmer but still short-wavelength. It is a real buffer: screens off 60 minutes before bed, warm lighting after dark.</div>
 
 <div data-i18n-html="article_detox-numerique_p6"><h3>2. Reduced Focus</h3>
-Constant notifications train your brain to expect interruptions. This makes <a href="/journal/deep-work-focus/">deep work</a> nearly impossible.</div>
+Every check leaves what psychologist Sophie Leroy called <em>attention residue</em>: a slice of your cognition stays stuck on the interrupted task while you start the next. Six quick phone checks across an hour don't cost six seconds — they cost the deep-processing capacity you'd need to hold a complex thought. That is why <a href="/journal/deep-work-focus/">deep work</a> feels impossible the moment your phone is face-up on the desk.</div>
 
 <div data-i18n-html="article_detox-numerique_p7"><h3>3. Increased Anxiety</h3>
-Social media comparison, news cycles, and information overload increase anxiety and depression.</div>
+Feeds are engineered for variable reward — the same slot-machine mechanic that makes a pull unpredictable and therefore hard to stop. Layer on the upward social comparison of curated highlight reels and the loss-aversion of unread notifications, and the low-grade dread you feel at 11pm is not weakness. It is the designed response.</div>
 
 <div data-i18n-html="article_detox-numerique_p8"><h3>4. Physical Pain</h3>
-Hunching over phones causes neck pain, back pain, and eye strain. "Text neck" is a real medical condition.</div>
+Tilted forward, your head's effective load on the cervical spine climbs from roughly 5 kg upright to over 25 kg at 60 degrees — what surgeons literally call "text neck." Add the static posture, the reduced blink rate that dries your eyes, and the shoulders creeping toward your ears, and the aching is mechanical, not imagined.</div>
 
 <div data-i18n-html="article_detox-numerique_p9"><h3>5. Reduced Social Skills</h3>
 When you spend more time on screens than with people, your <a href="/journal/social-muscle/">social skills deteriorate</a>.</div>
@@ -63,13 +63,13 @@ When you spend more time on screens than with people, your <a href="/journal/soc
 <div data-i18n-html="article_detox-numerique_p10"><h2>How to Detox</h2></div>
 
 <div data-i18n-html="article_detox-numerique_p11"><h3>1. Set Screen-Free Times</h3>
-No screens for the first hour after waking and the last hour before bed. This alone transforms your sleep and morning energy.</div>
+Anchor two bookends you never cross: no screens for the first hour after waking, no screens in the last hour before bed. Buy a €8 alarm clock so the phone no longer needs to live on the nightstand — removing the object beats resisting the object every single morning.</div>
 
 <div data-i18n-html="article_detox-numerique_p12"><h3>2. Turn Off Notifications</h3>
-Keep only the essential notifications. Everything else is a distraction.</div>
+Keep only human-initiated alerts — a call or message from a real person. Silence every app badge, news push, and "someone liked your post" signal. You want notifications to be a door you open, not a bell that interrupts you. Batch the rest into two or three fixed check windows per day.</div>
 
-<div data-i18n-html="article_detox-numerique_p13"><h3>3. Use App Timers</h3>
-Set daily limits for social media apps. When the timer is up, put the phone down.</div>
+<div data-i18n-html="article_detox-numerique_p13"><h3>3. Add Friction, Not Just Willpower</h3>
+A soft time-limit is a weaker lever than physical distance. Delete the two apps you open reflexively from the home screen (they'll survive in the app library, one search away), move your phone to another room during work blocks, and turn the screen greyscale. Each added step gives your prefrontal cortex a beat to overrule the impulse.</div>
 
 <div data-i18n-html="article_detox-numerique_p14"><h3>4. Create Phone-Free Zones</h3>
 The bedroom and dining table are good places to start. These spaces should be for rest and connection — not screens.</div>

@@ -22,7 +22,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 304
+wordCount: 534
 faq:
   - q: "How do you say no without feeling guilty?"
     a: "Reframe: every 'yes' to someone else is a 'no' to your own priorities. Say it simply — 'I can't commit to that' — without over-explaining. Guilt fades with repetition: each refusal that doesn't destroy the relationship proves your fear was disproportionate."
@@ -46,27 +46,27 @@ relatedArticles:
 <div data-i18n-html="article_art-dire-non_p4"><h2>Why Saying No Is Hard</h2></div>
 
 <div data-i18n-html="article_art-dire-non_p5"><h3>1. Fear of Rejection</h3>
-You worry that saying no will make people upset or abandon you. But people who leave because you set boundaries never respected you in the first place.</div>
+UCLA neuroimaging (Eisenberger, 2003) showed that social rejection activates the same anterior cingulate region as physical pain. Your brain does not distinguish "they will be upset" from "they will hurt me" — it sends a genuine threat signal. That is why saying no feels disproportionate: the alarm evolved for tribal exile, not for declining a dinner invitation. Knowing the alarm is a false positive makes it easier to speak anyway.</div>
 
-<div data-i18n-html="article_art-dire-non_p6"><h3>2. Need for Approval</h3>
-When your self-worth depends on others' approval, saying no feels dangerous. But approval-seeking is a prison disguised as kindness.</div>
+<div data-i18n-html="article_art-dire-non_p6"><h3>2. Approval as a Learned Safety Signal</h3>
+Many people-pleasers internalised a rule in childhood: good behaviour earns love, disagreement risks withdrawal. That script never got updated in adulthood. The tell: you say yes, then resent the requester for taking your time. The resentment is data — it means your values already said no, but your reflex said yes to keep the peace.</div>
 
-<div data-i18n-html="article_art-dire-non_p7"><h3>3. Conflict Avoidance</h3>
-You say yes to avoid discomfort. But the discomfort of saying yes often lasts longer than the discomfort of saying no.</div>
+<div data-i18n-html="article_art-dire-non_p7"><h3>3. Conflict Avoidance Mispricing</h3>
+A thirty-second "no" costs one moment of awkwardness. A resentful "yes" costs the hours you will actually spend plus the irritation you will feel doing it. The avoidance brain treats the short social discomfort as the larger threat, but the math is obvious once you write both scenarios down.</div>
 
 <div data-i18n-html="article_art-dire-non_p8"><h2>How to Say No</h2></div>
 
-<div data-i18n-html="article_art-dire-non_p9"><h3>1. Be Direct</h3>
-"I cannot do that" is <a href="/journal/pouvoir-du-non/">a complete sentence</a>. You do not need to explain or justify your no.</div>
+<div data-i18n-html="article_art-dire-non_p9"><h3>1. Give a Complete Sentence, Not an Excuse</h3>
+"I can't take that on right now" is a full no. You do not owe a reason. A no followed by three explanations reads as a negotiation opening — the listener hears "unless…" and starts solving your excuses. Brief, warm, firm: the fewer hooks you give, the faster the conversation closes.</div>
 
-<div data-i18n-html="article_art-dire-non_p10"><h3>2. Offer Alternatives</h3>
-"I cannot do X, but I can do Y" shows you are willing to help — just not in the way they asked.</div>
+<div data-i18n-html="article_art-dire-non_p10"><h3>2. Offer a Real Alternative, Not a Fake One</h3>
+"I can't help Saturday, but I can do Tuesday morning" signals willingness without reopening your boundary. One alternative is generous; three alternatives is you bargaining yourself back in. Choose the single option you would genuinely deliver, then stop talking.</div>
 
-<div data-i18n-html="article_art-dire-non_p11"><h3>3. Delay Your Response</h3>
-"I will think about it and get back to you" buys you time to decide without pressure.</div>
+<div data-i18n-html="article_art-dire-non_p11"><h3>3. The 24-Hour Rule</h3>
+"Let me check my calendar and get back to you tomorrow" breaks the reflex-yes pattern. On the spot your brain optimises for social comfort; after 24 hours it optimises for your actual schedule. Say the sentence out loud until it becomes automatic: it buys thinking time without sounding rude.</div>
 
-<div data-i18n-html="article_art-dire-non_p12"><h3>4. Practice with Low Stakes</h3>
-Start saying no to small things — a salesperson, a minor request, a casual invitation. Build the muscle.</div>
+<div data-i18n-html="article_art-dire-non_p12"><h3>4. Ladder Up from Low Stakes</h3>
+Start with a salesperson's upsell ("No thanks, just the base model"), then a colleague's small favour, then a manager's extra project, then a family member's recurring request. Each rung proves the relationship survives, which trains the alarm system that a "no" does not equal exile.</div>
 
 <div data-i18n-html="article_art-dire-non_p13"><h3>5. Remember Your Priorities</h3>
 Every time you say no, you are <a href="/journal/quiet-power-of-doing-less/">saying yes to your priorities</a>. Your priorities deserve your protection.</div>

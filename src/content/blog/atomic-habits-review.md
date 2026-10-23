@@ -52,8 +52,6 @@ faqFr:
 
 <div data-i18n-html="article_atomic-habits-review_p4">It is probably the most highlighted book of the decade. Millions own a copy, a fraction finish it, and only a handful actually live it. That gap is ironic — because Atomic Habits is precisely about closing small gaps, one repetition at a time.</div>
 
-<div data-i18n-html="article_atomic-habits-review_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_atomic-habits-review_p5">I read it 4 times in 18 months. Not because I forgot the content. Because each read changed what I saw.</div>
 
 <div data-i18n-html="article_atomic-habits-review_p53"><div style="margin:2rem 0;padding:1.5rem 1.75rem;border:1px solid var(--line,#e5e5e5);border-radius:12px;background:var(--cream,#faf7f2);">
@@ -167,7 +165,7 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 
 <div data-i18n-html="article_atomic-habits-review_p48"><ol>
 <li><em>Clear, J.</em> (2018). <em>Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones.</em> — for the core framework</li>
-<li><em>Lally, P., et al.</em> (2009). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009. — for the 66-day habit formation median</li>
+<li><em>Lally, P., et al.</em> (2010). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009. — for the 66-day habit formation median</li>
 <li><em>Gollwitzer, P. M., &amp; Sheeran, P.</em> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119. — for the implementation intentions research</li>
 </ol></div>
 

@@ -22,7 +22,7 @@ keywords:
   - "focus timer technique study"
 tags:
   - "productivity"
-wordCount: 370
+wordCount: 469
 bookSlug: deep-work
 faq:
   - q: "What is the Pomodoro Technique?"
@@ -43,8 +43,6 @@ relatedArticles:
 
 <div data-i18n-html="article_technique-pomodoro_p3">The Pomodoro Technique was invented by Francesco Cirillo in the 1980s. He named it after the tomato-shaped kitchen timer he used as a student. It is deceptively simple — and it works.</div>
 
-<div data-i18n-html="article_technique-pomodoro_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_technique-pomodoro_p4"><h2>How It Works</h2></div>
 
 <div data-i18n-html="article_technique-pomodoro_p5">1. Choose one task
@@ -58,16 +56,16 @@ relatedArticles:
 <div data-i18n-html="article_technique-pomodoro_p7"><h2>Why It Works</h2></div>
 
 <div data-i18n-html="article_technique-pomodoro_p8"><h3>1. It Creates Urgency</h3>
-A 25-minute timer creates a sense of urgency. You are racing against the clock. This focused energy produces more output than 2 hours of unfocused work.</div>
+A 25-minute timer converts "whenever" into "before the beep". That shift is the mechanism. Open-ended work expands to fill the day; a fixed window forces a single decision — start now or lose the slot. On a bad day, one honest Pomodoro is often more output than three "I'll do it later" hours.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p9"><h3>2. It <a href="/journal/deep-work-focus/">Forces Single-Tasking</a></h3>
-During a Pomodoro, you work on one thing only. No multitasking. No switching. One task, 25 minutes, complete focus.</div>
+During a Pomodoro, one task only. No alt-tab, no "quick check". Switching is not free — a glance at a message leaves what Sophie Leroy (2009) called attention residue on the previous task, and the next one runs slower because of it. The timer does one thing besides measuring: it makes the rule visible at the moment you want to break it.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p10"><h3>3. It Prevents Burnout</h3>
-The breaks are not optional — they are essential. They allow your brain to recover and maintain high performance throughout the day.</div>
+The break is not a reward for work; it is what lets you do the next block at all. Sustained attention measurably degrades after twenty to thirty minutes, and a short walk, stretch or window-gaze restores more than the five minutes cost. Skip breaks to "keep momentum" and you will pay for it by the seventh hour.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p11"><h3>4. It Makes Starting Easy</h3>
-"I only have to work for 25 minutes" is much less intimidating than "I have to work for 4 hours." The Pomodoro <a href="/journal/regle-2-min-productivite/">removes the barrier to start</a>ing.</div>
+"I only have to work for 25 minutes" is a much smaller promise than "I have to work for four hours", and small promises get kept. The Pomodoro <a href="/journal/regle-2-min-productivite/">removes the barrier to start</a>. It is also an honest test: if you cannot begin even a 25-minute block, the problem is usually that the task is still too vague, too big, or not really yours.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p12"><h2>Advanced Pomodoro</h2></div>
 

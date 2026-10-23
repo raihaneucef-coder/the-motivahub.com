@@ -20,10 +20,10 @@ keywords:
   - "intermittent fasting before and after"
 tags:
   - "nutrition"
-wordCount: 295
+wordCount: 397
 faq:
   - q: "Does intermittent fasting actually work for weight loss?"
-    a: "Yes — but not by magic. A 2020 New England Journal review confirms it works primarily by restricting the eating window (reducing calories naturally) and improving insulin sensitivity. Average result: 3-8% body weight loss over 12 weeks, similar to conventional caloric restriction without hunger counting."
+    a: "Yes — but not by magic. A 2019 New England Journal of Medicine review (de Cabo & Mattson) confirms it works primarily by restricting the eating window (reducing calories naturally) and improving insulin sensitivity. Average result in trials: 3-5 percent body-weight loss over 8-12 weeks — comparable to conventional caloric restriction without hunger counting."
   - q: "What is the best intermittent fasting schedule for beginners?"
     a: "14:10 (14 hours fasting, 10 eating) for week 1 — essentially just skipping late-night snacking. Progress to 16:8 (skip breakfast or make it late). The 16:8 protocol (eating from noon to 8pm) has the most research support and is sustainable socially for most people."
   - q: "Is intermittent fasting safe every day?"
@@ -50,13 +50,13 @@ IF reduces calorie intake naturally. When you eat in a shorter window, you tend 
 Fasting lowers insulin levels, which improves insulin sensitivity. This reduces the risk of type 2 diabetes.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p7"><h3>3. Cellular Repair</h3>
-Fasting triggers autophagy — your body's cellular cleaning process. This removes damaged cells and promotes renewal.</div>
+Fasting upregulates autophagy — a cellular cleanup pathway that recycles damaged proteins. The evidence is strong in animal and cell studies; human data relies on indirect blood markers and remains preliminary. Researchers have not yet confirmed that a 16-hour fast produces the same autophagy magnitude seen in 48–72-hour animal models.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p8"><h3>4. Brain Health</h3>
-Fasting increases BDNF (brain-derived neurotrophic factor), which supports brain health and cognitive function.</div>
+In animal models, fasting consistently raises BDNF (brain-derived neurotrophic factor), a protein that supports neuron growth and cognitive resilience. Human evidence is mixed: a 2024 systematic review found five trials showing BDNF increase, five showing decrease, and six with no significant change. Exercise has far stronger human BDNF data than fasting alone.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p9"><h3>5. Longevity</h3>
-Animal studies show that fasting extends lifespan. Human studies are ongoing, but early results are promising.</div>
+Animal studies (yeast, worms, mice) show fasting extends lifespan by lowering IGF-1 and improving stress resistance. No human lifespan trial exists — the timeline is too long. Current human evidence points to improved healthspan biomarkers: reduced systemic inflammation, better metabolic flexibility, and lower cardiovascular risk factors.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p10"><h2>Common Mistakes</h2></div>
 

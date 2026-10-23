@@ -25,7 +25,7 @@ tags:
 wordCount: 749
 faq:
   - q: "What is a growth mindset?"
-    a: "The belief that abilities can be developed through effort and learning, vs a fixed mindset (talent is innate, unchangeable). Carol Dweck's Stanford research found students taught that the brain grows with challenge improved grades by 30% — the belief itself changes behavior which changes results."
+    a: "The belief that abilities can be developed through effort and learning, vs a fixed mindset (talent is innate, unchangeable). Carol Dweck's research with Blackwell and Trzesniewski (2007) found that teaching students the brain is malleable improved their math grades and motivation over a semester. Later meta-analyses show the average effect is real but modest, and largest for struggling students — so treat it as a helpful shift in effort, not a guaranteed grade multiplier. The belief changes behavior, which changes results."
   - q: "How do you rewire a fixed mindset?"
     a: "1) Notice fixed self-talk ('I'm not a math person') and add 'yet.' 2) Praise effort and strategy, not outcomes. 3) Reframe failure as data ('what did this teach me?'). 4) Learn about neuroplasticity — knowing your brain physically grows with practice makes the shift feel real. Change takes 6-8 weeks of conscious practice."
   - q: "Does growth mindset actually work?"

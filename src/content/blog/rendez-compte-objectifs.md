@@ -21,7 +21,7 @@ keywords:
   - "commitment device self discipline"
 tags:
   - "goals"
-wordCount: 386
+wordCount: 553
 faq:
   - q: "What is an accountability partner?"
     a: "A person you check in with weekly to report progress on your goals. Unlike a coach, they don't advise — they simply ask 'did you do what you said?' The social commitment of reporting to another person increases follow-through by 65% (Dominican University study, Dr. Gail Matthews)."
@@ -46,17 +46,17 @@ relatedArticles:
 
 <div data-i18n-html="article_rendez-compte-objectifs_p5"><h2>Why Accountability Works</h2></div>
 
-<div data-i18n-html="article_rendez-compte-objectifs_p6"><h3>1. Social Pressure</h3>
-When you tell someone you will do something, you feel obligated to follow through. <a href="/journal/two-friends-one-promise/">Breaking a promise to yourself</a> is easy. Breaking a promise to someone else is harder.</div>
+<div data-i18n-html="article_rendez-compte-objectifs_p6"><h3>1. Loss Aversion Creates Urgency</h3>
+Kahneman and Tversky showed that losses hurt roughly twice as much as equivalent gains feel good. A private goal has no loss signal — skipping a workout costs nothing visible. A public commitment to a partner activates loss framing: “If I do not show up to this check-in, I lose credibility with someone whose opinion I value.” That emotional cost is what converts intention into action on a Tuesday evening when motivation is absent.</div>
 
-<div data-i18n-html="article_rendez-compte-objectifs_p7"><h3>2. External Perspective</h3>
-An accountability partner sees things you cannot see. They notice patterns, suggest solutions, and keep you focused on what matters.</div>
+<div data-i18n-html="article_rendez-compte-objectifs_p7"><h3>2. External Pattern Recognition</h3>
+You cannot see your own blind spots. An accountability partner notices that you always miss Thursday sessions, that you sabotage after small wins, that your “I will start Monday” pattern has repeated eleven weeks running. Self-observation suffers from motivated reasoning; a witness does not have the same excuse to believe.</div>
 
-<div data-i18n-html="article_rendez-compte-objectifs_p8"><h3>3. Emotional Support</h3>
-The journey to any goal is emotional. An accountability partner provides encouragement when you are down and celebrates when you succeed.</div>
+<div data-i18n-html="article_rendez-compte-objectifs_p8"><h3>3. The Social Buffer Against Discouragement</h3>
+Goals fail most often at the dip: week three, when the novelty is gone and results are not yet visible. A partner who has walked their own dip recognises the warning signs earlier than you will. They normalise the struggle, remind you of the timeline, and make the Tuesday-evening “what is the point?” conversation survivable because someone else has heard it before and can say “I know; keep going.”</div>
 
-<div data-i18n-html="article_rendez-compte-objectifs_p9"><h3>4. Consistency</h3>
-When you have a weekly check-in, you cannot afford to skip a week. The appointment keeps you consistent.</div>
+<div data-i18n-html="article_rendez-compte-objectifs_p9"><h3>4. Recurring Deadlines Replace Willpower</h3>
+The weekly check-in is a fixed, recurring commitment device: you do not decide each week whether to participate — the default is participation, and opting out requires active avoidance. This removes the negotiation loop (“do I feel like reporting today?”) that drains willpower and eventually produces a skipped week, which snowballs into abandonment.</div>
 
 <div data-i18n-html="article_rendez-compte-objectifs_p10"><h2>How to Build an Accountability System</h2></div>
 

@@ -22,7 +22,7 @@ keywords:
   - "deep purpose personal growth"
 tags:
   - "goals"
-wordCount: 381
+wordCount: 415
 faq:
   - q: "Why is a 'deep why' more powerful than a goal?"
     a: "Goals have deadlines — once achieved, motivation collapses. A deep why (protecting your family, proving to yourself it's possible, serving something larger) is inexhaustible. Viktor Frankl observed in concentration camps: those who survived had a 'why' that made any 'how' bearable."
@@ -79,7 +79,7 @@ Every time you follow your system, remind yourself: "I am doing this because [de
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p15"><h2>The Power of Purpose</h2></div>
 
-<div data-i18n-html="article_pourquoi-profond-objectifs_p16">People with a strong sense of purpose live longer, are healthier, and achieve more. Purpose is not just motivational — it is medicinal.</div>
+<div data-i18n-html="article_pourquoi-profond-objectifs_p16">This isn't just feel-good framing. A 2016 meta-analysis of cohort studies (Cohen &amp; Rodrigues) found that people with a stronger sense of purpose had roughly 17% lower risk of dying over the follow-up period, and a 2019 JAMA Network Open study of nearly 7,000 adults echoed it. Purpose looks less like motivation and more like a measurable health variable.</div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p17"><blockquote><em>He who has a why to live can bear almost any how. — Friedrich Nietzsche</em></blockquote></div>
 

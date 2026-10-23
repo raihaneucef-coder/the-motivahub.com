@@ -23,14 +23,14 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 298
+wordCount: 495
 faq:
   - q: "How do I enjoy social media without wasting hours?"
     a: "Set a timer before opening any app (15-20 minutes max). Unfollow accounts that don't educate or genuinely inspire. Turn off all non-human notifications. Use social media only during a pre-planned 'leisure block' — never as a gap-filler between tasks."
   - q: "Is social media bad for your brain?"
-    a: "The mechanism is variable-ratio reinforcement (same pattern as slot machines): unpredictable likes and new posts trigger dopamine spikes that rewire attention span. fMRI studies show heavy users have reduced gray matter in the ventral striatum. Moderate, intentional use causes no measurable harm."
+    a: "The mechanism is variable-ratio reinforcement (same pattern as slot machines): unpredictable likes and new posts trigger dopamine spikes that train a shorter attention span. A 2015 PLOS ONE study (Haller et al.) reported a correlation between heavy entertainment media use in adolescents and smaller gray matter volume in the ventral striatum; the finding is correlational, not causal. Moderate, intentional use shows no measurable harm."
   - q: "What's a healthy daily social media limit?"
-    a: "Research from the University of Pennsylvania: limiting to 30 minutes/day reduces loneliness, FOMO, and depressive symptoms by 40% in three weeks. The exact number matters less than intentionality — 30 minutes you chose beats 30 minutes you didn't notice passing."
+    a: "In the University of Pennsylvania study (Hunt et al., 2018, Journal of Social and Clinical Psychology), students limited to about 30 minutes per day showed significant reductions in loneliness and depressive symptoms over three weeks compared with a control group. The exact number matters less than intentionality — 30 minutes you chose beats 30 minutes you didn't notice passing."
 
 relatedArticles:
   - "choose-joy-on-purpose"
@@ -51,19 +51,19 @@ relatedArticles:
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p6"><h2>How to Use Social Media Intentionally</h2></div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p7"><h3>1. Set Time Limits</h3>
-Use app timers to limit daily usage. 30 minutes per day is enough to stay connected without getting consumed.</div>
+Use app timers to cap daily usage. The specific number matters less than the pre-commitment — deciding while you are calm what you will allow when you are bored. Thirty minutes a day is a defensible default; it stops being a choice the moment the number only appears in the weekly screen-time report.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p8"><h3>2. <a href="/journal/proof-over-noise/">Curate Your Feed</a></h3>
-Follow accounts that inspire, educate, or make you laugh. Unfollow accounts that make you feel inadequate, angry, or anxious.</div>
+Follow accounts that inspire, educate or genuinely make you laugh. Unfollow the ones that leave you feeling behind, furious or vaguely sick, even when they are "informative". Curating the feed is not aesthetic — it is the cheapest change you can make to your emotional baseline, because the algorithm optimises for engagement, not for the person reading it.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p9"><h3>3. Post with Purpose</h3>
-Before posting, ask: "Why am I sharing this?" If the answer is "for validation," reconsider. Post for connection, not for likes.</div>
+Before posting, ask: "Why am I sharing this?" If the honest answer is validation, waiting twenty-four hours usually dissolves the urge. Post for a person or a purpose — the friend who needs the joke, the point that only becomes clear in public. Likes turn to noise once you know who the post was actually for.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p10"><h3>4. Disable Notifications</h3>
-Turn off all non-essential notifications. You do not need to know every time someone likes your photo.</div>
+Turn off every notification that does not come from a real human who needs you now — likes, follows, reminders, "someone in your network" prompts. The reason is not discipline, it is asymmetry: each ping costs a second to notice and up to a minute to fully return from. Notifications are a tax other people get to levy on your attention without asking.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p11"><h3>5. Use It, Do Not Let It Use You</h3>
-Social media is a tool — not a master. Use it to learn, connect, and share. Do not let it use you for attention, data, and addiction.</div>
+Use it on purpose — to keep a long-distance friendship alive, to research a topic, to publish your own work. Do not let it run in the background while you do those things. The test is simple: when you close the app, can you say what you went in for? If the honest answer is "I opened it because I was waiting", the app was using you.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p12"><h2>The Balance</h2></div>
 
@@ -72,6 +72,6 @@ Social media is a tool — not a master. Use it to learn, connect, and share. Do
 - Do not use it in the last hour before bed
 - Replace scrolling with reading, exercise, or connection</div>
 
-<div data-i18n-html="article_reseaux-sociaux-divertissement_p14"><blockquote><em><a href="/journal/comparison-trap/">Comparison is the thief of joy</a>. — Theodore Roosevelt</em></blockquote></div>
+<div data-i18n-html="article_reseaux-sociaux-divertissement_p14"><blockquote><em><a href="/journal/comparison-trap/">Comparison is the thief of joy</a>. — often attributed to Theodore Roosevelt</em></blockquote></div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p16"><strong>Use social media wisely today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds the habits that protect your attention. Track your screen time with our <a href="/tracker/">Habit Tracker</a>.</div>

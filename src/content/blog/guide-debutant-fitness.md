@@ -88,6 +88,6 @@ relatedArticles:
 
 <div data-i18n-html="article_guide-debutant-fitness_p15">Did you exercise 3 days in a row? Celebrate. Did you increase your reps? Celebrate. Small wins create momentum. Momentum creates habits. Habits create transformation.</div>
 
-<div data-i18n-html="article_guide-debutant-fitness_p16"><blockquote><em>The secret of getting ahead is getting started. — Mark Twain</em></blockquote></div>
+<div data-i18n-html="article_guide-debutant-fitness_p16"><blockquote><em>The secret of getting ahead is getting started. — often attributed to Mark Twain</em></blockquote></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p18"><strong>Start your fitness habit today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you the daily structure. Track your streak with our <a href="/tracker/">Habit Tracker</a>.</div>

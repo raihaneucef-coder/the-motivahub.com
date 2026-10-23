@@ -54,7 +54,7 @@ relatedArticles:
 <div data-i18n-html="article_mythe-reussite-instantanee_p8"><h2>Examples</h2></div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p9">- <strong>J.K. Rowling:</strong> Rejected 12 times before Harry Potter was published. She was a single mother on welfare.
-- <strong>Michael Jordan:</strong> Cut from his high school basketball team. He practiced harder than anyone else.
+- <strong>Michael Jordan:</strong> Left off his high school varsity basketball team as a sophomore. He practiced harder than anyone else.
 - <strong>Elon Musk:</strong> First three SpaceX rockets exploded. He almost went bankrupt.
 - <strong>Oprah Winfrey:</strong> Fired from her first television job. Told she was "unfit for TV."</div>
 
@@ -67,6 +67,6 @@ relatedArticles:
 3. <strong><a href="/journal/long-ascent/">It takes persistence</a></strong> — continuing when everyone else stops
 4. <strong>It takes patience</strong> — trusting the process even when results are invisible</div>
 
-<div data-i18n-html="article_mythe-reussite-instantanee_p13"><blockquote><em>Success is not final, failure is not fatal: it is the courage to continue that counts. — Winston Churchill</em></blockquote></div>
+<div data-i18n-html="article_mythe-reussite-instantanee_p13"><blockquote><em>Success is not final, failure is not fatal: it is the courage to continue that counts. — often attributed to Winston Churchill</em></blockquote></div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p15"><strong>Embrace the process today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you to persist through the invisible years. Track your consistency with our <a href="/tracker/">Habit Tracker</a>.</div>

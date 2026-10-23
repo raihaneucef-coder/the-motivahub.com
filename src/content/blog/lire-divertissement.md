@@ -56,13 +56,13 @@ relatedArticles:
 Reading requires sustained attention for 20-60 minutes. This <a href="/journal/deep-work-focus/">trains your brain to focus</a> — a skill that is increasingly rare.</div>
 
 <div data-i18n-html="article_lire-divertissement_p6"><h3>2. It Expands Vocabulary</h3>
-Readers encounter 50% more vocabulary than non-readers. Better vocabulary means better communication.</div>
+Reading exposes you to far more rare and complex words than everyday conversation does — print exposure tracks closely with vocabulary and general knowledge. Better vocabulary means better communication.</div>
 
 <div data-i18n-html="article_lire-divertissement_p7"><h3>3. It Increases Empathy</h3>
 Reading fiction puts you inside other people's lives. This builds empathy and emotional intelligence.</div>
 
 <div data-i18n-html="article_lire-divertissement_p8"><h3>4. It Reduces Stress</h3>
-A study by the University of Sussex found that reading reduces stress by 68%. It is more effective than listening to music or drinking tea.</div>
+A 2009 study from Mindlab International at the University of Sussex reported that reading lowered stress by 68% — more than listening to music or drinking tea.</div>
 
 <div data-i18n-html="article_lire-divertissement_p9"><h3>5. It Improves Sleep</h3>
 Reading a physical book before bed signals your brain to produce melatonin. Screens do the opposite.</div>

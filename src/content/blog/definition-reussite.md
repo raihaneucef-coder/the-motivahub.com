@@ -7,7 +7,7 @@ seoTitleFr: "Redéfinir la réussite : au-delà de l'argent"
 descriptionFr: "La réussite ne signifie pas la même chose pour tout le monde. Redéfinissez votre propre réussite au-delà des standards sociaux."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
-readTime: "5 MIN"
+readTime: "6 MIN"
 image: "/images/blog/definition-reussite-2.jpg"
 imageAlt: "Three hikers taking their own path through a mountain landscape beside a trail signpost"
 topic: "Success"
@@ -22,7 +22,7 @@ keywords:
   - "living on your own terms"
 tags:
   - "success"
-wordCount: 298
+wordCount: 571
 faq:
   - q: "How do you define success for yourself?"
     a: "Ask three questions: 1) What would I do even if no one paid or praised me? 2) Who do I admire and WHY specifically? 3) On my deathbed, what would make me say 'that was a good life'? Your answers reveal your personal success metric — which rarely matches society's template of money + status."
@@ -46,27 +46,24 @@ relatedArticles:
 <div data-i18n-html="article_definition-reussite_p4"><h2>Why We Copy Others</h2></div>
 
 <div data-i18n-html="article_definition-reussite_p5"><h3>1. Social Conditioning</h3>
-From childhood, we are taught that success looks a certain way: money, status, possessions. But this is someone else's definition.</div>
+From age three you learned success by watching: parents praised grades, relatives asked about salary, and holidays measured worth in job titles. By adulthood the script is invisible — you chase a corner office thinking it is ambition when it is imitation. Immigrant families illustrate it clearly: doctor, lawyer, engineer is not a list of careers but a definition of love earned through security. If your goals sound like a family Thanksgiving conversation, that is the conditioning speaking, not you.</div>
 
 <div data-i18n-html="article_definition-reussite_p6"><h3>2. Comparison Trap</h3>
-Social media shows us <a href="/journal/comparison-trap/">highlight reels</a>. We compare our behind-the-scenes to everyone else's best moments.</div>
+Festinger's social-comparison theory (1954) showed that humans evaluate themselves by measuring against others. Social media weaponises this: Instagram and LinkedIn present curated best moments, so your internal rough-cut gets compared against everyone else's highlight reel. You are benchmarking against a sample that was selected to win — no wonder your own life feels behind.</div>
 
 <div data-i18n-html="article_definition-reussite_p7"><h3>3. Fear of Being Different</h3>
-It takes courage to define success on your own terms. It is easier to follow the crowd.</div>
+Defining your own success means explaining yourself to people who invested in the old script. Your parents chose the safe career for you; quitting it means their sacrifice "wasn't enough." That social cost — disappointing the people whose approval built your identity — keeps most people on a borrowed path for a decade or more. The real risk is not awkward dinner conversations; it is reaching sixty with skills you never used and dreams you never tested.</div>
 
 <div data-i18n-html="article_definition-reussite_p8"><h2>How to Define Your Success</h2></div>
 
-<div data-i18n-html="article_definition-reussite_p9"><h3>1. Ask the Right Questions</h3>
-- What makes you feel alive?
-- What would you do if money were not a factor?
-- What do you want to be remembered for?
-- What does a perfect day look like to you?</div>
+<div data-i18n-html="article_definition-reussite_p9"><h3>1. Run a Weekly Time Audit</h3>
+Before you can redefine success, see where your hours actually go. For one week, log every waking block in three categories: <em>required</em> (bills, health, family duties), <em>chosen</em> (work you picked, projects you started), and <em>drift</em> (scrolling, obligations you resented). If chosen plus meaningful required time is under 40 percent, your calendar is not expressing your values — it is expressing someone else's template.</div>
 
-<div data-i18n-html="article_definition-reussite_p10"><h3>2. Write Your Definition</h3>
-Write a paragraph describing <a href="/journal/pouvoir-ecrire-objectifs/">what success means to you</a>. Not what your parents want. Not what society expects. What YOU want.</div>
+<div data-i18n-html="article_definition-reussite_p10"><h3>2. Write a One-Paragraph Definition</h3>
+Draft a short paragraph using this sentence stem: "A successful life, for me, looks like ___ on a normal Tuesday — not a vacation day." The constraint matters: if your definition only works during holidays or after a windfall, it is a fantasy, not a metric. Revise until the paragraph describes a Tuesday you can actually build toward starting this quarter.</div>
 
-<div data-i18n-html="article_definition-reussite_p11"><h3>3. Align Your Life With It</h3>
-Once you know what success means to you, align your daily actions with that definition. This is where fulfillment comes from.</div>
+<div data-i18n-html="article_definition-reussite_p11"><h3>3. Audit Quarterly</h3>
+Once your paragraph exists, compare it to reality every three months. Three questions: Did my calendar move toward or away from the definition? Did I take an opportunity that aligned, or decline one that didn't? Am I still using the same definition, or has it evolved? Values shift with life stage — that is not failure, it is data. Update the paragraph without guilt and adjust the next quarter's actions accordingly.</div>
 
 <div data-i18n-html="article_definition-reussite_p12"><h2>The Real Secret</h2></div>
 

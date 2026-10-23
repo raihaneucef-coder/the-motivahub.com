@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 270
+wordCount: 452
 faq:
   - q: "What 5-minute daily habit strengthens relationships?"
     a: "One undistracted check-in: ask 'how was your day?' and listen for 3 minutes without your phone. Add 2 minutes of specific appreciation ('I loved how you handled X today'). This tiny ritual creates emotional safety and signals 'you matter' — the #1 predictor of relationship satisfaction (Gottman Institute)."
@@ -47,23 +47,23 @@ relatedArticles:
 <div data-i18n-html="article_habitude-5-min-relations_p4"><h2>How It Works</h2></div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p5"><h3>1. Put Your Phone Away</h3>
-Not on silent. Not face-down. Away. In another room. Your phone is <a href="/journal/detox-numerique/">the enemy of connection</a>.</div>
+Not face-down, not on silent — in another room. Research by Przybylski & Weinstein (2013) showed that the mere presence of a phone on the table reduces perceived closeness and conversation quality, even when it is off. Physical removal is not dramatic; it is the minimum condition for undivided attention.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p6"><h3>2. Make Eye Contact</h3>
-Look at the person. Not at the TV. Not at the wall. At them. Eye contact is the simplest form of intimacy.</div>
+Look at the person — not the TV, not the wall, not the middle distance. Eye contact triggers oxytocin release and signals "you are my sole focus right now." It is the simplest non-verbal proof that the next five minutes belong to them, not to the rest of the world.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p7"><h3>3. Ask a Real Question</h3>
-Not "How was your day?" That gets a one-word answer. Ask: "What was the best part of your day?" or "What are you thinking about?"</div>
+"How was your day?" earns a one-word reflex. Replace it with a specific prompt: "What was the best part of your day?" or "What is something you are thinking about?" These open a door instead of a script. The partner must actually recall and construct an answer — and that construction is where connection lives.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p8"><h3>4. Listen Without Fixing</h3>
-When they talk, listen. Do not offer solutions unless they ask. Most people do not want advice — they want to be heard.</div>
+When they talk, resist the urge to solve. Gottman's research found that partners who respond to stress-disclosure with advice instead of empathy score lower on relationship satisfaction — the listener's instinct to "fix" communicates "your feelings are a problem to eliminate." Nod. Reflect back one sentence. Ask "how did that make you feel?" The fix can wait; the need to be heard cannot.</div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p9"><h3>5. Express Gratitude</h3>
-End the 5 minutes with one specific thing you appreciate about them. "Thank you for making dinner tonight. It meant a lot."</div>
+<div data-i18n-html="article_habitude-5-min-relations_p9"><h3>5. Express Specific Appreciation</h3>
+End with one concrete "thank you": "Thank you for making dinner tonight — it meant a lot that you did that without me asking." Specificity matters because generic praise ("you are great") registers as background noise, while precise acknowledgement proves you actually noticed the action. This tiny data point is what "being seen" feels like from the inside.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p10"><h2>Why It Works</h2></div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it addresses the number one reason relationships fail: feeling unseen. When you <a href="/journal/love-is-a-practice/">give someone your full attention</a> for 5 minutes, you are saying: "You matter. I see you. You are important to me."</div>
+<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it targets the number one predictor of relationship satisfaction: the 5:1 ratio of positive to negative micro-interactions (Gottman Institute). One birthday dinner does less for connection than 365 small "I made you coffee" moments, because the brain tracks frequency of being seen, not intensity of occasional celebration.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p12">That is all most people need.</div>
 

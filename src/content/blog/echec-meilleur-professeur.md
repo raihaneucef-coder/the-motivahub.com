@@ -29,7 +29,7 @@ faq:
   - q: "How do I stop being afraid of failure?"
     a: "Reframe failure as data, not identity. Instead of 'I failed' (identity), say 'this approach didn't work' (data). Set a 'failure quota' — aim for 10 rejections per week. Exposure therapy reduces the emotional charge within 4-6 weeks."
   - q: "What are examples of successful people who failed first?"
-    a: "Michael Jordan was cut from his high school team. J.K. Rowling was rejected by 12 publishers. Oprah was fired from her first TV job. Walt Disney was fired for 'lack of imagination.' Every success story is built on a pile of failures."
+    a: "Michael Jordan was left off his high school varsity team as a sophomore. J.K. Rowling was rejected by 12 publishers. Oprah was fired from her first TV job. Walt Disney was fired for 'lack of imagination.' Every success story is built on a pile of failures."
   - q: "Who said failure is your best teacher?"
     a: "No one owns the quote — it circulates as a modern proverb with no verified origin. The closest documented ancestor is Samuel Smiles' Self-Help (1859), which argues failure teaches where success soothes, and Bill Gates' 1998 inversion, 'Success is a lousy teacher.' The phrase survives because the mechanism is real: failure delivers specific feedback success never will."
 faqFr:
@@ -38,7 +38,7 @@ faqFr:
   - q: "Comment arrêter d'avoir peur de l'échec ?"
     a: "Reformulez l'échec comme une donnée, pas une identité. Au lieu de « j'ai échoué » (identité), dites « cette approche n'a pas fonctionné » (donnée). Fixez-vous un quota d'échecs — visez 10 refus par semaine."
   - q: "Quels sont les exemples de personnes célèbres qui ont échoué ?"
-    a: "Michael Jordan a été rejeté de son équipe de lycée. J.K. Rowling a été refusée par 12 éditeurs. Oprah a été licenciée de son premier job TV. Walt Disney a été renvoyé pour « manque d'imagination »."
+    a: "Michael Jordan a été écarté de l'équipe première de son lycée. J.K. Rowling a été refusée par 12 éditeurs. Oprah a été licenciée de son premier job TV. Walt Disney a été renvoyé pour « manque d'imagination »."
   - q: "Qui a dit « l'échec est ton meilleur professeur » ?"
     a: "Personne ne possède la citation — elle circule comme proverbe moderne sans origine vérifiée. L'ancêtre documenté le plus proche est Self-Help de Samuel Smiles (1859), qui avance que l'échec instruit là où le succès endort, et l'inversion de Bill Gates en 1998 : « la réussite est une mauvaise professeur ». Si l'expression survit, c'est que le mécanisme est réel : l'échec livre un feedback précis que le succès ne donnera jamais."
 
@@ -67,7 +67,7 @@ relatedArticles:
 
 <div data-i18n-html="article_echec-meilleur-professeur_p10">Look at any person who has achieved something meaningful:
 <ul>
-<li><strong>Michael Jordan</strong> was cut from his high school basketball team</li>
+<li><strong>Michael Jordan</strong> was left off his high school varsity basketball team</li>
 <li><strong>Oprah Winfrey</strong> was told she was "unfit for television"</li>
 <li><strong>J.K. Rowling</strong> was rejected by 12 publishers</li>
 <li><strong>Elon Musk</strong> came close to bankruptcy in 2008</li>

@@ -25,12 +25,12 @@ tags:
 wordCount: 479
 faq:
   - q: "Why should I focus on one goal at a time?"
-    a: "Research from Stanford shows task-switching reduces IQ by 10 points and increases completion time by 40%. Multiple goals compete for the same willpower reservoir. One target with full focus beats five targets with split attention every time."
+    a: "Task-switching carries a measurable 'switching cost' — every interruption forces you to re-load context, which slows you down and raises errors. Widely quoted figures like a '10-point IQ drop' are overstated and not from a single study, but the principle holds: multiple goals compete for the same limited attention. One target with full focus beats five targets with split attention every time."
   - q: "How do I choose which single goal to pursue?"
     a: "Ask: 'If I could only accomplish ONE thing this year, which would make the biggest ripple effect?' Then check: Do I genuinely want it, or do I think I 'should'? The right goal energizes you even when it's hard."
 faqFr:
   - q: "Pourquoi me concentrer sur un seul objectif à la fois ?"
-    a: "La recherche de Stanford montre que le changement de tâche réduit le QI de 10 points et augmente le temps d'achèvement de 40 %. Plusieurs objectifs se disputent la même réserve de volonté."
+    a: "Changer de tâche a un coût mesurable de « recentrage » : chaque interruption t'oblige à recharger le contexte, ce qui ralentit et multiplie les erreurs. Les chiffres souvent cités (baisse de « 10 points de QI ») sont exagérés et ne viennent pas d'une étude unique, mais le principe reste vrai : plusieurs objectifs se disputent la même attention limitée."
   - q: "Comment choisir quel objectif unique poursuivre ?"
     a: "Demandez-vous : « Si je ne pouvais accomplir qu'UNE chose cette année, laquelle aurait le plus grand effet d'entraînement ? » Puis vérifiez : est-ce que je le veux vraiment ou je pense que je « devrais » ?"
 

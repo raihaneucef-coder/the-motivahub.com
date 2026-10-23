@@ -38,9 +38,9 @@ relatedArticles:
   - "zone-confort-croissance"
 ---
 
-<div data-i18n-html="article_regle-1-pourcent_p2">Improving by just 1% per day makes you 37 times better in one year. The math is simple. The execution requires discipline.</div>
+<div data-i18n-html="article_regle-1-pourcent_p2">Improve by just 1% per day and the compounding math works out to roughly 37× over a year. That figure is an illustration of momentum, not a literal promise — the real point is that tiny gains add up. The execution requires discipline.</div>
 
-<div data-i18n-html="article_regle-1-pourcent_p3">If you improve by 1% every day for a year, you will be 37 times better by the end of the year. This is the compound effect, and it is the most powerful force in personal growth.</div>
+<div data-i18n-html="article_regle-1-pourcent_p3">Get 1% better every day for a year and, by the arithmetic of compounding (1.01³⁶⁵ ≈ 37.8), you finish a long way ahead. Skills don't literally multiply 37×, but consistency beats intensity the way interest beats a lump sum. This is the compound effect, and it is the most powerful force in personal growth.</div>
 
 
 <div data-i18n-html="article_regle-1-pourcent_p4"><h2>The Math</h2></div>

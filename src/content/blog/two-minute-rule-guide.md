@@ -37,7 +37,7 @@ faq:
   - q: "What is the 2-minute rule?"
     a: "The 2-minute rule, from James Clear's Atomic Habits, says: when you start a new habit, it should take less than two minutes to do. The goal is to make the start so easy you cannot say no. The actual behavior grows from the doorway."
   - q: "Does the 2-minute rule actually work?"
-    a: "Yes. Research on habit formation (Lally et al., 2009) shows that the first two minutes are the hardest — once you start, momentum carries you. The 2-minute rule front-loads the start to bypass the resistance."
+    a: "Yes. Research on habit formation (Lally et al., 2010) shows that the first two minutes are the hardest — once you start, momentum carries you. The 2-minute rule front-loads the start to bypass the resistance."
   - q: "What if I want to read for 30 minutes?"
     a: "Read for two minutes. That is it. Set a timer. Stop at two. Most days you will keep going, but the contract is two minutes. On your worst day, two minutes still counts."
   - q: "How long should I do the 2-minute version before scaling up?"
@@ -48,7 +48,7 @@ faqFr:
   - q: "Qu'est-ce que la règle des 2 minutes ?"
     a: "La règle des 2 minutes, issue d'Atomic Habits de James Clear, dit : quand vous commencez une nouvelle habitude, elle doit prendre moins de deux minutes. L'objectif est de rendre le démarrage si facile que vous ne pouvez pas dire non. Le comportement réel se développe ensuite depuis cette porte d'entrée."
   - q: "La règle des 2 minutes fonctionne-t-elle vraiment ?"
-    a: "Oui. Les recherches sur la formation des habitudes (Lally et al., 2009) montrent que les deux premières minutes sont les plus dures — une fois lancé, l'élan vous porte. La règle des 2 minutes déplace tout l'effort au démarrage pour contourner la résistance."
+    a: "Oui. Les recherches sur la formation des habitudes (Lally et al., 2010) montrent que les deux premières minutes sont les plus dures — une fois lancé, l'élan vous porte. La règle des 2 minutes déplace tout l'effort au démarrage pour contourner la résistance."
   - q: "Et si je veux lire 30 minutes ?"
     a: "Lisez deux minutes. C'est tout. Réglez un minuteur. Arrêtez-vous à deux. La plupart des jours, vous continuerez, mais le contrat est de deux minutes. Les mauvais jours, deux minutes comptent encore."
   - q: "Combien de temps garder la version 2 minutes avant d'agrandir ?"
@@ -66,15 +66,13 @@ relatedArticles:
 
 <div data-i18n-html="article_two-minute-rule-guide_p4">The most underrated idea in <em>Atomic Habits</em> is also the most copied. And most people copy it wrong.</div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_two-minute-rule-guide_p5">James Clear calls it <strong>the 2-minute rule</strong>: when you start a new habit, it should take less than two minutes to do. Read for two minutes. Meditate for two minutes. Do ten pushups — which takes about forty seconds, then stretch for another eighty. The point is not the two minutes. The point is that the start becomes impossible to refuse.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p6">The doorway stays open. The hallway grows later.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p7"><h2>Where the idea actually came from</h2></div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p8">The science predates Clear by decades. Peter Gollwitzer's implementation intentions (1999) showed that specifying <em>when</em> and <em>where</em> a behavior happens more than doubles follow-through. BJ Fogg's tiny habits (2007) proved that starting with something laughably small — flossing one tooth, doing two pushups — creates a foothold where willpower used to fail. Lally et al. (2009) measured habit formation in 96 people over 84 days and found that the first two minutes of a new behavior carry the highest drop-off rate. Once you pass that two-minute wall, momentum takes over.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p8">The science predates Clear by decades. Peter Gollwitzer's implementation intentions (1999) showed that specifying <em>when</em> and <em>where</em> a behavior happens more than doubles follow-through. BJ Fogg's tiny habits (2007) proved that starting with something laughably small — flossing one tooth, doing two pushups — creates a foothold where willpower used to fail. Lally et al. (2010) measured habit formation in 96 people over 84 days and found that the first two minutes of a new behavior carry the highest drop-off rate. Once you pass that two-minute wall, momentum takes over.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p9">Clear's contribution was naming it simply. The 2-minute rule is what happens when implementation intention meets tiny habits meets the Lally curve. It is the synthesis, packaged in a sentence.</div>
 
@@ -121,7 +119,7 @@ Look at the week. Seven days, seven doorways. The hallway is optional. The doorw
 
 <div data-i18n-html="article_two-minute-rule-guide_p27"><h2>The science of the doorway</h2></div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p28">Lally's 2009 study found that automaticity — the feeling that a habit runs itself — takes between 18 and 254 days to develop, with a median of 66. The first two weeks show the steepest curve, then the gains slow. This is why the 2-minute rule targets the steepest part of the curve: the beginning.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p28">Lally's 2010 study found that automaticity — the feeling that a habit runs itself — takes between 18 and 254 days to develop, with a median of 66. The first two weeks show the steepest curve, then the gains slow. This is why the 2-minute rule targets the steepest part of the curve: the beginning.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p29">The 2-minute rule is essentially a <em>behavioral priming</em>. By committing to a tiny start, you are doing two things: lowering the activation energy (so the start happens) and signaling to your brain that this is a real pattern (so automaticity can build). The two minutes is not the workout. The two minutes is the rehearsal that trains your brain to expect the workout.</div>
 

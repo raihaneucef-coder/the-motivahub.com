@@ -22,7 +22,7 @@ keywords:
   - "never miss twice rule"
 tags:
   - "sport"
-wordCount: 317
+wordCount: 446
 faq:
   - q: "Why does consistency beat intensity?"
     a: "Because results compound. 20 minutes daily for a year (120 hours) beats 3-hour sessions every two weeks (78 hours). Intensity creates soreness and burnout; consistency creates neural pathways and identity. The athlete who shows up mediocre daily outperforms the one who trains perfectly twice a week."
@@ -56,16 +56,16 @@ relatedArticles:
 <div data-i18n-html="article_consistance-bat-intensite_p7"><h2>Why Consistency Works</h2></div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p8"><h3>1. Habit Formation</h3>
-When you do something daily, <a href="/journal/systemes-battent-motivation/">it becomes automatic</a>. You do not need willpower to show up — it is just what you do.</div>
+Doing the same action in the same slot — same hour, same trigger, same place — <a href="/journal/systemes-battent-motivation/">moves it from decision to default</a>. Lally et al. (2010) followed real-world habit builders and found a median of 66 days for a simple daily behaviour to start feeling automatic, with a wide range from 18 to 254. Intensity never gets there, because every two-week break restarts the clock.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p9"><h3>2. Progressive Overload</h3>
-Consistent training allows gradual improvement. Your body adapts, strengthens, and grows — but only if you give it consistent stimulus.</div>
+Your body adapts to the stress you repeat, not the stress you survive once. Adding a small amount — one rep, two minutes, five hundred metres — every week or two is what compounds into strength, speed or size. Three brutal sessions followed by a fortnight off mostly produces soreness, then deconditioning.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p10"><h3>3. Skill Development</h3>
-<a href="/journal/strength-is-a-skill/">Skills are built through repetition</a>. You cannot master a skill by practicing occasionally. You master it by practicing daily.</div>
+<a href="/journal/strength-is-a-skill/">Skill is not knowledge; it is a pattern your nervous system lays down</a> through tight, frequent reps. Once a week gives your body time to forget between sessions. Ten minutes daily builds the pattern; one hour a month mostly relearns it from scratch.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p11"><h3>4. Mental Toughness</h3>
-Showing up on days you do not feel like it builds mental toughness. This toughness transfers to every area of your life.</div>
+Showing up on days you do not feel like it is the training itself. The transfer happens because the identity shifts: you stop negotiating with yourself. After forty honest sessions out of a hundred you did not want, a difficult conversation or a cold email starts to look smaller by comparison.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p12"><h2>How to Be More Consistent</h2></div>
 
@@ -75,6 +75,6 @@ Showing up on days you do not feel like it builds mental toughness. This toughne
 4. Never miss twice — one day off is a break, two days off is a new habit
 5. Focus on the process, not the outcome</div>
 
-<div data-i18n-html="article_consistance-bat-intensite_p14"><blockquote><em>It does not matter how slow you go, as long as you do not stop. — Confucius</em></blockquote></div>
+<div data-i18n-html="article_consistance-bat-intensite_p14"><blockquote><em>It does not matter how slow you go, as long as you do not stop. — often attributed to Confucius</em></blockquote></div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p16"><strong>Be consistent today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of daily practice. Track your streak with our <a href="/tracker/">Habit Tracker</a>.</div>

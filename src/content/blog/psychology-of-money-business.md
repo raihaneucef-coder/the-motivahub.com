@@ -27,7 +27,7 @@ faq:
   - q: "What is the 'psychology of money' and why does it matter more than strategy?"
     a: "Your 'money scripts' (unconscious beliefs formed in childhood) drive 80%+ of financial behavior. A person who believes 'money is evil' will self-sabotage wealth-building despite knowing the right strategy. Change the story first, and the budget executes itself."
   - q: "How does emotional spending actually work in the brain?"
-    a: "Negative moods activate the desire to restore positive affect. Shopping provides a short dopamine hit (anticipation + acquisition). Research (Cicero, 2022) found sad people spend 11-17% more on unnecessary items. The purchase treats the emotion, not the need — which is why identifying triggers breaks the cycle."
+    a: "Negative moods activate the desire to restore positive affect. Shopping provides a short dopamine hit (anticipation + acquisition). In Cryder, Lerner, Gross & Dahl (2008, Psychological Science), induced-sad participants were willing to pay substantially more for the same item than neutral ones — the effect held even when they knew the purchase would not fix the mood. The purchase treats the emotion, not the need, which is why spotting triggers breaks the cycle."
   - q: "What beliefs separate wealthy thinking from poor thinking?"
     a: "Three key shifts: 1) 'I can learn to earn' vs 'I'll never have enough.' 2) 'Money is a tool I direct' vs 'Money is a scarce resource I pray survives.' 3) 'Delayed gratification builds compound' vs 'I deserve this now.' These aren't affirmations — they're operating assumptions that change what actions you take daily."
 

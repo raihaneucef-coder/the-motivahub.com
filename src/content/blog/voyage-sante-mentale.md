@@ -22,7 +22,7 @@ keywords:
   - "novelty and brain health"
 tags:
   - "travel"
-wordCount: 285
+wordCount: 366
 faq:
   - q: "Does travel actually improve mental health?"
     a: "Yes. A Cornell University study found that planning a trip increases happiness for 8 weeks — longer than any purchase. Travel disrupts rumination cycles, exposes you to novelty (dopamine), and provides perspective shifts that reduce anxiety by breaking the 'problem = everything' tunnel vision."
@@ -46,10 +46,10 @@ relatedArticles:
 <div data-i18n-html="article_voyage-sante-mentale_p4"><h2>How Travel Heals Your Mind</h2></div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p5"><h3>1. Reduces Stress</h3>
-A study by the American Psychological Association found that <a href="/journal/recovery-is-training/">vacations reduce stress</a> by removing people from the environments and activities they associate with anxiety.</div>
+A study reported by the American Psychological Association found that <a href="/journal/recovery-is-training/">vacations lower stress</a> largely by removing you from the environments and cues you've conditioned to anxiety — the commute, the desk, the notifications. The relief isn't only rest; it's the pause in the constant low-grade vigilance your usual surroundings keep demanding of you.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p6"><h3>2. Boosts Creativity</h3>
-Exposure to new cultures, languages, and experiences increases cognitive flexibility. Your brain makes new connections, leading to more creative thinking.</div>
+Here the research is more precise than the cliché. Maddux and Galinsky's work found that <em>living</em> abroad — sustained immersion in a second culture — raised creative insight, while mere sightseeing travel showed no such link. The mechanism is "frame-switching": adapting to unfamiliar norms forces your brain to hold two ways of seeing at once. So the creativity comes from depth and engagement, not from the number of stamps in your passport.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p7"><h3>3. Improves Mood</h3>
 Anticipation of a trip boosts mood for weeks before departure. The trip itself creates positive memories that last for months.</div>

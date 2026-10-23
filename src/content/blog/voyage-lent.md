@@ -22,7 +22,7 @@ keywords:
   - "travel less see more philosophy"
 tags:
   - "travel"
-wordCount: 314
+wordCount: 498
 faq:
   - q: "What is slow travel and why is it better?"
     a: "Staying 2-4 weeks in one location instead of 2 nights in 7 cities. Benefits: 40 percent lower costs (weekly rentals, local prices), deeper cultural connection, language progress, less transit fatigue, and memories that feel lived rather than collected. You actually remember your trip."
@@ -52,19 +52,19 @@ relatedArticles:
 <div data-i18n-html="article_voyage-lent_p7"><h2>Why Slow Travel Is Better</h2></div>
 
 <div data-i18n-html="article_voyage-lent_p8"><h3>1. Deeper Connections</h3>
-When you stay in one place, you meet people. You learn names. You build relationships. These connections are the real souvenirs of travel.</div>
+Trust is a function of repeated exposure. After ten days in one neighbourhood the bakery owner asks how your trip is going; by week three you are invited to a birthday. Two nights in a city produces no such openings — relationships require the one resource fast tourism never has: unstructured time in the same place.</div>
 
-<div data-i18n-html="article_voyage-lent_p9"><h3>2. Less Stress</h3>
-No early morning flights. No packed itineraries. No rushing from one place to the next. Slow travel is relaxing.</div>
+<div data-i18n-html="article_voyage-lent_p9"><h3>2. Less Decision Fatigue</h3>
+A 10-city itinerary generates constant micro-stress: find the station, validate the ticket, locate the hotel, repack, adjust sleep. Each transition depletes the same executive-function pool you need to actually notice and enjoy your surroundings. Slow travel removes the logistics layer — your cognitive bandwidth stays free for the experience itself.</div>
 
-<div data-i18n-html="article_voyage-lent_p10"><h3>3. More Authentic</h3>
-You discover the <a href="/journal/the-detour-is-the-destination/">hidden gems</a> — the local restaurant, the quiet park, the neighborhood market — that tourists never see.</div>
+<div data-i18n-html="article_voyage-lent_p10"><h3>3. Access to What Guidebooks Miss</h3>
+Day one you see the landmark. Day eight you discover the Tuesday market where locals sell surplus garden tomatoes, the corner bar where retirees argue about football, the footpath behind the church that opens onto a valley no tourist walks. These are not hidden gems you find by being adventurous — they reveal themselves only to someone who returns to the same street at different hours.</div>
 
-<div data-i18n-html="article_voyage-lent_p11"><h3>4. Cheaper</h3>
-Staying in one place is cheaper than constantly moving. You can negotiate weekly rates, cook at home, and avoid transportation costs.</div>
+<div data-i18n-html="article_voyage-lent_p11"><h3>4. Lower True Cost</h3>
+Beyond weekly-apartment discounts (30-50 percent cheaper than nightly hotel rates), slow travel cuts three hidden expense lines: inter-city transport, tourist-trap restaurants near attractions, and the "last night" splurge when you realise you never tried the local food properly. A month in Chiang Mai at 12 000 THB/month rivals a week in Paris at the same budget, with more lived experience per euro.</div>
 
-<div data-i18n-html="article_voyage-lent_p12"><h3>5. Better for the Environment</h3>
-Fewer flights = lower carbon footprint. Slow travel is sustainable travel.</div>
+<div data-i18n-html="article_voyage-lent_p12"><h3>5. Fewer Flights, Lower Footprint</h3>
+A single long-haul round-trip emits roughly 1.6 tonnes CO₂ per passenger. Replacing six intra-Europe short-haul flights (0.15-0.3 t each) with one extended stay cuts transport emissions by 50-70 percent before you even consider slower trains or local sourcing.</div>
 
 <div data-i18n-html="article_voyage-lent_p13"><h2>How to Travel Slowly</h2></div>
 

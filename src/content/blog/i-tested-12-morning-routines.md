@@ -58,8 +58,6 @@ relatedArticles:
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p3">I spent 30 days testing every famous morning routine. Hal Elrod's Miracle Morning. Tim Ferriss's slow wake-up. The 5 AM cult. The cold plunge. The 4-minute workout. The journal-only protocol. Twelve different routines, one month of experimentation, two stress fractures, and a freezer full of ice cubes.</div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_i-tested-12-morning-routines_p4">Here's the truth that doesn't make it into productivity YouTube: most morning routines are designed for people who don't have jobs, kids, or chronic illness. They're aspirational theater, not sustainable systems. Most people try them for 6 days, fail day 7, and conclude they "don't have what it takes."</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p5">That's wrong. You have what it takes. The routine was wrong.</div>
@@ -127,7 +125,7 @@ relatedArticles:
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p35">- <strong>Chronotype matters more than wake time.</strong> If you're a night owl, a 5 AM wake-up is biologically fighting against you. If you're an early bird, sleeping until 8 AM is wasted potential. Know your chronotype.
 - <strong>Routine > novelty.</strong> Doing the same thing every morning is more effective than rotating routines. Predictability reduces decision fatigue.
-- <strong>Self-authoring is uniquely effective.</strong> Writing in a journal about your goals and values (not just a to-dary) increases follow-through on those goals by 42% (psychology research, 2019).
+- <strong>Self-authoring is uniquely effective.</strong> Writing your goals in a journal (not just a to-do list) measurably improves follow-through — in Gail Matthews' Dominican University goal study (2015), people who wrote goals down and sent a friend weekly progress updates were the most likely group to achieve them. The study is small and self-reported, so weigh the exact figure lightly; the act of writing clearly works.
 - <strong>Don't move your body before eating.</strong> A short walk is fine. Heavy exercise on an empty stomach spikes cortisol in unhealthy ways.</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p36">The takeaway: your morning routine doesn't need to be 90 minutes. It needs to be consistent.</div>
@@ -221,7 +219,7 @@ relatedArticles:
 <div data-i18n-html="article_i-tested-12-morning-routines_p70">- The "best" morning routine is the one that survives your worst day
 - 5 AM wake-ups work for some people and break others
 - Cold showers help but aren't mandatory
-- Journaling is the highest-leverage single habit (5 minutes, 42% follow-through boost)
+- Journaling is the highest-leverage single habit (5 minutes, measurably boosts follow-through)
 - 3 elements > 6 elements
 - Consistency > intensity
 - The point is agency, not productivity</div>

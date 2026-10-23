@@ -20,7 +20,7 @@ keywords:
   - "dominant goals study harvard"
 tags:
   - "goals"
-wordCount: 362
+wordCount: 591
 faq:
   - q: "Does writing goals down actually increase achievement?"
     a: "Yes — a Dominican University study (Gail Matthews, 2015) found people who wrote goals were 42% more likely to achieve them than those who only thought about them. Writing activates the reticular activating system (RAS), priming your brain to notice opportunities aligned with the stated goal."
@@ -46,30 +46,30 @@ relatedArticles:
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p5"><h2>Why Writing Works</h2></div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p6"><h3>1. Clarity</h3>
-Writing forces you to be specific. You cannot write a vague goal — the act of writing demands clarity.</div>
+Writing forces sequentialisation: a vague wish like "be happier" cannot become a sentence without a subject, a verb, and a timeframe. The motor act of handwriting bypasses the brain's tolerance for ambiguity — you must decide what you actually mean before the pen stops.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p7"><h3>2. Commitment</h3>
-A written goal is a contract with yourself. It is harder to ignore something you can see on paper.</div>
+Behavioural science calls it the consistency principle (Cialdini, 1984): once you make a public or visible commitment, your self-image aligns to honour it. A written goal on your desk is a silent witness — skipping today's action creates dissonance with the person who wrote that sentence.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p8"><h3>3. Focus</h3>
-When your goal is written and visible, your brain filters information related to it. You start noticing opportunities you would have missed otherwise.</div>
+Once written and reviewed daily, the goal primes your reticular activating system to tag relevant stimuli. You start noticing the job posting, the course, the connection — not because they appeared, but because your attention filter changed. The opportunity was always there; the written goal made you capable of seeing it.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p9"><h3>4. Memory</h3>
-Your brain retains written information better than thoughts. A written goal stays in your mind longer.</div>
+Cowan (2001) showed working memory holds only 4±1 chunks simultaneously. An unwritten goal competes with every other thought and gets overwritten within 48 hours. Writing externalises the goal into your environment, where a visual cue can remind you without taxing the memory bottleneck.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p10"><h2>How to Write Your Goals</h2></div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p11"><h3>1. Be Specific</h3>
-"I want to get fit" is weak. "I want to run a 5K in under 25 minutes by December 31" is powerful.</div>
+"I want to get fit" is a wish. "I want to run a 5K in under 25 minutes by December 31" is a goal with a success criterion your brain can plan against. The more precise the sentence, the fewer decisions remain at execution time — precision eliminates the "what should I do today?" ambiguity that kills motivation.</div>
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p12"><h3>2. Use Present Tense</h3>
-Write as if the goal is already achieved: "I am running a 5K in under 25 minutes." This <a href="/journal/identity-precedes-outcome/">trains your brain to believe it is possible</a>.</div>
+<div data-i18n-html="article_pouvoir-ecrire-objectifs_p12"><h3>2. Add the Why</h3>
+Beneath each written goal, add one sentence starting with "Because…" — "Because I want energy to play with my kids without getting winded." The why is what sustains action when the novelty fades and the Tuesday-evening workout feels optional. Goals without a felt reason get renegotiated away within three weeks.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p13"><h3>3. Make It Visible</h3>
-Put your written goal where you will see it every day — on your mirror, your desk, your phone wallpaper.</div>
+Put your written goal where you will see it every day — on your mirror, your desk, your phone lock screen. The point is not inspiration; it is retrieval. Every visual encounter reactivates the goal in working memory and re-asks your attention: "Did I act on this today?"</div>
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p14"><h3>4. Review Daily</h3>
-Read your goal every morning. This keeps it fresh in your mind and reinforces your commitment.</div>
+<div data-i18n-html="article_pouvoir-ecrire-objectifs_p14"><h3>4. Share With One Person</h3>
+Matthews found that people who wrote goals AND shared them with a supportive accountability partner were 33 percent more likely to achieve them than writers alone. The mechanism: telling another person creates a social cost to inaction that private commitment does not. Choose someone who will ask, not judge.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p15"><h2>The Science of Writing</h2></div>
 

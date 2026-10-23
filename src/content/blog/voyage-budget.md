@@ -23,7 +23,7 @@ keywords:
 tags:
   - "travel"
   - "how-to"
-wordCount: 301
+wordCount: 581
 faq:
   - q: "How can I travel the world on a tight budget?"
     a: "3 rules that save 50 percent: 1) Travel in shoulder season (not July/August). 2) Stay minimum 7 days per city (weekly discounts vs nightly rates). 3) Eat where locals eat: markets, street food, not tourist restaurants. Southeast Asia, Eastern Europe, Morocco, and Latin America offer the best value-per-experience."
@@ -47,25 +47,25 @@ relatedArticles:
 <div data-i18n-html="article_voyage-budget_p4"><h2>How to Travel Cheap</h2></div>
 
 <div data-i18n-html="article_voyage-budget_p5"><h3>1. Travel Off-Season</h3>
-Flights and hotels are 30-50% cheaper during off-peak seasons. The weather might not be perfect, but your wallet will thank you.</div>
+Flights and hotels drop 30-50 percent outside peak months because demand collapses while supply stays fixed. September in Croatia, February in Thailand, May in Portugal: same infrastructure, half the price, a third of the crowds. The trade-off is minor weather variance; the gain is an experience where you can actually breathe in public spaces instead of queuing behind tour groups.</div>
 
 <div data-i18n-html="article_voyage-budget_p6"><h3>2. Use Budget Accommodation</h3>
-Hostels, guesthouses, and Airbnb are significantly cheaper than hotels. A dorm bed in Southeast Asia costs 5-10€ per night.</div>
+Hostels, guesthouses, and weekly apartment rentals are 50-70 percent cheaper than nightly hotel rates. A dorm bed in Southeast Asia costs 5-10€; a private room in a Vietnamese guesthouse, 12-15€. Beyond saving money, budget accommodation puts you in local neighbourhoods — hostels and homestays sit on residential streets; tourist hotels sit in commercial zones designed for transient spenders.</div>
 
-<div data-i18n-html="article_voyage-budget_p7"><h3>3. <a href="/journal/meal-prep-dimanche/">Cook Your Own Meals</a></h3>
-Eating out for every meal adds up fast. Cook breakfast and lunch, eat out for dinner. Or shop at local markets and cook in your accommodation.</div>
+<div data-i18n-html="article_voyage-budget_p7"><h3>3. <a href="/journal/meal-prep-dimanche/">Eat Where Locals Eat</a></h3>
+Restaurant-markup near attractions runs 50-100 percent above the same dish five blocks away. Cook breakfast (eggs, bread, fruit from a market), eat street food or local warung for lunch (1-3€), and choose one sit-down dinner per day. This cuts your food budget to roughly 10€/day in Southeast Asia without malnourishing yourself on bread and coffee.</div>
 
-<div data-i18n-html="article_voyage-budget_p8"><h3>4. Use Public Transportation</h3>
-Taxis and Uber are expensive. Buses and trains are cheap. Walking is free.</div>
+<div data-i18n-html="article_voyage-budget_p8"><h3>4. Use Public Transportation and Walk</h3>
+A taxi across Bangkok costs 200-400 THB; the BTS Skytrain costs 16-44 THB. A metro day-pass in Porto: 7€; three Ubers: 21€. Walking is free and reveals the scale of a city — you notice shops, streets, and shortcuts that fly past the taxi window. Buy the transit card on day one; the savings compound across a month.</div>
 
-<div data-i18n-html="article_voyage-budget_p9"><h3>5. Travel to Cheap Countries</h3>
-Southeast Asia, Eastern Europe, Central America, and South America are all significantly cheaper than Western Europe, North America, or Australia.</div>
+<div data-i18n-html="article_voyage-budget_p9"><h3>5. Travel to Cheaper Countries</h3>
+Daily budgets vary 5-10x between destinations. Vietnam: 25€/day for a private room, street meals, and local transport. France: 80-100€/day for comparable comfort. Prioritising countries with a low cost of living (Morocco, Georgia, Bolivia, Indonesia) extends your travel budget 3-4x without lowering experience quality — a temple at sunrise costs the same whether your bed was 10€ or 100€.</div>
 
-<div data-i18n-html="article_voyage-budget_p10"><h3>6. Use Travel Rewards</h3>
-Credit card points, airline miles, and hotel loyalty programs can save you thousands. Use them wisely.</div>
+<div data-i18n-html="article_voyage-budget_p10"><h3>6. Use Travel Rewards Strategically</h3>
+Credit-card sign-up bonuses (20 000-60 000 points), airline miles from daily spending, and hotel loyalty upgrades can fund one or two flights per year for zero incremental cash. The rule: only use a travel card if you pay the balance in full each month. Otherwise, 20 percent interest on the float destroys any reward value within two cycles.</div>
 
-<div data-i18n-html="article_voyage-budget_p11"><h3>7. <a href="/journal/voyage-lent/">Travel Slowly</a></h3>
-Fewer flights = less money spent on transportation. Stay longer in one place.</div>
+<div data-i18n-html="article_voyage-budget_p11"><h3>7. <a href="/journal/voyage-lent/">Stay Longer, Move Less</a></h3>
+Each city-to-city transfer costs money (transport) and time (logistics). Staying 7+ nights unlocks weekly apartment discounts (30-50 percent off), lets you shop the cheap local markets instead of tourist-zone restaurants, and eliminates the "reorientation" overhead of checking in, finding food, mapping transit — costs that never appear on a receipt but eat your budget and energy.</div>
 
 <div data-i18n-html="article_voyage-budget_p12"><h2>Sample Budget: 1 Month in Southeast Asia</h2></div>
 

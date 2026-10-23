@@ -36,7 +36,7 @@ faq:
   - q: "What is a 7-day identity challenge?"
     a: "A 7-day identity challenge is a structured micro-experiment where you pick one identity statement ('I am a writer'), one tiny daily action (write one sentence), and repeat for 7 days. The goal is not the action — it is casting 7 votes for the person you want to become."
   - q: "Does a 7-day identity challenge actually work?"
-    a: "Seven days is not enough to form a habit (Lally 2009 puts the median at 66 days). It is enough to start the automaticity curve and to gather evidence that you are the kind of person who does this thing. The first week is the steepest part of the curve — that is where the doorway gets installed."
+    a: "Seven days is not enough to form a habit (Lally 2010 puts the median at 66 days). It is enough to start the automaticity curve and to gather evidence that you are the kind of person who does this thing. The first week is the steepest part of the curve — that is where the doorway gets installed."
   - q: "What is the difference between an identity challenge and a goal?"
     a: "A goal is an outcome ('run a marathon'). An identity is a way of being ('I am a runner'). The goal is finished in 26.2 miles. The identity is reinforced every time you train, eat, sleep, and think like a runner — forever. Identity lasts; goals are checkpoints."
   - q: "Can I run more than one identity challenge at the same time?"
@@ -45,7 +45,7 @@ faqFr:
   - q: "Qu'est-ce qu'un défi d'identité de 7 jours ?"
     a: "C'est une micro-expérimentation structurée : vous choisissez une phrase d'identité (« je suis un écrivain »), une minuscule action quotidienne (écrire une phrase), et vous répétez pendant 7 jours. L'objectif n'est pas l'action — c'est d'exprimer 7 votes pour la personne que vous voulez devenir."
   - q: "Un défi d'identité de 7 jours fonctionne-t-il vraiment ?"
-    a: "Sept jours ne suffisent pas à former une habitude (Lally 2009 donne une médiane de 66 jours). Ils suffisent pour amorcer la courbe d'automatisation et pour réunir la preuve que vous êtes le genre de personne qui fait cela. La première semaine est la partie la plus raide de la courbe — c'est là que la porte s'installe."
+    a: "Sept jours ne suffisent pas à former une habitude (Lally 2010 donne une médiane de 66 jours). Ils suffisent pour amorcer la courbe d'automatisation et pour réunir la preuve que vous êtes le genre de personne qui fait cela. La première semaine est la partie la plus raide de la courbe — c'est là que la porte s'installe."
   - q: "Différence entre un défi d'identité et un objectif ?"
     a: "Un objectif est un résultat (« courir un marathon »). Une identité est une manière d'être (« je suis un coureur »). L'objectif se termine au 26,2e mile. L'identité est renforcée chaque fois que vous vous entraînez, mangez, dormez et pensez comme un coureur — pour toujours. L'identité dure ; les objectifs sont des points de passage."
   - q: "Puis-je faire plusieurs défis d'identité en même temps ?"
@@ -172,7 +172,7 @@ relatedArticles:
 
 <div data-i18n-html="article_identity-challenge-7-days_p58">Three findings from behavioral research that line up with the experiment.</div>
 
-<div data-i18n-html="article_identity-challenge-7-days_p59"><strong>Lally et al. (2009)</strong> measured habit automaticity in 96 people over 84 days. The first two weeks showed the steepest gain in automaticity. The curve flattens after day 21 but never quite reaches a ceiling. The 7-day challenge lands in the steepest part of the curve, which is why it feels so disproportionately meaningful.</div>
+<div data-i18n-html="article_identity-challenge-7-days_p59"><strong>Lally et al. (2010)</strong> measured habit automaticity in 96 people over 84 days. The first two weeks showed the steepest gain in automaticity. The curve flattens after day 21 but never quite reaches a ceiling. The 7-day challenge lands in the steepest part of the curve, which is why it feels so disproportionately meaningful.</div>
 
 <div data-i18n-html="article_identity-challenge-7-days_p60"><strong>Gollwitzer (1999)</strong> showed that implementation intentions ("if X, then Y") more than double goal achievement. The 7:00 AM notebook is an implementation intention. The identity statement is the goal. The 2-minute rule is the Y.</div>
 

@@ -210,7 +210,7 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 <div data-i18n-html="article_batching-productivite_p68"><h2>Sources</h2></div>
 
 <div data-i18n-html="article_batching-productivite_p69">1. <em>Newport, C.</em> (2016). <em>Deep Work: Rules for Focused Success in a Distracted World.</em> — for the deep work framework
-2. <em>Mark, G., et al.</em> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the 40% productivity loss from multitasking
+2. <em>Mark, G., et al.</em> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
 3. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the habit stacking and environment design principles</div>
 
 <div data-i18n-html="article_batching-productivite_p70">---</div>

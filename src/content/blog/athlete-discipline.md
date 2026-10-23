@@ -195,7 +195,7 @@ relatedArticles:
 
 <div data-i18n-html="article_athlete-discipline_p68">1. <em>Willink, J., & Babin, L.</em> (2015). <em>Extreme Ownership: How U.S. Navy SEALs Lead and Win.</em> — for the "discipline equals freedom" framework
 2. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the 2-day rule and identity-based habits
-3. <em>Lally, P., et al.</em> (2009). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009.</div>
+3. <em>Lally, P., et al.</em> (2010). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009.</div>
 
 <div data-i18n-html="article_athlete-discipline_p69">---</div>
 

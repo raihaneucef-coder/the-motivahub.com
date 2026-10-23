@@ -22,14 +22,14 @@ keywords:
   - "focus by eliminating distractions"
 tags:
   - "discipline"
-wordCount: 341
+wordCount: 500
 faq:
   - q: "Why is saying no a discipline skill?"
     a: "Because every yes costs time and energy from your real priorities. Warren Buffett said 'The difference between successful people and really successful people is that really successful people say no to almost everything.' Saying no is the discipline that protects your yes."
   - q: "How do I start saying no more?"
     a: "Use the 24-hour rule: never commit immediately. Ask 'If this weren't already on my calendar, would I choose it today?' If no, decline. Start with low-stakes situations. Each no creates time; track the freed hours for one month and you'll see the compound effect."
   - q: "Does saying no make you likeable?"
-    a: "Paradoxically, yes. Research on boundaries (Nedbriukh, 2022) shows people respect those with clear limits more than constant agreeable people. Chronic yes-sayers are perceived as low-commitment because their yes means nothing — it's always given."
+    a: "Paradoxically, yes. People with clear boundaries tend to be trusted more than chronic agreeable people, not less: their yes finally carries information because it is not automatic. If every request gets the same answer, none of them do."
 
 relatedArticles:
   - "cant-hurt-me-review"
@@ -67,16 +67,16 @@ relatedArticles:
 <div data-i18n-html="article_pouvoir-du-non_p11"><h2>How to Say No Gracefully</h2></div>
 
 <div data-i18n-html="article_pouvoir-du-non_p12"><h3>1. Be Direct</h3>
-"I cannot do this" is a complete sentence. You do not need to explain, justify, or apologize.</div>
+"I cannot do this" is a complete sentence. You do not owe a justification, and a soft excuse is what someone argues with. Say it once, warmly, without apology. The awkwardness is real but short — usually under thirty seconds — and it always costs less than a week of resenting yourself for agreeing.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p13"><h3>2. Offer an Alternative</h3>
-"I cannot do this, but I can do that" shows willingness without overcommitting.</div>
+"I cannot take this on, but I can point you to someone who can" or "not this week, but I could in three weeks" shows you are on the problem, not against the person. Keep it honest — a fake alternative is just a no wearing a nicer coat, and people can tell.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p14"><h3>3. Buy Time</h3>
-"Let me check my schedule and get back to you" prevents impulsive yeses.</div>
+"Let me look at my week and come back to you" breaks the reflex yes. Most pressure to answer immediately is social, not real. Twenty-four hours lets you notice whether you actually want the thing, whether it collides with an existing commitment, and what you would say if nobody were watching you decide.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p15"><h3>4. Remember Your Priorities</h3>
-Before saying yes, ask: "Does this serve my top three priorities?" If not, the answer is no.</div>
+Before saying yes, ask: "If this were not already on my calendar, would I choose it today?" If the answer is no, the real cost of saying yes is the priority it quietly displaces. Write your top three down somewhere you will actually see them; a no becomes much easier when you can point at what you are protecting.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p16"><h2>The Discipline of No</h2></div>
 

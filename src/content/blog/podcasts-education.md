@@ -23,15 +23,15 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 332
+wordCount: 501
 faq:
   - q: "Can you really learn from podcasts?"
-    a: "Yes. Research from Stanford (2023) shows audio learning retention matches reading for narrative content. Podcasts excel for ideas, interviews, and frameworks. Best for: commutes, workouts, chores. Not ideal for: technical depth requiring visuals or note-taking."
+    a: "Yes, for narrative content. Deniz et al. (Neuron, 2019, UC Berkeley) mapped fMRI responses to the same stories delivered as audio or text and found highly aligned semantic brain activation. Retention can still favor text for dense, technical or reference material. Podcasts excel for ideas, interviews and frameworks; not for content requiring visuals or heavy note-taking."
   - q: "How many hours per week can I learn from podcasts?"
     a: "Most people reclaim 5-10 hours weekly by replacing music or scrolling during commutes, exercise, and chores. At 1 hour daily, that's 365 hours per year — equivalent to reading 25 books at 1.5x speed."
 faqFr:
   - q: "Peut-on vraiment apprendre avec des podcasts ?"
-    a: "Oui. La recherche de Stanford (2023) montre que la rétention audio égale celle de la lecture pour le contenu narratif. Les podcasts excellent pour les idées, interviews et frameworks."
+    a: "Oui, pour le contenu narratif. Deniz et al. (Neuron, 2019, UC Berkeley) ont cartographié les réponses IRMf des mêmes histoires en audio ou en texte et ont trouvé une activation sémantique très alignée. La rétention peut rester en faveur du texte pour le contenu dense ou technique. Les podcasts excellent pour les idées, interviews et frameworks."
   - q: "Combien d'heures par semaine puis-je apprendre avec des podcasts ?"
     a: "La plupart des gens récupèrent 5 à 10 heures par semaine en remplaçant la musique ou le scroll pendant les trajets, l'exercice et les tâches ménagères. À 1 heure par jour, cela fait 365 heures par an."
 
@@ -50,16 +50,16 @@ relatedArticles:
 <div data-i18n-html="article_podcasts-education_p4"><h2>Why Podcasts Work</h2></div>
 
 <div data-i18n-html="article_podcasts-education_p5"><h3>1. They Use Dead Time</h3>
-Commuting, waiting, exercising — these are hours you cannot use for anything else. Podcasts <a href="/journal/lire-divertissement/">turn them into learning time</a>.</div>
+Commuting, waiting in line, folding laundry, washing dishes, an easy gym session — these are hours your hands are busy but your language network is not. Podcasts <a href="/journal/lire-divertissement/">turn that slot into learning time</a>. Do not force it where the physical task still needs thinking; the win is only real on low-cognitive activity.</div>
 
-<div data-i18n-html="article_podcasts-education_p6"><h3>2. They Are Free</h3>
-Thousands of high-quality podcasts are available for free on Spotify, Apple Podcasts, and YouTube. Cost is not an excuse.</div>
+<div data-i18n-html="article_podcasts-education_p6"><h3>2. They Are Free, With a Hidden Cost</h3>
+Thousands of high-quality shows on Spotify, Apple Podcasts and YouTube cost nothing to start. The real price is not money, it is what you stop doing: silence, a phone call, music you actually hear, or the boring walk where an idea finally arrives. Pick up the free tier on purpose, not by default.</div>
 
-<div data-i18n-html="article_podcasts-education_p7"><h3>3. They Are Portable</h3>
-Your phone is your classroom. You can learn anywhere, anytime.</div>
+<div data-i18n-html="article_podcasts-education_p7"><h3>3. They Are Portable in a Way Books Are Not</h3>
+A book needs your eyes. Audio does not. The genuine edge of podcasts over reading is that you can consume language while walking, cooking or driving — tasks that make reading impossible but leave the language network free. On your worst scheduled week, portability is what keeps learning happening at all.</div>
 
-<div data-i18n-html="article_podcasts-education_p8"><h3>4. They Cover Everything</h3>
-Personal development, business, science, history, health, finance — there is a podcast for every topic.</div>
+<div data-i18n-html="article_podcasts-education_p8"><h3>4. They Cover the Long Tail</h3>
+Whatever you are working through — a specific illness, a career pivot, a niche tool at work, a language, a legal situation — three or four shows already exist on it. That depth is real, but coverage is not quality. Vet a host the way you would vet a source: credentials, corrections, what they cite, who pushes back, what they refuse to sell you.</div>
 
 <div data-i18n-html="article_podcasts-education_p9"><h2>Recommended Podcasts for Growth</h2></div>
 

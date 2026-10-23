@@ -21,10 +21,10 @@ keywords:
   - "secure attachment habits"
 tags:
   - "relationships"
-wordCount: 314
+wordCount: 354
 faq:
   - q: "What are the 4 attachment styles?"
-    a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized (wants closeness but fears it simultaneously). 50-60% of people are secure; the rest show patterns formed in childhood caregiving."
+    a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized / fearful-avoidant (wants closeness but fears it simultaneously). In large community samples roughly half screen as secure; the rest show patterns formed in childhood caregiving."
   - q: "Can I change my attachment style?"
     a: "Yes, research calls this earned security. Therapy (especially attachment-focused), a consistently secure partner, self-awareness practices (noticing trigger patterns), and mindfulness can shift anxious or avoidant toward secure over 1-3 years. Neuroplasticity does not stop at 25."
   - q: "Why do anxious and avoidant attract each other?"
@@ -45,16 +45,16 @@ relatedArticles:
 <div data-i18n-html="article_styles-attachement_p4"><h2>The 4 Attachment Styles</h2></div>
 
 <div data-i18n-html="article_styles-attachement_p5"><h3>1. Secure</h3>
-You are comfortable with intimacy and independence. You trust easily, communicate openly, and <a href="/journal/secure-self/">do not fear abandonment</a>. About 56% of people have a secure attachment style.</div>
+You are comfortable with intimacy and independence. You trust easily, communicate openly, and <a href="/journal/secure-self/">do not fear abandonment</a>. In large community samples, roughly half of adults screen as secure — the exact share shifts with the survey instrument, but secure remains the modal style.</div>
 
 <div data-i18n-html="article_styles-attachement_p6"><h3>2. Anxious-Preoccupied</h3>
-You crave intimacy but fear abandonment. You need constant reassurance, worry about your partner's feelings, and become clingy under stress. About 20% of people have this style.</div>
+You crave intimacy but fear abandonment. You need constant reassurance, worry about your partner's feelings, and become clingy under stress. Anxious-preoccupied shows up in roughly 15-25% of adults depending on the sample.</div>
 
 <div data-i18n-html="article_styles-attachement_p7"><h3>3. Dismissive-Avoidant</h3>
-You value independence over intimacy. You suppress your feelings, pull away when things get close, and struggle with vulnerability. About 25% of people have this style.</div>
+You value independence over intimacy. You suppress your feelings, pull away when things get close, and struggle with vulnerability. Dismissive-avoidant is measured at around 20-25% in most Western samples.</div>
 
 <div data-i18n-html="article_styles-attachement_p8"><h3>4. Fearful-Avoidant</h3>
-You want intimacy but fear it. You push people away when they get close, then pull them back when they leave. This is the most chaotic attachment style. About 1% of people have this style.</div>
+You want intimacy but fear it. You push people away when they get close, then pull them back when they leave. This is the least common of the four and the one most associated with unresolved trauma or inconsistent early caregiving.</div>
 
 <div data-i18n-html="article_styles-attachement_p9"><h2>Can You Change Your Attachment Style?</h2></div>
 
@@ -68,6 +68,6 @@ You want intimacy but fear it. You push people away when they get close, then pu
 4. Build trust through consistency — show up reliably
 5. Seek therapy if needed — a professional can help you rewrite your patterns</div>
 
-<div data-i18n-html="article_styles-attachement_p13"><blockquote><em>We are not trapped by our past. We are shaped by our choices. — Stan Tatkin</em></blockquote></div>
+<div data-i18n-html="article_styles-attachement_p13"><blockquote><em>Nothing about where you come from has to decide where you go. What decides it is what you choose today, and what you keep choosing.</em></blockquote></div>
 
 <div data-i18n-html="article_styles-attachement_p15"><strong>Understand your attachment style.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> helps you build the consistency that creates secure attachment. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>
