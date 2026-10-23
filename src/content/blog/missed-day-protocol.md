@@ -1,7 +1,7 @@
 ---
 title: "What to Do When You Miss a Day (Without Quitting Everything)"
-seoTitle: "What to Do When You Miss a Day"
-description: "Missing a day is not the end of a habit — it's the test of the system. The exact protocol for the day after a miss, and three rules that prevent relapse."
+seoTitle: "Missed a Day? The 2-Minute Habit Recovery Protocol"
+description: "Missed a habit day? Do the 2-minute version now — never miss twice. The exact day-after protocol and 3 rules to stop one miss becoming a relapse."
 titleFr: "Que faire quand tu manques un jour (sans tout abandonner)"
 seoTitleFr: "Jour manqué : le protocole pour ne pas tout lâcher"
 descriptionFr: "Manquer un jour n'est pas la fin d'une habitude — c'est le test du système. Le protocole du lendemain et les trois règles contre la rechute."
