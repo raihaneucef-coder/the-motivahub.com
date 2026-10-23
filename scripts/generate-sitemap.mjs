@@ -155,13 +155,17 @@ async function main() {
   for (const slug of blogFiles) {
     const frSlug = frSlugs[slug];
     if (frSlug) {
+      // A noindex English route must never be advertised as an hreflang
+      // alternate or x-default. Its French twin stays indexable and in the
+      // sitemap, but only with a valid hreflang="fr" reference.
+      const enNoindex = await isNoindex(slug);
       const lastmod = await getPostLastmod(slug);
       urls.push({
         loc: `${SITE}/fr/journal/${frSlug}/`,
         lastmod,
         changefreq: "monthly",
         priority: PRIORITY.article,
-        en: `${SITE}/journal/${slug}/`,
+        en: enNoindex ? null : `${SITE}/journal/${slug}/`,
         fr: `${SITE}/fr/journal/${frSlug}/`,
       });
     }
@@ -209,9 +213,7 @@ ${urls.map((u) => `  <url>
     <loc>${u.loc}</loc>${u.lastmod ? `\n    <lastmod>${u.lastmod}</lastmod>` : ""}
     <changefreq>${u.changefreq}</changefreq>
     <priority>${u.priority.toFixed(1)}</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="${u.en}" />
-    <xhtml:link rel="alternate" hreflang="fr" href="${u.fr}" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="${u.en}" />
+    ${u.en ? `<xhtml:link rel="alternate" hreflang="en" href="${u.en}" />\n    ` : ""}<xhtml:link rel="alternate" hreflang="fr" href="${u.fr}" />${u.en ? `\n    <xhtml:link rel="alternate" hreflang="x-default" href="${u.en}" />` : ""}
   </url>`).join("\n")}
 </urlset>`;
 
