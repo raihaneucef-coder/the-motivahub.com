@@ -22,7 +22,7 @@ keywords:
 tags:
   - "habits"
   - "guide"
-wordCount: 1586
+wordCount: 1755
 bookSlug: atomic-habits
 faq:
   - q: "What are the four laws of Atomic Habits?"
@@ -145,24 +145,24 @@ faqFr:
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p47">The fix is regular calibration. Every 90 days, ask: Is this habit still serving me? Do I need to adjust the system? Has the identity evolved?</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p48"><h2>What I Got Wrong (And How I Fixed It)</h2></div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p48"><h2>Where the Four Laws Fall Short</h2></div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p49">I made three big mistakes in applying Atomic Habits:</div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p49">The four laws are powerful, but they are not universal. Three limitations surface repeatedly, and each has a practical countermeasure.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p50"><strong>Mistake 1: Treating the 2-minute rule as a ceiling</strong>
-I thought "write one sentence" was the goal. It is not. It is the doorway. The hallway is where the work happens. The fix: keep the doorway small forever and let the hallway grow.</div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p50"><strong>Limitation 1: They assume you control your environment</strong>
+Cue and reward engineering works best when you own the space. It weakens in open offices, shift work, or a household you do not run. The countermeasure is not a trigger bolted to the room but one you can carry: a two-item ritual, a pocket notebook, a single default action that survives any change of place.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p51"><strong>Mistake 2: Treating misses as failures</strong>
-One miss is data. Two misses is a pattern. I used to beat myself up for missing a day. Now I apply the 2-day rule: never miss twice. The next day, I do the vote and move on.</div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p51"><strong>Limitation 2: They under-weight meaning</strong>
+A habit built only on a satisfying loop can hold for weeks and then collapse once the novelty fades, because the loop was never connected to something you cared about. The countermeasure is to pair each law with a reason you can say out loud; identity supplies the persistence that dopamine alone cannot.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p52"><strong>Mistake 3: Static identity statements</strong>
-"I am a writer" stopped being motivating after 6 months. It became a fact, not a vote. The fix: evolve the statement. "I am a writer who publishes" made the vote meaningful again.</div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p52"><strong>Limitation 3: They optimise the start, not the shock</strong>
+Stacking and fine-tuning can produce a brittle schedule where one broken link derails the whole day. The framework explains how to begin, not how to absorb disruption. The countermeasure is deliberate slack: keep buffers, choose at least two habits you can finish in under a minute on the worst day, and treat the two-minute version as an emergency lane rather than the standard.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p53"><h2>The Verdict</h2></div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p53"><h2>Common Objections, Answered</h2></div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p54">Atomic Habits earns its reputation the way its subject would demand: quietly, consistently, over years. It will not excite you tonight — it will equip you for the next thousand mornings.</div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p54">The most common criticism is that Atomic Habits repackages behaviourism without addressing circumstance — money, health, caregiving, unstable work. That is fair as far as it goes: the four laws describe the mechanics of a single actor with some discretionary control. They are a tool for the part of the problem that is yours to move, not a theory of why some systems are blocked by conditions outside the book’s scope.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p55">Read it slowly. Apply one lesson per week. Vote daily.</div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p55">A second objection — that these ideas appear elsewhere and are cheap to find — is also partly true. The value is not secrecy; it is sequence and usability. If you already know the material, the honest test is not whether the book surprises you but whether your results over ninety days improve because you applied one law at a time.</div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p56">---</div>
 
