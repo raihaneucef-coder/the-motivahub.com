@@ -7,7 +7,8 @@ import { getCollection } from "astro:content";
 import { topics as allTopics } from "../../data/topics";
 
 const posts = (await getCollection("blog"))
-  .filter((p) => !p.data.draft)
+  // Exclude drafts and deprecated EN routes (noindex:true) from the listing, pagination and ItemList JSON-LD.
+  .filter((p) => !p.data.draft && !p.data.noindex)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const featured = posts[0];

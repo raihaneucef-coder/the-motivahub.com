@@ -27,10 +27,13 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const coverDims = await getImageDimensions(post.data.image);
 const { Content, headings } = await render(post);
-const all = (await getCollection("blog")).filter((p) => !p.data.draft).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+// Deprecated English routes (frontmatter noindex:true) are excluded from EN related
+// cards and prev/next navigation, so no EN page can link to a page we've told Google to drop.
+const all = (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const idx = all.findIndex((p) => p.id === post.id);
-const prev = all[idx + 1];
-const next = all[idx - 1];
+// idx === -1 on the two deprecated noindex posts (excluded from `all`): suppress prev/next so they show no misleading navigation.
+const prev = idx === -1 ? undefined : all[idx + 1];
+const next = idx === -1 ? undefined : all[idx - 1];
 
 function scoreRelated(p: any): number {
   if (p.id === post.id) return -1;
