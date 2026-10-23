@@ -23,7 +23,7 @@ keywords:
   - "productivity attention"
 tags:
   - "productivity"
-wordCount: 1795
+wordCount: 1786
 faq:
   - q: "Why is attention the most valuable asset?"
     a: "Because it is finite and cannot be manufactured. Money can be printed. Time can be saved. Attention cannot. Every waking hour, your attention is harvested by apps, notifications, and ads. Protecting it is the single most important productivity skill."
@@ -156,17 +156,17 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p47">The first week was quiet. Too quiet. I felt like I was missing something. By week 2, I had forgotten what the notifications felt like. By week 3, I had reclaimed 1.5 hours per day.</div>
 
-<div data-i18n-html="article_attention-as-asset_p48"><h2>The Relationship Between Attention and Identity</h2></div>
+<div data-i18n-html="article_attention-as-asset_p48"><h2>Why Is Attention Worth More Than Time?</h2></div>
 
-<div data-i18n-html="article_attention-as-asset_p49">The deepest part of the system is the identity statement. Without it, the rule is a behavior with no destination. With it, the rule is a vote in an election.</div>
+<div data-i18n-html="article_attention-as-asset_p49">Because time passes whether or not you spend it well, while attention is the only resource that actually converts into results. Where your attention lands is what your life is quietly built from.</div>
 
-<div data-i18n-html="article_attention-as-asset_p50">"I am a writer who publishes" is the destination. The 2-minute rule of writing one sentence is the vote. The 2-day rule is the protection of the vote. The attention budget is the consequence of the vote being true.</div>
+<div data-i18n-html="article_attention-as-asset_p50">Identity enters here. You are, functionally, the sum of what you repeatedly pay attention to. Someone who says "I am a writer" but spends the morning in a stranger's comment section is casting a vote for a different self.</div>
 
-<div data-i18n-html="article_attention-as-asset_p51">When the system is working, the identity statement becomes more true over time. The statement is no longer aspirational. It is descriptive. You are a writer who publishes. You are a runner who races. You are a reader who finishes books. The votes have made it so.</div>
+<div data-i18n-html="article_attention-as-asset_p51">Guarding attention is therefore maintenance, not stinginess for its own sake. The buzzing phone does not cost you minutes; it costs you the continuity that lets a single intention survive long enough to harden into a habit.</div>
 
-<div data-i18n-html="article_attention-as-asset_p52">When the system is not working, the identity statement remains aspirational. You say "I am a writer who publishes" but you have not published in three months. The statement is a wish, not a fact. The votes have not been cast.</div>
+<div data-i18n-html="article_attention-as-asset_p52">Two moves do most of the work: keep one protected block in the day where nothing is allowed to interrupt you, and decide in advance what deserves your focus before the day decides for you.</div>
 
-<div data-i18n-html="article_attention-as-asset_p53">Attention is what makes the votes possible. Without attention, the votes are scattered. With attention, the votes accumulate.</div>
+<div data-i18n-html="article_attention-as-asset_p53">Do that and attention stops leaking. It accumulates, and what it accumulates into is exactly the identity you claimed out loud.</div>
 
 <div data-i18n-html="article_attention-as-asset_p54"><h2>What I Got Wrong (And How I Fixed It)</h2></div>
 

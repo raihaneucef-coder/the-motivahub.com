@@ -24,7 +24,7 @@ keywords:
   - "love and boundaries"
 tags:
   - "relationships"
-wordCount: 1635
+wordCount: 1634
 faq:
   - q: "Why are boundaries a form of love?"
     a: "Boundaries are love in action because they protect relationships from resentment. When you say no clearly and kindly, you prevent the slow accumulation of unspoken frustration that eventually poisons closeness."
@@ -145,17 +145,17 @@ I used to set boundaries after I had already resented. The boundary was actually
 <div data-i18n-html="article_boundaries-are-love_p44"><strong>Mistake 3: Abandoning boundaries under pressure</strong>
 I used to say yes when people pushed back. The fix: hold the boundary. The people who love you will respect it. The people who do not are the people you need to distance yourself from.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p45"><h2>The Relationship Between Boundaries and Identity</h2></div>
+<div data-i18n-html="article_boundaries-are-love_p45"><h2>Do Boundaries Weaken Relationships or Protect Them?</h2></div>
 
-<div data-i18n-html="article_boundaries-are-love_p46">The deepest part of the system is the identity statement. Without it, the boundary is a rule with no meaning. With it, the boundary is a vote in an election.</div>
+<div data-i18n-html="article_boundaries-are-love_p46">They protect them. A relationship with no edges is not intimate, it is enmeshed, and enmeshment quietly breeds resentment, which is the real threat to closeness.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p47">"I am a writer who publishes" is the destination. The boundary "I do not work on Saturdays" is the vote. The 2-day rule is the protection of the vote. The boundary is the consequence of the vote being true.</div>
+<div data-i18n-html="article_boundaries-are-love_p47">Boundaries and identity are one move seen from two sides. Saying "I stop working after seven" is not merely a rule; it is a statement about the kind of person you are choosing to be, and every boundary you keep is evidence for that choice.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p48">When the system is working, the identity statement becomes more true over time. The statement is no longer aspirational. It is descriptive. You are a writer who publishes. You are a runner who races. You are a partner who shows up. The votes have made it so.</div>
+<div data-i18n-html="article_boundaries-are-love_p48">When your edges are steady, people relax. They know where you stand, what to expect, and that a no from you is information rather than rejection. Predictability is a form of safety, and safety is the ground where trust grows.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p49">When the system is not working, the identity statement remains aspirational. You say "I am a writer who publishes" but you have not published in three months. The statement is a wish, not a fact. The votes have not been cast.</div>
+<div data-i18n-html="article_boundaries-are-love_p49">The fear behind weak boundaries is usually "they will leave." The paradox is that the opposite happens: people drift from those who will not show up as themselves and stay closer to those who do.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p50">Boundaries are what make the votes possible. Without boundaries, the votes are scattered. With boundaries, the votes accumulate.</div>
+<div data-i18n-html="article_boundaries-are-love_p50">So set the limit early, say it warmly once, and hold it without apology. The boundary protects the relationship precisely because it protects the person inside it.</div>
 
 <div data-i18n-html="article_boundaries-are-love_p51"><h2>What Comes After 30 Days</h2></div>
 

@@ -24,7 +24,7 @@ keywords:
 tags:
   - "habits"
   - "how-to"
-wordCount: 1661
+wordCount: 1683
 faq:
   - q: "What are the reverse four laws of habit change?"
     a: "The reverse four laws are: (1) Make it invisible — remove the trigger, (2) Make it unattractive — reframe the narrative, (3) Make it difficult — increase friction, (4) Make it unsatisfying — add a negative consequence. These are the inverse of the four laws for building good habits."
@@ -154,17 +154,17 @@ I was scrolling because I was bored. When I removed scrolling, the boredom was s
 <div data-i18n-html="article_casser-mauvaise-habitude_p42"><strong>Mistake 3: Not making it unsatisfying</strong>
 I tried to stop scrolling without any negative consequence. There was no cost. The habit came back. The fix: public accountability. My wife called me out once. That was enough.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p43"><h2>The Relationship Between Breaking Habits and Identity</h2></div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p43"><h2>Why Do Most Attempts to Break a Habit Fail?</h2></div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p44">The deepest part of the system is the identity statement. Without it, breaking a habit is a battle. With it, breaking a habit is a natural consequence.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p44">Because they attack the behavior while leaving the payoff intact. If a bad habit is still paying you something, relief, stimulation or escape, then willpower alone is just an expensive tax you eventually stop paying.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p45">"I am a person who reads" is the destination. The reverse four laws are the votes. The 2-day rule is the protection of the vote. The identity statement is what makes the vote meaningful.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p45">The reliable path inverts the build: make the cue invisible, the craving unattractive, the response difficult, the reward unsatisfying. You rarely destroy a habit; you starve it of the conditions that kept feeding it.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p46">When the system is working, the identity statement becomes more true over time. The statement is no longer aspirational. It is descriptive. You are a person who reads. You are a person who writes. You are a person who does not scroll. The votes have made it so.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p46">Identity is the multiplier here. "I am trying to quit" keeps you in negotiation with the craving. "I am not the kind of person who does that" closes the argument before it starts, and that second sentence is not self-deception but a decision you stop reopening.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p47">When the system is not working, the identity statement remains aspirational. You say "I am a person who reads" but you have not read a book in three months. The statement is a wish, not a fact. The votes have not been cast.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p47">Expect the first week to feel worse, not better. The habit was managing a feeling, and pulling it exposes that feeling raw. Plan a replacement, a walk, a glass of water, ten slow breaths, so the gap is not left empty.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p48">Breaking a bad habit is what makes the votes possible. Without breaking the habit, the votes are scattered. With breaking the habit, the votes accumulate.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p48">Then make relapse cheap and recovery fast. A single slip is data, not identity. The people who break habits for good are not the ones who never falter; they are the ones who refuse to turn one miss into a surrender.</div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p49"><h2>A Simple Test for Your Week</h2></div>
 

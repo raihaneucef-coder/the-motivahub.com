@@ -23,7 +23,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 1993
+wordCount: 1976
 faq:
   - q: "What is self-sabotage?"
     a: "Self-sabotage is when you unconsciously undermine your own goals, progress, or happiness. It shows up as procrastination, perfectionism, self-doubt, or choosing comfort over growth — even when you know better."
@@ -176,19 +176,19 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-auto-sabotage_p56"><strong>Day you're too busy:</strong> If you can't find 5 minutes to notice your patterns, you need them most. Take 2 minutes. That is enough.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p57"><h2>The Relationship Between Sabotage and Identity</h2></div>
+<div data-i18n-html="article_arreter-auto-sabotage_p57"><h2>Why Does Self-Sabotage Happen Even When You Know Better?</h2></div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p58">The deepest part of the system is the identity statement. Without it, the rule is a behavior with no destination. With it, the rule is a vote in an election.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p58">Because part of you is trying to protect you. Self-sabotage is not laziness; it is a defense that misfires the moment your actions and your picture of yourself point in opposite directions.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p59">"I am a writer who publishes" is the destination. The 2-minute rule of writing one sentence is the vote. The 2-day rule is the protection of the vote. The hallway is the consequence of the vote. The identity statement is what makes the vote meaningful.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p59">When you act against how you see yourself, the mind pulls the brakes. You postpone, you "research" instead of shipping, you tidy the kitchen instead of the hard task. That friction is not the enemy. It is a signal that two internal stories disagree.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p60">When the system is working, the identity statement becomes more true over time. The statement is no longer aspirational. It is descriptive. You are a writer who publishes. You are a runner who races. You are a reader who finishes books. The votes have made it so.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p60">The way out is not louder willpower but a smaller, truer vote. Every time you write one honest sentence you add evidence to the story "I am someone who does the work," and the defense loosens because the action no longer threatens the identity.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p61">When the system is not working, the identity statement remains aspirational. You say "I am a writer who publishes" but you have not published in three months. The statement is a wish, not a fact. The votes have not been cast.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p61">Name the loop instead of fighting it. Label the feeling ("this is fear, not fatigue"), shrink the next step until it is almost boring, and take it within two minutes of naming it.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p62">Self-sabotage is what happens when the identity statement and the behavior are in conflict. The behavior says "I am not ready." The identity says "I am a writer who publishes." The sabotage is the brain trying to resolve the conflict by making the behavior match the identity.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p62">Recovery matters more than perfection. You will sabotage again. The people who break the pattern are not the ones who never stall; they are the ones who shorten the gap between stalling and starting again.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p63">The fix is to make the identity and the behavior align. You do this by voting. One sentence at a time.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p63">So the practice is alignment, not warfare: bring the behavior and the self-image back into agreement, one small, checkable vote at a time.</div>
 
 <div data-i18n-html="article_arreter-auto-sabotage_p64"><h2>A Simple Test for Your Week</h2></div>
 
