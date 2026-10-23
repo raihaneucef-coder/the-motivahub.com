@@ -22,7 +22,7 @@ keywords:
   - "quantified self improvement"
 tags:
   - "goals"
-wordCount: 218
+wordCount: 299
 faq:
   - q: "Why does making goals measurable increase achievement?"
     a: "Vague goals ('get fit') activate no specific behavior. Measurable goals ('do 30 pushups daily') create a binary tracking system: you either did it or didn't. The clarity eliminates negotiation, and the data shows you whether you're actually progressing or just feeling busy."
@@ -56,5 +56,8 @@ relatedArticles:
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p9">- <strong><a href="/journal/pouvoir-ecrire-objectifs/">Write the number</a>.</strong> What is done by Friday, by count?
 - <strong>Write the why in one sentence, in your words.</strong> No borrowed language.
 - <strong>Put both where you will see them at night.</strong> The measure tells you if you moved. The why tells you why it mattered.</div>
+
+<div data-i18n-html="article_make-it-measurable-make-it-mine_p12">Psychologists call this the goal-gradient effect: the closer you can see yourself to a concrete finish line, the more effort you invest per step. Vague goals have no finish line to approach, so motivation stays flat.</div>
+<div data-i18n-html="article_make-it-measurable-make-it-mine_p13">Make it yours by connecting the number to a feeling you already care about. Not a number for a spreadsheet — a number that, when hit, changes what your Tuesday evening looks like. Proximity to lived experience is what turns a metric into a motive.</div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p10">Clarity is not pressure. It is permission to know, each night, whether today was north — and to correct, kindly, tomorrow.</div>

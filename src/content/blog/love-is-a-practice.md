@@ -22,7 +22,7 @@ keywords:
   - "love as a verb discipline"
 tags:
   - "relationships"
-wordCount: 282
+wordCount: 377
 faq:
   - q: "Is love a feeling or a choice?"
     a: "Both — but the sustainable part is choice. The feeling (limerence) lasts 12-24 months (chemical: dopamine + oxytocin surge). After that, love becomes a daily practice: showing up, choosing their wellbeing alongside yours, staying when the initial high fades. The couples who thrive treat love as a verb, not a mood."
@@ -54,5 +54,9 @@ relatedArticles:
 - <strong>Repair quickly.</strong> When you are sharp or distant, name it within the hour. "I was short earlier — you deserved better."</div>
 
 <div data-i18n-html="article_love-is-a-practice_p8">Notice what happens after a week. You do not feel magically closer every hour. But you have seven pieces of evidence that you are a person who loves well even when you do not feel like it. That identity — built from kept promises — is what holds a relationship when feelings wobble, as they always do.</div>
+
+<div data-i18n-html="article_love-is-a-practice_p10">The distinction matters because feelings are involuntary but practices are chosen. You cannot schedule a spark. You can schedule a Tuesday-evening conversation with no phones, a coffee brought to the bedside, real curiosity about the meeting that drained your partner's day. Love is a noun made entirely of verbs.</div>
+
+<div data-i18n-html="article_love-is-a-practice_p11">Research on perceived partner responsiveness — the sense that the other person notices, understands, and cares for you — predicts relationship quality more strongly than shared hobbies, message frequency, or grand gestures. Responsiveness is a micro-behavior: asking one follow-up question and actually waiting for the answer.</div>
 
 <div data-i18n-html="article_love-is-a-practice_p9">Love does not ask you to feel more. It asks you to practice more. The feeling, faithful as ever, follows the practice home.</div>

@@ -22,7 +22,7 @@ keywords:
   - "water intake and energy levels"
 tags:
   - "nutrition"
-wordCount: 309
+wordCount: 390
 faq:
   - q: "Does dehydration affect willpower and focus?"
     a: "Yes. Even 1-2% dehydration impairs attention, working memory, and mood (University of Connecticut studies). You wake up dehydrated after 7-8 hours without water — drinking 500ml before coffee restores cognitive function and prevents the mid-morning brain fog most people blame on 'laziness.'"
@@ -46,6 +46,8 @@ relatedArticles:
 <div data-i18n-html="article_water-before-willpower_p4">Headache in the afternoon, hunger an hour after lunch, foggy thinking at 3 PM — before you fix any of these with discipline, fix them with water.</div>
 
 <div data-i18n-html="article_water-before-willpower_p5"><strong>Your <a href="/journal/hydratation-performance/">brain is mostly water</a>. When you are a little dry, it works a little worse.</strong> Not dramatically, just enough to make everything feel harder than it is.</div>
+
+<div data-i18n-html="article_water-before-willpower_p12">Hydration is a habit you can borrow. A 2019 analysis in the Journal of Human Nutrition and Dietetics found higher water intake clustered with better overall diet quality — not because water is magic, but because it rides along with structured routines. So attach it to a cue you already never miss: a glass the instant the kettle boils, a bottle emptied before you refill your coffee. Do not aim to remember water; aim to inherit it from an existing habit.</div>
 
 <div data-i18n-html="article_water-before-willpower_p10">"A little dry" has a number attached to it. Losing just 1–2% of your body water measurably impairs attention, concentration and mood — a conclusion drawn from experimental studies in adults (Ganio et al., 2011, <em>British Journal of Nutrition</em>; summarized in <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207053/" target="_blank" rel="noopener">this review of the hydration-and-cognition research</a>). That is the size of one long sweat, and it lands squarely on the tasks willpower needs.</div>
 

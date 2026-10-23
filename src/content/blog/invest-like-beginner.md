@@ -23,7 +23,7 @@ keywords:
   - "first steps to financial freedom"
 tags:
   - "finance"
-wordCount: 325
+wordCount: 392
 faq:
   - q: "How do beginners start investing?"
     a: "Open a brokerage or tax-advantaged account (ISA, 401k, PEA), set up an automatic monthly transfer (even 50€), and buy a broad-market index fund (S&P 500 or MSCI World). Avoid picking individual stocks until you have at least 6 months of consistent contributions."
@@ -47,6 +47,8 @@ relatedArticles:
 <div data-i18n-html="article_invest-like-beginner_p4">Most people <a href="/journal/investir-debutant/">delay investing</a> because they believe they need to understand everything first. Experts, charts, perfect timing. Meanwhile, time — the most powerful asset — keeps moving.</div>
 
 <div data-i18n-html="article_invest-like-beginner_p5"><strong>Investing is not about predicting the future; it is about <a href="/journal/earn-keep-grow/">owning a piece of it</a>.</strong> When you buy a broad index, you become a tiny owner of hundreds of businesses. Some will stumble, most will keep solving problems and growing. Your job is not to guess which one, but to stay.</div>
+
+<div data-i18n-html="article_invest-like-beginner_p11">The 'time in beats timing' claim is the best-evidenced idea in personal investing. Analyses of long market histories repeatedly find that missing even the handful of best days costs far more than sitting out the worst ones — and those best days cluster unpredictably, often right inside periods of fear. You cannot catch them by waiting to feel ready; you catch them only by already being invested.</div>
 
 <div data-i18n-html="article_invest-like-beginner_p6">Start with what you understand and can keep:</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "self concept determines results"
 tags:
   - "mindset"
-wordCount: 323
+wordCount: 400
 faq:
   - q: "What does 'you fall to your identity' mean?"
     a: "Popularized by James Clear: 'You do not rise to the level of your goals. You fall to the level of your systems.' More precisely, behavior follows identity. If you see yourself as 'a runner', you run without debating it. If you see yourself as 'someone trying to exercise', you quit when motivation fades."
@@ -51,6 +51,8 @@ relatedArticles:
 <div data-i18n-html="article_viral-mindset-shift_p5">The core idea is simple and brutal: you cannot behave consistently in a way that contradicts <a href="/journal/puissance-dialogue-interieur/">who you believe you are</a>. The smoker who says "I am trying to quit" will return. The one who says "I am not a smoker" has already quit.</div>
 
 <div data-i18n-html="article_viral-mindset-shift_p6">Business, sport, habits — all of them follow the same rule. The person who says "I am trying to be disciplined" is negotiating. The person who says "I am disciplined" has finished negotiating.</div>
+
+<div data-i18n-html="article_viral-mindset-shift_p15">This is not just a motivational slogan — it has an experiment behind it. Psychologists Christopher Bryan et al. (2011) found that framing a behavior as an identity ('being a helper') rather than an action ('to help') measurably changed how people acted. Nouns beat verbs because identity claims feel like statements about the self, and humans work hard to behave consistently with who they believe they are. Say 'I am a runner,' not 'I want to run.'</div>
 
 <div data-i18n-html="article_viral-mindset-shift_p7"><h2>The Clip Is the Tip</h2></div>
 

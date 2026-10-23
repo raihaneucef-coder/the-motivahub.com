@@ -24,7 +24,7 @@ keywords:
   - "growth before breakdown"
 tags:
   - "personal growth"
-wordCount: 290
+wordCount: 364
 faq:
   - q: "Why does personal growth feel like breaking?"
     a: "Because growth requires dismantling your old identity before building a new one. There's a gap between who you were and who you're becoming — and in that gap, nothing feels stable. Psychologists call this 'liminal space.' It's not a sign of failure; it's the architecture of transformation."
@@ -61,6 +61,8 @@ relatedArticles:
 - <strong>You feel uncertain.</strong> That is not lost. That is the space where the new you is forming.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p9">Do not rush to feel comfortable again. Stay in the break. Breathe there.</div>
+
+<div data-i18n-html="article_growth-feels-like-breaking_p13">Developmental psychology names this the liminal phase — the stretch between the identity you are leaving and the one you are moving toward. In it you have the awareness of the old self but none of the evidence of the new one, so the brain files the discomfort under 'something is wrong' when what is actually happening is 'something is dissolving to make room.' Knowing the name turns a panic signal into a milestone.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p10">Ask: what is trying to be born in me that needs this discomfort to arrive?</div>
 

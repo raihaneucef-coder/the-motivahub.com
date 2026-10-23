@@ -23,7 +23,7 @@ keywords:
 tags:
   - "productivity"
   - "how-to"
-wordCount: 383
+wordCount: 470
 faq:
   - q: "What is time blocking?"
     a: "Time blocking is scheduling your day into dedicated blocks, each assigned to one task or category of work. Instead of a to-do list, every task gets a specific time slot on your calendar. Popularized by Cal Newport (Deep Work) and used by executives like Elon Musk and Bill Gates."
@@ -72,6 +72,8 @@ When a task is scheduled, you know exactly when it should be done. No more "I wi
 
 <div data-i18n-html="article_time-blocking-journee_p13"><h3>4. It Reveals the Truth</h3>
 Time blocking shows you how much time you actually have. Most people overestimate their available time by 40%.</div>
+
+<div data-i18n-html="article_time-blocking-journee_p20">The research that justifies the wall between blocks: organizational psychologist Sophie Leroy identified what she called attention residue — when you switch from task A to task B, part of your focus stays stuck thinking about A, and it measurably hurts performance on B, especially if A ended unfinished. Back-to-to-back context switching floods you with residue. A dedicated block that ends cleanly, with a written note of where you left off, drains the residue before the next block begins. That is the real reason the buffer matters.</div>
 
 <div data-i18n-html="article_time-blocking-journee_p14"><h2>Tips for Success</h2></div>
 

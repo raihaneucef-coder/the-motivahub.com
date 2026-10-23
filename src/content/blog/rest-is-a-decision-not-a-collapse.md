@@ -24,7 +24,7 @@ keywords:
   - "rest and productivity science"
 tags:
   - "wellness"
-wordCount: 412
+wordCount: 502
 faq:
   - q: "What's the difference between rest and collapse?"
     a: "Rest is a decision — you stop before you're broken, recover deliberately, and return refreshed. Collapse is what happens when you ignored rest signals for weeks: you crash, feel guilty, and recover poorly. The difference is agency: one is strategic, the other is forced."
@@ -59,6 +59,8 @@ relatedArticles:
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p6">Athletes understand this earlier than most: the muscle does not grow during the lift, it grows during the recovery that follows it. Train without ever recovering and the result is not more progress — it is a body that stops adapting and starts breaking down. The same law applies to a mind under sustained cognitive load, even though there is no visible tear to point to.</div>
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p7">Treating rest as the enemy of ambition is a common mistake, and an expensive one. The people who sustain output over years, not months, tend to be the ones who scheduled their recovery with the same seriousness they scheduled their effort — not as a reward for good behaviour, but as one of the working parts of the system.</div>
+
+<div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p11">Your biology already runs on a rest schedule. Sleep researcher Nathaniel Kleitman identified the basic rest-activity cycle — roughly ninety minutes of rising and falling alertness that continues through the waking day, the same rhythm that structures sleep phases. Work that ignores it borrows against a debt that comes due as crash-rest. Decision-rest works with the cycle: protect a genuine break at the natural trough instead of pushing to the collapse that follows it. You are not scheduling laziness; you are paying on the terms your nervous system already set.</div>
 
 <div data-i18n-html="article_rest-is-a-decision-not-a-collapse_p8"><h2>What Deliberate Rest Looks Like</h2></div>
 

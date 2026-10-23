@@ -22,7 +22,7 @@ keywords:
   - "media that inspires growth"
 tags:
   - "entertainment"
-wordCount: 332
+wordCount: 401
 faq:
   - q: "Can a movie actually change your life?"
     a: "Yes: narrative transportation research (Green and Brock, 2000) shows stories can shift beliefs more effectively than arguments. When you emotionally identify with a character facing a dilemma parallel to yours, the resolution provides a behavioral template your brain accepts as experienced rather than instructed."
@@ -48,6 +48,8 @@ relatedArticles:
 <div data-i18n-html="article_the-movie-that-changed-your-week_p5"><strong><a href="/journal/play-on-purpose/">Entertainment that profits you</a> is not about escaping life — it is about returning to it with more.</strong></div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p6">The film that changes your week is rarely the loudest one. It is the one that asks a question you have been avoiding.</div>
+
+<div data-i18n-html="article_the-movie-that-changed-your-week_p13">Psychologist Jonathan Haidt named the feeling the best films trigger: elevation — the warmth you get watching someone choose courage or kindness at a cost. His research found that witnessing moral beauty reliably makes people want to do something good themselves, sometimes within minutes. That is the mechanism behind 'a film that gives you a week': it is not escapism, it is a jolt of motivation you can spend.</div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p11">Psychologists even have a name for what happens when a film gets under your skin: <em>narrative transportation</em> — full absorption into a story, which shifts beliefs and emotions in ways plain argument rarely manages (Green & Brock, 2000, <em>Journal of Personality and Social Psychology</em>; <a href="https://en.wikipedia.org/wiki/Transportation_theory_(psychology)" target="_blank" rel="noopener">overview of the theory</a>). The films that change your week are the ones that transport you, not the ones that merely entertain you.</div>
 

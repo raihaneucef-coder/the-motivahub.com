@@ -26,7 +26,7 @@ tags:
   - "success"
   - "discipline"
   - "habits"
-wordCount: 345
+wordCount: 417
 faq:
   - q: "Why is discipline more reliable than motivation?"
     a: "Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. Motivation disappears when you are tired, stressed, or discouraged. Discipline shows up regardless. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."
@@ -77,6 +77,8 @@ Every time you act with discipline, you prove to yourself that you are the type 
 
 <div data-i18n-html="article_discipline-depass-motivation_p12"><h3>4. <a href="/journal/regle-1-pourcent/">It Compounds</a></h3>
 One day of discipline does not change your life. But 365 days of discipline creates a person you do not recognize.</div>
+
+<div data-i18n-html="article_discipline-depass-motivation_p18">Here is the tool discipline actually runs on. Psychologist Peter Gollwitzer's studies on implementation intentions show that people who pre-commit a specific if-then plan — 'if it is 7am, then I put on my shoes' — follow through far more often than people who simply intend to be disciplined. Willpower is deciding in the moment; discipline is deciding in advance. Build the if-then once, and the hard part stops requiring a decision.</div>
 
 <div data-i18n-html="article_discipline-depass-motivation_p13"><h2>How to Build Discipline</h2></div>
 

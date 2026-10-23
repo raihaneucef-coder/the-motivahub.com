@@ -23,7 +23,7 @@ keywords:
   - "increase savings rate not income"
 tags:
   - "finance"
-wordCount: 270
+wordCount: 328
 faq:
   - q: "Why don't raises solve money problems?"
     a: "Because of 'lifestyle creep': spending automatically expands to match income (Parkinson's law of money). A 20% raise typically produces 20% more spending — same gap, bigger numbers. The solution isn't earning more; it's keeping a fixed savings percentage before spending whatever remains."
@@ -51,6 +51,8 @@ relatedArticles:
 <div data-i18n-html="article_paycheck-trap_p6">The fix is not willpower; it is a rule you set before the money arrives. When income rises, decide in advance where the extra goes: <a href="/journal/price-of-freedom/">half to freedom</a> (savings, investments), a quarter to joy (something you truly value), a quarter to buffer (emergencies). Write it when you are calm, so you do not decide when you are excited.</div>
 
 <div data-i18n-html="article_paycheck-trap_p7">Try this with your next inflow, however small — a bonus, a side project, even a refund. Before it lands, assign it. What is not assigned will be absorbed. What is assigned will compound.</div>
+
+<div data-i18n-html="article_paycheck-trap_p10">The mechanism has a name: the hedonic treadmill. Research on adaptation shows that each upgrade resets your baseline within months — the nicer apartment becomes the new ordinary, and the feeling you bought is already gone. Assigning the raise before it lands is the only reliable way off the treadmill, because you never let the extra become spending.</div>
 
 <div data-i18n-html="article_paycheck-trap_p9">The thirty-minute audit that cracks the trap: export the last three months of your bank statement; label every line with one word — needed, wanted, or automatic; add up the "automatic" column. That total is the subscription form of the trap: money moving on decisions you no longer remember making. Cancel or renegotiate one item tonight, and set the freed amount to move automatically on payday morning — before the lifestyle absorbs it. No app, no spreadsheet discipline. One evening.</div>
 

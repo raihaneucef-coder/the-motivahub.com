@@ -22,7 +22,7 @@ keywords:
   - "prove it to yourself"
 tags:
   - "confidence"
-wordCount: 325
+wordCount: 397
 faq:
   - q: "How do you build genuine self-confidence?"
     a: "Stop waiting to 'feel' confident. Confidence is a record of promises you've kept to yourself. Start with tiny commitments (make your bed, do 10 push-ups) and keep them daily. After 30+ kept promises, your brain updates its model of you. Evidence beats affirmation."
@@ -55,6 +55,8 @@ relatedArticles:
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p7">The opposite is also true. Every broken promise, especially the small ones you excuse, writes a different line: <em>we do not do what we say.</em> Do that enough times and no affirmation can compete with the record you have built against yourself.</div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p8">This is why confidence cannot be borrowed from quotes. It must be built from reps.</div>
+
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p13">Albert Bandura, who built the modern science of self-efficacy, ranked its sources — and the order matches this article exactly. The strongest driver of belief in yourself is a mastery experience: a task you actually completed. Verbal encouragement and watching others rank below it. That is why the kept promise beats the affirmation. Confidence is not a mood to summon; it is a ledger your nervous system reads honestly, entry by entry.</div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p9">Make the reps so small you cannot fail them:</div>
 

@@ -22,7 +22,7 @@ keywords:
   - "sympathetic vs parasympathetic"
 tags:
   - "wellness"
-wordCount: 284
+wordCount: 390
 faq:
   - q: "What does it mean that 'your nervous system is the boss'?"
     a: "Your thoughts and discipline run on top of your nervous system state. If your body is in fight-or-flight (sympathetic overdrive), your 'rational brain' goes offline. You can't think your way out of a stress response — you must regulate the body first (breath, movement, safety cues), then the mind follows."
@@ -52,6 +52,10 @@ relatedArticles:
 <div data-i18n-html="article_nervous-system-is-the-boss_p7">This is not an excuse; it is a lever. You cannot always control the situation, but you can almost always shift your state by ten percent. And ten percent is enough to choose a better next move.</div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p8">Three levers, available anywhere:</div>
+
+<div data-i18n-html="article_nervous-system-is-the-boss_p12">The polyvagal framework, developed by Stephen Porges, explains why willpower fails under threat: when the autonomic nervous system detects danger it shifts you into fight-flight or shutdown, and the prefrontal cortex — the part that plans, reasons, and chooses — is effectively dimmed. You cannot think your way out of a nervous-system response.</div>
+
+<div data-i18n-html="article_nervous-system-is-the-boss_p13">Resets that take under two minutes: a long exhale (four in, seven out), cold water on the inner wrists, humming one sustained note, or a flat palm on the chest just feeling the ribcage rise and fall. These are not meditation — they are physiological signals of safety sent straight to the brainstem.</div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p9">- <strong><a href="/journal/move-daily-not-perfectly/">Move for two minutes</a>.</strong> Walk, shake your hands, do ten slow squats. Motion tells the brain: we are not trapped.
 - <strong>Lengthen the exhale.</strong> Four in, eight out. The longer out-breath is a manual override for calm.

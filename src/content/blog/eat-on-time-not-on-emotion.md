@@ -22,7 +22,7 @@ keywords:
   - "regular meals better focus"
 tags:
   - "nutrition"
-wordCount: 299
+wordCount: 372
 faq:
   - q: "Why is eating on a schedule better than eating when hungry?"
     a: "Because 'hunger' is often a mix of actual need and emotional triggers. A fixed schedule (breakfast 8am, lunch 1pm, dinner 7pm) prevents glucose crashes that trigger poor decisions — snacking, irritability, and 'reward eating' after stress. You decide what to eat while calm, not while desperate."
@@ -48,6 +48,8 @@ relatedArticles:
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p5"><strong>Regular meals make good decisions automatic.</strong></div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p6">Eat before you are starving. Decide what lunch will be while you are still full from breakfast. <a href="/journal/meal-prep-dimanche/">Keep a simple backup</a> — yogurt, nuts, fruit — for the day that goes long.</div>
+
+<div data-i18n-html="article_eat-on-time-not-on-emotion_p13">A caution keeps the advice honest. Popular science says a dip in blood glucose makes you irritable and weak-willed, and that framing is overstated — the body regulates blood sugar tightly, and 'hangriness' is more about the discomfort of hunger and habit than a dangerous crash. The practical point survives the hype anyway: eating on a rhythm blunts the hunger that narrows your choices, which is a scheduling win, not a medical one.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p7">This is not about perfect timing. It is about never arriving at a meal so hungry that you cannot choose well.</div>
 

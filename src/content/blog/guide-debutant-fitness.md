@@ -23,7 +23,7 @@ tags:
   - "sport"
   - "habits"
   - "guide"
-wordCount: 366
+wordCount: 439
 
 faq:
   - q: "How do I start going to the gym as a complete beginner?"
@@ -79,6 +79,8 @@ relatedArticles:
 <div data-i18n-html="article_guide-debutant-fitness_p12"><h2>Step 4: Gradually Increase</h2></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p13">After 2 weeks of 10 minutes, increase to 15. After another 2 weeks, increase to 20. Keep going until you reach 30-45 minutes. This gradual approach prevents burnout and builds confidence.</div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p21">A number that protects you from impatience: Phillippa Lally's now-classic University College London study tracked habits forming over a range of 18 to 254 days, with a median around 66 — not the 21 days pop culture repeats. So when week three feels pointless, it is not a sign to quit; automaticity is simply still under construction. The 'start embarrassingly small, then gradually increase' plan is built for exactly that slow, uneven curve.</div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p19"><h2>Your First 4 Weeks</h2></div>
 

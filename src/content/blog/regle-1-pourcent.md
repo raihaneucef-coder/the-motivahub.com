@@ -22,7 +22,7 @@ keywords:
 tags:
   - "personal growth"
   - "how-to"
-wordCount: 299
+wordCount: 379
 faq:
   - q: "What is the 1% rule?"
     a: "The 1% rule means improving by just 1% each day. Mathematically, 1.01³⁶⁵ = 37.8 — you become 37 times better in a year. Popularized by James Clear in Atomic Habits, the principle shows that tiny consistent gains compound into extraordinary results over time."
@@ -64,6 +64,8 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-1-pourcent_p10"><h3>3. Practice a Skill 15 Minutes Per Day</h3>
 15 minutes per day = 90 hours per year. That is enough to go from beginner to competent in almost any skill.</div>
+
+<div data-i18n-html="article_regle-1-pourcent_p17">The science behind 'small and daily' is not just arithmetic — it is behavior. BJ Fogg's research on tiny habits at Stanford found that motivation is unreliable, so the winning move is to shrink the action until it feels almost too easy, attaching it to a routine you already have. A 1% step you actually repeat every day beats a 10% plan you abandon by Thursday. The compounding the slogan celebrates is the compounding of showing up, not of heroics.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p11"><h3>4. Meditate 5 Minutes Per Day</h3>
 5 minutes per day = 30 hours per year. That is enough to rewire your brain for calm and focus.</div>

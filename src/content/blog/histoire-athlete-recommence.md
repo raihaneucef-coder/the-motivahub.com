@@ -20,7 +20,7 @@ keywords:
   - "starting from zero again"
 tags:
   - "stories"
-wordCount: 274
+wordCount: 341
 faq:
   - q: "How do you start over after losing everything?"
     a: "By separating your identity from your achievement. The athlete's story shows: when medals, sponsors, and status vanish, what remains is the discipline, the love of movement, the person underneath. Start with one small action you control today — the new chapter begins smaller than you expect."
@@ -55,6 +55,8 @@ relatedArticles:
 <div data-i18n-html="article_histoire-athlete-recommence_p8"><h2>The Comeback</h2></div>
 
 <div data-i18n-html="article_histoire-athlete-recommence_p9">Two years later, she competed again. She did not win. She finished 12th. But she cried tears of joy. Because she had proven something to herself: <a href="/journal/the-comeback-is-stronger/">she could start over</a>. She could rebuild. She was more than her worst moment.</div>
+
+<div data-i18n-html="article_histoire-athlete-recommence_p16">Sports psychology documents exactly this crisis. Researchers on athletic retirement find that athletes whose identity was built almost entirely around competition struggle most when it ends, while those who had cultivated a self outside the sport adapt far better. Her recovery was not a return to the medal; it was the widening of who she was — the thing that made getting back up possible at all.</div>
 
 <div data-i18n-html="article_histoire-athlete-recommence_p10"><h2>The Lesson</h2></div>
 

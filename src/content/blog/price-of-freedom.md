@@ -22,7 +22,7 @@ keywords:
   - "how to buy your freedom"
 tags:
   - "finance"
-wordCount: 259
+wordCount: 316
 faq:
   - q: "What does 'freedom is rented, not owned' mean?"
     a: "Financial and personal freedom has no lump-sum purchase price — it requires daily small payments: saving consistently, maintaining health, investing in skills. Miss the payments and you lose the freedom (like rent). The 'price' is boring consistency, not one heroic act."
@@ -50,6 +50,8 @@ relatedArticles:
 <div data-i18n-html="article_price-of-freedom_p6">Skip the payments and freedom quietly moves out. Not with a dramatic eviction, but with small leaks — subscriptions you forgot, dinners that soothed a hard day, a sale you did not need. Each is small. Together they are the reason the month feels shorter than your will.</div>
 
 <div data-i18n-html="article_price-of-freedom_p7">The good news is that rent, once automated, becomes invisible. <a href="/journal/regle-50-30-20/">A transfer on payday</a> hurts once. A habit of cooking three nights a week saves more than any windfall. Saying no to one upgrade funds the next year's freedom more than saying yes to overtime.</div>
+
+<div data-i18n-html="article_price-of-freedom_p10">Behavioral finance gives the daily-rent idea a footing. Studies on mental accounting show that money set aside automatically is rarely spent, while money left in the main account gets absorbed by whatever is in front of you. The person who pays freedom first each payday is not stronger-willed — they simply removed the decision from the moment.</div>
 
 <div data-i18n-html="article_price-of-freedom_p8">Try this for thirty days. On payday, <a href="/journal/paycheck-trap/">pay freedom first</a> — a fixed amount moved before you see it. Then live on what remains. You will spend less not because you are disciplined, but because you have removed the choice that requires discipline.</div>
 

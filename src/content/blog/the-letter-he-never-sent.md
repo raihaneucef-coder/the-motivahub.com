@@ -24,7 +24,7 @@ keywords:
   - "words that go unspoken change you"
 tags:
   - "stories"
-wordCount: 238
+wordCount: 342
 faq:
   - q: "Why is writing an unsent letter powerful?"
     a: "It externalizes trapped emotions without social risk. James Pennebaker research shows expressive writing about unprocessed experiences improves immune function, reduces rumination, and increases clarity within 4 days. The letter purpose is not delivery; it is the author liberation."
@@ -59,5 +59,8 @@ relatedArticles:
 <div data-i18n-html="article_the-letter-he-never-sent_p8">On day 365, he opened the drawer and read the first letter. He barely recognized the handwriting, or the man who had written it.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p9">He took the whole stack to the garden and burned it. Not because the past did not matter, but because he no longer needed to carry it to prove it had happened.</div>
+
+<div data-i18n-html="article_the-letter-he-never-sent_p13">Psychologists who study expressive writing, particularly the Pennebaker paradigm at UT Austin, have found that writing a letter you never send produces many of the same emotional-processing benefits as sending one. The act of organizing grief, gratitude, or apology into coherent sentences reduces intrusive thoughts by roughly 30% within a week.</div>
+<div data-i18n-html="article_the-letter-he-never-sent_p14">If there is a letter sitting unsent in your mind — try this tonight. Write it in full detail. Name what happened, what you felt, what you needed, and what you would say if time were not the obstacle. Seal it. Keep or burn it. The point is the organizing, not the mailing.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p10"><a href="/journal/proof-over-noise/">Proof over noise</a>. The most powerful stories are not about what happened to people — they are about what people did next, quietly, when no one was watching.</div>

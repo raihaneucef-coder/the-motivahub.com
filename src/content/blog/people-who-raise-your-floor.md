@@ -22,7 +22,7 @@ keywords:
   - "Jim Rohn you average of five"
 tags:
   - "relationships"
-wordCount: 299
+wordCount: 370
 faq:
   - q: "Who are 'the people who raise your floor'?"
     a: "They're the friends whose standards silently pull you up. Not motivational speakers — just people who train consistently, read regularly, speak with integrity. You don't 'hang out with successful people to get famous' — you simply absorb their non-negotiables as your new baseline."
@@ -50,6 +50,8 @@ relatedArticles:
 <div data-i18n-html="article_people-who-raise-your-floor_p6">That is not a judgment; it is a design principle. If your circle treats discipline as strange, you will pay a tax every time you practice it. If your circle treats it as normal, you get it for free.</div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p7">This does not mean abandoning people. It means adding people — deliberately. <a href="/journal/love-is-a-practice/">One relationship</a> that raises your standard changes the math for all the others.</div>
+
+<div data-i18n-html="article_people-who-raise-your-floor_p12">This is not folk wisdom — it has a data trail. The Framingham Heart Study analyses by Christakis and Fowler showed that obesity, smoking, and even happiness cluster and spread across social networks, not just to your direct friends but to friends-of-friends. Behaviors travel along relationships. That is the strongest argument for the 'add people' move: you are not just choosing company, you are choosing which currents your habits will ride.</div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p8">Look for three signals:</div>
 

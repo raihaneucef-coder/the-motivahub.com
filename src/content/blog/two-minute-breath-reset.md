@@ -22,7 +22,7 @@ keywords:
   - "quick calm technique before a meeting"
 tags:
   - "wellness"
-wordCount: 336
+wordCount: 406
 faq:
   - q: "What is the fastest breathing technique to calm anxiety?"
     a: "The physiological sigh: two quick inhales through the nose followed by one long exhale through the mouth. Andrew Huberman (Stanford) highlights this as the fastest voluntary way to reduce sympathetic activation: works in 60-90 seconds with just 2-3 cycles."
@@ -48,6 +48,8 @@ relatedArticles:
 <div data-i18n-html="article_two-minute-breath-reset_p5"><strong>The fastest interruption is a longer exhale.</strong></div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p6">Not a deep inhale. A slow, complete exhale. The exhale tells your nervous system: we are safe enough to let go.</div>
+
+<div data-i18n-html="article_two-minute-breath-reset_p14">There is a target frequency worth knowing. Research by psychologist Paul Lehrer and colleagues on 'resonance breathing' found that roughly six slow breaths per minute — about a four-second inhale and a six-second exhale — tends to maximize heart-rate variability and the calm signal sent to the brain. Your 4-in / 8-out reset lands near that rhythm, which is why a fixed count works better than breathing 'deeply' at random.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p7">Try it now:</div>
 

@@ -21,7 +21,7 @@ keywords:
   - "secure attachment habits"
 tags:
   - "relationships"
-wordCount: 354
+wordCount: 430
 faq:
   - q: "What are the 4 attachment styles?"
     a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized / fearful-avoidant (wants closeness but fears it simultaneously). In large community samples roughly half screen as secure; the rest show patterns formed in childhood caregiving."
@@ -55,6 +55,8 @@ You value independence over intimacy. You suppress your feelings, pull away when
 
 <div data-i18n-html="article_styles-attachement_p8"><h3>4. Fearful-Avoidant</h3>
 You want intimacy but fear it. You push people away when they get close, then pull them back when they leave. This is the least common of the four and the one most associated with unresolved trauma or inconsistent early caregiving.</div>
+
+<div data-i18n-html="article_styles-attachement_p16">Two honest caveats keep this useful. First, styles are distributions, not boxes: most people are a mix and score differently across relationships and over time, so treat the four types as a map of tendencies, not a diagnosis. Second, 'can you change' has an affirmative research answer — Mikulincer's work on 'secure-base priming' and studies of earned security show that consistent relationships and therapy do shift attachment behavior. The style explains your default, not your ceiling.</div>
 
 <div data-i18n-html="article_styles-attachement_p9"><h2>Can You Change Your Attachment Style?</h2></div>
 

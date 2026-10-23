@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 304
+wordCount: 374
 faq:
   - q: "What is the five-minute friendship habit?"
     a: "A daily 5-minute action to maintain a friendship: one text ('thinking of you'), one voice note, one comment on their post, or one 3-minute call. Rotating through 7 friends per week means everyone in your circle gets consistent attention without it feeling like work."
@@ -57,6 +57,8 @@ relatedArticles:
 - <strong>Make the next plan before you leave.</strong> "Next Tuesday walk?" beats "we should catch up sometime" every time.</div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p9">Friendship is not maintained by intensity. It is <a href="/journal/love-is-a-practice/">maintained by frequency</a>. A friend you hear from for five minutes every two weeks feels closer than a friend you see for five hours twice a year.</div>
+
+<div data-i18n-html="article_five-minute-friendship-habit_p12">The frequency-over-intensity claim holds up in the research on friendship maintenance. Longitudinal studies find that perceived closeness tracks with how often contact happens far more than with how long each contact lasts — a short, predictable check-in keeps a bond 'active' in the mind of both people, while a two-hour catch-up every six months leaves a gap that quietly reads as distance. Small and often genuinely beats large and rare.</div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p11">A script that works tonight: pick the friend you have quietly been drifting from and send one <em>specific</em> message — not "we should catch up" but "saw the old bookshop on our street is closing — remember our rule about never paying full price for tickets?" One shared memory, one concrete door left open ("thinking of doing X Sunday, come if you want"). No ask, no guilt. The specificity is the point: it proves you remember, which "catch up soon" never does.</div>
 

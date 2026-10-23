@@ -22,7 +22,7 @@ keywords:
 tags:
   - "goals"
   - "how-to"
-wordCount: 398
+wordCount: 484
 faq:
   - q: "What is reverse engineering a goal?"
     a: "Reverse engineering a goal means starting at the desired end result and working backward to today. You define the final outcome, break it into quarterly milestones, then monthly targets, then weekly actions — so every daily task has a direct line to the goal."
@@ -82,6 +82,8 @@ Working backward shows you exactly what needs to happen — and when. There is n
 
 <div data-i18n-html="article_retroengineering-objectifs_p18"><h3>3. It Eliminates Overwhelm</h3>
 A big goal feels overwhelming. A daily action does not. Reverse engineering breaks the big goal into small, manageable pieces.</div>
+
+<div data-i18n-html="article_retroengineering-objectifs_p25">Pair the method with one inversion to harden it: the premortem. Decision researcher Gary Klein's technique asks you to jump forward to a future where the goal has already failed, then write down why. Working backward from failure surfaces the specific obstacle — the Tuesday you'll skip, the line item you'll underestimate — that the optimistic backward plan quietly omits. Reverse engineering tells you the steps to take; the premortem tells you which step you're most likely to abandon, so you can protect that one first.</div>
 
 <div data-i18n-html="article_retroengineering-objectifs_p19"><h3>4. <a href="/journal/rendez-compte-objectifs/">It Creates Accountability</a></h3>
 When you know exactly what you need to do each day, you cannot hide from the work. The plan is clear. The execution is up to you.</div>

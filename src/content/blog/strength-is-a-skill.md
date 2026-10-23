@@ -23,7 +23,7 @@ keywords:
   - "perfect form over heavy weight"
 tags:
   - "sport"
-wordCount: 288
+wordCount: 353
 faq:
   - q: "Is strength a skill or a natural talent?"
     a: "Strength is a skill, specifically a neural adaptation. Your brain learns to recruit more muscle fibers simultaneously, fire them faster, and coordinate movement patterns. This is why untrained people can get 40% stronger in 8 weeks without visible muscle growth: the nervous system learns strength like any skill."
@@ -55,6 +55,8 @@ relatedArticles:
 <div data-i18n-html="article_strength-is-a-skill_p8">- <strong><a href="/journal/guide-debutant-fitness/">Master the empty bar</a>.</strong> Form first, weight second. Strength built on bad form is an injury waiting to happen.
 - <strong>Add one rep, not ten pounds.</strong> Small progress, repeated, is the only progress that lasts.
 - <strong>Rest as hard as you lift.</strong> The muscle grows while you sleep, not while you strain.</div>
+
+<div data-i18n-html="article_strength-is-a-skill_p11">Beginners get stronger before their muscles visibly grow. Research in the Journal of Applied Physiology shows the first weeks of training are mostly neural adaptation — the nervous system learns to recruit more motor units and fire them in sync. That is why strength responds to practice like a skill does: the lift is a motor pattern you rehearse, not just a load you endure.</div>
 
 <div data-i18n-html="article_strength-is-a-skill_p10">A safe week-one template: two sessions, non-consecutive days, full body — one push (incline push-up or bench), one pull (row or band), one squat or hinge, one carry (walk with heavy bags). Three sets of each, stopping two reps before failure, adding a rep or a few kilos per week. That "little and often" is the entire skill. Rest days are for walking and sleeping, not for testing. With an injury or a medical condition, a professional clears the plan before the barbell does.</div>
 

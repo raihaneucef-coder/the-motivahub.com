@@ -22,7 +22,7 @@ keywords:
   - "stop all or nothing fitness"
 tags:
   - "wellness"
-wordCount: 275
+wordCount: 417
 faq:
   - q: "Is a short imperfect workout better than skipping entirely?"
     a: "Yes. Research shows even 10 minutes of movement improves mood, metabolism, and sleep quality. More importantly, skipping creates a identity break ('I'm not someone who exercises'), while showing up imperfectly maintains the habit chain and the self-image that sustains long-term consistency."
@@ -56,6 +56,9 @@ relatedArticles:
 - <strong>One hard effort a week.</strong> Enough to remember that discomfort is survivable.</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p9">You will have weeks when this is all you do. That is not lost progress. That is progress protected.</div>
+
+<div data-i18n-html="article_move-daily-not-perfectly_p12">A 2023 meta-analysis in the British Journal of Sports Medicine, led by researchers at the University of Cambridge, pooled data from tens of millions of people and found that as little as 75 minutes of brisk activity a week — roughly eleven minutes a day — carried a 23% lower risk of early death versus staying inactive. The benefit curve is steepest at the very first minutes of movement — the jump from zero to something dwarfs the jump from something to perfect.</div>
+<div data-i18n-html="article_move-daily-not-perfectly_p13">The identity shift that matters: stop calling it exercise and start calling it movement. Exercise implies a schedule, a minimum, a failure condition. Movement implies anything that gets you out of the chair. Dance while the kettle boils. Walk around the block before answering email. A 4-minute shuffle is not a failed workout — it is a successful move.</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p11">The daily menu — pick one line, that is the whole system: a twenty-minute brisk walk after the first meal; stairs instead of the lift on two trips today; a five-minute stretch between calls; parking deliberately at the far end twice; eight minutes of bodyweight while the kettle boils. The minimum is "something moved, every day." The best line is the one you still chose on the bad Thursday. Streaks are cheap, but visible — write the line down each evening.</div>
 

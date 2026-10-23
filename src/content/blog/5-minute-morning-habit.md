@@ -27,7 +27,7 @@ tags:
   - "morning-routine"
   - "guide"
   - "productivity"
-wordCount: 1969
+wordCount: 2077
 faq:
   - q: "What is the best 5-minute morning habit?"
     a: "The most effective is what I call the 3-priority brain dump: write down the 3 most important tasks for the day, in order, on a single piece of paper. Takes 60 seconds. Prevents 60+ minutes of decision-making throughout the day."
@@ -191,17 +191,17 @@ relatedArticles:
 
 <div data-i18n-html="article_5-minute-morning-habit_p54"><strong>Attempt 3: Journal + priorities.</strong> Adding journaling on top of priorities ate 15+ minutes. Shrunk to priorities only. Workload dropped. Completion rate rose.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p55">The current version is the smallest one that works. Anything bigger fails on bad days.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p55">I kept the ritual to five minutes because anything longer was abandoned by Wednesday. The brevity is not a compromise; it is the design constraint that makes it survive every kind of morning.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p56"><h2>When This Habit Breaks (And What to Do)</h2></div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p57">It will break. Here's how to recover:</div>
+<div data-i18n-html="article_5-minute-morning-habit_p57">Some mornings it falls apart. When that happens, treat the next opportunity as a fresh start rather than a rescue mission:</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p58"><strong>Day you forgot:</strong> Don't make up for it. Just do it tomorrow. The streak matters less than the daily practice.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p58"><strong>Morning you missed it:</strong> Get up the next day and open the page like nothing happened. Trying to journal two mornings at once defeats the whole point of the five-minute limit.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p59"><strong>Day you're traveling:</strong> Hotel rooms are perfect for paper. Write the 3 priorities on hotel stationery if you forgot your notebook. I've done this.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p60"><strong>Day you're sick:</strong> Skip it. The 3 priorities don't matter when you're trying to recover.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p60"><strong>Sick morning:</strong> Sleep in, rest, hydrate. A foggy brain cannot rank priorities honestly. Come back the next day, not with a backlog, just with the page you left open.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p61"><strong>Day you're too busy:</strong> If you can't find 5 minutes to write 3 priorities, you need them most. Pick the 3 most urgent tasks. Write them down. The 5 minutes is the reset.</div>
 
@@ -243,9 +243,9 @@ relatedArticles:
 - <strong>Week 6:</strong> Add a monthly review. First of the month, write 3 priorities for the month.
 - <strong>Week 7:</strong> Add a quarterly review. First day of quarter, write 3 priorities for 90 days.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p76">Each layer compounds. Each one is small. Each one survives bad days.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p76">The layers stack gently: clarity, focus, momentum. None of them requires more than five minutes, and each one makes the next morning slightly easier.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p77">This is the system I'm still building. The 5-minute habit was the foundation. Everything else is built on top.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p77">That five-minute window became the hinge the whole day swings on. I still use it every morning; everything else I have added is optional scaffolding around it.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p78">---</div>
 
@@ -261,9 +261,9 @@ relatedArticles:
 - Building momentum
 - Reducing reactive work</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p83">If you try nothing else from any productivity book or blog or course, try this. Five minutes. Paper. Three priorities. Before email.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p83">If you only steal one ritual from this site, make it this one. Before you touch your phone, stand still for a minute, then write three sentences on paper. That is the entire system.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p84">It won't make you rich. It won't change your life in a week.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p84">It will not pay off your mortgage or rewire your dopamine in seven days. But after two weeks you will notice you are starting each day on purpose instead of by accident.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p85">But it will give you back the morning. And that, I think, is worth something.</div>
 

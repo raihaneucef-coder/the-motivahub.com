@@ -26,7 +26,7 @@ tags:
   - "stories"
   - "endurance"
   - "discipline"
-wordCount: 258
+wordCount: 372
 faq:
   - q: "Why did the shop stay open when others closed?"
     a: "Because staying was a promise, not a business plan. The owner understood that endurance is a competitive advantage. When everyone else pivots, the one who stays becomes the default. Customers return not because the shop is the best, but because it is the only one that showed up."
@@ -69,5 +69,9 @@ relatedArticles:
 <div data-i18n-html="article_the-shop-that-stayed-open_p7">People started to come — not for books, but for the light. Then for the tea. Then for the books they found while drinking the tea.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p8">When the street woke again, his shop was the reason. Not because he had the best business, but because he was the only one who stayed when staying made no sense.</div>
+
+<div data-i18n-html="article_the-shop-that-stayed-open_p11">There is a name for what he was doing: the durability premium. Economists who study firm survival find that most exits cluster in the first few years, and that the few operators still standing at decade ten face a field with far fewer competitors. Staying open is not stubbornness — it is outlasting the noise until the market quietly reorganizes around whoever is still there.</div>
+
+<div data-i18n-html="article_the-shop-that-stayed-open_p12">The quiet mechanism is trust. A door that opens at the same hour for thirty years becomes a landmark people plan their lives around. Reliability, repeated long enough, stops being a behavior and becomes a reputation — and a reputation is the one asset that compounds while you sleep.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p9"><a href="/journal/proof-over-noise/">Proof over noise</a>: sometimes the most powerful thing you can do is not to be the best, but to be the one who stays.</div>

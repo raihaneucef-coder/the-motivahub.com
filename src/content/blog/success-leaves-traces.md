@@ -23,7 +23,7 @@ keywords:
   - "daily habits that lead to achievement"
 tags:
   - "success"
-wordCount: 259
+wordCount: 372
 faq:
   - q: "What does success leaves traces mean?"
     a: "Every achievement has a visible pathway: daily decisions, habits, and routines that preceded it. Successful people do not have magic, they leave breadcrumbs of consistency you can study and follow. The book they wrote had 500 days of early-morning writing. The business had 5 years of compounding. Traces reveal the formula."
@@ -55,6 +55,10 @@ relatedArticles:
 <div data-i18n-html="article_success-leaves-traces_p8">- How they start the day. What is the first hour for?
 - How they handle the middle, when excitement is gone.
 - How they end the day. What do they review?</div>
+
+<div data-i18n-html="article_success-leaves-traces_p12">Why traces beat trophies as a study object: a trophy is a single outcome filtered by luck and timing, so copying it teaches you nothing transferable. A trace is a process you can run in your own conditions tomorrow. This is the difference between outcome bias — admiring results — and process thinking — auditing the repeatable decisions that made them likely.</div>
+
+<div data-i18n-html="article_success-leaves-traces_p13">One caution so the method stays honest: traces are correlations, not guarantees. The same early-morning routine that preceded someone's success also preceded many failures you never hear about. Copy the trace because it is within your control and improves your odds, not because you expect it to reproduce their exact trophy.</div>
 
 <div data-i18n-html="article_success-leaves-traces_p9">Do that one trace for thirty days. Not perfectly, just consistently.</div>
 

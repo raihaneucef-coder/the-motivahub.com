@@ -23,7 +23,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 248
+wordCount: 404
 faq:
   - q: "Can body language really make you feel confident?"
     a: "Yes — 'embodied cognition' research shows posture affects hormones and self-perception. Standing tall for 2 minutes increases feelings of power (Carney, 2010). Even if the testosterone effect is debated, the psychological feedback loop is clear: act confident → feel more confident → perform better."
@@ -78,5 +78,8 @@ A firm (not crushing) handshake with eye contact and a genuine smile projects co
 - Touching your face (anxious)</div>
 
 <div data-i18n-html="article_langage-corps-confiance_p14"><blockquote><em>Your <a href="/journal/identity-precedes-outcome/">body language shapes who you are</a>. — Amy Cuddy</em></blockquote></div>
+
+<div data-i18n-html="article_langage-corps-confiance_p17">Be honest about what posture research actually supports. Sitting upright reliably changes two things: how other people read you, and how you subjectively feel — it nudges up felt assertiveness and energy. The dramatic hormonal claim — that a two-minute 'power pose' lowers cortisol and raises testosterone — came from a 2010 study (Carney, Cuddy & Yap) that later researchers failed to replicate, so it is a cautionary tale about overreach, not a fact. The grounded takeaway still holds: the body signals the brain, just more modestly than the pop-psych headline promised.</div>
+<div data-i18n-html="article_langage-corps-confiance_p18">Three micro-habits that compound: (1) before entering a room, drop your shoulders away from your ears and exhale; (2) when listening, lean slightly forward and mirror the speaker's open posture; (3) when speaking, let your hands rest visible — palms up at mid-height signals trust without words. Practice all three for one week and notice the shift in how people interrupt you (or don't).</div>
 
 <div data-i18n-html="article_langage-corps-confiance_p16"><strong>Project confidence today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> helps you build the habits that create natural confidence. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

@@ -26,7 +26,7 @@ tags:
   - "stories"
   - "accountability"
   - "habits"
-wordCount: 249
+wordCount: 363
 faq:
   - q: "Does accountability actually help with habits?"
     a: "Yes. Committing to a habit with a partner tends to strengthen follow-through in a way solo willpower often does not. The social commitment creates a different kind of accountability than self-discipline. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel shame. The stronger emotion protects the habit."
@@ -71,5 +71,8 @@ relatedArticles:
 <div data-i18n-html="article_two-friends-one-promise_p8">At the end of the year, they had walked 365 times. They had also not missed a single day they said they would show up for each other. That record — more than the miles — is what they carry now.</div>
 
 <div data-i18n-html="article_two-friends-one-promise_p9">When people ask how they stayed consistent, they say: we did not keep a walking habit. We <a href="/journal/histoire-concierge-millionnaire/">kept a promise to a friend</a>. The habit was just what the promise looked like from the outside.</div>
+
+<div data-i18n-html="article_two-friends-one-promise_p12">A 2023 Harvard Study of Adult Development finding, published after 85 years of longitudinal tracking, concluded that the single strongest predictor of well-being in old age was not income, fame, or health markers but the number of relationships in which a person felt truly seen. Community is not a luxury; it is a longitudinal health intervention.</div>
+<div data-i18n-html="article_two-friends-one-promise_p13">Promises between friends are kept in small installments, not grand gestures. A text on the anniversary of a hard week. Showing up at the airport at 6 a.m. Because that is what your friend needs, not because it is convenient for you. Friendship is not found — it is maintained, on purpose, on the days nobody is watching.</div>
 
 <div data-i18n-html="article_two-friends-one-promise_p10"><a href="/journal/proof-over-noise/">Proof over noise</a>: community is not found. It is kept, one walk at a time.</div>

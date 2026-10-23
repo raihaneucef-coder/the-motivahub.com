@@ -22,7 +22,7 @@ keywords:
   - "lunch that prevents afternoon slump"
 tags:
   - "nutrition"
-wordCount: 247
+wordCount: 353
 faq:
   - q: "What is the 'steady plate' method?"
     a: "Fill half your plate with vegetables, one quarter with protein (palm-sized), one quarter with slow carbs (rice, potato, whole grain), plus a thumb of healthy fat. This ratio keeps blood sugar even, prevents 3pm crashes, and eliminates hunger between meals without calorie counting."
@@ -60,3 +60,6 @@ relatedArticles:
 
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_p9">A steady plate does not require willpower. It creates it.</div>
+
+<div data-i18n-html="article_the-plate-that-keeps-you-steady_p12">The physiology behind the plate rule: when you eat refined carbohydrates alone, glucose enters the blood within 15 minutes and insulin spikes to clear it, often over-correcting. By mid-morning the rebound makes you shaky, irritable, and craving more sugar. Pairing those same carbohydrates with protein and fat slows gastric emptying, flattening the curve.</div>
+<div data-i18n-html="article_the-plate-that-keeps-you-steady_p13">Practical swap examples: toast plus a boiled egg instead of toast alone. Oatmeal with a spoonful of nut butter instead of plain oats. An apple with a handful of almonds instead of the apple by itself. None of these require cooking skill or extra time; they just stop the spike before it starts.</div>

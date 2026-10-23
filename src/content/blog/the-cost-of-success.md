@@ -22,7 +22,7 @@ keywords:
   - "what nobody tells you about winning"
 tags:
   - "success"
-wordCount: 295
+wordCount: 365
 faq:
   - q: "What is the hidden cost of success?"
     a: "Beyond the visible wins: relationships strained by your schedule, identity fused with achievement (collapse when you stop), loss of privacy, and a moving goalpost that never lets you enjoy what you built. The cost is not failure; it is arriving and realizing the prize does not fill the void."
@@ -54,6 +54,8 @@ relatedArticles:
 <div data-i18n-html="article_the-cost-of-success_p8">Ask before you chase the next success: what is this one asking me to give up, and am I willing to give it not once, but for a year?</div>
 
 <div data-i18n-html="article_the-cost-of-success_p9">If the answer is yes, the price stops feeling like a punishment and starts feeling like proof. You are not losing something. You are buying the person you want to become.</div>
+
+<div data-i18n-html="article_the-cost-of-success_p12">Psychology gives the price an unexpected job. Effort-justification research finds that we value what we work hard for more than what we get cheaply — the friction is part of why the outcome matters. That does not mean seeking suffering for its own sake; it means choosing costs you can be proud of, because the daily rent is also what turns a trophy into something that means something to you.</div>
 
 <div data-i18n-html="article_the-cost-of-success_p11">Write the price list before choosing the climb. Take the goal you are chasing and list what it will take each week — hours, energy, presence, relationships, health margins — then list in the next column what you are <em>already</em> quietly paying. If the second column is empty, you have not really started. If its rows scare you, the fear is data, not weakness: resize the goal or its speed, keep the list visible, and revisit it monthly.</div>
 

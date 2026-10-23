@@ -22,7 +22,7 @@ keywords:
   - "detour as metaphor for growth"
 tags:
   - "travel"
-wordCount: 260
+wordCount: 311
 faq:
   - q: "What does the detour teach that the direct route does not?"
     a: "Adaptability, presence, and the discovery that your planned destination was never the real goal. The best travel memories (and life lessons) come from breakdowns, wrong turns, and unexpected conversations that only happen when you are forced off-schedule."
@@ -54,6 +54,8 @@ relatedArticles:
 <div data-i18n-html="article_the-detour-is-the-destination_p8">- <strong>Leave one hour unplanned.</strong> No map, no goal. Walk and notice what notices you.
 - <strong>Say yes to one invitation.</strong> Tea, a market, a wrong bus that looks interesting.
 - <strong>Collect one story, not one souvenir.</strong> Ask someone how long they have lived here and what has changed.</div>
+
+<div data-i18n-html="article_the-detour-is-the-destination_p12">There is a decision-science reason this works. Psychologists distinguish maximizing — squeezing every planned item for the theoretically best trip — from satisficing, choosing what is richly good enough. Maximizers get better itineraries and worse memories; the unplanned hour raises satisficing odds because curiosity, not the checklist, decides where you stop.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p9">You will not remember the museum you rushed through. You will remember the alley where you got lost and found something you did not know you were looking for.</div>
 

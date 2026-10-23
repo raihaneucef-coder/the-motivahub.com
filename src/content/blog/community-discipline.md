@@ -21,7 +21,7 @@ keywords:
 tags:
   - "confidence"
   - "discipline"
-wordCount: 354
+wordCount: 426
 faq:
   - q: "Why is discipline easier in a community?"
     a: "Because social accountability multiplies willpower. The 'Köhler effect' (2006) shows people exert 78% more effort when being seen by others. A community makes your commitment visible: skipping feels like letting someone down, which is a stronger motivator than breaking a private promise."
@@ -47,6 +47,8 @@ relatedArticles:
 <div data-i18n-html="article_community-discipline_p5">We think discipline is solitary: wake early, work alone, grind. The most disciplined people invert it: they make belonging part of the system. They join a run club not for motivation, but for accountability. They build a business community not for networking, but to be seen when they want to quit.</div>
 
 <div data-i18n-html="article_community-discipline_p6">The data is clear: the habit that survives longest is the one tied to a relationship. You do not keep the habit because you love the habit. You keep it because someone is expecting you.</div>
+
+<div data-i18n-html="article_community-discipline_p14">The 'belonging is infrastructure' idea has hard evidence behind it. The social-identity research program led by Jetten and Haslam — summarized as 'Social Cures' — found that the more groups you genuinely belong to, the more protected you are against stress, relapse, and even physical decline, and that adding one supportive group measurably improves recovery outcomes. Community is not a nice-to-have layered on discipline; for many people it is the load-bearing wall.</div>
 
 <div data-i18n-html="article_community-discipline_p7"><h2>Business and Sport Are Social</h2></div>
 

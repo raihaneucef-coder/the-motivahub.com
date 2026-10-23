@@ -24,7 +24,7 @@ keywords:
   - "grow wealth step by step"
 tags:
   - "finance"
-wordCount: 373
+wordCount: 456
 faq:
   - q: "What does 'earn, keep, grow' mean in personal finance?"
     a: "Three sequential jobs: (1) EARN — increase income through skills and value creation, (2) KEEP — protect money by spending less than you earn and avoiding debt, (3) GROW — invest the surplus in assets that compound (index funds, real estate, businesses). Most people skip to 'grow' without mastering 'keep.'"
@@ -63,6 +63,8 @@ relatedArticles:
 <div data-i18n-html="article_earn-keep-grow_p13"><h2>3. Grow It</h2></div>
 
 <div data-i18n-html="article_earn-keep-grow_p8"><strong>To grow</strong> is to make yesterday's work pay again today. A skill compounds when you reinvest its earnings — a course, a tool, an index fund that quietly buys the world's best companies while you sleep. Growing is slow at first and then it is not. That is why most quit before the curve bends.</div>
+
+<div data-i18n-html="article_earn-keep-grow_p15">Give the 'grow' step one number you can hold in your head: the Rule of 72. Divide 72 by your expected annual return and you get roughly the years it takes an investment to double — at 8%, about nine years; at a sluggish 2%, thirty-six. It makes the third job visceral: the same euros grow into a very different sum depending on the rate and the decades you leave them untouched, which is exactly the discipline Read practiced without knowing the formula.</div>
 
 <div data-i18n-html="article_earn-keep-grow_p9">Try a simple audit this week. Look at last month's income and ask: which of the three jobs got my best energy? Earning, keeping, or growing? Then give the weakest one two hours of deliberate practice.</div>
 

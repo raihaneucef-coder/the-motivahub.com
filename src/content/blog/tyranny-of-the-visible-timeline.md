@@ -24,7 +24,7 @@ keywords:
   - "invisible progress before breakthrough"
 tags:
   - "mindset"
-wordCount: 407
+wordCount: 491
 faq:
   - q: "Why do I feel behind compared to people my age?"
     a: "Because you are comparing your invisible chapter 3 to their visible chapter 10. You do not see their 7 years of unrecognized work, their failures, their debts behind the highlight. The timeline you are measuring against is a curated performance, not a documented reality."
@@ -57,6 +57,8 @@ relatedArticles:
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p5"><h2>Compounding Doesn't Announce Itself</h2></div>
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p6">Nearly <a href="/journal/secret-reussite/">everything that compounds</a> — savings, skill, strength, a body of written work — looks unimpressive for a long stretch before it looks obvious. This is not a design flaw. It is how compounding works: the early curve is flat almost by definition, because there isn't much yet for the growth to act on. The visible acceleration only shows up after a base has been built that nobody could see forming.</div>
+
+<div data-i18n-html="article_tyranny-of-the-visible-timeline_p11">The mistake is not impatience — it is a predictable cognitive bias. Research on how people reason about growth finds we are intuitively bad at exponential curves: we extrapolate linearly, expect each week to look like the last, and read the long flat stretch as proof that nothing is happening when, mathematically, it is exactly what accumulation looks like before the knee bends. Knowing the bias exists lets you distrust the feeling of 'no progress' at precisely the stage where progress is quietly compounding.</div>
 
 <div data-i18n-html="article_tyranny-of-the-visible-timeline_p7">The people who benefit from compounding are rarely the most talented ones in the room. They are the ones who <a href="/journal/viral-mindset-shift/">kept a boring, invisible process running</a> long enough for the curve to bend. Everyone else concluded, somewhere around month four, that nothing was happening — and they were technically right, and it cost them the part that mattered.</div>
 

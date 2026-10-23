@@ -22,7 +22,7 @@ keywords:
   - "delight as a discipline"
 tags:
   - "entertainment"
-wordCount: 275
+wordCount: 334
 faq:
   - q: "Can you really choose to be happy?"
     a: "Not as a forced emotion — but you can choose the conditions that produce it. Research on 'behavioral activation' shows scheduling pleasant activities (walks, music, friends) increases happiness as effectively as medication for mild depression. You can't summon joy, but you can build the path it walks in on."
@@ -54,6 +54,8 @@ relatedArticles:
 <div data-i18n-html="article_choose-joy-on-purpose_p8">- <strong>One joyful hour, unscheduled from productivity.</strong> <a href="/journal/regarder-intentionnellement/">A film you love</a>, a walk with no goal, music loud enough to sing.
 - <strong>One small delight daily.</strong> Coffee you actually taste, ten minutes of a novel, a call that makes you laugh.
 - <strong>Notice what delights you, then repeat it.</strong> Joy leaves traces. Follow them.</div>
+
+<div data-i18n-html="article_choose-joy-on-purpose_p12">Putting delight on the calendar is not indulgence; it is maintenance. Psychologists who study leisure find that unstructured rest does not reliably restore people — the recovery comes from activities with mild challenge and your full attention, the opposite of doomscrolling. A chosen hour of joy works precisely because you chose it, protected it, and were present for it.</div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p9">You do not need a perfect life to feel joy. You need to choose it, on purpose, before the week fills up without it.</div>
 

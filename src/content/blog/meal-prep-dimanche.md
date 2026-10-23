@@ -23,7 +23,7 @@ keywords:
 tags:
   - "nutrition"
   - "how-to"
-wordCount: 363
+wordCount: 447
 faq:
   - q: "How do I meal prep for the week in 2 hours?"
     a: "Sunday workflow: 1) Preheat oven, season proteins (30 min). 2) While cooking, wash and chop vegetables (20 min). 3) Start grains in a pot (20 min passive). 4) Assemble 5 containers: protein + grain + vegetables + sauce (20 min). You now have Mon-Fri lunches and need only 10 min for dinners."
@@ -67,6 +67,8 @@ Buy only what you need for the planned meals. A list prevents impulse buys and f
 
 <div data-i18n-html="article_meal-prep-dimanche_p9"><h3>Step 4: Store</h3>
 Refrigerate meals for the first 3 days. Freeze the rest. Each morning, grab what you need.</div>
+
+<div data-i18n-html="article_meal-prep-dimanche_p16">One safety rule the two-hour system depends on: cooked meals stay safely edible in the fridge for about 3 to 4 days at or below 4°C, which is exactly why the plan refrigerates the first few days and freezes the rest. Cool food to room temperature, then refrigerate within two hours, keep portions in shallow containers so they chill fast, and reheat only what you will eat now. Good prep is not just efficient — it is food you can still trust on Thursday.</div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p10"><h2>Benefits of Meal Prepping</h2></div>
 

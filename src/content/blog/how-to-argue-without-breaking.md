@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "how-to"
-wordCount: 225
+wordCount: 343
 faq:
   - q: "How do you argue without damaging the relationship?"
     a: "Attack the problem, not the person. Use 'I feel' statements instead of 'you always.' Take a 20-minute break when heart rate exceeds 100bpm (physiological flooding makes rational discussion impossible). End with repair: 'We're on the same team — this disagreement is the enemy, not you.'"
@@ -53,5 +53,8 @@ relatedArticles:
 - <strong>Take a regulated pause.</strong> When heart rate rises, say: "I want to stay kind — can we pause ten minutes and return?" Distance chosen together prevents distance that grows alone.</div>
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p7"><a href="/journal/resolution-conflits/">The repair matters more than the perfection</a>. After an argument, ask: "What did you need that I missed?" Listen without defending. The relationship is not weakened by conflict; it is strengthened by how you repair after it.</div>
+
+<div data-i18n-html="article_how-to-argue-without-breaking_p12">John Gottman's research at the University of Washington identified four communication patterns that predict separation with over 90% accuracy: criticism, contempt, defensiveness, and stonewalling. The antidote to each is specific. Contempt — eye-rolling, mocking — is the single strongest predictor of divorce, and it dissolves when partners build a habit of naming one thing they genuinely admire about each other daily.</div>
+<div data-i18n-html="article_how-to-argue-without-breaking_p13">One practical structure: the 20-minute rule. When heart rate exceeds 100 bpm during conflict — roughly when your voice rises and your chest tightens — the thinking brain goes partially offline. Agree in advance that either partner can call a 20-minute pause. Not silence, not punishment. A stated time-box that protects the conversation from the nervous system.</div>
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p8">You do not need to be right to be close. You need to be safe enough to be honest.</div>

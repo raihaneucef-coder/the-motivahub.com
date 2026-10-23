@@ -24,7 +24,7 @@ keywords:
   - "cheap high protein foods"
 tags:
   - "nutrition"
-wordCount: 292
+wordCount: 354
 faq:
   - q: "Why does protein matter if you're not an athlete?"
     a: "Protein is every cell's building material: immune antibodies, gut lining, neurotransmitters, hair, skin. After 30, you lose 3-8% muscle per decade (sarcopenia) unless protein is adequate. Non-athletes need 1.0-1.2g/kg (vs 0.8 RDA) to preserve functional strength and metabolic health."
@@ -65,3 +65,5 @@ relatedArticles:
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p9">Protein is not a supplement. It is a foundation.</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p10">Build on it, and everything else gets easier.</div>
+
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p13">After 40, sarcopenia — the natural loss of muscle mass — accelerates at 0.5-1% per year. Protein becomes a non-negotiable input to slow that decline, not a supplement for the vain. Research published in The American Journal of Clinical Nutrition recommends 1.0-1.2 g/kg/day for adults over 50 (versus the RDA 0.8 g/kg for younger adults), distributed evenly across meals to maximize synthesis.</div>

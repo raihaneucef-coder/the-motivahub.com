@@ -24,7 +24,7 @@ keywords:
   - "solo female travel safety tips"
 tags:
   - "travel"
-wordCount: 297
+wordCount: 364
 faq:
   - q: "What does solo travel teach you that group travel doesn't?"
     a: "Complete self-reliance. When alone, you make every decision, navigate every problem, and sit with every discomfort, building what psychologists call self-efficacy. You discover you can handle the unknown without a safety net, which transfers directly to career and relationships."
@@ -58,6 +58,8 @@ relatedArticles:
 - <strong>Write one page each night.</strong> What surprised you today? What was hard? What was beautiful?</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p9">You will come back with the same life. You will not be the same person in it.</div>
+
+<div data-i18n-html="article_solo-travel-stronger-self_p12">Study after study on solo travel reports the same gain: not a new hobby but higher self-efficacy — the belief that you can handle what comes. Removed from your usual roles and support structure, you resolve small problems (a missed connection, an unfamiliar menu) and quietly update your estimate of what you are capable of. The confidence is transferable because the skill it came from is general.</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p11">The first-day protocol that makes solo travel work: arrive with only the guaranteed basics — transport, bed, one meal — and schedule nothing else until you are standing in the city. Then choose in public: the decision you make while looking at a physical map is exactly who solo travel is training. Say yes to one thing you would have declined with company, and end the day with three written lines: what I feared, what happened, what I will keep.</div>
 

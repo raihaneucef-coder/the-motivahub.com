@@ -21,7 +21,7 @@ keywords:
   - "first investment step by step"
 tags:
   - "finance"
-wordCount: 336
+wordCount: 418
 faq:
   - q: "How do beginners start investing?"
     a: "Open a tax-advantaged account (PEA in France, ISA/401k in US/UK), automate a monthly transfer (even 50€), and buy a broad index fund (MSCI World or S&P 500). That's the entire 'getting started' — complexity comes later. Time in the market beats timing the market, always."
@@ -61,6 +61,8 @@ Set up automatic monthly investments. This is called dollar-cost averaging — y
 
 <div data-i18n-html="article_investir-debutant_p10"><h3>4. Keep Costs Low</h3>
 Choose funds with low expense ratios (under 0.5%). High fees destroy returns over time.</div>
+
+<div data-i18n-html="article_investir-debutant_p17">Why the fee line matters more than it looks: an expense ratio is charged every single year, so it compounds against you just as returns compound for you. As a rough, widely used rule of thumb, each extra 1% of annual fees can shave something close to a fifth off a portfolio's final value over a couple of decades versus a near-zero-cost index fund. The fund does not have to underperform for the fee to cost you — the arithmetic is enough.</div>
 
 <div data-i18n-html="article_investir-debutant_p11"><h3>5. Stay the Course</h3>
 The market will go up and down. Do not panic-sell during dips. Long-term investing wins.</div>

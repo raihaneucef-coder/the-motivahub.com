@@ -22,7 +22,7 @@ keywords:
   - "narrow your focus achieve more"
 tags:
   - "goals"
-wordCount: 479
+wordCount: 568
 faq:
   - q: "Why should I focus on one goal at a time?"
     a: "Task-switching carries a measurable 'switching cost' — every interruption forces you to re-load context, which slows you down and raises errors. Widely quoted figures like a '10-point IQ drop' are overstated and not from a single study, but the principle holds: multiple goals compete for the same limited attention. One target with full focus beats five targets with split attention every time."
@@ -49,6 +49,8 @@ relatedArticles:
 <div data-i18n-html="article_one-target-at-a-time_p4">"I want to get fit." "I want to build something of my own." "I want to be better with money." Each of these is a direction, not a destination. And a direction, without an address, is just a mood. You cannot visit a mood every morning. You can only visit a target.</div>
 
 <div data-i18n-html="article_one-target-at-a-time_p5"><strong>A real goal has coordinates.</strong> Not "get fit" but <em>run five kilometers without stopping by October</em>. Not "build something" but <em>ship the first version to ten people by the end of next month</em>. The difference sounds like bureaucracy. It is actually mercy — because a defined goal tells you, on any given ordinary Tuesday, exactly what today owes tomorrow.</div>
+
+<div data-i18n-html="article_one-target-at-a-time_p13">There is a research basis for aiming at the ring, not the field. Decades of goal-setting work by Gary Latham and Edwin Locke — one of the most replicated findings in management psychology — show that specific, challenging goals reliably outperform vague 'do your best' intentions, because a precise target directs attention, mobilizes effort, and gives you a real standard to persist against. 'Get fit' cannot do that; 'run 5K by October' can. Precision is not pedantry — it is the part of the goal that does the pulling.</div>
 
 <div data-i18n-html="article_one-target-at-a-time_p6">There is an old archery truth worth stealing: <strong>the archer does not aim at the field. She aims at one ring.</strong> Everything else — wind, distance, fatigue — gets managed <em>in service</em> of that ring, not instead of it. When you hold one clear target, decisions become cheap. Does this hour move me toward the ring or not? Most things do not. Let them go without grief.</div>
 

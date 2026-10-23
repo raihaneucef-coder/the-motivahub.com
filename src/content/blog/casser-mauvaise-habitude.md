@@ -24,7 +24,7 @@ keywords:
 tags:
   - "habits"
   - "how-to"
-wordCount: 1683
+wordCount: 1676
 faq:
   - q: "What are the reverse four laws of habit change?"
     a: "The reverse four laws are: (1) Make it invisible — remove the trigger, (2) Make it unattractive — reframe the narrative, (3) Make it difficult — increase friction, (4) Make it unsatisfying — add a negative consequence. These are the inverse of the four laws for building good habits."
@@ -210,6 +210,6 @@ I tried to stop scrolling without any negative consequence. There was no cost. T
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p65">---</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start designing against it.</strong> To see how the reverse four laws fit into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to breaking bad habits instead of building good ones.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start redesigning the conditions around it.</strong> The 2-Minute Rule guide shows how tiny starts rewire both good and bad habits from the inside. Read the full walkthrough if you want the step-by-step version.</div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p67"><em>Last updated: September 12, 2026 — added personal 30-day scrolling habit break, the reverse four laws protocol, and the identity-based framework for breaking habits.</em></div>

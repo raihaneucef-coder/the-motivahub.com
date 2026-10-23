@@ -23,7 +23,7 @@ keywords:
   - "recovery routine for athletes"
 tags:
   - "sport"
-wordCount: 293
+wordCount: 352
 faq:
   - q: "Why is recovery considered part of training?"
     a: "Exercise creates micro-tears in muscle fibers; recovery is when they repair STRONGER. Without adequate rest (48-72 hrs between muscle groups), you accumulate damage without adaptation. The gym is the stimulus; sleep and rest are where the actual growth happens."
@@ -60,5 +60,7 @@ relatedArticles:
 <div data-i18n-html="article_recovery-is-training_p8">- <strong>Sleep is your first supplement.</strong> No powder replaces eight hours.
 - <strong>Eat to recover, not to reward.</strong> Protein, water, and enough food.
 - <strong>Take the easy day easy.</strong> A walk, a stretch, a breath. Not a test.</div>
+
+<div data-i18n-html="article_recovery-is-training_p12">Exercise physiology is unambiguous about the order of events: adaptation — strength, speed, endurance — happens during rest, not during the session. The workout only supplies the stimulus; recovery supplies the repair. Studies tracking heart-rate variability find that athletes who dial training back when readiness is low outperform those who push through regardless, on the tests that actually matter.</div>
 
 <div data-i18n-html="article_recovery-is-training_p9">You do not need to train more. You need to recover as deliberately as you train.</div>

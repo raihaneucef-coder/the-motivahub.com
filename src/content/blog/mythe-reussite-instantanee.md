@@ -22,7 +22,7 @@ keywords:
   - "rocking the boat years before breakthrough"
 tags:
   - "success"
-wordCount: 258
+wordCount: 316
 faq:
   - q: "Why is 'overnight success' a myth?"
     a: "Because the public only sees the moment of breakthrough, not the 7-15 years of invisible preparation. Malcolm Gladwell's '10,000 hours' and Malcolm's bamboo analogy show: what looks like a single lucky moment is the visible emergence of long, boring, repeated effort."
@@ -59,6 +59,8 @@ relatedArticles:
 - <strong>Oprah Winfrey:</strong> Fired from her first television job. Told she was "unfit for TV."</div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p10">None of these people succeeded overnight. They succeeded because they refused to quit.</div>
+
+<div data-i18n-html="article_mythe-reussite-instantanee_p16">The research point worth keeping: expert performance is built, not sprung. Studies on deliberate practice across music, chess, and sport find that visible skill tracks the hours of focused, feedback-driven repetition — not a hidden gift that suddenly surfaces. The 'overnight' moment is simply the first day the public could see what had been accumulating out of view.</div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p11"><h2>The Truth About Success</h2></div>
 

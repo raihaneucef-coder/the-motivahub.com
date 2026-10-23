@@ -22,7 +22,7 @@ keywords:
   - "psychology of building wealth"
 tags:
   - "success"
-wordCount: 314
+wordCount: 386
 faq:
   - q: "What is the 'psychology of money' and why does it matter more than strategy?"
     a: "Your 'money scripts' (unconscious beliefs formed in childhood) drive 80%+ of financial behavior. A person who believes 'money is evil' will self-sabotage wealth-building despite knowing the right strategy. Change the story first, and the budget executes itself."
@@ -54,6 +54,8 @@ relatedArticles:
 <div data-i18n-html="article_psychology-of-money-business_p8">The market rewards patience more than intelligence. The investor who holds for ten years beats the genius who trades ten times a day. The business that reinvests quietly for five years beats the one that chases every trend.</div>
 
 <div data-i18n-html="article_psychology-of-money-business_p9">Compound interest is not just money. It is trust. It is reputation. It is the habit of showing up when no one is watching. Successful founders are <a href="/journal/mythe-reussite-instantanee/">not overnight success</a>es — they are ten-year stories told in sixty seconds.</div>
+
+<div data-i18n-html="article_psychology-of-money-business_p13">Housel's thesis has company in the data. Behavioral economists find that the largest financial gains often come not from smarter product choices but from a few structural behavior changes — Shlomo Benartzi's 'Save More Tomorrow' proved this, lifting retirement savings by committing people in advance to save future raises automatically. The math was unchanged; only the story and the default were. That is the whole lesson of money-as-behavior, in one real result.</div>
 
 <div data-i18n-html="article_psychology-of-money-business_p10"><h2>The Story You Tell</h2></div>
 

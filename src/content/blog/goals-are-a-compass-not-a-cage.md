@@ -22,7 +22,7 @@ keywords:
   - "process over outcome goals"
 tags:
   - "goals"
-wordCount: 294
+wordCount: 353
 faq:
   - q: "Why do my goals feel like a prison?"
     a: "Because you framed them as contracts ('I must do X or I fail'). This triggers loss-aversion anxiety. Reframe: a goal is a compass pointing toward a direction. You're allowed to take detours, rest, and adjust the route without abandoning the destination."
@@ -50,6 +50,8 @@ relatedArticles:
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p6"><strong>A compass keeps you oriented without demanding perfection.</strong> You can take a detour, you can rest, you can even change the destination when you learn more. The compass does not judge; it just keeps pointing.</div>
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p7">This is why the most motivated people are not the most rigid. They are the most clear about direction and the most flexible about the path.</div>
+
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p12">Motivational science backs the compass. Researchers in the lifespan theory of control separate persistent goal striving (good) from over-investing in a goal that no longer fits (which raises distress and lowers attainment). The healthy move is flexible goal adjustment: stay committed to the direction, willing to rewrite the specific target when reality teaches you something. Same north, updated map.</div>
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p8">Try it with one goal this week:</div>
 

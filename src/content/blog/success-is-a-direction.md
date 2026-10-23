@@ -22,7 +22,7 @@ keywords:
   - "what comes after achieving your dream"
 tags:
   - "success"
-wordCount: 252
+wordCount: 353
 faq:
   - q: "Why do successful people often feel empty after achievement?"
     a: "The arrival fallacy (Buddhist psychology plus Dan Gilbert research): humans overestimate the lasting happiness a single achievement brings. Hedonic adaptation resets you within 3-6 months. If success is a destination, you are homeless the moment you arrive. If it is a direction, every day counts."
@@ -57,3 +57,6 @@ relatedArticles:
 
 
 <div data-i18n-html="article_success-is-a-direction_p9">Destinations end. Directions endure.</div>
+
+<div data-i18n-html="article_success-is-a-direction_p12">The destination model of success creates what researchers call an 'arrival fallacy' — the belief that reaching a goal will produce lasting happiness. Studies by Ben-Shahar at Harvard show that the emotional bump from achievement fades within days, and people who define success as a fixed point spend their lives oscillating between striving and emptiness.</div>
+<div data-i18n-html="article_success-is-a-direction_p13">Replace 'When I reach X, I will be enough' with 'I am moving in the direction of X, and the moving itself is who I want to be.' This subtle shift turns every ordinary Tuesday into evidence of success rather than a waiting room for it.</div>
