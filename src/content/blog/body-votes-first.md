@@ -56,11 +56,11 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p5">It writes the plans. It sets the alarms. It recites the ambitions at midnight. But watch closely on any given afternoon and you will see who actually runs the day: the body votes first, and the mind simply obeys.</div>
 
-<div data-i18n-html="article_body-votes-first_p6">I learned this in 2022, when I was training for a half marathon. I was 85 kilograms, 28 years old, and my only experience with running was running to catch a bus. A friend challenged me to run 21 kilometers in 6 months. I said yes.</div>
+<div data-i18n-html="article_body-votes-first_p6">I learned this in 2022, when I was training for a half marathon. I was 85 kilograms, 28 years old, and my only experience with running was running to catch a bus. The dare — six months to cover 21 kilometers — came from a friend; whether I could actually keep it, I did not yet know.</div>
 
-<div data-i18n-html="article_body-votes-first_p7">For the first 3 weeks, I was motivated. I ran every morning. I tracked my pace. I bought new shoes. I felt like an athlete.</div>
+<div data-i18n-html="article_body-votes-first_p7">For the first 3 weeks the body volunteered before the mind was ever consulted. I ran every morning, tracked my pace, bought new shoes — and none of it felt like effort, because desire was doing the deciding for me.</div>
 
-<div data-i18n-html="article_body-votes-first_p8">Then the rain started. Then the early mornings got cold. Then I missed one day. Then two. By week 6, I had run twice in the last 10 days. The motivation was gone. The body was voting: "Stay in bed."</div>
+<div data-i18n-html="article_body-votes-first_p8">By the sixth week the vote had flipped. The skies went grey and the mornings cold, one skipped run slid into two, and I found myself out on only two runs in ten days. The old negotiating voice returned, and this time it said: "Stay in bed."</div>
 
 <div data-i18n-html="article_body-votes-first_p9">The mind tried to negotiate: "You have a goal. You have a deadline. You have a half marathon in 3 months."</div>
 
@@ -110,7 +110,7 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p31">In 2022, I ran three times per week. Monday, Wednesday, Friday. 6:30 AM. 5 kilometers each time. Some days I ran 10. Some days I ran 3. The minimum was 5. The body needed consistency, not intensity.</div>
 
-<div data-i18n-html="article_body-votes-first_p32">The result: I finished the half marathon in 2 hours 15 minutes. Not fast. But I showed up for every training run except 4. The body voted. The mind obeyed. The identity shifted from "I am a person who runs" to "I am a runner."</div>
+<div data-i18n-html="article_body-votes-first_p32">The result: I crossed the line in 2 hours 15 minutes — not fast, but finished. What mattered happened long before race day: on hundreds of small mornings the body cast its vote, and the mind followed. The identity shifted from "I am a person who runs" to "I am a runner."</div>
 
 <div data-i18n-html="article_body-votes-first_p33"><h2>The Identity File</h2></div>
 
@@ -154,15 +154,15 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p49"><h2>The Honest Summary</h2></div>
 
-<div data-i18n-html="article_body-votes-first_p50">I finished my half marathon in 2 hours 15 minutes. I was not fast. But I showed up for every training run except 4. I ran in the rain. I ran in the cold. I ran when I was tired. I ran when I was not motivated.</div>
+<div data-i18n-html="article_body-votes-first_p50">I finished the half marathon in 2 hours 15 minutes, having missed only 4 of 36 planned runs. What I remember is not the time. It is the pattern behind it: the mornings I moved, my mind ran clear all day; the mornings I didn't, everything cost more.</div>
 
-<div data-i18n-html="article_body-votes-first_p51">That is what athlete discipline looks like. Not the highlight reel. The 5 AM run in the rain. The last rep when no one is watching. The 15 kilometers when you want to quit.</div>
+<div data-i18n-html="article_body-votes-first_p51">That is what "the body votes first" actually means. Not a personal best to brag about — a quiet cause and effect. Move the body, and it funds the mind's budget for patience, clarity and steadier decisions.</div>
 
 <div data-i18n-html="article_body-votes-first_p52">The body votes first. Make sure it votes the way you would have chosen.</div>
 
 <div data-i18n-html="article_body-votes-first_p53">---</div>
 
-<div data-i18n-html="article_body-votes-first_p54"><em>Youssef Raihane trained for a half marathon in 2022, finishing in 2 hours 15 minutes. He missed 4 runs out of 36. The discipline he built from that training now applies to every long-term project.</em></div>
+<div data-i18n-html="article_body-votes-first_p54"><em>Youssef Raihane ran his first half marathon in 2022, crossing the line in 2 hours 15 minutes. What has outlasted that training is not the race but the habit of trusting the body's votes — the same maintenance logic he now runs his writing and every long project on.</em></div>
 
 <div data-i18n-html="article_body-votes-first_p55"><h2>Sources</h2></div>
 

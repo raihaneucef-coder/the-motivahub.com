@@ -41,7 +41,7 @@ relatedArticles:
 
 <div data-i18n-html="article_langage-corps-confiance_p2">Your body speaks before your mouth opens. Learn the body language techniques that project confidence, authority, and presence.</div>
 
-<div data-i18n-html="article_langage-corps-confiance_p3">Research shows that 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Your body is already speaking — make sure it is saying the right things.</div>
+<div data-i18n-html="article_langage-corps-confiance_p3">You may have seen the claim that communication is 55% body language, 38% tone of voice and only 7% words. That "7-38-55 rule" is widely over-sold. It traces to Albert Mehrabian's 1967 experiments on how people judge a speaker's feelings when a single word and the tone or facial expression contradict each other (Mehrabian &amp; Ferris, 1967; Mehrabian &amp; Wiener, 1967; summarized in <em>Silent Messages</em>, 1971) — and it was never intended to describe everyday communication as a whole. The defensible version is narrower but still matters: when your words and your body disagree, people believe the body. Your body is already speaking — make sure it is saying what you actually mean.</div>
 
 
 <div data-i18n-html="article_langage-corps-confiance_p4"><h2>Power Postures</h2></div>
