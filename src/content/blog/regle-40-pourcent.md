@@ -1,6 +1,6 @@
 ---
 title: "The 40% Rule: I Tested Goggins' Protocol for 30 Days"
-seoTitle: "The 40% Rule: I Tested It for 30 Days"
+seoTitle: "David Goggins' 40% Rule: I Tested It for 30 Days"
 description: "I tested Goggins' 40% rule for 30 days and tracked 47 mental walls: 77% of pushes paid off, 10% backfired. The protocol, the science, and when the wall is real."
 titleFr: "La Règle des 40 % : Testée Pendant 30 Jours — Résultats Réels"
 seoTitleFr: "Règle des 40 % : Testée 30 Jours"
