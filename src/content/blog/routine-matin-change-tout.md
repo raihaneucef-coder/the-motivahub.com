@@ -25,11 +25,11 @@ tags:
 wordCount: 567
 faq:
   - q: "Can a morning routine really change your life?"
-    a: "Yes — not because of the specific activities but because of what a routine builds: a sense of control before the world makes demands. Research on 'self-efficacy' shows that keeping a promise to yourself first thing raises confidence for every subsequent decision that day."
+    a: "Yes — not because of the specific activities but because of what a routine builds: a sense of control before the world makes demands. Bandura's work on 'self-efficacy' identifies accomplished small wins as a core source of felt efficacy; keeping a promise to yourself first thing makes the next promises of that day easier to keep."
   - q: "What are the 4 pillars of a powerful morning routine?"
     a: "Move (10-30 min exercise), Mind (journaling, meditation, or reading), Fuel (hydration + protein breakfast), and Mission (review your #1 priority for the day). You don't need all four immediately — start with one and stack over 2-3 weeks."
   - q: "How do I stick to a morning routine long-term?"
-    a: "Prepare the night before (lay out clothes, set the coffee). Never miss twice in a row. Start at your natural wake time — don't jump to 5am overnight. Track streaks visually (calendar X method). After 66 days the routine feels automatic and skipping feels worse than doing it."
+    a: "Prepare the night before (lay out clothes, set the coffee). Never miss twice in a row. Start at your natural wake time — don't jump to 5am overnight. Track streaks visually (calendar X method). In the University College London habit study (Lally et al., 2010), a new behaviour took a median of 66 days to feel automatic — individual times ran from 18 to 254 days — so plan for months, not weeks."
 
 relatedArticles:
   - "nervous-system-reset-focus"

@@ -30,14 +30,14 @@ faq:
   - q: "What is the difference between discipline and motivation?"
     a: "Motivation is a feeling — it comes and goes. Discipline is a decision — you act regardless of how you feel. Discipline outlasts motivation because it doesn't depend on your emotional state."
   - q: "How long does it take to build self-discipline?"
-    a: "Research from UCL (2010) shows habits form in 66 days on average. But the first 2 weeks are the hardest. After 30 days of consistent practice, discipline starts to feel automatic."
+    a: "The UCL study usually quoted for this (Lally et al., 2010) found a median of 66 days for a new habit to feel automatic, with individual results from 18 to 254 days. The first weeks are the hardest, and automaticity grows gradually — it does not switch on at a fixed day."
 faqFr:
   - q: "Comment construire une autodiscipline qui dure ?"
     a: "Commencez par une seule petite habitude non négociable (ex : faire votre lit chaque jour). Empilez progressivement. Utilisez la conception de l'environnement pour réduire la friction. Suivez vos séries visuellement."
   - q: "Quelle est la différence entre discipline et motivation ?"
     a: "La motivation est un sentiment — elle va et vient. La discipline est une décision — vous agissez indépendamment de votre état émotionnel. La discipline dure plus longtemps que la motivation."
   - q: "Combien de temps faut-il pour développer la discipline de soi ?"
-    a: "La recherche de l'UCL (2010) montre que les habitudes se forment en 66 jours en moyenne. Les 2 premières semaines sont les plus difficiles. Après 30 jours de pratique cohérente, la discipline devient automatique."
+    a: "L'étude d'UCL habituellement citée (Lally et al., 2010) donne une médiane de 66 jours avant qu'une habitude paraisse automatique, avec des résultats individuels allant de 18 à 254 jours. Les premières semaines sont les plus difficiles et l'automatisation progresse par degrés — elle ne s'enclenche pas à un jour fixe."
 
 relatedArticles:
   - "discipline-beat-motivation"

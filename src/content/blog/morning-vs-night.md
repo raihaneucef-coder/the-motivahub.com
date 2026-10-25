@@ -33,22 +33,22 @@ tags:
 wordCount: 1408
 faq:
   - q: "Is it better to build a habit in the morning or at night?"
-    a: "It depends on your chronotype. Morning types (larks) have peak willpower and focus in the first 2-3 hours after waking. Evening types (owls) have peak willpower in the late afternoon and evening. The wrong time of day for your chronotype is the most common reason a discipline routine fails. The science: willpower is a finite daily resource that follows your circadian rhythm, not a 24/7 constant."
+    a: "It depends on your chronotype. Morning types (larks) have peak willpower and focus in the first 2-3 hours after waking. Evening types (owls) have peak willpower in the late afternoon and evening. The wrong time of day for your chronotype is the most common reason a discipline routine fails. The honest version: your alertness and self-control are cheaper at some hours than others, and they follow your circadian rhythm rather than being available at a constant 24/7 level."
   - q: "How do I know if I'm a morning person or night owl?"
-    a: "The Munich Chronotype Questionnaire (MCTQ) is the gold standard. The shorter version: when do you feel most alert on days when you have no obligations? If 6-10 AM, you are a morning type. If 4-10 PM, you are an evening type. The 4-question quick test in the article (best time for hard work, wake-up without alarm, peak focus, evening energy) is a fast approximation that works for 80% of people."
+    a: "The Munich Chronotype Questionnaire (MCTQ) is the gold standard. The shorter version: when do you feel most alert on days when you have no obligations? If 6-10 AM, you are a morning type. If 4-10 PM, you are an evening type. The 4-question quick test in the article (best time for hard work, wake-up without alarm, peak focus, evening energy) is a fast approximation that gets most people into the right camp."
   - q: "Can I become a morning person if I'm a night owl?"
-    a: "Partially. Chronotype is roughly 50% genetic and 50% environmental. You can shift your chronotype by 1-2 hours through consistent light exposure, meal timing, and exercise scheduling. But forcing a night owl to do a 5 AM routine is the most common discipline mistake. The article explains the specific levers that move the needle — and which ones are overrated."
+    a: "Partially. Twin studies put the inherited share of chronotype at roughly 50%; the rest is your light schedule, meal timing and life constraints. You can shift your chronotype by 1-2 hours through consistent light exposure, meal timing, and exercise scheduling. But forcing a night owl to do a 5 AM routine is the most common discipline mistake. The article explains the specific levers that move the needle — and which ones are overrated."
   - q: "What time of day is best for habits to stick?"
     a: "The time that matches your chronotype AND is consistently the same time. Consistency matters more than the specific hour. A habit at 7 AM for a night owl will fail. A habit at 10 AM for the same night owl will stick. The variable is the alignment between the time and your natural energy peak. The article gives the framework for finding the right hour for any habit."
   - q: "What is the 2-day rule for habit timing?"
     a: "The 2-day rule (also used in recovery from a missed day) applies to timing: if you cannot do the habit at your usual time on a given day, do it within 2 hours of the usual time. Same day, close to the same time. This prevents the timing from drifting, which is a more common cause of habit death than missing a day entirely."
 faqFr:
   - q: "Vaut-il mieux construire une habitude le matin ou le soir ?"
-    a: "Cela dépend de votre chronotype. Les du matin (alouettes) ont un pic de volonté et de concentration dans les 2 à 3 premières heures après le réveil. Les du soir (chouettes) ont leur pic en fin d'après-midi et en soirée. Le mauvais moment de la journée pour votre chronotype est la raison la plus fréquente d'échec d'une routine de discipline. La science : la volonté est une ressource quotidienne finie qui suit votre rythme circadien, pas une constante disponible 24 h/24."
+    a: "Cela dépend de votre chronotype. Les du matin (alouettes) ont un pic de volonté et de concentration dans les 2 à 3 premières heures après le réveil. Les du soir (chouettes) ont leur pic en fin d'après-midi et en soirée. Le mauvais moment de la journée pour votre chronotype est la raison la plus fréquente d'échec d'une routine de discipline. En toute honnêteté : votre vigilance et votre maîtrise de soi coûtent moins cher à certaines heures qu'à d'autres, et elles suivent votre rythme circadien au lieu d'être également disponibles 24 h/24."
   - q: "Comment savoir si je suis du matin ou du soir ?"
-    a: "Le Questionnaire de Munich (MCTQ) est la référence. Version courte : quand êtes-vous le plus éveillé les jours sans obligation ? Entre 6 h et 10 h, vous êtes du matin. Entre 16 h et 22 h, vous êtes du soir. Le test rapide à 4 questions de l'article (meilleur moment pour le travail difficile, réveil sans alarme, pic de concentration, énergie du soir) est une bonne approximation pour 80 % des gens."
+    a: "Le Questionnaire de Munich (MCTQ) est la référence. Version courte : quand êtes-vous le plus éveillé les jours sans obligation ? Entre 6 h et 10 h, vous êtes du matin. Entre 16 h et 22 h, vous êtes du soir. Le test rapide à 4 questions de l'article (meilleur moment pour le travail difficile, réveil sans alarme, pic de concentration, énergie du soir) est une approximation qui place la plupart des gens dans le bon camp."
   - q: "Puis-je devenir du matin si je suis du soir ?"
-    a: "Partiellement. Le chronotype est environ à 50 % génétique et à 50 % environnemental. Vous pouvez le décaler d'une à deux heures par une exposition lumineuse régulière, des horaires de repas stables et une planification de l'exercice. Mais forcer une chouette à une routine à 5 h est l'erreur de discipline la plus courante. L'article explique les leviers qui font vraiment bouger l'aiguille — et ceux qui sont surévalués."
+    a: "Partiellement. Les études sur des jumeaux situent la part héritée du chronotype autour de 50 % ; le reste tient à votre exposition lumineuse, vos horaires de repas et vos contraintes de vie. Vous pouvez le décaler d'une à deux heures par une exposition lumineuse régulière, des horaires de repas stables et une planification de l'exercice. Mais forcer une chouette à une routine à 5 h est l'erreur de discipline la plus courante. L'article explique les leviers qui font vraiment bouger l'aiguille — et ceux qui sont surévalués."
   - q: "À quelle heure une habitude a-t-elle le plus de chances de tenir ?"
     a: "L'heure qui correspond à votre chronotype ET qui reste toujours la même. La régularité compte plus que l'heure précise. Une habitude à 7 h pour une chouette échouera. La même habitude à 10 h tiendra. La variable clé est l'alignement entre le moment et votre pic d'énergie naturel. L'article donne le cadre pour trouver la bonne heure de n'importe quelle habitude."
   - q: "C'est quoi la règle des 2 jours appliquée à l'horaire ?"
@@ -73,17 +73,17 @@ relatedArticles:
 
 <div data-i18n-html="article_morning-vs-night_p8"><h2>The chronotype data</h2></div>
 
-<div data-i18n-html="article_morning-vs-night_p9">Chronotype is the body's natural preference for sleep and wake times. It is roughly 50% genetic and 50% environmental. The genetic component is fixed. The environmental component can be shifted by 1-2 hours with consistent light exposure, meal timing, and exercise.</div>
+<div data-i18n-html="article_morning-vs-night_p9">Chronotype is the body's natural preference for sleep and wake times. Twin studies place the inherited share at roughly 50%; the rest is shaped by light, schedule and habit. The genetic component sets your default. The non-genetic part can be shifted by 1-2 hours with consistent light exposure, meal timing, and exercise.</div>
 
-<div data-i18n-html="article_morning-vs-night_p10">The two extreme chronotypes are larks (morning types) and owls (evening types). Most people fall somewhere in between. The lark-owl distribution in a typical population is roughly 25% larks, 25% owls, 50% in between.</div>
+<div data-i18n-html="article_morning-vs-night_p10">The two extreme chronotypes are larks (morning types) and owls (evening types). Most people fall somewhere in between. The exact split depends on the questionnaire and the country surveyed, but large samples consistently place clear morning types and clear evening types each in the minority, with most people between the two poles.</div>
 
 <div data-i18n-html="article_morning-vs-night_p11">The relevant fact: willpower and focus follow the chronotype. Larks have peak willpower in the first 2-3 hours after waking. Owls have peak willpower in the late afternoon and evening. The peak is roughly 4-6 hours wide. Outside the peak, willpower is lower, distractions are higher, and discipline is harder.</div>
 
-<div data-i18n-html="article_morning-vs-night_p12">This means the same discipline routine, run by a lark at 6 AM, has 3x the success rate of the same routine run by an owl at the same hour. The hour is the variable. The chronotype is the constraint.</div>
+<div data-i18n-html="article_morning-vs-night_p12">This means the same discipline routine, run by a lark at 6 AM, has a far better chance of surviving than the same routine run by an owl at that hour. The hour is the variable. The chronotype is the constraint.</div>
 
 <div data-i18n-html="article_morning-vs-night_p13"><h2>The 4-question test</h2></div>
 
-<div data-i18n-html="article_morning-vs-night_p14">Most people do not know their chronotype. The Munich Chronotype Questionnaire is the gold standard but it is long. The 4-question version below works for 80% of people.</div>
+<div data-i18n-html="article_morning-vs-night_p14">Most people do not know their chronotype. The Munich Chronotype Questionnaire is the gold standard but it is long. The 4-question version below is accurate enough to sort most people into the right camp.</div>
 
 <div data-i18n-html="article_morning-vs-night_p15"><strong>Question 1: When is your best time for hard cognitive work?</strong> If the answer is morning (6-11 AM), you are a lark. If afternoon (2-6 PM), you are intermediate. If evening (6-10 PM), you are an owl.</div>
 
@@ -122,7 +122,7 @@ relatedArticles:
 
 <div data-i18n-html="article_morning-vs-night_p31"><h2>The lever that moves the needle</h2></div>
 
-<div data-i18n-html="article_morning-vs-night_p32">The chronotype is 50% genetic and 50% environmental. The environmental lever is light. Morning light exposure shifts the chronotype earlier. Evening light exposure shifts it later. The shift is roughly 30-60 minutes per week of consistent exposure.</div>
+<div data-i18n-html="article_morning-vs-night_p32">Roughly half of chronotype is inherited; the rest is trainable, and the trainable lever is light. Morning light exposure shifts the chronotype earlier. Evening light exposure shifts it later. With consistent exposure, the shift is measured in tens of minutes per week, not hours overnight.</div>
 
 <div data-i18n-html="article_morning-vs-night_p33">This is the lever. A lark-leaning person who wants to become more of a lark can use 20-30 minutes of bright light exposure in the first hour after waking. An owl-leaning person who wants to become more of an owl can use bright light in the late afternoon. The shift is small but real.</div>
 

@@ -26,11 +26,11 @@ tags:
 wordCount: 452
 faq:
   - q: "What 5-minute daily habit strengthens relationships?"
-    a: "One undistracted check-in: ask 'how was your day?' and listen for 3 minutes without your phone. Add 2 minutes of specific appreciation ('I loved how you handled X today'). This tiny ritual creates emotional safety and signals 'you matter' — the #1 predictor of relationship satisfaction (Gottman Institute)."
+    a: "One undistracted check-in: ask 'how was your day?' and listen for 3 minutes without your phone. Add 2 minutes of specific appreciation ('I loved how you handled X today'). This tiny ritual creates emotional safety and signals 'you matter' — the kind of small attuned moment Gottman's research links to lasting satisfaction."
   - q: "Why do small daily gestures matter more than big occasions?"
-    a: "Gottman's research: successful couples have a 5:1 ratio of positive to negative micro-interactions daily. One birthday dinner does less for connection than 365 small 'I made you coffee' moments. The brain tracks frequency, not intensity — daily proof of being seen beats monthly proof of being celebrated."
+    a: "Gottman's research: stable couples run at roughly a 5:1 ratio of positive to negative interactions. One birthday dinner does less for connection than 365 small 'I made you coffee' moments. The brain tracks frequency, not intensity — daily proof of being seen beats monthly proof of being celebrated."
   - q: "How do I remember to do this every day?"
-    a: "Stack it onto an existing shared moment: after dinner, before bed, when you both get home. Set a gentle phone reminder for the first two weeks. Once the check-in becomes automatic (66 days average), skipping it will feel weirder than doing it — the habit loop takes over."
+    a: "Stack it onto an existing shared moment: after dinner, before bed, when you both get home. Set a gentle phone reminder for the first two weeks. Once the check-in becomes automatic — Lally et al. (2010) measured a median of 66 days for a new habit — skipping it will feel weirder than doing it, and the habit loop takes over."
 
 relatedArticles:
   - "how-to-argue-without-breaking"
@@ -56,14 +56,14 @@ Look at the person — not the TV, not the wall, not the middle distance. Eye co
 "How was your day?" earns a one-word reflex. Replace it with a specific prompt: "What was the best part of your day?" or "What is something you are thinking about?" These open a door instead of a script. The partner must actually recall and construct an answer — and that construction is where connection lives.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p8"><h3>4. Listen Without Fixing</h3>
-When they talk, resist the urge to solve. Gottman's research found that partners who respond to stress-disclosure with advice instead of empathy score lower on relationship satisfaction — the listener's instinct to "fix" communicates "your feelings are a problem to eliminate." Nod. Reflect back one sentence. Ask "how did that make you feel?" The fix can wait; the need to be heard cannot.</div>
+When they talk, resist the urge to solve. In Gottman's six-year follow-up of newlyweds, couples who stayed married turned toward each other's bids for attention 86% of the time; those who later divorced managed only 33%. Answering a stress story with advice instead of attention is one way a bid gets missed — the listener's instinct to "fix" communicates "your feelings are a problem to eliminate." Nod. Reflect back one sentence. Ask "how did that make you feel?" The fix can wait; the need to be heard cannot.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p9"><h3>5. Express Specific Appreciation</h3>
 End with one concrete "thank you": "Thank you for making dinner tonight — it meant a lot that you did that without me asking." Specificity matters because generic praise ("you are great") registers as background noise, while precise acknowledgement proves you actually noticed the action. This tiny data point is what "being seen" feels like from the inside.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p10"><h2>Why It Works</h2></div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it targets the number one predictor of relationship satisfaction: the 5:1 ratio of positive to negative micro-interactions (Gottman Institute). One birthday dinner does less for connection than 365 small "I made you coffee" moments, because the brain tracks frequency of being seen, not intensity of occasional celebration.</div>
+<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it targets one of the strongest predictors Gottman's research identifies: the 5:1 ratio of positive to negative interactions (Gottman Institute). One birthday dinner does less for connection than 365 small "I made you coffee" moments, because the brain tracks frequency of being seen, not intensity of occasional celebration.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p12">That is all most people need.</div>
 

@@ -230,7 +230,7 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-reset-focus_p67">4. <strong>Stanford neurobiology:</strong> Andrew Huberman's research on focus emphasizes body position, breath, and eye movement as primary tools. Mind tools (meditation) come after.</div>
 
-<div data-i18n-html="article_nervous-system-reset-focus_p68">5. <strong>The "window of tolerance":</strong> Trauma research shows we all have a zone of nervous system activation where we can think clearly. Outside that zone (too activated or too shut down), we can't.</div>
+<div data-i18n-html="article_nervous-system-reset-focus_p68">5. <strong>The "window of tolerance":</strong> The concept, coined by Dan Siegel (1999), describes a zone of nervous-system activation where we can think clearly. Outside that zone (too activated or too shut down), we can't.</div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p69">The takeaway isn't that willpower is fake. Willpower is real. But willpower is a <strong>function of nervous system state</strong>, not an independent force. Regulate the body, and willpower returns automatically.</div>
 

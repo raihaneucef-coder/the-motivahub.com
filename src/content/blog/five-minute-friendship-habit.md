@@ -28,7 +28,7 @@ faq:
   - q: "What is the five-minute friendship habit?"
     a: "A daily 5-minute action to maintain a friendship: one text ('thinking of you'), one voice note, one comment on their post, or one 3-minute call. Rotating through 7 friends per week means everyone in your circle gets consistent attention without it feeling like work."
   - q: "Why do friendships fade without effort?"
-    a: "Research shows adult friendships decay in 7 years without contact (University of Oxford, Dunbar). The 'proximity effect' that made school friendships effortless disappears with adulthood. Without deliberate scheduling, even best friends become strangers who once knew you."
+    a: "Dunbar's friendship-maintenance studies found closeness eroding within months — roughly a three-month slide — when contact stops, and friendships (unlike kin ties) are the relationship type that most actively requires investment. The 'proximity effect' that made school friendships effortless disappears with adulthood. Without deliberate scheduling, even best friends become strangers who once knew you."
   - q: "How do I remember to stay in touch with friends?"
     a: "Attach friendship maintenance to an existing habit (after morning coffee, send one text). Use a recurring reminder on Sunday: 'pick 3 people to reach out to.' Lower the bar: a meme or 'saw this and thought of you' counts. Quality presence matters more than long conversations."
 
@@ -58,7 +58,7 @@ relatedArticles:
 
 <div data-i18n-html="article_five-minute-friendship-habit_p9">Friendship is not maintained by intensity. It is <a href="/journal/love-is-a-practice/">maintained by frequency</a>. A friend you hear from for five minutes every two weeks feels closer than a friend you see for five hours twice a year.</div>
 
-<div data-i18n-html="article_five-minute-friendship-habit_p12">The frequency-over-intensity claim holds up in the research on friendship maintenance. Longitudinal studies find that perceived closeness tracks with how often contact happens far more than with how long each contact lasts — a short, predictable check-in keeps a bond 'active' in the mind of both people, while a two-hour catch-up every six months leaves a gap that quietly reads as distance. Small and often genuinely beats large and rare.</div>
+<div data-i18n-html="article_five-minute-friendship-habit_p12">The frequency-over-intensity claim is what the research on friendship maintenance actually finds. Studies of real personal networks by Roberts, Dunbar and colleagues show that perceived closeness tracks with how often contact happens far more than with how long each contact lasts — a short, predictable check-in keeps a bond 'active' in the mind of both people, while a two-hour catch-up every six months leaves a gap that quietly reads as distance. Small and often genuinely beats large and rare.</div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_p11">A script that works tonight: pick the friend you have quietly been drifting from and send one <em>specific</em> message — not "we should catch up" but "saw the old bookshop on our street is closing — remember our rule about never paying full price for tickets?" One shared memory, one concrete door left open ("thinking of doing X Sunday, come if you want"). No ask, no guilt. The specificity is the point: it proves you remember, which "catch up soon" never does.</div>
 

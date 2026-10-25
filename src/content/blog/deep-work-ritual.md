@@ -25,11 +25,11 @@ tags:
 wordCount: 799
 faq:
   - q: "What is a deep work ritual?"
-    a: "A fixed sequence of actions that signals your brain it's time to focus: same location, same time, same preparation steps (coffee, phone away, timer set, one tab open). After 2-3 weeks, the ritual itself triggers a focus state automatically — you no longer need willpower to start."
+    a: "A fixed sequence of actions that signals your brain it's time to focus: same location, same time, same preparation steps (coffee, phone away, timer set, one tab open). With daily repetition the ritual starts cueing the focus state on its own — usually within a few weeks, though a habit in the full sense takes longer (Lally et al., 2010 measured a median of 66 days to automaticity)."
   - q: "How long should a deep work session last?"
     a: "Start with 90 minutes (one ultradian cycle). Experts like Cal Newport do 3-4 hours daily but build up over months. The key: one uninterrupted block beats four distracted ones. If you can do 90 focused minutes consistently, you'll out-produce most people working 8 scattered hours."
   - q: "What if I can't concentrate for more than 10 minutes?"
-    a: "That's normal for a 'attention fitness' beginner. Start with 25 minutes (one pomodoro), then add 5 minutes weekly. Remove one distraction source per week (notifications, phone location, browser tabs). Attention is trainable — neuroplasticity shows focus improves measurably in 6-8 weeks of daily practice."
+    a: "That's normal for an 'attention fitness' beginner. Start with 25 minutes (one pomodoro), then add 5 minutes weekly. Remove one distraction source per week (notifications, phone location, browser tabs). Tolerable block length behaves like a trained capacity rather than a fixed trait: with daily practice, it stretches most visibly in the first weeks."
 bookSlug: deep-work
 
 relatedArticles:

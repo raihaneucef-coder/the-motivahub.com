@@ -103,7 +103,7 @@ relatedArticles:
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p28"><h3>4. Use the Third Person</h3></div>
 
-<div data-i18n-html="article_puissance-dialogue-interieur_p29">Research shows that talking to yourself in the third person reduces emotional reactivity. Instead of "I am so anxious," try "[Your name] is feeling anxious. What does [your name] need right now?"</div>
+<div data-i18n-html="article_puissance-dialogue-interieur_p29">In a series of studies (Kross et al., 2014, <em>Journal of Personality and Social Psychology</em>), researchers found that talking to yourself in the third person reduces emotional reactivity. Instead of "I am so anxious," try "[Your name] is feeling anxious. What does [your name] need right now?"</div>
 
 <div data-i18n-html="article_puissance-dialogue-interieur_p30">This creates distance between you and the emotion. And in that distance, you find clarity.</div>
 

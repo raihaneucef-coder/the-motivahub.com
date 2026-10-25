@@ -26,11 +26,11 @@ tags:
 wordCount: 479
 faq:
   - q: "What makes a healthy morning routine?"
-    a: "Research points to five evidence-backed elements: bright light exposure within 30 minutes of waking, hydration before caffeine, 20+ minutes of movement, a protein-rich breakfast, and no phone for the first 15 minutes. These regulate cortisol, boost dopamine, and set focus for the day."
+    a: "Sleep and circadian research points to five recurring elements: bright light soon after waking, hydration before caffeine, some movement (20+ minutes if you can), a protein-rich breakfast, and no phone for the first 15 minutes. Morning light has the strongest evidence behind it — it helps set your circadian clock — while the others are practical supports for energy and focus rather than proven levers."
   - q: "What time should a healthy morning routine start?"
-    a: "Consistency matters more than the exact hour. Studies show waking at the same time daily (±30 min) improves sleep quality and energy more than an early alarm. Choose a wake time you can sustain 7 days a week, then work backward to allocate 45-60 minutes for your routine."
+    a: "Consistency matters more than the exact hour. Research on irregular bedtimes (Kang et al., 2009) links schedule irregularity with poorer sleep quality, more daytime sleepiness and fatigue — so a stable wake window does more for energy than an earlier alarm. Choose a wake time you can sustain 7 days a week, then work backward to allocate 45-60 minutes for your routine."
   - q: "How long does it take to build a morning routine?"
-    a: "On average 66 days for a new habit to become automatic (University College London study). Start with just 2 habits for the first two weeks, add one more every 14 days. Trying to implement five changes at once drops adherence below 20%."
+    a: "A median of 66 days, according to the University College London study (Lally et al., 2010) — with individual times anywhere from 18 to 254 days. Start with just 2 habits for the first two weeks, add one more every 14 days. Trying to change everything at once usually means none of it sticks."
 
 relatedArticles:
   - "calm-is-a-superpower"

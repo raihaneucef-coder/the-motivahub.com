@@ -31,7 +31,7 @@ tags:
 wordCount: 2052
 faq:
   - q: "Is 5 AM really the best time to work out?"
-    a: "Research suggests it's the most consistent time. Most people who work out at 5 AM stick with it 2-3x longer than afternoon exercisers. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings, family obligations, or 'I had a long day.' They're protected by time itself."
+    a: "A 2020 review (Schumacher et al., <em>Healthcare</em>) concluded that consistent morning exercise may improve adherence because it faces fewer scheduling conflicts. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings, family obligations, or 'I had a long day.' They're protected by time itself."
   - q: "What if I'm not a morning person?"
     a: "Then 5 AM isn't for you. The principle is: pick a time that's protected from interruptions. For some people that's 5 AM. For others it's 6:30 AM. The 'morning athlete' principle is about consistency, not the specific hour. Find what works for you."
   - q: "Do I need to work out every day?"
@@ -40,7 +40,7 @@ faq:
     a: "That's a sign of wrong intensity, not wrong timing. 5 AM workouts should be moderate to hard, but not all-out. If you're wrecked by 9 AM, you're going too hard. Moderate intensity morning workouts energize rather than deplete."
 faqFr:
   - q: "5 h du matin est-il vraiment la meilleure heure pour s'entraîner ?"
-    a: "La recherche suggère que c'est l'heure la plus régulière. La plupart de ceux qui s'entraînent à 5 h tiennent 2 à 3 fois plus longtemps que les sportifs de l'après-midi. La raison n'a rien de magique — elle est structurelle. Une séance du matin ne peut pas être annulée par une réunion, une obligation familiale ou un « j'ai eu une longue journée ». Elle est protégée par l'heure elle-même."
+    a: "Une revue de 2020 (Schumacher et al., <em>Healthcare</em>) conclut qu'un entraînement matinal régulier peut améliorer l'adhérence car il subit moins de conflits d'agenda. La raison n'a rien de magique — elle est structurelle. Une séance du matin ne peut pas être annulée par une réunion, une obligation familiale ou un « j'ai eu une longue journée ». Elle est protégée par l'heure elle-même."
   - q: "Et si je ne suis pas une personne du matin ?"
     a: "Alors 5 h n'est pas pour vous. Le principe est : choisissez une heure protégée des interruptions. Pour certains c'est 5 h, pour d'autres 6 h 30. La « morning athlete » parle de régularité, pas d'une heure précise. Trouvez ce qui marche pour vous."
   - q: "Faut-il s'entraîner tous les jours ?"
@@ -56,7 +56,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-morning-athlete_p1"><blockquote><strong>Medical Disclaimer</strong>: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.</blockquote></div>
 
-<div data-i18n-html="article_the-morning-athlete_p3"><strong>Research suggests 5 AM is the most consistent time for workouts.</strong> People who work out at 5 AM stick with it 2-3x longer than afternoon exercisers. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings or family obligations. They're protected by time itself. If you're not a morning person, the principle still applies: pick a time that's protected from interruptions.</div>
+<div data-i18n-html="article_the-morning-athlete_p3"><strong>Exercise-timing research points to morning consistency.</strong> A 2020 systematic review (Schumacher et al., <em>Healthcare</em>) concluded that consistent morning exercisers show better long-term adherence, largely because early sessions face fewer scheduling conflicts. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings or family obligations. They're protected by time itself. If you're not a morning person, the principle still applies: pick a time that's protected from interruptions.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p4">I started training at 5 AM when I was 22. I'm 34 now. Twelve years of 5 AM alarms. Some worked. Most didn't. The pattern is clearer now than it was in my 20s.</div>
 

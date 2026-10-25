@@ -29,22 +29,22 @@ wordCount: 576
 readTime: "6 MIN"
 faq:
   - q: "How does journaling help with personal growth?"
-    a: "Journaling forces you to examine your thoughts objectively, process trapped emotions, and find solutions through writing. Research shows that expressive writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking."
+    a: "Journaling forces you to examine your thoughts objectively, process trapped emotions, and find solutions through writing. The expressive-writing paradigm (Pennebaker, 1997) found reductions in stress and improvements in self-awareness; physical-health effects (e.g., immune markers) appear in some early studies but are smaller and less consistent in later meta-analyses. The act of writing engages the brain differently than thinking."
   - q: "How long should I journal each day?"
     a: "10 minutes is enough. The goal is not volume — it is consistency. Julia Cameron's Morning Pages recommend 3 pages, but the minimum viable version is 10 minutes of stream-of-consciousness writing. The key is to show up daily, not to write well."
   - q: "What should I write about in my journal?"
     a: "Start with three prompts: (1) What am I grateful for today? (2) What did I learn today? (3) What am I struggling with? These cover the three core functions of journaling: appreciation, learning, and problem-solving. Add more as the habit establishes."
   - q: "Does journaling actually work?"
-    a: "Yes. Research from UC Davis and Harvard shows that expressive writing reduces anxiety, improves mood, and increases cognitive processing. The effect is cumulative — 10 minutes daily for 30 days produces measurable changes in self-awareness and decision-making."
+    a: "Yes. Pennebaker's expressive-writing studies (15–20 minutes per session, 3–4 consecutive days) consistently show reduced anxiety, improved mood, and greater cognitive clarity. The effect is cumulative — daily journaling over weeks produces noticeable changes in self-awareness and decision-making."
 faqFr:
   - q: "Comment le journaling aide-t-il la croissance personnelle ?"
-    a: "Tenir un journal vous force à examiner vos pensées objectivement, à traiter les émotions bloquées et à trouver des solutions par l'écriture. Les recherches montrent que l'écriture expressive réduit le stress, améliore la fonction immunitaire et augmente la conscience de soi. L'acte d'écrire engage le cerveau différemment de la simple réflexion."
+    a: "Tenir un journal vous force à examiner vos pensées objectivement, à traiter les émotions bloquées et à trouver des solutions par l'écriture. Le paradigme de l'écriture expressive (Pennebaker, 1997) a montré des réductions du stress et une amélioration de la conscience de soi ; les effets sur la santé physique (marqueurs immunitaires) apparaissent dans certaines premières études mais sont plus faibles et moins constants dans les méta-analyses ultérieures. L'acte d'écrire engage le cerveau différemment de la simple réflexion."
   - q: "Combien de temps tenir mon journal chaque jour ?"
     a: "10 minutes suffisent. L'objectif n'est pas le volume — c'est la régularité. Les Pages Matinales de Julia Cameron en recommandent trois, mais la version minimale viable est de 10 minutes d'écriture en flux de conscience. L'essentiel est d'être présent chaque jour, pas d'écrire bien."
   - q: "Que dois-je écrire dans mon journal ?"
     a: "Commencez par trois amorces : (1) pour quoi suis-je reconnaissant aujourd'hui ? (2) qu'ai-je appris aujourd'hui ? (3) avec quoi est-ce que je lutte ? Elles couvrent les trois fonctions du journaling : appréciation, apprentissage, résolution de problème. Ajoutez le reste quand l'habitude sera installée."
   - q: "Le journaling fonctionne-t-il vraiment ?"
-    a: "Oui. Des travaux de UC Davis et Harvard montrent que l'écriture expressive réduit l'anxiété, améliore l'humeur et augmente le traitement cognitif. L'effet est cumulatif — 10 minutes par jour pendant 30 jours produisent des changements mesurables de conscience de soi et de prise de décision."
+    a: "Oui. Les études de Pennebaker sur l'écriture expressive (15–20 min par session, 3–4 jours consécutifs) montrent des réductions constantes de l'anxiété, une amélioration de l'humeur et une plus grande clarté cognitive. L'effet est cumulatif — journaliser quotidiennement pendant plusieurs semaines produit des changements notables de conscience de soi et de prise de décision."
 relatedArticles:
   - "long-ascent"
   - "regle-1-pourcent"
@@ -52,7 +52,7 @@ relatedArticles:
   - "social-muscle"
 ---
 
-<div data-i18n-html="article_journal-croissance_p2"><strong>Journaling works because it forces you to examine your thoughts objectively.</strong> When you write, you understand your thoughts. When you understand them, you can change them. Research shows that 10 minutes of daily writing reduces stress, improves immune function, and increases self-awareness. The act of writing engages the brain differently than thinking.</div>
+<div data-i18n-html="article_journal-croissance_p2"><strong>Journaling works because it forces you to examine your thoughts objectively.</strong> When you write, you understand your thoughts. When you understand them, you can change them. The expressive-writing paradigm (Pennebaker, 1997) found that writing about difficult experiences for 15–20 minutes over just a few sessions reduced stress and increased self-awareness. The act of writing engages the brain differently than thinking.</div>
 
 <div data-i18n-html="article_journal-croissance_p3">Every successful person in history has journaled. Marcus Aurelius. Leonardo da Vinci. Oprah Winfrey. They all wrote — not for others, but for themselves.</div>
 
@@ -71,7 +71,7 @@ Labelling an emotion in words (affect labelling) measurably reduces amygdala act
 Construal-level theory (Liberman &amp; Trope, 2008) shows that psychological distance — moving from "in my head" to "on paper" — shifts you from concrete stuck-mode to abstract pattern-mode. The same problem that felt unsolvable at 2am becomes a list of constraints at 9am once it is outside you, visible, finite.</div>
 
 <div data-i18n-html="article_journal-croissance_p9"><h3>4. Goal Clarity</h3>
-Gollwitzer's 1999 research shows that writing a goal as "When situation X arises, I will do Y" doubles follow-through versus the wish alone. <a href="/journal/pouvoir-ecrire-objectifs/">A journal turns vague intention into a specific implementation plan</a> the act of committing words to paper makes skipping the step feel like a broken promise to yourself.</div>
+Gollwitzer & Sheeran (2006, meta-analysis of 94 studies) found a medium-to-large effect (d = .65) when people wrote a goal as "When situation X arises, I will do Y" versus the wish alone. <a href="/journal/pouvoir-ecrire-objectifs/">A journal turns vague intention into a specific implementation plan</a> the act of committing words to paper makes skipping the step feel like a broken promise to yourself.</div>
 
 <div data-i18n-html="article_journal-croissance_p10"><h2>How to Start</h2></div>
 

@@ -1,10 +1,10 @@
 ---
 title: "Imposter Syndrome: Why You Feel Like a Fraud and How to Stop"
 seoTitle: "Imposter Syndrome: Why You Feel Like a Fraud"
-description: "70% of people experience imposter syndrome. It is not a sign of inadequacy — it is a sign of growth. Learn to recognize and overcome it."
+description: "Up to about 70% of high-achievers report impostor feelings at some point. It is not a sign of inadequacy — it is a sign of growth. Learn to recognize and overcome it."
 titleFr: "Le syndrome de l'imposteur : pourquoi vous vous sentez comme un fraudeur et comment y remédier"
 seoTitleFr: "Syndrome de l'imposteur : comprendre, en sortir"
-descriptionFr: "70 % des personnes souffrent du syndrome de l'imposteur. Ce n'est pas un signe d'incompétence mais de croissance. Le reconnaître et le surmonter."
+descriptionFr: "Jusqu'à environ 70 % des personnes à haut potentiel rapportent des sentiments d'imposteur à un moment ou un autre. Ce n'est pas un signe d'incompétence mais de croissance. Le reconnaître et le surmonter."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 image: "/images/blog/syndrome-imposteur-2.jpg"
@@ -26,7 +26,7 @@ wordCount: 648
 readTime: "7 MIN"
 faq:
   - q: "What is imposter syndrome and who gets it?"
-    a: "The persistent belief that your success is undeserved despite evidence. Originally identified in high-achieving women (Clance and Imes, 1978), research now shows 70% of people experience it at some point. Common in: new roles, career changes, minority groups in dominant fields, and after any external validation."
+    a: "The persistent belief that your success is undeserved despite evidence. Originally identified in high-achieving women (Clance and Imes, 1978) — the sample the familiar '70%' figure comes from. Later work finds it common well beyond that original group, but how often it appears depends on who is surveyed and how it is measured. Common in: new roles, career changes, minority groups in dominant fields, and after any external validation."
   - q: "How do I actually stop feeling like a fraud?"
     a: "1) Separate feelings from facts: I feel like a fraud does not mean I am one. 2) Document wins (evidence journal). 3) Name the specific trigger (one comment, one meeting). 4) Reframe anxiety as growth evidence, imposters do not worry about being good enough. 5) Talk to a peer: shared recognition normalizes it instantly."
   - q: "Is imposter syndrome ever useful?"
@@ -39,12 +39,12 @@ relatedArticles:
   - "trouver-voix"
 ---
 
-<div data-i18n-html="article_syndrome-imposteur_p2">70% of people experience imposter syndrome. It is not a sign of inadequacy — it is a sign of growth. Learn to recognize and overcome it.</div>
+<div data-i18n-html="article_syndrome-imposteur_p2">Up to about 70% of high-achievers report impostor feelings at some point. It is not a sign of inadequacy — it is a sign of growth. Learn to recognize and overcome it.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p3">You got the promotion, but you feel like you do not deserve it. You published the article, but you feel like it was luck. You achieved the goal, but you feel like anyone could have done it.</div>
 
 
-<div data-i18n-html="article_syndrome-imposteur_p4">This is imposter syndrome — and 70% of people experience it at some point in their lives.</div>
+<div data-i18n-html="article_syndrome-imposteur_p4">This is imposter syndrome — and it is far more common than the people living inside it assume: Clance and Imes found it in up to roughly 70% of the high-achieving adults they studied.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p5"><h2>What Is Imposter Syndrome?</h2></div>
 

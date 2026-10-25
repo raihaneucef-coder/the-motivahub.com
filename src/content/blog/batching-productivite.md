@@ -29,7 +29,7 @@ faq:
   - q: "What is task batching?"
     a: "Task batching is grouping similar tasks together and doing them in one focused block, instead of switching between different types of tasks throughout the day. It reduces context switching and increases deep work time."
   - q: "How does batching improve productivity?"
-    a: "Every time you switch tasks, your brain pays a cognitive tax. Batching eliminates this tax by keeping you in the same mental mode for an extended period. Research shows it can recover 2-3 hours per day lost to context switching."
+    a: "Every time you switch tasks, your brain pays a cognitive tax. Batching eliminates this tax by keeping you in the same mental mode for an extended period. The American Psychological Association estimates that task-switching can cost up to 40 % of productive time."
   - q: "What tasks should I batch?"
     a: "Batch similar tasks: email, writing, calls, admin, creative work, errands. The key is to group by mental mode, not by urgency. Check email at set times, not whenever it arrives."
   - q: "Can batching work for creative work?"
@@ -38,7 +38,7 @@ faqFr:
   - q: "Qu'est-ce que le regroupement de tâches ?"
     a: "Le regroupement de tâches consiste à rassembler les tâches similaires et à les traiter dans un seul bloc concentré, au lieu de passer d'un type de tâche à l'autre toute la journée. Cela réduit les changements de contexte et augmente le temps de travail profond."
   - q: "Comment le regroupement améliore-t-il la productivité ?"
-    a: "À chaque changement de tâche, votre cerveau paie un impôt cognitif. Le regroupement supprime cet impôt en vous maintenant dans le même mode mental pendant une durée prolongée. Les recherches montrent qu'il peut rendre les 2 à 3 heures par jour perdues en changements de contexte."
+    a: "À chaque changement de tâche, votre cerveau paie un impôt cognitif. Le regroupement supprime cet impôt en vous maintenant dans le même mode mental pendant une durée prolongée. L’American Psychological Association estime que le passage d’une tâche à l’autre peut coûter jusqu’à 40 % du temps productif."
   - q: "Quelles tâches dois-je regrouper ?"
     a: "Regroupez ce qui est semblable : emails, écriture, appels, administratif, travail créatif, déplacements. La clé est de grouper par mode mental, pas par urgence. Consultez vos mails à heures fixes, pas à chaque réception."
   - q: "Le regroupement fonctionne-t-il pour le travail créatif ?"
@@ -116,7 +116,7 @@ relatedArticles:
 
 <div data-i18n-html="article_batching-productivite_p31"><h3>1. It Eliminates Context Switching</h3></div>
 
-<div data-i18n-html="article_batching-productivite_p32">Every time you switch tasks, your brain pays a cognitive tax. Research from the University of Michigan found that multitasking can reduce productivity by up to 40%. The switching cost compounds with every task change.</div>
+<div data-i18n-html="article_batching-productivite_p32">Every time you switch tasks, your brain pays a cognitive tax. Research on task-switching at the University of Michigan (Rubinstein, Meyer & Evans, 2001) showed measurable time and error costs when people alternate between different mental modes. The switching cost compounds with every task change.</div>
 
 <div data-i18n-html="article_batching-productivite_p33">Batching eliminates this tax by keeping you in the same mental mode for an extended period. You pay the switching cost once, not every few minutes.</div>
 

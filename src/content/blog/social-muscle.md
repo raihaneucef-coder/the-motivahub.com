@@ -28,7 +28,7 @@ faq:
   - q: "How do I rebuild my social life after isolation?"
     a: "Start absurdly small: text 1 person today, accept 1 invitation this week, attend 1 recurring event monthly (class, club, volunteer). The 'mere exposure effect' means familiarity breeds liking — show up consistently and friendships form naturally. Don't wait to feel ready; the feeling follows the action."
   - q: "How often should you contact friends to maintain the bond?"
-    a: "Research suggests weekly contact maintains close friendships; monthly keeps them alive; yearly makes them nostalgic. The minimum viable habit: one 5-minute voice call or genuine text per important person per week. Quality matters but frequency is the actual variable that predicts long-term friendship survival."
+    a: "Dunbar's friendship-maintenance work suggests weekly contact keeps a close friendship at full strength; monthly keeps it alive; yearly turns it nostalgic. The minimum viable habit: one 5-minute voice call or genuine text per important person per week. Quality matters but frequency is the actual variable that predicts whether a friendship survives adulthood."
 
 relatedArticles:
   - "long-ascent"

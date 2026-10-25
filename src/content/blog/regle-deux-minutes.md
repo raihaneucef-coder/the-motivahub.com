@@ -68,7 +68,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-deux-minutes_p13"><h2>The Science Behind It</h2></div>
 
-<div data-i18n-html="article_regle-deux-minutes_p14">Neuroscience shows that starting a task activates the same neural pathways as completing it. When you put on your running shoes, your brain begins the "running" sequence. Once activated, it is easier to continue than to stop.</div>
+<div data-i18n-html="article_regle-deux-minutes_p14">The principle is simple: once a task is started, your brain treats it as an open loop that demands closure. When you put on your running shoes, your brain begins the "running" sequence. Once activated, it is easier to continue than to stop.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p15">This is called the <strong>Zeigarnik Effect</strong> — the tendency for incomplete tasks to occupy your mind more than completed ones. When you start something, your brain wants to finish it. By starting small, you trigger this effect without triggering resistance.</div>
 

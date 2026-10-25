@@ -30,7 +30,7 @@ faq:
   - q: "What foods are best for meal prep?"
     a: "Choose foods that taste equal or better on day 2-3: roasted chicken, rice/quinoa, sweet potatoes, hard-boiled eggs, lentil soups, stir-fries. Avoid: lettuce (wilts), fried foods (soggy), mayo-based salads. Dress just before eating. Glass containers keep food fresher than plastic."
   - q: "Does meal prep help with weight loss?"
-    a: "Research shows meal preppers consume 25% more vegetables and reduce fast food frequency by half. The mechanism: when a healthy option is ready in the fridge, decision fatigue disappears. You eat what you prepared instead of ordering takeout at 7pm when willpower is depleted."
+    a: "You will see 'meal preppers eat 25% more vegetables' type figures online, but they trace to conference abstracts and press releases rather than solid trials. What the research on meal planning and home-food environments does support is the direction: people who plan and prepare ahead tend to eat better and waste less food. The mechanism is mundane and reliable — when a healthy option is already in the fridge, the decision is made before you are tired at 7pm, so you eat what you prepared instead of ordering takeout."
 
 relatedArticles:
   - "jeune-intermittent"

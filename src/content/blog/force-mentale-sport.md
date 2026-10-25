@@ -26,7 +26,7 @@ tags:
 wordCount: 572
 faq:
   - q: "How do athletes stay calm under pressure?"
-    a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. Harvard research shows 'I am excited' self-talk outperforms 'I am calm' because both are high-arousal states — the brain just needs a positive label."
+    a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. Harvard research (Alison Brooks, 2014) found 'I am excited' self-talk outperforms 'I am calm' because both are high-arousal states — the brain just needs a positive label."
   - q: "What is mental toughness in sports?"
     a: "The ability to maintain focus, effort, and confidence despite fatigue, setbacks, or high stakes. Clough's 4C model: Control (I influence outcomes), Commitment (I follow through), Challenge (threats are growth opportunities), Confidence (I believe in my ability). All four are trainable."
   - q: "How can I stop choking under pressure?"

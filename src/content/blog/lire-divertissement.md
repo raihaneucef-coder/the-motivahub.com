@@ -25,14 +25,14 @@ tags:
 wordCount: 316
 faq:
   - q: "Is reading really better than watching TV?"
-    a: "Yes. Reading activates multiple brain regions (language, imagination, empathy), while passive TV watching reduces cortical activity. Studies show 6 minutes of reading reduces stress by 68% — more than music or walking."
+    a: "Yes. Reading activates multiple brain regions (language, imagination, empathy), while passive TV watching reduces cortical activity. A widely-cited but never-published Sussex study (Lewis, 2009) claimed 6 minutes of reading reduced stress by 68%; treat that figure as anecdotal, but the practical point survives: even a short reading session calms the nervous system more reliably than scrolling."
   - q: "How can I make reading entertaining instead of a chore?"
     a: "Choose books you're genuinely curious about — not 'should read' books. Set a tiny goal (5 pages/day), read at the same time daily, and pair it with a comfortable ritual (tea, good lighting). Permission to quit boring books is essential."
   - q: "What are the brain benefits of reading books?"
     a: "Daily reading strengthens neural connectivity, improves vocabulary and comprehension, delays cognitive decline by up to 2.5 years (Rush University study), and increases empathy by simulating social experiences in the brain."
 faqFr:
   - q: "Lire est-il vraiment mieux que regarder la télé ?"
-    a: "Oui. La lecture active plusieurs régions cérébrales (langage, imagination, empathie), tandis que le visionnage passif de la TV réduit l'activité corticale. 6 minutes de lecture réduisent le stress de 68 %."
+    a: "Oui. La lecture active plusieurs régions cérébrales (langage, imagination, empathie), tandis que le visionnage passif de la TV réduit l'activité corticale. Une étude de Sussex très citée mais jamais publiée (Lewis, 2009) affirmait que 6 minutes de lecture réduisaient le stress de 68 % ; considérez ce chiffre comme anecdotique, mais l'idée pratique tient : une courte session de lecture apaise le système nerveux plus fiablement qu'un défilement d'écran."
   - q: "Comment rendre la lecture divertissante au lieu d'une corvée ?"
     a: "Choisissez des livres qui vous passionnent vraiment — pas des livres « qu'il faut lire ». Fixez un mini-objectif (5 pages/jour), lisez à la même heure chaque jour, et associez un rituel confortable."
   - q: "Quels sont les bienfaits de la lecture pour le cerveau ?"
@@ -62,7 +62,7 @@ Reading exposes you to far more rare and complex words than everyday conversatio
 Reading fiction puts you inside other people's lives. This builds empathy and emotional intelligence.</div>
 
 <div data-i18n-html="article_lire-divertissement_p8"><h3>4. It Reduces Stress</h3>
-A 2009 study from Mindlab International at the University of Sussex reported that reading lowered stress by 68% — more than listening to music or drinking tea.</div>
+A widely-cited but never-published Sussex study (Lewis, 2009) claimed that just a few minutes of reading lowered stress by 68% — more than listening to music or drinking tea. Treat that figure as anecdotal; the point that holds is that even a short reading session calms the nervous system more reliably than scrolling.</div>
 
 <div data-i18n-html="article_lire-divertissement_p9"><h3>5. It Improves Sleep</h3>
 Reading a physical book before bed signals your brain to produce melatonin. Screens do the opposite.</div>

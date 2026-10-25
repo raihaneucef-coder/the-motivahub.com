@@ -1,8 +1,8 @@
 ---
 title: "The Power of Writing Down Your Goals"
-description: "Studies show you are 42% more likely to achieve goals when you write them down. Learn why writing transforms wishes into reality."
+description: "A small, unpublished study (Matthews, 2015) found a 42 % goal-achievement advantage for people who wrote their goals down. Learn why writing transforms wishes into reality."
 titleFr: "Le pouvoir d'écrire tes objectifs"
-descriptionFr: "Les études montrent que tu as 42 % de chances en plus d'atteindre tes objectifs quand tu les écris. Découvre pourquoi écrire transforme les souhaits en réalité."
+descriptionFr: "Une petite étude non publiée (Matthews, 2015) a constaté un avantage de 42 % dans l'atteinte des objectifs pour ceux qui les écrivent. Découvrez pourquoi écrire transforme les souhaits en réalité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
@@ -23,7 +23,7 @@ tags:
 wordCount: 591
 faq:
   - q: "Does writing goals down actually increase achievement?"
-    a: "Yes — a Dominican University study (Gail Matthews, 2015) found people who wrote goals were 42% more likely to achieve them than those who only thought about them. Writing activates the reticular activating system (RAS), priming your brain to notice opportunities aligned with the stated goal."
+    a: "Yes — an unpublished Dominican University study (Gail Matthews, 2015) found people who wrote goals were 42 % more likely to achieve them than those who only thought about them. Writing makes the goal concrete, which is the first step toward planning and follow-through."
   - q: "How should I write my goals for maximum effect?"
     a: "Use this formula: 1) Specific (not 'get fit' but 'run 5K under 25 min'). 2) Present tense as if already achieved ('I am running 4x per week'). 3) Include the WHY. 4) Write them daily (morning commitment ritual). 5) Share with one accountable person — the study showed accountability partners added another 33% success rate."
   - q: "Why does my brain forget goals I don't write down?"
@@ -36,7 +36,7 @@ relatedArticles:
   - "sprint-90-jours"
 ---
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p2">Studies show you are 42% more likely to achieve goals when you write them down. Learn why writing transforms wishes into reality.</div>
+<div data-i18n-html="article_pouvoir-ecrire-objectifs_p2">An unpublished study (Matthews, 2015) found you are 42 % more likely to achieve goals when you write them down. Learn why writing transforms wishes into reality.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p3">There is a famous study from Dominican University where students who wrote down their goals were 42% more likely to achieve them than those who did not. Writing is not just recording — it is activating.</div>
 
@@ -73,7 +73,7 @@ Matthews found that people who wrote goals AND shared them with a supportive acc
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p15"><h2>The Science of Writing</h2></div>
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p16">Neuroscience shows that writing activates the reticular activating system (RAS) in your brain. The RAS filters information and directs your attention to what matters. When you write a goal, the RAS starts scanning your environment for opportunities to achieve it.</div>
+<div data-i18n-html="article_pouvoir-ecrire-objectifs_p16">Writing a goal forces specificity — the brain's attentional systems (often compared to a filter or 'highlighter') prioritize whatever has been made explicit. When you write a goal, your attention starts scanning your environment for opportunities relevant to it. This is a practical description of a priming effect, not a specific neural mechanism; the reticular activating system (RAS) is often invoked in coaching but no imaging study has mapped goal-writing to it directly.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p17"><blockquote><em>Write it on your heart that every day is the best day in the year. — Ralph Waldo Emerson</em></blockquote></div>
 

@@ -25,7 +25,7 @@ faq:
   - q: "What do I do when motivation completely disappears?"
     a: "Execute the minimum viable action. On zero-motivation days, your only job is to show up for 2 minutes: open the laptop, put on running shoes, read one page. This maintains the identity and the streak. You do not need to feel like it. Feeling follows action, not the other way around."
   - q: "Is it normal for motivation to come and go?"
-    a: "Entirely normal. Research shows motivation follows a 90-minute ultradian rhythm daily and a longer seasonal pattern. The motivation-is-a-wave metaphor: you do not yell at the ocean for receding; you paddle when the wave comes. Build a system for the flat water days and you are unstoppable."
+    a: "Entirely normal. Alertness runs on roughly 90-minute ultradian cycles across the day, and mood shifts with season and daylight — motivation has no clock of its own, but it rides on both. The motivation-is-a-wave metaphor: you do not yell at the ocean for receding; you paddle when the wave comes. Build a system for the flat water days and you are unstoppable."
   - q: "How do athletes train when they have no motivation?"
     a: "They do not decide whether to train. The schedule decides. Training at 6am Mon/Wed/Fri is non-negotiable regardless of feeling. This is the shift: motivation is a choice (unreliable), discipline is a schedule (automatic). The athlete who felt like it quits by week 3; the one who did not decide makes it 3 years." 
 

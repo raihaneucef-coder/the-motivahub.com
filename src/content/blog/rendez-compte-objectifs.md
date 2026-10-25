@@ -1,9 +1,9 @@
 ---
 title: "Goal Accountability: Why You Need Someone to Keep You on Track"
 seoTitle: "Goal Accountability: Why You Need a Witness"
-description: "Accountability doubles your chances of achieving a goal. Learn how to build an accountability system that keeps you committed and consistent."
+description: "Accountability measurably raises your odds of reaching a goal. Learn how to build an accountability system that keeps you committed and consistent."
 titleFr: "Rendre des Comptes pour Atteindre vos Objectifs"
-descriptionFr: "La responsabilité est la clé pour atteindre vos objectifs. Découvrez comment créer un système de responsabilité qui fonctionne."
+descriptionFr: "La redevabilité augmente de façon mesurable vos chances d'atteindre un objectif. Découvrez comment créer un système de redevabilité qui vous maintient engagé et régulier."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
@@ -24,7 +24,7 @@ tags:
 wordCount: 553
 faq:
   - q: "What is an accountability partner?"
-    a: "A person you check in with weekly to report progress on your goals. Unlike a coach, they don't advise — they simply ask 'did you do what you said?' The social commitment of reporting to another person increases follow-through by 65% (Dominican University study, Dr. Gail Matthews)."
+    a: "A person you check in with weekly to report progress on your goals. Unlike a coach, they don't advise — they simply ask 'did you do what you said?' The familiar 65% and 95% figures come from training-industry estimates (ASTD, later repeated by Gantt) with no published methodology, and they are not from the Dominican University study. What is better supported is the mechanism: pre-committing and reporting to a named person raises follow-through (Gollwitzer & Sheeran, 2006)."
   - q: "How do I create an accountability system?"
     a: "1) Write your 1-3 goals as weekly actions. 2) Choose a partner (friend, colleague, online community). 3) Schedule a 15-minute weekly check-in. 4) Report numbers, not feelings. 5) Agree on a consequence for missed check-ins. The system works because it converts private intentions into public commitments."
   - q: "Why do goals fail without accountability?"
@@ -37,9 +37,9 @@ relatedArticles:
   - "the-goal-behind-the-goal"
 ---
 
-<div data-i18n-html="article_rendez-compte-objectifs_p2">Accountability doubles your chances of achieving a goal. Learn how to build an accountability system that keeps you committed and consistent.</div>
+<div data-i18n-html="article_rendez-compte-objectifs_p2">Accountability is the lever that measurably raises the odds. Learn how to build an accountability system that keeps you committed and consistent.</div>
 
-<div data-i18n-html="article_rendez-compte-objectifs_p3">You are 65% more likely to achieve a goal if you commit to someone. You are 95% more likely if you have a scheduled accountability appointment.</div>
+<div data-i18n-html="article_rendez-compte-objectifs_p3">The figure that gets quoted everywhere: you are 65% more likely to achieve a goal if you commit to someone, and 95% more likely if that commitment has a scheduled check-in. Those numbers come from training-industry estimates with no published methodology, so treat them as direction rather than data. The direction itself holds: accountability raises follow-through.</div>
 
 
 <div data-i18n-html="article_rendez-compte-objectifs_p4">Accountability is not about punishment. It is about support, commitment, and the social pressure that keeps you honest.</div>

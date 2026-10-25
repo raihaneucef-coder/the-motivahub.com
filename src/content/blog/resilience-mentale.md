@@ -27,7 +27,7 @@ tags:
 wordCount: 805
 faq:
   - q: "What is mental resilience?"
-    a: "Mental resilience is the ability to absorb a hit, process it, and keep moving forward. It is not about being tough — it is about being flexible. Neuroscience shows that resilience is a trainable skill, not a fixed trait. You can develop it through specific practices like breathwork, reframing, and the 2-day rule."
+    a: "Mental resilience is the ability to absorb a hit, process it, and keep moving forward. It is not about being tough — it is about being flexible. Research on stress physiology (Southwick & Charney, 2018) shows that resilience is a trainable skill, not a fixed trait. You can develop it through specific practices like breathwork, reframing, and the 2-day rule."
   - q: "Can resilience be trained?"
     a: "Yes. Your brain has a parasympathetic nervous system that activates after stress to return you to calm. Resilient people have a faster, more efficient recovery system. You can train this through slow breathing (4-7-8 pattern), regular cold exposure, and intentional recovery practices. The system gets better with use."
   - q: "What is the fastest way to recover from a setback?"
@@ -36,7 +36,7 @@ faq:
     a: "No. Resilience is about feeling the pain and choosing to move forward anyway. The resilient person does not avoid storms — they learn to dance in the rain. The difference between resilience and suppression: suppression hides the pain. Resilience processes it and keeps moving."
 faqFr:
   - q: "Qu'est-ce que la résilience mentale ?"
-    a: "La résilience mentale, c'est la capacité d'encaisser un coup, de le traiter et d'avancer quand même. Il ne s'agit pas d'être dur — il s'agit d'être souple. Les neurosciences montrent que la résilience est une compétence entraînable, pas un trait fixe. Vous pouvez la développer par des pratiques précises : le travail respiratoire, le recadrage et la règle des 2 jours."
+    a: "La résilience mentale, c'est la capacité d'encaisser un coup, de le traiter et d'avancer quand même. Il ne s'agit pas d'être dur — il s'agit d'être souple. La recherche sur la physiologie du stress (Southwick & Charney, 2018) montre que la résilience est une compétence entraînable, pas un trait fixe. Vous pouvez la développer par des pratiques précises : le travail respiratoire, le recadrage et la règle des 2 jours."
   - q: "La résilience peut-elle s'entraîner ?"
     a: "Oui. Votre cerveau dispose d'un système nerveux parasympathique qui s'active après le stress pour vous ramener au calme. Les personnes résilientes ont un système de récupération plus rapide et plus efficace. Vous pouvez entraîner cela par une respiration lente (rythme 4-7-8), une exposition régulière au froid et des pratiques de récupération délibérées. Le système s'améliore à l'usage."
   - q: "Quel est le moyen le plus rapide de se relever d'un revers ?"
@@ -50,7 +50,7 @@ relatedArticles:
   - "mindset-etat-esprit"
 ---
 
-<div data-i18n-html="article_resilience-mentale_p2"><strong>Mental resilience is a trainable skill, not a fixed trait.</strong> Neuroscience shows that your parasympathetic nervous system — the recovery system — can be trained through specific practices. Resilient people recover from stress faster not because they feel less, but because their recovery system is better trained. You can develop this through breathwork, reframing, and the 2-day rule.</div>
+<div data-i18n-html="article_resilience-mentale_p2"><strong>Mental resilience is a trainable skill, not a fixed trait.</strong> Research on stress physiology shows that your parasympathetic nervous system — the recovery system — can be trained through specific practices. Resilient people recover from stress faster not because they feel less, but because their recovery system is better trained. You can develop this through breathwork, reframing, and the 2-day rule.</div>
 
 <div data-i18n-html="article_resilience-mentale_p3">Life will knock you down. This is not a possibility — it is a certainty. The question is not whether you will face adversity, but whether you will <strong>bounce back</strong> when you do.</div>
 
@@ -75,7 +75,7 @@ relatedArticles:
 
 <div data-i18n-html="article_resilience-mentale_p9"><h2>The Science of Resilience</h2></div>
 
-<div data-i18n-html="article_resilience-mentale_p10">Neuroscience shows that resilience is not a fixed trait — it is a skill that can be developed. Your brain has a natural recovery system called the <strong>parasympathetic nervous system</strong>. It activates after stress to return your body to calm.</div>
+<div data-i18n-html="article_resilience-mentale_p10">Decades of stress-physiology research confirm that resilience is not a fixed trait — it is a skill that can be developed. Your brain has a natural recovery system called the <strong>parasympathetic nervous system</strong>. It activates after stress to return your body to calm.</div>
 
 <div data-i18n-html="article_resilience-mentale_p11">Resilient people have a faster and more efficient parasympathetic response. They recover from stress more quickly — not because they feel less, but because their recovery system is better trained.</div>
 

@@ -94,7 +94,7 @@ relatedArticles:
 - Mood (1-10)
 - Workout quality (1-10)</div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p16"><strong>The result: sleep quality predicts everything.</strong></div>
+<div data-i18n-html="article_sleep-is-unfair-advantage_p16"><strong>The result: sleep quality predicts everything.</strong> <em>(N.B. The figures below come from my own 60-day self-tracking — n = 1, subjective scales, consumer devices. They are personal observations, not clinical findings; your results may differ.)</em></div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p17">When I slept 7+ hours with low resting heart rate:
 - Morning energy: 8.2/10 (vs. 4.8 on bad nights)

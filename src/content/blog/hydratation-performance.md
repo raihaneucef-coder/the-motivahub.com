@@ -1,10 +1,10 @@
 ---
 title: "Hydration: Why Water Is the Most Underrated Performance Enhancer"
 seoTitle: "Hydration: The Underrated Performance Enhancer"
-description: "Dehydration reduces performance by up to 25%. Water is the simplest, cheapest, and most effective performance enhancer available."
+description: "Losing about 2% of your body mass in fluid already measurably hurts endurance and concentration. Water is the simplest, cheapest, and most effective performance enhancer available."
 titleFr: "Hydratation : pourquoi l'eau est le meilleur booster de performance (et le plus sous-estimé)"
 seoTitleFr: "Hydratation : l'eau, booster de performance oublié"
-descriptionFr: "La déshydratation réduit la performance jusqu'à 25 %. L'eau est le booster de performance le plus simple, le moins cher et le plus efficace qui existe."
+descriptionFr: "Perdre environ 2 % de la masse corporelle en liquide réduit déjà de façon mesurable l'endurance et la concentration. L'eau est le booster de performance le plus simple, le moins cher et le plus efficace qui existe."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
@@ -38,16 +38,16 @@ relatedArticles:
   - "water-before-willpower"
 ---
 
-<div data-i18n-html="article_hydratation-performance_p2">Dehydration reduces performance by up to 25%. Water is the simplest, cheapest, and most effective <a href="/journal/water-before-willpower/">performance enhancer</a> available.</div>
+<div data-i18n-html="article_hydratation-performance_p2">Losing about 2% of your body mass in fluid measurably costs you endurance and concentration — and the deficit grows with heat and session length. Water is the simplest, cheapest, and most effective <a href="/journal/water-before-willpower/">performance enhancer</a> available.</div>
 
 <div data-i18n-html="article_hydratation-performance_p3">You can survive 3 weeks without food. You can only survive 3 days without water. Yet most people walk around chronically dehydrated — and wonder why they feel tired, foggy, and unproductive.</div>
 
 
 <div data-i18n-html="article_hydratation-performance_p4"><h2>How Dehydration Affects You</h2></div>
 
-<div data-i18n-html="article_hydratation-performance_p5">- <strong>2% dehydration</strong> = 10% decrease in strength
-- <strong>3% dehydration</strong> = 20% decrease in endurance
-- <strong>5% dehydration</strong> = 30% decrease in performance</div>
+<div data-i18n-html="article_hydratation-performance_p5">- <strong>~2% body-mass loss</strong> — endurance output and concentration start to measurably drop
+- <strong>3–5% loss</strong> — the decrements grow, and heat makes them bite sooner
+- <strong>Strength and power</strong> — less consistently affected; the tidy "every 2% costs 10% of strength" ladder that circulates online is not what the reviews show</div>
 
 <div data-i18n-html="article_hydratation-performance_p6">Even mild dehydration <a href="/journal/gestion-energie/">reduces cognitive function</a>, mood, and energy levels.</div>
 

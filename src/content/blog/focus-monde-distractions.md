@@ -28,16 +28,16 @@ faq:
   - q: "How do I maintain focus in a world full of distractions?"
     a: "Three evidence-based strategies: (1) Design your environment — phone in another room, website blockers active, single tab open. (2) Work in 90-minute ultradian cycles with 15-minute breaks. (3) Practice 'attention residue' management — finish one task completely before switching."
   - q: "Why can't I focus anymore?"
-    a: "Modern apps are engineered with variable reward schedules (same mechanism as slot machines). Your dopamine system gets hijacked by constant novelty. The fix isn't more willpower — it's removing the triggers. After 7 days of reduced stimulation, baseline focus returns."
+    a: "Modern apps are engineered with variable reward schedules (same mechanism as slot machines). Your dopamine system gets hijacked by constant novelty. The fix isn't more willpower — it's removing the triggers. Within days of reduced stimulation, baseline focus begins to recover."
   - q: "How long does it take to retrain your attention span?"
-    a: "Research shows 2-4 weeks of consistent practice. Start with 10-minute focus blocks, add 5 minutes weekly. By week 4, most people sustain 60-90 minutes of deep work. The key is progressive overload, not perfection."
+    a: "Expect 2–4 weeks of consistent practice. Start with 10-minute focus blocks, add 5 minutes weekly. By week 4, most people sustain 60–90 minutes of deep work. The key is progressive overload, not perfection."
 faqFr:
   - q: "Comment maintenir ma concentration dans un monde plein de distractions ?"
     a: "Trois stratégies fondées sur les preuves : (1) Concevez votre environnement — téléphone dans une autre pièce, bloqueurs de sites actifs. (2) Travaillez en cycles ultradiens de 90 minutes. (3) Gérez la « résonance attentionnelle »."
   - q: "Pourquoi je n'arrive plus à me concentrer ?"
     a: "Les applications modernes sont conçues avec des schedules de récompense variables (même mécanisme que les machines à sous). Votre système dopaminergique est détourné par la nouveauté constante. La solution n'est pas plus de volonté — c'est de retirer les déclencheurs."
   - q: "Combien de temps pour réentraîner sa capacité d'attention ?"
-    a: "La recherche montre 2 à 4 semaines de pratique cohérente. Commencez par des blocs de 10 minutes, ajoutez 5 minutes par semaine. À la semaine 4, la plupart des gens soutiennent 60-90 minutes de travail profond."
+    a: "Attendez-vous à 2 à 4 semaines de pratique cohérente. Commencez par des blocs de 10 minutes, ajoutez 5 minutes par semaine. À la semaine 4, la plupart des gens soutiennent 60–90 minutes de travail profond."
 
 relatedArticles:
   - "focus-on-yourself-stay-silent-shi-heng-yi"
@@ -55,7 +55,7 @@ relatedArticles:
 
 <div data-i18n-html="article_focus-monde-distractions_p5"><h2>The True Cost of Distraction</h2></div>
 
-<div data-i18n-html="article_focus-monde-distractions_p6">A distraction is not just a lost moment. Research shows it takes an average of 23 minutes to refocus after an interruption. If you are interrupted 10 times a day, you lose nearly 4 hours of productive focus.</div>
+<div data-i18n-html="article_focus-monde-distractions_p6">A distraction is not just a lost moment. Gloria Mark's field studies at UC Irvine found that it takes an average of about 23 minutes to return to the original task after an interruption. If you are interrupted 10 times a day, you lose nearly 4 hours of productive focus.</div>
 
 <div data-i18n-html="article_focus-monde-distractions_p7">But the cost goes deeper than time. Every time you switch tasks, your brain pays a <strong>cognitive tax</strong>. You lose clarity. You lose depth. You lose the ability to think at your highest level.</div>
 

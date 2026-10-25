@@ -75,7 +75,7 @@ relatedArticles:
 
 <div data-i18n-html="article_5-minute-morning-habit_p11"><h2>Why This Works (The Neuroscience)</h2></div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p12">Your brain has a limited amount of decision-making capacity per day. Modern research suggests we make about 35,000 decisions daily. Every decision — even tiny ones — depletes a finite cognitive resource.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p12">Your brain has a limited amount of decision-making capacity per day. Every decision — even tiny ones — draws on the same finite cognitive resource. That is why front-loading a few defaults in the morning preserves willpower for the decisions that actually matter.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p13">When you start your day by opening email, you're making decisions on other people's priorities. Someone wants a meeting. Someone needs an answer. Someone wants approval. By 9 AM, you've made 50+ decisions, and your brain is already tired.</div>
 

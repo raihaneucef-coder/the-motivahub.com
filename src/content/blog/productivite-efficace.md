@@ -25,9 +25,9 @@ tags:
 wordCount: 654
 faq:
   - q: "What's the difference between being busy and being productive?"
-    a: "Busy means high activity; productive means high output on what matters. Research shows knowledge workers spend only ~2.5 hours/day on actual focused work — the rest is email, meetings, and 'admin theatre.' True productivity = doing the few things that move outcomes, not doing many things that feel urgent."
+    a: "Busy means high activity; productive means high output on what matters. Time-use studies of knowledge workers keep landing on the same picture: only a couple of hours a day go to actual focused work — the rest is email, meetings, and 'admin theatre.' True productivity = doing the few things that move outcomes, not doing many things that feel urgent."
   - q: "How do I actually become more productive?"
-    a: "The 3 levers that work: 1) Energy management (sleep, nutrition, exercise) — you can't produce output from an empty tank. 2) Single-tasking (multitasking reduces IQ by 10 points, UCL study). 3) Environment design (remove phone, close tabs, set a specific work location). The fourth lever is just: start smaller than you think."
+    a: "The 3 levers that work: 1) Energy management (sleep, nutrition, exercise) — you can't produce output from an empty tank. 2) Single-tasking (a much-quoted 2005 study by Glen Wilson reported a temporary IQ drop of about 10 points under heavy multitasking — the size is debated, the switching cost is not). 3) Environment design (remove phone, close tabs, set a specific work location). The fourth lever is just: start smaller than you think."
   - q: "What is 'deep work' and how do I practice it?"
     a: "Deep work (Cal Newport) = distraction-free concentration on cognitively demanding tasks that creates value. Practice: block 90 min with phone in another room, define one specific outcome, work until it's done or time expires. Start with 1 session/day. After 2 weeks, increase to 2-3."
 

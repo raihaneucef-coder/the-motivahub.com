@@ -25,18 +25,18 @@ tags:
 wordCount: 578
 faq:
   - q: "Why does discipline beat motivation?"
-    a: "Motivation is an emotion — it fluctuates with sleep, stress, and mood. Discipline is a system — it works regardless of how you feel. Studies show people who rely on motivation quit in 2-3 weeks. Those who build discipline systems sustain change for months and years."
+    a: "Motivation is an emotion — it fluctuates with sleep, stress, and mood. Discipline is a system — it works regardless of how you feel. Motivation peaks right after you feel inspired and then fades, often within days; a system keeps running after the feeling is gone."
   - q: "How do I stay disciplined when I feel zero motivation?"
     a: "Three tactics: (1) Reduce the action to 2 minutes — just put on running shoes, just open the laptop. (2) Remove decision points — schedule the same time/place daily. (3) Use implementation intentions: 'If it's 7am, I will [action]' — pre-commit the decision so willpower isn't needed."
   - q: "Can discipline become automatic?"
-    a: "Yes. After 66 days of consistent repetition (UCL research), behaviors shift from prefrontal cortex (effortful) to basal ganglia (automatic). What feels impossible in week 1 becomes unconscious in week 10. The key is never breaking the chain twice."
+    a: "It can. In the University College London habit-formation study (Lally et al., 2010), the median time for a new behavior to become automatic was 66 days — but the range ran from 18 to 254 days. As a habit consolidates, control shifts from the prefrontal cortex (effortful) to the basal ganglia (automatic). What feels impossible in week 1 usually takes less conscious effort by week 10. The key is never breaking the chain twice."
 faqFr:
   - q: "Pourquoi la discipline bat la motivation ?"
-    a: "La motivation est une émotion — elle fluctue avec le sommeil, le stress et l'humeur. La discipline est un système — elle fonctionne indépendamment de vos sentiments. Les personnes qui comptent sur la motivation abandonnent en 2-3 semaines."
+    a: "La motivation est une émotion — elle fluctue avec le sommeil, le stress et l'humeur. La discipline est un système — elle fonctionne indépendamment de vos sentiments. La motivation culmine juste après l'inspiration puis s'efface, souvent en quelques jours ; un système, lui, continue de tourner quand le sentiment a disparu."
   - q: "Comment rester discipliné quand je n'ai aucune motivation ?"
     a: "Trois tactiques : (1) Réduire l'action à 2 minutes — mettez juste vos chaussures de course. (2) Supprimer les points de décision — planifiez la même heure/lieu quotidiennement. (3) Utilisez des intentions d'exécution."
   - q: "La discipline peut-elle devenir automatique ?"
-    a: "Oui. Après 66 jours de répétition cohérente (recherche UCL), les comportements passent du cortex préfrontal (effort) aux ganglions de la base (automatique). Ce qui semble impossible en semaine 1 devient inconscient en semaine 10."
+    a: "Oui. Dans l'étude de l'University College London sur la formation des habitudes (Lally et al., 2010), le délai médian avant l'automatisation était de 66 jours — mais les résultats individuels allaient de 18 à 254 jours. À mesure qu'une habitude se consolide, le contrôle passe du cortex préfrontal (effort) aux ganglions de la base (automatique). Ce qui semble impossible en semaine 1 demande généralement moins d'effort conscient vers la semaine 10. La clé : ne jamais casser la chaîne deux fois."
 
 relatedArticles:
   - "athlete-discipline"
@@ -47,7 +47,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-beat-motivation_p2">Motivation is a visitor. Discipline is a resident. Learn why relying on motivation guarantees failure and how to build discipline instead.</div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p3">Motivation feels amazing. When you are motivated, you can conquer the world. The problem is that motivation disappears — usually within 48 hours of getting inspired.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p3">Motivation feels amazing. When you are motivated, you can conquer the world. The problem is that motivation disappears — usually within days of getting inspired.</div>
 
 
 <div data-i18n-html="article_discipline-beat-motivation_p4">Discipline does not care how you feel. It shows up anyway. And that is why discipline always beats motivation.</div>

@@ -24,7 +24,7 @@ tags:
 wordCount: 430
 faq:
   - q: "What are the 4 attachment styles?"
-    a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized / fearful-avoidant (wants closeness but fears it simultaneously). In large community samples roughly half screen as secure; the rest show patterns formed in childhood caregiving."
+    a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized / fearful-avoidant (wants closeness but fears it simultaneously). In large community samples close to six in ten adults screen as secure; the rest show patterns formed in childhood caregiving."
   - q: "Can I change my attachment style?"
     a: "Yes, research calls this earned security. Therapy (especially attachment-focused), a consistently secure partner, self-awareness practices (noticing trigger patterns), and mindfulness can shift anxious or avoidant toward secure over 1-3 years. Neuroplasticity does not stop at 25."
   - q: "Why do anxious and avoidant attract each other?"
@@ -45,7 +45,7 @@ relatedArticles:
 <div data-i18n-html="article_styles-attachement_p4"><h2>The 4 Attachment Styles</h2></div>
 
 <div data-i18n-html="article_styles-attachement_p5"><h3>1. Secure</h3>
-You are comfortable with intimacy and independence. You trust easily, communicate openly, and <a href="/journal/secure-self/">do not fear abandonment</a>. In large community samples, roughly half of adults screen as secure — the exact share shifts with the survey instrument, but secure remains the modal style.</div>
+You are comfortable with intimacy and independence. You trust easily, communicate openly, and <a href="/journal/secure-self/">do not fear abandonment</a>. In large US community samples, close to six in ten adults screen as secure — the exact share shifts with the survey instrument, but secure remains the modal style.</div>
 
 <div data-i18n-html="article_styles-attachement_p6"><h3>2. Anxious-Preoccupied</h3>
 You crave intimacy but fear abandonment. You need constant reassurance, worry about your partner's feelings, and become clingy under stress. Anxious-preoccupied shows up in roughly 15-25% of adults depending on the sample.</div>

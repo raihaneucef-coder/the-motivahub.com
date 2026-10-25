@@ -27,7 +27,7 @@ faq:
   - q: "What happens during a digital detox?"
     a: "First 24 hours: anxiety, phantom vibration, compulsive hand-to-pocket reaching (withdrawal). Day 3-5: boredom returns, which triggers creativity. Week 2: attention span measurably improves, sleep deepens, and you notice how much of your 'free time' was actually consumed by scrolling."
   - q: "How long should a digital detox last?"
-    a: "Research suggests a minimum of 48 hours to break the compulsive loop. A weekend (Fri evening to Mon morning) is practical. For deeper recovery from burnout, 7 days shows cortisol reduction and dopamine receptor reset. You don't need to delete everything forever — just reset the baseline."
+    a: "The first 48 hours are the hardest — that is when the urge to check is strongest, and a weekend (Fri evening to Mon morning) is the practical version. For measured mental-health change, the best-controlled trial available (Hunt et al., 2018, Journal of Social and Clinical Psychology) limited social-media use for about three weeks and found real reductions in loneliness and depression. You don't need to delete everything forever — just reset the baseline."
   - q: "What are the signs I need a digital detox?"
     a: "1) You pick up your phone within 5 minutes of waking. 2) You can't watch a full movie without second-screening. 3) You feel anxious when battery drops below 20%. 4) Your 'screen time' stat is over 6 hours. 5) You scroll when you're not actually looking for anything. If 3+ apply, your attention is fragmented."
 

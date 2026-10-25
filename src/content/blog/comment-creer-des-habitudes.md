@@ -26,14 +26,14 @@ tags:
 wordCount: 714
 faq:
   - q: "How long does it take to build a habit?"
-    a: "Research from Phillippa Lally (UCL, 2010) shows an average of 66 days, with a range of 18 to 254 days depending on complexity. Simple habits (drinking water) form faster than complex ones (daily exercise)."
+    a: "Research from Phillippa Lally (UCL, 2010) shows a median of 66 days, with a range of 18 to 254 days depending on complexity. Simple habits (drinking water) form faster than complex ones (daily exercise)."
   - q: "Why do most habits fail after 2 weeks?"
     a: "Because people rely on motivation instead of systems. The fix: make the habit tiny (2-minute version), attach it to an existing routine (habit stacking), and track it visually. Never miss twice in a row."
   - q: "What is the best method to build new habits?"
     a: "The evidence-based method: (1) Start absurdly small — 2 minutes max, (2) Stack it onto an existing habit, (3) Design your environment for the habit, (4) Track streaks, (5) Celebrate showing up, not the outcome."
 faqFr:
   - q: "Combien de temps faut-il pour créer une habitude ?"
-    a: "La recherche de Phillippa Lally (UCL, 2010) montre une moyenne de 66 jours, avec une plage de 18 à 254 jours selon la complexité. Les habitudes simples se forment plus vite que les complexes."
+    a: "La recherche de Phillippa Lally (UCL, 2010) montre une médiane de 66 jours, avec une fourchette de 18 à 254 jours selon la complexité. Les habitudes simples se forment plus vite que les complexes."
   - q: "Pourquoi la plupart des habitudes échouent après 2 semaines ?"
     a: "Parce que les gens comptent sur la motivation au lieu des systèmes. La solution : rendez l'habitude minuscule (version 2 minutes), attachez-la à une routine existante, et suivez-la visuellement. Ne manquez jamais deux fois de suite."
   - q: "Quelle est la meilleure méthode pour construire de nouvelles habitudes ?"

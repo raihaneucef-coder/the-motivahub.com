@@ -27,9 +27,9 @@ faq:
   - q: "What's the difference between intentional play and scrolling?"
     a: "Intentional play is CHOSEN, time-bounded, and leaves you energized (pickup basketball, board games, hiking). Scrolling is passive, endless, and leaves you flat. The key variable isn't the activity — it's whether YOU decided to do it, and whether it restores or drains your nervous system."
   - q: "Why do I feel guilty when I take a break?"
-    a: "Because modern culture conflates productivity with self-worth. Your inner critic has learned that 'rest must be earned.' But research shows unchosen breaks don't restore — guilt activates cortisol even while sitting still. The solution: schedule play the same way you schedule meetings. No guilt, just a calendar appointment."
+    a: "Because modern culture conflates productivity with self-worth. Your inner critic has learned that 'rest must be earned.' But rest you did not choose tends not to restore: research on relaxation and guilt finds that people who feel guilty while resting report lower recovery, even while their body is technically still. The solution: schedule play the same way you schedule meetings. No guilt, just a calendar appointment."
   - q: "How much play should adults get per day?"
-    a: "At minimum 30-60 minutes of 'flow-adjacent' activity: something you do for the pure enjoyment of doing it, not for output. Can be sports, music, cooking, games, dancing. The WHO and various longevity studies consistently identify regular leisure activity as a mortality risk reducer equivalent to quitting smoking."
+    a: "At minimum 30-60 minutes of 'flow-adjacent' activity: something you do for the pure enjoyment of doing it, not for output. Can be sports, music, cooking, games, dancing. Large cohort studies consistently find that regular leisure-time activity lowers all-cause mortality risk substantially — inactivity is one of the biggest modifiable risks there is, though it is not literally equivalent to quitting smoking."
 
 relatedArticles:
   - "lire-divertissement"

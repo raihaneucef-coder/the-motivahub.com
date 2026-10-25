@@ -35,7 +35,7 @@ faq:
   - q: "Should I wake up at 5 AM?"
     a: "Not necessarily. Chronotype research shows your best wake-up time depends on genetics. The right question is: how soon after waking can you have a productive hour? For some people, that's 5 AM. For others, it's 7 or 8 AM."
   - q: "How long does it take to form a morning routine?"
-    a: "Research suggests 18-66 days for habit consolidation. Expect 30 days to feel the shift and 90 days for the routine to be automatic. If you keep missing days, the routine is probably designed too big."
+    a: "The habit study most often quoted here (Lally et al., 2010) found a median of 66 days to automaticity, with individual times spread from 18 to 254 days. My own test ran 30 days — long enough to see which routines were sustainable, not long enough to call any of them automatic. If you keep missing days, the routine is probably designed too big."
   - q: "What is the Miracle Morning by Hal Elrod?"
     a: "The Miracle Morning is a 6-step routine called SAVERS: Silence, Affirmations, Visualization, Exercise, Reading, Scribing (journaling). Each step takes 5-10 minutes. Total: 30-60 minutes. Popular but not one-size-fits-all."
 faqFr:
@@ -44,7 +44,7 @@ faqFr:
   - q: "Dois-je me lever à 5 heures ?"
     a: "Pas forcément. Les recherches sur le chronotype montrent que votre meilleure heure de réveil dépend de la génétique. La bonne question est : combien de temps après le réveil pouvez-vous tenir une heure productive ? Pour certains, c'est 5 h. Pour d'autres, 7 h ou 8 h."
   - q: "Combien de temps pour former une routine matinale ?"
-    a: "La recherche suggère 18 à 66 jours pour la consolidation d'une habitude. Comptez 30 jours pour sentir le changement et 90 jours pour que la routine devienne automatique. Si vous continuez à sauter des jours, la routine est probablement trop ambitieuse."
+    a: "L'étude la plus citée sur le sujet (Lally et al., 2010) donne une médiane de 66 jours avant l'automatisation, avec des durées individuelles allant de 18 à 254 jours. Mon propre test a duré 30 jours — assez pour voir quelles routines étaient tenables, pas assez pour déclarer l'une d'elles automatique. Si vous continuez à sauter des jours, la routine est probablement trop ambitieuse."
   - q: "C'est quoi Miracle Morning de Hal Elrod ?"
     a: "Miracle Morning est une routine en six étapes appelée SAVERS : Silence, Affirmations, Visualisation, Exercise, Reading, Scribing (écriture journalière). Chaque étape prend 5 à 10 minutes. Total : 30 à 60 minutes. Populaire, mais pas universelle."
 relatedArticles:

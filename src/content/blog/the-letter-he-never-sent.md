@@ -27,7 +27,7 @@ tags:
 wordCount: 342
 faq:
   - q: "Why is writing an unsent letter powerful?"
-    a: "It externalizes trapped emotions without social risk. James Pennebaker research shows expressive writing about unprocessed experiences improves immune function, reduces rumination, and increases clarity within 4 days. The letter purpose is not delivery; it is the author liberation."
+    a: "It externalizes trapped emotions without social risk. Pennebaker's expressive-writing paradigm — 15 to 20 minutes on 3 or 4 consecutive days — reliably lightens the mental load of unprocessed experiences and often brings clarity within those first days. Later meta-analyses found the physical-health effects (immune measures included) to be smaller and less consistent than the original reports, so trust the psychological relief more than the body-health promises. The letter's purpose is not delivery; it is the author's liberation."
   - q: "Should I send the letter after writing it?"
     a: "Wait 30 days. Re-read: if it still serves a constructive purpose (not blame, but genuine sharing), consider it. If reading it again creates the same relief you felt writing it, the recipient was always you. Most unsent letters achieve their healing purpose without ever being mailed."
   - q: "What if I never get to say what I needed to say?"

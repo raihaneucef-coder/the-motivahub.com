@@ -31,22 +31,22 @@ tags:
 wordCount: 2117
 faq:
   - q: "How many books should I read per year?"
-    a: "Research shows that 24-30 books per year is the sweet spot for most professionals. Less than 6 and you're missing out on compounding knowledge. More than 60 and retention suffers. Aim for 2-3 books per month, finished, not started."
+    a: "For most professionals, 24–30 books per year is a sustainable range if you read 20–30 minutes daily. Fewer than 6 and you're missing compounding knowledge. More than 60 and retention drops. Aim for 2–3 books per month, finished, not just started."
   - q: "What's the best time to read?"
     a: "The time you'll actually show up for. For most people, that's 20 minutes before bed or first thing in the morning. The 'best' time is when reading is least likely to compete with other obligations."
   - q: "Do I need to read 30 minutes a day?"
-    a: "No. The 20-minute daily habit builds consistency faster than the 60-minute 3x per week habit. Research on micro-habits shows small daily actions stick better than longer weekly ones."
+    a: "Habit research (Lally et al., 2010) shows daily repetition makes a behavior automatic faster than less-frequent longer sessions. The 20-minute daily habit builds consistency faster than the 60-minute 3× per week habit."
   - q: "What if I read and don't remember?"
-    a: "You will remember 20-30% of what you read, even without notes. The act of reading trains your attention and vocabulary more than memory. For retention, take 2 minutes after each session to write down the single key idea."
+    a: "You will retain some of what you read even without notes — exact percentages vary by text difficulty and engagement. The act of reading trains your attention and vocabulary more than memory alone. For retention, take 2 minutes after each session to write down the single key idea."
 faqFr:
   - q: "Combien de livres lire par an ?"
-    a: "Les recherches indiquent que 24 à 30 livres par an est le point optimal pour la plupart des professionnels. Moins de 6 et vous passez à côté de la connaissance composée. Plus de 60 et la rétention souffre. Visez 2 à 3 livres par mois, terminés, pas commencés."
+    a: "Pour la plupart des professionnels, 24 à 30 livres par an est une fourchette durable si vous lisez 20 à 30 minutes par jour. Moins de 6 et vous passez à côté de la connaissance composée. Plus de 60 et la rétention chute. Visez 2 à 3 livres par mois, terminés, pas seulement commencés."
   - q: "Quel est le meilleur moment pour lire ?"
     a: "Celui où vous serez réellement présent. Pour la plupart des gens, c'est 20 minutes avant de dormir ou dès le réveil. Le « meilleur » moment est celui où la lecture a le moins de chances d'être en concurrence avec d'autres obligations."
   - q: "Faut-il lire 30 minutes par jour ?"
-    a: "Non. L'habitude quotidienne de 20 minutes construit la régularité plus vite que l'habitude de 60 minutes trois fois par semaine. Les recherches sur les micro-habitudes montrent que les petites actions quotidiennes tiennent mieux que les longues hebdomadaires."
+    a: "Non. L'habitude quotidienne de 20 minutes construit la régularité plus vite que l'habitude de 60 minutes trois fois par semaine. La recherche sur les habitudes (Lally et al., 2010) montre que la répétition quotidienne rend un comportement automatique plus vite que des sessions longues mais espacées."
   - q: "Et si je lis sans rien retenir ?"
-    a: "Vous retiendrez 20 à 30 % de ce que vous lisez, même sans notes. L'acte de lire entraîne votre attention et votre vocabulaire plus que votre mémoire. Pour la rétention, prenez 2 minutes après chaque session pour écrire l'idée principale."
+    a: "Vous retiendrez une partie de ce que vous lisez, même sans notes — le pourcentage exact dépend de la difficulté du texte et de votre engagement. L'acte de lire entraîne votre attention et votre vocabulaire plus que votre mémoire seule. Pour la rétention, prenez 2 minutes après chaque session pour écrire l'idée principale."
 relatedArticles:
   - "regle-21-jours"
   - "regle-deux-minutes"

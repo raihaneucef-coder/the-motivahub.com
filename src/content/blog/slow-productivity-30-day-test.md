@@ -29,7 +29,7 @@ tags:
 wordCount: 2175
 faq:
   - q: "What is slow productivity?"
-    a: "Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. Three core principles. It rejects hustle culture's assumption that more projects + more hours = better output. The research shows the opposite: fewer commitments, deeper focus, longer sustainable careers."
+    a: "Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. Three core principles. It rejects hustle culture's assumption that more projects + more hours = better output. Newport argues the opposite: fewer commitments, deeper focus, longer sustainable careers."
   - q: "Is slow productivity just doing less?"
     a: "No. It's doing fewer things with more depth. The difference is crucial. Doing less means fewer tasks. Doing fewer things means fewer active projects (Cal Newport's exact recommendation is no more than 2-3 major projects at once)."
   - q: "How do I apply slow productivity if I have a job?"
@@ -38,7 +38,7 @@ faq:
     a: "You can still apply the principle: protect deep work blocks, refuse excessive meetings, and obsess over quality in your 2-3 most important deliverables. The principle of slow productivity applies even when you can't fully control your project load."
 faqFr:
   - q: "Qu'est-ce que la productivité lente ?"
-    a: "La philosophie de Cal Newport : faire moins de choses, travailler à un rythme naturel, et être obsédé par la qualité. Trois principes centraux. Elle rejette l'hypothèse de la culture du rush selon laquelle plus de projets plus d'heures = de meilleurs résultats. La recherche montre l'inverse : moins d'engagements, une concentration plus profonde, des carrières plus longues et durables."
+    a: "La philosophie de Cal Newport : faire moins de choses, travailler à un rythme naturel, et être obsédé par la qualité. Trois principes centraux. Elle rejette l'hypothèse de la culture du rush selon laquelle plus de projets plus d'heures = de meilleurs résultats. Newport avance l'inverse : moins d'engagements, une concentration plus profonde, des carrières plus longues et durables."
   - q: "La productivité lente, est-ce simplement faire moins ?"
     a: "Non. C'est faire moins de choses avec plus de profondeur. La différence est cruciale. Faire moins veut dire moins de tâches. Faire moins de choses veut dire moins de projets actifs — la recommandation exacte de Cal Newport est de ne pas dépasser 2 à 3 grands projets à la fois."
   - q: "Comment appliquer la productivité lente quand on a un emploi ?"
