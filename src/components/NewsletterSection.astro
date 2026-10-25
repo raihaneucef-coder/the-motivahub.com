@@ -18,6 +18,11 @@ const {
 const magnets = [
   { id: "30-days", label: "30 Days of Discipline", emoji: "🗓️" },
 ];
+
+// F-12: the placeholders below are localized via data-i18n-placeholder, but the
+// aria-labels were hard-coded English, so FR pages exposed an English accessible
+// name. Derive the locale from the URL path (the page's source of truth).
+const isFr = Astro.url.pathname.startsWith("/fr");
 ---
 
 <div class={`newsletter newsletter-${variant}`} data-variant={variant}>
@@ -42,8 +47,8 @@ const magnets = [
   )}
 
       <form class="newsletter-form" id="newsletter-form" novalidate>
-        <input type="text" name="name" placeholder="First name (optional)" aria-label="First name" autocomplete="given-name" data-i18n-placeholder="newsletterName" />
-        <input type="email" name="email" placeholder="Your email address *" aria-label="Email address" required autocomplete="email" data-i18n-placeholder="newsletterPlaceholder" />
+        <input type="text" name="name" placeholder="First name (optional)" aria-label={isFr ? "Prénom" : "First name"} autocomplete="given-name" data-i18n-placeholder="newsletterName" />
+        <input type="email" name="email" placeholder="Your email address *" aria-label={isFr ? "Adresse e-mail" : "Email address"} required autocomplete="email" data-i18n-placeholder="newsletterPlaceholder" />
         <button type="submit" class="btn-pill btn-pill-cream" data-i18n="newsletterBtn">{buttonText}</button>
       </form>
       <p id="newsletter-msg" class="newsletter-note" aria-live="polite"></p>
@@ -57,7 +62,7 @@ const magnets = [
         <strong data-i18n="newsletterBtn">Subscribe Free</strong> — <span data-i18n="newsletterSubtitle">Mindset, discipline, and the long ascent — distilled into 500 words. No noise, no algorithms.</span>
       </p>
       <form class="newsletter-compact-form" id="newsletter-compact-form" novalidate>
-        <input type="email" name="email" placeholder="you@email.com" aria-label="Email" required data-i18n-placeholder="footerEmailPlaceholder" />
+        <input type="email" name="email" placeholder="you@email.com" aria-label={isFr ? "Adresse e-mail" : "Email"} required data-i18n-placeholder="footerEmailPlaceholder" />
         <button type="submit" data-i18n="footerSubscribe">Subscribe</button>
       </form>
     </div>

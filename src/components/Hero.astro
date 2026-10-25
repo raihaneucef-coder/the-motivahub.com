@@ -56,8 +56,8 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
             <span class="hero-line-item"><b set:html={m.num}></b><span data-i18n={m.labelKey}>{m.label || ''}</span></span>
           </Fragment>
         ))}
-        <span class="hero-line-sep">&middot;</span>
-        <a class="hero-textlink" href={secondaryCtaHref} data-i18n="heroSecondary">{secondaryCta.label}</a>
+        <!-- F-22: group the trailing separator with the quiz link so the "·" cannot wrap onto its own line at narrow widths -->
+        <span class="hero-line-quiz"><span class="hero-line-sep">&middot;</span><a class="hero-textlink" href={secondaryCtaHref} data-i18n="heroSecondary">{secondaryCta.label}</a></span>
       </p>
 
       <span class="hero-eyebrow">

@@ -58,6 +58,17 @@ const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
     text-decoration: none;
     border-bottom: 1px solid transparent;
     transition: border-color 0.2s ease, color 0.2s ease;
+    position: relative;
+  }
+  /* F-06: raise the tap target to >=24px without changing the layout. The
+     invisible ::before extends the clickable area (+/-3px vertically stays
+     within the 8px gap between items, so neighbouring links never collide;
+     horizontal room is free since entries are one per line). Mirrors the
+     existing .lang-btn hit-area-expansion idiom. */
+  .toc-item a::before {
+    content: "";
+    position: absolute;
+    inset: -3px -8px;
   }
   .toc-item a:hover {
     color: var(--gold, #c8a04a);

@@ -13,7 +13,7 @@ const css = fs.readFileSync(cssPath, 'utf8');
 const minified = css
   .replace(/\/\*[\s\S]*?\*\//g, '')          // strip comments
   .replace(/\s+/g, ' ')                        // collapse whitespace
-  .replace(/\s*([{}:;,>~+])\s*/g, '$1')        // drop space around symbols
+  .replace(/\s*([{}:;,>~])\s*/g, '$1')         // drop space around symbols (NOT + - : calc()/clamp() math needs whitespace around operators)
   .replace(/;}/g, '}')                          // drop trailing semicolons
   .replace(/:;/g, ':')                          // drop stray empty decls
   .trim();

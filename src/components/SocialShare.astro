@@ -182,4 +182,15 @@ const encTitle = encodeURIComponent(title);
   .ig-preview canvas { width: 100%; height: auto; display: block; }
   .ig-modal-actions { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
   .ig-modal-note { text-align: center; font-size: 0.8rem; color: var(--muted); margin-top: 1rem; }
+
+  /* F-06: the share controls had no styling and rendered as bare inline links
+     (~20px tall; the "X" link ~11x20), below the 24px minimum tap target. Give
+     every share button real height and a little horizontal padding, which also
+     spaces them apart. Text appearance is otherwise unchanged. */
+  .social-btn {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+    padding: 4px 8px;
+  }
 </style>

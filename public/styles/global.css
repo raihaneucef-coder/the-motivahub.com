@@ -3204,3 +3204,76 @@ body.menu-open #cookie-consent {
   text-shadow: 0 1px 2px rgba(0,0,0,.5);
 }
 .article-img-wrap::after { font-size: 12px; padding: 7px 13px; left: 16px; bottom: 16px; }
+
+/* ==========================================================================
+   Audit fixes (browser audit, 4236e7e) — F-02 / F-03 / F-05
+   Appended at end of the readable section so they win by cascade order
+   against the minified rules above (same specificity, later source).
+   ========================================================================== */
+
+/* F-02: between 769-999px the inline .header-nav links, the always-visible
+   .menu-btn hamburger and the lang switcher together overflow the viewport,
+   pushing the menu button off-screen (html has overflow-x:clip, so it cannot
+   be scrolled to). Fall back to the hamburger-only header in that band — the
+   same layout already used <=768px. >=1000px is unchanged (inline nav fits). */
+@media (min-width: 769px) and (max-width: 999px) {
+  .header-nav { display: none; }
+}
+
+/* F-03: the fixed 76px header hid TOC / in-page anchor targets. Offset
+   anchored article headings so they land below the header, matching the
+   existing #newsletter scroll-margin-top. */
+main h2[id],
+main h3[id] { scroll-margin-top: 96px; }
+
+/* F-05: the closed overlay menu was only moved off-screen with a transform, so
+   its links stayed keyboard-focusable. Take it out of the tab order with
+   visibility:hidden when closed and reveal it when open; the visibility change
+   is delayed on close so the slide-out animation still plays. */
+.overlay-menu {
+  visibility: hidden;
+  transition: transform var(--dur-cinema) var(--ease-cinema), visibility 0s linear var(--dur-cinema);
+}
+.overlay-menu.open {
+  visibility: visible;
+  transition: transform var(--dur-cinema) var(--ease-cinema), visibility 0s;
+}
+
+/* F-11: skip-to-content link. Kept off-screen (not display:none, so it stays
+   focusable) and revealed on keyboard focus, styled with the existing ink/cream
+   pill tokens so it matches the design rather than introducing new chrome. */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: 1000;
+}
+.skip-link:focus {
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  width: auto;
+  height: auto;
+  padding: 10px 16px;
+  background: var(--ink);
+  color: var(--cream);
+  border-radius: var(--radius-pill);
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  letter-spacing: 0.04em;
+  box-shadow: var(--shadow-lg);
+}
+
+/* F-22: keep the trailing "·" glued to the quiz link. The group is a single
+   flex item inside .hero-line (flex-wrap), and its inner 14px gap matches the
+   row's column-gap, so the visual spacing is unchanged while the dot can no
+   longer strand on its own wrapped line. */
+.hero-line-quiz {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 14px;
+  white-space: nowrap;
+}
