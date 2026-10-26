@@ -78,6 +78,7 @@ const lang = getLangFromUrl(Astro.url);
         <Link href="/privacy/" data-i18n="footerPrivacy">Privacy</Link>
         <Link href="/terms/" data-i18n="footerTerms">Terms</Link>
         <Link href="/affiliate-disclosure/" data-i18n="footerDisclosure">Disclosure</Link>
+        <a href="#" class="footer-manage-consent" onclick="try{window.googlefc&&googlefc.showRevocationMessage()}catch(e){};return false;">{lang === 'fr' ? 'Gérer le consentement' : 'Manage consent'}</a>
       </div>
     </div>
   </div>

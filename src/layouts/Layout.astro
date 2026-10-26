@@ -52,22 +52,21 @@ const globalCssV = createHash("sha256")
   .update(readFileSync(new URL("../../public/styles/global.css", import.meta.url)))
   .digest("hex")
   .slice(0, 10);
-// Consent Mode v2: all storage stays denied until the visitor accepts; a saved
-// decision is replayed here (before gtag.js loads) via the dataLayer stub below.
+// Consent Mode v2: all four signals default to denied on every page, set inline
+// before gtag.js initialises. The Google Privacy & messaging CMP then supplies
+// the real consent decision (see the googlefc consent-mode bridge in <head>).
 const gaSnippet = GA_ID
-  ? `window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});try{if(localStorage.getItem('cookie_consent')==='accepted')gtag('consent','update',{analytics_storage:'granted',ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted'});}catch(e){}`
+  ? `window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});`
   : "";
-// Third-party AD scripts (AdSense) are deferred to the first user interaction:
-// keeps first paint free of render-blocking/cookie-setting third-party requests.
+// AdSense: the tag loads on DOMContentLoaded (F-09) so the Google Privacy &
+// messaging consent message can render promptly and gate ad requests; the tag
+// itself honours the Consent Mode defaults and the CMP's IAB TCF string.
 // GA4: the pageview (gtag('js')/gtag('config')) is queued into dataLayer
 // immediately so every visit still counts with an accurate timestamp; only the
 // heavy gtag.js download+execution is deferred to idle after load, off the
 // mobile critical path (frees main thread -> lower TBT/LCP contention).
-const deferTpl = (body: string) =>
-  `(function(){var done=false;function load(){if(done)return;done=true;${body}}function idle(){if("requestIdleCallback"in window){requestIdleCallback(load,{timeout:2000})}else{setTimeout(load,500)}}["scroll","pointerdown","keydown","touchstart"].forEach(function(e){window.addEventListener(e,idle,{once:true,passive:true});});})();`;
-const deferAds = deferTpl(
-  `var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);`
-);
+const deferAds =
+  `(function(){function load(){var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',load,{once:true});}else{load();}})();`;
 const deferGa = GA_ID
   ? `(function(){gtag('js',new Date());gtag('config','${GA_ID}');var done=false;function load(){if(done)return;done=true;var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}";document.head.appendChild(s);}function schedule(){if("requestIdleCallback" in window){requestIdleCallback(load,{timeout:4000});}else{setTimeout(load,1500);}}if(document.readyState==='complete'){schedule();}else{window.addEventListener('load',schedule,{once:true});}})();`
   : "";
@@ -119,6 +118,29 @@ const deferGa = GA_ID
     {GA_ID && (
       <script is:inline define:vars={{ gaSnippet, deferGa }} set:html={gaSnippet + deferGa}></script>
     )}
+    <script is:inline>
+      // F-09: make GA4 / Consent Mode honour the Google Privacy & messaging (CMP)
+      // decision for all four signals, using the documented googlefc API only.
+      window.googlefc = window.googlefc || {};
+      window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+      window.googlefc.callbackQueue.push({
+        'CONSENT_MODE_DATA_READY': function () {
+          try {
+            var v = googlefc.getGoogleConsentModeValues();
+            var GRANTED = (googlefc.ConsentModePurposeStatusEnum || {}).GRANTED || 1;
+            var g = function (s) { return s === GRANTED ? 'granted' : 'denied'; };
+            if (typeof window.gtag === 'function') {
+              gtag('consent', 'update', {
+                analytics_storage: g(v.analyticsStoragePurposeConsentStatus),
+                ad_storage: g(v.adStoragePurposeConsentStatus),
+                ad_user_data: g(v.adUserDataPurposeConsentStatus),
+                ad_personalization: g(v.adPersonalizationPurposeConsentStatus)
+              });
+            }
+          } catch (e) {}
+        }
+      });
+    </script>
     <link rel="preload" href="/fonts/fraunces-normal-latin-63f165.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/inter-normal-latin-1ab1ad.woff2" as="font" type="font/woff2" crossorigin />
     {GA_ID && <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />}
@@ -350,23 +372,11 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
         if (Array.isArray(window.dataLayer)) try{window.dataLayer.push(payload);}catch(e){}
       };
     </script>
-    <div id="cookie-consent" class="cookie-banner" style="transform:translateY(110%);opacity:0;transition:transform .4s cubic-bezier(.22,1,.36,1),opacity .3s ease;">
-      <div class="cookie-inner">
-        <p data-i18n-html="cookieText">We use cookies to improve your experience and for analytics. By continuing, you agree to our <Link href="/privacy/" data-i18n="cookiePrivacy">Privacy Policy</Link>.</p>
-        <div class="cookie-actions">
-          <button class="cookie-btn cookie-accept" onclick="acceptCookies()" data-i18n="cookieAccept">Accept</button>
-          <button class="cookie-btn cookie-decline" onclick="declineCookies()" data-i18n="cookieDecline">Decline</button>
-        </div>
-      </div>
-    </div>
-    <script is:inline>
-      function showCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(0)';el.style.opacity='1';el.style.pointerEvents='auto';document.body.classList.add('cookie-visible');}
-      function hideCookieBanner(){var el=document.getElementById('cookie-consent');el.style.transform='translateY(110%)';el.style.opacity='0';el.style.pointerEvents='none';document.body.classList.remove('cookie-visible');}
-      function setConsent(accepted){var st=accepted?'granted':'denied';try{gtag('consent','update',{analytics_storage:st,ad_storage:st,ad_user_data:st,ad_personalization:st});}catch(e){}}
-      function acceptCookies(){localStorage.setItem('cookie_consent','accepted');setConsent(true);hideCookieBanner();}
-      function declineCookies(){localStorage.setItem('cookie_consent','declined');setConsent(false);hideCookieBanner();}
-      if(!localStorage.getItem('cookie_consent'))setTimeout(showCookieBanner,1500);
-    </script>
+    <!-- F-09: the previous custom cookie banner and its localStorage-based
+         consent replay were removed. Consent is now collected and managed by
+         the Google AdSense Privacy & messaging CMP (Funding Choices / googlefc),
+         which avoids duplicate consent prompts. A "Manage consent" control to
+         re-open the message lives in the site footer. -->
   <div class="read-progress" id="read-progress" aria-hidden="true"></div>
 
   <script is:inline>
