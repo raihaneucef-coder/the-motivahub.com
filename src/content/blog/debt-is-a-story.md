@@ -33,6 +33,13 @@ faq:
     a: "Two proven methods: 1) Debt avalanche: pay highest interest rate first (saves most money mathematically). 2) Debt snowball: pay smallest balance first (creates quick wins and dopamine motivation). Choose based on your psychology: if you need motivation, snowball; if you need logic, avalanche."
   - q: "How do I rewrite my story about money?"
     a: "Separate identity from circumstance. Replace 'I'm bad with money' with 'I made decisions based on information I had.' Then create a new narrative with numbers: list every debt as a line item, make one plan, track progress. Action rewrites the story faster than affirmations — each payment is a sentence in your new chapter."
+faqFr:
+  - q: "Pourquoi ai-je honte de mes dettes ?"
+    a: "Parce que nous confondons les chiffres et le caractère. La dette est un état financier, pas une faute morale. La recherche sur la « honte financière » (Université de Floride) montre que le jugement de soi à propos de la dette mène à l'évitement — consulter ses relevés plus tard, dépenser pour tenir. L'auto-compassion accélère en réalité le remboursement, parce qu'elle vous fait regarder les chiffres au lieu de les cacher."
+  - q: "Quelle est la façon la plus rapide de rembourser une dette ?"
+    a: "Deux méthodes éprouvées : 1) l'avalanche — rembourser d'abord le taux d'intérêt le plus élevé (le plus rentable mathématiquement) ; 2) la boule de neige — rembourser d'abord le plus petit solde (elle crée des victoires rapides et une motivation dopaminergique). Choisissez selon votre psychologie : si vous avez besoin d'élan, la boule de neige ; si vous avez besoin de logique, l'avalanche."
+  - q: "Comment réécrire mon histoire avec l'argent ?"
+    a: "Séparez l'identité de la circonstance. Remplacez « je suis nul avec l'argent » par « j'ai pris ces décisions avec les informations que j'avais ». Puis écrivez une nouvelle histoire chiffrée : listez chaque dette en une ligne, faites un plan, suivez les progrès. L'action réécrit l'histoire plus vite que les affirmations — chaque paiement est une phrase de votre nouveau chapitre."
 
 relatedArticles:
   - "fond-urgence"

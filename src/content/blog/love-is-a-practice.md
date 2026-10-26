@@ -30,6 +30,13 @@ faq:
     a: "Do the actions anyway. Research on 'behavioral confirmation' shows acting lovingly triggers emotional reconnection — feelings follow behavior, not the reverse. Small deliberate acts (make their coffee, ask about their day, put your phone away) rebuild the emotional bond that the initial excitement created for free."
   - q: "What's the difference between infatuation and real love?"
     a: "Infatuation is projection — you love the idea of them. Real love is perception — you see their full humanity and choose them anyway. Infatuation feels effortless; real love costs something and you pay willingly. The shift happens when you stop asking 'how do they make me feel?' and start asking 'how do I show up for them?'"
+faqFr:
+  - q: "L'amour est-il un sentiment ou un choix ?"
+    a: "Les deux — mais la part durable est le choix. Le sentiment (la limerence) dure 12 à 24 mois (pics chimiques de dopamine et d'ocytocine). Après quoi, l'amour devient une pratique quotidienne : être là, choisir son bien-être en plus du vôtre, rester quand l'euphorie initiale retombe. Les couples qui prospèrent traitent l'amour comme un verbe, pas comme une humeur."
+  - q: "Comment pratiquer l'amour quand on ne le ressent plus ?"
+    a: "Passez à l'acte quand même. La recherche sur la « confirmation comportementale » montre que agir avec amour relance la reconnectation émotionnelle — les sentiments suivent le comportement, pas l'inverse. De petits gestes délibérés (préparer son café, demander sa journée, ranger son téléphone) reconstruisent le lien émotionnel que l'excitation du début offrait gratuitement."
+  - q: "Quelle différence entre l'engouement et le véritable amour ?"
+    a: "L'engouement est projection — vous aimez l'idée de l'autre. Le véritable amour est perception — vous voyez son humanité entière et vous le choisissez quand même. L'engouement semble sans effort ; le véritable amour coûte quelque chose, et vous payez de bon gré. La bascule se fait quand vous cessez de demander « que me fait-il ressentir ? » pour demander « comment est-ce que je me présente pour lui/elle ? »."
 
 relatedArticles:
   - "habitude-5-min-relations"

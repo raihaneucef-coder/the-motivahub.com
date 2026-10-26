@@ -30,6 +30,13 @@ faq:
     a: "Because modern culture conflates productivity with self-worth. Your inner critic has learned that 'rest must be earned.' But rest you did not choose tends not to restore: research on relaxation and guilt finds that people who feel guilty while resting report lower recovery, even while their body is technically still. The solution: schedule play the same way you schedule meetings. No guilt, just a calendar appointment."
   - q: "How much play should adults get per day?"
     a: "At minimum 30-60 minutes of 'flow-adjacent' activity: something you do for the pure enjoyment of doing it, not for output. Can be sports, music, cooking, games, dancing. Large cohort studies consistently find that regular leisure-time activity lowers all-cause mortality risk substantially — inactivity is one of the biggest modifiable risks there is, though it is not literally equivalent to quitting smoking."
+faqFr:
+  - q: "Quelle différence entre le jeu délibéré et le scroll ?"
+    a: "Le jeu délibéré est CHOISI, délimité dans le temps, et vous laisse regonflé (match improvisé, jeu de société, randonnée). Le scroll est passif, sans fin, et vous laisse à plat. La variable clé n'est pas l'activité — c'est de savoir si VOUS avez décidé de la faire, et si elle restaure ou draine votre système nerveux."
+  - q: "Pourquoi me sentir coupable quand je fais une pause ?"
+    a: "Parce que la culture moderne confond productivité et valeur personnelle. Votre critique intérieur a appris que « le repos doit se mériter ». Mais un repos que vous n'avez pas choisi ne restaure pas grand-chose : la recherche sur la détente et la culpabilité trouve que les gens qui se sentent coupables en se reposant rapportent une récupération plus faible, même quand leur corps est techniquement immobile. La solution : planifier le jeu comme vous planifiez une réunion. Pas de culpabilité, juste un rendez-vous dans l'agenda."
+  - q: "Combien de jeu par jour pour un adulte ?"
+    a: "Au minimum 30 à 60 minutes d'activité « proche du flux » : quelque chose fait pour le plaisir de le faire, pas pour la production. Sport, musique, cuisine, jeux, danse. Les grandes études de cohorte trouvent de façon constante qu'une activité de loisirs régulière fait nettement baisser le risque de mortalité toutes causes — la sédentarité est l'un des plus grands risques modifiables qui existent, sans être littéralement équivalente à l'arrêt du tabac."
 
 relatedArticles:
   - "lire-divertissement"
@@ -59,7 +66,7 @@ relatedArticles:
 
 <div data-i18n-html="article_play-on-purpose_p9">The test is simple and brutal: <strong>how do you feel forty minutes after it ends?</strong> Refilled, or robbed? Energized toward tomorrow, or vaguely ashamed of tonight? Your answers will sort your leisure list faster than any productivity guru.</div>
 
-<div data-i18n-html="article_play-on-purpose_p10">This is not a sermon against fun. It is a case for <em>chosen</em> fun — the radical idea that joy deserves the same intentionality as ambition. Athletes understand this instinctively; their recovery is programmed as seriously as their training, because they know adaptation happens during rest, not during effort. You are allowed to run your ordinary life on the same architecture.</div>
+<div data-i18n-html="article_play-on-purpose_p10">This is not a sermon against fun. It is a case for <em>chosen</em> fun — the radical idea that <a href="/journal/choose-joy-on-purpose/">joy deserves the same intentionality</a> as ambition. Athletes understand this instinctively; their recovery is programmed as seriously as their training, because they know adaptation happens during rest, not during effort. You are allowed to run your ordinary life on the same architecture.</div>
 
 <div data-i18n-html="article_play-on-purpose_p11">Two small practices change everything:</div>
 

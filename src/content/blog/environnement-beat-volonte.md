@@ -24,11 +24,18 @@ tags:
 wordCount: 666
 faq:
   - q: "Why does environment beat willpower?"
-    a: "Willpower is a finite resource that depletes with stress, decisions, and time (ego depletion, Baumeister research). Environment works 24/7 without effort. If your kitchen has fruit at eye level and cookies in a high cupboard, you eat better without 'trying.'"
+    a: "Self-control works better early in the day and under low stress than late in the day and under load. The classic 'ego depletion' model (Baumeister) called willpower a finite resource; a large 2021 preregistered multi-lab replication found little evidence for it, while a 2024 reanalysis argues the effect survives under specific conditions — so the science is genuinely unsettled. Either way, environment works 24/7 without effort. If your kitchen has fruit at eye level and cookies in a high cupboard, you eat better without 'trying.'"
   - q: "How do I redesign my environment for better habits?"
     a: "1) Make cues visible (guitar on stand, not in closet). 2) Reduce friction for good habits (pre-cut vegetables). 3) Add friction for bad ones (phone in another room). 4) Remove temptation entirely rather than resisting it. Study: people who remove cookies from the house eat fewer calories than those who resist daily."
   - q: "Can changing my room change my behavior?"
     a: "Yes. A Northwestern University study found kitchen environment predicted BMI better than exercise frequency. A clean desk increases focus; visible books increase reading; an unmade bed triggers procrastination. You don't rise above your environment — you fall to it."
+faqFr:
+  - q: "Pourquoi l'environnement bat-il la volonté ?"
+    a: "La maîtrise de soi fonctionne mieux tôt dans la journée et sous un faible stress que tard le soir ou sous charge. Le modèle classique de l'« ego depletion » (Baumeister) décrivait la volonté comme une ressource finie ; une grande réplication pré-enregistrée multi-laboratoires de 2021 n'a guère trouvé de preuves en sa faveur, tandis qu'une réanalyse de 2024 soutient que l'effet survit dans certaines conditions — la question reste donc ouverte. Dans tous les cas, l'environnement, lui, travaille 24 heures sur 24 sans effort. Si votre cuisine a des fruits à hauteur d'yeux et les biscuits dans un placard haut, vous mangez mieux sans « essayer »."
+  - q: "Comment réaménager mon environnement pour de meilleures habitudes ?"
+    a: "1) Rendez les indices visibles (la guitare sur son pied, pas dans l'armoire). 2) Réduisez la friction des bonnes habitudes (légumes déjà coupés). 3) Ajoutez de la friction aux mauvaises (téléphone dans une autre pièce). 4) Supprimez la tentation plutôt que de lui résister. Une étude montre que les gens qui retirent les biscuits de la maison consomment moins de calories que ceux qui résistent chaque jour."
+  - q: "Changer ma chambre peut-il changer mon comportement ?"
+    a: "Oui. Une étude de Northwestern University a trouvé que l'environnement de la cuisine prédit l'IMC mieux que la fréquence d'exercice. Un bureau rangé augmente la concentration ; des livres visibles augmentent la lecture ; un lit non fait enclenche la procrastination. On ne s'élève pas au-dessus de son environnement — on retombe sur lui."
 
 relatedArticles:
   - "habit-stacking-routine"

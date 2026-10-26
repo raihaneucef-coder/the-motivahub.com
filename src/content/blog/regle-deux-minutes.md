@@ -31,6 +31,13 @@ faq:
     a: "Procrastination is an activation-energy problem — starting feels heavy. A 2-minute version makes the barrier so low your brain can't generate a convincing excuse. Once you start, the Zeigarnik effect (desire to finish begun tasks) usually carries you well past 2 minutes."
   - q: "How do you apply the 2-minute rule step by step?"
     a: "1) Write the habit you want. 2) Scale it to a version taking under 120 seconds (put on running shoes = exercise). 3) Do only that version for 2 weeks until it feels automatic. 4) Gradually expand duration. Never skip the 2-minute version even on bad days."
+faqFr:
+  - q: "Qu'est-ce que la règle des 2 minutes ?"
+    a: "La règle des 2 minutes dit : quand vous démarrez une nouvelle habitude, elle doit prendre moins de deux minutes. Au lieu de « lire 30 minutes », réduisez à « lire une page ». Le but est de maîtriser le fait de se présenter avant d'optimiser la durée. James Clear a popularisé cela dans Atomic Habits."
+  - q: "Pourquoi la règle des 2 minutes fonctionne-t-elle contre la procrastination ?"
+    a: "La procrastination est un problème d'énergie d'activation — commencer paraît lourd. La version de 2 minutes abaisse la barrière au point que votre cerveau ne peut pas produire d'excuse crédible. Une fois lancé, l'effet Zeigarnik (le désir de terminer ce qui est commencé) vous porte généralement bien au-delà des 2 minutes."
+  - q: "Comment appliquer la règle des 2 minutes étape par étape ?"
+    a: "1) Écrivez l'habitude voulue. 2) Réduisez-la à une version de moins de 120 secondes (enfiler ses chaussures de course = sport). 3) Faites seulement cette version pendant 2 semaines, jusqu'à ce qu'elle paraisse automatique. 4) Allongez progressivement la durée. Ne sautez jamais la version de 2 minutes, même les mauvais jours."
 
 relatedArticles:
   - "identity-based-habits-90-day-test"

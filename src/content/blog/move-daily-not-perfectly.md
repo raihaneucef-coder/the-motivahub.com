@@ -30,6 +30,13 @@ faq:
     a: "Define your 'B-day workout' — the version you do when life is chaotic. A 15-minute walk counts. 10 pushups count. Stretching for 5 minutes counts. On good days you do more; on hard days you do the minimum. The goal is never zero — it's never breaking the identity of 'someone who moves.'"
   - q: "What counts as daily movement?"
     a: "Anything that raises your heart rate or challenges your muscles: walking, gardening, dancing, taking stairs, playing with kids. The WHO recommendation (150 min moderate activity) doesn't require a gym. Seven 20-minute daily walks meet it perfectly. Movement, not workouts, is the health variable."
+faqFr:
+  - q: "Une séance courte et imparfaite vaut-elle mieux que de sauter ?"
+    a: "Oui. La recherche montre que même 10 minutes de mouvement améliorent l'humeur, le métabolisme et la qualité du sommeil. Et surtout, sauter crée une rupture d'identité (« je ne suis pas quelqu'un qui fait du sport »), alors que se présenter imparfaitement préserve la chaîne d'habitude et l'image de soi qui soutient la régularité sur le long terme."
+  - q: "Comment sortir du tout ou rien en sport ?"
+    a: "Définissez votre « séance de jour B » — la version que vous faites quand la vie est chaotique. Une marche de 15 minutes compte. 10 pompes comptent. 5 minutes d'étirements comptent. Les bons jours vous en faites plus ; les jours difficiles, vous faites le minimum. Le but n'est jamais zéro — c'est de ne jamais briser l'identité de « quelqu'un qui bouge »."
+  - q: "Qu'est-ce qui compte comme mouvement quotidien ?"
+    a: "Tout ce qui augmente votre rythme cardiaque ou sollicite vos muscles : marcher, jardiner, danser, prendre les escaliers, jouer avec les enfants. La recommandation de l'OMS (150 minutes d'activité modérée) n'exige pas de salle de sport. Sept marches de 20 minutes par jour y suffisent parfaitement. Ce qui compte comme variable de santé, c'est le mouvement, pas la séance."
 
 relatedArticles:
   - "rest-is-a-decision-not-a-collapse"

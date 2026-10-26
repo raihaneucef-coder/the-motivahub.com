@@ -31,6 +31,13 @@ faq:
     a: "1) Automate savings BEFORE spending (pay yourself first, 20% minimum). 2) On your next raise, save 100% of the increase. 3) Build income that doesn't require your time (investments, side business). 4) Track one month of spending — awareness alone reduces expenditure by 10-15%. Freedom is gap between income and lifestyle, not income alone."
   - q: "What's the difference between 'high income' and 'wealthy'?"
     a: "Income is what you earn; wealth is what you keep and what earns for you while you sleep. A 150k€ earner with 140k€ spending has less freedom than a 45k€ earner with 15k invested monthly. Wealth = assets minus liabilities. The paycheck trap keeps you trading time for money at any salary level."
+faqFr:
+  - q: "Pourquoi les augmentations ne règlent-elles pas les problèmes d'argent ?"
+    a: "À cause de l'inflation du niveau de vie : les dépenses s'étendent automatiquement jusqu'au revenu (loi de Parkinson de l'argent). Une augmentation de 20 % produit en général 20 % de dépenses en plus — même écart, chiffres plus grands. La solution n'est pas de gagner plus ; c'est de garder un pourcentage d'épargne fixe avant de dépenser ce qui reste."
+  - q: "Comment sortir du piège du salaire ?"
+    a: "1) Automatisez l'épargne AVANT toute dépense (payez-vous d'abord, 20 % minimum). 2) Sur votre prochaine augmentation, épargnez 100 % de la hausse. 3) Construisez un revenu qui ne demande pas votre temps (placements, activité annexe). 4) Suivez un mois de dépenses — la prise de conscience suffit à réduire la dépense de 10 à 15 %. La liberté, c'est l'écart entre le revenu et le mode de vie, pas le revenu seul."
+  - q: "Quelle différence entre « haut revenu » et « riche » ?"
+    a: "Le revenu est ce que vous gagnez ; la richesse est ce que vous gardez et ce qui travaille pour vous pendant que vous dormez. Quelqu'un qui gagne 150 000 € et en dépense 140 000 € a moins de liberté que quelqu'un qui gagne 45 000 € et investit 15 000 € par mois. Richesse = actifs moins passifs. Le piège du salaire vous fait échanger du temps contre de l'argent, quel que soit le niveau de revenu."
 
 relatedArticles:
   - "fond-urgence"

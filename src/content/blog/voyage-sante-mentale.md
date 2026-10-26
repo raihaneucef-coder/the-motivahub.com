@@ -22,7 +22,7 @@ keywords:
   - "novelty and brain health"
 tags:
   - "travel"
-wordCount: 366
+wordCount: 380
 faq:
   - q: "Does travel actually improve mental health?"
     a: "Yes. Cornell research on anticipation (Kumar et al., 2014, 'Waiting for Merlot') found that looking forward to an experience like a trip makes people measurably happier than looking forward to a material purchase. Travel disrupts rumination cycles, exposes you to novelty, and provides perspective shifts that loosen the 'problem = everything' tunnel vision."
@@ -30,6 +30,13 @@ faq:
     a: "Stress does not unwind on the first night — most people spend the first two or three days still mentally at work, which is why a weekend takes the edge off while a longer break is where the real shift shows up. The practical 'reset window' is 7-10 days: long enough to decompress, short enough not to wreck your routines. A 48-hour change of scenery still helps, mostly through novelty and a break from your usual cues."
   - q: "What if I can't afford to travel for my mental health?"
     a: "The active ingredient is novelty and environmental change, not distance. Walk a new route, visit a neighborhood you've never explored, eat outdoors, change your workspace weekly. Even a short spell somewhere unfamiliar tends to lift mood and loosen rigid thinking — mild novelty is the lever; you don't need a flight."
+faqFr:
+  - q: "Le voyage améliore-t-il vraiment la santé mentale ?"
+    a: "Oui. La recherche de Cornell sur l'anticipation (Kumar et al., 2014, « Waiting for Merlot ») a trouvé que l'attente d'une expérience comme un voyage rend mesurablement plus heureux que l'attente d'un achat matériel. Le voyage interrompt les cycles de rumination, vous expose à la nouveauté et offre des changements de perspective qui desserrent la vision en tunnel « problème = tout »."
+  - q: "Combien de temps doit durer une pause pour la santé mentale ?"
+    a: "Le stress ne se défait pas la première nuit — la plupart des gens passent les deux ou trois premiers jours encore mentalement au travail, raison pour laquelle un week-end émousse la tension alors que le vrai déplacement apparaît dans une pause plus longue. La « fenêtre de réinitialisation » pratique est de 7 à 10 jours : assez long pour décompresser, assez court pour ne pas casser vos routines. Un changement de décor de 48 heures aide déjà, surtout par la nouveauté et la rupture avec vos repères habituels."
+  - q: "Que faire si je n'ai pas les moyens de voyager pour ma santé mentale ?"
+    a: "Le principe actif est la nouveauté et le changement d'environnement, pas la distance. Empruntez un nouveau chemin, visitez un quartier que vous n'avez jamais exploré, mangez dehors, changez votre espace de travail chaque semaine. Même un court séjour dans un lieu inconnu tend à remonter l'humeur et à assouplir la pensée rigide — la nouveauté légère est le levier ; vous n'avez pas besoin d'un vol."
 
 relatedArticles:
   - "the-detour-is-the-destination"
@@ -46,16 +53,16 @@ relatedArticles:
 <div data-i18n-html="article_voyage-sante-mentale_p4"><h2>How Travel Heals Your Mind</h2></div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p5"><h3>1. Reduces Stress</h3>
-A study reported by the American Psychological Association found that <a href="/journal/recovery-is-training/">vacations lower stress</a> largely by removing you from the environments and cues you've conditioned to anxiety — the commute, the desk, the notifications. The relief isn't only rest; it's the pause in the constant low-grade vigilance your usual surroundings keep demanding of you.</div>
+The plain reason <a href="/journal/recovery-is-training/">vacations lower stress</a> may have less to do with extra sleep than with removal: distance from the environments and cues you've conditioned to anxiety — the commute, the desk, the notifications. The relief isn't only rest; it's the pause in the constant low-grade vigilance your usual surroundings keep demanding of you.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p6"><h3>2. Boosts Creativity</h3>
-Here the research is more precise than the cliché. Maddux and Galinsky's work found that <em>living</em> abroad — sustained immersion in a second culture — raised creative insight, while mere sightseeing travel showed no such link. The mechanism is "frame-switching": adapting to unfamiliar norms forces your brain to hold two ways of seeing at once. So the creativity comes from depth and engagement, not from the number of stamps in your passport.</div>
+Here the research is more precise than the cliché. Maddux and Galinsky's work found that <em>living</em> abroad — sustained immersion in a second culture — was linked to higher creative insight, while mere sightseeing travel showed no such link. The mechanism they describe is "frame-switching": adapting to unfamiliar norms forces your brain to hold two ways of seeing at once. So the creativity comes from depth and engagement, not from the number of stamps in your passport.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p7"><h3>3. Improves Mood</h3>
-Anticipation of a trip boosts mood for weeks before departure. The trip itself creates positive memories that last for months.</div>
+Having something to look forward to can lift your mood well before departure. The trip itself creates positive memories that last for months.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p8"><h3>4. Breaks Routine</h3>
-Routine is the enemy of creativity and happiness. Travel breaks routine and forces your brain to engage with the world in new ways.</div>
+Routine can quietly dull creativity and happiness once nothing is left to notice. Travel breaks routine and forces your brain to engage with the world in new ways.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p9"><h3>5. Builds Resilience</h3>
 <a href="/journal/solo-travel-stronger-self/">Navigating unfamiliar environments builds confidence and resilience</a>. You prove to yourself that you can handle the unknown.</div>

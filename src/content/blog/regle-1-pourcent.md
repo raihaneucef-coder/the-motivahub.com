@@ -22,14 +22,21 @@ keywords:
 tags:
   - "personal growth"
   - "how-to"
-wordCount: 379
+wordCount: 417
 faq:
   - q: "What is the 1% rule?"
-    a: "The 1% rule means improving by just 1% each day. Mathematically, 1.01³⁶⁵ = 37.8 — you become 37 times better in a year. Popularized by James Clear in Atomic Habits, the principle shows that tiny consistent gains compound into extraordinary results over time."
+    a: "The 1% rule means improving by just 1% each day. The math is illustrative: 1.01³⁶⁵ ≈ 37.8, which shows how compounding works across a year — not a literal promise that you become 37 times better. Popularized by James Clear in Atomic Habits, the principle shows that tiny consistent gains compound into extraordinary results over time."
   - q: "How do I apply the 1% rule in real life?"
     a: "Pick one area (fitness, reading, skills) and add one small action daily: 1 extra rep, 5 more pages, 2 minutes of practice. The key is reducing the action to something so small you can't say no — then let consistency, not intensity, drive the compounding."
   - q: "Is 1% improvement per day realistic?"
-    a: "Not literally every day — progress is non-linear. The 1% rule works as a mindset shift: focus on direction, not speed. Measuring weekly averages (did I show up 6/7 days?) beats obsessing over daily perfection. Most people improve 0.3-0.7% on average and still get massive annual results."
+    a: "Not literally every day — progress is non-linear. The 1% rule works as a mindset shift: focus on direction, not speed. Measuring weekly averages (did I show up 6/7 days?) beats obsessing over daily perfection."
+faqFr:
+  - q: "Qu'est-ce que la règle du 1 % ?"
+    a: "La règle du 1 % consiste à progresser d'à peine 1 % chaque jour. Le calcul est illustratif : 1,01^365 ≈ 37,8, ce qui montre le mécanisme de la composition sur un an — pas la promesse littérale de devenir 37 fois meilleur. Popularisée par James Clear dans Atomic Habits, ce principe montre que de petits gains réguliers se composent en résultats extraordinaires avec le temps."
+  - q: "Comment appliquer la règle du 1 % dans la vraie vie ?"
+    a: "Choisissez un domaine (forme, lecture, compétences) et ajoutez une petite action chaque jour : une répétition de plus, 5 pages de plus, 2 minutes de pratique. La clé est de réduire l'action à quelque chose de si petit qu'on ne peut pas dire non — puis de laisser la régularité, pas l'intensité, faire le travail de composition."
+  - q: "Progresser de 1 % par jour est-il réaliste ?"
+    a: "Pas littéralement chaque jour — le progrès est non linéaire. La règle du 1 % fonctionne comme un changement de focus : la direction plutôt que la vitesse. Mesurer des moyennes hebdomadaires (ai-je été présent 6 jours sur 7 ?) vaut mieux qu'obséder sur la perfection quotidienne."
 
 relatedArticles:
   - "secure-self"

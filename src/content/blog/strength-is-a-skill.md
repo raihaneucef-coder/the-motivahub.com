@@ -31,6 +31,13 @@ faq:
     a: "Genetics affect muscle shape and insertion points, not your ability to gain strength. The process is universal: progressive overload (add weight/reps weekly), adequate protein (1.6g/kg), and sleep (7+ hrs). Beginners with bad genetics often progress FASTER initially due to newbie neural gains."
   - q: "Why does perfect form matter more than heavier weight?"
     a: "Form IS the skill. A squat performed correctly trains 200+ muscles in coordination; performed incorrectly, it loads joints and reinforces bad motor patterns. You are building a movement groove in your nervous system: once wired incorrectly, it takes 10x longer to fix than to learn right initially."
+faqFr:
+  - q: "La force est-elle une compétence ou un don naturel ?"
+    a: "La force est une compétence, plus précisément une adaptation neuronale. Votre cerveau apprend à recruter plus de fibres musculaires simultanément, à les activer plus vite et à coordonner les schémas de mouvement. C'est pourquoi des personnes non entraînées peuvent gagner 40 % de force en 8 semaines sans croissance musculaire visible : le système nerveux apprend la force comme n'importe quelle compétence."
+  - q: "Comment devenir plus fort quand on est naturellement maigre ou petit ?"
+    a: "La génétique influe sur la forme des muscles et sur les points d'insertion, pas sur votre capacité à gagner de la force. Le processus est universel : surcharge progressive (ajouter du poids ou des répétitions chaque semaine), protéines suffisantes (1,6 g/kg) et sommeil (7 heures et plus). Les débutants mal lotis génétiquement progressent souvent PLUS VITE au début grâce aux gains neuronaux du novice."
+  - q: "Pourquoi la forme parfaite compte-t-elle plus que la charge lourde ?"
+    a: "La forme EST la compétence. Un squat exécuté correctement entraîne plus de 200 muscles en coordination ; exécuté incorrectement, il charge les articulations et renforce de mauvais schémas moteurs. Vous gravez un sillon de mouvement dans votre système nerveux : une fois câblé incorrectement, il faut dix fois plus de temps pour corriger que pour apprendre bien dès le départ."
 
 relatedArticles:
   - "consistance-bat-intensite"

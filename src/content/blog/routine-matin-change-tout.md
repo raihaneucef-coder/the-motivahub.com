@@ -30,6 +30,13 @@ faq:
     a: "Move (10-30 min exercise), Mind (journaling, meditation, or reading), Fuel (hydration + protein breakfast), and Mission (review your #1 priority for the day). You don't need all four immediately — start with one and stack over 2-3 weeks."
   - q: "How do I stick to a morning routine long-term?"
     a: "Prepare the night before (lay out clothes, set the coffee). Never miss twice in a row. Start at your natural wake time — don't jump to 5am overnight. Track streaks visually (calendar X method). In the University College London habit study (Lally et al., 2010), a new behaviour took a median of 66 days to feel automatic — individual times ran from 18 to 254 days — so plan for months, not weeks."
+faqFr:
+  - q: "Une routine matinale peut-elle vraiment changer une vie ?"
+    a: "Oui — pas à cause des activités précises, mais à cause de ce qu'une routine construit : un sentiment de contrôle avant que le monde ne fasse ses demandes. Les travaux de Bandura sur la « efficacité personnelle » identifient les petites victoires accomplies comme une source centrale du sentiment d'efficacité ; tenir une promesse envers soi-même dès le réveil rend plus facile de tenir les suivantes dans la journée."
+  - q: "Quels sont les 4 piliers d'une routine matinale puissante ?"
+    a: "Bouger (10 à 30 minutes d'exercice), Esprit (journal, méditation ou lecture), Carburant (hydratation + petit-déjeuner protéiné), et Mission (revoir votre priorité numéro 1 du jour). Vous n'avez pas besoin des quatre tout de suite — commencez par un seul et empilez sur 2 à 3 semaines."
+  - q: "Comment tenir une routine matinale sur le long terme ?"
+    a: "Préparez la veille (vêtements sortis, café prêt). Ne manquez jamais deux fois de suite. Commencez à votre heure de réveil naturelle — ne sautez pas à 5 h d'un coup. Suivez les séries visuellement (la croix sur le calendrier). Dans l'étude de University College London (Lally et al., 2010), un nouveau comportement prenait une médiane de 66 jours avant de paraître automatique — les durées individuelles allaient de 18 à 254 jours — donc planifiez en mois, pas en semaines."
 
 relatedArticles:
   - "nervous-system-reset-focus"

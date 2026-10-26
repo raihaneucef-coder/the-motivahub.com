@@ -30,6 +30,13 @@ faq:
     a: "Use binary tracking: mark X on a calendar (done/not done). Don't record times, calories, or feelings. One visual per habit per day. The goal is 80% consistency — not perfection. If tracking causes anxiety, simplify to once-per-week review until the underlying habit is automatic."
   - q: "What's the link between measurement and ownership?"
     a: "When you measure something yourself, it becomes YOUR data — not someone else's judgment. The act of tracking transforms an obligation ('I should exercise') into a personal system ('I'm at day 14 of my streak'). Autonomy and competence are core psychological needs — measurement serves both."
+faqFr:
+  - q: "Pourquoi rendre un objectif mesurable augmente-t-il sa réussite ?"
+    a: "Un objectif vague (« me mettre en forme ») ne déclenche aucun comportement précis. Un objectif mesurable (« faire 30 pompes par jour ») crée un système de suivi binaire : vous l'avez fait ou vous ne l'avez pas fait. La clarté supprime la négociation, et les données vous montrent si vous progressez vraiment ou si vous avez juste l'impression d'être occupé."
+  - q: "Comment suivre mes habitudes sans devenir obsédé ?"
+    a: "Utilisez un suivi binaire : une croix sur le calendrier (fait / non fait). N'enregistrez ni durées, ni calories, ni émotions. Un visuel par habitude et par jour. Visez 80 % de régularité — pas la perfection. Si le suivi génère de l'anxiété, simplifiez en une revue hebdomadaire jusqu'à ce que l'habitude de fond soit automatique."
+  - q: "Quel lien entre la mesure et l'appropriation ?"
+    a: "Quand vous mesurez vous-même quelque chose, cela devient VOS données — pas le jugement de quelqu'un d'autre. L'acte de suivre transforme une obligation (« je devrais faire du sport ») en un système personnel (« j'en suis au jour 14 de ma série »). L'autonomie et la compétence sont des besoins psychologiques fondamentaux — la mesure sert les deux."
 
 relatedArticles:
   - "pouvoir-ecrire-objectifs"

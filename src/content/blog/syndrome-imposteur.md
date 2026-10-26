@@ -31,6 +31,13 @@ faq:
     a: "1) Separate feelings from facts: I feel like a fraud does not mean I am one. 2) Document wins (evidence journal). 3) Name the specific trigger (one comment, one meeting). 4) Reframe anxiety as growth evidence, imposters do not worry about being good enough. 5) Talk to a peer: shared recognition normalizes it instantly."
   - q: "Is imposter syndrome ever useful?"
     a: "Mildly: it keeps you humble and continuously learning (the Dunning-Kruger inverse, incompetent people never doubt themselves). It becomes toxic only when it prevents you from applying for roles, charging fair rates, or accepting praise. The goal is not to eliminate all self-doubt, it is to act despite it."
+faqFr:
+  - q: "Qu'est-ce que le syndrome de l'imposteur et qui le touche ?"
+    a: "La croyance persistante que votre réussite n'est pas méritée malgré les preuves. D'abord identifié chez des femmes à hauts succès (Clance et Imes, 1978) — l'échantillon dont vient le chiffre familier de « 70 % ». Les travaux ultérieurs le trouvent courant bien au-delà de ce groupe d'origine, mais sa fréquence dépend de qui est interrogé et de la façon dont on le mesure. Fréquent dans : les nouveaux postes, les reconversions, les groupes minoritaires dans des domaines dominants, et après toute validation externe."
+  - q: "Comment arrêter réellement de me sentir comme un fraudeur ?"
+    a: "1) Séparez les sentiments des faits : « je me sens un fraudeur » ne veut pas dire que vous l'êtes. 2) Documentez vos victoires (journal de preuves). 3) Nommez le déclencheur précis (un commentaire, une réunion). 4) Reformulez l'anxiété en preuve de croissance — les fraudeurs ne s'inquiètent pas d'être à la hauteur. 5) Parlez-en à un pair : la reconnaissance partagée normalise instantanément."
+  - q: "Le syndrome de l'imposteur est-il parfois utile ?"
+    a: "Légèrement : il maintient humble et en apprentissage continu (l'inverse de Dunning-Kruger — les incompétents ne doutent jamais d'eux-mêmes). Il devient toxique seulement quand il vous empêche de postuler à des postes, de facturer au juste prix ou d'accepter les félicitations. Le but n'est pas d'éliminer tout le doute de soi, c'est d'agir malgré lui."
 
 relatedArticles:
   - "confiance-inbranlable"

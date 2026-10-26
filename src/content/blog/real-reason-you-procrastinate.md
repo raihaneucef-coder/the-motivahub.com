@@ -30,6 +30,13 @@ faq:
     a: "1) Forgive yourself for procrastinating (self-blame increases future procrastination). 2) Shrink the task to 2 minutes ('just open the file'). 3) Remove the emotion: schedule at the same time daily so it becomes mechanical. 4) Do it badly first — a terrible draft breaks the perfectionism freeze."
   - q: "Is procrastination a form of ADHD?"
     a: "Chronic procrastination overlaps with ADHD (executive dysfunction, time blindness) but isn't identical. ADHD procrastination is neurological; situational procrastination is emotional. If procrastination affects all life domains since childhood, consider professional evaluation. For most adults, it's a specific avoidance pattern, not a disorder."
+faqFr:
+  - q: "Pourquoi est-ce que je procrastine si je ne suis pas paresseux ?"
+    a: "La recherche (Sirois & Pychyl, 2013) montre que la procrastination est un problème de régulation émotionnelle, pas de gestion du temps. Vous évitez la tâche parce qu'elle déclenche une émotion négative (ennui, anxiété, doute de soi). Votre cerveau choisit la réparation d'humeur à court terme plutôt que l'atteinte de l'objectif à long terme."
+  - q: "Comment sortir le plus vite d'une spirale de procrastination ?"
+    a: "1) Pardonnez-vous d'avoir procrastiné (se blâmer augmente la procrastination future). 2) Réduisez la tâche à 2 minutes (« ouvre juste le fichier »). 3) Retirez l'émotion : planifiez à la même heure chaque jour pour que cela devienne mécanique. 4) Faites-le mal d'abord — un brouillon terrible brise la paralysie du perfectionnisme."
+  - q: "La procrastination est-elle une forme de TDAH ?"
+    a: "La procrastination chronique recoupe le TDAH (dysfonction exécutive, cécité temporelle) sans s'y identifier. La procrastination du TDAH est neurologique ; la procrastination situationnelle est émotionnelle. Si elle touche tous les domaines de votre vie depuis l'enfance, envisagez une évaluation professionnelle. Chez la plupart des adultes, c'est un schéma d'évitement précis, pas un trouble."
 
 relatedArticles:
   - "productivite-efficace"

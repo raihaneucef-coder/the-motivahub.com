@@ -30,6 +30,13 @@ faq:
     a: "Negative moods activate the desire to restore positive affect. Shopping provides a short dopamine hit (anticipation + acquisition). In Cryder, Lerner, Gross & Dahl (2008, Psychological Science), induced-sad participants were willing to pay substantially more for the same item than neutral ones — the effect held even when they knew the purchase would not fix the mood. The purchase treats the emotion, not the need, which is why spotting triggers breaks the cycle."
   - q: "What beliefs separate wealthy thinking from poor thinking?"
     a: "Three key shifts: 1) 'I can learn to earn' vs 'I'll never have enough.' 2) 'Money is a tool I direct' vs 'Money is a scarce resource I pray survives.' 3) 'Delayed gratification builds compound' vs 'I deserve this now.' These aren't affirmations — they're operating assumptions that change what actions you take daily."
+faqFr:
+  - q: "Qu'est-ce que la « psychologie de l'argent » et pourquoi compte-t-elle plus que la stratégie ?"
+    a: "Vos « scripts d'argent » (croyances inconscientes formées dans l'enfance) pilotent plus de 80 % des comportements financiers. Une personne qui croit que « l'argent est sale » sabotera elle-même sa construction de richesse malgré la bonne stratégie. Changez d'abord l'histoire, et le budget s'exécute tout seul."
+  - q: "Comment fonctionne réellement la dépense émotionnelle dans le cerveau ?"
+    a: "Les humeurs négatives activent le désir de restaurer un affect positif. L'achat procure un court pic de dopamine (anticipation + acquisition). Chez Cryder, Lerner, Gross et Dahl (2008, Psychological Science), des participants rendus tristes étaient prêts à payer nettement plus cher le même objet que les participants neutres — l'effet tenait même quand ils savaient que l'achat n'allait pas réparer leur humeur. L'achat traite l'émotion, pas le besoin : c'est pourquoi repérer les déclencheurs casse le cycle."
+  - q: "Quelles croyances séparent la pensée riche de la pensée pauvre ?"
+    a: "Trois bascules clés : 1) « je peux apprendre à gagner » contre « je n'aurai jamais assez » ; 2) « l'argent est un outil que je dirige » contre « l'argent est une ressource rare dont j'espère qu'il survivra » ; 3) « la gratification différée se compose » contre « je mérite ça maintenant ». Ce ne sont pas des affirmations — ce sont des hypothèses de fonctionnement qui changent les actions que vous posez chaque jour."
 
 relatedArticles:
   - "definition-reussite"

@@ -30,6 +30,13 @@ faq:
     a: "Long-term, yes. The 'talent education gap' (Ericsson, deliberate practice research): talented people who practice inconsistently lose to average people who practice daily within 2-3 years. Talent gives a faster start; consistency gives a higher ceiling. Most gifted people quit before the compounding kicks in."
   - q: "How do you stay consistent when results are invisible?"
     a: "Track inputs, not outcomes. Count days showing up, not pounds lost or dollars earned. The 'plateau of latent potential' (James Clear): 90% of results arrive in the final 10% of time. Use a visible streak calendar — the chain itself becomes motivation once it's 20+ days long."
+faqFr:
+  - q: "Quel est le vrai secret de la réussite ?"
+    a: "Une régularité ennuyeuse. Les travaux d'Angela Duckworth sur le « grit » chez les cadets de West Point, les concours d'orthographe et les équipes de vente ont trouvé que le premier prédicteur de réussite n'est ni le talent, ni le QI, ni l'opportunité — c'est la capacité à faire le même travail jour après jour quand les résultats ne sont pas encore visibles."
+  - q: "La régularité compte-t-elle vraiment plus que le talent ?"
+    a: "Sur le long terme, oui. Le fossé talent-entraînement (Ericsson, pratique délibérée) : des talentueux qui s'entraînent irrégulièrement perdent face à des moyens qui s'entraînent chaque jour en 2 à 3 ans. Le talent donne un départ plus rapide ; la régularité donne un plafond plus haut. La plupart des doués abandonnent avant que la composition ne démarre."
+  - q: "Comment rester régulier quand les résultats sont invisibles ?"
+    a: "Suivez les intrants, pas les extrants. Comptez les jours où vous vous êtes présenté, pas les kilos perdus ou les euros gagnés. Le « plateau de potentiel latent » (James Clear) : 90 % des résultats arrivent dans les 10 % finals du temps. Utilisez un calendrier de série visible — la chaîne elle-même devient motivante une fois qu'elle dépasse 20 jours."
 
 relatedArticles:
   - "growth-mindset-rewire"

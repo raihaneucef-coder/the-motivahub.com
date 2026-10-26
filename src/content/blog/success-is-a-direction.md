@@ -30,6 +30,13 @@ faq:
     a: "Direction does not require one perfect answer. Pick a compass bearing: toward more creativity or toward serving others. You can adjust, a navigator changes heading frequently but always moves somewhere. The mistake is not picking wrong; it is standing still because you cannot find perfect."
   - q: "What is the difference between goals and direction?"
     a: "A goal is a finish line: hit it, done, empty. Direction is a heading: you never arrive at being healthier or more creative, you simply check daily if you are still oriented correctly. Goals without direction create burnout cycles; direction without goals creates drift."
+faqFr:
+  - q: "Pourquoi les personnes qui réussissent se sentent-elles souvent vides après un accomplissement ?"
+    a: "Le paradoxe de l'arrivée (psychologie bouddhiste plus les travaux de Dan Gilbert) : les humains surestiment le bonheur durable qu'un seul accomplissement apporte. L'adaptation hédonique vous remet à niveau en 3 à 6 mois. Si la réussite est une destination, vous êtes sans abri dès que vous arrivez. Si c'est une direction, chaque jour compte."
+  - q: "Comment trouver ma direction si je ne connais pas mon but ?"
+    a: "Une direction n'exige pas une réponse parfaite. Choisissez un cap : vers plus de créativité, ou vers le service aux autres. Vous pouvez ajuster — un navigateur change souvent de cap mais avance toujours quelque part. L'erreur n'est pas de mal choisir ; c'est de rester immobile parce qu'on ne trouve pas le parfait."
+  - q: "Quelle différence entre les objectifs et la direction ?"
+    a: "Un objectif est une ligne d'arrivée : atteint, fini, vide. Une direction est un cap : on n'arrive jamais à « en bonne santé » ou « créatif », on vérifie simplement chaque jour si l'orientation est toujours bonne. Des objectifs sans direction créent des cycles d'épuisement ; une direction sans objectifs crée la dérive."
 
 relatedArticles:
   - "mythe-reussite-instantanee"
@@ -58,5 +65,5 @@ relatedArticles:
 
 <div data-i18n-html="article_success-is-a-direction_p9">Destinations end. Directions endure.</div>
 
-<div data-i18n-html="article_success-is-a-direction_p12">The destination model of success creates what researchers call an 'arrival fallacy' — the belief that reaching a goal will produce lasting happiness. Studies by Ben-Shahar at Harvard show that the emotional bump from achievement fades within days, and people who define success as a fixed point spend their lives oscillating between striving and emptiness.</div>
+<div data-i18n-html="article_success-is-a-direction_p12">The destination model of success creates what Tal Ben-Shahar popularized as the 'arrival fallacy' — the belief that reaching a goal will produce lasting happiness. Research on hedonic adaptation shows that the emotional bump from achievement fades within days or weeks, and people who define success as a fixed point spend their lives oscillating between striving and emptiness.</div>
 <div data-i18n-html="article_success-is-a-direction_p13">Replace 'When I reach X, I will be enough' with 'I am moving in the direction of X, and the moving itself is who I want to be.' This subtle shift turns every ordinary Tuesday into evidence of success rather than a waiting room for it.</div>

@@ -30,6 +30,13 @@ faq:
     a: "Ask 'why?' five times past your first answer. 'I want to earn money' → why? → 'security' → why? → 'because I grew up with nothing' → why does that matter? → 'so my children never feel that fear.' The last answer is your deep why. It's emotional, personal, and energizing to state."
   - q: "Can purpose sustain you through failure?"
     a: "Yes — because a purpose-based identity is failure-proof. If your why is 'become someone who never quits,' then one failure doesn't negate the identity. Goal-based motivation breaks after one failure because the metric says you 'failed.' Purpose provides continuity that outcomes can't."
+faqFr:
+  - q: "Pourquoi un « pourquoi profond » est-il plus puissant qu'un objectif ?"
+    a: "Les objectifs ont des échéances — une fois atteints, la motivation s'effondre. Un pourquoi profond (protéger sa famille, se prouver que c'est possible, servir quelque chose de plus grand) est inépuisable. Viktor Frankl a observé dans les camps : ceux qui ont survécu avaient un « pourquoi » qui rendait n'importe quel « comment » supportable."
+  - q: "Comment trouver mon pourquoi profond ?"
+    a: "Demandez « pourquoi ? » cinq fois après votre première réponse. « Je veux gagner de l'argent » → pourquoi ? → « la sécurité » → pourquoi ? → « parce que j'ai grandi sans rien » → pourquoi est-ce important ? → « pour que mes enfants ne ressentent jamais cette peur ». La dernière réponse est votre pourquoi profond. Elle est émotionnelle, personnelle, et donne de l'énergie à prononcer."
+  - q: "Le sens peut-il vous porter à travers l'échec ?"
+    a: "Oui — parce qu'une identité fondée sur un sens est à toute épreuve. Si votre pourquoi est « devenir quelqu'un qui n'abandonne jamais », un échec n'annule pas l'identité. Une motivation fondée sur l'objectif se brise au premier échec parce que la mesure dit que vous avez « échoué ». Le sens fournit une continuité que les résultats ne peuvent pas donner."
 
 relatedArticles:
   - "smart-goals"
@@ -79,7 +86,7 @@ Every time you follow your system, remind yourself: "I am doing this because [de
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p15"><h2>The Power of Purpose</h2></div>
 
-<div data-i18n-html="article_pourquoi-profond-objectifs_p16">This isn't just feel-good framing. A 2016 meta-analysis of cohort studies (Cohen &amp; Rodrigues) found that people with a stronger sense of purpose had roughly 17% lower risk of dying over the follow-up period, and a 2019 JAMA Network Open study of nearly 7,000 adults echoed it. Purpose looks less like motivation and more like a measurable health variable.</div>
+<div data-i18n-html="article_pourquoi-profond-objectifs_p16">This isn't just feel-good framing. A 2016 meta-analysis of cohort studies (Cohen and colleagues) found that people with a stronger sense of purpose had roughly 17% lower risk of dying over the follow-up period, and a 2019 JAMA Network Open study of nearly 7,000 adults echoed it. Purpose looks less like motivation and more like a measurable health variable.</div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p17"><blockquote><em>He who has a why to live can bear almost any how. — Friedrich Nietzsche</em></blockquote></div>
 

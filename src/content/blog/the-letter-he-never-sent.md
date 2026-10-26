@@ -32,6 +32,13 @@ faq:
     a: "Wait 30 days. Re-read: if it still serves a constructive purpose (not blame, but genuine sharing), consider it. If reading it again creates the same relief you felt writing it, the recipient was always you. Most unsent letters achieve their healing purpose without ever being mailed."
   - q: "What if I never get to say what I needed to say?"
     a: "Write it anyway. The brain does not distinguish between spoken and written expression for emotional processing. You cannot control whether they hear you, but you can control whether the words exist outside your body. The unsaid weighs more than the imperfectly said." 
+faqFr:
+  - q: "Pourquoi une lettre non envoyée a-t-elle de la puissance ?"
+    a: "Elle extériorise des émotions prisonnières sans risque social. Le paradigme de l'écriture expressive de Pennebaker — 15 à 20 minutes pendant 3 ou 4 jours consécutifs — allège de façon fiable la charge mentale des expériences non traitées et apporte souvent de la clarté dès ces premiers jours. Des méta-analyses ultérieures ont trouvé que les effets sur la santé physique (mesures immunitaires comprises) étaient plus faibles et moins constants que les rapports initiaux : faites donc confiance au soulagement psychologique plus qu'aux promesses sur le corps. Le but de la lettre n'est pas la livraison, c'est la libération de l'auteur."
+  - q: "Dois-je envoyer la lettre après l'avoir écrite ?"
+    a: "Attendez 30 jours. Relisez : si elle sert encore un but constructif (partager sincèrement, pas accuser), envisagez de l'envoyer. Si la relecture procure le même soulagement que l'écriture, le destinataire a toujours été vous. La plupart des lettres non envoyées accomplissent leur effet de guérison sans jamais être postées."
+  - q: "Et si je ne peux jamais dire ce que j'avais à dire ?"
+    a: "Écrivez-le quand même. Le cerveau ne distingue pas l'expression parlée de l'expression écrite pour le traitement émotionnel. Vous ne contrôlez pas s'ils vous entendent, mais vous contrôlez si les mots existent en dehors de votre corps. Le non-dit pèse plus lourd que le mal-dit."
 
 relatedArticles:
   - "histoire-athlete-recommence"

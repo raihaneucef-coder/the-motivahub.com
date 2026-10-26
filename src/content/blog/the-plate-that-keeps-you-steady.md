@@ -30,6 +30,13 @@ faq:
     a: "Because a high-glycemic, low-protein meal (pasta, white bread, sugary sauce) spikes blood sugar then triggers an insulin overshoot — the crash. Adding protein + fiber + fat to every meal slows glucose absorption and keeps energy flat for 4-5 hours."
   - q: "How much protein do I need per meal?"
     a: "A palm-sized portion (20-35g) at each main meal. Research on muscle protein synthesis shows this amount maximizes the anabolic response. Under-eating protein causes hunger and muscle loss; the 'plate method' ensures you hit this target visually without weighing food."
+faqFr:
+  - q: "Qu'est-ce que la méthode de « l'assiette stable » ?"
+    a: "Remplissez la moitié de l'assiette de légumes, un quart de protéines (taille d'une paume), un quart de glucides lents (riz, pomme de terre, céréales complètes), plus un pouce de bonne graisse. Ce ratio garde la glycémie stable, évite les krachs de 15 h et supprime la faim entre les repas sans comptage calorique."
+  - q: "Pourquoi des chutes d'énergie après le déjeuner ?"
+    a: "Parce qu'un repas à index glycémique élevé et pauvre en protéines (pâtes, pain blanc, sauce sucrée) fait grimper la glycémie puis déclenche une sur-réponse d'insuline — le krach. Ajouter protéines + fibres + graisses à chaque repas ralentit l'absorption du glucose et garde l'énergie plate pendant 4 à 5 heures."
+  - q: "De combien de protéines par repas ai-je besoin ?"
+    a: "Une portion de la taille d'une paume (20 à 35 g) à chaque repas principal. La recherche sur la synthèse protéique musculaire montre que cette quantité maximise la réponse anabolique. Sous-manger en protéines donne faim et fait perdre du muscle ; la méthode de l'assiette garantit visuellement ce chiffre sans peser les aliments."
 
 relatedArticles:
   - "fuel-before-willpower"

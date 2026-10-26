@@ -31,6 +31,13 @@ faq:
     a: "1) Shrink the task until starting feels trivial (just open the document). 2) Set a timer for 10 minutes. 3) Remove choice: schedule at same time daily. 4) Pair the task with something pleasant (music, coffee). 5) Most importantly: forgive yourself, research shows self-blame INCREASES future procrastination (Sirois, 2015)."
   - q: "Is procrastination genetic or learned?"
     a: "Both. Temperament (impulsivity, sensation-seeking) has about 40 percent heritability. But procrastination PATTERNS are learned responses to task-related anxiety, perfectionism, and reward sensitivity. The good news: cognitive behavioral techniques rewire these patterns in 6-8 weeks." 
+faqFr:
+  - q: "Que cause la procrastination dans le cerveau ?"
+    a: "Le système limbique (émotionnel, cherche le plaisir immédiat) détourne le contrôle du cortex préfrontal (rationnel, planifie le long terme). Quand une tâche déclenche de l'anxiété ou de l'ennui, le cerveau l'enregistre comme une menace et cherche un soulagement immédiat. La procrastination n'est pas de la paresse, c'est un échec de régulation émotionnelle."
+  - q: "Comment arrêter réellement de procrastiner ?"
+    a: "1) Réduisez la tâche jusqu'à ce que commencer paraisse trivial (juste ouvrir le document). 2) Réglez un minuteur sur 10 minutes. 3) Supprimez le choix : planifiez à la même heure chaque jour. 4) Associez la tâche à quelque chose d'agréable (musique, café). 5) Surtout : pardonnez-vous — la recherche montre que se blâmer AUGMENTE la procrastination future (Sirois, 2015)."
+  - q: "La procrastination est-elle génétique ou apprise ?"
+    a: "Les deux. Le tempérament (impulsivité, recherche de sensations) a une héritabilité d'environ 40 %. Mais les SCHÉMAS de procrastination sont des réponses apprises à l'anxiété liée à la tâche, au perfectionnisme et à la sensibilité à la récompense. Bonne nouvelle : les techniques cognitivo-comportementales recâblent ces schémas en 6 à 8 semaines."
 # English route deprecated: the body is French and the intent is covered by
 # real-reason-you-procrastinate (EN). The French page at /fr/journal/ stays live.
 noindex: true

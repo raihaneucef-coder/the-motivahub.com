@@ -30,6 +30,13 @@ faq:
     a: "Longer exhale than inhale activates the vagus nerve, which sends a safety signal from the body to the brainstem. This flips the autonomic balance from sympathetic (fight-or-flight) to parasympathetic (rest-and-digest). Your conscious breathing is the ONLY voluntary control over your autonomic nervous system."
   - q: "What is the best 2-minute reset for stress at work?"
     a: "4-7-8 pattern: inhale 4 counts, hold 7, exhale 8. Repeat 4 cycles (about 90 seconds). Then one physiological sigh (double-inhale plus long exhale) to finish. Combined: 2 minutes exactly, resets heart rate variability, and requires zero equipment or private space." 
+faqFr:
+  - q: "Quelle est la technique de respiration la plus rapide contre l'anxiété ?"
+    a: "Le soupir physiologique : deux inspirations brèves par le nez suivies d'une longue expiration par la bouche. Andrew Huberman (Stanford) le présente comme le moyen volontaire le plus rapide de réduire l'activation sympathique : cela fonctionne en 60 à 90 secondes avec seulement 2 à 3 cycles."
+  - q: "Comment la respiration contrôlée apaise-t-elle réellement le système nerveux ?"
+    a: "Une expiration plus longue que l'inspiration active le nerf vague, qui envoie un signal de sécurité du corps vers le tronc cérébral. Cela bascule l'équilibre autonome du sympathique (combat-fuite) vers le parasympathique (repos-digestion). Votre respiration consciente est le SEUL contrôle volontaire sur votre système nerveux autonome."
+  - q: "Quelle est la meilleure réinitialisation de 2 minutes contre le stress au travail ?"
+    a: "Le schéma 4-7-8 : inspirez 4 temps, retenez 7, expirez 8. Répétez 4 cycles (environ 90 secondes). Puis un soupir physiologique (double inspiration + longue expiration) pour finir. Total : 2 minutes exactement, la variabilité cardiaque se réinitialise, et il ne faut aucun matériel ni endroit privé."
 
 relatedArticles:
   - "calm-is-a-superpower"

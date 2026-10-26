@@ -32,6 +32,13 @@ faq:
     a: "Write your goal, then ask and if I achieve that, what would it give me? Keep asking 5 layers deep. A degree leads to a job leads to security leads to parents proud leads to I matter. The last answer is your real fuel. Goals that connect to it energize; ones that do not feel empty."
   - q: "Why does achieving a goal sometimes feel pointless?"
     a: "Because you achieved the symbol, not the substance. If your real need was recognition and you won a trophy but nobody saw it, the hunger persists. The solution: identify the need first, then find the most direct path to fulfill it, which may not be the goal you assumed." 
+faqFr:
+  - q: "Qu'est-ce que l'objectif derrière l'objectif ?"
+    a: "L'objectif de surface (perdre 10 kg, gagner 100 000) est le symbole d'un besoin psychologique plus profond : sécurité, reconnaissance, autonomie ou appartenance. Quand vous identifiez le vrai besoin, vous pouvez le nourrir par plusieurs chemins, y compris ceux que vous n'avez pas encore envisagés."
+  - q: "Comment découvrir ma motivation cachée ?"
+    a: "Écrivez votre objectif, puis demandez « et si j'y arrive, qu'est-ce que cela me donnerait ? ». Continuez cinq niveaux plus bas. Un diplôme mène à un emploi mène à la sécurité mène à des parents fiers mène à « je compte ». La dernière réponse est votre vrai carburant. Les objectifs qui s'y relient donnent de l'énergie ; ceux qui ne s'y relient pas paraissent vides."
+  - q: "Pourquoi atteindre un objectif donne-t-il parfois l'impression que ça ne sert à rien ?"
+    a: "Parce que vous avez atteint le symbole, pas la substance. Si votre vrai besoin était la reconnaissance et que vous avez gagné un trophée sans que personne ne le voie, la faim persiste. La solution : identifier le besoin d'abord, puis trouver le chemin le plus direct pour le nourrir — qui n'est peut-être pas l'objectif que vous supposiez."
 
 relatedArticles:
   - "rendez-compte-objectifs"

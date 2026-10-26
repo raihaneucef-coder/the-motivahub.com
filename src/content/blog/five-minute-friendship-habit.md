@@ -31,6 +31,13 @@ faq:
     a: "Dunbar's friendship-maintenance studies found closeness eroding within months — roughly a three-month slide — when contact stops, and friendships (unlike kin ties) are the relationship type that most actively requires investment. The 'proximity effect' that made school friendships effortless disappears with adulthood. Without deliberate scheduling, even best friends become strangers who once knew you."
   - q: "How do I remember to stay in touch with friends?"
     a: "Attach friendship maintenance to an existing habit (after morning coffee, send one text). Use a recurring reminder on Sunday: 'pick 3 people to reach out to.' Lower the bar: a meme or 'saw this and thought of you' counts. Quality presence matters more than long conversations."
+faqFr:
+  - q: "Qu'est-ce que l'habitude d'amitié en cinq minutes ?"
+    a: "Une action quotidienne de 5 minutes pour entretenir une amitié : un message (« je pense à toi »), une note vocale, un commentaire sous sa publication, ou un appel de 3 minutes. En faisant tourner 7 amis par semaine, chaque personne de votre cercle reçoit une attention régulière sans que cela paraisse du travail."
+  - q: "Pourquoi les amitiés s'effacent-elles sans effort ?"
+    a: "Les travaux de Dunbar sur l'entretien des amitiés ont montré que la proximité s'érode en quelques mois — une glissade d'environ trois mois — quand le contact s'arrête, et que l'amitié, contrairement aux liens de parenté, est le type de relation qui exige le plus d'investissement actif. L'« effet de proximité » qui rendait les amitiés d'école évidentes disparaît à l'âge adulte. Sans rendez-vous délibéré, même les meilleurs amis deviennent des étrangers qui autrefois vous connaissaient."
+  - q: "Comment penser à garder le contact avec mes amis ?"
+    a: "Attachez l'entretien des amitiés à une habitude déjà en place (après le café du matin, envoyez un message). Mettez un rappel récurrent le dimanche : « choisir 3 personnes à contacter ». Abaissez la barre : un mème ou un « j'ai vu ça et j'ai pensé à toi » compte. Une présence de qualité vaut plus qu'une longue conversation."
 
 relatedArticles:
   - "boundaries-are-love"

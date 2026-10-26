@@ -30,6 +30,13 @@ faq:
     a: "Shrink to the absurdly small. Your system isn't 'write a book' — it's 'open the document and write one sentence.' It's not 'work out 1 hour' — it's 'put on gym clothes.' The minimum viable action keeps the chain alive on zero-motivation days, which matters more than big sessions on good days."
   - q: "Why does discipline feel easier in the morning?"
     a: "Willpower and decision-making capacity are highest after sleep (prefrontal cortex rested). Every decision you make throughout the day depletes this resource. Morning systems (wake, train, write) run on full battery; evening systems require willpower you've already spent. Design around your biology."
+faqFr:
+  - q: "Que se passe-t-il quand la motivation disparaît complètement ?"
+    a: "Vous vous appuyez sur votre système. Un système, ce sont des décisions déjà prises : quoi faire, quand, où, combien de temps. Quand la motivation s'éteint (elle s'éteint toujours), vous suivez le plan mécaniquement. Les athlètes n'ont pas envie de s'entraîner chaque jour — ils suivent un programme. Le système vous porte à travers la phase « à quoi bon »."
+  - q: "Comment construire un système quand je n'arrive même pas à commencer ?"
+    a: "Réduisez jusqu'à l'absurde. Votre système n'est pas « écrire un livre » — c'est « ouvrir le document et écrire une phrase ». Ce n'est pas « s'entraîner 1 heure » — c'est « enfiler ses affaires de sport ». L'action minimale viable maintient la chaîne vivante les jours de motivation zéro, ce qui compte plus que les grosses séances les jours de forme."
+  - q: "Pourquoi la discipline semble-t-elle plus facile le matin ?"
+    a: "La volonté et la capacité de décision sont au plus haut après le sommeil (cortex préfrontal reposé). Chaque décision prise dans la journée épuise cette ressource. Les systèmes du matin (réveil, entraînement, écriture) tournent sur batterie pleine ; les systèmes du soir exigent une volonté déjà dépensée. Concevez autour de votre biologie."
 
 relatedArticles:
   - "growth-mindset-rewire"

@@ -27,9 +27,16 @@ faq:
   - q: "What is slow travel and why is it better?"
     a: "Staying 2-4 weeks in one location instead of 2 nights in 7 cities. Benefits: 40 percent lower costs (weekly rentals, local prices), deeper cultural connection, language progress, less transit fatigue, and memories that feel lived rather than collected. You actually remember your trip."
   - q: "How do I stop feeling like I am missing out by staying in one place?"
-    a: "The FOMO comes from comparing your travel to Instagram highlight reel (10 cities, 10 days). In reality, those travelers remember almost nothing, spend 30 percent more, and are exhausted by day 5. Slow travel produces the stories that begin When I was living in Lisbon not I flew through."
+    a: "The FOMO comes from comparing your travel to Instagram highlight reel (10 cities, 10 days). In reality, those travelers remember almost nothing, spend more on transport and tourist restaurants, and are exhausted by day 5. Slow travel produces the stories that begin When I was living in Lisbon not I flew through."
   - q: "Where are the best slow travel destinations?"
     a: "Cities where daily life itself is the attraction: Lisbon, Mexico City, Istanbul, Chiang Mai, Marrakech, Porto, Tbilisi. Criteria: affordable long-term rentals, walkable neighborhoods, vibrant food culture, and a rhythm that rewards regular presence over checklist sightseeing." 
+faqFr:
+  - q: "Qu'est-ce que le voyage lent et pourquoi est-il meilleur ?"
+    a: "Rester 2 à 4 semaines dans un lieu au lieu de 2 nuits dans 7 villes. Bénéfices : 40 % de coûts en moins (locations à la semaine, prix locaux), une connexion culturelle plus profonde, des progrès en langue, moins de fatigue de transit, et des souvenirs vécus plutôt que collectionnés. Vous vous souvenez vraiment de votre voyage."
+  - q: "Comment arrêter de craindre de manquer quelque chose en restant sur place ?"
+    a: "Le FOMO vient de la comparaison entre votre voyage et la bande-annonce d'Instagram (10 villes en 10 jours). En réalité, ces voyageurs se souviennent de presque rien, dépensent davantage en transports et en restaurants touristiques, et sont épuisés au jour 5. Le voyage lent produit des histoires qui commencent par « quand j'habitais à Lisbonne », pas « j'ai traversé »."
+  - q: "Quelles sont les meilleures destinations de voyage lent ?"
+    a: "Les villes où la vie quotidienne est l'attraction : Lisbonne, Mexico, Istanbul, Chiang Mai, Marrakech, Porto, Tbilissi. Critères : locations longue durée abordables, quartiers marchables, culture culinaire vivante, et un rythme qui récompense la présence régulière plutôt que la visite à cocher."
 
 relatedArticles:
   - "beginner-again"

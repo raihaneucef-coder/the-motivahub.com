@@ -4,7 +4,7 @@ seoTitle: "Habit Stacking: Link New Habits to Old Ones"
 description: "The easiest way to build a new habit is to tie it to one you already do. Stack it on coffee, commutes or workouts — don't start from scratch."
 titleFr: "L'empilement d'habitudes : relie les nouvelles habitudes aux anciennes"
 seoTitleFr: "L'empilement d'habitudes : lier le neuf à l'ancien"
-descriptionFr: "La façon la plus simple de construire une nouvelle habitude est de la lier à une que tu fais déjà. Empile-la, ne la commence pas from scratch."
+descriptionFr: "La façon la plus simple de construire une nouvelle habitude est de la lier à une que tu fais déjà. Empile-la, ne pars pas de zéro."
 pubDate: 2026-08-22
 updatedDate: 2026-09-21
 topic: "Habits"
@@ -32,6 +32,13 @@ faq:
     a: "After brushing teeth → floss one tooth. After sitting at desk → write today's top task. After closing laptop → 5 min stretching. After dinner → walk around the block. The key: the anchor habit must be something you do without fail every single day at roughly the same time."
   - q: "Why does habit stacking work better than willpower?"
     a: "Willpower requires a decision; stacking piggybacks on an already-automatic neural pathway. Research (Gollwitzer, 1999) shows 'implementation intentions' (specific when-then plans) double follow-through. You're not trying harder — you're leveraging existing brain architecture."
+faqFr:
+  - q: "Qu'est-ce que l'empilement d'habitudes ?"
+    a: "Une méthode qui consiste à greffer une nouvelle habitude sur une ancienne selon la formule : « Après [HABITUDE ACTUELLE], je ferai [NOUVELLE HABITUDE] ». Exemple : « Après avoir versé mon café du matin, je médite 1 minute. » L'habitude existante devient un signal automatique, ce qui supprime le besoin de s'en souvenir ou de décider."
+  - q: "Quels sont de bons exemples d'empilement ?"
+    a: "Après s'être brossé les dents → passer le fil sur une dent. Après s'être assis au bureau → écrire la tâche principale du jour. Après avoir fermé l'ordinateur → 5 minutes d'étirements. Après le dîner → marcher autour du pâté de maisons. La clé : l'habitude d'ancrage doit être quelque chose que vous faites tous les jours, sans faute, à peu près à la même heure."
+  - q: "Pourquoi l'empilement fonctionne-t-il mieux que la volonté ?"
+    a: "La volonté exige une décision ; l'empilement se greffe sur un circuit neuronal déjà automatique. La recherche (Gollwitzer, 1999) montre que les « intentions de mise en œuvre » (des plans quand-alors précis) doublent le taux d'exécution. Vous n'essayez pas plus fort — vous utilisez l'architecture cérébrale déjà en place."
 
 relatedArticles:
   - "identity-based-habits-90-day-test"

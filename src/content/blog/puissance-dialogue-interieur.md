@@ -30,6 +30,13 @@ faq:
     a: "You don't silence it — you rename it. When the voice says 'you're a failure,' respond: 'That's the critic talking, not a fact.' This creates cognitive distance (distanced self-talk). Research (Kross, 2014) shows referring to yourself in third person ('Youssef can handle this') reduces anxiety and increases rational thinking."
   - q: "What's the difference between positive affirmations and powerful self-talk?"
     a: "Affirmations ('I am successful') often backfire when your brain rejects them as false. Instructional self-talk ('Focus on the next step') works because it's true and actionable. Replace 'I am the best' with 'I'm prepared, I'll take it one rep at a time.' The brain trusts process language over outcome language."
+faqFr:
+  - q: "Comment le dialogue intérieur affecte-t-il la performance ?"
+    a: "Les travaux de Hatzigeorgiadis (2011) ont trouvé que les interventions de dialogue intérieur améliorent la performance de 10 à 18 %. Le dialogue instructif (« coude haut » au moment du geste) renforce la concentration ; le dialogue motivationnel (« tu peux le faire ») renforce l'endurance. La voix intérieure n'est pas du bruit — c'est le canal de coaching que votre cerveau suit réellement."
+  - q: "Comment faire taire mon critique intérieur ?"
+    a: "Vous ne le faites pas taire — vous le renommez. Quand la voix dit « tu es un raté », répondez : « c'est le critique qui parle, pas un fait. » Cela crée une distance cognitive (dialogue distancié). La recherche (Kross, 2014) montre que se désigner à la troisième personne (« Youssef peut gérer ça ») réduit l'anxiété et augmente la rationalité."
+  - q: "Quelle différence entre affirmations positives et dialogue intérieur puissant ?"
+    a: "Les affirmations (« je suis une réussite ») se retournent souvent contre vous quand votre cerveau les rejette comme fausses. Le dialogue instructif (« concentre-toi sur la prochaine étape ») fonctionne parce qu'il est vrai et actionnable. Remplacez « je suis le meilleur » par « je suis préparé, j'y vais une répétition après l'autre ». Le cerveau fait davantage confiance au langage du processus qu'au langage du résultat."
 
 relatedArticles:
   - "echec-meilleur-professeur"

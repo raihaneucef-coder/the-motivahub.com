@@ -30,6 +30,13 @@ faq:
     a: "Multiply your monthly essential expenses by 25 (the 4% rule inverse). If you spend 2,000€/month, you need 600,000€ invested to cover expenses from returns. That's your financial 'rent.' Alternatively, calculate what you save monthly and how many years to reach that number at 7% return."
   - q: "Why is freedom harder to keep than to achieve?"
     a: "Achieving requires one decision; keeping requires ten thousand small ones. After reaching a goal, identity shifts from 'pursuer' to 'maintainer' — and humans adapt to comfort (hedonic treadmill). The solution: make maintenance itself a new system, not something you do only when you feel like it."
+faqFr:
+  - q: "Que signifie « la liberté se loue, elle ne s'achète pas » ?"
+    a: "La liberté financière et personnelle n'a pas de prix à payer en une fois — elle exige de petits paiements quotidiens : épargner régulièrement, entretenir sa santé, investir dans ses compétencescomme une location. Ratez les paiements et vous perdez la liberté, comme une location. Le « prix », c'est une régularité ennuyeuse, pas un acte héroïque."
+  - q: "Comment calculer mon chiffre de liberté ?"
+    a: "Multipliez vos dépenses mensuelles essentielles par 25 (l'inverse de la règle des 4 %). Si vous dépensez 2 000 € par mois, il faut 600 000 € investis pour couvrir ces dépenses par les rendements. C'est votre « loyer » financier. Sinon, calculez ce que vous épargnez chaque mois et combien d'années il faut pour atteindre ce chiffre à 7 % de rendement."
+  - q: "Pourquoi est-il plus difficile de garder la liberté que de l'atteindre ?"
+    a: "Atteindre demande une décision ; garder en demande dix mille petites. Après avoir atteint un objectif, l'identité passe de « poursuivant » à « mainteneur » — et l'humain s'adapte au confort (tapis roulant hédonique). La solution : faire de l'entretien lui-même un nouveau système, et non quelque chose que vous faites seulement quand vous en avez envie."
 
 relatedArticles:
   - "invest-like-beginner"

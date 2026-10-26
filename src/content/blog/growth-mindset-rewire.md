@@ -30,6 +30,13 @@ faq:
     a: "1) Notice fixed self-talk ('I'm not a math person') and add 'yet.' 2) Praise effort and strategy, not outcomes. 3) Reframe failure as data ('what did this teach me?'). 4) Learn about neuroplasticity — knowing your brain physically grows with practice makes the shift feel real. Change takes 6-8 weeks of conscious practice."
   - q: "Does growth mindset actually work?"
     a: "Meta-analyses show moderate but real effects (Sisk 2018: +0.4 grade points for disadvantaged students). It works best paired with specific strategy instruction — telling someone 'you can improve' plus showing them HOW. Growth mindset alone is encouragement; with tools it becomes transformation."
+faqFr:
+  - q: "Qu'est-ce que l'état d'esprit de croissance ?"
+    a: "La croyance que les capacités se développent par l'effort et l'apprentissage, par opposition à un état d'esprit fixe (le talent serait inné et immuable). Les travaux de Carol Dweck avec Blackwell et Trzesniewski (2007) ont montré qu'enseigner aux élèves que le cerveau est malléable améliorait leurs notes en maths et leur motivation sur un semestre. Des méta-analyses plus récentes indiquent un effet réel mais modeste, et surtout fort chez les élèves en difficulté : considérez donc cela comme un levier d'effort utile, pas comme une garantie de notes. La croyance change le comportement, qui change les résultats."
+  - q: "Comment recâbler un état d'esprit fixe ?"
+    a: "1) Repérez le dialogue interne fixe (« je ne suis pas fait pour les maths ») et ajoutez « pas encore ». 2) Félicitez l'effort et la stratégie, pas les résultats. 3) Reformulez l'échec en information (« qu'est-ce que ça m'a appris ? »). 4) Informez-vous sur la neuroplasticité — savoir que le cerveau change physiquement avec la pratique rend la bascule concrète. Le changement demande 6 à 8 semaines de pratique consciente."
+  - q: "L'état d'esprit de croissance fonctionne-t-il vraiment ?"
+    a: "Les méta-analyses montrent des effets modérés mais réels (Sisk 2018 : +0,4 point de note pour les élèves défavorisés). Il fonctionne mieux associé à un enseignement de stratégies précises — dire à quelqu'un « tu peux progresser » et lui montrer COMMENT. Seul, l'état d'esprit de croissance est un encouragement ; avec des outils, il devient une transformation."
 
 relatedArticles:
   - "resilience-mentale"

@@ -29,6 +29,13 @@ faq:
     a: "Apply Greg McKeown's Essentialism filter: if something isn't a clear 'yes' in terms of your top goal, it's a 'no.' Track your week for 3 days. Any activity that doesn't serve your #1 priority, that you'd never choose if it weren't already on your calendar — eliminate or delegate it."
   - q: "What's the difference between laziness and strategic rest?"
     a: "Laziness avoids effort and leaves you drained with guilt. Strategic rest is intentional recovery that fuels output — athletes call it periodization. If rest makes you return sharper and more motivated, it was productive. If avoidance keeps you stuck, it's fear in disguise."
+faqFr:
+  - q: "Pourquoi en faire moins produit-il plus ?"
+    a: "Parce que l'attention est une ressource finie. Chaque tâche supplémentaire dilue la qualité de la concentration (le changement de contexte coûte 23 minutes par interruption, selon les travaux de l'UC Irvine). Vous restreindre à 1-3 priorités vous permet de les mener à une profondeur que dix tâches éparpillées n'atteignent jamais."
+  - q: "Comment décider quoi arrêter de faire ?"
+    a: "Appliquez le filtre de l'Essentialisme de Greg McKeown : si ce n'est pas un « oui » clair au regard de votre objectif principal, c'est un « non ». Suivez votre semaine pendant 3 jours. Toute activité qui ne sert pas votre priorité numéro 1, et que vous n'auriez jamais choisie si elle n'était déjà dans votre agenda — supprimez-la ou déléguez-la."
+  - q: "Quelle différence entre paresse et repos stratégique ?"
+    a: "La paresse évite l'effort et vous laisse épuisé avec de la culpabilité. Le repos stratégique est une récupération intentionnelle qui alimente la production — les athlètes appellent cela la périodisation. Si le repos vous rend plus vif et plus motivé, il était productif. Si l'évitement vous laisse bloqué, c'est de la peur déguisée."
 
 relatedArticles:
   - "batching-productivite"

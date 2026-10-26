@@ -30,6 +30,13 @@ faq:
     a: "A plateau is a period of apparent no-progress where the body/brain consolidates previous gains. Research on skill acquisition shows S-curves: rapid improvement, then a flat stretch, then another jump. Most people quit during the flat — but it's where the foundation for the next breakthrough is literally built."
   - q: "How long should you commit before judging results?"
     a: "Minimum 90 days for physical changes, 6 months for skill acquisition, and 12 months for financial/career shifts. The 'plateau of latent potential' means visible results lag actual progress by weeks. If you haven't given a consistent effort 90 days, you don't have data — you have impatience."
+faqFr:
+  - q: "Pourquoi les grimpeurs lents atteignent-ils le sommet pendant que les sprinteurs s'épuisent ?"
+    a: "Parce qu'une allure durable construit la capacité par paliers. Les sprinteurs comptent sur la motivation (finie), épuisent leur système de stress et s'effondrent au premier plateau. Les grimpeurs lents bâtissent des systèmes, récupèrent entre les poussées et traitent les plateaux comme de la consolidation — ils ne créent jamais la dette qui force à abandonner."
+  - q: "Qu'est-ce qu'un « plateau » dans le développement personnel ?"
+    a: "Un plateau est une période de pseudo-absence de progrès où le corps et le cerveau consolident les acquis précédents. La recherche sur l'acquisition de compétences montre des courbes en S : progression rapide, puis portion plate, puis nouveau bond. La plupart des gens abandonnent pendant le plat — mais c'est là que se construit littéralement la base de la prochaine percée."
+  - q: "Combien de temps s'engager avant de juger les résultats ?"
+    a: "90 jours minimum pour les changements physiques, 6 mois pour l'acquisition d'une compétence, et 12 mois pour les évolutions financières ou de carrière. Le « plateau de potentiel latent » signifie que les résultats visibles retardent le progrès réel de plusieurs semaines. Si vous n'avez pas donné 90 jours d'effort régulier, vous n'avez pas de données — vous avez de l'impatience."
 
 relatedArticles:
   - "journal-croissance"

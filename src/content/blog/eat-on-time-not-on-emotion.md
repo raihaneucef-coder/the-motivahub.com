@@ -30,6 +30,13 @@ faq:
     a: "The 20-minute rule: when a craving hits, set a timer and do anything else (walk, water, breathe). If hunger persists after 20 min, eat. If it fades, it was emotion. Track your emotional eating triggers for one week — boredom, stress, and loneliness cause 85% of non-hunger eating."
   - q: "Does skipping meals make you make bad decisions?"
     a: "Yes. Glucose is the brain's primary fuel, and self-control specifically draws on prefrontal glucose. A 2022 meta-analysis confirmed: fasting beyond your window increases impulsivity and risk-taking. Three regular meals keep glucose stable, protecting willpower for things that matter."
+faqFr:
+  - q: "Pourquoi manger à heure fixe vaut-il mieux que manger quand on a faim ?"
+    a: "Parce que la « faim » est souvent un mélange de besoin réel et de déclencheurs émotionnels. Un horaire fixe (petit-déjeuner à 8 h, déjeuner à 13 h, dîner à 19 h) empêche les chutes de glycémie qui déclenchent de mauvaises décisions — grignotage, irritabilité, « alimentation récompense » après le stress. Vous décidez quoi manger quand vous êtes calme, pas quand vous êtes à bout."
+  - q: "Comment arrêter de manger émotionnellement ?"
+    a: "La règle des 20 minutes : quand une envie frappe, réglez un minuteur et faites autre chose (marche, verre d'eau, respiration). Si la faim est toujours là après 20 minutes, mangez. Si elle passe, c'était une émotion. Repérez vos déclencheurs pendant une semaine — l'ennui, le stress et la solitude expliquent 85 % de l'alimentation hors faim."
+  - q: "Sauter des repas pousse-t-il à de mauvaises décisions ?"
+    a: "Oui. Le glucose est le carburant principal du cerveau, et la maîtrise de soi puise spécifiquement dans le glucose préfrontal. Une méta-analyse de 2022 l'a confirmé : jeûner au-delà de sa fenêtre habituelle augmente l'impulsivité et la prise de risque. Trois repas réguliers stabilisent le glucose et protègent la volonté pour ce qui compte vraiment."
 
 relatedArticles:
   - "jeune-intermittent"

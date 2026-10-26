@@ -30,6 +30,13 @@ faq:
     a: "The first 48 hours are the hardest — that is when the urge to check is strongest, and a weekend (Fri evening to Mon morning) is the practical version. For measured mental-health change, the best-controlled trial available (Hunt et al., 2018, Journal of Social and Clinical Psychology) limited social-media use for about three weeks and found real reductions in loneliness and depression. You don't need to delete everything forever — just reset the baseline."
   - q: "What are the signs I need a digital detox?"
     a: "1) You pick up your phone within 5 minutes of waking. 2) You can't watch a full movie without second-screening. 3) You feel anxious when battery drops below 20%. 4) Your 'screen time' stat is over 6 hours. 5) You scroll when you're not actually looking for anything. If 3+ apply, your attention is fragmented."
+faqFr:
+  - q: "Que se passe-t-il pendant une détox numérique ?"
+    a: "Premières 24 heures : anxiété, vibrations fantômes, main qui part machinalement vers la poche (sevrage). Jours 3 à 5 : l'ennui revient, et avec lui la créativité. Deuxième semaine : la durée d'attention s'améliore de façon mesurable, le sommeil s'approfondit, et vous remarquez à quel point votre « temps libre » était en fait consommé par le scroll."
+  - q: "Combien de temps doit durer une détox numérique ?"
+    a: "Les 48 premières heures sont les plus dures — c'est là que l'envie de vérifier est la plus forte — et la version pratique tient sur un week-end (du vendredi soir au lundi matin). Pour un changement mesurable de santé mentale, l'essai le mieux contrôlé disponible (Hunt et al., 2018, Journal of Social and Clinical Psychology) limitait l'usage des réseaux sociaux pendant environ trois semaines et trouvait de vraies baisses de la solitude et de la dépression. Il ne s'agit pas de tout supprimer pour toujours — juste de réinitialiser la ligne de base."
+  - q: "Quels signes montrent que j'ai besoin d'une détox numérique ?"
+    a: "1) Vous prenez votre téléphone dans les 5 minutes suivant le réveil. 2) Vous ne regardez plus un film entier sans un second écran. 3) L'anxiété monte quand la batterie passe sous 20 %. 4) Votre « temps d'écran » dépasse 6 heures. 5) Vous scrollez sans rien chercher de précis. Si trois de ces signes s'appliquent, votre attention est fragmentée."
 
 relatedArticles:
   - "calm-is-a-superpower"

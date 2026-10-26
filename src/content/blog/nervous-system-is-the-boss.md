@@ -30,6 +30,13 @@ faq:
     a: "Fastest evidence-based methods: 1) Physiological sigh (double inhale + long exhale) — 2-3 rounds. 2) Cold water on wrists/face. 3) 20 minutes of walking outdoors. 4) Weighted blanket or self-hug (deep pressure). 5) Humming or prolonged exhale (activates vagus nerve). These work in 60-90 seconds."
   - q: "Why do I feel anxious even when nothing is wrong?"
     a: "Your nervous system can get 'stuck' in protective mode after prolonged stress, trauma, or even chronic sleep debt. The body keeps score (van der Kolk): it continues sending danger signals even when circumstances are safe. Consistent regulation practices teach your system the threat has passed."
+faqFr:
+  - q: "Que veut dire « votre système nerveux est le patron » ?"
+    a: "Vos pensées et votre discipline tournent au-dessus de l'état de votre système nerveux. Si votre corps est en mode combat-fuite (hyperactivation sympathique), votre « cerveau rationnel » se déconnecte. On ne sort pas d'une réponse de stress par la seule réflexion — il faut d'abord réguler le corps (respiration, mouvement, signaux de sécurité), puis l'esprit suit."
+  - q: "Comment réguler un système nerveux trop agité ?"
+    a: "Les méthodes les plus rapides et étayées : 1) le soupir physiologique (double inspiration + longue expiration), 2 à 3 cycles ; 2) eau froide sur les poignets et le visage ; 3) 20 minutes de marche dehors ; 4) couverture lestée ou étreinte de soi (pression profonde) ; 5) fredonner ou allonger l'expiration (active le nerf vague). Cela agit en 60 à 90 secondes."
+  - q: "Pourquoi me sens-je anxieux même quand rien ne va mal ?"
+    a: "Votre système nerveux peut rester « bloqué » en mode protection après un stress prolongé, un traumatisme, ou même une dette de sommeil chronique. Le corps garde le compte (van der Kolk) : il continue d'envoyer des signaux de danger alors que les circonstances sont sûres. Des pratiques de régulation régulières apprennent à votre système que la menace est passée."
 
 relatedArticles:
   - "calm-is-a-superpower"

@@ -30,6 +30,13 @@ faq:
     a: "The 3 levers that work: 1) Energy management (sleep, nutrition, exercise) — you can't produce output from an empty tank. 2) Single-tasking (a much-quoted 2005 study by Glen Wilson reported a temporary IQ drop of about 10 points under heavy multitasking — the size is debated, the switching cost is not). 3) Environment design (remove phone, close tabs, set a specific work location). The fourth lever is just: start smaller than you think."
   - q: "What is 'deep work' and how do I practice it?"
     a: "Deep work (Cal Newport) = distraction-free concentration on cognitively demanding tasks that creates value. Practice: block 90 min with phone in another room, define one specific outcome, work until it's done or time expires. Start with 1 session/day. After 2 weeks, increase to 2-3."
+faqFr:
+  - q: "Quelle différence entre être occupé et être productif ?"
+    a: "Occupé veut dire beaucoup d'activité ; productif veut dire beaucoup de résultat sur ce qui compte. Les études d'usage du temps sur les travailleurs du savoir retombent toujours sur la même image : seulement quelques heures par jour vont au travail réellement concentré — le reste, ce sont les mails, les réunions et le « théâtre administratif ». La vraie productivité, c'est faire les quelques choses qui font avancer les résultats, pas beaucoup de choses qui semblent urgentes."
+  - q: "Comment devenir réellement plus productif ?"
+    a: "Les 3 leviers qui marchent : 1) la gestion de l'énergie (sommeil, alimentation, exercice) — on ne produit pas à partir d'un réservoir vide ; 2) le monotâche — une étude de Glen Wilson souvent citée (2005) rapportait une baisse temporaire d'environ 10 points de QI sous multitâche intense ; le chiffre est discuté, le coût du changement de tâche ne l'est pas ; 3) la conception de l'environnement (téléphone hors de portée, onglets fermés, un lieu de travail défini). Le quatrième levier, c'est simplement : commencez plus petit que vous ne le pensez."
+  - q: "Qu'est-ce que le « deep work » et comment le pratiquer ?"
+    a: "Le travail profond (Cal Newport), c'est la concentration sans distraction sur des tâches cognitivement exigeantes qui crée de la valeur. Pratique : bloquez 90 minutes, téléphone dans une autre pièce, définissez un résultat précis, travaillez jusqu'à ce qu'il soit atteint ou que le temps soit écoulé. Commencez par 1 session par jour ; après deux semaines, passez à 2 ou 3."
 
 # English route deprecated: the body is French and the intent is covered by
 # technique-pomodoro / deep-work-focus (EN). The French page stays live.

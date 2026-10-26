@@ -30,6 +30,13 @@ faq:
     a: "Before watching, ask: what am I seeking? Clarity? Courage? Perspective? Then choose intentionally (not algorithmically). A 30-minute documentary on a craft can shift your approach more than 3 hours of passive entertainment. You are curating input, not killing time."
   - q: "Is there something wrong with only watching entertainment?"
     a: "No, but audit the ratio. If 100 percent of your media consumption is pure escapism with no emotional or intellectual residue, you might be using distraction to avoid processing. The goal is not elevate everything but ensure at least one weekly input leaves you thinking differently." 
+faqFr:
+  - q: "Un film peut-il vraiment changer une vie ?"
+    a: "Oui : la recherche sur la « transportation narrative » (Green et Brock, 2000) montre que les histoires peuvent déplacer les croyances plus efficacement que les arguments. Quand vous vous identifiez émotionnellement à un personnage face à un dilemme parallèle au vôtre, la résolution fournit un modèle de comportement que votre cerveau accepte comme vécu, et non comme prescrit."
+  - q: "Comment choisir des films qui m'aident vraiment à grandir ?"
+    a: "Avant de regarder, demandez : qu'est-ce que je cherche ? De la clarté ? Du courage ? Une perspective ? Puis choisissez intentionnellement (pas algorithmiquement). Un documentaire de 30 minutes sur un métier peut déplacer votre approche plus que trois heures de divertissement passif. Vous sélectionnez des entrées, vous ne tuez pas le temps."
+  - q: "Y a-t-il un problème à ne regarder que du divertissement ?"
+    a: "Non, mais auditez le ratio. Si 100 % de votre consommation médiatique est un pur escapisme sans résidu émotionnel ou intellectuel, vous utilisez peut-être la distraction pour éviter de traiter. Le but n'est pas d'élever tout au niveau d'art, mais de s'assurer qu'au moins une entrée par semaine vous laisse penser autrement."
 
 relatedArticles:
   - "play-is-practice-for-life"

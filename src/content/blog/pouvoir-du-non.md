@@ -30,6 +30,13 @@ faq:
     a: "Use the 24-hour rule: never commit immediately. Ask 'If this weren't already on my calendar, would I choose it today?' If no, decline. Start with low-stakes situations. Each no creates time; track the freed hours for one month and you'll see the compound effect."
   - q: "Does saying no make you likeable?"
     a: "Paradoxically, yes. People with clear boundaries tend to be trusted more than chronic agreeable people, not less: their yes finally carries information because it is not automatic. If every request gets the same answer, none of them do."
+faqFr:
+  - q: "Pourquoi dire non est une compétence de discipline ?"
+    a: "Parce que chaque oui coûte du temps et de l'énergie à vos vraies priorités. Warren Buffett disait : « La différence entre les gens qui réussissent et ceux qui réussissent vraiment, c'est que ceux qui réussissent vraiment disent non à presque tout. » Dire non est la discipline qui protège vos oui."
+  - q: "Comment commencer à dire non davantage ?"
+    a: "Utilisez la règle des 24 heures : ne vous engagez jamais immédiatement. Demandez-vous : « si ce n'était pas déjà dans mon agenda, est-ce que je le choisirais aujourd'hui ? » Si non, déclinez. Commencez par des situations à faible enjeu. Chaque non crée du temps ; suivez les heures libérées pendant un mois et vous verrez l'effet composé."
+  - q: "Dire non rend-il antipathique ?"
+    a: "Paradoxalement, non. Les gens qui posent des limites claires inspirent davantage confiance que les gens toujours d'accord, et non l'inverse : leur oui finit par porter de l'information parce qu'il n'est plus automatique. Si chaque demande reçoit la même réponse, aucune d'entre elles ne vaut quoi que ce soit."
 
 relatedArticles:
   - "cant-hurt-me-review"

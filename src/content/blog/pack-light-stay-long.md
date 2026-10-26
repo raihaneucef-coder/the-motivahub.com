@@ -22,7 +22,7 @@ keywords:
   - "travel lighter advice"
 tags:
   - "travel"
-wordCount: 381
+wordCount: 387
 faq:
   - q: "Why should you pack light for long trips?"
     a: "Heavy luggage creates friction at every transition: hauling bags, waiting at check-in, navigating stairs, and paying overweight fees. Long-term travelers who carry one bag move more, spend less, and choose experiences over logistics. The lighter you pack, the longer you can stay anywhere without settling."
@@ -30,6 +30,13 @@ faq:
     a: "The experienced traveler's formula: 7 days of clothing (wash weekly), 1 pair walking shoes, 1 versatile layer, 1 formal option, toiletries for 3 days (buy rest locally), and a single electronics bag. Total: 8-12 kg / one carry-on. Anything more is insurance against problems that rarely happen."
   - q: "What's the hardest thing to give up when packing light?"
     a: "The 'just in case' items — book 3, laptop for 'maybe work', 4 outfit options per day. These cost weight at every transition to protect against a scenario that happens <10% of the time. The discipline of packing light teaches you that you can solve problems locally, not pre-emptively."
+faqFr:
+  - q: "Pourquoi voyager léger pour les longs trajets ?"
+    a: "Les bagages lourds créent de la friction à chaque transition : porter, attendre à l'enregistrement, monter les escaliers, payer les suppléments de poids. Les voyageurs au long cours qui n'ont qu'un sac bougent plus, dépensent moins, et choisissent les expériences plutôt que la logistique. Plus vous faites léger, plus longtemps vous pouvez rester n'importe où sans vous installer."
+  - q: "De combien de choses ai-je besoin pour un mois ?"
+    a: "La formule du voyageur expérimenté : 7 jours de vêtements (lessive chaque semaine), 1 paire de chaussures de marche, 1 couche polyvalente, 1 option habillée, de quoi trois jours en toilette (acheter le reste sur place), et une seule trousse d'électronique. Total : 8 à 12 kg, un seul bagage cabine. Tout le reste est une assurance contre des problèmes rares."
+  - q: "Quelle est la chose la plus difficile à abandonner ?"
+    a: "Les objets « au cas où » — le troisième livre, l'ordinateur « pour peut-être travailler », quatre tenues par jour. Ils coûtent du poids à chaque transition pour parer à un scénario qui arrive dans moins de 10 % des cas. La discipline du bagage léger vous apprend que les problèmes se règlent sur place, pas à l'avance."
 
 relatedArticles:
   - "solo-travel-stronger-self"
@@ -56,5 +63,5 @@ relatedArticles:
 
 <div data-i18n-html="article_pack-light-stay-long_p8">You will not remember what you brought. You will remember what you left behind — and what you found because your hands were empty.</div>
 
-<div data-i18n-html="article_pack-light-stay-long_p10">The carrying-weight research is clear: once a pack exceeds 10% of your body weight, joint load, fatigue, and decision paralysis rise simultaneously. Travelers who pack under 7 kg report moving faster, choosing spontaneous detours more often, and experiencing less friction at transit points. Lightness is not deprivation — it is optionality.</div>
+<div data-i18n-html="article_pack-light-stay-long_p10">A pack heavier than it needs to be changes how you move: your shoulders tire sooner, every step asks for more attention, and the small spontaneous decisions start to feel like effort. Travel lighter and the day opens up — fewer queues to argue with, more detours worth taking. Lightness is not deprivation — it is optionality.</div>
 <div data-i18n-html="article_pack-light-stay-long_p11">The three-question filter before packing any item: (1) Will I use this more than twice? (2) Can I buy or borrow it at the destination for under €5? (3) If I lose this today, will my trip end or just get interesting? If the answer to all three is no, leave it.</div>

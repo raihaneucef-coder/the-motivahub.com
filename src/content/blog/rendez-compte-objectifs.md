@@ -29,6 +29,13 @@ faq:
     a: "1) Write your 1-3 goals as weekly actions. 2) Choose a partner (friend, colleague, online community). 3) Schedule a 15-minute weekly check-in. 4) Report numbers, not feelings. 5) Agree on a consequence for missed check-ins. The system works because it converts private intentions into public commitments."
   - q: "Why do goals fail without accountability?"
     a: "Without external check-ins, your brain negotiates: 'I'll start Monday,' 'No one will know.' Accountability removes the negotiation by creating a fixed reporting deadline. The loss aversion of facing your partner's question 'did you do it?' is more motivating than the abstract promise you made to yourself."
+faqFr:
+  - q: "Qu'est-ce qu'un partenaire de redevabilité ?"
+    a: "Une personne à qui vous rendez compte chaque semaine de votre avancement sur vos objectifs. Contrairement à un coach, elle ne conseille pas — elle demande simplement « avez-vous fait ce que vous avez dit ? ». Les chiffres familiers de 65 % et 95 % viennent d'estimations de l'industrie de la formation (ASTD, reprises ensuite par Gantt) sans méthodologie publiée, et ne proviennent pas de l'étude de Dominican University. Ce qui est mieux étayé, c'est le mécanisme : le pré-engagement et le compte rendu à une personne nommée augmentent l'exécution (Gollwitzer & Sheeran, 2006)."
+  - q: "Comment créer un système de redevabilité ?"
+    a: "1) Écrivez vos 1 à 3 objectifs sous forme d'actions hebdomadaires. 2) Choisissez un partenaire (ami, collègue, communauté en ligne). 3) Planifiez un point hebdomadaire de 15 minutes. 4) Rapportez des chiffres, pas des émotions. 5) Convenez d'une conséquence en cas de point manqué. Le système fonctionne parce qu'il convertit des intentions privées en engagements publics."
+  - q: "Pourquoi les objectifs échouent-ils sans redevabilité ?"
+    a: "Sans point externe, votre cerveau négocie : « je commencerai lundi », « personne ne le saura ». La redevabilité supprime la négociation en créant une échéance de compte rendu fixe. L'aversion à la perte liée à la question de votre partenaire — « tu l'as fait ? » — motive plus que la promesse abstraite que vous vous étiez faite."
 
 relatedArticles:
   - "smart-goals"

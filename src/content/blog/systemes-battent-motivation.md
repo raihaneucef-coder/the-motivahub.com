@@ -29,6 +29,13 @@ faq:
     a: "Motivation is an emotion — it fluctuates with sleep, hormones, weather, and stress. Systems are structures — they work regardless of feelings. If you only exercise when motivated, you'll train 3 times/month. If you schedule it like a meeting, you'll train 20 times. Structure beats mood."
   - q: "How do I build a system when I have zero motivation?"
     a: "Shrink the action to absurdly small. System ≠ intense routine. It's: lay out gym clothes (even if you don't train), open the book (even if you read 1 page), write one sentence. The system's job is keeping the chain alive, not producing results. Momentum returns after consistency."
+faqFr:
+  - q: "Quelle différence entre un système et un objectif ?"
+    a: "Un objectif est le résultat désiré (« perdre 10 kg »). Un système est le processus répétable qui le produit (« je marche 8 000 pas par jour et j'ai des protéines à chaque repas »). Les objectifs donnent la direction ; les systèmes donnent le progrès. Gagnants et perdants se fixent les mêmes objectifs — c'est le système qui les sépare."
+  - q: "Pourquoi la motivation échoue-t-elle et pas les systèmes ?"
+    a: "La motivation est une émotion — elle fluctue avec le sommeil, les hormones, la météo et le stress. Les systèmes sont des structures — ils fonctionnent indépendamment des sentiments. Si vous ne faites du sport que motivé, vous vous entraînez 3 fois par mois. Si vous le planifiez comme une réunion, vous vous entraînez 20 fois. La structure bat l'humeur."
+  - q: "Comment construire un système quand je n'ai aucune motivation ?"
+    a: "Réduisez l'action à l'absurde. Système ≠ routine intense. C'est : sortir ses affaires de sport (même sans s'entraîner), ouvrir le livre (même si vous lisez 1 page), écrire une phrase. Le travail du système est de garder la chaîne vivante, pas de produire des résultats. L'élan revient après la régularité."
 
 relatedArticles:
   - "one-target-at-a-time"

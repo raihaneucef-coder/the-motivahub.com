@@ -25,11 +25,18 @@ tags:
 wordCount: 445
 faq:
   - q: "Does food affect willpower and self-control?"
-    a: "Yes. The prefrontal cortex (responsible for self-control) runs on glucose. Studies at Princeton showed deprived mice made 'impulsive' choices until given sugar. Humans aren't simple sugar-burners, but skipping meals drops blood glucose and measurably increases impulsivity and poor decisions."
+    a: "Yes. The prefrontal cortex (responsible for self-control) is metabolically expensive, and low blood glucose is associated with more impulsive choices in both animal and human studies. Humans aren't simple sugar-burners, but skipping meals drops blood glucose and measurably increases impulsivity and poor decisions."
   - q: "What should I eat to maintain discipline all day?"
     a: "Protein + complex carbs + healthy fat at breakfast (eggs, oats, nuts). This combo releases glucose slowly over 3-4 hours, avoiding the spike-and-crash cycle that depletes willpower. Avoid sugar-heavy breakfasts — they create a crash 90 minutes later right when you need focus most."
   - q: "Is willpower really like a muscle that needs fuel?"
     a: "The 'ego depletion' model (Baumeister) has mixed replication data, but the practical insight holds: when you're hungry, tired, or stressed, your capacity for self-denial drops. Whether it's glucose or motivation, the fix is the same: eat well, sleep enough, and schedule hard decisions for when you're fueled."
+faqFr:
+  - q: "L'alimentation influence-t-elle la volonté et la maîtrise de soi ?"
+    a: "Oui. Le cortex préfrontal, responsable de la maîtrise de soi, est coûteux sur le plan métabolique, et une glycémie basse est associée à des choix plus impulsifs dans les études animales comme humaines. Les humains ne sont pas de simples brûleurs de sucre, mais sauter un repas fait baisser la glycémie et augmente de façon mesurable l'impulsivité et les mauvaises décisions."
+  - q: "Que manger pour maintenir sa discipline toute la journée ?"
+    a: "Protéines + glucides complexes + bonne graisse au petit-déjeuner (œufs, flocons d'avoine, fruits à coque). Cette combinaison libère du glucose lentement pendant 3 à 4 heures et évite le cycle pic-krach qui épuise la volonté. Fuyez les petits-déjeuners très sucrés : ils provoquent un krach 90 minutes plus tard, exactement au moment où vous avez le plus besoin de concentration."
+  - q: "La volonté est-elle vraiment un muscle qui a besoin de carburant ?"
+    a: "Le modèle de l'« ego depletion » (Baumeister) donne des résultats de réplication mitigés, mais l'idée pratique tient : quand vous avez faim, que vous êtes fatigué ou stressé, votre capacité à vous priver baisse. Que la cause soit le glucose ou la motivation, le remède reste le même : bien manger, dormir assez et placer les décisions difficiles quand vous êtes nourri."
 
 relatedArticles:
   - "eat-on-time-not-on-emotion"

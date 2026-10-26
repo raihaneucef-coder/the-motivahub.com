@@ -31,6 +31,13 @@ faq:
     a: "Study their daily schedule (not highlight reel), read what they read, identify what they did BEFORE the breakthrough. Ask: 1) What is non-negotiable? 2) How many hours? 3) What did they skip? 4) What did they repeat boringly? The gap between admiration and imitation is studying the traces, not the trophy."
   - q: "Can modeling someone's path actually work for me?"
     a: "Yes, with 20% adaptation. The 80/20 rule: copy their process framework (schedule, practice volume, feedback loops) but adjust for your context (family, location, starting point). Bruce Lee said absorb what is useful. Pure imitation fails because it ignores your variables; total originality fails because it ignores proven structure."
+faqFr:
+  - q: "Que veut dire « la réussite laisse des traces » ?"
+    a: "Chaque accomplissement a un chemin visible : les décisions quotidiennes, les habitudes et les routines qui l'ont précédé. Les gens qui réussissent n'ont pas de magie — ils laissent des miettes de régularité que vous pouvez étudier et suivre. Le livre qu'ils ont écrit contenait 500 jours d'écriture matinale. L'entreprise, cinq ans de composition. Les traces révèlent la formule."
+  - q: "Comment rétro-ingéniérer la réussite de quelqu'un ?"
+    a: "Étudiez son agenda quotidien (pas sa bande-annonce), lisez ce qu'il lit, identifiez ce qu'il faisait AVANT la percée. Demandez : 1) qu'est-ce qui était non négociable ? 2) combien d'heures ? 3) qu'a-t-il sacrifié ? 4) qu'a-t-il répété mécaniquement ? Le fossé entre l'admiration et l'imitation, c'est étudier les traces et pas le trophée."
+  - q: "Modéliser le chemin de quelqu'un peut-il vraiment marcher pour moi ?"
+    a: "Oui, avec 20 % d'adaptation. La règle des 80/20 : copiez la structure de leur processus (agenda, volume de pratique, boucles de rétroaction) mais ajustez à votre contexte (famille, lieu, point de départ). Bruce Lee disait « absorbez ce qui est utile ». L'imitation pure échoue parce qu'elle ignore vos variables ; l'originalité totale échoue parce qu'elle ignore les structures prouvées."
 
 relatedArticles:
   - "echec-retroaction"

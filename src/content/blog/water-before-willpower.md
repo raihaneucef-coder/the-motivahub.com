@@ -30,6 +30,13 @@ faq:
     a: "35ml per kg of body weight minimum (a 70kg person needs ~2.5 liters). Include water from food (fruits, soups count). The urine test: pale yellow = hydrated. Dark = behind. Drink consistently throughout the day rather than gulping large amounts at once."
   - q: "Should I drink water first thing in the morning?"
     a: "Yes — before coffee, before food. After 7-8 hours of sleep, you're mildly dehydrated. 500ml of water upon waking jumpstarts metabolism by 24% for 60 minutes (German research), flushes waste, and rehydrates the brain before caffeine hits. Keep a glass by your bed the night before."
+faqFr:
+  - q: "La déshydratation affecte-t-elle la volonté et la concentration ?"
+    a: "Oui. Même 1 à 2 % de déshydratation altère l'attention, la mémoire de travail et l'humeur (études de l'Université du Connecticut). Vous vous réveillez déshydraté après 7 à 8 heures sans eau — boire 500 ml avant le café restaure la fonction cognitive et empêche le brouillard de milieu de matinée que la plupart attribuent à la « paresse »."
+  - q: "Quelle quantité d'eau par jour ?"
+    a: "35 ml par kg de poids corporel au minimum (une personne de 70 kg a besoin d'environ 2,5 litres). Comptez l'eau des aliments (fruits, soupes). Le test des urines : jaune pâle = hydraté, foncé = en retard. Buvez régulièrement dans la journée plutôt que de grandes quantités d'un coup."
+  - q: "Faut-il boire de l'eau au réveil ?"
+    a: "Oui — avant le café, avant le repas. Après 7 à 8 heures de sommeil, vous êtes légèrement déshydraté. 500 ml d'eau au réveil relancent le métabolisme de 24 % pendant 60 minutes (recherche allemande), éliminent les déchets et réhydratent le cerveau avant la caféine. Gardez un verre près du lit la veille au soir."
 
 relatedArticles:
   - "eat-on-time-not-on-emotion"

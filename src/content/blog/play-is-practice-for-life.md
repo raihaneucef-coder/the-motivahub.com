@@ -30,6 +30,13 @@ faq:
     a: "In games, you practice risk-taking without consequence, negotiation, creative problem-solving, and emotional regulation (losing without quitting). These are the same skills needed in business and relationships. Play compresses decades of life experience into hours of low-stakes experimentation."
   - q: "Am I wasting time if I play games or sports?"
     a: "Only if it's avoidance disguised as recreation. 60-90 minutes of intentional play that leaves you energized is productive recovery. 6 hours of numb scrolling that leaves you drained is avoidance. The test: after play, do you feel restored and ready, or guilty and depleted? One is nourishment; the other is escape."
+faqFr:
+  - q: "Pourquoi le jeu compte-t-il pour les adultes ?"
+    a: "Le jeu n'est pas l'inverse de la productivité — c'est le terrain d'entraînement. Les travaux de Stuart Brown (National Institute for Play) ont trouvé que les adultes qui jouent régulièrement montrent plus de créativité, une meilleure résistance au stress et des liens sociaux plus solides. La privation de jeu est corrélée à la dépression et à la rigidité."
+  - q: "Comment le jeu nous prépare-t-il à la vie réelle ?"
+    a: "Dans un jeu, vous entraînez la prise de risque sans conséquence, la négociation, la résolution créative de problèmes et la régulation émotionnelle (perdre sans abandonner). Ce sont exactement les compétences dont ont besoin le travail et les relations. Le jeu compresse des décennies d'expérience de vie en quelques heures d'expérimentation à faible enjeu."
+  - q: "Est-ce que je perds mon temps à jouer ou à faire du sport ?"
+    a: "Seulement si c'est de l'évitement déguisé en loisir. 60 à 90 minutes de jeu délibéré qui vous laissent regonflé sont une récupération productive. Six heures de scroll qui vous laissent à plat sont de l'évitement. Le test : après, vous vous sentez restauré et prêt, ou coupable et vidé ? L'un est de la nourriture ; l'autre, une fuite."
 
 relatedArticles:
   - "play-on-purpose"

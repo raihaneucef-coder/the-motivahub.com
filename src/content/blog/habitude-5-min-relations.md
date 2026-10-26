@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 452
+wordCount: 478
 faq:
   - q: "What 5-minute daily habit strengthens relationships?"
     a: "One undistracted check-in: ask 'how was your day?' and listen for 3 minutes without your phone. Add 2 minutes of specific appreciation ('I loved how you handled X today'). This tiny ritual creates emotional safety and signals 'you matter' — the kind of small attuned moment Gottman's research links to lasting satisfaction."
@@ -31,6 +31,13 @@ faq:
     a: "Gottman's research: stable couples run at roughly a 5:1 ratio of positive to negative interactions. One birthday dinner does less for connection than 365 small 'I made you coffee' moments. The brain tracks frequency, not intensity — daily proof of being seen beats monthly proof of being celebrated."
   - q: "How do I remember to do this every day?"
     a: "Stack it onto an existing shared moment: after dinner, before bed, when you both get home. Set a gentle phone reminder for the first two weeks. Once the check-in becomes automatic — Lally et al. (2010) measured a median of 66 days for a new habit — skipping it will feel weirder than doing it, and the habit loop takes over."
+faqFr:
+  - q: "Quelle habitude quotidienne de 5 minutes renforce les relations ?"
+    a: "Un échange sans distraction : demandez « comment s'est passée ta journée ? » et écoutez 3 minutes, téléphone posé. Ajoutez 2 minutes de reconnaissance précise (« j'ai aimé la façon dont tu as géré X aujourd'hui »). Ce petit rituel crée une sécurité émotionnelle et signale « tu comptes » — ce genre de micro-moment ajusté que les travaux de Gottman relient à la satisfaction durable."
+  - q: "Pourquoi les petits gestes quotidiens comptent-ils plus que les grandes occasions ?"
+    a: "La recherche de Gottman : les couples stables tournent autour d'un ratio de 5 interactions positives pour 1 négative. Un dîner d'anniversaire fait moins pour le lien que 365 petits moments du type « je t'ai préparé un café ». Le cerveau enregistre la fréquence, pas l'intensité — la preuve quotidienne d'être vu bat la preuve mensuelle d'être fêté."
+  - q: "Comment penser à le faire chaque jour ?"
+    a: "Greffe-le sur un moment partagé déjà existant : après le dîner, avant le coucher, ou au retour à la maison. Mettez un rappel doux sur votre téléphone pendant les deux premières semaines. Une fois l'échange devenu automatique — Lally et al. (2010) ont mesuré une médiane de 66 jours pour une nouvelle habitude — ne pas le faire semblera plus étrange que le faire, et la boucle prend le relais."
 
 relatedArticles:
   - "how-to-argue-without-breaking"

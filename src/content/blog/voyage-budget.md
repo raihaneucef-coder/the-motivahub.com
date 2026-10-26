@@ -31,6 +31,13 @@ faq:
     a: "Prioritize: house-sitting (free, requires commitment), work-exchange (20 hrs work equals bed), then hostels (10-25 dollars), then private apartments on weekly rates. Airbnb long-stay discounts: 30-40 percent off 28+ nights. Skyscanner explore function filters by price when destination is flexible."
   - q: "Is budget travel worth the discomfort?"
     a: "The research on experiential spending (Van Boven, Cornell) shows experiences create more lasting happiness than possessions regardless of comfort level. A shared bathroom teaches cultural connection a resort never will. Discomfort IS the experience when it strips away the filtered tourist bubble." 
+faqFr:
+  - q: "Comment voir le monde avec un petit budget ?"
+    a: "3 règles qui économisent 50 % : 1) voyagez en basse saison (pas juillet-août) ; 2) restez au minimum 7 jours par ville (remises hebdomadaires contre tarifs à la nuit) ; 3) mangez où mangent les locaux : marchés, street food, pas les restaurants touristiques. L'Asie du Sud-Est, l'Europe de l'Est, le Maroc et l'Amérique latine offrent le meilleur rapport expérience/prix."
+  - q: "Quelle est la façon la moins chère de se loger ?"
+    a: "Priorisez : le house-sitting (gratuit, demande un engagement), l'échange travail contre lit (20 h de travail = une place), puis les auberges (10 à 25 dollars), puis les appartements privés à la semaine. Remises longue durée Airbnb : 30 à 40 % sur 28 nuits et plus. La fonction « explorer » de Skyscanner filtre par prix quand la destination est flexible."
+  - q: "Le voyage à petit budget vaut-il l'inconfort ?"
+    a: "La recherche sur la dépense expérientielle (Van Boven, Cornell) montre que les expériences créent un bonheur plus durable que les possessions, quel que soit le niveau de confort. Une salle de bain partagée enseigne une connexion culturelle qu'un resort n'enseignera jamais. L'inconfort EST l'expérience quand il retire la bulle touristique filtrée."
 
 relatedArticles:
   - "the-detour-is-the-destination"

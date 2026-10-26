@@ -29,6 +29,13 @@ faq:
     a: "Start absurdly small: text 1 person today, accept 1 invitation this week, attend 1 recurring event monthly (class, club, volunteer). The 'mere exposure effect' means familiarity breeds liking — show up consistently and friendships form naturally. Don't wait to feel ready; the feeling follows the action."
   - q: "How often should you contact friends to maintain the bond?"
     a: "Dunbar's friendship-maintenance work suggests weekly contact keeps a close friendship at full strength; monthly keeps it alive; yearly turns it nostalgic. The minimum viable habit: one 5-minute voice call or genuine text per important person per week. Quality matters but frequency is the actual variable that predicts whether a friendship survives adulthood."
+faqFr:
+  - q: "Pourquoi parle-t-on d'« muscle » social ?"
+    a: "Parce que le lien s'atrophie sans usage et se renforce avec un exercice régulier. Les mêmes principes s'appliquent : surcharge progressive (des situations sociales un peu plus difficiles), régularité (contact hebdomadaire, pas annuel), et récupération (les introvertis ont besoin de pauses). La solitude augmente littéralement le risque de mortalité de 26 % (Holt-Lunstad, 2010)."
+  - q: "Comment reconstruire ma vie sociale après l'isolement ?"
+    a: "Commencez par quelque chose d'absurdement petit : un message à une personne aujourd'hui, une invitation acceptée cette semaine, un événement récurrent par mois (cours, club, bénévolat). L'« effet de simple exposition » fait que la familiarité engendre l'attachement — soyez là régulièrement et les amitiés se forment naturellement. N'attendez pas de vous sentir prêt ; le sentiment suit l'action."
+  - q: "À quelle fréquence contacter ses amis pour garder le lien ?"
+    a: "Les travaux de Dunbar sur l'entretien des amitiés suggèrent qu'un contact hebdomadaire maintient une amitié proche à pleine force ; mensuel la garde vivante ; annuel la rend nostalgique. L'habitude minimale viable : un appel vocal de 5 minutes ou un vrai message par personne importante et par semaine. La qualité compte, mais la fréquence est la variable qui prédit réellement si une amitié survit à l'âge adulte."
 
 relatedArticles:
   - "long-ascent"

@@ -30,6 +30,13 @@ faq:
     a: "Evolutionary: being rejected from the tribe meant death. The brain processes social refusal like physical threat (fMRI, UCLA). People pleasers often learned that approval = safety in childhood. Saying no triggers the same alarm as danger — courage isn't the absence of that alarm but acting despite it."
   - q: "What are polite ways to say no?"
     a: "1) 'I'd love to but I'm already committed.' 2) 'Let me check and get back' (buys time). 3) 'No, but here's someone who could.' 4) 'I'm protecting my focus this month.' 5) Simple 'I won't be able to.' The key: brief, warm, firm. A no with 5 excuses sounds like a no you'll be talked out of."
+faqFr:
+  - q: "Comment dire non sans culpabiliser ?"
+    a: "Reformulez : chaque « oui » donné à quelqu'un d'autre est un « non » dit à vos propres priorités. Dites-le simplement — « je ne peux pas m'engager là-dessus » — sans vous justifier longuement. La culpabilité s'efface à force de répétition : chaque refus qui ne détruit pas la relation prouve que votre peur était disproportionnée."
+  - q: "Pourquoi est-il si difficile de dire non aux gens ?"
+    a: "Raison évolutive : être rejeté de la tribu signifiait la mort. Le cerveau traite le refus social comme une menace physique (IRMf, UCLA). Les personnes qui cherchent à plaire ont souvent appris dans l'enfance que l'approbation égalait la sécurité. Dire non déclenche la même alerte que le danger — le courage, ce n'est pas l'absence de cette alerte, mais l'action malgré elle."
+  - q: "Quelles sont les manières polies de dire non ?"
+    a: "1) « J'aimerais beaucoup, mais je suis déjà engagé. » 2) « Je vérifie et je reviens vers vous » (pour gagner du temps). 3) « Non, mais voici quelqu'un qui pourrait le faire. » 4) « Je protège ma concentration ce mois-ci. » 5) Un simple « je ne pourrai pas ». La clé : bref, chaleureux, ferme. Un non accompagné de cinq excuses ressemble à un non dont on vous fera revenir."
 
 relatedArticles:
   - "confiance-inbranlable"

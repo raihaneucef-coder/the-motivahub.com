@@ -26,7 +26,7 @@ tags:
   - "stories"
   - "endurance"
   - "discipline"
-wordCount: 372
+wordCount: 300
 faq:
   - q: "Why did the shop stay open when others closed?"
     a: "Because staying was a promise, not a business plan. The owner understood that endurance is a competitive advantage. When everyone else pivots, the one who stays becomes the default. Customers return not because the shop is the best, but because it is the only one that showed up."
@@ -52,7 +52,7 @@ relatedArticles:
   - "proof-over-noise"
 ---
 
-<div data-i18n-html="article_the-shop-that-stayed-open_p2"><strong>Endurance is a competitive advantage.</strong> When everyone else pivoted, he stayed. For 32 years, the doors opened at 7 a.m. The lesson: consistency compounds. The shop owner did not need to be the best. He needed to be the one who showed up every day. In careers, in habits, in relationships — the person who stays eventually wins, not because they are the most talented, but because they are the most reliable.</div>
+<div data-i18n-html="article_the-shop-that-stayed-open_p2">When everyone else pivoted, he stayed. For 32 years, the doors opened at 7 a.m.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p10"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
 
@@ -60,7 +60,7 @@ relatedArticles:
 <div data-i18n-html="article_the-shop-that-stayed-open_p3">The street went quiet. One by one, the shops closed — rent too high, customers too few.</div>
 
 
-<div data-i18n-html="article_the-shop-that-stayed-open_p4">He kept his small bookstore open. He could not afford to, which is why it mattered.</div>
+<div data-i18n-html="article_the-shop-that-stayed-open_p4">He kept his small bookstore open, long after the numbers said he should close it. That is what made it matter.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p5">Every morning, he swept the sidewalk, turned the sign to OPEN, and waited. Some days no one came. He read. He wrote a note on the window: "We are still here. Come in for tea."</div>
 
@@ -70,7 +70,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p8">When the street woke again, his shop was the reason. Not because he had the best business, but because he was the only one who stayed when staying made no sense.</div>
 
-<div data-i18n-html="article_the-shop-that-stayed-open_p11">There is a name for what he was doing: the durability premium. Economists who study firm survival find that most exits cluster in the first few years, and that the few operators still standing at decade ten face a field with far fewer competitors. Staying open is not stubbornness — it is outlasting the noise until the market quietly reorganizes around whoever is still there.</div>
+<div data-i18n-html="article_the-shop-that-stayed-open_p11">The other shops on that street did not close for lack of effort; they closed while the street was quiet. Staying is not stubbornness — it is simply being there after the noise has thinned, when the street quietly reorganizes around whoever is still open.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p12">The quiet mechanism is trust. A door that opens at the same hour for thirty years becomes a landmark people plan their lives around. Reliability, repeated long enough, stops being a behavior and becomes a reputation — and a reputation is the one asset that compounds while you sleep.</div>
 

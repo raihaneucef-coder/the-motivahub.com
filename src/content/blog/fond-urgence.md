@@ -28,6 +28,13 @@ faq:
     a: "A high-yield savings account that's separate from your checking (to reduce temptation) but accessible within 24 hours. In France: Livret A or LDDS. In the US: an online HYSA paying 4-5%. The priority is liquidity and safety, not return — this money's job is insurance, not growth."
   - q: "Should I build an emergency fund before investing?"
     a: "Yes. Without a cash buffer, the first car repair forces you to sell investments (possibly at a loss) or go into credit-card debt at 20%+. One month of expenses saved gives you the psychological stability to actually stay invested long-term — which is where all returns come from."
+faqFr:
+  - q: "Combien mettre de côté pour un fonds d'urgence ?"
+    a: "3 à 6 mois de dépenses essentielles (logement, nourriture, charges, assurances). Commencez par un mini-fonds de 1 000 €, puis atteignez un mois, puis trois. La cible de 6 mois s'applique si vous êtes indépendant ; les salariés peuvent souvent démarrer à 3 mois grâce à des revenus plus prévisibles."
+  - q: "Où garder un fonds d'urgence ?"
+    a: "Sur un compte d'épargne rémunéré, séparé du compte courant (pour réduire la tentation) mais accessible en moins de 24 heures. En France : Livret A ou LDDS. Aux États-Unis : un compte en ligne rémunérant 4 à 5 %. La priorité est la liquidité et la sécurité, pas le rendement — cet argent a un rôle d'assurance, pas de croissance."
+  - q: "Faut-il constituer son fonds d'urgence avant d'investir ?"
+    a: "Oui. Sans coussin de liquidités, la première réparation de voiture vous oblige à revendre des placements, éventuellement à perte, ou à tomber sur du crédit à 20 % et plus. Un mois de dépenses épargné donne la stabilité psychologique nécessaire pour rester investi sur la durée — et c'est là que se trouvent tous les rendements."
 
 relatedArticles:
   - "invest-like-beginner"

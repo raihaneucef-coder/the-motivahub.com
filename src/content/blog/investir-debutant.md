@@ -3,7 +3,7 @@ title: "Investing for Beginners: Start Building Wealth Today"
 description: "You do not need thousands to start investing. You need consistency. Learn the simplest way to start building wealth from scratch."
 titleFr: "Investir pour les débutants : commence à construire ta richesse aujourd'hui"
 seoTitleFr: "Investir pour les débutants : le guide simple"
-descriptionFr: "Tu n'as pas besoin de milliers pour commencer à investir. Tu as besoin de régularité. Apprends la façon la plus simple de construire ta richesse from scratch."
+descriptionFr: "Tu n'as pas besoin de milliers pour commencer à investir. Tu as besoin de régularité. Apprends la façon la plus simple de construire ta richesse à partir de zéro."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
@@ -28,7 +28,14 @@ faq:
   - q: "What is the best investment for a beginner?"
     a: "A low-cost global index fund (0.1-0.2% annual fees). It gives instant diversification across 1,500+ companies in 23 countries. Historical average return: 7-10% annually over 10+ year periods. No stock picking, no market timing, no financial advisor fees — just consistent monthly buying."
   - q: "How does compound interest build wealth?"
-    a: "Returns generate their own returns. Invest 200€/month at 8%: year 1 = 2,571€; year 10 = 36,547€; year 30 = 298,000€. The last 10 years generate more than the first 20 combined. Starting 5 years earlier adds approximately 40% to your final total — time is more powerful than amount."
+    a: "Returns generate their own returns. Invest 200€/month at 8%: year 1 = 2,490€; year 10 = 36,547€; year 30 = 298,000€. The last 10 years generate more than the first 20 combined. Starting 5 years earlier adds roughly 55% to your final total — time is more powerful than amount."
+faqFr:
+  - q: "Comment un débutant commence-t-il à investir ?"
+    a: "Ouvrez un compte fiscal avantageux (PEA en France, ISA ou 401k aux États-Unis et au Royaume-Uni), automatisez un virement mensuel (même 50 €) et achetez un fonds indiciel large (MSCI World ou S&P 500). C'est tout le « pour commencer » — la complexité viendra plus tard. Le temps passé sur le marché bat le fait de choisir le moment, toujours."
+  - q: "Quel est le meilleur investissement pour un débutant ?"
+    a: "Un fonds indiciel mondial à faible coût (frais annuels de 0,1 à 0,2 %). Il donne une diversification instantanée sur plus de 1 500 entreprises dans 23 pays. Rendement moyen historique : 7 à 10 % par an sur des périodes de plus de 10 ans. Pas de sélection d'actions, pas de market timing, pas de frais de conseiller financier — seulement des achats mensuels réguliers."
+  - q: "Comment les intérêts composés construisent-ils la richesse ?"
+    a: "Les gains génèrent leurs propres gains. 200 € par mois à 8 % : année 1 = 2 490 € ; année 10 = 36 547 € ; année 30 = 298 000 €. Les dix dernières années en génèrent plus que les vingt premières réunies. Commencer cinq ans plus tôt ajoute environ 55 % au total final — le temps est plus puissant que le montant."
 
 relatedArticles:
   - "debt-is-a-story"

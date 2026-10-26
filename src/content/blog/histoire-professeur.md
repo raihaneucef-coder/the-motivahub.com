@@ -31,6 +31,13 @@ faq:
     a: "Research on eudaimonic wellbeing (Self-Determination Theory) shows fulfillment comes from competence, autonomy, and connection — not accumulation. A high income with no impact produces hedonic adaptation (lifestyle creep). Knowing you changed someone's trajectory provides meaning that money literally cannot purchase."
   - q: "How do I find my 'teacher' purpose?"
     a: "Ask: what do people thank me for that feels easy to give? What knowledge or skill did someone once share with me that changed my path? Your purpose is often the thing you received and now feel compelled to pass forward. Start with one person — teaching one student is the same as teaching a thousand."
+faqFr:
+  - q: "Comment une seule personne peut-elle changer autant de vies ?"
+    a: "En étant là, régulièrement, pour une personne à la fois. L'histoire de ce professeur n'est pas un geste colossal — c'est dire « tu peux » à chaque élève à qui on avait dit le contraire. L'impact se multiplie par effet d'entraînement : chaque élève change d'autres vies, et l'influence du professeur déborde largement la salle de classe."
+  - q: "Pourquoi l'héritage est-il plus épanouissant que la richesse ?"
+    a: "La recherche sur le bien-être eudémonique (théorie de l'autodétermination) montre que la satisfaction vient de la compétence, de l'autonomie et du lien — pas de l'accumulation. Un haut revenu sans impact produit une adaptation hédonique (l'inflation du niveau de vie). Savoir que vous avez changé la trajectoire de quelqu'un offre un sens que l'argent ne peut littéralement pas acheter."
+  - q: "Comment trouver ma « raison de professeur » ?"
+    a: "Demandez-vous : pour quoi les gens me remercient-ils alors que ça me semble facile à donner ? Quel savoir ou quelle compétence quelqu'un m'a-t-il transmis et qui a changé ma route ? Votre raison est souvent la chose que vous avez reçue et que vous sentez maintenant obligé de transmettre. Commencez par une personne — enseigner à un élève vaut enseigner à mille."
 
 relatedArticles:
   - "histoire-athlete-recommence"

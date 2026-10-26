@@ -31,6 +31,13 @@ faq:
     a: "For most people, yes. To-do lists don't account for time constraints — you can list 20 items and only fit 8 into the day. Time blocking forces realistic planning by matching tasks to available hours, reduces decision fatigue, and creates accountability through scheduled start times."
   - q: "How do I start time blocking my day?"
     a: "1) List tasks for tomorrow (evening before). 2) Assign each a realistic time slot in your calendar. 3) Group shallow work (email, admin) into one block. 4) Protect 2-3 deep work blocks during your peak energy hours. 5) Add 15-minute buffers between blocks. Adjust after one week based on what actually took how long."
+faqFr:
+  - q: "Qu'est-ce que le time blocking ?"
+    a: "Le time blocking consiste à découper votre journée en blocs dédiés, chacun affecté à une tâche ou une catégorie de travail. Au lieu d'une liste de choses à faire, chaque tâche reçoit un créneau précis dans votre agenda. Popularisé par Cal Newport (Deep Work) et utilisé par des dirigeants comme Elon Musk ou Bill Gates."
+  - q: "Le time blocking vaut-il mieux qu'une to-do list ?"
+    a: "Pour la plupart des gens, oui. Une liste de tâches ne tient pas compte des contraintes de temps — vous pouvez inscrire 20 items et n'en caser que 8 dans la journée. Le time blocking force une planification réaliste en appariant les tâches aux heures disponibles, réduit la fatigue de décision et crée de la redevabilité grâce aux heures de début fixées."
+  - q: "Comment commencer à bloquer ma journée ?"
+    a: "1) Listez les tâches du lendemain (la veille au soir). 2) Attribuez à chacune un créneau réaliste dans l'agenda. 3) Groupez le travail superficiel (mails, admin) dans un seul bloc. 4) Protégez 2 à 3 blocs de travail profond pendant vos heures d'énergie maximale. 5) Ajoutez 15 minutes de tampon entre les blocs. Ajustez après une semaine d'après la durée réelle des tâches."
 
 relatedArticles:
   - "deep-work-focus"
@@ -71,7 +78,7 @@ You do not waste energy deciding what to work on next. The calendar decides for 
 When a task is scheduled, you know exactly when it should be done. No more "I will do it later."</div>
 
 <div data-i18n-html="article_time-blocking-journee_p13"><h3>4. It Reveals the Truth</h3>
-Time blocking shows you how much time you actually have. Most people overestimate their available time by 40%.</div>
+Time blocking shows you how much time you actually have. Most people overestimate their available time by a wide margin once meetings, transitions and interruptions are counted.</div>
 
 <div data-i18n-html="article_time-blocking-journee_p20">The research that justifies the wall between blocks: organizational psychologist Sophie Leroy identified what she called attention residue — when you switch from task A to task B, part of your focus stays stuck thinking about A, and it measurably hurts performance on B, especially if A ended unfinished. Back-to-to-back context switching floods you with residue. A dedicated block that ends cleanly, with a written note of where you left off, drains the residue before the next block begins. That is the real reason the buffer matters.</div>
 

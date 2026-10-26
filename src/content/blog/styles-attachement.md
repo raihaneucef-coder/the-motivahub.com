@@ -26,9 +26,16 @@ faq:
   - q: "What are the 4 attachment styles?"
     a: "1) Secure (comfortable with intimacy, trusts easily). 2) Anxious (craves closeness, fears abandonment). 3) Avoidant (values independence, suppresses needs). 4) Disorganized / fearful-avoidant (wants closeness but fears it simultaneously). In large community samples close to six in ten adults screen as secure; the rest show patterns formed in childhood caregiving."
   - q: "Can I change my attachment style?"
-    a: "Yes, research calls this earned security. Therapy (especially attachment-focused), a consistently secure partner, self-awareness practices (noticing trigger patterns), and mindfulness can shift anxious or avoidant toward secure over 1-3 years. Neuroplasticity does not stop at 25."
+    a: "Yes, research calls this earned security. Therapy (especially attachment-focused), a consistently secure partner, self-awareness practices (noticing trigger patterns), and mindfulness can shift anxious or avoidant toward secure over months to years. Neuroplasticity does not stop at 25."
   - q: "Why do anxious and avoidant attract each other?"
     a: "Each confirms the other's core belief: anxious thinks love means chasing and avoidant thinks love means losing freedom. The push-pull creates familiar intensity that feels like passion. Breaking the cycle requires either becoming secure yourself or consciously choosing partners who match your healing pace."
+faqFr:
+  - q: "Quels sont les 4 styles d'attachement ?"
+    a: "1) Sécurisé (à l'aise avec l'intimité, fait facilement confiance). 2) Anxieux (aspire à la proximité, craint l'abandon). 3) Évitant (valorise l'indépendance, réprime ses besoins). 4) Désorganisé / craintif-évitant (veut la proximité mais la craint simultanément). Dans de grands échantillons de population, près de six adultes sur dix se classent comme sécurisés ; les autres présentent des schémas formés dans la petite enfance par les soins reçus."
+  - q: "Puis-je changer mon style d'attachement ?"
+    a: "Oui — la recherche parle de « sécurité acquise ». La thérapie (surtout centrée sur l'attachement), un partenaire stablement sécurisé, des pratiques de conscience de soi (repérer ses schémas de déclenchement) et la pleine attention peuvent faire basculer l'anxieux ou l'évitant vers le sécurisé en quelques mois à plusieurs années. La neuroplasticité ne s'arrête pas à 25 ans."
+  - q: "Pourquoi l'anxieux et l'évitant s'attirent-ils ?"
+    a: "Chacun confirme la croyance centrale de l'autre : l'anxieux croit que l'amour signifie courir après, l'évitant croit que l'amour signifie perdre sa liberté. Le va-et-vient crée une intensité familière qui ressemble à la passion. Briser le cycle demande soit de devenir sécurisé soi-même, soit de choisir consciemment des partenaires qui suivent votre rythme de guérison."
 
 relatedArticles:
   - "how-to-argue-without-breaking"

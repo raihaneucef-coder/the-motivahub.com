@@ -31,6 +31,13 @@ faq:
     a: "Three rules: 1) Never auto-play the next episode. 2) Watch only scheduled content (pick 2 shows/week, not 10). 3) When you catch yourself scrolling 'what to watch' for 10+ minutes, close the app — the scrolling IS the addiction, not the show. Replace with a book or walk for 20 minutes."
   - q: "Is watching TV always a waste of time?"
     a: "No. 30-60 minutes of quality film/series you chose and enjoyed fully is valid leisure and even stimulates creativity. The problem is passive consumption: watching for 4 hours something you didn't choose and barely remember. Quality attention to entertainment is fine; autopilot scrolling is what costs you."
+faqFr:
+  - q: "Que signifie regarder intentionnellement ?"
+    a: "Choisir le contenu avant que l'ennui ne s'installe, décider quoi regarder plutôt que de laisser un algorithme décider. Regarder en pleine attention (sans scroller sur son téléphone en même temps). Se donner une limite de temps et s'arrêter quand elle est atteinte. Traiter votre attention comme un budget, pas comme une ressource infinie."
+  - q: "Comment arrêter le binge-watching inconscient ?"
+    a: "Trois règles : 1) ne laissez jamais la lecture automatique enchaîner l'épisode suivant ; 2) ne regardez que du contenu programmé (choisissez 2 séries par semaine, pas 10) ; 3) quand vous vous prenez à chercher « quoi regarder » pendant plus de 10 minutes, fermez l'application — c'est le scroll qui crée la dépendance, pas la série. Remplacez par un livre ou une marche de 20 minutes."
+  - q: "Regarder la télévision est-il toujours une perte de temps ?"
+    a: "Non. 30 à 60 minutes d'un film ou d'une série de qualité que vous avez choisi et dont vous avez pleinement joui sont un loisir valide, et cela stimule même la créativité. Le problème est la consommation passive : quatre heures devant quelque chose que vous n'avez pas choisi et dont vous vous souvenez à peine. Une attention de qualité à votre divertissement ne pose pas de problème ; c'est le scroll en pilote automatique qui vous coûte."
 
 relatedArticles:
   - "play-is-practice-for-life"

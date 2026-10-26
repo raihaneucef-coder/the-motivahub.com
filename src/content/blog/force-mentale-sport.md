@@ -31,6 +31,13 @@ faq:
     a: "The ability to maintain focus, effort, and confidence despite fatigue, setbacks, or high stakes. Clough's 4C model: Control (I influence outcomes), Commitment (I follow through), Challenge (threats are growth opportunities), Confidence (I believe in my ability). All four are trainable."
   - q: "How can I stop choking under pressure?"
     a: "Choking happens when you overthink automatic skills (explicit monitoring). Solution: practice under pressure conditions so competition feels normal, use external focus cues ('land on that spot' not 'extend your leg'), and keep your pre-performance routine identical to training."
+faqFr:
+  - q: "Comment les athlètes restent-ils calmes sous pression ?"
+    a: "Par des routines de pré-performance (même respiration, mêmes signaux physiques avant chaque essai) et par la réévaluation cognitive : transformer l'anxiété en excitation. Des travaux de Harvard (Alison Brooks, 2014) ont montré que se dire « je suis excité » surpasse « je suis calme », parce que les deux sont des états d'activation élevée — le cerveau a seulement besoin d'une étiquette positive."
+  - q: "Qu'est-ce que la force mentale dans le sport ?"
+    a: "La capacité à maintenir la concentration, l'effort et la confiance malgré la fatigue, les revers ou les enjeux élevés. Le modèle 4C de Clough : Contrôle (j'influence les résultats), Engagement (je vais au bout), Défi (les menaces sont des occasions de grandir), Confiance (je crois en ma capacité). Les quatre se travaillent."
+  - q: "Comment arrêter de craquer sous pression ?"
+    a: "Le « choking » survient quand on suranalyse des gestes devenus automatiques (surveillance explicite). La solution : s'entraîner dans des conditions de pression pour que la compétition paraisse normale, utiliser des repères externes (« atterris sur cette marque », pas « tends ta jambe ») et garder votre routine de pré-performance identique à celle de l'entraînement."
 
 relatedArticles:
   - "body-votes-first"

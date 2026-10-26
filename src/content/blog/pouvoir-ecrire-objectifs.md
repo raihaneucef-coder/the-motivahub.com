@@ -28,6 +28,13 @@ faq:
     a: "Use this formula: 1) Specific (not 'get fit' but 'run 5K under 25 min'). 2) Present tense as if already achieved ('I am running 4x per week'). 3) Include the WHY. 4) Write them daily (morning commitment ritual). 5) Share with one accountable person — the study showed accountability partners added another 33% success rate."
   - q: "Why does my brain forget goals I don't write down?"
     a: "Working memory holds only 4±1 chunks at a time (Cowan, 2001). Unwritten goals compete with every other thought and get overwritten within 48 hours. Writing externalizes the goal into your environment where it can 'remind' you through visual cues, bypassing the memory bottleneck entirely."
+faqFr:
+  - q: "Écrire ses objectifs augmente-t-il vraiment leurs chances d'atteinte ?"
+    a: "Oui — une étude non publiée de Dominican University (Gail Matthews, 2015) a trouvé que les gens qui écrivaient leurs objectifs avaient 42 % plus de chances de les atteindre que ceux qui y pensaient seulement. Écrire rend l'objectif concret, ce qui est le premier pas vers un plan et vers l'exécution."
+  - q: "Comment écrire ses objectifs pour un effet maximal ?"
+    a: "Utilisez cette formule : 1) spécifique (pas « me mettre en forme » mais « courir un 5 km en moins de 25 minutes ») ; 2) au présent, comme si c'était déjà atteint (« je cours 4 fois par semaine ») ; 3) avec le POURQUOI ; 4) écrit chaque jour (rituel d'engagement du matin) ; 5) partagé avec une personne de redevabilité — l'étude montrait qu'un partenaire de redevabilité ajoutait encore 33 % de réussite."
+  - q: "Pourquoi mon cerveau oublie-t-il les objectifs que je n'écris pas ?"
+    a: "La mémoire de travail ne retient que 4 ± 1 éléments à la fois (Cowan, 2001). Un objectif non écrit entre en concurrence avec toutes les autres pensées et est écrasé en moins de 48 heures. L'écrire l'externalise dans votre environnement, où il peut vous « rappeler » par signaux visuels, en court-circuitant complètement le goulet d'étranglement de la mémoire."
 
 relatedArticles:
   - "rendez-compte-objectifs"

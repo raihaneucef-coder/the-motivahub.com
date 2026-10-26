@@ -31,6 +31,13 @@ faq:
     a: "Healthy: specific topic, both voices heard, no contempt or name-calling, ends with understanding or compromise. Toxic: character assassination ('you're lazy'), stonewalling, bringing up past grievances, needs a winner and loser. Gottman's research: contempt is the #1 predictor of divorce — more than frequency of fighting."
   - q: "How do I repair after a bad fight?"
     a: "Wait until calm (minimum 30 min). Open with ownership ('I'm sorry I raised my voice'), not conditions ('I'm sorry but you...'). Ask 'what did you need in that moment that you didn't get?' Listen without defending. Physical touch (hand on shoulder) releases oxytocin and signals safety restoration."
+faqFr:
+  - q: "Comment se disputer sans abîmer la relation ?"
+    a: "Attaquez le problème, pas la personne. Utilisez les phrases en « je ressens » plutôt que « tu fais toujours ». Prenez 20 minutes de pause quand la fréquence cardiaque dépasse 100 battements par minute (l'inondation physiologique rend toute discussion rationnelle impossible). Terminez par une réparation : « nous sommes dans la même équipe — ce désaccord est l'ennemi, pas toi »."
+  - q: "Quelle différence entre une dispute saine et une dispute toxique ?"
+    a: "Saine : un sujet précis, les deux voix entendues, pas de mépris ni d'insultes, et une fin en compréhension ou en compromis. Toxique : attaque du caractère (« tu es paresseux »), mutisme de blocage, ressassage des vieux griefs, besoin d'un gagnant et d'un perdant. La recherche de Gottman : le mépris est le premier prédicteur de divorce, plus encore que la fréquence des disputes."
+  - q: "Comment réparer après une mauvaise dispute ?"
+    a: "Attendez le retour au calme (30 minutes minimum). Commencez par une part de responsabilité (« je suis désolé d'avoir haussé la voix »), pas par une condition (« je suis désolé, mais toi... »). Demandez : « de quoi avais-tu besoin à ce moment-là et que tu n'as pas obtenu ? » Écoutez sans vous défendre. Le contact physique (une main sur l'épaule) libère de l'ocytocine et signale que la sécurité est rétablie."
 
 relatedArticles:
   - "love-is-a-practice"

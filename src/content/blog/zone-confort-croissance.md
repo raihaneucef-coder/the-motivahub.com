@@ -30,6 +30,13 @@ faq:
     a: "Use the stretch zone method: increase difficulty by only 4 percent at a time (not 40 percent). If public speaking terrifies you: speak up once in a meeting of 3, then a meeting of 5, then a small presentation. The Yerkes-Dodson law shows peak performance requires moderate arousal, not maximum stress."
   - q: "Is there anything wrong with staying comfortable?"
     a: "Only if comfort becomes a cage. Comfort zone expansion is not about constant suffering; it is about choosing which comforts you want and earning them through graduated challenge. A life of zero stretch creates fragility: you are not choosing safety, you are being held hostage by fear." 
+faqFr:
+  - q: "Pourquoi faut-il quitter sa zone de confort pour grandir ?"
+    a: "La croissance exige ce que la science de l'exercice appelle la surcharge progressive : un stimulus légèrement au-delà de votre capacité actuelle déclenche l'adaptation. La même logique s'applique psychologiquement. La zone proximale de développement de Vygotski : l'apprentissage optimal se situe juste au-delà de ce que vous savez déjà faire seul."
+  - q: "Comment sortir de ma zone de confort sans m'épuiser ?"
+    a: "Utilisez la méthode de la zone d'étirement : augmentez la difficulté de seulement 4 % à la fois (pas de 40 %). Si parler en public vous terrifie : prenez la parole une fois dans une réunion de 3, puis de 5, puis une petite présentation. La loi de Yerkes-Dodson montre que la performance maximale exige une activation modérée, pas un stress maximal."
+  - q: "Y a-t-il un problème à rester confortable ?"
+    a: "Seulement si le confort devient une cage. Étendre sa zone de confort n'est pas souffrir en permanence ; c'est choisir quels conforts vous voulez et les mériter par des défis gradués. Une vie sans aucun étirement crée de la fragilité : vous ne choisissez pas la sécurité, vous êtes retenu en otage par la peur."
 
 relatedArticles:
   - "long-ascent"

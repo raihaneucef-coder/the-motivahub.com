@@ -88,7 +88,7 @@ One day of discipline does not change your life. But 365 days of discipline crea
 4. Never miss twice — one day off is a break, two days off is a new habit
 5. Celebrate consistency — reward yourself for showing up</div>
 
-<div data-i18n-html="article_discipline-depass-motivation_p15"><blockquote><em>Discipline is choosing between what you want now and what you want most. — Abraham Lincoln</em></blockquote></div>
+<div data-i18n-html="article_discipline-depass-motivation_p15"><blockquote><em>Discipline is choosing between what you want now and what you want most. — often attributed to Abraham Lincoln</em></blockquote></div>
 
 <div data-i18n-html="article_discipline-depass-motivation_p16">---</div>
 

@@ -30,6 +30,13 @@ faq:
     a: "Reframe: your brain treats deviation as failure because it predicted the arrival. But the prediction was just one option, not the only good outcome. Practice: when something derails, ask what is this making possible that the original plan would not. Curiosity replaces frustration instantly."
   - q: "Is this just a life-is-a-journey cliche?"
     a: "No, because the practical application is specific: you can be fully committed to a destination AND present at every unplanned stop. These are not contradictions. Navy SEALs train for the mission but adapt to terrain. Hold the vision loosely, execute the steps tightly." 
+faqFr:
+  - q: "Qu'est-ce que le détour apprend que la route directe n'apprend pas ?"
+    a: "L'adaptabilité, la présence, et la découverte que la destination prévue n'a jamais été le vrai but. Les meilleurs souvenirs de voyage (et les meilleures leçons de vie) viennent des pannes, des mauvais tours et des conversations inattendues qui n'arrivent que quand on est sorti de l'horaire."
+  - q: "Comment ne plus être frustré quand les plans déraillent ?"
+    a: "Reformulez : votre cerveau traite la déviation comme un échec parce qu'il avait prédit l'arrivée. Mais la prédiction n'était qu'une option, pas le seul bon résultat. Pratique : quand quelque chose déraille, demandez « qu'est-ce que cela rend possible que le plan initial n'aurait pas permis ? ». La curiosité remplace la frustration instantanément."
+  - q: "Est-ce simplement un cliché du « la vie est un voyage » ?"
+    a: "Non, parce que l'application est concrète : vous pouvez être totalement engagé vers une destination ET présent à chaque arrêt non prévu. Ce n'est pas contradictoire. Les Navy SEALs s'entraînent pour la mission mais s'adaptent au terrain. Tenez la vision légèrement, exécutez les étapes serrées."
 
 relatedArticles:
   - "voyage-budget"

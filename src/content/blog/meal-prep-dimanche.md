@@ -4,7 +4,7 @@ seoTitle: "Meal Prep Sunday: Eat Healthy All Week in 2 Hours"
 description: "Meal prepping saves time, money and willpower. The simple Sunday system — two hours of prep that makes healthy eating effortless all week."
 titleFr: "Meal Prep dimanche : comment manger sain toute la semaine en 2 heures"
 seoTitleFr: "Meal prep du dimanche : manger sain 2 h par semaine"
-descriptionFr: "Le meal prep te fait gagner du temps, de l'argent et de la volonté. Découvre le système simple qui rend l'alimentation saine effortless."
+descriptionFr: "Le meal prep te fait gagner du temps, de l'argent et de la volonté. Découvre le système simple qui rend l'alimentation saine sans effort."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
@@ -31,6 +31,13 @@ faq:
     a: "Choose foods that taste equal or better on day 2-3: roasted chicken, rice/quinoa, sweet potatoes, hard-boiled eggs, lentil soups, stir-fries. Avoid: lettuce (wilts), fried foods (soggy), mayo-based salads. Dress just before eating. Glass containers keep food fresher than plastic."
   - q: "Does meal prep help with weight loss?"
     a: "You will see 'meal preppers eat 25% more vegetables' type figures online, but they trace to conference abstracts and press releases rather than solid trials. What the research on meal planning and home-food environments does support is the direction: people who plan and prepare ahead tend to eat better and waste less food. The mechanism is mundane and reliable — when a healthy option is already in the fridge, the decision is made before you are tired at 7pm, so you eat what you prepared instead of ordering takeout."
+faqFr:
+  - q: "Comment préparer mes repas de la semaine en 2 heures ?"
+    a: "Flux de travail du dimanche : 1) préchauffez le four et assaisonnez les protéines (30 min) ; 2) pendant la cuisson, lavez et coupez les légumes (20 min) ; 3) lancez les céréales dans une casserole (20 min passifs) ; 4) assemblez 5 boîtes : protéine + céréale + légumes + sauce (20 min). Vous tenez les déjeuners du lundi au vendredi et il ne reste que 10 minutes pour les dîners."
+  - q: "Quels aliments conviennent le mieux au meal prep ?"
+    a: "Choisissez ce qui est aussi bon, voire meilleur, aux jours 2 et 3 : poulet rôti, riz ou quinoa, patates douces, œufs durs, soupes de lentilles, wok de légumes. Évitez : la laitue (flétrit), les fritures (ramollissent), les salades à la mayonnaise. Assaisonnez juste avant de manger. Le verre garde les aliments plus frais que le plastique."
+  - q: "Le meal prep aide-t-il à perdre du poids ?"
+    a: "Vous trouverez en ligne des chiffres du type « les gens qui préparent leurs repas mangent 25 % plus de légumes », mais ils remontent à des résumés de congrès et à des communiqués de presse plutôt qu'à des essais solides. Ce que la recherche sur la planification des repas et l'alimentation à domicile soutient, en revanche, c'est la direction : les gens qui planifient et préparent à l'avance ont tendance à mieux manger et à gaspiller moins. Le mécanisme est prosaïque et fiable — quand une option saine est déjà dans le frigo, la décision est prise avant la fatigue de 19 h, et vous mangez ce que vous avez préparé au lieu de commander."
 
 relatedArticles:
   - "jeune-intermittent"

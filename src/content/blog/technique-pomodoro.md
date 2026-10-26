@@ -31,6 +31,13 @@ faq:
     a: "Most knowledge workers sustain 8-12 Pomodoros (3-5 hours of deep work). Beginners start with 4-6. Quality matters over quantity — four focused Pomodoros beat eight distracted ones. Track your energy: schedule hardest tasks during peak focus windows."
   - q: "Why does the Pomodoro Technique work?"
     a: "Three psychological mechanisms: 1) Time-boxing reduces procrastination ('only 25 minutes'). 2) Forced breaks reset attention and prevent diminishing returns. 3) Tallying completed Pomodoros gives tangible progress, triggering dopamine and sustaining motivation throughout the day."
+faqFr:
+  - q: "Qu'est-ce que la technique Pomodoro ?"
+    a: "Une méthode de gestion du temps créée par Francesco Cirillo dans les années 1980 : travailler en concentration totale pendant 25 minutes (un « Pomodoro »), prendre 5 minutes de pause, recommencer. Après 4 Pomodoros, une pause plus longue de 15 à 30 minutes. Le minuteur crée l'urgence ; les pauses préviennent l'épuisement."
+  - q: "Combien de Pomodoros par jour ?"
+    a: "La plupart des travailleurs du savoir tiennent 8 à 12 Pomodoros (3 à 5 heures de travail profond). Les débutants commencent à 4-6. La qualité prime sur la quantité — quatre Pomodoros concentrés valent mieux que huit distraits. Suivez votre énergie : placez les tâches les plus dures dans vos créneaux de concentration maximale."
+  - q: "Pourquoi la technique Pomodoro fonctionne-t-elle ?"
+    a: "Trois mécanismes psychologiques : 1) l'encadrement temporel réduit la procrastination (« seulement 25 minutes ») ; 2) les pauses forcées réinitialisent l'attention et empêchent les rendements décroissants ; 3) compter les Pomodoros accomplis donne un progrès tangible, déclenche la dopamine et soutient la motivation toute la journée."
 
 relatedArticles:
   - "productivite-efficace"

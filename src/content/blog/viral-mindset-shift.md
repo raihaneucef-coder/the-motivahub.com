@@ -30,6 +30,13 @@ faq:
     a: "1) Decide who you want to be (one sentence). 2) Prove it with small wins daily — each action is a vote for that identity. 3) Never negotiate with the old self; ask 'what would [new identity] do?' 4) Change your environment to reinforce the new label. Identity follows evidence, not affirmations."
   - q: "Why is identity-based motivation stronger than goal-based motivation?"
     a: "Goals have finish lines — once achieved, motivation collapses. Identity is continuous: 'I am a writer' doesn't end after one book. Research on possible selves (Markus & Nurius) shows people act consistently with their self-concept, making identity the most durable behavior driver."
+faqFr:
+  - q: "Que signifie « on retombe sur son identité » ?"
+    a: "Popularisé par James Clear : « Vous ne vous élevez pas au niveau de vos objectifs. Vous retombez au niveau de vos systèmes. » Plus précisément, le comportement suit l'identité. Si vous vous voyez comme « un coureur », vous courez sans débattre. Si vous vous voyez comme « quelqu'un qui essaie de faire du sport », vous abandonnez quand la motivation retombe."
+  - q: "Comment faire basculer son identité pour un changement durable ?"
+    a: "1) Décidez qui vous voulez être (une phrase). 2) Prouvez-le par de petites victoires quotidiennes — chaque action est un vote pour cette identité. 3) Ne négociez jamais avec l'ancien vous ; demandez « qu'aurait fait [nouvelle identité] ? ». 4) Changez votre environnement pour renforcer la nouvelle étiquette. L'identité suit les preuves, pas les affirmations."
+  - q: "Pourquoi la motivation identitaire est-elle plus forte que la motivation d'objectif ?"
+    a: "Les objectifs ont une ligne d'arrivée — une fois atteints, la motivation s'effondre. L'identité est continue : « je suis écrivain » ne s'arrête pas après un livre. La recherche sur les « possibles selves » (Markus et Nurius) montre que les gens agissent de façon cohérente avec leur concept de soi, ce qui fait de l'identité le moteur comportemental le plus durable."
 
 relatedArticles:
   - "identity-precedes-outcome"

@@ -30,6 +30,13 @@ faq:
     a: "Use 'soft start-up': complain WITHOUT blame. Instead of 'You never listen' say 'I felt unheard when...' Also: take a 20-min break if heart rate exceeds 100bpm (physiologically flooded = can't think clearly). Return to the conversation, don't avoid it permanently."
   - q: "What's the difference between healthy and destructive conflict?"
     a: "Healthy conflict: specific issue, both voices heard, repair attempts accepted, outcome is closer understanding. Destructive: character attacks, stonewalling, score-keeping, outcome is resentment. The goal isn't to eliminate conflict — even very happy couples disagree; what predicts a stable relationship is HOW you handle your differences, not WHETHER you argue or how often."
+faqFr:
+  - q: "Que sont les « quatre cavaliers » du conflit en couple ?"
+    a: "La recherche de Gottman a identifié 4 prédicteurs de divorce : 1) la critique (attaquer le caractère et non le comportement) ; 2) le mépris (moquerie, roulement d'yeux) ; 3) la défense (refuser sa part de responsabilité) ; 4) le mur de silence (se couper). Le mépris est le premier prédicteur. Les couples stables gardent environ 5 interactions positives pour 1 négative pendant le conflit — et plutôt 20 pour 1 dans la vie ordinaire, en dehors des disputes."
+  - q: "Comment se disputer équitablement quand je suis en colère ?"
+    a: "Utilisez le « démarrage doux » : exprimer le grief sans blâmer. Au lieu de « tu n'écoutes jamais », dites « je me suis senti(e) non entendu(e) quand... ». Et aussi : prenez 20 minutes de pause si la fréquence cardiaque dépasse 100 battements par minute (inondation physiologique = impossible de penser clairement). Revenez à la conversation, ne l'évitez pas définitivement."
+  - q: "Quelle différence entre conflit sain et conflit destructeur ?"
+    a: "Conflit sain : un sujet précis, les deux voix entendues, les tentatives de réparation acceptées, et un résultat en compréhension. Destructeur : attaques de caractère, mur de silence, comptabilité des griefs, et un résultat en rancœur. Le but n'est pas d'éliminer le conflit — même les couples très heureux ne sont pas d'accord ; ce qui prédit la stabilité, c'est COMMENT vous gérez vos différences, pas si vous vous disputez ni à quelle fréquence."
 
 relatedArticles:
   - "how-to-argue-without-breaking"

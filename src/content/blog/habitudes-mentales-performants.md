@@ -30,6 +30,13 @@ faq:
     a: "They work in 90-minute ultradian cycles with 15-minute true breaks (walk, breathe — not scrolling). They protect sleep above all, schedule hardest work at peak cortisol (first 3 hours after waking), and do NOT make important decisions when depleted. Energy management > time management."
   - q: "Can I develop these mental habits at any age?"
     a: "Yes. Neuroplasticity research confirms the brain forms new patterns throughout life. The key is deliberate repetition under emotional load: doing the habit when you don't feel like it creates stronger neural tracks than when motivated. Expect 60-90 days for each habit to feel automatic."
+faqFr:
+  - q: "Quelles habitudes mentales partagent les performeurs de haut niveau ?"
+    a: "Cinq habitudes étayées par la recherche : 1) la visualisation (répéter mentalement le processus, pas seulement le résultat) ; 2) la reformulation du dialogue interne (« j'ai la chance de » plutôt que « je dois ») ; 3) de vraies récupérations programmées ; 4) des routines de pré-performance ; 5) la revue post-effort (ce qui a fonctionné, ce qu'il faut ajuster). C'est ce qui sépare les gagnants réguliers des exploits isolés."
+  - q: "Comment les personnes qui réussissent gèrent-elles leur énergie ?"
+    a: "Elles travaillent en cycles ultradiens de 90 minutes avec de vraies pauses de 15 minutes (marcher, respirer — pas scroller). Elles protègent le sommeil avant tout, placent le travail le plus dur au moment du pic de cortisol (les 3 premières heures après le réveil) et ne prennent PAS de décisions importantes quand elles sont épuisées. Gérer l'énergie passe avant gérer le temps."
+  - q: "Peut-on développer ces habitudes mentales à tout âge ?"
+    a: "Oui. La recherche sur la neuroplasticité confirme que le cerveau forme de nouveaux schémas tout au long de la vie. La clé : la répétition délibérée sous charge émotionnelle — faire l'habitude quand on n'en a pas envie grave des pistes neuronales plus fortes que quand on est motivé. Comptez 60 à 90 jours pour qu'une habitude paraisse automatique."
 bookSlug: atomic-habits
 
 relatedArticles:

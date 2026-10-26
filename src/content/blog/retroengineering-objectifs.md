@@ -29,7 +29,14 @@ faq:
   - q: "How do you reverse engineer a goal step by step?"
     a: "1) Write the specific end result with a deadline. 2) Identify the last milestone before the finish. 3) Ask 'what must be done just before that?' repeatedly until you reach this week. 4) Schedule those actions in your calendar as non-negotiable tasks."
   - q: "Why is reverse planning more effective than forward planning?"
-    a: "Forward planning lets you add tasks that don't serve the goal. Reverse planning forces every action to justify its place because each step is derived from the endpoint. Studies on implementation intentions show specific backward plans double follow-through versus vague goal-setting."
+    a: "Forward planning lets you add tasks that don't serve the goal. Reverse planning forces every action to justify its place because each step is derived from the endpoint. Research on implementation intentions shows that specific plans improve follow-through compared with vague goal-setting — though not by a fixed multiple."
+faqFr:
+  - q: "Qu'est-ce que rétro-ingéniérer un objectif ?"
+    a: "C'est partir du résultat final désiré et remonter jusqu'à aujourd'hui. Vous définissez le résultat, vous le découpez en jalons trimestriels, puis en cibles mensuelles, puis en actions hebdomadaires — si bien que chaque tâche quotidienne a une ligne directe vers l'objectif."
+  - q: "Comment rétro-ingéniérer un objectif étape par étape ?"
+    a: "1) Écrivez le résultat final précis avec une échéance. 2) Identifiez le dernier jalon avant l'arrivée. 3) Demandez « qu'est-ce qui doit être fait juste avant ? » encore et encore jusqu'à arriver à cette semaine. 4) Mettez ces actions à l'agenda comme tâches non négociables."
+  - q: "Pourquoi la planification à rebours est-elle plus efficace ?"
+    a: "Planifier en avant permet d'ajouter des tâches qui ne servent pas l'objectif. Planifier à rebours force chaque action à justifier sa place, parce que chaque étape est dérivée du point d'arrivée. Les travaux sur les intentions de mise en œuvre montrent que des plans rétrogrades précis améliorent nettement l'exécution par rapport à un objectif vague — sans multiple garanti."
 
 relatedArticles:
   - "goals-are-a-compass-not-a-cage"
@@ -96,6 +103,6 @@ When you know exactly what you need to do each day, you cannot hide from the wor
 4. Identify the daily action required
 5. Execute the daily action without fail</div>
 
-<div data-i18n-html="article_retroengineering-objectifs_p22"><blockquote><em>The goal is not to see the entire staircase. Just take the first step. — Martin Luther King Jr.</em></blockquote></div>
+<div data-i18n-html="article_retroengineering-objectifs_p22"><blockquote><em>The goal is not to see the entire staircase. Just take the first step. — often attributed to Martin Luther King Jr.</em></blockquote></div>
 
 <div data-i18n-html="article_retroengineering-objectifs_p24"><strong>Reverse engineer your goal today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you daily steps to practice. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

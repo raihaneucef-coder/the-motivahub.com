@@ -32,6 +32,13 @@ faq:
     a: "Sedentary adults: 0.8g per kg bodyweight minimum. Active adults: 1.2-1.6g/kg. If you weigh 70kg, that's 56-112g daily. Distribute across meals (25-35g per serving) — the body can't store protein like fat, so every meal needs a source."
   - q: "What are the cheapest high-protein foods?"
     a: "1) Eggs (6g each, ~0.20€/unit). 2) Lentils (18g per cooked cup, cheapest per gram). 3) Canned sardines (25g/tin + omega-3s). 4) Greek yogurt (15g/100g). 5) Chicken thighs (26g/100g, cheaper than breast). 6) Cottage cheese. 7) Peanut butter (8g per tbsp)."
+faqFr:
+  - q: "Pourquoi les protéines comptent-elles si vous n'êtes pas athlète ?"
+    a: "La protéine est le matériau de construction de chaque cellule : anticorps, paroi intestinale, neurotransmetteurs, cheveux, peau. Après 30 ans, on perd 3 à 8 % de muscle par décennie (sarcopénie) si l'apport protéique est insuffisant. Les non-athlètes ont besoin de 1,0 à 1,2 g/kg (contre 0,8 g/kg en apport conseillé minimal) pour préserver la force fonctionnelle et la santé métabolique."
+  - q: "De combien de protéines par jour ai-je besoin ?"
+    a: "Adulte sédentaire : 0,8 g par kg de poids corporel au minimum. Adulte actif : 1,2 à 1,6 g/kg. À 70 kg, cela fait 56 à 112 g par jour. Répartissez sur les repas (25 à 35 g par prise) — le corps ne peut pas stocker les protéines comme le gras, donc chaque repas a besoin d'une source."
+  - q: "Quels sont les aliments riches en protéines les moins chers ?"
+    a: "1) Les œufs (6 g pièce, environ 0,20 € l'unité). 2) Les lentilles (18 g par tasse cuite, le meilleur rapport gramme/euro). 3) Les sardines en boîte (25 g par boîte + oméga-3). 4) Le yaourt grec (15 g/100 g). 5) Les cuisses de poulet (26 g/100 g, moins cher que le blanc). 6) Le fromage cottage. 7) Le beurre de cacahuète (8 g par cuillère)."
 
 relatedArticles:
   - "hydratation-performance"

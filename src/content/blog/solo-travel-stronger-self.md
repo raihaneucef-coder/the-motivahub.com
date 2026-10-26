@@ -32,6 +32,13 @@ faq:
     a: "Start with a 1-day solo trip in your own city (cafe, museum, park walk). Then weekend, then 1 week nearby. Each step proves you can handle decisions, loneliness, and unexpected situations. Most solo travelers report the fear was worse than the reality: the first 2 hours are hardest, then freedom kicks in."
   - q: "Does solo travel actually make you stronger?"
     a: "A 2018 Cornell study found solo travelers reported higher self-direction and personal growth than group travelers. The mechanism: without familiar social roles, you experiment with new identities, solve problems independently, and build the evidence-based confidence that I figured it out alone."
+faqFr:
+  - q: "Qu'est-ce que le voyage en solo apprend que le voyage en groupe n'apprend pas ?"
+    a: "Une autonomie complète. Seul, vous prenez chaque décision, naviguez chaque problème et restez avec chaque inconfort, en construisant ce que les psychologues appellent l'efficacité personnelle. Vous découvrez que vous pouvez gérer l'inconnu sans filet, ce qui se transfère directement au travail et aux relations."
+  - q: "Comment surmonter la peur de voyager seul ?"
+    a: "Commencez par une journée en solo dans votre propre ville (café, musée, marche au parc). Puis un week-end, puis une semaine à proximité. Chaque étape prouve que vous savez gérer les décisions, la solitude et les imprévus. La plupart des voyageurs solos rapportent que la peur était pire que la réalité : les deux premières heures sont les plus dures, puis la liberté s'installe."
+  - q: "Le voyage en solo rend-il vraiment plus fort ?"
+    a: "Une étude de Cornell (2018) a trouvé que les voyageurs solos déclaraient plus d'auto-direction et de croissance personnelle que les voyageurs en groupe. Le mécanisme : sans rôles sociaux familiers, vous expérimentez de nouvelles identités, vous résolvez seul, et vous construisez une confiance fondée sur des preuves — « j'ai géré ça seul »."
 
 relatedArticles:
   - "beginner-again"

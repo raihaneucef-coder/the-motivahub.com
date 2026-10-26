@@ -28,6 +28,13 @@ faq:
     a: "Two steps (James Clear): 1) Decide who you want to be — one sentence. 2) Prove it with small wins — every action is a vote for that identity. One page written is a vote for 'I'm a writer.' Track votes, not results. After enough evidence accumulates, the new identity feels true and behavior becomes automatic."
   - q: "Why don't goals work but identity does?"
     a: "Goals create a binary: success or failure. You either hit it or you didn't. Identity creates a spectrum: you're always 'becoming.' On a bad day, the goal-person quits because they 'failed.' The identity-person shows up because one bad day doesn't erase who they are. Direction survives what resolution cannot."
+faqFr:
+  - q: "Que signifie « l'identité précède le résultat » ?"
+    a: "Vos résultats ressemblent d'abord à ce que vous croyez être, avant de ressembler à ce que vous voulez. Une personne qui s'identifie comme « écrivain » écrit chaque jour sans négocier. Quelqu'un qui veut « devenir écrivain » attend l'inspiration. Changez d'abord l'identité, et les résultats suivent naturellement parce que le comportement s'aligne sur le concept de soi."
+  - q: "Comment changer d'identité ?"
+    a: "Deux étapes (James Clear) : 1) décidez qui vous voulez être — une phrase ; 2) prouvez-le par de petites victoires — chaque action est un vote pour cette identité. Une page écrite est un vote pour « je suis écrivain ». Comptez les votes, pas les résultats. Quand assez de preuves s'accumulent, la nouvelle identité semble vraie et le comportement devient automatique."
+  - q: "Pourquoi les objectifs échouent-ils là où l'identité réussit ?"
+    a: "Un objectif crée un binaire : réussite ou échec, on l'atteint ou on ne l'atteint pas. Une identité crée un spectre : vous êtes toujours « en train de devenir ». Les mauvais jours, la personne à objectif abandonne parce qu'elle a « échoué » ; la personne à identité se présente parce qu'une mauvaise journée n'efface pas qui elle est. La direction survit à ce que la résolution ne peut pas supporter."
 
 relatedArticles:
   - "puissance-dialogue-interieur"

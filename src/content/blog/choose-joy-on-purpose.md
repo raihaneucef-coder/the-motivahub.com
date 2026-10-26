@@ -22,7 +22,7 @@ keywords:
   - "delight as a discipline"
 tags:
   - "entertainment"
-wordCount: 334
+wordCount: 352
 faq:
   - q: "Can you really choose to be happy?"
     a: "Not as a forced emotion — but you can choose the conditions that produce it. Research on 'behavioral activation' shows scheduling pleasant activities (walks, music, friends) increases happiness as effectively as medication for mild depression. You can't summon joy, but you can build the path it walks in on."
@@ -30,6 +30,13 @@ faq:
     a: "Because unscheduled leisure always loses to urgency. If joy isn't on the calendar, it gets deprioritized until you 'earn' it — which never comes. Scheduling delight makes it non-negotiable, just like a meeting. The anticipation itself boosts baseline happiness (Harvard, Gilbert)."
   - q: "What's the difference between pleasure and joy?"
     a: "Pleasure is consumption (food, scrolling, shopping) — short spike, quick adaptation. Joy is connection and meaning (laughing with friends, finishing something hard, nature). Joy requires presence; pleasure often avoids it. Schedule both, but prioritize what leaves you full vs what leaves you wanting more."
+faqFr:
+  - q: "Peut-on vraiment choisir d'être heureux ?"
+    a: "Pas comme une émotion forcée — mais vous pouvez choisir les conditions qui la produisent. La recherche sur l'« activation comportementale » montre que programmer des activités plaisantes (marches, musique, amis) augmente le bonheur aussi efficacement qu'un traitement contre la dépression légère. Vous ne pouvez pas convoquer la joie, mais vous pouvez construire le chemin par lequel elle arrive."
+  - q: "Pourquoi devrais-je programmer le plaisir comme le travail ?"
+    a: "Parce que le loisir non planifié perd toujours contre l'urgence. Si la joie n'est pas dans l'agenda, elle est renvoyée au moment où vous l'aurez « méritée » — un moment qui ne vient jamais. Programmer du plaisir le rend non négociable, comme une réunion. L'attente elle-même élève votre niveau de bonheur de fond (Harvard, Gilbert)."
+  - q: "Quelle est la différence entre plaisir et joie ?"
+    a: "Le plaisir est consommation (nourriture, scroll, achats) — un pic bref, une adaptation rapide. La joie est connexion et sens (rire avec des amis, terminer une chose difficile, la nature). La joie exige la présence ; le plaisir souvent l'évite. Programmez les deux, mais priorisez ce qui vous rassasie plutôt que ce qui vous laisse sur votre faim."
 
 relatedArticles:
   - "play-is-practice-for-life"
@@ -57,7 +64,7 @@ relatedArticles:
 
 <div data-i18n-html="article_choose-joy-on-purpose_p12">Putting delight on the calendar is not indulgence; it is maintenance. Psychologists who study leisure find that unstructured rest does not reliably restore people — the recovery comes from activities with mild challenge and your full attention, the opposite of doomscrolling. A chosen hour of joy works precisely because you chose it, protected it, and were present for it.</div>
 
-<div data-i18n-html="article_choose-joy-on-purpose_p9">You do not need a perfect life to feel joy. You need to choose it, on purpose, before the week fills up without it.</div>
+<div data-i18n-html="article_choose-joy-on-purpose_p9">That is the narrow claim of this page: small choices, made before the week fills up without them. The wider argument — why play deserves a place in a serious life at all — belongs to another article: <a href="/journal/play-is-practice-for-life/">play as practice</a>.</div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p11">Build the inventory before you need it: ten five-minute joys you have personally verified — the song, the corner bakery, the first cold drink after a walk, the old sitcom rewatched, the sunset from a specific street. Put them where a bad day will find them: notes app, one line each. The rule: choose one deliberately before noon, without earning it, without optimizing it. Joy practiced on schedule is the one that shows up unscheduled when you need it.</div>
 

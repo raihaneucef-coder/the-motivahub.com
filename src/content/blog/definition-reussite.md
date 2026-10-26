@@ -27,9 +27,16 @@ faq:
   - q: "How do you define success for yourself?"
     a: "Ask three questions: 1) What would I do even if no one paid or praised me? 2) Who do I admire and WHY specifically? 3) On my deathbed, what would make me say 'that was a good life'? Your answers reveal your personal success metric — which rarely matches society's template of money + status."
   - q: "Why is copying other people's definition of success a trap?"
-    a: "Because you inherit their values without their context. A 25-year-old chasing a million-dollar goal set by a 50-year-old podcast guest is running a borrowed race. Hedonic adaptation means their reward won't satisfy YOUR needs. Research shows goal alignment with personal values predicts wellbeing 3× better than goal achievement alone."
+    a: "Because you inherit their values without their context. A 25-year-old chasing a million-dollar goal set by a 50-year-old podcast guest is running a borrowed race. Hedonic adaptation means their reward won't satisfy YOUR needs. Research shows goal alignment with personal values predicts wellbeing better than goal achievement alone."
   - q: "Can success mean something different at different life stages?"
     a: "Absolutely — and that's healthy. Success at 20 might be learning and adventure. At 30, building. At 40, depth and meaning. The danger is locking your definition at one stage and judging yourself by outdated metrics. Revisit your personal definition annually — your values evolve and that's not failure, it's growth."
+faqFr:
+  - q: "Comment définir la réussite pour soi-même ?"
+    a: "Posez trois questions : 1) Que ferais-je même si personne ne me payait ni ne me félicitait ? 2) Qui est-ce que j'admire, et pourquoi précisément ? 3) Sur mon lit de mort, qu'est-ce qui me ferait dire « ça, c'était une bonne vie » ? Vos réponses révèlent votre mesure personnelle de la réussite — qui correspond rarement au modèle ambiant, argent plus statut."
+  - q: "Pourquoi copier la définition de réussite des autres est un piège ?"
+    a: "Parce qu'on hérite de leurs valeurs sans hériter de leur contexte. Un jeune de 25 ans qui court après le million fixé par un invité de podcast de 50 ans court une course empruntée. L'adaptation hédonique veut que leur récompense ne comblera pas, lui, vos besoins. La recherche montre que l'alignement des objectifs sur ses valeurs personnelles prédit le bien-être mieux que la seule atteinte des objectifs."
+  - q: "La réussite peut-elle vouloir dire autre chose selon les étapes de la vie ?"
+    a: "Absolument — et c'est sain. À 20 ans, la réussite peut être apprendre et découvrir. À 30, construire. À 40, la profondeur et le sens. Le danger est de figer sa définition à une seule étape et de se juger sur des critères périmés. Revisitez votre définition chaque année : vos valeurs évoluent, et ce n'est pas un échec, c'est de la croissance."
 
 relatedArticles:
   - "discipline-depass-motivation"

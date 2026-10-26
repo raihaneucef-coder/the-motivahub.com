@@ -31,6 +31,13 @@ faq:
     a: "As little as 25-50€ per month thanks to fractional shares and ETFs. The amount matters less than the habit. Investing 50€/month for 30 years at 8% annual return yields ~74,000€. The real enemy is waiting until you 'have enough.'"
   - q: "What should a beginner invest in first?"
     a: "A low-cost, broad-market index fund (0.1-0.2% fees). Historically, global diversified index funds return 7-10% annually over 10+ year periods. This single vehicle gives ownership in 1,500+ companies without requiring stock-picking skill."
+faqFr:
+  - q: "Comment un débutant commence-t-il à investir ?"
+    a: "Ouvrez un compte-titres ou un compte fiscal avantageux (ISA, 401k, PEA), mettez en place un virement mensuel automatique (même 50 €) et achetez un fonds indiciel large (S&P 500 ou MSCI World). Évitez de choisir des actions individuelles tant que vous n'avez pas au moins 6 mois de versements réguliers."
+  - q: "De combien d'argent a-t-on besoin pour commencer ?"
+    a: "Aussi peu que 25 à 50 € par mois grâce aux actions fractionnées et aux ETF. Le montant compte moins que l'habitude. 50 € par mois pendant 30 ans à 8 % de rendement annuel donnent environ 74 000 €. Le vrai ennemi, c'est d'attendre d'« avoir assez »."
+  - q: "Dans quoi un débutant doit-il investir en premier ?"
+    a: "Un fonds indiciel large à faible coût (frais de 0,1 à 0,2 %). Historiquement, les fonds indiciels mondiaux diversifiés rendent 7 à 10 % par an sur des périodes de plus de 10 ans. Ce seul véhicule donne une participation dans plus de 1 500 entreprises sans exiger de talent de sélection d'actions."
 
 relatedArticles:
   - "earn-keep-grow"

@@ -31,7 +31,14 @@ faq:
   - q: "How do I stay consistent when nobody's watching?"
     a: "Shift your audience from external (followers, peers) to internal (your own standard). Track silently: a private calendar, a photo of day 1 vs day 60. You don't need validation — you need evidence. The moment you stop performing for an audience is the moment the work becomes real."
   - q: "When should you share your results instead of staying quiet?"
-    a: "After the work is done. Peter Thiel's 'secret' principle: work in stealth until you have something undeniable, then reveal all at once. Timing your announcement to a completed milestone (not a planned intention) converts noise into proof and gets 10x more respect."
+    a: "After the work is done. The practical rule: work quietly until you have something undeniable, then reveal it at once. Timing your announcement to a completed milestone (not a planned intention) converts noise into proof and earns far more respect."
+faqFr:
+  - q: "Pourquoi « la preuve plutôt que le bruit » vaut mieux que l'auto-promotion ?"
+    a: "Parce que le bruit exige d'être nourri en permanence tandis que la preuve se compose en silence. Celui qui poste « je me lève à 5 h » récolte des likes ; celui qui se lève à 5 h pendant trois ans récolte une entreprise. La preuve crée des résultats réels ; le bruit crée une apparence de progrès sans la substance."
+  - q: "Comment rester régulier quand personne ne regarde ?"
+    a: "Déplacez votre public : de l'externe (abonnés, pairs) vers l'interne (votre propre standard). Suivez en silence : un calendrier privé, une photo du jour 1 contre le jour 60. Vous n'avez pas besoin de validation — vous avez besoin de preuves. Le moment où vous cessez de jouer pour un public est le moment où le travail devient réel."
+  - q: "Quand faut-il partager ses résultats plutôt que de se taire ?"
+    a: "Une fois le travail terminé. La règle pratique : travaillez discrètement jusqu'à avoir quelque chose d'incontestable, puis révélez-le d'un coup. Caler l'annonce sur une étape achevée (et non une intention annoncée) convertit le bruit en preuve et inspire bien plus de crédibilité."
 
 relatedArticles:
   - "histoire-concierge-millionnaire"

@@ -3,7 +3,7 @@ title: "SMART Goals: The Framework That Actually Works"
 description: "Stop setting vague goals. The SMART framework — Specific, Measurable, Achievable, Relevant, Time-bound — turns wishes into results."
 titleFr: "SMART Goals : Comment Fixer des Objectifs Atteignables"
 seoTitleFr: "Objectifs SMART : les fixer pour les atteindre"
-descriptionFr: "Les objectifs SMART sont spécifiques, mesurables, atteignables, réalistes et temporels. Apprenez à les fixer pour réussir."
+descriptionFr: "Les objectifs SMART sont spécifiques, mesurables, atteignables, pertinents et temporels. Apprenez à les fixer pour réussir."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
@@ -26,9 +26,16 @@ faq:
   - q: "What does SMART stand for in goal setting?"
     a: "S-pecific (exactly what), M-easurable (how will you know), A-chievable (realistic stretch), R-elevant (matters to your values), T-ime-bound (has a deadline). Example: 'Run a 10K race by December 1st, training 3x/week, to prove to myself I can finish what I start.'"
   - q: "Do SMART goals actually work or are they just corporate buzzwords?"
-    a: "Locke & Latham's Goal Setting Theory (35 years of research) confirms: specific + challenging goals outperform 'do your best' by 11-25%. SMART operationalizes this. Weakness: it doesn't address WHY (motivation) or systems (process). Best used paired with daily action plans, not as standalone wishlists."
+    a: "Locke & Latham's Goal Setting Theory (35 years of research) confirms: specific + challenging goals reliably outperform 'do your best' instructions across their studies. SMART operationalizes this. Weakness: it doesn't address WHY (motivation) or systems (process). Best used paired with daily action plans, not as standalone wishlists."
   - q: "What's better than SMART goals?"
     a: "Process goals + identity shifts. Instead of 'lose 10kg in 3 months' (outcome), try 'I am someone who moves daily' (identity) + 'walk 30 min after lunch' (process). Systems beat goals because they don't create a 'failure state' on day 75 if you've lost 9.5kg instead of 10."
+faqFr:
+  - q: "Que signifie SMART dans la fixation d'objectifs ?"
+    a: "S-pecifique (quoi exactement), M-esurable (comment le saurez-vous), A-tteignable (un réalisme tendu), R-elevant (important pour vos valeurs), T-emporel (avec une échéance). Exemple : « courir un 10 km avant le 1er décembre, en m'entraînant 3 fois par semaine, pour me prouver que je peux finir ce que je commence »."
+  - q: "Les objectifs SMART fonctionnent-ils ou ne sont-ils que des mots d'entreprise ?"
+    a: "La théorie de la fixation d'objectifs de Locke et Latham (35 ans de recherche) confirme que des objectifs spécifiques et exigeants surpassent régulièrement les consignes « fais de ton mieux » dans leurs études. SMART operacionalise cela. Sa faiblesse : il ne traite ni du POURQUOI (motivation) ni des systèmes (processus). À utiliser en couple avec des plans d'action quotidiens, pas comme des listes de souhaits autonomes."
+  - q: "Que faire de mieux que des objectifs SMART ?"
+    a: "Des objectifs de processus et des bascules d'identité. Au lieu de « perdre 10 kg en 3 mois » (résultat), essayez « je suis quelqu'un qui bouge chaque jour » (identité) + « marcher 30 minutes après le déjeuner » (processus). Les systèmes battent les objectifs parce qu'ils ne créent pas d'« état d'échec » au jour 75 si vous avez perdu 9,5 kg au lieu de 10."
 
 relatedArticles:
   - "process-vs-outcome"

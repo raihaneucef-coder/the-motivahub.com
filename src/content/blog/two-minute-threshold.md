@@ -28,6 +28,13 @@ faq:
     a: "Because of activation energy: the brain perceives the entire task when you think about starting (I have to work out an hour!), triggering avoidance. Shrinking the commitment to 2 minutes tricks the threat assessment. Once started, the Zeigarnik effect (open loops demand closure) makes continuing easier than quitting."
   - q: "How do I use the threshold when I have zero motivation?"
     a: "Define your doorway moment: the action that crosses you from not doing into doing. Open the document. Put on gym shoes. Step outside. The commitment is ONLY to that doorway action, not the activity beyond it. 90 percent of days, crossing the threshold is all you need to actually work out." 
+faqFr:
+  - q: "Qu'est-ce que la règle des deux minutes dans la formation des habitudes ?"
+    a: "Chez David Allen et James Clear : quand vous démarrez une nouvelle habitude, réduisez la première action à 2 minutes ou moins. « Lire avant de dormir » devient « lire une page ». Le but n'est pas de lire une page ; c'est de maîtriser le fait de se présenter. On ne peut pas améliorer une habitude qui n'existe pas."
+  - q: "Pourquoi les deux premières minutes sont-elles si dures ?"
+    a: "À cause de l'énergie d'activation : quand vous pensez à commencer, le cerveau perçoit la tâche entière (« je dois faire une heure de sport ! »), ce qui déclenche l'évitement. Réduire l'engagement à 2 minutes contourne l'évaluation de menace. Une fois lancé, l'effet Zeigarnik (les boucles ouvertes demandent une clôture) rend la continuation plus facile que l'abandon."
+  - q: "Comment utiliser le seuil quand je n'ai aucune motivation ?"
+    a: "Définissez votre moment de seuil : l'action qui vous fait passer du non-faire au faire. Ouvrir le document. Enfiler ses chaussures de sport. Sortir. L'engagement porte UNIQUEMENT sur cette action de seuil, pas sur l'activité derrière. Dans 90 % des cas, franchir le seuil suffit pour réellement s'entraîner."
 bookSlug: atomic-habits
 
 relatedArticles:

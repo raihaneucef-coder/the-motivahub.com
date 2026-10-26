@@ -30,6 +30,13 @@ faq:
     a: "150-250ml every 15-20 minutes during sustained activity over 60 minutes. For shorter sessions, hydrate before and after. Don't wait until thirsty — thirst signals you're already 1-2% dehydrated. Weigh yourself pre/post session: replace 1.5× any lost weight in fluid."
   - q: "Do electrolytes matter for hydration?"
     a: "Yes, for sessions over 60-90 minutes or heavy sweating. Water alone dilutes blood sodium, risking hyponatremia. A pinch of salt + squeeze of lemon in your bottle, or a commercial electrolyte tab (300-500mg sodium), maintains fluid balance and prevents cramps in prolonged exercise."
+faqFr:
+  - q: "Comment la déshydratation affecte-t-elle la performance physique ?"
+    a: "Une perte de 2 % d'eau corporelle réduit l'endurance de 10 à 20 %, augmente l'effort perçu et diminue la production de force. À 4 %, les fonctions cognitives reculent — le temps de réaction ralentit et la prise de décision souffre. Les athlètes d'élite perdent environ 2 % de capacité de performance pour chaque 1 % de déshydratation."
+  - q: "Combien d'eau boire pendant l'exercice ?"
+    a: "150 à 250 ml toutes les 15 à 20 minutes pendant une activité continue de plus de 60 minutes. Pour des séances plus courtes, hydratez-vous avant et après. N'attendez pas la soif — la soif signale déjà 1 à 2 % de déshydratation. Pesez-vous avant et après la séance : compensez par 1,5 fois le poids perdu en liquide."
+  - q: "Les électrolytes comptent-ils pour s'hydrater ?"
+    a: "Oui, pour les séances de plus de 60 à 90 minutes ou une transpiration abondante. L'eau seule dilue le sodium du sang et fait courir un risque d'hyponatrémie. Une pincée de sel et un filet de citron dans la gourde, ou un comprimé électrolytique du commerce (300 à 500 mg de sodium), maintiennent l'équilibre hydrique et préviennent les crampes à l'effort long."
 
 relatedArticles:
   - "meal-prep-dimanche"

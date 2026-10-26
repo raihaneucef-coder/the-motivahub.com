@@ -28,6 +28,13 @@ faq:
     a: "Because you can have 8 open hours but only 3 hours of usable mental energy. Scheduling a complex task during a low-energy window guarantees poor output and frustration. Energy management multiplies the quality of every hour by matching task difficulty to alertness level."
   - q: "How do I find my peak energy hours?"
     a: "Track your energy (1-10 scale) every 2 hours for 5 days. Most people discover a pattern: peak (9am-12pm for early risers), dip (2-4pm post-lunch), second wind (5-7pm). Once identified, protect your peak for deep work ruthlessly — no meetings, no email, no scrolling."
+faqFr:
+  - q: "Qu'est-ce que la gestion de l'énergie ?"
+    a: "Prioriser le moment où vous travaillez plutôt que la durée de travail. Au lieu de tasser les tâches dans chaque heure libre, vous planifiez les tâches exigeantes pendant les créneaux d'énergie haute (en général 90 minutes après le réveil) et le travail de faible énergie (mails, administration) pendant les creux. Ce modèle vient du travail de Tony Schwartz sur l'énergie."
+  - q: "Pourquoi la gestion du temps ne suffit-elle pas ?"
+    a: "Parce que vous pouvez avoir 8 heures libres et seulement 3 heures d'énergie mentale utilisable. Planifier une tâche complexe dans un creux garantit un mauvais rendement et de la frustration. La gestion de l'énergie multiplie la qualité de chaque heure en accordant la difficulté de la tâche au niveau de vigilance."
+  - q: "Comment trouver mes heures d'énergie maximale ?"
+    a: "Notez votre énergie (échelle de 1 à 10) toutes les 2 heures pendant 5 jours. La plupart des gens découvrent un schéma : pic (9 h - 12 h pour les lève-tôt), creux (14 h - 16 h après le déjeuner), second souffle (17 h - 19 h). Une fois identifié, protégez votre pic pour le travail profond sans compromis — pas de réunion, pas de mail, pas de scroll."
 
 relatedArticles:
   - "pouvoir-elimination"

@@ -28,6 +28,13 @@ faq:
     a: "Entirely normal. Alertness runs on roughly 90-minute ultradian cycles across the day, and mood shifts with season and daylight — motivation has no clock of its own, but it rides on both. The motivation-is-a-wave metaphor: you do not yell at the ocean for receding; you paddle when the wave comes. Build a system for the flat water days and you are unstoppable."
   - q: "How do athletes train when they have no motivation?"
     a: "They do not decide whether to train. The schedule decides. Training at 6am Mon/Wed/Fri is non-negotiable regardless of feeling. This is the shift: motivation is a choice (unreliable), discipline is a schedule (automatic). The athlete who felt like it quits by week 3; the one who did not decide makes it 3 years." 
+faqFr:
+  - q: "Que faire quand la motivation disparaît complètement ?"
+    a: "Exécutez l'action minimale viable. Les jours de motivation zéro, votre seul travail est de vous présenter pendant 2 minutes : ouvrir l'ordinateur, enfiler ses chaussures, lire une page. Cela maintient l'identité et la série. Vous n'avez pas besoin d'en avoir envie. Le sentiment suit l'action, pas l'inverse."
+  - q: "Est-il normal que la motivation va et vient ?"
+    a: "Entièrement normal. La vigilance fonctionne en cycles ultradiens d'environ 90 minutes sur la journée, et l'humeur bouge avec la saison et la lumière — la motivation n'a pas sa propre horloge, mais elle monte sur les deux. La métaphore de la vague : vous ne criez pas sur l'océan qui se retire ; vous pagayez quand la vague arrive. Construisez un système pour les jours d'eau plate et rien ne vous arrête."
+  - q: "Comment les athlètes s'entraînent-ils sans motivation ?"
+    a: "Ils ne décident pas de s'entraîner ou non. C'est le programme qui décide. S'entraîner à 6 h les lundi, mercredi et vendredi est non négociable quel que soit le ressenti. Voici la bascule : la motivation est un choix (peu fiable), la discipline est un planning (automatique). L'athlète qui attend d'« avoir envie » abandonne à la troisième semaine ; celui qui ne décide plus tient trois ans."
 
 relatedArticles:
   - "pouvoir-du-non"

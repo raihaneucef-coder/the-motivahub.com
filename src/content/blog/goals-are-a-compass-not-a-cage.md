@@ -30,6 +30,13 @@ faq:
     a: "A goal has a fixed endpoint and deadline — miss it and you 'failed.' A direction (compass) indicates which way to walk today without demanding arrival by a specific date. Directions sustain motivation because progress counts even when perfection doesn't."
   - q: "How do you stay motivated without being rigid about goals?"
     a: "Ask one question nightly: 'Did I move north today, even slightly?' Celebrate the smallest directional action. Weekly, reassess whether the compass still points where you want to go. This keeps you accountable without all-or-nothing thinking."
+faqFr:
+  - q: "Pourquoi mes objectifs ressemblent-ils à une prison ?"
+    a: "Parce que vous les avez formulés comme des contrats (« je dois faire X sinon j'échoue »). Cela déclenche l'anxiété de l'aversion à la perte. Reformulez : un objectif est une boussole qui indique une direction. Vous avez le droit de faire des détours, de vous reposer et d'ajuster la route sans abandonner la destination."
+  - q: "Quelle différence entre un objectif et une direction ?"
+    a: "Un objectif a un point d'arrivée et une échéance fixes — le manquer devient un « échec ». Une direction (la boussole) indique dans quel sens marcher aujourd'hui sans exiger une arrivée à une date précise. Les directions entretiennent la motivation parce que le progrès compte même quand la perfection n'est pas là."
+  - q: "Comment rester motivé sans être rigide sur les objectifs ?"
+    a: "Posez-vous une question chaque soir : « ai-je avancé vers le nord aujourd'hui, même un peu ? » Célébrez la plus petite action directionnelle. Chaque semaine, vérifiez si la boussole pointe toujours là où vous voulez aller. Vous restez redevable sans tomber dans la pensée tout ou rien."
 
 relatedArticles:
   - "process-vs-outcome"

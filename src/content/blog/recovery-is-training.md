@@ -31,6 +31,13 @@ faq:
     a: "Elite endurance and strength athletes need 8-10 hours. Research (Stanford, 2011) showed basketball players sleeping 10 hours improved sprint times, reaction time, and shooting accuracy by 9%. Sleep deprivation increases injury risk 1.7x (Milewski, 2014)."
   - q: "What's the difference between passive and active recovery?"
     a: "Passive: complete rest (sleep, nap, do nothing). Active: low-intensity movement that increases blood flow without creating fatigue (walking, light cycling, swimming, yoga). Active recovery clears lactate 2x faster than sitting still but requires heart rate below 60% max."
+faqFr:
+  - q: "Pourquoi la récupération fait-elle partie de l'entraînement ?"
+    a: "L'exercice crée des micro-déchirures dans les fibres musculaires ; la récupération est le moment où elles se réparent PLUS FORTES. Sans repos suffisant (48 à 72 heures entre groupes musculaires), vous accumulez les dommages sans adaptation. La salle est le stimulus ; le sommeil et le repos sont là où la croissance a réellement lieu."
+  - q: "Combien d'heures de sommeil pour un athlète ?"
+    a: "Les athlètes d'élite en endurance ou en force ont besoin de 8 à 10 heures. Une étude (Stanford, 2011) a montré que des basketteurs dormant 10 heures amélioraient leurs temps de sprint, leur temps de réaction et leur précision au tir de 9 %. La privation de sommeil multiplie le risque de blessure par 1,7 (Milewski, 2014)."
+  - q: "Quelle différence entre récupération passive et active ?"
+    a: "Passive : repos complet (sommeil, sieste, ne rien faire). Active : mouvement de faible intensité qui augmente le flux sanguin sans créer de fatigue (marche, vélo léger, natation, yoga). La récupération active élimine le lactate deux fois plus vite que la position assise, à condition de rester sous 60 % de la fréquence cardiaque maximale."
 
 relatedArticles:
   - "consistance-bat-intensite"

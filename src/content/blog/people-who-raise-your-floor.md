@@ -30,6 +30,13 @@ faq:
     a: "Research supports it. The Framingham Heart Study showed obesity, smoking, and happiness spread through social networks up to 3 degrees. A 2008 study found your chance of becoming obese increases 57% if a close friend becomes obese. Behavioral norms spread through proximity, not willpower."
   - q: "How do I upgrade my social circle without losing old friends?"
     a: "You don't need to cut people — you need to add. Join a running club, book group, or mastermind where 'raising the floor' people gather naturally. Proximity to new standards does the work. Old friends fade without confrontation when they're replaced in calendar time, not in loyalty."
+faqFr:
+  - q: "Qui sont « les gens qui élèvent votre plancher » ?"
+    a: "Ce sont les amis dont les standards vous remontent en silence. Pas des conférenciers en motivation — juste des gens qui s'entraînent régulièrement, lisent, et parlent avec intégrité. Vous ne « fréquentez pas des gens réussis pour devenir célèbre » : vous absorbez simplement leurs non-négociables comme votre nouveau niveau de base."
+  - q: "Est-il vrai qu'on est la moyenne des cinq personnes qui nous entourent ?"
+    a: "La recherche le soutient. La Framingham Heart Study a montré que l'obésité, le tabac et le bonheur se propagent dans les réseaux sociaux jusqu'à trois degrés. Une étude de 2008 a trouvé que votre risque de devenir obèse augmente de 57 % si un ami proche le devient. Les normes de comportement se propagent par proximité, pas par volonté."
+  - q: "Comment améliorer mon cercle sans perdre mes vieux amis ?"
+    a: "Il ne faut pas supprimer des gens — il faut en ajouter. Rejoignez un club de course, un cercle de lecture ou un mastermind où les gens qui « élèvent le plancher » se retrouvent naturellement. La proximité de nouveaux standards fait le travail. Les vieux amis s'estompent sans confrontation quand ils sont remplacés dans l'agenda, pas dans la fidélité."
 
 relatedArticles:
   - "habitude-5-min-relations"

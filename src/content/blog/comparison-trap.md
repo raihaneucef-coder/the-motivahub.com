@@ -30,6 +30,13 @@ faq:
     a: "1) Name the specific comparison ('I'm comparing my income to his car'). 2) Ask 'do I actually want that, or just the feeling it promises?' 3) Shift to self-referenced progress (vs you 6 months ago). 4) Reduce inputs: mute or unfollow triggers. 5) Gratitude journaling at bedtime — proven to reset the comparison baseline within 2 weeks."
   - q: "Is comparing yourself to others ever healthy?"
     a: "Yes, when it's 'upward comparison' used for information, not self-judgment. Watching someone 2 steps ahead shows you the next move. The toxic version is measuring the gap between your Chapter 1 and their Chapter 20 and concluding you're worthless. Use others as maps, not mirrors."
+faqFr:
+  - q: "Pourquoi se compare-t-on en permanence aux autres ?"
+    a: "La comparaison sociale est automatique : votre cerveau évalue votre position en la mesurant aux signaux les plus proches (Festinger, 1954). Les réseaux sociaux ont détourné ce mécanisme en offrant plus de 500 personnes « proches » qui montrent chacune leurs meilleurs moments. Vous comparez votre mardi ordinaire à leur bande-annonce soigneusement sélectionnée."
+  - q: "Comment casser la boucle de la comparaison ?"
+    a: "1) Nommez la comparaison précise (« je compare mon revenu à sa voiture »). 2) Demandez-vous : est-ce que je veux vraiment ça, ou seulement le sentiment que ça promet ? 3) Passez à une progression autoréférencée (par rapport à vous il y a six mois). 4) Réduisez les entrées : masquez ou désabonnez-vous des déclencheurs. 5) Un journal de gratitude au coucher — il a été montré qu'il réinitialise la base de comparaison en moins de deux semaines."
+  - q: "Se comparer aux autres est-il parfois sain ?"
+    a: "Oui, quand il s'agit d'une « comparaison ascendante » utilisée pour s'informer, et non pour se juger. Regarder quelqu'un qui a deux longueurs d'avance vous montre le prochain mouvement. La version toxique consiste à mesurer l'écart entre votre chapitre 1 et leur chapitre 20, puis à en conclure que vous ne valez rien. Utilisez les autres comme des cartes, pas comme des miroirs."
 
 relatedArticles:
   - "growth-mindset-rewire"

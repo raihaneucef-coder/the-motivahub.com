@@ -31,6 +31,13 @@ faq:
     a: "Consistency matters more than the exact hour. Research on irregular bedtimes (Kang et al., 2009) links schedule irregularity with poorer sleep quality, more daytime sleepiness and fatigue — so a stable wake window does more for energy than an earlier alarm. Choose a wake time you can sustain 7 days a week, then work backward to allocate 45-60 minutes for your routine."
   - q: "How long does it take to build a morning routine?"
     a: "A median of 66 days, according to the University College London study (Lally et al., 2010) — with individual times anywhere from 18 to 254 days. Start with just 2 habits for the first two weeks, add one more every 14 days. Trying to change everything at once usually means none of it sticks."
+faqFr:
+  - q: "Que fait une routine matinale saine ?"
+    a: "La recherche sur le sommeil et les rythmes circadiens revient à cinq éléments récurrents : lumière vive tôt après le réveil, hydratation avant la caféine, un peu de mouvement (20 minutes ou plus si possible), un petit-déjeuner riche en protéines, et pas de téléphone pendant les 15 premières minutes. La lumière du matin a le soutien de recherche le plus fort — elle aide à régler votre horloge circadienne — tandis que les autres sont des appuis pratiques pour l'énergie et la concentration plutôt que des leviers prouvés."
+  - q: "À quelle heure doit commencer une routine matinale saine ?"
+    a: "La régularité compte plus que l'heure exacte. La recherche sur des heures de coucher irrégulières (Kang et al., 2009) relie l'irrégularité à une moins bonne qualité de sommeil, plus de somnolence et de fatigue diurne — une fenêtre de réveil stable fait donc plus pour l'énergie qu'un réveil plus tôt. Choisissez une heure que vous pouvez tenir 7 jours sur 7, puis remontez pour réserver 45 à 60 minutes à votre routine."
+  - q: "Combien de temps pour construire une routine matinale ?"
+    a: "Une médiane de 66 jours, selon l'étude de University College London (Lally et al., 2010) — avec des durées individuelles allant de 18 à 254 jours. Commencez avec seulement 2 habitudes pendant les deux premières semaines, puis ajoutez-en une tous les 14 jours. Vouloir tout changer d'un coup signifie en général que rien ne tient."
 
 relatedArticles:
   - "calm-is-a-superpower"

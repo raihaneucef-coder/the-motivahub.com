@@ -31,6 +31,13 @@ faq:
     a: "The mechanism is variable-ratio reinforcement (same pattern as slot machines): unpredictable likes and new posts trigger dopamine spikes that train a shorter attention span. A 2015 PLOS ONE study (Haller et al.) reported a correlation between heavy entertainment media use in adolescents and smaller gray matter volume in the ventral striatum; the finding is correlational, not causal. Moderate, intentional use shows no measurable harm."
   - q: "What's a healthy daily social media limit?"
     a: "In the University of Pennsylvania study (Hunt et al., 2018, Journal of Social and Clinical Psychology), students limited to about 30 minutes per day showed significant reductions in loneliness and depressive symptoms over three weeks compared with a control group. The exact number matters less than intentionality — 30 minutes you chose beats 30 minutes you didn't notice passing."
+faqFr:
+  - q: "Comment profiter des réseaux sociaux sans y perdre des heures ?"
+    a: "Réglez un minuteur avant d'ouvrir une application (15 à 20 minutes maximum). Désabonnez-vous des comptes qui n'instruisent ni n'inspirent sincèrement. Désactivez toutes les notifications non humaines. N'utilisez les réseaux que pendant un « créneau loisir » prévu à l'avance — jamais comme remplissage entre deux tâches."
+  - q: "Les réseaux sociaux sont-ils nocifs pour le cerveau ?"
+    a: "Le mécanisme est le renforcement à ratio variable (le même que celui des machines à sous) : des likes imprévisibles et de nouveaux posts déclenchent des pics de dopamine qui entraînent une attention plus courte. Une étude PLOS ONE de 2015 (Haller et al.) rapportait une corrélation entre un usage intensif des médias de divertissement chez les adolescents et un volume de matière grise plus faible dans le striatum ventral ; il s'agit d'une corrélation, pas d'une causalité. Un usage modéré et intentionnel ne montre aucun dommage mesurable."
+  - q: "Quelle limite quotidienne saine pour les réseaux sociaux ?"
+    a: "Dans l'étude de l'Université de Pennsylvanie (Hunt et al., 2018, Journal of Social and Clinical Psychology), les étudiants limités à environ 30 minutes par jour montraient des baisses significatives de solitude et de symptômes dépressifs sur trois semaines par rapport à un groupe témoin. Le chiffre exact compte moins que l'intentionnalité — 30 minutes que vous avez choisies valent mieux que 30 minutes que vous n'avez pas vues passer."
 
 relatedArticles:
   - "choose-joy-on-purpose"

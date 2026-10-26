@@ -30,6 +30,13 @@ faq:
     a: "The brain treats social rejection like physical pain (fMRI research, UCLA 2011). Fear of judgment triggers the same threat response as danger. The solution isn't eliminating fear — it's acting despite it. Each time you speak up and survive the discomfort, the amygdala recalibrates."
   - q: "What's the difference between being assertive and aggressive?"
     a: "Assertiveness states your needs clearly while respecting others' right to disagree. Aggression imposes your needs at others' expense. Formula: 'I feel/need X when Y happens, and I'd prefer Z.' This owns your position without attacking the listener."
+faqFr:
+  - q: "Comment trouver sa voix et prendre la parole ?"
+    a: "Commencez dans des situations à faible enjeu : donnez votre avis à une personne de confiance, écrivez avant de parler, et utilisez des phrases en « je pense que ». Votre voix se renforce par répétition, pas par perfection. Fixez un micro-objectif quotidien — une phrase dite là où vous auriez gardé le silence avant."
+  - q: "Pourquoi est-il difficile de prendre la parole ?"
+    a: "Le cerveau traite le rejet social comme une douleur physique (IRMf, UCLA 2011). La peur du jugement déclenche la même réponse de menace qu'un danger. La solution n'est pas d'éliminer la peur — c'est d'agir malgré elle. Chaque fois que vous parlez et que vous traversez l'inconfort, l'amygdale se recalibre."
+  - q: "Quelle différence entre affirmation de soi et agressivité ?"
+    a: "L'affirmation de soi énonce clairement vos besoins tout en respectant le droit des autres à ne pas être d'accord. L'agressivité impose les vôtres aux dépens des autres. Formule : « je me sens / j'ai besoin de X quand Y arrive, et je préférerais Z. » Vous assumez votre position sans attaquer l'interlocuteur."
 
 relatedArticles:
   - "community-discipline"

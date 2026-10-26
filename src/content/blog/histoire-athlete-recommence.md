@@ -28,6 +28,13 @@ faq:
     a: "Because you now know what it costs. First starts run on ignorance and excitement. Second starts require choosing difficulty with full knowledge of the fall that might follow. This makes the decision braver but also more sustainable — you build for the long game, not the highlight reel."
   - q: "What can we learn from athletes who came back from nothing?"
     a: "That identity is deeper than achievement. The comeback isn't about winning again — it's about discovering you were never just the win. Each 'retired' athlete who rebuilds proves the core trait was never the medal: it was the willingness to show up when no one is watching."
+faqFr:
+  - q: "Comment recommencer après avoir tout perdu ?"
+    a: "En séparant votre identité de vos résultats. L'histoire de cet athlète le montre : quand les médailles, les sponsors et le statut disparaissent, il reste la discipline, le goût du mouvement, la personne en dessous. Commencez par une petite action que vous contrôlez aujourd'hui — le nouveau chapitre démarre plus modestement que vous ne l'imaginiez."
+  - q: "Pourquoi recommencer est plus difficile la seconde fois ?"
+    a: "Parce que vous savez désormais ce que ça coûte. Le premier départ roule sur l'ignorance et l'enthousiasme. Le second exige de choisir la difficulté en connaissant parfaitement la chute possible. La décision en est plus courageuse, mais aussi plus durable — vous construisez pour le long terme, pas pour le moment vedette."
+  - q: "Que nous apprennent les athlètes repartis de rien ?"
+    a: "Que l'identité est plus profonde que le résultat. Le retour n'est pas gagner à nouveau — c'est découvrir que vous n'avez jamais été seulement la victoire. Chaque athlète « retraité » qui se reconstruit prouve que le trait central n'était pas la médaille : c'était la disposition à être là quand personne ne regarde."
 
 relatedArticles:
   - "she-started-at-60"

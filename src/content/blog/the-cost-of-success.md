@@ -30,6 +30,13 @@ faq:
     a: "Decide in advance what you WILL and will NOT sacrifice. Common non-negotiables: health, one relationship per week uninterrupted, and one day fully off. Write these as inviolable rules. Ambition without boundaries consumes everything, then calls you ungrateful when you complain."
   - q: "Why do successful people often feel empty?"
     a: "Because achievement answers external questions (am I good enough?) without addressing internal ones (who am I without the chase?). The brain reward system is designed for pursuit, not possession. Dopamine fires on the hunt, not the meal. Sustainable fulfillment comes from meaning, not milestones." 
+faqFr:
+  - q: "Quel est le coût caché du succès ?"
+    a: "Au-delà des victoires visibles : des relations tendues par votre agenda, une identité collée à vos résultats (qui s'effondre quand vous arrêtez), la perte de vie privée, et des objectifs qui reculent sans jamais vous laisser jouir de ce que vous avez construit. Le coût n'est pas l'échec ; c'est d'arriver et de constater que le prix ne comble pas le vide."
+  - q: "Comment me préparer aux sacrifices de l'ambition ?"
+    a: "Décidez à l'avance ce que vous êtes prêt et ce que vous n'êtes pas prêt à sacrifier. Non-négociables fréquents : la santé, une relation par semaine sans interruption, et un jour entièrement libre. Écrivez-les comme des règles inviolables. Une ambition sans frontières consomme tout, puis vous traite d'ingrat quand vous vous plaignez."
+  - q: "Pourquoi les gens qui réussissent se sentent-ils souvent vides ?"
+    a: "Parce que l'accomplissement répond à des questions externes (« suis-je assez bien ? ») sans toucher aux questions internes (« qui suis-je sans la course ? »). Le circuit de la récompense est conçu pour la poursuite, pas pour la possession. La dopamine se déclenche à la chasse, pas au repas. L'épanouissement durable vient du sens, pas des jalons."
 
 relatedArticles:
   - "discipline-depass-motivation"

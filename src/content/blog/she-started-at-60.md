@@ -30,6 +30,13 @@ faq:
     a: "Emotional regulation (less impulsive quitting), pattern recognition (decades of transferable skills), network depth (contacts who can open doors), and urgency clarity (you stop wasting time on 'someday'). Starting late isn't a deficit — it's an efficiency gain from life experience."
   - q: "How do I handle people saying 'you're too old to start'?"
     a: "Their discomfort often reflects their own unlived ambitions. Reframe: you have 20-30 productive years ahead. At 60, someone who starts today will have 10,000 hours of mastery by 70. The research is clear: regret of inaction outweighs regret of failed action by 3:1 (Gilovich, Cornell)."
+faqFr:
+  - q: "Est-il vraiment vrai qu'il n'est jamais trop tard pour commencer quelque chose ?"
+    a: "La recherche sur la neuroplasticité confirme que le cerveau continue de former de nouvelles connexions tout au long de la vie. Le colonel Sanders a franchiseisé KFC à 62 ans, Vera Wang est entrée dans la mode à 40 ans, et Ray Kroc a lancé McDonald's à 52 ans. Le seul vrai obstacle est la permission sociale — pas la capacité cognitive."
+  - q: "Quels avantages ont les débutants plus âgés ?"
+    a: "La régulation émotionnelle (on abandonne moins sur un coup de tête), la reconnaissance de schémas (des décennies de compétences transférables), la profondeur du réseau (des contacts qui ouvrent des portes), et la clarté de l'urgence (on cesse de perdre du temps sur « un jour »). Commencer tard n'est pas un déficit — c'est un gain d'efficacité venu de l'expérience de vie."
+  - q: "Comment gérer ceux qui disent « c'est trop tard pour commencer » ?"
+    a: "Leur inconfort reflète souvent leurs propres ambitions non vécues. Reformulez : il vous reste 20 à 30 années productives. À 60 ans, celui qui commence aujourd'hui aura 10 000 heures de maîtrise à 70 ans. La recherche est claire : le regret de ne pas agir pèse trois fois plus que le regret d'un échec d'action (Gilovich, Cornell)."
 
 relatedArticles:
   - "histoire-athlete-recommence"

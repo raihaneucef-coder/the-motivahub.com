@@ -23,14 +23,21 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 404
+wordCount: 512
 faq:
   - q: "Can body language really make you feel confident?"
-    a: "Yes — 'embodied cognition' research shows posture affects hormones and self-perception. Standing tall for 2 minutes increases feelings of power (Carney, 2010). Even if the testosterone effect is debated, the psychological feedback loop is clear: act confident → feel more confident → perform better."
+    a: "Yes — 'embodied cognition' research shows that body posture changes how you feel and how other people read you. Sitting upright nudges up felt assertiveness and energy. The dramatic 'power pose' claim (a 2010 study by Carney, Cuddy and Yap) failed later replication, so treat the effect as real but modest: act confident → feel a bit more confident → perform better."
   - q: "What are the best body language tips for confidence?"
     a: "1) Shoulders back, chest open. 2) Slow deliberate movements (rushing signals anxiety). 3) Steady eye contact (60-70% of conversation). 4) Take up space — don't cross arms or shrink. 5) Pause before speaking rather than filling silence. These project calm authority in any room."
   - q: "How do I stop looking nervous in social situations?"
     a: "Nervousness shows through fidgeting, fast speech, and closed posture. Counter it by: planting both feet flat, holding a warm drink (grounding), and deliberately slowing your walk speed. The 'fake it till you make it' approach actually works for body language — others respond to your signals, which changes their behavior, which makes you genuinely comfortable."
+faqFr:
+  - q: "Le langage corporel peut-il vraiment donner confiance ?"
+    a: "Oui — la recherche sur la « cognition incarnée » montre comment la posture change ce que vous ressentez et la façon dont les autres vous lisent. Se tenir droit rehausse le sentiment d'assertivité et l'énergie. L'affirmation hormonale spectaculaire (une étude de 2010 sur la « posture de puissance ») n'a pas pu être répliquée depuis ; tenez donc l'effet pour réel mais modeste : agir avec assurance → se sentir un peu plus assuré → mieux performer."
+  - q: "Quels sont les meilleurs conseils de langage corporel pour la confiance ?"
+    a: "1) Épaules en arrière, poitrine ouverte. 2) Mouvements lents et délibérés (se presser signale l'anxiété). 3) Regard soutenu (60 à 70 % de la conversation). 4) Occupez l'espace — ne croisez pas les bras, ne rétrécissez pas. 5) Marquez une pause avant de parler plutôt que de remplir le silence. Cela projette une autorité calme dans n'importe quelle pièce."
+  - q: "Comment arrêter d'avoir l'air nerveux en situation sociale ?"
+    a: "La nervosité se voit dans le remuement, le débit rapide et la posture fermée. Contrez-la en ancrant les deux pieds au sol, en tenant une boisson chaude (ancrage) et en ralentissant délibérément votre marche. L'approche « fake it till you make it » fonctionne réellement pour le langage corporel : les autres répondent à vos signaux, ce qui change leur comportement, ce qui vous met véritablement à l'aise."
 
 relatedArticles:
   - "confiance-inbranlable"

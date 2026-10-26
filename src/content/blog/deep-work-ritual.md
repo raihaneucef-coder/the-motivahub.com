@@ -30,6 +30,13 @@ faq:
     a: "Start with 90 minutes (one ultradian cycle). Experts like Cal Newport do 3-4 hours daily but build up over months. The key: one uninterrupted block beats four distracted ones. If you can do 90 focused minutes consistently, you'll out-produce most people working 8 scattered hours."
   - q: "What if I can't concentrate for more than 10 minutes?"
     a: "That's normal for an 'attention fitness' beginner. Start with 25 minutes (one pomodoro), then add 5 minutes weekly. Remove one distraction source per week (notifications, phone location, browser tabs). Tolerable block length behaves like a trained capacity rather than a fixed trait: with daily practice, it stretches most visibly in the first weeks."
+faqFr:
+  - q: "Qu'est-ce qu'un rituel de deep work ?"
+    a: "Une séquence fixe d'actions qui signale à votre cerveau qu'il est temps de se concentrer : même lieu, même heure, mêmes préparatifs (café, téléphone rangé, minuteur réglé, un seul onglet ouvert). À force de répétition quotidienne, le rituel déclenche seul l'état de concentration — en général en quelques semaines, même si une habitude au sens complet met plus de temps (Lally et al., 2010 ont mesuré une médiane de 66 jours avant l'automatisation)."
+  - q: "Combien de temps doit durer une session de deep work ?"
+    a: "Commencez par 90 minutes (un cycle ultradien). Des experts comme Cal Newport tiennent 3 à 4 heures par jour, mais ils y sont parvenus sur plusieurs mois. La clé : un seul bloc ininterrompu vaut mieux que quatre blocs distraits. Si vous tenez 90 minutes de concentration de façon régulière, vous produirez plus que la plupart des gens qui travaillent huit heures éparpillées."
+  - q: "Et si je n'arrive pas à me concentrer plus de 10 minutes ?"
+    a: "C'est normal pour un débutant en « entraînement de l'attention ». Commencez par 25 minutes (un pomodoro), puis ajoutez 5 minutes par semaine. Supprimez une source de distraction chaque semaine (notifications, emplacement du téléphone, onglets du navigateur). La longueur supportée d'un bloc se comporte comme une capacité entraînée plutôt que comme un trait fixe : avec une pratique quotidienne, elle s'étire surtout de façon visible durant les premières semaines."
 bookSlug: deep-work
 
 relatedArticles:
