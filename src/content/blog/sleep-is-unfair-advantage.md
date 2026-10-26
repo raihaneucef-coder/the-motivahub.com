@@ -69,14 +69,14 @@ relatedArticles:
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p8">In my 30s, I started noticing the costs. Mood swings on bad nights. Decisions I'd regret. The same workout that felt easy on 8 hours felt impossible on 5. I was burning capital I didn't have.</div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p9">Then I read Matthew Walker's <em>Why We Sleep</em>. The book is a 320-page argument that sleep isn't optional. The research is brutal:</div>
+<div data-i18n-html="article_sleep-is-unfair-advantage_p9">Then I read Matthew Walker's <em>Why We Sleep</em>. The book is a 320-page argument that sleep isn't optional, and it has well-documented errors that sleep specialists have catalogued. So I stopped quoting the book and went to the individual studies. Four of them did the persuading:</div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p10">- Sleeping less than 6 hours per night for 2 weeks = cognitive decline equivalent to 48 hours of total sleep deprivation
-- Sleep deprivation reduces testosterone by 10-15% (for men, in one week)
-- Sleep deprivation increases cortisol, decreases insulin sensitivity, increases appetite
-- Athletes who extend sleep to 10 hours improve reaction time, accuracy, and sprint times by 5-15%</div>
+<div data-i18n-html="article_sleep-is-unfair-advantage_p10">- Van Dongen and colleagues (<em>Sleep</em>, 2003) held people at six hours a night for two weeks. By the end, their attention lapses matched roughly two nights of total sleep deprivation — while they still rated themselves as coping.
+- One week of five-hour nights lowered daytime testosterone by 10-15% in healthy young men, in a small controlled trial (Leproult and Van Cauter, <em>JAMA</em>, 2011).
+- Short sleep raises evening cortisol and blunts insulin sensitivity; these studies are small and short, which is why I treat the finding as directionally solid and numerically uncertain (Spiegel and colleagues, <em>Lancet</em>, 1999).
+- Extending sleep to ten hours improved free-throw and sprint times in an 11-player Stanford basketball study (Mah and colleagues, <em>Sleep</em>, 2011). Eleven players is not proof, and replications are inconsistent — a hint, not a law.</div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p11">The science is clear. Sleep is the performance tool. Not the recovery. The performance tool.</div>
+<div data-i18n-html="article_sleep-is-unfair-advantage_p11">Effect sizes are argued about; the direction is not. Sleep is a performance input, not the reward you get for finishing the work.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p12"><h2>My 60-Day Sleep Experiment (The Data)</h2></div>
 
@@ -333,13 +333,12 @@ Morning sunlight ($0): biggest energy boost.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p109"><h2>Sources</h2></div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p110">1. <em>Matthew Walker</em> — <em>Why We Sleep</em> (2017) — the foundational science
-2. <em>National Sleep Foundation</em> — for the sleep duration guidelines
-3. <em>Andrew Huberman</em> — Stanford neurobiology — for the morning light protocols
-4. <em>Andrew Huberman</em> — sleep and circadian rhythm research
-5. <em>Oura</em> — sleep tracking research — for the consumer tracker reliability studies
-6. <em>Walker, M. P.</em> — <em>Why We Sleep</em> — for the cognitive decline research
-7. <em>Journal of Sleep Research</em> — for the napping research</div>
+<div data-i18n-html="article_sleep-is-unfair-advantage_p110">1. Van Dongen, H. P. A. et al. — “The cumulative cost of additional wakefulness” — <em>Sleep</em>, 2003
+2. Leproult, R. & Van Cauter, E. — “Effect of 1 week of sleep restriction on testosterone levels in young healthy men” — <em>JAMA</em>, 2011
+3. Spiegel, K., Leproult, R. & Van Cauter, E. — “Impact of sleep debt on metabolic and endocrine function” — <em>Lancet</em>, 1999
+4. Mah, C. D. et al. — “The effects of sleep extension on the athletic performance of collegiate basketball players” — <em>Sleep</em>, 2011
+5. Walker, M. P. — <em>Why We Sleep</em>, 2017 — read alongside the published corrections
+6. National Sleep Foundation — recommended sleep duration for adults</div>
 
 <hr />
 

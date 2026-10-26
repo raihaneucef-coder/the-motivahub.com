@@ -2,7 +2,7 @@
 title: "Your Nervous System Is the Boss"
 description: "Your mind does not decide how you feel — your nervous system does. Learn to work with it, not against it, for calmer focus and steadier discipline."
 titleFr: "Ton système nerveux est le patron"
-descriptionFr: "Ton esprit ne décide pas de comment tu te sens — ton système nerveux le fait. Apprends à travailler avec lui, pas contre lui."
+descriptionFr: "Votre esprit ne décide pas de comment vous vous sentez — votre système nerveux le fait. Apprenez à travailler avec lui, pas contre lui."
 pubDate: 2026-08-12
 updatedDate: 2026-09-12
 topic: "Wellness"
@@ -60,7 +60,7 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p8">Three levers, available anywhere:</div>
 
-<div data-i18n-html="article_nervous-system-is-the-boss_p12">The polyvagal framework, developed by Stephen Porges, explains why willpower fails under threat: when the autonomic nervous system detects danger it shifts you into fight-flight or shutdown, and the prefrontal cortex — the part that plans, reasons, and chooses — is effectively dimmed. You cannot think your way out of a nervous-system response.</div>
+<div data-i18n-html="article_nervous-system-is-the-boss_p12">The polyvagal framework, developed by Stephen Porges, is influential — and still debated in its details. Its practical claim is widely accepted: when the autonomic nervous system detects threat it shifts toward fight-flight or shutdown, and the prefrontal cortex — the part that plans, reasons, and chooses — does not operate at its best. You cannot think your way out of a nervous-system response.</div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p13">Resets that take under two minutes: a long exhale (four in, seven out), cold water on the inner wrists, humming one sustained note, or a flat palm on the chest just feeling the ribcage rise and fall. These are not meditation — they are physiological signals of safety sent straight to the brainstem.</div>
 

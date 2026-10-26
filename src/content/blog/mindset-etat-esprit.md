@@ -28,14 +28,14 @@ faq:
   - q: "What is a winning mindset?"
     a: "A winning mindset is the belief that your abilities can be developed through effort, strategy, and persistence. It combines growth thinking, self-belief, and accountability — focusing on what you control rather than what you can't change."
   - q: "How do I shift from a fixed to a growth mindset?"
-    a: "Three steps: (1) Notice your self-limiting language ('I can't' → 'I can't yet'), (2) Reframe failures as feedback data, (3) Celebrate effort over outcome. Research by Carol Dweck (Stanford, 2006) shows this rewires neural pathways within 6-8 weeks of daily practice."
+    a: "Three steps: (1) Notice your self-limiting language ('I can't' → 'I can't yet'), (2) Reframe failures as feedback data, (3) Praise the process rather than the outcome. Dweck's research describes a shift in beliefs and behaviour, not a fixed timetable: there is no evidence that a set number of weeks rewires anything, and average effects in school studies are modest. The point is to keep the belief testable — try a harder version of the task and watch what changes."
   - q: "How does environment affect mindset?"
     a: "You absorb the beliefs of the five people you spend the most time with. Curate your inputs: follow people who challenge you, limit exposure to complainers, and design your physical space for focus. Environment beats willpower."
 faqFr:
   - q: "Qu'est-ce qu'un état d'esprit gagnant ?"
     a: "Un état d'esprit gagnant est la croyance que vos capacités peuvent être développées par l'effort, la stratégie et la persévérance. Il combine la pensée de croissance, la confiance en soi et la responsabilité."
   - q: "Comment passer d'un état d'esprit fixe à un état d'esprit de croissance ?"
-    a: "Trois étapes : (1) Remarquez votre langage auto-limitant (« je ne peux pas » → « je ne peux pas encore »), (2) Reformulez les échecs en données de feedback, (3) Célébrez l'effort plutôt que le résultat."
+    a: "Trois étapes : (1) Remarquez votre langage auto-limitant (« je ne peux pas » → « je ne peux pas encore »), (2) Reformulez les échecs en données de feedback, (3) Valorisez le processus plutôt que le résultat. Les travaux de Dweck décrivent un changement de croyances et de comportements, pas un calendrier : rien n'indique qu'un nombre donné de semaines « reconfigure » le cerveau, et les effets moyens observés en milieu scolaire restent modestes. L'idée est de garder la croyance testable — essayez une version plus difficile de la tâche et regardez ce qui change."
   - q: "Comment l'environnement affecte-t-il l'état d'esprit ?"
     a: "Vous absorbez les croyances des cinq personnes avec qui vous passez le plus de temps. Organisez vos inputs : suivez des personnes qui vous défient, limitez l'exposition aux plaignants."
 

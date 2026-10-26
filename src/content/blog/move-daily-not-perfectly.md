@@ -2,7 +2,7 @@
 title: "Move Daily, Not Perfectly"
 description: "You do not need the perfect workout — you need a daily one that survives bad days. The minimal-consistency approach that actually sticks over time."
 titleFr: "Bouge quotidiennement, pas parfaitement"
-descriptionFr: "Tu n'as pas besoin de l'entraînement parfait — tu as besoin d'un entraînement quotidien qui survive aux mauvais jours. La régularité avant la performance."
+descriptionFr: "Vous n'avez pas besoin de l'entraînement parfait — vous avez besoin d'un entraînement quotidien qui survive aux mauvais jours. La régularité avant la performance."
 pubDate: 2026-08-21
 updatedDate: 2026-09-12
 topic: "Wellness"
@@ -25,14 +25,14 @@ tags:
 wordCount: 417
 faq:
   - q: "Is a short imperfect workout better than skipping entirely?"
-    a: "Yes. Research shows even 10 minutes of movement improves mood, metabolism, and sleep quality. More importantly, skipping creates a identity break ('I'm not someone who exercises'), while showing up imperfectly maintains the habit chain and the self-image that sustains long-term consistency."
+    a: "Yes. A short walk reliably lifts mood and still counts toward the weekly activity total; the effect on metabolism and sleep quality depends on intensity, duration and timing. More importantly, skipping creates an identity break ('I'm not someone who exercises'), while showing up imperfectly maintains the habit chain and the self-image that sustains long-term consistency."
   - q: "How do I stop the all-or-nothing fitness mindset?"
     a: "Define your 'B-day workout' — the version you do when life is chaotic. A 15-minute walk counts. 10 pushups count. Stretching for 5 minutes counts. On good days you do more; on hard days you do the minimum. The goal is never zero — it's never breaking the identity of 'someone who moves.'"
   - q: "What counts as daily movement?"
     a: "Anything that raises your heart rate or challenges your muscles: walking, gardening, dancing, taking stairs, playing with kids. The WHO recommendation (150 min moderate activity) doesn't require a gym. Seven 20-minute daily walks meet it perfectly. Movement, not workouts, is the health variable."
 faqFr:
   - q: "Une séance courte et imparfaite vaut-elle mieux que de sauter ?"
-    a: "Oui. La recherche montre que même 10 minutes de mouvement améliorent l'humeur, le métabolisme et la qualité du sommeil. Et surtout, sauter crée une rupture d'identité (« je ne suis pas quelqu'un qui fait du sport »), alors que se présenter imparfaitement préserve la chaîne d'habitude et l'image de soi qui soutient la régularité sur le long terme."
+    a: "Oui. Une courte marche améliore de façon fiable l'humeur et compte dans le total hebdomadaire d'activité ; l'effet sur le métabolisme et le sommeil dépend de l'intensité, de la durée et du moment. Et surtout, sauter crée une rupture d'identité (« je ne suis pas quelqu'un qui fait du sport »), alors que se présenter imparfaitement préserve la chaîne d'habitude et l'image de soi qui soutient la régularité sur le long terme."
   - q: "Comment sortir du tout ou rien en sport ?"
     a: "Définissez votre « séance de jour B » — la version que vous faites quand la vie est chaotique. Une marche de 15 minutes compte. 10 pompes comptent. 5 minutes d'étirements comptent. Les bons jours vous en faites plus ; les jours difficiles, vous faites le minimum. Le but n'est jamais zéro — c'est de ne jamais briser l'identité de « quelqu'un qui bouge »."
   - q: "Qu'est-ce qui compte comme mouvement quotidien ?"

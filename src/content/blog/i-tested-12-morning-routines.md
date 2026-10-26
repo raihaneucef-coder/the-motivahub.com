@@ -1,10 +1,10 @@
 ---
-title: "I Tested 12 Morning Routines for 30 Days. Only One Actually Worked."
-seoTitle: "I Tested 12 Morning Routines for 30 Days"
-description: "I tried every famous morning routine for 30 days — Miracle Morning, Ferriss's protocol, 5 AM club, cold plunges. Here's what survived a real Tuesday."
-titleFr: "J'ai testé 12 routines matinales pendant 30 jours. Une seule a vraiment fonctionné."
-seoTitleFr: "12 routines matinales testées pendant 30 jours"
-descriptionFr: "J'ai testé toutes les routines matinales connues pendant 30 jours — Miracle Morning, protocole Ferriss, réveil à 5h, bain froid. Voici ce qui a tenu."
+title: "The 8-Minute Morning Routine That Survived 30 Days"
+seoTitle: "The Minimal Morning Routine That Survived 30 Days"
+description: "I tested a dozen routines for two weeks, then kept only the smallest for a month. Here's the version that survived a real Tuesday — and what I dropped."
+titleFr: "La routine matinale de 8 minutes qui a tenu 30 jours"
+seoTitleFr: "La routine matinale minimale qui a tenu 30 jours"
+descriptionFr: "J'ai testé une douzaine de routines pendant deux semaines, puis gardé la plus petite pendant un mois. Voici celle qui a survécu à un vrai mardi — et ce que j'ai abandonné."
 pubDate: 2026-09-01
 updatedDate: 2026-09-21
 readTime: "12 MIN"
@@ -54,15 +54,15 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p2"><strong>There is no one-size-fits-all morning routine.</strong> The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a 90-minute ritual that requires quitting your job. I tested 12 routines for 30 days. Only one survived contact with a real Tuesday.</div>
+<div data-i18n-html="article_i-tested-12-morning-routines_p2"><strong>There is no one-size-fits-all morning routine.</strong> The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a 90-minute ritual that requires quitting your job. I tested a dozen routines for two weeks, then ran the smallest one for 30 days. Only the minimal version survived contact with a real Tuesday.</div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p3">I spent 30 days testing every famous morning routine. Hal Elrod's Miracle Morning. Tim Ferriss's slow wake-up. The 5 AM cult. The cold plunge. The 4-minute workout. The journal-only protocol. Twelve different routines, one month of experimentation, two stress fractures, and a freezer full of ice cubes.</div>
+<div data-i18n-html="article_i-tested-12-morning-routines_p3">I spent two weeks testing every famous morning routine. Hal Elrod's Miracle Morning. Tim Ferriss's slow wake-up. The 5 AM cult. The cold plunge. The 4-minute workout. The journal-only protocol. Twelve different routines, then a month keeping the smallest one, and a freezer full of ice cubes.</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p4">Here's the truth that doesn't make it into productivity YouTube: most morning routines are designed for people who don't have jobs, kids, or chronic illness. They're aspirational theater, not sustainable systems. Most people try them for 6 days, fail day 7, and conclude they "don't have what it takes."</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p5">That's wrong. You have what it takes. The routine was wrong.</div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p6">This is what survived 30 days of testing. The routine I still do every morning a year later. And the 11 that didn't.</div>
+<div data-i18n-html="article_i-tested-12-morning-routines_p6">This is what survived the month-long follow-up. The routine I still do every morning a year later. And the 11 I stopped doing.</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p7"><h2>What I Tested (And Why I Quit Each)</h2></div>
 
@@ -82,7 +82,7 @@ relatedArticles:
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p15"><h2>What Survived — The One Routine</h2></div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p16">After 30 days, only <strong>one</strong> of the 12 routines stuck. Here's what it looks like at 6:30 AM:</div>
+<div data-i18n-html="article_i-tested-12-morning-routines_p16">After 30 days of keeping the smallest version, only that version was still running. Here's what it looks like at 6:30 AM:</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p17">1. <strong>Wake up. Phone stays in the other room.</strong> (30 seconds)
 2. <strong>Glass of water.</strong> (30 seconds)

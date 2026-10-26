@@ -28,7 +28,7 @@ faq:
   - q: "How do you turn failure into feedback?"
     a: "After a setback, ask 3 questions: (1) What specifically went wrong? (2) What was within my control? (3) What will I do differently next time? Write the answers. This converts emotional pain into actionable data within 24 hours."
   - q: "Why is failure necessary for success?"
-    a: "Every expert was once a beginner who failed repeatedly. Thomas Edison tested 1,000 materials before finding the right filament. Failure eliminates wrong paths and reveals what actually works. Without it, you're guessing."
+    a: "Every expert was once a beginner who failed repeatedly. Edison's team reportedly tried thousands of filament materials before settling on one that lasted; the exact count varies by account, but the method is the lesson. Failure eliminates wrong paths and reveals what actually works. Without it, you're guessing."
 faqFr:
   - q: "Comment transformer l'échec en feedback ?"
     a: "Après un revers, posez 3 questions : (1) Qu'est-ce qui a spécifiquement mal tourné ? (2) Qu'est-ce qui était sous mon contrôle ? (3) Que ferai-je différemment la prochaine fois ? Écrivez les réponses."

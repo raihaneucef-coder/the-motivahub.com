@@ -1,8 +1,8 @@
 ---
 title: "Make It Measurable, Make It Mine"
 description: "A vague goal inspires no one, least of all you. Make it measurable, make it personal, and let visible progress pull you on the hard days."
-titleFr: "Rends-le mesurable, rends-le tien"
-descriptionFr: "Un objectif vague n'inspire personne, surtout pas toi. Rends-le mesurable, rends-le personnel, et laisse le progrès te tirer."
+titleFr: "Rendez-le mesurable, rendez-le vôtre"
+descriptionFr: "Un objectif vague n'inspire personne, surtout pas vous. Rendez-le mesurable, rendez-le personnel, et laissez le progrès vous tirer."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
@@ -45,7 +45,7 @@ relatedArticles:
   - "retroengineering-objectifs"
 ---
 
-<div data-i18n-html="article_make-it-measurable-make-it-mine_p2">A vague goal inspires no one, least of all you. Make it measurable, make it personal, and let progress pull you.</div>
+<div data-i18n-html="article_make-it-measurable-make-it-mine_p2">A goal fails at two points: when you cannot tell whether you moved, and when you do not actually care. This is a short working guide to fixing both — one number you can answer yes or no to at night, and one sentence explaining why it is yours.</div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p3">Vague goals inspire no one, least of all the person who set them.</div>
 

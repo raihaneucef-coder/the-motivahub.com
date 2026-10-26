@@ -4,7 +4,7 @@ seoTitle: "Make Good Habits Obvious, Bad Ones Invisible"
 description: "You do not need more willpower — you need a clearer path. Design your world so good habits are easy to see and bad ones are hard to find."
 titleFr: "Rends les bonnes habitudes évidentes, les mauvaises invisibles"
 seoTitleFr: "Rends les bonnes habitudes évidentes, les autres non"
-descriptionFr: "Pas besoin de plus de volonté — besoin d'un chemin plus clair. Rends les bonnes habitudes évidentes et les mauvaises difficiles à trouver."
+descriptionFr: "Pas besoin de plus de volonté — besoin d'un chemin plus clair. Rendez les bonnes habitudes évidentes et les mauvaises difficiles à trouver."
 pubDate: 2026-08-22
 updatedDate: 2026-10-18
 topic: "Habits"

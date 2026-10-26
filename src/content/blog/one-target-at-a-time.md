@@ -2,7 +2,7 @@
 title: "One Target at a Time"
 description: "A goal is not a wish on paper — it is an address you visit daily until the door opens. Aim small, aim precise, and let the days do the heavy lifting."
 titleFr: "Une cible à la fois"
-descriptionFr: "Un objectif n'est pas un souhait sur papier — c'est une adresse que tu visites chaque jour jusqu'à ce que la porte s'ouvre. Vise petit, vise précis."
+descriptionFr: "Un objectif n'est pas un souhait sur papier — c'est une adresse que vous visitez chaque jour jusqu'à ce que la porte s'ouvre. Visez petit, visez précis."
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"

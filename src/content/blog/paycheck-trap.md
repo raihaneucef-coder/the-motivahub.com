@@ -59,7 +59,7 @@ relatedArticles:
 
 <div data-i18n-html="article_paycheck-trap_p7">Try this with your next inflow, however small — a bonus, a side project, even a refund. Before it lands, assign it. What is not assigned will be absorbed. What is assigned will compound.</div>
 
-<div data-i18n-html="article_paycheck-trap_p10">The mechanism has a name: the hedonic treadmill. Research on adaptation shows that each upgrade resets your baseline within months — the nicer apartment becomes the new ordinary, and the feeling you bought is already gone. Assigning the raise before it lands is the only reliable way off the treadmill, because you never let the extra become spending.</div>
+<div data-i18n-html="article_paycheck-trap_p10">The mechanism has a name: the hedonic treadmill. Research on adaptation describes a consistent pattern — improvements raise expectations, and satisfaction drifts back toward its previous level, often within months but at a pace that varies by person and by purchase. The nicer apartment becomes the new ordinary, and the feeling you bought is already gone. Assigning the raise before it lands is the only reliable way off the treadmill, because you never let the extra become spending.</div>
 
 <div data-i18n-html="article_paycheck-trap_p9">The thirty-minute audit that cracks the trap: export the last three months of your bank statement; label every line with one word — needed, wanted, or automatic; add up the "automatic" column. That total is the subscription form of the trap: money moving on decisions you no longer remember making. Cancel or renegotiate one item tonight, and set the freed amount to move automatically on payday morning — before the lifestyle absorbs it. No app, no spreadsheet discipline. One evening.</div>
 

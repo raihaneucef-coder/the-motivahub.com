@@ -35,7 +35,7 @@ faq:
   - q: "What is the fastest way to reset my nervous system?"
     a: "Slow exhales. Specifically, exhale longer than inhale (the 4-7-8 breathing pattern: inhale 4 seconds, hold 7, exhale 8). This activates the parasympathetic nervous system within 60-90 seconds. It's the fastest, free, portable tool available."
   - q: "Does breathwork really help with productivity?"
-    a: "Yes. Research from Stanford, Harvard, and the NIH shows that controlled breathing patterns directly affect the autonomic nervous system, reducing cortisol and activating the prefrontal cortex. It's not woo-woo — it's measurable physiology."
+    a: "Yes, with limits. Slow breathing — especially exhaling longer than you inhale — reliably shifts autonomic balance toward the parasympathetic side, and that shift is measurable. Claims that a specific technique 'reduces cortisol' or 'activates the prefrontal cortex' are usually oversimplified; the dependable benefits are a slower heart rate, lower arousal and better focus."
   - q: "How often should I do nervous system resets?"
     a: "Three times minimum: once in the morning (to start regulated), once before deep work (to enter focus), once before bed (to support sleep). The habit compounds. After 30 days, your baseline shifts — you become calmer overall, not just in the moment."
 faqFr:
@@ -44,7 +44,7 @@ faqFr:
   - q: "Quel est le moyen le plus rapide de réinitialiser mon système nerveux ?"
     a: "Des expirations lentes. Plus précisément : expirer plus longtemps qu'inspirer (le rythme 4-7-8 : inspirer 4 secondes, retenir 7, expirer 8). Cela active le système nerveux parasympathique en 60 à 90 secondes. C'est l'outil le plus rapide, gratuit et portable qui existe."
   - q: "Le travail respiratoire aide-t-il vraiment la productivité ?"
-    a: "Oui. Des recherches de Stanford, Harvard et des NIH montrent que des rythmes respiratoires contrôlés agissent directement sur le système nerveux autonome, réduisent le cortisol et activent le cortex préfrontal. Ce n'est pas ésotérique — c'est de la physiologie mesurable."
+    a: "Oui, avec des limites. Une respiration lente — surtout avec une expiration plus longue que l'inspiration — déplace de façon fiable l'équilibre autonome vers le versant parasympathique, et ce déplacement est mesurable. Les affirmations selon lesquelles une technique précise « réduit le cortisol » ou « active le cortex préfrontal » sont généralement simplifiées à l'excès ; les bénéfices fiables sont un rythme cardiaque plus lent, une excitation plus basse et une meilleure concentration."
   - q: "À quelle fréquence faire ces réinitialisations ?"
     a: "Trois fois au minimum : une le matin (démarrer régulé), une avant le travail profond (entrer en concentration), une avant de dormir (favoriser le sommeil). L'habitude se compose. Après 30 jours, votre ligne de base se déplace — vous devenez plus calme en général, pas seulement sur l'instant."
 relatedArticles:
@@ -222,9 +222,9 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-reset-focus_p63">I'm not the first to notice this. Multiple research streams converge:</div>
 
-<div data-i18n-html="article_nervous-system-reset-focus_p64">1. <strong>Polyvagal Theory (Stephen Porges):</strong> Your nervous system state determines your emotional state. Not the other way around. You can't think your way out of fight-or-flight. You have to regulate physically.</div>
+<div data-i18n-html="article_nervous-system-reset-focus_p64">1. <strong>Polyvagal Theory (Stephen Porges):</strong> an influential and still debated framework. Its practical claim is useful: your physiological state shapes your emotional state, so regulate the body before trying to argue with the thought.</div>
 
-<div data-i18n-html="article_nervous-system-reset-focus_p65">2. <strong>HRV research:</strong> Heart rate variability is the most reliable marker of nervous system health. Higher HRV = better focus, better recovery, better emotional regulation.</div>
+<div data-i18n-html="article_nervous-system-reset-focus_p65">2. <strong>HRV research:</strong> Heart rate variability is a useful, widely used indicator of autonomic function — not a complete measure of 'nervous system health'. In general, higher HRV is associated with better recovery and emotional regulation, though age, fitness and measurement conditions all affect it.</div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p66">3. <strong>Vagus nerve stimulation:</strong> Direct stimulation (through breath, cold, humming) activates the parasympathetic system. Measurable effects within minutes.</div>
 
@@ -270,7 +270,7 @@ Tried complex multi-step routines. Skipped when I missed one part.</div>
 <div data-i18n-html="article_nervous-system-reset-focus_p83"><strong>Body:</strong>
 - Cold water on face/wrists — quick vagal activation
 - Body scan — releases tension
-- Walking outside — combines movement + nature (proven to downregulate)</div>
+- Walking outside — movement plus daylight tends to calm the system</div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p84"><strong>Mind (after body):</strong>
 - Single-sensory focus

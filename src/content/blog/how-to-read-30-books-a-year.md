@@ -90,7 +90,7 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p18"><h3>The Tracking</h3></div>
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p19">Paper paper calendar on the wall next to my desk. X for each day I read. No judgment on what I read or how much. Just X.</div>
+<div data-i18n-html="article_how-to-read-30-books-a-year_p19">Paper calendar on the wall next to my desk. X for each day I read. No judgment on what I read or how much. Just X.</div>
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p20">I made this visible because my goal wasn't to hit 30 books. My goal was to become someone who reads daily. Visibility creates identity.</div>
 
@@ -226,7 +226,7 @@ relatedArticles:
 
 <hr />
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p70"><em>Youssef Raihane spent 90 days in 2026 building a 20-minute daily reading habit. He finished 7 books (12 in progress), wrote 87 one-line summaries, and discovered that the books he'd been avoiding — Meditations, Thinking Fast and Slow — were exactly the ones he he needed. He's the is now on day 73 of his next 90.</em></div>
+<div data-i18n-html="article_how-to-read-30-books-a-year_p70"><em>Youssef Raihane spent 90 days in 2026 building a 20-minute daily reading habit. He finished 7 books (12 in progress), wrote 87 one-line summaries, and discovered that the books he'd been avoiding — Meditations, Thinking Fast and Slow — were exactly the ones he needed. He is now on day 73 of his next 90.</em></div>
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p71"><h2>Sources</h2></div>
 

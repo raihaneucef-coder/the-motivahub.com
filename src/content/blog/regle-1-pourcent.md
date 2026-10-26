@@ -67,15 +67,15 @@ relatedArticles:
 10 pages per day = 3,650 pages per year = about 18 books. That is more than most people read in a decade.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p9"><h3>2. Exercise 10 Minutes Per Day</h3>
-10 minutes per day = 60 hours per year. That is enough to transform your health.</div>
+10 minutes per day = 60 hours per year. That is enough to meet the basic activity guidelines and to make a visible difference in energy for most sedentary people.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p10"><h3>3. Practice a Skill 15 Minutes Per Day</h3>
-15 minutes per day = 90 hours per year. That is enough to go from beginner to competent in almost any skill.</div>
+15 minutes per day = 90 hours per year. That is enough to move from beginner to solidly intermediate in a narrowly defined skill — a language's first thousand words, basic guitar chords, one programming language's fundamentals.</div>
 
-<div data-i18n-html="article_regle-1-pourcent_p17">The science behind 'small and daily' is not just arithmetic — it is behavior. BJ Fogg's research on tiny habits at Stanford found that motivation is unreliable, so the winning move is to shrink the action until it feels almost too easy, attaching it to a routine you already have. A 1% step you actually repeat every day beats a 10% plan you abandon by Thursday. The compounding the slogan celebrates is the compounding of showing up, not of heroics.</div>
+<div data-i18n-html="article_regle-1-pourcent_p17">The reasoning behind 'small and daily' is behavioural, not just arithmetic. BJ Fogg's behaviour model, developed at Stanford, treats motivation as the least reliable of the three levers (motivation, ability, prompt) — so the practical move is to shrink the action until it feels almost too easy, then attach it to a routine you already have. A 1% step you actually repeat every day beats a 10% plan you abandon by Thursday. The compounding the slogan celebrates is the compounding of showing up, not of heroics.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p11"><h3>4. Meditate 5 Minutes Per Day</h3>
-5 minutes per day = 30 hours per year. That is enough to rewire your brain for calm and focus.</div>
+5 minutes per day = 30 hours per year. That is enough to build a consistent practice; claims that a few minutes a day 'rewires' the brain overstate what the evidence supports.</div>
 
 <div data-i18n-html="article_regle-1-pourcent_p12"><h2>Why 1% Works</h2></div>
 

@@ -72,7 +72,7 @@ relatedArticles:
 
 <div data-i18n-html="article_histoire-professeur_p12">The most fulfilled people pursue significance.</div>
 
-<div data-i18n-html="article_histoire-professeur_p17">Education research keeps arriving at the same variable: what most changes a child's trajectory is not curriculum, funding, or class size but the presence of at least one adult who is convinced the child is capable. Longitudinal work from Harvard's Center on the Developing Child links a single stable, caring adult to measurably lower toxic stress and higher rates of college enrollment.</div>
+<div data-i18n-html="article_histoire-professeur_p17">Education research keeps arriving at the same variable: what most changes a child's trajectory is not curriculum, funding, or class size but the presence of at least one adult who is convinced the child is capable. Research summarised by Harvard's Center on the Developing Child identifies at least one stable, caring adult as a key protective factor against toxic stress; the link to college enrolment is plausible but less firmly established than the stress finding.</div>
 
 <div data-i18n-html="article_histoire-professeur_p13"><blockquote><em>The best time to plant a tree was 20 years ago. The second best time is now. — Chinese Proverb</em></blockquote></div>
 

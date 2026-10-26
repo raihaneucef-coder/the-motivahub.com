@@ -78,6 +78,6 @@ Start with a salesperson's upsell ("No thanks, just the base model"), then a col
 <div data-i18n-html="article_art-dire-non_p13"><h3>5. Remember Your Priorities</h3>
 Every time you say no, you are <a href="/journal/quiet-power-of-doing-less/">saying yes to your priorities</a>. Your priorities deserve your protection.</div>
 
-<div data-i18n-html="article_art-dire-non_p14"><blockquote><em>The difference between successful people and really successful people is that really successful people say no to almost everything. — Warren Buffett</em></blockquote></div>
+<div data-i18n-html="article_art-dire-non_p14"><blockquote><em>The difference between successful people and really successful people is that really successful people say no to almost everything. — attributed to Warren Buffett</em></blockquote></div>
 
 <div data-i18n-html="article_art-dire-non_p16"><strong>Master the art of no.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you to protect your time. Track your boundaries with our <a href="/tracker/">Habit Tracker</a>.</div>

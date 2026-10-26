@@ -62,7 +62,7 @@ relatedArticles:
 - "I am bad at math" becomes "I am still learning math"
 - "I will never write well" becomes "I have not written well <strong>yet</strong>"</div>
 
-<div data-i18n-html="article_growth-mindset-rewire_p9">This is not positive thinking. It is accurate thinking. Because the science is clear: your brain physically changes when you learn something new. Neuroplasticity proves that intelligence is not fixed — it is built.</div>
+<div data-i18n-html="article_growth-mindset-rewire_p9">This is not positive thinking. It is accurate thinking. Your brain physically changes when you practise something — that is neuroplasticity, and it is why skill is trainable. It does not mean any ability can become exceptional, or that effort alone closes every gap. It means the current level is evidence about today, not a verdict about your ceiling.</div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p10"><h2>The Science Behind the Shift</h2></div>
 

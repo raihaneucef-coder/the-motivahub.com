@@ -28,16 +28,16 @@ faq:
   - q: "What causes procrastination in the brain?"
     a: "The limbic system (emotional, seeks immediate pleasure) hijacks the prefrontal cortex (rational, plans long-term). When a task triggers anxiety or boredom, the brain registers it as a threat and seeks immediate relief. Procrastination is not laziness, it is emotional regulation failure."
   - q: "How do I actually stop procrastinating?"
-    a: "1) Shrink the task until starting feels trivial (just open the document). 2) Set a timer for 10 minutes. 3) Remove choice: schedule at same time daily. 4) Pair the task with something pleasant (music, coffee). 5) Most importantly: forgive yourself, research shows self-blame INCREASES future procrastination (Sirois, 2015)."
+    a: "1) Shrink the task until starting feels trivial (just open the document). 2) Set a timer for 10 minutes. 3) Remove choice: schedule at same time daily. 4) Pair the task with something pleasant (music, coffee). 5) Most importantly: forgive yourself for the last delay. In one study, students who forgave themselves for procrastinating before a first exam procrastinated less before the next one (Wohl, Pychyl & Bennett, 2010)."
   - q: "Is procrastination genetic or learned?"
-    a: "Both. Temperament (impulsivity, sensation-seeking) has about 40 percent heritability. But procrastination PATTERNS are learned responses to task-related anxiety, perfectionism, and reward sensitivity. The good news: cognitive behavioral techniques rewire these patterns in 6-8 weeks." 
+    a: "Both. Twin studies suggest a moderate genetic contribution — roughly a fifth to a third of the variance — while procrastination PATTERNS are learned responses to task-related anxiety, perfectionism, and reward sensitivity. Structured CBT-based programmes can reduce procrastination over several weeks; 6-8 weeks is a typical programme length, not a guaranteed timeline."
 faqFr:
   - q: "Que cause la procrastination dans le cerveau ?"
     a: "Le système limbique (émotionnel, cherche le plaisir immédiat) détourne le contrôle du cortex préfrontal (rationnel, planifie le long terme). Quand une tâche déclenche de l'anxiété ou de l'ennui, le cerveau l'enregistre comme une menace et cherche un soulagement immédiat. La procrastination n'est pas de la paresse, c'est un échec de régulation émotionnelle."
   - q: "Comment arrêter réellement de procrastiner ?"
-    a: "1) Réduisez la tâche jusqu'à ce que commencer paraisse trivial (juste ouvrir le document). 2) Réglez un minuteur sur 10 minutes. 3) Supprimez le choix : planifiez à la même heure chaque jour. 4) Associez la tâche à quelque chose d'agréable (musique, café). 5) Surtout : pardonnez-vous — la recherche montre que se blâmer AUGMENTE la procrastination future (Sirois, 2015)."
+    a: "1) Réduisez la tâche jusqu'à ce que commencer paraisse trivial (juste ouvrir le document). 2) Réglez un minuteur sur 10 minutes. 3) Supprimez le choix : planifiez à la même heure chaque jour. 4) Associez la tâche à quelque chose d'agréable (musique, café). 5) Surtout : pardonnez-vous le dernier retard. Dans une étude, les étudiants qui se pardonnaient d'avoir procrastiné avant un premier examen procrastinaient moins avant le suivant (Wohl, Pychyl et Bennett, 2010)."
   - q: "La procrastination est-elle génétique ou apprise ?"
-    a: "Les deux. Le tempérament (impulsivité, recherche de sensations) a une héritabilité d'environ 40 %. Mais les SCHÉMAS de procrastination sont des réponses apprises à l'anxiété liée à la tâche, au perfectionnisme et à la sensibilité à la récompense. Bonne nouvelle : les techniques cognitivo-comportementales recâblent ces schémas en 6 à 8 semaines."
+    a: "Les deux. Les études de jumeaux suggèrent une contribution génétique modérée — environ un cinquième à un tiers de la variance — tandis que les SCHÉMAS de procrastination sont des réponses apprises à l'anxiété liée à la tâche, au perfectionnisme et à la sensibilité à la récompense. Les programmes structurés de TCC peuvent réduire la procrastination en quelques semaines ; 6 à 8 semaines correspondent à une durée typique de programme, pas à un délai garanti."
 # English route deprecated: the body is French and the intent is covered by
 # real-reason-you-procrastinate (EN). The French page at /fr/journal/ stays live.
 noindex: true
@@ -49,92 +49,92 @@ relatedArticles:
   - "technique-pomodoro"
 ---
 
-<div data-i18n-html="article_vaincre-procrastination_p2">Understand why you procrastinate and learn proven techniques to beat it forever. Practical strategies to take action now.</div>
+<div data-i18n-html="article_vaincre-procrastination_p2">Procrastination is not a scheduling problem. It is a way of avoiding a feeling — boredom, self-doubt, the fear that the work will not be good enough. This guide covers the levers that actually interrupt that loop, in the order that makes them easiest to use.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p3">Tu procrastines pas parce que tu es paresseux. Tu procrastines parce que ton cerveau <strong>évite la douleur</strong> — et la tâche que tu repousses génère de l'inconfort.</div>
+<div data-i18n-html="article_vaincre-procrastination_p3">You do not procrastinate because you are lazy. You procrastinate because your brain <strong>avoids discomfort</strong> — and the task you keep postponing produces it.</div>
 
 
-<div data-i18n-html="article_vaincre-procrastination_p4">Voici la vraie science de la procrastination et comment la vaincre.</div>
+<div data-i18n-html="article_vaincre-procrastination_p4">Here is what the research on procrastination actually supports, and how to use it today.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p5"><h2>1. Comprends pourquoi tu procrastines</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p5"><h2>1. Understand Why You Procrastinate</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p6">La procrastination n'est pas un problème de temps. C'est un problème d'<strong>émotions</strong>.</div>
+<div data-i18n-html="article_vaincre-procrastination_p6">Procrastination is not a problem of time. It is a problem of <strong>emotion</strong>.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p7">Ton cerveau préfère un plaisir immédiat (scroller, regarder une vidéo) à une récompense future (terminer un projet, être en forme). C'est lebiais du « décalage temporel » — le futur est abstrait, le présent est concret.</div>
+<div data-i18n-html="article_vaincre-procrastination_p7">Your brain prefers an immediate reward (scrolling, a video) to a delayed one (finishing a project, getting fit). Researchers call this present bias or temporal discounting: the future is abstract, the present is concrete and loud.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p8"><strong>Le vrai combat :</strong> Tu ne combats pas la paresse. Tu combats l'anxiété, le doute, la peur de l'échec.</div>
+<div data-i18n-html="article_vaincre-procrastination_p8"><strong>The real fight:</strong> you are not fighting laziness. You are negotiating with anxiety, doubt, and the fear of doing it badly.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p9"><h2>2. La règle des 2 minutes (encore)</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p9"><h2>2. The Two-Minute Rule</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p10">Si une tâche te donne envie de fuir, réduis-la à 2 minutes.</div>
+<div data-i18n-html="article_vaincre-procrastination_p10">If a task makes you want to run, shrink it to two minutes.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p11">- « Écrire un rapport » → « Ouvrir le document et écrire le titre »
-- « Faire du sport » → « Mettre tes chaussures de sport »
-- « Étudier » → « Sortir le livre et ouvrir à la bonne page »</div>
+<div data-i18n-html="article_vaincre-procrastination_p11">- "Write a report" → "Open the document and type the title"
+- "Exercise" → "Put your shoes on"
+- "Study" → "Take out the book and open it at the right page"</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p12">Une fois que tu as commencé, continuer est naturel. Le plus dur est de commencer. La règle des 2 minutes supprime cette barrière.</div>
+<div data-i18n-html="article_vaincre-procrastination_p12">Once you have started, continuing is usually easier than starting was. The two-minute version removes the barrier at the doorway, which is where the resistance actually lives.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p13"><h2>3. Le Pomodoro : 25 minutes de feu</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p13"><h2>3. Pomodoro: Twenty-Five Minutes of Fire</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p14">La technique Pomodoro est simple :
-1. Travaille pendant 25 minutes (un « Pomodoro »)
-2. Fais une pause de 5 minutes
-3. Après 4 Pomodoros, prends une pause de 15-30 minutes</div>
+<div data-i18n-html="article_vaincre-procrastination_p14">The technique is simple:
+1. Work for twenty-five minutes (one Pomodoro)
+2. Take a five-minute break
+3. After four Pomodoros, take a fifteen- to thirty-minute break</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p15">Pourquoi ça marche ? Parce que 25 minutes, c'est <strong>assez court pour que ton cerveau accepte</strong>, et <strong>assez long pour faire du vrai travail</strong>.</div>
+<div data-i18n-html="article_vaincre-procrastination_p15">Why it works: twenty-five minutes is <strong>short enough for your brain to accept</strong> and <strong>long enough to produce real work</strong>.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p16"><blockquote><em>Tu ne dois pas être productif pendant 8 heures. Tu dois être productif pendant 25 minutes. Puis encore 25 minutes. Puis encore.</em></blockquote></div>
+<div data-i18n-html="article_vaincre-procrastination_p16"><blockquote><em>You do not have to be productive for eight hours. You have to be productive for twenty-five minutes. Then another twenty-five. Then another.</em></blockquote></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p17"><h2>4. Le « Eat the Frog » — commence par le plus dur</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p17"><h2>4. Eat the Frog: Start With the Hardest Thing</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p18">Mark Twain a dit : « Si tu dois manger une grenouille, fais-le le matin. Si tu dois en manger deux, fais-le en premier. »</div>
+<div data-i18n-html="article_vaincre-procrastination_p18">A line usually attributed to Mark Twain: "If it's your job to eat a frog, it's best to do it first thing in the morning. And if it's your job to eat two frogs, it's best to eat the biggest one first."</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p19">Le « frog » (grenouille) est la tâche que tu redoutes le plus. Celle que tu repousses depuis des jours.</div>
+<div data-i18n-html="article_vaincre-procrastination_p19">The "frog" is the task you dread most — the one you have been postponing for days.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p20"><strong>La règle :</strong> Commence ta journée par la tâche la plus difficile. Tout le reste semblera facile après.</div>
+<div data-i18n-html="article_vaincre-procrastination_p20"><strong>The rule:</strong> start the day with the hardest task. Everything after it feels lighter.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p21">Pourquoi ? Parce que ta volonté est maximale le matin. Plus tu attends, plus la tentation de reporter augmente.</div>
+<div data-i18n-html="article_vaincre-procrastination_p21">Why: attention and self-control are usually highest early, and every hour you wait adds another opportunity to negotiate your way out.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p22"><h2>5. Le environnement détermine le comportement</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p22"><h2>5. Your Environment Sets the Default</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p23">Tu ne procrastines pas parce que tu es faible. Tu procrastines parce que ton environnement te le permet.</div>
+<div data-i18n-html="article_vaincre-procrastination_p23">You do not procrastinate because you are weak. You procrastinate because your environment makes it easy.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p24">- Téléphone à portée de main → tu scrolles
-- Onglets ouverts → tu divises ton attention
-- Canapé confortable → tu ne fais pas de sport</div>
+<div data-i18n-html="article_vaincre-procrastination_p24">- Phone within reach → you scroll
+- Tabs left open → your attention splits
+- Comfortable sofa → you skip the workout</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p25"><strong>Change ton environnement, et tu changeras ton comportement.</strong></div>
+<div data-i18n-html="article_vaincre-procrastination_p25"><strong>Change the environment and the behaviour follows.</strong></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p26">- Mets ton téléphone dans une autre pièce pendant le deep work
-- Utilise un bloqueur de sites (Cold Turkey, Freedom)
-- Prépare ton espace de travail la veille</div>
+<div data-i18n-html="article_vaincre-procrastination_p26">- Put the phone in another room during deep work
+- Use a site blocker (Cold Turkey, Freedom)
+- Set up your workspace the night before</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p27"><h2>6. Le compte à rebours : 5-4-3-2-1</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p27"><h2>6. The 5-4-3-2-1 Countdown</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p28">Mel Robbins a inventé une technique ultra-simple : le compte à rebours <strong>5-4-3-2-1</strong>.</div>
+<div data-i18n-html="article_vaincre-procrastination_p28">Mel Robbins popularised a deliberately simple technique: the <strong>5-4-3-2-1</strong> countdown.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p29">Quand tu sens l'envie de reporter :
-- Compte : 5... 4... 3... 2... 1...
-- Bouge. Maintenant.</div>
+<div data-i18n-html="article_vaincre-procrastination_p29">When you feel the urge to postpone:
+- Count: 5... 4... 3... 2... 1...
+- Move. Now.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p30">Pourquoi ça marche ? Parce que le compteur à rebours coupe le circuit de la pensée. Tu ne laisses pas à ton cerveau le temps de trouver des excuses. Tu passes de « je pense » à « je fais ».</div>
+<div data-i18n-html="article_vaincre-procrastination_p30">Why it can work: the countdown interrupts the rehearsal of excuses and gives your brain a concrete cue to act. It is not magic — it is a transition ritual, and it only helps if the next physical action is already defined.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p31"><h2>7. Perfectionnisme = procrastination déguisée</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p31"><h2>7. Perfectionism Is Procrastination in Disguise</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p32">« Je commencerai quand ce sera parfait. » C'est un mensonge. Le perfectionnisme est la procrastination qui se fait passer pour de la qualité.</div>
+<div data-i18n-html="article_vaincre-procrastination_p32">"I will start when it can be perfect." That is a lie you tell yourself. Perfectionism is procrastination wearing the costume of quality.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p33"><strong>Rien ne sera jamais parfait.</strong> Mais quelque chose de « bien » fait aujourd'hui vaut plus que quelque chose de « parfait » fait jamais.</div>
+<div data-i18n-html="article_vaincre-procrastination_p33"><strong>Nothing will ever be perfect.</strong> But something "good" finished today is worth more than something "perfect" that never ships.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p34">La règle : <strong>done is better than perfect</strong>. Fini est mieux que parfait.</div>
+<div data-i18n-html="article_vaincre-procrastination_p34">The rule: <strong>done is better than perfect</strong> — with one caveat: done and reviewed beats both.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p35">Commence. Ajuste en cours de route. Améliore après. Mais <strong>commence</strong>.</div>
+<div data-i18n-html="article_vaincre-procrastination_p35">Start. Adjust as you go. Improve after. But <strong>start</strong>.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p36"><h2>8. Le suivi transforme l'action en habitude</h2></div>
+<div data-i18n-html="article_vaincre-procrastination_p36"><h2>8. Tracking Turns Action Into a Habit</h2></div>
 
-<div data-i18n-html="article_vaincre-procrastination_p37">Chaque fois que tu fais la tâche que tu voulais reporter, note-la. Coche-la. Célèbre-la.</div>
+<div data-i18n-html="article_vaincre-procrastination_p37">Every time you do the task you wanted to postpone, write it down. Tick it. Acknowledge it.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p38">Le cerveau apprend par <strong>récompense</strong>. Quand tu coches une tâche, tu libères de la dopamine. Cette dopamine renforce le comportement. Tu seras plus susceptible de le refaire demain.</div>
+<div data-i18n-html="article_vaincre-procrastination_p38">The brain learns from <strong>reward and repetition</strong>. Ticking a task gives you a small, immediate signal that the effort counted, and that signal makes the next repetition slightly more likely. It is not a dopamine switch — it is a feedback loop you can design.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p39">Utilise notre <a href="/tracker/">Habit Tracker</a> pour visualiser tes victoires quotidiennes. Chaque coche est une preuve que tu es capable d'agir malgré la résistance.</div>
+<div data-i18n-html="article_vaincre-procrastination_p39">Use our <a href="/tracker/">Habit Tracker</a> to keep those wins visible. Each tick is evidence that you can act despite the resistance.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p41"><strong>Prêt à vaincre la procrastination ?</strong> Commence notre <a href="/30-days-discipline/">30 Days of Discipline</a> — 30 jours pour construire une discipline inébranlable. Chaque jour, une action. Pas de négociation. Pas de perfectionnisme. Juste l'action.</div>
+<div data-i18n-html="article_vaincre-procrastination_p41"><strong>Ready to stop postponing?</strong> Start our <a href="/30-days-discipline/">30 Days of Discipline</a> — thirty days of one action per day, no negotiation and no perfectionism. Just the action.</div>

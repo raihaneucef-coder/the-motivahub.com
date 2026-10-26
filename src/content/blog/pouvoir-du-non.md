@@ -76,13 +76,10 @@ relatedArticles:
 <div data-i18n-html="article_pouvoir-du-non_p12"><h3>1. Be Direct</h3>
 "I cannot do this" is a complete sentence. You do not owe a justification, and a soft excuse is what someone argues with. Say it once, warmly, without apology. The awkwardness is real but short — usually under thirty seconds — and it always costs less than a week of resenting yourself for agreeing.</div>
 
-<div data-i18n-html="article_pouvoir-du-non_p13"><h3>2. Offer an Alternative</h3>
-"I cannot take this on, but I can point you to someone who can" or "not this week, but I could in three weeks" shows you are on the problem, not against the person. Keep it honest — a fake alternative is just a no wearing a nicer coat, and people can tell.</div>
+<div data-i18n-html="article_pouvoir-du-non_p13"><h3>2. Name the Trade</h3>
+Before you answer, finish this sentence silently: "If I say yes to this, I am saying no to ___." Naming the displaced thing turns a vague obligation into a concrete choice. If you cannot fill the blank, the yes is probably cheap. If the blank is your sleep, your child, or the work you say matters, that is your answer.</div>
 
-<div data-i18n-html="article_pouvoir-du-non_p14"><h3>3. Buy Time</h3>
-"Let me look at my week and come back to you" breaks the reflex yes. Most pressure to answer immediately is social, not real. Twenty-four hours lets you notice whether you actually want the thing, whether it collides with an existing commitment, and what you would say if nobody were watching you decide.</div>
-
-<div data-i18n-html="article_pouvoir-du-non_p15"><h3>4. Remember Your Priorities</h3>
+<div data-i18n-html="article_pouvoir-du-non_p14"><h3>3. Remember Your Priorities</h3>
 Before saying yes, ask: "If this were not already on my calendar, would I choose it today?" If the answer is no, the real cost of saying yes is the priority it quietly displaces. Write your top three down somewhere you will actually see them; a no becomes much easier when you can point at what you are protecting.</div>
 
 <div data-i18n-html="article_pouvoir-du-non_p16"><h2>The Discipline of No</h2></div>

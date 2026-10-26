@@ -58,7 +58,7 @@ relatedArticles:
 <div data-i18n-html="article_fond-urgence_p6"><h2>How to Build It</h2></div>
 
 <div data-i18n-html="article_fond-urgence_p7"><h3>1. Start with a €500 Mini-Fund</h3>
-Why €500 specifically? Because most one-off emergencies cluster in the €300-€600 band: a car brake job, an unplanned dentist visit, a washing-machine repair. Covering that range once removes the need to borrow for the single most common disruption. The psychological effect matters as much as the money: reaching the first goal proves the savings habit works, and momentum from a completed small target outlasts intention from an abstract large one.</div>
+Why €500 specifically? Because the most common one-off expenses — a car brake job, an unplanned dentist visit, a washing-machine repair — usually land in the low hundreds, not the low thousands. Covering that range once removes the need to borrow for the single most common disruption. The psychological effect matters as much as the money: reaching a first concrete goal makes the savings habit feel real, and momentum from a completed small target outlasts intention from an abstract large one.</div>
 
 <div data-i18n-html="article_fond-urgence_p8"><h3>2. Automate on Payday, Not Mid-Month</h3>
 Set the transfer to trigger the morning your salary lands, before any bill or spending has access. Behavioural economists call this "what is saved is invisible": money you never see in checking is money you never miss. A €200/month auto-transfer on a €2 200 salary feels painless; the same €200 manually moved on the 15th feels like deprivation because you have already mentally spent it.</div>

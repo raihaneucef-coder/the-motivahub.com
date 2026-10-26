@@ -35,7 +35,7 @@ faq:
   - q: "What should I write about in my journal?"
     a: "Start with three prompts: (1) What am I grateful for today? (2) What did I learn today? (3) What am I struggling with? These cover the three core functions of journaling: appreciation, learning, and problem-solving. Add more as the habit establishes."
   - q: "Does journaling actually work?"
-    a: "Yes. Pennebaker's expressive-writing studies (15–20 minutes per session, 3–4 consecutive days) consistently show reduced anxiety, improved mood, and greater cognitive clarity. The effect is cumulative — daily journaling over weeks produces noticeable changes in self-awareness and decision-making."
+    a: "Yes, with limits. Pennebaker's expressive-writing studies (15–20 minutes per session, 3–4 consecutive days) found modest improvements in mood and reported stress, mostly for people processing difficult events; later meta-analyses show the effect is real but smaller than early coverage suggested, and immune-marker changes are inconsistent. Daily journaling over weeks tends to improve self-awareness and decision-making for people who review what they wrote, not merely for people who fill pages."
 faqFr:
   - q: "Comment le journaling aide-t-il la croissance personnelle ?"
     a: "Tenir un journal vous force à examiner vos pensées objectivement, à traiter les émotions bloquées et à trouver des solutions par l'écriture. Le paradigme de l'écriture expressive (Pennebaker, 1997) a montré des réductions du stress et une amélioration de la conscience de soi ; les effets sur la santé physique (marqueurs immunitaires) apparaissent dans certaines premières études mais sont plus faibles et moins constants dans les méta-analyses ultérieures. L'acte d'écrire engage le cerveau différemment de la simple réflexion."
@@ -44,7 +44,7 @@ faqFr:
   - q: "Que dois-je écrire dans mon journal ?"
     a: "Commencez par trois amorces : (1) pour quoi suis-je reconnaissant aujourd'hui ? (2) qu'ai-je appris aujourd'hui ? (3) avec quoi est-ce que je lutte ? Elles couvrent les trois fonctions du journaling : appréciation, apprentissage, résolution de problème. Ajoutez le reste quand l'habitude sera installée."
   - q: "Le journaling fonctionne-t-il vraiment ?"
-    a: "Oui. Les études de Pennebaker sur l'écriture expressive (15–20 min par session, 3–4 jours consécutifs) montrent des réductions constantes de l'anxiété, une amélioration de l'humeur et une plus grande clarté cognitive. L'effet est cumulatif — journaliser quotidiennement pendant plusieurs semaines produit des changements notables de conscience de soi et de prise de décision."
+    a: "Oui, avec des limites. Les études de Pennebaker sur l'écriture expressive (15–20 min par session, 3–4 jours consécutifs) ont trouvé des améliorations modestes de l'humeur et du stress déclaré, surtout chez des personnes qui traversaient un événement difficile ; les méta-analyses ultérieures confirment un effet réel mais plus faible que ce que laissaient entendre les premiers articles, et les changements de marqueurs immunitaires sont inconstants. Journaliser quotidiennement pendant des semaines aide surtout à la conscience de soi et à la prise de décision si l'on relit ce que l'on a écrit, pas seulement si l'on remplit des pages."
 relatedArticles:
   - "long-ascent"
   - "regle-1-pourcent"

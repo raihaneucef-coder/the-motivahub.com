@@ -27,14 +27,14 @@ faq:
   - q: "What are identity-based habits?"
     a: "Identity-based habits focus on WHO you want to become rather than WHAT you want to achieve. Instead of 'I want to run a marathon' (outcome), say 'I am a runner' (identity). Every small action becomes a vote for that identity."
   - q: "How do I change my identity to build better habits?"
-    a: "Two steps: (1) Decide who you want to be — write it as 'I am a person who [X]', (2) Prove it with small wins — each tiny action is a vote. After 30-60 consistent votes, your brain updates its self-image. The identity shift happens before results appear."
+    a: "Two steps: (1) Decide who you want to be — write it as 'I am a person who [X]', (2) Prove it with small wins — each tiny action is a vote. There is no fixed number of votes at which the self-image flips; what changes it is repetition plus noticing the evidence. Keep a visible record of the actions, because the shift depends on remembering them, not on accumulating a magic count."
   - q: "Why does identity change work better than goal-setting?"
     a: "Goals create a pass/fail binary — you either hit them or you don't. Identity creates a continuous spectrum — every action either supports or contradicts who you believe you are. Identity-based change is self-sustaining because it doesn't require reaching a finish line."
 faqFr:
   - q: "Qu'est-ce que les habitudes basées sur l'identité ?"
     a: "Les habitudes basées sur l'identité se concentrent sur QUI vous voulez devenir plutôt que QUOI vous voulez accomplir. Au lieu de « je veux courir un marathon » (résultat), dites « je suis un coureur » (identité)."
   - q: "Comment changer mon identité pour construire de meilleures habitudes ?"
-    a: "Deux étapes : (1) Décidez qui vous voulez être — écrivez « je suis une personne qui [X] », (2) Prouvez-le par de petites victoires — chaque action est un vote. Après 30-60 votes cohérents, votre cerveau met à jour son image de soi."
+    a: "Deux étapes : (1) Décidez qui vous voulez être — écrivez « je suis une personne qui [X] », (2) Prouvez-le par de petites victoires — chaque action est un vote. Il n'existe pas de nombre de votes à partir duquel l'image de soi bascule : ce qui la change, c'est la répétition et le fait de remarquer les preuves. Tenez un relevé visible de vos actions, car le changement dépend de votre mémoire de ces actions, pas d'un compteur magique."
   - q: "Pourquoi le changement d'identité fonctionne mieux que les objectifs ?"
     a: "Les objectifs créent un binaire succès/échec. L'identité crée un spectre continu — chaque action soutient ou contredit qui vous croyez être. Le changement basé sur l'identité est auto-entretenu car il ne nécessite pas d'atteindre une ligne d'arrivée."
 

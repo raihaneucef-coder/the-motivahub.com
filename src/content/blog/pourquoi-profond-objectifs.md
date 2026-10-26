@@ -1,10 +1,10 @@
 ---
-title: "The Goal Behind the Goal: Finding Your Deep Why"
-seoTitle: "The Goal Behind the Goal: Finding Your Deep Why"
-description: "Every goal has a deeper purpose. Finding your deep why gives you the resilience to keep going when the surface motivation runs out and things get hard."
-titleFr: "L'objectif derrière l'objectif : trouver ton pourquoi profond"
-seoTitleFr: "Trouver son pourquoi profond"
-descriptionFr: "Chaque objectif a un but plus profond. Trouver ton pourquoi profond te donne la résilience de continuer quand les choses deviennent difficiles."
+title: "How to Find Your Why: The Emotional Reason That Outlasts Motivation"
+seoTitle: "Find Your Why — The One Reason That Keeps You Going"
+description: "Surface motivation fades within weeks. A deep personal 'why' — found through one honest exercise — carries you through the hardest months. Here is how to uncover it."
+titleFr: "Trouver ton pourquoi profond : la raison émotionnelle qui survit à la motivation"
+seoTitleFr: "Trouver ton pourquoi profond — la raison qui te fait continuer"
+descriptionFr: "La motivation de surface disparaît en quelques semaines. Un « pourquoi » profond — trouvé avec un seul exercice honnête — te porte pendant les mois les plus durs. Voici comment le découvrir."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

@@ -53,10 +53,10 @@ relatedArticles:
 <div data-i18n-html="article_zone-confort-croissance_p4"><h2>The Three Zones</h2></div>
 
 <div data-i18n-html="article_zone-confort-croissance_p5"><h3>1. Comfort Zone</h3>
-Everything is familiar. Performance is stable but no new neural pathways form. Exercise scientists call this the detraining threshold: the stimulus that once produced adaptation now maintains the status quo. You are not choosing safety — your nervous system has simply stopped receiving a reason to change.</div>
+Everything is familiar. Performance is stable but no new neural pathways form. In training terms, the same load has stopped being a stimulus: it maintains what you already have but no longer asks the body to adapt. You are not choosing safety — your nervous system has simply stopped receiving a reason to change.</div>
 
 <div data-i18n-html="article_zone-confort-croissance_p6"><h3>2. Growth Zone (Stretch Zone)</h3>
-Things are challenging but manageable. Vygotsky called this the Zone of Proximal Development: the task you cannot finish alone but can finish with slight effort or guidance. In practice, aim for a 4 percent stretch — one uncomfortable sentence in a meeting of three, not a keynote to five hundred. Yerkes-Dodson research confirms that moderate arousal sharpens focus; it is the dose, not the discomfort itself, that produces growth.</div>
+Things are challenging but manageable. Vygotsky called this the Zone of Proximal Development: the task you cannot finish alone but can finish with slight effort or guidance. In practice, aim just past the edge — one uncomfortable sentence in a meeting of three, not a keynote to five hundred. The Yerkes-Dodson curve, a century-old model, still describes the pattern: moderate arousal tends to sharpen focus, while too little and too much both hurt performance. It is the dose, not the discomfort itself, that produces growth.</div>
 
 <div data-i18n-html="article_zone-confort-croissance_p7"><h3>3. Panic Zone</h3>
 The challenge is so far beyond your current capacity that cortisol overwhelms prefrontal function. You freeze, perform poorly, and your brain encodes the experience as threat rather than data. A first public talk to 200 people without any prior small-group practice is not bravery — it is a bad training protocol that makes the next attempt harder.</div>

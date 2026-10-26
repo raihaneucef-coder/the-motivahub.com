@@ -53,7 +53,7 @@ relatedArticles:
   - "the-shop-that-stayed-open"
 ---
 
-<div data-i18n-html="article_histoire-concierge-millionnaire_p2">Ronald Read cleaned floors for 25 years. When he died, he left behind 8 million dollars. His story proves that wealth is built with patience, not shortcuts.</div>
+<div data-i18n-html="article_histoire-concierge-millionnaire_p2">Ronald Read worked for decades as a gas-station attendant and a department-store janitor. When he died at 92, he left behind roughly 8 million dollars. His life is a useful illustration of a plain idea: wealth is usually built quietly, over time, not through a single shortcut.</div>
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p3">Ronald Read was a janitor in Vermont. He cleaned floors at JCPenney and pumped gas at a gas station. He drove a used car. He wore safety pins to hold his coat together.</div>
 
@@ -73,11 +73,11 @@ relatedArticles:
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p8">Wealth is not about how much you earn. It is about how much you keep and how long you let it grow. Read earned an average salary his entire life. But he lived like he earned half of that and invested the rest.</div>
 
-<div data-i18n-html="article_histoire-concierge-millionnaire_p9">The math is simple:
+<div data-i18n-html="article_histoire-concierge-millionnaire_p9">The math is simple — and it assumes an 8% average annual return before inflation, fees and taxes, which is not guaranteed:
 <ul>
-<li>Save 500€ per month</li>
-<li>Invest in index funds returning 8% per year</li>
-<li>After 30 years: 745,000€</li>
+<li>Save €500 per month</li>
+<li>Invest in a low-cost index fund</li>
+<li>At 8% a year, after 30 years: roughly €745,000 in nominal terms</li>
 </ul></div>
 
 <div data-i18n-html="article_histoire-concierge-millionnaire_p10">You do not need to be a genius. You need to be patient. Housel turns this into the central lesson of <a href="/journal/psychology-of-money-business/">our Psychology of Money breakdown</a>.</div>

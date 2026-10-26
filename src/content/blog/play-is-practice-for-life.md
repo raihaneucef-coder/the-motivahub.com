@@ -25,7 +25,7 @@ tags:
 wordCount: 336
 faq:
   - q: "Why is play important for adults?"
-    a: "Play isn't the opposite of productivity — it's the training ground. Stuart Brown's research (National Institute for Play) found that adults who play regularly show higher creativity, better stress resilience, and stronger social bonds. Deprivation of play correlates with depression and rigidity."
+    a: "Play is not the opposite of productivity — it is a training ground. Stuart Brown and the National Institute for Play argue, from decades of observational work, that play supports creativity, stress tolerance and social bonding; the strength of that evidence varies by outcome, and it is better described as a well-supported hypothesis than as a proven causal law. What is clear is the pattern: adults who stop playing tend to describe themselves as more rigid, not more mature."
   - q: "How does play prepare us for real life?"
     a: "In games, you practice risk-taking without consequence, negotiation, creative problem-solving, and emotional regulation (losing without quitting). These are the same skills needed in business and relationships. Play compresses decades of life experience into hours of low-stakes experimentation."
   - q: "Am I wasting time if I play games or sports?"

@@ -25,7 +25,7 @@ tags:
 wordCount: 353
 faq:
   - q: "Why do successful people often feel empty after achievement?"
-    a: "The arrival fallacy (Buddhist psychology plus Dan Gilbert research): humans overestimate the lasting happiness a single achievement brings. Hedonic adaptation resets you within 3-6 months. If success is a destination, you are homeless the moment you arrive. If it is a direction, every day counts."
+    a: "The arrival fallacy (Dan Gilbert's research on affective forecasting): humans overestimate the lasting happiness a single achievement brings. Hedonic adaptation usually pulls you back toward your baseline within weeks to a few months, depending on the event and the person. If success is a destination, you are homeless the moment you arrive. If it is a direction, every day counts."
   - q: "How do I find my direction if I do not know my purpose?"
     a: "Direction does not require one perfect answer. Pick a compass bearing: toward more creativity or toward serving others. You can adjust, a navigator changes heading frequently but always moves somewhere. The mistake is not picking wrong; it is standing still because you cannot find perfect."
   - q: "What is the difference between goals and direction?"

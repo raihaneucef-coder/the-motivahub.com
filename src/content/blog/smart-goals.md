@@ -49,7 +49,7 @@ relatedArticles:
 <div data-i18n-html="article_smart-goals_p3">"I want to be successful" is not a goal. It is a wish. And wishes do not come true — plans do.</div>
 
 
-<div data-i18n-html="article_smart-goals_p4">The SMART framework transforms vague wishes into actionable plans. It is the most proven goal-setting system in the world — and it works.</div>
+<div data-i18n-html="article_smart-goals_p4">The SMART framework turns vague wishes into actionable plans. It is the most widely used goal-setting checklist in management writing — not because it is the only valid one, but because it forces specificity into a sentence that would otherwise stay a wish. Its evidence base is strongest for specific, challenging goals, which consistently outperform 'do your best' instructions in Locke and Latham's research.</div>
 
 <div data-i18n-html="article_smart-goals_p5"><h2>What Does SMART Stand For?</h2></div>
 

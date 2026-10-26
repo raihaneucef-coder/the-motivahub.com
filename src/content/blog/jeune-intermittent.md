@@ -1,8 +1,8 @@
 ---
 title: "Intermittent Fasting: Does It Really Work?"
-description: "Intermittent fasting is the most popular eating pattern in the world. But does it actually deliver results? The science says yes — with a caveat."
+description: "Intermittent fasting is the most popular eating pattern in the world. But does it actually deliver results? The evidence is promising — and more modest than the headlines."
 titleFr: "Jeûne intermittent : est-ce que ça marche vraiment ?"
-descriptionFr: "Le jeûne intermittent est le mode alimentaire le plus populaire au monde. Mais donne-t-il vraiment des résultats ? La science dit oui — avec une réserve."
+descriptionFr: "Le jeûne intermittent est le mode alimentaire le plus populaire au monde. Mais donne-t-il vraiment des résultats ? Les preuves sont prometteuses — et plus modestes que les gros titres."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "6 MIN"
@@ -43,7 +43,7 @@ relatedArticles:
   - "meal-prep-dimanche"
 ---
 
-<div data-i18n-html="article_jeune-intermittent_p2">Intermittent fasting is the most popular eating pattern in the world. But does it actually deliver results? The science says yes — with a caveat.</div>
+<div data-i18n-html="article_jeune-intermittent_p2">Intermittent fasting is the most popular eating pattern in the world. But does it actually deliver results? The evidence is promising — and more modest than the headlines.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p3">Intermittent fasting (IF) is not a diet — it is an eating pattern. You cycle between periods of eating and fasting. The most common method is 16:8 — fast for 16 hours, eat for 8.</div>
 
@@ -56,7 +56,7 @@ IF reduces calorie intake naturally. When you eat in a shorter window, you tend 
 <div data-i18n-html="article_jeune-intermittent_p18">The honest headline from head-to-head trials: when calories are matched, intermittent fasting tends to produce weight loss roughly similar to conventional calorie counting. In other words, IF is not metabolically magic — it is a delivery mechanism. For some people a compressed eating window makes the deficit effortless; for others it triggers evening overeating. The right question is not 'does IF work' but 'can I keep this pattern without feeling punished', because adherence, not timing, does the actual work.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p6"><h3>2. Insulin Sensitivity</h3>
-Fasting lowers insulin levels, which improves insulin sensitivity. This reduces the risk of type 2 diabetes.</div>
+Fasting lowers insulin levels and can improve insulin sensitivity in the short term. Whether that translates into lower type 2 diabetes risk over years depends on weight, diet quality and activity; the evidence for fasting specifically is promising but not conclusive.</div>
 
 <div data-i18n-html="article_jeune-intermittent_p7"><h3>3. Cellular Repair</h3>
 Fasting upregulates autophagy — a cellular cleanup pathway that recycles damaged proteins. The evidence is strong in animal and cell studies; human data relies on indirect blood markers and remains preliminary. Researchers have not yet confirmed that a 16-hour fast produces the same autophagy magnitude seen in 48–72-hour animal models.</div>

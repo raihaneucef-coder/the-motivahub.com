@@ -49,100 +49,100 @@ relatedArticles:
   - "time-blocking-journee"
 ---
 
-<div data-i18n-html="article_productivite-efficace_p2">Boost your productivity with proven strategies. Learn to manage your time, eliminate distractions, and focus on what truly matters.</div>
+<div data-i18n-html="article_productivite-efficace_p2">Productivity is not a personality trait and it is not a longer to-do list. It is the gap between the hours you have and the work that actually moves something. This guide is about closing that gap: choosing the two or three tasks that matter, protecting a block of time for them, and cutting the rituals that only look like work.</div>
 
-<div data-i18n-html="article_productivite-efficace_p3">Être productif ne signifie pas faire plus. C'est faire <strong>mieux</strong> — moins de bruit, plus de résultat.</div>
+<div data-i18n-html="article_productivite-efficace_p3">Being productive does not mean doing more. It means doing <strong>better</strong> work — less noise, more result.</div>
 
 
-<div data-i18n-html="article_productivite-efficace_p4">Voici les stratégies les plus efficaces pour transformer ta journée sans travailler plus dur.</div>
+<div data-i18n-html="article_productivite-efficace_p4">Here are the strategies that actually change a working day, without adding hours to it.</div>
 
-<div data-i18n-html="article_productivite-efficace_p5"><h2>1. Le Deep Work est ton superpower</h2></div>
+<div data-i18n-html="article_productivite-efficace_p5"><h2>1. Deep Work Is the Multiplier</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p6">Cal Newport l'a démocratisé : le <strong>deep work</strong> — travail profond, sans interruption — est la compétence la plus rare et la plus précieuse du XXIe siècle.</div>
+<div data-i18n-html="article_productivite-efficace_p6">Cal Newport popularised the term: <strong>deep work</strong> — focused effort without interruption — is among the rarest and most valuable skills of the century.</div>
 
-<div data-i18n-html="article_productivite-efficace_p7">La plupart des gens travaillent en mode « shallow » : emails, notifications, réunions. Le résultat ? 8 heures de travail pour 2 heures de vrai résultat.</div>
+<div data-i18n-html="article_productivite-efficace_p7">Most people work in shallow mode: email, notifications, meetings. The result is eight hours of work for two hours of output.</div>
 
-<div data-i18n-html="article_productivite-efficace_p8"><strong>La règle :</strong> Bloque 2 à 4 heures chaque jour pour un travail sans interruption. Pas de téléphone. Pas d'emails. Pas de notifications.</div>
+<div data-i18n-html="article_productivite-efficace_p8"><strong>The rule:</strong> block two to four hours a day for uninterrupted work. No phone. No email. No notifications.</div>
 
-<div data-i18n-html="article_productivite-efficace_p9">Le meilleur moment ? Le matin, quand ton cerveau est frais. Avant que le monde ne commence à te réclamer.</div>
+<div data-i18n-html="article_productivite-efficace_p9">The best slot is usually the morning, when attention is freshest and before anyone else starts making claims on it.</div>
 
-<div data-i18n-html="article_productivite-efficace_p10"><h2>2. La règle des 80/20</h2></div>
+<div data-i18n-html="article_productivite-efficace_p10"><h2>2. The 80/20 Rule</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p11">80% des résultats viennent de 20% des actions. C'est le principe de Pareto — et c'est la clé de la productivité.</div>
+<div data-i18n-html="article_productivite-efficace_p11">Roughly 80% of results come from 20% of actions. That is the Pareto principle, and applied to a working day it is the difference between motion and progress.</div>
 
-<div data-i18n-html="article_productivite-efficace_p12">Pose-toi la question chaque matin : <strong>quelle est la SEULE chose qui rendra les autres plus faciles ?</strong></div>
+<div data-i18n-html="article_productivite-efficace_p12">Ask one question each morning: <strong>what is the single thing that would make everything else easier?</strong></div>
 
-<div data-i18n-html="article_productivite-efficace_p13">- Pas 10 tâches. UNE tâche.
-- Pas 5 priorités. UNE priorité.
-- Pas un to-do list de 20 items. UN objectif.</div>
+<div data-i18n-html="article_productivite-efficace_p13">- Not ten tasks. One task.
+- Not five priorities. One priority.
+- Not a twenty-item list. One outcome.</div>
 
-<div data-i18n-html="article_productivite-efficace_p14">Le reste est du bruit. Le bruit peut attendre.</div>
+<div data-i18n-html="article_productivite-efficace_p14">Everything else is noise, and noise can wait until the one thing is moving.</div>
 
-<div data-i18n-html="article_productivite-efficace_p15"><h2>3. L'énergie avant le temps</h2></div>
+<div data-i18n-html="article_productivite-efficace_p15"><h2>3. Energy Comes Before Time</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p16">Tu peux bloquer 8 heures dans ton agenda. Mais si tu n'as pas l'énergie, ces 8 heures ne valent rien.</div>
+<div data-i18n-html="article_productivite-efficace_p16">You can block eight hours in a calendar. Without energy, those eight hours produce very little.</div>
 
-<div data-i18n-html="article_productivite-efficace_p17">La productivité n'est pas une question de temps. C'est une question d'énergie.</div>
+<div data-i18n-html="article_productivite-efficace_p17">Productivity is less a question of time than of energy — and energy is built by a small number of unglamorous inputs.</div>
 
-<div data-i18n-html="article_productivite-efficace_p18">Trois piliers :
-- <strong>Sommeil</strong> : 7-8 heures. Non négociable. Le sommeil est le fondement de toute productivité.
-- <strong>Mouvement</strong> : 30 minutes d'activité physique. Le corps alimente le cerveau.
-- <strong>Nutrition</strong> : Mange pour performer, pas pour combler. Protéines, légumes, hydratation.</div>
+<div data-i18n-html="article_productivite-efficace_p18">Three pillars:
+- <strong>Sleep</strong>: seven to eight hours. Not negotiable. Sleep is the floor everything else stands on.
+- <strong>Movement</strong>: thirty minutes of activity. The body supplies the brain.
+- <strong>Nutrition</strong>: eat to work, not to fill. Protein, vegetables, water.</div>
 
-<div data-i18n-html="article_productivite-efficace_p19"><blockquote><em>Tu ne peux pas être productif si tu es épuisé. Prends soin de toi d'abord.</em></blockquote></div>
+<div data-i18n-html="article_productivite-efficace_p19"><blockquote><em>You cannot be productive while running on empty. Take care of the engine first.</em></blockquote></div>
 
-<div data-i18n-html="article_productivite-efficace_p20"><h2>4. Le Time Blocking</h2></div>
+<div data-i18n-html="article_productivite-efficace_p20"><h2>4. Time Blocking</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p21">Le Time Blocking consiste à assigner une tâche spécifique à chaque créneau de ta journée.</div>
+<div data-i18n-html="article_productivite-efficace_p21">Time blocking assigns a specific task to each slot of the day, so that the calendar makes the decision instead of your mood.</div>
 
-<div data-i18n-html="article_productivite-efficace_p22">Exemple :
-- 7h-9h : Deep Work (projet principal)
-- 9h-9h30 : Emails et messages
-- 9h30-11h : Réunions
-- 11h-12h : Tâches administratives
-- 14h-16h : Deep Work (deuxième session)
-- 16h-17h : Préparation du lendemain</div>
+<div data-i18n-html="article_productivite-efficace_p22">A workable template:
+- 7–9 am: deep work (main project)
+- 9–9:30 am: email and messages
+- 9:30–11 am: meetings
+- 11 am–12 pm: admin
+- 2–4 pm: deep work (second session)
+- 4–5 pm: prepare tomorrow</div>
 
-<div data-i18n-html="article_productivite-efficace_p23">Sans Time Blocking, le temps fuit. Avec Time Blocking, chaque minute a un rôle.</div>
+<div data-i18n-html="article_productivite-efficace_p23">Without blocks, time leaks. With blocks, every hour has a job.</div>
 
-<div data-i18n-html="article_productivite-efficace_p24"><h2>5. Élimine les distractions avant qu'elles n'éliminent ta journée</h2></div>
+<div data-i18n-html="article_productivite-efficace_p24"><h2>5. Remove Distractions Before They Remove Your Day</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p25">La distraction n'est pas un ennemi visible. C'est une goutte d'eau qui perce la roche — imperceptible au début, dévastatrice à la fin.</div>
+<div data-i18n-html="article_productivite-efficace_p25">Distraction is not a visible enemy. It is water on rock — imperceptible at first, decisive over months.</div>
 
-<div data-i18n-html="article_productivite-efficace_p26"><strong>Les tueurs de productivité :</strong>
-- Notifications du téléphone
-- Onglets ouverts dans le navigateur
-- Réunions inutiles
-- Multitâche (le mythe le plus dangereux de notre époque)</div>
+<div data-i18n-html="article_productivite-efficace_p26"><strong>The usual killers:</strong>
+- Phone notifications
+- Open browser tabs
+- Meetings that could have been a message
+- Multitasking, the most expensive myth of the era</div>
 
-<div data-i18n-html="article_productivite-efficace_p27"><strong>La solution :</strong>
-- Mode avion pendant le deep work
-- Ferme tous les onglets sauf celui que tu utilises
-- Dis non aux réunions sans agenda
-- Fais UNE chose à la fois</div>
+<div data-i18n-html="article_productivite-efficace_p27"><strong>The fix:</strong>
+- Airplane mode during deep work
+- Close every tab except the one you are using
+- Decline meetings without an agenda
+- Do one thing at a time</div>
 
-<div data-i18n-html="article_productivite-efficace_p28"><h2>6. La règle du « deux minutes »</h2></div>
+<div data-i18n-html="article_productivite-efficace_p28"><h2>6. The Two-Minute Rule</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p29">Si une tâche prend moins de 2 minutes, fais-la maintenant. Ne la note pas. Ne la reporte pas. Fais-la.</div>
+<div data-i18n-html="article_productivite-efficace_p29">If a task takes less than two minutes, do it now. Do not write it down. Do not reschedule it. Do it.</div>
 
-<div data-i18n-html="article_productivite-efficace_p30">Pourquoi ? Parce que le coût mental de reporter une tâche de 2 minutes est plus élevé que le coût de la faire immédiatement.</div>
+<div data-i18n-html="article_productivite-efficace_p30">Why? Because the mental cost of tracking a two-minute task is higher than the cost of finishing it immediately.</div>
 
-<div data-i18n-html="article_productivite-efficace_p31">Exemples :
-- Répondre à un email court
-- Ranger un objet
-- Confirmer un rendez-vous
-- Noter une idée</div>
+<div data-i18n-html="article_productivite-efficace_p31">Examples:
+- Reply to a short email
+- Put one object back where it belongs
+- Confirm an appointment
+- Write down an idea before it disappears</div>
 
-<div data-i18n-html="article_productivite-efficace_p32"><h2>7. Le coucher productif</h2></div>
+<div data-i18n-html="article_productivite-efficace_p32"><h2>7. Close the Day on Purpose</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p33">La productivité du lendemain se décide la veille au soir.</div>
+<div data-i18n-html="article_productivite-efficace_p33">Tomorrow's productivity is decided the night before.</div>
 
-<div data-i18n-html="article_productivite-efficace_p34">Avant de te coucher :
-1. Note les 3 priorités de demain
-2. Prépare ton espace de travail
-3. Éteins les écrans 30 minutes avant de dormir
-4. Refais le point sur ta journée — ce qui a marché, ce qui peut s'améliorer</div>
+<div data-i18n-html="article_productivite-efficace_p34">Before bed:
+1. Write tomorrow's three priorities
+2. Set up your workspace
+3. Turn off screens thirty minutes before sleep
+4. Review the day — what worked, what you would change</div>
 
-<div data-i18n-html="article_productivite-efficace_p35"><blockquote><em>Le matin ne s'invente pas le matin. Il se prépare la veille.</em></blockquote></div>
+<div data-i18n-html="article_productivite-efficace_p35"><blockquote><em>The morning is not invented in the morning. It is prepared the night before.</em></blockquote></div>
 
-<div data-i18n-html="article_productivite-efficace_p37"><strong>Veux-tu structurer ta journée ?</strong> Essaie notre <a href="/30-days-discipline/">30 Days of Discipline</a> pour créer des routines qui durent. Et utilise notre <a href="/tracker/">Habit Tracker</a> pour suivre tes progrès quotidiens.</div>
+<div data-i18n-html="article_productivite-efficace_p37"><strong>Want to give the day a structure?</strong> Try our <a href="/30-days-discipline/">30 Days of Discipline</a> to build routines that last, and use our <a href="/tracker/">Habit Tracker</a> to keep a visible record.</div>

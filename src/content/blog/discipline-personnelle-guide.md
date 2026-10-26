@@ -46,7 +46,7 @@ relatedArticles:
   - "inconfort-volontaire"
 ---
 
-<div data-i18n-html="article_discipline-personnelle-guide_p2">Master personal discipline with proven strategies. Learn how to stay consistent, control your impulses, and build unstoppable self-discipline.</div>
+<div data-i18n-html="article_discipline-personnelle-guide_p2">Discipline is not a personality you are born with; it is a set of decisions made in advance. This guide covers the mechanics that make consistency easier — clear rules, a prepared environment, and a recovery plan for the days it falls apart.</div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p3">Personal discipline is not a talent. It is a muscle. And like any muscle, it grows through repetition, not through inspiration.</div>
 

@@ -25,18 +25,18 @@ tags:
 wordCount: 302
 faq:
   - q: "Is it really never too late to start something new?"
-    a: "Neuroplasticity research confirms the brain continues forming new connections throughout life. Colonel Sanders franchised KFC at 62, Vera Wang entered fashion at 40, andRay Kroc started McDonald's at 52. The only real barrier is social permission — not cognitive capacity."
+    a: "Neuroplasticity research confirms the brain continues forming new connections throughout life. Colonel Sanders franchised KFC at 62, Vera Wang entered fashion at 40, and Ray Kroc started McDonald's at 52. The only real barrier is social permission — not cognitive capacity."
   - q: "What advantages do older beginners have?"
     a: "Emotional regulation (less impulsive quitting), pattern recognition (decades of transferable skills), network depth (contacts who can open doors), and urgency clarity (you stop wasting time on 'someday'). Starting late isn't a deficit — it's an efficiency gain from life experience."
   - q: "How do I handle people saying 'you're too old to start'?"
-    a: "Their discomfort often reflects their own unlived ambitions. Reframe: you have 20-30 productive years ahead. At 60, someone who starts today will have 10,000 hours of mastery by 70. The research is clear: regret of inaction outweighs regret of failed action by 3:1 (Gilovich, Cornell)."
+    a: "Their discomfort often reflects their own unlived ambitions. Reframe: you have 20-30 productive years ahead. At 60, ten focused hours a week gives you roughly 5,000 hours by 70 — enough to become genuinely competent at a new craft. Research on regret (Gilovich and colleagues) finds that in the long run people regret inactions more than failed actions, though the gap varies by domain."
 faqFr:
   - q: "Est-il vraiment vrai qu'il n'est jamais trop tard pour commencer quelque chose ?"
     a: "La recherche sur la neuroplasticité confirme que le cerveau continue de former de nouvelles connexions tout au long de la vie. Le colonel Sanders a franchiseisé KFC à 62 ans, Vera Wang est entrée dans la mode à 40 ans, et Ray Kroc a lancé McDonald's à 52 ans. Le seul vrai obstacle est la permission sociale — pas la capacité cognitive."
   - q: "Quels avantages ont les débutants plus âgés ?"
     a: "La régulation émotionnelle (on abandonne moins sur un coup de tête), la reconnaissance de schémas (des décennies de compétences transférables), la profondeur du réseau (des contacts qui ouvrent des portes), et la clarté de l'urgence (on cesse de perdre du temps sur « un jour »). Commencer tard n'est pas un déficit — c'est un gain d'efficacité venu de l'expérience de vie."
   - q: "Comment gérer ceux qui disent « c'est trop tard pour commencer » ?"
-    a: "Leur inconfort reflète souvent leurs propres ambitions non vécues. Reformulez : il vous reste 20 à 30 années productives. À 60 ans, celui qui commence aujourd'hui aura 10 000 heures de maîtrise à 70 ans. La recherche est claire : le regret de ne pas agir pèse trois fois plus que le regret d'un échec d'action (Gilovich, Cornell)."
+    a: "Leur inconfort reflète souvent leurs propres ambitions non vécues. Reformulez : il vous reste 20 à 30 années productives. À 60 ans, dix heures concentrées par semaine donnent environ 5 000 heures à 70 ans — assez pour devenir vraiment compétent dans un nouveau métier. La recherche sur le regret (Gilovich et ses collègues) montre qu'à long terme, on regrette davantage ce qu'on n'a pas fait que ce qu'on a raté, même si l'écart varie selon les domaines."
 
 relatedArticles:
   - "histoire-athlete-recommence"
@@ -63,7 +63,7 @@ relatedArticles:
 
 <div data-i18n-html="article_she-started-at-60_p8">She laughed. "I was not late," she said. "I was being prepared."</div>
 
-<div data-i18n-html="article_she-started-at-60_p12">Research from Stanford on adult learning shows that older beginners often outperform younger ones on persistence because they compare themselves only to yesterday, not to a peer group. The bakery owner's thirty years of feeding a family were not wasted time; they were apprenticeship without a certificate.</div>
+<div data-i18n-html="article_she-started-at-60_p12">There is no clean evidence that older beginners are more persistent than younger ones. What a late start does give you is a different reference point: with fewer years left, comparison to peers matters less, and the question becomes whether the work is worth the time that remains. The bakery owner's thirty years of feeding a family were not wasted time; they were apprenticeship without a certificate.</div>
 <div data-i18n-html="article_she-started-at-60_p13">If you are waiting until you feel ready, until the kids are older, until the mortgage is smaller, the honest truth is that readiness is a feeling that never arrives. The people who start late do not feel ready. They simply run out of patience with waiting.</div>
 
 <div data-i18n-html="article_she-started-at-60_p9"><a href="/journal/proof-over-noise/">Proof over noise</a>: the best time to start is often the time everyone says is too late.</div>

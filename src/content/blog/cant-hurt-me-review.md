@@ -73,19 +73,17 @@ relatedArticles:
 
 <div data-i18n-html="article_cant-hurt-me-review_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p4">I went back a third time eight months later. And then a fourth.</div>
+<div data-i18n-html="article_cant-hurt-me-review_p4">I went back a third time eight months later. That third read is the one that changed how I worked.</div>
 
 <div data-i18n-html="article_cant-hurt-me-review_p5">The first time I read it, I tried to become Goggins. Wake up at 4 AM. Run in the cold. Push through pain. By day 6, I had a stress fracture in my foot and a $400 medical bill. The injury kept me from running for 6 weeks. The $400 kept me from buying the book I was supposed to be writing.</div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p6">That was my mistake: confusing the display with the system. Goggins didn't wake up one morning and run 100 miles. He built calloused hands by gripping the bar. He built calloused minds by sitting with discomfort for 5 minutes at a time, then 10, then 20. The book is about the scaffolding — the small, daily callousing — not the final fireworks display.</div>
-
 <div data-i18n-html="article_cant-hurt-me-review_p7">Here is what most reviews won't: the book is not about Navy SEALs. It's about a man who decided to stop lying to himself. The obstacle course is just the arena where he proved it. And that distinction — between the arena and the truth — is the one that actually changes lives.</div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p8">If you want to read a quick summary of Goggins' childhood, his pull-ups record, and his ultra-marathon stats, this isn't that review. This is about the four lessons I extracted from Goggins across three reads — the lessons the headlines miss, the ones that actually compound.</div>
+<div data-i18n-html="article_cant-hurt-me-review_p8">If you want to read a quick summary of Goggins' childhood, his pull-ups record, and his ultra-marathon stats, this isn't that review. This is about the five lessons I extracted from Goggins across three reads — the lessons the headlines miss, the ones that actually compound.</div>
 
 <div data-i18n-html="article_cant-hurt-me-review_p9"><h2>What I Got Wrong the First Time</h2></div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p10">When I first read the book, I tried to <em>become</em> Goggins. Wake up at 4 AM. Run in the cold. Push through pain. By day 6, I had a stress fracture in my foot and a $400 medical bill.</div>
+<div data-i18n-html="article_cant-hurt-me-review_p10">When I first read the book, the problem wasn't the 4 AM alarm or the cold. It was that I had copied the visible behaviour and skipped the invisible work: the mirror, the accountability, the honest inventory.</div>
 
 <div data-i18n-html="article_cant-hurt-me-review_p11">That was my mistake: confusing the <em>system</em> with the <em>display</em>.</div>
 

@@ -66,7 +66,7 @@ relatedArticles:
 
 <div data-i18n-html="article_solo-travel-stronger-self_p9">You will come back with the same life. You will not be the same person in it.</div>
 
-<div data-i18n-html="article_solo-travel-stronger-self_p12">Study after study on solo travel reports the same gain: not a new hobby but higher self-efficacy — the belief that you can handle what comes. Removed from your usual roles and support structure, you resolve small problems (a missed connection, an unfamiliar menu) and quietly update your estimate of what you are capable of. The confidence is transferable because the skill it came from is general.</div>
+<div data-i18n-html="article_solo-travel-stronger-self_p12">The mechanism is Albert Bandura's: mastery experiences build self-efficacy — the belief that you can handle what comes. Traveling alone supplies them in small, frequent doses. Removed from your usual roles and support structure, you resolve small problems (a missed connection, an unfamiliar menu) and quietly update your estimate of what you are capable of. The confidence is transferable because the skill it came from is general.</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p11">The first-day protocol that makes solo travel work: arrive with only the guaranteed basics — transport, bed, one meal — and schedule nothing else until you are standing in the city. Then choose in public: the decision you make while looking at a physical map is exactly who solo travel is training. Say yes to one thing you would have declined with company, and end the day with three written lines: what I feared, what happened, what I will keep.</div>
 

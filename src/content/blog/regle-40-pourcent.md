@@ -31,14 +31,14 @@ wordCount: 1279
 bookSlug: "cant-hurt-me"
 faq:
   - q: "Is the 40% rule scientifically proven?"
-    a: "Partially. Dr. Tim Noakes' Central Governor Theory (2004) proved the brain limits muscular exertion before muscles are truly depleted. The 40% number itself is Goggins' framing, not exact science — but the principle (most 'walls' are mental, not physical) is well-documented."
+    a: "Not in the literal sense. Tim Noakes' central governor model proposes that the brain regulates exertion and recruits fewer muscle fibres as fatigue develops; it is an influential model, not a proven mechanism, and '40%' is Goggins' framing rather than a measured figure. The practical point — that perceived limits are not always physical — is reasonable, provided you distinguish discomfort from injury."
   - q: "How do I know when to push vs. when to rest?"
     a: "Rule of thumb: if the wall shows up as a feeling (you 'want' to stop), it's likely mental. If you have physical symptoms (sharp pain, dizziness, injury), respect your body. The 40% rule is for mental resistance, not physical damage."
   - q: "Can I apply the 40% rule to mental work?"
     a: "Yes. The same principle applies: when you 'can't focus anymore,' you usually can — for 10-20 more minutes. Schedule deep work blocks for 90 minutes, then negotiate 10 more minutes when you hit the wall."
 faqFr:
   - q: "La règle des 40 % est-elle scientifiquement prouvée ?"
-    a: "Partiellement. La théorie du gouverneur central du Dr Tim Noakes (2004) a montré que le cerveau limite l'effort musculaire avant que les muscles soient réellement épuisés. Le chiffre de 40 % est lui-même le cadrage de Goggins, pas une science exacte — mais le principe (la plupart des « murs » sont mentaux, pas physiques) est bien documenté."
+    a: "Pas au sens littéral. Le modèle du gouverneur central de Tim Noakes propose que le cerveau régule l'effort et recrute moins de fibres musculaires à mesure que la fatigue s'installe ; c'est un modèle influent, pas un mécanisme prouvé, et « 40 % » est un cadrage de Goggins, pas une mesure. L'idée pratique — nos limites perçues ne sont pas toujours physiques — est raisonnable, à condition de distinguer l'inconfort de la blessure."
   - q: "Comment savoir quand pousser et quand se reposer ?"
     a: "Règle pratique : si le mur se présente comme une sensation (vous « voulez » arrêter), il est probablement mental. Si vous avez des symptômes physiques (douleur vive, vertige, blessure), respectez votre corps. La règle des 40 % concerne la résistance mentale, pas les lésions physiques."
   - q: "Puis-je appliquer la règle des 40 % au travail intellectuel ?"

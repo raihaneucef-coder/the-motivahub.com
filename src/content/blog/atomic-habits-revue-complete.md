@@ -48,7 +48,7 @@ faqFr:
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p4">Atomic Habits is not just a book. It is an operating system for behavior change. James Clear distilled years of research into four simple laws — and those laws have helped millions of people build better habits and break bad ones.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p5">I first read it in January 2024. I read it again in April, August, and January 2025. Four times in 18 months. Each read changed what I saw.</div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p5">I first read it in January 2024 and have used it for 18 months, returning to different chapters as the problems changed. This guide is the distillation: what the book actually argues, where it holds up, and where it doesn't.</div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p6">Here is everything you need to know, filtered through 18 months of actual application.</div>
 
@@ -174,7 +174,7 @@ Stacking and fine-tuning can produce a brittle schedule where one broken link de
 
 <hr />
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p60"><em>Youssef Raihane read Atomic Habits 4 times in 18 months. Each read changed a different layer: framework, misunderstandings, application, and calibration. The book is now permanently on his desk — not as a reference, but as a calibration tool.</em></div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p60"><em>Youssef Raihane has applied Atomic Habits for 18 months. The book is now permanently on his desk — not as a reference, but as a calibration tool.</em></div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p61"><em>Last updated: September 12, 2026 — added personal 18-month reading journey, specific changes in habits, and the calibration insight.</em></div>
 

@@ -2,7 +2,7 @@
 title: "Love Is a Practice, Not a Feeling"
 description: "We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows. Love as a practice, not a mood."
 titleFr: "L'amour est une pratique, pas un sentiment"
-descriptionFr: "On attend de se sentir aimant avant d'agir avec amour. Ça marche dans l'autre sens : agis avec soin chaque jour et le sentiment suivra."
+descriptionFr: "On attend de se sentir aimant avant d'agir avec amour. Ça marche dans l'autre sens : agissez avec soin chaque jour et le sentiment suivra."
 pubDate: 2026-08-10
 updatedDate: 2026-09-12
 topic: "Relationships"
@@ -25,16 +25,16 @@ tags:
 wordCount: 377
 faq:
   - q: "Is love a feeling or a choice?"
-    a: "Both — but the sustainable part is choice. The feeling (limerence) lasts 12-24 months (chemical: dopamine + oxytocin surge). After that, love becomes a daily practice: showing up, choosing their wellbeing alongside yours, staying when the initial high fades. The couples who thrive treat love as a verb, not a mood."
+    a: "Both — but the sustainable part is choice. The early intense phase (limerence) is often estimated at 12-24 months and involves dopamine and oxytocin, though the timeline varies widely between couples. After that, love becomes a daily practice: showing up, choosing their wellbeing alongside yours, staying when the initial high fades. The couples who thrive treat love as a verb, not a mood."
   - q: "How do you practice love when you don't feel it?"
-    a: "Do the actions anyway. Research on 'behavioral confirmation' shows acting lovingly triggers emotional reconnection — feelings follow behavior, not the reverse. Small deliberate acts (make their coffee, ask about their day, put your phone away) rebuild the emotional bond that the initial excitement created for free."
+    a: "Do the actions anyway. Relationship research suggests deliberate caring behaviours often precede renewed feelings — behaviour can lead emotion, not only follow it. Small deliberate acts (make their coffee, ask about their day, put your phone away) rebuild the emotional bond that the initial excitement created for free."
   - q: "What's the difference between infatuation and real love?"
     a: "Infatuation is projection — you love the idea of them. Real love is perception — you see their full humanity and choose them anyway. Infatuation feels effortless; real love costs something and you pay willingly. The shift happens when you stop asking 'how do they make me feel?' and start asking 'how do I show up for them?'"
 faqFr:
   - q: "L'amour est-il un sentiment ou un choix ?"
-    a: "Les deux — mais la part durable est le choix. Le sentiment (la limerence) dure 12 à 24 mois (pics chimiques de dopamine et d'ocytocine). Après quoi, l'amour devient une pratique quotidienne : être là, choisir son bien-être en plus du vôtre, rester quand l'euphorie initiale retombe. Les couples qui prospèrent traitent l'amour comme un verbe, pas comme une humeur."
+    a: "Les deux — mais la part durable est le choix. La phase intense du début (la limerence) est souvent estimée à 12-24 mois et implique la dopamine et l'ocytocine, même si la durée varie beaucoup d'un couple à l'autre. Après quoi, l'amour devient une pratique quotidienne : être là, choisir son bien-être en plus du vôtre, rester quand l'euphorie initiale retombe. Les couples qui prospèrent traitent l'amour comme un verbe, pas comme une humeur."
   - q: "Comment pratiquer l'amour quand on ne le ressent plus ?"
-    a: "Passez à l'acte quand même. La recherche sur la « confirmation comportementale » montre que agir avec amour relance la reconnectation émotionnelle — les sentiments suivent le comportement, pas l'inverse. De petits gestes délibérés (préparer son café, demander sa journée, ranger son téléphone) reconstruisent le lien émotionnel que l'excitation du début offrait gratuitement."
+    a: "Passez à l'acte quand même. La recherche sur les relations suggère que les gestes d'attention délibérés précèdent souvent le retour du sentiment — le comportement peut précéder l'émotion, pas seulement la suivre. De petits gestes délibérés (préparer son café, demander sa journée, ranger son téléphone) reconstruisent le lien émotionnel que l'excitation du début offrait gratuitement."
   - q: "Quelle différence entre l'engouement et le véritable amour ?"
     a: "L'engouement est projection — vous aimez l'idée de l'autre. Le véritable amour est perception — vous voyez son humanité entière et vous le choisissez quand même. L'engouement semble sans effort ; le véritable amour coûte quelque chose, et vous payez de bon gré. La bascule se fait quand vous cessez de demander « que me fait-il ressentir ? » pour demander « comment est-ce que je me présente pour lui/elle ? »."
 

@@ -28,7 +28,7 @@ faq:
   - q: "What does 'body votes first' mean?"
     a: "It means your body's state determines your mind's performance before you even make a conscious choice. If you are tired, hungry, or sedentary, your mind will make worse decisions — not because you are weak, but because your biology is running the election."
   - q: "How does exercise affect decision making?"
-    a: "Exercise changes brain chemistry. It increases dopamine, serotonin, and BDNF (brain-derived neurotrophic factor). These chemicals improve mood, focus, and cognitive flexibility. A 20-minute walk can change the chemistry of an entire afternoon."
+    a: "Exercise transiently raises several neurotransmitters, including dopamine and serotonin, and regular activity is associated with higher BDNF (brain-derived neurotrophic factor), a protein that supports neuron health. The effect on mood and alertness is real but variable: a 20-minute walk often sharpens the next few hours, not the entire afternoon."
   - q: "Do I need to be an athlete to benefit from this?"
     a: "No. You need consistency, not intensity. Two 20-minute walks per week preserve the body that carries your mind. One hard effort per week reminds you that discomfort is survivable. The minimum effective dose is much smaller than you think."
   - q: "What is the relationship between body and identity?"
@@ -37,7 +37,7 @@ faqFr:
   - q: "Que veut dire « le corps vote en premier » ?"
     a: "Cela veut dire que l'état de votre corps détermine les performances de votre esprit avant même que vous fassiez un choix conscient. Si vous êtes fatigué, affamé ou sédentaire, votre esprit prendra de moins bonnes décisions — non parce que vous êtes faible, mais parce que votre biologie tient les urnes."
   - q: "Comment l'exercice influence-t-il la prise de décision ?"
-    a: "L'exercice modifie la chimie cérébrale. Il augmente la dopamine, la sérotonine et le BDNF (facteur neurotrophique dérivé du cerveau). Ces substances améliorent l'humeur, la concentration et la flexibilité cognitive. Une marche de 20 minutes peut changer la chimie d'un après-midi entier."
+    a: "L'exercice augmente temporairement plusieurs neurotransmetteurs, dont la dopamine et la sérotonine, et une activité régulière est associée à un BDNF plus élevé (facteur neurotrophique dérivé du cerveau), une protéine qui soutient la santé des neurones. L'effet sur l'humeur et la vigilance est réel mais variable : une marche de 20 minutes aiguise souvent les quelques heures suivantes, pas tout l'après-midi."
   - q: "Faut-il être athlète pour en bénéficier ?"
     a: "Non. Il faut de la régularité, pas de l'intensité. Deux marches de 20 minutes par semaine préservent le corps qui porte votre esprit. Un effort difficile par semaine vous rappelle que l'inconfort est supportable. La dose minimale efficace est bien plus petite que ce que vous croyez."
   - q: "Quel lien entre le corps et l'identité ?"
@@ -84,11 +84,11 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p19">The body does not just carry you around. It shapes your cognition, your emotions, and your decisions.</div>
 
-<div data-i18n-html="article_body-votes-first_p20"><strong>Movement changes brain chemistry.</strong> Exercise increases dopamine, serotonin, and BDNF (brain-derived neurotrophic factor). These chemicals improve mood, focus, and cognitive flexibility. A 20-minute walk can change the chemistry of an entire afternoon.</div>
+<div data-i18n-html="article_body-votes-first_p20"><strong>Movement changes brain chemistry.</strong> Exercise transiently raises several neurotransmitters, including dopamine and serotonin, and regular activity is associated with higher BDNF (brain-derived neurotrophic factor), a protein that supports neuron health. The effect on mood and alertness is real but variable: a 20-minute walk often sharpens the next few hours, not the entire afternoon.</div>
 
 <div data-i18n-html="article_body-votes-first_p21"><strong>Sleep shapes patience.</strong> Sleep five nights at six hours and your prefrontal cortex — the part of the brain responsible for rational decision-making — becomes underactive. You become more impulsive, more emotional, less strategic.</div>
 
-<div data-i18n-html="article_body-votes-first_p22"><strong>Nutrition fuels the machine.</strong> Skip breakfast and your glucose drops. Your brain runs on glucose. Low glucose means poor decisions. By 10 AM, you are not tired. You are hypoglycemic.</div>
+<div data-i18n-html="article_body-votes-first_p22"><strong>Nutrition fuels the machine.</strong> Skip breakfast after a late night and your blood glucose may dip; decision quality often drops before you consciously feel tired. That is not clinical hypoglycaemia — a medical condition — but it is a good reason to keep an easy source of protein and fibre within reach.</div>
 
 <div data-i18n-html="article_body-votes-first_p23"><strong>Rest restores the system.</strong> The mind needs idle time to process. Constant input — notifications, news, social media — prevents the default mode network from doing its job. The best ideas come in the shower, on walks, in moments of boredom.</div>
 

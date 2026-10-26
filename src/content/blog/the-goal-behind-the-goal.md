@@ -64,7 +64,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p11">Self-determination theory explains why the hidden goal carries you. It finds that durable motivation runs on three needs — autonomy, competence, and relatedness — not on the reward attached to the finish line. When you name the goal beneath the goal, you usually find one of those three waiting there, and the boring midweek work connects to it instead of to an arbitrary number.</div>
 
-<div data-i18n-html="article_the-goal-behind-the-goal_p10">Do it now, five whys deep on one line: write the goal you would defend in public — "run a marathon" — then ask <em>why that?</em> and answer honestly each time, four or five layers down ("to prove I can finish what I start"). The last sentence you reach is the real goal; the first was only its socially acceptable costume. Keep the layers on paper — planning against the bottom one is what finally makes the top one feel light.</div>
+<div data-i18n-html="article_the-goal-behind-the-goal_p10">The hidden goal has a shadow side. If the reason underneath is borrowed — a parent's approval, a rival's scoreboard, an audience you no longer have — the surface goal will feel heavy no matter how disciplined you are. That is the signal to rewrite the goal, not to grind harder. Discipline applied to someone else's why is just expensive self-punishment.</div>
 
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p9"><a href="/journal/smart-goals/">The first goal</a> gets you moving. The second goal keeps you moving when the first one feels heavy.</div>

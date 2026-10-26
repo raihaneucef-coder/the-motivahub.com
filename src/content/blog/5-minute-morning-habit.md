@@ -290,4 +290,4 @@ relatedArticles:
 
 <div data-i18n-html="article_5-minute-morning-habit_p93"><em>Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system and the missed-day recovery protocol.</em>
 4. <em>Atomic Habits</em> by James Clear — for the habit stacking framework
-5. <em>NYU Stern</em> research on attention residue — for the multitasking cost</div>
+5. <em>University of Minnesota</em> research on attention residue (Sophie Leroy, 2009) — for the multitasking cost</div>

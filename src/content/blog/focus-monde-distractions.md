@@ -55,7 +55,7 @@ relatedArticles:
 
 <div data-i18n-html="article_focus-monde-distractions_p5"><h2>The True Cost of Distraction</h2></div>
 
-<div data-i18n-html="article_focus-monde-distractions_p6">A distraction is not just a lost moment. Gloria Mark's field studies at UC Irvine found that it takes an average of about 23 minutes to return to the original task after an interruption. If you are interrupted 10 times a day, you lose nearly 4 hours of productive focus.</div>
+<div data-i18n-html="article_focus-monde-distractions_p6">A distraction is not just a lost moment. Gloria Mark's field studies of office workers at UC Irvine measured an average of roughly 23 minutes to return to the original task after an interruption. That is an average from a particular workplace sample, not a fixed cost for every interruption — and the arithmetic is brutal either way: five to ten real interruptions a day can consume a large share of your best hours.</div>
 
 <div data-i18n-html="article_focus-monde-distractions_p7">But the cost goes deeper than time. Every time you switch tasks, your brain pays a <strong>cognitive tax</strong>. You lose clarity. You lose depth. You lose the ability to think at your highest level.</div>
 

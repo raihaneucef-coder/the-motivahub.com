@@ -52,7 +52,7 @@ relatedArticles:
   - "habit-stacking-made-simple"
 ---
 
-<div data-i18n-html="article_regle-21-jours_p2"><strong>Habit formation takes a median of 66 days, not 21.</strong> Research from Lally et al. (2010) found a range of 18-254 days depending on the habit and the person. The 21-day myth comes from a misapplied observation about amputees adjusting to limb loss. The real timeline is longer, but understanding it helps you stay the course.</div>
+<div data-i18n-html="article_regle-21-jours_p2"><strong>Habit formation takes a median of 66 days, not 21.</strong> Research from Lally et al. (2010) found a range of 18-254 days depending on the habit and the person. The 21-day figure is usually traced to the plastic surgeon Maxwell Maltz, who noticed patients taking about three weeks to adjust to a changed appearance and then generalised the observation to habits — a leap the data does not support. The real timeline is longer and individually variable, but knowing that helps you stay the course.</div>
 
 <div data-i18n-html="article_regle-21-jours_p3">You have heard it before: "It takes 21 days to form a habit." It sounds scientific. It sounds precise. And it is wrong.</div>
 
