@@ -6,7 +6,7 @@ descriptionFr: "Les meilleures histoires de voyage ne se sont jamais produites s
 pubDate: 2026-08-12
 updatedDate: 2026-09-12
 topic: "Travel"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/the-detour-is-the-destination-2.jpg"
 imageAlt: "A winding river curving through a dense green forest from above"
 featured: false

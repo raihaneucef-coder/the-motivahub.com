@@ -6,7 +6,7 @@ descriptionFr: "Un bon objectif ne te piège pas — il t'oriente. Apprends à f
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/goals-are-a-compass-not-a-cage-2.jpg"
 imageAlt: "A seagull soaring free above a calm open ocean under a clear sky"
 featured: false

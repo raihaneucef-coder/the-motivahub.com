@@ -227,13 +227,13 @@ relatedArticles:
 4. <strong>Track the data for 2 weeks.</strong>
 5. <strong>Decide if the habit is for you.</strong></div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p71">Most people who try this for 2 weeks report:
+<div data-i18n-html="article_5-minute-morning-habit_p71">After two weeks, read your own record. Look for:
 - More focus during the day
 - Less stress
 - Better time estimates
-- Higher completion on important tasks</div>
+- More important tasks finished</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p72">The data will convince you faster than any productivity book.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p72">Your own record will be more convincing than any productivity book.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p73"><h2>What Comes After 5 Minutes</h2></div>
 
@@ -247,7 +247,7 @@ relatedArticles:
 
 <div data-i18n-html="article_5-minute-morning-habit_p77">That five-minute window became the hinge the whole day swings on. I still use it every morning; everything else I have added is optional scaffolding around it.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p78">---</div>
+<hr />
 
 <div data-i18n-html="article_5-minute-morning-habit_p79"><h2>The Honest Summary</h2></div>
 
@@ -274,7 +274,7 @@ relatedArticles:
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p87">---</div>
+<hr />
 
 <div data-i18n-html="article_5-minute-morning-habit_p88"><em>Youssef Raihane has been writing 3 priorities on paper every morning for 8 months. He's missed maybe 5 days total. The habit is now automatic — like brushing his teeth.</em></div>
 
@@ -284,7 +284,7 @@ relatedArticles:
 2. <em>Baumeister, R. F., & Tierney, J.</em> (2011). <em>Willpower: Rediscovering the Greatest Human Strength.</em> — for the decision fatigue research
 3. <em>Cal Newport</em> — <em>Deep Work</em> (2016) — for the focused morning principles</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p91">---</div>
+<hr />
 
 <div data-i18n-html="article_5-minute-morning-habit_p92"><strong>Three priorities is the doorway.</strong> The hallway is what fills the rest of the morning. To see the doorway pattern applied across meditation, reading, pushups, journaling, and more, read our <a href="/journal/two-minute-rule-guide/">full 2-Minute Rule guide and 7-day protocol</a> — same principle, different rooms.</div>
 

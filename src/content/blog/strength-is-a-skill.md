@@ -7,7 +7,7 @@ descriptionFr: "La force mentale est une compétence qui se développe. Découvr
 pubDate: 2026-08-19
 updatedDate: 2026-09-12
 topic: "Sport"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/strength-is-a-skill-3.jpg"
 imageAlt: "An athlete doing weighted push-ups between kettlebells in a gym"
 featured: false

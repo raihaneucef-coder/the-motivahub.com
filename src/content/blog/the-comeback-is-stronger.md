@@ -6,7 +6,7 @@ descriptionFr: "Chaque échec prépare un retour plus fort. Votre plus grande cr
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Personal Growth"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/the-comeback-is-stronger.jpg"
 imageAlt: "Youssef Raihane - the comeback is stronger concept"
 featured: false

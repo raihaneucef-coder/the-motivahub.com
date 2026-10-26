@@ -172,16 +172,16 @@ I thought calm meant avoiding stressful situations. It does not. Calm means stay
 3. <strong>Day 15-21:</strong> Practice 10 minutes of stillness every morning.
 4. <strong>Day 22-30:</strong> Do one stress test per week.</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p58">Most people who try this for 30 days report:
+<div data-i18n-html="article_calm-is-a-superpower_p58">After 30 days, read your own record. Look for:
 - Lower stress and anxiety
 - Better sleep
 - More patience
 - Better decisions under pressure
 - More presence in conversations</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p59">The data will convince you faster than any self-help book.</div>
+<div data-i18n-html="article_calm-is-a-superpower_p59">Your own record will be more convincing than any self-help book.</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p60">---</div>
+<hr />
 
 <div data-i18n-html="article_calm-is-a-superpower_p61"><h2>The Honest Summary</h2></div>
 
@@ -195,7 +195,7 @@ I thought calm meant avoiding stressful situations. It does not. Calm means stay
 
 <div data-i18n-html="article_calm-is-a-superpower_p66">But it will give you back your center. And that, I think, is worth something.</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p67">---</div>
+<hr />
 
 <div data-i18n-html="article_calm-is-a-superpower_p68"><em>Youssef Raihane learned calm during a failed book launch in 2024, a difficult client meeting in 2023, and a traffic jam that taught him to breathe. He now practices one slow breath before every reply.</em></div>
 
@@ -205,7 +205,7 @@ I thought calm meant avoiding stressful situations. It does not. Calm means stay
 2. <em>Walker, M.</em> (2017). <em>Why We Sleep: Unlocking the Power of Sleep and Dreams.</em> — for the sleep and emotional regulation connection
 3. <em>Kabat-Zinn, J.</em> (1994). <em>Wherever You Go, There You Are.</em> — for the mindfulness and stillness practices</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p71">---</div>
+<hr />
 
 <div data-i18n-html="article_calm-is-a-superpower_p72"><strong>Calm is the invisible work that makes all visible work better.</strong> To see how calm fits into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to emotional regulation instead of habits.</div>
 

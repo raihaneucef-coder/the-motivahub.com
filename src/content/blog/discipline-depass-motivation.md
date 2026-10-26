@@ -90,6 +90,6 @@ One day of discipline does not change your life. But 365 days of discipline crea
 
 <div data-i18n-html="article_discipline-depass-motivation_p15"><blockquote><em>Discipline is choosing between what you want now and what you want most. — often attributed to Abraham Lincoln</em></blockquote></div>
 
-<div data-i18n-html="article_discipline-depass-motivation_p16">---</div>
+<hr />
 
 <div data-i18n-html="article_discipline-depass-motivation_p17"><strong>Build discipline today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of daily discipline. Track your streak with our <a href="/tracker/">Habit Tracker</a>.</div>

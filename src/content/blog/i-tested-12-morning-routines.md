@@ -109,7 +109,7 @@ relatedArticles:
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p27"><strong>3. Including too many steps.</strong></div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p28">Every step you add is a place the routine can break. Each additional step reduces adherence by ~15%. Six steps ×5 min = 30 min. That's a lot of friction for a tired Tuesday.</div>
+<div data-i18n-html="article_i-tested-12-morning-routines_p28">Every step you add is a place the routine can break. The more steps you stack, the more likely one of them gets skipped. Six steps ×5 min = 30 min. That's a lot of friction for a tired Tuesday.</div>
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p29"><strong>4. Using willpower instead of design.</strong></div>
 
@@ -235,7 +235,7 @@ relatedArticles:
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p74">---</div>
+<hr />
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p75"><em>Youssef Raihane spent 30 days in late 2024 testing morning routines. The two stress fractures came from cold exposure + 5 AM sleep deprivation simultaneously (don't try that). The routine that survived is the one he still uses.</em></div>
 
@@ -247,7 +247,7 @@ relatedArticles:
 4. <em>Atomic Habits</em> by James Clear — the habit design framework
 5. <em>James Clear</em> — <a href="https://jamesclear.com">3-2-1 Newsletter</a> — for morning routine research</div>
 
-<div data-i18n-html="article_i-tested-12-morning-routines_p78">---</div>
+<hr />
 
 <div data-i18n-html="article_i-tested-12-morning-routines_p79"><strong>The smallest version is the one that survives.</strong> If 90 minutes of morning routine sounds impossible, you are not failing the morning. You are skipping the doorway. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the 7-day protocol that turns "morning routine" from a heroic ideal into a 2-minute doorway. Pair it with the <a href="/journal/5-minute-morning-habit/">5-Minute Morning Habit</a> for the full progression.</div>
 

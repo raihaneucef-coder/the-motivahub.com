@@ -169,7 +169,7 @@ I used to say yes when people pushed back. The fix: hold the boundary. The peopl
 
 <div data-i18n-html="article_boundaries-are-love_p55">This is the system I am still building. The 30-day practice was the foundation. Everything else is built on top.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p56">---</div>
+<hr />
 
 <div data-i18n-html="article_boundaries-are-love_p57"><h2>The Honest Summary</h2></div>
 
@@ -187,7 +187,7 @@ I used to say yes when people pushed back. The fix: hold the boundary. The peopl
 
 <div data-i18n-html="article_boundaries-are-love_p64">But it will give you back your agency. And that, I think, is worth something.</div>
 
-<div data-i18n-html="article_boundaries-are-love_p65">---</div>
+<hr />
 
 <div data-i18n-html="article_boundaries-are-love_p66"><em>Youssef Raihane said yes to every request for 6 months in 2023. He was exhausted and resentful. He now sets boundaries with kindness and holds them with consistency. The relationships that respect his boundaries are the ones that matter most.</em></div>
 
@@ -197,7 +197,7 @@ I used to say yes when people pushed back. The fix: hold the boundary. The peopl
 2. <em>Cloud, H., & Townsend, J.</em> (1992). <em>Boundaries: When to Say Yes, How to Say No.</em> — for the boundary framework
 3. <em>Lancer, D.</em> (2019). <em>Conquering Codependency.</em> — for the resentment-boundary connection</div>
 
-<div data-i18n-html="article_boundaries-are-love_p69">---</div>
+<hr />
 
 <div data-i18n-html="article_boundaries-are-love_p70"><strong>Boundaries are love in action.</strong> To see how boundaries fit into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to relationships instead of habits.</div>
 

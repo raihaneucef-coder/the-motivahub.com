@@ -32,7 +32,7 @@ faq:
   - q: "How much sleep do I actually need?"
     a: "Research from Matthew Walker and the National Sleep Foundation suggests 7-9 hours for most adults. Less than 6 is associated with cognitive decline, immune dysfunction, and increased mortality risk. Individual needs vary by genetics, but consistency matters more than exact hours."
   - q: "What's the cheapest way to improve sleep quality?"
-    a: "Cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and typically improve sleep quality by 20-30% within 2 weeks. After that, consider blackout curtains ($20-40) and a basic sleep mask ($10-20)."
+    a: "Cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and many people notice better sleep within two weeks. After that, consider blackout curtains ($20-40) and a basic sleep mask ($10-20)."
   - q: "Do sleep tracking apps work?"
     a: "Mixed. Consumer trackers (Oura, Whoop, Apple Watch) overestimate deep sleep and underestimate light sleep. They're useful for trends (is your sleep getting better or worse) but not for absolute measurements. The best tracker is your subjective morning energy."
   - q: "Is napping good or bad?"
@@ -41,7 +41,7 @@ faqFr:
   - q: "De combien de sommeil ai-je vraiment besoin ?"
     a: "Les travaux de Matthew Walker et de la National Sleep Foundation indiquent 7 à 9 heures pour la plupart des adultes. Moins de 6 heures est associé au déclin cognitif, au dysfonctionnement immunitaire et à une mortalité accrue. Les besoins individuels varient selon la génétique, mais la régularité compte plus que le nombre exact d'heures."
   - q: "Quel est le moyen le moins cher d'améliorer la qualité du sommeil ?"
-    a: "Une chambre plus fraîche (18 à 20 °C), une heure de réveil fixe, pas d'écran une heure avant le coucher et de la lumière du matin. Ces quatre changements coûtent 0 et améliorent généralement la qualité du sommeil de 20 à 30 % en deux semaines. Après cela, envisagez des rideaux occultants et un masque de sommeil basique."
+    a: "Une chambre plus fraîche (18 à 20 °C), une heure de réveil fixe, pas d'écran une heure avant le coucher et de la lumière du matin. Ces quatre changements ne coûtent rien et beaucoup de gens constatent un meilleur sommeil en deux semaines. Après cela, envisagez des rideaux occultants et un masque de sommeil basique."
   - q: "Les applications de suivi du sommeil fonctionnent-elles ?"
     a: "Résultats mitigés. Les traceurs grand public (Oura, Whoop, Apple Watch) surestiment le sommeil profond et sous-estiment le sommeil léger. Ils sont utiles pour les tendances (votre sommeil s'améliore-t-il ou se dégrade-t-il), pas pour des mesures absolues. Le meilleur traceur, c'est votre énergie subjective au réveil."
   - q: "La sieste : bonne ou mauvaise ?"
@@ -53,7 +53,7 @@ relatedArticles:
   - "rest-is-a-decision-not-a-collapse"
 ---
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p2"><strong>The cheapest way to improve sleep quality:</strong> cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and typically improve sleep quality by 20-30% within 2 weeks. Consumer sleep trackers are useful for trends but not absolute measurements. The best tracker is your subjective morning energy.</div>
+<div data-i18n-html="article_sleep-is-unfair-advantage_p2"><strong>The cheapest way to improve sleep quality:</strong> cooler bedroom (65-68°F), consistent wake-up time, no screens 1 hour before bed, and morning sunlight exposure. These four changes cost $0 and many people notice better sleep within two weeks. Consumer sleep trackers are useful for trends but not absolute measurements. The best tracker is your subjective morning energy.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p3">I tracked every night of sleep for 60 days. Wore an Oura ring. Logged when I went to bed, when I woke up, how I felt. Did this while testing every sleep hack I could find.</div>
 
@@ -327,7 +327,7 @@ Morning sunlight ($0): biggest energy boost.</div>
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p107">---</div>
+<hr />
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p108"><em>Youssef Raihane tracked sleep for 60 days. He bought blackout curtains and a cheap sleep mask. He stopped using the Oura ring. His morning energy went from 4.8/10 to 8.2/10. The cost was €50. The research was 10 years old.</em></div>
 
@@ -341,7 +341,7 @@ Morning sunlight ($0): biggest energy boost.</div>
 6. <em>Walker, M. P.</em> — <em>Why We Sleep</em> — for the cognitive decline research
 7. <em>Journal of Sleep Research</em> — for the napping research</div>
 
-<div data-i18n-html="article_sleep-is-unfair-advantage_p111">---</div>
+<hr />
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p112"><strong>Sleep is the original 2-minute rule.</strong> You do not need a complex sleep protocol. You need one 2-minute doorway: lights down, phone away, breath out. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> explains why the smallest possible version is the one that survives a bad day.</div>
 

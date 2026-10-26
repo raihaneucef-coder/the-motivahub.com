@@ -6,7 +6,7 @@ descriptionFr: "On attend de se sentir aimant avant d'agir avec amour. Ça march
 pubDate: 2026-08-10
 updatedDate: 2026-09-12
 topic: "Relationships"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/love-is-a-practice-2.jpg"
 imageAlt: "A couple laughing together over coffee while cooking in the kitchen"
 featured: false

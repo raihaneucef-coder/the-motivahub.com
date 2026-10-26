@@ -165,15 +165,15 @@ relatedArticles:
 5. <strong>Track the data.</strong> Distance, time, words, calls. Not the outcome. The input.
 6. <strong>Repeat for 30 days.</strong></div>
 
-<div data-i18n-html="article_athlete-discipline_p56">Most people who try this for 30 days report:
+<div data-i18n-html="article_athlete-discipline_p56">After 30 days, read your own record. Look for:
 - More consistency
 - Less anxiety about outcomes
-- More trust in their own discipline
-- Better results than they expected</div>
+- More trust in your own discipline
+- Results that surprise you</div>
 
-<div data-i18n-html="article_athlete-discipline_p57">The data will convince you faster than any motivation video.</div>
+<div data-i18n-html="article_athlete-discipline_p57">Your own record will be more convincing than any motivation video.</div>
 
-<div data-i18n-html="article_athlete-discipline_p58">---</div>
+<hr />
 
 <div data-i18n-html="article_athlete-discipline_p59"><h2>The Honest Summary</h2></div>
 
@@ -187,7 +187,7 @@ relatedArticles:
 
 <div data-i18n-html="article_athlete-discipline_p64">But it will give you back your agency. And that, I think, is worth something.</div>
 
-<div data-i18n-html="article_athlete-discipline_p65">---</div>
+<hr />
 
 <div data-i18n-html="article_athlete-discipline_p66"><em>Youssef Raihane trained for a half marathon in 2022, finishing in 2 hours 15 minutes. He missed 4 runs out of 36. The discipline he built from that training now applies to every long-term project.</em></div>
 
@@ -197,7 +197,7 @@ relatedArticles:
 2. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the 2-day rule and identity-based habits
 3. <em>Lally, P., et al.</em> (2010). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009.</div>
 
-<div data-i18n-html="article_athlete-discipline_p69">---</div>
+<hr />
 
 <div data-i18n-html="article_athlete-discipline_p70"><strong>Sport is a mirror.</strong> To see the same discipline applied to writing and creativity, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
 

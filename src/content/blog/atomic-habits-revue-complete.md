@@ -164,7 +164,7 @@ Stacking and fine-tuning can produce a brittle schedule where one broken link de
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p55">A second objection — that these ideas appear elsewhere and are cheap to find — is also partly true. The value is not secrecy; it is sequence and usability. If you already know the material, the honest test is not whether the book surprises you but whether your results over ninety days improve because you applied one law at a time.</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p56">---</div>
+<hr />
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p57"><h2>Sources</h2></div>
 
@@ -172,7 +172,7 @@ Stacking and fine-tuning can produce a brittle schedule where one broken link de
 2. <em>Lally, P., et al.</em> (2010). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009. — for the 66-day habit formation median
 3. <em>Gollwitzer, P. M., & Sheeran, P.</em> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119. — for the implementation intentions research</div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p59">---</div>
+<hr />
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p60"><em>Youssef Raihane read Atomic Habits 4 times in 18 months. Each read changed a different layer: framework, misunderstandings, application, and calibration. The book is now permanently on his desk — not as a reference, but as a calibration tool.</em></div>
 

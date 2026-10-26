@@ -6,7 +6,7 @@ descriptionFr: "Tu n'as pas besoin de l'entraînement parfait — tu as besoin d
 pubDate: 2026-08-21
 updatedDate: 2026-09-12
 topic: "Wellness"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/move-daily-not-perfectly.jpg"
 imageAlt: "Youssef Raihane - move daily not perfectly concept"
 featured: false

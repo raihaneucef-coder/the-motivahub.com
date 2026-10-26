@@ -7,17 +7,21 @@ interface Props {
   topic: Topic;
 }
 const { topic } = Astro.props;
-// Rendered on /topics/ and /fr/topics/, so the card link follows the page locale.
-const topicHref = getLocalePath(`/topics/${topic.id}/`, getLangFromUrl(Astro.url));
+// Rendered on /topics/ and /fr/topics/, so both the link and the copy follow
+// the page locale instead of always showing the English fields.
+const locale = getLangFromUrl(Astro.url);
+const title = locale === "fr" ? topic.titleFr ?? topic.title : topic.title;
+const description = locale === "fr" ? topic.descriptionFr ?? topic.description : topic.description;
+const topicHref = getLocalePath(`/topics/${topic.id}/`, locale);
 const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
 const posts = (await getCollection("blog")).filter((p) => !p.data.draft && norm(p.data.topic) === topic.id);
 ---
 
 <a class="topic-card" href={topicHref}>
   <div class="topic-top">
-    <h2>{topic.title}</h2>
+    <h2>{title}</h2>
     <span class="topic-count">{posts.length} <span data-i18n={posts.length === 1 ? "topicEssay" : "topicEssays"}>{posts.length === 1 ? "Essay" : "Essays"}</span></span>
   </div>
-  <p>{topic.description}</p>
+  <p>{description}</p>
   <span class="link-ochre" data-i18n="exploreLink">Explore →</span>
 </a>

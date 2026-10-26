@@ -100,7 +100,7 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-reset-focus_p20"><strong>Parasympathetic (brake):</strong> "Rest and digest." Heart rate down. Breathing slow. Muscles relaxed. Mind focused but calm. This is the mode needed for deep work.</div>
 
-<div data-i18n-html="article_nervous-system-reset-focus_p21">Modern life keeps most people in sympathetic mode 80%+ of the time. Coffee. Email. Notifications. News. Meetings. The body interprets all of this as low-grade threat.</div>
+<div data-i18n-html="article_nervous-system-reset-focus_p21">Modern life keeps many of us in a low-grade sympathetic state for much of the day. Coffee. Email. Notifications. News. Meetings. The body interprets all of this as low-grade threat.</div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p22">You can't deep work from sympathetic mode. The brain won't allow it. It doesn't matter how disciplined you are.</div>
 
@@ -350,7 +350,7 @@ Tried complex multi-step routines. Skipped when I missed one part.</div>
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_nervous-system-reset-focus_p110">---</div>
+<hr />
 
 <div data-i18n-html="article_nervous-system-reset-focus_p111"><em>Youssef Raihane spent 15 years believing willpower was the answer. He was wrong. The body is the answer. The 5-minute protocol changed everything.</em></div>
 
@@ -364,7 +364,7 @@ Tried complex multi-step routines. Skipped when I missed one part.</div>
 6. <em>Stephen Porges</em> — <a href="https://www.polyvagalinstitute.org">Polyvagal Institute</a> — for the practice resources
 7. <em>NIH</em> — vagus nerve stimulation research — for the clinical evidence</div>
 
-<div data-i18n-html="article_nervous-system-reset-focus_p114">---</div>
+<hr />
 
 <div data-i18n-html="article_nervous-system-reset-focus_p115"><strong>The reset is the doorway, the focus is the hallway.</strong> Most of us try to force focus directly. That is the hallway. The doorway is 2 minutes of breath — the <a href="/journal/two-minute-breath-reset/">Two-Minute Breath Reset</a> shows the exact protocol. Pair it with the <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> for the 7-day protocol that makes the breath doorway automatic.</div>
 

@@ -6,7 +6,7 @@ descriptionFr: "Tu ne montes pas au niveau de tes objectifs — tu descends au n
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Relationships"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/people-who-raise-your-floor-3.jpg"
 imageAlt: "Two silhouettes at sunset, one person pulling another up over a ledge"
 featured: false

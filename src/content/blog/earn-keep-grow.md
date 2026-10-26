@@ -8,7 +8,7 @@ descriptionFr: "Gagner, garder et faire croître sont les trois piliers de la ge
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Finance"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/earn-keep-grow.jpg"
 imageAlt: "Youssef Raihane - earn keep grow concept"
 featured: false

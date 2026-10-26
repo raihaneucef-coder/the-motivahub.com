@@ -6,7 +6,7 @@ descriptionFr: "Le désaccord n'est pas l'ennemi de l'amour — la distance l'es
 pubDate: 2026-08-15
 updatedDate: 2026-09-12
 topic: "Relationships"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/how-to-argue-without-breaking-2.jpg"
 imageAlt: "A couple in a heated but controlled discussion on the living room couch"
 featured: false
@@ -61,7 +61,7 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p7"><a href="/journal/resolution-conflits/">The repair matters more than the perfection</a>. After an argument, ask: "What did you need that I missed?" Listen without defending. The relationship is not weakened by conflict; it is strengthened by how you repair after it.</div>
 
-<div data-i18n-html="article_how-to-argue-without-breaking_p12">John Gottman's research at the University of Washington identified four communication patterns that predict separation with over 90% accuracy: criticism, contempt, defensiveness, and stonewalling. The antidote to each is specific. Contempt — eye-rolling, mocking — is the single strongest predictor of divorce, and it dissolves when partners build a habit of naming one thing they genuinely admire about each other daily.</div>
+<div data-i18n-html="article_how-to-argue-without-breaking_p12">John Gottman's research at the University of Washington identified four communication patterns that consistently predict separation: criticism, contempt, defensiveness, and stonewalling. The antidote to each is specific. In his work, contempt — eye-rolling, mocking — is the single strongest predictor of divorce, and it dissolves when partners build a habit of naming one thing they genuinely admire about each other daily.</div>
 <div data-i18n-html="article_how-to-argue-without-breaking_p13">One practical structure: the 20-minute rule. When heart rate exceeds 100 bpm during conflict — roughly when your voice rises and your chest tightens — the thinking brain goes partially offline. Agree in advance that either partner can call a 20-minute pause. Not silence, not punishment. A stated time-box that protects the conversation from the nervous system.</div>
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p8">You do not need to be right to be close. You need to be safe enough to be honest.</div>

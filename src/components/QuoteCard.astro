@@ -1,13 +1,20 @@
 ---
 import type { Quote } from "../data/quotes";
+import { getLangFromUrl } from "../utils/i18n";
 
 interface Props {
   quote: Quote;
 }
 const { quote } = Astro.props;
+// The quote data carries French text/source; render it on /fr/quotes/ instead
+// of showing the English poster copy inside an otherwise French page.
+const locale = getLangFromUrl(Astro.url);
+const text = locale === "fr" ? quote.quoteFr ?? quote.quote : quote.quote;
+const author = locale === "fr" ? quote.authorFr ?? quote.author : quote.author;
+const source = locale === "fr" ? quote.sourceFr ?? quote.source : quote.source;
 ---
 
 <blockquote class="quote-card">
-  <p>"{quote.quote}"</p>
-  <cite>— {quote.author}, {quote.source}</cite>
+  <p>"{text}"</p>
+  <cite>— {author}, {source}</cite>
 </blockquote>

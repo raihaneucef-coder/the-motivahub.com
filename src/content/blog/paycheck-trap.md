@@ -7,7 +7,7 @@ descriptionFr: "Un revenu plus élevé ressemble à la liberté jusqu'à ce que 
 pubDate: 2026-08-14
 updatedDate: 2026-09-12
 topic: "Finance"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/paycheck-trap-3.jpg"
 imageAlt: "Hands counting dollar bills across a desk covered with receipts and a wallet"
 featured: false

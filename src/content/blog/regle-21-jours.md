@@ -95,6 +95,6 @@ The most important rule is simple: <a href="/journal/ne-brise-jamais-chaine/">ne
 
 <div data-i18n-html="article_regle-21-jours_p19"><blockquote><em>The habit is not the destination. The habit is the journey. And the journey never ends.</em></blockquote></div>
 
-<div data-i18n-html="article_regle-21-jours_p20">---</div>
+<hr />
 
 <div data-i18n-html="article_regle-21-jours_p21"><strong>Build habits that last.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 days of practice. But the goal is not 30 days — it is a lifetime of discipline. Track your journey with our <a href="/tracker/">Habit Tracker</a>.</div>

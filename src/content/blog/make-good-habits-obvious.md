@@ -8,7 +8,7 @@ descriptionFr: "Pas besoin de plus de volonté — besoin d'un chemin plus clair
 pubDate: 2026-08-22
 updatedDate: 2026-10-18
 topic: "Habits"
-readTime: "7 min read"
+readTime: "7 MIN"
 image: "/images/blog/make-good-habits-obvious-2.jpg"
 imageAlt: "A counter bowl of fresh fruit with apples, strawberries and kiwi in view"
 featured: false

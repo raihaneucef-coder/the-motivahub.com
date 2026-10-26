@@ -141,16 +141,16 @@ relatedArticles:
 3. <strong>Week 3:</strong> Add one hard effort. A sprint, a heavy set, a hill repeated. Feel the difference.
 4. <strong>Week 4:</strong> Reflect. How many days did the body vote differently because of the training?</div>
 
-<div data-i18n-html="article_body-votes-first_p46">Most people who try this for 30 days report:
+<div data-i18n-html="article_body-votes-first_p46">After 30 days, read your own record. Look for:
 - More energy
 - Better sleep
 - Clearer thinking
 - More patience
 - Better decisions</div>
 
-<div data-i18n-html="article_body-votes-first_p47">The data will convince you faster than any self-help book.</div>
+<div data-i18n-html="article_body-votes-first_p47">Your own record will be more convincing than any self-help book.</div>
 
-<div data-i18n-html="article_body-votes-first_p48">---</div>
+<hr />
 
 <div data-i18n-html="article_body-votes-first_p49"><h2>The Honest Summary</h2></div>
 
@@ -160,7 +160,7 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p52">The body votes first. Make sure it votes the way you would have chosen.</div>
 
-<div data-i18n-html="article_body-votes-first_p53">---</div>
+<hr />
 
 <div data-i18n-html="article_body-votes-first_p54"><em>Youssef Raihane ran his first half marathon in 2022, crossing the line in 2 hours 15 minutes. What has outlasted that training is not the race but the habit of trusting the body's votes — the same maintenance logic he now runs his writing and every long project on.</em></div>
 
@@ -170,7 +170,7 @@ relatedArticles:
 2. <em>Walker, M.</em> (2017). <em>Why We Sleep: Unlocking the Power of Sleep and Dreams.</em> — for the sleep-decision making connection
 3. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the identity-based habits framework</div>
 
-<div data-i18n-html="article_body-votes-first_p57">---</div>
+<hr />
 
 <div data-i18n-html="article_body-votes-first_p58"><strong>The body votes first.</strong> To see how to protect that vote with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
 

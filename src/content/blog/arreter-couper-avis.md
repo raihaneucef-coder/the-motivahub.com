@@ -129,7 +129,7 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p41"><blockquote><em>You would not worry so much about what others think of you if you realized how seldom they do. — Eleanor Roosevelt</em></blockquote></div>
 
-<div data-i18n-html="article_arreter-couper-avis_p42">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-couper-avis_p43"><h2>The Practice: 30 Days of Not Caring</h2></div>
 
@@ -143,9 +143,9 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p48"><strong>Week 4: Reflect.</strong> At the end of the month, look at your list of worries. How many of them actually happened? How many of them mattered? How many of them were about things you cannot control?</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p49">Most people find that 80% of their worries never happened, and the 20% that did happen were not as bad as they expected.</div>
+<div data-i18n-html="article_arreter-couper-avis_p49">Look at what you wrote down. Most of the worries on your list probably never happened — and the ones that did were usually more survivable than the version you imagined. The gap between anticipated and actual harm is the lesson worth keeping.</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p50">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-couper-avis_p51"><h2>What Comes After 30 Days</h2></div>
 
@@ -159,7 +159,7 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p55">This is the system I am still building. The 30-day practice was the foundation. Everything else is built on top.</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p56">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-couper-avis_p57"><h2>Free Yourself From Opinions</h2></div>
 
@@ -167,7 +167,7 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p59">The goal is not to stop caring completely. The goal is to care about the right things: your values, your principles, the opinions of people who know and respect you. Everything else is noise.</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p60">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-couper-avis_p61"><em>Youssef Raihane spent 3 weeks rewriting one article in 2023 because he was afraid of judgment. He published it on the 7th draft. It was not his best work. He now uses the 5-year test before every publish.</em></div>
 
@@ -177,7 +177,7 @@ relatedArticles:
 2. <em>Dweck, C.</em> (2006). <em>Mindset: The New Psychology of Success.</em> — for the identity and fear of judgment connection
 3. <em>Brown, B.</em> (2010). <em>The Gifts of Imperfection.</em> — for the belonging vs. approval-seeking distinction</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p64">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-couper-avis_p65"><strong>To stop caring what people think, start by caring what you think.</strong> Our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> shows how to build an identity that does not need external validation.</div>
 

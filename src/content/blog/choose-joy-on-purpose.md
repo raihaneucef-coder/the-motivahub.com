@@ -6,7 +6,7 @@ descriptionFr: "La joie n'est pas un hasard — c'est un choix. Apprenez à cult
 pubDate: 2026-08-10
 updatedDate: 2026-09-12
 topic: "Entertainment"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/choose-joy-on-purpose-2.jpg"
 imageAlt: "Two women laughing with arms spread wide on a sunny boardwalk"
 featured: false

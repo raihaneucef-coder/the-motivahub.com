@@ -3,6 +3,7 @@ export interface Quote {
   quote: string;
   quoteFr?: string;
   author: string;
+  authorFr?: string;
   source: string;
   sourceFr?: string;
 }
@@ -13,6 +14,7 @@ export const quotes: Quote[] = [
     quote: "We suffer more often in imagination than in reality.",
     quoteFr: "Nous souffrons plus souvent en imagination qu'en réalité.",
     author: "Seneca",
+    authorFr: "Sénèque",
     source: "Letters from a Stoic",
     sourceFr: "Lettres à Lucilius",
   },
@@ -21,6 +23,7 @@ export const quotes: Quote[] = [
     quote: "You have power over your mind — not outside events. Realize this, and you will find strength.",
     quoteFr: "Tu as du pouvoir sur ton esprit — pas sur les événements extérieurs. Comprends-le, et tu trouveras la force.",
     author: "Marcus Aurelius",
+    authorFr: "Marc Aurèle",
     source: "Meditations",
     sourceFr: "Pensées",
   },
@@ -52,6 +55,7 @@ export const quotes: Quote[] = [
     quote: "The impediment to action advances action. What stands in the way becomes the way.",
     quoteFr: "L'empêchement à l'action fait avancer l'action. Ce qui se dresse sur le chemin devient le chemin.",
     author: "Marcus Aurelius",
+    authorFr: "Marc Aurèle",
     source: "Meditations",
     sourceFr: "Pensées",
   },
@@ -60,6 +64,7 @@ export const quotes: Quote[] = [
     quote: "Do the difficult things while they are easy; do the great things while they are small.",
     quoteFr: "Fais les choses difficiles quand elles sont faciles ; fais les grandes choses quand elles sont petites.",
     author: "Lao Tzu",
+    authorFr: "Lao Tseu",
     source: "Tao Te Ching",
   },
   {

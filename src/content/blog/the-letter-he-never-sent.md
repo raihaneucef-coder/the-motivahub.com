@@ -8,7 +8,7 @@ descriptionFr: "Il l'a écrite dans la colère, ne l'a jamais postée. Mais chaq
 pubDate: 2026-08-07
 updatedDate: 2026-09-12
 topic: "Stories"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/the-letter-he-never-sent-3.jpg"
 imageAlt: "A bundle of old letters tied with twine next to a handwritten letter and a vintage photo"
 featured: false
@@ -67,7 +67,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-letter-he-never-sent_p9">He took the whole stack to the garden and burned it. Not because the past did not matter, but because he no longer needed to carry it to prove it had happened.</div>
 
-<div data-i18n-html="article_the-letter-he-never-sent_p13">Psychologists who study expressive writing, particularly the Pennebaker paradigm at UT Austin, have found that writing a letter you never send produces many of the same emotional-processing benefits as sending one. The act of organizing grief, gratitude, or apology into coherent sentences reduces intrusive thoughts by roughly 30% within a week.</div>
+<div data-i18n-html="article_the-letter-he-never-sent_p13">Psychologists who study expressive writing, particularly the Pennebaker paradigm at UT Austin, have found that writing about difficult experiences in coherent detail is associated with better mood and fewer intrusive thoughts. A letter you never send is one way to do that writing: the act of organizing grief, gratitude, or apology into sentences is where much of the processing happens.</div>
 <div data-i18n-html="article_the-letter-he-never-sent_p14">If there is a letter sitting unsent in your mind — try this tonight. Write it in full detail. Name what happened, what you felt, what you needed, and what you would say if time were not the obstacle. Seal it. Keep or burn it. The point is the organizing, not the mailing.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p10"><a href="/journal/proof-over-noise/">Proof over noise</a>. The most powerful stories are not about what happened to people — they are about what people did next, quietly, when no one was watching.</div>

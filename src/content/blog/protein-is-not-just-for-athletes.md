@@ -8,7 +8,7 @@ descriptionFr: "Les protéines sont essentielles pour tout le monde, pas seuleme
 pubDate: 2026-08-14
 updatedDate: 2026-09-12
 topic: "Nutrition"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/protein-is-not-just-for-athletes.jpg"
 imageAlt: "Youssef Raihane - protein is not just for athletes concept"
 featured: false

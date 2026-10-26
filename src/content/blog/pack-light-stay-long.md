@@ -6,7 +6,7 @@ descriptionFr: "Les meilleurs voyageurs portent moins et restent plus longtemps.
 pubDate: 2026-08-20
 updatedDate: 2026-09-12
 topic: "Travel"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/pack-light-stay-long.jpg"
 imageAlt: "Youssef Raihane - pack light stay long concept"
 featured: false

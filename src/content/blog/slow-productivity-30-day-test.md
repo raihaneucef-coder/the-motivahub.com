@@ -301,7 +301,7 @@ The same principle applies to hobbies, side projects, social commitments. 2-3 ac
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p91">---</div>
+<hr />
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p92"><em>Youssef Raihane tested slow productivity in 2026. He killed 3 projects, kept 4, doubled his output quality, and worked 27% fewer hours. He still uses the system. The fire-the-bad-clients phase was the hardest part.</em></div>
 
@@ -314,7 +314,7 @@ The same principle applies to hobbies, side projects, social commitments. 2-3 ac
 5. <em>Sophie Leroy</em> — "Why is it so hard to do my work?" (2009) — for the cognitive switching cost research
 6. <em>Cal Newport</em> — <a href="https://calnewport.com">calnewport.com</a> — for the original slow productivity articles</div>
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p95">---</div>
+<hr />
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p96"><strong>Slow productivity is the hallway, not the doorway.</strong> Most of us try to start slow productivity by slowing down for an entire day. That is the hallway. The doorway is 2 minutes of quiet before opening the inbox. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the 7-day protocol that makes the doorway automatic.</div>
 

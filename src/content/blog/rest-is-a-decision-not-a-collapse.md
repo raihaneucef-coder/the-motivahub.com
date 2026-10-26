@@ -8,7 +8,7 @@ descriptionFr: "Le repos n'est pas un échec ni une récompense — c'est une d�
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Wellness"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/rest-is-a-decision-not-a-collapse.jpg"
 imageAlt: "Youssef Raihane - rest is a decision not a collapse concept"
 featured: false

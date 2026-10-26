@@ -6,7 +6,7 @@ descriptionFr: "Un objectif vague n'inspire personne, surtout pas toi. Rends-le 
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/make-it-measurable-make-it-mine.jpg"
 imageAlt: "Youssef Raihane - make it measurable make it mine concept"
 featured: false

@@ -6,7 +6,7 @@ descriptionFr: "Vous ne pouvez pas vous calmer par la pensée — vous y arrivez
 pubDate: 2026-08-19
 updatedDate: 2026-09-12
 topic: "Wellness"
-readTime: "3 min read"
+readTime: "3 MIN"
 image: "/images/blog/two-minute-breath-reset-3.jpg"
 imageAlt: "A woman meditating cross-legged in a dark studio with soft window light"
 featured: false

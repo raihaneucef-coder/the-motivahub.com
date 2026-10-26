@@ -7,7 +7,7 @@ descriptionFr: "Les petites victoires créent une grande vie. Découvrez comment
 pubDate: 2026-08-22
 updatedDate: 2026-10-18
 topic: "Habits"
-readTime: "7 min read"
+readTime: "7 MIN"
 image: "/images/blog/small-wins-big-life-2.jpg"
 imageAlt: "Hands stacking coins into small growing towers"
 featured: false

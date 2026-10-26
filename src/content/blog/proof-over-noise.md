@@ -8,7 +8,7 @@ descriptionFr: "Dans un monde de opinions, les preuves sont rares. Apprenez à v
 pubDate: 2026-08-21
 updatedDate: 2026-09-12
 topic: "Stories"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/proof-over-noise-3.jpg"
 imageAlt: "Marathon runners crossing the finish line through the finish tape"
 featured: false

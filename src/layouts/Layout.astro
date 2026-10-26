@@ -21,9 +21,12 @@ interface Props {
   canonical?: string;
   // Override the default robots directive (e.g. "noindex, follow" for pagination).
   robots?: string;
+  // Suppress alternates when the sibling page does not exist in the other
+  // language (e.g. FR journal page 15 has no EN counterpart).
+  hideAlternates?: boolean;
 }
 
-const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema, canonical: canonicalOverride, robots } = Astro.props;
+const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema, canonical: canonicalOverride, robots, hideAlternates = false } = Astro.props;
 const currentLocale = getLangFromUrl(Astro.url);
 const canonical = canonicalOverride ?? Astro.url.href;
 // hreflang alternates must point at the real sibling page: map the journal
@@ -102,9 +105,13 @@ const deferGa = GA_ID
         <meta property="article:section" content="Self-Improvement" />
       </>
     )}
-    <link rel="alternate" hreflang="en" href={enUrl} />
-    <link rel="alternate" hreflang="fr" href={frUrl} />
-    <link rel="alternate" hreflang="x-default" href={enUrl} />
+    {!hideAlternates && (
+      <>
+        <link rel="alternate" hreflang="en" href={enUrl} />
+        <link rel="alternate" hreflang="fr" href={frUrl} />
+        <link rel="alternate" hreflang="x-default" href={enUrl} />
+      </>
+    )}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="theme-color" content="#0a0a0a" />
     <meta name="twitter:title" content={title} />

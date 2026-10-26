@@ -7,7 +7,7 @@ descriptionFr: "La récupération est aussi importante que l'entraînement. Déc
 pubDate: 2026-08-17
 updatedDate: 2026-09-12
 topic: "Sport"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/recovery-is-training-3.jpg"
 imageAlt: "An exhausted athlete lying on a foam roller on the gym floor after training"
 featured: false

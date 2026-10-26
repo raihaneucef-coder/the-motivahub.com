@@ -48,6 +48,25 @@ const frArticles = (G.__motivaFrArticles ??= JSON.parse(
   readFileSync(join(process.cwd(), "public", "i18n", "articles-fr.json"), "utf-8")
 ));
 
+// The French body is a separate translation, so the English frontmatter
+// wordCount does not describe this page. Count the French paragraphs that are
+// actually rendered and fall back to the English value if they are missing.
+function countFrWords(html: string): number {
+  return html
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&[a-z#0-9]+;/gi, " ")
+    .toLowerCase()
+    .split(/[^\p{L}\p{N}]+/u)
+    .filter(Boolean).length;
+}
+// The dictionary can keep translations for blocks that no longer exist in the
+// article. Counting those would describe text that is not on the page, so only
+// keys whose block is still in the body are counted.
+const bodyHtml = post.body ?? "";
+const frWordCount = Object.entries(frArticles)
+  .filter(([key]) => key.startsWith(`article_${post.id}_p`) && bodyHtml.includes(`data-i18n-html="${key}"`))
+  .reduce((total, [, html]) => total + countFrWords(html), 0);
+
 // GitHub-style slugger with per-page dedup, shared by heading ids and the TOC
 // so every TOC link always matches an id on the same page.
 const usedSlugs = new Map<string, number>();
@@ -224,7 +243,7 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
     inLanguage: postLang,
     keywords: (post.data.keywords || []).join(", "),
     articleSection: post.data.topic,
-    wordCount: post.data.wordCount || 0,
+    wordCount: frWordCount || post.data.wordCount || 0,
     author: { "@type": "Person", "name": "Youssef Raihane", "url": "https://the-motivahub.com/fr/about/" },
     publisher: { "@type": "Organization", "name": "Motiva Hub", "logo": { "@type": "ImageObject", "url": "https://the-motivahub.com/logo.jpg" } },
     mainEntityOfPage: { "@type": "WebPage", "@id": `https://the-motivahub.com${Astro.url.pathname}` }

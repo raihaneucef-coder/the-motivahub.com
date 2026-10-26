@@ -8,7 +8,7 @@ descriptionFr: "La façon la plus simple de construire une nouvelle habitude est
 pubDate: 2026-08-22
 updatedDate: 2026-09-21
 topic: "Habits"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/habit-stacking-made-simple-3.jpg"
 imageAlt: "A tower of smooth pebbles balanced one on top of another"
 featured: false

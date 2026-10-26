@@ -6,7 +6,7 @@ descriptionFr: "La réussite n'est pas une destination — c'est une direction. 
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/success-is-a-direction-2.jpg"
 imageAlt: "An ornamental street signpost with direction arrows against the sky"
 featured: false

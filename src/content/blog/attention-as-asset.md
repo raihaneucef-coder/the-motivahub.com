@@ -30,7 +30,7 @@ faq:
   - q: "How do I protect my attention?"
     a: "Start with an attention audit: track every distraction for one day. Then implement two rules: (1) phone in another room during deep work, (2) single-tab, single-task work. These two rules alone can recover 2-3 hours per day."
   - q: "Is multitasking really that bad?"
-    a: "Yes. Research from the University of Michigan found that multitasking can reduce productivity by up to 40%. The switching cost compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work."
+    a: "Yes. Research on task switching at the University of Michigan found that switching between tasks carries a measurable time cost. The cost compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work."
   - q: "What is the attention economy?"
     a: "The attention economy is the market for human attention. Apps, social media, and news are designed to capture and hold your attention because attention is the new currency. The more attention they harvest, the more they earn from advertisers."
 faqFr:
@@ -39,7 +39,7 @@ faqFr:
   - q: "Comment protéger mon attention ?"
     a: "Commencez par un audit d'attention : notez chaque distraction pendant une journée. Puis instaurez deux règles : (1) le téléphone dans une autre pièce pendant le travail profond, (2) un seul onglet, une seule tâche. Ces deux règles seules peuvent rendre 2 à 3 heures par jour."
   - q: "Le multitâche est-il vraiment si nocif ?"
-    a: "Oui. Des travaux de l'université du Michigan ont montré que le multitâche peut réduire la productivité jusqu'à 40 %. Le coût de bascule se compose à chaque changement de tâche. Le mono-tâche n'est pas seulement meilleur : c'est la seule manière durable de travailler."
+    a: "Oui. Des travaux sur la commutation de tâches à l'université du Michigan ont montré que passer d'une tâche à l'autre a un coût de temps mesurable. Ce coût s'accumule à chaque changement. Le mono-tâche n'est pas seulement meilleur : c'est la seule manière durable de travailler."
   - q: "Qu'est-ce que l'économie de l'attention ?"
     a: "C'est le marché de l'attention humaine. Les applications, les réseaux sociaux et les médias sont conçus pour capter et retenir votre attention, parce que l'attention est la nouvelle monnaie. Plus ils en récoltent, plus ils gagnent auprès des annonceurs."
 relatedArticles:
@@ -129,7 +129,7 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p36">One tab. One task. One window. The multitasker is not doing more — they are paying a switching tax on every task, and the tax compounds.</div>
 
-<div data-i18n-html="article_attention-as-asset_p37">Research from the University of Michigan found that multitasking can reduce productivity by up to 40%. The switching cost compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work.</div>
+<div data-i18n-html="article_attention-as-asset_p37">Research on task switching at the University of Michigan found that switching between tasks carries a measurable time cost. The switching tax compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work.</div>
 
 <div data-i18n-html="article_attention-as-asset_p38">In 2023, I started using a single-tab browser for writing. One document. No email. No Slack. No research. Just writing. When I needed to research, I opened a new window. When I was done, I closed it. The single tab forced me to finish one thing before starting another.</div>
 
@@ -176,7 +176,7 @@ relatedArticles:
 I thought 8 hours at the computer meant 8 hours of work. It did not. It meant 8 hours of attention theft. The fix: track the actual productive hours, not the time spent at the computer.</div>
 
 <div data-i18n-html="article_attention-as-asset_p57"><strong>Mistake 2: Believing in multitasking</strong>
-I thought I could write and check email at the same time. I could not. The switching tax cost me 40% of my productivity. The fix: single-tab, single-task work.</div>
+I thought I could write and check email at the same time. I could not. The switching tax cost me a serious share of my productivity. The fix: single-tab, single-task work.</div>
 
 <div data-i18n-html="article_attention-as-asset_p58"><strong>Mistake 3: Ignoring the ledger</strong>
 I never tracked where my attention went. The theft was invisible. The audit made it visible. Once I saw the theft, I could stop it.</div>
@@ -192,15 +192,15 @@ I never tracked where my attention went. The theft was invisible. The audit made
 5. <strong>Implement one rule:</strong> phone in another room during deep work.
 6. <strong>Track the difference.</strong></div>
 
-<div data-i18n-html="article_attention-as-asset_p62">Most people who do this for one week report:
-- 2-3 hours of recovered attention
-- 2x increase in deep work output
+<div data-i18n-html="article_attention-as-asset_p62">After one week, read your own log. Look for:
+- Less time lost to attention theft
+- More deep work finished in fewer sessions
 - Lower stress and anxiety
 - More presence in conversations</div>
 
-<div data-i18n-html="article_attention-as-asset_p63">The data will convince you faster than any productivity book.</div>
+<div data-i18n-html="article_attention-as-asset_p63">Your own log will be more convincing than any productivity book.</div>
 
-<div data-i18n-html="article_attention-as-asset_p64">---</div>
+<hr />
 
 <div data-i18n-html="article_attention-as-asset_p65"><h2>The Honest Summary</h2></div>
 
@@ -210,7 +210,7 @@ I never tracked where my attention went. The theft was invisible. The audit made
 
 <div data-i18n-html="article_attention-as-asset_p68">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>
 
-<div data-i18n-html="article_attention-as-asset_p69">---</div>
+<hr />
 
 <div data-i18n-html="article_attention-as-asset_p70"><em>Youssef Raihane tracked his attention in 2023 and discovered he was stealing 3.5 hours per day from himself. He now works with his phone in another room during deep work and has doubled his output.</em></div>
 
@@ -220,7 +220,7 @@ I never tracked where my attention went. The theft was invisible. The audit made
 2. <em>Mark, G., et al.</em> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
 3. <em>Seneca</em> — <em>On the Shortness of Life</em> — for the Stoic perspective on attention theft</div>
 
-<div data-i18n-html="article_attention-as-asset_p73">---</div>
+<hr />
 
 <div data-i18n-html="article_attention-as-asset_p74"><strong>Attention is the new currency.</strong> To see how to budget it alongside your habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 

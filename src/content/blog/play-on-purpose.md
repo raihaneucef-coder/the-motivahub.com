@@ -6,7 +6,7 @@ descriptionFr: "Le loisir qui te laisse plus vide n'est pas du repos. Choisis le
 pubDate: 2026-08-20
 updatedDate: 2026-09-12
 topic: "Entertainment"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/play-on-purpose-2.jpg"
 imageAlt: "Friends laughing around a table game in colorful light"
 featured: false

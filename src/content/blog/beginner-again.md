@@ -143,7 +143,7 @@ relatedArticles:
 
 <div data-i18n-html="article_beginner-again_p47">Beginner again. It is the hungriest you will feel all year.</div>
 
-<div data-i18n-html="article_beginner-again_p48">---</div>
+<hr />
 
 <div data-i18n-html="article_beginner-again_p49"><em>Youssef Raihane went to Fez in March 2023 and got lost three times. He ate bread he did not order. He paid twice for the same thing. He came back with recalibrated eyes.</em></div>
 

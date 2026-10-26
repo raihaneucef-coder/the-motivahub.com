@@ -8,7 +8,7 @@ descriptionFr: "Voyager seul est une expérience transformatrice. Découvrez com
 pubDate: 2026-08-11
 updatedDate: 2026-09-12
 topic: "Travel"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/solo-travel-stronger-self-2.jpg"
 imageAlt: "Lone hiker with a backpack trekking through the mountains - solo travel builds a stronger self"
 featured: false

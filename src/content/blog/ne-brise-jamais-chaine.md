@@ -113,6 +113,6 @@ After 7 days, the chain becomes precious. After 30 days, it becomes part of your
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p27"><blockquote><em>The chain is not a cage. It is a compass. It points you back to who you want to become.</em></blockquote></div>
 
-<div data-i18n-html="article_ne-brise-jamais-chaine_p28">---</div>
+<hr />
 
 <div data-i18n-html="article_ne-brise-jamais-chaine_p29"><strong>Start your chain today.</strong> Use our <a href="/tracker/">Habit Tracker</a> to mark your first day. Then come back tomorrow. And the day after. And watch the chain grow.</div>

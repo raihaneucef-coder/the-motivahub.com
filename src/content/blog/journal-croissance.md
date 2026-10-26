@@ -89,6 +89,6 @@ Every month, re-read your entries in one sitting. You will see three things invi
 
 <div data-i18n-html="article_journal-croissance_p15"><blockquote><em>I can be changed by what happens to me. But I refuse to be reduced by it. — Maya Angelou</em></blockquote></div>
 
-<div data-i18n-html="article_journal-croissance_p16">---</div>
+<hr />
 
 <div data-i18n-html="article_journal-croissance_p17"><strong>Start journaling today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 journal prompts. Track your writing streak with our <a href="/tracker/">Habit Tracker</a>.</div>

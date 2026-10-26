@@ -176,15 +176,15 @@ I tried to stop scrolling without any negative consequence. There was no cost. T
 4. <strong>Week 3:</strong> Make it difficult. Add friction.
 5. <strong>Week 4:</strong> Make it unsatisfying. Add a negative consequence.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p52">Most people who try this for 30 days report:
-- The habit is reduced by 80% or more
+<div data-i18n-html="article_casser-mauvaise-habitude_p52">By day 30, look for four signs:
+- The habit feels smaller and easier to interrupt
 - More time for important things
 - More energy and focus
 - Better mood and sleep</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p53">The data will convince you faster than any self-help book.</div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p53">Track your own results — your data will convince you faster than any self-help book.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p54">---</div>
+<hr />
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p55"><h2>The Honest Summary</h2></div>
 
@@ -198,7 +198,7 @@ I tried to stop scrolling without any negative consequence. There was no cost. T
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p60">But it will give you back your time. And that, I think, is worth something.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p61">---</div>
+<hr />
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p62"><em>Youssef Raihane broke his 3-hour-per-day scrolling habit in 2023 using the reverse four laws. He now spends that time writing, reading, and being present with his family.</em></div>
 
@@ -208,7 +208,7 @@ I tried to stop scrolling without any negative consequence. There was no cost. T
 2. <em>Fogg, B. J.</em> (2019). <em>Tiny Habits: The Small Changes That Change Everything.</em> — for the trigger-habit-reward framework
 3. <em>Duhigg, C.</em> (2012). <em>The Power of Habit: Why We Do What We Do in Life and Business.</em> — for the habit loop and how to break it</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p65">---</div>
+<hr />
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start redesigning the conditions around it.</strong> The 2-Minute Rule guide shows how tiny starts rewire both good and bad habits from the inside. Read the full walkthrough if you want the step-by-step version.</div>
 

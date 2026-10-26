@@ -306,7 +306,7 @@ relatedArticles:
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_the-morning-athlete_p87">---</div>
+<hr />
 
 <div data-i18n-html="article_the-morning-athlete_p88"><em>Youssef Raihane has trained at 5 AM for 12 years. He's missed 4 weeks due to injury. He's gained 8 pounds of muscle and lost 12 pounds of fat (net). He's run 4 marathons. He's learned more from the misses than the wins. He's still learning.</em></div>
 
@@ -319,7 +319,7 @@ relatedArticles:
 5. <em>Mark Sisson</em> — <em>Primal Endurance</em> — for the morning training philosophy
 6. <em>Christopher Bergland</em> — <em>The Athlete's Way</em> — for the recovery science</div>
 
-<div data-i18n-html="article_the-morning-athlete_p91">---</div>
+<hr />
 
 <div data-i18n-html="article_the-morning-athlete_p92"><strong>The athlete's morning is a chain, not a stage.</strong> One link (water), then another (movement), then another (the thing that actually matters to you). The chain is what makes the morning an athlete's morning. The <a href="/tools/habit-stacker/">Habit Stack Generator</a> builds the chain for you — paste in your anchor, your new habit, your cue, and it outputs a 30-day plan in 60 seconds.</div>
 

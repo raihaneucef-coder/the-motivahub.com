@@ -8,7 +8,7 @@ descriptionFr: "Chaque objectif cache un objectif plus profond — un pourquoi d
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/the-goal-behind-the-goal-2.jpg"
 imageAlt: "A split-level view of a tropical island above the surface and the reef hidden below"
 featured: false

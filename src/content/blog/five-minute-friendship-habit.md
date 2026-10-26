@@ -6,7 +6,7 @@ descriptionFr: "L'amitié n'a pas besoin de week-ends loin — elle demande cinq
 pubDate: 2026-08-17
 updatedDate: 2026-09-21
 topic: "Relationships"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/five-minute-friendship-habit-3.jpg"
 imageAlt: "Two friends laughing together over takeaway coffee on a city street"
 featured: false

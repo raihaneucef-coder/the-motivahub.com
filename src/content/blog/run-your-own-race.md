@@ -8,7 +8,7 @@ descriptionFr: "Courez votre propre course. La comparaison est le voleur de la j
 pubDate: 2026-08-18
 updatedDate: 2026-10-18
 topic: "Sport"
-readTime: "6 min read"
+readTime: "6 MIN"
 image: "/images/blog/run-your-own-race-2.jpg"
 imageAlt: "Lone runner on an outdoor track - run your own race"
 featured: false

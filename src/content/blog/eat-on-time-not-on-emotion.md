@@ -6,7 +6,7 @@ descriptionFr: "La faim fait prendre de mauvaises décisions. Les repas régulie
 pubDate: 2026-08-13
 updatedDate: 2026-09-12
 topic: "Nutrition"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/eat-on-time-not-on-emotion.jpg"
 imageAlt: "Youssef Raihane - eat on time not on emotion concept"
 featured: false

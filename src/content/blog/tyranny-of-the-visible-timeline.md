@@ -8,7 +8,7 @@ descriptionFr: "La plupart des abandons n'ont rien à voir avec l'objectif — t
 pubDate: 2026-08-20
 updatedDate: 2026-09-12
 topic: "Mindset"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/tyranny-of-the-visible-timeline.jpg"
 imageAlt: "Youssef Raihane - tyranny of the visible timeline concept"
 featured: false

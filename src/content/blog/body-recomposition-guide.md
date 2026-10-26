@@ -8,7 +8,7 @@ seoTitleFr: "Recomposition : perdre du gras, gagner du muscle"
 pubDate: 2026-10-10
 updatedDate: 2026-10-10
 topic: "Sport"
-readTime: "11 min read"
+readTime: "11 MIN"
 image: "/images/hero-athlete.jpg"
 imageAlt: "Athlete training with weights — body recomposition guide"
 featured: false

@@ -159,7 +159,7 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 
 <div data-i18n-html="article_atomic-habits-review_p45">Read it slowly. Apply one lesson per week. Vote daily.</div>
 
-<div data-i18n-html="article_atomic-habits-review_p46">---</div>
+<hr />
 
 <div data-i18n-html="article_atomic-habits-review_p47"><h2>Sources</h2></div>
 
@@ -169,7 +169,7 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 <li><em>Gollwitzer, P. M., &amp; Sheeran, P.</em> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119. — for the implementation intentions research</li>
 </ol></div>
 
-<div data-i18n-html="article_atomic-habits-review_p49">---</div>
+<hr />
 
 <div data-i18n-html="article_atomic-habits-review_p50"><em>Youssef Raihane read Atomic Habits 4 times in 18 months. Each read changed a different layer: framework, misunderstandings, application, and calibration. The book is now permanently on his desk — not as a reference, but as a calibration tool.</em></div>
 

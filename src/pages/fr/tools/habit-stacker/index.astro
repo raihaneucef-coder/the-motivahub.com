@@ -5,29 +5,31 @@ import NewsletterSection from "../../../../components/NewsletterSection.astro";
 const title = "Habit Stacker — Empilez vos habitudes et construisez un système";
 const description = "Utilisez le Habit Stacker pour créer des routines durables. Empilez les habitudes, suivez votre progression et construisez un système qui fonctionne.";
 
+// Chip labels are French infinitives so the result reads as one sentence with
+// the "Dès que j'ai fini de … je vais …" frame below.
 const currentHabits = [
-  "Brush my teeth", "Pour my morning coffee", "Sit at my desk", "Take off my shoes",
-  "Open my laptop", "Park my car", "Take a shower", "Eat breakfast",
-  "Check my phone", "Take my first sip of water", "Put on workout clothes",
-  "Wash my hands", "Brush my hair", "Lock the front door", "Start the dishwasher"
+  "Me brosser les dents", "Verser mon café du matin", "M'asseoir à mon bureau", "Retirer mes chaussures",
+  "Ouvrir mon ordinateur", "Garer ma voiture", "Prendre ma douche", "Prendre mon petit-déjeuner",
+  "Consulter mon téléphone", "Boire ma première gorgée d'eau", "Enfiler ma tenue de sport",
+  "Me laver les mains", "Me brosser les cheveux", "Fermer la porte d'entrée à clé", "Lancer le lave-vaisselle"
 ];
 
 const newHabits = [
-  "Meditate for 2 minutes",
-  "Read 1 page of a book",
-  "Write 1 sentence in my journal",
-  "Do 5 push-ups",
-  "Drink a glass of water",
-  "Stretch for 30 seconds",
-  "Take 5 deep breaths",
-  "Write down 3 priorities for today",
-  "Say out loud: 'I am focused'",
-  "Practice gratitude: write 1 thing",
-  "Review my goals for 1 minute",
-  "Stand up and walk for 30 seconds",
-  "Listen to a podcast for 2 minutes",
-  "Send a text to someone I appreciate",
-  "Visualize my day for 60 seconds"
+  "Méditer 2 minutes",
+  "Lire 1 page d'un livre",
+  "Écrire 1 phrase dans mon journal",
+  "Faire 5 pompes",
+  "Boire un verre d'eau",
+  "M'étirer 30 secondes",
+  "Prendre 5 respirations profondes",
+  "Noter 3 priorités pour aujourd'hui",
+  "Dire à voix haute : « Je suis concentré »",
+  "Pratiquer la gratitude : noter 1 chose",
+  "Relire mes objectifs 1 minute",
+  "Me lever et marcher 30 secondes",
+  "Écouter un podcast 2 minutes",
+  "Envoyer un message à quelqu'un que j'apprécie",
+  "Visualiser ma journée 60 secondes"
 ];
 ---
 
@@ -77,7 +79,7 @@ const newHabits = [
             ))}
           </div>
           <div class="hs-custom">
-            <input type="text" placeholder="Or write your own..." data-custom-current data-i18n-placeholder="hsCustomPlaceholder" />
+            <input type="text" placeholder="Or write your own..." aria-label="Habitude actuelle personnalisée" data-custom-current data-i18n-placeholder="hsCustomPlaceholder" />
           </div>
         </div>
 
@@ -91,14 +93,14 @@ const newHabits = [
             ))}
           </div>
           <div class="hs-custom">
-            <input type="text" placeholder="Or write your own..." data-custom-new data-i18n-placeholder="hsCustomPlaceholderNew" />
+            <input type="text" placeholder="Or write your own..." aria-label="Nouvelle habitude personnalisée" data-custom-new data-i18n-placeholder="hsCustomPlaceholderNew" />
           </div>
         </div>
 
         <div class="hs-step hs-step-3" data-step="3" hidden>
           <p class="hs-step-num" data-i18n="hsStep3Num">YOUR STACK</p>
           <div class="hs-result">
-            <p class="hs-result-prefix" data-i18n="hsResultPrefix">After I</p>
+            <p class="hs-result-prefix" data-i18n="hsResultPrefix">Dès que j'ai fini de</p>
             <p class="hs-result-current" data-result-current></p>
             <p class="hs-result-then" data-i18n="hsResultThen">I will</p>
             <p class="hs-result-new" data-result-new></p>
@@ -202,7 +204,7 @@ const newHabits = [
     btn.addEventListener('click', () => {
       document.querySelectorAll('[data-current]').forEach((b) => b.classList.remove('selected'));
       btn.classList.add('selected');
-      pickText('current', btn.text.textContent);
+      pickText('current', btn.textContent);
     });
   });
 

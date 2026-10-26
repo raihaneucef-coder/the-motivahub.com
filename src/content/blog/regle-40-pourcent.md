@@ -180,7 +180,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p53">Test it. Track it. Build your Cookie Jar. Within 30 days, you'll find what I found: you've been living at 40% — and the 60% has been waiting for you to ask.</div>
 
-<div data-i18n-html="article_regle-40-pourcent_p54">---</div>
+<hr />
 
 <div data-i18n-html="article_regle-40-pourcent_p55"><em>Youssef Raihane has been tracking his own walls and wins for 30 days — and counting. The Cookie Jar is real. The 10-minute negotiation is real. The 40% is real.</em></div>
 

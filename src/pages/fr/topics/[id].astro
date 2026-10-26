@@ -17,6 +17,9 @@ const posts = (await getCollection("blog"))
   .filter((p) => !p.data.draft && norm(p.data.topic) === topic.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const pillar = pillars[topic.id];
+// French copy for the H1 and the JSON-LD; the page title already used titleFr.
+const topicTitle = topic.titleFr ?? topic.title;
+const topicDescription = topic.descriptionFr ?? topic.description;
 // Hub curation is editorial and may span topics (e.g. toughness essays tagged Discipline);
 // the feed below keeps using the topic-filtered list.
 const allPosts = (await getCollection("blog"))
@@ -28,8 +31,8 @@ const allPosts = (await getCollection("blog"))
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": `${topic.title} — Motiva Hub`,
-    "description": topic.description,
+    "name": `${topicTitle} — Motiva Hub`,
+    "description": topicDescription,
     "url": `https://the-motivahub.com/fr/topics/${topic.id}/`,
     "isPartOf": {
       "@type": "WebSite",
@@ -38,7 +41,7 @@ const allPosts = (await getCollection("blog"))
     },
     "about": {
       "@type": "Thing",
-      "name": topic.title
+      "name": topicTitle
     },
     "mainEntity": {
       "@type": "ItemList",
@@ -47,7 +50,7 @@ const allPosts = (await getCollection("blog"))
         "@type": "ListItem",
         "position": i + 1,
         "url": `https://the-motivahub.com/fr/journal/${p.id}/`,
-        "name": p.data.title
+        "name": p.data.titleFr || p.data.title
       }))
     }
   })} />
@@ -57,13 +60,13 @@ const allPosts = (await getCollection("blog"))
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
       { "@type": "ListItem", "position": 2, "name": "Thèmes", "item": "https://the-motivahub.com/fr/topics/" },
-      { "@type": "ListItem", "position": 3, "name": topic.title, "item": `https://the-motivahub.com/fr/topics/${topic.id}/` }
+      { "@type": "ListItem", "position": 3, "name": topicTitle, "item": `https://the-motivahub.com/fr/topics/${topic.id}/` }
     ]
   })} />
   <section class="page-head">
     <div class="container">
       <p class="kicker"><a href="/fr/topics/" style="color:inherit;text-decoration:none;" data-i18n="topicsKicker">{dictFr.topicsKicker}</a> · <span data-i18n="theFeed">{dictFr.theFeed}</span></p>
-      <h1>{topic.title} <em>— {posts.length} {posts.length === 1 ? "essay" : "essays"}.</em></h1>
+      <h1>{topicTitle} <em>— {posts.length} {posts.length === 1 ? "essai" : "essais"}.</em></h1>
       <p>{topic.descriptionFr || topic.description}</p>
     </div>
   </section>

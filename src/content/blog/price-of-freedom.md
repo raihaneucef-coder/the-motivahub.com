@@ -6,7 +6,7 @@ descriptionFr: "La liberté a un prix. Découvrez ce que coûte vraiment la libe
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Finance"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/price-of-freedom.jpg"
 imageAlt: "Youssef Raihane - price of freedom concept"
 featured: false

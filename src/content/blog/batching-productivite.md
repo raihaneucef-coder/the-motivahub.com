@@ -181,15 +181,15 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 3. <strong>Week 3:</strong> Add a creative batch. Protect 2-3 hours of uninterrupted creative work.
 4. <strong>Week 4:</strong> Add an admin batch. One hour, all admin tasks.</div>
 
-<div data-i18n-html="article_batching-productivite_p57">Most people who try this for 30 days report:
-- 2-3 hours recovered per day
-- 2x increase in deep work output
+<div data-i18n-html="article_batching-productivite_p57">After 30 days, read your own log. Look for:
+- More deep work finished in fewer sessions
+- Fewer context switches per day
 - Lower stress and anxiety
 - More progress on important projects</div>
 
-<div data-i18n-html="article_batching-productivite_p58">The data will convince you faster than any productivity book.</div>
+<div data-i18n-html="article_batching-productivite_p58">Your own log will be more convincing than any productivity book.</div>
 
-<div data-i18n-html="article_batching-productivite_p59">---</div>
+<hr />
 
 <div data-i18n-html="article_batching-productivite_p60"><h2>The Honest Summary</h2></div>
 
@@ -203,7 +203,7 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 
 <div data-i18n-html="article_batching-productivite_p65">But it will give you back your focus. And that, I think, is worth something.</div>
 
-<div data-i18n-html="article_batching-productivite_p66">---</div>
+<hr />
 
 <div data-i18n-html="article_batching-productivite_p67"><em>Youssef Raihane batched his tasks in 2023 and doubled his writing output in 30 days. He now works in four blocks: communication, creative, admin, and errands. The creative block is sacred.</em></div>
 
@@ -213,7 +213,7 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 2. <em>Mark, G., et al.</em> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
 3. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the habit stacking and environment design principles</div>
 
-<div data-i18n-html="article_batching-productivite_p70">---</div>
+<hr />
 
 <div data-i18n-html="article_batching-productivite_p71"><strong>Batching is the gateway to deep work.</strong> To see how to protect that deep work with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 

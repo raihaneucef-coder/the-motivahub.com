@@ -8,7 +8,7 @@ descriptionFr: "La dette est souvent une histoire que nous nous racontons. Appre
 pubDate: 2026-08-16
 updatedDate: 2026-09-12
 topic: "Finance"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/debt-is-a-story.jpg"
 imageAlt: "Youssef Raihane - debt is a story concept"
 featured: false

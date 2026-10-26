@@ -6,7 +6,7 @@ descriptionFr: "La plupart des échecs de volonté sont des échecs d'hydratatio
 pubDate: 2026-08-15
 updatedDate: 2026-09-12
 topic: "Nutrition"
-readTime: "3 min read"
+readTime: "3 MIN"
 image: "/images/blog/water-before-willpower-3.jpg"
 imageAlt: "A hand pouring fresh water into a glass against a blurred city backdrop"
 featured: false

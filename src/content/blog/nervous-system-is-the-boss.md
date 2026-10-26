@@ -6,7 +6,7 @@ descriptionFr: "Ton esprit ne décide pas de comment tu te sens — ton système
 pubDate: 2026-08-12
 updatedDate: 2026-09-12
 topic: "Wellness"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/nervous-system-is-the-boss.jpg"
 imageAlt: "Youssef Raihane - nervous system is the boss concept"
 featured: false

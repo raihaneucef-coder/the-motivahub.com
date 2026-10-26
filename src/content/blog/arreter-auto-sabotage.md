@@ -201,13 +201,13 @@ relatedArticles:
 5. <strong>Track the data for 2 weeks.</strong>
 6. <strong>Decide if the pattern is changing.</strong></div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p67">Most people who try this for 2 weeks report:
-- More awareness of their triggers
+<div data-i18n-html="article_arreter-auto-sabotage_p67">After two weeks, read your own record. Look for:
+- More awareness of your triggers
 - Less guilt about procrastination
 - Faster recovery from setbacks
 - More action on important tasks</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p68">The data will convince you faster than any self-help book.</div>
+<div data-i18n-html="article_arreter-auto-sabotage_p68">Your own record will be more convincing than any self-help book.</div>
 
 <div data-i18n-html="article_arreter-auto-sabotage_p69"><h2>What Comes After Awareness</h2></div>
 
@@ -222,7 +222,7 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-auto-sabotage_p73">This is the system I am still building. The awareness was the foundation. Everything else is built on top.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p74">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-auto-sabotage_p75"><h2>The Honest Summary</h2></div>
 
@@ -236,7 +236,7 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-auto-sabotage_p80">But it will give you back your agency. And that, I think, is worth something.</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p81">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-auto-sabotage_p82"><em>Youssef Raihane missed his own book launch in March 2024 because of self-sabotage. He now uses a 3-step recovery protocol before every public moment. The next launch went smoothly: 127 copies in the first 24 hours.</em></div>
 
@@ -246,7 +246,7 @@ relatedArticles:
 2. <em>Baumeister, R. F., & Tierney, J.</em> (2011). <em>Willpower: Rediscovering the Greatest Human Strength.</em> — for the decision fatigue research
 3. <em>Carol Dweck</em> — <em>Mindset</em> (2006) — for the identity and self-sabotage connection</div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p85">---</div>
+<hr />
 
 <div data-i18n-html="article_arreter-auto-sabotage_p86"><strong>Self-sabotage is not a character flaw. It is a system failure.</strong> To see the system repaired with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of moments.</div>
 

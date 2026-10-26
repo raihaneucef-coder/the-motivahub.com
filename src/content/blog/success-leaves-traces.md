@@ -7,7 +7,7 @@ descriptionFr: "La réussite laisse des traces. Analysez les patterns des gens q
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Success"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/success-leaves-traces-2.jpg"
 imageAlt: "Footprints trailing across smooth sand"
 featured: false

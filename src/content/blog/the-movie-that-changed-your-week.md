@@ -6,7 +6,7 @@ descriptionFr: "Un bon film ne divertit pas seulement — il vous transforme. Ch
 pubDate: 2026-08-09
 updatedDate: 2026-09-12
 topic: "Entertainment"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/the-movie-that-changed-your-week-2.jpg"
 imageAlt: "Empty red cinema seats facing the glowing projector screen"
 featured: false

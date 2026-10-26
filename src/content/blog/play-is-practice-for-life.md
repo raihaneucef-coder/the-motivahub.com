@@ -6,7 +6,7 @@ descriptionFr: "On pense que jouer est ce qu'on fait après la vie. Jouer, c'est
 pubDate: 2026-08-08
 updatedDate: 2026-09-12
 topic: "Entertainment"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/play-is-practice-for-life-3.jpg"
 imageAlt: "Kids playing soccer together on a grass field in a village"
 featured: false

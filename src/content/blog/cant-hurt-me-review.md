@@ -192,7 +192,7 @@ relatedArticles:
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p55">---</div>
+<hr />
 
 <div data-i18n-html="article_cant-hurt-me-review_p56"><strong>Start tonight:</strong> Tape three sticky notes on your mirror. Read them at 11 PM. Notice which one you avoid.</div>
 
@@ -200,7 +200,7 @@ relatedArticles:
 
 <div data-i18n-html="article_cant-hurt-me-review_p58">Nobody is coming to save your schedule, your health, or your dreams. And once that stops being terrifying, it becomes the most freeing sentence you've ever heard.</div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p59">---</div>
+<hr />
 
 <div data-i18n-html="article_cant-hurt-me-review_p60"><em>Youssef Raihane has been writing about discipline, habits, and the long ascent since 2019. He owns no books. He does own a Notion page titled "Proof I Can Do Hard Things."</em></div>
 
@@ -211,7 +211,7 @@ relatedArticles:
 3. David Goggins interview with Tim Ferriss — for the practical application of the 40% Rule
 4. Marcus Aurelius' Meditations — for the Stoic roots of the ownership principle</div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p63">---</div>
+<hr />
 
 <div data-i18n-html="article_cant-hurt-me-review_p64"><strong>The 40% Rule is the hallway, not the doorway.</strong> Most people hear Goggins and try to run a 100-mile week. The hallway. The doorway is one cold shower in the morning. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> explains why the smallest possible version is the one that survives a bad day.</div>
 

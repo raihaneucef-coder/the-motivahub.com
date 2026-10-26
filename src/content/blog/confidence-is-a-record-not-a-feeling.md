@@ -6,7 +6,7 @@ descriptionFr: "La confiance ne vient pas du sentiment — elle vient des action
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Confidence"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/confidence-is-a-record-not-a-feeling-2.jpg"
 imageAlt: "A hand reaching for gold trophies lined up on a wooden shelf"
 featured: false

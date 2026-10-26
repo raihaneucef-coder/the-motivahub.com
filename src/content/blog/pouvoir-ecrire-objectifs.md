@@ -1,8 +1,8 @@
 ---
 title: "The Power of Writing Down Your Goals"
-description: "A small, unpublished study (Matthews, 2015) found a 42 % goal-achievement advantage for people who wrote their goals down. Learn why writing transforms wishes into reality."
+description: "A small, unpublished study (Matthews, 2015) reported that people who wrote their goals down were more likely to achieve them. Learn why writing transforms wishes into reality."
 titleFr: "Le pouvoir d'écrire tes objectifs"
-descriptionFr: "Une petite étude non publiée (Matthews, 2015) a constaté un avantage de 42 % dans l'atteinte des objectifs pour ceux qui les écrivent. Découvrez pourquoi écrire transforme les souhaits en réalité."
+descriptionFr: "Une petite étude non publiée (Matthews, 2015) a rapporté que les personnes qui écrivaient leurs objectifs avaient plus de chances de les atteindre. Découvrez pourquoi écrire transforme les souhaits en réalité."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"
@@ -23,16 +23,16 @@ tags:
 wordCount: 591
 faq:
   - q: "Does writing goals down actually increase achievement?"
-    a: "Yes — an unpublished Dominican University study (Gail Matthews, 2015) found people who wrote goals were 42 % more likely to achieve them than those who only thought about them. Writing makes the goal concrete, which is the first step toward planning and follow-through."
+    a: "One often-cited but unpublished Dominican University study (Gail Matthews, 2015) reported that people who wrote their goals down were more likely to achieve them than those who only thought about them. Treat the exact size of the effect as uncertain — the study was small and not peer-reviewed — but writing makes the goal concrete, which is the first step toward planning and follow-through."
   - q: "How should I write my goals for maximum effect?"
-    a: "Use this formula: 1) Specific (not 'get fit' but 'run 5K under 25 min'). 2) Present tense as if already achieved ('I am running 4x per week'). 3) Include the WHY. 4) Write them daily (morning commitment ritual). 5) Share with one accountable person — the study showed accountability partners added another 33% success rate."
+    a: "Use this formula: 1) Specific (not 'get fit' but 'run 5K under 25 min'). 2) Present tense as if already achieved ('I am running 4x per week'). 3) Include the WHY. 4) Write them daily (morning commitment ritual). 5) Share with one accountable person — telling someone who will ask creates a social cost to inaction that a private note does not."
   - q: "Why does my brain forget goals I don't write down?"
     a: "Working memory holds only 4±1 chunks at a time (Cowan, 2001). Unwritten goals compete with every other thought and get overwritten within 48 hours. Writing externalizes the goal into your environment where it can 'remind' you through visual cues, bypassing the memory bottleneck entirely."
 faqFr:
   - q: "Écrire ses objectifs augmente-t-il vraiment leurs chances d'atteinte ?"
-    a: "Oui — une étude non publiée de Dominican University (Gail Matthews, 2015) a trouvé que les gens qui écrivaient leurs objectifs avaient 42 % plus de chances de les atteindre que ceux qui y pensaient seulement. Écrire rend l'objectif concret, ce qui est le premier pas vers un plan et vers l'exécution."
+    a: "Une étude souvent citée mais non publiée de Dominican University (Gail Matthews, 2015) a rapporté que les personnes qui écrivaient leurs objectifs avaient plus de chances de les atteindre que celles qui y pensaient seulement. Considérez l'ampleur exacte de l'effet comme incertaine — l'étude était petite et non évaluée par les pairs — mais écrire rend l'objectif concret, ce qui est le premier pas vers un plan et vers l'exécution."
   - q: "Comment écrire ses objectifs pour un effet maximal ?"
-    a: "Utilisez cette formule : 1) spécifique (pas « me mettre en forme » mais « courir un 5 km en moins de 25 minutes ») ; 2) au présent, comme si c'était déjà atteint (« je cours 4 fois par semaine ») ; 3) avec le POURQUOI ; 4) écrit chaque jour (rituel d'engagement du matin) ; 5) partagé avec une personne de redevabilité — l'étude montrait qu'un partenaire de redevabilité ajoutait encore 33 % de réussite."
+    a: "Utilisez cette formule : 1) spécifique (pas « me mettre en forme » mais « courir un 5 km en moins de 25 minutes ») ; 2) au présent, comme si c'était déjà atteint (« je cours 4 fois par semaine ») ; 3) avec le POURQUOI ; 4) écrit chaque jour (rituel d'engagement du matin) ; 5) partagé avec une personne de redevabilité — dire à quelqu'un qui vous demandera des comptes crée un coût social à l'inaction qu'une note privée ne crée pas."
   - q: "Pourquoi mon cerveau oublie-t-il les objectifs que je n'écris pas ?"
     a: "La mémoire de travail ne retient que 4 ± 1 éléments à la fois (Cowan, 2001). Un objectif non écrit entre en concurrence avec toutes les autres pensées et est écrasé en moins de 48 heures. L'écrire l'externalise dans votre environnement, où il peut vous « rappeler » par signaux visuels, en court-circuitant complètement le goulet d'étranglement de la mémoire."
 
@@ -43,9 +43,9 @@ relatedArticles:
   - "sprint-90-jours"
 ---
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p2">An unpublished study (Matthews, 2015) found you are 42 % more likely to achieve goals when you write them down. Learn why writing transforms wishes into reality.</div>
+<div data-i18n-html="article_pouvoir-ecrire-objectifs_p2">An often-cited unpublished study (Matthews, 2015) reported that writing goals down was associated with a better chance of achieving them. Learn why writing transforms wishes into reality.</div>
 
-<div data-i18n-html="article_pouvoir-ecrire-objectifs_p3">There is a famous study from Dominican University where students who wrote down their goals were 42% more likely to achieve them than those who did not. Writing is not just recording — it is activating.</div>
+<div data-i18n-html="article_pouvoir-ecrire-objectifs_p3">A frequently cited study from Dominican University reported that students who wrote down their goals were more likely to achieve them than those who did not. The study was small and never peer-reviewed, so treat the exact numbers as indicative — but the direction is intuitive. Writing is not just recording — it is activating.</div>
 
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p4">When you write a goal, you move it from the abstract to the concrete. It becomes real. <a href="/journal/rendez-compte-objectifs/">It becomes accountable</a>. It becomes yours.</div>
@@ -76,7 +76,7 @@ Beneath each written goal, add one sentence starting with "Because…" — "Beca
 Put your written goal where you will see it every day — on your mirror, your desk, your phone lock screen. The point is not inspiration; it is retrieval. Every visual encounter reactivates the goal in working memory and re-asks your attention: "Did I act on this today?"</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p14"><h3>4. Share With One Person</h3>
-Matthews found that people who wrote goals AND shared them with a supportive accountability partner were 33 percent more likely to achieve them than writers alone. The mechanism: telling another person creates a social cost to inaction that private commitment does not. Choose someone who will ask, not judge.</div>
+The same study reported a further advantage for people who wrote goals AND shared them with a supportive accountability partner. The mechanism is plausible regardless of the exact number: telling another person creates a social cost to inaction that private commitment does not. Choose someone who will ask, not judge.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p15"><h2>The Science of Writing</h2></div>
 

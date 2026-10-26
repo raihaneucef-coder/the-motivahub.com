@@ -7,7 +7,7 @@ descriptionFr: "Tu n'as pas besoin d'être expert pour commencer à investir —
 pubDate: 2026-08-13
 updatedDate: 2026-09-12
 topic: "Finance"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/invest-like-beginner-3.jpg"
 imageAlt: "A black piggy bank surrounded by scattered coins"
 featured: false

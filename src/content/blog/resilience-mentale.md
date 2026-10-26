@@ -156,10 +156,10 @@ relatedArticles:
 
 <div data-i18n-html="article_resilience-mentale_p41"><blockquote><em>You cannot control the storm. You can control how you build the ship. Build it strong. The storm will pass. And you will still be sailing.</em></blockquote></div>
 
-<div data-i18n-html="article_resilience-mentale_p42">---</div>
+<hr />
 
 <div data-i18n-html="article_resilience-mentale_p43"><strong>Build your resilience.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> trains your mind to bounce back through daily challenges. Track your recovery with our <a href="/tracker/">Habit Tracker</a>.</div>
 
-<div data-i18n-html="article_resilience-mentale_p44">---</div>
+<hr />
 
 <div data-i18n-html="article_resilience-mentale_p45"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>

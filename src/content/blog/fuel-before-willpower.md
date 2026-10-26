@@ -6,7 +6,7 @@ descriptionFr: "La discipline tourne mal au café et au sucre. Mange pour rendre
 pubDate: 2026-08-18
 updatedDate: 2026-09-12
 topic: "Nutrition"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/fuel-before-willpower-3.jpg"
 imageAlt: "A colorful healthy bowl with boiled eggs, avocado and fresh vegetables on a blue table"
 featured: false

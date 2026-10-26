@@ -224,7 +224,7 @@ relatedArticles:
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p69">---</div>
+<hr />
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p70"><em>Youssef Raihane spent 90 days in 2026 building a 20-minute daily reading habit. He finished 7 books (12 in progress), wrote 87 one-line summaries, and discovered that the books he'd been avoiding — Meditations, Thinking Fast and Slow — were exactly the ones he he needed. He's the is now on day 73 of his next 90.</em></div>
 
@@ -237,7 +237,7 @@ relatedArticles:
 5. <em>James Clear</em> — <a href="https://jamesclear.com">3-2-1 Newsletter</a> — for reading habit research
 6. <em>Meditations</em> by Marcus Aurelius (Hays translation, 2003) — for the 20-minute daily format</div>
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p73">---</div>
+<hr />
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p74"><strong>Reading 30 books a year is a doorway problem, not a hallway problem.</strong> Most people try to read for an hour a day. The hallway. The doorway is two pages in the morning. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the 7-day protocol that turns "I want to read more" from a wish into a system.</div>
 

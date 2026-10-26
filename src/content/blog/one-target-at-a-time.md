@@ -6,7 +6,7 @@ descriptionFr: "Un objectif n'est pas un souhait sur papier — c'est une adress
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Goals"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/one-target-at-a-time-3.jpg"
 imageAlt: "A yellow dart hitting the bullseye of a black and white dartboard"
 featured: false

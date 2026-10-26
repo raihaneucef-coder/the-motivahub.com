@@ -6,7 +6,7 @@ descriptionFr: "Une assiette stable fait une journée stable. Apprenez le ratio 
 pubDate: 2026-08-16
 updatedDate: 2026-09-12
 topic: "Nutrition"
-readTime: "4 min read"
+readTime: "4 MIN"
 image: "/images/blog/the-plate-that-keeps-you-steady.jpg"
 imageAlt: "Youssef Raihane - the plate that keeps you steady concept"
 featured: false

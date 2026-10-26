@@ -8,7 +8,7 @@ descriptionFr: "La croissance n'est pas confortable — elle ressemble à une ru
 pubDate: 2026-08-22
 updatedDate: 2026-09-12
 topic: "Personal Growth"
-readTime: "5 min read"
+readTime: "5 MIN"
 image: "/images/blog/growth-feels-like-breaking-2.jpg"
 imageAlt: "A green sprout pushing up through cracked old wood"
 featured: false

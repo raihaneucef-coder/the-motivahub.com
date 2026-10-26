@@ -285,7 +285,7 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>
 </div></div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p95">---</div>
+<hr />
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p96"><em>Youssef Raihane spent a decade failing at goals. He spent 90 days building identities. He hasn't written a 90-day streak since. The votes accumulated. The identity shifted. The habits stuck.</em></div>
 
@@ -300,6 +300,6 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 5. <em>James Clear</em> — <a href="https://jamesclear.com">jamesclear.com</a> — for the original identity articles
 6. <em>Stanford Behavior Design Lab</em> — for the habit research</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p100">---</div>
+<hr />
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p101"><strong>Start so small it feels stupid.</strong> The 2-minute rule is the operational version of identity-based change. If you have been trying to "become a writer" by writing three hours a day and burning out by week three, you were skipping the doorway. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> walks you through the 7-day protocol that makes the identity change real — not aspirational.</div>
