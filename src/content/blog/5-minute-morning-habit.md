@@ -267,7 +267,7 @@ relatedArticles:
 
 <div data-i18n-html="article_5-minute-morning-habit_p85">But it will give you back the morning. And that, I think, is worth something.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p86"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_5-minute-morning-habit_p86"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:var(--bg-deep);">
 <p><strong>Tools for building the 5-minute morning habit</strong></p>
 <p><a href="https://www.amazon.fr/s?k=leather+journal+notebook&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Paper Notebook (Moleskine Classic)</a> — the foundation of the habit</p>
 <p><a href="https://www.amazon.fr/s?k=digital+alarm+clock&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Basic Alarm Clock</a> — replaces the phone alarm that breaks mornings</p>

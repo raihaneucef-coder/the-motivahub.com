@@ -8,80 +8,80 @@
   * { box-sizing: border-box; }
   body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    color: #1a1a1a; background: #faf8f0; margin: 0; padding: 0;
+    color: #1a1a1a; background: #ffffff; margin: 0; padding: 0;
     font-size: 9pt; line-height: 1.4;
   }
   .page { page-break-after: always; break-after: page; position: relative; }
   .page > * { max-width: 100%; }
   .page:last-child { page-break-after: auto; break-after: auto; }
   h1, h2, h3, h4 {
-    font-family: 'Fraunces', Georgia, serif; color: #0a0a0a;
+    font-family: 'Fraunces', Georgia, serif; color: #111111;
     margin: 0 0 8mm 0; font-weight: 600; letter-spacing: -0.01em;
   }
   h1 { font-size: 26pt; line-height: 1.1; }
   h2 { font-size: 15pt; line-height: 1.2; margin-bottom: 5mm; }
-  h3 { font-size: 12pt; margin-bottom: 2.5mm; color: #6b5320; }
+  h3 { font-size: 12pt; margin-bottom: 2.5mm; color: #111111; }
   h4 { font-size: 10.5pt; margin-bottom: 1.5mm; color: #333; }
   p { margin: 0 0 3mm 0; }
   .kicker {
-    color: #b8965a; font-size: 8pt; text-transform: uppercase;
+    color: #555555; font-size: 8pt; text-transform: uppercase;
     letter-spacing: 3px; font-weight: 600; margin-bottom: 4mm;
   }
-  .gold { color: #6b5320; }
+  .gold { color: #111111; }
   .cover {
     display: flex; flex-direction: column; justify-content: center; align-items: flex-start;
     text-align: left; padding-top: 30mm;
   }
-  .cover-rule { width: 40mm; height: 1mm; background: #b8965a; margin: 6mm 0 8mm 0; }
+  .cover-rule { width: 40mm; height: 1mm; background: #111111; margin: 6mm 0 8mm 0; }
   .cover-footer { position: absolute; bottom: 12mm; left: 0; right: 0; font-size: 8pt; color: #666; }
   .callout {
-    background: #ffffff; border-left: 2mm solid #b8965a;
+    background: #ffffff; border-left: 2mm solid #111111;
     padding: 4mm 5mm; margin: 4mm 0; font-size: 9.5pt;
   }
-  .callout strong { color: #6b5320; }
+  .callout strong { color: #111111; }
   .formula {
-    text-align: center; padding: 6mm 4mm; background: #0a0a0a; color: #f5f5f5;
+    text-align: center; padding: 6mm 4mm; background: #111111; color: #f5f5f5;
     font-family: 'JetBrains Mono', 'Courier New', monospace;
     font-size: 11pt; margin: 4mm 0; letter-spacing: 0.02em;
   }
-  .formula .gold-inline { color: #d4b377; }
+  .formula .gold-inline { color: #111111; }
   table { width: 100%; border-collapse: collapse; margin: 3mm 0; font-size: 9pt; }
   th, td { padding: 2mm 3mm; border-bottom: 0.3mm solid #ddd; text-align: left; }
-  th { background: #f0ebe0; font-weight: 600; color: #6b5320; font-size: 8.5pt; text-transform: uppercase; letter-spacing: 1px; }
+  th { background: #f2f2f2; font-weight: 600; color: #555555; font-size: 8.5pt; text-transform: uppercase; letter-spacing: 1px; }
   .tracker-grid { display: grid; grid-template-columns: 8mm repeat(7, 1fr); gap: 0.8mm; margin: 2mm 0; font-size: 7.5pt; }
   .tracker-grid > div {
-    aspect-ratio: 1; border: 0.3mm solid #b8965a; display: flex;
+    aspect-ratio: 1; border: 0.3mm solid #111111; display: flex;
     align-items: center; justify-content: center; background: #fff;
   }
-  .tracker-grid .hdr { background: #6b5320; color: #fff; border-color: #6b5320; font-weight: 600; }
-  .tracker-grid .lbl { background: transparent; border: none; justify-content: flex-start; font-family: 'Fraunces', serif; color: #6b5320; }
+  .tracker-grid .hdr { background: #111111; color: #fff; border-color: #111111; font-weight: 600; }
+  .tracker-grid .lbl { background: transparent; border: none; justify-content: flex-start; font-family: 'Fraunces', serif; color: #111111; }
   .affiliate {
-    background: #fff; border: 0.3mm dashed #b8965a; padding: 2mm 3mm; margin: 3mm 0;
+    background: #fff; border: 0.3mm dashed #111111; padding: 2mm 3mm; margin: 3mm 0;
     font-size: 8pt; color: #444;
   }
-  .affiliate::before { content: "📚 RECOMMENDED · "; color: #b8965a; font-weight: 700; font-size: 8pt; letter-spacing: 1.2px; }
-  .affiliate a { color: #6b5320; text-decoration: none; font-weight: 600; word-break: break-all; }
+  .affiliate::before { content: "📚 RECOMMENDED · "; color: #555555; font-weight: 700; font-size: 8pt; letter-spacing: 1.2px; }
+  .affiliate a { color: #111111; text-decoration: none; font-weight: 600; word-break: break-all; }
   .checklist { list-style: none; padding: 0; margin: 3mm 0; }
   .checklist li { padding: 1.5mm 0 1.5mm 8mm; position: relative; }
   .checklist li::before {
     content: "□"; position: absolute; left: 0; top: 1.5mm;
-    color: #b8965a; font-size: 12pt; font-weight: 400;
+    color: #111111; font-size: 12pt; font-weight: 400;
   }
   .stack-card {
     background: #fff; padding: 2mm 3mm; margin: 1.5mm 0;
-    border-left: 0.8mm solid #d4b377; font-size: 8.5pt;
+    border-left: 0.8mm solid #111111; font-size: 8.5pt;
   }
-  .stack-card .stack-name { font-family: 'Fraunces', serif; color: #6b5320; font-weight: 600; }
+  .stack-card .stack-name { font-family: 'Fraunces', serif; color: #111111; font-weight: 600; }
   .footer-note { position: absolute; bottom: 10mm; left: 0; right: 0; text-align: center; font-size: 7.5pt; color: #999; }
-  .brand-mark { color: #b8965a; font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; }
+  .brand-mark { color: #111111; font-family: 'Fraunces', serif; font-style: italic; font-weight: 600; }
   ol { padding-left: 6mm; margin: 3mm 0; }
   ol li { margin-bottom: 2mm; }
   .worksheet-box {
-    border: 0.4mm solid #b8965a; padding: 4mm; margin: 3mm 0; background: #fff;
+    border: 0.4mm solid #111111; padding: 4mm; margin: 3mm 0; background: #fff;
     min-height: 25mm; font-size: 9pt;
   }
-  .worksheet-label { color: #6b5320; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2mm; font-weight: 600; }
-  .worksheet-line { border-bottom: 0.2mm dotted #b8965a; height: 6mm; margin-bottom: 2mm; }
+  .worksheet-label { color: #555555; font-size: 8pt; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 2mm; font-weight: 600; }
+  .worksheet-line { border-bottom: 0.2mm dotted #c9c9c9; height: 6mm; margin-bottom: 2mm; }
 </style>
 </head>
 <body>
@@ -124,7 +124,7 @@
   <div class="formula">
     After I <span class="gold-inline">[ANCHOR]</span>,<br>
     I will <span class="gold-inline">[TINY NEW HABIT]</span>.<br>
-    <span style="font-size: 9pt; color: #b8965a;">So that I become <span class="gold-inline">[IDENTITY]</span>.</span>
+    <span style="font-size: 9pt; color: #111111;">So that I become <span class="gold-inline">[IDENTITY]</span>.</span>
   </div>
   <p><strong>Example:</strong> "After I pour my morning coffee, I will write one sentence in my journal. So that I become someone who writes daily."</p>
   <p>Notice three things:</p>
@@ -184,7 +184,7 @@
 <section class="page">
   <div class="kicker">05 · The 30-Day Grid</div>
   <h2 style="margin-bottom:3mm;">Your stack, tracked</h2>
-  <p style="font-size:8.5pt; margin-bottom:2mm;">Print this page. Fill your 3 anchors on the left. Tick a square each day you did the habit. Two empty squares in a row → shrink the habit to 30 seconds, not to zero. <span style="color:#6b5320; font-size:8pt;">(Each column is a weekday, each row is one week W1..W5.)</span></p>
+  <p style="font-size:8.5pt; margin-bottom:2mm;">Print this page. Fill your 3 anchors on the left. Tick a square each day you did the habit. Two empty squares in a row → shrink the habit to 30 seconds, not to zero. <span style="color:#111111; font-size:8pt;">(Each column is a weekday, each row is one week W1..W5.)</span></p>
 
   <table style="font-size:7pt; margin: 1mm 0; padding:0;">
     <tr><th style="width:32mm; padding:1mm 2mm;">Anchor 1: ______________</th><th>M</th><th>T</th><th>W</th><th>T</th><th>F</th><th>S</th><th>S</th></tr>
@@ -354,7 +354,7 @@
     <li><strong>Stack is automatic and you got the outcome.</strong> → Add the fourth habit only after 30 more days of the three. Slow is fast.</li>
   </ol>
   <div class="callout">
-    <strong>Recommended next document:</strong> our 30-day discipline PDF (free) — <a href="https://the-motivahub.com/30-days-discipline.pdf" style="color: #6b5320;">the-motivahub.com/30-days-discipline.pdf</a>. It runs one small challenge per day and pairs perfectly with this framework.
+    <strong>Recommended next document:</strong> our 30-day discipline PDF (free) — <a href="https://the-motivahub.com/30-days-discipline.pdf" style="color: #111111;">the-motivahub.com/30-days-discipline.pdf</a>. It runs one small challenge per day and pairs perfectly with this framework.
   </div>
   <p style="margin-top: 8mm; font-size: 9pt;">Full book list, podcast episodes, and free templates: <strong>the-motivahub.com</strong></p>
 </section>
@@ -367,7 +367,7 @@
   <p style="font-size: 9pt; color: #666;">the-motivahub.com · Instagram @themotivahub · X @themotivahub · YouTube @MotivaHub</p>
   <h3 style="margin-top: 8mm;">Affiliate disclosure</h3>
   <p style="font-size: 9pt;">Some links in this document are Amazon Associates links. If you buy through them, Motiva Hub earns a small commission (usually 3-5%) at no additional cost to you. Every product linked here is either in our daily use or was tested for at least 30 days. We do not accept payment for placements — the recommendation is honest or it isn't in the kit.</p>
-  <p style="font-size: 9pt; color: #666; margin-top: 4mm;">Full disclosure: <a href="https://the-motivahub.com/affiliate-disclosure/" style="color: #6b5320;">the-motivahub.com/affiliate-disclosure/</a></p>
+  <p style="font-size: 9pt; color: #666; margin-top: 4mm;">Full disclosure: <a href="https://the-motivahub.com/affiliate-disclosure/" style="color: #111111;">the-motivahub.com/affiliate-disclosure/</a></p>
   <h3 style="margin-top: 8mm;">License</h3>
   <p style="font-size: 9pt;">This PDF is free for personal use. Print it, fill it in, keep it forever. Please don't resell it, host it on a paid course site, or rebrand it. Attribution: "Youssef Raihane / Motiva Hub" is enough.</p>
   <p style="font-size: 8pt; color: #999; margin-top: 10mm;">© Motiva Hub · Field Guide № 02 · The Habit Stack Kit · v1.0 · October 2026</p>

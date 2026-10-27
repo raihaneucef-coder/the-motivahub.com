@@ -53,72 +53,72 @@ const faq = [
   <style>
     .hsk-hero {
       padding: clamp(48px, 8vw, 96px) 0 40px;
-      background: linear-gradient(180deg, var(--bg-elevated, #111) 0%, transparent 100%);
+      background: linear-gradient(180deg, rgba(17, 17, 17, 0.05) 0%, transparent 100%);
     }
     .hsk-hero-inner {
       display: grid; grid-template-columns: 1.15fr 1fr; gap: 48px; align-items: center;
       max-width: 1100px; margin: 0 auto; padding: 0 24px;
     }
-    .hsk-kicker { color: var(--gold, #d4b377); font-size: 11px; letter-spacing: 3px; text-transform: uppercase; font-weight: 600; margin-bottom: 16px; }
-    .hsk-h1 { font-family: 'Fraunces', serif; font-size: clamp(36px, 5vw, 56px); line-height: 1.05; margin: 0 0 20px; color: var(--text, #f5f5f5); font-weight: 600; }
-    .hsk-sub { font-size: 17px; line-height: 1.6; color: var(--text-muted, #999); margin: 0 0 28px; max-width: 520px; }
+    .hsk-kicker { color: var(--gold, #111111); font-size: 11px; letter-spacing: 3px; text-transform: uppercase; font-weight: 600; margin-bottom: 16px; }
+    .hsk-h1 { font-family: 'Fraunces', serif; font-size: clamp(36px, 5vw, 56px); line-height: 1.05; margin: 0 0 20px; color: var(--text-1); font-weight: 600; }
+    .hsk-sub { font-size: 17px; line-height: 1.6; color: var(--text-3); margin: 0 0 28px; max-width: 520px; }
     .hsk-form { display: flex; flex-direction: column; gap: 10px; max-width: 460px; }
     .hsk-form-row { display: flex; gap: 8px; flex-wrap: wrap; }
     .hsk-form input {
-      flex: 1 1 180px; padding: 14px 16px; background: rgba(255,255,255,0.04);
-      border: 1px solid rgba(255,255,255,0.12); border-radius: 6px;
-      color: var(--text, #f5f5f5); font-size: 15px; font-family: inherit;
+      flex: 1 1 180px; padding: 14px 16px; background: var(--panel);
+      border: 1px solid var(--border-strong); border-radius: 6px;
+      color: var(--text-1); font-size: 15px; font-family: inherit;
     }
-    .hsk-form input:focus { outline: none; border-color: var(--gold, #d4b377); background: rgba(212,179,119,0.04); }
+    .hsk-form input:focus { outline: none; border-color: var(--gold, #111111); background: rgba(17, 17, 17, 0.04); }
     .hsk-form button {
-      padding: 14px 22px; background: var(--gold, #d4b377); color: #0a0a0a;
+      padding: 14px 22px; background: var(--text-1); color: #ffffff;
       border: none; border-radius: 6px; font-weight: 600; cursor: pointer;
       font-size: 15px; letter-spacing: 0.3px; transition: background 0.15s;
     }
-    .hsk-form button:hover { background: var(--or-light, #e5c890); }
-    .hsk-msg { font-size: 13px; color: var(--text-muted, #888); min-height: 20px; margin: 4px 0 0; }
-    .hsk-msg.err { color: #e57373; }
-    .hsk-msg.ok { color: #7dd67d; }
-    .hsk-legal { font-size: 11px; color: var(--text-muted, #666); margin: 6px 0 0; }
+    .hsk-form button:hover { background: #333333; }
+    .hsk-msg { font-size: 13px; color: var(--text-3); min-height: 20px; margin: 4px 0 0; }
+    .hsk-msg.err { color: #c0392b; }
+    .hsk-msg.ok { color: #2e7d32; }
+    .hsk-legal { font-size: 11px; color: var(--text-3); margin: 6px 0 0; }
     .hsk-legal a { color: inherit; }
     .hsk-preview {
-      background: #faf8f0; border-radius: 8px; padding: 24px; aspect-ratio: 5/7;
-      max-width: 340px; margin: 0 auto; box-shadow: 0 30px 60px -20px rgba(0,0,0,0.4), 0 0 0 1px rgba(212,179,119,0.15);
+      background: var(--bg-deep); border-radius: 8px; padding: 24px; aspect-ratio: 5/7;
+      max-width: 340px; margin: 0 auto; box-shadow: 0 30px 60px -20px rgba(0,0,0,0.4), 0 0 0 1px rgba(17, 17, 17, 0.15);
       display: flex; flex-direction: column; justify-content: space-between; color: #1a1a1a;
     }
-    .hsk-preview-kicker { font-size: 9px; color: #8a6d3e; letter-spacing: 2.5px; text-transform: uppercase; font-weight: 600; }
+    .hsk-preview-kicker { font-size: 9px; color: var(--text-1); letter-spacing: 2.5px; text-transform: uppercase; font-weight: 600; }
     .hsk-preview-title { font-family: 'Fraunces', serif; font-size: 34px; line-height: 1.05; margin: 12px 0 0; color: #0a0a0a; font-weight: 600; }
-    .hsk-preview-rule { width: 40px; height: 2px; background: #b8965a; margin: 14px 0; }
+    .hsk-preview-rule { width: 40px; height: 2px; background: var(--text-1); margin: 14px 0; }
     .hsk-preview-body { font-size: 12px; color: #333; line-height: 1.5; }
-    .hsk-preview-footer { font-size: 10px; color: #6b5320; font-family: 'Fraunces', serif; font-style: italic; }
+    .hsk-preview-footer { font-size: 10px; color: var(--text-1); font-family: 'Fraunces', serif; font-style: italic; }
 
     .hsk-section { padding: 60px 0; }
-    .hsk-section h2 { font-family: 'Fraunces', serif; font-size: clamp(26px, 3.5vw, 36px); margin: 0 0 8px; color: var(--text, #f5f5f5); }
-    .hsk-section > .container > p { color: var(--text-muted, #999); max-width: 640px; margin: 0 0 32px; }
+    .hsk-section h2 { font-family: 'Fraunces', serif; font-size: clamp(26px, 3.5vw, 36px); margin: 0 0 8px; color: var(--text-1); }
+    .hsk-section > .container > p { color: var(--text-3); max-width: 640px; margin: 0 0 32px; }
     .hsk-container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
     .hsk-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 48px; }
     .hsk-card {
-      background: none; border: none; border-top: 1px solid rgba(212,179,119,0.18);
+      background: none; border: none; border-top: 1px solid rgba(17, 17, 17, 0.18);
       padding: 16px 0 18px; border-radius: 0; display: grid; grid-template-columns: 44px 1fr; column-gap: 16px;
     }
-    .hsk-card-num { color: var(--gold, #d4b377); font-family: 'Fraunces', serif; font-size: 22px; letter-spacing: 0; font-weight: 400; margin: 0; }
+    .hsk-card-num { color: var(--gold, #111111); font-family: 'Fraunces', serif; font-size: 22px; letter-spacing: 0; font-weight: 400; margin: 0; }
     .hsk-card-title, .hsk-card-text { grid-column: 2; }
-    .hsk-card-title { font-family: 'Fraunces', serif; font-size: 17px; margin: 0 0 6px; color: var(--text, #f5f5f5); font-weight: 600; }
-    .hsk-card-text { font-size: 13.5px; line-height: 1.55; color: var(--text-muted, #999); margin: 0; }
+    .hsk-card-title { font-family: 'Fraunces', serif; font-size: 17px; margin: 0 0 6px; color: var(--text-1); font-weight: 600; }
+    .hsk-card-text { font-size: 13.5px; line-height: 1.55; color: var(--text-3); margin: 0; }
 
     .hsk-faq details {
-      background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08);
+      background: var(--panel); border: 1px solid var(--border-strong);
       padding: 14px 18px; margin-bottom: 10px; border-radius: 6px;
     }
-    .hsk-faq summary { cursor: pointer; font-weight: 500; color: var(--text, #f5f5f5); font-size: 15px; }
-    .hsk-faq details p { color: var(--text-muted, #999); margin: 10px 0 0; font-size: 14px; line-height: 1.6; }
+    .hsk-faq summary { cursor: pointer; font-weight: 500; color: var(--text-1); font-size: 15px; }
+    .hsk-faq details p { color: var(--text-3); margin: 10px 0 0; font-size: 14px; line-height: 1.6; }
 
     .hsk-cta-bottom {
-      padding: 40px 24px; background: linear-gradient(135deg, rgba(212,179,119,0.08), rgba(212,179,119,0.02));
+      padding: 40px 24px; background: linear-gradient(135deg, rgba(17, 17, 17, 0.08), rgba(17, 17, 17, 0.02));
       border-radius: 12px; text-align: center; margin: 40px 0;
     }
-    .hsk-cta-bottom h2 { margin: 0 0 8px; font-family: 'Fraunces', serif; font-size: 26px; color: var(--text, #f5f5f5); }
-    .hsk-cta-bottom p { margin: 0 0 20px; color: var(--text-muted, #999); }
+    .hsk-cta-bottom h2 { margin: 0 0 8px; font-family: 'Fraunces', serif; font-size: 26px; color: var(--text-1); }
+    .hsk-cta-bottom p { margin: 0 0 20px; color: var(--text-3); }
 
     @media (max-width: 780px) {
       .hsk-hero-inner { grid-template-columns: 1fr; }
@@ -146,7 +146,7 @@ const faq = [
           <p class="hsk-msg" id="hsk-msg" aria-live="polite"></p>
           <p class="hsk-legal">Free forever. 4 emails over 10 days, then 1/week. <a href="/privacy/">Privacy</a> · <a href="/affiliate-disclosure/">Affiliate disclosure</a></p>
         </form>
-        <p style="font-size:13px; color:var(--text-muted,#888); margin-top:12px;">Prefer no email? <a href="/habit-stack-kit.pdf" style="color:var(--gold,#d4b377);" download>Download the PDF directly →</a></p>
+        <p style="font-size:13px; color:var(--text-3); margin-top:12px;">Prefer no email? <a href="/habit-stack-kit.pdf" style="color:var(--gold, #111111);" download>Download the PDF directly →</a></p>
       </div>
       <aside class="hsk-preview" aria-label="PDF preview">
         <div>

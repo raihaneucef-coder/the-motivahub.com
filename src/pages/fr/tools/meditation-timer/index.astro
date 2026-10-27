@@ -291,7 +291,7 @@ const description = "Minuteur de méditation simple et gratuit. Commencez avec 5
   .mt-shell {
     max-width: 720px;
     margin: 0 auto;
-    background: var(--white, #fff);
+    background: var(--panel);
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 16px;
     padding: 48px 32px;
@@ -313,7 +313,7 @@ const description = "Minuteur de méditation simple et gratuit. Commencez avec 5
     font-size: 14px;
     letter-spacing: 2.5px;
     text-transform: uppercase;
-    color: var(--gold, #c8a04a);
+    color: var(--gold, #111111);
     margin: 16px 0 0;
     font-weight: 600;
   }
@@ -328,15 +328,15 @@ const description = "Minuteur de méditation simple et gratuit. Commencez avec 5
     padding: 12px 16px;
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 8px;
-    background: var(--white, #fff);
+    background: var(--panel);
     cursor: pointer;
     font-family: var(--sans, system-ui, sans-serif);
     font-size: 14px;
     color: var(--ink, #1a1a1a);
     transition: all 0.2s ease;
   }
-  .mt-preset:hover { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.04); }
-  .mt-preset.active { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.12); font-weight: 600; }
+  .mt-preset:hover { border-color: var(--gold, #111111); background: rgba(17, 17, 17, 0.04); }
+  .mt-preset.active { border-color: var(--gold, #111111); background: rgba(17, 17, 17, 0.12); font-weight: 600; }
 
   .mt-controls { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-bottom: 32px; }
   .mt-btn {
@@ -349,11 +349,11 @@ const description = "Minuteur de méditation simple et gratuit. Commencez avec 5
     border: none;
     transition: all 0.2s ease;
   }
-  .mt-btn-primary { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); }
-  .mt-btn-primary:hover:not(:disabled) { background: #d4ab58; }
+  .mt-btn-primary { background: var(--text-1); color: #ffffff; }
+  .mt-btn-primary:hover:not(:disabled) { background: var(--text-1); }
   .mt-btn-primary:disabled { background: var(--line, #e5e5e5); color: var(--muted, #999); cursor: not-allowed; }
   .mt-btn-secondary { background: transparent; color: var(--ink, #1a1a1a); border: 1px solid var(--line, #e5e5e5); }
-  .mt-btn-secondary:hover:not(:disabled) { border-color: var(--gold, #c8a04a); }
+  .mt-btn-secondary:hover:not(:disabled) { border-color: var(--gold, #111111); }
   .mt-btn-secondary:disabled { opacity: 0.4; cursor: not-allowed; }
 
   .mt-bell-options { padding-top: 24px; border-top: 1px solid var(--line, #e5e5e5); }
@@ -370,20 +370,20 @@ const description = "Minuteur de méditation simple et gratuit. Commencez avec 5
     padding: 8px 16px;
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 6px;
-    background: var(--white, #fff);
+    background: var(--panel);
     cursor: pointer;
     font-family: var(--sans, system-ui, sans-serif);
     font-size: 13px;
     color: var(--ink, #1a1a1a);
     transition: all 0.2s ease;
   }
-  .mt-bell-choice:hover { border-color: var(--gold, #c8a04a); }
-  .mt-bell-choice.active { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.12); }
+  .mt-bell-choice:hover { border-color: var(--gold, #111111); }
+  .mt-bell-choice.active { border-color: var(--gold, #111111); background: rgba(17, 17, 17, 0.12); }
 
   .mt-tip {
     margin-top: 24px;
     padding: 16px;
-    background: var(--cream, #faf7f2);
+    background: var(--cream, #ffffff);
     border-radius: 8px;
     font-family: var(--serif, Georgia, serif);
     font-style: italic;
@@ -391,14 +391,14 @@ const description = "Minuteur de méditation simple et gratuit. Commencez avec 5
     color: var(--ink, #1a1a1a);
   }
 
-  .mt-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
-  .mt-faq + .mt-faq { background: var(--white, #fff); }
+  .mt-faq { padding: 64px 0; background: var(--cream, #ffffff); }
+  .mt-faq + .mt-faq { background: var(--panel); }
   .mt-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 24px; color: var(--ink, #1a1a1a); }
   .mt-steps { max-width: 720px; margin: 0 auto 32px; padding-left: 0; counter-reset: step; list-style: none; }
   .mt-steps li { padding: 12px 0 12px 40px; position: relative; font-family: var(--sans, system-ui, sans-serif); font-size: 16px; line-height: 1.6; color: var(--ink, #1a1a1a); border-bottom: 1px solid var(--line, #e5e5e5); }
-  .mt-steps li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 14px; width: 28px; height: 28px; border-radius: 50%; background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; }
-  .mt-quote { max-width: 640px; margin: 0 auto; padding: 24px; background: var(--white, #fff); border-left: 3px solid var(--gold, #c8a04a); border-radius: 0 8px 8px 0; font-family: var(--serif, Georgia, serif); font-style: italic; font-size: 18px; color: var(--ink, #1a1a1a); text-align: center; }
-  .mt-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .mt-steps li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 14px; width: 28px; height: 28px; border-radius: 50%; background: var(--text-1); color: #ffffff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; }
+  .mt-quote { max-width: 640px; margin: 0 auto; padding: 24px; background: var(--panel); border-left: 3px solid var(--gold, #111111); border-radius: 0 8px 8px 0; font-family: var(--serif, Georgia, serif); font-style: italic; font-size: 18px; color: var(--ink, #1a1a1a); text-align: center; }
+  .mt-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--panel); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
   .mt-faq summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); list-style: none; }
   .mt-faq summary::-webkit-details-marker { display: none; }
   .mt-faq details p { margin: 12px 0 0; line-height: 1.6; color: var(--ink, #1a1a1a); }

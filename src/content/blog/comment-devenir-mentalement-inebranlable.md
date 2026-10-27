@@ -87,7 +87,7 @@ relatedArticles:
 
 <div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p20">Your comfort zone only expands if you keep pushing its border. Leave it alone and it shrinks.</div>
 
-<div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p21"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_comment-devenir-mentalement-inebranlable_p21"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:var(--bg-deep);">
 <p><strong>The full manual for an unbreakable mind</strong></p>
 <p><a href="https://www.amazon.fr/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=inebranlable" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Read “Can't Hurt Me” by David Goggins on Amazon</a></p>
 </div></div>

@@ -255,8 +255,8 @@ const description = "Track every cold shower, build your streak, see your progre
     const notes = document.getElementById('cst-notes').value.trim();
     const msg = document.getElementById('cst-msg');
 
-    if (!date) { msg.textContent = 'Please pick a date.'; msg.style.color = '#a67c52'; return; }
-    if (!duration || duration < 5) { msg.textContent = 'Duration must be at least 5 seconds.'; msg.style.color = '#a67c52'; return; }
+    if (!date) { msg.textContent = 'Please pick a date.'; msg.style.color = 'var(--text-1)'; return; }
+    if (!duration || duration < 5) { msg.textContent = 'Duration must be at least 5 seconds.'; msg.style.color = 'var(--text-1)'; return; }
 
     const data = load();
     data.push({ date, duration, temp, notes });
@@ -264,7 +264,7 @@ const description = "Track every cold shower, build your streak, see your progre
     renderStats();
 
     msg.textContent = '✓ Logged. Stay cold.';
-    msg.style.color = '#c8a04a';
+    msg.style.color = 'var(--text-1)';
 
     document.getElementById('cst-temp').value = '';
     document.getElementById('cst-notes').value = '';
@@ -306,7 +306,7 @@ const description = "Track every cold shower, build your streak, see your progre
   .cst-shell {
     max-width: 720px;
     margin: 0 auto;
-    background: var(--white, #fff);
+    background: var(--panel);
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 16px;
     padding: 40px 32px;
@@ -317,7 +317,7 @@ const description = "Track every cold shower, build your streak, see your progre
     grid-template-columns: auto 1fr;
     gap: 32px;
     padding: 24px;
-    background: var(--cream, #faf7f2);
+    background: var(--cream, #ffffff);
     border-radius: 12px;
     margin-bottom: 32px;
     align-items: center;
@@ -327,7 +327,7 @@ const description = "Track every cold shower, build your streak, see your progre
     font-family: var(--serif, Georgia, serif);
     font-size: 72px;
     font-weight: 700;
-    color: var(--gold, #c8a04a);
+    color: var(--gold, #111111);
     margin: 0;
     line-height: 1;
   }
@@ -389,7 +389,7 @@ const description = "Track every cold shower, build your streak, see your progre
     border-radius: 8px;
     font-family: var(--sans, system-ui, sans-serif);
     font-size: 14px;
-    background: var(--white, #fff);
+    background: var(--panel);
   }
 
   .cst-btn {
@@ -402,12 +402,12 @@ const description = "Track every cold shower, build your streak, see your progre
     border: none;
     transition: all 0.2s ease;
   }
-  .cst-btn-primary { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); width: 100%; }
-  .cst-btn-primary:hover { background: #d4ab58; }
+  .cst-btn-primary { background: var(--text-1); color: #ffffff; width: 100%; }
+  .cst-btn-primary:hover { background: var(--text-1); }
   .cst-btn-secondary { background: transparent; color: var(--ink, #1a1a1a); border: 1px solid var(--line, #e5e5e5); }
-  .cst-btn-secondary:hover { border-color: var(--gold, #c8a04a); }
-  .cst-btn-danger { background: transparent; color: #a67c52; border: 1px solid rgba(166, 124, 82, 0.3); }
-  .cst-btn-danger:hover { background: rgba(166, 124, 82, 0.08); }
+  .cst-btn-secondary:hover { border-color: var(--gold, #111111); }
+  .cst-btn-danger { background: transparent; color: var(--text-1); border: 1px solid rgba(17, 17, 17, 0.3); }
+  .cst-btn-danger:hover { background: rgba(17, 17, 17, 0.08); }
 
   .cst-msg {
     font-family: var(--sans, system-ui, sans-serif);
@@ -424,7 +424,7 @@ const description = "Track every cold shower, build your streak, see your progre
     justify-content: space-between;
     align-items: center;
     padding: 12px 16px;
-    background: var(--cream, #faf7f2);
+    background: var(--cream, #ffffff);
     border-radius: 8px;
   }
   .cst-history-info { flex: 1; }
@@ -450,7 +450,7 @@ const description = "Track every cold shower, build your streak, see your progre
     padding: 0 8px;
     line-height: 1;
   }
-  .cst-history-delete:hover { color: #a67c52; }
+  .cst-history-delete:hover { color: var(--text-1); }
   .cst-empty { font-family: var(--sans, system-ui, sans-serif); font-size: 14px; color: var(--muted, #888); text-align: center; padding: 24px 0; }
 
   .cst-actions {
@@ -462,14 +462,14 @@ const description = "Track every cold shower, build your streak, see your progre
     flex-wrap: wrap;
   }
 
-  .cst-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
-  .cst-faq + .cst-faq { background: var(--white, #fff); }
+  .cst-faq { padding: 64px 0; background: var(--cream, #ffffff); }
+  .cst-faq + .cst-faq { background: var(--panel); }
   .cst-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 24px; color: var(--ink, #1a1a1a); }
   .cst-steps { max-width: 720px; margin: 0 auto 32px; padding-left: 0; counter-reset: step; list-style: none; }
   .cst-steps li { padding: 12px 0 12px 40px; position: relative; font-family: var(--sans, system-ui, sans-serif); font-size: 16px; line-height: 1.6; color: var(--ink, #1a1a1a); border-bottom: 1px solid var(--line, #e5e5e5); }
-  .cst-steps li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 14px; width: 28px; height: 28px; border-radius: 50%; background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; }
-  .cst-quote { max-width: 640px; margin: 0 auto; padding: 24px; background: var(--white, #fff); border-left: 3px solid var(--gold, #c8a04a); border-radius: 0 8px 8px 0; font-family: var(--serif, Georgia, serif); font-style: italic; font-size: 18px; color: var(--ink, #1a1a1a); text-align: center; }
-  .cst-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .cst-steps li::before { counter-increment: step; content: counter(step); position: absolute; left: 0; top: 14px; width: 28px; height: 28px; border-radius: 50%; background: var(--text-1); color: #ffffff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 13px; }
+  .cst-quote { max-width: 640px; margin: 0 auto; padding: 24px; background: var(--panel); border-left: 3px solid var(--gold, #111111); border-radius: 0 8px 8px 0; font-family: var(--serif, Georgia, serif); font-style: italic; font-size: 18px; color: var(--ink, #1a1a1a); text-align: center; }
+  .cst-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--panel); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
   .cst-faq summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); list-style: none; }
   .cst-faq summary::-webkit-details-marker { display: none; }
   .cst-faq details p { margin: 12px 0 0; line-height: 1.6; color: var(--ink, #1a1a1a); }

@@ -54,7 +54,7 @@ faqFr:
 
 <div data-i18n-html="article_atomic-habits-review_p5">I read it 4 times in 18 months. Not because I forgot the content. Because each read changed what I saw.</div>
 
-<div data-i18n-html="article_atomic-habits-review_p53"><div style="margin:2rem 0;padding:1.5rem 1.75rem;border:1px solid var(--line,#e5e5e5);border-radius:12px;background:var(--cream,#faf7f2);">
+<div data-i18n-html="article_atomic-habits-review_p53"><div style="margin:2rem 0;padding:1.5rem 1.75rem;border:1px solid var(--line,#e5e5e5);border-radius:12px;background:var(--cream, #ffffff);">
 <p style="margin:0 0 .75rem;"><strong>Quick verdict</strong></p>
 <p style="margin:0 0 .75rem;"><em>Less a motivational book than a system design manual — the framework holds; the magic is in your application.</em></p>
 <p style="margin:0 0 .5rem;"><strong>Works because:</strong> identity-based habits turn vague goals into daily votes — one repetition at a time, tracked in the open.</p>

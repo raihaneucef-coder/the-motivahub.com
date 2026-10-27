@@ -80,9 +80,9 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
     max-width: 720px;
     padding: 32px 28px;
     border: 1px solid var(--line, #e5e5e5);
-    border-top: 3px solid var(--gold, #c8a04a);
+    border-top: 3px solid var(--gold, #111111);
     border-radius: 14px;
-    background: var(--white, #fff);
+    background: var(--panel);
     text-align: center;
   }
   .aff-cta-tag {
@@ -90,7 +90,7 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
     font-size: 11px;
     letter-spacing: 2.5px;
     text-transform: uppercase;
-    color: var(--gold, #c8a04a);
+    color: var(--gold, #111111);
     margin: 0 0 12px;
     font-weight: 700;
   }
@@ -118,8 +118,8 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
   }
   .aff-cta-btn {
     display: inline-block;
-    background: var(--gold, #c8a04a);
-    color: var(--ink, #0e0e0e);
+    background: var(--text-1);
+    color: #ffffff;
     padding: 14px 32px;
     border-radius: 8px;
     text-decoration: none;
@@ -130,7 +130,7 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
     transition: transform 0.2s ease, background 0.2s ease;
   }
   .aff-cta-btn:hover {
-    background: #d4ab58;
+    background: var(--text-1);
     transform: translateY(-1px);
   }
   .aff-cta-foot {
@@ -146,8 +146,8 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
   }
   .aff-cta-btn-sm {
     display: inline-block;
-    border: 1px solid var(--gold, #c8a04a);
-    color: var(--gold, #c8a04a);
+    border: 1px solid var(--gold, #111111);
+    color: var(--gold, #111111);
     padding: 10px 20px;
     border-radius: 6px;
     text-decoration: none;
@@ -157,7 +157,7 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
     transition: background 0.2s ease, color 0.2s ease;
   }
   .aff-cta-btn-sm:hover {
-    background: var(--gold, #c8a04a);
-    color: var(--ink, #0e0e0e);
+    background: var(--text-1);
+    color: #ffffff;
   }
 </style>

@@ -35,11 +35,15 @@ import Layout from "../layouts/Layout.astro";
     letter-spacing: 0.05em;
   }
   h1 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(2.5rem, 5vw, 4rem);
+    /* Oct-27 title pass: 'Cormorant Garamond' is not loaded on this site, so
+       the heading silently rendered in Georgia. Same Fraunces stack and the
+       same level-1 size (max 3rem) as every other page H1. */
+    font-family: var(--serif, 'Fraunces', Georgia, serif);
+    font-size: clamp(2rem, 3.2vw + 0.5rem, 3rem);
+    font-weight: 400;
     color: var(--ink);
     margin-bottom: 1.5rem;
-    line-height: 1.2;
+    line-height: 1.15;
   }
   h1 em {
     color: var(--gold);

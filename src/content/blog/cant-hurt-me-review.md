@@ -63,7 +63,7 @@ relatedArticles:
 
 <div data-i18n-html="article_cant-hurt-me-review_p3">I picked up Can't Hurt Me on a Tuesday in October 2024. I was tired. I'd read half a dozen self-help books that year and forgotten most of them. By the end of that week, I'd read it twice.</div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p66"><div style="margin:2rem 0;padding:1.5rem 1.75rem;border:1px solid var(--line,#e5e5e5);border-radius:12px;background:var(--cream,#faf7f2);">
+<div data-i18n-html="article_cant-hurt-me-review_p66"><div style="margin:2rem 0;padding:1.5rem 1.75rem;border:1px solid var(--line,#e5e5e5);border-radius:12px;background:var(--cream, #ffffff);">
 <p style="margin:0 0 .75rem;"><strong>Quick verdict</strong></p>
 <p style="margin:0 0 .75rem;"><em>The book works — but only if you do.</em></p>
 <p style="margin:0 0 .5rem;"><strong>Read it if:</strong> you need a system to break one specific bad habit, and you can handle being called out.</p>
@@ -184,7 +184,7 @@ relatedArticles:
 
 <div data-i18n-html="article_cant-hurt-me-review_p53">Most people read books for motivation. Goggins' book is the opposite: it punishes you for reading without acting. So act first. Then re-read.</div>
 
-<div data-i18n-html="article_cant-hurt-me-review_p54"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_cant-hurt-me-review_p54"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:var(--bg-deep);">
 <p><strong>Ready for the cold water?</strong></p>
 <p><a href="https://www.amazon.fr/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=cant-hurt-me-review" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Buy Can't Hurt Me on Amazon</a></p>
 <p style="font-size:0.85em;color:#666;margin-top:0.5rem;">As an Amazon Associate we earn from qualifying purchases. Price unchanged.</p>

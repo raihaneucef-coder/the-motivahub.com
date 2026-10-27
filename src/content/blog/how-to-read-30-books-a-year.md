@@ -216,7 +216,7 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p67">You can do the same. Start with one book. Read 20 minutes tonight.</div>
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p68"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_how-to-read-30-books-a-year_p68"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:var(--bg-deep);">
 <p><strong>Resources for building a reading habit</strong></p>
 <p><a href="https://www.amazon.fr/dp/1847941834?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=reading-habit" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Atomic Habits by James Clear</a> — the framework that makes this work</p>
 <p><a href="https://www.amazon.fr/dp/0140449337?tag=motivahub-21&utm_source=motivahub&utm_medium=article&utm_campaign=reading-habit" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Meditations by Marcus Aurelius (Hays translation)</a> — the 20-minute daily book</p>

@@ -298,7 +298,7 @@ relatedArticles:
 
 <div data-i18n-html="article_the-morning-athlete_p85">You can build the same thing. Start tomorrow.</div>
 
-<div data-i18n-html="article_the-morning-athlete_p86"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_the-morning-athlete_p86"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:var(--bg-deep);">
 <p><strong>Tools that survived 12 years of training</strong></p>
 <p><a href="https://www.amazon.fr/s?k=running+shoes&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Running Shoes (any quality brand)</a> — rotate 2-3 pairs for injury prevention</p>
 <p><a href="https://www.amazon.fr/s?k=foam+roller&tag=motivahub-21" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Foam Roller (basic density)</a> — for daily mobility work</p>

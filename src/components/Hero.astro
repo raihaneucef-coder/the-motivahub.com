@@ -36,6 +36,13 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
 
   <div class="container">
     <div class="hero-content">
+      <!-- Phase 1 G4: eyebrow moved above the title (conventional editorial
+           order; it previously rendered after the CTA row). -->
+      <span class="hero-eyebrow">
+        <span class="hero-eyebrow-dot"></span>
+        <span data-i18n="heroKicker">{kicker}</span>
+      </span>
+
       <h1 class="hero-title" data-i18n-html="heroTitle">
         <Fragment set:html={title} />
       </h1>
@@ -59,11 +66,6 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
         <!-- F-22: group the trailing separator with the quiz link so the "·" cannot wrap onto its own line at narrow widths -->
         <span class="hero-line-quiz"><span class="hero-line-sep">&middot;</span><a class="hero-textlink" href={secondaryCtaHref} data-i18n="heroSecondary">{secondaryCta.label}</a></span>
       </p>
-
-      <span class="hero-eyebrow">
-        <span class="hero-eyebrow-dot"></span>
-        <span data-i18n="heroKicker">{kicker}</span>
-      </span>
     </div>
   </div>
 </section>

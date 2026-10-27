@@ -266,7 +266,7 @@ const description = "Free calculator that turns your reading goal into a daily p
   .rc-shell {
     max-width: 720px;
     margin: 0 auto;
-    background: var(--white, #fff);
+    background: var(--panel);
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 16px;
     padding: 40px 32px;
@@ -293,7 +293,7 @@ const description = "Free calculator that turns your reading goal into a daily p
     border-radius: 8px;
     font-family: var(--sans, system-ui, sans-serif);
     font-size: 16px;
-    background: var(--white, #fff);
+    background: var(--panel);
   }
 
   .rc-btn {
@@ -307,8 +307,8 @@ const description = "Free calculator that turns your reading goal into a daily p
     transition: all 0.2s ease;
     width: 100%;
   }
-  .rc-btn-primary { background: var(--gold, #c8a04a); color: var(--ink, #0e0e0e); }
-  .rc-btn-primary:hover { background: #d4ab58; }
+  .rc-btn-primary { background: var(--text-1); color: #ffffff; }
+  .rc-btn-primary:hover { background: var(--text-1); }
 
   .rc-results { margin-top: 32px; padding-top: 32px; border-top: 1px solid var(--line); }
 
@@ -326,7 +326,7 @@ const description = "Free calculator that turns your reading goal into a daily p
     font-family: var(--serif, Georgia, serif);
     font-size: 96px;
     font-weight: 700;
-    color: var(--gold, #c8a04a);
+    color: var(--gold, #111111);
     margin: 0;
     line-height: 1;
     letter-spacing: -2px;
@@ -338,7 +338,7 @@ const description = "Free calculator that turns your reading goal into a daily p
     margin: 8px 0 0;
   }
 
-  .rc-result-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; padding: 24px; background: var(--cream, #faf7f2); border-radius: 12px; margin-bottom: 24px; }
+  .rc-result-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; padding: 24px; background: var(--cream, #ffffff); border-radius: 12px; margin-bottom: 24px; }
   .rc-result-stat { text-align: center; }
   .rc-stat-num {
     font-family: var(--serif, Georgia, serif);
@@ -367,7 +367,7 @@ const description = "Free calculator that turns your reading goal into a daily p
   .rc-plan-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; }
   .rc-plan-card {
     padding: 20px;
-    background: var(--cream, #faf7f2);
+    background: var(--cream, #ffffff);
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 12px;
     text-align: center;
@@ -376,7 +376,7 @@ const description = "Free calculator that turns your reading goal into a daily p
     font-family: var(--sans, system-ui, sans-serif);
     font-size: 11px;
     letter-spacing: 2px;
-    color: var(--gold, #c8a04a);
+    color: var(--gold, #111111);
     margin: 0 0 8px;
     font-weight: 700;
   }
@@ -399,8 +399,8 @@ const description = "Free calculator that turns your reading goal into a daily p
     gap: 12px;
     align-items: flex-start;
     padding: 16px;
-    background: rgba(200, 160, 74, 0.06);
-    border: 1px solid rgba(200, 160, 74, 0.2);
+    background: rgba(17, 17, 17, 0.06);
+    border: 1px solid rgba(17, 17, 17, 0.2);
     border-radius: 12px;
     margin-bottom: 24px;
   }
@@ -429,20 +429,20 @@ const description = "Free calculator that turns your reading goal into a daily p
     padding: 8px 14px;
     border: 1px solid var(--line, #e5e5e5);
     border-radius: 6px;
-    background: var(--white, #fff);
+    background: var(--panel);
     cursor: pointer;
     font-family: var(--sans, system-ui, sans-serif);
     font-size: 13px;
     color: var(--ink, #1a1a1a);
     transition: all 0.2s ease;
   }
-  .rc-preset:hover { border-color: var(--gold, #c8a04a); background: rgba(200, 160, 74, 0.04); }
+  .rc-preset:hover { border-color: var(--gold, #111111); background: rgba(17, 17, 17, 0.04); }
 
-  .rc-faq { padding: 64px 0; background: var(--cream, #faf7f2); }
-  .rc-faq + .rc-faq { background: var(--white, #fff); }
+  .rc-faq { padding: 64px 0; background: var(--cream, #ffffff); }
+  .rc-faq + .rc-faq { background: var(--panel); }
   .rc-faq h2 { font-family: var(--serif, Georgia, serif); font-size: 28px; text-align: center; margin: 0 0 24px; color: var(--ink, #1a1a1a); }
   .rc-faq p { max-width: 720px; margin: 0 auto 16px; line-height: 1.7; color: var(--ink, #1a1a1a); font-size: 16px; }
-  .rc-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--white, #fff); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
+  .rc-faq details { max-width: 720px; margin: 0 auto 12px; padding: 16px 20px; background: var(--panel); border: 1px solid var(--line, #e5e5e5); border-radius: 12px; }
   .rc-faq summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); list-style: none; }
   .rc-faq summary::-webkit-details-marker { display: none; }
   .rc-faq details p { margin: 12px 0 0; }

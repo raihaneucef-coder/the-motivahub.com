@@ -29,11 +29,11 @@ const { quote, author } = Astro.props;
     canvas.height = H;
 
     // Background
-    ctx.fillStyle = "#121212";
+    ctx.fillStyle = "#111111";
     ctx.fillRect(0, 0, W, H);
 
     // Decorative lines
-    ctx.strokeStyle = "rgba(166, 124, 82, 0.15)";
+    ctx.strokeStyle = "rgba(242, 242, 242, 0.14)";
     ctx.lineWidth = 2;
     for (let i = 0; i < 5; i++) {
       ctx.beginPath();
@@ -43,13 +43,13 @@ const { quote, author } = Astro.props;
     }
 
     // Quote marks
-    ctx.fillStyle = "rgba(166, 124, 82, 0.2)";
+    ctx.fillStyle = "rgba(242, 242, 242, 0.18)";
     ctx.font = "italic 200px 'Georgia', serif";
     ctx.textAlign = "left";
     ctx.fillText("\u201C", 100, 280);
 
     // Quote text
-    ctx.fillStyle = "#f9f7f2";
+    ctx.fillStyle = "#f2f2f2";
     ctx.font = "500 48px 'Georgia', serif";
     ctx.textAlign = "center";
 
@@ -73,13 +73,13 @@ const { quote, author } = Astro.props;
     ctx.fillText(line.trim(), W / 2, y);
 
     // Author
-    ctx.fillStyle = "#a67c52";
+    ctx.fillStyle = "#b6b6b6";
     ctx.font = "400 32px 'Georgia', serif";
     ctx.textAlign = "center";
     ctx.fillText(`— ${author}`, W / 2, y + 100);
 
     // Brand
-    ctx.fillStyle = "rgba(166, 124, 82, 0.4)";
+    ctx.fillStyle = "rgba(242, 242, 242, 0.6)";
     ctx.font = "600 24px 'Helvetica Neue', sans-serif";
     ctx.letterSpacing = "4px";
     ctx.fillText("MOTIVA HUB", W / 2, H - 80);
@@ -125,7 +125,7 @@ const { quote, author } = Astro.props;
 </script>
 
 <style>
-  .ig-share { margin: 2rem 0; padding: 1.5rem; background: var(--cream); border: 1px solid #e8e2d6; border-radius: 12px; }
+  .ig-share { margin: 2rem 0; padding: 1.5rem; background: var(--cream); border: 1px solid var(--rule); border-radius: 12px; }
   .ig-preview { max-width: 320px; margin: 0 auto 1.5rem; border-radius: 8px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.12); }
   .ig-preview canvas { width: 100%; height: auto; display: block; }
   .ig-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }

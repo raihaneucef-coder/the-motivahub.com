@@ -88,7 +88,7 @@ relatedArticles:
 
 <div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p19">Ask yourself: which decision have you been postponing because you fear judgement? Take it this week — in silence. Do not announce it. Do it. Silence protects the seed before it becomes a tree.</div>
 
-<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p20"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:#f7f7f5;">
+<div data-i18n-html="article_focus-on-yourself-stay-silent-shi-heng-yi_p20"><div style="text-align:center;margin:2.5rem 0;padding:1.5rem;border-radius:12px;background:var(--bg-deep);">
 <p><strong>Go deeper into the Shaolin path</strong></p>
 <p><a href="https://www.amazon.fr/dp/1529149755?tag=motivahub-21&utm_source=motivahub&utm_medium=journal&utm_campaign=shi-heng-yi" target="_blank" rel="nofollow sponsored noopener" style="font-weight:bold;">Discover the Shaolin teachings on Amazon</a></p>
 </div></div>

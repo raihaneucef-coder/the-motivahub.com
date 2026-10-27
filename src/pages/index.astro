@@ -43,8 +43,9 @@ const stats = [
 ---
 
 <Layout title="Motiva Hub: Build the Discipline | Mindset & Habits" description="Mindset, habits, books, and free tools — for the long ascent, one day at a time. Build the discipline that outlasts the motivation.">
-  <link slot="head" rel="preload" href="/images/hero-static-pc.webp" as="image" type="image/webp" fetchpriority="high" media="(min-width: 769px)" />
-  <link slot="head" rel="preload" href="/images/hero-static-mobile.webp" as="image" type="image/webp" fetchpriority="high" media="(max-width: 768px) and (orientation: portrait)" />
+  <!-- Phase 1 G4: hero image preloads removed — Hero.astro (rendered below in
+       the same document) already emits media-conditioned preloads for both
+       files; duplicating them double-charged the preload scanner. -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@graph": [

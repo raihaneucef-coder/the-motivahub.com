@@ -137,8 +137,8 @@ import Layout from "../../layouts/Layout.astro";
 
   .mm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(13px, 1fr)); gap: 4px; }
   .mm-cell { aspect-ratio: 1; border-radius: 50%; background: transparent; border: 1px solid var(--line); }
-  .mm-cell.lived { background: var(--ink); border-color: var(--ink); }
-  .mm-cell.now { background: var(--gold); border-color: var(--gold); animation: mm-pulse 2s ease-in-out infinite; }
+  .mm-cell.lived { background: var(--border-strong); border-color: var(--border-strong); }
+  .mm-cell.now { background: var(--text-1); border-color: var(--text-1); animation: mm-pulse 2s ease-in-out infinite; }
   @keyframes mm-pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.35); } }
 
   .mm-quote { margin-top: 24px; font-family: var(--serif); font-size: 22px; font-style: italic; text-align: center; color: var(--ink); }

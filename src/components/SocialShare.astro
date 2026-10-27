@@ -79,11 +79,11 @@ const encTitle = encodeURIComponent(title);
       igCanvas.height = H;
 
       // Background
-      ctx.fillStyle = '#121212';
+      ctx.fillStyle = '#111111';
       ctx.fillRect(0, 0, W, H);
 
       // Decorative elements
-      ctx.strokeStyle = 'rgba(166, 124, 82, 0.15)';
+      ctx.strokeStyle = 'rgba(242, 242, 242, 0.14)';
       ctx.lineWidth = 2;
       for (let i = 0; i < 5; i++) {
         ctx.beginPath();
@@ -93,7 +93,7 @@ const encTitle = encodeURIComponent(title);
       }
 
       // Quote mark
-      ctx.fillStyle = 'rgba(166, 124, 82, 0.2)';
+      ctx.fillStyle = 'rgba(242, 242, 242, 0.18)';
       ctx.font = 'italic 200px Georgia, serif';
       ctx.textAlign = 'left';
       ctx.fillText('\u201C', 100, 280);
@@ -104,7 +104,7 @@ const encTitle = encodeURIComponent(title);
       const quoteText = firstQuote?.textContent?.trim() || title;
 
       // Wrap text
-      ctx.fillStyle = '#f9f7f2';
+      ctx.fillStyle = '#f2f2f2';
       ctx.font = '500 46px Georgia, serif';
       ctx.textAlign = 'center';
       const maxWidth = W - 200;
@@ -126,12 +126,12 @@ const encTitle = encodeURIComponent(title);
       ctx.fillText(line.trim(), W / 2, y);
 
       // Author
-      ctx.fillStyle = '#a67c52';
+      ctx.fillStyle = '#b6b6b6';
       ctx.font = '400 30px Georgia, serif';
       ctx.fillText('— Motiva Hub', W / 2, y + 90);
 
       // Brand
-      ctx.fillStyle = 'rgba(166, 124, 82, 0.4)';
+      ctx.fillStyle = 'rgba(242, 242, 242, 0.6)';
       ctx.font = '600 22px Helvetica Neue, sans-serif';
       ctx.fillText('MOTIVA HUB', W / 2, H - 80);
     }
