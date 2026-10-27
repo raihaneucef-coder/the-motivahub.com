@@ -4,7 +4,7 @@ description: "Discipline is expensive when run on caffeine, sugar and good inten
 titleFr: "Le carburant d'abord, la volonté après"
 descriptionFr: "La discipline tourne mal au café et au sucre. Mange pour rendre l'effort moins coûteux — la nutrition n'est pas un régime, c'est une infrastructure."
 pubDate: 2026-08-18
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Nutrition"
 readTime: "5 MIN"
 image: "/images/blog/fuel-before-willpower-3.jpg"

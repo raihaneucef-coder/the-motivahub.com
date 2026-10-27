@@ -4,7 +4,7 @@ description: "You do not need the perfect workout — you need a daily one that 
 titleFr: "Bouge quotidiennement, pas parfaitement"
 descriptionFr: "Vous n'avez pas besoin de l'entraînement parfait — vous avez besoin d'un entraînement quotidien qui survive aux mauvais jours. La régularité avant la performance."
 pubDate: 2026-08-21
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Wellness"
 readTime: "4 MIN"
 image: "/images/blog/move-daily-not-perfectly.jpg"

@@ -4,7 +4,7 @@ description: "A small, unpublished study (Matthews, 2015) reported that people w
 titleFr: "Le pouvoir d'écrire tes objectifs"
 descriptionFr: "Une petite étude non publiée (Matthews, 2015) a rapporté que les personnes qui écrivaient leurs objectifs avaient plus de chances de les atteindre. Découvrez pourquoi écrire transforme les souhaits en réalité."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/pouvoir-ecrire-objectifs.jpg"
 imageAlt: "Youssef Raihane - pouvoir ecrire objectifs concept"

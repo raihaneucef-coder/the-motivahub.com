@@ -4,7 +4,7 @@ description: "A good film does not just entertain — it rearranges you. Choose 
 titleFr: "Le film qui a changé votre semaine"
 descriptionFr: "Un bon film ne divertit pas seulement — il vous transforme. Choisissez des histoires qui font fructifier votre vie, pas juste passer le temps."
 pubDate: 2026-08-09
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Entertainment"
 readTime: "4 MIN"
 image: "/images/blog/the-movie-that-changed-your-week-2.jpg"

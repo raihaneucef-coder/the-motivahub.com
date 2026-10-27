@@ -6,7 +6,7 @@ titleFr: "L'échec est un retour : comment transformer les revers en tremplins"
 seoTitleFr: "L'échec est un retour : les revers comme tremplins"
 descriptionFr: "Chaque échec contient une leçon. Le seul vrai échec est celui qui n'apprend rien. Apprends à transformer les revers en comeback."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/echec-retroaction-2.jpg"
 imageAlt: "Two coaches reviewing notes together on the sideline of a soccer field"

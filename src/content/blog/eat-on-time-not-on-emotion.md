@@ -4,7 +4,7 @@ description: "Hunger makes bad decisions. Regular meals make good ones automatic
 titleFr: "Mange à l'heure, pas selon tes émotions"
 descriptionFr: "La faim fait prendre de mauvaises décisions. Les repas réguliers rendent les bonnes automatiques : manger à heure fixe stabilise énergie et humeur."
 pubDate: 2026-08-13
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Nutrition"
 readTime: "4 MIN"
 image: "/images/blog/eat-on-time-not-on-emotion.jpg"

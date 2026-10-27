@@ -6,7 +6,7 @@ titleFr: "Voyage et santé mentale : comment les nouveaux lieux soignent votre e
 seoTitleFr: "Voyage et santé mentale : les lieux qui soignent"
 descriptionFr: "Voyager n'est pas un luxe — c'est une thérapie. Les nouveaux environnements réduisent le stress, boostent la créativité et améliorent la santé mentale."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/voyage-sante-mentale.jpg"
 imageAlt: "Youssef Raihane - voyage sante mentale concept"

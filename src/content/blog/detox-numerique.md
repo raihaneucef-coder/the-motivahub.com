@@ -6,7 +6,7 @@ titleFr: "Détox Numérique : Retrouver le Contrôle de Votre Attention"
 seoTitleFr: "Détox numérique : reprendre le contrôle"
 descriptionFr: "Une détox numérique est essentielle dans notre monde connecté. Découvrez comment réduire votre temps d'écran et retrouver votre concentration."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/detox-numerique-1.jpg"
 imageAlt: "Youssef Raihane - detox numerique concept"

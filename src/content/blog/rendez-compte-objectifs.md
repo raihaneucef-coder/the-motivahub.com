@@ -5,7 +5,7 @@ description: "Accountability measurably raises your odds of reaching a goal. Lea
 titleFr: "Rendre des Comptes pour Atteindre vos Objectifs"
 descriptionFr: "La redevabilité augmente de façon mesurable vos chances d'atteindre un objectif. Découvrez comment créer un système de redevabilité qui vous maintient engagé et régulier."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/rendez-compte-objectifs-2.jpg"
 imageAlt: "Two workout partners checking their fitness watches together after training"

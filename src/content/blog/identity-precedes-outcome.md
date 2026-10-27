@@ -4,7 +4,7 @@ description: "You do not rise to the level of your goals; you fall to the level 
 titleFr: "L'identité précède le résultat"
 descriptionFr: "Tu ne t'élèves pas au niveau de tes objectifs ; tu descends au niveau de ton identité. Le changement commence par qui tu es, pas ce que tu veux."
 pubDate: 2026-08-09
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/identity-precedes-outcome.jpg"
 imageAlt: "Youssef Raihane - identity precedes outcome concept"

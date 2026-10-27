@@ -5,7 +5,7 @@ description: "Every time you say yes to something you do not want, you say no to
 titleFr: "L'Art de Dire Non : Guide pour Fixer des Limites"
 descriptionFr: "Découvrez comment dire non sans culpabilité. Un guide complet pour fixer des limites saines dans votre vie personnelle et professionnelle."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/art-dire-non-1.jpg"
 imageAlt: "Youssef Raihane - art dire non concept"

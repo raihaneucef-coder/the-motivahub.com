@@ -4,7 +4,7 @@ description: "Stop waiting to arrive. Success is not a place you reach — it is
 titleFr: "La Réussite est une Direction, pas une Destination"
 descriptionFr: "La réussite n'est pas une destination — c'est une direction. Apprenez à avancer chaque jour dans la bonne voie, surtout les jours sans éclat."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Success"
 readTime: "4 MIN"
 image: "/images/blog/success-is-a-direction-2.jpg"

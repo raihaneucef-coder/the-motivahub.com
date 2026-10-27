@@ -6,7 +6,7 @@ titleFr: "Le concierge qui est devenu millionnaire : une histoire de discipline"
 seoTitleFr: "Le concierge devenu millionnaire : la discipline"
 descriptionFr: "L'histoire vraie de Ronald Read, concierge du Vermont mort en laissant 8 millions de dollars. 25 ans de discipline, pas un salaire, ont bâti cette fortune."
 pubDate: 2026-08-24
-updatedDate: 2026-09-25
+updatedDate: 2026-10-26
 readTime: "2 MIN"
 image: "/images/blog/histoire-concierge-millionnaire-3.jpg"
 imageAlt: "A cleaning team tidying a bright modern living room with mops and a vacuum"

@@ -6,7 +6,7 @@ titleFr: "La Discipline des Athlètes : Ce Que Nous Pouvons Apprendre"
 seoTitleFr: "Discipline d'athlète : les leçons à copier"
 descriptionFr: "Les athlètes de haut niveau maîtrisent la discipline. Découvrez leurs secrets et comment les appliquer à votre vie quotidienne pour atteindre l'excellence."
 pubDate: 2026-08-21
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "10 MIN"
 image: "/images/blog/athlete-discipline.jpg"
 imageAlt: "Youssef Raihane - athlete discipline concept"
@@ -201,4 +201,4 @@ relatedArticles:
 
 <div data-i18n-html="article_athlete-discipline_p70"><strong>Sport is a mirror.</strong> To see the same discipline applied to writing and creativity, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
 
-<div data-i18n-html="article_athlete-discipline_p71"><em>Last updated: September 12, 2026 — added personal half marathon training story, 2-day rule for sports, and the schedule-based training system.</em></div>
+<div data-i18n-html="article_athlete-discipline_p71"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal half marathon training story, 2-day rule for sports, and the schedule-based training system).</em></div>

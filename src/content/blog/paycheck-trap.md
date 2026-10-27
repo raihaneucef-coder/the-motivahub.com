@@ -5,7 +5,7 @@ titleFr: "Le piège du salaire : pourquoi gagner plus ne suffit pas"
 seoTitleFr: "Piège du salaire : gagner plus ne suffit pas"
 descriptionFr: "Un revenu plus élevé ressemble à la liberté jusqu'à ce que le style de vie augmente avec. Découvre comment conserver l'augmentation que tu viens d'obtenir."
 pubDate: 2026-08-14
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Finance"
 readTime: "4 MIN"
 image: "/images/blog/paycheck-trap-3.jpg"

@@ -4,7 +4,7 @@ description: "The best travel stories never happened on the planned route. They 
 titleFr: "Le détour est la destination"
 descriptionFr: "Les meilleures histoires de voyage ne se sont jamais produites sur l'itinéraire prévu. Elles se sont produites sur le détour que vous avez failli éviter."
 pubDate: 2026-08-12
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Travel"
 readTime: "4 MIN"
 image: "/images/blog/the-detour-is-the-destination-2.jpg"

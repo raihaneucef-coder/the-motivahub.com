@@ -6,7 +6,7 @@ titleFr: "La Règle des 40 % : Testée Pendant 30 Jours — Résultats Réels"
 seoTitleFr: "Règle des 40 % : Testée 30 Jours"
 descriptionFr: "J'ai testé la règle des 40 % de Goggins 30 jours : 77 % des poussées ont payé, 10 % ont échoué. Le protocole, la science, et quand le mur est réel."
 pubDate: 2026-09-01
-updatedDate: 2026-09-25
+updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/regle-40-pourcent-3.jpg"
 imageAlt: "A runner pushing hard through a sprint on an outdoor track"

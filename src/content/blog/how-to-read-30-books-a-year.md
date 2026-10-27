@@ -6,7 +6,7 @@ titleFr: "Comment lire 30 livres par an (mon test de 90 jours sur l'habitude de 
 seoTitleFr: "Comment lire 30 livres par an (test de 90 jours)"
 descriptionFr: "J'ai construit une habitude de lecture en 90 jours. Ce qui a marché, ce qui a échoué, et le système de 20 minutes qui m'a fait finir 7 livres en 3 mois."
 pubDate: 2026-09-01
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "10 MIN"
 image: "/images/blog/how-to-read-30-books-a-year-3.jpg"
 imageAlt: "A tall stack of books with a red hardcover on top in front of a bookshelf"

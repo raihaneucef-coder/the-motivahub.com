@@ -5,7 +5,7 @@ titleFr: "Investis comme un débutant, pense comme un propriétaire"
 seoTitleFr: "Investir débutant, penser comme propriétaire"
 descriptionFr: "Tu n'as pas besoin d'être expert pour commencer à investir — tu as besoin de commencer et de rester. La propriété bat la prédiction."
 pubDate: 2026-08-13
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Finance"
 readTime: "5 MIN"
 image: "/images/blog/invest-like-beginner-3.jpg"

@@ -6,7 +6,7 @@ titleFr: "Les secrets du langage corporel : comment projeter la confiance sans d
 seoTitleFr: "Langage corporel : inspirer confiance sans parler"
 descriptionFr: "Votre corps parle avant que votre bouche ne s'ouvre. Découvrez les techniques de langage corporel qui projettent confiance, autorité et présence."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/langage-corps-confiance-1.jpg"
 imageAlt: "Youssef Raihane - langage corps confiance concept"

@@ -6,7 +6,7 @@ titleFr: "Le Sommeil est votre Avantage Indéfendable (Ce qui s'est passé quand
 seoTitleFr: "Sommeil : votre avantage injuste (test 60 jours)"
 descriptionFr: "Le sommeil n'est pas un luxe — c'est un outil de performance. 60 nuits suivies : les données, les échecs et les outils les moins chers qui ont aidé."
 pubDate: 2026-09-07
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "9 MIN"
 image: "/images/blog/sleep-is-unfair-advantage.jpg"
 imageAlt: "Youssef Raihane - sleep is unfair advantage concept"

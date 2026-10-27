@@ -6,7 +6,7 @@ titleFr: "Les Protéines ne sont pas que pour les Athlètes : Guide Complet"
 seoTitleFr: "Les protéines ne sont pas que pour les athlètes"
 descriptionFr: "Les protéines sont essentielles pour tout le monde, pas seulement les athlètes. Découvrez pourquoi, et comment en intégrer plus dans votre alimentation."
 pubDate: 2026-08-14
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Nutrition"
 readTime: "4 MIN"
 image: "/images/blog/protein-is-not-just-for-athletes.jpg"

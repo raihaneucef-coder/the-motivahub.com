@@ -5,7 +5,7 @@ titleFr: "Apprendre à Dire Non : Comment Fixer des Limites Sainement"
 seoTitleFr: "Apprendre à dire non : poser des limites saines"
 descriptionFr: "Dire non est une compétence essentielle pour protéger votre temps et votre énergie. Apprenez à couper les avis et les demandes qui ne servent pas vos objectifs."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/arreter-couper-avis-2.jpg"
 imageAlt: "Woman with eyes closed facing the breeze - cutting loose from other people's opinions"
@@ -181,4 +181,4 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p65"><strong>To stop caring what people think, start by caring what you think.</strong> Our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> shows how to build an identity that does not need external validation.</div>
 
-<div data-i18n-html="article_arreter-couper-avis_p66"><em>Last updated: September 12, 2026 — added personal story about rewriting an article 7 times, the 5-year test, and the 30-day practice protocol.</em></div>
+<div data-i18n-html="article_arreter-couper-avis_p66"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal story about rewriting an article 7 times, the 5-year test, and the 30-day practice protocol).</em></div>

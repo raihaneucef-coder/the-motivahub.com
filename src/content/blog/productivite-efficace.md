@@ -5,7 +5,7 @@ titleFr: "Productivité Efficace : Travailler Moins pour Accomplir Plus"
 seoTitleFr: "Productivité efficace : moins pour mieux"
 descriptionFr: "La productivité efficace ne veut pas dire travailler plus. Découvrez comment travailler moins mais mieux pour atteindre vos objectifs."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "7 MIN"
 image: "/images/blog/productivite-efficace-3.jpg"
 imageAlt: "A man deeply focused on his work at a desk with a tablet and headphones"

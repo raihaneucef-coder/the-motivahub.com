@@ -6,7 +6,7 @@ titleFr: "La technique Pomodoro : travaillez plus intelligemment, pas plus dur"
 seoTitleFr: "Technique Pomodoro : travailler plus malin"
 descriptionFr: "La technique Pomodoro est le système de productivité le plus simple au monde. Travaillez 25 minutes, faites une pause de 5, répétez. Voici pourquoi ça marche."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/technique-pomodoro-3.jpg"
 imageAlt: "A red vintage timer standing on a windowsill"

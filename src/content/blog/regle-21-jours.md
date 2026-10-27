@@ -6,7 +6,7 @@ titleFr: "La Règle des 21 Jours : Le Vrai Délai pour Créer une Habitude"
 seoTitleFr: "Le mythe des 21 jours : vrai délai d'une habitude"
 descriptionFr: "Oubliez la règle des 21 jours. L'étude de Lally et al. (2010), la plus citée, donne une médiane de 66 jours pour qu'une habitude devienne automatique, avec une fourchette de 18 à 254 jours. Voici le vrai calendrier."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/regle-21-jours.jpg"
 imageAlt: "Youssef Raihane journaling in Casablanca - 21 day habit myth vs reality"

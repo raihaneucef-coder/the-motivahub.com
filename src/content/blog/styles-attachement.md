@@ -5,7 +5,7 @@ titleFr: "Styles d'Attachement : Comprendre votre Relation aux Autres"
 seoTitleFr: "Styles d'attachement : comprendre ses relations"
 descriptionFr: "Les styles d'attachement influencent vos relations. Découvrez le vôtre et apprenez à développer un attachement plus sain avec les autres."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/styles-attachement-3.jpg"
 imageAlt: "A couple holding each other close, hands resting on shoulders"

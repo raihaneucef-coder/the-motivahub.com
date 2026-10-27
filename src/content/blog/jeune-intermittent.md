@@ -4,7 +4,7 @@ description: "Intermittent fasting is the most popular eating pattern in the wor
 titleFr: "Jeûne intermittent : est-ce que ça marche vraiment ?"
 descriptionFr: "Le jeûne intermittent est le mode alimentaire le plus populaire au monde. Mais donne-t-il vraiment des résultats ? Les preuves sont prometteuses — et plus modestes que les gros titres."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/jeune-intermittent.jpg"
 imageAlt: "Youssef Raihane - jeune intermittent concept"

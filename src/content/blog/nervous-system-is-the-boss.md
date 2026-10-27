@@ -4,7 +4,7 @@ description: "Your mind does not decide how you feel — your nervous system doe
 titleFr: "Ton système nerveux est le patron"
 descriptionFr: "Votre esprit ne décide pas de comment vous vous sentez — votre système nerveux le fait. Apprenez à travailler avec lui, pas contre lui."
 pubDate: 2026-08-12
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Wellness"
 readTime: "5 MIN"
 image: "/images/blog/nervous-system-is-the-boss.jpg"

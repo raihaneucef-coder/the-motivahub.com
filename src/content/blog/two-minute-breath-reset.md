@@ -4,7 +4,7 @@ description: "You cannot think your way calm — you breathe your way there. Two
 titleFr: "La réinitialisation respiratoire de 2 minutes"
 descriptionFr: "Vous ne pouvez pas vous calmer par la pensée — vous y arrivez par la respiration. Deux minutes suffisent pour changer votre état."
 pubDate: 2026-08-19
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Wellness"
 readTime: "3 MIN"
 image: "/images/blog/two-minute-breath-reset-3.jpg"

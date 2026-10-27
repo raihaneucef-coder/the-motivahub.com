@@ -6,7 +6,7 @@ titleFr: "Objectifs identitaires : le seul changement qui a fait que mes habitud
 seoTitleFr: "Habitudes identitaires : le test qui les fait tenir"
 descriptionFr: "Les habitudes d'objectifs échouent, les habitudes identitaires tiennent. Mon test de 90 jours : la différence, les preuves, et comment l'appliquer."
 pubDate: 2026-09-05
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "9 MIN"
 image: "/images/blog/identity-based-habits-90-day-test-2.jpg"
 imageAlt: "Calendar with a circled date and a check habits note - the ninety day identity test"
@@ -289,7 +289,7 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p96"><em>Youssef Raihane spent a decade failing at goals. He spent 90 days building identities. He hasn't written a 90-day streak since. The votes accumulated. The identity shifted. The habits stuck.</em></div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p97"><em>Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system and the missed-day recovery protocol.</em></div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p97"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 7, 2026 (refreshed with the 2-minute rule as a complete system and the missed-day recovery protocol).</em></div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p98"><h2>Sources</h2></div>
 

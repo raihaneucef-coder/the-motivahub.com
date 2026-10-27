@@ -6,7 +6,7 @@ titleFr: "Meal Prep dimanche : comment manger sain toute la semaine en 2 heures"
 seoTitleFr: "Meal prep du dimanche : manger sain 2 h par semaine"
 descriptionFr: "Le meal prep te fait gagner du temps, de l'argent et de la volonté. Découvre le système simple qui rend l'alimentation saine sans effort."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/meal-prep-dimanche-1.jpg"
 imageAlt: "Youssef Raihane - meal prep dimanche concept"

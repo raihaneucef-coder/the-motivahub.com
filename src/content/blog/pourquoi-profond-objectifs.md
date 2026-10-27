@@ -6,7 +6,7 @@ titleFr: "Trouver ton pourquoi profond : la raison émotionnelle qui survit à l
 seoTitleFr: "Trouver ton pourquoi profond — la raison qui te fait continuer"
 descriptionFr: "La motivation de surface disparaît en quelques semaines. Un « pourquoi » profond — trouvé avec un seul exercice honnête — te porte pendant les mois les plus durs. Voici comment le découvrir."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/pourquoi-profond-objectifs-2.jpg"
 imageAlt: "A woman writing in her journal with a cup of coffee in warm morning light"

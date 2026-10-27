@@ -5,7 +5,7 @@ titleFr: "Pourquoi l'environnement bat la volonté à tous les coups"
 seoTitleFr: "Environnement vs volonté : l'environnement gagne"
 descriptionFr: "Arrête de compter sur la volonté pour construire tes habitudes. Conçois ton environnement pour réussir et rends les bonnes habitudes automatiques."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/environnement-beat-volonte.jpg"
 imageAlt: "Youssef Raihane - environnement beat volonte concept"

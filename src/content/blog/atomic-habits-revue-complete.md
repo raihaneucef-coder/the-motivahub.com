@@ -5,7 +5,7 @@ description: "A deep dive into Atomic Habits: the 1% better every day philosophy
 titleFr: "Revue Complète Atomic Habits : Analyse Approfondie"
 descriptionFr: "Une revue détaillée du livre Atomic Habits. Découvrez les 4 lois du changement comportemental et comment les appliquer pour construire des habitudes durables."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "14 MIN"
 image: "/images/blog/atomic-habits-revue-complete-3.jpg"
 imageAlt: "A hand flicking a row of white dominoes mid-fall, one small action triggering a chain reaction"
@@ -176,6 +176,6 @@ Stacking and fine-tuning can produce a brittle schedule where one broken link de
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p60"><em>Youssef Raihane has applied Atomic Habits for 18 months. The book is now permanently on his desk — not as a reference, but as a calibration tool.</em></div>
 
-<div data-i18n-html="article_atomic-habits-revue-complete_p61"><em>Last updated: September 12, 2026 — added personal 18-month reading journey, specific changes in habits, and the calibration insight.</em></div>
+<div data-i18n-html="article_atomic-habits-revue-complete_p61"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal 18-month reading journey, specific changes in habits, and the calibration insight).</em></div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p62"><strong>The other Atomic Habits pages on Motiva Hub:</strong> this is the complete conceptual breakdown. For the practical, step-by-step system, see the <a href="/guides/atomic-habits-ultimate-guide/">Atomic Habits Ultimate Guide</a>; for a first-person account of what changed across four reads, see <a href="/journal/atomic-habits-review/">I Read Atomic Habits 4 Times</a>.</div>

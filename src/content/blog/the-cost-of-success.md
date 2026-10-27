@@ -4,7 +4,7 @@ description: "Every success has a price paid in advance — in boredom, in sayin
 titleFr: "Le coût du succès dont personne ne parle"
 descriptionFr: "Tout succès a un prix payé d'avance — dans l'ennui, dans les refus, et dans le fait de rester quand il serait plus facile de partir."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Success"
 readTime: "5 MIN"
 image: "/images/blog/the-cost-of-success-2.jpg"

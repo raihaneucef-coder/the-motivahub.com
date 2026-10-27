@@ -6,7 +6,7 @@ titleFr: "Soi Sécurisé : Comment Développer un Attachement Sain"
 seoTitleFr: "Soi sécurisé : construire un attachement sain"
 descriptionFr: "Un soi sécurisé est la base d'une vie épanouie. Apprenez à développer un attachement sain avec vous-même, puis avec les autres autour de vous."
 pubDate: 2026-08-12
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "7 MIN"
 image: "/images/blog/secure-self-2.jpg"
 imageAlt: "A happy woman with glasses hugging a pillow on the couch"

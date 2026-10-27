@@ -6,7 +6,7 @@ titleFr: "Le changement de mindset viral — comment une idée change tout"
 seoTitleFr: "Le changement de mindset : une idée qui change tout"
 descriptionFr: "Une courte vidéo de mindset, 27 secondes : l'identité précède le résultat. Voici l'histoire complète derrière une idée transformative sur la motivation."
 pubDate: 2026-08-19
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/viral-mindset-shift.jpg"
 imageAlt: "Youssef Raihane - viral mindset shift concept"

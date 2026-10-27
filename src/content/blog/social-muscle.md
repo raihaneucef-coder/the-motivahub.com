@@ -5,7 +5,7 @@ titleFr: "Muscle Social : Renforcer vos Relations avec Intention"
 seoTitleFr: "Muscle social : renforcer ses relations"
 descriptionFr: "Le muscle social se construit avec intention. Découvrez comment renforcer vos relations et développer un réseau solide qui tient dans le temps."
 pubDate: 2026-08-10
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "7 MIN"
 image: "/images/blog/social-muscle-3.jpg"
 imageAlt: "Two climbing partners belaying each other at an indoor climbing wall"

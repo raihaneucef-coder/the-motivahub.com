@@ -6,7 +6,7 @@ titleFr: "Discipline Personnelle : 8 Systèmes Plutôt que la Volonté"
 seoTitleFr: "Discipline personnelle : 8 systèmes concrets"
 descriptionFr: "8 systèmes pour tenir sans compter sur la volonté : objectifs identitaires, règle des 2 minutes, inconfort volontaire, règle des 40 %, routine du matin."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "9 MIN"
 image: "/images/blog/discipline-personnelle-guide.jpg"
 imageAlt: "Youssef Raihane - discipline personnelle guide concept"

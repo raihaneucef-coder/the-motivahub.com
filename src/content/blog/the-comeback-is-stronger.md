@@ -4,7 +4,7 @@ description: "Every setback is a setup for a stronger comeback. Your greatest gr
 titleFr: "Le retour est toujours plus fort que l'échec"
 descriptionFr: "Chaque échec prépare un retour plus fort. Votre plus grande croissance ne vient pas de ne jamais tomber, mais de vous relever avec plus de feu."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Personal Growth"
 readTime: "5 MIN"
 image: "/images/blog/the-comeback-is-stronger.jpg"

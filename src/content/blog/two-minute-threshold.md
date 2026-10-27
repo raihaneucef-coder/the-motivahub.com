@@ -4,7 +4,7 @@ description: "A habit is not a finish line but a doorway. Shrink it until it bec
 titleFr: "Le seuil des deux minutes"
 descriptionFr: "Une habitude n'est pas une ligne d'arrivée mais une porte. Réduisez-la jusqu'à ce qu'il devienne impossible de l'éviter, et la porte reste ouverte."
 pubDate: 2026-08-02
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/two-minute-threshold-2.jpg"
 imageAlt: "A person standing at an open doorway with light pouring in"

@@ -5,7 +5,7 @@ titleFr: "Comment Casser une Mauvaise Habitude : Guide Pratique"
 seoTitleFr: "Casser une mauvaise habitude : le guide pratique"
 descriptionFr: "Casser une mauvaise habitude demande plus que de la volonté. Découvrez les stratégies basées sur la science pour remplacer les habitudes nocives."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "9 MIN"
 image: "/images/blog/casser-mauvaise-habitude-2.jpg"
 imageAlt: "A woman holding a pink frosted donut in one hand and a green apple in the other, choosing between them"
@@ -212,4 +212,4 @@ I tried to stop scrolling without any negative consequence. There was no cost. T
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p66"><strong>Breaking a bad habit is easier when you stop fighting it and start redesigning the conditions around it.</strong> The 2-Minute Rule guide shows how tiny starts rewire both good and bad habits from the inside. Read the full walkthrough if you want the step-by-step version.</div>
 
-<div data-i18n-html="article_casser-mauvaise-habitude_p67"><em>Last updated: September 12, 2026 — added personal 30-day scrolling habit break, the reverse four laws protocol, and the identity-based framework for breaking habits.</em></div>
+<div data-i18n-html="article_casser-mauvaise-habitude_p67"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal 30-day scrolling habit break, the reverse four laws protocol, and the identity-based framework for breaking habits).</em></div>

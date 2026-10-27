@@ -4,7 +4,7 @@ description: "Most willpower failures are hydration failures. Drink before you d
 titleFr: "L'eau avant la volonté"
 descriptionFr: "La plupart des échecs de volonté sont des échecs d'hydratation. Bois avant de décider, et les choix difficiles deviennent plus simples à tenir."
 pubDate: 2026-08-15
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Nutrition"
 readTime: "3 MIN"
 image: "/images/blog/water-before-willpower-3.jpg"

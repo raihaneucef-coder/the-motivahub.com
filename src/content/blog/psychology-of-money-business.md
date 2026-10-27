@@ -6,7 +6,7 @@ titleFr: "Psychologie de l'Argent en Affaires : Comprendre Votre Relation avec l
 seoTitleFr: "Psychologie de l'argent : changer son rapport"
 descriptionFr: "La psychologie de l'argent en affaires est cruciale. Découvrez comment vos croyances financières affectent vos décisions professionnelles."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/psychology-of-money-business-3.jpg"
 imageAlt: "A hand holding a glass jar full of coins with a savings label"

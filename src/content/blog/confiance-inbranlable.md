@@ -4,7 +4,7 @@ description: "Confidence is not something you are born with. It is something you
 titleFr: "Confiance Inébranlable : Comment Croire en Soi"
 descriptionFr: "La confiance en soi se construit, pas se trouve. Découvrez les pratiques quotidiennes pour développer une confiance inébranlable."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/confiance-inbranlable.jpg"
 imageAlt: "Youssef Raihane - confiance inbranlable concept"

@@ -5,7 +5,7 @@ description: "The room quiets when calm walks in. In a world of noise, staying c
 titleFr: "Le Calme est un Super-Pouvoir : Cultiver la Sérenité"
 descriptionFr: "Dans un monde bruyant, le calme est votre super-pouvoir. Apprenez à cultiver la sérénité pour prendre de meilleures décisions."
 pubDate: 2026-08-11
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/calm-is-a-superpower.jpg"
 imageAlt: "Youssef Raihane practicing calm before a difficult client meeting - one slow breath"
@@ -209,4 +209,4 @@ I thought calm meant avoiding stressful situations. It does not. Calm means stay
 
 <div data-i18n-html="article_calm-is-a-superpower_p72"><strong>Calm is the invisible work that makes all visible work better.</strong> To see how calm fits into the larger system of identity and habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to emotional regulation instead of habits.</div>
 
-<div data-i18n-html="article_calm-is-a-superpower_p73"><em>Last updated: September 12, 2026 — added personal calm story, the three calm practices, and the stress test protocol.</em></div>
+<div data-i18n-html="article_calm-is-a-superpower_p73"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal calm story, the three calm practices, and the stress test protocol).</em></div>

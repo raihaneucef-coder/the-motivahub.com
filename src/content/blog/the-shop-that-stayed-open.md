@@ -6,7 +6,7 @@ titleFr: "Le commerce qui est resté ouvert : pourquoi l'endurance bat le pivot"
 seoTitleFr: "Le commerce qui est resté ouvert : l'endurance gagne"
 descriptionFr: "Tout le monde a pivoté, lui est resté. 32 ans, portes ouvertes à 7h — les leçons apprises dedans sont celles que peu de pros trouvent jamais."
 pubDate: 2026-08-05
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "4 MIN"
 image: "/images/blog/the-shop-that-stayed-open-3.jpg"
 imageAlt: "A small grocery store glowing at night with its window lights on"

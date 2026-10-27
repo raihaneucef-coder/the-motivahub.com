@@ -6,7 +6,7 @@ titleFr: "Deux amis, une promesse : pourquoi la communauté se construit, ne se 
 seoTitleFr: "Deux amis, une promesse : la communauté se construit"
 descriptionFr: "Ils avaient promis de marcher chaque jour pendant un an. La promesse, pas la marche, les a changés — une histoire d'engagement et de responsabilité."
 pubDate: 2026-08-04
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "4 MIN"
 image: "/images/blog/two-friends-one-promise-3.jpg"
 imageAlt: "Two hands locking in a pinky promise outdoors"

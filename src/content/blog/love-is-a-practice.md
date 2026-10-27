@@ -4,7 +4,7 @@ description: "We wait to feel loving before we act loving. It works the other wa
 titleFr: "L'amour est une pratique, pas un sentiment"
 descriptionFr: "On attend de se sentir aimant avant d'agir avec amour. Ça marche dans l'autre sens : agissez avec soin chaque jour et le sentiment suivra."
 pubDate: 2026-08-10
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Relationships"
 readTime: "4 MIN"
 image: "/images/blog/love-is-a-practice-2.jpg"

@@ -6,7 +6,7 @@ titleFr: "Can't Hurt Me : Critique du Livre (2026) — 5 Leçons Après 3 Lectur
 seoTitleFr: "Can't Hurt Me : critique et 5 leçons clés"
 descriptionFr: "J'ai lu Can't Hurt Me 3 fois en 2 ans. Cette critique sépare le système réel du mythe — 5 leçons, un protocole de 30 jours, et les limites de l'ouvrage."
 pubDate: 2026-09-01
-updatedDate: 2026-09-25
+updatedDate: 2026-10-26
 readTime: "11 MIN"
 image: "/images/blog/cant-hurt-me-review.jpg"
 imageAlt: "Youssef Raihane's accountability mirror sticky notes from Can't Hurt Me - 90 day experiment"

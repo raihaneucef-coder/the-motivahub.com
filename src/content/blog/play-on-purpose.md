@@ -4,7 +4,7 @@ description: "Leisure that leaves you emptier is not rest. Choose entertainment 
 titleFr: "Jouer délibérément"
 descriptionFr: "Le loisir qui te laisse plus vide n'est pas du repos. Choisis le divertissement comme les champions choisissent l'entraînement — délibérément."
 pubDate: 2026-08-20
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Entertainment"
 readTime: "5 MIN"
 image: "/images/blog/play-on-purpose-2.jpg"

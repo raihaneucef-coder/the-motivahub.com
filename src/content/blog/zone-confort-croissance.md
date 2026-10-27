@@ -6,7 +6,7 @@ titleFr: "Zone de confort vs zone de croissance : pourquoi l'inconfort est votre
 seoTitleFr: "Zone de confort vs zone de croissance"
 descriptionFr: "Votre zone de confort est un endroit magnifique, mais rien n'y pousse. Découvrez pourquoi entrer dans l'inconfort est le seul chemin vers la croissance."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/zone-confort-croissance-3.jpg"
 imageAlt: "A person leaping into open water at golden sunset, leaving the boat behind"

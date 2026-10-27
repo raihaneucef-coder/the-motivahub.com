@@ -6,7 +6,7 @@ titleFr: "Redéfinir la Réussite : Au-Delà de l'Argent et du Statut"
 seoTitleFr: "Redéfinir la réussite : au-delà de l'argent"
 descriptionFr: "La réussite ne signifie pas la même chose pour tout le monde. Redéfinissez votre propre réussite au-delà des standards sociaux."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/definition-reussite-2.jpg"
 imageAlt: "Three hikers taking their own path through a mountain landscape beside a trail signpost"

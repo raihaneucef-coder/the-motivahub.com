@@ -4,7 +4,7 @@ description: "The best travelers carry less and stay longer. What you leave behi
 titleFr: "Emporte peu, reste longtemps"
 descriptionFr: "Les meilleurs voyageurs portent moins et restent plus longtemps. Ce que tu laisses derrière toi compte plus que ce que tu apportes."
 pubDate: 2026-08-20
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Travel"
 readTime: "4 MIN"
 image: "/images/blog/pack-light-stay-long.jpg"

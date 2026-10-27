@@ -4,7 +4,7 @@ description: "Everyone told her she was too late. She started anyway, and the la
 titleFr: "Elle a Commencé à 60 Ans : Il n'est Jamais Trop Tard"
 descriptionFr: "Elle a commencé à 60 ans et a réussi. Une histoire inspirante qui prouve qu'il n'est jamais trop tard pour poursuivre vos rêves."
 pubDate: 2026-08-06
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Stories"
 readTime: "4 MIN"
 image: "/images/blog/she-started-at-60-3.jpg"

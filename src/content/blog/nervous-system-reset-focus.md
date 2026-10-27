@@ -6,7 +6,7 @@ titleFr: "Pourquoi tu ne peux pas te concentrer (et l'exercice de 5 minutes qui 
 seoTitleFr: "Concentration : pourquoi ça bloque, le remède"
 descriptionFr: "Pourquoi la productivité basée sur la volonté m'a échoué — et ce qui a fini par marcher. Une approche centrée sur le corps, soutenue par les neurosciences."
 pubDate: 2026-09-04
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "10 MIN"
 image: "/images/blog/nervous-system-reset-focus-3.jpg"
 imageAlt: "A calm woman with eyes closed resting in warm golden light"

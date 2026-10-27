@@ -4,7 +4,7 @@ description: "We think play is what we do after life. Play is how we learn to li
 titleFr: "Jouer, c'est s'entraîner pour la vie"
 descriptionFr: "On pense que jouer est ce qu'on fait après la vie. Jouer, c'est ainsi qu'on apprend à vivre — légèrement, créativement, ensemble."
 pubDate: 2026-08-08
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Entertainment"
 readTime: "4 MIN"
 image: "/images/blog/play-is-practice-for-life-3.jpg"

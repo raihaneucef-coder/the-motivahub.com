@@ -5,7 +5,7 @@ titleFr: "La Récupération est un Entraînement : L'Importance du Repos"
 seoTitleFr: "Récupération : le repos est un entraînement"
 descriptionFr: "La récupération est aussi importante que l'entraînement. Découvrez comment le repos améliore vos performances et votre santé."
 pubDate: 2026-08-17
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Sport"
 readTime: "4 MIN"
 image: "/images/blog/recovery-is-training-3.jpg"

@@ -6,7 +6,7 @@ titleFr: "Le journal pour grandir : comment l'écriture transforme ta conscience
 seoTitleFr: "Tenir un journal : développer sa conscience de soi"
 descriptionFr: "Le journal est la thérapie la moins chère que tu trouveras. 10 minutes d'écriture quotidienne transforment la conscience de soi et les décisions."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 image: "/images/blog/journal-croissance-3.jpg"
 imageAlt: "An open journal and pen on a wooden desk next to a laptop"
 topic: "Personal Growth"

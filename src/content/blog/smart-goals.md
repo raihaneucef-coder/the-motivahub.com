@@ -5,7 +5,7 @@ titleFr: "SMART Goals : Comment Fixer des Objectifs Atteignables"
 seoTitleFr: "Objectifs SMART : les fixer pour les atteindre"
 descriptionFr: "Les objectifs SMART sont spécifiques, mesurables, atteignables, pertinents et temporels. Apprenez à les fixer pour réussir."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/smart-goals-3.jpg"
 imageAlt: "A pink flat lay of a planner, notebooks and pens ready for goal setting"

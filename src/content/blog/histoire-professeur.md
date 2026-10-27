@@ -6,7 +6,7 @@ titleFr: "Le professeur qui a changé 1000 vies : une histoire d'impact"
 seoTitleFr: "Le professeur qui a changé 1000 vies"
 descriptionFr: "Maria n'avait ni argent, ni gloire, ni pouvoir. Elle avait quelque chose de plus précieux : la capacité de faire croire aux gens en eux-mêmes."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/histoire-professeur-2.jpg"
 imageAlt: "A teacher at the blackboard as students raise their hands in class"

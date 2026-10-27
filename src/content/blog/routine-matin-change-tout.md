@@ -5,7 +5,7 @@ titleFr: "La Routine Matinale Change Tout : Commencer par une Victoire"
 seoTitleFr: "La routine matinale qui change tout"
 descriptionFr: "Une routine matinale change tout. Commencez votre journée par une petite victoire pour transformer le reste — l'élan qui rend la discipline facile."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/routine-matin-change-tout-2.jpg"
 imageAlt: "Hands pulling the duvet to make the bed in soft morning light"

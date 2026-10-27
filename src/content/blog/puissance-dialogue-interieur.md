@@ -6,7 +6,7 @@ titleFr: "La Puissance du Dialogue Intérieur : Se Parler avec Bienveillance"
 seoTitleFr: "La puissance du dialogue intérieur : se parler mieux"
 descriptionFr: "Votre dialogue intérieur façonne votre réalité. Apprenez à vous parler avec bienveillance pour développer une mentalité positive et résiliente."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/puissance-dialogue-interieur-2.jpg"
 imageAlt: "A man sitting alone on a ledge with his backpack, lost in thought"

@@ -6,7 +6,7 @@ titleFr: "La lettre qu'il n'a jamais envoyée — et le jour où ça a changé s
 seoTitleFr: "La lettre qu'il n'a jamais envoyée"
 descriptionFr: "Il l'a écrite dans la colère, ne l'a jamais postée. Mais chaque matin pendant quarante ans il l'a relue — et a fait le même choix silencieux."
 pubDate: 2026-08-07
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Stories"
 readTime: "5 MIN"
 image: "/images/blog/the-letter-he-never-sent-3.jpg"

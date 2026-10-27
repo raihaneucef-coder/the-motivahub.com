@@ -6,7 +6,7 @@ titleFr: "La Discipline Dépass la Motivation : Construire des Systèmes"
 seoTitleFr: "Discipline vs motivation : construire des systèmes"
 descriptionFr: "La motivation est volatile, la discipline est constante. Apprenez à construire des systèmes qui fonctionnent même quand la motivation faiblit."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/discipline-depass-motivation-2.jpg"
 imageAlt: "Hands lacing up a gray running shoe on asphalt before a training session"

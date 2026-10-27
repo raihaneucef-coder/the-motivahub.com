@@ -4,7 +4,7 @@ description: "You do not rise to the level of your goals — you fall to the lev
 titleFr: "Les gens qui élèvent ton plancher"
 descriptionFr: "Vous ne montez pas au niveau de vos objectifs — vous descendez au niveau des gens autour de vous. Choisissez la pièce qui élève votre plancher."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Relationships"
 readTime: "5 MIN"
 image: "/images/blog/people-who-raise-your-floor-3.jpg"

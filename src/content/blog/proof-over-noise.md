@@ -6,7 +6,7 @@ titleFr: "Les Preuves Battent le Bruit : Se Concentrer sur ce qui Fonctionne"
 seoTitleFr: "Preuves plutôt que bruit : faire ce qui marche"
 descriptionFr: "Dans un monde de opinions, les preuves sont rares. Apprenez à vous concentrer sur ce qui fonctionne plutôt que sur ce qui est populaire."
 pubDate: 2026-08-21
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Stories"
 readTime: "5 MIN"
 image: "/images/blog/proof-over-noise-3.jpg"

@@ -4,7 +4,7 @@ description: "Freedom is not bought once — it is rented every day with small, 
 titleFr: "Le Prix de la Liberté : Ce Que Ça Coûte Vraiment"
 descriptionFr: "La liberté a un prix. Découvrez ce que coûte vraiment la liberté financière, temporelle et mentale — et comment le payer."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Finance"
 readTime: "4 MIN"
 image: "/images/blog/price-of-freedom.jpg"

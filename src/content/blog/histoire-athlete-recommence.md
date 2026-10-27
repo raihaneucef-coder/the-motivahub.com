@@ -4,7 +4,7 @@ description: "She lost her medal, her sponsor, and her reputation. But she gaine
 titleFr: "L'athlète qui a tout perdu et qui a recommencé"
 descriptionFr: "Elle a perdu sa médaille, son sponsor et sa réputation. Mais elle a gagné quelque chose de plus précieux — la capacité de recommencer."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/histoire-athlete-recommence-3.jpg"
 imageAlt: "A lone runner crossing a long empty bridge under a clear sky"

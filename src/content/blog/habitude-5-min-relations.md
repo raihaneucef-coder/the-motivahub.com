@@ -6,7 +6,7 @@ titleFr: "L'habitude quotidienne de 5 minutes qui renforce chaque relation"
 seoTitleFr: "L'habitude de 5 minutes qui renforce vos relations"
 descriptionFr: "La plupart des relations ne meurent pas par de grandes trahisons. Elles meurent par de petites négligences. Cette habitude de 5 minutes empêche ça."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/habitude-5-min-relations-2.jpg"
 imageAlt: "Two people holding hands warmly while sitting close together"

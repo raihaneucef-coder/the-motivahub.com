@@ -4,7 +4,7 @@ description: "A good goal does not trap you — it points you. Learn how to set 
 titleFr: "Les objectifs sont une boussole, pas une cage"
 descriptionFr: "Un bon objectif ne vous piège pas — il vous oriente. Apprenez à fixer des objectifs qui vous font avancer sans vous briser quand le plan change de direction."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Goals"
 readTime: "5 MIN"
 image: "/images/blog/goals-are-a-compass-not-a-cage-2.jpg"

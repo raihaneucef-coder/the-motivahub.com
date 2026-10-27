@@ -5,7 +5,7 @@ description: "Every relationship has conflict. The question is not whether you w
 titleFr: "Résolution de Conflits : Communiquer avec Clarté"
 descriptionFr: "La résolution de conflits demande de la clarté et de l'empathie. Apprenez à naviguer les conflits avec intelligence émotionnelle."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/resolution-conflits-3.jpg"
 imageAlt: "Two people shaking hands to settle a disagreement, one in a suit and one in a checked shirt"

@@ -5,7 +5,7 @@ titleFr: "Quand la motivation échoue, les systèmes prennent le relais"
 seoTitleFr: "Systèmes vs motivation : le guide qui tient"
 descriptionFr: "La motivation est imprévisible, les systèmes sont fiables. Pourquoi construire des systèmes vaut mieux que fixer des objectifs — et comment faire."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/systemes-battent-motivation-2.jpg"
 imageAlt: "A hand drawing a system flowchart on a whiteboard"

@@ -6,7 +6,7 @@ titleFr: "Les podcasts comme éducation : comment apprendre pendant que tu fais 
 seoTitleFr: "Les podcasts comme éducation : apprendre en faisant"
 descriptionFr: "Les podcasts transforment le temps mort en temps d'apprentissage. Trajet, sport, cuisine — tout devient éducation. Comment les utiliser efficacement."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/podcasts-education-2.jpg"
 imageAlt: "A woman in headphones walking through the city listening to a podcast"

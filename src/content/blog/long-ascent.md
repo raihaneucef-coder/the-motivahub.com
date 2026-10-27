@@ -6,7 +6,7 @@ titleFr: "La longue ascension : pourquoi les grimpeurs lents atteignent le somme
 seoTitleFr: "La longue ascension : le lent atteint le sommet"
 descriptionFr: "Il y a deux types de grimpeurs — ceux qui sprintent et ceux qui montent. Les sprinteurs heurtent un mur, les autres atteignent le sommet."
 pubDate: 2026-07-18
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "9 MIN"
 image: "/images/blog/long-ascent-3.jpg"
 imageAlt: "A long trail climbing a green mountain ridge into the clouds"

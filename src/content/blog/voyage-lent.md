@@ -6,7 +6,7 @@ titleFr: "Voyager lentement : pourquoi moins de destinations signifie plus d'exp
 seoTitleFr: "Voyager lentement : moins de lieux, plus de sens"
 descriptionFr: "Foncer dans 10 villes en 10 jours n'est pas du voyage, c'est du tourisme. Le voyage lent, c'est la profondeur, pas la largeur. Voici pourquoi moins, c'est plus."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/voyage-lent.jpg"
 imageAlt: "Youssef Raihane - voyage lent concept"

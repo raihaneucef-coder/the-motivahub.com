@@ -6,7 +6,7 @@ titleFr: "Le Batching pour la Productivité : Regrouper les Tâches"
 seoTitleFr: "Le batching pour la productivité"
 descriptionFr: "Le batching est une technique de productivité qui consiste à regrouper les tâches similaires. Découvrez comment cela peut transformer votre efficacité."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "9 MIN"
 image: "/images/blog/batching-productivite.jpg"
 imageAlt: "Youssef Raihane's batching schedule - four productivity blocks for deep work"
@@ -217,4 +217,4 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 
 <div data-i18n-html="article_batching-productivite_p71"><strong>Batching is the gateway to deep work.</strong> To see how to protect that deep work with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 
-<div data-i18n-html="article_batching-productivite_p72"><em>Last updated: September 12, 2026 — added personal 30-day batching experiment, specific time blocks, and the communication batch protocol.</em></div>
+<div data-i18n-html="article_batching-productivite_p72"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal 30-day batching experiment, specific time blocks, and the communication batch protocol).</em></div>

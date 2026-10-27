@@ -6,7 +6,7 @@ titleFr: "Le mythe du succès immédiat : pourquoi il faut des années pour réu
 seoTitleFr: "Mythe du succès immédiat : pourquoi c'est long"
 descriptionFr: "Tout le monde veut le succès du jour au lendemain. C'est un mythe : derrière chaque réussite soudaine se cachent des années de travail invisible."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/mythe-reussite-instantanee-2.jpg"
 imageAlt: "Tall bamboo grove - slow invisible growth before sudden success"

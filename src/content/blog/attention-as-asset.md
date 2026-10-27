@@ -5,7 +5,7 @@ titleFr: "L'Attention comme Actif : Protéger Votre Concentration"
 seoTitleFr: "Attention : un actif à protéger"
 descriptionFr: "Dans un monde de distractions, l'attention est votre actif le plus précieux. Comment protéger et cultiver votre concentration pour un travail qui compte."
 pubDate: 2026-07-10
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "10 MIN"
 image: "/images/blog/attention-as-asset.jpg"
 imageAlt: "Youssef Raihane's attention audit notebook showing 147 distractions tracked in one day"
@@ -224,4 +224,4 @@ I never tracked where my attention went. The theft was invisible. The audit made
 
 <div data-i18n-html="article_attention-as-asset_p74"><strong>Attention is the new currency.</strong> To see how to budget it alongside your habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 
-<div data-i18n-html="article_attention-as-asset_p75"><em>Last updated: September 12, 2026 — added personal attention audit story, specific numbers, and the single-tab protocol.</em></div>
+<div data-i18n-html="article_attention-as-asset_p75"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal attention audit story, specific numbers, and the single-tab protocol).</em></div>

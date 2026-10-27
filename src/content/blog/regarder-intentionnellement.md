@@ -6,7 +6,7 @@ titleFr: "Regarder Intentionnellement : Cultiver la Conscience Visuelle"
 seoTitleFr: "Regarder des films et séries qui améliorent ta vie"
 descriptionFr: "Regarder intentionnellement est une pratique de pleine conscience. Apprenez à observer le monde avec attention et curiosité."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/regarder-intentionnellement.jpg"
 imageAlt: "Youssef Raihane - regarder intentionnellement concept"

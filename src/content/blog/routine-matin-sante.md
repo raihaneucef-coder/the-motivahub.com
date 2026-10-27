@@ -6,7 +6,7 @@ titleFr: "Routine Matinale Santé : Démarrer la Journée avec Énergie"
 seoTitleFr: "Routine matinale santé : bien démarrer la journée"
 descriptionFr: "Une routine matinale santé est essentielle pour votre bien-être. Découvrez les habitudes matinales qui transforment votre énergie."
 pubDate: 2026-08-24
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/routine-matin-sante-3.jpg"
 imageAlt: "A woman stretching her arms toward the sun at sunrise"

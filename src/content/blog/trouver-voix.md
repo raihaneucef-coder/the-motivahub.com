@@ -5,7 +5,7 @@ titleFr: "Prendre la parole : comment trouver votre voix et l'utiliser"
 seoTitleFr: "Prendre la parole : trouver sa voix"
 descriptionFr: "Votre voix compte. Mais si vous ne l'utilisez jamais, personne ne l'entendra. Apprenez à prendre la parole avec clarté, conviction et confiance."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 image: "/images/blog/trouver-voix-3.jpg"
 imageAlt: "A woman singing into a microphone in front of an audience"
 topic: "Confidence"

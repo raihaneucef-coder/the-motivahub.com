@@ -6,7 +6,7 @@ titleFr: "La Dette est une Histoire : Réécrire Votre Relation avec l'Argent"
 seoTitleFr: "La dette est une histoire qu'on peut réécrire"
 descriptionFr: "La dette est souvent une histoire que nous nous racontons. Apprenez à réécrire votre relation avec l'argent et à vous libérer."
 pubDate: 2026-08-16
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Finance"
 readTime: "4 MIN"
 image: "/images/blog/debt-is-a-story.jpg"

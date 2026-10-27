@@ -6,7 +6,7 @@ titleFr: "Le pouvoir de dire non — pourquoi c'est ta compétence la plus impor
 seoTitleFr: "Le pouvoir de dire non : ta compétence clé"
 descriptionFr: "Chaque oui est un non à autre chose. Découvre pourquoi dire non est la discipline la plus importante à construire, et comment le faire sans culpabilité."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/pouvoir-du-non-2.jpg"
 imageAlt: "A woman raising her open palm toward the camera in a firm no gesture"

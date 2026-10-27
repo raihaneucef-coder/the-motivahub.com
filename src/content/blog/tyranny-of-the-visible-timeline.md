@@ -6,7 +6,7 @@ titleFr: "La Tyrannie de la Timeline Visible"
 seoTitleFr: "La Tyrannie de la Timeline Visible"
 descriptionFr: "La plupart des abandons n'ont rien à voir avec l'objectif — tout à voir avec l'horloge visible. Apprenez à vous libérer de la comparaison des timelines."
 pubDate: 2026-08-20
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Mindset"
 readTime: "4 MIN"
 image: "/images/blog/tyranny-of-the-visible-timeline.jpg"

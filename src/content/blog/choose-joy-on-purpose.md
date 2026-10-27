@@ -4,7 +4,7 @@ description: "Joy does not find you — you choose it. Learn to schedule delight
 titleFr: "Choisir la Joie avec Intention : Cultiver le Bonheur"
 descriptionFr: "La joie n'est pas un hasard — c'est un choix. Apprenez à cultiver le bonheur intentionnellement dans votre vie quotidienne."
 pubDate: 2026-08-10
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Entertainment"
 readTime: "4 MIN"
 image: "/images/blog/choose-joy-on-purpose-2.jpg"

@@ -5,7 +5,7 @@ description: "Improving by just 1% per day makes you 37 times better in one year
 titleFr: "La Règle du 1% : Améliorer de 1% Chaque Jour"
 descriptionFr: "La règle du 1% est simple mais puissante. Améliorer de 1% chaque jour conduit à des résultats extraordinaires sur une année."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/regle-1-pourcent-3.jpg"
 imageAlt: "A single water drop creating ripples across a dark surface"

@@ -5,7 +5,7 @@ description: "The most effective way to achieve any goal is to start at the end 
 titleFr: "Rétro-ingénierie des Objectifs : Partir de la Fin"
 descriptionFr: "La rétro-ingénierie des objectifs est une approche puissante. Commencez par la fin et travaillez en arrière pour créer un plan clair."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/retroengineering-objectifs-2.jpg"
 imageAlt: "A hand sketching a business plan timeline and growth curve in a notebook"

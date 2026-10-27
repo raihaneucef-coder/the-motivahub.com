@@ -6,7 +6,7 @@ titleFr: "Le Rituel Deep Work : Créer un Environnement de Concentration"
 seoTitleFr: "Le rituel Deep Work pour la concentration"
 descriptionFr: "Un rituel Deep Work est essentiel pour entrer dans l'état de concentration profonde. Découvrez comment construire votre rituel."
 pubDate: 2026-08-18
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/deep-work-ritual-1.jpg"
 imageAlt: "Youssef Raihane - deep work ritual concept"

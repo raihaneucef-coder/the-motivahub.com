@@ -5,7 +5,7 @@ titleFr: "Le Pouvoir Silencieux de Faire Moins : Moins, mais Mieux"
 seoTitleFr: "Faire moins, mieux : le pouvoir silencieux"
 descriptionFr: "Faire moins n'est pas de la paresse — c'est une stratégie. Découvrez le pouvoir silencieux de la simplification et de la concentration."
 pubDate: 2026-08-14
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "7 MIN"
 image: "/images/blog/quiet-power-of-doing-less-2.jpg"
 imageAlt: "Single chair in an empty white room - the quiet power of doing less"

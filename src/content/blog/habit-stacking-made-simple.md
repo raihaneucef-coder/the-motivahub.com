@@ -6,7 +6,7 @@ titleFr: "L'empilement d'habitudes : relie les nouvelles habitudes aux anciennes
 seoTitleFr: "L'empilement d'habitudes : lier le neuf à l'ancien"
 descriptionFr: "La façon la plus simple de construire une nouvelle habitude est de la lier à une que tu fais déjà. Empile-la, ne pars pas de zéro."
 pubDate: 2026-08-22
-updatedDate: 2026-09-21
+updatedDate: 2026-10-26
 topic: "Habits"
 readTime: "4 MIN"
 image: "/images/blog/habit-stacking-made-simple-3.jpg"

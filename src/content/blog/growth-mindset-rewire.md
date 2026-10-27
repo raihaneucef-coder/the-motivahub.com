@@ -5,7 +5,7 @@ titleFr: "État d'esprit de croissance : comment reprogrammer ton cerveau pour r
 seoTitleFr: "État d'esprit de croissance : le guide"
 descriptionFr: "Comment un état d'esprit de croissance transforme les échecs en opportunités. Des stratégies pratiques pour sortir d'une pensée fixe et progresser."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "7 MIN"
 image: "/images/blog/growth-mindset-rewire-2.jpg"
 imageAlt: "Two hands fitting large white puzzle pieces together"

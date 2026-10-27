@@ -6,7 +6,7 @@ titleFr: "Le syndrome de l'imposteur : pourquoi vous vous sentez comme un fraude
 seoTitleFr: "Syndrome de l'imposteur : comprendre, en sortir"
 descriptionFr: "Beaucoup de personnes à haut potentiel rapportent des sentiments d'imposteur à un moment ou un autre. Ce n'est pas un signe d'incompétence mais de croissance. Le reconnaître et le surmonter."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 image: "/images/blog/syndrome-imposteur-2.jpg"
 imageAlt: "A person in the dark holding a white mask away from their face"
 topic: "Confidence"

@@ -6,7 +6,7 @@ titleFr: "Le Piège de la Comparaison : Se Libérer du Regard des Autres"
 seoTitleFr: "Le piège de la comparaison"
 descriptionFr: "La comparaison est le piège qui vole votre joie. Apprenez à vous libérer du regard des autres pour vous concentrer sur votre propre progression."
 pubDate: 2026-08-14
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/comparison-trap-2.jpg"
 imageAlt: "A face distorted through a glass lens held above a laptop, warping self-perception"

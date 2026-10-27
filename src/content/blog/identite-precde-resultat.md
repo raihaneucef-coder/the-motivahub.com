@@ -6,7 +6,7 @@ titleFr: "Comment changer d'identité : le système d'habitudes identitaires en 
 seoTitleFr: "Changer d'identité : le système en 5 étapes"
 descriptionFr: "5 étapes pour devenir qui tu veux être : lance la boucle identité-comportement, prouve-la par de petites actions, et ne manque jamais deux fois."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/identite-precde-resultat-2.jpg"
 imageAlt: "A small figure in a number seven jersey beside a golden trophy"

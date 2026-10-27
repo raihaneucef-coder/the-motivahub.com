@@ -6,7 +6,7 @@ titleFr: "Voyager Seul pour Devenir Plus Fort : Guide de Voyage en Solo"
 seoTitleFr: "Voyager seul pour devenir plus fort"
 descriptionFr: "Voyager seul est une expérience transformatrice. Découvrez comment un voyage en solo peut renforcer votre confiance et votre indépendance."
 pubDate: 2026-08-11
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Travel"
 readTime: "5 MIN"
 image: "/images/blog/solo-travel-stronger-self-2.jpg"

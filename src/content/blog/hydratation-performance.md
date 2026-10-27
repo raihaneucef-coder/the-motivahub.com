@@ -6,7 +6,7 @@ titleFr: "Hydratation : pourquoi l'eau est le meilleur booster de performance (e
 seoTitleFr: "Hydratation : l'eau, booster de performance oublié"
 descriptionFr: "Perdre environ 2 % de la masse corporelle en liquide réduit déjà de façon mesurable l'endurance et la concentration. L'eau est le booster de performance le plus simple, le moins cher et le plus efficace qui existe."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/hydratation-performance-2.jpg"
 imageAlt: "An athlete drinking from a water bottle between gym rings"

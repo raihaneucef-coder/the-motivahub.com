@@ -4,7 +4,7 @@ description: "Disagreement is not the enemy of love — distance is. Learn the a
 titleFr: "Comment se disputer sans se briser"
 descriptionFr: "Le désaccord n'est pas l'ennemi de l'amour — la distance l'est. Apprends l'art de se disputer de façon à vous rapprocher."
 pubDate: 2026-08-15
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Relationships"
 readTime: "5 MIN"
 image: "/images/blog/how-to-argue-without-breaking-2.jpg"

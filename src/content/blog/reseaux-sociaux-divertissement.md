@@ -6,7 +6,7 @@ titleFr: "Réseaux Sociaux et Divertissement : Trouver l'Équilibre"
 seoTitleFr: "Réseaux sociaux et écran : trouver l'équilibre"
 descriptionFr: "Les réseaux sociaux peuvent être un divertissement addictif. Apprenez à trouver l'équilibre entre connexion et distraction."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/reseaux-sociaux-divertissement-3.jpg"
 imageAlt: "A woman relaxing on a couch scrolling her phone in a bright living room"

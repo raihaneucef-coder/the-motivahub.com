@@ -6,7 +6,7 @@ titleFr: "Voyager avec un petit budget : comment voir le monde sans se ruiner"
 seoTitleFr: "Voyager avec un petit budget sans se ruiner"
 descriptionFr: "Voyager ne doit pas être cher. Avec les bonnes stratégies, vous pouvez voir le monde avec un budget serré. Voici comment."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/voyage-budget-3.jpg"
 imageAlt: "A world map shaped from scattered coins on a white table"

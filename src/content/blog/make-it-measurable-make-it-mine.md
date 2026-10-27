@@ -4,7 +4,7 @@ description: "A vague goal inspires no one, least of all you. Make it measurable
 titleFr: "Rendez-le mesurable, rendez-le vôtre"
 descriptionFr: "Un objectif vague n'inspire personne, surtout pas vous. Rendez-le mesurable, rendez-le personnel, et laissez le progrès vous tirer."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Goals"
 readTime: "4 MIN"
 image: "/images/blog/make-it-measurable-make-it-mine.jpg"

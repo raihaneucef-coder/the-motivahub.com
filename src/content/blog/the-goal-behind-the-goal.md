@@ -6,7 +6,7 @@ titleFr: "L'objectif derrière l'objectif : la question cachée qui vous fait av
 seoTitleFr: "L'objectif derrière l'objectif : tenir bon"
 descriptionFr: "Chaque objectif cache un objectif plus profond — un pourquoi derrière le pourquoi. Ceux qui arrivent sont ceux qui ont creusé au-delà de la surface."
 pubDate: 2026-08-22
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 topic: "Goals"
 readTime: "4 MIN"
 image: "/images/blog/the-goal-behind-the-goal-2.jpg"

@@ -6,7 +6,7 @@ titleFr: "Mindset : comment adopter un état d'esprit gagnant et transformer ta 
 seoTitleFr: "Mindset : adopter un état d'esprit gagnant"
 descriptionFr: "Découvre la puissance d'un état d'esprit gagnant. Apprends à changer ta façon de penser, à surmonter le doute de toi et à bâtir une force mentale pour réussir."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/mindset-etat-esprit-2.jpg"
 imageAlt: "A silhouette raising both arms to the sunrise over the mountains"

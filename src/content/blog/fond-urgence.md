@@ -4,7 +4,7 @@ description: "An emergency fund is not optional — it is essential. Without one
 titleFr: "Fonds d'urgence : pourquoi c'est ta base financière"
 descriptionFr: "Un fonds d'urgence n'est pas optionnel — il est essentiel. Sans lui, une seule dépense imprévue peut faire dérailer toute ta vie financière."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/fond-urgence.jpg"
 imageAlt: "Youssef Raihane - fond urgence concept"

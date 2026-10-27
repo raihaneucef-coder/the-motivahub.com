@@ -6,7 +6,7 @@ titleFr: "La Vraie Raison de votre Procrastination : Comprendre et Surmonter"
 seoTitleFr: "Procrastination : la vraie raison, pas la paresse"
 descriptionFr: "La procrastination n'est pas de la paresse. Découvrez les vraies raisons psychologiques et les stratégies pour la surmonter."
 pubDate: 2026-08-16
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/real-reason-you-procrastinate-2.jpg"
 imageAlt: "A person hidden under the duvet scrolling their phone in bed"

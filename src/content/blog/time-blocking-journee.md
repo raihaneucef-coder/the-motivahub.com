@@ -6,7 +6,7 @@ titleFr: "Le time blocking : comment posséder votre journée au lieu de la subi
 seoTitleFr: "Time blocking : reprendre sa journée en main"
 descriptionFr: "Le time blocking consiste à assigner chaque heure de votre journée à une tâche spécifique. Apprenez à prendre le contrôle de votre calendrier et de votre vie."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-10-26
 readTime: "5 MIN"
 image: "/images/blog/time-blocking-journee-3.jpg"
 imageAlt: "A weekly planner with a May calendar, pen and ribbon laid out on a desk"
