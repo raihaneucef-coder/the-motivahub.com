@@ -2174,6 +2174,9 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
   font-weight: 500; color: #f0f0f0; margin: 0 0 8px;
 }
 .d30-pdf-text p { font-family: var(--sans); font-size: 0.875rem; color: #888; margin: 0; }
+/* Oct-28: in-context internal link to the PDF landing page (bright + underlined so it reads as a link on the dark box) */
+.d30-pdf-text p a { color: #f0f0f0; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.d30-pdf-text p a:hover { text-decoration-thickness: 2px; }
 .d30-pdf-actions { display: flex; flex-direction: column; gap: 12px; min-width: 260px; }
 .d30-pdf-btn {
   display: inline-flex; align-items: center; justify-content: center;
