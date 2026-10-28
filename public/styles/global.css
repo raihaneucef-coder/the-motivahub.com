@@ -113,37 +113,37 @@ body:has(.hero-portrait) .site-header:not(.scrolled) .header-nav a.active::after
 /* Phase 1 G4: the section 30-36 page heroes still open dark (they are
    swept in later groups) — they join the hero in keeping the header light,
    since body:not(:has(...)) would otherwise force ink-on-dark there. */
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) { color:#111111 }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .logo { color:#111111 }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .logo .logo-word em { color:#111111 }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .menu-btn { color:#111111;border-color:rgba(17,17,17,0.22);background:rgba(255,255,255,0.65) }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .menu-btn:hover { background:#111111;color:#FFFFFF;border-color:#111111 }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .lang-switcher { color:#111111;border-color:rgba(17,17,17,0.18);background:rgba(255,255,255,0.65) }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .lang-btn { color:rgba(17,17,17,0.72) }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .lang-btn:hover { color:#111111 }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .lang-btn.active { color:#111111 }
-body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero)) .site-header:not(.scrolled) .lang-sep { color:rgba(17,17,17,0.72) }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) { color:#111111 }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .logo { color:#111111 }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .logo .logo-word em { color:#111111 }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .menu-btn { color:#111111;border-color:rgba(17,17,17,0.22);background:rgba(255,255,255,0.65) }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .menu-btn:hover { background:#111111;color:#FFFFFF;border-color:#111111 }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .lang-switcher { color:#111111;border-color:rgba(17,17,17,0.18);background:rgba(255,255,255,0.65) }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .lang-btn { color:rgba(17,17,17,0.72) }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .lang-btn:hover { color:#111111 }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .lang-btn.active { color:#111111 }
+body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero)) .site-header:not(.scrolled) .lang-sep { color:rgba(17,17,17,0.72) }
 /* Oct-27 white/black pass (D3): the EN/FR separator. Base L7 paints it with
    --line (#e4e4e4), which was a hairline colour on cream but is 1.27:1 on the
    white canvas -- i.e. an invisible "/" in the scrolled header. Same 4.54:1
    micro-label step the other header ink uses. The two state rules above still
    win in the un-scrolled state because they are more specific. */
 .lang-sep { color: var(--muted-soft); }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .logo { color:#FFFFFF }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .logo .logo-word em { color:#FFFFFF }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.45);background:rgba(0,0,0,0.30) }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.35);background:rgba(0,0,0,0.30) }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.78) }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .lang-btn.active { color:#FFFFFF }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .header-search { color:#FFFFFF }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .header-search:hover { color:#FFFFFF }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .logo { color:#FFFFFF }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .logo .logo-word em { color:#FFFFFF }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.45);background:rgba(0,0,0,0.30) }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.35);background:rgba(0,0,0,0.30) }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.78) }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-btn.active { color:#FFFFFF }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-search { color:#FFFFFF }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-search:hover { color:#FFFFFF }
 /* same .header-nav row for the page heroes that still open dark (sections 30-36,
    swept in the pending G5) so the five links stay readable there too. */
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .header-nav a { color:rgba(255,255,255,0.88) }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .header-nav a:hover,
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .header-nav a:focus-visible { color:#FFFFFF }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .header-nav a.active { color:#FFFFFF !important }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero) .site-header:not(.scrolled) .header-nav a.active::after { background:#FFFFFF }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-nav a { color:rgba(255,255,255,0.88) }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-nav a:hover,
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-nav a:focus-visible { color:#FFFFFF }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-nav a.active { color:#FFFFFF !important }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-nav a.active::after { background:#FFFFFF }
 
 /* ==========================================================================
    design/header-hero - Phase 2: home hero readability + typography
