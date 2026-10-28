@@ -1529,16 +1529,22 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
   color: var(--text-4);
   margin: 0 0 16px;
 }
+/* Oct-28 consistency pass: the Featured Guide + All Guides cards sit on the
+   white canvas, so their dark-card colours (#1b1b1b / #2a2a2a / --on-dark* /
+   #f0f0f0 / #888) are mapped onto the editorial-light scale -- white surface,
+   #e4e4e4 hairline, #111 titles, #555 secondary, #767676 meta -- exactly like the
+   Books / Journal / Tools cards. The dark guides-hero-banner is untouched.
+   Layout, markup, thumbnails, links and copy unchanged. */
 .guide-featured-card {
   display: grid;
   grid-template-columns: 1fr 1.2fr;
-  background: #1b1b1b;
-  border: 1px solid #2a2a2a;
+  background: #ffffff;
+  border: 1px solid var(--rule);
   border-radius: 12px;
   overflow: hidden;
   transition: border-color 0.25s ease;
 }
-.guide-featured-card:hover { border-color: var(--on-dark-dim); }
+.guide-featured-card:hover { border-color: var(--border-strong); }
 .guide-featured-img {
   display: block;
   aspect-ratio: 4/3;
@@ -1568,25 +1574,25 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
   font-size: 0.6875rem;
   text-transform: uppercase;
   letter-spacing: 0.10em;
-  color: #888;
+  color: var(--text-4);
 }
-.guide-meta-topic { color: var(--on-dark); font-weight: 500; }
-.guide-meta-sep { color: #444; font-size: 0.75rem; }
+.guide-meta-topic { color: var(--text-1); font-weight: 500; }
+.guide-meta-sep { color: var(--text-4); font-size: 0.75rem; }
 .guide-featured-title {
   font-family: var(--serif);
   font-size: clamp(1.25rem, 2vw, 1.65rem);
   font-weight: 500;
   line-height: 1.2;
-  color: #f0f0f0;
+  color: var(--text-1);
   margin: 0;
 }
 .guide-featured-title a { color: inherit; text-decoration: none; }
-.guide-featured-title a:hover { color: var(--on-dark); }
+.guide-featured-title a:hover { color: var(--text-1); }
 .guide-featured-desc {
   font-family: var(--sans);
   font-size: 0.9375rem;
   line-height: 1.6;
-  color: #888;
+  color: var(--text-3);
   margin: 0;
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -1599,17 +1605,17 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
   gap: 8px;
   margin-top: 8px;
   padding: 12px 24px;
-  background: var(--on-dark);
-  color: var(--surface-dark);
+  background: var(--text-1);
+  color: #ffffff;
   border-radius: 8px;
   font-family: var(--sans);
   font-size: 0.875rem;
   font-weight: 600;
   text-decoration: none;
-  transition: background 0.2s;
+  transition: background 0.2s, color 0.2s;
   align-self: flex-start;
 }
-.guide-read-btn:hover { background: #ffffff; }
+.guide-read-btn:hover { background: #ffffff; color: var(--text-1); box-shadow: inset 0 0 0 1px var(--border-strong); }
 @media (max-width: 768px) {
   .guide-featured-card { grid-template-columns: 1fr; }
   .guide-featured-img { aspect-ratio: 16/9; }
@@ -1628,19 +1634,23 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
   flex-direction: column;
   gap: 16px;
 }
+/* Oct-28 consistency pass: All Guides list items sit on the white canvas, so their
+   dark-card colours are mapped onto the editorial-light scale (white surface, #e4e4e4
+   hairline, #111 title, #555 desc) exactly like the Books / Journal / Tools cards.
+   Layout, markup, thumbnails, links and copy unchanged. */
 .guide-list-item {
   display: grid;
   grid-template-columns: 120px 1fr auto;
   gap: 20px;
   align-items: center;
   padding: 20px;
-  background: #1b1b1b;
-  border: 1px solid #2a2a2a;
+  background: #ffffff;
+  border: 1px solid var(--rule);
   border-radius: 10px;
   text-decoration: none;
   transition: border-color 0.2s ease;
 }
-.guide-list-item:hover { border-color: var(--on-dark-dim); }
+.guide-list-item:hover { border-color: var(--border-strong); }
 .guide-list-thumb {
   border-radius: 6px;
   overflow: hidden;
@@ -1661,14 +1671,14 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
   font-family: var(--serif);
   font-size: 1.05rem;
   font-weight: 500;
-  color: #f0f0f0;
+  color: var(--text-1);
   margin: 0;
   line-height: 1.3;
 }
 .guide-list-desc {
   font-family: var(--sans);
   font-size: 0.875rem;
-  color: #888;
+  color: var(--text-3);
   margin: 0;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -1679,7 +1689,7 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
   font-family: var(--sans);
   font-size: 0.8125rem;
   font-weight: 600;
-  color: var(--on-dark);
+  color: var(--text-1);
   white-space: nowrap;
 }
 @media (max-width: 560px) {
@@ -2540,14 +2550,20 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
 }
 
 /* 35c. Latest episode feature */
+/* Oct-28 consistency pass: the Latest Episode + Episodes cards sit on the white
+   canvas, so their dark-card colours (#1b1b1b / #2a2a2a / --on-dark* / #f0f0f0 /
+   #b0b0b0 / #888) are mapped onto the editorial-light scale -- white surface,
+   #e4e4e4 hairline, #f7f7f7 cover, #111 titles, #555 desc, #767676 meta -- exactly
+   like the Books / Journal / Tools / Guides cards. The dark pc-hero is untouched.
+   Layout, markup, covers, links and copy unchanged. */
 .pc-latest {
   display: grid; grid-template-columns: 1.15fr 1fr;
-  background: #1b1b1b; border: 1px solid #2a2a2a; border-radius: 12px;
+  background: #ffffff; border: 1px solid var(--rule); border-radius: 12px;
   overflow: hidden; margin-bottom: clamp(24px, 4vh, 40px);
   transition: border-color 0.25s ease;
 }
-.pc-latest:hover { border-color: var(--on-dark-dim); }
-.pc-latest-cover { display: block; aspect-ratio: 16/10; overflow: hidden; background: #1b1b1b; }
+.pc-latest:hover { border-color: var(--border-strong); }
+.pc-latest-cover { display: block; aspect-ratio: 16/10; overflow: hidden; background: #f7f7f7; }
 .pc-latest-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .pc-latest-body {
   padding: clamp(22px, 3vw, 36px); display: flex; flex-direction: column;
@@ -2555,14 +2571,14 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
 }
 .pc-latest-label {
   font-family: var(--mono); font-size: 0.625rem; text-transform: uppercase;
-  letter-spacing: 0.14em; color: var(--on-dark-dim); margin: 0;
+  letter-spacing: 0.14em; color: var(--text-4); margin: 0;
 }
 .pc-latest-title {
   font-family: var(--serif); font-size: clamp(1.25rem, 2.1vw, 1.6rem);
-  font-weight: 500; line-height: 1.25; color: #f0f0f0; margin: 0;
+  font-weight: 500; line-height: 1.25; color: var(--text-1); margin: 0;
 }
 .pc-latest-desc {
-  font-family: var(--sans); font-size: 0.9375rem; line-height: 1.6; color: #b0b0b0; margin: 0;
+  font-family: var(--sans); font-size: 0.9375rem; line-height: 1.6; color: var(--text-3); margin: 0;
 }
 @media (max-width: 768px) {
   .pc-latest { grid-template-columns: 1fr; }
@@ -2573,37 +2589,40 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
 .pc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
 .pc-card {
   display: flex; flex-direction: column;
-  background: #1b1b1b; border: 1px solid #2a2a2a;
+  background: #ffffff; border: 1px solid var(--rule);
   border-radius: 10px; overflow: hidden; transition: border-color 0.25s ease;
 }
-.pc-card:hover { border-color: var(--on-dark-dim); }
-.pc-cover { aspect-ratio: 1/1; overflow: hidden; background: #1b1b1b; }
+.pc-card:hover { border-color: var(--border-strong); }
+.pc-cover { aspect-ratio: 1/1; overflow: hidden; background: #f7f7f7; }
 .pc-cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .pc-card-body {
   padding: 18px; display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 0;
 }
 .pc-card-title {
   font-family: var(--serif); font-size: 1rem; font-weight: 500;
-  color: #f0f0f0; margin: 0; line-height: 1.3;
+  color: var(--text-1); margin: 0; line-height: 1.3;
 }
 .pc-card-desc {
-  font-family: var(--sans); font-size: 0.8125rem; line-height: 1.55; color: #b0b0b0; margin: 0;
+  font-family: var(--sans); font-size: 0.8125rem; line-height: 1.55; color: var(--text-3); margin: 0;
 }
 .pc-meta {
   font-family: var(--mono); font-size: 0.6875rem; text-transform: uppercase;
-  letter-spacing: 0.1em; color: #888; margin: 0;
+  letter-spacing: 0.1em; color: var(--text-4); margin: 0;
 }
 .pc-listen {
   display: inline-flex; align-items: center; gap: 6px; margin-top: auto;
-  padding: 10px 16px; background: transparent; border: 1px solid #2a2a2a;
-  border-radius: 6px; color: #f0f0f0; align-self: flex-start;
+  padding: 10px 16px; background: transparent; border: 1px solid var(--border-strong);
+  border-radius: 6px; color: var(--text-1); align-self: flex-start;
   font-family: var(--sans); font-size: 0.8125rem; font-weight: 600;
   text-decoration: none; transition: border-color 0.2s, color 0.2s;
 }
-.pc-listen:hover { border-color: var(--on-dark-dim); color: var(--on-dark); }
+.pc-listen:hover { border-color: var(--text-1); color: var(--text-1); }
+/* Focus rings: keep the white ring only for .pc-hero-cta (still on the dark hero);
+   the Listen button and the Latest Episode cover now sit on white cards, so their
+   rings switch to ink to stay visible. */
+.pc-hero-cta:focus-visible { outline: 2px solid #ffffff; outline-offset: 2px; }
 .pc-listen:focus-visible,
-.pc-hero-cta:focus-visible,
-.pc-latest-cover:focus-visible { outline: 2px solid #ffffff; outline-offset: 2px; }
+.pc-latest-cover:focus-visible { outline: 2px solid var(--text-1); outline-offset: 2px; }
 @media (max-width: 1024px) { .pc-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px) { .pc-grid { grid-template-columns: 1fr; } }
 
