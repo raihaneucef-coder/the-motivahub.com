@@ -2868,7 +2868,7 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
 }
 .au-pullquote {
   font-family: var(--serif); font-style: italic; font-size: clamp(1.3rem, 2.6vw, 1.75rem);
-  line-height: 1.45; color: #f0f0f0; border-left: 3px solid var(--on-dark);
+  line-height: 1.45; color: var(--text-2); border-left: 3px solid var(--text-1);
   margin: 34px 0 0; padding: 6px 0 6px 26px;
 }
 
@@ -2878,12 +2878,12 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
 .au-promise-inner .journal-section-title { margin: 0 0 28px; }
 .au-promise-lead {
   font-family: var(--serif); font-size: clamp(1.15rem, 2vw, 1.375rem);
-  line-height: 1.55; color: #e8e8e8; margin: 0 0 22px;
+  line-height: 1.55; color: var(--text-2); margin: 0 0 22px;
 }
 .au-promise-inner p:not(.au-section-kicker):not(.au-promise-lead) {
-  font-family: var(--sans); font-size: 1rem; line-height: 1.75; color: #b0b0b0; margin: 0 0 18px;
+  font-family: var(--sans); font-size: 1rem; line-height: 1.75; color: var(--text-3); margin: 0 0 18px;
 }
-.au-promise-links a { color: var(--on-dark); text-decoration: none; }
+.au-promise-links a { color: var(--text-1); text-decoration: none; }
 .au-promise-links a:hover { text-decoration: underline; }
 
 /* 36j. Focus areas */
@@ -2891,13 +2891,13 @@ h3 { font-size: clamp(1.2rem, 1vw + 0.6rem, 1.45rem); font-weight: 500; }
 .au-section-head { margin-bottom: clamp(28px, 4vh, 40px); }
 .au-section-head .journal-section-title { margin: 0; }
 .au-focus-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: clamp(20px, 3vw, 32px); }
-.au-focus-item { border-top: 2px solid var(--on-dark); padding-top: 18px; }
+.au-focus-item { border-top: 2px solid var(--text-1); padding-top: 18px; }
 .au-focus-item h3 {
-  font-family: var(--serif); font-size: 1.15rem; font-weight: 500; color: #f0f0f0; margin: 0 0 8px;
+  font-family: var(--serif); font-size: 1.15rem; font-weight: 500; color: var(--text-1); margin: 0 0 8px;
   line-height: 1.3;
 }
 .au-focus-item p {
-  font-family: var(--sans); font-size: 0.875rem; line-height: 1.6; color: #b0b0b0; margin: 0;
+  font-family: var(--sans); font-size: 0.875rem; line-height: 1.6; color: var(--text-3); margin: 0;
 }
 @media (max-width: 1024px) { .au-focus-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 560px) { .au-focus-grid { grid-template-columns: 1fr; } }
