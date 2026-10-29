@@ -31,7 +31,7 @@ export const books: Book[] = [
     affiliateUrl: "https://www.amazon.fr/dp/0140449337?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
     category: "STOICISM",
     author: "Marcus Aurelius · c. 180 AD",
-    descriptionFr: "Le carnet privé d'un emperateur qui s'écrit à lui-même.",
+    descriptionFr: "Le carnet privé d'un empereur qui s'écrit à lui-même.",
     reasonFr: "La chose la plus proche d'un manuel pour la vie intérieure.",
     categoryFr: "STOÏCISME",
     keyIdea: "You have power over your mind, not outside events. Realise this, and you will find strength.",
