@@ -48,7 +48,9 @@ relatedArticles:
 
 <div data-i18n-html="article_regles-goggins-mental_p2">Five rules, one principle: the mind gets stronger the same way skin does — through repeated, deliberate friction.</div>
 
-<div data-i18n-html="article_regles-goggins-mental_p3">David Goggins was 300 pounds, working a low-paying job, and living a life that did not reflect his potential. Four years later, he was a Navy SEAL, an ultramarathon runner, and one of the toughest humans alive.</div>
+<div data-i18n-html="article_regles-goggins-mental_p3">David Goggins was about 300 pounds, working a low-paying job, and living a life that did not reflect his potential. Later, he was a Navy SEAL, an ultramarathon runner, and one of the toughest humans alive.</div>
+
+<div data-i18n-html="article_regles-goggins-mental_p3b"><em>Source: David Goggins, Can't Hurt Me (2018).</em></div>
 
 <div data-i18n-html="article_regles-goggins-mental_p4">His transformation was not powered by motivation. It was powered by five cold rules.</div>
 
