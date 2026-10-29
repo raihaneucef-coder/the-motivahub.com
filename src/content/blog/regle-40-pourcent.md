@@ -188,8 +188,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p57"><ol>
 <li>David Goggins — <em>Can't Hurt Me</em> (2018), for the 40% framework</li>
-<li>Dr. Tim Noakes — <em>Challenging Beliefs</em> (2004), Central Governor Theory research</li>
-<li><em>The Sports Scientist</em> — endurance and perceived exertion studies</li>
+<li>T. D. Noakes, A. St Clair Gibson &amp; E. V. Lambert — <em>From catastrophe to complexity: a novel model of integrative central neural regulation of effort and fatigue during exercise in humans</em>, <em>British Journal of Sports Medicine</em> (2004) — <a href="https://pubmed.ncbi.nlm.nih.gov/15273198/" target="_blank" rel="noopener noreferrer">PMID 15273198</a></li>
 <li>Atomic Habits by James Clear — for the system-level thinking behind habit test protocols</li>
 </ol></div>
 
