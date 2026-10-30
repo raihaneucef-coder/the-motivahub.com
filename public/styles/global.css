@@ -3304,3 +3304,18 @@ main h3[id] { scroll-margin-top: 96px; }
   gap: 14px;
   white-space: nowrap;
 }
+
+/* F-23: in-body tables were wider than the mobile column (measured 466px of
+   table inside a 390px viewport) and html/body carry overflow-x:clip, so the
+   last columns were simply cut off. Every body table sits directly inside its
+   own i18n wrapper div, so that wrapper becomes the horizontal scroll
+   container: the table keeps its natural width and every column stays
+   reachable, while the page itself still never scrolls sideways (overflow
+   stays local to the block). Desktop is untouched. */
+@media (max-width: 768px) {
+  .prose > div:has(> table) {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+  }
+}

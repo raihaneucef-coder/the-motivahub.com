@@ -49,10 +49,14 @@ relatedArticles:
 
 <div data-i18n-html="article_habit-stacking-made-simple_p2">The easiest way to build a new habit is to tie it to one you already do. Stack it, don't start it from scratch.</div>
 
+<div data-i18n-html="article_habit-stacking-made-simple_h2a"><h2>Why new habits need an old anchor</h2></div>
+
 <div data-i18n-html="article_habit-stacking-made-simple_p3">We try to build new habits in empty space. We say: I will meditate at 7 AM. But 7 AM does not yet mean anything to our brain.</div>
 
 
 <div data-i18n-html="article_habit-stacking-made-simple_p4">Old habits already have space. They have a time, a place, and a cue that your brain knows by heart.</div>
+
+<div data-i18n-html="article_habit-stacking-made-simple_h2b"><h2>The formula</h2></div>
 
 <div data-i18n-html="article_habit-stacking-made-simple_p5"><strong>The easiest way to build a new habit is to stack it on an old one.</strong></div>
 
@@ -60,11 +64,20 @@ relatedArticles:
 
 <div data-i18n-html="article_habit-stacking-made-simple_p7">The formula is simple: <em>After [OLD HABIT], I will [NEW HABIT].</em></div>
 
+<div data-i18n-html="article_habit-stacking-made-simple_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/habit-stack-chain.svg" alt="Diagram of a habit stack: an existing habit in the first position, followed by two newer habits, each new link taking two minutes or less to start" width="640" height="186" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">A stack grows from an existing habit: each new link takes two minutes or less to start.</figcaption>
+</figure></div>
+
 <div data-i18n-html="article_habit-stacking-made-simple_p8">It works because you do not need to remember a new time. You need to remember a sequence. The old habit becomes the reminder for the new one.</div>
+
+<div data-i18n-html="article_habit-stacking-made-simple_h2c"><h2>Why the link works</h2></div>
 
 <div data-i18n-html="article_habit-stacking-made-simple_p14">Why the link works: every habit you perform strengthens the neural sequence that precedes it. By anchoring a new behavior to something you already do without thinking, you borrow the automaticity that repetition has already built. The old habit becomes a launchpad instead of one more thing to remember.</div>
 
 <div data-i18n-html="article_habit-stacking-made-simple_p15">The design rule that keeps it honest: the anchor must happen every day without fail, and the new habit must take under two minutes to start. Brush your teeth, then floss one tooth. Pour your coffee, then open your notebook. The tiny first step is the entire design — momentum does the rest.</div>
+
+<div data-i18n-html="article_habit-stacking-made-simple_h2d"><h2>One stack this week</h2></div>
 
 <div data-i18n-html="article_habit-stacking-made-simple_p9">Try it with one stack this week:</div>
 

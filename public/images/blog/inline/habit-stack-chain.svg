@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 186" width="640" height="186">
+  <rect width="640" height="186" fill="#ffffff"/>
+  <rect x="40" y="44" width="150" height="58" rx="29" fill="#111111"/>
+  <text x="115" y="81" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#ffffff" text-anchor="middle">1</text>
+  <line x1="198" y1="73" x2="234" y2="73" stroke="#111111" stroke-width="2"/>
+  <path d="M234 73 l-9 -5 l0 10 z" fill="#111111"/>
+  <rect x="244" y="44" width="150" height="58" rx="29" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <text x="319" y="81" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#111111" text-anchor="middle">2</text>
+  <line x1="402" y1="73" x2="438" y2="73" stroke="#111111" stroke-width="2"/>
+  <path d="M438 73 l-9 -5 l0 10 z" fill="#111111"/>
+  <rect x="448" y="44" width="150" height="58" rx="29" fill="#ffffff" stroke="#111111" stroke-width="2" stroke-dasharray="7 6"/>
+  <text x="523" y="81" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#111111" text-anchor="middle">3</text>
+  <g font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#555555" text-anchor="middle">
+    <text x="319" y="132">&#8804; 2</text>
+    <text x="523" y="132">&#8804; 2</text>
+  </g>
+  <g stroke="#e4e4e4" stroke-width="1">
+    <line x1="284" y1="112" x2="354" y2="112"/>
+    <line x1="488" y1="112" x2="558" y2="112"/>
+  </g>
+  <line x1="40" y1="164" x2="598" y2="164" stroke="#e4e4e4" stroke-width="1"/>
+</svg>

@@ -50,13 +50,21 @@ relatedArticles:
 <div data-i18n-html="article_two-minute-breath-reset_p3">Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.</div>
 
 
+<div data-i18n-html="article_two-minute-breath-reset_h2a"><h2>The stress loop</h2></div>
+
 <div data-i18n-html="article_two-minute-breath-reset_p4">When stress rises, breathing shortens. When breathing shortens, the brain hears danger. It is a loop that feeds itself — unless you interrupt it at the body.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p5"><strong>The fastest interruption is a longer exhale.</strong></div>
 
+<div data-i18n-html="article_two-minute-breath-reset_h2b"><h2>Why the exhale is the lever</h2></div>
+
 <div data-i18n-html="article_two-minute-breath-reset_p6">Not a deep inhale. A slow, complete exhale. The exhale tells your nervous system: we are safe enough to let go.</div>
 
-<div data-i18n-html="article_two-minute-breath-reset_p14">There is a target frequency worth knowing. Research by psychologist Paul Lehrer and colleagues on 'resonance breathing' found that roughly six slow breaths per minute — about a four-second inhale and a six-second exhale — tends to maximize heart-rate variability and the calm signal sent to the brain. Your 4-in / 8-out reset lands near that rhythm, which is why a fixed count works better than breathing 'deeply' at random.</div>
+<div data-i18n-html="article_two-minute-breath-reset_h2c"><h2>The resonance rhythm</h2></div>
+
+<div data-i18n-html="article_two-minute-breath-reset_p14">There is a target frequency worth knowing. <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full" target="_blank" rel="noopener">Research by psychologist Paul Lehrer and colleagues on 'resonance breathing'</a> found that roughly six slow breaths per minute — about a four-second inhale and a six-second exhale — tends to maximize heart-rate variability and the calm signal sent to the brain. Your 4-in / 8-out reset lands near that rhythm, which is why a fixed count works better than breathing 'deeply' at random.</div>
+
+<div data-i18n-html="article_two-minute-breath-reset_h2d"><h2>Try it now</h2></div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p7">Try it now:</div>
 
@@ -70,7 +78,14 @@ relatedArticles:
 
 <div data-i18n-html="article_two-minute-breath-reset_p11">The 2-minute breath is also a doorway. To see how the doorway pattern works across meditation, reading, pushups, journaling, and more, read the <a href="/journal/two-minute-rule-guide/">full 2-Minute Rule guide and 7-day protocol</a>.</div>
 
+<div data-i18n-html="article_two-minute-breath-reset_h2e"><h2>The two minutes, exactly</h2></div>
+
 <div data-i18n-html="article_two-minute-breath-reset_p13">The two minutes, exactly: sit upright, one hand on the belly. Inhale through the nose to a count of four — the belly rises, not the chest; exhale slowly to a count of six through pursed lips. One cycle is about ten seconds; twelve cycles fill the two minutes. When your mind wanders, count the exhale, not the inhale — the long exhale is what sets the pace. Use it <em>before</em> the hard conversation, not during the spiral you are trying to talk yourself out of. It is a pace tool, not a treatment — if something hurts, stop and consult a professional.</div>
+
+<div data-i18n-html="article_two-minute-breath-reset_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/resonance-breathing-cycle.svg" alt="Diagram of one resonance breathing cycle: a curve rising through a four-second inhale to a peak, then falling through a six-second exhale back to the starting level" width="640" height="236" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">The resonance rhythm: a four-second inhale and a six-second exhale — about six breaths per minute.</figcaption>
+</figure></div>
 
 
 <div data-i18n-html="article_two-minute-breath-reset_p12">Two minutes of breath is not a luxury. It is maintenance for the instrument that has to carry you through the whole day.</div>
