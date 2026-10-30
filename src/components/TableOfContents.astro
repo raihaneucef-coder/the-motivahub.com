@@ -7,7 +7,7 @@ const { headings } = Astro.props;
 const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
 ---
 
-{tocItems.length >= 2 && (
+{tocItems.length >= 2 ? (
   <nav class="toc" aria-label="Table of contents">
     <p class="toc-title" data-i18n="tocTitle">On This Page</p>
     <ul class="toc-list">
@@ -17,6 +17,15 @@ const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
         </li>
       ))}
     </ul>
+  </nav>
+) : (
+  /* Article bodies are raw HTML (<h2>/<h3> inside data-i18n-html wrappers),
+     so Astro's markdown heading extraction returns an empty list and this
+     component rendered nothing on every journal page. In that case the list
+     is built from the rendered DOM below. */
+  <nav class="toc" aria-label="Table of contents" data-toc-dom hidden>
+    <p class="toc-title" data-i18n="tocTitle">On This Page</p>
+    <ul class="toc-list"></ul>
   </nav>
 )}
 
@@ -75,3 +84,80 @@ const tocItems = headings.filter((h) => h.depth === 2 || h.depth === 3);
     border-bottom-color: var(--gold, #111111);
   }
 </style>
+
+<script is:inline>
+  (function () {
+    var nav = document.querySelector('nav.toc[data-toc-dom]');
+    if (!nav) return;
+    var list = nav.querySelector('.toc-list');
+    var timer = null;
+
+    // Astro scopes the styles above with a data-astro-cid-* attribute, so
+    // elements created here have to carry the same attribute to be styled.
+    var cid = null;
+    for (var i = 0; i < nav.attributes.length; i++) {
+      if (nav.attributes[i].name.indexOf('data-astro-cid') === 0) { cid = nav.attributes[i].name; break; }
+    }
+
+    function build() {
+      var heads = Array.prototype.slice.call(document.querySelectorAll('.prose h2, .prose h3'));
+      if (heads.length < 2) {
+        if (nav.parentNode) nav.parentNode.removeChild(nav);
+        return;
+      }
+      var texts = heads.map(function (h) { return (h.textContent || '').replace(/\s+/g, ' ').trim(); });
+      var sig = heads.length + '|' + texts.join('|');
+      var missingIds = heads.some(function (h) { return !h.id; });
+      if (sig === nav.getAttribute('data-sig') && !missingIds) return;
+
+      var used = {};
+      heads.forEach(function (h, idx) {
+        var base = texts[idx].toLowerCase()
+          .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+          .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+          .slice(0, 60) || 'section-' + (idx + 1);
+        var id = base, n = 2;
+        while (used[id]) { id = base + '-' + n; n++; }
+        used[id] = true;
+        if (!h.id) h.id = id;
+      });
+
+      while (list.firstChild) list.removeChild(list.firstChild);
+      heads.forEach(function (h, idx) {
+        var li = document.createElement('li');
+        li.className = 'toc-item toc-depth-' + (h.tagName === 'H2' ? '2' : '3');
+        var a = document.createElement('a');
+        a.href = '#' + h.id;
+        a.textContent = texts[idx];
+        if (cid) { li.setAttribute(cid, ''); a.setAttribute(cid, ''); }
+        li.appendChild(a);
+        list.appendChild(li);
+      });
+      nav.setAttribute('data-sig', sig);
+      nav.hidden = false;
+    }
+
+    function schedule() {
+      clearTimeout(timer);
+      timer = setTimeout(build, 120);
+    }
+
+    // The i18n swap re-renders every data-i18n-html block after
+    // DOMContentLoaded, which recreates the headings and drops the ids, so the
+    // list is rebuilt whenever the article body changes and on window load.
+    var host = document.querySelector('.article-body') || document.body;
+    new MutationObserver(function (muts) {
+      for (var i = 0; i < muts.length; i++) {
+        if (nav.contains(muts[i].target)) return;
+      }
+      schedule();
+    }).observe(host, { childList: true, subtree: true });
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', schedule);
+    } else {
+      schedule();
+    }
+    window.addEventListener('load', schedule);
+  })();
+</script>

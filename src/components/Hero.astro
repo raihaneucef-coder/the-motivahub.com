@@ -34,6 +34,14 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
   <img class="hero-full" src="/images/hero-static-pc.webp" alt="" width="1920" height="1080" decoding="async" fetchpriority="low" loading="lazy" aria-hidden="true">
   <div class="hero-portrait-overlay"></div>
 
+  <!-- The portrait hero is image-only: .hero-content (eyebrow, title, CTA row)
+       is display:none, so the <h1> inside it was never exposed to crawlers or
+       assistive tech. This sr-only copy keeps exactly one real H1 on the page
+       without changing the visual composition. -->
+  <h1 class="sr-only" data-i18n-html="heroTitle">
+    <Fragment set:html={title} />
+  </h1>
+
   <div class="container">
     <div class="hero-content">
       <!-- Phase 1 G4: eyebrow moved above the title (conventional editorial
@@ -43,9 +51,9 @@ const secondaryCtaHref = getLocalePath(secondaryCta.href, locale);
         <span data-i18n="heroKicker">{kicker}</span>
       </span>
 
-      <h1 class="hero-title" data-i18n-html="heroTitle">
+      <p class="hero-title" data-i18n-html="heroTitle">
         <Fragment set:html={title} />
-      </h1>
+      </p>
 
       <p class="hero-subtitle" data-i18n="heroSubtitle">{subtitle}</p>
 
