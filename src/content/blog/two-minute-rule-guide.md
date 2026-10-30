@@ -72,7 +72,7 @@ relatedArticles:
 
 <div data-i18n-html="article_two-minute-rule-guide_p7"><h2>Where the idea actually came from</h2></div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p8">The science predates Clear by decades. Peter Gollwitzer's implementation intentions — pre-deciding <em>when</em> and <em>where</em> you act — produced a medium-to-large boost in follow-through across a meta-analysis of 94 studies (Gollwitzer & Sheeran, 2006). BJ Fogg's tiny habits (2007) showed that starting with something laughably small — flossing one tooth, doing two pushups — creates a foothold where willpower used to fail. Lally et al. (2010) followed 96 people for up to 84 days and found that a new behavior took a median of 66 days to feel automatic, with individual results from 18 to 254 days. None of those studies measured a "two-minute wall"; what they share is that the friction sits at the start. Once you begin, momentum usually takes over.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p8">The science predates Clear by decades. Peter Gollwitzer's implementation intentions — pre-deciding <em>when</em> and <em>where</em> you act — produced a medium-to-large boost in follow-through across a meta-analysis of 94 studies (<a href="https://doi.org/10.1016/S0065-2601(06)38002-1" target="_blank" rel="noopener">Gollwitzer &amp; Sheeran, 2006</a>). BJ Fogg's tiny habits (2007) showed that starting with something laughably small — flossing one tooth, doing two pushups — creates a foothold where willpower used to fail. Lally et al. (2010) followed 96 people for up to 84 days and found that a new behavior took a median of 66 days to feel automatic, with individual results from 18 to 254 days. None of those studies measured a "two-minute wall"; what they share is that the friction sits at the start. Once you begin, momentum usually takes over.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p9">Clear's contribution was naming it simply. The 2-minute rule is what happens when implementation intention meets tiny habits meets the Lally curve. It is the synthesis, packaged in a sentence.</div>
 
@@ -119,7 +119,7 @@ Look at the week. Seven days, seven doorways. The hallway is optional. The doorw
 
 <div data-i18n-html="article_two-minute-rule-guide_p27"><h2>The science of the doorway</h2></div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p28">Lally's 2010 study found that automaticity — the feeling that a habit runs itself — takes between 18 and 254 days to develop, with a median of 66. The first two weeks show the steepest curve, then the gains slow. This is why the 2-minute rule targets the steepest part of the curve: the beginning.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p28"><a href="https://doi.org/10.1002/ejsp.674" target="_blank" rel="noopener">Lally's 2010 study</a> found that automaticity — the feeling that a habit runs itself — takes between 18 and 254 days to develop, with a median of 66. The first two weeks show the steepest curve, then the gains slow. This is why the 2-minute rule targets the steepest part of the curve: the beginning.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p29">The 2-minute rule is essentially a <em>behavioral priming</em>. By committing to a tiny start, you are doing two things: lowering the activation energy (so the start happens) and signaling to your brain that this is a real pattern (so automaticity can build). The two minutes is not the workout. The two minutes is the rehearsal that trains your brain to expect the workout.</div>
 

@@ -64,7 +64,7 @@ The challenge is so far beyond your current capacity that cortisol overwhelms pr
 <div data-i18n-html="article_zone-confort-croissance_p8"><h2>Why Discomfort Is Your Friend</h2></div>
 
 <div data-i18n-html="article_zone-confort-croissance_p9"><h3>1. It Builds Resilience Through Habituation</h3>
-Each controlled exposure weakens the amygdala's alarm response — the same mechanism behind exposure therapy. You are not "toughening up"; your brain is learning the prediction was wrong: the discomfort arrived, you survived, and nothing catastrophic followed. After ten small stretches, the eleventh triggers less threat signalling than the first.</div>
+Each <a href="/journal/inconfort-volontaire/">controlled exposure</a> weakens the amygdala's alarm response — the same mechanism behind exposure therapy (<a href="https://pubmed.ncbi.nlm.nih.gov/22129456/" target="_blank" rel="noopener">Milad &amp; Quirk, 2012</a>). You are not "toughening up"; your brain is learning the prediction was wrong: the discomfort arrived, you survived, and nothing catastrophic followed. After ten small stretches, the eleventh triggers less threat signalling than the first.</div>
 
 <div data-i18n-html="article_zone-confort-croissance_p10"><h3>2. It Expands Your Abilities Specifically</h3>
 Progressive overload does not make you generically stronger; it adapts the exact muscles and movement patterns you challenge. Psychologically the same applies: the discomfort of a difficult conversation builds conversational skill, not writing skill. Choose your discomforts with the same specificity a coach would program a training block.</div>

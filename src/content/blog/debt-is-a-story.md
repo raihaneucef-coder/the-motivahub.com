@@ -50,21 +50,31 @@ relatedArticles:
 
 <div data-i18n-html="article_debt-is-a-story_p2">Debt feels like a character flaw — it is not. It is a story with numbers. Rewrite the numbers and the story changes.</div>
 
+<div data-i18n-html="article_debt-is-a-story_h2a"><h2>Debt is not a verdict</h2></div>
+
 <div data-i18n-html="article_debt-is-a-story_p3">Debt whispers that you are <a href="/journal/paycheck-trap/">bad with money</a>. That is not helpful, and it is not true.</div>
 
 
 <div data-i18n-html="article_debt-is-a-story_p4">Debt is not a verdict on who you are; it is the result of a story you lived: <a href="/journal/fond-urgence/">an emergency</a>, a celebration, a few months where life cost more than it gave. The story can be rewritten, but not with shame — with a plan.</div>
+
+<div data-i18n-html="article_debt-is-a-story_h2b"><h2>Make it visible, then small</h2></div>
 
 <div data-i18n-html="article_debt-is-a-story_p5"><strong>Make the debt visible, then make it small.</strong> List every balance, rate, and minimum. No judgment, just data. Then choose one method and stay with it:</div>
 
 <div data-i18n-html="article_debt-is-a-story_p6">- <strong>Snowball:</strong> Pay the smallest balance first for quick wins and momentum.
 - <strong>Avalanche:</strong> Pay the highest rate first to save the most. Both work — the best one is the one you will keep.</div>
 
+<div data-i18n-html="article_debt-is-a-story_h2c"><h2>Automate the minimums</h2></div>
+
 <div data-i18n-html="article_debt-is-a-story_p7">Automate the minimums so you never miss, then put any extra — even 100 MAD — on the one you are attacking. Cancel one subscription and redirect it. Sell one thing you no longer use. Momentum matters more than amount.</div>
 
 <div data-i18n-html="article_debt-is-a-story_p8">Track the total owed weekly, not daily. Watch it fall. Each payment is a sentence in the new story: I am someone who keeps promises, even to my past self.</div>
 
-<div data-i18n-html="article_debt-is-a-story_p11">If you are torn between the two methods, the evidence leans your way. In a study published in the Journal of Marketing Research, researchers David Gal and Blakeley McShane followed some 6,000 real debt-settlement clients and found that people who cleared their smallest balances first were measurably likelier to finish debt-free — not because it saved them interest, but because each closed account was a visible win that kept them in the game. The lesson is humane: the best debt plan is the one you do not quit, and momentum is a financial input.</div>
+<div data-i18n-html="article_debt-is-a-story_h2d"><h2>Which method wins?</h2></div>
+
+<div data-i18n-html="article_debt-is-a-story_p11">If you are torn between the two methods, the evidence leans your way. In a study published in the Journal of Marketing Research, researchers <a href="https://doi.org/10.1509/jmr.11.0272" target="_blank" rel="noopener">David Gal and Blakeley McShane</a> followed some 6,000 real debt-settlement clients and found that people who cleared their smallest balances first were measurably likelier to finish debt-free — not because it saved them interest, but because each closed account was a visible win that kept them in the game. The lesson is humane: the best debt plan is the one you do not quit, and momentum is a financial input.</div>
+
+<div data-i18n-html="article_debt-is-a-story_h2e"><h2>Rewrite it on paper</h2></div>
 
 <div data-i18n-html="article_debt-is-a-story_p10">Try the rewrite on paper with illustrative numbers: "I owe 3,000" is a sentence that ends in dread. The same facts, rewritten: "3,000 at 400 a month is fully mine by month eight — here is what I cut to protect the 400." Same debt, different job: the second version carries a date and a decision. Keep the date visible and tick it monthly; a story only works when you revise the ending on schedule.</div>
 

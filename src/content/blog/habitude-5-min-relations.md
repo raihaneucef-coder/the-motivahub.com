@@ -48,13 +48,13 @@ relatedArticles:
 
 <div data-i18n-html="article_habitude-5-min-relations_p2">Most relationships do not die from big betrayals. They die from small neglects. This 5-minute habit prevents that.</div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p3">Relationships do not need grand gestures. They need small, consistent acts of attention. The 5-minute daily habit is simple: spend 5 minutes giving your full, undivided attention to the person you love.</div>
+<div data-i18n-html="article_habitude-5-min-relations_p3">Relationships do not need grand gestures. They need <a href="/journal/love-is-a-practice/">small, consistent acts of attention</a>. The 5-minute daily habit is simple: spend 5 minutes giving your full, undivided attention to the person you love.</div>
 
 
 <div data-i18n-html="article_habitude-5-min-relations_p4"><h2>How It Works</h2></div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p5"><h3>1. Put Your Phone Away</h3>
-Not face-down, not on silent — in another room. Research by Przybylski & Weinstein (2013) showed that the mere presence of a phone on the table reduces perceived closeness and conversation quality, even when it is off. Physical removal is not dramatic; it is the minimum condition for undivided attention.</div>
+Not face-down, not on silent — in another room. Research by <a href="https://journals.sagepub.com/doi/abs/10.1177/0265407512453827" target="_blank" rel="noopener">Przybylski &amp; Weinstein (2013)</a> showed that the mere presence of a phone on the table reduces perceived closeness and conversation quality, and the effect holds even when the phone is not being used (<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/691462" target="_blank" rel="noopener">Ward et al., 2017</a>). Physical removal is not dramatic; it is the minimum condition for undivided attention.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p6"><h3>2. Make Eye Contact</h3>
 Look at the person — not the TV, not the wall, not the middle distance. Eye contact triggers oxytocin release and signals "you are my sole focus right now." It is the simplest non-verbal proof that the next five minutes belong to them, not to the rest of the world.</div>
@@ -70,7 +70,7 @@ End with one concrete "thank you": "Thank you for making dinner tonight — it m
 
 <div data-i18n-html="article_habitude-5-min-relations_p10"><h2>Why It Works</h2></div>
 
-<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it targets one of the strongest predictors Gottman's research identifies: the 5:1 ratio of positive to negative interactions (Gottman Institute). One birthday dinner does less for connection than 365 small "I made you coffee" moments, because the brain tracks frequency of being seen, not intensity of occasional celebration.</div>
+<div data-i18n-html="article_habitude-5-min-relations_p11">The 5-minute habit works because it targets one of the strongest predictors Gottman's research identifies: the 5:1 ratio of positive to negative interactions (<a href="https://www.gottman.com/blog/the-magic-relationship-ratio-according-science/" target="_blank" rel="noopener">Gottman Institute</a>). One birthday dinner does less for connection than 365 small "I made you coffee" moments, because the brain tracks frequency of being seen, not intensity of occasional celebration.</div>
 
 <div data-i18n-html="article_habitude-5-min-relations_p12">That is all most people need.</div>
 

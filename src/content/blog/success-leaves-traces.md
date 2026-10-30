@@ -48,6 +48,8 @@ relatedArticles:
 
 <div data-i18n-html="article_success-leaves-traces_p2">Success is not a mystery — it leaves traces. Follow the traces, not the trophy.</div>
 
+<div data-i18n-html="article_success-leaves-traces_h2a"><h2>The trophy is the photo</h2></div>
+
 <div data-i18n-html="article_success-leaves-traces_p3">We study the trophy and ignore the traces.</div>
 
 
@@ -55,7 +57,11 @@ relatedArticles:
 
 <div data-i18n-html="article_success-leaves-traces_p5"><strong>Success leaves traces. Follow the traces, not the trophy.</strong></div>
 
+<div data-i18n-html="article_success-leaves-traces_h2b"><h2>Study the calendar, not the announcement</h2></div>
+
 <div data-i18n-html="article_success-leaves-traces_p6">If you want what someone has, study what they did <a href="/journal/psychology-of-money-business/">when no one was watching</a>. Not their announcement, but their calendar. Not their speech, but their schedule. The traces are always less glamorous than the trophy, which is why most people never follow them.</div>
+
+<div data-i18n-html="article_success-leaves-traces_h2c"><h2>Copy one trace</h2></div>
 
 <div data-i18n-html="article_success-leaves-traces_p7">Pick one person whose work you respect. Do not copy their success. Copy one trace:</div>
 
@@ -63,11 +69,15 @@ relatedArticles:
 - How they handle the middle, when excitement is gone.
 - How they end the day. What do they review?</div>
 
+<div data-i18n-html="article_success-leaves-traces_h2d"><h2>Why traces beat trophies</h2></div>
+
 <div data-i18n-html="article_success-leaves-traces_p12">Why traces beat trophies as a study object: a trophy is a single outcome filtered by luck and timing, so copying it teaches you nothing transferable. A trace is a process you can run in your own conditions tomorrow. This is the difference between outcome bias — admiring results — and process thinking — auditing the repeatable decisions that made them likely.</div>
 
 <div data-i18n-html="article_success-leaves-traces_p13">One caution so the method stays honest: traces are correlations, not guarantees. The same early-morning routine that preceded someone's success also preceded many failures you never hear about. Copy the trace because it is within your control and improves your odds, not because you expect it to reproduce their exact trophy.</div>
 
 <div data-i18n-html="article_success-leaves-traces_p9">Do that one trace for thirty days. Not perfectly, just consistently.</div>
+
+<div data-i18n-html="article_success-leaves-traces_h2e"><h2>The trace audit</h2></div>
 
 <div data-i18n-html="article_success-leaves-traces_p11">The traces audit, ten minutes a week: list the three things that actually <em>produced</em> something last week — not felt productive, produced — beside the three that failed. Under each winner, one line: skill, system, or luck? After a month, the pattern is on paper: you can see which "successes" were repeatable processes and which were accidents you should stop praying for.</div>
 

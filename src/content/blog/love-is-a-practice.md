@@ -47,12 +47,18 @@ relatedArticles:
 
 <div data-i18n-html="article_love-is-a-practice_p2">We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows.</div>
 
+<div data-i18n-html="article_love-is-a-practice_h2a"><h2>The feeling follows the action</h2></div>
+
 <div data-i18n-html="article_love-is-a-practice_p3">We think love is a feeling that makes us act. Most days it is the opposite: acting with love is what creates the feeling.</div>
 
 
 <div data-i18n-html="article_love-is-a-practice_p4">Waiting to feel patient before we listen, to feel grateful before we thank, to feel close before we reach out — this keeps love hostage to mood. Mood is weather. Practice is climate.</div>
 
+<div data-i18n-html="article_love-is-a-practice_h2b"><h2>Practice is boring. That is the point.</h2></div>
+
 <div data-i18n-html="article_love-is-a-practice_p5"><strong>Love as a practice is boring and reliable.</strong> It is the text sent when you are busy, the apology made before you feel fully ready, <a href="/journal/habitude-5-min-relations/">the five minutes of real listening</a> without trying to fix anything. None of these feel heroic in the moment. All of them are remembered later as proof.</div>
+
+<div data-i18n-html="article_love-is-a-practice_h2c"><h2>Three things small enough for a bad day</h2></div>
 
 <div data-i18n-html="article_love-is-a-practice_p6">The practice is small enough to survive a bad day:</div>
 
@@ -60,10 +66,14 @@ relatedArticles:
 - <strong>Give <a href="/journal/people-who-raise-your-floor/">one unsolicited appreciation</a>.</strong> Name something specific the other person did that made your day easier.
 - <strong>Repair quickly.</strong> When you are sharp or distant, name it within the hour. "I was short earlier — you deserved better."</div>
 
+<div data-i18n-html="article_love-is-a-practice_h2d"><h2>Seven days of evidence</h2></div>
+
 <div data-i18n-html="article_love-is-a-practice_p8">Notice what happens after a week. You do not feel magically closer every hour. But you have seven pieces of evidence that you are a person who loves well even when you do not feel like it. That identity — built from kept promises — is what holds a relationship when feelings wobble, as they always do.</div>
+
+<div data-i18n-html="article_love-is-a-practice_h2e"><h2>You cannot schedule a spark</h2></div>
 
 <div data-i18n-html="article_love-is-a-practice_p10">The distinction matters because feelings are involuntary but practices are chosen. You cannot schedule a spark. You can schedule a Tuesday-evening conversation with no phones, a coffee brought to the bedside, real curiosity about the meeting that drained your partner's day. Love is a noun made entirely of verbs.</div>
 
-<div data-i18n-html="article_love-is-a-practice_p11">Research on perceived partner responsiveness — the sense that the other person notices, understands, and cares for you — predicts relationship quality more strongly than shared hobbies, message frequency, or grand gestures. Responsiveness is a micro-behavior: asking one follow-up question and actually waiting for the answer.</div>
+<div data-i18n-html="article_love-is-a-practice_p11">Research on <a href="https://pubmed.ncbi.nlm.nih.gov/20565187/" target="_blank" rel="noopener">perceived partner responsiveness</a> — the sense that the other person notices, understands, and cares for you — finds it is a core feature of close, satisfying relationships. Responsiveness is a micro-behavior: asking one follow-up question and actually waiting for the answer.</div>
 
 <div data-i18n-html="article_love-is-a-practice_p9">Love does not ask you to feel more. It asks you to practice more. The feeling, faithful as ever, follows the practice home.</div>

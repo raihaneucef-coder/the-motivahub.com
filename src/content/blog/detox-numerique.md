@@ -53,7 +53,7 @@ relatedArticles:
 <div data-i18n-html="article_detox-numerique_p4"><h2>The Effects of Excessive Screen Time</h2></div>
 
 <div data-i18n-html="article_detox-numerique_p5"><h3>1. Sleep Disruption</h3>
-The specialist cells in your retina (ipRGCs) read blue light as "daytime" and tell the pineal gland to hold melatonin back. One study found two hours of screen light before bed suppressed melatonin and pushed sleep onset later by around 90 minutes. The fix is not a night-mode filter — the light is dimmer but still short-wavelength. It is a real buffer: screens off 60 minutes before bed, warm lighting after dark.</div>
+The specialist cells in your retina (ipRGCs) read blue light as "daytime" and tell the pineal gland to hold melatonin back. One study found two hours of screen light before bed suppressed melatonin and pushed sleep onset later by around 90 minutes (<a href="https://pubmed.ncbi.nlm.nih.gov/25535358/" target="_blank" rel="noopener">Chang et al., PNAS 2015</a>). The fix is not a night-mode filter — the light is dimmer but still short-wavelength. It is a real buffer: screens off 60 minutes before bed, warm lighting after dark.</div>
 
 <div data-i18n-html="article_detox-numerique_p6"><h3>2. Reduced Focus</h3>
 Every check leaves what psychologist Sophie Leroy called <em>attention residue</em>: a slice of your cognition stays stuck on the interrupted task while you start the next. Six quick phone checks across an hour don't cost six seconds — they cost the deep-processing capacity you'd need to hold a complex thought. That is why <a href="/journal/deep-work-focus/">deep work</a> feels impossible the moment your phone is face-up on the desk.</div>

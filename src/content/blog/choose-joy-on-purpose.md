@@ -47,6 +47,8 @@ relatedArticles:
 
 <div data-i18n-html="article_choose-joy-on-purpose_p2">Joy does not find you — you choose it. Learn to schedule delight the way you schedule work.</div>
 
+<div data-i18n-html="article_choose-joy-on-purpose_h2a"><h2>Nobody schedules joy</h2></div>
+
 <div data-i18n-html="article_choose-joy-on-purpose_p3">We wait for joy to find us. It rarely does, because we never make room for it.</div>
 
 
@@ -54,7 +56,11 @@ relatedArticles:
 
 <div data-i18n-html="article_choose-joy-on-purpose_p5"><strong>Joy is not a reward for finishing everything. It is part of finishing well.</strong></div>
 
+<div data-i18n-html="article_choose-joy-on-purpose_h2b"><h2>The most alive people choose it</h2></div>
+
 <div data-i18n-html="article_choose-joy-on-purpose_p6">The people who seem most alive are not the ones with the easiest lives. They are the ones who put delight on the calendar <a href="/journal/play-on-purpose/">on purpose</a>.</div>
+
+<div data-i18n-html="article_choose-joy-on-purpose_h2c"><h2>Try it this week</h2></div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p7">Try it this week:</div>
 
@@ -62,9 +68,13 @@ relatedArticles:
 - <strong>One small delight daily.</strong> Coffee you actually taste, ten minutes of a novel, a call that makes you laugh.
 - <strong>Notice what delights you, then repeat it.</strong> Joy leaves traces. Follow them.</div>
 
+<div data-i18n-html="article_choose-joy-on-purpose_h2d"><h2>Why a chosen hour restores you</h2></div>
+
 <div data-i18n-html="article_choose-joy-on-purpose_p12">Putting delight on the calendar is not indulgence; it is maintenance. Psychologists who study leisure find that unstructured rest does not reliably restore people — the recovery comes from activities with mild challenge and your full attention, the opposite of doomscrolling. A chosen hour of joy works precisely because you chose it, protected it, and were present for it.</div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p9">That is the narrow claim of this page: small choices, made before the week fills up without them. The wider argument — why play deserves a place in a serious life at all — belongs to another article: <a href="/journal/play-is-practice-for-life/">play as practice</a>.</div>
+
+<div data-i18n-html="article_choose-joy-on-purpose_h2e"><h2>Build a joy inventory</h2></div>
 
 <div data-i18n-html="article_choose-joy-on-purpose_p11">Build the inventory before you need it: ten five-minute joys you have personally verified — the song, the corner bakery, the first cold drink after a walk, the old sitcom rewatched, the sunset from a specific street. Put them where a bad day will find them: notes app, one line each. The rule: choose one deliberately before noon, without earning it, without optimizing it. Joy practiced on schedule is the one that shows up unscheduled when you need it.</div>
 

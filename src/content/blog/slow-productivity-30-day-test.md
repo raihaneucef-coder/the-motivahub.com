@@ -108,6 +108,11 @@ relatedArticles:
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p24">After two weeks of failing, I designed a more structured test. Here's what worked:</div>
 
+<div data-i18n-html="article_slow-productivity-30-day-test_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/slow-productivity-protocol.svg" alt="Timeline of the four-week protocol: week one audit the projects, week two redesign the calendar, week three remove the busy signals, week four obsess over quality" width="640" height="214" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">The four weeks: audit, calendar, fewer inputs, quality review — in that order.</figcaption>
+</figure></div>
+
 <div data-i18n-html="article_slow-productivity-30-day-test_p25"><h3>Week 1: Audit your projects.</h3></div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p26">List every project you're currently "managing." For each, answer honestly:</div>

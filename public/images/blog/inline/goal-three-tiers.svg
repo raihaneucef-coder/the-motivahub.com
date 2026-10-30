@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 262" width="640" height="262">
+  <rect width="640" height="262" fill="#ffffff"/>
+  <rect x="104" y="26" width="432" height="54" rx="8" fill="#111111"/>
+  <rect x="104" y="110" width="432" height="54" rx="8" fill="#ffffff" stroke="#111111" stroke-width="2"/>
+  <rect x="104" y="194" width="432" height="54" rx="8" fill="#ffffff" stroke="#111111" stroke-width="2" stroke-dasharray="7 6"/>
+  <g fill="#111111">
+    <circle cx="76" cy="53" r="13"/>
+    <circle cx="76" cy="137" r="13"/>
+    <circle cx="76" cy="221" r="13"/>
+  </g>
+  <g font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <text x="76" y="58">1</text>
+    <text x="76" y="142">2</text>
+    <text x="76" y="226">3</text>
+  </g>
+  <g stroke="#111111" stroke-width="2" fill="none">
+    <line x1="320" y1="84" x2="320" y2="96"/>
+    <line x1="320" y1="168" x2="320" y2="180"/>
+  </g>
+  <g fill="#111111">
+    <path d="M320 104 l-6 -9 l12 0 z"/>
+    <path d="M320 188 l-6 -9 l12 0 z"/>
+  </g>
+  <path d="M124 68 L144 36 L156 54 L166 44 L180 68 Z" fill="#ffffff"/>
+  <circle cx="152" cy="137" r="15" fill="none" stroke="#111111" stroke-width="2"/>
+  <circle cx="152" cy="137" r="6" fill="#111111"/>
+  <g stroke="#111111" stroke-width="2.5" stroke-linecap="round">
+    <line x1="140" y1="232" x2="140" y2="210"/>
+    <line x1="152" y1="232" x2="152" y2="216"/>
+    <line x1="164" y1="232" x2="164" y2="204"/>
+  </g>
+  <line x1="20" y1="256" x2="620" y2="256" stroke="#e4e4e4" stroke-width="1"/>
+</svg>

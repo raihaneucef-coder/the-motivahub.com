@@ -50,7 +50,7 @@ relatedArticles:
 <div data-i18n-html="article_growth-mindset-rewire_p3">Your brain is not hardwired. It is softwired — and you hold the tools to rewire it.</div>
 
 
-<div data-i18n-html="article_growth-mindset-rewire_p4">The difference between people who plateau and people who climb is not talent. It is the belief that they can improve. Psychologist Carol Dweck calls this the <strong>growth mindset</strong> — and it changes everything.</div>
+<div data-i18n-html="article_growth-mindset-rewire_p4">The difference between people who plateau and people who climb is not talent. It is the belief that they can improve. Psychologist <a href="https://pubmed.ncbi.nlm.nih.gov/17328703/" target="_blank" rel="noopener">Carol Dweck</a> calls this the <strong>growth mindset</strong> — and it changes everything.</div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p5"><h2>What Is a Growth Mindset?</h2></div>
 

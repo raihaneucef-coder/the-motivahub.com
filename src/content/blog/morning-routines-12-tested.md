@@ -124,7 +124,7 @@ relatedArticles:
 
 <div data-i18n-html="article_morning-routines-12-tested_p33"><strong>Subjective friction: 2/5.</strong></div>
 
-<div data-i18n-html="article_morning-routines-12-tested_p34">The science is solid: morning light exposure shifts the circadian clock, advances melatonin onset, and improves sleep onset latency the same night (Figueiro et al., 2017). The protocol is also free, takes 10 minutes, and requires no equipment.</div>
+<div data-i18n-html="article_morning-routines-12-tested_p34">The science is solid: morning light exposure shifts the circadian clock, advances melatonin onset, and improves sleep onset latency the same night (<a href="https://pubmed.ncbi.nlm.nih.gov/35298459/" target="_blank" rel="noopener">Brown et al., 2022</a>). The protocol is also free, takes 10 minutes, and requires no equipment.</div>
 
 <div data-i18n-html="article_morning-routines-12-tested_p35">The only friction: 10 minutes of standing outside at 6 AM in January in Paris is cold. I solved this with a balcony and a coat. The 10 minutes now feel like the cheapest upgrade to my morning I have ever made.</div>
 

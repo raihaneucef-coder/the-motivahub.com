@@ -57,6 +57,8 @@ relatedArticles:
 <div data-i18n-html="article_the-shop-that-stayed-open_p10"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
 
 
+<div data-i18n-html="article_the-shop-that-stayed-open_h2a"><h2>The street went quiet first</h2></div>
+
 <div data-i18n-html="article_the-shop-that-stayed-open_p3">The street went quiet. One by one, the shops closed — rent too high, customers too few.</div>
 
 
@@ -66,11 +68,17 @@ relatedArticles:
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p6"><strong>Staying open was not a business plan. It was <a href="/journal/histoire-concierge-millionnaire/">a promise to the street</a>.</strong></div>
 
+<div data-i18n-html="article_the-shop-that-stayed-open_h2b"><h2>People came for the light</h2></div>
+
 <div data-i18n-html="article_the-shop-that-stayed-open_p7">People started to come — not for books, but for the light. Then for the tea. Then for the books they found while drinking the tea.</div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p8">When the street woke again, his shop was the reason. Not because he had the best business, but because he was the only one who stayed when staying made no sense.</div>
 
+<div data-i18n-html="article_the-shop-that-stayed-open_h2c"><h2>Staying is not stubbornness</h2></div>
+
 <div data-i18n-html="article_the-shop-that-stayed-open_p11">The other shops on that street did not close for lack of effort; they closed while the street was quiet. Staying is not stubbornness — it is simply being there after the noise has thinned, when the street quietly reorganizes around whoever is still open.</div>
+
+<div data-i18n-html="article_the-shop-that-stayed-open_h2d"><h2>Trust is the only asset that compounds</h2></div>
 
 <div data-i18n-html="article_the-shop-that-stayed-open_p12">The quiet mechanism is trust. A door that opens at the same hour for thirty years becomes a landmark people plan their lives around. Reliability, repeated long enough, stops being a behavior and becomes a reputation — and a reputation is the one asset that compounds while you sleep.</div>
 

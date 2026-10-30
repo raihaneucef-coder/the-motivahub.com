@@ -116,7 +116,7 @@ relatedArticles:
 
 <div data-i18n-html="article_batching-productivite_p31"><h3>1. It Eliminates Context Switching</h3></div>
 
-<div data-i18n-html="article_batching-productivite_p32">Every time you switch tasks, your brain pays a cognitive tax. Research on task-switching at the University of Michigan (Rubinstein, Meyer & Evans, 2001) showed measurable time and error costs when people alternate between different mental modes. The switching cost compounds with every task change.</div>
+<div data-i18n-html="article_batching-productivite_p32">Every time you switch tasks, your brain pays a cognitive tax. Research on task-switching at the University of Michigan (<a href="https://pubmed.ncbi.nlm.nih.gov/11518143/" target="_blank" rel="noopener">Rubinstein, Meyer &amp; Evans, 2001</a>) showed measurable time and error costs when people alternate between different mental modes. The switching cost compounds with every task change.</div>
 
 <div data-i18n-html="article_batching-productivite_p33">Batching eliminates this tax by keeping you in the same mental mode for an extended period. You pay the switching cost once, not every few minutes.</div>
 
@@ -210,7 +210,7 @@ At first, admin spread throughout the week. Invoices on Monday, reports on Wedne
 <div data-i18n-html="article_batching-productivite_p68"><h2>Sources</h2></div>
 
 <div data-i18n-html="article_batching-productivite_p69">1. <em>Newport, C.</em> (2016). <em>Deep Work: Rules for Focused Success in a Distracted World.</em> — for the deep work framework
-2. <em>Mark, G., et al.</em> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
+2. <a href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener"><em>Mark, G., et al.</em></a> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
 3. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the habit stacking and environment design principles</div>
 
 <hr />

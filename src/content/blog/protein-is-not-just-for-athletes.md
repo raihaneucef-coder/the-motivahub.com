@@ -49,6 +49,8 @@ relatedArticles:
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p2">Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive.</div>
 
+<div data-i18n-html="article_protein-is-not-just-for-athletes_h2a"><h2>Protein is not a bodybuilder thing</h2></div>
+
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p3">We think protein is for bodybuilders. It is for anyone who wants to feel full and keep muscle.</div>
 
 
@@ -56,13 +58,19 @@ relatedArticles:
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p5"><strong>Most people eat enough to survive, not enough to thrive.</strong></div>
 
+<div data-i18n-html="article_protein-is-not-just-for-athletes_h2b"><h2>Make it part of every meal</h2></div>
+
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p6">You do not need to count grams obsessively. You need to make protein <a href="/journal/meal-prep-dimanche/">a part of every meal</a>:</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p7">- Breakfast: eggs, yogurt, or beans.
 - Lunch: fish, chicken, lentils, or tofu.
 - Dinner: what you like, with a palm-sized portion of protein.</div>
 
+<div data-i18n-html="article_protein-is-not-just-for-athletes_h2c"><h2>How much is enough?</h2></div>
+
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p11">How much is "enough"? The international recommended allowance is 0.8 grams of protein per kilogram of body weight per day — roughly 56 g if you weigh 70 kg (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5872778/" target="_blank" rel="noopener">Lonnie et al., 2018</a>). Treat that as the floor, not the ceiling; if you train hard, you want the upper side of the range — spread across meals, not stacked at dinner.</div>
+
+<div data-i18n-html="article_protein-is-not-just-for-athletes_h2d"><h2>Why it makes discipline cheaper</h2></div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p12">And why does protein make discipline cheaper? It is the most satiating macronutrient — the research on protein and weight maintenance keeps landing there (<a href="https://pubmed.ncbi.nlm.nih.gov/25926512/" target="_blank" rel="noopener">Leidy et al., 2015, American Journal of Clinical Nutrition</a>). The palm of chicken at lunch quietly protects the evening you would otherwise negotiate with the fridge.</div>
 
@@ -72,5 +80,7 @@ relatedArticles:
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p9">Protein is not a supplement. It is a foundation.</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p10">Build on it, and everything else gets easier.</div>
+
+<div data-i18n-html="article_protein-is-not-just-for-athletes_h2e"><h2>After 40, it stops being optional</h2></div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p13">After 40, sarcopenia — the natural loss of muscle mass — accelerates at 0.5-1% per year. Protein becomes a non-negotiable input to slow that decline, not a supplement for the vain. Research published in The American Journal of Clinical Nutrition recommends 1.0-1.2 g/kg/day for adults over 50 (versus the RDA 0.8 g/kg for younger adults), distributed evenly across meals to maximize synthesis.</div>

@@ -48,14 +48,22 @@ relatedArticles:
 
 <div data-i18n-html="article_invest-like-beginner_p2">You don't need to be an expert to start investing — you need to start and stay. Ownership beats prediction.</div>
 
+<div data-i18n-html="article_invest-like-beginner_h2a"><h2>Waiting is the expensive strategy</h2></div>
+
 <div data-i18n-html="article_invest-like-beginner_p3">Waiting to feel ready is the most expensive investment strategy.</div>
 
 
 <div data-i18n-html="article_invest-like-beginner_p4">Most people <a href="/journal/investir-debutant/">delay investing</a> because they believe they need to understand everything first. Experts, charts, perfect timing. Meanwhile, time — the most powerful asset — keeps moving.</div>
 
+<div data-i18n-html="article_invest-like-beginner_h2b"><h2>Owning, not predicting</h2></div>
+
 <div data-i18n-html="article_invest-like-beginner_p5"><strong>Investing is not about predicting the future; it is about <a href="/journal/earn-keep-grow/">owning a piece of it</a>.</strong> When you buy a broad index, you become a tiny owner of hundreds of businesses. Some will stumble, most will keep solving problems and growing. Your job is not to guess which one, but to stay.</div>
 
+<div data-i18n-html="article_invest-like-beginner_h2c"><h2>Time in beats timing</h2></div>
+
 <div data-i18n-html="article_invest-like-beginner_p11">The 'time in beats timing' claim is the best-evidenced idea in personal investing. Analyses of long market histories repeatedly find that missing even the handful of best days costs far more than sitting out the worst ones — and those best days cluster unpredictably, often right inside periods of fear. You cannot catch them by waiting to feel ready; you catch them only by already being invested.</div>
+
+<div data-i18n-html="article_invest-like-beginner_h2d"><h2>Start with what you can keep</h2></div>
 
 <div data-i18n-html="article_invest-like-beginner_p6">Start with what you understand and can keep:</div>
 
@@ -64,6 +72,8 @@ relatedArticles:
 - <strong>Do not look daily.</strong> Check quarterly. Daily prices are noise; decades are signal.</div>
 
 <div data-i18n-html="article_invest-like-beginner_p8">The beginner who invests 500 MAD monthly for twenty years will almost always beat the expert who waited ten years to feel ready.</div>
+
+<div data-i18n-html="article_invest-like-beginner_h2e"><h2>The boundaries of this article</h2></div>
 
 <div data-i18n-html="article_invest-like-beginner_p10">The honest boundaries this article cannot cross: no amount you should invest, no product to buy, no guarantee — none of that fits in an article, and anyone claiming otherwise is selling. Before any first purchase: keep three to six months of essential costs in accessible cash; understand in one sentence what the money buys and how it can go down; know the fees; invest only amounts whose loss you could absorb while still sleeping; and if you carry high-interest debt, that math comes first. This is education, not advice — a fee-only professional in your country is worth one consultation.</div>
 

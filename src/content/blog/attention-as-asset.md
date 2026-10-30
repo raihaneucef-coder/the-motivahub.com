@@ -217,7 +217,7 @@ I never tracked where my attention went. The theft was invisible. The audit made
 <div data-i18n-html="article_attention-as-asset_p71"><h2>Sources</h2></div>
 
 <div data-i18n-html="article_attention-as-asset_p72">1. <em>Newport, C.</em> (2016). <em>Deep Work: Rules for Focused Success in a Distracted World.</em> — for the deep work framework
-2. <em>Mark, G., et al.</em> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
+2. <a href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener"><em>Mark, G., et al.</em></a> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
 3. <em>Seneca</em> — <em>On the Shortness of Life</em> — for the Stoic perspective on attention theft</div>
 
 <hr />

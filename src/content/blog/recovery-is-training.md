@@ -48,15 +48,21 @@ relatedArticles:
 
 <div data-i18n-html="article_recovery-is-training_p2">You do not get stronger by lifting — you get stronger by recovering from lifting. Rest is not the absence of training.</div>
 
+<div data-i18n-html="article_recovery-is-training_h2a"><h2>Training is only the stimulus</h2></div>
+
 <div data-i18n-html="article_recovery-is-training_p3">We glorify the lift and ignore the rest that makes the lift matter.</div>
 
 
 <div data-i18n-html="article_recovery-is-training_p4"><a href="/journal/consistance-bat-intensite/">Muscles do not grow in the gym</a>. They grow in the hours after, when you sleep, eat, and do nothing. Without recovery, training is just damage.</div>
 
+<div data-i18n-html="article_recovery-is-training_h2b"><h2>What the sleep study found</h2></div>
+
 <div data-i18n-html="article_recovery-is-training_p10">There is evidence behind the cliché. When researchers gave collegiate basketball players the opportunity to sleep ten hours a night, sprint times, shooting accuracy and daytime alertness all measurably improved (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119836/" target="_blank" rel="noopener">Mah et al., 2011, Sleep</a>). Rest is not the pause between the work — in that study, it <em>was</em> the work.</div>
 
 <div data-i18n-html="article_recovery-is-training_p11">Why would sleep build muscle? Sleep restriction appears to tip the body's hormonal balance toward breakdown rather than repair — a mechanism researchers have proposed but not fully proven (Dattilo et al., 2011, <em>Medical Hypotheses</em>; see the <a href="https://pubmed.ncbi.nlm.nih.gov/21550729/">PubMed record</a>). Until the last word is written, the practical rule is unchanged: train hard, sleep enough, or train hard and shrink. For the deep dive, see <a href="/journal/sleep-is-unfair-advantage/">why sleep is the unfair advantage</a>.</div>
 
+
+<div data-i18n-html="article_recovery-is-training_h2c"><h2>The easy day is not optional</h2></div>
 
 <div data-i18n-html="article_recovery-is-training_p5"><strong>Recovery is not time off. It is part of the program.</strong></div>
 
@@ -67,6 +73,8 @@ relatedArticles:
 <div data-i18n-html="article_recovery-is-training_p8">- <strong>Sleep is your first supplement.</strong> No powder replaces eight hours.
 - <strong>Eat to recover, not to reward.</strong> Protein, water, and enough food.
 - <strong>Take the easy day easy.</strong> A walk, a stretch, a breath. Not a test.</div>
+
+<div data-i18n-html="article_recovery-is-training_h2d"><h2>Adaptation happens in rest</h2></div>
 
 <div data-i18n-html="article_recovery-is-training_p12">Exercise physiology is unambiguous about the order of events: adaptation — strength, speed, endurance — happens during rest, not during the session. The workout only supplies the stimulus; recovery supplies the repair. Studies tracking heart-rate variability find that athletes who dial training back when readiness is low outperform those who push through regardless, on the tests that actually matter.</div>
 

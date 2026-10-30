@@ -63,7 +63,7 @@ Before coffee, before food, before anything — water. You lose close to a litre
 You do not need a full workout. 10 minutes of stretching, yoga, or a short walk is enough. The goal is to wake up your body and increase blood flow.</div>
 
 <div data-i18n-html="article_routine-matin-sante_p8"><h3>4. Practice Gratitude</h3>
-Write down 3 specific things you are grateful for — not abstract ones. "The warm coffee, the text from my brother, a night of actual sleep" works better than "my family" because the brain encodes concrete, sensory detail more durably. The Emmons &amp; McCullough studies found the effect comes from repeatedly directing attention to the positive, which over weeks tilts your default scanning toward what's going right.</div>
+Write down 3 specific things you are grateful for — not abstract ones. "The warm coffee, the text from my brother, a night of actual sleep" works better than "my family" because the brain encodes concrete, sensory detail more durably. The <a href="https://pubmed.ncbi.nlm.nih.gov/12585811/" target="_blank" rel="noopener">Emmons &amp; McCullough studies</a> found the effect comes from repeatedly directing attention to the positive, which over weeks tilts your default scanning toward what's going right.</div>
 
 <div data-i18n-html="article_routine-matin-sante_p9"><h3>5. Sit in Silence</h3>
 Even five minutes of stillness — eyes closed, attention on the breath, returning to it each time the mind wanders — trains the exact muscle of noticing distraction and coming back. That's the same skill you spend all day needing. The return, not the focus, is the rep.</div>

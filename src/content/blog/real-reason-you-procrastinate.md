@@ -50,7 +50,7 @@ relatedArticles:
 <div data-i18n-html="article_real-reason-you-procrastinate_p3">You are not lazy. Lazy people do not feel guilty while scrolling. You feel guilty, which means something entirely different is going on.</div>
 
 
-<div data-i18n-html="article_real-reason-you-procrastinate_p4">Here is the truth that took psychologists decades to confirm: procrastination has almost nothing to do with time management and almost everything to do with emotion management. You do not delay tasks because they take long. You delay them because looking at them triggers a feeling — boredom, anxiety, confusion, fear of doing them badly — and your brain, being an excellent escape artist, chooses the exit door labeled "later."</div>
+<div data-i18n-html="article_real-reason-you-procrastinate_p4">Here is the truth that took psychologists decades to confirm: procrastination has almost nothing to do with time management and almost everything to do with emotion management (<a href="https://doi.org/10.1111/spc3.12011" target="_blank" rel="noopener">Sirois &amp; Pychyl, 2013</a>). You do not delay tasks because they take long. You delay them because looking at them triggers a feeling — boredom, anxiety, confusion, fear of doing them badly — and your brain, being an excellent escape artist, chooses the exit door labeled "later."</div>
 
 <div data-i18n-html="article_real-reason-you-procrastinate_p5"><h2>The Task Is Not the Problem. The Feeling Is.</h2></div>
 

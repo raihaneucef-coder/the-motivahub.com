@@ -64,7 +64,7 @@ relatedArticles:
 Focusing on what you can control (your effort, your attitude, your between-point routine) and releasing what you cannot (the opponent, the call, the weather). The concrete tool is a two-column list you refresh before every event: under "controllable" write process cues — first serve percentage, recovery steps, breathing. If a worry won't fit the left column, it is not a task, it is weather.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p9"><h3>3. Commitment</h3>
-Setting a goal and honouring it even when the feeling fades. Research on implementation intentions (Gollwitzer, 1999) shows a goal phrased as "When X happens, I will do Y" is far more likely to survive a bad day than "I'll give my best." So pre-decide the ugly scenarios: "When I'm a break down and tired, I still complete the last set."
+Setting a goal and honouring it even when the feeling fades. Research on implementation intentions (<a href="https://doi.org/10.1037/0003-066X.54.7.493" target="_blank" rel="noopener">Gollwitzer, 1999</a>) shows a goal phrased as "When X happens, I will do Y" is far more likely to survive a bad day than "I'll give my best." So pre-decide the ugly scenarios: "When I'm a break down and tired, I still complete the last set."
 </div>
 
 <div data-i18n-html="article_force-mentale-sport_p10"><h3>4. Challenge</h3>
@@ -76,7 +76,7 @@ Appraising pressure as a threat or as a demand you can meet. Physiologically anx
 Choking happens when you consciously monitor a skill that should run on autopilot — psychologists call it explicit monitoring. The defence is rehearsal under the same load you'll compete under: crowd noise, a scored consequence, fatigue. Train the emotion of the moment so the real one stops being novel.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p13"><h3>2. Use Visualization</h3>
-Before competing, rehearse the sequence — see the play, feel the timing, hear the crowd. Mental practice produces a real, measurable benefit (a Driskell meta-analysis found it helps), but be honest about the size: it primes the motor system and builds familiarity; it does not replace physical reps and is weakest for raw strength or endurance. Use it to groove a routine, not to skip the gym.</div>
+Before competing, rehearse the sequence — see the play, feel the timing, hear the crowd. Mental practice produces a real, measurable benefit (<a href="https://doi.org/10.1037/0021-9010.79.4.481" target="_blank" rel="noopener">a Driskell meta-analysis</a> found it helps), but be honest about the size: it primes the motor system and builds familiarity; it does not replace physical reps and is weakest for raw strength or endurance. Use it to groove a routine, not to skip the gym.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p14"><h3>3. Develop Pre-Performance Routines</h3>
 A consistent routine before competition calms your nerves and focuses your mind. It could be breathing, music, or a specific warm-up.</div>

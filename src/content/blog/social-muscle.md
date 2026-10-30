@@ -55,7 +55,7 @@ relatedArticles:
 
 <div data-i18n-html="article_social-muscle_p6">Consistent creators are not the most talented speakers. They are the most consistent inviters. They invite one more person to lunch. They ask one more question. They stay one minute longer when it would be easier to leave.</div>
 
-<div data-i18n-html="article_social-muscle_p15">The stakes on this muscle are larger than loneliness feels. A widely cited meta-analysis by Julianne Holt-Lunstad, pooling hundreds of studies and millions of people, found that chronic weak social connection carried a mortality risk comparable to well-known factors like smoking and physical inactivity. Making one awkward hello is not a soft hobby. Viewed at population scale, showing up for people is closer to preventive medicine than to a personality quirk.</div>
+<div data-i18n-html="article_social-muscle_p15">The stakes on this muscle are larger than loneliness feels. A widely cited meta-analysis by Julianne Holt-Lunstad, pooling hundreds of studies and millions of people, found that chronic weak social connection carried a mortality risk comparable to well-known factors like smoking and physical inactivity (<a href="https://pubmed.ncbi.nlm.nih.gov/20668659/" target="_blank" rel="noopener">Holt-Lunstad et al., 2010</a>). Making one awkward hello is not a soft hobby. Viewed at population scale, showing up for people is closer to preventive medicine than to a personality quirk.</div>
 
 <div data-i18n-html="article_social-muscle_p7"><h2>The Smallest Invitation</h2></div>
 

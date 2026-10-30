@@ -49,18 +49,26 @@ relatedArticles:
 
 <div data-i18n-html="article_proof-over-noise_p2">The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions.</div>
 
+<div data-i18n-html="article_proof-over-noise_h2a"><h2>Your attention has a diet</h2></div>
+
 <div data-i18n-html="article_proof-over-noise_p3">Your attention has a diet, whether you chose it or not.</div>
 
 
 <div data-i18n-html="article_proof-over-noise_p4">Every headline, every clip, every outrage served fresh each morning goes somewhere. It becomes the background hum against which you think. Feed a mind a steady stream of disasters and it quietly concludes that the world is a place where nothing can be built. Feed it noise and it forgets what signal ever sounded like.</div>
 
+<div data-i18n-html="article_proof-over-noise_h2b"><h2>The third menu: proof</h2></div>
+
 <div data-i18n-html="article_proof-over-noise_p5">But there is a third menu, and almost nobody serves it by default: <strong>proof.</strong></div>
 
 <div data-i18n-html="article_proof-over-noise_p6">Evidence that <a href="/journal/she-started-at-60/">ordinary people</a> — with ordinary mornings, ordinary doubts, and no special genetics — have walked the exact road you are standing at the start of. The student who failed twice and passed on the third attempt with distinction. The runner who began at forty with knees that complained. The founder who ate the same cheap meal for a year so the dream could eat first.</div>
 
+<div data-i18n-html="article_proof-over-noise_h2c"><h2>This is data, not positive thinking</h2></div>
+
 <div data-i18n-html="article_proof-over-noise_p7"><strong>This is not positive thinking. This is data.</strong></div>
 
 <div data-i18n-html="article_proof-over-noise_p8">Motivation built on quotes evaporates by lunchtime. Motivation built on <em>documented human behavior</em> holds weight, because it answers the question every doubting mind asks: <em>"Has anyone like me actually done this?"</em> The answer, reliably, is yes — thousands of times, most of them less talented than your fear claims you need to be.</div>
+
+<div data-i18n-html="article_proof-over-noise_h2d"><h2>Curate like it matters</h2></div>
 
 <div data-i18n-html="article_proof-over-noise_p9">So curate like it matters, because it does:</div>
 
@@ -69,6 +77,8 @@ relatedArticles:
 - <strong>Collect proof in your own category.</strong> Aspiring to write? Read about writers' routines, not their fame. Building a body? Study transformations that started where yours starts.
 - <strong>Keep a private file of evidence.</strong> When you meet resilience — a friend's recovery, a stranger's comeback — save it. That file becomes ammunition for the bad weeks.
 - <strong>Tell the stories forward.</strong> Retell the rise, not just the scandal. What we repeat is what our circles come to expect of themselves.</div>
+
+<div data-i18n-html="article_proof-over-noise_h2e"><h2>Informed is not farmed</h2></div>
 
 <div data-i18n-html="article_proof-over-noise_p11">None of this means ignoring reality. Hard news deserves informed citizens. But there is a difference between staying informed and being farmed for outrage — and that difference is a decision about what enters your mind each day.</div>
 

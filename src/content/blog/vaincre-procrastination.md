@@ -60,7 +60,7 @@ relatedArticles:
 
 <div data-i18n-html="article_vaincre-procrastination_p6">Procrastination is not a problem of time. It is a problem of <strong>emotion</strong>.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p7">Your brain prefers an immediate reward (scrolling, a video) to a delayed one (finishing a project, getting fit). Researchers call this present bias or temporal discounting: the future is abstract, the present is concrete and loud.</div>
+<div data-i18n-html="article_vaincre-procrastination_p7">Your brain prefers an immediate reward (scrolling, a video) to a delayed one (finishing a project, getting fit). Researchers call this present bias or temporal discounting (<a href="https://doi.org/10.1257/aer.89.1.103" target="_blank" rel="noopener">O’Donoghue &amp; Rabin, 1999</a>): the future is abstract, the present is concrete and loud.</div>
 
 <div data-i18n-html="article_vaincre-procrastination_p8"><strong>The real fight:</strong> you are not fighting laziness. You are negotiating with anxiety, doubt, and the fear of doing it badly.</div>
 

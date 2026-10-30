@@ -50,7 +50,7 @@ relatedArticles:
   - "mindset-etat-esprit"
 ---
 
-<div data-i18n-html="article_resilience-mentale_p2"><strong>Mental resilience is a trainable skill, not a fixed trait.</strong> Research on stress physiology shows that your parasympathetic nervous system — the recovery system — can be trained through specific practices. Resilient people recover from stress faster not because they feel less, but because their recovery system is better trained. You can develop this through breathwork, reframing, and the 2-day rule.</div>
+<div data-i18n-html="article_resilience-mentale_p2"><strong>Mental resilience is a trainable skill, not a fixed trait.</strong> Research on stress physiology shows that your parasympathetic nervous system — the recovery system — can be trained through specific practices. Resilient people recover from stress faster not because they feel less, but because their recovery system is better trained. You can develop this through breathwork (<a href="https://pubmed.ncbi.nlm.nih.gov/30245619/" target="_blank" rel="noopener">Zaccaro et al., 2018</a>), reframing, and the 2-day rule.</div>
 
 <div data-i18n-html="article_resilience-mentale_p3">Life will knock you down. This is not a possibility — it is a certainty. The question is not whether you will face adversity, but whether you will <strong>bounce back</strong> when you do.</div>
 

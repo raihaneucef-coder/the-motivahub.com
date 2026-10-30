@@ -43,20 +43,30 @@ relatedArticles:
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p2">Confidence is not a feeling you wait for — it is a record you build, one kept promise at a time.</div>
 
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_h2a"><h2>We wait to feel ready</h2></div>
+
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p3">We wait to feel confident before we act. It is a polite way to stay still.</div>
 
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p4">Confidence does not work like that. It does not arrive before you begin, like a permission slip. It arrives after — as a record of what you did when you did not feel it.</div>
 
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_h2b"><h2>Confidence is evidence</h2></div>
+
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p5"><strong>Confidence is not an emotion. It is evidence.</strong></div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p6">Every time you keep a small promise to yourself — the walk you said you would take, the page you said you would write, <a href="/journal/art-dire-non/">the difficult conversation</a> you did not postpone — you add one line to a private ledger. No one else sees it. You do. And over weeks, that ledger becomes the quiet voice that says: <em>we do this.</em></div>
+
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_h2c"><h2>Broken promises write too</h2></div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p7">The opposite is also true. Every broken promise, especially the small ones you excuse, writes a different line: <em>we do not do what we say.</em> Do that enough times and no affirmation can compete with the record you have built against yourself.</div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p8">This is why confidence cannot be borrowed from quotes. It must be built from reps.</div>
 
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_h2d"><h2>What Bandura found</h2></div>
+
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p13">Albert Bandura, who built the modern science of self-efficacy, ranked its sources — and the order matches this article exactly. The strongest driver of belief in yourself is a mastery experience: a task you actually completed. Verbal encouragement and watching others rank below it. That is why the kept promise beats the affirmation. Confidence is not a mood to summon; it is a ledger your nervous system reads honestly, entry by entry.</div>
+
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_h2e"><h2>Make the rep impossible to fail</h2></div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p9">Make the reps so small you cannot fail them:</div>
 

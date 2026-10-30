@@ -45,7 +45,7 @@ relatedArticles:
   - "water-before-willpower"
 ---
 
-<div data-i18n-html="article_hydratation-performance_p2">Losing about 2% of your body mass in fluid measurably costs you endurance and concentration — and the deficit grows with heat and session length. Water is the simplest, cheapest, and most effective <a href="/journal/water-before-willpower/">performance enhancer</a> available.</div>
+<div data-i18n-html="article_hydratation-performance_p2">Losing about 2% of your body mass in fluid measurably costs you endurance and concentration — and the deficit grows with heat and session length (<a href="https://pubmed.ncbi.nlm.nih.gov/22763119/" target="_blank" rel="noopener">Goulet, Br J Sports Med 2013</a>). Water is the simplest, cheapest, and most effective performance enhancer available.</div>
 
 <div data-i18n-html="article_hydratation-performance_p3">You can survive 3 weeks without food. You can only survive 3 days without water. Yet most people walk around chronically dehydrated — and wonder why they feel tired, foggy, and unproductive.</div>
 

@@ -47,16 +47,22 @@ relatedArticles:
 
 <div data-i18n-html="article_success-is-a-direction_p2">Stop waiting to arrive. Success is not a place you reach — it is the way you walk.</div>
 
+<div data-i18n-html="article_success-is-a-direction_h2a"><h2>Success is not a door</h2></div>
+
 <div data-i18n-html="article_success-is-a-direction_p3">We picture success as a door. Once we walk through it, we will finally feel done.</div>
 
 
 <div data-i18n-html="article_success-is-a-direction_p4">No one who has walked through that door describes it that way. They describe what happened next: another hallway, another door.</div>
+
+<div data-i18n-html="article_success-is-a-direction_h2b"><h2>A direction you keep choosing</h2></div>
 
 <div data-i18n-html="article_success-is-a-direction_p5"><strong>Success is not a destination you reach. It is a direction you keep choosing.</strong></div>
 
 <div data-i18n-html="article_success-is-a-direction_p6">The person who sees success as a place is always anxious — have I arrived, <a href="/journal/mythe-reussite-instantanee/">am I behind</a>, will I lose it? The person who sees success as a direction is calmer — am I walking north today, even a little?</div>
 
 <div data-i18n-html="article_success-is-a-direction_p7">Direction is kinder and more useful. It lets you course-correct without shame. Missed a day? You did not fail the destination; you simply drifted east for a day. Come back north tomorrow.</div>
+
+<div data-i18n-html="article_success-is-a-direction_h2c"><h2>Try it this week</h2></div>
 
 <div data-i18n-html="article_success-is-a-direction_p8">Try it this week. Pick one direction — health, craft, kindness — and ask each night: did I move north today? One walk, one page, one honest conversation. <a href="/journal/success-leaves-traces/">That is success</a>, today.</div>
 
@@ -65,5 +71,7 @@ relatedArticles:
 
 <div data-i18n-html="article_success-is-a-direction_p9">Destinations end. Directions endure.</div>
 
-<div data-i18n-html="article_success-is-a-direction_p12">The destination model of success creates what Tal Ben-Shahar popularized as the 'arrival fallacy' — the belief that reaching a goal will produce lasting happiness. Research on hedonic adaptation shows that the emotional bump from achievement fades within days or weeks, and people who define success as a fixed point spend their lives oscillating between striving and emptiness.</div>
+<div data-i18n-html="article_success-is-a-direction_h2d"><h2>The arrival fallacy</h2></div>
+
+<div data-i18n-html="article_success-is-a-direction_p12">The destination model of success creates what Tal Ben-Shahar popularized as the 'arrival fallacy' — the belief that reaching a goal will produce lasting happiness. Research on hedonic adaptation (<a href="https://pubmed.ncbi.nlm.nih.gov/22059843/" target="_blank" rel="noopener">Luhmann et al., 2012</a>) shows that the emotional bump from achievement fades within days or weeks, and people who define success as a fixed point spend their lives oscillating between striving and emptiness.</div>
 <div data-i18n-html="article_success-is-a-direction_p13">Replace 'When I reach X, I will be enough' with 'I am moving in the direction of X, and the moving itself is who I want to be.' This subtle shift turns every ordinary Tuesday into evidence of success rather than a waiting room for it.</div>

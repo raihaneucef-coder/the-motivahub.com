@@ -82,6 +82,11 @@ relatedArticles:
 
 <div data-i18n-html="article_process-vs-outcome_p25">The order matters. The outcome sets the direction. The performance standard tells you whether the direction is working. The process is what you do on a Tuesday morning when you do not feel like doing it.</div>
 
+<div data-i18n-html="article_process-vs-outcome_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/goal-three-tiers.svg" alt="Three stacked levels descending from the outcome goal to the performance standard to the daily process, each connected by an arrow pointing down" width="640" height="262" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">The direction runs downward: the outcome sets it, the performance standard checks it, the process is what you can do this morning.</figcaption>
+</figure></div>
+
 <div data-i18n-html="article_process-vs-outcome_p26"><h2>Process-Oriented vs Goal-Oriented</h2></div>
 
 <div data-i18n-html="article_process-vs-outcome_p27">Being goal-oriented is not the problem. Living only for the goal is. The difference shows up in five places:</div>

@@ -49,14 +49,20 @@ relatedArticles:
 
 <div data-i18n-html="article_solo-travel-stronger-self_p2">Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself.</div>
 
+<div data-i18n-html="article_solo-travel-stronger-self_h2a"><h2>Alone, you learn about yourself</h2></div>
+
 <div data-i18n-html="article_solo-travel-stronger-self_p3">Travel with others and you learn about the place. <a href="/journal/beginner-again/">Travel alone and you learn about yourself</a>.</div>
 
 
 <div data-i18n-html="article_solo-travel-stronger-self_p4">When you are alone, you make every decision. Where to eat, when to sleep, whether to <a href="/journal/the-detour-is-the-destination/">take the long way</a> or the short one. No one to ask, no one to blame. It is uncomfortable and it is clarifying.</div>
 
+<div data-i18n-html="article_solo-travel-stronger-self_h2b"><h2>Honest, not lonely</h2></div>
+
 <div data-i18n-html="article_solo-travel-stronger-self_p5"><strong>Solo travel is not lonely. It is honest.</strong></div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p6">You discover how you handle uncertainty, boredom, and small kindnesses from strangers. You learn that you are more capable than the life you built at home lets you believe.</div>
+
+<div data-i18n-html="article_solo-travel-stronger-self_h2c"><h2>Try it once, even for two days</h2></div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p7">Try it once, even for two days:</div>
 
@@ -66,7 +72,11 @@ relatedArticles:
 
 <div data-i18n-html="article_solo-travel-stronger-self_p9">You will come back with the same life. You will not be the same person in it.</div>
 
+<div data-i18n-html="article_solo-travel-stronger-self_h2d"><h2>Mastery experiences</h2></div>
+
 <div data-i18n-html="article_solo-travel-stronger-self_p12">The mechanism is Albert Bandura's: mastery experiences build self-efficacy — the belief that you can handle what comes. Traveling alone supplies them in small, frequent doses. Removed from your usual roles and support structure, you resolve small problems (a missed connection, an unfamiliar menu) and quietly update your estimate of what you are capable of. The confidence is transferable because the skill it came from is general.</div>
+
+<div data-i18n-html="article_solo-travel-stronger-self_h2e"><h2>The first-day protocol</h2></div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_p11">The first-day protocol that makes solo travel work: arrive with only the guaranteed basics — transport, bed, one meal — and schedule nothing else until you are standing in the city. Then choose in public: the decision you make while looking at a physical map is exactly who solo travel is training. Say yes to one thing you would have declined with company, and end the day with three written lines: what I feared, what happened, what I will keep.</div>
 

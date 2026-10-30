@@ -47,14 +47,20 @@ relatedArticles:
 
 <div data-i18n-html="article_play-on-purpose_p2">Leisure that leaves you emptier is not rest. Choose entertainment the way champions choose training — deliberately — and recovery becomes a weapon instead of a leak.</div>
 
+<div data-i18n-html="article_play-on-purpose_h2a"><h2>Rest can be exhausting</h2></div>
+
 <div data-i18n-html="article_play-on-purpose_p3">Nobody warns you that rest can be exhausting.</div>
 
 
 <div data-i18n-html="article_play-on-purpose_p4">You finish a week of hard work, collapse into the evening, and give yourself exactly what you think you earned: hours of scrolling, an autoplay queue left running, a screen glowing until sleep takes you mid-scroll. Eight hours of doing nothing. And yet Monday arrives and you feel... unrested. Slightly thinner somewhere inside.</div>
 
+<div data-i18n-html="article_play-on-purpose_h2b"><h2>Escape is not recovery</h2></div>
+
 <div data-i18n-html="article_play-on-purpose_p5">Here is the uncomfortable distinction most of us were never taught: <strong>there is a difference between escape and recovery.</strong> Escape removes you from your life without returning anything. Recovery returns you to your life with more than you had.</div>
 
 <div data-i18n-html="article_play-on-purpose_p6">Scrolling is often escape. So is binge-watching chosen by default rather than desire. They are not evil — they are simply <em>cheap</em>. Cheap rest pays out immediately in numbness and collects later in restlessness.</div>
+
+<div data-i18n-html="article_play-on-purpose_h2c"><h2>Deliberate play leaves deposits</h2></div>
 
 <div data-i18n-html="article_play-on-purpose_p7">Real entertainment — deliberate play — works differently. It leaves deposits:</div>
 
@@ -64,9 +70,13 @@ relatedArticles:
 - <strong>A game shared with friends</strong> rebuilds the social muscle that work quietly erodes.
 - <strong>A book read for pleasure</strong> reminds you why you learned to read at all.</div>
 
+<div data-i18n-html="article_play-on-purpose_h2d"><h2>The forty-minute test</h2></div>
+
 <div data-i18n-html="article_play-on-purpose_p9">The test is simple and brutal: <strong>how do you feel forty minutes after it ends?</strong> Refilled, or robbed? Energized toward tomorrow, or vaguely ashamed of tonight? Your answers will sort your leisure list faster than any productivity guru.</div>
 
 <div data-i18n-html="article_play-on-purpose_p10">This is not a sermon against fun. It is a case for <em>chosen</em> fun — the radical idea that <a href="/journal/choose-joy-on-purpose/">joy deserves the same intentionality</a> as ambition. Athletes understand this instinctively; their recovery is programmed as seriously as their training, because they know adaptation happens during rest, not during effort. You are allowed to run your ordinary life on the same architecture.</div>
+
+<div data-i18n-html="article_play-on-purpose_h2e"><h2>Two small practices</h2></div>
 
 <div data-i18n-html="article_play-on-purpose_p11">Two small practices change everything:</div>
 

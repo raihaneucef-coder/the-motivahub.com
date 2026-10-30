@@ -82,6 +82,11 @@ relatedArticles:
 
 <div data-i18n-html="article_missed-day-protocol_p12">The protocol is the opposite: 2 minutes, today, no negotiation.</div>
 
+<div data-i18n-html="article_missed-day-protocol_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/missed-day-recovery.svg" alt="Two recovery paths: after one miss, the 2-minute version today and a normal day tomorrow; after two consecutive misses, the hard boundary that restarts the count at day 1" width="640" height="224" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">One miss is recovered with the 2-minute version today. Two in a row cross the boundary and restart the count at day one.</figcaption>
+</figure></div>
+
 <div data-i18n-html="article_missed-day-protocol_p13"><h2>Why a longer session is the wrong response</h2></div>
 
 <div data-i18n-html="article_missed-day-protocol_p14">The temptation after a miss is to do a longer session to "make up for" the missed day. This is wrong. Three reasons.</div>

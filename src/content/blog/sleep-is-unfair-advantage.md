@@ -106,6 +106,11 @@ relatedArticles:
 - All metrics dropped 40-60%
 - Decision quality dropped the most</div>
 
+<div data-i18n-html="article_sleep-is-unfair-advantage_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/sleep-metrics-pairs.svg" alt="Paired bars for four self-tracked scores, seven hours or more against six hours or less: morning energy 8.2 against 4.8, focus by ten 8.5 against 5.2, mood 7.9 against 4.1, workout quality 8.0 against 5.5 on a zero to ten scale" width="640" height="324" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">My own sixty nights, n = 1, subjective scales: every score drops when the night is six hours or shorter.</figcaption>
+</figure></div>
+
 <div data-i18n-html="article_sleep-is-unfair-advantage_p19">The data was clear. Sleep wasn't a luxury. It was the variable that controlled everything else.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p20"><h2>What Didn't Work (The Failures)</h2></div>

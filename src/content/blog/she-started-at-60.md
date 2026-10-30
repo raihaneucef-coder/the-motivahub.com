@@ -50,10 +50,14 @@ relatedArticles:
 <div data-i18n-html="article_she-started-at-60_p10"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
 
 
+<div data-i18n-html="article_she-started-at-60_h2a"><h2>A bakery at sixty</h2></div>
+
 <div data-i18n-html="article_she-started-at-60_p3">At 60, she started a small bakery. Her friends said, "At your age?"</div>
 
 
 <div data-i18n-html="article_she-started-at-60_p4">She had spent thirty years feeding other people — children, a husband, a team at work. She had never fed the part of herself that woke at 5 AM to try a new recipe.</div>
+
+<div data-i18n-html="article_she-started-at-60_h2b"><h2>Why the late start helped</h2></div>
 
 <div data-i18n-html="article_she-started-at-60_p5"><strong>Being late was the advantage.</strong> She did not have time to pretend. She had no years to waste on what she did not love, no energy for the business that looked good on paper but felt empty.</div>
 
@@ -63,7 +67,11 @@ relatedArticles:
 
 <div data-i18n-html="article_she-started-at-60_p8">She laughed. "I was not late," she said. "I was being prepared."</div>
 
+<div data-i18n-html="article_she-started-at-60_h2c"><h2>What a late start actually gives you</h2></div>
+
 <div data-i18n-html="article_she-started-at-60_p12">There is no clean evidence that older beginners are more persistent than younger ones. What a late start does give you is a different reference point: with fewer years left, comparison to peers matters less, and the question becomes whether the work is worth the time that remains. The bakery owner's thirty years of feeding a family were not wasted time; they were apprenticeship without a certificate.</div>
+<div data-i18n-html="article_she-started-at-60_h2d"><h2>Readiness never arrives</h2></div>
+
 <div data-i18n-html="article_she-started-at-60_p13">If you are waiting until you feel ready, until the kids are older, until the mortgage is smaller, the honest truth is that readiness is a feeling that never arrives. The people who start late do not feel ready. They simply run out of patience with waiting.</div>
 
 <div data-i18n-html="article_she-started-at-60_p9"><a href="/journal/proof-over-noise/">Proof over noise</a>: the best time to start is often the time everyone says is too late.</div>

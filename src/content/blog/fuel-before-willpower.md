@@ -47,6 +47,8 @@ relatedArticles:
 
 <div data-i18n-html="article_fuel-before-willpower_p2">Discipline is expensive when you run it on caffeine, sugar and good intentions. Eat in a way that makes the hard things cheaper — nutrition is not a diet, it is infrastructure.</div>
 
+<div data-i18n-html="article_fuel-before-willpower_h2a"><h2>Discipline is not free</h2></div>
+
 <div data-i18n-html="article_fuel-before-willpower_p3">We talk about discipline as if it were free.</div>
 
 
@@ -54,9 +56,13 @@ relatedArticles:
 
 <div data-i18n-html="article_fuel-before-willpower_p5">Nothing about our character changed between those hours. Only our fuel.</div>
 
+<div data-i18n-html="article_fuel-before-willpower_h2b"><h2>Most laziness is logistics</h2></div>
+
 <div data-i18n-html="article_fuel-before-willpower_p6"><strong>Most of what we call laziness is logistics.</strong> <a href="/journal/eat-on-time-not-on-emotion/">The afternoon collapse</a> is rarely a moral failure; it is a blood-sugar curve with excellent timing. The evening binge in front of a screen often begins as an under-eaten, over-caffeinated day looking for fast relief. When we misjudge this, we respond to a engineering problem with shame — and shame has never once fixed a meal schedule.</div>
 
 <div data-i18n-html="article_fuel-before-willpower_p7">The shift is simpler than any diet: <strong>stop asking food for pleasure alone, and start asking it for stable energy.</strong> Pleasure still comes. But stability comes first, because stability is what your ambitions run on.</div>
+
+<div data-i18n-html="article_fuel-before-willpower_h2c"><h2>Principles that survive trends</h2></div>
 
 <div data-i18n-html="article_fuel-before-willpower_p8">A few principles survive every trend:</div>
 
@@ -67,6 +73,8 @@ relatedArticles:
 - <strong>Keep the 80/20 honest.</strong> Eat well most of the time so that the occasional celebration stays a celebration instead of becoming a pattern.</div>
 
 <div data-i18n-html="article_fuel-before-willpower_p10">Notice that none of this requires perfection. It requires <em>respect</em> — treating meals as part of the work rather than an interruption of it. An athlete does not see food as reward or punishment but as preparation. You are allowed to see yourself the same way, even if your sport is a thesis, a business, or a family held together with love and logistics.</div>
+
+<div data-i18n-html="article_fuel-before-willpower_h2d"><h2>Self-trust made visible</h2></div>
 
 <div data-i18n-html="article_fuel-before-willpower_p11">There is also a quieter effect, the one nobody warns you about: <strong>eating well is self-trust made visible.</strong> Three disciplined days of feeding yourself properly, and something small shifts. You begin to suspect, correctly, that you are the kind of person whose plans hold. That suspicion is worth more than any supplement.</div>
 

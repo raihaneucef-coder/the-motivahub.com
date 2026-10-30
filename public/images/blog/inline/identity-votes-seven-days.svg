@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 190" width="640" height="190">
+  <rect width="640" height="190" fill="#ffffff"/>
+  <g font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#555555" text-anchor="middle">
+    <text x="80" y="40">1</text>
+    <text x="160" y="40">2</text>
+    <text x="240" y="40">3</text>
+    <text x="320" y="40">4</text>
+    <text x="400" y="40">5</text>
+    <text x="480" y="40">6</text>
+    <text x="560" y="40">7</text>
+  </g>
+  <g fill="#111111">
+    <circle cx="80" cy="86" r="21"/>
+    <circle cx="160" cy="86" r="21"/>
+    <circle cx="240" cy="86" r="21"/>
+    <circle cx="320" cy="86" r="21"/>
+    <circle cx="400" cy="86" r="21"/>
+    <circle cx="560" cy="86" r="21"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M71 86 l6 7 l13 -15"/>
+    <path d="M151 86 l6 7 l13 -15"/>
+    <path d="M231 86 l6 7 l13 -15"/>
+    <path d="M311 86 l6 7 l13 -15"/>
+    <path d="M391 86 l6 7 l13 -15"/>
+    <path d="M551 86 l6 7 l13 -15"/>
+  </g>
+  <circle cx="480" cy="86" r="21" fill="#ffffff" stroke="#111111" stroke-width="2.5"/>
+  <g stroke="#111111" stroke-width="2.5" stroke-linecap="round">
+    <line x1="473" y1="79" x2="487" y2="93"/>
+    <line x1="487" y1="79" x2="473" y2="93"/>
+  </g>
+  <g stroke="#e4e4e4" stroke-width="1">
+    <line x1="80" y1="110" x2="80" y2="138"/>
+    <line x1="160" y1="110" x2="160" y2="138"/>
+    <line x1="240" y1="110" x2="240" y2="138"/>
+    <line x1="320" y1="110" x2="320" y2="138"/>
+    <line x1="400" y1="110" x2="400" y2="138"/>
+    <line x1="480" y1="110" x2="480" y2="138"/>
+    <line x1="560" y1="110" x2="560" y2="138"/>
+    <line x1="60" y1="138" x2="580" y2="138"/>
+  </g>
+  <text x="320" y="172" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#555555" text-anchor="middle">6 / 7</text>
+</svg>

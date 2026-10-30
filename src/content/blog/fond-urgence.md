@@ -71,7 +71,7 @@ Before touching the fund, ask: Is it unexpected? Is it urgent? Is it necessary? 
 
 <div data-i18n-html="article_fond-urgence_p11"><h2>Why It Matters</h2></div>
 
-<div data-i18n-html="article_fond-urgence_p12">Without an emergency fund, a single €800 car repair goes on a credit card at 20 percent APR. Minimum payments on €800 take roughly 3 years and cost an extra €540 in interest. That is €1 340 for what should have been an inconvenience. Multiply by two or three surprises in the same year and the hole becomes a career trap: you stay in a job you hate because leaving means losing the income that services the debt.</div>
+<div data-i18n-html="article_fond-urgence_p12">Without an emergency fund, a single €800 car repair goes on a <a href="/journal/debt-is-a-story/">credit card at 20 percent APR</a>. Minimum payments on €800 take roughly 3 years and cost an extra €540 in interest. That is €1 340 for what should have been an inconvenience. Multiply by two or three surprises in the same year and the hole becomes a career trap: you stay in a job you hate because leaving means losing the income that services the debt.</div>
 
 <div data-i18n-html="article_fond-urgence_p13">With an emergency fund, unexpected expenses are inconvenient — not devastating.</div>
 

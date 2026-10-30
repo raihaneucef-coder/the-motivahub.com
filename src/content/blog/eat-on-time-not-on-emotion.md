@@ -47,18 +47,26 @@ relatedArticles:
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p2">Hunger makes bad decisions. Regular meals make good ones automatic.</div>
 
+<div data-i18n-html="article_eat-on-time-not-on-emotion_h2a"><h2>Hunger is a bad advisor</h2></div>
+
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p3">Hunger is not a good time to decide what to eat.</div>
 
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p4">When you are starving, everything quick and sweet looks like the answer. Your brain, <a href="/journal/the-plate-that-keeps-you-steady/">low on fuel</a>, chooses what is fastest, not what is best for the afternoon you still have to live.</div>
 
+<div data-i18n-html="article_eat-on-time-not-on-emotion_h2b"><h2>Regular meals make it automatic</h2></div>
+
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p5"><strong>Regular meals make good decisions automatic.</strong></div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p6">Eat before you are starving. Decide what lunch will be while you are still full from breakfast. <a href="/journal/meal-prep-dimanche/">Keep a simple backup</a> — yogurt, nuts, fruit — for the day that goes long.</div>
 
+<div data-i18n-html="article_eat-on-time-not-on-emotion_h2c"><h2>A caution about blood sugar</h2></div>
+
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p13">A caution keeps the advice honest. Popular science says a dip in blood glucose makes you irritable and weak-willed, and that framing is overstated — the body regulates blood sugar tightly, and 'hangriness' is more about the discomfort of hunger and habit than a dangerous crash. The practical point survives the hype anyway: eating on a rhythm blunts the hunger that narrows your choices, which is a scheduling win, not a medical one.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p7">This is not about perfect timing. It is about never arriving at a meal so hungry that you cannot choose well.</div>
+
+<div data-i18n-html="article_eat-on-time-not-on-emotion_h2d"><h2>Try it</h2></div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p8">Try it:</div>
 
@@ -67,6 +75,8 @@ relatedArticles:
 - <strong>Decide when you are calm.</strong> What you will eat for dinner is best decided at lunch, not at 7 PM when you are tired.</div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p10">You do not need more discipline at the table. You need less hunger at the table.</div>
+
+<div data-i18n-html="article_eat-on-time-not-on-emotion_h2e"><h2>The three-day log</h2></div>
 
 <div data-i18n-html="article_eat-on-time-not-on-emotion_p12">The three-day log that shows the pattern: for three days, write each eating moment as "time + what happened just before" — not what you ate, what happened before it. By the second evening the truth is on paper: the 16:30 biscuit is the dead meeting, the late snack is the unfinished task. You cannot delete every trigger, but you can meet a known one with a pre-decided response — water, a walk, ten minutes outside — chosen in advance, not improvised at the low moment.</div>
 

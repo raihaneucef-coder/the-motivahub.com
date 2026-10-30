@@ -47,10 +47,14 @@ relatedArticles:
 
 <div data-i18n-html="article_people-who-raise-your-floor_p2">You do not rise to the level of your goals — you fall to the level of the people around you. Choose the room that raises your floor.</div>
 
+<div data-i18n-html="article_people-who-raise-your-floor_h2a"><h2>Your floor, not your ceiling</h2></div>
+
 <div data-i18n-html="article_people-who-raise-your-floor_p3">We obsess over our ceiling — how high we could go — and ignore our floor — how low we fall when we are tired.</div>
 
 
 <div data-i18n-html="article_people-who-raise-your-floor_p4">Your floor is not set by you alone. It is set by the room you keep returning to. The friends who normalize early mornings or late-night scrolling. The family that expects you to try or to stay small. The conversations that leave you lighter or heavier.</div>
+
+<div data-i18n-html="article_people-who-raise-your-floor_h2b"><h2>You become what you tolerate</h2></div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p5"><strong>You will become the average of what you tolerate.</strong></div>
 
@@ -58,7 +62,11 @@ relatedArticles:
 
 <div data-i18n-html="article_people-who-raise-your-floor_p7">This does not mean abandoning people. It means adding people — deliberately. <a href="/journal/love-is-a-practice/">One relationship</a> that raises your standard changes the math for all the others.</div>
 
-<div data-i18n-html="article_people-who-raise-your-floor_p12">This is not folk wisdom — it has a data trail. The Framingham Heart Study analyses by Christakis and Fowler showed that obesity, smoking, and even happiness cluster and spread across social networks, not just to your direct friends but to friends-of-friends. Behaviors travel along relationships. That is the strongest argument for the 'add people' move: you are not just choosing company, you are choosing which currents your habits will ride.</div>
+<div data-i18n-html="article_people-who-raise-your-floor_h2c"><h2>Behaviours travel through networks</h2></div>
+
+<div data-i18n-html="article_people-who-raise-your-floor_p12">This is not folk wisdom — it has a data trail. The Framingham Heart Study analyses by <a href="https://pubmed.ncbi.nlm.nih.gov/17652652/" target="_blank" rel="noopener">Christakis and Fowler</a> showed that obesity, smoking, and even happiness cluster and spread across social networks, not just to your direct friends but to friends-of-friends. Behaviors travel along relationships. That is the strongest argument for the 'add people' move: you are not just choosing company, you are choosing which currents your habits will ride.</div>
+
+<div data-i18n-html="article_people-who-raise-your-floor_h2d"><h2>Three signals to look for</h2></div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_p8">Look for three signals:</div>
 

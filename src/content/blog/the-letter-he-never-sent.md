@@ -52,6 +52,8 @@ relatedArticles:
 <div data-i18n-html="article_the-letter-he-never-sent_p11"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
 
 
+<div data-i18n-html="article_the-letter-he-never-sent_h2a"><h2>The morning letter</h2></div>
+
 <div data-i18n-html="article_the-letter-he-never-sent_p3">He was angry for ten years.</div>
 
 
@@ -59,15 +61,23 @@ relatedArticles:
 
 <div data-i18n-html="article_the-letter-he-never-sent_p5">For a year, the drawer filled.</div>
 
+<div data-i18n-html="article_the-letter-he-never-sent_h2b"><h2>Month by month, the letters changed</h2></div>
+
 <div data-i18n-html="article_the-letter-he-never-sent_p6">In month three, <a href="/journal/histoire-professeur/">the letters got shorter</a>. In month six, they got kinder. By month nine, he was writing about what he had learned, not what had been taken.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p7"><strong>He did not forgive because the other person changed. He changed because he kept writing.</strong></div>
+
+<div data-i18n-html="article_the-letter-he-never-sent_h2c"><h2>Day 365</h2></div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p8">On day 365, he opened the drawer and read the first letter. He barely recognized the handwriting, or the man who had written it.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p9">He took the whole stack to the garden and burned it. Not because the past did not matter, but because he no longer needed to carry it to prove it had happened.</div>
 
-<div data-i18n-html="article_the-letter-he-never-sent_p13">Psychologists who study expressive writing, particularly the Pennebaker paradigm at UT Austin, have found that writing about difficult experiences in coherent detail is associated with better mood and fewer intrusive thoughts. A letter you never send is one way to do that writing: the act of organizing grief, gratitude, or apology into sentences is where much of the processing happens.</div>
+<div data-i18n-html="article_the-letter-he-never-sent_h2d"><h2>What expressive writing does</h2></div>
+
+<div data-i18n-html="article_the-letter-he-never-sent_p13">Psychologists who study expressive writing, particularly the Pennebaker paradigm at UT Austin, have found that writing about difficult experiences in coherent detail is associated with better mood and fewer intrusive thoughts (<a href="https://pubmed.ncbi.nlm.nih.gov/17073523/" target="_blank" rel="noopener">Frattaroli, 2006</a>). A letter you never send is one way to do that writing: the act of organizing grief, gratitude, or apology into sentences is where much of the processing happens.</div>
+<div data-i18n-html="article_the-letter-he-never-sent_h2e"><h2>Write the letter tonight</h2></div>
+
 <div data-i18n-html="article_the-letter-he-never-sent_p14">If there is a letter sitting unsent in your mind — try this tonight. Write it in full detail. Name what happened, what you felt, what you needed, and what you would say if time were not the obstacle. Seal it. Keep or burn it. The point is the organizing, not the mailing.</div>
 
 <div data-i18n-html="article_the-letter-he-never-sent_p10"><a href="/journal/proof-over-noise/">Proof over noise</a>. The most powerful stories are not about what happened to people — they are about what people did next, quietly, when no one was watching.</div>

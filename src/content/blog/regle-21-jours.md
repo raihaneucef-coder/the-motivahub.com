@@ -67,7 +67,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-21-jours_p8"><h2>What the Research Actually Says</h2></div>
 
-<div data-i18n-html="article_regle-21-jours_p9">The University College London study behind this number (Lally et al., 2010) found that the median time to reach automaticity was <strong>66 days</strong>. But the range was massive:
+<div data-i18n-html="article_regle-21-jours_p9">The University College London study behind this number (<a href="https://doi.org/10.1002/ejsp.674" target="_blank" rel="noopener">Lally et al., 2010</a>) found that the median time to reach automaticity was <strong>66 days</strong>. But the range was massive:
 - The quickest habits took about 18 days
 - The slowest took about 254 days</div>
 

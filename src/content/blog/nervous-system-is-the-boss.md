@@ -47,10 +47,14 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p2">Your mind does not decide how you feel — your nervous system does. Learn to work with it, not against it.</div>
 
+<div data-i18n-html="article_nervous-system-is-the-boss_h2a"><h2>The body decides first</h2></div>
+
 <div data-i18n-html="article_nervous-system-is-the-boss_p3">You cannot think your way out of a body that believes it is in danger.</div>
 
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p4">You can repeat affirmations while your jaw is clenched, your shoulders are up to your ears, and your breath is shallow. Your nervous system will not be convinced. It listens to the body first, and to words last.</div>
+
+<div data-i18n-html="article_nervous-system-is-the-boss_h2b"><h2>The boss is your state</h2></div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p5"><strong>The boss is not your mind. It is your state.</strong></div>
 
@@ -58,9 +62,13 @@ relatedArticles:
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p7">This is not an excuse; it is a lever. You cannot always control the situation, but you can almost always shift your state by ten percent. And ten percent is enough to choose a better next move.</div>
 
+<div data-i18n-html="article_nervous-system-is-the-boss_h2c"><h2>Three levers</h2></div>
+
 <div data-i18n-html="article_nervous-system-is-the-boss_p8">Three levers, available anywhere:</div>
 
-<div data-i18n-html="article_nervous-system-is-the-boss_p12">The polyvagal framework, developed by Stephen Porges, is influential — and still debated in its details. Its practical claim is widely accepted: when the autonomic nervous system detects threat it shifts toward fight-flight or shutdown, and the prefrontal cortex — the part that plans, reasons, and chooses — does not operate at its best. You cannot think your way out of a nervous-system response.</div>
+<div data-i18n-html="article_nervous-system-is-the-boss_h2d"><h2>What polyvagal theory claims</h2></div>
+
+<div data-i18n-html="article_nervous-system-is-the-boss_p12">The polyvagal framework, developed by Stephen Porges, is influential — and still debated in its details. Its practical claim is widely accepted: when the autonomic nervous system detects threat it shifts toward fight-flight or shutdown, and the prefrontal cortex — the part that plans, reasons, and chooses — does not operate at its best (<a href="https://pubmed.ncbi.nlm.nih.gov/19455173/" target="_blank" rel="noopener">Arnsten, 2009</a>). You cannot think your way out of a nervous-system response.</div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_p13">Resets that take under two minutes: a long exhale (four in, seven out), cold water on the inner wrists, humming one sustained note, or a flat palm on the chest just feeling the ribcage rise and fall. These are not meditation — they are physiological signals of safety sent straight to the brainstem.</div>
 

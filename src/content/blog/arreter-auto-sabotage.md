@@ -242,7 +242,7 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-auto-sabotage_p83"><h2>Sources</h2></div>
 
-<div data-i18n-html="article_arreter-auto-sabotage_p84">1. <em>Gollwitzer, P. M., & Sheeran, P.</em> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119.
+<div data-i18n-html="article_arreter-auto-sabotage_p84">1. <a href="https://doi.org/10.1016/S0065-2601(06)38002-1" target="_blank" rel="noopener"><em>Gollwitzer, P. M., &amp; Sheeran, P.</em></a> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119.
 2. <em>Baumeister, R. F., & Tierney, J.</em> (2011). <em>Willpower: Rediscovering the Greatest Human Strength.</em> — for the decision fatigue research
 3. <em>Carol Dweck</em> — <em>Mindset</em> (2006) — for the identity and self-sabotage connection</div>
 

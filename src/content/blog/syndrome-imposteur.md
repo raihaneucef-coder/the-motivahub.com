@@ -74,7 +74,7 @@ If you were praised for being "smart" rather than "hardworking" (research by Car
 <div data-i18n-html="article_syndrome-imposteur_p12"><h2>How to Overcome It</h2></div>
 
 <div data-i18n-html="article_syndrome-imposteur_p13"><h3>1. Name It</h3>
-When you feel like a fraud, say out loud: "This is imposter syndrome." The act of labelling (affect labelling, Lieberman 2007) shifts processing from emotional to prefrontal, reducing the intensity. Naming converts "I am a fraud" (identity) into "I am having an imposter episode" (event) — events pass; identities feel permanent.</div>
+When you feel like a fraud, say out loud: "This is imposter syndrome." The act of labelling (affect labelling, <a href="https://pubmed.ncbi.nlm.nih.gov/17576282/" target="_blank" rel="noopener">Lieberman et al., 2007</a>) shifts processing from emotional to prefrontal, reducing the intensity. Naming converts "I am a fraud" (identity) into "I am having an imposter episode" (event) — events pass; identities feel permanent.</div>
 
 <div data-i18n-html="article_syndrome-imposteur_p14"><h3>2. Track Your Evidence</h3>
 Keep a running log of concrete wins: compliments received, problems solved, projects delivered, skills learned. When imposter syndrome strikes, review the list. The point is not to feel superior — it is to give your rational brain a file to open when the emotional brain makes a claim without evidence.</div>

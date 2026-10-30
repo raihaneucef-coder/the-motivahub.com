@@ -63,6 +63,11 @@ relatedArticles:
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p8">James Clear calls this the <strong>inversion of the four laws</strong>. Instead of making it obvious, attractive, easy, and satisfying — you make it invisible, unattractive, difficult, and unsatisfying.</div>
 
+<div data-i18n-html="article_casser-mauvaise-habitude_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/habit-law-inversion.svg" alt="Diagram of the inversion of the four laws: four habit states on the left, each arrowed into the same state neutralised on the right — obvious becomes invisible, attractive becomes unattractive, easy becomes difficult, satisfying becomes unsatisfying" width="640" height="204" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">Each law inverted: the same four levers, run in reverse — invisible, unattractive, difficult, unsatisfying.</figcaption>
+</figure></div>
+
 <div data-i18n-html="article_casser-mauvaise-habitude_p9"><h3>Law 1: Make It Invisible</h3></div>
 
 <div data-i18n-html="article_casser-mauvaise-habitude_p10">The first step is to remove the trigger. If you cannot see it, you cannot do it.</div>

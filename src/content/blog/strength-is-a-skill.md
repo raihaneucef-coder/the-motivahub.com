@@ -48,14 +48,20 @@ relatedArticles:
 
 <div data-i18n-html="article_strength-is-a-skill_p2">Strength is not given — it is practiced. Every rep is a lesson in patience and form.</div>
 
+<div data-i18n-html="article_strength-is-a-skill_h2a"><h2>Strength is built, not given</h2></div>
+
 <div data-i18n-html="article_strength-is-a-skill_p3">We treat strength as something people have. It is something people build, rep by rep, with attention.</div>
 
 
 <div data-i18n-html="article_strength-is-a-skill_p4">The strongest people in the gym are not the ones who lift the most on day one. They are the ones who still care about form on rep 100.</div>
 
+<div data-i18n-html="article_strength-is-a-skill_h2b"><h2>A skill, learned slowly</h2></div>
+
 <div data-i18n-html="article_strength-is-a-skill_p5"><strong>Strength is a skill. Skills are learned slowly and kept with practice.</strong></div>
 
 <div data-i18n-html="article_strength-is-a-skill_p6">The bar teaches what books cannot: that <a href="/journal/consistance-bat-intensite/">progress is not linear</a>, that patience is a form of strength, and that the last rep — the one you almost skip — is the one that teaches you who you are.</div>
+
+<div data-i18n-html="article_strength-is-a-skill_h2c"><h2>Start where you are</h2></div>
 
 <div data-i18n-html="article_strength-is-a-skill_p7">Start where you are, not where you wish you were:</div>
 
@@ -63,7 +69,11 @@ relatedArticles:
 - <strong>Add one rep, not ten pounds.</strong> Small progress, repeated, is the only progress that lasts.
 - <strong>Rest as hard as you lift.</strong> The muscle grows while you sleep, not while you strain.</div>
 
+<div data-i18n-html="article_strength-is-a-skill_h2d"><h2>Why beginners get stronger first</h2></div>
+
 <div data-i18n-html="article_strength-is-a-skill_p11">Beginners get stronger before their muscles visibly grow. That early strength is largely neural: the nervous system learns to recruit more motor units and fire them in a coordinated pattern, which is why a new lifter can add weight for weeks without much visible change. The lift is a motor pattern you rehearse, not just a load you endure — which is why technique work counts as training, not as a warm-up.</div>
+
+<div data-i18n-html="article_strength-is-a-skill_h2e"><h2>A safe week-one template</h2></div>
 
 <div data-i18n-html="article_strength-is-a-skill_p10">A safe week-one template: two sessions, non-consecutive days, full body — one push (incline push-up or bench), one pull (row or band), one squat or hinge, one carry (walk with heavy bags). Three sets of each, stopping two reps before failure, adding a rep or a few kilos per week. That "little and often" is the entire skill. Rest days are for walking and sleeping, not for testing. With an injury or a medical condition, a professional clears the plan before the barbell does.</div>
 

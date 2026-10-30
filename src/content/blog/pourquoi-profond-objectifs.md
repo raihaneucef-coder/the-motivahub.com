@@ -86,7 +86,7 @@ Every time you follow your system, remind yourself: "I am doing this because [de
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p15"><h2>The Power of Purpose</h2></div>
 
-<div data-i18n-html="article_pourquoi-profond-objectifs_p16">This isn't just feel-good framing. A 2016 meta-analysis of cohort studies (Cohen and colleagues) found that people with a stronger sense of purpose had roughly 17% lower risk of dying over the follow-up period, and a 2019 JAMA Network Open study of nearly 7,000 adults echoed it. Purpose looks less like motivation and more like a measurable health variable.</div>
+<div data-i18n-html="article_pourquoi-profond-objectifs_p16">This isn't just feel-good framing. A 2016 meta-analysis of cohort studies (<a href="https://pubmed.ncbi.nlm.nih.gov/26630073/" target="_blank" rel="noopener">Cohen and colleagues</a>) found that people with a stronger sense of purpose had roughly 17% lower risk of dying over the follow-up period, and a 2019 JAMA Network Open study of nearly 7,000 adults echoed it. Purpose looks less like motivation and more like a measurable health variable.</div>
 
 <div data-i18n-html="article_pourquoi-profond-objectifs_p17"><blockquote><em>He who has a why to live can bear almost any how. — Friedrich Nietzsche</em></blockquote></div>
 

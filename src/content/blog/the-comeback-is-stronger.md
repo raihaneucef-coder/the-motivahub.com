@@ -47,6 +47,8 @@ relatedArticles:
 
 <div data-i18n-html="article_the-comeback-is-stronger_p2">Every setback is a setup for a stronger comeback. Your greatest growth is not in never falling — it is in rising with more fire.</div>
 
+<div data-i18n-html="article_the-comeback-is-stronger_h2a"><h2>The fall built you</h2></div>
+
 <div data-i18n-html="article_the-comeback-is-stronger_p3">They told you the fall would break you. It didn't. It built you.</div>
 
 
@@ -54,15 +56,21 @@ relatedArticles:
 
 <div data-i18n-html="article_the-comeback-is-stronger_p5"><strong>The setback is not the opposite of the comeback. It is the reason for it.</strong></div>
 
+<div data-i18n-html="article_the-comeback-is-stronger_h2b"><h2>You are not the person who fell</h2></div>
+
 <div data-i18n-html="article_the-comeback-is-stronger_p6">You fell because you tried. You tried because you cared. And now you have something no book can give you: proof that you can get up.</div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p7">The comeback is always stronger because you are not the same person who fell. You are the person who <a href="/journal/long-ascent/">learned how to rise</a>.</div>
+
+<div data-i18n-html="article_the-comeback-is-stronger_h2c"><h2>Do not rush the rise</h2></div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p8">Do not rush the rise. Feel the fire, then use it:</div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p9">- <strong>Name what the fall taught you.</strong> Not what it took, what it gave. <a href="/journal/journal-croissance/">One lesson, written down</a>.
 - <strong>Take one bold step today.</strong> Not ten, one. Send the message, make the call, take the walk. Momentum loves a single brave move.
 - <strong>Tell the new story.</strong> Not "I failed," but "I am coming back — and this time I know the terrain."</div>
+
+<div data-i18n-html="article_the-comeback-is-stronger_h2d"><h2>What the stretch between teaches</h2></div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_p12">The stretch between setback and return is often the part people look back on as the one that taught them most. Motivation tends to run high, attention feels sharper, and the things you used to skip are harder to skip now. The comeback is not just returning to where you were; it is arriving somewhere your original trajectory would never have reached.</div>
 <div data-i18n-html="article_the-comeback-is-stronger_p13">The practical framework is smaller than it sounds. Do not plan a comeback. Plan the next Tuesday. Show up for the boring, invisible version of the work that no highlight reel will show. The stronger version of you is built in the rep nobody sees, not the performance everyone watches.</div>

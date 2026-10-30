@@ -66,7 +66,7 @@ relatedArticles:
 A 25-minute timer converts "whenever" into "before the beep". That shift is the mechanism. Open-ended work expands to fill the day; a fixed window forces a single decision — start now or lose the slot. On a bad day, one honest Pomodoro is often more output than three "I'll do it later" hours.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p9"><h3>2. It <a href="/journal/deep-work-focus/">Forces Single-Tasking</a></h3>
-During a Pomodoro, one task only. No alt-tab, no "quick check". Switching is not free — a glance at a message leaves what Sophie Leroy (2009) called attention residue on the previous task, and the next one runs slower because of it. The timer does one thing besides measuring: it makes the rule visible at the moment you want to break it.</div>
+During a Pomodoro, one task only. No alt-tab, no "quick check". Switching is not free — a glance at a message leaves what <a href="https://doi.org/10.1016/j.obhdp.2009.04.002" target="_blank" rel="noopener">Sophie Leroy (2009)</a> called attention residue on the previous task, and the next one runs slower because of it. The timer does one thing besides measuring: it makes the rule visible at the moment you want to break it.</div>
 
 <div data-i18n-html="article_technique-pomodoro_p10"><h3>3. It Prevents Burnout</h3>
 The break is not a reward for work; it is what lets you do the next block at all. Sustained attention measurably degrades after twenty to thirty minutes, and a short walk, stretch or window-gaze restores more than the five minutes cost. Skip breaks to "keep momentum" and you will pay for it by the seventh hour.</div>

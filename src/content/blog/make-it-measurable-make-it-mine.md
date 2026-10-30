@@ -47,6 +47,8 @@ relatedArticles:
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p2">A goal fails at two points: when you cannot tell whether you moved, and when you do not actually care. This is a short working guide to fixing both — one number you can answer yes or no to at night, and one sentence explaining why it is yours.</div>
 
+<div data-i18n-html="article_make-it-measurable-make-it-mine_h2a"><h2>The two ways a goal fails</h2></div>
+
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p3">Vague goals inspire no one, least of all the person who set them.</div>
 
 
@@ -54,9 +56,15 @@ relatedArticles:
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p5"><strong>Make it measurable, make it mine.</strong></div>
 
+<div data-i18n-html="article_make-it-measurable-make-it-mine_h2b"><h2>Measurable means yes or no</h2></div>
+
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p6">Measurable means you can answer yes or no at night. Not "be more consistent" but "<a href="/journal/retroengineering-objectifs/">write 200 words</a>." Not "get fit" but "walk 30 minutes." The smaller the measure, the more honest the answer.</div>
 
+<div data-i18n-html="article_make-it-measurable-make-it-mine_h2c"><h2>Mine means it survives inconvenience</h2></div>
+
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p7">Mine means it matters to you, not to the audience. A goal you set to impress will be abandoned the first time it is inconvenient. A goal that is yours will be protected.</div>
+
+<div data-i18n-html="article_make-it-measurable-make-it-mine_h2d"><h2>Try it with one goal this week</h2></div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p8">Try this for one goal this week:</div>
 
@@ -64,7 +72,9 @@ relatedArticles:
 - <strong>Write the why in one sentence, in your words.</strong> No borrowed language.
 - <strong>Put both where you will see them at night.</strong> The measure tells you if you moved. The why tells you why it mattered.</div>
 
-<div data-i18n-html="article_make-it-measurable-make-it-mine_p12">Psychologists call this the goal-gradient effect: the closer you can see yourself to a concrete finish line, the more effort you invest per step. Vague goals have no finish line to approach, so motivation stays flat.</div>
+<div data-i18n-html="article_make-it-measurable-make-it-mine_h2e"><h2>Why the finish line pulls</h2></div>
+
+<div data-i18n-html="article_make-it-measurable-make-it-mine_p12">Psychologists call this the goal-gradient effect (<a href="https://doi.org/10.1509/jmkr.43.1.39" target="_blank" rel="noopener">Kivetz et al., 2006</a>): the closer you can see yourself to a concrete finish line, the more effort you invest per step. Vague goals have no finish line to approach, so motivation stays flat.</div>
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p13">Make it yours by connecting the number to a feeling you already care about. Not a number for a spreadsheet — a number that, when hit, changes what your Tuesday evening looks like. Proximity to lived experience is what turns a metric into a motive.</div>
 
 <div data-i18n-html="article_make-it-measurable-make-it-mine_p10">Clarity is not pressure. It is permission to know, each night, whether today was north — and to correct, kindly, tomorrow.</div>

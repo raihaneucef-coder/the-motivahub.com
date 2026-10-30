@@ -47,21 +47,31 @@ relatedArticles:
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p2">A good film does not just entertain — it rearranges you. Choose stories that profit your life.</div>
 
+<div data-i18n-html="article_the-movie-that-changed-your-week_h2a"><h2>A good film gives you a week</h2></div>
+
 <div data-i18n-html="article_the-movie-that-changed-your-week_p3">A bad film wastes two hours. A good film gives you a week.</div>
 
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p4">You walk out and the world looks a little different. A line stays with you. A choice the character made becomes a question you ask yourself.</div>
 
+<div data-i18n-html="article_the-movie-that-changed-your-week_h2b"><h2>The quiet film, not the loudest</h2></div>
+
 <div data-i18n-html="article_the-movie-that-changed-your-week_p5"><strong><a href="/journal/play-on-purpose/">Entertainment that profits you</a> is not about escaping life — it is about returning to it with more.</strong></div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p6">The film that changes your week is rarely the loudest one. It is the one that asks a question you have been avoiding.</div>
+
+<div data-i18n-html="article_the-movie-that-changed-your-week_h2c"><h2>Elevation</h2></div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p13">Psychologist Jonathan Haidt named the feeling the best films trigger: elevation — the warmth you get watching someone choose courage or kindness at a cost. The experimental demonstration came later — in one study (Schnall, Roper & Fessler, 2010), watching a video of moral elevation made people more likely to help the experimenter afterward. That is the mechanism behind 'a film that gives you a week': it is not escapism, it is a jolt of motivation you can spend.</div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p11">Psychologists even have a name for what happens when a film gets under your skin: <em>narrative transportation</em> — full absorption into a story, which shifts beliefs and emotions in ways plain argument rarely manages (Green & Brock, 2000, <em>Journal of Personality and Social Psychology</em>; <a href="https://en.wikipedia.org/wiki/Transportation_theory_(psychology)" target="_blank" rel="noopener">overview of the theory</a>). The films that change your week are the ones that transport you, not the ones that merely entertain you.</div>
 
+<div data-i18n-html="article_the-movie-that-changed-your-week_h2d"><h2>One to start with tonight</h2></div>
+
 <div data-i18n-html="article_the-movie-that-changed-your-week_p12">If you want one to start with tonight: <em>Good Will Hunting</em> (1997, directed by Gus Van Sant — Academy Award for Best Original Screenplay for Matt Damon and Ben Affleck; <a href="https://www.imdb.com/title/tt0119217/" target="_blank" rel="noopener">IMDb</a>). Its real subject is not mathematics — it is a gifted man defending himself from his own potential, exactly the move this site keeps naming. Watch it carrying one question: which of my walls is made of that?</div>
 
+
+<div data-i18n-html="article_the-movie-that-changed-your-week_h2e"><h2>Choose it on purpose</h2></div>
 
 <div data-i18n-html="article_the-movie-that-changed-your-week_p7">Choose it on purpose:</div>
 

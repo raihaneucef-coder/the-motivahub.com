@@ -45,14 +45,20 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-feels-like-breaking_p2">Growth is not comfortable — it feels like breaking. But breaking is not the end; it is the beginning of becoming.</div>
 
+<div data-i18n-html="article_growth-feels-like-breaking_h2a"><h2>First, it feels like breaking</h2></div>
+
 <div data-i18n-html="article_growth-feels-like-breaking_p3">You thought growth would feel like becoming. At first, it feels like breaking.</div>
 
 
 <div data-i18n-html="article_growth-feels-like-breaking_p4">The old habits crack. The old stories do not fit. The person you were holds on while the person you are becoming tries to be born. It is uncomfortable, and it is exactly right.</div>
 
+<div data-i18n-html="article_growth-feels-like-breaking_h2b"><h2>Growth asks for courage, not comfort</h2></div>
+
 <div data-i18n-html="article_growth-feels-like-breaking_p5"><strong>Growth does not ask for your comfort. It asks for your courage.</strong></div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p6">Everyone wants <a href="/journal/journal-croissance/">the becoming</a>. Few want the breaking that comes first. But you cannot become without breaking the shell that held the smaller you.</div>
+
+<div data-i18n-html="article_growth-feels-like-breaking_h2c"><h2>The breaking is expansion</h2></div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p7">The breaking is not failure. It is the sound of expansion:</div>
 
@@ -62,9 +68,13 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-feels-like-breaking_p9">Do not rush to feel comfortable again. Stay in the break. Breathe there.</div>
 
+<div data-i18n-html="article_growth-feels-like-breaking_h2d"><h2>The liminal phase</h2></div>
+
 <div data-i18n-html="article_growth-feels-like-breaking_p13">Developmental psychology names this the liminal phase — the stretch between the identity you are leaving and the one you are moving toward. In it you have the awareness of the old self but none of the evidence of the new one, so the brain files the discomfort under 'something is wrong' when what is actually happening is 'something is dissolving to make room.' Knowing the name turns a panic signal into a milestone.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p10">Ask: what is trying to be born in me that needs this discomfort to arrive?</div>
+
+<div data-i18n-html="article_growth-feels-like-breaking_h2e"><h2>Where the metaphor overreaches</h2></div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_p12">Say the limits out loud, because the metaphor overreaches: tissues genuinely adapt under stress that recovers with rest — but soreness is not a scorecard and pain is not progress. The usable version: one notch more than last week (a rep, a minute, a difficulty), then real rest, then check whether it became easier. That is growth you can verify — without worshipping at damage.</div>
 

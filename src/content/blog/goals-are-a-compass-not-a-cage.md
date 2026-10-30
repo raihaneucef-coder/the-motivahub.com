@@ -47,18 +47,28 @@ relatedArticles:
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p2">A good goal does not trap you — it points you. Learn how to set goals that pull you forward without breaking you.</div>
 
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_h2a"><h2>A goal is not a cage</h2></div>
+
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p3">We treat goals as cages. Once we set one, we feel trapped by it. If we miss a day, we feel guilty. If we change our mind, we feel like we failed.</div>
 
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p4">A better way is to treat a goal as a compass.</div>
 
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_h2b"><h2>North, not a contract</h2></div>
+
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p5">A cage says: you must stay inside me. A compass says: this is north — walk that way as best you can today.</div>
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p6"><strong>A compass keeps you oriented without demanding perfection.</strong> You can take a detour, you can rest, you can even change the destination when you learn more. The compass does not judge; it just keeps pointing.</div>
 
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_h2c"><h2>Clear about direction, flexible about path</h2></div>
+
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p7">This is why the most motivated people are not the most rigid. They are the most clear about direction and the most flexible about the path.</div>
 
-<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p12">Motivational science backs the compass. Researchers in the lifespan theory of control separate persistent goal striving (good) from over-investing in a goal that no longer fits (which raises distress and lowers attainment). The healthy move is flexible goal adjustment: stay committed to the direction, willing to rewrite the specific target when reality teaches you something. Same north, updated map.</div>
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_h2d"><h2>What motivation research adds</h2></div>
+
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p12">Motivational science backs the compass. Researchers in the lifespan theory of control (<a href="https://doi.org/10.1177/0146167203256921" target="_blank" rel="noopener">Wrosch et al., 2003</a>) separate persistent goal striving (good) from over-investing in a goal that no longer fits (which raises distress and lowers attainment). The healthy move is flexible goal adjustment: stay committed to the direction, willing to rewrite the specific target when reality teaches you something. Same north, updated map.</div>
+
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_h2e"><h2>Try it with one goal this week</h2></div>
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_p8">Try it with one goal this week:</div>
 

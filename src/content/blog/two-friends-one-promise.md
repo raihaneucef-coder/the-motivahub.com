@@ -57,6 +57,8 @@ relatedArticles:
 <div data-i18n-html="article_two-friends-one-promise_p11"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
 
 
+<div data-i18n-html="article_two-friends-one-promise_h2a"><h2>A promise to a friend</h2></div>
+
 <div data-i18n-html="article_two-friends-one-promise_p3">They promised to walk every day for a year. No matter the weather, no matter the mood.</div>
 
 
@@ -66,13 +68,21 @@ relatedArticles:
 
 <div data-i18n-html="article_two-friends-one-promise_p6">Day 182, they walked in a new city, on a trip they had not planned when they made the promise.</div>
 
+<div data-i18n-html="article_two-friends-one-promise_h2b"><h2>The walk was never the point</h2></div>
+
 <div data-i18n-html="article_two-friends-one-promise_p7"><strong>The walk was never the point. The promise was.</strong></div>
 
 <div data-i18n-html="article_two-friends-one-promise_p8">At the end of the year, they had walked 365 times. They had also not missed a single day they said they would show up for each other. That record — more than the miles — is what they carry now.</div>
 
+<div data-i18n-html="article_two-friends-one-promise_h2c"><h2>A promise, not a habit</h2></div>
+
 <div data-i18n-html="article_two-friends-one-promise_p9">When people ask how they stayed consistent, they say: we did not keep a walking habit. We <a href="/journal/histoire-concierge-millionnaire/">kept a promise to a friend</a>. The habit was just what the promise looked like from the outside.</div>
 
-<div data-i18n-html="article_two-friends-one-promise_p12">The Harvard Study of Adult Development, which has followed the same men since 1938 and is now in its ninth decade, has repeatedly reported that the strongest predictor of well-being in old age is not income, fame, or health markers but the quality of a person's close relationships (Waldinger & Schulz, The Good Life, 2023). Community is not a luxury; it is a longitudinal health intervention.</div>
+<div data-i18n-html="article_two-friends-one-promise_h2d"><h2>What the Harvard study found</h2></div>
+
+<div data-i18n-html="article_two-friends-one-promise_p12"><a href="https://www.adultdevelopmentstudy.org/" target="_blank" rel="noopener">The Harvard Study of Adult Development</a>, which has followed the same men since 1938 and is now in its ninth decade, has repeatedly reported that the strongest predictor of well-being in old age is not income, fame, or health markers but the quality of a person's close relationships (Waldinger & Schulz, The Good Life, 2023). Community is not a luxury; it is a longitudinal health intervention.</div>
+<div data-i18n-html="article_two-friends-one-promise_h2e"><h2>Kept in small installments</h2></div>
+
 <div data-i18n-html="article_two-friends-one-promise_p13">Promises between friends are kept in small installments, not grand gestures. A text on the anniversary of a hard week. Showing up at the airport at 6 a.m. Because that is what your friend needs, not because it is convenient for you. The keeping is the friendship; everything else is scenery. When the promise has to outlast one person, the structures that do that are the subject of <a href="/journal/community-discipline/">another article</a>.</div>
 
 <div data-i18n-html="article_two-friends-one-promise_p10"><a href="/journal/proof-over-noise/">Proof over noise</a>: community is not found. It is kept, one walk at a time.</div>

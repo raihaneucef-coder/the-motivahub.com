@@ -55,7 +55,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p5"><h2>1. Fixed Mindset vs. Growth Mindset</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p6">Carol Dweck, a psychologist at Stanford, identified two basic mindsets:</div>
+<div data-i18n-html="article_mindset-etat-esprit_p6"><a href="https://doi.org/10.1037/0033-295X.95.2.256" target="_blank" rel="noopener">Carol Dweck</a>, a psychologist at Stanford, identified two basic mindsets:</div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p7"><strong>Fixed mindset:</strong> “I'm bad at maths. That is just how I am.”<br><strong>Growth mindset:</strong> “I'm bad at maths <em>for now</em>. I can learn.”</div>
 

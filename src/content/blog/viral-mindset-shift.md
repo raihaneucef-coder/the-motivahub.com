@@ -59,7 +59,7 @@ relatedArticles:
 
 <div data-i18n-html="article_viral-mindset-shift_p6">Business, sport, habits — all of them follow the same rule. The person who says "I am trying to be disciplined" is negotiating. The person who says "I am disciplined" has finished negotiating.</div>
 
-<div data-i18n-html="article_viral-mindset-shift_p15">This is not just a motivational slogan — it has an experiment behind it. Psychologists Christopher Bryan et al. (2011) found that framing a behavior as an identity ('being a helper') rather than an action ('to help') measurably changed how people acted. Nouns beat verbs because identity claims feel like statements about the self, and humans work hard to behave consistently with who they believe they are. Say 'I am a runner,' not 'I want to run.'</div>
+<div data-i18n-html="article_viral-mindset-shift_p15">This is not just a motivational slogan — it has an experiment behind it. Psychologists <a href="https://pubmed.ncbi.nlm.nih.gov/21768362/" target="_blank" rel="noopener">Christopher Bryan et al. (2011)</a> found that framing a behavior as an identity ('being a helper') rather than an action ('to help') measurably changed how people acted. Nouns beat verbs because identity claims feel like statements about the self, and humans work hard to behave consistently with who they believe they are. Say 'I am a runner,' not 'I want to run.'</div>
 
 <div data-i18n-html="article_viral-mindset-shift_p7"><h2>The Clip Is the Tip</h2></div>
 

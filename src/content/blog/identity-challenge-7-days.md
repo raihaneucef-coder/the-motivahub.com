@@ -144,6 +144,11 @@ relatedArticles:
 
 <div data-i18n-html="article_identity-challenge-7-days_p44">By the end of day 7, I had six votes and one miss. The notebook had seven entries, six check marks, one X. The experiment was over.</div>
 
+<div data-i18n-html="article_identity-challenge-7-days_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/identity-votes-seven-days.svg" alt="Seven-day vote strip: six check marks, one cross on day six, and a tally of six votes out of seven" width="640" height="190" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">Seven days, six votes: the miss on day six was followed by a vote on day seven — the 2-day rule held.</figcaption>
+</figure></div>
+
 <div data-i18n-html="article_identity-challenge-7-days_p45">The interesting question: did the identity statement become more true?</div>
 
 <div data-i18n-html="article_identity-challenge-7-days_p46"><h2>What the data actually said</h2></div>
@@ -172,9 +177,9 @@ relatedArticles:
 
 <div data-i18n-html="article_identity-challenge-7-days_p58">Three findings from behavioral research that line up with the experiment.</div>
 
-<div data-i18n-html="article_identity-challenge-7-days_p59"><strong>Lally et al. (2010)</strong> measured habit automaticity in 96 people over 84 days. The first two weeks showed the steepest gain in automaticity. The curve flattens after day 21 but never quite reaches a ceiling. The 7-day challenge lands in the steepest part of the curve, which is why it feels so disproportionately meaningful.</div>
+<div data-i18n-html="article_identity-challenge-7-days_p59"><strong><a href="https://doi.org/10.1002/ejsp.674" target="_blank" rel="noopener">Lally et al. (2010)</a></strong> measured habit automaticity in 96 people over 84 days. The first two weeks showed the steepest gain in automaticity. The curve flattens after day 21 but never quite reaches a ceiling. The 7-day challenge lands in the steepest part of the curve, which is why it feels so disproportionately meaningful.</div>
 
-<div data-i18n-html="article_identity-challenge-7-days_p60"><strong>Gollwitzer (1999)</strong> showed that implementation intentions ("if X, then Y") more than double goal achievement. The 7:00 AM notebook is an implementation intention. The identity statement is the goal. The 2-minute rule is the Y.</div>
+<div data-i18n-html="article_identity-challenge-7-days_p60"><strong><a href="https://doi.org/10.1037/0003-066X.54.7.493" target="_blank" rel="noopener">Gollwitzer (1999)</a></strong> showed that implementation intentions ("if X, then Y") more than double goal achievement. The 7:00 AM notebook is an implementation intention. The identity statement is the goal. The 2-minute rule is the Y.</div>
 
 <div data-i18n-html="article_identity-challenge-7-days_p61"><strong>Fogg (2007)</strong> demonstrated that tiny behaviors create anchoring effects far larger than the behavior itself. Writing one sentence does not change your output. Writing one sentence every morning for seven days changes your <em>relationship</em> to writing. The output is downstream of the relationship.</div>
 

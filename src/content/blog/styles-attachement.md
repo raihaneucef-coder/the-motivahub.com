@@ -55,7 +55,7 @@ relatedArticles:
 You are comfortable with intimacy and independence. You trust easily, communicate openly, and <a href="/journal/secure-self/">do not fear abandonment</a>. In large US community samples, close to six in ten adults screen as secure — the exact share shifts with the survey instrument, but secure remains the modal style.</div>
 
 <div data-i18n-html="article_styles-attachement_p6"><h3>2. Anxious-Preoccupied</h3>
-You crave intimacy but fear abandonment. You need constant reassurance, worry about your partner's feelings, and become clingy under stress. Anxious-preoccupied shows up in roughly 15-25% of adults depending on the sample.</div>
+You crave intimacy but fear abandonment. You need constant reassurance, worry about your partner's feelings, and become clingy under stress. Anxious-preoccupied shows up in roughly 15-25% of adults depending on the sample (<a href="https://pubmed.ncbi.nlm.nih.gov/19455453/" target="_blank" rel="noopener">Bakermans-Kranenburg &amp; van IJzendoorn, 2009</a>).</div>
 
 <div data-i18n-html="article_styles-attachement_p7"><h3>3. Dismissive-Avoidant</h3>
 You value independence over intimacy. You suppress your feelings, pull away when things get close, and struggle with vulnerability. Dismissive-avoidant is measured at around 20-25% in most Western samples.</div>

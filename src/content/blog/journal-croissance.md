@@ -65,13 +65,13 @@ relatedArticles:
 Writing externalises thought. A feeling loops inside your head as vague static; on paper it becomes a sentence with a subject and a verb. Psychologist James Pennebaker showed that this translation — from implicit to explicit — is what creates distance enough to examine. You cannot argue with a paragraph the way you can rationalise with a thought.</div>
 
 <div data-i18n-html="article_journal-croissance_p7"><h3>2. Emotional Processing</h3>
-Labelling an emotion in words (affect labelling) measurably reduces amygdala activation — the raw experience calms once it has a name. <a href="/journal/puissance-dialogue-interieur/">Writing about anger, grief, or fear completes a processing loop</a> that rumination never does, because writing has a period. Ruminating loops; writing ends.</div>
+Labelling an emotion in words (affect labelling, <a href="https://pubmed.ncbi.nlm.nih.gov/17576282/" target="_blank" rel="noopener">Lieberman et al., 2007</a>) measurably reduces amygdala activation — the raw experience calms once it has a name. <a href="/journal/puissance-dialogue-interieur/">Writing about anger, grief, or fear completes a processing loop</a> that rumination never does, because writing has a period. Ruminating loops; writing ends.</div>
 
 <div data-i18n-html="article_journal-croissance_p8"><h3>3. Problem Solving</h3>
 Construal-level theory (Liberman &amp; Trope, 2008) shows that psychological distance — moving from "in my head" to "on paper" — shifts you from concrete stuck-mode to abstract pattern-mode. The same problem that felt unsolvable at 2am becomes a list of constraints at 9am once it is outside you, visible, finite.</div>
 
 <div data-i18n-html="article_journal-croissance_p9"><h3>4. Goal Clarity</h3>
-Gollwitzer & Sheeran (2006, meta-analysis of 94 studies) found a medium-to-large effect (d = .65) when people wrote a goal as "When situation X arises, I will do Y" versus the wish alone. <a href="/journal/pouvoir-ecrire-objectifs/">A journal turns vague intention into a specific implementation plan</a> the act of committing words to paper makes skipping the step feel like a broken promise to yourself.</div>
+<a href="https://doi.org/10.1016/S0065-2601(06)38002-1" target="_blank" rel="noopener">Gollwitzer &amp; Sheeran (2006, meta-analysis of 94 studies)</a> found a medium-to-large effect (d = .65) when people wrote a goal as "When situation X arises, I will do Y" versus the wish alone. <a href="/journal/pouvoir-ecrire-objectifs/">A journal turns vague intention into a specific implementation plan</a> the act of committing words to paper makes skipping the step feel like a broken promise to yourself.</div>
 
 <div data-i18n-html="article_journal-croissance_p10"><h2>How to Start</h2></div>
 

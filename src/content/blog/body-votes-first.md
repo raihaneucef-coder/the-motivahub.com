@@ -84,7 +84,7 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p19">The body does not just carry you around. It shapes your cognition, your emotions, and your decisions.</div>
 
-<div data-i18n-html="article_body-votes-first_p20"><strong>Movement changes brain chemistry.</strong> Exercise transiently raises several neurotransmitters, including dopamine and serotonin, and regular activity is associated with higher BDNF (brain-derived neurotrophic factor), a protein that supports neuron health. The effect on mood and alertness is real but variable: a 20-minute walk often sharpens the next few hours, not the entire afternoon.</div>
+<div data-i18n-html="article_body-votes-first_p20"><strong>Movement changes brain chemistry.</strong> Exercise transiently raises several neurotransmitters, including dopamine and serotonin, and regular activity is associated with higher BDNF (brain-derived neurotrophic factor), a protein that supports neuron health (<a href="https://pubmed.ncbi.nlm.nih.gov/25455510/" target="_blank" rel="noopener">Szuhany et al., 2015</a>). The effect on mood and alertness is real but variable: a 20-minute walk often sharpens the next few hours, not the entire afternoon.</div>
 
 <div data-i18n-html="article_body-votes-first_p21"><strong>Sleep shapes patience.</strong> Sleep five nights at six hours and your prefrontal cortex — the part of the brain responsible for rational decision-making — becomes underactive. You become more impulsive, more emotional, less strategic.</div>
 

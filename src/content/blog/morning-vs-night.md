@@ -73,7 +73,7 @@ relatedArticles:
 
 <div data-i18n-html="article_morning-vs-night_p8"><h2>The chronotype data</h2></div>
 
-<div data-i18n-html="article_morning-vs-night_p9">Chronotype is the body's natural preference for sleep and wake times. Twin studies place the inherited share at roughly 50%; the rest is shaped by light, schedule and habit. The genetic component sets your default. The non-genetic part can be shifted by 1-2 hours with consistent light exposure, meal timing, and exercise.</div>
+<div data-i18n-html="article_morning-vs-night_p9">Chronotype is the body's natural preference for sleep and wake times. Twin studies (<a href="https://pubmed.ncbi.nlm.nih.gov/17542945/" target="_blank" rel="noopener">Koskenvuo et al., 2007</a>) place the inherited share at roughly 50%; the rest is shaped by light, schedule and habit. The genetic component sets your default. The non-genetic part can be shifted by 1-2 hours with consistent light exposure, meal timing, and exercise.</div>
 
 <div data-i18n-html="article_morning-vs-night_p10">The two extreme chronotypes are larks (morning types) and owls (evening types). Most people fall somewhere in between. The exact split depends on the questionnaire and the country surveyed, but large samples consistently place clear morning types and clear evening types each in the minority, with most people between the two poles.</div>
 

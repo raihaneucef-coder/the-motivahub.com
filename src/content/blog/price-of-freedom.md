@@ -47,10 +47,14 @@ relatedArticles:
 
 <div data-i18n-html="article_price-of-freedom_p2">Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns.</div>
 
+<div data-i18n-html="article_price-of-freedom_h2a"><h2>Freedom is not a finish line</h2></div>
+
 <div data-i18n-html="article_price-of-freedom_p3">We imagine freedom as a finish line — a number that, once reached, will finally let us breathe.</div>
 
 
 <div data-i18n-html="article_price-of-freedom_p4">It is a comforting story. It is also false.</div>
+
+<div data-i18n-html="article_price-of-freedom_h2b"><h2>The rent is small and boring</h2></div>
 
 <div data-i18n-html="article_price-of-freedom_p5"><strong>Freedom is not purchased once; it is rented every day.</strong> The rent is not dramatic. It is a series of small, boring payments made when no one is watching: the budget checked, the impulse delayed, the investment left alone.</div>
 
@@ -58,7 +62,11 @@ relatedArticles:
 
 <div data-i18n-html="article_price-of-freedom_p7">The good news is that rent, once automated, becomes invisible. <a href="/journal/regle-50-30-20/">A transfer on payday</a> hurts once. A habit of cooking three nights a week saves more than any windfall. Saying no to one upgrade funds the next year's freedom more than saying yes to overtime.</div>
 
-<div data-i18n-html="article_price-of-freedom_p10">Behavioral finance gives the daily-rent idea a footing. Research on mental accounting describes a consistent pattern: money that is labelled for a purpose and moved out of reach is less likely to be spent on something else, while money left in the main account tends to get absorbed by whatever is in front of you. The person who pays freedom first each payday is not stronger-willed — they simply removed the decision from the moment.</div>
+<div data-i18n-html="article_price-of-freedom_h2c"><h2>Why paying first each payday works</h2></div>
+
+<div data-i18n-html="article_price-of-freedom_p10">Behavioral finance gives the daily-rent idea a footing. Research on mental accounting (<a href="https://doi.org/10.1002/%28SICI%291099-0771%28199909%2912:3%3C183::AID-BDM318%3E3.0.CO;2-F" target="_blank" rel="noopener">Thaler, 1999</a>) describes a consistent pattern: money that is labelled for a purpose and moved out of reach is less likely to be spent on something else, while money left in the main account tends to get absorbed by whatever is in front of you. The person who pays freedom first each payday is not stronger-willed — they simply removed the decision from the moment.</div>
+
+<div data-i18n-html="article_price-of-freedom_h2d"><h2>Thirty days of paying freedom first</h2></div>
 
 <div data-i18n-html="article_price-of-freedom_p8">Try this for thirty days. On payday, <a href="/journal/paycheck-trap/">pay freedom first</a> — a fixed amount moved before you see it. Then live on what remains. You will spend less not because you are disciplined, but because you have removed the choice that requires discipline.</div>
 

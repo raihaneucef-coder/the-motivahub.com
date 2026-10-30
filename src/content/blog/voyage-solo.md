@@ -70,7 +70,7 @@ Navigating a foreign transit system, ordering food in a language you do not spea
 Without a companion to converse with, your attention defaults to the environment: the smell of the market, the cadence of a foreign language, the way light hits the hillside at 6 pm. Group travel splits attention between conversation and scenery; solo travel collapses that split. You notice details you would otherwise filter out because the social layer is gone.</div>
 
 <div data-i18n-html="article_voyage-solo_p9"><h3>5. Better Connections</h3>
-Groups are self-contained; strangers rarely approach them. A solo traveller sitting alone in a café signals availability — the shopkeeper chats, the guest at the next table asks where you are from, the hostel common room turns into a conversation. Research on weak ties (Granovetter, 1973) shows these brief encounters produce disproportionate novelty and information; solo travel maximises them.</div>
+Groups are self-contained; strangers rarely approach them. A solo traveller sitting alone in a café signals availability — the shopkeeper chats, the guest at the next table asks where you are from, the hostel common room turns into a conversation. Research on weak ties (<a href="https://doi.org/10.1086/225469" target="_blank" rel="noopener">Granovetter, 1973</a>) shows these brief encounters produce disproportionate novelty and information; solo travel maximises them.</div>
 
 <div data-i18n-html="article_voyage-solo_p10"><h2>Tips for Solo Travel</h2></div>
 

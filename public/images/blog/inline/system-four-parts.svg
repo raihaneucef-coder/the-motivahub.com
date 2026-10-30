@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" width="640" height="180">
+  <rect width="640" height="180" fill="#ffffff"/>
+  <g fill="none" stroke="#111111" stroke-width="1.5">
+    <rect x="20" y="46" width="132" height="104" rx="10"/>
+    <rect x="176" y="46" width="132" height="104" rx="10"/>
+    <rect x="332" y="46" width="132" height="104" rx="10"/>
+    <rect x="488" y="46" width="132" height="104" rx="10"/>
+  </g>
+  <g fill="#111111">
+    <circle cx="86" cy="26" r="13"/>
+    <circle cx="242" cy="26" r="13"/>
+    <circle cx="398" cy="26" r="13"/>
+    <circle cx="554" cy="26" r="13"/>
+  </g>
+  <g font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">
+    <text x="86" y="31">1</text>
+    <text x="242" y="31">2</text>
+    <text x="398" y="31">3</text>
+    <text x="554" y="31">4</text>
+  </g>
+  <g stroke="#111111" stroke-width="2" fill="none">
+    <line x1="153" y1="98" x2="165" y2="98"/>
+    <line x1="309" y1="98" x2="321" y2="98"/>
+    <line x1="465" y1="98" x2="477" y2="98"/>
+  </g>
+  <g fill="#111111">
+    <path d="M172 98 l-9 -5 l0 10 z"/>
+    <path d="M328 98 l-9 -5 l0 10 z"/>
+    <path d="M484 98 l-9 -5 l0 10 z"/>
+  </g>
+  <rect x="62" y="78" width="12" height="40" rx="2" fill="#111111"/>
+  <line x1="80" y1="98" x2="92" y2="98" stroke="#111111" stroke-width="2"/>
+  <path d="M98 98 l-8 -4 l0 8 z" fill="#111111"/>
+  <rect x="104" y="64" width="28" height="68" rx="3" fill="none" stroke="#111111" stroke-width="2" stroke-dasharray="5 4"/>
+  <g fill="none" stroke="#111111" stroke-width="2.5">
+    <circle cx="230" cy="98" r="11"/>
+    <circle cx="254" cy="98" r="11"/>
+  </g>
+  <rect x="376" y="74" width="44" height="34" rx="4" fill="none" stroke="#111111" stroke-width="2"/>
+  <rect x="384" y="84" width="7" height="7" fill="#111111"/>
+  <rect x="404" y="84" width="7" height="7" fill="none" stroke="#111111" stroke-width="1.5"/>
+  <line x1="412" y1="120" x2="386" y2="120" stroke="#111111" stroke-width="2"/>
+  <path d="M380 120 l8 -4 l0 8 z" fill="#111111"/>
+  <circle cx="554" cy="98" r="18" fill="none" stroke="#111111" stroke-width="2.5"/>
+  <path d="M545 98 l7 7 l13 -15" fill="none" stroke="#111111" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="20" y1="166" x2="620" y2="166" stroke="#e4e4e4" stroke-width="1"/>
+</svg>

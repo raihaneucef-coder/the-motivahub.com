@@ -67,7 +67,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p10">The details shift from one telling to the next, but the shape never does: none of these arrivals was sudden, and none of them happened without years of unseen repetition.</div>
 
-<div data-i18n-html="article_mythe-reussite-instantanee_p16">The research point worth keeping: expert performance is built, not sprung. Studies on deliberate practice across music, chess, and sport find that visible skill tracks the hours of focused, feedback-driven repetition — not a hidden gift that suddenly surfaces. The 'overnight' moment is simply the first day the public could see what had been accumulating out of view.</div>
+<div data-i18n-html="article_mythe-reussite-instantanee_p16">The research point worth keeping: expert performance is built, not sprung. <a href="https://doi.org/10.1037/0033-295X.100.3.363" target="_blank" rel="noopener">Studies on deliberate practice</a> across music, chess, and sport find that visible skill tracks the hours of focused, feedback-driven repetition — not a hidden gift that suddenly surfaces. The 'overnight' moment is simply the first day the public could see what had been accumulating out of view.</div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p11"><h2>The Truth About Success</h2></div>
 

@@ -56,7 +56,7 @@ relatedArticles:
 The plain reason <a href="/journal/recovery-is-training/">vacations lower stress</a> may have less to do with extra sleep than with removal: distance from the environments and cues you've conditioned to anxiety — the commute, the desk, the notifications. The relief isn't only rest; it's the pause in the constant low-grade vigilance your usual surroundings keep demanding of you.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p6"><h3>2. Boosts Creativity</h3>
-Here the research is more precise than the cliché. Maddux and Galinsky's work found that <em>living</em> abroad — sustained immersion in a second culture — was linked to higher creative insight, while mere sightseeing travel showed no such link. The mechanism they describe is "frame-switching": adapting to unfamiliar norms forces your brain to hold two ways of seeing at once. So the creativity comes from depth and engagement, not from the number of stamps in your passport.</div>
+Here the research is more precise than the cliché. <a href="https://doi.org/10.1037/a0014861" target="_blank" rel="noopener">Maddux and Galinsky's work</a> found that <em>living</em> abroad — sustained immersion in a second culture — was linked to higher creative insight, while mere sightseeing travel showed no such link. The mechanism they describe is "frame-switching": adapting to unfamiliar norms forces your brain to hold two ways of seeing at once. So the creativity comes from depth and engagement, not from the number of stamps in your passport.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p7"><h3>3. Improves Mood</h3>
 Having something to look forward to can lift your mood well before departure. The trip itself creates positive memories that last for months.</div>

@@ -173,7 +173,7 @@ relatedArticles:
 
 <div data-i18n-html="article_arreter-couper-avis_p62"><h2>Sources</h2></div>
 
-<div data-i18n-html="article_arreter-couper-avis_p63">1. <em>Gilovich, T., et al.</em> (2000). "The spotlight effect in social judgment." <em>Journal of Personality and Social Psychology</em>, 78(2), 211-222.
+<div data-i18n-html="article_arreter-couper-avis_p63">1. <a href="https://doi.org/10.1037/0022-3514.78.2.211" target="_blank" rel="noopener"><em>Gilovich, T., et al.</em></a> (2000). "The spotlight effect in social judgment." <em>Journal of Personality and Social Psychology</em>, 78(2), 211-222.
 2. <em>Dweck, C.</em> (2006). <em>Mindset: The New Psychology of Success.</em> — for the identity and fear of judgment connection
 3. <em>Brown, B.</em> (2010). <em>The Gifts of Imperfection.</em> — for the belonging vs. approval-seeking distinction</div>
 

@@ -53,7 +53,7 @@ relatedArticles:
 <div data-i18n-html="article_art-dire-non_p4"><h2>Why Saying No Is Hard</h2></div>
 
 <div data-i18n-html="article_art-dire-non_p5"><h3>1. Fear of Rejection</h3>
-UCLA neuroimaging (Eisenberger, 2003) showed that social rejection activates the same anterior cingulate region as physical pain. Your brain does not distinguish "they will be upset" from "they will hurt me" — it sends a genuine threat signal. That is why saying no feels disproportionate: the alarm evolved for tribal exile, not for declining a dinner invitation. Knowing the alarm is a false positive makes it easier to speak anyway.</div>
+UCLA neuroimaging (<a href="https://pubmed.ncbi.nlm.nih.gov/14551436/" target="_blank" rel="noopener">Eisenberger, 2003</a>) showed that social rejection activates the same anterior cingulate region as physical pain. Your brain does not distinguish "they will be upset" from "they will hurt me" — it sends a genuine threat signal. That is why saying no feels disproportionate: the alarm evolved for tribal exile, not for declining a dinner invitation. Knowing the alarm is a false positive makes it easier to speak anyway.</div>
 
 <div data-i18n-html="article_art-dire-non_p6"><h3>2. Approval as a Learned Safety Signal</h3>
 Many people-pleasers internalised a rule in childhood: good behaviour earns love, disagreement risks withdrawal. That script never got updated in adulthood. The tell: you say yes, then resent the requester for taking your time. The resentment is data — it means your values already said no, but your reflex said yes to keep the peace.</div>

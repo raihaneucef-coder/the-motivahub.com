@@ -56,7 +56,7 @@ relatedArticles:
 <div data-i18n-html="article_consistance-bat-intensite_p7"><h2>Why Consistency Works</h2></div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p8"><h3>1. Habit Formation</h3>
-Doing the same action in the same slot — same hour, same trigger, same place — <a href="/journal/systemes-battent-motivation/">moves it from decision to default</a>. Lally et al. (2010) followed real-world habit builders and found a median of 66 days for a simple daily behaviour to start feeling automatic, with a wide range from 18 to 254. Intensity never gets there, because every two-week break restarts the clock.</div>
+Doing the same action in the same slot — same hour, same trigger, same place — <a href="/journal/systemes-battent-motivation/">moves it from decision to default</a>. <a href="https://doi.org/10.1002/ejsp.674" target="_blank" rel="noopener">Lally et al. (2010)</a> followed real-world habit builders and found a median of 66 days for a simple daily behaviour to start feeling automatic, with a wide range from 18 to 254. Intensity never gets there, because every two-week break restarts the clock.</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p9"><h3>2. Progressive Overload</h3>
 Your body adapts to the stress you repeat, not the stress you survive once. Adding a small amount — one rep, two minutes, five hundred metres — every week or two is what compounds into strength, speed or size. Three brutal sessions followed by a fortnight off mostly produces soreness, then deconditioning.</div>

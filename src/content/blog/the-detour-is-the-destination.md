@@ -47,6 +47,8 @@ relatedArticles:
 
 <div data-i18n-html="article_the-detour-is-the-destination_p2"><a href="/journal/voyage-solo/">The best travel stories</a> never happened on the planned route. They happened on the detour you almost skipped.</div>
 
+<div data-i18n-html="article_the-detour-is-the-destination_h2a"><h2>Why the itinerary misses the travel</h2></div>
+
 <div data-i18n-html="article_the-detour-is-the-destination_p3">We plan the route and miss the travel.</div>
 
 
@@ -56,15 +58,21 @@ relatedArticles:
 
 <div data-i18n-html="article_the-detour-is-the-destination_p6">The planned route gives you photos. The detour gives you stories. Photos fade. Stories stay.</div>
 
+<div data-i18n-html="article_the-detour-is-the-destination_h2b"><h2>Three ways to take a detour</h2></div>
+
 <div data-i18n-html="article_the-detour-is-the-destination_p7">Practice it on your next trip, even a short one:</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p8">- <strong>Leave one hour unplanned.</strong> No map, no goal. Walk and notice what notices you.
 - <strong>Say yes to one invitation.</strong> Tea, a market, a wrong bus that looks interesting.
 - <strong>Collect one story, not one souvenir.</strong> Ask someone how long they have lived here and what has changed.</div>
 
+<div data-i18n-html="article_the-detour-is-the-destination_h2c"><h2>Why it works: maximizers and satisficers</h2></div>
+
 <div data-i18n-html="article_the-detour-is-the-destination_p12">There is a decision-science reason this works. Psychologists distinguish maximizing — squeezing every planned item for the theoretically best trip — from satisficing, choosing what is richly good enough. Maximizers get better itineraries and worse memories; the unplanned hour raises satisficing odds because curiosity, not the checklist, decides where you stop.</div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p9">You will not remember the museum you rushed through. You will remember the alley where you got lost and found something you did not know you were looking for.</div>
+
+<div data-i18n-html="article_the-detour-is-the-destination_h2d"><h2>The detour ledger</h2></div>
 
 <div data-i18n-html="article_the-detour-is-the-destination_p11">A concrete kind of detour worth noticing: the rejected application that pushed you into the certification you now use weekly; the injury that traded running for lifting, and the lifting outlived the running habit. Keep a detour ledger for ninety days: whenever a plan fails, write — under the disappointment — what it made contact with instead. Review at month end. Some detours turn out to have been the road.</div>
 

@@ -49,6 +49,8 @@ relatedArticles:
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p2">Every goal hides a deeper goal — a why beneath the why. Most people chase the surface. The few who arrive are the ones who dug past the first layer.</div>
 
+<div data-i18n-html="article_the-goal-behind-the-goal_h2a"><h2>Why motivation fades halfway</h2></div>
+
 <div data-i18n-html="article_the-goal-behind-the-goal_p3">We set a goal and chase it. Then we wonder why motivation fades halfway.</div>
 
 
@@ -56,13 +58,21 @@ relatedArticles:
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p5">"I want to run a marathon" hides "I want to prove I can finish hard things." "I want to earn more" hides "I want to feel safe." "I want to write a book" hides "I want to be someone who keeps promises to himself."</div>
 
+<div data-i18n-html="article_the-goal-behind-the-goal_h2b"><h2>The hidden goal supplies the discipline</h2></div>
+
 <div data-i18n-html="article_the-goal-behind-the-goal_p6"><strong>The surface goal needs discipline. The hidden goal provides it.</strong></div>
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p7">When the hidden goal is clear, the boring work makes sense. Early runs are not punishment; they are evidence that you are becoming someone who does not quit. Saving is not deprivation; it is building safety.</div>
 
+<div data-i18n-html="article_the-goal-behind-the-goal_h2c"><h2>Ask the second question tonight</h2></div>
+
 <div data-i18n-html="article_the-goal-behind-the-goal_p8">Ask the second question tonight. <a href="/journal/rendez-compte-objectifs/">Write your goal</a>, then ask: <em>why do I want this, really?</em> Write that answer too. Keep both visible.</div>
 
+<div data-i18n-html="article_the-goal-behind-the-goal_h2d"><h2>Why the hidden goal carries you</h2></div>
+
 <div data-i18n-html="article_the-goal-behind-the-goal_p11">Self-determination theory explains why the hidden goal carries you. It finds that durable motivation runs on three needs — autonomy, competence, and relatedness — not on the reward attached to the finish line. When you name the goal beneath the goal, you usually find one of those three waiting there, and the boring midweek work connects to it instead of to an arbitrary number.</div>
+
+<div data-i18n-html="article_the-goal-behind-the-goal_h2e"><h2>When the hidden reason is borrowed</h2></div>
 
 <div data-i18n-html="article_the-goal-behind-the-goal_p10">The hidden goal has a shadow side. If the reason underneath is borrowed — a parent's approval, a rival's scoreboard, an audience you no longer have — the surface goal will feel heavy no matter how disciplined you are. That is the signal to rewrite the goal, not to grind harder. Discipline applied to someone else's why is just expensive self-punishment.</div>
 

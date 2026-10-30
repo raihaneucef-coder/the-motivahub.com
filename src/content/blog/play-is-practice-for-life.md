@@ -47,14 +47,20 @@ relatedArticles:
 
 <div data-i18n-html="article_play-is-practice-for-life_p2">We think play is what we do after life. Play is how we learn to live — lightly, creatively, together.</div>
 
+<div data-i18n-html="article_play-is-practice-for-life_h2a"><h2>Adults set play down</h2></div>
+
 <div data-i18n-html="article_play-is-practice-for-life_p3">We stopped playing when life got serious. That is when we needed play most.</div>
 
 
 <div data-i18n-html="article_play-is-practice-for-life_p4">Children play to learn: how to share, how to lose, how to try again. Adults stop, and then wonder why life feels heavy.</div>
 
+<div data-i18n-html="article_play-is-practice-for-life_h2b"><h2>Not the opposite of work</h2></div>
+
 <div data-i18n-html="article_play-is-practice-for-life_p5"><strong>Play is not the opposite of work. It is <a href="/journal/play-on-purpose/">practice for work</a> — and for love, and for staying light when it would be easy to be heavy.</strong></div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p6">Play teaches <a href="/journal/podcasts-education/">what no course can</a>: how to be bad at something and enjoy it, how to laugh when you fail, how to stay in the game because the game itself is fun.</div>
+
+<div data-i18n-html="article_play-is-practice-for-life_h2c"><h2>Try it this week, without being good</h2></div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p7">Try it this week, without needing to be good at it:</div>
 
@@ -64,7 +70,9 @@ relatedArticles:
 
 <div data-i18n-html="article_play-is-practice-for-life_p9">You do not need more time to play. You need to remember that play is not what you do after life is handled. Play is part of how you handle life.</div>
 
-<div data-i18n-html="article_play-is-practice-for-life_p12">Play researchers make the same case from the other direction. Synthesizing decades of studies, Stuart Brown and the National Institute for Play argue that regular, unstructured, no-stakes play keeps the mind flexible and buffers stress across the whole lifespan, not only in childhood. Adults quietly stop doing it and call that maturity; what they have actually done is set down a working tool.</div>
+<div data-i18n-html="article_play-is-practice-for-life_h2d"><h2>What play researchers found</h2></div>
+
+<div data-i18n-html="article_play-is-practice-for-life_p12">Play researchers make the same case from the other direction. Synthesizing decades of studies, Stuart Brown and the <a href="https://nifplay.org/" target="_blank" rel="noopener">National Institute for Play</a> argue that regular, unstructured, no-stakes play keeps the mind flexible and buffers stress across the whole lifespan, not only in childhood. Adults quietly stop doing it and call that maturity; what they have actually done is set down a working tool.</div>
 <div data-i18n-html="article_play-is-practice-for-life_p13">The mechanism is simple: play removes the outcome pressure that makes adults rigid. When there is no grade, no KPI, no follower count, the brain experiments instead of performing. That experimental mode is the same one you need when a project stalls or a relationship needs a creative solution.</div>
 
 <div data-i18n-html="article_play-is-practice-for-life_p10">Play a little. Life gets lighter immediately.</div>

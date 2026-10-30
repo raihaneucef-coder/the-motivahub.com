@@ -67,7 +67,7 @@ A widely-cited but never-published Sussex study (Lewis, 2009) claimed that just 
 <div data-i18n-html="article_lire-divertissement_p9"><h3>5. It Improves Sleep</h3>
 Reading a physical book before bed signals your brain to produce melatonin. Screens do the opposite.</div>
 
-<div data-i18n-html="article_lire-divertissement_p15">One more reason, grounded in reading research: the cognitive scientist Maryanne Wolf shows that sustained 'deep reading' trains circuits for attention, inference, and reflection that skimming does not — and those circuits are partly use-it-or-lose-it. Long-form reading is not just a pleasant pastime; it is the gym where the focused attention you need elsewhere is actually built and kept.</div>
+<div data-i18n-html="article_lire-divertissement_p15">One more reason, grounded in reading research: the cognitive scientist <a href="https://www.maryannewolf.com/reader-come-home" target="_blank" rel="noopener">Maryanne Wolf</a> shows that sustained 'deep reading' trains circuits for attention, inference, and reflection that skimming does not — and those circuits are partly use-it-or-lose-it. Long-form reading is not just a pleasant pastime; it is the gym where the focused attention you need elsewhere is actually built and kept.</div>
 
 <div data-i18n-html="article_lire-divertissement_p10"><h2>How to Read More</h2></div>
 

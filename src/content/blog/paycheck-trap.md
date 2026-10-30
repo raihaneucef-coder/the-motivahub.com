@@ -48,6 +48,8 @@ relatedArticles:
 
 <div data-i18n-html="article_paycheck-trap_p2">A higher income feels like freedom until lifestyle rises with it. Learn how to keep the raise you just earned.</div>
 
+<div data-i18n-html="article_paycheck-trap_h2a"><h2>Lifestyle inflation arrives first</h2></div>
+
 <div data-i18n-html="article_paycheck-trap_p3">Every raise comes with a silent partner: lifestyle inflation.</div>
 
 
@@ -55,11 +57,22 @@ relatedArticles:
 
 <div data-i18n-html="article_paycheck-trap_p5"><strong>Earning more without a system to keep more is just running faster on the same treadmill.</strong></div>
 
+<div data-i18n-html="article_paycheck-trap_h2b"><h2>A rule set before the money arrives</h2></div>
+
 <div data-i18n-html="article_paycheck-trap_p6">The fix is not willpower; it is a rule you set before the money arrives. When income rises, decide in advance where the extra goes: <a href="/journal/price-of-freedom/">half to freedom</a> (savings, investments), a quarter to joy (something you truly value), a quarter to buffer (emergencies). Write it when you are calm, so you do not decide when you are excited.</div>
+
+<div data-i18n-html="article_paycheck-trap_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/paycheck-split.svg" alt="Bar split into the three pre-assigned shares of any raise: one half to freedom, one quarter to joy, one quarter to buffer" width="640" height="132" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">Decided before the money lands: half to freedom, a quarter to joy, a quarter to buffer.</figcaption>
+</figure></div>
 
 <div data-i18n-html="article_paycheck-trap_p7">Try this with your next inflow, however small — a bonus, a side project, even a refund. Before it lands, assign it. What is not assigned will be absorbed. What is assigned will compound.</div>
 
-<div data-i18n-html="article_paycheck-trap_p10">The mechanism has a name: the hedonic treadmill. Research on adaptation describes a consistent pattern — improvements raise expectations, and satisfaction drifts back toward its previous level, often within months but at a pace that varies by person and by purchase. The nicer apartment becomes the new ordinary, and the feeling you bought is already gone. Assigning the raise before it lands is the only reliable way off the treadmill, because you never let the extra become spending.</div>
+<div data-i18n-html="article_paycheck-trap_h2c"><h2>The hedonic treadmill</h2></div>
+
+<div data-i18n-html="article_paycheck-trap_p10">The mechanism has a name: the hedonic treadmill. Research on adaptation (<a href="https://pubmed.ncbi.nlm.nih.gov/22059843/" target="_blank" rel="noopener">Luhmann et al., 2012</a>) describes a consistent pattern — improvements raise expectations, and satisfaction drifts back toward its previous level, often within months but at a pace that varies by person and by purchase. The nicer apartment becomes the new ordinary, and the feeling you bought is already gone. Assigning the raise before it lands is the only reliable way off the treadmill, because you never let the extra become spending.</div>
+
+<div data-i18n-html="article_paycheck-trap_h2d"><h2>The thirty-minute audit</h2></div>
 
 <div data-i18n-html="article_paycheck-trap_p9">The thirty-minute audit that cracks the trap: export the last three months of your bank statement; label every line with one word — needed, wanted, or automatic; add up the "automatic" column. That total is the subscription form of the trap: money moving on decisions you no longer remember making. Cancel or renegotiate one item tonight, and set the freed amount to move automatically on payday morning — before the lifestyle absorbs it. No app, no spreadsheet discipline. One evening.</div>
 

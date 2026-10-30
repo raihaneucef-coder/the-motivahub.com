@@ -166,7 +166,7 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 <div data-i18n-html="article_atomic-habits-review_p48"><ol>
 <li><em>Clear, J.</em> (2018). <em>Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones.</em> — for the core framework</li>
 <li><em>Lally, P., et al.</em> (2010). "How are habits formed: Modelling habit formation in the real world." <em>European Journal of Social Psychology</em>, 40(6), 998-1009. — for the 66-day habit formation median</li>
-<li><em>Gollwitzer, P. M., &amp; Sheeran, P.</em> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119. — for the implementation intentions research</li>
+<li><a href="https://doi.org/10.1016/S0065-2601(06)38002-1" target="_blank" rel="noopener"><em>Gollwitzer, P. M., &amp; Sheeran, P.</em></a> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119. — for the implementation intentions research</li>
 </ol></div>
 
 <hr />

@@ -47,21 +47,31 @@ relatedArticles:
 
 <div data-i18n-html="article_pack-light-stay-long_p2">The best travelers carry less and stay longer. What you leave behind matters more than what you bring.</div>
 
+<div data-i18n-html="article_pack-light-stay-long_h2a"><h2>We pack as if moving house</h2></div>
+
 <div data-i18n-html="article_pack-light-stay-long_p3">We pack as if we are moving house. Then we carry that house on our backs and wonder why travel feels heavy.</div>
 
 
 <div data-i18n-html="article_pack-light-stay-long_p4">The travelers who stay longest pack lightest. Not because they own less, but because they decided what matters before they left.</div>
 
+<div data-i18n-html="article_pack-light-stay-long_h2b"><h2>Light is a decision</h2></div>
+
 <div data-i18n-html="article_pack-light-stay-long_p5"><strong>Light is a decision, not a packing technique.</strong> One bag, one pair of shoes that do three jobs, one book you will actually read. The rest is fear dressed as preparation.</div>
+
+<div data-i18n-html="article_pack-light-stay-long_h2c"><h2>Staying long changes the trip</h2></div>
 
 <div data-i18n-html="article_pack-light-stay-long_p6"><a href="/journal/voyage-lent/">Staying long</a> is where travel stops being tourism and starts being life. Tourism samples; staying tastes. You learn where the bread is bought at 7 AM, which bus is always late, how to say thank you so it sounds like you mean it. After two weeks, the city stops performing and starts revealing.</div>
 
 <div data-i18n-html="article_pack-light-stay-long_p7">Try it once, even for a short trip. Pack half of what you think you need. Stay one day longer than you planned. Spend the extra day with <a href="/journal/the-detour-is-the-destination/">no itinerary</a> — walk, sit, ask one local where they eat.</div>
 
+<div data-i18n-html="article_pack-light-stay-long_h2d"><h2>A packing list that stays light</h2></div>
+
 <div data-i18n-html="article_pack-light-stay-long_p9">A packing list that actually keeps you light: one bag that fits the overhead bin; two shoes maximum, one already broken in; neutral layers only — every piece must mix with every other; documents photographed and uploaded; one spare cable; a pen for arrival forms; toiletries decanted to 100 ml. And the rule that decides everything else: if you would not miss it on day three, it does not come.</div>
 
 
 <div data-i18n-html="article_pack-light-stay-long_p8">You will not remember what you brought. You will remember what you left behind — and what you found because your hands were empty.</div>
+
+<div data-i18n-html="article_pack-light-stay-long_h2e"><h2>Why lightness matters</h2></div>
 
 <div data-i18n-html="article_pack-light-stay-long_p10">A pack heavier than it needs to be changes how you move: your shoulders tire sooner, every step asks for more attention, and the small spontaneous decisions start to feel like effort. Travel lighter and the day opens up — fewer queues to argue with, more detours worth taking. Lightness is not deprivation — it is optionality.</div>
 <div data-i18n-html="article_pack-light-stay-long_p11">The three-question filter before packing any item: (1) Will I use this more than twice? (2) Can I buy or borrow it at the destination for under €5? (3) If I lose this today, will my trip end or just get interesting? If the answer to all three is no, leave it.</div>

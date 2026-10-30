@@ -62,7 +62,7 @@ Behavioural science calls it the consistency principle (Cialdini, 1984): once yo
 Once written and reviewed daily, the goal primes your reticular activating system to tag relevant stimuli. You start noticing the job posting, the course, the connection — not because they appeared, but because your attention filter changed. The opportunity was always there; the written goal made you capable of seeing it.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p9"><h3>4. Memory</h3>
-Cowan (2001) showed working memory holds only 4±1 chunks simultaneously. An unwritten goal competes with every other thought and gets overwritten within 48 hours. Writing externalises the goal into your environment, where a visual cue can remind you without taxing the memory bottleneck.</div>
+<a href="https://pubmed.ncbi.nlm.nih.gov/11515286/" target="_blank" rel="noopener">Cowan (2001)</a> showed working memory holds only 4±1 chunks simultaneously. An unwritten goal competes with every other thought and gets overwritten within 48 hours. Writing externalises the goal into your environment, where a visual cue can remind you without taxing the memory bottleneck.</div>
 
 <div data-i18n-html="article_pouvoir-ecrire-objectifs_p10"><h2>How to Write Your Goals</h2></div>
 

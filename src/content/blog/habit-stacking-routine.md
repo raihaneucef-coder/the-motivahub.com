@@ -77,7 +77,7 @@ relatedArticles:
 
 <div data-i18n-html="article_habit-stacking-routine_p35"><h2>The Atomic Habits Connection</h2></div>
 
-<div data-i18n-html="article_habit-stacking-routine_p36">Habit stacking was popularized by James Clear in <a href="/journal/atomic-habits-review/">Atomic Habits</a>, where it appears as one of the four laws of behavior change. Clear credits the term to B.J. Fogg's tiny habit research, but the underlying mechanism is older: psychologist Peter Gollwitzer's 1999 studies on <em>implementation intentions</em> showed that people who pre-decide a time and place for an action follow through at roughly twice the rate of people who simply intend to.</div>
+<div data-i18n-html="article_habit-stacking-routine_p36">Habit stacking was popularized by James Clear in <a href="/journal/atomic-habits-review/">Atomic Habits</a>, where it appears as one of the four laws of behavior change. Clear credits the term to B.J. Fogg's tiny habit research, but the underlying mechanism is older: psychologist <a href="https://doi.org/10.1037/0003-066X.54.7.493" target="_blank" rel="noopener">Peter Gollwitzer's 1999 studies on <em>implementation intentions</em></a> showed that people who pre-decide a time and place for an action follow through at roughly twice the rate of people who simply intend to.</div>
 
 <div data-i18n-html="article_habit-stacking-routine_p37">That is the whole insight in one sentence: <strong>you are not relying on memory, you are outsourcing the trigger to a behavior you already run on autopilot.</strong> If you want the full system this formula belongs to — identity, environment, and the four laws — the <a href="/journal/atomic-habits-review/">Atomic Habits review</a> breaks down what the book gets right and where it oversells.</div>
 
