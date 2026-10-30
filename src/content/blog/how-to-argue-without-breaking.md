@@ -55,13 +55,19 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p5"><strong>Argue to understand, not to defeat.</strong> Try a simple structure that keeps connection intact:</div>
 
+<div data-i18n-html="article_how-to-argue-without-breaking_h2a"><h2>Start soft, stay on one topic</h2></div>
+
 <div data-i18n-html="article_how-to-argue-without-breaking_p6">- <strong>Start soft.</strong> "I feel ___ when ___ and I need ___" is harder to hear than blame, and far more likely to be heard.
 - <strong>Stay in one room.</strong> One topic at a time. Bringing the last three months into tonight's argument guarantees no one is heard about today.
 - <strong>Take a regulated pause.</strong> When heart rate rises, say: "I want to stay kind — can we pause ten minutes and return?" Distance chosen together prevents distance that grows alone.</div>
 
+<div data-i18n-html="article_how-to-argue-without-breaking_h2b"><h2>Repair matters more than perfection</h2></div>
+
 <div data-i18n-html="article_how-to-argue-without-breaking_p7"><a href="/journal/resolution-conflits/">The repair matters more than the perfection</a>. After an argument, ask: "What did you need that I missed?" Listen without defending. The relationship is not weakened by conflict; it is strengthened by how you repair after it.</div>
 
-<div data-i18n-html="article_how-to-argue-without-breaking_p12">John Gottman's research at the University of Washington identified four communication patterns that consistently predict separation: criticism, contempt, defensiveness, and stonewalling. The antidote to each is specific. In his work, contempt — eye-rolling, mocking — is the single strongest predictor of divorce, and it dissolves when partners build a habit of naming one thing they genuinely admire about each other daily.</div>
-<div data-i18n-html="article_how-to-argue-without-breaking_p13">One practical structure: the 20-minute rule. When heart rate exceeds 100 bpm during conflict — roughly when your voice rises and your chest tightens — the thinking brain goes partially offline. Agree in advance that either partner can call a 20-minute pause. Not silence, not punishment. A stated time-box that protects the conversation from the nervous system.</div>
+<div data-i18n-html="article_how-to-argue-without-breaking_h2c"><h2>What Gottman's research found</h2></div>
+<div data-i18n-html="article_how-to-argue-without-breaking_p12"><a href="https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/" target="_blank" rel="noopener">John Gottman's research at the University of Washington</a> identified four communication patterns that consistently predict separation: criticism, contempt, defensiveness, and stonewalling. The antidote to each is specific. In his work, contempt — eye-rolling, mocking — is the single strongest predictor of divorce, and it dissolves when partners build a habit of naming one thing they genuinely admire about each other daily.</div>
+<div data-i18n-html="article_how-to-argue-without-breaking_h2d"><h2>The 20-minute pause</h2></div>
+<div data-i18n-html="article_how-to-argue-without-breaking_p13">One practical structure: <a href="https://www.gottman.com/blog/flooding/" target="_blank" rel="noopener">the 20-minute rule</a>. When heart rate exceeds 100 bpm during conflict — roughly when your voice rises and your chest tightens — the thinking brain goes partially offline. Agree in advance that either partner can call a 20-minute pause. Not silence, not punishment. A stated time-box that protects the conversation from the nervous system.</div>
 
 <div data-i18n-html="article_how-to-argue-without-breaking_p8">You do not need to be right to be close. You need to be safe enough to be honest.</div>

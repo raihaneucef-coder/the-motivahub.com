@@ -43,16 +43,24 @@ relatedArticles:
 
 <div data-i18n-html="article_one-target-at-a-time_p2">A goal is not a wish written on paper — it is an address you visit every day until the door finally opens. Aim small, aim precise, and let the days do the heavy lifting.</div>
 
+<div data-i18n-html="article_one-target-at-a-time_h2a"><h2>Why vague goals fail</h2></div>
+
 <div data-i18n-html="article_one-target-at-a-time_p3">Most goals fail before they begin — not because they are too big, but because they are too vague.</div>
 
 
 <div data-i18n-html="article_one-target-at-a-time_p4">"I want to get fit." "I want to build something of my own." "I want to be better with money." Each of these is a direction, not a destination. And a direction, without an address, is just a mood. You cannot visit a mood every morning. You can only visit a target.</div>
 
+<div data-i18n-html="article_one-target-at-a-time_h2b"><h2>From a direction to an address</h2></div>
+
 <div data-i18n-html="article_one-target-at-a-time_p5"><strong>A real goal has coordinates.</strong> Not "get fit" but <em>run five kilometers without stopping by October</em>. Not "build something" but <em>ship the first version to ten people by the end of next month</em>. The difference sounds like bureaucracy. It is actually mercy — because a defined goal tells you, on any given ordinary Tuesday, exactly what today owes tomorrow.</div>
 
-<div data-i18n-html="article_one-target-at-a-time_p13">There is a research basis for aiming at the ring, not the field. Decades of goal-setting work by Gary Latham and Edwin Locke — one of the most replicated findings in management psychology — show that specific, challenging goals reliably outperform vague 'do your best' intentions, because a precise target directs attention, mobilizes effort, and gives you a real standard to persist against. 'Get fit' cannot do that; 'run 5K by October' can. Precision is not pedantry — it is the part of the goal that does the pulling.</div>
+<div data-i18n-html="article_one-target-at-a-time_h2c"><h2>The research behind precision</h2></div>
+
+<div data-i18n-html="article_one-target-at-a-time_p13">There is a research basis for aiming at the ring, not the field. Decades of goal-setting work by <a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener">Gary Latham and Edwin Locke</a> — one of the most replicated findings in management psychology — show that specific, challenging goals reliably outperform vague 'do your best' intentions, because a precise target directs attention, mobilizes effort, and gives you a real standard to persist against. 'Get fit' cannot do that; 'run 5K by October' can. Precision is not pedantry — it is the part of the goal that does the pulling.</div>
 
 <div data-i18n-html="article_one-target-at-a-time_p6">There is an old archery truth worth stealing: <strong>the archer does not aim at the field. She aims at one ring.</strong> Everything else — wind, distance, fatigue — gets managed <em>in service</em> of that ring, not instead of it. When you hold one clear target, decisions become cheap. Does this hour move me toward the ring or not? Most things do not. Let them go without grief.</div>
+
+<div data-i18n-html="article_one-target-at-a-time_h2d"><h2>The three practices</h2></div>
 
 <div data-i18n-html="article_one-target-at-a-time_p7">Three practices turn wishing into aiming:</div>
 
@@ -61,6 +69,8 @@ relatedArticles:
 - <strong>Keep score visibly.</strong> A calendar with crossed-off days, a notebook with logged reps. Progress you cannot see is progress your motivation will never believe.</div>
 
 <div data-i18n-html="article_one-target-at-a-time_p9">And when several targets call at once — career, body, family, craft — resist the urge to chase them all with equal fire. <strong>Serial focus beats parallel wishing.</strong> Give each target its season, its hours, its full attention, and rotate deliberately rather than frantically. The archer who fires at five rings at once hits the hay.</div>
+
+<div data-i18n-html="article_one-target-at-a-time_h2e"><h2>When the target moves</h2></div>
 
 <div data-i18n-html="article_one-target-at-a-time_p10">One warning deserves its own paragraph: the target will move. You will learn mid-flight that the ring you chose was standing in for something deeper — and that is not failure; that is feedback. Adjust without shame. The discipline was never in hitting the exact bullseye first try. It was in drawing the bow again, calmly, with better information.</div>
 

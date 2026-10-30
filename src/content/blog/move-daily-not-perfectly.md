@@ -56,6 +56,8 @@ relatedArticles:
 
 <div data-i18n-html="article_move-daily-not-perfectly_p6">The goal is not to impress anyone. The goal is to <a href="/journal/ne-brise-jamais-chaine/">never have a zero day</a>.</div>
 
+<div data-i18n-html="article_move-daily-not-perfectly_h2a"><h2>Build the floor, not the ceiling</h2></div>
+
 <div data-i18n-html="article_move-daily-not-perfectly_p7">Build the floor so low you cannot fail it:</div>
 
 <div data-i18n-html="article_move-daily-not-perfectly_p8">- <strong>Walk after one meal.</strong> Not for steps, for signal — the day includes movement.
@@ -64,10 +66,19 @@ relatedArticles:
 
 <div data-i18n-html="article_move-daily-not-perfectly_p9">You will have weeks when this is all you do. That is not lost progress. That is progress protected.</div>
 
-<div data-i18n-html="article_move-daily-not-perfectly_p12">A 2023 meta-analysis in the British Journal of Sports Medicine, led by researchers at the University of Cambridge, pooled data from tens of millions of people and found that as little as 75 minutes of brisk activity a week — roughly eleven minutes a day — carried a 23% lower risk of early death versus staying inactive. The benefit curve is steepest at the very first minutes of movement — the jump from zero to something dwarfs the jump from something to perfect.</div>
+<div data-i18n-html="article_move-daily-not-perfectly_h2b"><h2>What the evidence says</h2></div>
+<div data-i18n-html="article_move-daily-not-perfectly_p12"><a href="https://pubmed.ncbi.nlm.nih.gov/36854652/" target="_blank" rel="noopener">A 2023 meta-analysis in the British Journal of Sports Medicine, led by researchers at the University of Cambridge</a>, pooled data from tens of millions of people and found that as little as 75 minutes of brisk activity a week — roughly eleven minutes a day — carried a 23% lower risk of early death versus staying inactive. The benefit curve is steepest at the very first minutes of movement — the jump from zero to something dwarfs the jump from something to perfect.</div>
+<div data-i18n-html="article_move-daily-not-perfectly_h2c"><h2>Movement, not exercise</h2></div>
 <div data-i18n-html="article_move-daily-not-perfectly_p13">The identity shift that matters: stop calling it exercise and start calling it movement. Exercise implies a schedule, a minimum, a failure condition. Movement implies anything that gets you out of the chair. Dance while the kettle boils. Walk around the block before answering email. A 4-minute shuffle is not a failed workout — it is a successful move.</div>
 
+<div data-i18n-html="article_move-daily-not-perfectly_h2d"><h2>The daily menu</h2></div>
+
 <div data-i18n-html="article_move-daily-not-perfectly_p11">The daily menu — pick one line, that is the whole system: a twenty-minute brisk walk after the first meal; stairs instead of the lift on two trips today; a five-minute stretch between calls; parking deliberately at the far end twice; eight minutes of bodyweight while the kettle boils. The minimum is "something moved, every day." The best line is the one you still chose on the bad Thursday. Streaks are cheap, but visible — write the line down each evening.</div>
+
+<div data-i18n-html="article_move-daily-not-perfectly_fig1"><figure style="margin:2.5em 0 1em">
+<img src="/images/blog/inline/daily-movement-minutes.svg" alt="Bar chart of movement lengths used in this article: a 4-minute reset, an 8-minute bodyweight block, the 11-minute daily average linked to the study, and a 20-minute walk, plotted on a 0-20 minutes scale" width="640" height="250" loading="lazy" decoding="async">
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">The floor, in minutes: a four-minute reset, eight minutes of bodyweight work, the eleven-minute daily average behind the study, and a twenty-minute walk.</figcaption>
+</figure></div>
 
 
 <div data-i18n-html="article_move-daily-not-perfectly_p10">Move daily. Let perfect catch up when it can.</div>
