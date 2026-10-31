@@ -37,6 +37,8 @@ const STATIC_PAGES = [
   { path: "/privacy/", priority: PRIORITY.static, changefreq: "yearly" },
   { path: "/terms/", priority: PRIORITY.static, changefreq: "yearly" },
   { path: "/affiliate-disclosure/", priority: PRIORITY.static, changefreq: "yearly" },
+  { path: "/cookie-policy/", priority: PRIORITY.static, changefreq: "yearly" },
+  { path: "/editorial-policy/", priority: PRIORITY.static, changefreq: "yearly" },
   { path: "/author/youssef-raihane/", priority: PRIORITY.author, changefreq: "monthly" },
   { path: "/best/books/", priority: PRIORITY.best_of, changefreq: "weekly" },
   { path: "/best/focus-books/", priority: PRIORITY.best_of, changefreq: "weekly" },

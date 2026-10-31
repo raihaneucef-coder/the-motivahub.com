@@ -1,10 +1,10 @@
 ---
 title: "Eat the Frog: Why You Should Do the Hard Thing First"
 seoTitle: "Eat the Frog: Why the Hard Thing Comes First"
-description: "The 'eat the frog' rule: tackle the hardest, most dreaded task first thing in the morning. Why doing the difficult thing before anything else changes your entire day."
+description: "The 'eat the frog' rule: tackle the hardest, most dreaded task first thing in the morning. Why doing the hard thing first changes your entire day."
 titleFr: "Mange la grenouille : pourquoi il faut attaquer la tâche la plus difficile en premier"
 seoTitleFr: "Mange la grenouille : faire le plus dur en premier"
-descriptionFr: "La règle « mange la grenouille » : attaque la tâche la plus difficile et la plus redoutée dès le matin. Pourquoi faire le plus dur avant tout le reste change toute ta journée."
+descriptionFr: "La règle « mange la grenouille » : attaque la tâche la plus difficile dès le matin. Pourquoi faire le plus dur avant tout le reste change ta journée."
 pubDate: 2026-08-24
 updatedDate: 2026-09-12
 readTime: "5 MIN"

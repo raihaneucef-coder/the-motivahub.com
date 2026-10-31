@@ -10,6 +10,10 @@ interface Props {
 
 const { variant = "full", showSchema = true, lang = "en", name, jobTitle, bio } = Astro.props;
 
+// The bio box is a <div>, not an <aside>: axe flags complementary landmarks
+// nested in the article's <main> (landmark-complementary-is-top-level). It is
+// an article footer, not a page-level complementary region.
+
 // The author page has a French twin; without this every French page was
 // pointing its readers at the English bio.
 const localePrefix = lang === "fr" ? "/fr" : "";
@@ -27,7 +31,7 @@ const author = {
 ---
 
 {variant === "compact" && (
-  <aside class="author-bio author-bio--compact">
+  <div class="author-bio author-bio--compact">
     <span class="author-avatar author-avatar--img">
       <img
         src="/images/yr-320.jpg"
@@ -43,11 +47,11 @@ const author = {
       <p class="author-role">{author.jobTitle} · {author.worksFor}</p>
       <a class="author-link" href={localePrefix + "/author/youssef-raihane/"}>Read full bio →</a>
     </div>
-  </aside>
+  </div>
 )}
 
 {variant === "full" && (
-  <aside class="author-bio author-bio--full">
+  <div class="author-bio author-bio--full">
     <div class="author-bio-head">
       <span class="author-avatar-lg author-avatar--img">
         <img
@@ -69,7 +73,7 @@ const author = {
     <div class="author-links">
       <a class="author-link-pill author-link-pill--primary" href={localePrefix + "/author/youssef-raihane/"}>Full Author Page →</a>
     </div>
-  </aside>
+  </div>
 )}
 
 <style>
@@ -124,6 +128,10 @@ const author = {
     margin: 0 0 6px;
   }
   .author-link {
+    /* WCAG 2.5.8: standalone CTA link, measured 93x16 by the Oct-30 audit. */
+    display: inline-flex;
+    align-items: center;
+    min-height: 24px;
     font-family: var(--sans, system-ui, sans-serif);
     font-size: 13px;
     color: var(--gold, #111111);

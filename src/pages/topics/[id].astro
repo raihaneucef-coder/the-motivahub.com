@@ -13,7 +13,9 @@ export async function getStaticPaths() {
 const { topic } = Astro.props;
 const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
 const posts = (await getCollection("blog"))
-  .filter((p) => !p.data.draft && norm(p.data.topic) === topic.id)
+  // noindex marks a deprecated English route: listing it here asks Google to crawl
+  // and follow a page we have told it to drop, so it is filtered out with drafts.
+  .filter((p) => !p.data.draft && !p.data.noindex && norm(p.data.topic) === topic.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const pillar = pillars[topic.id];
 // Hub curation is editorial and may span topics (e.g. toughness essays tagged Discipline);

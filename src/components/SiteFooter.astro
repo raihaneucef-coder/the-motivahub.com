@@ -78,7 +78,9 @@ const lang = getLangFromUrl(Astro.url);
         <Link href="/privacy/" data-i18n="footerPrivacy">Privacy</Link>
         <Link href="/terms/" data-i18n="footerTerms">Terms</Link>
         <Link href="/affiliate-disclosure/" data-i18n="footerDisclosure">Disclosure</Link>
-        <a href="#" class="footer-manage-consent" onclick="try{window.googlefc&&googlefc.showRevocationMessage()}catch(e){};return false;">{lang === 'fr' ? 'Gérer le consentement' : 'Manage consent'}</a>
+        <Link href="/editorial-policy/" data-i18n="footerEditorial">Editorial Policy</Link>
+        <Link href="/cookie-policy/" data-i18n="footerCookies">Cookies</Link>
+        <a href={lang === 'fr' ? '/fr/privacy/' : '/privacy/'} class="footer-manage-consent" data-consent-revoke onclick="var done=false;try{if(window.googlefc&&googlefc.showRevocationMessage){googlefc.showRevocationMessage();done=true;}}catch(e){}if(!done){window.location.href=this.getAttribute('href');}return false;">{lang === 'fr' ? 'Gérer le consentement' : 'Manage consent'}</a>
       </div>
     </div>
   </div>

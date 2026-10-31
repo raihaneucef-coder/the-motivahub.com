@@ -1,10 +1,10 @@
 ---
 title: "The 21-Day Myth: How Long It Really Takes to Build a Habit"
 seoTitle: "The 21-Day Myth: Real Time to Build a Habit"
-description: "Forget the 21-day rule. The UCL study most often quoted (Lally et al., 2010) found a median of 66 days for a habit to become automatic, with a range of 18-254 days. Here is the real timeline."
+description: "Forget the 21-day rule. Lally et al. (2010) found a median of 66 days for a habit to become automatic, with a range of 18–254 days. The real timeline."
 titleFr: "La Règle des 21 Jours : Le Vrai Délai pour Créer une Habitude"
 seoTitleFr: "Le mythe des 21 jours : vrai délai d'une habitude"
-descriptionFr: "Oubliez la règle des 21 jours. L'étude de Lally et al. (2010), la plus citée, donne une médiane de 66 jours pour qu'une habitude devienne automatique, avec une fourchette de 18 à 254 jours. Voici le vrai calendrier."
+descriptionFr: "Oubliez la règle des 21 jours : Lally et al. (2010) trouvent une médiane de 66 jours pour automatiser une habitude, avec une fourchette de 18 à 254 jours."
 pubDate: 2026-08-24
 updatedDate: 2026-10-26
 readTime: "5 MIN"

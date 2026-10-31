@@ -1,10 +1,10 @@
 ---
 title: "How to Find Your Why: The Emotional Reason That Outlasts Motivation"
 seoTitle: "Find Your Why — The One Reason That Keeps You Going"
-description: "Surface motivation fades within weeks. A deep personal 'why' — found through one honest exercise — carries you through the hardest months. Here is how to uncover it."
+description: "Surface motivation fades within weeks. A deep personal 'why', found through one honest exercise, carries you through the hardest months. How to find it."
 titleFr: "Trouver ton pourquoi profond : la raison émotionnelle qui survit à la motivation"
-seoTitleFr: "Trouver ton pourquoi profond — la raison qui te fait continuer"
-descriptionFr: "La motivation de surface disparaît en quelques semaines. Un « pourquoi » profond — trouvé avec un seul exercice honnête — te porte pendant les mois les plus durs. Voici comment le découvrir."
+seoTitleFr: "Trouver ton pourquoi profond : la vraie raison"
+descriptionFr: "La motivation de surface s'éteint en quelques semaines. Un « pourquoi » profond, trouvé par un exercice honnête, te porte pendant les mois les plus durs."
 pubDate: 2026-08-24
 updatedDate: 2026-10-26
 readTime: "5 MIN"

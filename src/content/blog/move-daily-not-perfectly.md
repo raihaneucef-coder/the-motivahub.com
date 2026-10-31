@@ -2,7 +2,7 @@
 title: "Move Daily, Not Perfectly"
 description: "You do not need the perfect workout — you need a daily one that survives bad days. The minimal-consistency approach that actually sticks over time."
 titleFr: "Bouge quotidiennement, pas parfaitement"
-descriptionFr: "Vous n'avez pas besoin de l'entraînement parfait — vous avez besoin d'un entraînement quotidien qui survive aux mauvais jours. La régularité avant la performance."
+descriptionFr: "Vous n'avez pas besoin de l'entraînement parfait : il vous faut un entraînement quotidien qui survit aux mauvais jours. La régularité avant la performance."
 pubDate: 2026-08-21
 updatedDate: 2026-10-26
 topic: "Wellness"

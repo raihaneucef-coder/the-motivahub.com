@@ -42,6 +42,26 @@
       "permanent": true
     },
     {
+      "source": "/journal/page",
+      "destination": "/journal/",
+      "permanent": true
+    },
+    {
+      "source": "/journal/page/",
+      "destination": "/journal/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/journal/page",
+      "destination": "/fr/journal/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/journal/page/",
+      "destination": "/fr/journal/",
+      "permanent": true
+    },
+    {
       "source": "/goals/",
       "destination": "/objectives/",
       "permanent": true
@@ -95,7 +115,7 @@
         { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
         { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
         { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), interest-cohort=()" },
-        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com https://adservice.google.com https://googleads.g.doubleclick.net https://tpc.googlesyndication.com https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.google-analytics.com https://pagead2.googlesyndication.com https://tpc.googlesyndication.com https://adservice.google.com https://i.ytimg.com https://is1-ssl.mzstatic.com https://www.googletagmanager.com https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google; font-src 'self' data:; connect-src 'self' https://www.googletagmanager.com https://www.google-analytics.com https://formsubmit.co https://*.googlesyndication.com https://ad.doubleclick.net https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google; frame-src 'self' https://www.youtube.com https://pagead2.googlesyndication.com https://tpc.googlesyndication.com https://www.googletagmanager.com https://googleads.g.doubleclick.net https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google https://www.google.com; form-action 'self' https://formsubmit.co; frame-ancestors 'self'; base-uri 'self'; object-src 'none'" }
+        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com https://adservice.google.com https://googleads.g.doubleclick.net https://tpc.googlesyndication.com https://fundingchoicesmessages.google.com https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.google-analytics.com https://pagead2.googlesyndication.com https://tpc.googlesyndication.com https://adservice.google.com https://googleads.g.doubleclick.net https://fundingchoicesmessages.google.com https://i.ytimg.com https://is1-ssl.mzstatic.com https://www.googletagmanager.com https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google; font-src 'self' data:; connect-src 'self' https://www.googletagmanager.com https://www.google-analytics.com https://formsubmit.co https://*.googlesyndication.com https://ad.doubleclick.net https://fundingchoicesmessages.google.com https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google; frame-src 'self' https://www.youtube.com https://pagead2.googlesyndication.com https://tpc.googlesyndication.com https://googleads.g.doubleclick.net https://www.googletagmanager.com https://fundingchoicesmessages.google.com https://ep1.adtrafficquality.google https://ep2.adtrafficquality.google https://www.google.com; form-action 'self' https://formsubmit.co; frame-ancestors 'self'; base-uri 'self'; object-src 'none'" }
       ]
     },
     {

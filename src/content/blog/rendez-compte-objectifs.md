@@ -3,7 +3,7 @@ title: "Goal Accountability: Why You Need Someone to Keep You on Track"
 seoTitle: "Goal Accountability: Why You Need a Witness"
 description: "Accountability measurably raises your odds of reaching a goal. Learn how to build an accountability system that keeps you committed and consistent."
 titleFr: "Rendre des Comptes pour Atteindre vos Objectifs"
-descriptionFr: "La redevabilité augmente de façon mesurable vos chances d'atteindre un objectif. Découvrez comment créer un système de redevabilité qui vous maintient engagé et régulier."
+descriptionFr: "La redevabilité augmente vos chances d'atteindre un objectif. Découvrez comment créer un système qui vous garde engagé et régulier."
 pubDate: 2026-08-24
 updatedDate: 2026-10-26
 readTime: "5 MIN"

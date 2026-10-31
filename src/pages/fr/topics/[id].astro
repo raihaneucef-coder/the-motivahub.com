@@ -18,6 +18,9 @@ const posts = (await getCollection("blog"))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const pillar = pillars[topic.id];
 // French copy for the H1 and the JSON-LD; the page title already used titleFr.
+// The <title> adds ": essais et guides" so it stays distinct from the EN twin
+// even when the French word is identical (Discipline/Nutrition/Sport/Finance),
+// which the audit flagged as duplicate titles across the two languages.
 const topicTitle = topic.titleFr ?? topic.title;
 const topicDescription = topic.descriptionFr ?? topic.description;
 // Hub curation is editorial and may span topics (e.g. toughness essays tagged Discipline);
@@ -27,7 +30,7 @@ const allPosts = (await getCollection("blog"))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<Layout title={`${topic.titleFr ?? topic.title} — Motiva Hub`} description={topic.descriptionFr ?? topic.description}>
+<Layout title={`${topic.titleFr ?? topic.title} : essais et guides — Motiva Hub`} description={topic.descriptionFr ?? topic.description}>
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "CollectionPage",

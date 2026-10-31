@@ -4,7 +4,7 @@ seoTitle: "Imposter Syndrome: Why You Feel Like a Fraud"
 description: "Many high-achievers report impostor feelings at some point. It is not a sign of inadequacy — it is a sign of growth. Learn to recognize and overcome it."
 titleFr: "Le syndrome de l'imposteur : pourquoi vous vous sentez comme un fraudeur et comment y remédier"
 seoTitleFr: "Syndrome de l'imposteur : comprendre, en sortir"
-descriptionFr: "Beaucoup de personnes à haut potentiel rapportent des sentiments d'imposteur à un moment ou un autre. Ce n'est pas un signe d'incompétence mais de croissance. Le reconnaître et le surmonter."
+descriptionFr: "Beaucoup de personnes à haut potentiel ressentent un syndrome de l'imposteur. Ce n'est pas un signe d'incompétence mais de croissance. Comment le surmonter."
 pubDate: 2026-08-24
 updatedDate: 2026-10-26
 image: "/images/blog/syndrome-imposteur-2.jpg"

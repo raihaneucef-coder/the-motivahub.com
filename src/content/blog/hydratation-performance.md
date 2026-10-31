@@ -1,10 +1,10 @@
 ---
 title: "Hydration: Why Water Is the Most Underrated Performance Enhancer"
 seoTitle: "Hydration: The Underrated Performance Enhancer"
-description: "Losing about 2% of your body mass in fluid already measurably hurts endurance and concentration. Water is the simplest, cheapest, and most effective performance enhancer available."
+description: "Losing 2% of your body mass in fluid already hurts endurance and concentration. Water is the simplest, cheapest performance enhancer available."
 titleFr: "Hydratation : pourquoi l'eau est le meilleur booster de performance (et le plus sous-estimé)"
 seoTitleFr: "Hydratation : l'eau, booster de performance oublié"
-descriptionFr: "Perdre environ 2 % de la masse corporelle en liquide réduit déjà de façon mesurable l'endurance et la concentration. L'eau est le booster de performance le plus simple, le moins cher et le plus efficace qui existe."
+descriptionFr: "Perdre 2 % de sa masse corporelle en liquide réduit déjà l'endurance et la concentration. L'eau est le booster de performance le plus simple et le moins cher."
 pubDate: 2026-08-24
 updatedDate: 2026-10-26
 readTime: "5 MIN"
