@@ -31,10 +31,13 @@ const t = (() => {
 
 const lang = typeof window !== "undefined" ? (localStorage.getItem("lang") || "en") : "en";
 const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book?.reason;
+// A plain div, not <aside>: the block sits inside the article body, and a
+// nested complementary landmark trips axe landmark-complementary-is-top-level.
+// Same fix as AuthorBio.
 ---
 
 {(book || showDefaultSlot) && isPrimary && (
-  <aside class="aff-cta">
+  <div class="aff-cta">
     {book && onFr ? (
       <>
         <p class="aff-cta-tag">{fill(dictFr.bookCtaRecommended)}</p>
@@ -59,7 +62,7 @@ const bookReason = book && lang === "fr" && book.reasonFr ? book.reasonFr : book
         {!book && showDefaultSlot && <slot />}
       </>
     )}
-  </aside>
+  </div>
 )}
 
 {(book || showDefaultSlot) && !isPrimary && (

@@ -1,4 +1,6 @@
 ---
+import Link from "./Link.astro";
+
 interface Props {
   variant?: "inline" | "callout" | "footer";
   lang?: "en" | "fr";
@@ -34,7 +36,7 @@ const text = {
 
 {variant === "footer" && (
   <p class="affiliate-footer">
-    {text.footer} <a href="/affiliate-disclosure/">→</a>
+    {text.footer} <Link href="/affiliate-disclosure/" aria-label={lang === "fr" ? "Divulgation d'affiliation complète" : "Full affiliate disclosure"}>→</Link>
   </p>
 )}
 

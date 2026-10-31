@@ -1,6 +1,15 @@
 // Post-build: notify IndexNow (Bing + Yandex) that pages are fresh.
 // Verifies key file first, then submits sitemap URLs.
 // Gracefully no-ops if INDEXNOW_KEY not set.
+//
+// Runs only on a real production deploy: a local/preview build must never
+// announce URLs for the live site (and used to, because the key file is
+// already public). Set INDEXNOW_SUBMIT=1 to force a manual submission.
+const IS_PRODUCTION_DEPLOY = process.env.VERCEL_ENV === "production";
+if (!IS_PRODUCTION_DEPLOY && process.env.INDEXNOW_SUBMIT !== "1") {
+  console.log("○ IndexNow skipped: not a production deploy (set INDEXNOW_SUBMIT=1 to force)");
+  process.exit(0);
+}
 
 const KEY = process.env.INDEXNOW_KEY || "eb6a9565c4614708a8f55f09aefa0e67";
 const HOST = "the-motivahub.com";

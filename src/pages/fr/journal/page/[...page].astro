@@ -2,13 +2,17 @@
 import Layout from "../../../../layouts/Layout.astro";
 import ArticleCard from "../../../../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
-import { getFrenchSlug } from "../../../../utils/i18n";
 
+// getStaticPaths is hoisted out of the frontmatter by Astro, so the page size
+// has to be declared inside it (a top-level const is not in scope there).
 export async function getStaticPaths({ paginate }: any) {
+  const PAGE_SIZE = 12;
   const posts = (await getCollection("blog"))
     .filter((p) => !p.data.draft)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-  return paginate(posts, { pageSize: 12 });
+  // Page 1 is served by /fr/journal/ (index.astro); emitting it here too shipped
+  // /fr/journal/page/ as an indexable duplicate of the landing page.
+  return paginate(posts, { pageSize: PAGE_SIZE }).filter((entry: any) => entry.props.page.currentPage > 1);
 }
 
 const { page } = Astro.props as any;
@@ -18,30 +22,15 @@ const totalPages = page.lastPage;
 const enLastPage = Math.ceil(
   (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex).length / 12
 );
-const isFirst = page.currentPage === 1;
-const prevHref = page.url.prev;
-const nextHref = page.url.next;
+// Same override as the English twin: page 2 returns to /fr/journal/, not to the
+// removed /fr/journal/page duplicate.
+const prevHref = page.currentPage === 2 ? "/fr/journal/" : `/fr/journal/page/${page.currentPage - 1}/`;
+const nextHref = page.currentPage < totalPages ? `/fr/journal/page/${page.currentPage + 1}/` : undefined;
 ---
 
-<Layout title={`Le Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} sur ${totalPages} — Articles pratiques sur le mindset, les habitudes, la discipline et le travail profond.`} canonical={isFirst ? "https://the-motivahub.com/fr/journal/" : undefined} robots={isFirst ? undefined : "noindex, follow"} hideAlternates={page.currentPage > enLastPage}>
-  {isFirst && (
-    <script type="application/ld+json" set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      "name": "Journal Motiva Hub",
-      "description": "Essais sur mindset, habitudes, discipline, productivité et travail profond.",
-      "url": "https://the-motivahub.com/fr/journal/",
-      "numberOfItems": page.total,
-      "itemListElement": page.data.slice(0, 20).map((p: any, i: number) => ({
-        "@type": "ListItem",
-        "position": i + 1,
-        "url": `https://the-motivahub.com/fr/journal/${getFrenchSlug(p.id)}/`,
-        "name": p.data.titleFr || p.data.title
-      }))
-    })} />
-  )}
-  {!isFirst && <link rel="prev" href={prevHref} />}
-  {page.url.next && <link rel="next" href={nextHref} />}
+<Layout title={`Le Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} sur ${totalPages} — Articles pratiques sur le mindset, les habitudes, la discipline et le travail profond.`} robots="noindex, follow" hideAlternates={page.currentPage > enLastPage}>
+  <link rel="prev" href={prevHref} />
+  {nextHref && <link rel="next" href={nextHref} />}
 
   <section class="journal-page-head">
     <div class="container">

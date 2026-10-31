@@ -1,0 +1,56 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Link from '../../../components/Link.astro';
+---
+
+<Layout title="Politique de cookies — Motiva Hub" description="Les cookies utilisés par Motiva Hub, le rôle de chaque catégorie, la collecte du consentement via Google et la modification de vos choix." image="/images/youssef-raihane.jpg" lang="fr">
+  <article class="article-body container">
+    <header class="article-header">
+      <div class="container">
+        <p class="card-meta">LÉGAL</p>
+        <h1>Politique de cookies</h1>
+        <p class="card-date">Dernière mise à jour : 30 octobre 2026</p>
+      </div>
+    </header>
+
+    <div class="container">
+      <h2>Ce qu'est un cookie</h2>
+      <p>Un cookie est un petit fichier texte déposé par votre navigateur lorsque vous visitez un site. Il permet de mémoriser un choix ou de mesurer l'usage des pages. Cette politique couvre les cookies et technologies similaires (stockage local, pixels) sur the-motivahub.com, en version anglaise comme française.</p>
+
+      <h2>Les catégories utilisées</h2>
+      <h3>1. Strictement nécessaires</h3>
+      <p>Ils font fonctionner le site : livraison des pages, sécurité, envoi des formulaires et choix de langue. Votre préférence de langue et l'état des outils interactifs (suivi d'habitudes, suivi des douches froides) sont stockés localement dans votre navigateur, et non dans des cookies publicitaires. Ces stockages nécessaires sont utilisés sans consentement, car le site ne peut pas fonctionner sans eux.</p>
+
+      <h3>2. Mesure d'audience</h3>
+      <p>Google Analytics 4 mesure la lecture des pages : vues, pays approximatif, type d'appareil, parcours de navigation. Ces cookies ne sont déposés qu'après votre consentement. Avant le consentement, la mesure tourne en mode restreint (Consent Mode v2 : <code>analytics_storage</code> refusé) et ne lit ni n'écrit de cookie de mesure.</p>
+
+      <h3>3. Publicité</h3>
+      <p>Google AdSense diffuse les annonces sur les pages d'article. Les cookies publicitaires ne sont déposés qu'après votre consentement. Avant le consentement, le tag publicitaire tourne en mode restreint (<code>ad_storage</code>, <code>ad_user_data</code> et <code>ad_personalization</code> refusés) : aucun cookie publicitaire personnalisé n'est déposé.</p>
+
+      <h2>Comment le consentement est recueilli</h2>
+      <p>Le consentement est recueilli via <strong>Google Privacy &amp; messaging</strong> (la plateforme de gestion du consentement de Google, aussi appelée Funding Choices), qui affiche un message lors de votre première visite depuis une région qui l'exige. Vous choisissez par finalité, et le choix est mémorisé pour ce navigateur.</p>
+      <p>Vous pouvez modifier ou retirer votre choix à tout moment via le lien <a href="#consent" data-consent-revoke onclick="var done=false;try{if(window.googlefc&&googlefc.showRevocationMessage){googlefc.showRevocationMessage();done=true;}}catch(e){}if(!done){window.location.href='/fr/privacy/';}return false;">Gérer le consentement</a>, également présent en pied de page. Le retrait s'applique immédiatement ; il ne remet pas en cause les traitements effectués avant celui-ci.</p>
+
+      <h2>Cookies tiers</h2>
+      <p>Après votre consentement, les tiers suivants peuvent déposer des cookies :</p>
+      <ul>
+        <li><strong>Google Analytics</strong> (<code>_ga</code>, <code>_ga_*</code>) — mesure d'audience.</li>
+        <li><strong>Google AdSense</strong> (<code>__gads</code>, <code>__gpi</code>) — diffusion des annonces, limitation de fréquence et lutte contre la fraude.</li>
+        <li><strong>Google Privacy &amp; messaging</strong> — vos choix de consentement.</li>
+      </ul>
+      <p>Chacun est décrit dans la <a href="https://policies.google.com/technologies/cookies" rel="noopener nofollow" target="_blank">documentation cookies de Google</a>. Nous ne vendons aucune donnée personnelle et n'exploitons aucune autre régie publicitaire.</p>
+
+      <h2>Durée de vie des cookies</h2>
+      <p>Les cookies de session disparaissent à la fermeture du navigateur. Les cookies persistants ont une échéance fixée par leur fournisseur — les cookies de mesure et de publicité durent en général jusqu'à 13 mois. Vous pouvez les supprimer à tout moment dans les réglages de votre navigateur.</p>
+
+      <h2>Gérer les cookies dans votre navigateur</h2>
+      <p>Tous les navigateurs majeurs permettent de consulter, bloquer et supprimer les cookies, et de naviguer en mode privé. Bloquer le stockage nécessaire peut casser certaines parties du site ; bloquer les cookies publicitaires ne supprime pas les annonces, cela les rend seulement non personnalisées. Reportez-vous à l'aide de votre navigateur pour la procédure exacte.</p>
+
+      <h2>Modifications de cette politique</h2>
+      <p>Si nous ajoutons un service qui dépose des cookies, cette page est mise à jour et la date en haut change.</p>
+
+      <h2>Contact</h2>
+      <p>Une question sur les cookies ou le consentement ? Écrivez à <a href="mailto:contact@the-motivahub.com">contact@the-motivahub.com</a>, ou lisez la <Link href="/privacy/">Politique de confidentialité</Link> pour une vue d'ensemble.</p>
+    </div>
+  </article>
+</Layout>

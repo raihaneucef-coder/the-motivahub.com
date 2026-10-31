@@ -11,6 +11,7 @@ import BookCTA from "../../../components/BookCTA.astro";
 import AuthorBio from "../../../components/AuthorBio.astro";
 import ArticleFaq from "../../../components/ArticleFaq.astro";
 import TableOfContents from "../../../components/TableOfContents.astro";
+import AdSlot from "../../../components/AdSlot.astro";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { getCollection } from "astro:content";
@@ -226,6 +227,9 @@ const displayTitle = currentLocale === "fr" && post.data.titleFr ? post.data.tit
 const seoTitle = post.data.seoTitleFr || displayTitle;
 const displayDesc = currentLocale === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
 const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(post.data.topic) || post.data.topic.toLowerCase() === "books";
+// Same rule as the English page: the disclosure follows the content, not the slug.
+const showAffiliateBanner = isReviewPost || /tag=motivahub-21/.test(post.body ?? "");
+const isoDate = post.data.pubDate.toISOString();
 ---
 
 <Layout title={`${seoTitle} — Motiva Hub`} description={displayDesc} image={post.data.image} ogType="article" lang={postLang}>
@@ -292,21 +296,22 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
   <article>
     <header class="article-header">
       <div class="container">
-        <p class="card-meta"><a href={`/fr/topics/${post.data.topic.toLowerCase().replace(/\s+/g,'-')}/`} style="color:inherit;text-decoration:none"><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span></a> · {post.data.readTime}</p>
+        <p class="card-meta"><a class="article-topic-link" href={`/fr/topics/${post.data.topic.toLowerCase().replace(/\s+/g,'-')}/`}><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span></a> · {post.data.readTime}</p>
         <h1 data-i18n={`article_${post.id}_title`} data-en-text={post.data.title}>{displayTitle}</h1>
-        <p class="card-date">{post.data.pubDate.toLocaleDateString("fr-FR", { month: "long", day: "numeric", year: "numeric" })}</p>
+        <p class="card-date">Par <a href="/fr/author/youssef-raihane/" rel="author">Youssef Raihane</a> · <time datetime={isoDate}>{post.data.pubDate.toLocaleDateString("fr-FR", { month: "long", day: "numeric", year: "numeric" })}</time></p>
         <div class="article-img-wrap"><img class="article-img" src={post.data.image} srcset={coverSrcset(post.data.image, coverDims.width)} sizes="calc(min(1200px, 100vw) - clamp(40px, 8vw, 112px))" alt={post.data.imageAlt || post.data.title} width={coverDims.width} height={coverDims.height} fetchpriority="high" /></div>
       </div>
     </header>
 
     <div class="article-body container">
-      {isReviewPost && <AffiliateBanner variant="callout" lang={postLang} />}
+      {showAffiliateBanner && <AffiliateBanner variant="callout" lang={postLang} />}
       <TableOfContents headings={frHeadings} />
       <div class="prose" data-ssr-fr="1" set:html={proseHtml} />
+      <AdSlot index={0} lang="fr" />
       <ArticleFaq faq={faqFr ?? undefined} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <ToolCta topic={post.data.topic} lang="fr" />
-      {isReviewPost && <AffiliateBanner variant="footer" lang={postLang} />}
+      {showAffiliateBanner && <AffiliateBanner variant="footer" lang={postLang} />}
       <SocialShare title={displayTitle} description={displayDesc} />
       <AuthorBio variant="compact" showSchema={false} lang="fr" />
       <div class="article-nav">
@@ -322,3 +327,10 @@ const isReviewPost = /review|revue|test/i.test(post.id) || /review|revue/i.test(
   </RelatedArticles>
   <NewsletterSection />
 </Layout>
+
+<style>
+  .card-date a {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+</style>

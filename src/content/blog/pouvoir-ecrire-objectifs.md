@@ -1,8 +1,8 @@
 ---
 title: "The Power of Writing Down Your Goals"
-description: "A small, unpublished study (Matthews, 2015) reported that people who wrote their goals down were more likely to achieve them. Learn why writing transforms wishes into reality."
+description: "A small unpublished study (Matthews, 2015) found that people who wrote their goals down were more likely to achieve them. Why writing transforms wishes."
 titleFr: "Le pouvoir d'écrire tes objectifs"
-descriptionFr: "Une petite étude non publiée (Matthews, 2015) a rapporté que les personnes qui écrivaient leurs objectifs avaient plus de chances de les atteindre. Découvrez pourquoi écrire transforme les souhaits en réalité."
+descriptionFr: "Une petite étude (Matthews, 2015) suggère qu'écrire ses objectifs augmente ses chances de les atteindre. Pourquoi écrire transforme les souhaits en réalité."
 pubDate: 2026-08-24
 updatedDate: 2026-10-26
 readTime: "5 MIN"

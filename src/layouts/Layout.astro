@@ -18,7 +18,8 @@ interface Props {
   schema?: any;
   // Optional canonical override (pagination page 1 points at /journal/).
   // Defaults to the page's own URL so every other page is unaffected.
-  canonical?: string;
+  // null removes the tag entirely (404, where no canonical target exists).
+  canonical?: string | null;
   // Override the default robots directive (e.g. "noindex, follow" for pagination).
   robots?: string;
   // Suppress alternates when the sibling page does not exist in the other
@@ -28,7 +29,7 @@ interface Props {
 
 const { title, description, image = "/images/youssef-raihane.jpg", noindex = false, ogType = "website", lang, schema, canonical: canonicalOverride, robots, hideAlternates = false } = Astro.props;
 const currentLocale = getLangFromUrl(Astro.url);
-const canonical = canonicalOverride ?? Astro.url.href;
+const canonical = canonicalOverride === null ? null : (canonicalOverride ?? Astro.url.href);
 // hreflang alternates must point at the real sibling page: map the journal
 // slug both ways (1 of 169 slugs differs, e.g. sleep-is-unfair-advantage <->
 // sommeil-avantage-indefendable) instead of just stripping the /fr prefix,
@@ -61,15 +62,18 @@ const globalCssV = createHash("sha256")
 const gaSnippet = GA_ID
   ? `window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});`
   : "";
-// AdSense: the tag loads ONLY after the CMP grants ad_storage consent (see
-// googlefc callback below). This is GDPR-correct (no ad cookies before opt-in)
-// and eliminates the third-party-cookies Best Practices penalty.
+// AdSense: the ad tag itself is what delivers Google's Privacy & messaging
+// (CMP) consent message, so it must be loaded even before the visitor opts in —
+// otherwise the CMP can never appear and the consent callback never fires
+// (deadlock). Consent Mode v2 is declared "denied" above, before any Google
+// script runs, so the tag starts in restricted mode: no ad cookies, no
+// personalisation until the CMP reports a grant.
 // GA4: the pageview (gtag('js')/gtag('config')) is queued into dataLayer
 // immediately so every visit still counts with an accurate timestamp; only the
 // heavy gtag.js download+execution is deferred to idle after load, off the
 // mobile critical path (frees main thread -> lower TBT/LCP contention).
 const deferAds =
-  `(function(){window.__loadAdsense=function(){if(window.__adsenseLoaded)return;window.__adsenseLoaded=true;var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);};})();`;
+  `(function(){window.__loadAdsense=function(){if(window.__adsenseLoaded)return;window.__adsenseLoaded=true;var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7700455846106476";document.head.appendChild(s);};(window.adsbygoogle=window.adsbygoogle||[]);function schedule(){if("requestIdleCallback" in window){requestIdleCallback(window.__loadAdsense,{timeout:3000});}else{setTimeout(window.__loadAdsense,1200);}}if(document.readyState==="complete"){schedule();}else{window.addEventListener("load",schedule,{once:true});}})();`;
 const deferGa = GA_ID
   ? `(function(){gtag('js',new Date());gtag('config','${GA_ID}');var done=false;function load(){if(done)return;done=true;var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}";document.head.appendChild(s);}function schedule(){if("requestIdleCallback" in window){requestIdleCallback(load,{timeout:4000});}else{setTimeout(load,1500);}}if(document.readyState==='complete'){schedule();}else{window.addEventListener('load',schedule,{once:true});}})();`
   : "";
@@ -82,7 +86,6 @@ const deferGa = GA_ID
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Pinterest domain verification (claimed via Settings → Lien vers Pinterest) -->
     <meta name="p:domain_verify" content="61211e28783214b42cbe1bc9c5e0ca5f" />
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
@@ -90,11 +93,11 @@ const deferGa = GA_ID
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <link rel="canonical" href={canonical} />
+    {canonical && <link rel="canonical" href={canonical} />}
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={ogType} />
-    <meta property="og:url" content={canonical} />
+    {canonical && <meta property="og:url" content={canonical} />}
     <meta property="og:image" content={ogImage} />
     <meta property="og:site_name" content="Motiva Hub" />
     <meta property="og:locale" content={ogLocale} />
@@ -128,6 +131,8 @@ const deferGa = GA_ID
     <script is:inline>
       // F-09: make GA4 / Consent Mode honour the Google Privacy & messaging (CMP)
       // decision for all four signals, using the documented googlefc API only.
+      // The ad tag is already loaded (idle), so this callback only carries the
+      // consent verdict; Google re-evaluates the mounted slots by itself.
       window.googlefc = window.googlefc || {};
       window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
       window.googlefc.callbackQueue.push({
@@ -266,7 +271,11 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
         async function setLang(lang, initial){
           const baseDict = await loadDict(lang);
           let t = {...baseDict};
-          if(lang === "fr" && !ssrFr){
+          // articles-fr.json is ~1.3 MB: only fetch it when the toggle really
+          // has to swap a page client-side. At init the page is already in the
+          // URL's language, so pulling it there was pure payload on every FR
+          // page (and on every EN page a visitor had saved FR for).
+          if(lang === "fr" && !ssrFr && !initial){
             try{
               const res = await fetch("/i18n/articles-fr.json");
               if(res.ok){

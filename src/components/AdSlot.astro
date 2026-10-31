@@ -1,41 +1,62 @@
 ---
+// AdSense display unit.
+//
+// The ad unit id is account data that lives in the AdSense dashboard, so it is
+// supplied through PUBLIC_ADSENSE_SLOT (one id, or a comma-separated list when a
+// page mounts several units). Without it the component renders nothing at all:
+// no empty box, no layout shift, no invalid request.
+const RAW_SLOTS = (import.meta.env.PUBLIC_ADSENSE_SLOT ?? "").split(",").map((s) => s.trim()).filter(Boolean);
+const CLIENT = import.meta.env.PUBLIC_ADSENSE_CLIENT ?? "ca-pub-7700455846106476";
+
 interface Props {
   format?: string;
   slot?: string;
+  index?: number;
   responsive?: boolean;
+  lang?: "en" | "fr";
 }
 
-const { format = "auto", slot = "", responsive = true } = Astro.props;
+const { format = "auto", slot, index = 0, responsive = true, lang = "en" } = Astro.props;
+const adSlot = slot || RAW_SLOTS[index] || "";
+const label = lang === "fr" ? "Publicité" : "Advertisement";
 ---
 
-{slot ? (
-  <>
-    <div class="ad-slot-wrapper">
-      <ins
-        class="adsbygoogle"
-        style="display:block"
-        data-ad-client="ca-pub-7700455846106476"
-        data-ad-slot={slot}
-        data-ad-format={format}
-        data-full-width-responsive={responsive ? "true" : "false"}
-      ></ins>
-    </div>
-
+{adSlot ? (
+  <div class="ad-slot-wrapper" data-ad-client={CLIENT}>
+    <span class="ad-slot-label">{label}</span>
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={CLIENT}
+      data-ad-slot={adSlot}
+      data-ad-format={format}
+      data-full-width-responsive={responsive ? "true" : "false"}
+    ></ins>
     <script is:inline>
-      (adsbygoogle = window.adsbygoogle || []).push({});
+      // The tag loader (Layout) creates window.adsbygoogle early and drains this
+      // queue once adsbygoogle.js arrives, so pushing before load is safe.
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
     </script>
-  </>
+  </div>
 ) : null}
 
 <style>
   .ad-slot-wrapper {
-    margin: 2rem auto;
+    margin: 2.5em auto;
     text-align: center;
-    min-height: 90px;
-    background: rgba(0, 0, 0, 0.02);
-    border-radius: 8px;
+    min-height: 250px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 8px;
   }
+  .ad-slot-label {
+    font-family: var(--mono);
+    font-size: 0.625rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--muted-soft);
+  }
+  .ad-slot-wrapper .adsbygoogle { width: 100%; }
 </style>

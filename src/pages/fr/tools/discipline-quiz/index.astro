@@ -390,11 +390,14 @@ const archetypesFr = {
 <script define:vars={{ questions, archetypes, questionsFr, archetypesFr }}>
 (function () {
   const i18nDict = window.i18nDict || {};
+  // F-07: the page language is decided by the URL, never by localStorage —
+  // otherwise a visitor whose stored preference is "en" gets English questions
+  // under a French <h1> on /fr/tools/.
   const lang = (function(){
-    const l = localStorage.getItem("lang");
-    if(l === "fr" || l === "ar") return l;
     if(window.location.pathname.startsWith("/fr")) return "fr";
-    return "en";
+    if(window.location.pathname.startsWith("/ar")) return "ar";
+    const l = localStorage.getItem("lang");
+    return (l === "fr" || l === "ar") ? l : "en";
   })();
   const t = (i18nDict[lang] || i18nDict.en || {});
   const qs = lang === "fr" ? questionsFr : questions;

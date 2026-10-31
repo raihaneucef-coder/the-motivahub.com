@@ -3,7 +3,7 @@ title: "David Goggins Rules: The 5 Codes Behind His Unbreakable Mind"
 seoTitle: "David Goggins Rules: 5 Codes of an Unbreakable Mind"
 description: "David Goggins rules, explained: the 40% Rule, Take Souls, Cookie Jar, Accountability Mirror and Callous Mind — with a how-to and a 7-day starter protocol."
 titleFr: "Règles de David Goggins : Les 5 Codes derrière son Esprit Inébranlable"
-seoTitleFr: "Règles de David Goggins : la Règle des 40 % et les 5 Codes"
+seoTitleFr: "Règles de David Goggins : les 5 codes"
 descriptionFr: "Les règles de David Goggins expliquées : Règle des 40 %, Take Souls, Boîte à Cookies, Miroir de Responsabilité — avec un protocole de 7 jours."
 pubDate: 2026-08-24
 updatedDate: 2026-09-25

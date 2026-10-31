@@ -7,35 +7,22 @@ export async function getStaticPaths({ paginate }: any) {
   const posts = (await getCollection("blog"))
     .filter((p) => !p.data.draft && !p.data.noindex)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-  return paginate(posts, { pageSize: 12 });
+  // Page 1 is served by /journal/ (index.astro). Letting paginate emit it here
+  // as well shipped /journal/page/ as an indexable duplicate of the landing page.
+  return paginate(posts, { pageSize: 12 }).filter((entry: any) => entry.props.page.currentPage > 1);
 }
 
 const { page } = Astro.props as any;
 const totalPages = page.lastPage;
-const isFirst = page.currentPage === 1;
-const prevHref = page.url.prev;
-const nextHref = page.url.next;
+// Built by hand: Astro's page.url.prev points page 2 back at /journal/page
+// (the duplicate we just removed) instead of the real /journal/ landing page.
+const prevHref = page.currentPage === 2 ? "/journal/" : `/journal/page/${page.currentPage - 1}/`;
+const nextHref = page.currentPage < totalPages ? `/journal/page/${page.currentPage + 1}/` : undefined;
 ---
 
-<Layout title={`The Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} of ${totalPages} — Practical articles on mindset, habits, discipline and deep work.`} canonical={isFirst ? "https://the-motivahub.com/journal/" : undefined} robots={isFirst ? undefined : "noindex, follow"}>
-  {isFirst && (
-    <script type="application/ld+json" set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      "name": "Motiva Hub Journal",
-      "description": "Essays on mindset, habits, discipline, productivity, and deep work.",
-      "url": "https://the-motivahub.com/journal/",
-      "numberOfItems": page.total,
-      "itemListElement": page.data.slice(0, 20).map((p: any, i: number) => ({
-        "@type": "ListItem",
-        "position": i + 1,
-        "url": `https://the-motivahub.com/journal/${p.id}/`,
-        "name": p.data.title
-      }))
-    })} />
-  )}
-  {!isFirst && <link rel="prev" href={page.url.prev} />}
-  {page.url.next && <link rel="next" href={page.url.next} />}
+<Layout title={`The Journal · Page ${page.currentPage} — Motiva Hub`} description={`Page ${page.currentPage} of ${totalPages} — Practical articles on mindset, habits, discipline and deep work.`} robots="noindex, follow">
+  <link rel="prev" href={prevHref} />
+  {nextHref && <link rel="next" href={nextHref} />}
 
   <section class="journal-page-head">
     <div class="container">
