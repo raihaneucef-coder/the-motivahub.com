@@ -3,7 +3,8 @@
  * Body: { email, name?, source }
  *
  * Adds subscriber to RESEND audience + sends welcome email with PDF link.
- * Falls back to FormSubmit forwarding if RESEND env vars not set.
+ * Resend is the only provider: if the RESEND env vars are missing the request
+ * fails 500 and the response points to the direct download link.
  *
  * Env:
  *   RESEND_API_KEY                 unrestricted key (Full access)

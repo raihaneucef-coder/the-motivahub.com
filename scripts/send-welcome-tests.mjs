@@ -33,8 +33,12 @@ const PDFS = {
   '30-days-discipline': { title: '30 Days of Discipline', pages: 7, url: 'https://the-motivahub.com/30-days-discipline.pdf' },
 };
 
+// Same subject rule as src/data/welcomeEmails.js: catalog titles carry their own
+// article ("The Habit Stack Kit"), which reads wrong in a subject line.
+const subjectTitle = (t) => String(t).replace(/^The\s+/i, '');
+
 const STEPS = [
-  { file: 'day0-welcome.html', subject: (p) => `Your ${p.title} is here` },
+  { file: 'day0-welcome.html', subject: (p) => `Your ${subjectTitle(p.title)} is here` },
   { file: 'day2-action.html', subject: () => 'Did you fill page 4?' },
   { file: 'day4-environment.html', subject: () => 'The 20-second rule that changed everything' },
   { file: 'day7-book.html', subject: () => 'The one book I actually re-read every year' },
