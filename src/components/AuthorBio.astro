@@ -28,6 +28,30 @@ const author = {
   founded: 2026,
 };
 
+// This box renders inside /fr/journal/*, which the post-build FR swap never
+// touches (see scripts/i18n-fr-ssr.mjs), and it carries no data-i18n keys, so
+// the French labels have to be resolved here, at build time. French wording
+// comes from public/i18n/dict-fr.json where the dictionary has a ready string
+// (authorTag verbatim; authorReadFull and authorFullPage with the trailing
+// arrow the English links already use), while the role translates
+// author.jobTitle directly — the dictionary only stores it inside the longer
+// authorSubtitle sentence.
+const copy = lang === "fr" ? {
+  role: "Fondateur & Rédacteur en Chef",
+  about: "À propos de l'auteur",
+  founded: `A fondé ${author.worksFor} en ${author.founded}`,
+  bio: "Fondateur de Motiva Hub, lancé en 2026. Il écrit des essais sur la discipline, les habitudes et le stoïcisme. Il pense que la discipline bat la motivation — à chaque fois.",
+  readFull: "Lire la biographie complète →",
+  fullPage: "Page auteur complète →",
+} : {
+  role: author.jobTitle,
+  about: "About the author",
+  founded: `Founded ${author.worksFor} in ${author.founded}`,
+  bio: author.bio,
+  readFull: "Read full bio →",
+  fullPage: "Full Author Page →",
+};
+
 ---
 
 {variant === "compact" && (
@@ -44,8 +68,8 @@ const author = {
     </span>
     <div class="author-meta">
       <p class="author-name">{author.name}</p>
-      <p class="author-role">{author.jobTitle} · {author.worksFor}</p>
-      <a class="author-link" href={localePrefix + "/author/youssef-raihane/"}>Read full bio →</a>
+      <p class="author-role">{copy.role} · {author.worksFor}</p>
+      <a class="author-link" href={localePrefix + "/author/youssef-raihane/"}>{copy.readFull}</a>
     </div>
   </div>
 )}
@@ -64,14 +88,14 @@ const author = {
         />
       </span>
       <div>
-        <p class="author-tag">About the author</p>
+        <p class="author-tag">{copy.about}</p>
         <h3 class="author-name-lg">{author.name}</h3>
-        <p class="author-role-lg">{author.jobTitle} · Founded {author.worksFor} in {author.founded}</p>
+        <p class="author-role-lg">{copy.role} · {copy.founded}</p>
       </div>
     </div>
-    <p class="author-bio-text">{author.bio}</p>
+    <p class="author-bio-text">{copy.bio}</p>
     <div class="author-links">
-      <a class="author-link-pill author-link-pill--primary" href={localePrefix + "/author/youssef-raihane/"}>Full Author Page →</a>
+      <a class="author-link-pill author-link-pill--primary" href={localePrefix + "/author/youssef-raihane/"}>{copy.fullPage}</a>
     </div>
   </div>
 )}
