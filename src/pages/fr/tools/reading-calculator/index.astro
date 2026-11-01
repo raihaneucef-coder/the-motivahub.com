@@ -57,13 +57,13 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
         <div class="rc-results" id="rc-results" hidden>
           <div class="rc-result-headline">
             <p class="rc-result-label" data-i18n="rcDailyTarget">Your daily target</p>
-            <p class="rc-result-num" id="rc-pages-day">14</p>
+            <p class="rc-result-num" id="rc-pages-day">20</p>
             <p class="rc-result-unit" data-i18n="rcPagesPerDay">pages per day</p>
           </div>
 
           <div class="rc-result-grid">
             <div class="rc-result-stat">
-              <p class="rc-stat-num" id="rc-total-pages">7,200</p>
+              <p class="rc-stat-num" id="rc-total-pages">7 200</p>
               <p class="rc-stat-label" data-i18n="rcTotalPages">Total pages</p>
             </div>
             <div class="rc-result-stat">
@@ -71,11 +71,11 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
               <p class="rc-stat-label" data-i18n="rcHoursNeeded">Hours needed</p>
             </div>
             <div class="rc-result-stat">
-              <p class="rc-stat-num" id="rc-feasibility">85%</p>
+              <p class="rc-stat-num" id="rc-feasibility">83%</p>
               <p class="rc-stat-label" data-i18n="rcGoalFeasible">Goal feasible</p>
             </div>
             <div class="rc-result-stat">
-              <p class="rc-stat-num" id="rc-minutes-needed">17 min</p>
+              <p class="rc-stat-num" id="rc-minutes-needed">24 min</p>
               <p class="rc-stat-label" data-i18n="rcDailyNeeded">Daily needed</p>
             </div>
           </div>
@@ -85,23 +85,23 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
             <div class="rc-plan-grid" id="rc-plan-grid">
               <div class="rc-plan-card">
                 <p class="rc-plan-q">Q1</p>
-                <p class="rc-plan-num">6 books</p>
-                <p class="rc-plan-desc">Jan–Mar · 1 every 2 weeks</p>
+                <p class="rc-plan-num" data-i18n="rcPlanBooks">6 books</p>
+                <p class="rc-plan-desc" data-i18n="rcPlanDescQ1">Jan–Mar · 1 every 2 weeks</p>
               </div>
               <div class="rc-plan-card">
                 <p class="rc-plan-q">Q2</p>
-                <p class="rc-plan-num">6 books</p>
-                <p class="rc-plan-desc">Apr–Jun · 1 every 2 weeks</p>
+                <p class="rc-plan-num" data-i18n="rcPlanBooks">6 books</p>
+                <p class="rc-plan-desc" data-i18n="rcPlanDescQ2">Apr–Jun · 1 every 2 weeks</p>
               </div>
               <div class="rc-plan-card">
                 <p class="rc-plan-q">Q3</p>
-                <p class="rc-plan-num">6 books</p>
-                <p class="rc-plan-desc">Jul–Sep · 1 every 2 weeks</p>
+                <p class="rc-plan-num" data-i18n="rcPlanBooks">6 books</p>
+                <p class="rc-plan-desc" data-i18n="rcPlanDescQ3">Jul–Sep · 1 every 2 weeks</p>
               </div>
               <div class="rc-plan-card">
                 <p class="rc-plan-q">Q4</p>
-                <p class="rc-plan-num">6 books</p>
-                <p class="rc-plan-desc">Oct–Dec · 1 every 2 weeks</p>
+                <p class="rc-plan-num" data-i18n="rcPlanBooks">6 books</p>
+                <p class="rc-plan-desc" data-i18n="rcPlanDescQ4">Oct–Dec · 1 every 2 weeks</p>
               </div>
             </div>
           </div>
@@ -114,10 +114,10 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
           <div class="rc-presets">
             <p class="rc-presets-label" data-i18n="rcPresetsLabel">Quick presets:</p>
             <div class="rc-presets-grid">
-              <button class="rc-preset" data-goal="12" data-pages="300" data-wpm="50" data-minutes="20">12 books (1/month)</button>
-              <button class="rc-preset" data-goal="24" data-pages="300" data-wpm="50" data-minutes="20">24 books (2/month)</button>
-              <button class="rc-preset" data-goal="36" data-pages="300" data-wpm="50" data-minutes="20">36 books (3/month)</button>
-              <button class="rc-preset" data-goal="50" data-pages="300" data-wpm="50" data-minutes="30">50 books (challenge)</button>
+              <button class="rc-preset" data-goal="12" data-pages="300" data-wpm="50" data-minutes="20" data-i18n="rcPreset1">12 books (1/month)</button>
+              <button class="rc-preset" data-goal="24" data-pages="300" data-wpm="50" data-minutes="20" data-i18n="rcPreset2">24 books (2/month)</button>
+              <button class="rc-preset" data-goal="36" data-pages="300" data-wpm="50" data-minutes="20" data-i18n="rcPreset3">36 books (3/month)</button>
+              <button class="rc-preset" data-goal="50" data-pages="300" data-wpm="50" data-minutes="30" data-i18n="rcPreset4">50 books (challenge)</button>
             </div>
           </div>
         </div>
@@ -129,7 +129,7 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
     <div class="container">
       <h2 data-i18n="rcWhyTitle">Why This Matters</h2>
       <p data-i18n="rcWhyP1">Most "I want to read more" goals fail because they're abstract. "Read 24 books" doesn't translate to "what do I do today?"</p>
-      <p data-i18n="rcWhyP2">This calculator converts the goal into a daily target. 14 pages isn't scary. 30 minutes isn't a sacrifice. But 14 pages × 365 days = 5,110 pages = ~17 books a year.</p>
+      <p data-i18n="rcWhyP2">This calculator converts the goal into a daily target. 20 pages isn't scary. 24 minutes isn't a sacrifice. But 20 pages × 365 days = 7,300 pages = ~24 books a year.</p>
       <p data-i18n="rcWhyP3">The math compounds. So does the habit.</p>
     </div>
   </section>
@@ -139,7 +139,7 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
       <h2 data-i18n="rcFaqTitle">FAQ</h2>
       <details>
         <summary data-i18n="rcFaq1Q">What if I miss a day?</summary>
-        <p data-i18n="rcFaq1A">That's why the plan is set conservatively. Missing one day = add 14 pages to the next day (or split across 2 days). Missing a week = reassess: is the daily target realistic? If not, lower it.</p>
+        <p data-i18n="rcFaq1A">That's why the plan is set conservatively. Missing one day = add 20 pages to the next day (or split across 2 days). Missing a week = reassess: is the daily target realistic? If not, lower it.</p>
       </details>
       <details>
         <summary data-i18n="rcFaq2Q">How do I know my reading speed?</summary>
@@ -156,14 +156,14 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
     </div>
   </section>
 
-  <NewsletterSection variant="default" showLeadMagnet={true} data-i18n="rcNewsletterTitle" title="Get our top 24 book recommendations for 2026." buttonText="Send Me the List" />
+  <NewsletterSection variant="default" showLeadMagnet={true} />
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://the-motivahub.com/fr/" },
       { "@type": "ListItem", "position": 2, "name": "Outils", "item": "https://the-motivahub.com/fr/tools/" },
-      { "@type": "ListItem", "position": 3, "name": "Reading Calculator", "item": "https://the-motivahub.com/fr/tools/reading-calculator/" }
+      { "@type": "ListItem", "position": 3, "name": "Calculateur d'Objectif de Lecture", "item": "https://the-motivahub.com/fr/tools/reading-calculator/" }
     ]
   })} />
 </Layout>
@@ -178,14 +178,27 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
   const results = document.getElementById('rc-results');
   const presets = document.querySelectorAll('.rc-preset');
 
-  function calc() {
-    const goal = parseInt(goalInput.value);
-    const pages = parseInt(pagesInput.value);
-    const wpm = parseInt(wpmInput.value);
-    const minutes = parseInt(minutesInput.value);
+  // Typing can push a number outside the min/max the field advertises — those
+  // attributes only gate the spinners — so every value is clamped to them here
+  // and written back into the field, so the visitor sees what was used.
+  const clampInput = (el) => {
+    const typed = parseInt(el.value, 10);
+    if (!Number.isFinite(typed)) return NaN;
+    const clamped = Math.min(Number(el.max), Math.max(Number(el.min), typed));
+    if (String(clamped) !== el.value) el.value = String(clamped);
+    return clamped;
+  };
 
-    if (!goal || !pages || !wpm || !minutes || goal < 1 || pages < 50 || wpm < 10 || minutes < 5) {
-      alert('Please fill in all fields with valid numbers.');
+  // scrollAfter keeps the initial calc() silent: it fills the default numbers
+  // without dragging the visitor past the H1 before they have read anything.
+  function calc(scrollAfter) {
+    const goal = clampInput(goalInput);
+    const pages = clampInput(pagesInput);
+    const wpm = clampInput(wpmInput);
+    const minutes = clampInput(minutesInput);
+
+    if (!goal || !pages || !wpm || !minutes) {
+      alert('Veuillez remplir tous les champs avec des nombres valides.');
       return;
     }
 
@@ -198,59 +211,77 @@ const description = "Calculez combien de livres vous pouvez lire cette année en
     const feasibility = Math.min(100, Math.round((minutesAvailable / minutesNeeded) * 100));
 
     document.getElementById('rc-pages-day').textContent = dailyPages;
-    document.getElementById('rc-total-pages').textContent = totalPages.toLocaleString();
+    document.getElementById('rc-total-pages').textContent = totalPages.toLocaleString('fr-FR');
     document.getElementById('rc-hours-needed').textContent = totalHours;
     document.getElementById('rc-feasibility').textContent = feasibility + '%';
     document.getElementById('rc-minutes-needed').textContent = minutesNeeded + ' min';
 
     const perQuarter = Math.ceil(goal / 4);
+    const weeks = Math.round(12 / perQuarter * 10) / 10;
+    // French wording and typography: comma as decimal separator, and
+    // "1 chaque semaine" rather than a literal "1 toutes les 1 semaines".
+    const weeksFr = String(weeks).replace('.', ',');
+    const cadence = weeks === 1 ? '1 chaque semaine' : '1 toutes les ' + weeksFr + ' semaine' + (weeks > 1 ? 's' : '');
+    const perQuarterLabel = perQuarter + (perQuarter === 1 ? ' livre' : ' livres');
     document.getElementById('rc-plan-grid').innerHTML = `
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q1</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Jan–Mar · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${perQuarterLabel}</p>
+        <p class="rc-plan-desc">Janv.–Mars · ${cadence}</p>
       </div>
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q2</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Apr–Jun · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${perQuarterLabel}</p>
+        <p class="rc-plan-desc">Avr.–Juin · ${cadence}</p>
       </div>
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q3</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Jul–Sep · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${perQuarterLabel}</p>
+        <p class="rc-plan-desc">Juil.–Sept. · ${cadence}</p>
       </div>
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q4</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Oct–Dec · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${perQuarterLabel}</p>
+        <p class="rc-plan-desc">Oct.–Déc. · ${cadence}</p>
       </div>
     `;
 
     let tip = '';
     if (feasibility < 70) {
-      tip = `YourDaily target is ${dailyPages} pages (${minutesNeeded} min). You have ${minutesAvailable} min. Consider reducing your goal to ${Math.max(1, Math.floor((minutesAvailable * pagesPerMinute) / pages * 365 / 365))} books for sustainability.`;
+      // Pages the time budget really covers in a year, divided by the length of a
+      // book — the old version multiplied by 365 and divided by 365, so the
+      // suggestion always collapsed to 1 book.
+      const sustainableGoal = Math.floor((minutesAvailable * pagesPerMinute * 365) / pages);
+      if (sustainableGoal >= 1 && sustainableGoal < goal) {
+        tip = `Cible quotidienne : ${dailyPages} pages (${minutesNeeded} min). Vous disposez de ${minutesAvailable} min. Envisagez de réduire votre objectif à ${sustainableGoal} ${sustainableGoal === 1 ? 'livre' : 'livres'} pour tenir sur la durée.`;
+      } else {
+        // The goal cannot be lowered any further: it is already at the minimum, or
+        // the time budget does not even cover one book at this length.
+        const oneBookPages = Math.ceil(pages / 365);
+        const oneBookMinutes = Math.ceil(oneBookPages / pagesPerMinute);
+        tip = `Cible quotidienne : ${dailyPages} pages (${minutesNeeded} min) alors que vous n'avez que ${minutesAvailable} min. Même un seul livre par an exige ${oneBookPages} pages (${oneBookMinutes} min) par jour à ${pages} pages par livre — choisissez des livres plus courts ou ajoutez des minutes.`;
+      }
     } else if (feasibility < 90) {
-      tip = `Tight. ${dailyPages} pages in ${minutesAvailable} min is doable but you'll need to be consistent. Pick a slightly easier book if you're new to daily reading.`;
+      tip = `Serré. ${dailyPages} pages en ${minutesAvailable} min sont faisables, mais il faudra de la régularité. Choisissez un livre un peu plus simple si vous débutez la lecture quotidienne.`;
     } else if (feasibility < 100) {
-      tip = `Feasible. ${dailyPages} pages in ${minutesAvailable} min gives you some buffer. You'll hit your goal with room to spare.`;
+      tip = `Faisable. ${dailyPages} pages en ${minutesAvailable} min vous laissent une marge. Vous atteindrez votre objectif sans forcer.`;
     } else {
-      tip = `Easy. You have ${minutesAvailable - minutesNeeded} extra min/day. Consider reading more or adding podcasts/audiobooks.`;
+      tip = `Large. Vous avez ${minutesAvailable - minutesNeeded} min de rab par jour. Lisez davantage ou ajoutez podcasts et livres audio.`;
     }
     document.getElementById('rc-tip-text').textContent = tip;
 
     results.hidden = false;
-    results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    if (scrollAfter) results.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
-  calcBtn.addEventListener('click', calc);
+  calcBtn.addEventListener('click', () => calc(true));
   presets.forEach(p => {
     p.addEventListener('click', () => {
       goalInput.value = p.dataset.goal;
       pagesInput.value = p.dataset.pages;
       wpmInput.value = p.dataset.wpm;
       minutesInput.value = p.dataset.minutes;
-      calc();
+      calc(true);
     });
   });
 
