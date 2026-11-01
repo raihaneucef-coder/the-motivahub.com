@@ -216,27 +216,32 @@ const description = "Free calculator that turns your reading goal into a daily p
     document.getElementById('rc-feasibility').textContent = feasibility + '%';
     document.getElementById('rc-minutes-needed').textContent = minutesNeeded + ' min';
 
+    // English takes the singular for exactly 1 and nothing else: "1 every 1 weeks"
+    // and "1 books" must not be printed, while "0.2 weeks" is already correct.
+    const plural = (n, singular, many) => `${n} ${n === 1 ? singular : many}`;
     const perQuarter = Math.ceil(goal / 4);
+    const weeks = Math.round(12 / perQuarter * 10) / 10;
+    const cadence = weeks === 1 ? '1 every week' : `1 every ${weeks} weeks`;
     document.getElementById('rc-plan-grid').innerHTML = `
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q1</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Jan–Mar · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${plural(perQuarter, 'book', 'books')}</p>
+        <p class="rc-plan-desc">Jan–Mar · ${cadence}</p>
       </div>
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q2</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Apr–Jun · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${plural(perQuarter, 'book', 'books')}</p>
+        <p class="rc-plan-desc">Apr–Jun · ${cadence}</p>
       </div>
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q3</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Jul–Sep · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${plural(perQuarter, 'book', 'books')}</p>
+        <p class="rc-plan-desc">Jul–Sep · ${cadence}</p>
       </div>
       <div class="rc-plan-card">
         <p class="rc-plan-q">Q4</p>
-        <p class="rc-plan-num">${perQuarter} books</p>
-        <p class="rc-plan-desc">Oct–Dec · 1 every ${Math.round(12 / perQuarter * 10) / 10} weeks</p>
+        <p class="rc-plan-num">${plural(perQuarter, 'book', 'books')}</p>
+        <p class="rc-plan-desc">Oct–Dec · ${cadence}</p>
       </div>
     `;
 
@@ -247,18 +252,18 @@ const description = "Free calculator that turns your reading goal into a daily p
       // suggestion always collapsed to 1 book.
       const sustainableGoal = Math.floor((minutesAvailable * pagesPerMinute * 365) / pages);
       if (sustainableGoal >= 1 && sustainableGoal < goal) {
-        tip = `Your daily target is ${dailyPages} pages (${minutesNeeded} min). You have ${minutesAvailable} min. Consider reducing your goal to ${sustainableGoal} ${sustainableGoal === 1 ? 'book' : 'books'} for sustainability.`;
+        tip = `Your daily target is ${plural(dailyPages, 'page', 'pages')} (${minutesNeeded} min). You have ${minutesAvailable} min. Consider reducing your goal to ${plural(sustainableGoal, 'book', 'books')} for sustainability.`;
       } else {
         // The goal cannot be lowered any further: it is already at the minimum, or
         // the time budget does not even cover one book at this length.
         const oneBookPages = Math.ceil(pages / 365);
         const oneBookMinutes = Math.ceil(oneBookPages / pagesPerMinute);
-        tip = `Your daily target is ${dailyPages} pages (${minutesNeeded} min) and you have ${minutesAvailable} min. Even one book a year needs ${oneBookPages} pages (${oneBookMinutes} min) a day at ${pages} pages per book — set a shorter average book or add minutes.`;
+        tip = `Your daily target is ${plural(dailyPages, 'page', 'pages')} (${minutesNeeded} min) and you have ${minutesAvailable} min. Even one book a year needs ${plural(oneBookPages, 'page', 'pages')} (${oneBookMinutes} min) a day at ${plural(pages, 'page', 'pages')} per book — set a shorter average book or add minutes.`;
       }
     } else if (feasibility < 90) {
-      tip = `Tight. ${dailyPages} pages in ${minutesAvailable} min is doable but you'll need to be consistent. Pick a slightly easier book if you're new to daily reading.`;
+      tip = `Tight. ${plural(dailyPages, 'page', 'pages')} in ${minutesAvailable} min is doable but you'll need to be consistent. Pick a slightly easier book if you're new to daily reading.`;
     } else if (feasibility < 100) {
-      tip = `Feasible. ${dailyPages} pages in ${minutesAvailable} min gives you some buffer. You'll hit your goal with room to spare.`;
+      tip = `Feasible. ${plural(dailyPages, 'page', 'pages')} in ${minutesAvailable} min gives you some buffer. You'll hit your goal with room to spare.`;
     } else {
       tip = `Easy. You have ${minutesAvailable - minutesNeeded} extra min/day. Consider reading more or adding podcasts/audiobooks.`;
     }
