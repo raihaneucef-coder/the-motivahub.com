@@ -39,7 +39,10 @@ const SIG = '<p style="font-size:15px; color:#333; margin:0;">— Youssef</p>';
 
 export const TEMPLATES = {
   day0: {
-    subject: (pdf) => `Your ${pdf.title} is here`,
+    // Catalog titles carry their own article ("The Habit Stack Kit"), which reads
+    // wrong inside the subject ("Your The Habit Stack Kit is here"). Body keeps the
+    // full title via {{pdf_title}}; only the subject drops the leading article.
+    subject: (pdf) => `Your ${String(pdf.title).replace(/^The\s+/i, '')} is here`,
     html: () => shell('Welcome — Your PDF is Here', 'Motiva Hub · Field Guide', 'Your PDF is ready',
       `<p style="${P}">Hi {{first_name}},</p>
   <p style="${P}">Here's your copy of <strong>{{pdf_title}}</strong>. It's a {{pdf_pages}}-page PDF — printable, no fluff, just the protocols that work.</p>
