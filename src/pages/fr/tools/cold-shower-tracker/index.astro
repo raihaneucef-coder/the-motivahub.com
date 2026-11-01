@@ -68,7 +68,7 @@ const description = "Suivez votre progression de douches froides sur 30 jours. C
             </div>
             <div class="cst-input-group">
               <label for="cst-temp" data-i18n="cstTempLabel">Temperature (optional)</label>
-              <input type="text" id="cst-temp" placeholder="e.g., 55°F / 13°C" />
+              <input type="text" id="cst-temp" placeholder="Ex. : 55 °F / 13 °C" />
             </div>
             <div class="cst-input-group">
               <label for="cst-notes" data-i18n="cstNotesLabel">Notes (optional)</label>
@@ -222,7 +222,10 @@ const description = "Suivez votre progression de douches froides sur 30 jours. C
 
     const historyList = document.getElementById('cst-history-list');
     if (data.length === 0) {
-      historyList.innerHTML = '<p class="cst-empty">No showers logged yet. Tap "Log This Shower" above to start your streak.</p>';
+      // Ce bloc est réécrit en JavaScript, donc le swap i18n du build ne l'atteint
+      // pas : le texte doit être en français ici, à l'identique de la clé
+      // « cstEmptyHistory » du dictionnaire et du nom réel du bouton.
+      historyList.innerHTML = `<p class="cst-empty" data-i18n="cstEmptyHistory">Aucune douche enregistrée pour l'instant. Appuyez sur "Enregistrer Cette Douche" ci-dessus pour commencer votre série.</p>`;
     } else {
       const recent = [...data].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 10);
       historyList.innerHTML = recent.map(e => `
@@ -231,7 +234,7 @@ const description = "Suivez votre progression de douches froides sur 30 jours. C
             <p class="cst-history-date">${e.date}</p>
             <p class="cst-history-meta">${e.duration}s${e.temp ? ' · ' + e.temp : ''}${e.notes ? ' · ' + e.notes : ''}</p>
           </div>
-          <button class="cst-history-delete" data-date="${e.date}" aria-label="Delete">×</button>
+          <button class="cst-history-delete" data-date="${e.date}" aria-label="Supprimer">×</button>
         </div>
       `).join('');
       historyList.querySelectorAll('.cst-history-delete').forEach(btn => {
@@ -256,14 +259,14 @@ const description = "Suivez votre progression de douches froides sur 30 jours. C
     const msg = document.getElementById('cst-msg');
 
     if (!date) { msg.textContent = 'Please pick a date.'; msg.style.color = 'var(--text-1)'; return; }
-    if (!duration || duration < 5) { msg.textContent = 'Duration must be at least 5 seconds.'; msg.style.color = 'var(--text-1)'; return; }
+    if (!duration || duration < 5) { msg.textContent = 'La durée doit être d’au moins 5 secondes.'; msg.style.color = 'var(--text-1)'; return; }
 
     const data = load();
     data.push({ date, duration, temp, notes });
     save(data);
     renderStats();
 
-    msg.textContent = '✓ Logged. Stay cold.';
+    msg.textContent = '✓ Douche enregistrée. Restez au froid.';
     msg.style.color = 'var(--text-1)';
 
     document.getElementById('cst-temp').value = '';
@@ -274,7 +277,7 @@ const description = "Suivez votre progression de douches froides sur 30 jours. C
   document.getElementById('cst-export').addEventListener('click', () => {
     const data = load();
     if (data.length === 0) {
-      alert('No data to export yet.');
+      alert('Aucune donnée à exporter pour le moment.');
       return;
     }
     const csv = 'date,duration,temp,notes\n' + data.map(e => `${e.date},${e.duration},"${e.temp}","${e.notes}"`).join('\n');
@@ -288,7 +291,7 @@ const description = "Suivez votre progression de douches froides sur 30 jours. C
   });
 
   document.getElementById('cst-clear').addEventListener('click', () => {
-    if (confirm('Clear all cold shower data? This cannot be undone.')) {
+    if (confirm('Effacer toutes les données de douches froides ? Cette action est irréversible.')) {
       save([]);
       renderStats();
     }
