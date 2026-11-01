@@ -7,10 +7,10 @@
   <div class="ht-header">
     <div class="ht-header-top">
       <div>
-        <p class="kicker">DAILY TRACKER</p>
-        <h2>My Habits</h2>
+        <p class="kicker" data-i18n="htKicker">DAILY TRACKER</p>
+        <h2 data-i18n="htTitle">My Habits</h2>
       </div>
-      <button class="ht-add-btn" data-ht-add-open aria-label="Add new habit">
+      <button class="ht-add-btn" data-ht-add-open data-i18n-html="htAdd" aria-label="Add new habit">
         <span>+</span> Add
       </button>
     </div>
@@ -32,7 +32,7 @@
   <div class="ht-modal" data-ht-modal>
     <div class="ht-modal-content">
       <div class="ht-modal-header">
-        <h3>New Habit</h3>
+        <h3 data-i18n="htNewHabit">New Habit</h3>
         <button class="ht-modal-close" data-ht-add-close aria-label="Close">✕</button>
       </div>
       <div class="ht-icons" data-ht-icons>
@@ -48,44 +48,44 @@
         <button class="ht-icon" data-icon="🧹">🧹</button>
       </div>
       <form class="ht-modal-form" data-ht-form>
-        <input type="text" maxlength="30" placeholder="Habit name (e.g. Read 10 pages)" data-ht-name-input required aria-label="Habit name" />
-        <button type="submit" class="btn-pill">Add Habit</button>
+        <input type="text" maxlength="30" placeholder="Habit name (e.g. Read 10 pages)" data-i18n-placeholder="htNamePlaceholder" data-ht-name-input required aria-label="Habit name" />
+        <button type="submit" class="btn-pill" data-i18n="htAddHabit">Add Habit</button>
       </form>
     </div>
   </div>
 
   <!-- Weekly View -->
   <div class="ht-section">
-    <h3>This Week</h3>
+    <h3 data-i18n="htWeek">This Week</h3>
     <div class="ht-week" data-ht-week></div>
   </div>
 
   <!-- Stats -->
   <div class="ht-section">
-    <h3>Statistics</h3>
+    <h3 data-i18n="htStats">Statistics</h3>
     <div class="ht-stats">
       <div class="ht-stat">
         <span class="ht-stat-num" data-ht-streak>0</span>
-        <span class="ht-stat-label">Current Streak 🔥</span>
+        <span class="ht-stat-label" data-i18n="htStreak">Current Streak 🔥</span>
       </div>
       <div class="ht-stat">
         <span class="ht-stat-num" data-ht-best>0</span>
-        <span class="ht-stat-label">Best Streak 🏆</span>
+        <span class="ht-stat-label" data-i18n="htBest">Best Streak 🏆</span>
       </div>
       <div class="ht-stat">
         <span class="ht-stat-num" data-ht-rate>0%</span>
-        <span class="ht-stat-label">Completion Rate</span>
+        <span class="ht-stat-label" data-i18n="htRate">Completion Rate</span>
       </div>
       <div class="ht-stat">
         <span class="ht-stat-num" data-ht-total>0</span>
-        <span class="ht-stat-label">Total Days</span>
+        <span class="ht-stat-label" data-i18n="htTotal">Total Days</span>
       </div>
     </div>
   </div>
 
   <!-- 30-Day Grid -->
   <div class="ht-section">
-    <h3>Last 30 Days</h3>
+    <h3 data-i18n="htLast30">Last 30 Days</h3>
     <div class="ht-grid" data-ht-grid></div>
   </div>
 
@@ -255,14 +255,39 @@
   const todayKey = () => new Date().toISOString().slice(0, 10);
   const dayKey = (d) => d.toISOString().slice(0, 10);
 
+  // Strings only — <html lang> is set by the SSR locale of each page
+  // (/fr/tracker/ renders lang="fr"), and the language buttons navigate to the
+  // twin URL for this route, so it never changes while this page is loaded.
+  const isFr = document.documentElement.lang === "fr";
+
+  const TXT = isFr
+    ? {
+        dateLocale: "fr-FR",
+        dayNames: ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+        removeConfirm: "Supprimer cette habitude ?",
+        progress: (done, total, pct) => `${done} sur ${total} terminés aujourd'hui — ${pct} %`,
+        empty: `<div class="ht-empty"><p>Aucune habitude pour l'instant.</p><p>Cliquez sur <strong>+ Ajouter</strong> pour créer votre première habitude.</p></div>`,
+        streak: (n) => `🔥 ${n} ${n > 1 ? "jours" : "jour"} d'affilée`,
+        startToday: "Commencez aujourd'hui",
+      }
+    : {
+        dateLocale: "en-US",
+        dayNames: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+        removeConfirm: "Remove this habit?",
+        progress: (done, total, pct) => `${done} of ${total} complete today — ${pct}%`,
+        empty: `<div class="ht-empty"><p>No habits yet.</p><p>Click <strong>+ Add</strong> to create your first habit.</p></div>`,
+        streak: (n) => `🔥 ${n} day streak`,
+        startToday: "Start today!",
+      };
+
   const quotes = [
-    { text: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", author: "Aristotle" },
-    { text: "Discipline is choosing between what you want now and what you want most.", author: "Abraham Lincoln" },
-    { text: "Success is the sum of small efforts, repeated day in and day out.", author: "Robert Collier" },
-    { text: "Motivation is what gets you started. Habit is what keeps you going.", author: "Jim Rohn" },
-    { text: "The secret of your future is hidden in your daily routine.", author: "Mike Murdock" },
-    { text: "Small disciplines repeated with consistency every day lead to great achievements.", author: "John C. Maxwell" },
-    { text: "First forget inspiration. Habit is more dependable.", author: "Octavia Butler" },
+    { text: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", textFr: "Nous sommes ce que nous faisons de façon répétée. L'excellence n'est donc pas un acte, mais une habitude.", author: "Aristotle" },
+    { text: "Discipline is choosing between what you want now and what you want most.", textFr: "La discipline, c'est choisir entre ce que vous voulez maintenant et ce que vous voulez le plus.", author: "Abraham Lincoln" },
+    { text: "Success is the sum of small efforts, repeated day in and day out.", textFr: "Le succès est la somme de petits efforts, répétés jour après jour.", author: "Robert Collier" },
+    { text: "Motivation is what gets you started. Habit is what keeps you going.", textFr: "La motivation vous fait commencer. L'habitude vous fait continuer.", author: "Jim Rohn" },
+    { text: "The secret of your future is hidden in your daily routine.", textFr: "Le secret de votre avenir se cache dans votre routine quotidienne.", author: "Mike Murdock" },
+    { text: "Small disciplines repeated with consistency every day lead to great achievements.", textFr: "De petites disciplines répétées chaque jour avec constance mènent à de grandes réussites.", author: "John C. Maxwell" },
+    { text: "First forget inspiration. Habit is more dependable.", textFr: "Oubliez d'abord l'inspiration. L'habitude est plus fiable.", author: "Octavia Butler" },
   ];
 
   function loadData() {
@@ -361,12 +386,12 @@
     // Set date
     const now = new Date();
     const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-    dateEl.textContent = now.toLocaleDateString('en-US', options);
+    dateEl.textContent = now.toLocaleDateString(TXT.dateLocale, options);
 
     // Set quote (rotate daily)
     const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
     const q = quotes[dayOfYear % quotes.length];
-    quoteEl.querySelector("p").textContent = `"${q.text}"`;
+    quoteEl.querySelector("p").textContent = `"${isFr && q.textFr ? q.textFr : q.text}"`;
     quoteEl.querySelector("cite").textContent = `— ${q.author}`;
 
     // Modal open/close
@@ -411,7 +436,7 @@
         render();
       } else if (removeBtn) {
         const id = removeBtn.dataset.htRemove;
-        if (confirm("Remove this habit?")) {
+        if (confirm(TXT.removeConfirm)) {
           const state = getState();
           state.habits = state.habits.filter(h => h.id !== id);
           Object.keys(state.history).forEach(day => { delete state.history[day][id]; });
@@ -431,11 +456,11 @@
       const doneCount = habits.filter(h => todayData[h.id]).length;
       const pct = habits.length ? Math.round((doneCount / habits.length) * 100) : 0;
       progressFill.style.width = pct + "%";
-      progressText.textContent = `${doneCount} of ${habits.length} complete today — ${pct}%`;
+      progressText.textContent = TXT.progress(doneCount, habits.length, pct);
 
       // Habits list
       if (!habits.length) {
-        listEl.innerHTML = `<div class="ht-empty"><p>No habits yet.</p><p>Click <strong>+ Add</strong> to create your first habit.</p></div>`;
+        listEl.innerHTML = TXT.empty;
       } else {
         listEl.innerHTML = habits.map(h => {
           const done = !!todayData[h.id];
@@ -445,7 +470,7 @@
               <span class="ht-habit-icon">${h.icon}</span>
               <div class="ht-habit-info">
                 <p class="ht-habit-name">${h.name}</p>
-                <p class="ht-habit-streak">${streak > 0 ? '🔥 ' + streak + ' day streak' : 'Start today!'}</p>
+                <p class="ht-habit-streak">${streak > 0 ? TXT.streak(streak) : TXT.startToday}</p>
               </div>
               <button class="ht-habit-check" data-ht-toggle="${h.id}" aria-label="Toggle done">${done ? '✓' : ''}</button>
               <button class="ht-habit-remove" data-ht-remove="${h.id}" aria-label="Remove habit">✕</button>
@@ -454,7 +479,7 @@
       }
 
       // Weekly view
-      const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+      const dayNames = TXT.dayNames;
       const startOfWeek = new Date(now);
       startOfWeek.setDate(now.getDate() - now.getDay());
       let weekHTML = '';

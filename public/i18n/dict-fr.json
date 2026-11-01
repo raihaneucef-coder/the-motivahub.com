@@ -1096,5 +1096,18 @@
   "toolNameKitchen": "La Cuisine de la Discipline — PDF gratuit de 12 pages",
   "toolDescKitchen": "Préparation du dimanche en 2 heures, cadre protéines d'abord, modèle de 7 jours. Mangez comme un système.",
   "toolNameAthlete": "Le Plan Athlète Maison — PDF gratuit de 10 pages",
-  "toolDescAthlete": "Protocole au poids du corps de 20 min, exposition au froid, science de la récupération. Sans salle de sport."
+  "toolDescAthlete": "Protocole au poids du corps de 20 min, exposition au froid, science de la récupération. Sans salle de sport.",
+  "htKicker": "SUIVI QUOTIDIEN",
+  "htTitle": "Mes Habitudes",
+  "htAdd": "<span>+</span> Ajouter",
+  "htNewHabit": "Nouvelle Habitude",
+  "htNamePlaceholder": "Nom de l'habitude (ex. Lire 10 pages)",
+  "htAddHabit": "Ajouter l'Habitude",
+  "htWeek": "Cette Semaine",
+  "htStats": "Statistiques",
+  "htStreak": "Série en Cours 🔥",
+  "htBest": "Meilleure Série 🏆",
+  "htRate": "Taux d'Achèvement",
+  "htTotal": "Jours Cumulés",
+  "htLast30": "30 Derniers Jours"
 }
