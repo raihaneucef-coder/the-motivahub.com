@@ -13,8 +13,9 @@ export async function getStaticPaths() {
 const { topic } = Astro.props;
 const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
 const posts = (await getCollection("blog"))
-  // noindex marks a deprecated English route: listing it here asks Google to crawl
-  // and follow a page we have told it to drop, so it is filtered out with drafts.
+  // noindex retires both language routes of an article; listing it here asks
+  // Google to crawl and follow a page we have told it to drop, so it is filtered
+  // out together with drafts.
   .filter((p) => !p.data.draft && !p.data.noindex && norm(p.data.topic) === topic.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const pillar = pillars[topic.id];

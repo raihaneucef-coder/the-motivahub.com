@@ -38,8 +38,9 @@ faqFr:
     a: "1) Réduisez la tâche jusqu'à ce que commencer paraisse trivial (juste ouvrir le document). 2) Réglez un minuteur sur 10 minutes. 3) Supprimez le choix : planifiez à la même heure chaque jour. 4) Associez la tâche à quelque chose d'agréable (musique, café). 5) Surtout : pardonnez-vous le dernier retard. Dans une étude, les étudiants qui se pardonnaient d'avoir procrastiné avant un premier examen procrastinaient moins avant le suivant (Wohl, Pychyl et Bennett, 2010)."
   - q: "La procrastination est-elle génétique ou apprise ?"
     a: "Les deux. Les études de jumeaux suggèrent une contribution génétique modérée — environ un cinquième à un tiers de la variance — tandis que les SCHÉMAS de procrastination sont des réponses apprises à l'anxiété liée à la tâche, au perfectionnisme et à la sensibilité à la récompense. Les programmes structurés de TCC peuvent réduire la procrastination en quelques semaines ; 6 à 8 semaines correspondent à une durée typique de programme, pas à un délai garanti."
-# English route deprecated: the body is French and the intent is covered by
-# real-reason-you-procrastinate (EN). The French page at /fr/journal/ stays live.
+# Whole EN/FR pair retired from the index: the English body is French and the
+# intent is covered by real-reason-you-procrastinate (EN) and its French twin.
+# Both routes still answer 200 for links that already exist.
 noindex: true
 
 relatedArticles:

@@ -75,6 +75,8 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p12">Total productive attention: 2 hours out of 16 waking hours. That is 12.5% efficiency. The rest was stolen.</div>
 
+<div data-i18n-html="article_attention-as-asset_p12b"><em>(N.B. These figures come from a single day of self-tracking in 2023 — n = 1. The hour estimates are my own notes and recollection, not screen-time exports or measured data, and the 12.5% is my productive hours divided by my roughly sixteen waking hours that day. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_attention-as-asset_p13"><h2>What Attention Actually Is</h2></div>
 
 <div data-i18n-html="article_attention-as-asset_p14">Attention is the ability to have one thing in your mind at a time. It is the faculty that turns raw time into work, love, and understanding. Without attention, an hour is empty. With attention, an hour is a life.</div>

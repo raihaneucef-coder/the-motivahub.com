@@ -21,9 +21,10 @@ const blog = defineCollection({
     imageAlt: z.string().optional(),
     featured: z.boolean().optional().default(false),
     draft: z.boolean().optional().default(false),
-    // Deprecates the English route of an EN/FR duplicate without deleting the
-    // URL: the /journal/ page emits noindex and is dropped from the sitemap,
-    // while its /fr/journal/ twin stays indexable. Only the EN route reads this.
+    // Deprecates a whole EN/FR article pair without deleting either URL: both
+    // the /journal/ and the /fr/journal/ page emit noindex, nofollow and both
+    // are dropped from the sitemap, so the response stays 200 for anyone who
+    // still holds the link while the pair leaves the index.
     noindex: z.boolean().optional().default(false),
     keywords: z.array(z.string()).optional().default([]),
     tags: z.array(z.string()).optional().default([]),

@@ -140,6 +140,8 @@ faqFr:
 </tbody>
 </table></div>
 
+<div data-i18n-html="article_atomic-habits-review_p34b"><em>(N.B. The right-hand column is my own record over those 18 months — n = 1. Nothing here was measured against a control group, and the "4 hours saved" and "87%" rows are the same self-tracked numbers described in the <a href="/journal/5-minute-morning-habit/">5-minute morning habit</a> article. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_atomic-habits-review_p38"><h2>What I Got Wrong (And How I Fixed It)</h2></div>
 
 <div data-i18n-html="article_atomic-habits-review_p39">I made three big mistakes:</div>

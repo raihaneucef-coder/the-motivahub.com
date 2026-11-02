@@ -7,7 +7,13 @@
  * marked-up questions and answers to be visible on the page. This component
  * renders exactly the same `faq` entries that feed that markup, so the two
  * can never drift apart.
+ *
+ * Answers may contain inline markup (`<em>`). It goes through
+ * `sanitizeInlineHtml` so the allowed tags render as markup and anything else
+ * stays visible as text instead of reaching the page as raw HTML.
  */
+import { sanitizeInlineHtml } from "../utils/inlineHtml";
+
 interface FaqEntry {
   q: string;
   a: string;
@@ -26,8 +32,8 @@ const { faq = [] } = Astro.props;
     <dl class="article-faq-list">
       {faq.map((item) => (
         <div class="article-faq-item">
-          <dt class="article-faq-q">{item.q}</dt>
-          <dd class="article-faq-a">{item.a}</dd>
+          <dt class="article-faq-q" set:html={sanitizeInlineHtml(item.q)} />
+          <dd class="article-faq-a" set:html={sanitizeInlineHtml(item.a)} />
         </div>
       ))}
     </dl>

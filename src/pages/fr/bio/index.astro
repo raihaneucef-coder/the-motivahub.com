@@ -1,6 +1,10 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import Link from "../../../components/Link.astro";
+import { getCollection } from "astro:content";
+
+// Même règle « indexable » que le journal, le flux RSS et les compteurs About.
+const indexablePosts = (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex).length;
 ---
 
 <Layout title="Motiva Hub — Lien en bio" description="Votre porte d'entrée vers la motivation, la discipline et la croissance — le lien en bio Motiva Hub, avec le journal, les guides, les outils et la newsletter.">
@@ -312,7 +316,7 @@ import Link from "../../../components/Link.astro";
   <!-- Stats -->
   <div class="stats">
     <div class="stat">
-      <div class="stat-number">156+</div>
+      <div class="stat-number">{indexablePosts}</div>
       <div class="stat-label" data-i18n="bioStatArticles">Articles</div>
     </div>
     <div class="stat">
@@ -342,7 +346,7 @@ import Link from "../../../components/Link.astro";
       <div class="link-icon icon-yellow">📝</div>
       <div class="link-content">
       <div class="link-title" data-i18n="bioLinkArticles">Read Our Articles</div>
-      <div class="link-desc" data-i18n="bioLinkArticlesDesc">156+ articles on mindset, habits & discipline</div>
+      <div class="link-desc"><span class="link-count">{indexablePosts}</span> <span data-i18n="bioLinkArticlesDesc">articles on mindset, habits & discipline</span></div>
       </div>
       <div class="link-arrow">→</div>
     </a>

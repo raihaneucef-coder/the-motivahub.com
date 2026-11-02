@@ -14,7 +14,7 @@ const title = locale === "fr" ? topic.titleFr ?? topic.title : topic.title;
 const description = locale === "fr" ? topic.descriptionFr ?? topic.description : topic.description;
 const topicHref = getLocalePath(`/topics/${topic.id}/`, locale);
 const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
-const posts = (await getCollection("blog")).filter((p) => !p.data.draft && norm(p.data.topic) === topic.id);
+const posts = (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex && norm(p.data.topic) === topic.id);
 ---
 
 <a class="topic-card" href={topicHref}>

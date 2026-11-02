@@ -38,8 +38,9 @@ faqFr:
   - q: "Qu'est-ce que le « deep work » et comment le pratiquer ?"
     a: "Le travail profond (Cal Newport), c'est la concentration sans distraction sur des tâches cognitivement exigeantes qui crée de la valeur. Pratique : bloquez 90 minutes, téléphone dans une autre pièce, définissez un résultat précis, travaillez jusqu'à ce qu'il soit atteint ou que le temps soit écoulé. Commencez par 1 session par jour ; après deux semaines, passez à 2 ou 3."
 
-# English route deprecated: the body is French and the intent is covered by
-# technique-pomodoro / deep-work-focus (EN). The French page stays live.
+# Whole EN/FR pair retired from the index: the English body is French and the
+# intent is covered by technique-pomodoro / deep-work-focus (EN) and their
+# French twins. Both routes still answer 200 for links that already exist.
 noindex: true
 
 relatedArticles:

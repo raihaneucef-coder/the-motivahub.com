@@ -143,6 +143,8 @@ relatedArticles:
 
 <div data-i18n-html="article_cant-hurt-me-review_p37">I started with 30-second cold showers at the end of my regular shower. Six months in, I take a full 3-minute cold plunge. My discipline in other areas went up about 40% — because cold mornings no longer felt like a negotiation.</div>
 
+<div data-i18n-html="article_cant-hurt-me-review_p37b"><em>(N.B. That 40% is my own estimate after six months of practice — n = 1, self-observed, with no baseline or measuring instrument stated. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_cant-hurt-me-review_p38"><strong>30-Day Callousing Protocol:</strong></div>
 
 <div data-i18n-html="article_cant-hurt-me-review_p39">- Week 1: End every shower with 30 seconds of cold water

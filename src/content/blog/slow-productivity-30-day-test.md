@@ -183,6 +183,8 @@ relatedArticles:
 - I became more honest about my capacity. "Can I take on more?" became a real question instead of a default yes.
 - I made better decisions. With fewer inputs, my judgment improved.</div>
 
+<div data-i18n-html="article_slow-productivity-30-day-test_p47b"><em>(N.B. Everything above is one 30-day self-test I ran in June 2026 — n = 1, one freelance portfolio, no control group and no measuring instrument beyond the notes I kept. The "before" numbers are my own weeks immediately before the test, not a comparison group. The NPS, revenue and retention changes come from my own client records, and the personal items are impressions, not scores. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_slow-productivity-30-day-test_p48"><h2>Why This Works (The Underlying Theory)</h2></div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p49">Slow productivity is based on three research findings:</div>

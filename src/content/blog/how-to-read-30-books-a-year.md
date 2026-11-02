@@ -72,7 +72,7 @@ relatedArticles:
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p9">The problem wasn't motivation. I was motivated. The problem was the design. I was setting a <strong>goal</strong> (30 books) but trying to build a <strong>habit</strong> (daily reading). Goals and habits require different strategies. You reach a goal by sprinting. You build a habit by showing up. I was trying to do both at once.</div>
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p10">So in January2026, I stopped counting books and started counting minutes.</div>
+<div data-i18n-html="article_how-to-read-30-books-a-year_p10">So in January 2026, I stopped counting books and started counting minutes.</div>
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p11"><h2>The 90-Day Protocol</h2></div>
 
@@ -112,7 +112,9 @@ relatedArticles:
 - <strong>Longest streak:</strong> 41 days
 - <strong>Total pages:</strong> 2,340</div>
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p27">Compared7 books isn't the 7.5 books per quarter that the "30 books per year" math requires. But 7 finished books + partial reads of 4 more = a more honest12 books in progress.</div>
+<div data-i18n-html="article_how-to-read-30-books-a-year_p26b"><em>(N.B. These are my own counts from a 90-day test started in January 2026 — n = 1. The days read are ticked on the paper calendar described above, one X per day; no reading app recorded anything. The retention percentages later in this article are my own impressions, not test scores. Personal observation, not a study; your results may differ.)</em></div>
+
+<div data-i18n-html="article_how-to-read-30-books-a-year_p27">Seven books isn't the 7.5 books per quarter that the "30 books per year" math requires. But 7 finished books + partial reads of 4 more = a more honest 11 books read or started in total.</div>
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p28">And here's the kicker: my reading speed <em>increased</em> in the second month. By day 60, I was averaging 38 minutes per session, voluntarily. The 20-minute floor became a 30-minute average.</div>
 
@@ -226,7 +228,7 @@ relatedArticles:
 
 <hr />
 
-<div data-i18n-html="article_how-to-read-30-books-a-year_p70"><em>Youssef Raihane spent 90 days in 2026 building a 20-minute daily reading habit. He finished 7 books (12 in progress), wrote 87 one-line summaries, and discovered that the books he'd been avoiding — Meditations, Thinking Fast and Slow — were exactly the ones he needed. He is now on day 73 of his next 90.</em></div>
+<div data-i18n-html="article_how-to-read-30-books-a-year_p70"><em>Youssef Raihane spent 90 days in 2026 building a 20-minute daily reading habit. He finished 7 books, started 4 others, and wrote 87 one-line summaries. He discovered that the books he'd been avoiding — Meditations, Thinking Fast and Slow — were exactly the ones he needed. He is now on day 73 of his next 90.</em></div>
 
 <div data-i18n-html="article_how-to-read-30-books-a-year_p71"><h2>Sources</h2></div>
 

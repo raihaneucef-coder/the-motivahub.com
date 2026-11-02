@@ -11,8 +11,10 @@ import { podcasts } from "../../data/podcasts";
 import { getFrenchSlug, localizePodcast } from "../../utils/i18n";
 
 // All counts are computed from the real corpus at build time — never hardcoded.
+// « indexable » = published AND not noindexed, so these counters match what
+// /fr/journal/ actually lists (168) instead of counting retired duplicates.
 const posts = (await getCollection("blog"))
-  .filter((p) => !p.data.draft)
+  .filter((p) => !p.data.draft && !p.data.noindex)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const essayCount = posts.length;

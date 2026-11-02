@@ -4,8 +4,10 @@ import type { APIContext } from 'astro';
 import { detectLangFromSlug } from '../utils/lang';
 
 export async function GET(context: APIContext) {
+  // Same indexable rule as the journal listings: a noindex post is a retired
+  // route, so the feed must not keep handing subscribers links to it.
   const posts = (await getCollection('blog'))
-    .filter((p) => !p.data.draft)
+    .filter((p) => !p.data.draft && !p.data.noindex)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
     .slice(0, 50);
 

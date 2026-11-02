@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 const { topic } = Astro.props;
 const norm = (s: string) => s.toLowerCase().trim().replace(/\s+/g, "-");
 const posts = (await getCollection("blog"))
-  .filter((p) => !p.data.draft && norm(p.data.topic) === topic.id)
+  .filter((p) => !p.data.draft && !p.data.noindex && norm(p.data.topic) === topic.id)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const pillar = pillars[topic.id];
 // French copy for the H1 and the JSON-LD; the page title already used titleFr.

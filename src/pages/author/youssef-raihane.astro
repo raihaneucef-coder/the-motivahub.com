@@ -8,11 +8,11 @@ import ArticleCard from "../../components/ArticleCard.astro";
 // No awards, no credentials, no audience numbers, no social links
 // until they are confirmed as real.
 const posts = (await getCollection("blog"))
-  .filter((p) => !p.data.draft)
+  .filter((p) => !p.data.draft && !p.data.noindex)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 12);
 
-const essayCount = (await getCollection("blog")).filter((p) => !p.data.draft).length;
+const essayCount = (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex).length;
 
 const focus = [
   { word: "Mindset", desc: "Mental models, stoic clarity, thinking straight under noise." },

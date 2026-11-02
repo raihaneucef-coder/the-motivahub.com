@@ -14,6 +14,7 @@ import AdSlot from "../../components/AdSlot.astro";
 import { getCollection, render } from "astro:content";
 import { getLangFromUrl } from "../../utils/i18n";
 import { getImageDimensions, coverSrcset } from "../../utils/image";
+import { stripHtml } from "../../utils/inlineHtml";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -145,8 +146,8 @@ const isoDate = post.data.pubDate.toISOString();
       "inLanguage": postLang,
       "mainEntity": post.data.faq.map((f) => ({
         "@type": "Question",
-        "name": f.q,
-        "acceptedAnswer": { "@type": "Answer", "text": f.a }
+        "name": stripHtml(f.q),
+        "acceptedAnswer": { "@type": "Answer", "text": stripHtml(f.a) }
       }))
     })} />
   )}

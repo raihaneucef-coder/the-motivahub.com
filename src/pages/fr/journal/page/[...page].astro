@@ -8,7 +8,7 @@ import { getCollection } from "astro:content";
 export async function getStaticPaths({ paginate }: any) {
   const PAGE_SIZE = 12;
   const posts = (await getCollection("blog"))
-    .filter((p) => !p.data.draft)
+    .filter((p) => !p.data.draft && !p.data.noindex)
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
   // Page 1 is served by /fr/journal/ (index.astro); emitting it here too shipped
   // /fr/journal/page/ as an indexable duplicate of the landing page.
@@ -17,8 +17,10 @@ export async function getStaticPaths({ paginate }: any) {
 
 const { page } = Astro.props as any;
 const totalPages = page.lastPage;
-// EN excludes the two noindex duplicates, so it has one page fewer than FR.
-// Past that page there is no EN twin, and Layout must not declare a 404 alternate.
+// Kept as a guard: if FR ever carries an indexable page that EN does not (the
+// two deprecated noindex posts used to cause exactly that), Layout must not
+// declare a 404 alternate for it. Both sides are 168 posts today, so this
+// currently equals totalPages.
 const enLastPage = Math.ceil(
   (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex).length / 12
 );

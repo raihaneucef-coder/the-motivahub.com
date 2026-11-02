@@ -34,6 +34,8 @@ faq:
     a: "A 2020 review (Schumacher et al., <em>Healthcare</em>) concluded that consistent morning exercise may improve adherence because it faces fewer scheduling conflicts. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings, family obligations, or 'I had a long day.' They're protected by time itself."
   - q: "What if I'm not a morning person?"
     a: "Then 5 AM isn't for you. The principle is: pick a time that's protected from interruptions. For some people that's 5 AM. For others it's 6:30 AM. The 'morning athlete' principle is about consistency, not the specific hour. Find what works for you."
+  - q: "Does chronotype change the answer?"
+    a: "Yes, and this article says so plainly: 5 AM is the most protected hour, not a law. If you are an evening type, a 5 AM session can cost more sleep than it buys in discipline. Take the earliest slot your body actually performs in, then protect it the same way. The chronotype case, with the twin-study numbers, is made in Morning vs Night: Which Discipline Actually Sticks?"
   - q: "Do I need to work out every day?"
     a: "No. Most coaches recommend 3-4 sessions per week with active recovery on other days. The morning athlete principle is about doing something (even small) every morning. Walk, stretch, mobility — something. Build the daily movement first."
   - q: "What if I feel terrible after early workouts?"
@@ -43,6 +45,8 @@ faqFr:
     a: "Une revue de 2020 (Schumacher et al., <em>Healthcare</em>) conclut qu'un entraînement matinal régulier peut améliorer l'adhérence car il subit moins de conflits d'agenda. La raison n'a rien de magique — elle est structurelle. Une séance du matin ne peut pas être annulée par une réunion, une obligation familiale ou un « j'ai eu une longue journée ». Elle est protégée par l'heure elle-même."
   - q: "Et si je ne suis pas une personne du matin ?"
     a: "Alors 5 h n'est pas pour vous. Le principe est : choisissez une heure protégée des interruptions. Pour certains c'est 5 h, pour d'autres 6 h 30. La « morning athlete » parle de régularité, pas d'une heure précise. Trouvez ce qui marche pour vous."
+  - q: "Le chronotype change-t-il la réponse ?"
+    a: "Oui, et l'article le dit clairement : 5 h est l'heure la mieux protégée, pas une loi. Si vous êtes du soir, une séance à 5 h peut coûter plus de sommeil qu'elle n'apporte de discipline. Prenez le créneau le plus tôt où votre corps fonctionne vraiment, puis protégez-le de la même manière. Le volet chronotype, avec les chiffres des études sur des jumeaux, est traité dans Matin contre soir : quelle discipline fonctionne vraiment ?"
   - q: "Faut-il s'entraîner tous les jours ?"
     a: "Non. La plupart des coachs recommandent 3 à 4 séances par semaine avec une récupération active les autres jours. Le principe de l'athlète du matin, c'est de faire quelque chose (même peu) chaque matin. Marcher, s'étirer, mobilité — quelque chose. Construisez d'abord le mouvement quotidien."
   - q: "Et si je me sens horrible après une séance matinale ?"
@@ -65,6 +69,8 @@ relatedArticles:
 <div data-i18n-html="article_the-morning-athlete_p2"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
 <div data-i18n-html="article_the-morning-athlete_p6">After 12 years of trying, here's what I've learned about the morning athlete principle, and why 5 AM still beats every other option for most people — even if 5 AM isn't literally the right hour for you.</div>
+
+<div data-i18n-html="article_the-morning-athlete_p94">Hold that last clause, because it does real work: <strong>5 AM is not a universal rule.</strong> The research this article leans on — the 2020 Schumacher et al. review quoted in the FAQ below — is about <strong>adherence</strong>, not about a magic hour, and adherence is exactly where chronotype bites. If you are a genuine evening type, a 5 AM session can cost you more sleep than it buys you discipline, and the half-recovered week that follows is not a badge of honour. In that case move the protected slot, not the principle: take the earliest time your body actually performs at, then defend it like a meeting. The other side of the argument, including the twin-study numbers, is made in <a href="/journal/morning-vs-night/">Morning vs Night: Which Discipline Actually Sticks?</a> — read it as the second half of this article, not as its contradiction.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p7"><h2>Why Morning Works (The Real Reason)</h2></div>
 
@@ -109,6 +115,8 @@ relatedArticles:
 - 7 PM: 32%</div>
 
 <div data-i18n-html="article_the-morning-athlete_p18"><strong>The pattern is stark.</strong> Early-morning workouts have 2-3x the completion rate of afternoon/evening workouts.</div>
+
+<div data-i18n-html="article_the-morning-athlete_p18b"><em>(N.B. This is my own workout log from 2021 to 2026 — n = 1, self-recorded: 1,247 sessions I counted myself. The completion rates are the share of my own planned sessions I actually attended; there was no control group and no app or device verifying the totals — these are my tallies, not clinical data. Personal observation, not a study; your results may differ.)</em></div>
 
 <div data-i18n-html="article_the-morning-athlete_p19">I expected this. But the magnitude surprised me. My 5 PM self consistently finds reasons to skip. My 5 AM self consistently shows up.</div>
 

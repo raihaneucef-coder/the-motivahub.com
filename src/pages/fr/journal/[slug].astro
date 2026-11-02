@@ -17,6 +17,7 @@ import { join } from "node:path";
 import { getCollection } from "astro:content";
 import { getLangFromUrl, getPathWithoutLocale, getFrenchSlug, getEnglishSlug } from "../../../utils/i18n";
 import { getImageDimensions, coverSrcset } from "../../../utils/image";
+import { stripHtml } from "../../../utils/inlineHtml";
 import frSlugs from "../../../i18n/slugs-fr.json";
 
 export async function getStaticPaths() {
@@ -178,12 +179,16 @@ const proseHtml = frSwapDivs(post.body).replace(
 // no FAQ at all rather than borrowed English text.
 const faqFr = post.data.faqFr && post.data.faqFr.length > 0 ? post.data.faqFr : null;
 
-const all = (await getCollection("blog")).filter((p) => !p.data.draft).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+// Mirror of the EN rule: frontmatter noindex:true posts are excluded from FR related
+// cards and prev/next navigation, so no page links to a post we've told Google to drop.
+const all = (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const enSlug = getEnglishSlug(post.id);
 const idx = all.findIndex((p) => p.id === enSlug);
-const prev = all[idx + 1];
-const next = all[idx - 1];
+// idx === -1 on the two deprecated noindex posts: suppress prev/next rather than
+// pointing them at all[0] / undefined.
+const prev = idx === -1 ? undefined : all[idx + 1];
+const next = idx === -1 ? undefined : all[idx - 1];
 
 function scoreRelated(p: any): number {
   if (p.id === post.id) return -1;
@@ -232,7 +237,7 @@ const showAffiliateBanner = isReviewPost || /tag=motivahub-21/.test(post.body ??
 const isoDate = post.data.pubDate.toISOString();
 ---
 
-<Layout title={`${seoTitle} — Motiva Hub`} description={displayDesc} image={post.data.image} ogType="article" lang={postLang}>
+<Layout title={`${seoTitle} — Motiva Hub`} description={displayDesc} image={post.data.image} ogType="article" lang={postLang} noindex={post.data.noindex}>
   <meta slot="head" property="article:published_time" content={post.data.pubDate.toISOString()} />
   <meta slot="head" property="article:modified_time" content={(post.data.updatedDate || post.data.pubDate).toISOString()} />
   <meta slot="head" name="keywords" content={(post.data.keywords || []).join(", ")} />
@@ -288,8 +293,8 @@ const isoDate = post.data.pubDate.toISOString();
       "inLanguage": postLang,
       "mainEntity": faqFr.map((f) => ({
         "@type": "Question",
-        "name": f.q,
-        "acceptedAnswer": { "@type": "Answer", "text": f.a }
+        "name": stripHtml(f.q),
+        "acceptedAnswer": { "@type": "Answer", "text": stripHtml(f.a) }
       }))
     })} />
   )}

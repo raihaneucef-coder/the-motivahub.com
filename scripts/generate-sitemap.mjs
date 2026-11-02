@@ -137,9 +137,9 @@ async function main() {
 
   // EN blog articles
   for (const slug of blogFiles) {
-    // An article marked `noindex: true` deprecates its English route (the page
-    // carries noindex and its /fr/ twin stays in the index) — keep it out of the
-    // sitemap so we never ask Google to index a page we told it to drop.
+    // An article marked `noindex: true` deprecates the whole EN/FR pair: both
+    // routes carry noindex,nofollow, so neither may appear in the sitemap — we
+    // must never ask Google to index a page we told it to drop.
     if (await isNoindex(slug)) continue;
     const lastmod = await getPostLastmod(slug);
     urls.push({
@@ -157,17 +157,17 @@ async function main() {
   for (const slug of blogFiles) {
     const frSlug = frSlugs[slug];
     if (frSlug) {
-      // A noindex English route must never be advertised as an hreflang
-      // alternate or x-default. Its French twin stays indexable and in the
-      // sitemap, but only with a valid hreflang="fr" reference.
-      const enNoindex = await isNoindex(slug);
+      // `noindex: true` retires both language routes of the pair, so the
+      // French twin is dropped as well and can never be advertised through
+      // hreflang by a page that is out of the index.
+      if (await isNoindex(slug)) continue;
       const lastmod = await getPostLastmod(slug);
       urls.push({
         loc: `${SITE}/fr/journal/${frSlug}/`,
         lastmod,
         changefreq: "monthly",
         priority: PRIORITY.article,
-        en: enNoindex ? null : `${SITE}/journal/${slug}/`,
+        en: `${SITE}/journal/${slug}/`,
         fr: `${SITE}/fr/journal/${frSlug}/`,
       });
     }

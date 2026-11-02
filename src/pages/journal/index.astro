@@ -7,7 +7,7 @@ import { getCollection } from "astro:content";
 import { topics as allTopics } from "../../data/topics";
 
 const posts = (await getCollection("blog"))
-  // Exclude drafts and deprecated EN routes (noindex:true) from the listing, pagination and ItemList JSON-LD.
+  // Exclude drafts and retired routes (noindex:true, both language pages) from the listing, pagination and ItemList JSON-LD.
   .filter((p) => !p.data.draft && !p.data.noindex)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 

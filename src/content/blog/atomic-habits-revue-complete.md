@@ -60,6 +60,8 @@ faqFr:
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p10">I tested this with my writing habit. In January 2024, I wrote 45,000 words in 90 days. That is 500 words per day average. Not impressive. But 500 words per day × 90 days = 45,000 words. A book draft. The 1% compound effect was not obvious on day 1. It was obvious on day 90.</div>
 
+<div data-i18n-html="article_atomic-habits-revue-complete_p10b"><em>(N.B. The 45,000-word figure is my own writing count over those 90 days from early 2024 — n = 1, self-tracked. It is the word total I recorded myself, not a measured productivity metric, and the 1% effect here is my single case, not a controlled result. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_atomic-habits-revue-complete_p11">The problem is not that you need a massive transformation. The problem is that you need consistent small improvements. And the book teaches you exactly how to create them.</div>
 
 <div data-i18n-html="article_atomic-habits-revue-complete_p12"><h2>The Four Laws of Behavior Change</h2></div>

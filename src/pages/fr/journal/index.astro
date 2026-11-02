@@ -7,7 +7,7 @@ import { getFrenchSlug } from "../../../utils/i18n";
 import { topics as allTopics } from "../../../data/topics";
 
 const posts = (await getCollection("blog"))
-  .filter((p) => !p.data.draft)
+  .filter((p) => !p.data.draft && !p.data.noindex)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const featured = posts[0];

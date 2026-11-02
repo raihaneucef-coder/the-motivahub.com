@@ -108,9 +108,11 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p23">So: <strong>77% better outcomes, 13% neutral, 10% worse</strong>.</div>
 
+<div data-i18n-html="article_regle-40-pourcent_methnote"><blockquote><strong>Where these numbers come from</strong>: one person's self-observation over 30 days — 47 walls noticed, 31 pushes attempted, 16 abandoned, no control group, no outside measurement, and I kept the log myself. The 77 / 13 / 10 split describes my month, not an effect size you should expect from yours. Treat the 40% rule as a hypothesis to test on yourself for a month, not as a finding.</blockquote></div>
+
 <div data-i18n-html="article_regle-40-pourcent_fig1"><figure style="margin:2.5em 0 1em">
 <img src="/images/blog/inline/forty-percent-outcomes.svg" alt="Stacked bar of the 47 walls logged in 30 days: 31 pushed through (24 better, 4 equivalent, 3 worse) and 16 not pushed, with the 31 split into 77 percent better, 13 percent neutral and 10 percent worse" width="640" height="200" loading="lazy" decoding="async">
-<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">Forty-seven walls in thirty days. Of the thirty-one I pushed through, twenty-four went better, four were neutral and three went worse.</figcaption>
+<figcaption style="font-family:var(--sans);font-size:.8em;line-height:1.5;color:var(--muted);text-align:center;margin-top:.7em">Forty-seven walls in thirty days. Of the thirty-one I pushed through, twenty-four went better, four were neutral and three went worse. The 77 / 13 / 10 split is calculated on those thirty-one pushes — not on all forty-seven walls, and not on anything resembling a controlled trial.</figcaption>
 </figure></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p24"><h2>What I Found: Where the Rule Breaks</h2></div>

@@ -52,6 +52,8 @@ relatedArticles:
 
 <div data-i18n-html="article_pouvoir-elimination_p6">The 80/20 rule states that 80% of your results come from 20% of your efforts. This means most of what you do does not matter. I measured mine one ordinary week: of fourteen recurring meetings, exactly two produced a decision I can trace. Of the "productivity" tools I opened daily, one earned its place. The math is brutal — and it generalizes.</div>
 
+<div data-i18n-html="article_pouvoir-elimination_p6b"><em>(N.B. The counts above are my own audit of one ordinary week — n = 1, tallied from my own calendar and what I actually opened; no control and no measurement beyond my own notes. Read the 80/20 split as one person's week, not a finding. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_pouvoir-elimination_p7"><ul>
 <li>80% of your meetings are unnecessary</li>
 <li>80% of your emails do not require a response</li>

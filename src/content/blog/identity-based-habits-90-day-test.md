@@ -110,7 +110,7 @@ relatedArticles:
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p26">After 60 days: I stopped debating whether to write. I just wrote. The identity had shifted.</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p27">After 90 days: I've written and published 24 articles. I run a newsletter that goes out every Sunday. I have 2,800 subscribers. I am a writer. The question isn't "do I write?" anymore. It's "what's next to write?"</div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p27">After 90 days: I've written and published 24 articles. I run a newsletter that goes out every Sunday. I am a writer. The question isn't "do I write?" anymore. It's "what's next to write?"</div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p28">The transformation wasn't motivation. It was identity. I act like a writer because I am one.</div>
 
@@ -145,6 +145,8 @@ relatedArticles:
 <div data-i18n-html="article_identity-based-habits-90-day-test_p40"><strong>Other metrics:</strong>
 - Days I "wanted" to skip but did anyway: 11
 - Days I missed entirely: 9 (vs. 38 with goal-based)</div>
+
+<div data-i18n-html="article_identity-based-habits-90-day-test_p40b"><em>(N.B. The figures above are my own 90-day self-tracking, started in March 2026 — n = 1. The completion rates are the share of days I actually did the habit; identity strength is self-rated on a 1-10 scale; the goal-based comparison is my own record from the ten years of attempts described earlier, not a control group. Personal observation, not a controlled study; your results may differ.)</em></div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p41">The interesting result: I didn't get more willpower. I got a different question to ask. The question stopped being "should I write?" and became "what's the next thing I'm writing?"</div>
 

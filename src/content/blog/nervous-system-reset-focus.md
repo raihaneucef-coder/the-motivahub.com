@@ -216,6 +216,8 @@ relatedArticles:
 - Client work quality scores: +22%
 - Stress on Sundays: significantly lower</div>
 
+<div data-i18n-html="article_nervous-system-reset-focus_p60b"><em>(N.B. This is a single 30-day self-test — n = 1. The focus and recovery figures are what I noted myself, the /10 scores are explicitly self-rated, and the resting heart rate, sleep-onset and client-quality numbers are my own readings, not clinical measurements. The comparison values are my weeks before the protocol, not a control group. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_nervous-system-reset-focus_p61">The biggest surprise: <strong>I needed less willpower</strong>. When the body is regulated, focus comes easier. Discipline becomes less of a fight. You're not pushing a boulder uphill. You're walking on flat ground.</div>
 
 <div data-i18n-html="article_nervous-system-reset-focus_p62"><h2>Why Body-First Beats Mind-First (The Research)</h2></div>

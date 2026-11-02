@@ -151,6 +151,8 @@ relatedArticles:
 - I started estimating better. The act of writing daily priorities taught me how long things actually took.
 - I became more honest with myself. "Will I really do this today?" became a real question.</div>
 
+<div data-i18n-html="article_5-minute-morning-habit_p38b"><em>(N.B. These are my own notes from the first 90 days of the habit — n = 1. The time, deep-work and completion figures are what I tallied myself, with my own pre-habit weeks as the only comparison: no control group, no measuring instrument. The stress and anxiety items are impressions, not scores. Personal observation, not a study; your results may differ.)</em></div>
+
 <div data-i18n-html="article_5-minute-morning-habit_p39"><h2>Why This Works When Other Habits Fail</h2></div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p40">Most habit advice fails because it's:

@@ -1,5 +1,10 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+// Same indexable rule as the journal listings, RSS and About counters, so this
+// page can no longer advertise a number the archive contradicts.
+const indexablePosts = (await getCollection("blog")).filter((p) => !p.data.draft && !p.data.noindex).length;
 ---
 
 <Layout title="Motiva Hub — Link in Bio" description="Your gateway to motivation, discipline and growth — the Motiva Hub link in bio, gathering the journal, guides, tools and newsletter in one place.">
@@ -311,7 +316,7 @@ import Layout from "../../layouts/Layout.astro";
   <!-- Stats -->
   <div class="stats">
     <div class="stat">
-      <div class="stat-number">156+</div>
+      <div class="stat-number">{indexablePosts}</div>
       <div class="stat-label" data-i18n="bioStatArticles">Articles</div>
     </div>
     <div class="stat">
@@ -341,7 +346,7 @@ import Layout from "../../layouts/Layout.astro";
       <div class="link-icon icon-yellow">📝</div>
       <div class="link-content">
       <div class="link-title" data-i18n="bioLinkArticles">Read Our Articles</div>
-      <div class="link-desc" data-i18n="bioLinkArticlesDesc">156+ articles on mindset, habits & discipline</div>
+      <div class="link-desc"><span class="link-count">{indexablePosts}</span> <span data-i18n="bioLinkArticlesDesc">articles on mindset, habits & discipline</span></div>
       </div>
       <div class="link-arrow">→</div>
     </a>
