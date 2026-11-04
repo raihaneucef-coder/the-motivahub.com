@@ -6,7 +6,7 @@ titleFr: "Comment changer d'identité : le système d'habitudes identitaires en 
 seoTitleFr: "Changer d'identité : le système en 5 étapes"
 descriptionFr: "5 étapes pour devenir qui tu veux être : lance la boucle identité-comportement, prouve-la par de petites actions, et ne manque jamais deux fois."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-04
 readTime: "6 MIN"
 image: "/images/blog/identite-precde-resultat-2.jpg"
 imageAlt: "A small figure in a number seven jersey beside a golden trophy"
@@ -28,17 +28,18 @@ faq:
     a: "Identity-based habits focus on WHO you want to become rather than WHAT you want to achieve. Instead of 'I want to run a marathon' (outcome), say 'I am a runner' (identity). Every small action becomes a vote for that identity."
   - q: "How do I change my identity to build better habits?"
     a: "Two steps: (1) Decide who you want to be — write it as 'I am a person who [X]', (2) Prove it with small wins — each tiny action is a vote. There is no fixed number of votes at which the self-image flips; what changes it is repetition plus noticing the evidence. Keep a visible record of the actions, because the shift depends on remembering them, not on accumulating a magic count."
-  - q: "Why does identity change work better than goal-setting?"
-    a: "Goals create a pass/fail binary — you either hit them or you don't. Identity creates a continuous spectrum — every action either supports or contradicts who you believe you are. Identity-based change is self-sustaining because it doesn't require reaching a finish line."
+  - q: "How long does it take for a new identity to feel real?"
+    a: "No research has measured identity change directly — so treat any fixed number (21 days, 30 days) as folklore. The closest evidence is about habit automaticity: in a 12-week diary study based on self-report (Lally et al., 2010, 96 volunteers), the median time to reach 95% of a person's modelled automaticity plateau was 66 days, with individual estimates from 18 to 254 days. But only 39 participants' data actually fitted the model, and the measure was a subjective feeling of automaticity, not an objective test. The practical signal is not the calendar — it is ease: when you pick up the book without deciding to, the votes have become the person."
 faqFr:
   - q: "Qu'est-ce que les habitudes basées sur l'identité ?"
     a: "Les habitudes basées sur l'identité se concentrent sur QUI vous voulez devenir plutôt que QUOI vous voulez accomplir. Au lieu de « je veux courir un marathon » (résultat), dites « je suis un coureur » (identité)."
   - q: "Comment changer mon identité pour construire de meilleures habitudes ?"
     a: "Deux étapes : (1) Décidez qui vous voulez être — écrivez « je suis une personne qui [X] », (2) Prouvez-le par de petites victoires — chaque action est un vote. Il n'existe pas de nombre de votes à partir duquel l'image de soi bascule : ce qui la change, c'est la répétition et le fait de remarquer les preuves. Tenez un relevé visible de vos actions, car le changement dépend de votre mémoire de ces actions, pas d'un compteur magique."
-  - q: "Pourquoi le changement d'identité fonctionne mieux que les objectifs ?"
-    a: "Les objectifs créent un binaire succès/échec. L'identité crée un spectre continu — chaque action soutient ou contredit qui vous croyez être. Le changement basé sur l'identité est auto-entretenu car il ne nécessite pas d'atteindre une ligne d'arrivée."
+  - q: "Combien de temps avant qu'une nouvelle identité paraisse réelle ?"
+    a: "Aucune recherche n'a mesuré directement un changement d'identité — tout chiffre fixe (21 ou 30 jours) relève du folklore. La preuve la plus proche concerne l'automatisme des habitudes : dans une étude-journal de 12 semaines fondée sur l'auto-évaluation (Lally et al., 2010, 96 volontaires), le délai médian pour atteindre 95 % du plateau d'automatisme modélisé était de 66 jours, avec des estimations individuelles allant de 18 à 254 jours. Mais seules les données de 39 participants ajustaient le modèle, et la mesure restait un sentiment subjectif d'automatisme, pas un test objectif. Le vrai signal n'est pas le calendrier — c'est la facilité : quand vous prenez le livre sans avoir décidé de le faire, les votes sont devenus la personne."
 
 relatedArticles:
+  - "identity-precedes-outcome"
   - "environnement-beat-volonte"
   - "habit-stacking-made-simple"
   - "habit-stacking-routine"
@@ -117,7 +118,7 @@ relatedArticles:
 
 <div data-i18n-html="article_identite-precde-resultat_p30">One action does not change your identity. But a thousand actions do. Every time you act in alignment with your new identity, you make it more real.</div>
 
-<div data-i18n-html="article_identite-precde-resultat_p31">After 30 days of reading, you are a reader. After 30 days of exercising, you are an athlete. After 30 days of writing, you are a writer. The identity is no longer something you are trying to be. It is something you are.</div>
+<div data-i18n-html="article_identite-precde-resultat_p31">After enough reading, you are a reader. After enough exercising, you are an athlete. After enough writing, you are a writer. No fixed number of votes flips the self-image — what changes it is the evidence, accumulated and noticed. The identity is no longer something you are trying to be. It is something you are.</div>
 
 <div data-i18n-html="article_identite-precde-resultat_p32"><blockquote><em>You do not have to be great to start, but you have to start to be great. The first step is deciding who you want to become. The second step is proving it with your actions.</em></blockquote></div>
 

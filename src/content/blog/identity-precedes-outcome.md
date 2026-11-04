@@ -4,7 +4,7 @@ description: "You do not rise to the level of your goals; you fall to the level 
 titleFr: "L'identité précède le résultat"
 descriptionFr: "Tu ne t'élèves pas au niveau de tes objectifs ; tu descends au niveau de ton identité. Le changement commence par qui tu es, pas ce que tu veux."
 pubDate: 2026-08-09
-updatedDate: 2026-10-26
+updatedDate: 2026-11-04
 readTime: "6 MIN"
 image: "/images/blog/identity-precedes-outcome.jpg"
 imageAlt: "Youssef Raihane - identity precedes outcome concept"
@@ -37,6 +37,7 @@ faqFr:
     a: "Un objectif crée un binaire : réussite ou échec, on l'atteint ou on ne l'atteint pas. Une identité crée un spectre : vous êtes toujours « en train de devenir ». Les mauvais jours, la personne à objectif abandonne parce qu'elle a « échoué » ; la personne à identité se présente parce qu'une mauvaise journée n'efface pas qui elle est. La direction survit à ce que la résolution ne peut pas supporter."
 
 relatedArticles:
+  - "identite-precde-resultat"
   - "puissance-dialogue-interieur"
   - "resilience-mentale"
   - "secret-reussite"

@@ -5,7 +5,7 @@ titleFr: "État d'esprit de croissance : comment reprogrammer ton cerveau pour r
 seoTitleFr: "État d'esprit de croissance : le guide"
 descriptionFr: "Comment un état d'esprit de croissance transforme les échecs en opportunités. Des stratégies pratiques pour sortir d'une pensée fixe et progresser."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-04
 readTime: "7 MIN"
 image: "/images/blog/growth-mindset-rewire-2.jpg"
 imageAlt: "Two hands fitting large white puzzle pieces together"
@@ -90,7 +90,7 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-mindset-rewire_p19">In a fixed mindset, failure is a verdict. In a growth mindset, failure is feedback.</div>
 
-<div data-i18n-html="article_growth-mindset-rewire_p20">Thomas Edison did not fail 10,000 times before inventing the lightbulb. He discovered 10,000 ways that did not work. Each failure brought him closer to the solution.</div>
+<div data-i18n-html="article_growth-mindset-rewire_p20">After 5,127 prototypes, Dyson's first cyclonic vacuum cleaner was ready for production. Read honestly, those 5,127 were not verdicts — each one confirmed one way that did not work yet.</div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p21">Ask yourself after every setback:
 - What did I learn?

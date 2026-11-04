@@ -6,7 +6,7 @@ titleFr: "Mindset : comment adopter un état d'esprit gagnant et transformer ta 
 seoTitleFr: "Mindset : adopter un état d'esprit gagnant"
 descriptionFr: "Découvre la puissance d'un état d'esprit gagnant. Apprends à changer ta façon de penser, à surmonter le doute de toi et à bâtir une force mentale pour réussir."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-04
 readTime: "8 MIN"
 image: "/images/blog/mindset-etat-esprit-2.jpg"
 imageAlt: "A silhouette raising both arms to the sunrise over the mountains"
@@ -59,7 +59,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p7"><strong>Fixed mindset:</strong> “I'm bad at maths. That is just how I am.”<br><strong>Growth mindset:</strong> “I'm bad at maths <em>for now</em>. I can learn.”</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p8">The entire difference fits in one word: <strong>yet</strong>.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p8">Dweck compresses the whole distinction into one addable word: <strong>yet</strong>.</div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p9"><ul><li>“I can't swim” → “I can't swim <em>yet</em>.”</li><li>“I can't run a marathon” → “I can't run a marathon <em>yet</em>.”</li></ul></div>
 
