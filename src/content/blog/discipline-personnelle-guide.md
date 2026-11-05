@@ -63,7 +63,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-personnelle-guide_p9"><h2>2. The secret: systems, not goals</h2></div>
 
-<div data-i18n-html="article_discipline-personnelle-guide_p10">James Clear said it better than anyone: <strong>you do not rise to the level of your goals. You fall to the level of your systems.</strong></div>
+<div data-i18n-html="article_discipline-personnelle-guide_p10">James Clear writes in Atomic Habits (2018): <strong>you do not rise to the level of your goals. You fall to the level of your systems.</strong></div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p11">A goal without a system is a wish. Here is how to turn a goal into a system:</div>
 
@@ -119,7 +119,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-personnelle-guide_p36"><h2>8. The 40% rule</h2></div>
 
-<div data-i18n-html="article_discipline-personnelle-guide_p37">When your mind tells you that you are done, you are nowhere near done. That is the central idea David Goggins teaches — treat it as a working model, not a lab measurement. The useful part is this: the urge to stop usually arrives before the real limit.</div>
+<div data-i18n-html="article_discipline-personnelle-guide_p37">David Goggins' so-called "40% rule" says that when your mind tells you you are done, you are only about 40% done. It is his personal model, not a scientific measurement — treat it as a prompt to reconsider, not a reserve you can measure. The useful move is to question the first "I'm finished" signal instead of trusting it automatically.</div>
 
 <div data-i18n-html="article_discipline-personnelle-guide_p38">Your brain has a protective mechanism that stops you <strong>well before</strong> your actual limit. To progress, you have to learn to move past that early signal.</div>
 

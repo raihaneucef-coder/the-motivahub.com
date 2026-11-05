@@ -67,8 +67,8 @@ relatedArticles:
 
 <div data-i18n-html="article_standard-non-negociable_p9"><h2>Why Non-Negotiable Standards Work</h2></div>
 
-<div data-i18n-html="article_standard-non-negociable_p10"><h3>1. They Eliminate Decision Fatigue</h3>
-Every decision you make <a href="/journal/environnement-beat-volonte/">drains willpower</a>. By making the behavior automatic, you save your willpower for things that actually require decisions.</div>
+<div data-i18n-html="article_standard-non-negociable_p10"><h3>1. They Cut Down on Re-Deciding</h3>
+Deciding from scratch each time usually feels heavier than following a standard you set in advance. That is one reason people lean on <a href="/journal/environnement-beat-volonte/">a supportive environment rather than raw willpower</a>. The old "ego depletion" theory — willpower as a limited tank that empties with use — has not held up well: the large preregistered 23-lab replication (Hagger et al., 2016) found only a small effect, d = 0.04, 95% CI [−0.07, 0.15], an interval that includes zero. The practical case for a fixed standard stands on its own and does not depend on that theory.</div>
 
 <div data-i18n-html="article_standard-non-negociable_p11"><h3>2. They Remove Negotiation</h3>
 When the standard is negotiable, you spend energy debating: "Should I exercise today? I am tired. Maybe tomorrow." When it is non-negotiable, the debate does not happen. You just do it.</div>
@@ -108,3 +108,7 @@ The power of a non-negotiable standard is that it never changes. Rain or shine. 
 <div data-i18n-html="article_standard-non-negociable_p23"><blockquote><em>The standard you set for yourself is the standard you will become. Set it high. Never lower it. Watch what happens.</em></blockquote></div>
 
 <div data-i18n-html="article_standard-non-negociable_p25"><strong>Set your non-negotiable standard.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 standards to practice. Track your consistency with our <a href="/tracker/">Habit Tracker</a>.</div>
+
+<div data-i18n-html="article_standard-non-negociable_p26"><h2>Sources</h2></div>
+
+<div data-i18n-html="article_standard-non-negociable_p27">Hagger, M. S., et al. (2016). "A Multilab Preregistered Replication of the Ego-Depletion Effect." <em>Perspectives on Psychological Science</em>, 11(4), 546–573. https://doi.org/10.1177/1745691616652873</div>

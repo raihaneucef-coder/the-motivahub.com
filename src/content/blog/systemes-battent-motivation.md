@@ -53,9 +53,9 @@ relatedArticles:
 
 <div data-i18n-html="article_systemes-battent-motivation_p5"><h2>The Problem With Motivation</h2></div>
 
-<div data-i18n-html="article_systemes-battent-motivation_p6">Motivation is like weather — unpredictable, temporary, and outside your control. You cannot schedule it. You cannot force it. You cannot keep it around when it decides to leave.</div>
+<div data-i18n-html="article_systemes-battent-motivation_p6">Motivation is like weather — unpredictable, temporary, and outside your control. It arrives when it wants and leaves the same way.</div>
 
-<div data-i18n-html="article_systemes-battent-motivation_p7">But you can schedule a system. You can follow a system regardless of your mood. You can rely on a system when motivation has left the building.</div>
+<div data-i18n-html="article_systemes-battent-motivation_p7">But you can schedule a system. You can follow a system regardless of your mood. You can rely on a system when motivation is nowhere to be found.</div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p8"><h2>What Is a System?</h2></div>
 
@@ -91,10 +91,10 @@ Every week, ask: "Is my system producing results?" If not, adjust the system —
 
 <div data-i18n-html="article_systemes-battent-motivation_p20"><h2>The Compound Effect of Systems</h2></div>
 
-<div data-i18n-html="article_systemes-battent-motivation_p21">One day of following a system does not change your life. But 365 days of following a system creates a person you do not recognize.</div>
+<div data-i18n-html="article_systemes-battent-motivation_p21">A single day of running a system changes little. But a year of letting it run compounds into someone you would barely recognize.</div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p22">The compound effect of daily systems is extraordinary. Small daily actions, repeated for years, produce results that seem impossible from the outside.</div>
 
-<div data-i18n-html="article_systemes-battent-motivation_p23"><blockquote><em>You do not rise to the level of your goals. You fall to the level of your systems. — James Clear</em></blockquote></div>
+<div data-i18n-html="article_systemes-battent-motivation_p23"><blockquote><em>You do not rise to the level of your goals. You fall to the level of your systems. — James Clear, Atomic Habits (2018)</em></blockquote></div>
 
 <div data-i18n-html="article_systemes-battent-motivation_p25"><strong>Build your system today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you a system to follow. Track your consistency with our <a href="/tracker/">Habit Tracker</a>.</div>

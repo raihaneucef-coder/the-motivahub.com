@@ -92,7 +92,7 @@ relatedArticles:
 
 <div data-i18n-html="article_when-motivation-leaves_p24"><h2>The Stoic Weather Report</h2></div>
 
-<div data-i18n-html="article_when-motivation-leaves_p25">Marcus Aurelius wrote to himself: "At dawn, when you have trouble getting out of bed, tell yourself: I have to go to work — as a human being. What do I have to complain of, if I am going to do what I was born for?"</div>
+<div data-i18n-html="article_when-motivation-leaves_p25">Marcus Aurelius wrote to himself (Meditations, V.1): "At dawn, when you have trouble getting out of bed, tell yourself: I have to go to work — as a human being. What do I have to complain of, if I am going to do what I was born for?"</div>
 
 <div data-i18n-html="article_when-motivation-leaves_p26">Notice what he did not say. He did not say "find the motivation." He said "you have work, and you were made for it." The emperor's morning was not powered by feelings. It was powered by identity, duty, and a system — the three things that never check the forecast.</div>
 

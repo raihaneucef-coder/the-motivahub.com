@@ -56,7 +56,7 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-beat-motivation_p6">Every self-help book tells you to "find your motivation." But motivation is like weather — unpredictable, temporary, and outside your control.</div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p7">You cannot schedule motivation. You cannot force it to appear. You cannot keep it around when it decides to leave.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p7">Motivation does not show up on command, and no amount of wishing will make it stay. That is why discipline matters: it works whether you feel like it or not.</div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p8">But you can schedule discipline. You can force yourself to start. You can keep going even when motivation has left the building.</div>
 
@@ -110,11 +110,11 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-beat-motivation_p29">The longer your discipline streak, the more you have to lose. And the more you have to lose, the less likely you are to break it.</div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p30">Use our <a href="/tracker/">Habit Tracker</a> to visualize your streak. After 7 days, you will not want to break it. After 30 days, it becomes part of who you are.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p30">Use our <a href="/tracker/">Habit Tracker</a> to visualize your streak. One missed day does not erase the days you already showed up for — it is a pause, not a reset.</div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p31"><h2>The Compound Effect of Discipline</h2></div>
 
-<div data-i18n-html="article_discipline-beat-motivation_p32">One day of discipline does not change your life. But 365 days of discipline creates a person you do not recognize.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p32">One day of discipline rarely changes anything on its own. But a year of showing up quietly changes who you are.</div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p33">The compound effect of daily discipline is extraordinary. Small daily actions, repeated for years, produce results that seem impossible from the outside.</div>
 
