@@ -46,7 +46,7 @@ relatedArticles:
 
 <div data-i18n-html="article_investir-debutant_p2">You do not need thousands to start investing. You need consistency. Learn the simplest way to start building wealth from scratch.</div>
 
-<div data-i18n-html="article_investir-debutant_p3">The best time to start investing was 20 years ago. The second best time is today. Investing is how you make your money work for you — instead of you working for your money.</div>
+<div data-i18n-html="article_investir-debutant_p3">The best time to start investing was 20 years ago. The second best time is today. Investing is how you make your money work for you — instead of you working for your money. This guide covers the practical steps. For the mindset behind them — thinking like an owner over the long term — read <a href="/journal/invest-like-beginner/">invest like a beginner, not an expert</a>.</div>
 
 
 <div data-i18n-html="article_investir-debutant_p4"><h2>Why You Should Invest</h2></div>
@@ -60,7 +60,7 @@ relatedArticles:
 <div data-i18n-html="article_investir-debutant_p7"><h3>1. Build an Emergency Fund First</h3>
 Before investing, have <a href="/journal/fond-urgence/">3-6 months of expenses saved</a>. This prevents you from needing to sell investments during an emergency.</div>
 
-<div data-i18n-html="article_investir-debutant_p8"><h3>2. <a href="/journal/invest-like-beginner/">Start with Index Funds</a></h3>
+<div data-i18n-html="article_investir-debutant_p8"><h3>2. Start with Index Funds</h3>
 Index funds are baskets of stocks that track the market. They are diversified, low-cost, and require no expertise. Examples: S&P 500 index fund, Total Market index fund.</div>
 
 <div data-i18n-html="article_investir-debutant_p9"><h3>3. Invest Regularly</h3>

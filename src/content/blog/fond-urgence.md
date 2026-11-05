@@ -71,10 +71,10 @@ Before touching the fund, ask: Is it unexpected? Is it urgent? Is it necessary? 
 
 <div data-i18n-html="article_fond-urgence_p11"><h2>Why It Matters</h2></div>
 
-<div data-i18n-html="article_fond-urgence_p12">Without an emergency fund, a single €800 car repair goes on a <a href="/journal/debt-is-a-story/">credit card at 20 percent APR</a>. Minimum payments on €800 take roughly 3 years and cost an extra €540 in interest. That is €1 340 for what should have been an inconvenience. Multiply by two or three surprises in the same year and the hole becomes a career trap: you stay in a job you hate because leaving means losing the income that services the debt.</div>
+<div data-i18n-html="article_fond-urgence_p12">Without an emergency fund, a single €800 car repair could end up on a <a href="/journal/debt-is-a-story/">credit card at 20 percent APR</a>. Repaying it at about €30 a month — assuming no new purchases and no extra fees — takes roughly 36 months and costs around €270 in interest: about €1 070 for what could otherwise have been a manageable expense. Multiply by two or three surprises in the same year and the hole becomes a career trap: you stay in a job you hate because leaving means losing the income that services the debt.</div>
 
 <div data-i18n-html="article_fond-urgence_p13">With an emergency fund, unexpected expenses are inconvenient — not devastating.</div>
 
-<div data-i18n-html="article_fond-urgence_p14"><blockquote><em>Do not save what is left after spending. Spend what is left after saving. — Warren Buffett</em></blockquote></div>
+<div data-i18n-html="article_fond-urgence_p14"><em>A common budgeting principle is to set aside savings first, then plan spending around what remains.</em></div>
 
 <div data-i18n-html="article_fond-urgence_p16"><strong>Build your emergency fund today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds the habits of financial success. Track your savings with our <a href="/tracker/">Habit Tracker</a>.</div>
