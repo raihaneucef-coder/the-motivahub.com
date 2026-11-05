@@ -22,7 +22,7 @@ keywords:
   - "quick calm technique before a meeting"
 tags:
   - "wellness"
-wordCount: 406
+wordCount: 489
 faq:
   - q: "What is the fastest breathing technique to calm anxiety?"
     a: "The physiological sigh: two quick inhales through the nose followed by one long exhale through the mouth. Andrew Huberman popularised it as a fast, always-available way to take the edge off sympathetic activation. The randomised study behind that family of techniques (Balban et al., 2023, Cell Reports Medicine) compared 5-minute daily protocols — cyclic sighing, cyclic hyperventilation, and mindfulness meditation — and found mood and anxiety improved, with cyclic sighing producing the largest change."

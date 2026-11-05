@@ -31,7 +31,7 @@ tags:
   - "habits"
   - "atomic-habits"
   - "protocol"
-wordCount: 1653
+wordCount: 1652
 bookSlug: atomic-habits
 faq:
   - q: "What is the 2-minute rule?"
@@ -159,7 +159,7 @@ Look at the week. Seven days, seven doorways. The hallway is optional. The doorw
 
 <div data-i18n-html="article_two-minute-rule-guide_p44">If you take one thing from this article, take this: <strong>the doorway is the habit</strong>. Build the doorway first. The hallway grows by itself.</div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p45">The doorway is also why identity matters more than outcome. If you want the deeper version of this idea — the one that connects the 2-minute rule to <em>who you are becoming</em> — read our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Goals: The 90-Day Test</a>. It is the principle that turns a 2-minute doorway into a 10-year direction.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p45">The doorway is also why identity matters more than outcome. If you want the deeper version of this idea — the one that connects the 2-minute rule to <em>who you are becoming</em> — read our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Habits: The 90-Day Test</a>. It is the principle that turns a 2-minute doorway into a 10-year direction.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p46"><em>Last updated: November 4, 2026 — changelog corrected (the September 7 entry described content this update did not add; there is no chronotype test in this article). Recent content revisions: October 25, 2026 (unsourced claims corrected) and October 30, 2026 (verified sources).</em></div>
 

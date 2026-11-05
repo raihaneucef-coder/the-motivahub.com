@@ -27,7 +27,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "identity"
-wordCount: 1997
+wordCount: 2098
 faq:
   - q: "What is an identity-based habit?"
     a: "An identity-based habit is one where you focus on who you want to become (a writer, a runner, a calm person) rather than what you want to achieve (write a book, run a marathon, reduce stress). Each action becomes a 'vote' for that identity. Over time, the identity becomes self-reinforcing."

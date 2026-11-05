@@ -20,7 +20,7 @@ keywords:
   - "shrink the first step discipline"
 tags:
   - "habits"
-wordCount: 766
+wordCount: 784
 faq:
   - q: "What is the two-minute rule in habit formation?"
     a: "From David Allen and James Clear: when starting a new habit, scale the first action to 2 minutes or less. Read before bed becomes read one page. The purpose is not to read one page; it is to master showing up. You cannot improve a habit that does not exist."

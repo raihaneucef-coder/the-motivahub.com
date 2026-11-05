@@ -22,7 +22,7 @@ keywords:
   - "list"
 tags:
   - "productivity"
-wordCount: 774
+wordCount: 754
 bookSlug: atomic-habits
 
 faq:

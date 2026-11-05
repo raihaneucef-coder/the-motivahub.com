@@ -31,7 +31,7 @@ tags:
   - "habits"
   - "failure"
   - "recovery"
-wordCount: 1149
+wordCount: 1165
 faq:
   - q: "What should I do the day after I miss a habit?"
     a: "Do the 2-minute version of the habit, immediately, no negotiation. The action after a miss is not a full session. It is the smallest possible version — the doorway. The vote after a miss is more important than the votes on a normal day, because it proves the system survives the miss. The protocol is in the article — but the first move is always the same: do the 2-minute version, today."

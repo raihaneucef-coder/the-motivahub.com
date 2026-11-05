@@ -23,7 +23,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 735
+wordCount: 736
 faq:
   - q: "What is a winning mindset?"
     a: "A winning mindset is the belief that your abilities can be developed through effort, strategy, and persistence. It combines growth thinking, self-belief, and accountability — focusing on what you control rather than what you can't change."
@@ -92,7 +92,7 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p23"><h2>4. Failures Are Data, Not Verdicts</h2></div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p24">Thomas Edison ran thousands of attempts before a light bulb finally worked. When someone asked whether he had failed, he answered that he had not failed — he had simply found thousands of ways that did not work.</div>
+<div data-i18n-html="article_mindset-etat-esprit_p24">Thomas Edison is said to have run thousands of attempts before a practical light bulb worked. Asked whether he had failed, he is widely quoted as answering that he had not failed — he had simply found thousands of ways that did not work. The exact number varies by account; the reframe is the point.</div>
 
 <div data-i18n-html="article_mindset-etat-esprit_p25">A winning mindset treats failure as <strong>data</strong>, never as a verdict.</div>
 

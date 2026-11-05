@@ -26,7 +26,7 @@ tags:
   - "habits"
   - "myth-busting"
   - "research"
-wordCount: 500
+wordCount: 509
 faq:
   - q: "How long does it actually take to form a habit?"
     a: "Lally et al. (2010) found a median of 66 days, with a range of 18-254 days depending on the habit and the person. The quickest behaviors in the study became automatic in roughly 18 days; the slowest took more than 250. There is no universal timeline."
