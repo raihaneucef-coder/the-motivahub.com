@@ -16,7 +16,7 @@ keywords:
   - "habit formation timeline"
   - "how long to build a habit"
   - "66 days habit"
-  - "lally 2009 habit study"
+  - "lally 2010 habit study"
   - "21 day rule debunked"
   - "habit formation research"
   - "real habit timeline"
@@ -31,7 +31,7 @@ faq:
   - q: "How long does it actually take to form a habit?"
     a: "Lally et al. (2010) found a median of 66 days, with a range of 18-254 days depending on the habit and the person. The quickest behaviors in the study became automatic in roughly 18 days; the slowest took more than 250. There is no universal timeline."
   - q: "Where did the 21-day myth come from?"
-    a: "Dr. Maxwell Maltz, a plastic surgeon in the 1960s, observed that amputees took about 21 days to adjust to limb loss. This was misapplied to habit formation and popularized by self-help culture. The original context was about adjustment, not habit formation."
+    a: "Dr. Maxwell Maltz, a plastic surgeon in the 1960s, observed that patients needed at least about 21 days to adjust to a changed appearance or the loss of a limb. This was misapplied to habit formation and popularized by self-help culture. The original context was about adjustment, not habit formation."
   - q: "Does counting days help with habit formation?"
     a: "No. Counting days creates a finish-line mindset. Habits are about building a lifestyle, not reaching a goal. Focus on the system, not the timeline. The 2-day rule (never miss twice) is more useful than day-counting."
   - q: "What should I do instead of counting 21 days?"
@@ -40,7 +40,7 @@ faqFr:
   - q: "Combien de temps faut-il vraiment pour former une habitude ?"
     a: "Lally et al. (2010) ont trouvé une médiane de 66 jours, avec une fourchette de 18 à 254 jours selon l'habitude et la personne. Les comportements les plus rapides de l'étude devenaient automatiques en environ 18 jours ; les plus lents prenaient plus de 250 jours. Il n'existe pas de calendrier universel."
   - q: "D'où vient le mythe des 21 jours ?"
-    a: "Du Dr Maxwell Maltz, chirurgien esthétique dans les années 1960, qui a observé que les amputés mettaient environ 21 jours à s'adapter à la perte d'un membre. Cette observation a été mal appliquée à la formation des habitudes puis popularisée par la culture du développement personnel. Le contexte d'origine parlait d'adaptation, pas d'habitude."
+    a: "Du Dr Maxwell Maltz, chirurgien esthétique dans les années 1960, qui a observé que ses patients mettaient au minimum environ 21 jours pour s'adapter à une apparence changée ou à la perte d'un membre. Cette observation a été mal appliquée à la formation des habitudes puis popularisée par la culture du développement personnel. Le contexte d'origine parlait d'adaptation, pas d'habitude."
   - q: "Compter les jours aide-t-il à tenir une habitude ?"
     a: "Non. Compter les jours crée un état d'esprit de ligne d'arrivée. Une habitude, c'est la construction d'un mode de vie, pas l'atteinte d'un objectif. Concentrez-vous sur le système, pas sur le calendrier. La règle des 2 jours (ne jamais rater deux fois) est plus utile que le comptage."
   - q: "Que faire à la place de compter 21 jours ?"
@@ -61,7 +61,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-21-jours_p5"><h2>Where Did the 21-Day Myth Come From?</h2></div>
 
-<div data-i18n-html="article_regle-21-jours_p6">The idea came from Dr. Maxwell Maltz, a plastic surgeon in the 1960s. He noticed that amputees took about 21 days to adjust to the loss of a limb. He wrote about this in his book Psycho-Cybernetics.</div>
+<div data-i18n-html="article_regle-21-jours_p6">The idea came from Dr. Maxwell Maltz, a plastic surgeon in the 1960s. In <em>Psycho-Cybernetics</em> (1960), he wrote that patients needed "a minimum of about 21 days" to adjust to a changed appearance or the loss of a limb.</div>
 
 <div data-i18n-html="article_regle-21-jours_p7">Somehow, this observation about adjusting to amputations became a rule about habit formation. The original context was lost, and the myth was born.</div>
 
@@ -85,7 +85,7 @@ There will be days when the habit feels automatic. There will be days when it fe
 Instead of asking "How long until this is a habit?" ask "Am I following my system today?" The system is what matters. The timeline is irrelevant.</div>
 
 <div data-i18n-html="article_regle-21-jours_p15"><h3>4. Never Miss Twice</h3>
-The most important rule is simple: <a href="/journal/ne-brise-jamais-chaine/">never miss twice</a>. One missed day is a accident. Two missed days is the start of a new habit — the habit of quitting.</div>
+The most important rule is simple: <a href="/journal/ne-brise-jamais-chaine/">never miss twice</a>. One missed day is an accident. Two missed days is the start of a new habit — the habit of quitting.</div>
 
 <div data-i18n-html="article_regle-21-jours_p16"><h2>The Real Secret</h2></div>
 

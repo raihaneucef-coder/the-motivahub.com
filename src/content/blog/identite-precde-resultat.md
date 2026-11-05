@@ -42,8 +42,7 @@ relatedArticles:
   - "identity-precedes-outcome"
   - "environnement-beat-volonte"
   - "habit-stacking-made-simple"
-  - "habit-stacking-routine"
-  - "how-to-read-30-books-a-year"
+  - "identity-based-habits-90-day-test"
 ---
 
 <div data-i18n-html="article_identite-precde-resultat_p2">The most powerful habit strategy is not about what you do — it is about who you are. Learn how identity-based habits create lasting change.</div>

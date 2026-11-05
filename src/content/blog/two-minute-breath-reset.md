@@ -25,18 +25,18 @@ tags:
 wordCount: 406
 faq:
   - q: "What is the fastest breathing technique to calm anxiety?"
-    a: "The physiological sigh: two quick inhales through the nose followed by one long exhale through the mouth. Andrew Huberman (Stanford) highlights this as the fastest voluntary way to reduce sympathetic activation: works in 60-90 seconds with just 2-3 cycles."
+    a: "The physiological sigh: two quick inhales through the nose followed by one long exhale through the mouth. Andrew Huberman popularised it as a fast, always-available way to take the edge off sympathetic activation. The randomised study behind that family of techniques (Balban et al., 2023, Cell Reports Medicine) compared 5-minute daily protocols — cyclic sighing, cyclic hyperventilation, and mindfulness meditation — and found mood and anxiety improved, with cyclic sighing producing the largest change."
   - q: "How does controlled breathing actually calm the nervous system?"
     a: "Longer exhale than inhale activates the vagus nerve, which sends a safety signal from the body to the brainstem. This flips the autonomic balance from sympathetic (fight-or-flight) to parasympathetic (rest-and-digest). Your conscious breathing is the ONLY voluntary control over your autonomic nervous system."
   - q: "What is the best 2-minute reset for stress at work?"
-    a: "4-7-8 pattern: inhale 4 counts, hold 7, exhale 8. Repeat 4 cycles (about 90 seconds). Then one physiological sigh (double-inhale plus long exhale) to finish. Combined: 2 minutes exactly, resets heart rate variability, and requires zero equipment or private space." 
+    a: "The resonance rhythm from this article: inhale for 4 seconds, exhale for 6 seconds, about twelve cycles — roughly two minutes, zero equipment, no private space needed. It keeps you near the ~6-breaths-per-minute pace linked to higher heart-rate variability in Lehrer and colleagues' work. If you have sixty seconds between meetings, do ten cycles instead of twelve."
 faqFr:
   - q: "Quelle est la technique de respiration la plus rapide contre l'anxiété ?"
-    a: "Le soupir physiologique : deux inspirations brèves par le nez suivies d'une longue expiration par la bouche. Andrew Huberman (Stanford) le présente comme le moyen volontaire le plus rapide de réduire l'activation sympathique : cela fonctionne en 60 à 90 secondes avec seulement 2 à 3 cycles."
+    a: "Le soupir physiologique : deux inspirations brèves par le nez suivies d'une longue expiration par la bouche. Andrew Huberman l'a popularisé comme un moyen rapide et toujours disponible de faire baisser l'activation sympathique. L'étude randomisée qui documente cette famille de techniques (Balban et al., 2023, Cell Reports Medicine) a comparé des protocoles quotidiens de 5 minutes — soupirs cycliques, hyperventilation cyclique et méditation de pleine conscience — et relevé une amélioration de l'humeur et de l'anxiété, avec les soupirs cycliques en tête."
   - q: "Comment la respiration contrôlée apaise-t-elle réellement le système nerveux ?"
     a: "Une expiration plus longue que l'inspiration active le nerf vague, qui envoie un signal de sécurité du corps vers le tronc cérébral. Cela bascule l'équilibre autonome du sympathique (combat-fuite) vers le parasympathique (repos-digestion). Votre respiration consciente est le SEUL contrôle volontaire sur votre système nerveux autonome."
   - q: "Quelle est la meilleure réinitialisation de 2 minutes contre le stress au travail ?"
-    a: "Le schéma 4-7-8 : inspirez 4 temps, retenez 7, expirez 8. Répétez 4 cycles (environ 90 secondes). Puis un soupir physiologique (double inspiration + longue expiration) pour finir. Total : 2 minutes exactement, la variabilité cardiaque se réinitialise, et il ne faut aucun matériel ni endroit privé."
+    a: "Le rythme de résonance de cet article : inspirez 4 secondes, expirez 6 secondes, une douzaine de cycles — environ deux minutes, aucun matériel, aucun endroit privé nécessaire. Il vous maintient près de la fréquence d'environ six respirations par minute associée à une meilleure variabilité cardiaque dans les travaux de Lehrer et ses collègues. Soixante secondes entre deux réunions ? Dix cycles au lieu de douze."
 
 relatedArticles:
   - "calm-is-a-superpower"
@@ -62,15 +62,15 @@ relatedArticles:
 
 <div data-i18n-html="article_two-minute-breath-reset_h2c"><h2>The resonance rhythm</h2></div>
 
-<div data-i18n-html="article_two-minute-breath-reset_p14">There is a target frequency worth knowing. <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full" target="_blank" rel="noopener">Research by psychologist Paul Lehrer and colleagues on 'resonance breathing'</a> found that roughly six slow breaths per minute — about a four-second inhale and a six-second exhale — tends to maximize heart-rate variability and the calm signal sent to the brain. Your 4-in / 8-out reset lands near that rhythm, which is why a fixed count works better than breathing 'deeply' at random.</div>
+<div data-i18n-html="article_two-minute-breath-reset_p14">There is a target frequency worth knowing. <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00756/full" target="_blank" rel="noopener">Research by psychologist Paul Lehrer and colleagues on 'resonance breathing'</a> found that roughly six slow breaths per minute — about a four-second inhale and a six-second exhale — tends to maximize heart-rate variability and the calm signal sent to the brain. Your 4-in / 6-out rhythm lands right on that frequency, which is why a fixed count works better than breathing 'deeply' at random.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_h2d"><h2>Try it now</h2></div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p7">Try it now:</div>
 
-<div data-i18n-html="article_two-minute-breath-reset_p8">- Inhale through the nose for 4 counts.
-- Exhale through the mouth for 8 counts, as if fogging a mirror slowly.
-- Repeat 6 times. Two minutes total.</div>
+<div data-i18n-html="article_two-minute-breath-reset_p8">- Inhale through the nose for 4 seconds.
+- Exhale through the mouth for 6 seconds, as if fogging a mirror slowly.
+- Repeat about 12 times. Two minutes total.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p9">Do not try to feel calm. Just count. The feeling follows the counting, not the other way around.</div>
 
@@ -89,3 +89,8 @@ relatedArticles:
 
 
 <div data-i18n-html="article_two-minute-breath-reset_p12">Two minutes of breath is not a luxury. It is maintenance for the instrument that has to carry you through the whole day.</div>
+
+<div data-i18n-html="article_two-minute-breath-reset_p15"><h2>Sources</h2></div>
+
+<div data-i18n-html="article_two-minute-breath-reset_p16">1. <a href="https://doi.org/10.3389/fpsyg.2014.00756" target="_blank" rel="noopener">Lehrer, P. M., Vaschillo, E., &amp; Vaschillo, B. (2014)</a>. "Heart rate variability biofeedback: how and why does it work?" <em>Frontiers in Psychology</em>, 5, 756 — for the ~6-breaths-per-minute resonance pace.
+2. <a href="https://doi.org/10.1016/j.xcrm.2022.100895" target="_blank" rel="noopener">Balban, M. Y., et al. (2023)</a>. "Brief structured respiration practices enhance mood and reduce physiological arousal." <em>Cell Reports Medicine</em>, 4(1), 100895 — the randomised comparison of cyclic sighing, cyclic hyperventilation, and mindfulness meditation.</div>

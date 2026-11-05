@@ -6,7 +6,7 @@ titleFr: "La règle des 2 minutes : protocole de 7 jours + guide complet"
 seoTitleFr: "La règle des 2 minutes : protocole 7 jours + guide"
 descriptionFr: "L'idée la plus sous-estimée de James Clear : commencez si petit que ça semble stupide, puis regardez la porte rester ouverte. Le protocole complet."
 pubDate: 2026-09-03
-updatedDate: 2026-09-21
+updatedDate: 2026-11-04
 readTime: "12 MIN"
 image: "/images/blog/two-minute-rule-guide-1.jpg"
 imageAlt: "Youssef Raihane - two minute rule guide concept"
@@ -62,7 +62,7 @@ relatedArticles:
   - "regle-21-jours"
 ---
 
-<div data-i18n-html="article_two-minute-rule-guide_p2">James Clear's most underrated idea. Start so small it feels stupid. Then watch the doorway stay open. The full evidence base, the protocol, and what to do when you outgrow it.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p2">James Clear's most underrated idea. Start so small it feels stupid. Then watch the doorway stay open. The full evidence base, the protocol, and what to do when the two minutes start to feel too small.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p4">The most underrated idea in <em>Atomic Habits</em> is also the most copied. And most people copy it wrong.</div>
 
@@ -131,7 +131,7 @@ Look at the week. Seven days, seven doorways. The hallway is optional. The doorw
 
 <div data-i18n-html="article_two-minute-rule-guide_p33">The fix: <strong>keep the doorway forever</strong>. The two-minute version is not a training wheels arrangement. It is the front door. Every morning, you walk through the front door. Some mornings, you stay in the hallway for a long time. Other mornings, you walk in, turn around, and walk out. Both count. Both keep the door open.</div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p34">This is the part most people miss. The 2-minute rule is not a temporary crutch. It is the <strong>permanent entry ritual</strong> of the habit. Olympic athletes still warm up. Writers still sit at the desk for the first two minutes even when they know they will write for four hours. The doorway is the habit. The hallway is the bonus.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p34">This is the part most people miss. The 2-minute rule is not a temporary crutch. It is the <strong>permanent entry ritual</strong> of the habit. Surgeons still scrub in before every operation, however many they have done. The doorway is not the small version of the habit — it is the safe way back into it, every single day.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p35"><h2>When the rule breaks</h2></div>
 
@@ -161,6 +161,6 @@ Look at the week. Seven days, seven doorways. The hallway is optional. The doorw
 
 <div data-i18n-html="article_two-minute-rule-guide_p45">The doorway is also why identity matters more than outcome. If you want the deeper version of this idea — the one that connects the 2-minute rule to <em>who you are becoming</em> — read our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Goals: The 90-Day Test</a>. It is the principle that turns a 2-minute doorway into a 10-year direction.</div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p46"><em>Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system, the morning-vs-night chronotype test, and the missed-day recovery protocol.</em></div>
+<div data-i18n-html="article_two-minute-rule-guide_p46"><em>Last updated: November 4, 2026 — changelog corrected (the September 7 entry described content this update did not add; there is no chronotype test in this article). Recent content revisions: October 25, 2026 (unsourced claims corrected) and October 30, 2026 (verified sources).</em></div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p47"><strong>The same two-minute rule, doing different jobs:</strong> this is the full guide and 7-day protocol. For the identity-and-recovery architecture behind it, read <a href="/journal/2-minute-rule-system/">The 2-Minute Rule: A Complete System</a>; for using two minutes to clear small <em>tasks</em> rather than build habits, read <a href="/journal/regle-2-min-productivite/">The 2-Minute Rule for Productivity</a>.</div>

@@ -284,12 +284,12 @@ relatedArticles:
 
 <div data-i18n-html="article_5-minute-morning-habit_p90">1. <a href="https://doi.org/10.1016/S0065-2601(06)38002-1" target="_blank" rel="noopener"><em>Gollwitzer, P. M., &amp; Sheeran, P.</em></a> (2006). "Implementation intentions and goal achievement: A meta-analysis." <em>Advances in Experimental Social Psychology</em>, 38, 69-119.
 2. <em>Baumeister, R. F., & Tierney, J.</em> (2011). <em>Willpower: Rediscovering the Greatest Human Strength.</em> — for the decision fatigue research
-3. <em>Cal Newport</em> — <em>Deep Work</em> (2016) — for the focused morning principles</div>
+3. <em>Cal Newport</em> — <em>Deep Work</em> (2016) — for the focused morning principles
+4. <em>Atomic Habits</em> by James Clear — for the habit stacking framework
+5. <em>University of Minnesota</em> research on attention residue (Sophie Leroy, 2009) — for the multitasking cost</div>
 
 <hr />
 
 <div data-i18n-html="article_5-minute-morning-habit_p92"><strong>Three priorities is the doorway.</strong> The hallway is what fills the rest of the morning. To see the doorway pattern applied across meditation, reading, pushups, journaling, and more, read our <a href="/journal/two-minute-rule-guide/">full 2-Minute Rule guide and 7-day protocol</a> — same principle, different rooms.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p93"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 7, 2026 (refreshed with the 2-minute rule as a complete system and the missed-day recovery protocol).</em>
-4. <em>Atomic Habits</em> by James Clear — for the habit stacking framework
-5. <em>University of Minnesota</em> research on attention residue (Sophie Leroy, 2009) — for the multitasking cost</div>
+<div data-i18n-html="article_5-minute-morning-habit_p93"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 7, 2026 (metadata and changelog only).</em></div>

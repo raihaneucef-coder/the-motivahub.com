@@ -130,4 +130,4 @@ relatedArticles:
 
 <div data-i18n-html="article_mindset-etat-esprit_p42"><strong>Ready to change your mindset?</strong> Start with our <a href="/30-days-discipline/">30 Days of Discipline</a> — thirty days to forge a tougher mind — and use our <a href="/tracker/">Habit Tracker</a> to build the routines that hold your new mindset in place.</div>
 
-<div data-i18n-html="article_mindset-etat-esprit_p44"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/growth-mindset-rewire/">Growth Mindset: Rewire Your Brain</a> · <a href="/journal/comment-devenir-mentalement-inebranlable/">How to Become Mentally Unbreakable</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Habits: The 90-Day Test</a></div>
+<div data-i18n-html="article_mindset-etat-esprit_p44"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/growth-mindset-rewire/">Growth Mindset: Rewire Your Brain</a> · <a href="/journal/comment-devenir-mentalement-inebranlable/">How to Become Mentally Unbreakable</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Habits: The 90-Day Test That Made Them Stick</a></div>

@@ -58,7 +58,7 @@ relatedArticles:
   - "environnement-beat-volonte"
   - "habit-stacking-made-simple"
   - "habit-stacking-routine"
-  - "how-to-read-30-books-a-year"
+  - "two-minute-threshold"
 ---
 
 <div data-i18n-html="article_2-minute-rule-system_p2">James Clear's 2-minute rule is the most misunderstood idea in habit science. It is not a productivity hack. It is a complete system of identity, design, and recovery. Here is the full architecture — including what to do when it stops working.</div>

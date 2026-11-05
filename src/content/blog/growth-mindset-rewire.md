@@ -131,4 +131,4 @@ relatedArticles:
 
 <div data-i18n-html="article_growth-mindset-rewire_p39"><strong>Ready to build your growth mindset?</strong> Start with our <a href="/30-days-discipline/">30 Days of Discipline</a> — a daily challenge that rewires your thinking through action. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>
 
-<div data-i18n-html="article_growth-mindset-rewire_p41"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based 90-Day Test</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>
+<div data-i18n-html="article_growth-mindset-rewire_p41"><strong>Related reads on Motiva Hub:</strong> <a href="/journal/mindset-etat-esprit/">Mindset, état d'esprit</a> · <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Habits: The 90-Day Test That Made Them Stick</a> · <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a></div>

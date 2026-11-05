@@ -1,8 +1,8 @@
 ---
-title: "Identity-Based Goals: The One Change That Made My Habits Stick"
+title: "Identity-Based Habits: The 90-Day Test That Made Them Stick"
 seoTitle: "Identity-Based Habits: What Made Them Stick"
 description: "Goal-based habits fail because the goal is external. Identity-based habits stick because you become someone. I tested this for 90 days — here's the evidence."
-titleFr: "Objectifs identitaires : le seul changement qui a fait que mes habitudes tiennent"
+titleFr: "Habitudes identitaires : le test de 90 jours qui a fait tenir mes habitudes"
 seoTitleFr: "Habitudes identitaires : le test qui les fait tenir"
 descriptionFr: "Les habitudes d'objectifs échouent, les habitudes identitaires tiennent. Mon test de 90 jours : la différence, les preuves, et comment l'appliquer."
 pubDate: 2026-09-05
@@ -34,7 +34,7 @@ faq:
   - q: "How do you build an identity-based habit?"
     a: "Three steps: 1) Decide the type of person you want to be. 2) Prove it with small actions (the 2-minute version). 3) Every action is a vote for that identity. Start with 'I want to become someone who reads daily,' not 'I want to read 30 books.'"
   - q: "How long does identity change take?"
-    a: "Identity shifts in 30-90 days if you consistently vote for it. The shift isn't dramatic — it's a quiet realization. One day you notice you stopped debating whether to read. You just read. That's the identity shift."
+    a: "In my test, the internal debating stopped somewhere between day 30 and day 60 — n = 1, self-recorded, not a study. Don't generalize it: no research has measured identity change directly, and the most-cited number (66 days, Lally et al., 2010) describes habit automaticity, not identity. Watch for ease instead of a date — the day you notice you no longer debate whether to read, you just read."
   - q: "Can you have multiple identity goals?"
     a: "Yes — but stack them. Build the first identity (e.g., 'I'm a reader') to automaticity before adding the second ('I'm a writer'). Each new identity compounds on the last. Trying to build three at once is a recipe for none."
 faqFr:
@@ -43,7 +43,7 @@ faqFr:
   - q: "Comment construire une habitude basée sur l'identité ?"
     a: "Trois étapes : 1) décidez du type de personne que vous voulez être ; 2) prouvez-le par des petites actions (la version 2 minutes) ; 3) chaque action est un vote pour cette identité. Commencez par « je veux devenir quelqu'un qui lit chaque jour », pas par « je veux lire 30 livres »."
   - q: "Combien de temps pour changer d'identité ?"
-    a: "L'identité bascule en 30 à 90 jours si vous votez régulièrement pour elle. Le basculement n'a rien de dramatique — c'est une réalisation tranquille. Un jour, vous remarquez que vous ne débattez plus pour savoir si vous devez lire. Vous lisez. C'est le basculement identitaire."
+    a: "Dans mon test, le débat intérieur s'est arrêté quelque part entre le jour 30 et le jour 60 — n = 1, auto-enregistré, pas une étude. Ne généralisez pas : aucune recherche n'a mesuré directement un changement d'identité, et le chiffre le plus cité (66 jours, Lally et al., 2010) décrit l'automatisation d'une habitude, pas l'identité. Surveillez la facilité plutôt qu'une date — le jour où vous remarquez que vous ne débattez plus pour savoir si vous devez lire, vous lisez."
   - q: "Peut-on poursuivre plusieurs objectifs d'identité ?"
     a: "Oui — mais empilez-les. Construisez la première identité (par exemple « je suis un lecteur ») jusqu'à l'automatisme avant d'ajouter la deuxième (« je suis un écrivain »). Chaque nouvelle identité se compose sur la précédente. En construire trois à la fois, c'est la recette pour n'en obtenir aucune."
 relatedArticles:
@@ -86,7 +86,7 @@ relatedArticles:
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p15">In March 2026, I read James Clear's <em>Atomic Habits</em> again. The fourth time. But this time I caught something I'd missed before:</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p16"><blockquote>"You do not rise to the level of your goals. You fall to the level of your systems. But first, you must decide the type of person you want to become."</blockquote></div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p16"><blockquote>"You do not rise to the level of your goals. You fall to the level of your systems."</blockquote></div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p17">This is the identity-first principle. You don't just build habits. You decide who you are. The habits follow.</div>
 
@@ -178,7 +178,7 @@ Write 100 articles. Vote: 10,000.</div>
 <div data-i18n-html="article_identity-based-habits-90-day-test_p52"><strong>Mistake 1: "I'll become a perfect person."</strong>
 Tried to add 5 new identities at once. Failed by week 2.</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p53"><strong>Fix:</strong> One identity at a time. Build the first to automaticity. Add the next. The first takes 90 days. The second takes 60. The third takes 45. They compound.</div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p53"><strong>Fix:</strong> One identity at a time. Build the first until it runs by itself, then add the next. In my log, the first identity took the full 90 days, and the two that came after were easier to start than the first. Treat that as three data points from one person — not a countdown to expect.</div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p54"><strong>Mistake 2: "I'll vote once and call it good."</strong>
 Wrote one article. Felt accomplished. Stopped writing.</div>
@@ -223,8 +223,8 @@ Every day, do the smallest vote. Even when you don't want to. Especially when yo
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p68">The vote count IS the progress. Outcomes are bonuses.</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p69"><strong>Step 5: Wait for the identity shift.</strong>
-After 30-90 days, you'll notice you stopped debating. The vote became automatic. The identity became real.</div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p69"><strong>Step 5: Notice the identity shift.</strong>
+For me, the shift appeared somewhere between day 30 and day 60 — but nothing has measured how long identity change takes, so don't hold my dates. The signal isn't a calendar. It's the day the debating stops.</div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p70"><h2>Counterintuitive Insights (What I Learned)</h2></div>
 
@@ -258,7 +258,7 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p82">3. <strong>Vote daily.</strong> Use a paper calendar. X for each day. Don't break the chain.</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p83">4. <strong>Notice the shift.</strong> Around day 30-60, you'll stop debating. That's the shift.</div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p83">4. <strong>Notice the shift.</strong> Mine landed around day 30-60. Yours may come earlier or later — the marker is the absence of debating, not the date.</div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p84">5. <strong>Stack the next identity.</strong> Once the first is automatic, add the second. They compound.</div>
 
@@ -272,7 +272,7 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p89">I am a writer. I am a reader. I am someone who moves daily. These aren't aspirations. They're facts. Built through hundreds of votes over 90 days.</div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p90">If you try this, expect the same shift. The first 30 days are hard. The next 30 are easier. The last 30 are automatic.</div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p90">If you try this, expect a shift — not my schedule. What I got: a hard first month, an easier second, a third that started to feel automatic. Your data will be your own.</div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p91">After 90 days, you won't debate your habits anymore. You'll just have them.</div>
 
@@ -291,16 +291,15 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p96"><em>Youssef Raihane spent a decade failing at goals. He spent 90 days building identities. He hasn't written a 90-day streak since. The votes accumulated. The identity shifted. The habits stuck.</em></div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p97"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 7, 2026 (refreshed with the 2-minute rule as a complete system and the missed-day recovery protocol).</em></div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p97"><em>Last updated: November 4, 2026 — editorial pass: personal timelines reframed as observations, the Clear quote trimmed to its verified wording, and the sources list corrected. Earlier updates: October 26, 2026 (accuracy review); September 7, 2026 (metadata and changelog only).</em></div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p98"><h2>Sources</h2></div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p99">1. <em>James Clear</em> — <em>Atomic Habits</em> (2018) — the identity-based habit framework
 2. <em>BJ Fogg</em> — <em>Tiny Habits</em> (2019) — for the small-vote approach
 3. <em>Carol Dweck</em> — <em>Mindset</em> (2006) — for the identity-level growth orientation
-4. <em>Roy Baumeister</em> — <em>Willpower</em> (2011) — for the ego depletion research
-5. <em>James Clear</em> — <a href="https://jamesclear.com">jamesclear.com</a> — for the original identity articles
-6. <em>Stanford Behavior Design Lab</em> — for the habit research</div>
+4. <em>Roy Baumeister & John Tierney</em> — <em>Willpower</em> (2011) — the ego-depletion model this article deliberately does not lean on: a 23-lab registered replication (Hagger et al., 2016) found no such effect. One more reason to build on identity, not willpower
+5. <em>James Clear</em> — <a href="https://jamesclear.com">jamesclear.com</a> — for the original identity articles</div>
 
 <hr />
 

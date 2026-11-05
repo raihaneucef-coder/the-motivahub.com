@@ -1,7 +1,7 @@
 ---
 title: "The Two-Minute Rule: The Simple Secret to Building Better Habits"
 seoTitle: "The Two-Minute Rule: Build Better Habits"
-description: "Discover the two-minute rule that has helped millions start new habits. Simple, powerful, and it works every single time — the smallest possible first step."
+description: "The 2-minute rule, explained: scale any habit down to less than two minutes so starting feels easy. Simple, powerful — the smallest possible first step."
 titleFr: "La Règle des 2 Minutes : Construire des Habitudes en 120 Secondes"
 seoTitleFr: "La règle des 2 minutes : des habitudes en 120 s"
 descriptionFr: "La règle des 2 minutes est la clé pour construire des habitudes durables. Commencez si petit que c'est impossible d'échouer, puis restez constant."
@@ -30,14 +30,14 @@ faq:
   - q: "Why does the 2-minute rule work for procrastination?"
     a: "Procrastination is an activation-energy problem — starting feels heavy. A 2-minute version makes the barrier so low your brain can't generate a convincing excuse. Once you start, the Zeigarnik effect (desire to finish begun tasks) usually carries you well past 2 minutes."
   - q: "How do you apply the 2-minute rule step by step?"
-    a: "1) Write the habit you want. 2) Scale it to a version taking under 120 seconds (put on running shoes = exercise). 3) Do only that version for 2 weeks until it feels automatic. 4) Gradually expand duration. Never skip the 2-minute version even on bad days."
+    a: "1) Write the habit you want. 2) Scale it to a version taking under 120 seconds (put on running shoes = exercise). 3) Do that version daily until showing up stops feeling like a decision. 4) Let the session grow longer — but keep the two-minute entry. It is the doorway, not a training wheel. Never skip the 2-minute version even on bad days."
 faqFr:
   - q: "Qu'est-ce que la règle des 2 minutes ?"
     a: "La règle des 2 minutes dit : quand vous démarrez une nouvelle habitude, elle doit prendre moins de deux minutes. Au lieu de « lire 30 minutes », réduisez à « lire une page ». Le but est de maîtriser le fait de se présenter avant d'optimiser la durée. James Clear a popularisé cela dans Atomic Habits."
   - q: "Pourquoi la règle des 2 minutes fonctionne-t-elle contre la procrastination ?"
     a: "La procrastination est un problème d'énergie d'activation — commencer paraît lourd. La version de 2 minutes abaisse la barrière au point que votre cerveau ne peut pas produire d'excuse crédible. Une fois lancé, l'effet Zeigarnik (le désir de terminer ce qui est commencé) vous porte généralement bien au-delà des 2 minutes."
   - q: "Comment appliquer la règle des 2 minutes étape par étape ?"
-    a: "1) Écrivez l'habitude voulue. 2) Réduisez-la à une version de moins de 120 secondes (enfiler ses chaussures de course = sport). 3) Faites seulement cette version pendant 2 semaines, jusqu'à ce qu'elle paraisse automatique. 4) Allongez progressivement la durée. Ne sautez jamais la version de 2 minutes, même les mauvais jours."
+    a: "1) Écrivez l'habitude voulue. 2) Réduisez-la à une version de moins de 120 secondes (enfiler ses chaussures de course = sport). 3) Faites cette version chaque jour, jusqu'à ce que se présenter ne relève plus d'une décision. 4) Laissez la séance s'allonger — mais gardez l'entrée de deux minutes. C'est la porte d'entrée, pas une roue d'apprentissage. Ne sautez jamais la version de 2 minutes, même les mauvais jours."
 
 relatedArticles:
   - "identity-based-habits-90-day-test"
@@ -46,7 +46,7 @@ relatedArticles:
   - "missed-day-protocol"
 ---
 
-<div data-i18n-html="article_regle-deux-minutes_p2">Discover the two-minute rule that has helped millions start new habits. Simple, powerful, and works every single time.</div>
+<div data-i18n-html="article_regle-deux-minutes_p2">The two-minute rule: the smallest possible first step. Simple and powerful.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p3">Most habits fail because they start too big. You want to read 30 pages, so you do not read at all. You want to run 5 km, so you do not even put on your shoes. The ambition kills the habit before it starts.</div>
 
@@ -75,7 +75,7 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-deux-minutes_p13"><h2>The Science Behind It</h2></div>
 
-<div data-i18n-html="article_regle-deux-minutes_p14">The principle is simple: once a task is started, your brain treats it as an open loop that demands closure. When you put on your running shoes, your brain begins the "running" sequence. Once activated, it is easier to continue than to stop.</div>
+<div data-i18n-html="article_regle-deux-minutes_p14">The principle is simple: once a task is started, most people find it easier to keep going than to begin from zero. When you put on your running shoes, your brain begins the "running" sequence. Once activated, continuing costs less than restarting.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p15">This is called the <strong>Zeigarnik Effect</strong> — the tendency for incomplete tasks to occupy your mind more than completed ones. When you start something, your brain wants to finish it. By starting small, you trigger this effect without triggering resistance.</div>
 
@@ -90,14 +90,14 @@ Ask yourself: "What is the smallest version of this habit?" Then do that version
 <div data-i18n-html="article_regle-deux-minutes_p19"><h3>3. Do It Daily</h3>
 The two-minute habit must happen every day. Not most days. Every day. Consistency is more important than duration.</div>
 
-<div data-i18n-html="article_regle-deux-minutes_p20"><h3>4. Upgrade Gradually</h3>
-After two weeks of the two-minute version, increase it slightly. One page becomes two pages. One push-up becomes five. Five minutes of meditation becomes ten.</div>
+<div data-i18n-html="article_regle-deux-minutes_p20"><h3>4. Let It Grow — Without Losing the Doorway</h3>
+Once the two-minute version feels boring, let it grow naturally: one page becomes two, one push-up becomes five. The session can get longer; the entry point stays two minutes. The doorway is not a phase you pass through — it is how you start every time.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p21">The two-minute rule is the entry point. You do not have to stay there.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p22"><h2>Common Mistakes</h2></div>
 
-<div data-i18n-html="article_regle-deux-minutes_p23"><strong>Mistake 1: Staying at two minutes forever.</strong> The two-minute rule is a starting point, not a destination. Use it to build the habit, then expand.</div>
+<div data-i18n-html="article_regle-deux-minutes_p23"><strong>Mistake 1: Retiring the two-minute version once the habit feels settled.</strong> The doorway is not a starter motor you remove after the engine runs. Expand the hallway, never close the doorway. Our <a href="/journal/2-minute-rule-system/">2-Minute Rule system</a> explains why the entry point is permanent.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p24"><strong>Mistake 2: Skipping days.</strong> The habit must happen daily, even if it is just two minutes. A two-minute habit done daily beats a one-hour habit done occasionally.</div>
 
@@ -111,7 +111,7 @@ After two weeks of the two-minute version, increase it slightly. One page become
 
 <div data-i18n-html="article_regle-deux-minutes_p29"><strong>Two-minute approach:</strong> "I will sit on my cushion and breathe 5 times every morning." (So easy you cannot say no.)</div>
 
-<div data-i18n-html="article_regle-deux-minutes_p30">After two weeks, you are sitting on the cushion every day. The behavior is automatic. Now you naturally extend to 5 minutes. Then 10. Then 20. The habit built itself.</div>
+<div data-i18n-html="article_regle-deux-minutes_p30">After two weeks, you are sitting on the cushion every day — showing up has stopped being a decision (in Lally et al., 2010 the study's median estimate was 66 days, with substantial variation, so keep the timeline modest). From there you naturally extend to 5 minutes. Then 10. Then 20.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p31"><h2>The Compound Effect</h2></div>
 

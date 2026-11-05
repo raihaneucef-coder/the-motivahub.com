@@ -6,7 +6,7 @@ titleFr: "J'ai testé 12 routines matinales pendant 14 jours. Seules 3 ont tenu.
 seoTitleFr: "12 routines matinales testées pendant 14 jours"
 descriptionFr: "Quatorze jours, douze routines, quatre archétypes. Les routines matinales qui marchent vraiment — et celles qui ne sont que du bien-être coûteux."
 pubDate: 2026-09-03
-updatedDate: 2026-09-21
+updatedDate: 2026-11-04
 readTime: "16 MIN"
 image: "/images/blog/morning-routines-12-tested-1.jpg"
 imageAlt: "Youssef Raihane - morning routines 12 tested concept"
@@ -237,4 +237,4 @@ relatedArticles:
 
 <div data-i18n-html="article_morning-routines-12-tested_p88">The 14 days are not enough to form the habit. They are enough to find the routine. The next 60 days are where the routine becomes the person. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the protocol that makes the doorway automatic. The morning routine is one version of the doorway. The discipline is the house.</div>
 
-<div data-i18n-html="article_morning-routines-12-tested_p89"><em>Last updated: September 7, 2026 — refreshed with the 2-minute rule as a complete system, the missed-day recovery protocol, and the discipline-vs-punishment framework.</em></div>
+<div data-i18n-html="article_morning-routines-12-tested_p89"><em>Last updated: November 4, 2026 — changelog corrected (the September 7 entry described content this update did not add). Recent content revisions: October 22-23, 2026 (quality repairs) and October 30, 2026 (verified sources).</em></div>
