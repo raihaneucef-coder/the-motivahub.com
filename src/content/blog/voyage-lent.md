@@ -71,7 +71,7 @@ Day one you see the landmark. Day eight you discover the Tuesday market where lo
 Beyond weekly-apartment discounts (30-50 percent cheaper than nightly hotel rates), slow travel cuts three hidden expense lines: inter-city transport, tourist-trap restaurants near attractions, and the "last night" splurge when you realise you never tried the local food properly. A month in Chiang Mai at 12 000 THB/month rivals a week in Paris at the same budget, with more lived experience per euro.</div>
 
 <div data-i18n-html="article_voyage-lent_p12"><h3>5. Fewer Flights, Lower Footprint</h3>
-A single long-haul round-trip emits roughly 1.6 tonnes CO₂ per passenger. Replacing six intra-Europe short-haul flights (0.15-0.3 t each) with one extended stay cuts transport emissions by 50-70 percent before you even consider slower trains or local sourcing.</div>
+A single long-haul round-trip can emit roughly 1.6 tonnes CO₂ per passenger, while each intra-Europe short-haul round-trip adds about 0.15-0.3 t. Choosing fewer of them and staying longer in one place can reduce your transport emissions, depending on the routes and alternatives — before you even consider slower trains or local sourcing.</div>
 
 <div data-i18n-html="article_voyage-lent_p13"><h2>How to Travel Slowly</h2></div>
 

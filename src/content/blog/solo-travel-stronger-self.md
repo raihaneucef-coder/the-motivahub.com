@@ -47,7 +47,7 @@ relatedArticles:
   - "voyage-budget"
 ---
 
-<div data-i18n-html="article_solo-travel-stronger-self_p2">Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself.</div>
+<div data-i18n-html="article_solo-travel-stronger-self_p2">Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself. Not sure whether it is worth it? Start with <a href="/journal/voyage-solo/">why everyone should travel alone at least once</a>.</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_h2a"><h2>Alone, you learn about yourself</h2></div>
 
