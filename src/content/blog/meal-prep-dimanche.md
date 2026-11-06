@@ -4,12 +4,13 @@ seoTitle: "Meal Prep Sunday: Eat Healthy All Week in 2 Hours"
 description: "Meal prepping saves time, money and willpower. The simple Sunday system — two hours of prep that makes healthy eating effortless all week."
 titleFr: "Meal Prep dimanche : comment manger sain toute la semaine en 2 heures"
 seoTitleFr: "Meal prep du dimanche : manger sain 2 h par semaine"
-descriptionFr: "Le meal prep te fait gagner du temps, de l'argent et de la volonté. Découvre le système simple qui rend l'alimentation saine sans effort."
+descriptionFr: "Le meal-prep vous fait gagner du temps, de l'argent et de la volonté. Découvrez le système simple qui rend l'alimentation saine sans effort."
 pubDate: 2026-08-24
 updatedDate: 2026-10-26
 readTime: "6 MIN"
 image: "/images/blog/meal-prep-dimanche-1.jpg"
-imageAlt: "Youssef Raihane - meal prep dimanche concept"
+imageAlt: "Rows of stacked meal-prep containers filled with rice, stewed meat and vegetables on a worktop"
+imageAltFr: "Rangées de boîtes de meal-prep empilées, remplies de riz, viande mijotée et légumes, sur un plan de travail"
 topic: "Nutrition"
 keywords:
   - "meal prep for the week"
@@ -23,7 +24,7 @@ keywords:
 tags:
   - "nutrition"
   - "how-to"
-wordCount: 447
+wordCount: 471
 faq:
   - q: "How do I meal prep for the week in 2 hours?"
     a: "Sunday workflow: 1) Preheat oven, season proteins (30 min). 2) While cooking, wash and chop vegetables (20 min). 3) Start grains in a pot (20 min passive). 4) Assemble 5 containers: protein + grain + vegetables + sauce (20 min). You now have Mon-Fri lunches and need only 10 min for dinners."
@@ -51,6 +52,14 @@ relatedArticles:
 <div data-i18n-html="article_meal-prep-dimanche_p3">The reason most people eat poorly is not lack of knowledge — it is lack of preparation. When you are hungry and there is no healthy food ready, you order delivery. Meal prep eliminates this problem.</div>
 
 
+<div data-i18n-html="article_meal-prep-dimanche_p10"><h2>Benefits of Meal Prepping</h2></div>
+
+<div data-i18n-html="article_meal-prep-dimanche_p11">1. <strong>Saves time</strong> — two hours on Sunday buys back the daily "what now?" scramble
+2. <strong>Saves money</strong> — less food waste, fewer takeout orders
+3. <strong>Reduces decision fatigue</strong> — no daily "what should I eat?" decisions
+4. <strong>Improves nutrition</strong> — you control the ingredients and portions
+5. <strong>Supports goals</strong> — easier to hit protein, calorie, and nutrient targets</div>
+
 <div data-i18n-html="article_meal-prep-dimanche_p4"><h2>The Sunday System</h2></div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p5"><h3>Step 1: Plan (10 minutes)</h3>
@@ -73,21 +82,12 @@ Buy only what you need for the planned meals. A list prevents impulse buys and f
 - Portion everything into containers</div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p9"><h3>Step 4: Store</h3>
-Refrigerate meals for the first 3 days. Freeze the rest. Each morning, grab what you need.</div>
+Refrigerate the meals for the first three days — that is the official window for cooked leftovers. Freeze the rest. Each morning, grab what you need.</div>
 
-<div data-i18n-html="article_meal-prep-dimanche_p16">One safety rule the two-hour system depends on: cooked meals stay safely edible in the fridge for about 3 to 4 days at or below 4°C, which is exactly why the plan refrigerates the first few days and freezes the rest. Cool food to room temperature, then refrigerate within two hours, keep portions in shallow containers so they chill fast, and reheat only what you will eat now. Good prep is not just efficient — it is food you can still trust on Thursday.</div>
+<div data-i18n-html="article_meal-prep-dimanche_p16">One safety rule the two-hour system depends on. Official guidance is specific: most cooked leftovers keep in the fridge for <strong>3 to 4 days</strong> at 4 °C (40 °F) or below, and freeze well for 3 to 4 months (<a href="https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety" target="_blank" rel="noopener">USDA FSIS, Leftovers and Food Safety</a>) — which is exactly why the plan refrigerates Monday to Wednesday and freezes the rest. Get the food down to the fridge within two hours of cooking, or within one hour when it is hot out (above 32 °C / 90 °F), split large portions into shallow containers so they cool fast, and reheat only what you will eat now, until it is steaming hot all the way through (<a href="https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe" target="_blank" rel="noopener">USDA, Steps to Keep Food Safe</a>). Good prep is not just efficient — it is food you can still trust on Thursday.</div>
 
-<div data-i18n-html="article_meal-prep-dimanche_p10"><h2>Benefits of Meal Prepping</h2></div>
-
-<div data-i18n-html="article_meal-prep-dimanche_p11">1. <strong>Saves time</strong> — 2 hours on Sunday = 10+ hours saved during the week
-2. <strong>Saves money</strong> — less food waste, fewer takeout orders
-3. <strong>Reduces decision fatigue</strong> — no daily "what should I eat?" decisions
-4. <strong>Improves nutrition</strong> — you control the ingredients and portions
-5. <strong>Supports goals</strong> — easier to hit protein, calorie, and nutrient targets</div>
+<div data-i18n-html="article_meal-prep-dimanche_p15">The two-hour version (illustrative timings): start the pot of rice or grains; roast a full tray of vegetables while it cooks; one protein in the oven or pan at the same time. Chop everything first, season once, then assemble five boxes while the last batch cools — lids on as soon as the food stops steaming, one box packed for the road. The Sunday investment is not the food. It is removing the decision on the Wednesday evening when willpower is already spent.</div>
 
 <div data-i18n-html="article_meal-prep-dimanche_p12"><blockquote><em>Failing to plan is planning to fail. — Alan Lakein</em></blockquote></div>
-
-<div data-i18n-html="article_meal-prep-dimanche_p15">The two-hour version (illustrative timings): start the pot of rice or grains; roast a full tray of vegetables while it cooks; one protein in the oven or pan at the same time. Chop everything first, season once, then assemble five boxes while the last batch cools — lids off in the fridge, one box packed for the road. The Sunday investment is not the food. It is removing the decision on the Wednesday evening when willpower is already spent.</div>
-
 
 <div data-i18n-html="article_meal-prep-dimanche_p14"><strong>Start meal prepping today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you the habits of healthy eating. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

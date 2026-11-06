@@ -1,15 +1,17 @@
 ---
 title: "Strength Is a Skill, Not a Talent"
+seoTitle: "Strength Is a Skill, Not a Talent: How to Build It"
 description: "Strength is not given — it is practiced. Every rep is a lesson in patience and form. The skill you build when nobody is watching and nothing is easy."
-titleFr: "La Force est une Compétence : Développer la Force Mentale"
-seoTitleFr: "Force mentale : une compétence, pas un don"
-descriptionFr: "La force mentale est une compétence qui se développe. Découvrez les exercices pratiques pour renforcer votre résilience."
+titleFr: "La force est une compétence, pas un don"
+seoTitleFr: "La force est une compétence : comment la construire"
+descriptionFr: "La force ne se reçoit pas, elle se travaille. Chaque répétition est une leçon de patience et de technique, une compétence bâtie loin des regards."
 pubDate: 2026-08-19
 updatedDate: 2026-10-26
 topic: "Sport"
 readTime: "5 MIN"
 image: "/images/blog/strength-is-a-skill-3.jpg"
-imageAlt: "An athlete doing weighted push-ups between kettlebells in a gym"
+imageAlt: "An athlete holding a push-up gripping the handles of two kettlebells in a gym"
+imageAltFr: "Un athlète en position de pompes, agrippé aux poignées de deux kettlebells dans une salle"
 featured: false
 draft: false
 keywords:
@@ -23,21 +25,21 @@ keywords:
   - "perfect form over heavy weight"
 tags:
   - "sport"
-wordCount: 353
+wordCount: 407
 faq:
   - q: "Is strength a skill or a natural talent?"
-    a: "Strength is a skill, specifically a neural adaptation. Your brain learns to recruit more muscle fibers simultaneously, fire them faster, and coordinate movement patterns. This is why untrained people can get 40% stronger in 8 weeks without visible muscle growth: the nervous system learns strength like any skill."
+    a: "Strength is a skill — first and foremost a neural one. Your nervous system learns to recruit more motor units at once, fire them faster and coordinate the pattern. That is why the strength gains in the first weeks of training are largely skill learning rather than new muscle, a point made in the review of neural adaptations to resistive exercise (Gabriel et al., <a href=\"https://doi.org/10.2165/00007256-200636020-00004\">Sports Medicine 2006</a>). How much stronger, and how fast, depends on the person, the lift and the program — there is no fixed percentage to promise."
   - q: "How do I get stronger if I'm naturally skinny or small?"
-    a: "Genetics affect muscle shape and insertion points, not your ability to gain strength. The process is universal: progressive overload (add weight/reps weekly), adequate protein (1.6g/kg), and sleep (7+ hrs). Beginners with bad genetics often progress FASTER initially due to newbie neural gains."
+    a: "Genetics influence muscle shape and insertion points far more than your ability to get stronger. The process is the same for everyone: progressive overload (add a rep or a little weight each week), enough protein (about 1.6 g per kg — see <a href=\"/journal/body-recomposition-guide/\">the protein numbers</a>), and sleep. And because the early gains are neural, a beginner who is small or thin usually progresses quickly at first, whatever the frame they started with."
   - q: "Why does perfect form matter more than heavier weight?"
-    a: "Form IS the skill. A squat performed correctly trains 200+ muscles in coordination; performed incorrectly, it loads joints and reinforces bad motor patterns. You are building a movement groove in your nervous system: once wired incorrectly, it takes 10x longer to fix than to learn right initially."
+    a: "Form is the skill. A squat done well rehearses the whole movement pattern under load; done badly, it loads the joints and practises the wrong groove — and motor patterns are sticky, so re-learning costs far more time than learning correctly in the first place. It is also how you stay in the gym long enough to get strong: the programme that is boring and pain-free beats the one that ends in an injury in week six."
 faqFr:
   - q: "La force est-elle une compétence ou un don naturel ?"
-    a: "La force est une compétence, plus précisément une adaptation neuronale. Votre cerveau apprend à recruter plus de fibres musculaires simultanément, à les activer plus vite et à coordonner les schémas de mouvement. C'est pourquoi des personnes non entraînées peuvent gagner 40 % de force en 8 semaines sans croissance musculaire visible : le système nerveux apprend la force comme n'importe quelle compétence."
+    a: "La force est une compétence — d'abord neuronale. Votre système nerveux apprend à recruter plus d'unités motrices à la fois, à les activer plus vite et à coordonner le schéma de mouvement. C'est pourquoi les gains des premières semaines relèvent surtout de l'apprentissage plutôt que de nouveau muscle : c'est le constat de la revue sur les adaptations neuronales à l'exercice en résistance (Gabriel et al., <a href=\"https://doi.org/10.2165/00007256-200636020-00004\">Sports Medicine 2006</a>). Combien plus fort, et à quelle vitesse, dépend de la personne, de l'exercice et du programme — aucun pourcentage fixe à promettre."
   - q: "Comment devenir plus fort quand on est naturellement maigre ou petit ?"
-    a: "La génétique influe sur la forme des muscles et sur les points d'insertion, pas sur votre capacité à gagner de la force. Le processus est universel : surcharge progressive (ajouter du poids ou des répétitions chaque semaine), protéines suffisantes (1,6 g/kg) et sommeil (7 heures et plus). Les débutants mal lotis génétiquement progressent souvent PLUS VITE au début grâce aux gains neuronaux du novice."
+    a: "La génétique influe sur la forme des muscles et leurs points d'insertion bien plus que sur votre capacité à devenir plus fort. Le processus est le même pour tous : surcharge progressive (ajouter une répétition ou un peu de charge chaque semaine), protéines suffisantes (environ 1,6 g par kg — voir <a href=\"/fr/journal/body-recomposition-guide/\">les chiffres des protéines</a>) et sommeil. Et comme les premiers gains sont neuronaux, un débutant petit ou maigre progresse généralement vite au départ, quelle que soit la carcasse de départ."
   - q: "Pourquoi la forme parfaite compte-t-elle plus que la charge lourde ?"
-    a: "La forme EST la compétence. Un squat exécuté correctement entraîne plus de 200 muscles en coordination ; exécuté incorrectement, il charge les articulations et renforce de mauvais schémas moteurs. Vous gravez un sillon de mouvement dans votre système nerveux : une fois câblé incorrectement, il faut dix fois plus de temps pour corriger que pour apprendre bien dès le départ."
+    a: "La forme, c'est la compétence. Un squat bien exécuté répète le schéma de mouvement complet sous charge ; mal exécuté, il charge les articulations et travaille le mauvais sillon — et les schémas moteurs sont collants : réapprendre coûte bien plus de temps qu'apprendre correctement du premier coup. C'est aussi ce qui vous garde à la salle assez longtemps pour devenir fort : un programme ennuyeux et sans douleur bat celui qui finit en blessure à la sixième semaine."
 
 relatedArticles:
   - "consistance-bat-intensite"
@@ -71,7 +73,7 @@ relatedArticles:
 
 <div data-i18n-html="article_strength-is-a-skill_h2d"><h2>Why beginners get stronger first</h2></div>
 
-<div data-i18n-html="article_strength-is-a-skill_p11">Beginners get stronger before their muscles visibly grow. That early strength is largely neural: the nervous system learns to recruit more motor units and fire them in a coordinated pattern, which is why a new lifter can add weight for weeks without much visible change. The lift is a motor pattern you rehearse, not just a load you endure — which is why technique work counts as training, not as a warm-up.</div>
+<div data-i18n-html="article_strength-is-a-skill_p11">Beginners get stronger before their muscles visibly grow. That early strength is largely neural: the nervous system learns to recruit more motor units and fire them in a coordinated pattern, which is why a new lifter can add weight for weeks without much visible change. The lift is a motor pattern you rehearse, not just a load you endure — which is why technique work counts as training, not as a warm-up. That gap — strength climbing while the mirror barely moves — is normal for the first months. When how you look becomes the goal, the numbers have to change on purpose: see <a href="/journal/body-recomposition-guide/">the body recomposition guide</a>.</div>
 
 <div data-i18n-html="article_strength-is-a-skill_h2e"><h2>A safe week-one template</h2></div>
 

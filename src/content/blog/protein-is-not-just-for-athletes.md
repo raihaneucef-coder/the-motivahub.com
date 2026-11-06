@@ -10,7 +10,8 @@ updatedDate: 2026-10-26
 topic: "Nutrition"
 readTime: "4 MIN"
 image: "/images/blog/protein-is-not-just-for-athletes.jpg"
-imageAlt: "Youssef Raihane - protein is not just for athletes concept"
+imageAlt: "Overhead of a blue bowl with zucchini noodles, salad leaves, cherry tomatoes, a soft-boiled egg and avocado, surrounded by watermelon radish slices and white blossoms on a rustic wooden table"
+imageAltFr: "Vue de dessus d'un bol bleu : nouilles de courgette, feuilles de salade, tomates cerises, œuf mollet et avocat, entouré de tranches de radis melon et de fleurs blanches sur une table en bois rustique"
 featured: false
 draft: false
 keywords:
@@ -24,17 +25,17 @@ keywords:
   - "cheap high protein foods"
 tags:
   - "nutrition"
-wordCount: 354
+wordCount: 395
 faq:
   - q: "Why does protein matter if you're not an athlete?"
-    a: "Protein is every cell's building material: immune antibodies, gut lining, neurotransmitters, hair, skin. After 30, you lose 3-8% muscle per decade (sarcopenia) unless protein is adequate. Non-athletes need 1.0-1.2g/kg (vs 0.8 RDA) to preserve functional strength and metabolic health."
+    a: "Protein is the building material of every cell — immune antibodies, gut lining, neurotransmitters, hair and skin. Muscle mass and strength decline with age, and the decline gets steeper from about 65 on, which is why protein matters outside sport too. For adults over 65, the PROT-AGE position paper recommends 1.0-1.2 g/kg per day, above the 0.8 g/kg RDA — and at least 1.2 g/kg for those who train (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23867520/\">Bauer et al., 2013</a>). Healthy younger adults do not need that much; 0.8-1.0 g/kg covers them."
   - q: "How much protein do I need per day?"
     a: "Sedentary adults: 0.8g per kg bodyweight minimum. Active adults: 1.2-1.6g/kg. If you weigh 70kg, that's 56-112g daily. Distribute across meals (25-35g per serving) — the body can't store protein like fat, so every meal needs a source."
   - q: "What are the cheapest high-protein foods?"
     a: "1) Eggs (6g each, ~0.20€/unit). 2) Lentils (18g per cooked cup, cheapest per gram). 3) Canned sardines (25g/tin + omega-3s). 4) Greek yogurt (15g/100g). 5) Chicken thighs (26g/100g, cheaper than breast). 6) Cottage cheese. 7) Peanut butter (8g per tbsp)."
 faqFr:
   - q: "Pourquoi les protéines comptent-elles si vous n'êtes pas athlète ?"
-    a: "La protéine est le matériau de construction de chaque cellule : anticorps, paroi intestinale, neurotransmetteurs, cheveux, peau. Après 30 ans, on perd 3 à 8 % de muscle par décennie (sarcopénie) si l'apport protéique est insuffisant. Les non-athlètes ont besoin de 1,0 à 1,2 g/kg (contre 0,8 g/kg en apport conseillé minimal) pour préserver la force fonctionnelle et la santé métabolique."
+    a: "La protéine est le matériau de construction de chaque cellule : anticorps, paroi intestinale, neurotransmetteurs, cheveux, peau. La masse et la force musculaires déclinent avec l'âge, et ce déclin s'accentue à partir d'environ 65 ans — c'est pourquoi les protéines comptent aussi hors du sport. Pour les adultes de plus de 65 ans, le document de position PROT-AGE recommande 1,0 à 1,2 g/kg par jour, au-dessus des 0,8 g/kg de l'apport conseillé — et au moins 1,2 g/kg pour ceux qui s'entraînent (Bauer et al., 2013). L'adulte jeune en bonne santé n'a pas besoin d'autant : 0,8 à 1,0 g/kg lui suffit."
   - q: "De combien de protéines par jour ai-je besoin ?"
     a: "Adulte sédentaire : 0,8 g par kg de poids corporel au minimum. Adulte actif : 1,2 à 1,6 g/kg. À 70 kg, cela fait 56 à 112 g par jour. Répartissez sur les repas (25 à 35 g par prise) — le corps ne peut pas stocker les protéines comme le gras, donc chaque repas a besoin d'une source."
   - q: "Quels sont les aliments riches en protéines les moins chers ?"
@@ -77,10 +78,10 @@ relatedArticles:
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p8">If you do this, you will eat less without trying to eat less. You will keep more of the strength you build. And you will make the hard things — training, focusing, saying no to the extra snack — a little cheaper.</div>
 
+<div data-i18n-html="article_protein-is-not-just-for-athletes_h2e"><h2>With age, it stops being optional</h2></div>
+
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p13">The loss of muscle mass that comes with ageing — sarcopenia — is gradual for a long time and gets noticeably steeper from about 65 on. Protein then becomes a non-negotiable input to slow that decline, not a supplement for the vain. The PROT-AGE Study Group, writing for adults over 65, recommends <strong>1.0 to 1.2 g per kg per day</strong> — above the 0.8 g/kg allowance — and at least 1.2 g/kg for those who keep training, spread across meals rather than stacked at dinner (<a href="https://pubmed.ncbi.nlm.nih.gov/23867520/" target="_blank" rel="noopener">Bauer et al., J Am Med Dir Assoc 2013</a>; <a href="/journal/body-recomposition-guide/">how much protein per day</a>).</div>
+
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p9">Protein is not a supplement. It is a foundation.</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_p10">Build on it, and everything else gets easier.</div>
-
-<div data-i18n-html="article_protein-is-not-just-for-athletes_h2e"><h2>After 40, it stops being optional</h2></div>
-
-<div data-i18n-html="article_protein-is-not-just-for-athletes_p13">After 40, sarcopenia — the natural loss of muscle mass — accelerates at 0.5-1% per year. Protein becomes a non-negotiable input to slow that decline, not a supplement for the vain. Research published in The American Journal of Clinical Nutrition recommends 1.0-1.2 g/kg/day for adults over 50 (versus the RDA 0.8 g/kg for younger adults), distributed evenly across meals to maximize synthesis.</div>
