@@ -23,14 +23,14 @@ tags:
 wordCount: 406
 faq:
   - q: "What is energy management?"
-    a: "Prioritizing when you do work over how long you work. Instead of cramming tasks into every free hour, you schedule demanding tasks during peak energy windows (typically 90 min after waking) and low-energy work (email, admin) during slumps. Based on <a href=\"https://openlibrary.org/search?q=The+Power+of+Full+Engagement+Loehr+Schwartz\" target=\"_blank\" rel=\"noopener\">Tony Schwartz's Energy Management model</a>."
+    a: "Prioritizing when you do work over how long you work. Instead of cramming tasks into every free hour, you schedule demanding tasks during peak energy windows (typically 90 min after waking) and low-energy work (email, admin) during slumps. Based on <a href=\"https://openlibrary.org/works/OL34309474W\" target=\"_blank\" rel=\"noopener\">Tony Schwartz's Energy Management model</a>."
   - q: "Why is time management not enough?"
     a: "Because you can have 8 open hours but only 3 hours of usable mental energy. Scheduling a complex task during a low-energy window guarantees poor output and frustration. Energy management multiplies the quality of every hour by matching task difficulty to alertness level."
   - q: "How do I find my peak energy hours?"
     a: "Track your energy (1-10 scale) every 2 hours for 5 days. Most people discover a pattern: peak (9am-12pm for early risers), dip (2-4pm post-lunch), second wind (5-7pm). Once identified, protect your peak for deep work ruthlessly — no meetings, no email, no scrolling."
 faqFr:
   - q: "Qu'est-ce que la gestion de l'énergie ?"
-    a: "Prioriser le moment où vous travaillez plutôt que la durée de travail. Au lieu de tasser les tâches dans chaque heure libre, vous planifiez les tâches exigeantes pendant les créneaux d'énergie haute (en général 90 minutes après le réveil) et le travail de faible énergie (mails, administration) pendant les creux. Ce modèle vient du <a href=\"https://openlibrary.org/search?q=The+Power+of+Full+Engagement+Loehr+Schwartz\" target=\"_blank\" rel=\"noopener\">travail de Tony Schwartz sur l'énergie</a>."
+    a: "Prioriser le moment où vous travaillez plutôt que la durée de travail. Au lieu de tasser les tâches dans chaque heure libre, vous planifiez les tâches exigeantes pendant les créneaux d'énergie haute (en général 90 minutes après le réveil) et le travail de faible énergie (mails, administration) pendant les creux. Ce modèle vient du <a href=\"https://openlibrary.org/works/OL34309474W\" target=\"_blank\" rel=\"noopener\">travail de Tony Schwartz sur l'énergie</a>."
   - q: "Pourquoi la gestion du temps ne suffit-elle pas ?"
     a: "Parce que vous pouvez avoir 8 heures libres et seulement 3 heures d'énergie mentale utilisable. Planifier une tâche complexe dans un creux garantit un mauvais rendement et de la frustration. La gestion de l'énergie multiplie la qualité de chaque heure en accordant la difficulté de la tâche au niveau de vigilance."
   - q: "Comment trouver mes heures d'énergie maximale ?"
@@ -106,7 +106,7 @@ Purpose fuels persistence. When you know why you are doing something, you find t
 
 <div data-i18n-html="article_gestion-energie_p18"><blockquote><em>Energy, not time, is the fundamental currency of high performance. — Tony Schwartz</em></blockquote></div>
 
-<div data-i18n-html="article_gestion-energie_p21">For provenance, since this page runs on the framework: the four dimensions of energy and the principle "energy, not time" come from Jim Loehr and Tony Schwartz, <a href="https://openlibrary.org/search?q=The+Power+of+Full+Engagement+Loehr+Schwartz" target="_blank" rel="noopener"><em>The Power of Full Engagement</em></a> (2003). The ideas above are simplified from their work — the book is where the reasoning and the actual drills live, if you want to go deeper than the summary.</div>
+<div data-i18n-html="article_gestion-energie_p21">For provenance, since this page runs on the framework: the four dimensions of energy and the principle "energy, not time" come from Jim Loehr and Tony Schwartz, <a href="https://openlibrary.org/works/OL34309474W" target="_blank" rel="noopener"><em>The Power of Full Engagement</em></a> (2003). The ideas above are simplified from their work — the book is where the reasoning and the actual drills live, if you want to go deeper than the summary.</div>
 
 
 <div data-i18n-html="article_gestion-energie_p20"><strong>Manage your energy.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> builds energy through daily challenges. Track your energy with our <a href="/tracker/">Habit Tracker</a>.</div>
