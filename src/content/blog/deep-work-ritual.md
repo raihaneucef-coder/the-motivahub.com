@@ -9,7 +9,7 @@ pubDate: 2026-08-18
 updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/deep-work-ritual-1.jpg"
-imageAlt: "Youssef Raihane - deep work ritual concept"
+imageAlt: "Person working on a laptop inside a coral acoustic privacy pod, illustrating a dedicated deep-work environment"
 topic: "Productivity"
 keywords:
   - "deep work ritual routine"

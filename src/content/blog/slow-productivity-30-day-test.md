@@ -8,7 +8,7 @@ pubDate: 2026-09-03
 updatedDate: 2026-09-21
 readTime: "11 MIN"
 image: "/images/blog/slow-productivity-30-day-test-1.jpg"
-imageAlt: "Youssef Raihane - slow productivity 30 day test concept"
+imageAlt: "Bearded man in a white shirt standing by a window, checking his phone beside a plant"
 topic: "Productivity"
 keywords:
   - "slow productivity"
@@ -46,13 +46,15 @@ faqFr:
   - q: "Et si je travaille pour quelqu'un d'autre et ne choisis pas mes projets ?"
     a: "Vous pouvez quand même appliquer le principe : protéger des blocs de travail profond, refuser les réunions excessives et soigner obsessionnellement la qualité de vos 2 ou 3 livrables les plus importants. Le principe de la productivité lente tient même quand on ne maîtrise pas complètement sa charge de projets."
 relatedArticles:
-  - "productivite-efficace"
+  - "pouvoir-elimination"
   - "quiet-power-of-doing-less"
+  - "attention-as-asset"
+  - "productivite-efficace"
   - "real-reason-you-procrastinate"
   - "regle-2-min-productivite"
 ---
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p2"><strong>Slow productivity</strong> is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days and cut my active projects in half while doubling output quality. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.</div>
+<div data-i18n-html="article_slow-productivity-30-day-test_p2"><strong>Slow productivity</strong> is Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. I tested it for 30 days: 9 active projects cut to 4, and every quality signal I could measure — client NPS, retention, side-business revenue — moved in the right direction. It works because it removes context-switching and protects deep work. Most people think it means doing less. It means doing fewer things with more depth.</div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p3">I've been a productivity nerd for 15 years. I've read every book. Tried every system. Built apps to track my habits. Spent $2,000+ on courses. The whole thing.</div>
 
@@ -62,7 +64,7 @@ relatedArticles:
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p5">I expected to fail. I'd been running 8-12 active projects simultaneously for years. That's what a "productive person" does, right? More projects = more value. More output = more success.</div>
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p6">Thirty days later, I'd cut my active projects in half, doubled my output quality (measurable: clients, peer reviews), and worked fewer hours. I also fired two clients that weren't worth the time. This is what I learned.</div>
+<div data-i18n-html="article_slow-productivity-30-day-test_p6">Thirty days later, I'd cut my active projects from 9 to 4, worked 27% fewer hours, and every quality measure I had logs on had moved the right way — client NPS +18 points, retention from 67% to 100%, side-business revenue +35%. I also fired two clients that weren't worth the time. This is what I learned.</div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p7"><h2>The Three Principles (And Why I Failed Them)</h2></div>
 
@@ -125,7 +127,7 @@ relatedArticles:
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p29">I killed: 1 side business, the podcast idea, and the book proposal. I kept: 2 client projects, the newsletter, and one side business I'd been ignoring.</div>
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p30">Down from 9 to 4. (Cal says 2-3 max. I held onto 4. Small rebellion.)</div>
+<div data-i18n-html="article_slow-productivity-30-day-test_p30">Down from 9 to 4. (Cal says 2-3 max. I held onto 4. Small rebellion.) If you want the full 3-question filter and the Stop-Doing List template, they are laid out in <a href="/journal/pouvoir-elimination/">The Power of Elimination</a>.</div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p31"><h3>Week 2: Redesign your calendar.</h3></div>
 
@@ -243,7 +245,7 @@ The same principle applies to hobbies, side projects, social commitments. 2-3 ac
 - <strong>No-meeting days</strong>: Wednesdays and Fridays, no meetings
 - <strong>Inputs removed</strong>: Slack off phone, no Twitter notifications, calendar-only emails</div>
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p71">The system isn't perfect. But it's 5x more sustainable than my old approach. And my output quality has measurably improved.</div>
+<div data-i18n-html="article_slow-productivity-30-day-test_p71">The system isn't perfect. But it's 5x more sustainable than my old approach. And my output quality has measurably improved. For the deeper argument on why subtraction beats addition — the Stoic and craft roots of "fewer, but better" — see <a href="/journal/quiet-power-of-doing-less/">The Quiet Power of Doing Less</a>.</div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p72"><h2>The 30-Day Slow Productivity Test (Your Protocol)</h2></div>
 
@@ -310,7 +312,7 @@ The same principle applies to hobbies, side projects, social commitments. 2-3 ac
 
 <hr />
 
-<div data-i18n-html="article_slow-productivity-30-day-test_p92"><em>Youssef Raihane tested slow productivity in 2026. He killed 3 projects, kept 4, doubled his output quality, and worked 27% fewer hours. He still uses the system. The fire-the-bad-clients phase was the hardest part.</em></div>
+<div data-i18n-html="article_slow-productivity-30-day-test_p92"><em>Youssef Raihane tested slow productivity in 2026. He killed 3 projects, kept 4, worked 27% fewer hours, and watched client NPS, retention and side-business revenue all rise. He still uses the system. The fire-the-bad-clients phase was the hardest part.</em></div>
 
 <div data-i18n-html="article_slow-productivity-30-day-test_p93"><h2>Sources</h2></div>
 

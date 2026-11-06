@@ -7,7 +7,7 @@ pubDate: 2026-08-24
 updatedDate: 2026-09-21
 readTime: "7 MIN"
 image: "/images/blog/deep-work-focus.jpg"
-imageAlt: "Youssef Raihane - deep work focus concept"
+imageAlt: "Wooden desk with a laptop, a coffee cup, an open notebook and a phone placed face-down, set up for distraction-free deep work"
 topic: "Productivity"
 keywords:
   - "deep work cal newport summary"

@@ -43,13 +43,14 @@ faqFr:
   - q: "Qu'est-ce que l'économie de l'attention ?"
     a: "C'est le marché de l'attention humaine. Les applications, les réseaux sociaux et les médias sont conçus pour capter et retenir votre attention, parce que l'attention est la nouvelle monnaie. Plus ils en récoltent, plus ils gagnent auprès des annonceurs."
 relatedArticles:
+  - "slow-productivity-30-day-test"
   - "batching-productivite"
   - "deep-work-focus"
   - "deep-work-ritual"
   - "eat-the-frog"
 ---
 
-<div data-i18n-html="article_attention-as-asset_p2">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>
+<div data-i18n-html="article_attention-as-asset_p2">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is. The subtraction side of the same ledger — 30 days of running it — is documented in <a href="/journal/slow-productivity-30-day-test/">the Slow Productivity test</a>.</div>
 
 <div data-i18n-html="article_attention-as-asset_p4">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>
 
