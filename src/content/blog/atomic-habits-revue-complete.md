@@ -23,6 +23,11 @@ tags:
   - "habits"
   - "guide"
 wordCount: 1755
+relatedArticles:
+  - "atomic-habits-review"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "habit-stacking-routine"
 bookSlug: atomic-habits
 faq:
   - q: "What are the four laws of Atomic Habits?"

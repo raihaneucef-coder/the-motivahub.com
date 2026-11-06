@@ -44,7 +44,7 @@ relatedArticles:
   - "morning-vs-night"
 ---
 
-<div data-i18n-html="article_two-minute-threshold_p3">A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever.</div>
+<div data-i18n-html="article_two-minute-threshold_p3">A habit is not a finish line but a doorway. Shrink it until it becomes impossible to skip, and the doorway stays open forever. This is a single idea, not a protocol — for the full system behind it, see <a href="/journal/2-minute-rule-system/">the 2-Minute Rule as a complete system</a>.</div>
 
 <div data-i18n-html="article_two-minute-threshold_p1"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
 
@@ -111,8 +111,8 @@ relatedArticles:
 
 <div data-i18n-html="article_two-minute-threshold_p30">Do it tonight. Then again tomorrow. The doorway has been there all along — you were just trying to enter through the wall.</div>
 
-<div data-i18n-html="article_two-minute-threshold_p31">This is the doorway pattern in a single paragraph. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> turns it into a 7-day protocol and explains the science behind why shrinking a habit to something ridiculous is the only reliable way to keep it alive.</div>
+<div data-i18n-html="article_two-minute-threshold_p31">This is the doorway pattern in a single paragraph. Our 2-Minute Rule guide turns it into a 7-day protocol and explains the science behind why shrinking a habit to something ridiculous is the only reliable way to keep it alive.</div>
 
 <div data-i18n-html="article_two-minute-threshold_p32">Shrink the habit. Open the door. The rest will follow.</div>
 
-<div data-i18n-html="article_two-minute-threshold_p33"><strong>Want the fuller mechanism behind this reflection?</strong> The complete identity-and-recovery framework is in <a href="/journal/2-minute-rule-system/">The 2-Minute Rule: A Complete System</a>, and the beginner how-to is in <a href="/journal/regle-deux-minutes/">Building Better Habits in 120 Seconds</a>.</div>
+<div data-i18n-html="article_two-minute-threshold_p33"><strong>Want the fuller mechanism behind this reflection?</strong> It is laid out in the introduction.</div>

@@ -26,6 +26,11 @@ tags:
   - "habits"
   - "book-review"
 wordCount: 1365
+relatedArticles:
+  - "atomic-habits-revue-complete"
+  - "2-minute-rule-system"
+  - "identity-based-habits-90-day-test"
+  - "habit-stacking-routine"
 bookSlug: atomic-habits
 reviewBookName: "Atomic Habits"
 faq:

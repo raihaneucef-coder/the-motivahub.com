@@ -61,7 +61,7 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
-<div data-i18n-html="article_morning-routines-12-tested_p2">Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive.</div>
+<div data-i18n-html="article_morning-routines-12-tested_p2">Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive. This article groups morning routines into four archetypes and explains who each suits. For the personal survivor story (the 8-minute version that stuck), see <a href="/journal/i-tested-12-morning-routines/">the 8-minute morning routine that survived 30 days</a>.</div>
 
 <div data-i18n-html="article_morning-routines-12-tested_p4"><strong>There is no single best morning routine.</strong> I tested 12 routines for 14 days. The three that stuck were: 5-minute journaling, 20-minute walk, and 10-minute cold shower. Everything else collapsed under its own ambition. The best routine is the one you can sustain on your worst day. Most morning routines fail because they're designed for a day that doesn't exist.</div>
 

@@ -53,7 +53,7 @@ relatedArticles:
   - "routine-matin-change-tout"
 ---
 
-<div data-i18n-html="article_5-minute-morning-habit_p2"><strong>A 5-minute morning habit</strong> beats a 30-minute routine because small + sustainable > big + abandoned. The most effective is the 3-priority brain dump: write down the 3 most important tasks for the day, in order, on a single piece of paper. Takes 60 seconds. Prevents 60+ minutes of decision-making throughout the day. Do it before checking email, before handing your priorities to someone else.</div>
+<div data-i18n-html="article_5-minute-morning-habit_p2"><strong>A 5-minute morning habit</strong> beats a 30-minute routine because small + sustainable > big + abandoned. The most effective is the 3-priority brain dump: write down the 3 most important tasks for the day, in order, on a single piece of paper. Takes 60 seconds. Prevents 60+ minutes of decision-making throughout the day. Do it before checking email, before handing your priorities to someone else. This is the smallest useful version. For the full field report of the twelve routines tested and what survived 30 days, see <a href="/journal/i-tested-12-morning-routines/">the 8-minute morning routine that survived 30 days</a>.</div>
 
 <div data-i18n-html="article_5-minute-morning-habit_p3">I used to start every morning by checking email. By 9 AM, I'd already lost 90 minutes of my own priorities reacting to everyone else's. By noon, I was exhausted from decisions I didn't need to make. By Friday, I'd accomplished maybe 30% of what I'd hoped to on Monday.</div>
 

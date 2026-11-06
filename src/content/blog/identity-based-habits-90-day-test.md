@@ -298,7 +298,7 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p99">1. <em>James Clear</em> — <em>Atomic Habits</em> (2018) — the identity-based habit framework
 2. <em>BJ Fogg</em> — <em>Tiny Habits</em> (2019) — for the small-vote approach
 3. <em>Carol Dweck</em> — <em>Mindset</em> (2006) — for the identity-level growth orientation
-4. <em>Roy Baumeister & John Tierney</em> — <em>Willpower</em> (2011) — the ego-depletion model this article deliberately does not lean on: a 23-lab registered replication (Hagger et al., 2016) found no such effect. One more reason to build on identity, not willpower
+4. <em>Roy Baumeister & John Tierney</em> — <em>Willpower</em> (2011) — the ego-depletion model this article deliberately does not lean on: a 23-lab preregistered replication (<a href="https://doi.org/10.1177/1745691616652875" target="_blank" rel="noopener">Hagger et al., 2016</a>) found only a very small effect, with a confidence interval that included zero. One more reason to build on identity, not willpower
 5. <em>James Clear</em> — <a href="https://jamesclear.com">jamesclear.com</a> — for the original identity articles</div>
 
 <hr />
