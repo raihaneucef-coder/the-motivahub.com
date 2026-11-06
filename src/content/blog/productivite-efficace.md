@@ -63,13 +63,13 @@ relatedArticles:
 
 <div data-i18n-html="article_productivite-efficace_p7">Most people work in shallow mode: email, notifications, meetings. The result is eight hours of work for two hours of output.</div>
 
-<div data-i18n-html="article_productivite-efficace_p8"><strong>The rule:</strong> block two to four hours a day for uninterrupted work. No phone. No email. No notifications.</div>
+<div data-i18n-html="article_productivite-efficace_p8"><strong>The rule:</strong> block two to four hours a day for uninterrupted work. No phone. No email. No notifications. <a href="/journal/deep-work-focus/">The complete deep-work guide</a> explains how to protect those blocks.</div>
 
 <div data-i18n-html="article_productivite-efficace_p9">The best slot is usually the morning, when attention is freshest and before anyone else starts making claims on it.</div>
 
 <div data-i18n-html="article_productivite-efficace_p10"><h2>2. The 80/20 Rule</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p11">Roughly 80% of results come from 20% of actions. That is the Pareto principle, and applied to a working day it is the difference between motion and progress.</div>
+<div data-i18n-html="article_productivite-efficace_p11">Roughly 80% of results come from 20% of actions. That is the Pareto principle, and applied to a working day it is the difference between motion and progress. To run that triage, <a href="/journal/pouvoir-elimination/">the 3-question filter</a> helps you eliminate the rest.</div>
 
 <div data-i18n-html="article_productivite-efficace_p12">Ask one question each morning: <strong>what is the single thing that would make everything else easier?</strong></div>
 
@@ -94,7 +94,7 @@ relatedArticles:
 
 <div data-i18n-html="article_productivite-efficace_p20"><h2>4. Time Blocking</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p21">Time blocking assigns a specific task to each slot of the day, so that the calendar makes the decision instead of your mood.</div>
+<div data-i18n-html="article_productivite-efficace_p21">Time blocking assigns a specific task to each slot of the day, so that the calendar makes the decision instead of your mood. Step-by-step: <a href="/journal/time-blocking-journee/">how to block your day</a>.</div>
 
 <div data-i18n-html="article_productivite-efficace_p22">A workable template:
 - 7–9 am: deep work (main project)
@@ -124,7 +124,7 @@ relatedArticles:
 
 <div data-i18n-html="article_productivite-efficace_p28"><h2>6. The Two-Minute Rule</h2></div>
 
-<div data-i18n-html="article_productivite-efficace_p29">If a task takes less than two minutes, do it now. Do not write it down. Do not reschedule it. Do it.</div>
+<div data-i18n-html="article_productivite-efficace_p29">If a task takes less than two minutes, do it now. Do not write it down. Do not reschedule it. Do it. In detail: <a href="/journal/regle-2-min-productivite/">the 2-minute rule applied to daily work</a>.</div>
 
 <div data-i18n-html="article_productivite-efficace_p30">Why? Because the mental cost of tracking a two-minute task is higher than the cost of finishing it immediately.</div>
 
