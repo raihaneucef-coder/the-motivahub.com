@@ -9,6 +9,7 @@ updatedDate: 2026-09-21
 readTime: "11 MIN"
 image: "/images/blog/slow-productivity-30-day-test-1.jpg"
 imageAlt: "Bearded man in a white shirt standing by a window, checking his phone beside a plant"
+imageAltFr: "Homme barbu en chemise blanche debout près d’une fenêtre, consultant son téléphone à côté d’une plante"
 topic: "Productivity"
 keywords:
   - "slow productivity"

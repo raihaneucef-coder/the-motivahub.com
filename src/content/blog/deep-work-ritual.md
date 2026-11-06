@@ -10,6 +10,7 @@ updatedDate: 2026-10-26
 readTime: "8 MIN"
 image: "/images/blog/deep-work-ritual-1.jpg"
 imageAlt: "Person working on a laptop inside a coral acoustic privacy pod, illustrating a dedicated deep-work environment"
+imageAltFr: "Personne travaillant sur un ordinateur portable dans une cabine acoustique corail, illustrant un environnement dédié au travail profond"
 topic: "Productivity"
 keywords:
   - "deep work ritual routine"

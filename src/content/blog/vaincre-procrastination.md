@@ -10,6 +10,7 @@ updatedDate: 2026-10-26
 readTime: "7 MIN"
 image: "/images/blog/vaincre-procrastination-1.jpg"
 imageAlt: "Illustration of a skeleton slumped amid crumpled papers, representing a procrastinator drowning in postponed tasks"
+imageAltFr: "Illustration d’un squelette affalé parmi des feuilles de papier froissées, représentant un procrastinateur submergé de tâches reportées"
 topic: "Productivity"
 keywords:
   - "why you procrastinate science"
