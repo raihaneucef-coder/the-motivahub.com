@@ -16,12 +16,17 @@ const title = locale === "fr" && post.data.titleFr ? post.data.titleFr : post.da
 const description = locale === "fr" && post.data.descriptionFr ? post.data.descriptionFr : post.data.description;
 const thumb = thumbSrc(post.data.image);
 const imageDimensions = await getImageDimensions(thumb);
+// French cards must not read English alt text. Prefer the localized alt,
+// then the shared English alt, then the localized title.
+const imageAlt = locale === "fr"
+  ? post.data.imageAltFr || post.data.imageAlt || title
+  : post.data.imageAlt || post.data.title;
 ---
 
 <article class={`card ${featured ? "card-featured" : ""}`}>
       <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`} class="card-img-link" aria-label={title}>
         <div class="card-img-wrap">
-          <img class="card-img" src={thumb} alt={post.data.imageAlt || post.data.title} loading="lazy" width={imageDimensions.width} height={imageDimensions.height} />
+          <img class="card-img" src={thumb} alt={imageAlt} loading="lazy" width={imageDimensions.width} height={imageDimensions.height} />
         </div>
       </Link>
   <div class="card-body">
