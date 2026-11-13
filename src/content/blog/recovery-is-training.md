@@ -6,7 +6,7 @@ titleFr: "La Récupération est un Entraînement : L'Importance du Repos"
 seoTitleFr: "Récupération : le repos est un entraînement"
 descriptionFr: "La récupération est aussi importante que l'entraînement. Découvrez comment le repos améliore vos performances et votre santé."
 pubDate: 2026-08-17
-updatedDate: 2026-10-26
+updatedDate: 2026-11-13
 topic: "Sport"
 readTime: "4 MIN"
 image: "/images/blog/recovery-is-training-3.jpg"
@@ -25,7 +25,7 @@ keywords:
   - "recovery routine for athletes"
 tags:
   - "sport"
-wordCount: 416
+wordCount: 710
 faq:
   - q: "Why is recovery considered part of training?"
     a: "Strenuous exercise damages muscle fibers and triggers the signalling that rebuilds them; that rebuilding work happens while you rest, not while you lift. Train the same muscle hard again before it has finished and you add damage instead of adaptation. As a rule of thumb, let soreness from a session fade before you load that muscle hard again — usually a day or two, more after unusually damaging work. The gym is the stimulus; sleep and rest are where the actual growth happens."
@@ -79,5 +79,13 @@ relatedArticles:
 <div data-i18n-html="article_recovery-is-training_p8">- <strong>Sleep is your first supplement.</strong> No powder replaces eight hours.
 - <strong>Eat to recover, not to reward.</strong> Protein, water, and enough food.
 - <strong>Take the easy day easy.</strong> A walk, a stretch, a breath. Not a test.</div>
+
+<div data-i18n-html="article_recovery-is-training_h2e"><h2>When to Lighten the Load</h2></div>
+
+<div data-i18n-html="article_recovery-is-training_p13">Recovery advice often arrives as a rule: take a rest day, deload every few weeks, back off when the app says so. The evidence is less tidy. A consensus statement on monitoring training loads treats load monitoring as multidisciplinary — internal and external load, performance, and the athlete's own report — rather than a single number (<a href="https://doi.org/10.1123/ijspp.2017-0208" target="_blank" rel="noopener">Bourdon et al., 2017</a>). A systematic review reached a related conclusion: subjective measures such as mood and perceived stress tracked changes in training load with more sensitivity and consistency than many objective measures (<a href="https://doi.org/10.1136/bjsports-2015-094758" target="_blank" rel="noopener">Saw et al., 2016</a>). In practice, your own report is data — not a weakness.</div>
+
+<div data-i18n-html="article_recovery-is-training_p14">The signals worth acting on form a cluster, not a single bad session: the same load feels unusually heavy for several sessions, sleep gets worse, motivation and mood flatten, and soreness lingers beyond its usual window. The joint ECSS/ACSM consensus on overtraining describes this grey zone — a short-term performance dip can be a normal part of adaptation, but a prolonged decline with mood disturbance and fatigue is a reason to reduce load and, if it persists, to seek professional assessment (<a href="https://doi.org/10.1249/MSS.0b013e318279a10a" target="_blank" rel="noopener">Meeusen et al., 2013</a>). The same consensus cautions that the line between normal overreaching and overtraining is difficult to draw; that is why the decision belongs to trends and context, not to one morning's reading.</div>
+
+<div data-i18n-html="article_recovery-is-training_p15">What lightening looks like: keep the session but cut the volume or the load, or replace a hard day with easy movement. Do not turn a recovery day into another test. Then reassess after a few sessions. If the heavy feeling lifts, resume the plan; if it does not, take more rest rather than adding intensity to prove a point. Recovery is a variable you adjust, not a verdict on your discipline.</div>
 
 <div data-i18n-html="article_recovery-is-training_p9">You do not need to train more. You need to recover as deliberately as you train.</div>

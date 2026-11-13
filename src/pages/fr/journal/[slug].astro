@@ -316,7 +316,6 @@ const isoDate = post.data.pubDate.toISOString();
       <ArticleFaq faq={faqFr ?? undefined} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <ToolCta topic={post.data.topic} lang="fr" />
-      {showAffiliateBanner && <AffiliateBanner variant="footer" lang={postLang} />}
       <SocialShare title={displayTitle} description={displayDesc} />
       <AuthorBio variant="compact" showSchema={false} lang="fr" />
       <div class="article-nav">

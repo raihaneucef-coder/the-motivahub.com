@@ -29,7 +29,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "fitness"
-wordCount: 2209
+wordCount: 2196
 faq:
   - q: "Is 5 AM really the best time to work out?"
     a: "A 2020 review of exercise timing (Schumacher et al., <em>Exercise and Sport Sciences Reviews</em>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/32658039/\">PubMed 32658039</a>) explores the hypothesis that keeping a consistent exercise time — usually morning — supports adherence in adults with overweight or obesity, and it states plainly that the evidence is still limited. The practical reason isn't magic — it's structural. Morning workouts can't be canceled by meetings, family obligations, or 'I had a long day.' They're protected by time itself."
@@ -61,15 +61,13 @@ relatedArticles:
 
 <div data-i18n-html="article_the-morning-athlete_p1"><blockquote><strong>Medical Disclaimer</strong>: I'm a writer sharing my own experience, not a doctor or certified health professional. The protocols described in this article are personal experiments, not medical advice. Consult your doctor before starting any new exercise, diet, or breathwork routine, especially if you have pre-existing conditions, injuries, or are pregnant. If something hurts, stop. What works for me may not work for you. Always work within your own capacity and adjust based on how your body responds.</blockquote></div>
 
-<div data-i18n-html="article_the-morning-athlete_p2"><blockquote><strong>Affiliate Disclosure</strong>: This article contains Amazon affiliate links. If you purchase through these links, I earn a small commission at no extra cost to you. I only recommend products I personally use or have tested. The price is always the same for you.</blockquote></div>
-
 <div data-i18n-html="article_the-morning-athlete_p3"><strong>Exercise-timing research points to morning consistency.</strong> A 2020 review (<a href="https://pubmed.ncbi.nlm.nih.gov/32658039/" target="_blank" rel="noopener">Schumacher et al., <em>Exercise and Sport Sciences Reviews</em></a>) explores the hypothesis that a consistent exercise time — most often morning — supports adherence, and it does so for adults with overweight or obesity, while flagging that the current evidence is limited. That is a narrower claim than "morning is best", and this article keeps it that way. The reason isn't magic — it's structural. Morning workouts can't be canceled by meetings or family obligations. They're protected by time itself. If you're not a morning person, the principle still applies: pick a time that's protected from interruptions.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p4">I started training at 5 AM. Some sessions worked. Most didn't. The pattern is clearer now than it was at the start.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p5">The "morning athlete" idea is simple: wake up before the world needs you, move before you negotiate. But the reality is messier. Sleep debt. Work stress. Family obligations. Injuries. The body that won't cooperate. The motivation that vanishes.</div>
 
-<div data-i18n-html="article_the-morning-athlete_p6">After five years of logging this — 1,247 sessions, counted myself — here's what I've learned about the morning athlete principle, and why 5 AM still beats every other option for most people — even if 5 AM isn't literally the right hour for you.</div>
+<div data-i18n-html="article_the-morning-athlete_p6">After five years of keeping this log — my own tally, counted myself — here's what I've learned about the morning athlete principle, and why 5 AM still beats every other option for most people — even if 5 AM isn't literally the right hour for you.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p94">Hold that last clause, because it does real work: <strong>5 AM is not a universal rule.</strong> The research this article leans on — the 2020 Schumacher et al. review quoted in the FAQ below — is about <strong>adherence</strong>, not about a magic hour, and adherence is exactly where chronotype bites. If you are a genuine evening type, a 5 AM session can cost you more sleep than it buys you discipline, and the half-recovered week that follows is not a badge of honour. In that case move the protected slot, not the principle: take the earliest time your body actually performs at, then defend it like a meeting. The other side of the argument, including the twin-study numbers, is made in <a href="/journal/morning-vs-night/">Morning vs Night: Which Discipline Actually Sticks?</a> — read it as the second half of this article, not as its contradiction.</div>
 
@@ -99,27 +97,23 @@ relatedArticles:
 
 <div data-i18n-html="article_the-morning-athlete_p14"><h2>My 5-Year Experiment (The Honest Data)</h2></div>
 
-<div data-i18n-html="article_the-morning-athlete_p15">I tracked every workout from 2021-2026. Here's what the data says:</div>
+<div data-i18n-html="article_the-morning-athlete_p15">I kept a workout log from 2021 to 2026. Here's what it showed:</div>
 
-<div data-i18n-html="article_the-morning-athlete_p16"><strong>Total workouts: 1,247</strong>
-- 5 AM workouts: 847 (68%)
-- 6 AM workouts: 234 (19%)
-- 7 AM workouts: 112 (9%)
-- Other times: 54 (4%)</div>
+<div data-i18n-html="article_the-morning-athlete_p16"><strong>The pattern, without the spreadsheet:</strong>
+- Early-morning workouts were the ones I actually completed.
+- Afternoon and evening slots were the ones I skipped.
+- The earlier the slot, the more often I showed up.</div>
 
-<div data-i18n-html="article_the-morning-athlete_p17"><strong>Completion rate by time:</strong>
-- 5 AM: 89% (planned sessions I actually did)
-- 6 AM: 76%
-- 7 AM: 64%
-- 5 PM: 41%
-- 6 PM: 38%
-- 7 PM: 32%</div>
+<div data-i18n-html="article_the-morning-athlete_p17"><strong>What the log consistently showed:</strong>
+- Mornings: I did what I had planned far more often.
+- Evenings: the plan was the first thing to go.
+- The gap held across the five years, not just in one good month.</div>
 
-<div data-i18n-html="article_the-morning-athlete_p18"><strong>The pattern is stark.</strong> Early-morning workouts have 2-3x the completion rate of afternoon/evening workouts.</div>
+<div data-i18n-html="article_the-morning-athlete_p18"><strong>The pattern is stark.</strong> Early-morning workouts were completed far more often than afternoon or evening workouts.</div>
 
-<div data-i18n-html="article_the-morning-athlete_p18b"><em>(N.B. This is my own workout log from 2021 to 2026 — n = 1, self-recorded: 1,247 sessions I counted myself. The completion rates are the share of my own planned sessions I actually attended; there was no control group and no app or device verifying the totals — these are my tallies, not clinical data. Personal observation, not a study; your results may differ.)</em></div>
+<div data-i18n-html="article_the-morning-athlete_p18b"><em>(N.B. This is my own workout log from 2021 to 2026 — n = 1, self-recorded. There was no control group and no app or device verifying the entries; these are my own tallies, not clinical data. Personal observation, not a study; your results may differ.)</em></div>
 
-<div data-i18n-html="article_the-morning-athlete_p19">I expected this. But the magnitude surprised me. My 5 PM self consistently finds reasons to skip. My 5 AM self consistently shows up.</div>
+<div data-i18n-html="article_the-morning-athlete_p19">I expected this. But the consistency surprised me. My 5 PM self consistently finds reasons to skip. My 5 AM self consistently shows up.</div>
 
 <div data-i18n-html="article_the-morning-athlete_p20"><h2>What I Got Wrong (The Failure Modes)</h2></div>
 
@@ -317,7 +311,7 @@ relatedArticles:
 
 <hr />
 
-<div data-i18n-html="article_the-morning-athlete_p88"><em>Youssef Raihane has kept a 5 AM training log since 2021 — 1,247 self-recorded sessions. He's missed 4 weeks due to injury. He's gained 8 pounds of muscle and lost 12 pounds of fat (net). He's run 4 marathons. He's learned more from the misses than the wins. He's still learning.</em></div>
+<div data-i18n-html="article_the-morning-athlete_p88"><em>Youssef Raihane has kept a 5 AM training log since 2021. He's missed 4 weeks due to injury. He's gained 8 pounds of muscle and lost 12 pounds of fat (net). He's run 4 marathons. He's learned more from the misses than the wins. He's still learning.</em></div>
 
 <div data-i18n-html="article_the-morning-athlete_p89"><h2>Sources</h2></div>
 

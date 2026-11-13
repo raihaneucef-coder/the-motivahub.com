@@ -6,7 +6,7 @@ titleFr: "Le guide du débutant pour construire une habitude de fitness"
 seoTitleFr: "Habitude fitness : le guide du débutant"
 descriptionFr: "Comment commencer la salle et tenir : le guide débutant en 5 étapes — de deux séances de 10 minutes par semaine à une routine qui dure, sans épuisement."
 pubDate: 2026-08-24
-updatedDate: 2026-09-25
+updatedDate: 2026-11-13
 readTime: "5 MIN"
 image: "/images/blog/guide-debutant-fitness.jpg"
 imageAlt: "A woman doing crunches on a mat in front of a bright window, hands behind her head"
@@ -25,7 +25,7 @@ tags:
   - "sport"
   - "habits"
   - "guide"
-wordCount: 439
+wordCount: 727
 
 faq:
   - q: "How do I start going to the gym as a complete beginner?"
@@ -87,6 +87,16 @@ relatedArticles:
 <div data-i18n-html="article_guide-debutant-fitness_p14"><h2>Step 5: Celebrate Small Wins</h2></div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p15">Did you exercise 3 days in a row? Celebrate. Did you increase your reps? Celebrate. Small wins create momentum. Momentum creates habits. Habits create transformation.</div>
+
+<div data-i18n-html="article_guide-debutant-fitness_h2f"><h2>Missed a Week? Restart Without Starting Over</h2></div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p22">A week away happens: work, illness, family, or simply a routine that fell apart. The mistake is treating the gap as a reset. You do not need to begin at zero, and you do not need to "catch up" by doubling sessions. The habit is a behaviour you return to, not a streak that has to be perfect.</div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p23">Some fitness does fade. A review of short-term detraining — measured in weeks rather than months — finds partial losses in cardiorespiratory fitness and endurance performance, while noting that the changes are more moderate in recently trained people (<a href="https://doi.org/10.2165/00007256-200030020-00002" target="_blank" rel="noopener">Mujika &amp; Padilla, 2000</a>). A meta-analysis of resistance-training cessation found that strength and power decline after a layoff, with the size of the loss increasing with the duration of the break (<a href="https://doi.org/10.1111/sms.12047" target="_blank" rel="noopener">Bosquet et al., 2013</a>). That is a reason to resume soon, not a reason to panic.</div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p24">Progress is also more forgiving than the streak view suggests. In a small trial, men who trained in cycles with planned breaks between blocks gained muscle size and strength similar to men who trained continuously (<a href="https://doi.org/10.1007/s00421-012-2511-9" target="_blank" rel="noopener">Ogasawara et al., 2013</a>). The study is small and is not a licence to plan long breaks, but it makes the practical point: an interruption is not an erasure.</div>
+
+<div data-i18n-html="article_guide-debutant-fitness_p25">How to restart: go back to the last session that felt comfortable, or one step below it. Use the same time and cue that worked before. Make the first session deliberately easy; the goal is to show up, not to repay the missed week. Then continue the progression from Step 4. If the absence was caused by pain or illness, get medical advice before loading the area again. The habit survives on returns, not on perfect attendance.</div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p19"><h2>Your First 4 Weeks</h2></div>
 
