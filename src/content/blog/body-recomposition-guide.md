@@ -6,7 +6,7 @@ titleFr: "Perdre du gras et prendre du muscle en même temps : le système de re
 descriptionFr: "La méthode scientifique et honnête pour changer votre corps — protéines, calories, entraînement et sommeil pour sécher, prendre du muscle, ou les deux."
 seoTitleFr: "Recomposition : perdre du gras, gagner du muscle"
 pubDate: 2026-10-10
-updatedDate: 2026-10-10
+updatedDate: 2026-11-06
 topic: "Sport"
 readTime: "11 MIN"
 image: "/images/hero-athlete.jpg"
