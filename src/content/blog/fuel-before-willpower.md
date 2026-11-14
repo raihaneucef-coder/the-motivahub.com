@@ -6,7 +6,7 @@ titleFr: "Le carburant d'abord, la volonté après"
 seoTitleFr: "Carburant avant volonté : manger pour tenir"
 descriptionFr: "La discipline coûte cher quand elle tourne au café, au sucre et aux intentions. Mangez pour rendre l'effort moins coûteux : la nutrition est une infrastructure."
 pubDate: 2026-08-18
-updatedDate: 2026-10-26
+updatedDate: 2026-11-14
 topic: "Nutrition"
 readTime: "5 MIN"
 image: "/images/blog/fuel-before-willpower-3.jpg"

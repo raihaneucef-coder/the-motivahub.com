@@ -6,7 +6,7 @@ titleFr: "L'athlète du matin : pourquoi 5h gagne toujours (et comment y arriver
 seoTitleFr: "L'athlète du matin : pourquoi 5 h du matin gagne"
 descriptionFr: "J'ai testé l'entraînement matinal pendant 5 ans — athlète, coach, personne ordinaire. Ce qui marche, ce qui échoue, et pourquoi 5h gagne toujours."
 pubDate: 2026-09-06
-updatedDate: 2026-09-21
+updatedDate: 2026-11-13
 readTime: "10 MIN"
 image: "/images/blog/the-morning-athlete-3.jpg"
 imageAlt: "A runner in a beanie crossing a sunlit field beside a low sports building, in early morning light"
