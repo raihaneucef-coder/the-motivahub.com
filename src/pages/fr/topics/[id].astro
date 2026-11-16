@@ -28,6 +28,14 @@ const topicDescription = topic.descriptionFr ?? topic.description;
 const allPosts = (await getCollection("blog"))
   .filter((p) => !p.data.draft && !p.data.noindex)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+// Mindset hub only: the feed below the pillar repeated the essays already
+// curated into the FR pillar sections. Curated picks stay in their sections;
+// the feed lists the rest. Other hubs keep the full-feed behavior.
+const curated =
+  topic.id === "mindset" && pillar
+    ? new Set(pillar.sections.flatMap((s) => s.articlesFr))
+    : null;
+const feedPosts = curated ? posts.filter((p) => !curated.has(p.id)) : posts;
 ---
 
 <Layout title={`${topic.titleFr ?? topic.title} : essais et guides — Motiva Hub`} description={topic.descriptionFr ?? topic.description}>
@@ -78,11 +86,11 @@ const allPosts = (await getCollection("blog"))
 
   <section class="feed">
     <div class="container">
-      {pillar && <p class="kicker" style="margin-bottom:22px;" data-i18n="hubFeedTitle">{dictFr.hubFeedTitle}</p>}
+      {pillar && <p class="kicker" style="margin-bottom:22px;" data-i18n={curated ? "hubMoreTitle" : "hubFeedTitle"}>{curated ? dictFr.hubMoreTitle : dictFr.hubFeedTitle}</p>}
       <div class="grid">
-        {posts.map((post) => <ArticleCard post={post} locale="fr" />)}
+        {feedPosts.map((post) => <ArticleCard post={post} locale="fr" />)}
       </div>
-      {posts.length === 0 && (
+      {feedPosts.length === 0 && (
         <p style="text-align:center;color:var(--muted);margin-top:40px;" data-i18n="essaysBeingPrepared">
           The first essays for this topic are being prepared. Return soon.
         </p>

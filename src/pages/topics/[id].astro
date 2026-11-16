@@ -22,6 +22,15 @@ const pillar = pillars[topic.id];
 // Hub curation is editorial and may span topics (e.g. toughness essays tagged Discipline);
 // the feed below keeps using the topic-filtered list.
 const allPosts = await getCollection("blog", ({ data }) => !data.draft && !data.noindex);
+// Mindset hub only: the full feed below the pillar repeated the essays already
+// curated into the pillar sections, so the same card rendered twice on one page.
+// Curated picks stay in their sections; the feed lists the rest. Other hubs keep
+// the full-feed behavior until they get the same editorial review.
+const curated =
+  topic.id === "mindset" && pillar
+    ? new Set(pillar.sections.flatMap((s) => s.articles))
+    : null;
+const feedPosts = curated ? posts.filter((p) => !curated.has(p.id)) : posts;
 ---
 
 <Layout title={`${topic.title} — Motiva Hub`} description={topic.description}>
@@ -72,11 +81,11 @@ const allPosts = await getCollection("blog", ({ data }) => !data.draft && !data.
 
   <section class="feed">
     <div class="container">
-      {pillar && <p class="kicker" style="margin-bottom:22px;" data-i18n="hubFeedTitle">The Full Feed — every essay in this topic</p>}
+      {pillar && <p class="kicker" style="margin-bottom:22px;" data-i18n={curated ? "hubMoreTitle" : "hubFeedTitle"}>{curated ? "More from this topic" : "The Full Feed — every essay in this topic"}</p>}
       <div class="grid">
-        {posts.map((post) => <ArticleCard post={post} />)}
+        {feedPosts.map((post) => <ArticleCard post={post} />)}
       </div>
-      {posts.length === 0 && (
+      {feedPosts.length === 0 && (
         <p style="text-align:center;color:var(--muted);margin-top:40px;" data-i18n="essaysBeingPrepared">
           The first essays for this topic are being prepared. Return soon.
         </p>

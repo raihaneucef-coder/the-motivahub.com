@@ -63,6 +63,8 @@ relatedArticles:
 
 <div data-i18n-html="article_2-minute-rule-system_p2">James Clear's 2-minute rule is the most misunderstood idea in habit science. It is not a productivity hack. It is a complete system of identity, design, and recovery. Here is the full architecture — including what to do when it stops working.</div>
 
+<div data-i18n-html="article_2-minute-rule-system_p3">This guide is the complete architecture — identity, design, and recovery — for a habit you intend to keep for years. If you are still choosing your very first habit, start with <a href="/journal/regle-deux-minutes/">the plain-language beginner version</a>. If you want a structured first week, follow <a href="/journal/two-minute-rule-guide/">the 7-day protocol</a>. And if you only want the single idea behind it all, read <a href="/journal/two-minute-threshold/">the two-minute threshold</a>.</div>
+
 <div data-i18n-html="article_2-minute-rule-system_p4"><strong>The 2-minute rule</strong>, from James Clear's Atomic Habits, says: when you start a new habit, it should take less than two minutes to do. Read for two minutes. Meditate for two minutes. Do ten pushups. The goal is not the two minutes. The goal is to make the start so easy you cannot say no. The actual behavior grows from the doorway. Most people stop at the doorway. The system continues past it.</div>
 
 
