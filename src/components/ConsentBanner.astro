@@ -1,0 +1,162 @@
+---
+// F-12: first-party cookie banner with Google CMP coordination.
+// The certified Google CMP (Funding Choices) does not load for most visitors
+// (0 fundingchoices requests observed), so Consent Mode v2 stays all-denied
+// forever and GA4 stopped collecting (nothing since 2026-10-27). This banner
+// collects an EXPLICIT analytics decision locally and coordinates with the CMP:
+//  - the banner's Accept grants analytics_storage ONLY — personalized ads are
+//    never enabled from localStorage alone (requires a valid certified-CMP/TCF
+//    signal, which we do not fabricate);
+//  - CMP signals are restriction-only: a CMP denial applies immediately and is
+//    persisted; a CMP callback can never raise a signal to granted;
+//  - the last explicit choice always applies, and can be re-opened at any time
+//    via the footer "Manage consent" link (listener registered unconditionally);
+//  - legacy/unknown stored values are never trusted as a grant (treated as
+//    denied; a legacy plain "granted" is discarded and consent re-asked).
+---
+<div id="mh-consent-banner" hidden role="region" aria-label="Cookie consent">
+  <div class="mh-consent-card">
+    <p class="mh-consent-text"></p>
+    <div class="mh-consent-actions">
+      <button type="button" class="mh-consent-btn mh-consent-accept"></button>
+      <button type="button" class="mh-consent-btn mh-consent-reject"></button>
+    </div>
+  </div>
+</div>
+<script is:inline>
+  (function () {
+    var KEY = "mh-consent";
+    var GRACE_MS = 3500;
+    var LANG = document.documentElement.lang || "en";
+    var TXT_EN = { t: "We use cookies to measure traffic and improve the site. Analytics stay off until you accept. Ads stay limited or non-personalized.", a: "Accept", r: "Reject" };
+    var TXT = {
+      en: TXT_EN,
+      fr: { t: "Nous utilisons des cookies pour mesurer le trafic et am\u00e9liorer le site. La mesure reste d\u00e9sactiv\u00e9e tant que vous n'acceptez pas. Les pubs restent non personnalis\u00e9es.", a: "Accepter", r: "Refuser" },
+      ar: { t: "\u0646\u0633\u062a\u0639\u0645\u0644 \u0645\u0644\u0641\u0627\u062a \u062a\u0639\u0631\u064a\u0641 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u0632\u064a\u0627\u0631\u0627\u062a \u0648\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0645\u0648\u0642\u0639. \u0627\u0644\u0642\u064a\u0627\u0633 \u0645\u0628\u0644\u0648\u0643 \u062d\u062a\u0649 \u062a\u0642\u0628\u0644\u060c \u0648\u0627\u0644\u0625\u0639\u0644\u0627\u0646\u0627\u062a \u063a\u064a\u0631 \u0645\u062e\u0635\u0635\u0635\u0629.", a: "\u0642\u0628\u0648\u0644", r: "\u0631\u0641\u0636" }
+    }[LANG] || TXT_EN;
+    var ANALYTICS_ONLY = { analytics_storage: "granted", ad_storage: "denied", ad_user_data: "denied", ad_personalization: "denied" };
+    var ALL_DENIED = { analytics_storage: "denied", ad_storage: "denied", ad_user_data: "denied", ad_personalization: "denied" };
+    var SIGS = ["analytics_storage", "ad_storage", "ad_user_data", "ad_personalization"];
+
+    // stored() returns the exact 4-signal set, or null. Plain legacy "granted"
+    // strings are NOT trusted as an explicit choice: they are discarded so a
+    // fresh explicit decision is asked (unsure = denied until confirmed).
+    function stored(keepLegacy) {
+      try {
+        var raw = localStorage.getItem(KEY);
+        if (!raw) return null;
+        if (raw === "granted") { if (!keepLegacy) { try { localStorage.removeItem(KEY); } catch (e) {} } return null; }
+        if (raw === "denied") return ALL_DENIED;
+        var v = JSON.parse(raw);
+        if (v && v.v === 2 && typeof v.analytics_storage === "string") return v;
+        return null;
+      } catch (e) { return null; }
+    }
+
+    function updateConsent(v) {
+      if (typeof window.gtag !== "function") return;
+      gtag("consent", "update", {
+        analytics_storage: v.analytics_storage,
+        ad_storage: v.ad_storage,
+        ad_user_data: v.ad_user_data,
+        ad_personalization: v.ad_personalization
+      });
+    }
+
+    function apply(v, persist) {
+      updateConsent(v);
+      if (persist) { try { localStorage.setItem(KEY, JSON.stringify(Object.assign({ v: 2 }, v))); } catch (e) {} }
+      var banner = document.getElementById("mh-consent-banner");
+      if (banner) banner.hidden = true;
+    }
+
+    function show() {
+      var banner = document.getElementById("mh-consent-banner");
+      if (!banner || stored(true)) return;
+      var el = banner.querySelector(".mh-consent-text");
+      var btnA = banner.querySelector(".mh-consent-accept");
+      var btnR = banner.querySelector(".mh-consent-reject");
+      if (el) el.textContent = TXT.t;
+      if (btnA) btnA.textContent = TXT.a;
+      if (btnR) btnR.textContent = TXT.r;
+      banner.hidden = false;
+    }
+
+    window.__mhConsent = { apply: apply, show: show, stored: stored };
+
+    // CMP hook. EXPLICIT user choice made inside the certified CMP UI applies
+    // its four signals exactly (grant or revoke) and persists. Any callback
+    // that is automatic or cannot be corroborated is restriction-only: it can
+    // never raise a signal to granted. Unsure = signals stay denied.
+    window.__mhApplyCmp = function (vals, explicit) {
+      if (explicit) { apply(vals, true); return; }
+      var cur = stored(true) || ALL_DENIED;
+      var merged = {};
+      for (var i = 0; i < SIGS.length; i++) {
+        var s = SIGS[i];
+        merged[s] = vals && vals[s] === "denied" ? "denied" : cur[s];
+      }
+      apply(merged, true);
+    };
+
+    var banner = document.getElementById("mh-consent-banner");
+    var decision = stored(false);
+    if (decision) {
+      apply(decision, false);
+    } else {
+      var grace = setTimeout(show, GRACE_MS);
+      window.addEventListener("mh-consent-reopen", function () { clearTimeout(grace); show(); });
+    }
+
+    // Registered unconditionally so "Manage consent" always works, even when a
+    // stored decision exists at load (returning visitors).
+    window.addEventListener("mh-consent-reopen", function () {
+      try { localStorage.removeItem(KEY); } catch (e) {}
+      show();
+    });
+    if (banner) {
+      banner.querySelector(".mh-consent-accept").addEventListener("click", function () {
+        window.__mhUserDecidedThisLoad = true;
+        apply(ANALYTICS_ONLY, true);
+      });
+      banner.querySelector(".mh-consent-reject").addEventListener("click", function () {
+        window.__mhUserDecidedThisLoad = true;
+        apply(ALL_DENIED, true);
+      });
+    }
+  })();
+</script>
+<style>
+  #mh-consent-banner {
+    position: fixed;
+    inset: auto 0 0 0;
+    z-index: 2147483000;
+    padding: 12px 16px;
+    background: #0f172a;
+    color: #e2e8f0;
+    box-shadow: 0 -4px 16px rgba(2, 6, 23, 0.4);
+  }
+  .mh-consent-card {
+    max-width: 720px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .mh-consent-text { margin: 0; font-size: 0.875rem; line-height: 1.4; }
+  .mh-consent-actions { display: flex; gap: 8px; }
+  .mh-consent-btn {
+    border: 1px solid #475569;
+    background: transparent;
+    color: #e2e8f0;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.875rem;
+    cursor: pointer;
+  }
+  .mh-consent-accept { background: #2563eb; border-color: #2563eb; color: #fff; }
+  .mh-consent-btn:hover { filter: brightness(1.1); }
+  [dir="rtl"] .mh-consent-card { flex-direction: row-reverse; }
+</style>
