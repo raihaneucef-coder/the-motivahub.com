@@ -1,27 +1,27 @@
 ---
-// F-12: first-party cookie banner.
+// F-12: first-party cookie banner with Google CMP coordination.
 // Google's Privacy & messaging CMP (Funding Choices) does not load for most
 // visitors (0 fundingchoices requests observed), so the googlefc callback never
 // fires and Consent Mode v2 stays all-denied forever — GA4 then only receives
-// cookieless hits (and none since 2026-10-27). This banner provides the
-// consent decision locally: it applies a stored decision on every page load
-// and shows the banner only when no decision exists yet.
-// Priority: a stored first-party decision wins over the (missing) CMP verdict.
+// cookieless hits (none since 2026-10-27). This banner provides the consent
+// decision locally, with a grace period so that, where the certified Google CMP
+// does appear (EEA/UK/CH), the CMP verdict wins and no double banner shows.
+// Priority: stored decision > CMP verdict > banner choice. Decisions persist
+// and can be re-opened at any time via the footer "Manage consent" link.
 ---
 <div id="mh-consent-banner" hidden role="region" aria-label="Cookie consent">
   <div class="mh-consent-card">
-    <p class="mh-consent-text" data-en="We use cookies to measure traffic and improve the site. Analytics stay off until you accept.">
-      We use cookies to measure traffic and improve the site. Analytics stay off until you accept.
-    </p>
+    <p class="mh-consent-text"></p>
     <div class="mh-consent-actions">
-      <button type="button" class="mh-consent-btn mh-consent-accept" data-en="Accept">Accept</button>
-      <button type="button" class="mh-consent-btn mh-consent-reject" data-en="Reject">Reject</button>
+      <button type="button" class="mh-consent-btn mh-consent-accept"></button>
+      <button type="button" class="mh-consent-btn mh-consent-reject"></button>
     </div>
   </div>
 </div>
 <script is:inline>
   (function () {
     var KEY = "mh-consent";
+    var GRACE_MS = 3500;
     var LANG = document.documentElement.lang || "en";
     var TXT_EN = { t: "We use cookies to measure traffic and improve the site. Analytics stay off until you accept.", a: "Accept", r: "Reject" };
     var TXT = {
@@ -29,41 +29,78 @@
       fr: { t: "Nous utilisons des cookies pour mesurer le trafic et am\u00e9liorer le site. La mesure reste d\u00e9sactiv\u00e9e tant que vous n'acceptez pas.", a: "Accepter", r: "Refuser" },
       ar: { t: "\u0646\u0633\u062a\u0639\u0645\u0644 \u0645\u0644\u0641\u0627\u062a \u062a\u0639\u0631\u064a\u0641 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u0632\u064a\u0627\u0631\u0627\u062a \u0648\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0645\u0648\u0642\u0639. \u0627\u0644\u0642\u064a\u0627\u0633 \u0645\u0628\u0644\u0648\u0643 \u062d\u062a\u0649 \u062a\u0642\u0628\u0644.", a: "\u0642\u0628\u0648\u0644", r: "\u0631\u0641\u0636" }
     }[LANG] || TXT_EN;
+    var ALL_GRANTED = { analytics_storage: "granted", ad_storage: "granted", ad_user_data: "granted", ad_personalization: "granted" };
+    var ALL_DENIED = { analytics_storage: "denied", ad_storage: "denied", ad_user_data: "denied", ad_personalization: "denied" };
 
-    function updateConsent(analyticsGranted) {
+    // stored() returns the exact 4-signal set, or null. Legacy plain
+    // 'granted'/'denied' strings (pre-v2) are mapped to all-granted/all-denied.
+    function stored() {
+      try {
+        var raw = localStorage.getItem(KEY);
+        if (!raw) return null;
+        if (raw === "granted") return ALL_GRANTED;
+        if (raw === "denied") return ALL_DENIED;
+        var v = JSON.parse(raw);
+        if (v && v.v === 2 && typeof v.analytics_storage === "string") return v;
+        return null;
+      } catch (e) { return null; }
+    }
+
+    function updateConsent(v) {
       if (typeof window.gtag !== "function") return;
       gtag("consent", "update", {
-        analytics_storage: analyticsGranted ? "granted" : "denied",
-        ad_storage: analyticsGranted ? "granted" : "denied",
-        ad_user_data: analyticsGranted ? "granted" : "denied",
-        ad_personalization: analyticsGranted ? "granted" : "denied"
+        analytics_storage: v.analytics_storage,
+        ad_storage: v.ad_storage,
+        ad_user_data: v.ad_user_data,
+        ad_personalization: v.ad_personalization
       });
     }
 
-    var stored = null;
-    try { stored = localStorage.getItem(KEY); } catch (e) {}
-    if (stored === "granted" || stored === "denied") {
-      updateConsent(stored === "granted");
-      return;
+    function apply(v, persist) {
+      updateConsent(v);
+      if (persist) { try { localStorage.setItem(KEY, JSON.stringify(Object.assign({ v: 2 }, v))); } catch (e) {} }
+      var banner = document.getElementById("mh-consent-banner");
+      if (banner) banner.hidden = true;
     }
 
-    var banner = document.getElementById("mh-consent-banner");
-    if (!banner) return;
-    banner.hidden = false;
-    var el = banner.querySelector(".mh-consent-text");
-    var btnA = banner.querySelector(".mh-consent-accept");
-    var btnR = banner.querySelector(".mh-consent-reject");
-    if (el) el.textContent = TXT.t;
-    if (btnA) btnA.textContent = TXT.a;
-    if (btnR) btnR.textContent = TXT.r;
-
-    function decide(value) {
-      try { localStorage.setItem(KEY, value); } catch (e) {}
-      updateConsent(value === "granted");
-      banner.hidden = true;
+    function show() {
+      var banner = document.getElementById("mh-consent-banner");
+      if (!banner || stored()) return;
+      var el = banner.querySelector(".mh-consent-text");
+      var btnA = banner.querySelector(".mh-consent-accept");
+      var btnR = banner.querySelector(".mh-consent-reject");
+      if (el) el.textContent = TXT.t;
+      if (btnA) btnA.textContent = TXT.a;
+      if (btnR) btnR.textContent = TXT.r;
+      banner.hidden = false;
     }
-    if (btnA) btnA.addEventListener("click", function () { decide("granted"); });
-    if (btnR) btnR.addEventListener("click", function () { decide("denied"); });
+
+    window.__mhConsent = { apply: apply, show: show, stored: stored };
+
+    // CMP hook: the certified Google CMP verdict (EEA/UK/CH) is applied and
+    // persisted EXACTLY as given — never widened, never overridden by us.
+    // A stored decision always wins.
+    window.__mhApplyCmp = function (vals) {
+      if (stored()) return;
+      apply(vals, true);
+    };
+
+    var decision = stored();
+    if (decision) {
+      apply(decision, false);
+    } else {
+      var grace = setTimeout(show, GRACE_MS);
+      window.addEventListener("mh-consent-reopen", function () {
+        clearTimeout(grace);
+        try { localStorage.removeItem(KEY); } catch (e) {}
+        show();
+      });
+      var banner = document.getElementById("mh-consent-banner");
+      if (banner) {
+        banner.querySelector(".mh-consent-accept").addEventListener("click", function () { clearTimeout(grace); apply(ALL_GRANTED, true); });
+        banner.querySelector(".mh-consent-reject").addEventListener("click", function () { clearTimeout(grace); apply(ALL_DENIED, true); });
+      }
+    }
   })();
 </script>
 <style>

@@ -138,26 +138,29 @@ const deferGa = GA_ID
       window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
       window.googlefc.callbackQueue.push({
       'CONSENT_MODE_DATA_READY': function () {
-        // F-12: a stored first-party decision (mh-consent) wins — do not let a
-        // late/absent CMP verdict override what the visitor chose in the banner.
-        try { if (localStorage.getItem('mh-consent')) return; } catch (e) {}
+        // F-12: the certified Google CMP verdict is routed through the banner
+        // hook so a stored decision is never overridden (no double-banner).
+        window.__mhCmpSeen = true;
         try {
-            var v = googlefc.getGoogleConsentModeValues();
-            var GRANTED = (googlefc.ConsentModePurposeStatusEnum || {}).GRANTED || 1;
-            var g = function (s) { return s === GRANTED ? 'granted' : 'denied'; };
-            if (typeof window.gtag === 'function') {
-              gtag('consent', 'update', {
-                analytics_storage: g(v.analyticsStoragePurposeConsentStatus),
-                ad_storage: g(v.adStoragePurposeConsentStatus),
-                ad_user_data: g(v.adUserDataPurposeConsentStatus),
-                ad_personalization: g(v.adPersonalizationPurposeConsentStatus)
-              });
-            }
-            if (v.adStoragePurposeConsentStatus === GRANTED && typeof window.__loadAdsense === 'function') {
-              window.__loadAdsense();
-            }
-          } catch (e) {}
-        }
+          var v = googlefc.getGoogleConsentModeValues();
+          var GRANTED = (googlefc.ConsentModePurposeStatusEnum || {}).GRANTED || 1;
+          var g = function (s) { return s === GRANTED ? 'granted' : 'denied'; };
+          var vals = {
+            analytics_storage: g(v.analyticsStoragePurposeConsentStatus),
+            ad_storage: g(v.adStoragePurposeConsentStatus),
+            ad_user_data: g(v.adUserDataPurposeConsentStatus),
+            ad_personalization: g(v.adPersonalizationPurposeConsentStatus)
+          };
+          if (typeof window.__mhApplyCmp === 'function') {
+            window.__mhApplyCmp(vals);
+          } else if (typeof window.gtag === 'function') {
+            gtag('consent', 'update', vals);
+          }
+          if (v.adStoragePurposeConsentStatus === GRANTED && typeof window.__loadAdsense === 'function') {
+            window.__loadAdsense();
+          }
+        } catch (e) {}
+      }
       });
     </script>
     <link rel="preload" href="/fonts/fraunces-normal-latin-63f165.woff2" as="font" type="font/woff2" crossorigin />
