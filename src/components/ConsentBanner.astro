@@ -103,6 +103,19 @@
     var decision = stored(false);
     if (decision) {
       apply(decision, false);
+      // gtag.js is idle-loaded and may process the denied default (and even
+      // fire the page_view) before this end-of-body script runs, so the
+      // stored update can lose that race. Re-assert the stored decision at
+      // safe points: the last consent entry always wins. Skipped when a
+      // same-load user decision exists (it is authoritative).
+      var reassert = function () {
+        if (window.__mhUserDecidedThisLoad) return;
+        var d = stored(true);
+        if (d) updateConsent(d);
+      };
+      window.addEventListener("load", reassert);
+      setTimeout(reassert, 1500);
+      setTimeout(reassert, 3600);
     } else {
       var grace = setTimeout(show, GRACE_MS);
       window.addEventListener("mh-consent-reopen", function () { clearTimeout(grace); show(); });
