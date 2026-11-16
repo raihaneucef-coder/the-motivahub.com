@@ -3,12 +3,14 @@ title: "Body Votes First — The Hidden Election That Runs Your Life"
 seoTitle: "Body Votes First: The Hidden Election You Miss"
 description: "Your body votes before your mind does. Learn why physical training is not vanity — it is the maintenance of the instrument that does everything else."
 titleFr: "Le Corps Vote d'Abord : Écouter Votre Corps"
+seoTitleFr: "Le corps vote d'abord : écoutez vos signaux"
 descriptionFr: "Votre corps connaît la vérité avant votre esprit. Apprenez à écouter les signaux de votre corps pour prendre de meilleures décisions."
 pubDate: 2026-08-17
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "8 MIN"
 image: "/images/blog/body-votes-first.jpg"
-imageAlt: "Youssef Raihane running in the rain during half marathon training - body votes first"
+imageAlt: "A man holding a push-up on red handles while a kneeling coach checks his form in a gym"
+imageAltFr: "Un homme en position de pompes sur des poignées rouges, encadré par une coach à genoux qui contrôle son geste"
 topic: "Sport"
 keywords:
   - "body votes first"
@@ -23,12 +25,12 @@ keywords:
   - "physical health mental health"
 tags:
   - "sport"
-wordCount: 1481
+wordCount: 1601
 faq:
   - q: "What does 'body votes first' mean?"
     a: "It means your body's state determines your mind's performance before you even make a conscious choice. If you are tired, hungry, or sedentary, your mind will make worse decisions — not because you are weak, but because your biology is running the election."
   - q: "How does exercise affect decision making?"
-    a: "Exercise transiently raises several neurotransmitters, including dopamine and serotonin, and regular activity is associated with higher BDNF (brain-derived neurotrophic factor), a protein that supports neuron health. The effect on mood and alertness is real but variable: a 20-minute walk often sharpens the next few hours, not the entire afternoon."
+    a: "Exercise transiently raises several neurotransmitters, including dopamine and serotonin, and regular activity is associated with higher BDNF (brain-derived neurotrophic factor), a protein that supports neuron health (<a href=\"https://pubmed.ncbi.nlm.nih.gov/25455510/\">Szuhany et al., 2015</a>). The effect on mood and alertness is real but variable: a 20-minute walk often sharpens the next few hours, not the entire afternoon."
   - q: "Do I need to be an athlete to benefit from this?"
     a: "No. You need consistency, not intensity. Two 20-minute walks per week preserve the body that carries your mind. One hard effort per week reminds you that discomfort is survivable. The minimum effective dose is much smaller than you think."
   - q: "What is the relationship between body and identity?"
@@ -37,7 +39,7 @@ faqFr:
   - q: "Que veut dire « le corps vote en premier » ?"
     a: "Cela veut dire que l'état de votre corps détermine les performances de votre esprit avant même que vous fassiez un choix conscient. Si vous êtes fatigué, affamé ou sédentaire, votre esprit prendra de moins bonnes décisions — non parce que vous êtes faible, mais parce que votre biologie tient les urnes."
   - q: "Comment l'exercice influence-t-il la prise de décision ?"
-    a: "L'exercice augmente temporairement plusieurs neurotransmetteurs, dont la dopamine et la sérotonine, et une activité régulière est associée à un BDNF plus élevé (facteur neurotrophique dérivé du cerveau), une protéine qui soutient la santé des neurones. L'effet sur l'humeur et la vigilance est réel mais variable : une marche de 20 minutes aiguise souvent les quelques heures suivantes, pas tout l'après-midi."
+    a: "L'exercice augmente temporairement plusieurs neurotransmetteurs, dont la dopamine et la sérotonine, et une activité régulière est associée à un BDNF plus élevé (facteur neurotrophique dérivé du cerveau), une protéine qui soutient la santé des neurones (<a href=\"https://pubmed.ncbi.nlm.nih.gov/25455510/\">Szuhany et al., 2015</a>). L'effet sur l'humeur et la vigilance est réel mais variable : une marche de 20 minutes aiguise souvent les quelques heures suivantes, pas tout l'après-midi."
   - q: "Faut-il être athlète pour en bénéficier ?"
     a: "Non. Il faut de la régularité, pas de l'intensité. Deux marches de 20 minutes par semaine préservent le corps qui porte votre esprit. Un effort difficile par semaine vous rappelle que l'inconfort est supportable. La dose minimale efficace est bien plus petite que ce que vous croyez."
   - q: "Quel lien entre le corps et l'identité ?"
@@ -56,7 +58,7 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p5">It writes the plans. It sets the alarms. It recites the ambitions at midnight. But watch closely on any given afternoon and you will see who actually runs the day: the body votes first, and the mind simply obeys.</div>
 
-<div data-i18n-html="article_body-votes-first_p6">I learned this in 2022, when I was training for a half marathon. I was 85 kilograms, 28 years old, and my only experience with running was running to catch a bus. The dare — six months to cover 21 kilometers — came from a friend; whether I could actually keep it, I did not yet know.</div>
+<div data-i18n-html="article_body-votes-first_p6">I learned this in 2022, when I was training for a half marathon. I was 85 kilograms, and my only experience with running was running to catch a bus. The dare — six months to cover 21 kilometers — came from a friend; whether I could actually keep it, I did not yet know.</div>
 
 <div data-i18n-html="article_body-votes-first_p7">For the first 3 weeks the body volunteered before the mind was ever consulted. I ran every morning, tracked my pace, bought new shoes — and none of it felt like effort, because desire was doing the deciding for me.</div>
 
@@ -86,7 +88,7 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p20"><strong>Movement changes brain chemistry.</strong> Exercise transiently raises several neurotransmitters, including dopamine and serotonin, and regular activity is associated with higher BDNF (brain-derived neurotrophic factor), a protein that supports neuron health (<a href="https://pubmed.ncbi.nlm.nih.gov/25455510/" target="_blank" rel="noopener">Szuhany et al., 2015</a>). The effect on mood and alertness is real but variable: a 20-minute walk often sharpens the next few hours, not the entire afternoon.</div>
 
-<div data-i18n-html="article_body-votes-first_p21"><strong>Sleep shapes patience.</strong> Sleep five nights at six hours and your prefrontal cortex — the part of the brain responsible for rational decision-making — becomes underactive. You become more impulsive, more emotional, less strategic.</div>
+<div data-i18n-html="article_body-votes-first_p21"><strong>Sleep shapes patience.</strong> Restricting sleep to six hours a night measurably dulls attention, working memory and decision-making (<a href="https://pubmed.ncbi.nlm.nih.gov/21075236/" target="_blank" rel="noopener">Killgore, Progress in Brain Research 2010</a>). The prefrontal regions that hold you to your long-term plan are among the first to lose steam — which is why a short night turns you into someone who takes the easy option and regrets it later.</div>
 
 <div data-i18n-html="article_body-votes-first_p22"><strong>Nutrition fuels the machine.</strong> Skip breakfast after a late night and your blood glucose may dip; decision quality often drops before you consciously feel tired. That is not clinical hypoglycaemia — a medical condition — but it is a good reason to keep an easy source of protein and fibre within reach.</div>
 
@@ -164,14 +166,15 @@ relatedArticles:
 
 <div data-i18n-html="article_body-votes-first_p54"><em>Youssef Raihane ran his first half marathon in 2022, crossing the line in 2 hours 15 minutes. What has outlasted that training is not the race but the habit of trusting the body's votes — the same maintenance logic he now runs his writing and every long project on.</em></div>
 
+<div data-i18n-html="article_body-votes-first_p58"><strong>The body votes first.</strong> To see how to protect that vote with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
+
 <div data-i18n-html="article_body-votes-first_p55"><h2>Sources</h2></div>
 
-<div data-i18n-html="article_body-votes-first_p56">1. <em>Ratey, J. J., & Hagerman, E.</em> (2008). <em>Spark: The Revolutionary New Science of Exercise and the Brain.</em> — for the cognitive benefits of exercise
-2. <em>Walker, M.</em> (2017). <em>Why We Sleep: Unlocking the Power of Sleep and Dreams.</em> — for the sleep-decision making connection
-3. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the identity-based habits framework</div>
+<div data-i18n-html="article_body-votes-first_p56">1. <em>Szuhany, K. I., Bugatti, M., & Otto, M. W.</em> (2015). <em>A meta-analytic review of the effects of exercise on brain-derived neurotrophic factor.</em> Journal of Psychiatric Research, 60, 56–64 — for the BDNF claim (<a href="https://pubmed.ncbi.nlm.nih.gov/25455510/" target="_blank" rel="noopener">PubMed 25455510</a>)
+2. <em>Killgore, W. D. S.</em> (2010). <em>Effects of sleep deprivation on cognition.</em> Progress in Brain Research — for what a short night does to judgement (<a href="https://pubmed.ncbi.nlm.nih.gov/21075236/" target="_blank" rel="noopener">PubMed 21075236</a>)
+3. <em>Ratey, J. J., & Hagerman, E.</em> (2008). <em>Spark: The Revolutionary New Science of Exercise and the Brain.</em> — a popular synthesis, not a primary study; used here for the body-to-brain framing
+4. <em>Clear, J.</em> (2018). <em>Atomic Habits.</em> — for the identity-based habits framework, which is a coaching model rather than an experiment</div>
 
 <hr />
 
-<div data-i18n-html="article_body-votes-first_p58"><strong>The body votes first.</strong> To see how to protect that vote with the 2-minute rule and the 2-day rule, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to habits instead of miles.</div>
-
-<div data-i18n-html="article_body-votes-first_p59"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal half marathon training story, specific body-mind connection examples, and the identity file framework).</em></div>
+<div data-i18n-html="article_body-votes-first_p59"><em>Last updated: November 6, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal half marathon training story, specific body-mind connection examples, and the identity file framework).</em></div>

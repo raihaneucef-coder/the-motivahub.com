@@ -6,7 +6,7 @@ titleFr: "J'ai testé 12 routines matinales pendant 14 jours. Seules 3 ont tenu.
 seoTitleFr: "12 routines matinales testées pendant 14 jours"
 descriptionFr: "Quatorze jours, douze routines, quatre archétypes. Les routines matinales qui marchent vraiment — et celles qui ne sont que du bien-être coûteux."
 pubDate: 2026-09-03
-updatedDate: 2026-11-04
+updatedDate: 2026-11-06
 readTime: "16 MIN"
 image: "/images/blog/morning-routines-12-tested-1.jpg"
 imageAlt: "Youssef Raihane - morning routines 12 tested concept"
@@ -61,7 +61,7 @@ relatedArticles:
   - "regle-deux-minutes"
 ---
 
-<div data-i18n-html="article_morning-routines-12-tested_p2">Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive.</div>
+<div data-i18n-html="article_morning-routines-12-tested_p2">Fourteen days, twelve routines, four archetypes. A field report on which morning routines actually work for which kind of disciplined person — and which ones are just expensive ways to feel productive. This article groups morning routines into four archetypes and explains who each suits. For the personal survivor story (the 8-minute version that stuck), see <a href="/journal/i-tested-12-morning-routines/">the 8-minute morning routine that survived 30 days</a>.</div>
 
 <div data-i18n-html="article_morning-routines-12-tested_p4"><strong>There is no single best morning routine.</strong> I tested 12 routines for 14 days. The three that stuck were: 5-minute journaling, 20-minute walk, and 10-minute cold shower. Everything else collapsed under its own ambition. The best routine is the one you can sustain on your worst day. Most morning routines fail because they're designed for a day that doesn't exist.</div>
 
@@ -237,4 +237,4 @@ relatedArticles:
 
 <div data-i18n-html="article_morning-routines-12-tested_p88">The 14 days are not enough to form the habit. They are enough to find the routine. The next 60 days are where the routine becomes the person. Our <a href="/journal/two-minute-rule-guide/">2-Minute Rule guide</a> shows the protocol that makes the doorway automatic. The morning routine is one version of the doorway. The discipline is the house.</div>
 
-<div data-i18n-html="article_morning-routines-12-tested_p89"><em>Last updated: November 4, 2026 — changelog corrected (the September 7 entry described content this update did not add). Recent content revisions: October 22-23, 2026 (quality repairs) and October 30, 2026 (verified sources).</em></div>
+<div data-i18n-html="article_morning-routines-12-tested_p89"><em>Last updated: November 6, 2026 — added a cross-link to the 8-minute survivor story. Earlier updates: November 4, 2026 (changelog corrected — the September 7 entry described content this update did not add); October 22-23, 2026 (quality repairs); October 30, 2026 (verified sources).</em></div>

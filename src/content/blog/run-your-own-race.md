@@ -6,11 +6,12 @@ titleFr: "Courez Votre Propre Course : Ne Comparez pas votre Chapitre 1 au Chapi
 seoTitleFr: "Courir sa propre course : arrêter de se comparer"
 descriptionFr: "Courez votre propre course. La comparaison est le voleur de la joie. Apprenez à tenir votre rythme quand tout le monde sprinte autour de vous."
 pubDate: 2026-08-18
-updatedDate: 2026-10-18
+updatedDate: 2026-11-06
 topic: "Sport"
 readTime: "6 MIN"
 image: "/images/blog/run-your-own-race-2.jpg"
-imageAlt: "Lone runner on an outdoor track - run your own race"
+imageAlt: "A lone runner crossing the grass infield of an outdoor athletics track, empty lanes in the foreground"
+imageAltFr: "Un coureur seul traverse le terrain en herbe d'une piste d'athlétisme, lignes vides au premier plan"
 featured: false
 draft: false
 keywords:
@@ -25,21 +26,21 @@ keywords:
 tags:
   - "sport"
   - "discipline"
-wordCount: 607
+wordCount: 617
 faq:
   - q: "Why should I 'run my own race'?"
-    a: "Because comparing your Chapter 1 to someone else's Chapter 20 distorts reality and drains motivation. Elite runners pace their own race — those who sprint to match others hit the wall first. Your only valid comparison is yesterday's you vs today's you."
+    a: "Because comparing your Chapter 1 to someone else's Chapter 20 distorts reality and drains motivation. Racing rewards a pace you can repeat: borrow speed at the start and you pay for it later, because your stored fuel and your muscles' tolerance for fatigue are set by your own fitness, not by whoever is beside you. Your only valid comparison is yesterday's you vs today's you."
   - q: "Is running your own race the same as not competing?"
     a: "No. It means choosing a pace you can sustain instead of sprinting to match someone else. You can still compete seriously — the goal is to finish strong, not to burn out early."
   - q: "What does 'don't compare your Chapter 1 to their Chapter 20' mean?"
-    a: "You see the finished product publicly but never the 19 chapters of invisible struggle, failures, and boring consistency. Someone 'overnight successful' has usually been building for 7-15 years. Judge your journey by your own pace, not their visible highlight."
+    a: "You see the finished product publicly but never the invisible chapters — the failures, the boring consistency, the years of unglamorous preparation. Treat 'overnight success' as a story about what is visible, not about how long it took. Judge your journey by your own pace, not their visible highlight."
 faqFr:
   - q: "Pourquoi « courir sa propre course » ?"
-    a: "Parce que comparer votre chapitre 1 au chapitre 20 de quelqu'un d'autre fausse la réalité et vide la motivation. Les coureurs d'élite gèrent l'allure de leur propre course — ceux qui sprintent pour suivre les autres heurtent le mur les premiers. La seule comparaison valide oppose le vous d'hier au vous d'aujourd'hui."
+    a: "Parce que comparer votre chapitre 1 au chapitre 20 de quelqu'un d'autre fausse la réalité et vide la motivation. La course récompense une allure que vous pouvez répéter : emprunter de la vitesse au départ se paie plus tard, parce que vos réserves de carburant et la tolérance de vos muscles à la fatigue dépendent de votre forme à vous, pas de celui qui court à côté. La seule comparaison valide oppose le vous d'hier au vous d'aujourd'hui."
   - q: "Courir sa propre course, est-ce renoncer à la compétition ?"
     a: "Non. Cela veut dire choisir une allure que vous pouvez tenir au lieu de sprinter pour suivre quelqu'un d'autre. Vous pouvez tout à fait prendre la compétition au sérieux — l'objectif est de terminer en force, pas de s'épuiser trop tôt."
   - q: "Que veut dire « ne comparez pas votre chapitre 1 au chapitre 20 des autres » ?"
-    a: "Vous voyez le produit fini en public, mais jamais les 19 chapitres de lutte invisible, d'échecs et de régularité ennuyeuse. Une personne « réussie du jour au lendemain » construit en général depuis 7 à 15 ans. Jugez votre parcours à votre propre allure, pas aux moments forts qu'ils laissent voir."
+    a: "Vous voyez le produit fini en public, mais jamais les chapitres invisibles — les échecs, la régularité ennuyeuse, les années de préparation sans éclat. Considérez le « succès soudain » comme une histoire sur ce qui est visible, pas sur le temps que cela a pris. Jugez votre parcours à votre propre allure, pas aux moments forts qu'ils laissent voir."
 
 relatedArticles:
   - "force-mentale-sport"
@@ -67,7 +68,7 @@ relatedArticles:
 
 <div data-i18n-html="article_run-your-own-race_p14"><h2>What Running Your Own Race Looks Like Off the Track</h2></div>
 
-<div data-i18n-html="article_run-your-own-race_p15">Career: the person who "got lucky" at 30 has usually been putting in steady, unglamorous reps for a decade. Building: the founder who compounds growth quietly tends to beat the one who spikes and then stalls. Money: the investor who holds a boring plan for twenty years outlasts the one chasing this month's winner. In every case the losers are not less talented — they simply lost the will to hold a pace that looked slow while everyone else sprinted.</div>
+<div data-i18n-html="article_run-your-own-race_p15">Career: the person who "got lucky" in their threes has usually put in steady, unglamorous reps for years. Building: the founder who compounds growth quietly tends to beat the one who spikes and then stalls. Money: the investor who holds a boring plan for twenty years outlasts the one chasing this month's winner. In every case the losers are not less talented — they simply lost the will to hold a pace that looked slow while everyone else sprinted.</div>
 
 <div data-i18n-html="article_run-your-own-race_p7">Pacing feels slow. It feels like you are being left behind. But the race is not won at the start. It is won by the person who is <a href="/journal/recovery-is-training/">still running when others have burned out</a>.</div>
 
@@ -83,6 +84,6 @@ relatedArticles:
 
 <div data-i18n-html="article_run-your-own-race_p18"><h2>How to Find the Pace You Can Actually Hold</h2></div>
 
-<div data-i18n-html="article_run-your-own-race_p19">Pace is not guessed, it is measured. Do a few easy sessions and notice the effort you can sustain while still breathing through your nose — that is your real baseline, not the number you saw someone else post. Set targets from that baseline, then add five to ten percent once a week starts feeling easy. The same logic builds careers and projects: commit to the volume you can repeat on your worst day, and grow from consistency, not from heroics. For the daily system that keeps you honest, see <a href="/journal/discipline-personnelle-guide/">the personal discipline guide</a>.</div>
+<div data-i18n-html="article_run-your-own-race_p19">Pace is not guessed, it is measured. Do a few easy sessions and notice the effort you can sustain while still breathing through your nose — that is your real baseline, not the number you saw someone else post. Set targets from that baseline, then build in small steps — the old rule of thumb, no more than about ten percent at a time, exists because tendons and joints adapt slower than your lungs do. The same logic builds careers and projects: commit to the volume you can repeat on your worst day, and grow from consistency, not from heroics. For the daily system that keeps you honest, see <a href="/journal/discipline-personnelle-guide/">the personal discipline guide</a>.</div>
 
 <div data-i18n-html="article_run-your-own-race_p10">You do not need to be the fastest at the start. You need to be the one who is still running at the end.</div>

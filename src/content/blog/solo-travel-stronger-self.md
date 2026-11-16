@@ -6,7 +6,7 @@ titleFr: "Voyager Seul pour Devenir Plus Fort : Guide de Voyage en Solo"
 seoTitleFr: "Voyager seul pour devenir plus fort"
 descriptionFr: "Voyager seul est une expérience transformatrice. Découvrez comment un voyage en solo peut renforcer votre confiance et votre indépendance."
 pubDate: 2026-08-11
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 topic: "Travel"
 readTime: "5 MIN"
 image: "/images/blog/solo-travel-stronger-self-2.jpg"
@@ -47,7 +47,7 @@ relatedArticles:
   - "voyage-budget"
 ---
 
-<div data-i18n-html="article_solo-travel-stronger-self_p2">Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself.</div>
+<div data-i18n-html="article_solo-travel-stronger-self_p2">Travel alone once and you learn what you are made of. The world becomes quiet enough to hear yourself. Not sure whether it is worth it? Start with <a href="/journal/voyage-solo/">why everyone should travel alone at least once</a>.</div>
 
 <div data-i18n-html="article_solo-travel-stronger-self_h2a"><h2>Alone, you learn about yourself</h2></div>
 

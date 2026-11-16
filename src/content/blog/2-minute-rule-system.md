@@ -6,7 +6,7 @@ titleFr: "La Règle des 2 Minutes : Un Système Complet, pas une Simple Astuce"
 seoTitleFr: "La règle des 2 minutes : un système complet"
 descriptionFr: "La règle des 2 minutes de James Clear est mal comprise : ce n'est pas un hack de productivité, mais un système complet d'identité et de récupération."
 pubDate: 2026-09-05
-updatedDate: 2026-09-21
+updatedDate: 2026-11-06
 readTime: "18 MIN"
 image: "/images/blog/2-minute-rule-system-2.jpg"
 imageAlt: "Running shoes taking the first step on a track - the two minute rule system"
@@ -233,7 +233,7 @@ relatedArticles:
 
 <div data-i18n-html="article_2-minute-rule-system_p84">The 2-minute rule is not a trick. It is a complete system. Treat it like one.</div>
 
-<div data-i18n-html="article_2-minute-rule-system_p85"><em>Last updated: September 12, 2026 — added personal 90-day writing experiment, failure modes from real practice, and the anchor protocol.</em></div>
+<div data-i18n-html="article_2-minute-rule-system_p85"><em>Last updated: November 6, 2026 — pruned a redundant cross-link. Earlier update: September 12, 2026 (added personal 90-day writing experiment, failure modes from real practice, and the anchor protocol).</em></div>
 
 <div data-i18n-html="article_2-minute-rule-system_p86"><h2>Related reads</h2></div>
 
@@ -241,4 +241,4 @@ relatedArticles:
 - <a href="/journal/morning-vs-night/">Morning vs Night: Which Discipline Actually Sticks?</a> — The chronotype test that tells you which discipline routine will survive.
 - <a href="/journal/discipline-vs-punishment/">The Difference Between Discipline and Punishment</a> — Three tests to tell whether you are building or breaking.</div>
 
-<div data-i18n-html="article_2-minute-rule-system_p88"><strong>How this page differs:</strong> here the rule is treated as a complete habit system. If you want the evidence and a step-by-step week, go to the <a href="/journal/two-minute-rule-guide/">2-Minute Rule: 7-Day Protocol &amp; Full Guide</a>; for a gentler just-start introduction, see <a href="/journal/regle-deux-minutes/">Building Better Habits in 120 Seconds</a>.</div>
+<div data-i18n-html="article_2-minute-rule-system_p88"><strong>How this page differs:</strong> here the rule is treated as a complete habit system. If you want the evidence and a step-by-step week, go to the <a href="/journal/two-minute-rule-guide/">2-Minute Rule: 7-Day Protocol &amp; Full Guide</a>.</div>

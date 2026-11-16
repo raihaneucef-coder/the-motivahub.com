@@ -2,14 +2,15 @@
 title: "Consistency Beats Intensity: The Athlete's Secret"
 seoTitle: "Consistency Beats Intensity: The Athlete's Edge"
 description: "The best athletes are not the most talented. They are the most consistent. Learn why showing up every day beats showing off occasionally."
-titleFr: "La Consistance Bat l'Intensité : Le Pouvoir des Petits Acts"
+titleFr: "La Consistance Bat l'Intensité : Le Pouvoir des Petits Pas"
 seoTitleFr: "Consistance vs intensité : les petits pas gagnent"
-descriptionFr: "La consistance bat toujours l'intensité. Découvrez pourquoi les petits acts répétés sont plus puissants que les efforts héroïques."
+descriptionFr: "La consistance bat toujours l'intensité. Découvrez pourquoi les petits pas répétés sont plus puissants que les efforts héroïques."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-11-06
 readTime: "5 MIN"
 image: "/images/blog/consistance-bat-intensite.jpg"
-imageAlt: "Youssef Raihane - consistance bat intensite concept"
+imageAlt: "Close-up of a lifter's hand gripping a loaded barbell at floor level in a dim gym"
+imageAltFr: "Gros plan sur la main d'un athlète qui saisit une barre chargée au ras du sol dans une salle sombre"
 topic: "Sport"
 keywords:
   - "consistency beats intensity"
@@ -22,17 +23,17 @@ keywords:
   - "never miss twice rule"
 tags:
   - "sport"
-wordCount: 446
+wordCount: 429
 faq:
   - q: "Why does consistency beat intensity?"
     a: "Because results compound. 20 minutes daily for a year (120 hours) beats 3-hour sessions every two weeks (78 hours). Intensity creates soreness and burnout; consistency creates neural pathways and identity. The athlete who shows up mediocre daily outperforms the one who trains perfectly twice a week."
   - q: "How do I stay consistent when motivation drops?"
     a: "Lower the bar, not the standard. On bad days, do the minimum viable version: 5 push-ups instead of 50, 1 page instead of a chapter. The goal isn't the workout — it's keeping the chain alive. James Clear calls this 'never miss twice.'"
 faqFr:
-  - q: "Pourquoi la cohérence bat l'intensité ?"
-    a: "Parce que les résultats se composent. 20 minutes par jour pendant un an (120 heures) battent des sessions de 3 heures toutes les deux semaines (78 heures). L'intensité crée des courbatures et l'épuisement ; la cohérence crée des voies neuronales et une identité."
-  - q: "Comment rester cohérent quand la motivation baisse ?"
-    a: "Abaissez la barre, pas le standard. Les mauvais jours, faites la version minimale : 5 pompes au lieu de 50, 1 page au lieu d'un chapitre. L'objectif n'est pas l'entraînement — c'est de garder la chaîne vivante."
+  - q: "Pourquoi la consistance bat-elle l'intensité ?"
+    a: "Parce que les résultats s'accumulent. 20 minutes par jour pendant un an (environ 120 heures) battent des sessions de 3 heures toutes les deux semaines (78 heures). L'intensité crée courbatures et épuisement ; la consistance crée des automatismes et une identité. L'athlète qui se présente médiocrement chaque jour dépasse celui qui s'entraîne parfaitement deux fois par semaine."
+  - q: "Comment rester constant quand la motivation baisse ?"
+    a: "Abaissez la barre, pas le standard. Les mauvais jours, faites la version minimale viable : 5 pompes au lieu de 50, 1 page au lieu d'un chapitre. L'objectif n'est pas la séance — c'est de garder la chaîne vivante. James Clear appelle cela « ne jamais rater deux fois »."
 
 relatedArticles:
   - "force-mentale-sport"
@@ -73,7 +74,8 @@ Showing up on days you do not feel like it is the training itself. The transfer 
 2. Attach it to an existing habit — "After breakfast, I exercise"
 3. Track your consistency — use our <a href="/tracker/">Habit Tracker</a>
 4. Never miss twice — one day off is a break, two days off is a new habit
-5. Focus on the process, not the outcome</div>
+5. Focus on the process, not the outcome
+6. Give it a fixed hour — <a href="/journal/the-morning-athlete/">the morning athlete</a> is the argument for a slot that nothing else can steal</div>
 
 <div data-i18n-html="article_consistance-bat-intensite_p14"><blockquote><em>It does not matter how slow you go, as long as you do not stop. — often attributed to Confucius</em></blockquote></div>
 

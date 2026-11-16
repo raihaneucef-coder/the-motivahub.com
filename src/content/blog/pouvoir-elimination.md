@@ -6,7 +6,7 @@ titleFr: "Le Pouvoir de l'Élimination : Faire Moins pour Accomplir Plus"
 seoTitleFr: "Le pouvoir de l'élimination : faire moins pour mieux"
 descriptionFr: "L'élimination est plus puissante que l'ajout. Filtre des 3 questions, modèle de liste stop-doing et audit 80/20 honnête des 80 % de travail qui ne comptent pas."
 pubDate: 2026-08-24
-updatedDate: 2026-09-25
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/pouvoir-elimination-2.jpg"
 imageAlt: "A clean minimal desk with only a monitor, keyboard and a plant"
@@ -36,13 +36,15 @@ faqFr:
     a: "Utilisez le filtre des 3 questions : (1) Si je ne faisais pas déjà ceci, commencerais-je aujourd'hui ? (2) Est-ce que cela sert mon objectif n°1 ? (3) Que se passe-t-il si j'arrête complètement ? Si la réponse est « rien d'important » — éliminez."
 
 relatedArticles:
+  - "slow-productivity-30-day-test"
+  - "quiet-power-of-doing-less"
   - "batching-productivite"
   - "deep-work-focus"
   - "deep-work-ritual"
   - "eat-the-frog"
 ---
 
-<div data-i18n-html="article_pouvoir-elimination_p2">I deleted 80% of my to-do list in January 2025. Not because I ran out of time — because I finally counted where it was actually going.</div>
+<div data-i18n-html="article_pouvoir-elimination_p2">I deleted 80% of my to-do list in January 2025. Not because I ran out of time — because I finally counted where it was actually going. This article is the how: the 3-question filter I run on every item before it earns a slot. The 30-day field report on how I ran this kind of cut is in <a href="/journal/slow-productivity-30-day-test/">the Slow Productivity test</a>.</div>
 
 <div data-i18n-html="article_pouvoir-elimination_p3">We live in a culture that celebrates busyness. More tasks, more meetings, more emails, more everything. But the most productive people do not do more — they do less.</div>
 

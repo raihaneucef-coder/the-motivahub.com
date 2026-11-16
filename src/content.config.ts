@@ -19,6 +19,11 @@ const blog = defineCollection({
     readTime: z.string(),
     image: z.string().default('/images/hero.jpg'),
     imageAlt: z.string().optional(),
+    // French alternative text for the cover image. Server-rendered only on
+    // /fr/* pages with fallback imageAlt → titleFr → title, so the visible alt
+    // always matches the language of the page. Not required: absent FR alts
+    // gracefully reuse the English text on FR pages.
+    imageAltFr: z.string().optional(),
     featured: z.boolean().optional().default(false),
     draft: z.boolean().optional().default(false),
     // Deprecates a whole EN/FR article pair without deleting either URL: both

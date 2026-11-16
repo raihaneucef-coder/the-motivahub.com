@@ -5,7 +5,7 @@ titleFr: "Le Pouvoir Silencieux de Faire Moins : Moins, mais Mieux"
 seoTitleFr: "Faire moins, mieux : le pouvoir silencieux"
 descriptionFr: "Faire moins n'est pas de la paresse — c'est une stratégie. Découvrez le pouvoir silencieux de la simplification et de la concentration."
 pubDate: 2026-08-14
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "7 MIN"
 image: "/images/blog/quiet-power-of-doing-less-2.jpg"
 imageAlt: "Single chair in an empty white room - the quiet power of doing less"
@@ -38,13 +38,15 @@ faqFr:
     a: "La paresse évite l'effort et vous laisse épuisé avec de la culpabilité. Le repos stratégique est une récupération intentionnelle qui alimente la production — les athlètes appellent cela la périodisation. Si le repos vous rend plus vif et plus motivé, il était productif. Si l'évitement vous laisse bloqué, c'est de la peur déguisée."
 
 relatedArticles:
+  - "slow-productivity-30-day-test"
+  - "pouvoir-elimination"
   - "batching-productivite"
   - "deep-work-focus"
   - "deep-work-ritual"
   - "eat-the-frog"
 ---
 
-<div data-i18n-html="article_quiet-power-of-doing-less_p3">We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus.</div>
+<div data-i18n-html="article_quiet-power-of-doing-less_p3">We have confused movement with progress. The disciplined mind learns to subtract — to protect the one thing that matters. Doing less is not laziness. It is the highest form of focus. This article is the why — the Stoic and craft-rooted argument for subtraction. The practical filter is in <a href="/journal/pouvoir-elimination/">the Power of Elimination</a>, and the 30-day field report is in <a href="/journal/slow-productivity-30-day-test/">the Slow Productivity test</a>.</div>
 
 
 <div data-i18n-html="article_quiet-power-of-doing-less_p4"><h2>The Cult of Busyness</h2></div>

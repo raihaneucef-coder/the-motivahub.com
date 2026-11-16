@@ -96,7 +96,7 @@ const archiveGroups: { topic: string; items: typeof posts }[] = (() => {
       <div class="container">
         <div class="featured-card-new">
           <Link href={`/fr/journal/${featuredSlug}/`} class="featured-card-img">
-            <img src={featured.data.image} alt={featured.data.imageAlt || featured.data.title} loading="eager" width="600" height="400" />
+            <img src={featured.data.image} alt={featured.data.imageAltFr || featured.data.imageAlt || featured.data.titleFr || featured.data.title} loading="eager" width="600" height="400" />
           </Link>
           <div class="featured-card-body">
             <p class="featured-card-label">Article à la une</p>

@@ -6,7 +6,7 @@ titleFr: "Voyager avec un petit budget : comment voir le monde sans se ruiner"
 seoTitleFr: "Voyager avec un petit budget sans se ruiner"
 descriptionFr: "Voyager ne doit pas être cher. Avec les bonnes stratégies, vous pouvez voir le monde avec un budget serré. Voici comment."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/voyage-budget-3.jpg"
 imageAlt: "A world map shaped from scattered coins on a white table"
@@ -60,7 +60,7 @@ Flights and hotels drop 30-50 percent outside peak months because demand collaps
 Hostels, guesthouses, and weekly apartment rentals are 50-70 percent cheaper than nightly hotel rates. A dorm bed in Southeast Asia costs 5-10€; a private room in a Vietnamese guesthouse, 12-15€. Beyond saving money, budget accommodation puts you in local neighbourhoods — hostels and homestays sit on residential streets; tourist hotels sit in commercial zones designed for transient spenders.</div>
 
 <div data-i18n-html="article_voyage-budget_p7"><h3>3. <a href="/journal/meal-prep-dimanche/">Eat Where Locals Eat</a></h3>
-Restaurant-markup near attractions runs 50-100 percent above the same dish five blocks away. Cook breakfast (eggs, bread, fruit from a market), eat street food or local warung for lunch (1-3€), and choose one sit-down dinner per day. This cuts your food budget to roughly 10€/day in Southeast Asia without malnourishing yourself on bread and coffee.</div>
+Restaurant-markup near attractions can run 50-100 percent above the same dish five blocks away. Cook breakfast (eggs, bread, fruit from a market), eat street food or local warung for lunch (1-3€), and choose one sit-down dinner per day. This cuts your food budget to roughly 10€/day in Southeast Asia without malnourishing yourself on bread and coffee.</div>
 
 <div data-i18n-html="article_voyage-budget_p8"><h3>4. Use Public Transportation and Walk</h3>
 A taxi across Bangkok costs 200-400 THB; the BTS Skytrain costs 16-44 THB. A metro day-pass in Porto: 7€; three Ubers: 21€. Walking is free and reveals the scale of a city — you notice shops, streets, and shortcuts that fly past the taxi window. Buy the transit card on day one; the savings compound across a month.</div>
@@ -76,14 +76,22 @@ Each city-to-city transfer costs money (transport) and time (logistics). Staying
 
 <div data-i18n-html="article_voyage-budget_p12"><h2>Sample Budget: 1 Month in Southeast Asia</h2></div>
 
-<div data-i18n-html="article_voyage-budget_p13">- Accommodation: 300€ (10€/night)
-- Food: 250€ (8€/day)
-- Transportation: 150€
-- Activities: 200€
-- <strong>Total: 900€ for a month</strong></div>
+<div data-i18n-html="article_voyage-budget_p13"><table style="width:100%;border-collapse:collapse;margin:.5rem 0 1.5rem;font-size:.95em;">
+<thead><tr>
+<th style="text-align:left;padding:.5rem;border-bottom:2px solid var(--line,#e5e5e5);">Category</th>
+<th style="text-align:right;padding:.5rem;border-bottom:2px solid var(--line,#e5e5e5);">Monthly</th>
+</tr></thead>
+<tbody>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Accommodation (10€/night)</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);text-align:right;">300€</td></tr>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Food (8€/day)</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);text-align:right;">250€</td></tr>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Transportation</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);text-align:right;">150€</td></tr>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);">Activities</td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);text-align:right;">200€</td></tr>
+<tr><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);"><strong>Total</strong></td><td style="padding:.5rem;border-bottom:1px solid var(--line,#eee);text-align:right;"><strong>900€</strong> for a month</td></tr>
+</tbody>
+</table></div>
 
 <div data-i18n-html="article_voyage-budget_p14">That is less than many people spend on rent at home.</div>
 
-<div data-i18n-html="article_voyage-budget_p15"><blockquote><em>The world is a book and those who do not travel read only one page. — Saint Augustine</em></blockquote></div>
+<div data-i18n-html="article_voyage-budget_p15"><blockquote><em>The world is a book and those who do not travel read only one page. — often attributed to Saint Augustine</em></blockquote></div>
 
 <div data-i18n-html="article_voyage-budget_p17"><strong>Travel on a budget today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you the discipline to save for travel. Track your progress with our <a href="/tracker/">Habit Tracker</a>.</div>

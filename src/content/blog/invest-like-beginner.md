@@ -5,7 +5,7 @@ titleFr: "Investis comme un débutant, pense comme un propriétaire"
 seoTitleFr: "Investir débutant, penser comme propriétaire"
 descriptionFr: "Tu n'as pas besoin d'être expert pour commencer à investir — tu as besoin de commencer et de rester. La propriété bat la prédiction."
 pubDate: 2026-08-13
-updatedDate: 2026-10-26
+updatedDate: 2026-11-05
 topic: "Finance"
 readTime: "5 MIN"
 image: "/images/blog/invest-like-beginner-3.jpg"
@@ -53,7 +53,7 @@ relatedArticles:
 <div data-i18n-html="article_invest-like-beginner_p3">Waiting to feel ready is the most expensive investment strategy.</div>
 
 
-<div data-i18n-html="article_invest-like-beginner_p4">Most people <a href="/journal/investir-debutant/">delay investing</a> because they believe they need to understand everything first. Experts, charts, perfect timing. Meanwhile, time — the most powerful asset — keeps moving.</div>
+<div data-i18n-html="article_invest-like-beginner_p4">Most people delay investing because they believe they need to understand everything first — experts, charts, perfect timing. For the actual steps (how much, where, how often), see the <a href="/journal/investir-debutant/">step-by-step guide to investing for beginners</a>. Meanwhile, time — the most powerful asset — keeps moving.</div>
 
 <div data-i18n-html="article_invest-like-beginner_h2b"><h2>Owning, not predicting</h2></div>
 

@@ -6,7 +6,7 @@ titleFr: "Mange la grenouille : pourquoi il faut attaquer la tâche la plus diff
 seoTitleFr: "Mange la grenouille : faire le plus dur en premier"
 descriptionFr: "La règle « mange la grenouille » : attaque la tâche la plus difficile dès le matin. Pourquoi faire le plus dur avant tout le reste change ta journée."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-11-06
 readTime: "5 MIN"
 image: "/images/blog/eat-the-frog-2.jpg"
 imageAlt: "Frog resting on lily pads in a pond - eat the frog first"
@@ -27,12 +27,12 @@ faq:
   - q: "What does 'eat the frog' mean?"
     a: "Based on a quote often credited to Mark Twain: if your job is to eat a frog, do it first thing and nothing worse will happen all day. In productivity, it means tackling your hardest, most dreaded task first — before email, before social media, before anything easier."
   - q: "Why is doing the hard thing first so effective?"
-    a: "The strong 'willpower is a finite battery' claim (ego depletion, Baumeister 1998) did not survive large multi-lab replications (Hagger et al., 2016). Doing the hard thing first still works for simpler reasons: before inbox, meetings and messages get a vote, decision fatigue is low, and the dread tax of postponement disappears. Schedule the frog while your attention is still yours."
+    a: "The strong 'willpower is a finite battery' claim (ego depletion, Baumeister 1998) did not survive large multi-lab replications \u2014 see <a href=\"https://doi.org/10.1177/1745691616652875\" target=\"_blank\" rel=\"noopener\">Hagger et al., 2016</a>. Doing the hard thing first still works for simpler reasons: before inbox, meetings and messages get a vote, decision fatigue is low, and the dread tax of postponement disappears. Schedule the frog while your attention is still yours."
 faqFr:
   - q: "Que signifie « avalez le crapaud » ?"
     a: "Basé sur une citation souvent attribuée à Mark Twain : si votre travail est de manger un crapaud, faites-le en premier et rien de pire n'arrivera de la journée. En productivité, cela signifie attaquer votre tâche la plus difficile en premier."
   - q: "Pourquoi faire la chose difficile en premier est si efficace ?"
-    a: "L'affirmation forte « la volonté est une batterie finie » (épuisement de l'ego, Baumeister 1998) n'a pas survécu aux grandes réplications multi-laboratoires (Hagger et al., 2016). Faire d'abord la tâche difficile fonctionne quand même, pour des raisons plus simples : avant que la boîte mail, les réunions et les messages accaparent votre attention, la fatigue décisionnelle est faible et l'anxiété de report disparaît. Planifiez le crapaud pendant que votre attention vous appartient encore."
+    a: "L'affirmation forte \u00ab la volont\u00e9 est une batterie finie \u00bb (\u00e9puisement de l'ego, Baumeister 1998) n'a pas surv\u00e9cu aux grandes r\u00e9plications multi-laboratoires \u2014 voir <a href=\"https://doi.org/10.1177/1745691616652875\" target=\"_blank\" rel=\"noopener\">Hagger et al., 2016</a>. Faire d'abord la t\u00e2che difficile fonctionne quand m\u00eame, pour des raisons plus simples : avant que la bo\u00eete mail, les r\u00e9unions et les messages accaparent votre attention, la fatigue d\u00e9cisionnelle est faible et l'anxi\u00e9t\u00e9 de report dispara\u00eet. Planifiez le crapaud pendant que votre attention vous appartient encore."
 
 relatedArticles:
   - "quiet-power-of-doing-less"

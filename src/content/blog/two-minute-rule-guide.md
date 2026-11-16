@@ -6,7 +6,7 @@ titleFr: "La règle des 2 minutes : protocole de 7 jours + guide complet"
 seoTitleFr: "La règle des 2 minutes : protocole 7 jours + guide"
 descriptionFr: "L'idée la plus sous-estimée de James Clear : commencez si petit que ça semble stupide, puis regardez la porte rester ouverte. Le protocole complet."
 pubDate: 2026-09-03
-updatedDate: 2026-11-04
+updatedDate: 2026-11-06
 readTime: "12 MIN"
 image: "/images/blog/two-minute-rule-guide-1.jpg"
 imageAlt: "Youssef Raihane - two minute rule guide concept"
@@ -62,7 +62,7 @@ relatedArticles:
   - "regle-21-jours"
 ---
 
-<div data-i18n-html="article_two-minute-rule-guide_p2">James Clear's most underrated idea. Start so small it feels stupid. Then watch the doorway stay open. The full evidence base, the protocol, and what to do when the two minutes start to feel too small.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p2">James Clear's most underrated idea. Start so small it feels stupid. Then watch the doorway stay open. The full evidence base, the protocol, and what to do when the two minutes start to feel too small. For the identity-and-recovery architecture behind it, read <a href="/journal/2-minute-rule-system/">the 2-Minute Rule as a complete system</a>.</div>
 
 <div data-i18n-html="article_two-minute-rule-guide_p4">The most underrated idea in <em>Atomic Habits</em> is also the most copied. And most people copy it wrong.</div>
 
@@ -161,6 +161,6 @@ Look at the week. Seven days, seven doorways. The hallway is optional. The doorw
 
 <div data-i18n-html="article_two-minute-rule-guide_p45">The doorway is also why identity matters more than outcome. If you want the deeper version of this idea — the one that connects the 2-minute rule to <em>who you are becoming</em> — read our <a href="/journal/identity-based-habits-90-day-test/">Identity-Based Habits: The 90-Day Test</a>. It is the principle that turns a 2-minute doorway into a 10-year direction.</div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p46"><em>Last updated: November 4, 2026 — changelog corrected (the September 7 entry described content this update did not add; there is no chronotype test in this article). Recent content revisions: October 25, 2026 (unsourced claims corrected) and October 30, 2026 (verified sources).</em></div>
+<div data-i18n-html="article_two-minute-rule-guide_p46"><em>Last updated: November 6, 2026 — refreshed cross-links to the 2-Minute Rule system page. Earlier updates: November 4, 2026 (changelog corrected — the September 7 entry described content this update did not add; there is no chronotype test in this article); October 25, 2026 (unsourced claims corrected); October 30, 2026 (verified sources).</em></div>
 
-<div data-i18n-html="article_two-minute-rule-guide_p47"><strong>The same two-minute rule, doing different jobs:</strong> this is the full guide and 7-day protocol. For the identity-and-recovery architecture behind it, read <a href="/journal/2-minute-rule-system/">The 2-Minute Rule: A Complete System</a>; for using two minutes to clear small <em>tasks</em> rather than build habits, read <a href="/journal/regle-2-min-productivite/">The 2-Minute Rule for Productivity</a>.</div>
+<div data-i18n-html="article_two-minute-rule-guide_p47"><strong>The same two-minute rule, doing different jobs:</strong> this is the full guide and 7-day protocol. For using two minutes to clear small <em>tasks</em> rather than build habits, read <a href="/journal/regle-2-min-productivite/">The 2-Minute Rule for Productivity</a>.</div>

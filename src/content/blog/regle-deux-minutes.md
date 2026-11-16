@@ -6,7 +6,7 @@ titleFr: "La Règle des 2 Minutes : Construire des Habitudes en 120 Secondes"
 seoTitleFr: "La règle des 2 minutes : des habitudes en 120 s"
 descriptionFr: "La règle des 2 minutes est la clé pour construire des habitudes durables. Commencez si petit que c'est impossible d'échouer, puis restez constant."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "5 MIN"
 image: "/images/blog/regle-deux-minutes-3.jpg"
 imageAlt: "Hands tying the laces of a running shoe before a workout"
@@ -46,7 +46,7 @@ relatedArticles:
   - "missed-day-protocol"
 ---
 
-<div data-i18n-html="article_regle-deux-minutes_p2">The two-minute rule: the smallest possible first step. Simple and powerful.</div>
+<div data-i18n-html="article_regle-deux-minutes_p2">The two-minute rule: the smallest possible first step. Simple and powerful. This page is the short, plain-language version. For the full system view, see <a href="/journal/2-minute-rule-system/">the 2-Minute Rule as a complete system</a>.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p3">Most habits fail because they start too big. You want to read 30 pages, so you do not read at all. You want to run 5 km, so you do not even put on your shoes. The ambition kills the habit before it starts.</div>
 
@@ -97,7 +97,7 @@ Once the two-minute version feels boring, let it grow naturally: one page become
 
 <div data-i18n-html="article_regle-deux-minutes_p22"><h2>Common Mistakes</h2></div>
 
-<div data-i18n-html="article_regle-deux-minutes_p23"><strong>Mistake 1: Retiring the two-minute version once the habit feels settled.</strong> The doorway is not a starter motor you remove after the engine runs. Expand the hallway, never close the doorway. Our <a href="/journal/2-minute-rule-system/">2-Minute Rule system</a> explains why the entry point is permanent.</div>
+<div data-i18n-html="article_regle-deux-minutes_p23"><strong>Mistake 1: Retiring the two-minute version once the habit feels settled.</strong> The doorway is not a starter motor you remove after the engine runs. Expand the hallway, never close the doorway. Our 2-Minute Rule system explains why the entry point is permanent.</div>
 
 <div data-i18n-html="article_regle-deux-minutes_p24"><strong>Mistake 2: Skipping days.</strong> The habit must happen daily, even if it is just two minutes. A two-minute habit done daily beats a one-hour habit done occasionally.</div>
 
@@ -127,4 +127,4 @@ Once the two-minute version feels boring, let it grow naturally: one page become
 
 <div data-i18n-html="article_regle-deux-minutes_p37"><strong>Start your first two-minute habit today.</strong> Use our <a href="/tracker/">Habit Tracker</a> to mark your first day. Then come back tomorrow. And the day after. And watch what happens.</div>
 
-<div data-i18n-html="article_regle-deux-minutes_p38"><strong>Ready to go deeper on the same idea?</strong> This is the beginner introduction. The full evidence and week-by-week protocol live in the <a href="/journal/two-minute-rule-guide/">2-Minute Rule: 7-Day Protocol &amp; Full Guide</a>, and the reflection on why two minutes works is in <a href="/journal/two-minute-threshold/">The Two-Minute Threshold</a>.</div>
+<div data-i18n-html="article_regle-deux-minutes_p38"><strong>Ready to go deeper on the same idea?</strong> This page stays the short intro; the full system is linked at the top.</div>

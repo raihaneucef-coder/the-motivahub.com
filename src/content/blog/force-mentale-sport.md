@@ -4,12 +4,13 @@ seoTitle: "Mental Toughness in Sport: Perform Under Pressure"
 description: "Talent gets you to the game. Mental toughness wins it. Learn the mental skills that separate good athletes from great ones."
 titleFr: "Force mentale dans le sport : comment performer sous pression"
 seoTitleFr: "Force mentale : performer sous pression"
-descriptionFr: "Le talent te fait entrer dans le jeu. La force mentale le gagne. Apprends les compétences mentales qui séparent les bons athlètes des grands."
+descriptionFr: "Le talent vous fait entrer dans le jeu. La force mentale le gagne. Apprenez les compétences mentales qui séparent les bons athlètes des grands."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/force-mentale-sport-2.jpg"
-imageAlt: "A gymnast mid-performance on the arena floor, fully concentrated"
+imageAlt: "A young gymnast in a black leotard holding her landing pose on the arena floor, empty stands behind her"
+imageAltFr: "Une jeune gymnaste en justaucorps noir maintient sa réception sur le tapis de la salle, tribunes vides derrière elle"
 topic: "Sport"
 keywords:
   - "mental toughness in sports"
@@ -23,21 +24,21 @@ keywords:
 tags:
   - "sport"
   - "how-to"
-wordCount: 572
+wordCount: 595
 faq:
   - q: "How do athletes stay calm under pressure?"
-    a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. Harvard research (Alison Brooks, 2014) found 'I am excited' self-talk outperforms 'I am calm' because both are high-arousal states — the brain just needs a positive label."
+    a: "Pre-performance routines (same breathing, same physical cues before every attempt) and cognitive reappraisal: reframing anxiety as excitement. In a series of experiments, Alison Wood Brooks found that telling yourself \"I am excited\" beats \"I am calm\" because both are high-arousal states — the brain just needs a positive label (<a href=\"https://doi.org/10.1037/a0035325\">Brooks, JEP:General 2014</a>). Her tasks were singing, public speaking and persuasion rather than sport, so treat the transfer to competition as promising, not proven."
   - q: "What is mental toughness in sports?"
-    a: "The ability to maintain focus, effort, and confidence despite fatigue, setbacks, or high stakes. Clough's 4C model: Control (I influence outcomes), Commitment (I follow through), Challenge (threats are growth opportunities), Confidence (I believe in my ability). All four are trainable."
+    a: "The ability to maintain focus, effort, and confidence despite fatigue, setbacks, or high stakes. The best-known operationalisation is the 4C model of Clough, Spector and Keough (2002): Control (I influence outcomes), Commitment (I follow through), Challenge (threats are growth opportunities), Confidence (I believe in my ability). It is a questionnaire structure rather than a law of human behaviour, but all four are trainable skills."
   - q: "How can I stop choking under pressure?"
     a: "Choking happens when you overthink automatic skills (explicit monitoring). Solution: practice under pressure conditions so competition feels normal, use external focus cues ('land on that spot' not 'extend your leg'), and keep your pre-performance routine identical to training."
 faqFr:
   - q: "Comment les athlètes restent-ils calmes sous pression ?"
-    a: "Par des routines de pré-performance (même respiration, mêmes signaux physiques avant chaque essai) et par la réévaluation cognitive : transformer l'anxiété en excitation. Des travaux de Harvard (Alison Brooks, 2014) ont montré que se dire « je suis excité » surpasse « je suis calme », parce que les deux sont des états d'activation élevée — le cerveau a seulement besoin d'une étiquette positive."
+    a: "Par des routines de pré-performance (même respiration, mêmes signaux physiques avant chaque essai) et par la réévaluation cognitive : transformer l'anxiété en excitation. Dans une série d'expériences, Alison Wood Brooks a montré que se dire « je suis excité » surpasse « je suis calme », parce que les deux sont des états d'activation élevée — le cerveau a seulement besoin d'une étiquette positive (<a href=\"https://doi.org/10.1037/a0035325\">Brooks, JEP:General 2014</a>). Ses tâches étaient le chant, la prise de parole et la persuasion plutôt que le sport : considérez donc le transfert à la compétition comme prometteur, pas prouvé."
   - q: "Qu'est-ce que la force mentale dans le sport ?"
-    a: "La capacité à maintenir la concentration, l'effort et la confiance malgré la fatigue, les revers ou les enjeux élevés. Le modèle 4C de Clough : Contrôle (j'influence les résultats), Engagement (je vais au bout), Défi (les menaces sont des occasions de grandir), Confiance (je crois en ma capacité). Les quatre se travaillent."
+    a: "La capacité à maintenir la concentration, l'effort et la confiance malgré la fatigue, les revers ou les enjeux élevés. La formulation la plus connue est le modèle 4C de Clough, Spector et Keough (2002) : Contrôle (j'influence les résultats), Engagement (je vais au bout), Défi (les menaces sont des occasions de grandir), Confiance (je crois en ma capacité). C'est une structure de questionnaire, pas une loi du comportement humain — mais les quatre se travaillent."
   - q: "Comment arrêter de craquer sous pression ?"
-    a: "Le « choking » survient quand on suranalyse des gestes devenus automatiques (surveillance explicite). La solution : s'entraîner dans des conditions de pression pour que la compétition paraisse normale, utiliser des repères externes (« atterris sur cette marque », pas « tends ta jambe ») et garder votre routine de pré-performance identique à celle de l'entraînement."
+    a: "Le « choking » survient quand on suranalyse des gestes devenus automatiques (surveillance explicite). La solution : s'entraîner dans des conditions de pression pour que la compétition paraisse normale, utiliser des repères externes (« atterris sur cette marque », pas « tends la jambe ») et garder votre routine de pré-performance identique à celle de l'entraînement."
 
 relatedArticles:
   - "body-votes-first"
@@ -58,7 +59,7 @@ relatedArticles:
 <div data-i18n-html="article_force-mentale-sport_p6"><h2>The 4 Pillars of Mental Toughness</h2></div>
 
 <div data-i18n-html="article_force-mentale-sport_p7"><h3>1. Confidence</h3>
-<a href="/journal/confiance-inbranlable/">Believing in your ability</a> even when a match is going badly. In the 4C model (Clough, Smecher & Keough) this is the hardest C to build quickly because it rests on a bank of evidence. Coach it with a "completed reps" log: write down the three hardest sessions you finished this month. On competition day you draw belief from recorded fact, not from hoping.</div>
+<a href="/journal/confiance-inbranlable/">Believing in your ability</a> even when a match is going badly. In the 4C model (Clough, Spector &amp; Keough, 2002) this is the hardest C to build quickly because it rests on a bank of evidence. Coach it with a "completed reps" log: write down the three hardest sessions you finished this month. On competition day you draw belief from recorded fact, not from hoping.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p8"><h3>2. Control</h3>
 Focusing on what you can control (your effort, your attitude, your between-point routine) and releasing what you cannot (the opponent, the call, the weather). The concrete tool is a two-column list you refresh before every event: under "controllable" write process cues — first serve percentage, recovery steps, breathing. If a worry won't fit the left column, it is not a task, it is weather.</div>
@@ -68,7 +69,7 @@ Setting a goal and honouring it even when the feeling fades. Research on impleme
 </div>
 
 <div data-i18n-html="article_force-mentale-sport_p10"><h3>4. Challenge</h3>
-Appraising pressure as a threat or as a demand you can meet. Physiologically anxiety and excitement are near-identical — high arousal, elevated heart rate. The difference is the label. Brooks' Harvard work found athletes who re-framed "I'm nervous" into "I'm excited" performed better, because they rode the arousal instead of trying to talk themselves down from it.</div>
+Appraising pressure as a threat or as a demand you can meet. Physiologically anxiety and excitement are near-identical — high arousal, elevated heart rate. The difference is the label. In Brooks' experiments (<a href="https://doi.org/10.1037/a0035325" target="_blank" rel="noopener">Journal of Experimental Psychology: General, 2014</a>), people who re-framed "I'm nervous" into "I'm excited" performed better in singing, speaking and persuasion tasks, because they rode the arousal instead of trying to talk themselves down from it. Athletes run on the same logic, and the transfer is plausible — but that specific evidence is not from competition.</div>
 
 <div data-i18n-html="article_force-mentale-sport_p11"><h2>How to Build Mental Toughness</h2></div>
 

@@ -6,10 +6,11 @@ titleFr: "Comment arrêter de procrastiner — la vraie science derrière la pro
 seoTitleFr: "Comment arrêter de procrastiner : la vraie science"
 descriptionFr: "Comprenez pourquoi vous procrastinez et apprenez des techniques éprouvées pour y remédier pour toujours. Des stratégies pratiques pour agir maintenant."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "7 MIN"
 image: "/images/blog/vaincre-procrastination-1.jpg"
-imageAlt: "Youssef Raihane - vaincre procrastination concept"
+imageAlt: "Illustration of a skeleton slumped amid crumpled papers, representing a procrastinator drowning in postponed tasks"
+imageAltFr: "Illustration d’un squelette affalé parmi des feuilles de papier froissées, représentant un procrastinateur submergé de tâches reportées"
 topic: "Productivity"
 keywords:
   - "why you procrastinate science"
@@ -80,7 +81,7 @@ relatedArticles:
 <div data-i18n-html="article_vaincre-procrastination_p14">The technique is simple:
 1. Work for twenty-five minutes (one Pomodoro)
 2. Take a five-minute break
-3. After four Pomodoros, take a fifteen- to thirty-minute break</div>
+3. After four Pomodoros, take a fifteen- to thirty-minute break. <a href="/journal/technique-pomodoro/">The Pomodoro method step by step</a> covers the variants and breaks in detail.</div>
 
 <div data-i18n-html="article_vaincre-procrastination_p15">Why it works: twenty-five minutes is <strong>short enough for your brain to accept</strong> and <strong>long enough to produce real work</strong>.</div>
 
@@ -92,7 +93,7 @@ relatedArticles:
 
 <div data-i18n-html="article_vaincre-procrastination_p19">The "frog" is the task you dread most — the one you have been postponing for days.</div>
 
-<div data-i18n-html="article_vaincre-procrastination_p20"><strong>The rule:</strong> start the day with the hardest task. Everything after it feels lighter.</div>
+<div data-i18n-html="article_vaincre-procrastination_p20"><strong>The rule:</strong> start the day with the hardest task. Everything after it feels lighter. Full protocol: <a href="/journal/eat-the-frog/">eat the frog</a>.</div>
 
 <div data-i18n-html="article_vaincre-procrastination_p21">Why: attention and self-control are usually highest early, and every hour you wait adds another opportunity to negotiate your way out.</div>
 
@@ -102,7 +103,7 @@ relatedArticles:
 
 <div data-i18n-html="article_vaincre-procrastination_p24">- Phone within reach → you scroll
 - Tabs left open → your attention splits
-- Comfortable sofa → you skip the workout</div>
+- Comfortable sofa → you skip the workout. Going deeper: <a href="/journal/deep-work-focus/">building a distraction-free environment</a>.</div>
 
 <div data-i18n-html="article_vaincre-procrastination_p25"><strong>Change the environment and the behaviour follows.</strong></div>
 

@@ -304,7 +304,7 @@ const isoDate = post.data.pubDate.toISOString();
         <p class="card-meta"><a class="article-topic-link" href={`/fr/topics/${post.data.topic.toLowerCase().replace(/\s+/g,'-')}/`}><span data-i18n={`topic-${post.data.topic.toLowerCase()}`}>{post.data.topic.toUpperCase()}</span></a> · {post.data.readTime}</p>
         <h1 data-i18n={`article_${post.id}_title`} data-en-text={post.data.title}>{displayTitle}</h1>
         <p class="card-date">Par <a href="/fr/author/youssef-raihane/" rel="author">Youssef Raihane</a> · <time datetime={isoDate}>{post.data.pubDate.toLocaleDateString("fr-FR", { month: "long", day: "numeric", year: "numeric" })}</time></p>
-        <div class="article-img-wrap"><img class="article-img" src={post.data.image} srcset={coverSrcset(post.data.image, coverDims.width)} sizes="calc(min(1200px, 100vw) - clamp(40px, 8vw, 112px))" alt={post.data.imageAlt || post.data.title} width={coverDims.width} height={coverDims.height} fetchpriority="high" /></div>
+        <div class="article-img-wrap"><img class="article-img" src={post.data.image} srcset={coverSrcset(post.data.image, coverDims.width)} sizes="calc(min(1200px, 100vw) - clamp(40px, 8vw, 112px))" alt={(post.data.imageAltFr || post.data.imageAlt || post.data.titleFr || post.data.title)} width={coverDims.width} height={coverDims.height} fetchpriority="high" /></div>
       </div>
     </header>
 
@@ -316,7 +316,6 @@ const isoDate = post.data.pubDate.toISOString();
       <ArticleFaq faq={faqFr ?? undefined} />
       {post.data.bookSlug && <BookCTA bookSlug={post.data.bookSlug} variant="primary" />}
       <ToolCta topic={post.data.topic} lang="fr" />
-      {showAffiliateBanner && <AffiliateBanner variant="footer" lang={postLang} />}
       <SocialShare title={displayTitle} description={displayDesc} />
       <AuthorBio variant="compact" showSchema={false} lang="fr" />
       <div class="article-nav">
