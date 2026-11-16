@@ -136,11 +136,14 @@ const deferGa = GA_ID
       // consent verdict; Google re-evaluates the mounted slots by itself.
       window.googlefc = window.googlefc || {};
       window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
-      window.googlefc.callbackQueue.push({
-      'CONSENT_MODE_DATA_READY': function () {
-        // F-12: the certified Google CMP verdict is routed through the banner
-        // hook so a stored decision is never overridden (no double-banner).
-        window.__mhCmpSeen = true;
+      // F-12: the certified Google CMP verdict is routed through the banner
+      // hook. An EXPLICIT user choice inside the certified CMP UI applies its
+      // four signals exactly (grant or revoke); a callback that is automatic or
+      // cannot be corroborated as a user decision is restriction-only (it can
+      // never raise a signal to granted). A same-load banner decision wins.
+      window.__mhCmpSeen = true;
+      var readCmp = function (explicitEvent) {
+        if (window.__mhUserDecidedThisLoad) return;
         try {
           var v = googlefc.getGoogleConsentModeValues();
           var GRANTED = (googlefc.ConsentModePurposeStatusEnum || {}).GRANTED || 1;
@@ -151,17 +154,23 @@ const deferGa = GA_ID
             ad_user_data: g(v.adUserDataPurposeConsentStatus),
             ad_personalization: g(v.adPersonalizationPurposeConsentStatus)
           };
+          var explicit = explicitEvent === true;
+          if (!explicit && typeof googlefc.getConsentStatus === 'function' && googlefc.ConsentStatusEnum) {
+            var cs = googlefc.getConsentStatus();
+            explicit = cs === googlefc.ConsentStatusEnum.ACCEPTED || cs === googlefc.ConsentStatusEnum.NOT_ACCEPTED;
+          }
           if (typeof window.__mhApplyCmp === 'function') {
-            window.__mhApplyCmp(vals);
-          } else if (typeof window.gtag === 'function') {
+            window.__mhApplyCmp(vals, explicit);
+          } else if (explicit && typeof window.gtag === 'function') {
             gtag('consent', 'update', vals);
           }
           if (v.adStoragePurposeConsentStatus === GRANTED && typeof window.__loadAdsense === 'function') {
             window.__loadAdsense();
           }
         } catch (e) {}
-      }
-      });
+      };
+      window.googlefc.callbackQueue.push({ 'CONSENT_API_STATE_CHANGED': function () { readCmp(true); } });
+      window.googlefc.callbackQueue.push({ 'CONSENT_MODE_DATA_READY': function () { readCmp(false); } });
     </script>
     <link rel="preload" href="/fonts/fraunces-normal-latin-63f165.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/inter-normal-latin-1ab1ad.woff2" as="font" type="font/woff2" crossorigin />

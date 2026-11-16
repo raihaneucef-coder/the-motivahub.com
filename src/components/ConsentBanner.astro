@@ -84,9 +84,12 @@
 
     window.__mhConsent = { apply: apply, show: show, stored: stored };
 
-    // CMP hook — restriction-only. Any signal the certified CMP denies is
-    // applied immediately and persisted; CMP callbacks can never grant.
-    window.__mhApplyCmp = function (vals) {
+    // CMP hook. EXPLICIT user choice made inside the certified CMP UI applies
+    // its four signals exactly (grant or revoke) and persists. Any callback
+    // that is automatic or cannot be corroborated is restriction-only: it can
+    // never raise a signal to granted. Unsure = signals stay denied.
+    window.__mhApplyCmp = function (vals, explicit) {
+      if (explicit) { apply(vals, true); return; }
       var cur = stored(true) || ALL_DENIED;
       var merged = {};
       for (var i = 0; i < SIGS.length; i++) {
@@ -112,8 +115,14 @@
       show();
     });
     if (banner) {
-      banner.querySelector(".mh-consent-accept").addEventListener("click", function () { apply(ANALYTICS_ONLY, true); });
-      banner.querySelector(".mh-consent-reject").addEventListener("click", function () { apply(ALL_DENIED, true); });
+      banner.querySelector(".mh-consent-accept").addEventListener("click", function () {
+        window.__mhUserDecidedThisLoad = true;
+        apply(ANALYTICS_ONLY, true);
+      });
+      banner.querySelector(".mh-consent-reject").addEventListener("click", function () {
+        window.__mhUserDecidedThisLoad = true;
+        apply(ALL_DENIED, true);
+      });
     }
   })();
 </script>
