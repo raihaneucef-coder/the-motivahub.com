@@ -6,7 +6,7 @@ titleFr: "Mangez à l'heure, pas selon vos émotions"
 seoTitleFr: "Manger à l'heure, pas par émotion"
 descriptionFr: "La faim fait prendre de mauvaises décisions. Les repas réguliers rendent les bonnes automatiques : manger à heure fixe stabilise énergie et humeur."
 pubDate: 2026-08-13
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 topic: "Nutrition"
 readTime: "4 MIN"
 image: "/images/blog/eat-on-time-not-on-emotion.jpg"

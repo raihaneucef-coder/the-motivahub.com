@@ -6,7 +6,7 @@ titleFr: "Le Corps Vote d'Abord : Écouter Votre Corps"
 seoTitleFr: "Le corps vote d'abord : écoutez vos signaux"
 descriptionFr: "Votre corps connaît la vérité avant votre esprit. Apprenez à écouter les signaux de votre corps pour prendre de meilleures décisions."
 pubDate: 2026-08-17
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "8 MIN"
 image: "/images/blog/body-votes-first.jpg"
 imageAlt: "A man holding a push-up on red handles while a kneeling coach checks his form in a gym"
@@ -177,4 +177,4 @@ relatedArticles:
 
 <hr />
 
-<div data-i18n-html="article_body-votes-first_p59"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal half marathon training story, specific body-mind connection examples, and the identity file framework).</em></div>
+<div data-i18n-html="article_body-votes-first_p59"><em>Last updated: November 6, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal half marathon training story, specific body-mind connection examples, and the identity file framework).</em></div>

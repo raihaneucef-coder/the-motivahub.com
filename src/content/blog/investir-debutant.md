@@ -5,7 +5,7 @@ titleFr: "Investir pour les débutants : commence à construire ta richesse aujo
 seoTitleFr: "Investir pour les débutants : le guide simple"
 descriptionFr: "Pas besoin de milliers d'euros pour commencer à investir : la régularité compte plus. Voici la façon la plus simple de bâtir votre richesse depuis zéro."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-05
 readTime: "6 MIN"
 image: "/images/blog/investir-debutant.jpg"
 imageAlt: "Youssef Raihane - investir debutant concept"

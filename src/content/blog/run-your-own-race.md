@@ -6,7 +6,7 @@ titleFr: "Courez Votre Propre Course : Ne Comparez pas votre Chapitre 1 au Chapi
 seoTitleFr: "Courir sa propre course : arrêter de se comparer"
 descriptionFr: "Courez votre propre course. La comparaison est le voleur de la joie. Apprenez à tenir votre rythme quand tout le monde sprinte autour de vous."
 pubDate: 2026-08-18
-updatedDate: 2026-10-18
+updatedDate: 2026-11-06
 topic: "Sport"
 readTime: "6 MIN"
 image: "/images/blog/run-your-own-race-2.jpg"

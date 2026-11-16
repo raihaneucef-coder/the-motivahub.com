@@ -6,7 +6,7 @@ titleFr: "L'Habitude Matinale de 5 Minutes : Comment Transformer Votre Matinée"
 seoTitleFr: "L'habitude matinale de 5 minutes"
 descriptionFr: "Commencez la journée avec une habitude de 5 minutes qui change tout : une routine matinale simple pour transformer votre productivité et votre bien-être."
 pubDate: 2026-09-02
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "8 MIN"
 image: "/images/blog/5-minute-morning-habit-3.jpg"
 imageAlt: "Woman writing in her journal in bed with a cup of coffee and her phone beside her in soft morning light"
@@ -292,4 +292,4 @@ relatedArticles:
 
 <div data-i18n-html="article_5-minute-morning-habit_p92"><strong>Three priorities is the doorway.</strong> The hallway is what fills the rest of the morning. To see the doorway pattern applied across meditation, reading, pushups, journaling, and more, read our <a href="/journal/two-minute-rule-guide/">full 2-Minute Rule guide and 7-day protocol</a> — same principle, different rooms.</div>
 
-<div data-i18n-html="article_5-minute-morning-habit_p93"><em>Last updated: October 26, 2026 — refreshed after an editorial accuracy review. Earlier update: September 7, 2026 (metadata and changelog only).</em></div>
+<div data-i18n-html="article_5-minute-morning-habit_p93"><em>Last updated: November 6, 2026 — refreshed after an editorial accuracy review. Earlier update: September 7, 2026 (metadata and changelog only).</em></div>

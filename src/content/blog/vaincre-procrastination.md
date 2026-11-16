@@ -6,7 +6,7 @@ titleFr: "Comment arrêter de procrastiner — la vraie science derrière la pro
 seoTitleFr: "Comment arrêter de procrastiner : la vraie science"
 descriptionFr: "Comprenez pourquoi vous procrastinez et apprenez des techniques éprouvées pour y remédier pour toujours. Des stratégies pratiques pour agir maintenant."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "7 MIN"
 image: "/images/blog/vaincre-procrastination-1.jpg"
 imageAlt: "Illustration of a skeleton slumped amid crumpled papers, representing a procrastinator drowning in postponed tasks"

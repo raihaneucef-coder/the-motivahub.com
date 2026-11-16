@@ -6,7 +6,7 @@ titleFr: "La routine matinale de 8 minutes qui a tenu 30 jours"
 seoTitleFr: "La routine matinale minimale qui a tenu 30 jours"
 descriptionFr: "Après deux semaines à tester une douzaine de routines matinales populaires, j'ai gardé une routine de 8 minutes pendant 30 jours. Voici ce qui a tenu, ce qui a échoué et comment la tester."
 pubDate: 2026-09-01
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "12 MIN"
 image: "/images/blog/i-tested-12-morning-routines-3.jpg"
 imageAlt: "A vintage alarm clock showing six o'clock in soft early-morning light"

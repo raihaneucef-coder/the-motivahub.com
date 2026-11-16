@@ -6,7 +6,7 @@ seoTitle: "Intermittent Fasting: Does It Really Work? (Evidence)"
 seoTitleFr: "Jeûne intermittent : ce que disent les preuves"
 descriptionFr: "Le jeûne intermittent est le mode alimentaire le plus populaire au monde. Les preuves sont prometteuses — et plus modestes que les gros titres."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/jeune-intermittent.jpg"
 imageAlt: "Overhead of a bowl with baked tofu, edamame, corn, cucumber, red cabbage, tomato and two peeled eggs - the meal that breaks a fast"

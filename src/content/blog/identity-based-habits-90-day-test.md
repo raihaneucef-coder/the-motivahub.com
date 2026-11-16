@@ -6,7 +6,7 @@ titleFr: "Habitudes identitaires : le test de 90 jours qui a fait tenir mes habi
 seoTitleFr: "Habitudes identitaires : le test qui les fait tenir"
 descriptionFr: "Les habitudes d'objectifs échouent, les habitudes identitaires tiennent. Mon test de 90 jours : la différence, les preuves, et comment l'appliquer."
 pubDate: 2026-09-05
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "9 MIN"
 image: "/images/blog/identity-based-habits-90-day-test-2.jpg"
 imageAlt: "Calendar with a circled date and a check habits note - the ninety day identity test"
@@ -291,7 +291,7 @@ You can't claim to be a writer if you don't write. Identity is what you do. Not 
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p96"><em>Youssef Raihane spent a decade failing at goals. He spent 90 days building identities. He hasn't written a 90-day streak since. The votes accumulated. The identity shifted. The habits stuck.</em></div>
 
-<div data-i18n-html="article_identity-based-habits-90-day-test_p97"><em>Last updated: November 4, 2026 — editorial pass: personal timelines reframed as observations, the Clear quote trimmed to its verified wording, and the sources list corrected. Earlier updates: October 26, 2026 (accuracy review); September 7, 2026 (metadata and changelog only).</em></div>
+<div data-i18n-html="article_identity-based-habits-90-day-test_p97"><em>Last updated: November 6, 2026 — the Hagger et al. replication citation hedged with its DOI. Earlier updates: November 4, 2026 (editorial pass: personal timelines reframed as observations, the Clear quote trimmed to its verified wording, and the sources list corrected); October 26, 2026 (accuracy review); September 7, 2026 (metadata and changelog only).</em></div>
 
 <div data-i18n-html="article_identity-based-habits-90-day-test_p98"><h2>Sources</h2></div>
 

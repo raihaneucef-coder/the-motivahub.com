@@ -6,7 +6,7 @@ titleFr: "Revue Atomic Habits : Rapport de Terrain en 4 Lectures"
 seoTitleFr: "Atomic Habits : rapport de terrain en 4 lectures"
 descriptionFr: "Analyse complète du livre Atomic Habits de James Clear. Les 4 lois, la science, le protocole de 30 jours — et ce que la plupart des critiques laissent de côté."
 pubDate: 2026-08-13
-updatedDate: 2026-09-25
+updatedDate: 2026-11-06
 readTime: "12 MIN"
 image: "/images/blog/atomic-habits-review-2.jpg"
 imageAlt: "Open books fanned out with pink sticky tabs marking key pages"
@@ -180,6 +180,6 @@ One miss is data. Two misses is a pattern. I used to beat myself up for missing 
 
 <div data-i18n-html="article_atomic-habits-review_p50"><em>Youssef Raihane read Atomic Habits 4 times in 18 months. Each read changed a different layer: framework, misunderstandings, application, and calibration. The book is now permanently on his desk — not as a reference, but as a calibration tool.</em></div>
 
-<div data-i18n-html="article_atomic-habits-review_p51"><em>Last updated: September 25, 2026 — added personal 18-month reading journey, specific changes in habits, and the calibration insight.</em></div>
+<div data-i18n-html="article_atomic-habits-review_p51"><em>Last updated: November 6, 2026 — refreshed after an editorial accuracy review. Earlier update: September 25, 2026 (added personal 18-month reading journey, specific changes in habits, and the calibration insight).</em></div>
 
 <div data-i18n-html="article_atomic-habits-review_p52"><strong>Related on Motiva Hub:</strong> This page is a personal review. For the full chapter-by-chapter breakdown, see the <a href="/guides/atomic-habits-ultimate-guide/">Atomic Habits Ultimate Guide</a>. For the single technique I use most from the book, see <a href="/journal/habit-stacking-routine/">Habit Stacking: The Easiest Way to Build New Routines</a> — and browse the wider list of <a href="/books/">best habit &amp; self-discipline books</a>.</div>

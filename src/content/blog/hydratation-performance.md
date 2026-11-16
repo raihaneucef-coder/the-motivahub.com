@@ -6,7 +6,7 @@ titleFr: "Hydratation : pourquoi l'eau est le meilleur booster de performance (e
 seoTitleFr: "Hydratation : l'eau, booster de performance oublié"
 descriptionFr: "La déshydratation coûte de l'attention et rend l'effort plus dur. Ce qu'elle coûte en endurance dépend de la mesure. L'eau reste le booster le moins cher."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/hydratation-performance-2.jpg"
 imageAlt: "A young athlete drinking from a clear water bottle, framed by gymnastic rings in a gym"

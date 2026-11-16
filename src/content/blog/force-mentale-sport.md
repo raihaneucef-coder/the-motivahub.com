@@ -6,7 +6,7 @@ titleFr: "Force mentale dans le sport : comment performer sous pression"
 seoTitleFr: "Force mentale : performer sous pression"
 descriptionFr: "Le talent vous fait entrer dans le jeu. La force mentale le gagne. Apprenez les compétences mentales qui séparent les bons athlètes des grands."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/force-mentale-sport-2.jpg"
 imageAlt: "A young gymnast in a black leotard holding her landing pose on the arena floor, empty stands behind her"

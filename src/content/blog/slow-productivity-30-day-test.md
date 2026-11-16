@@ -5,7 +5,7 @@ description: "Cal Newport's slow productivity in practice — fewer projects, na
 titleFr: "Productivité Lente : Test de 30 Jours"
 descriptionFr: "La productivité lente est une approche différente. Testez-la pendant 30 jours et découvrez comment moins peut être plus."
 pubDate: 2026-09-03
-updatedDate: 2026-09-21
+updatedDate: 2026-11-06
 readTime: "11 MIN"
 image: "/images/blog/slow-productivity-30-day-test-1.jpg"
 imageAlt: "Bearded man in a white shirt standing by a window, checking his phone beside a plant"

@@ -6,7 +6,7 @@ titleFr: "La Consistance Bat l'Intensité : Le Pouvoir des Petits Pas"
 seoTitleFr: "Consistance vs intensité : les petits pas gagnent"
 descriptionFr: "La consistance bat toujours l'intensité. Découvrez pourquoi les petits pas répétés sont plus puissants que les efforts héroïques."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-11-06
 readTime: "5 MIN"
 image: "/images/blog/consistance-bat-intensite.jpg"
 imageAlt: "Close-up of a lifter's hand gripping a loaded barbell at floor level in a dim gym"

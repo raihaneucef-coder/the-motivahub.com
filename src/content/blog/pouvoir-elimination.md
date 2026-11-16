@@ -6,7 +6,7 @@ titleFr: "Le Pouvoir de l'Élimination : Faire Moins pour Accomplir Plus"
 seoTitleFr: "Le pouvoir de l'élimination : faire moins pour mieux"
 descriptionFr: "L'élimination est plus puissante que l'ajout. Filtre des 3 questions, modèle de liste stop-doing et audit 80/20 honnête des 80 % de travail qui ne comptent pas."
 pubDate: 2026-08-24
-updatedDate: 2026-09-25
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/pouvoir-elimination-2.jpg"
 imageAlt: "A clean minimal desk with only a monitor, keyboard and a plant"

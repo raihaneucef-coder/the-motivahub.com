@@ -6,7 +6,7 @@ titleFr: "Meal Prep dimanche : comment manger sain toute la semaine en 2 heures"
 seoTitleFr: "Meal prep du dimanche : manger sain 2 h par semaine"
 descriptionFr: "Le meal-prep vous fait gagner du temps, de l'argent et de la volonté. Découvrez le système simple qui rend l'alimentation saine sans effort."
 pubDate: 2026-08-24
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "6 MIN"
 image: "/images/blog/meal-prep-dimanche-1.jpg"
 imageAlt: "Rows of stacked meal-prep containers filled with rice, stewed meat and vegetables on a worktop"

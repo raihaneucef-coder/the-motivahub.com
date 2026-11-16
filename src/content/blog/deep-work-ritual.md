@@ -6,7 +6,7 @@ titleFr: "Le Rituel Deep Work : Créer un Environnement de Concentration"
 seoTitleFr: "Le rituel Deep Work pour la concentration"
 descriptionFr: "Un rituel Deep Work est essentiel pour entrer dans l'état de concentration profonde. Découvrez comment construire votre rituel."
 pubDate: 2026-08-18
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 readTime: "8 MIN"
 image: "/images/blog/deep-work-ritual-1.jpg"
 imageAlt: "Person working on a laptop inside a coral acoustic privacy pod, illustrating a dedicated deep-work environment"

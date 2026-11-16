@@ -6,7 +6,7 @@ titleFr: "L'assiette qui vous garde stable"
 seoTitleFr: "L'assiette stable : le ratio simple"
 descriptionFr: "Une assiette stable fait une journée stable. Apprenez le ratio simple qui garde l'énergie constante et les envies calmes."
 pubDate: 2026-08-16
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 topic: "Nutrition"
 readTime: "4 MIN"
 image: "/images/blog/the-plate-that-keeps-you-steady.jpg"

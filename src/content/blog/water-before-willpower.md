@@ -6,7 +6,7 @@ titleFr: "L'eau avant la volonté"
 seoTitleFr: "L'eau avant la volonté : hydratation et concentration"
 descriptionFr: "La plupart des échecs de volonté sont des échecs d'hydratation. Bois avant de décider, et les choix difficiles deviennent plus simples à tenir."
 pubDate: 2026-08-15
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 topic: "Nutrition"
 readTime: "3 MIN"
 image: "/images/blog/water-before-willpower-3.jpg"

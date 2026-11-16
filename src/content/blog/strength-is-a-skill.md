@@ -6,7 +6,7 @@ titleFr: "La force est une compétence, pas un don"
 seoTitleFr: "La force est une compétence : comment la construire"
 descriptionFr: "La force ne se reçoit pas, elle se travaille. Chaque répétition est une leçon de patience et de technique, une compétence bâtie loin des regards."
 pubDate: 2026-08-19
-updatedDate: 2026-10-26
+updatedDate: 2026-11-06
 topic: "Sport"
 readTime: "5 MIN"
 image: "/images/blog/strength-is-a-skill-3.jpg"

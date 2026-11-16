@@ -6,7 +6,7 @@ titleFr: "Mange la grenouille : pourquoi il faut attaquer la tâche la plus diff
 seoTitleFr: "Mange la grenouille : faire le plus dur en premier"
 descriptionFr: "La règle « mange la grenouille » : attaque la tâche la plus difficile dès le matin. Pourquoi faire le plus dur avant tout le reste change ta journée."
 pubDate: 2026-08-24
-updatedDate: 2026-09-12
+updatedDate: 2026-11-06
 readTime: "5 MIN"
 image: "/images/blog/eat-the-frog-2.jpg"
 imageAlt: "Frog resting on lily pads in a pond - eat the frog first"
