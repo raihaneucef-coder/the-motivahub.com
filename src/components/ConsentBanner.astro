@@ -101,6 +101,9 @@
 
     var banner = document.getElementById("mh-consent-banner");
     var decision = stored(false);
+    // GA's idle-loaded config waits (max ~1.2s) for this flag so the consent
+    // verdict below is in the queue before the first page_view is sent.
+    window.__mhConsentSettled = true;
     if (decision) {
       apply(decision, false);
       // gtag.js is idle-loaded and may process the denied default (and even
@@ -117,6 +120,8 @@
       setTimeout(reassert, 1500);
       setTimeout(reassert, 3600);
     } else {
+      window.__mhConsentSettled = false;
+      apply(ALL_DENIED, false);
       var grace = setTimeout(show, GRACE_MS);
       window.addEventListener("mh-consent-reopen", function () { clearTimeout(grace); show(); });
     }
