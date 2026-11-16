@@ -42,6 +42,16 @@
       "permanent": true
     },
     {
+      "source": "/fr/journal/deux-minutes-regle",
+      "destination": "/fr/journal/regle-deux-minutes",
+      "permanent": true
+    },
+    {
+      "source": "/fr/journal/deux-minutes-regle/",
+      "destination": "/fr/journal/regle-deux-minutes/",
+      "permanent": true
+    },
+    {
       "source": "/journal/page",
       "destination": "/journal/",
       "permanent": true
