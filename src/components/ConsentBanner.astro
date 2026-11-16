@@ -1,13 +1,18 @@
 ---
 // F-12: first-party cookie banner with Google CMP coordination.
-// Google's Privacy & messaging CMP (Funding Choices) does not load for most
-// visitors (0 fundingchoices requests observed), so the googlefc callback never
-// fires and Consent Mode v2 stays all-denied forever — GA4 then only receives
-// cookieless hits (none since 2026-10-27). This banner provides the consent
-// decision locally, with a grace period so that, where the certified Google CMP
-// does appear (EEA/UK/CH), the CMP verdict wins and no double banner shows.
-// Priority: stored decision > CMP verdict > banner choice. Decisions persist
-// and can be re-opened at any time via the footer "Manage consent" link.
+// The certified Google CMP (Funding Choices) does not load for most visitors
+// (0 fundingchoices requests observed), so Consent Mode v2 stays all-denied
+// forever and GA4 stopped collecting (nothing since 2026-10-27). This banner
+// collects an EXPLICIT analytics decision locally and coordinates with the CMP:
+//  - the banner's Accept grants analytics_storage ONLY — personalized ads are
+//    never enabled from localStorage alone (requires a valid certified-CMP/TCF
+//    signal, which we do not fabricate);
+//  - CMP signals are restriction-only: a CMP denial applies immediately and is
+//    persisted; a CMP callback can never raise a signal to granted;
+//  - the last explicit choice always applies, and can be re-opened at any time
+//    via the footer "Manage consent" link (listener registered unconditionally);
+//  - legacy/unknown stored values are never trusted as a grant (treated as
+//    denied; a legacy plain "granted" is discarded and consent re-asked).
 ---
 <div id="mh-consent-banner" hidden role="region" aria-label="Cookie consent">
   <div class="mh-consent-card">
@@ -23,22 +28,24 @@
     var KEY = "mh-consent";
     var GRACE_MS = 3500;
     var LANG = document.documentElement.lang || "en";
-    var TXT_EN = { t: "We use cookies to measure traffic and improve the site. Analytics stay off until you accept.", a: "Accept", r: "Reject" };
+    var TXT_EN = { t: "We use cookies to measure traffic and improve the site. Analytics stay off until you accept. Ads stay non-personalized.", a: "Accept", r: "Reject" };
     var TXT = {
       en: TXT_EN,
-      fr: { t: "Nous utilisons des cookies pour mesurer le trafic et am\u00e9liorer le site. La mesure reste d\u00e9sactiv\u00e9e tant que vous n'acceptez pas.", a: "Accepter", r: "Refuser" },
-      ar: { t: "\u0646\u0633\u062a\u0639\u0645\u0644 \u0645\u0644\u0641\u0627\u062a \u062a\u0639\u0631\u064a\u0641 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u0632\u064a\u0627\u0631\u0627\u062a \u0648\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0645\u0648\u0642\u0639. \u0627\u0644\u0642\u064a\u0627\u0633 \u0645\u0628\u0644\u0648\u0643 \u062d\u062a\u0649 \u062a\u0642\u0628\u0644.", a: "\u0642\u0628\u0648\u0644", r: "\u0631\u0641\u0636" }
+      fr: { t: "Nous utilisons des cookies pour mesurer le trafic et am\u00e9liorer le site. La mesure reste d\u00e9sactiv\u00e9e tant que vous n'acceptez pas. Les pubs restent non personnalis\u00e9es.", a: "Accepter", r: "Refuser" },
+      ar: { t: "\u0646\u0633\u062a\u0639\u0645\u0644 \u0645\u0644\u0641\u0627\u062a \u062a\u0639\u0631\u064a\u0641 \u0644\u0642\u064a\u0627\u0633 \u0627\u0644\u0632\u064a\u0627\u0631\u0627\u062a \u0648\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0645\u0648\u0642\u0639. \u0627\u0644\u0642\u064a\u0627\u0633 \u0645\u0628\u0644\u0648\u0643 \u062d\u062a\u0649 \u062a\u0642\u0628\u0644\u060c \u0648\u0627\u0644\u0625\u0639\u0644\u0627\u0646\u0627\u062a \u063a\u064a\u0631 \u0645\u062e\u0635\u0635\u0635\u0629.", a: "\u0642\u0628\u0648\u0644", r: "\u0631\u0641\u0636" }
     }[LANG] || TXT_EN;
-    var ALL_GRANTED = { analytics_storage: "granted", ad_storage: "granted", ad_user_data: "granted", ad_personalization: "granted" };
+    var ANALYTICS_ONLY = { analytics_storage: "granted", ad_storage: "denied", ad_user_data: "denied", ad_personalization: "denied" };
     var ALL_DENIED = { analytics_storage: "denied", ad_storage: "denied", ad_user_data: "denied", ad_personalization: "denied" };
+    var SIGS = ["analytics_storage", "ad_storage", "ad_user_data", "ad_personalization"];
 
-    // stored() returns the exact 4-signal set, or null. Legacy plain
-    // 'granted'/'denied' strings (pre-v2) are mapped to all-granted/all-denied.
-    function stored() {
+    // stored() returns the exact 4-signal set, or null. Plain legacy "granted"
+    // strings are NOT trusted as an explicit choice: they are discarded so a
+    // fresh explicit decision is asked (unsure = denied until confirmed).
+    function stored(keepLegacy) {
       try {
         var raw = localStorage.getItem(KEY);
         if (!raw) return null;
-        if (raw === "granted") return ALL_GRANTED;
+        if (raw === "granted") { if (!keepLegacy) { try { localStorage.removeItem(KEY); } catch (e) {} } return null; }
         if (raw === "denied") return ALL_DENIED;
         var v = JSON.parse(raw);
         if (v && v.v === 2 && typeof v.analytics_storage === "string") return v;
@@ -65,7 +72,7 @@
 
     function show() {
       var banner = document.getElementById("mh-consent-banner");
-      if (!banner || stored()) return;
+      if (!banner || stored(true)) return;
       var el = banner.querySelector(".mh-consent-text");
       var btnA = banner.querySelector(".mh-consent-accept");
       var btnR = banner.querySelector(".mh-consent-reject");
@@ -77,29 +84,36 @@
 
     window.__mhConsent = { apply: apply, show: show, stored: stored };
 
-    // CMP hook: the certified Google CMP verdict (EEA/UK/CH) is applied and
-    // persisted EXACTLY as given — never widened, never overridden by us.
-    // A stored decision always wins.
+    // CMP hook — restriction-only. Any signal the certified CMP denies is
+    // applied immediately and persisted; CMP callbacks can never grant.
     window.__mhApplyCmp = function (vals) {
-      if (stored()) return;
-      apply(vals, true);
+      var cur = stored(true) || ALL_DENIED;
+      var merged = {};
+      for (var i = 0; i < SIGS.length; i++) {
+        var s = SIGS[i];
+        merged[s] = vals && vals[s] === "denied" ? "denied" : cur[s];
+      }
+      apply(merged, true);
     };
 
-    var decision = stored();
+    var banner = document.getElementById("mh-consent-banner");
+    var decision = stored(false);
     if (decision) {
       apply(decision, false);
     } else {
       var grace = setTimeout(show, GRACE_MS);
-      window.addEventListener("mh-consent-reopen", function () {
-        clearTimeout(grace);
-        try { localStorage.removeItem(KEY); } catch (e) {}
-        show();
-      });
-      var banner = document.getElementById("mh-consent-banner");
-      if (banner) {
-        banner.querySelector(".mh-consent-accept").addEventListener("click", function () { clearTimeout(grace); apply(ALL_GRANTED, true); });
-        banner.querySelector(".mh-consent-reject").addEventListener("click", function () { clearTimeout(grace); apply(ALL_DENIED, true); });
-      }
+      window.addEventListener("mh-consent-reopen", function () { clearTimeout(grace); show(); });
+    }
+
+    // Registered unconditionally so "Manage consent" always works, even when a
+    // stored decision exists at load (returning visitors).
+    window.addEventListener("mh-consent-reopen", function () {
+      try { localStorage.removeItem(KEY); } catch (e) {}
+      show();
+    });
+    if (banner) {
+      banner.querySelector(".mh-consent-accept").addEventListener("click", function () { apply(ANALYTICS_ONLY, true); });
+      banner.querySelector(".mh-consent-reject").addEventListener("click", function () { apply(ALL_DENIED, true); });
     }
   })();
 </script>
