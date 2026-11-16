@@ -2,6 +2,7 @@
 import { GA_ID, GSC_VERIFICATION } from "../data/analytics";
 import SiteHeader from "../components/SiteHeader.astro";
 import SiteFooter from "../components/SiteFooter.astro";
+import ConsentBanner from "../components/ConsentBanner.astro";
 import WebMcp from "../components/WebMcp.astro";
 import Link from "../components/Link.astro";
 import { getLangFromUrl, getFrenchSlug, getEnglishSlug } from "../utils/i18n";
@@ -136,8 +137,11 @@ const deferGa = GA_ID
       window.googlefc = window.googlefc || {};
       window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
       window.googlefc.callbackQueue.push({
-        'CONSENT_MODE_DATA_READY': function () {
-          try {
+      'CONSENT_MODE_DATA_READY': function () {
+        // F-12: a stored first-party decision (mh-consent) wins — do not let a
+        // late/absent CMP verdict override what the visitor chose in the banner.
+        try { if (localStorage.getItem('mh-consent')) return; } catch (e) {}
+        try {
             var v = googlefc.getGoogleConsentModeValues();
             var GRANTED = (googlefc.ConsentModePurposeStatusEnum || {}).GRANTED || 1;
             var g = function (s) { return s === GRANTED ? 'granted' : 'denied'; };
@@ -207,6 +211,8 @@ const deferGa = GA_ID
     </main>
 
     <SiteFooter />
+
+    <ConsentBanner />
 
     <script is:inline>
       (function(){
