@@ -74,6 +74,7 @@ const feedPosts = curated ? posts.filter((p) => !curated.has(p.id)) : posts;
       <p class="kicker"><a href="/topics/" style="color:inherit;text-decoration:none;" data-i18n="topicsKicker">Topics</a> · <span data-i18n="theFeed">The Feed</span></p>
       <h1>{topic.title} <em>— {posts.length} {posts.length === 1 ? "essay" : "essays"}.</em></h1>
       <p>{topic.description}</p>
+      {!pillar && topic.lede && <p class="topic-lede">{topic.lede}</p>}
     </div>
   </section>
 

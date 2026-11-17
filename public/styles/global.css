@@ -3370,3 +3370,5 @@ main h3[id] { scroll-margin-top: 96px; }
     max-width: 100%;
   }
 }
+
+.page-head .topic-lede{font-family:var(--sans);font-style:normal;font-size:1rem;line-height:1.7;color:var(--muted);max-width:60ch;margin:0 auto;padding-top:16px;border-top:1px solid var(--line-soft)}

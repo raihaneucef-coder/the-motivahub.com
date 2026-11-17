@@ -71,8 +71,8 @@ relatedArticles:
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p10">- Van Dongen and colleagues (<em>Sleep</em>, 2003) held people at six hours a night for two weeks. By the end, their attention lapses matched roughly two nights of total sleep deprivation — while they still rated themselves as coping.
 - One week of five-hour nights lowered daytime testosterone by 10-15% in healthy young men, in a small controlled trial (Leproult and Van Cauter, <em>JAMA</em>, 2011).
-- Short sleep raises evening cortisol and blunts insulin sensitivity; these studies are small and short, which is why I treat the finding as directionally solid and numerically uncertain (Spiegel and colleagues, <em>Lancet</em>, 1999).
-- Extending sleep to ten hours improved free-throw and sprint times in an 11-player Stanford basketball study (Mah and colleagues, <em>Sleep</em>, 2011). Eleven players is not proof, and replications are inconsistent — a hint, not a law.</div>
+- Short sleep raises evening cortisol and blunts insulin sensitivity; these studies are small and short, which is why I treat the finding as directionally solid and numerically uncertain (<a href="https://pubmed.ncbi.nlm.nih.gov/10543671/" target="_blank" rel="noopener">Spiegel and colleagues, Lancet 1999</a>).
+- Extending sleep to ten hours improved free-throw and sprint times in an 11-player Stanford basketball study (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119836/" target="_blank" rel="noopener">Mah and colleagues, Sleep 2011</a>). Eleven players is not proof, and replications are inconsistent — a hint, not a law.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p11">Effect sizes are argued about; the direction is not. Sleep is a performance input, not the reward you get for finishing the work.</div>
 
@@ -338,8 +338,8 @@ Morning sunlight ($0): biggest energy boost.</div>
 
 <div data-i18n-html="article_sleep-is-unfair-advantage_p110">1. Van Dongen, H. P. A. et al. — “The cumulative cost of additional wakefulness” — <em>Sleep</em>, 2003
 2. Leproult, R. & Van Cauter, E. — “Effect of 1 week of sleep restriction on testosterone levels in young healthy men” — <em>JAMA</em>, 2011
-3. Spiegel, K., Leproult, R. & Van Cauter, E. — “Impact of sleep debt on metabolic and endocrine function” — <em>Lancet</em>, 1999
-4. Mah, C. D. et al. — “The effects of sleep extension on the athletic performance of collegiate basketball players” — <em>Sleep</em>, 2011
+3. Spiegel, K., Leproult, R. & Van Cauter, E. — “Impact of sleep debt on metabolic and endocrine function” — <em>Lancet</em>, 1999 — <a href="https://pubmed.ncbi.nlm.nih.gov/10543671/" target="_blank" rel="noopener">PubMed 10543671</a>
+4. Mah, C. D. et al. — “The effects of sleep extension on the athletic performance of collegiate basketball players” — <em>Sleep</em>, 2011 — <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119836/" target="_blank" rel="noopener">PMC3119836</a>
 5. Walker, M. P. — <em>Why We Sleep</em>, 2017 — read alongside the published corrections
 6. National Sleep Foundation — recommended sleep duration for adults</div>
 
