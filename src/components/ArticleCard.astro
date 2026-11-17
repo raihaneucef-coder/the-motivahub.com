@@ -35,7 +35,7 @@ const imageAlt = locale === "fr"
       <Link href={`/${locale === "fr" ? "fr/" : ""}journal/${slug}/`}>
         {title}
       </Link>
-    </h3>
+    </h2>
     <p class="card-excerpt">{description}</p>
     <p class="card-date">{post.data.pubDate.toLocaleDateString(locale === "fr" ? "fr-FR" : "en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
   </div>

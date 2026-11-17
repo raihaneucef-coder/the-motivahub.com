@@ -53,8 +53,10 @@ const ogLocale = lang === "ar" ? "ar_SA" : lang === "fr" ? "fr_FR" : "en_US";
 const ogLocaleAlt = lang === "ar" ? "en_US" : lang === "fr" ? "en_US" : "fr_FR";
 // Cache-busting version of the global stylesheet: the file is served with a
 // 1-year immutable header, so its URL must change whenever its content does.
+// Astro 7 bundles server code, so `import.meta.url` no longer points at src/;
+// resolve the source file from the project root instead.
 const globalCssV = createHash("sha256")
-  .update(readFileSync(new URL("../../public/styles/global.css", import.meta.url)))
+  .update(readFileSync("public/styles/global.css"))
   .digest("hex")
   .slice(0, 10);
 // Consent Mode v2: all four signals default to denied on every page, set inline
@@ -123,11 +125,11 @@ const deferGa = GA_ID
     <meta name="twitter:image" content={ogImage} />
     <meta name="robots" content={robots ?? (noindex ? "noindex, nofollow" : "index, follow")} />
     <meta name="google-adsense-account" content="ca-pub-7700455846106476">
-    <script is:inline define:vars={{ deferAds }} set:html={deferAds}></script>
+    <script is:inline set:html={deferAds}></script>
     {GSC_VERIFICATION && <meta name="google-site-verification" content={GSC_VERIFICATION} />}
     <meta name="impact-site-verification" content="e2d5e2d9-5097-4b2d-b582-7d63c33ec316" />
     {GA_ID && (
-      <script is:inline define:vars={{ gaSnippet, deferGa }} set:html={gaSnippet + deferGa}></script>
+      <script is:inline set:html={gaSnippet + deferGa}></script>
     )}
     <script is:inline>
       // F-09: make GA4 / Consent Mode honour the Google Privacy & messaging (CMP)
