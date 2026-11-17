@@ -5,10 +5,11 @@ titleFr: "L'Attention comme Actif : Protéger Votre Concentration"
 seoTitleFr: "Attention : un actif à protéger"
 descriptionFr: "Dans un monde de distractions, l'attention est votre actif le plus précieux. Comment protéger et cultiver votre concentration pour un travail qui compte."
 pubDate: 2026-07-10
-updatedDate: 2026-11-06
+updatedDate: 2026-11-17
 readTime: "10 MIN"
 image: "/images/blog/attention-as-asset.jpg"
-imageAlt: "Youssef Raihane's attention audit notebook showing 147 distractions tracked in one day"
+imageAlt: "A notebook full of marks"
+imageAltFr: "Un carnet plein de marques"
 topic: "Productivity"
 keywords:
   - "attention as asset"
@@ -30,7 +31,7 @@ faq:
   - q: "How do I protect my attention?"
     a: "Start with an attention audit: track every distraction for one day. Then implement two rules: (1) phone in another room during deep work, (2) single-tab, single-task work. These two rules alone can recover 2-3 hours per day."
   - q: "Is multitasking really that bad?"
-    a: "Yes. Research on task switching at the University of Michigan found that switching between tasks carries a measurable time cost. The cost compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work."
+    a: "Yes. Rubinstein, Meyer, and Evans (University of Michigan and FAA, 2001, Journal of Experimental Psychology: Human Perception and Performance) found that people lose measurable time with every task switch, and the cost grows with task complexity. Single-tasking is not just better. It is the only sustainable way to work."
   - q: "What is the attention economy?"
     a: "The attention economy is the market for human attention. Apps, social media, and news are designed to capture and hold your attention because attention is the new currency. The more attention they harvest, the more they earn from advertisers."
 faqFr:
@@ -39,7 +40,7 @@ faqFr:
   - q: "Comment protéger mon attention ?"
     a: "Commencez par un audit d'attention : notez chaque distraction pendant une journée. Puis instaurez deux règles : (1) le téléphone dans une autre pièce pendant le travail profond, (2) un seul onglet, une seule tâche. Ces deux règles seules peuvent rendre 2 à 3 heures par jour."
   - q: "Le multitâche est-il vraiment si nocif ?"
-    a: "Oui. Des travaux sur la commutation de tâches à l'université du Michigan ont montré que passer d'une tâche à l'autre a un coût de temps mesurable. Ce coût s'accumule à chaque changement. Le mono-tâche n'est pas seulement meilleur : c'est la seule manière durable de travailler."
+    a: "Oui. Rubinstein, Meyer et Evans (Université du Michigan et FAA, 2001, Journal of Experimental Psychology : Human Perception and Performance) ont montré que l'on perd du temps mesurable à chaque changement de tâche, et que le coût augmente avec la complexité des tâches. Le mono-tâche n'est pas seulement meilleur : c'est la seule manière durable de travailler."
   - q: "Qu'est-ce que l'économie de l'attention ?"
     a: "C'est le marché de l'attention humaine. Les applications, les réseaux sociaux et les médias sont conçus pour capter et retenir votre attention, parce que l'attention est la nouvelle monnaie. Plus ils en récoltent, plus ils gagnent auprès des annonceurs."
 relatedArticles:
@@ -84,7 +85,7 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p15">The modern world is engineered against it. Every app is designed to break attention into smaller pieces — because a broken attention is a piece of merchandise. The fragment is the sale.</div>
 
-<div data-i18n-html="article_attention-as-asset_p16">The average person checks their phone 96 times per day. That is once every 10 waking minutes. Each check is a small theft. Each notification is a small hijacking. The fragments add up to hours.</div>
+<div data-i18n-html="article_attention-as-asset_p16">One widely cited figure — a 2019 Asurion survey of about 2,000 US smartphone users — put phone checks at 96 per day, roughly once every ten waking minutes. It is a self-reported estimate, not a measurement, and later surveys have landed on very different numbers. But the shape is the same whichever number you trust: each check is a small theft. Each notification is a small hijacking. The fragments add up to hours.</div>
 
 <div data-i18n-html="article_attention-as-asset_p17"><h2>The Account Ledger</h2></div>
 
@@ -112,7 +113,7 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p26">I did this audit in March 2023. I used a simple notebook. Every time I checked my phone, I made a mark. Every time I switched tabs, I made a mark. Every time I got a notification, I made a mark.</div>
 
-<div data-i18n-html="article_attention-as-asset_p27">At the end of the day, I had 147 marks. 147 thefts. Some were 2 seconds. Some were 10 minutes. The total time stolen: 3.5 hours.</div>
+<div data-i18n-html="article_attention-as-asset_p27">At the end of the day, the notebook was full of marks. Some lasted two seconds, some ten minutes. Stolen in fragments, they added up to hours.</div>
 
 <div data-i18n-html="article_attention-as-asset_p28">The audit was painful. But it was also liberating. Once I saw the theft, I could stop it.</div>
 
@@ -122,7 +123,7 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p31">Two hours a day, the phone is in another room. Not silent — elsewhere. The Stoics understood the power of <em>prohairesis</em>: the choice made before the moment. Remove the option, and the choice is already won.</div>
 
-<div data-i18n-html="article_attention-as-asset_p32">In 2023, I started doing this from 6:30 AM to 8:30 AM. The phone stayed in the kitchen. I worked in my home office. No notifications. No calls. No texts. Just me and the writing.</div>
+<div data-i18n-html="article_attention-as-asset_p32">My first version of this ran in 2023: 6:30 AM to 8:30 AM, phone in the kitchen, me in the home office. No notifications. No calls. No texts. Just me and the writing.</div>
 
 <div data-i18n-html="article_attention-as-asset_p33">The first week was painful. I kept reaching for the phone. I kept imagining emergencies. Nothing happened. No one died. No one got angry. The world continued without my attention.</div>
 
@@ -132,9 +133,9 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p36">One tab. One task. One window. The multitasker is not doing more — they are paying a switching tax on every task, and the tax compounds.</div>
 
-<div data-i18n-html="article_attention-as-asset_p37">Research on task switching at the University of Michigan found that switching between tasks carries a measurable time cost. The switching tax compounds with every task change. Single-tasking is not just better. It is the only sustainable way to work.</div>
+<div data-i18n-html="article_attention-as-asset_p37">The clearest lab evidence is Rubinstein, Meyer and Evans (2001) — four experiments run at the University of Michigan and the FAA, published in the Journal of Experimental Psychology: Human Perception and Performance. People lost measurable time every time they switched tasks, and the cost grew with the complexity of the tasks. Single-tasking is not just better. It is the only sustainable way to work.</div>
 
-<div data-i18n-html="article_attention-as-asset_p38">In 2023, I started using a single-tab browser for writing. One document. No email. No Slack. No research. Just writing. When I needed to research, I opened a new window. When I was done, I closed it. The single tab forced me to finish one thing before starting another.</div>
+<div data-i18n-html="article_attention-as-asset_p38">The single-tab experiment came the same year. One document. No email. No Slack. No research. Just writing. When I needed to research, I opened a new window. When I was done, I closed it. The single tab forced me to finish one thing before starting another.</div>
 
 <div data-i18n-html="article_attention-as-asset_p39"><h3>3. The Attention Budget</h3></div>
 
@@ -149,13 +150,13 @@ relatedArticles:
 
 <div data-i18n-html="article_attention-as-asset_p42">The budget is not rigid. It is a guide. The point is to be intentional about where your attention goes, not to let it be stolen by whatever pulls at it.</div>
 
-<div data-i18n-html="article_attention-as-asset_p43">In 2023, I started tracking my attention budget in a notebook. Every hour, I marked what I had done. At the end of the week, I reviewed the ledger. Where had I overspent? Where had I underspent? What needed to change?</div>
+<div data-i18n-html="article_attention-as-asset_p43">The budget lives in my notebook. Every hour, I mark what I did. At the end of the week, I review the ledger. Where did I overspend? Where did I underspend? What needs to change?</div>
 
 <div data-i18n-html="article_attention-as-asset_p44"><h3>4. The Notification Fast</h3></div>
 
 <div data-i18n-html="article_attention-as-asset_p45">Notifications are not helpful. They are interruptions dressed up as help. Every notification is a small theft of attention.</div>
 
-<div data-i18n-html="article_attention-as-asset_p46">In 2023, I turned off all notifications except phone calls from my wife. No email notifications. No Slack notifications. No social media notifications. No news notifications.</div>
+<div data-i18n-html="article_attention-as-asset_p46">The notification fast was the hardest rule. Everything went off except phone calls from my wife. No email notifications. No Slack notifications. No social media notifications. No news notifications.</div>
 
 <div data-i18n-html="article_attention-as-asset_p47">The first week was quiet. Too quiet. I felt like I was missing something. By week 2, I had forgotten what the notifications felt like. By week 3, I had reclaimed 1.5 hours per day.</div>
 
@@ -215,16 +216,18 @@ I never tracked where my attention went. The theft was invisible. The audit made
 
 <hr />
 
-<div data-i18n-html="article_attention-as-asset_p70"><em>Youssef Raihane tracked his attention in 2023 and discovered he was stealing 3.5 hours per day from himself. He now works with his phone in another room during deep work and has doubled his output.</em></div>
+<div data-i18n-html="article_attention-as-asset_p70"><em>Youssef Raihane tracked his attention in 2023 and discovered he was losing hours of his day to his own phone. He now works with his phone in another room during deep work and has more than doubled his output.</em></div>
 
 <div data-i18n-html="article_attention-as-asset_p71"><h2>Sources</h2></div>
 
 <div data-i18n-html="article_attention-as-asset_p72">1. <em>Newport, C.</em> (2016). <em>Deep Work: Rules for Focused Success in a Distracted World.</em> — for the deep work framework
 2. <a href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener"><em>Mark, G., et al.</em></a> (2008). "The cost of interrupted work: More speed and stress." <em>CHI Conference</em> — for the finding that constant switching makes work slower and more stressful
-3. <em>Seneca</em> — <em>On the Shortness of Life</em> — for the Stoic perspective on attention theft</div>
+3. <em>Seneca</em> — <em>On the Shortness of Life</em> — for the Stoic perspective on attention theft
+4. <a href="https://pubmed.ncbi.nlm.nih.gov/11518143/" target="_blank" rel="noopener"><em>Rubinstein, J. S., Meyer, D. E., &amp; Evans, J. E.</em></a> (2001). "Executive control of cognitive processes in task switching." <em>Journal of Experimental Psychology: Human Perception and Performance, 27</em>(4), 763–797. DOI: 10.1037/0096-1523.27.4.763 — for the finding that every task switch costs measurable time, growing with task complexity
+5. <em>Asurion</em> (2019). Sponsored survey of 1,998 US smartphone users, fielded by Solidea Solutions (August 18–20, 2019) — source of the 96-checks-a-day figure (vendor survey, self-reported; their 2022 survey of 1,965 US adults reported 352 checks a day)</div>
 
 <hr />
 
 <div data-i18n-html="article_attention-as-asset_p74"><strong>Attention is the new currency.</strong> To see how to budget it alongside your habits, read our <a href="/journal/2-minute-rule-system/">complete 2-Minute Rule guide</a> — the same architecture, applied to focus instead of habits.</div>
 
-<div data-i18n-html="article_attention-as-asset_p75"><em>Last updated: November 6, 2026 — refreshed after an editorial accuracy review. Earlier update: September 12, 2026 (added personal attention audit story, specific numbers, and the single-tab protocol).</em></div>
+<div data-i18n-html="article_attention-as-asset_p75"><em>Last updated: November 17, 2026 — research attributions verified and corrected (Rubinstein, Meyer &amp; Evans, 2001; Asurion, 2019) and recurring sentence openings varied. Earlier update: September 12, 2026 (added personal attention audit story, specific numbers, and the single-tab protocol).</em></div>

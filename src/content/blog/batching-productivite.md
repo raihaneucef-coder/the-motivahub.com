@@ -116,7 +116,7 @@ relatedArticles:
 
 <div data-i18n-html="article_batching-productivite_p31"><h3>1. It Eliminates Context Switching</h3></div>
 
-<div data-i18n-html="article_batching-productivite_p32">Every time you switch tasks, your brain pays a cognitive tax. Research on task-switching at the University of Michigan (<a href="https://pubmed.ncbi.nlm.nih.gov/11518143/" target="_blank" rel="noopener">Rubinstein, Meyer &amp; Evans, 2001</a>) showed measurable time and error costs when people alternate between different mental modes. The switching cost compounds with every task change.</div>
+<div data-i18n-html="article_batching-productivite_p32">Every time you switch tasks, your brain pays a cognitive tax. Research on task-switching at the University of Michigan (<a href="https://pubmed.ncbi.nlm.nih.gov/11518143/" target="_blank" rel="noopener">Rubinstein, Meyer &amp; Evans, 2001</a>) showed that people lose measurable time when they alternate between different mental modes, and that the cost grows with the complexity of the tasks.</div>
 
 <div data-i18n-html="article_batching-productivite_p33">Batching eliminates this tax by keeping you in the same mental mode for an extended period. You pay the switching cost once, not every few minutes.</div>
 
