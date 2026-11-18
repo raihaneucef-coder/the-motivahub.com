@@ -1,4 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-label="Motiva Hub">
+  <!--
+    brand-mark-fixed.svg — COMPARISON CANDIDATE (Version 1), not referenced by
+    any page yet. Diff vs public/img/brand-mark.svg (a73f52b):
+      1. H glyph path rebuilt: the old path drew one stem + a bottom foot
+         ("L"). New path = two stems + crossbar, 20u wide inside the 64u box.
+      2. darkFace gradient re-tuned from #3a3a3a/#0a0a0a (1.00:1 on the dark
+         hero = invisible) to bronze #a8874f -> #7a5f34 (>=3:1 on cream AND
+         on the dark hero).
+      3. goldFace, the M glyph, the 3 peaks, the up-arrow and the baseline are
+         unchanged.
+  -->
   <defs>
     <linearGradient id="goldFace" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#f5d896"/>
@@ -7,9 +18,9 @@
       <stop offset="100%" stop-color="#8a6420"/>
     </linearGradient>
     <linearGradient id="darkFace" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#3a3a3a"/>
-      <stop offset="50%" stop-color="#1a1a1a"/>
-      <stop offset="100%" stop-color="#0a0a0a"/>
+      <stop offset="0%" stop-color="#a8874f"/>
+      <stop offset="55%" stop-color="#8a6d3e"/>
+      <stop offset="100%" stop-color="#7a5f34"/>
     </linearGradient>
   </defs>
 
@@ -18,7 +29,7 @@
   </g>
 
   <g transform="translate(38, 4)">
-    <path d="M 0 32 L 0 0 L 5 0 L 5 27 L 16 27 L 16 32 L 0 32 Z" fill="url(#darkFace)" stroke="#000" stroke-width="0.15"/>
+    <path d="M 0 32 L 0 0 L 4.5 0 L 4.5 13.5 L 15.5 13.5 L 15.5 0 L 20 0 L 20 32 L 15.5 32 L 15.5 18 L 4.5 18 L 4.5 32 Z" fill="url(#darkFace)" stroke="#5a3e10" stroke-width="0.15"/>
   </g>
 
   <g transform="translate(0, 30)">
