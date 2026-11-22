@@ -1,6 +1,6 @@
 # Photo Credits
 
-All article photos are free-license (CC-BY / CC0 / PDM) fetched via Openverse.
+Most article photos are free-license (CC-BY / CC0 / PDM) fetched via Openverse. Some covers are used under the Pexels License.
 Unified cinematic treatment applied by Motiva Hub.
 
 ## Public Domain (no attribution required)
@@ -237,3 +237,9 @@ Unified cinematic treatment applied by Motiva Hub.
 - **the-movie-that-changed-your-week** — [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via [Pexels](https://www.pexels.com/photo/red-chairs-in-the-cinema-7991381/)
 - **two-minute-threshold** — [M1nh  Art](https://www.pexels.com/@m1nhosuy) via [Pexels](https://www.pexels.com/photo/young-adult-standing-by-open-door-in-sunlit-room-37976675/)
 - **when-motivation-leaves** — [Robert Śliwiński](https://www.pexels.com/@robert-sliwinski-2155126657) via [Pexels](https://www.pexels.com/photo/extinguished-candle-with-rising-smoke-36975554/)
+
+## Pexels License
+
+- `if-then-planning-implementation-intentions.jpg` — "Productivity Notebook with Task Checklist" by Jakub Zerdzicki via [Pexels](https://www.pexels.com/photo/productivity-notebook-with-task-checklist-36950612/)
+- `spaced-repetition-for-adults.jpg` — "Blank Notes with Hook" by PNW Production via [Pexels](https://www.pexels.com/photo/blank-notes-with-hook-8250913/)
+- `working-memory-not-a-muscle.jpg` — "Top View of a Messy Desk with Scrunched Pieces of Paper" by Tara Winstead via [Pexels](https://www.pexels.com/photo/top-view-of-a-messy-desk-with-scrunched-pieces-of-paper-8386521/)

@@ -94,6 +94,16 @@ async function isNoindex(slug) {
   }
 }
 
+// Drafts are not rendered by Astro, so they must not be advertised either.
+async function isDraft(slug) {
+  try {
+    const md = await readFile(join(BLOG_DIR, `${slug}.md`), "utf8");
+    return /^draft:\s*true\s*$/m.test(md);
+  } catch {
+    return false;
+  }
+}
+
 async function main() {
   const blogFiles = (await readdir(BLOG_DIR, { withFileTypes: true }))
     .filter((e) => e.isFile() && e.name.endsWith(".md"))
@@ -140,7 +150,7 @@ async function main() {
     // An article marked `noindex: true` deprecates the whole EN/FR pair: both
     // routes carry noindex,nofollow, so neither may appear in the sitemap — we
     // must never ask Google to index a page we told it to drop.
-    if (await isNoindex(slug)) continue;
+    if (await isNoindex(slug) || await isDraft(slug)) continue;
     const lastmod = await getPostLastmod(slug);
     urls.push({
       loc: `${SITE}/journal/${slug}/`,
@@ -160,7 +170,7 @@ async function main() {
       // `noindex: true` retires both language routes of the pair, so the
       // French twin is dropped as well and can never be advertised through
       // hreflang by a page that is out of the index.
-      if (await isNoindex(slug)) continue;
+      if (await isNoindex(slug) || await isDraft(slug)) continue;
       const lastmod = await getPostLastmod(slug);
       urls.push({
         loc: `${SITE}/fr/journal/${frSlug}/`,
