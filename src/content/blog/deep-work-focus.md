@@ -51,7 +51,7 @@ relatedArticles:
   - "real-reason-you-procrastinate"
 ---
 
-<div data-i18n-html="article_deep-work-focus_p2">Deep work is the ability to focus without distraction on a cognitively demanding task. Learn how to develop this rare skill and multiply your output.</div>
+<div data-i18n-html="article_deep-work-focus_p2">Deep work is the ability to focus without distraction on a cognitively demanding task. Learn how to develop this rare skill and multiply your output. More in <a href="/topics/productivity/">Productivity</a>.</div>
 
 <div data-i18n-html="article_deep-work-focus_p3">Cal Newport defined deep work as "professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit." It is the skill that separates the best from the rest.</div>
 

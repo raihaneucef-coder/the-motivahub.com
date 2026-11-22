@@ -1,6 +1,6 @@
 ---
 title: "I Ran a 7-Day Identity Challenge. Here's What 7 Days of Voting Actually Does."
-seoTitle: "The 7-Day Identity Challenge That Actually Works"
+seoTitle: "The 7-Day Identity Challenge That Works"
 description: "A personal experiment: seven days, one identity statement, one tiny daily action. The math, the science, and the surprising result on day 7."
 titleFr: "J'ai fait un défi identitaire de 7 jours. Voici ce que 7 jours de votes font vraiment."
 seoTitleFr: "Défi identitaire 7 jours : ce que ça change"

@@ -45,7 +45,7 @@ relatedArticles:
   - "secure-self"
 ---
 
-<div data-i18n-html="article_the-comeback-is-stronger_p2">Every setback is a setup for a stronger comeback. Your greatest growth is not in never falling — it is in rising with more fire.</div>
+<div data-i18n-html="article_the-comeback-is-stronger_p2">Every setback is a setup for a stronger comeback. Your greatest growth is not in never falling — it is in rising with more fire. More in <a href="/topics/personal-growth/">Personal Growth</a>.</div>
 
 <div data-i18n-html="article_the-comeback-is-stronger_h2a"><h2>The fall built you</h2></div>
 

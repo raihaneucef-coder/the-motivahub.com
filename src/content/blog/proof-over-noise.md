@@ -47,7 +47,7 @@ relatedArticles:
   - "the-letter-he-never-sent"
 ---
 
-<div data-i18n-html="article_proof-over-noise_p2">The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions.</div>
+<div data-i18n-html="article_proof-over-noise_p2">The news you consume becomes the ceiling of what you believe is possible. Curate for evidence — real stories of ordinary people rising — and let your feed raise your ambitions. More in <a href="/topics/stories/">Stories</a>.</div>
 
 <div data-i18n-html="article_proof-over-noise_h2a"><h2>Your attention has a diet</h2></div>
 

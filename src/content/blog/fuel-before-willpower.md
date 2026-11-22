@@ -48,7 +48,7 @@ relatedArticles:
   - "meal-prep-dimanche"
 ---
 
-<div data-i18n-html="article_fuel-before-willpower_p2">Discipline is expensive when you run it on caffeine, sugar and good intentions. Eat in a way that makes the hard things cheaper — nutrition is not a diet, it is infrastructure.</div>
+<div data-i18n-html="article_fuel-before-willpower_p2">Discipline is expensive when you run it on caffeine, sugar and good intentions. Eat in a way that makes the hard things cheaper — nutrition is not a diet, it is infrastructure. More in <a href="/topics/nutrition/">Nutrition</a>.</div>
 
 <div data-i18n-html="article_fuel-before-willpower_h2a"><h2>Discipline is not free</h2></div>
 

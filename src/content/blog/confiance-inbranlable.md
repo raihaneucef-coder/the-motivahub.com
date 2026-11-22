@@ -49,7 +49,7 @@ relatedArticles:
   - "confidence-is-a-record-not-a-feeling"
 ---
 
-<div data-i18n-html="article_confiance-inbranlable_p2">Confidence is not something you are born with. It is something you build, one decision at a time. Here is your 30-day plan.</div>
+<div data-i18n-html="article_confiance-inbranlable_p2">Confidence is not something you are born with. It is something you build, one decision at a time. Here is your 30-day plan. More in <a href="/topics/confidence/">Confidence</a>.</div>
 
 <div data-i18n-html="article_confiance-inbranlable_p3">Confidence is not a personality trait. It is a skill. And like any skill, <a href="/journal/strength-is-a-skill/">it can be built, trained, and strengthened</a>.</div>
 

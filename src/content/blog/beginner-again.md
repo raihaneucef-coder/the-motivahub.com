@@ -48,7 +48,7 @@ relatedArticles:
   - "voyage-lent"
 ---
 
-<div data-i18n-html="article_beginner-again_p2">Travel is not escape — it is the fastest way to reset arrogance and remember how much there is left to learn. New roads return you hungrier than you left.</div>
+<div data-i18n-html="article_beginner-again_p2">Travel is not escape — it is the fastest way to reset arrogance and remember how much there is left to learn. New roads return you hungrier than you left. More in <a href="/topics/travel/">Travel</a>.</div>
 
 <div data-i18n-html="article_beginner-again_p4">Expertise is a quiet trap.</div>
 

@@ -61,7 +61,7 @@ relatedArticles:
   - "identite-precde-resultat"
 ---
 
-<div data-i18n-html="article_missed-day-protocol_p2">Missing a day is not the end of a habit. It is the test of the system. Here is the exact protocol for the day after a miss — and the three rules that prevent the miss from becoming a relapse.</div>
+<div data-i18n-html="article_missed-day-protocol_p2">Missing a day is not the end of a habit. It is the test of the system. Here is the exact protocol for the day after a miss — and the three rules that prevent the miss from becoming a relapse. More in <a href="/topics/habits/">Habits</a>.</div>
 
 <div data-i18n-html="article_missed-day-protocol_p4">Most habit articles talk about how to start. Almost none talk about what to do the day after you fail. This is the part that determines whether the habit survives.</div>
 

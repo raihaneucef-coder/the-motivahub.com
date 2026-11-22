@@ -45,7 +45,7 @@ relatedArticles:
   - "discipline-choix-quotidien"
 ---
 
-<div data-i18n-html="article_discipline-beat-motivation_p2">Motivation is a visitor. Discipline is a resident. Learn why relying on motivation guarantees failure and how to build discipline instead.</div>
+<div data-i18n-html="article_discipline-beat-motivation_p2">Motivation is a visitor. Discipline is a resident. Learn why relying on motivation guarantees failure and how to build discipline instead. More in <a href="/topics/discipline/">Discipline</a>.</div>
 
 <div data-i18n-html="article_discipline-beat-motivation_p3">Motivation feels amazing. When you are motivated, you can conquer the world. The problem is that motivation disappears — usually within days of getting inspired.</div>
 

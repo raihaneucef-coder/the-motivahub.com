@@ -45,7 +45,7 @@ relatedArticles:
   - "nervous-system-is-the-boss"
 ---
 
-<div data-i18n-html="article_two-minute-breath-reset_p2">You cannot think your way calm — you breathe your way there. Two minutes is enough to change your state.</div>
+<div data-i18n-html="article_two-minute-breath-reset_p2">You cannot think your way calm — you breathe your way there. Two minutes is enough to change your state. More in <a href="/topics/wellness/">Wellness</a>.</div>
 
 <div data-i18n-html="article_two-minute-breath-reset_p3">Calm is not a personality you either have or you do not. Calm is a state your body can be guided into, on purpose, in under two minutes.</div>
 

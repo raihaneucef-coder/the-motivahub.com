@@ -447,4 +447,12 @@ Deux outils gratuits qui mettent ce guide en pratique en moins de 60 secondes :
   .guide-faq details { border-bottom: 1px solid rgba(0,0,0,0.1); padding: 14px 0; }
   .guide-faq summary { font-weight: 600; cursor: pointer; }
   .guide-faq details p { margin: 12px 0 0; line-height: 1.7; }
+
+  @media (max-width: 768px) {
+    :global(.prose:has(> table)) {
+      overflow-x: auto;
+      max-width: 100%;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
 </style>

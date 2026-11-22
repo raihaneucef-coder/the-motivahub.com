@@ -45,7 +45,7 @@ relatedArticles:
   - "the-detour-is-the-destination"
 ---
 
-<div data-i18n-html="article_voyage-lent_p2">Rushing through 10 cities in 10 days is not travel — it is tourism. Slow travel is about depth, not breadth. Learn why less is more.</div>
+<div data-i18n-html="article_voyage-lent_p2">Rushing through 10 cities in 10 days is not travel — it is tourism. Slow travel is about depth, not breadth. Learn why less is more. More in <a href="/topics/travel/">Travel</a>.</div>
 
 <div data-i18n-html="article_voyage-lent_p3">The typical tourist checks off 5 countries in 2 weeks. They take photos at every landmark, eat at every chain restaurant, and return home more exhausted than when they left.</div>
 

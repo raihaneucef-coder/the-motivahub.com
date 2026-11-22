@@ -45,7 +45,7 @@ relatedArticles:
   - "resolution-conflits"
 ---
 
-<div data-i18n-html="article_people-who-raise-your-floor_p2">You do not rise to the level of your goals — you fall to the level of the people around you. Choose the room that raises your floor.</div>
+<div data-i18n-html="article_people-who-raise-your-floor_p2">You do not rise to the level of your goals — you fall to the level of the people around you. Choose the room that raises your floor. More in <a href="/topics/relationships/">Relationships</a>.</div>
 
 <div data-i18n-html="article_people-who-raise-your-floor_h2a"><h2>Your floor, not your ceiling</h2></div>
 

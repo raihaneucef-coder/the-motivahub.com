@@ -41,7 +41,7 @@ relatedArticles:
   - "rendez-compte-objectifs"
 ---
 
-<div data-i18n-html="article_one-target-at-a-time_p2">A goal is not a wish written on paper — it is an address you visit every day until the door finally opens. Aim small, aim precise, and let the days do the heavy lifting.</div>
+<div data-i18n-html="article_one-target-at-a-time_p2">A goal is not a wish written on paper — it is an address you visit every day until the door finally opens. Aim small, aim precise, and let the days do the heavy lifting. More in <a href="/topics/goals/">Goals</a>.</div>
 
 <div data-i18n-html="article_one-target-at-a-time_h2a"><h2>Why vague goals fail</h2></div>
 

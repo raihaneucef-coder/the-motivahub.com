@@ -48,7 +48,7 @@ relatedArticles:
   - "run-your-own-race"
 ---
 
-<div data-i18n-html="article_recovery-is-training_p2">You do not get stronger by lifting — you get stronger by recovering from lifting. Rest is not the absence of training.</div>
+<div data-i18n-html="article_recovery-is-training_p2">You do not get stronger by lifting — you get stronger by recovering from lifting. Rest is not the absence of training. More in <a href="/topics/sport/">Sport</a>.</div>
 
 <div data-i18n-html="article_recovery-is-training_h2a"><h2>Training is only the stimulus</h2></div>
 

@@ -45,7 +45,7 @@ relatedArticles:
   - "viral-mindset-shift"
 ---
 
-<div data-i18n-html="article_growth-mindset-rewire_p2">Learn how a growth mindset transforms failures into opportunities. Practical strategies to shift from fixed thinking to limitless potential.</div>
+<div data-i18n-html="article_growth-mindset-rewire_p2">Learn how a growth mindset transforms failures into opportunities. Practical strategies to shift from fixed thinking to limitless potential. More in <a href="/topics/mindset/">Mindset</a>.</div>
 
 <div data-i18n-html="article_growth-mindset-rewire_p3">Your brain is not hardwired. It is softwired — and you hold the tools to rewire it.</div>
 

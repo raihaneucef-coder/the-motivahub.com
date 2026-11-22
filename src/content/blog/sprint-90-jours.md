@@ -50,7 +50,7 @@ relatedArticles:
   - "pourquoi-profond-objectifs"
 ---
 
-<div data-i18n-html="article_sprint-90-jours_p2">Annual goals are too distant to create urgency. 90-day goals create focus, momentum, and accountability. Learn the power of quarterly sprints.</div>
+<div data-i18n-html="article_sprint-90-jours_p2">Annual goals are too distant to create urgency. 90-day goals create focus, momentum, and accountability. Learn the power of quarterly sprints. More in <a href="/topics/goals/">Goals</a>.</div>
 
 <div data-i18n-html="article_sprint-90-jours_p3">Annual goals are too easy to postpone. "I will do it later" works when "later" is 10 months away. But when "later" is 90 days away, everything changes.</div>
 

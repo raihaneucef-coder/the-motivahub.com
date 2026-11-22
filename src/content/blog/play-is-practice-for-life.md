@@ -45,7 +45,7 @@ relatedArticles:
   - "reseaux-sociaux-divertissement"
 ---
 
-<div data-i18n-html="article_play-is-practice-for-life_p2">We think play is what we do after life. Play is how we learn to live — lightly, creatively, together.</div>
+<div data-i18n-html="article_play-is-practice-for-life_p2">We think play is what we do after life. Play is how we learn to live — lightly, creatively, together. More in <a href="/topics/entertainment/">Entertainment</a>.</div>
 
 <div data-i18n-html="article_play-is-practice-for-life_h2a"><h2>Adults set play down</h2></div>
 

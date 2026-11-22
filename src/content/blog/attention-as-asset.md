@@ -51,7 +51,7 @@ relatedArticles:
   - "eat-the-frog"
 ---
 
-<div data-i18n-html="article_attention-as-asset_p2">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is. The subtraction side of the same ledger — 30 days of running it — is documented in <a href="/journal/slow-productivity-30-day-test/">the Slow Productivity test</a>.</div>
+<div data-i18n-html="article_attention-as-asset_p2">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is. The subtraction side of the same ledger — 30 days of running it — is documented in <a href="/journal/slow-productivity-30-day-test/">the Slow Productivity test</a>. More in <a href="/topics/productivity/">Productivity</a>.</div>
 
 <div data-i18n-html="article_attention-as-asset_p4">Your attention is the only thing the modern economy cannot manufacture more of. Treat it like the finite, appreciating asset it is.</div>
 

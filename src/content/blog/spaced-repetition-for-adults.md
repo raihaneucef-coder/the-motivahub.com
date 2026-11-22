@@ -4,7 +4,7 @@ seoTitle: "Spaced Repetition for Adults: A Five-Review Schedule"
 description: "A practical guide to spaced repetition for adults: what the evidence says, how to run a five-review schedule without an app, and what spacing cannot fix."
 titleFr: "La répétition espacée pour adultes : un calendrier en cinq révisions qui tient"
 seoTitleFr: "Répétition espacée : un calendrier en cinq révisions"
-descriptionFr: "Guide pratique de la répétition espacée : ce que disent les preuves, un calendrier en cinq révisions sans application, et ce que l’espacement ne peut pas corriger."
+descriptionFr: "Guide pratique de la répétition espacée : ce que disent les preuves, un calendrier en cinq révisions sans application, et les limites de l’espacement."
 pubDate: 2026-11-20
 updatedDate: 2026-11-20
 readTime: "11 MIN"

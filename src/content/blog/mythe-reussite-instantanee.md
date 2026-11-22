@@ -45,7 +45,7 @@ relatedArticles:
   - "the-cost-of-success"
 ---
 
-<div data-i18n-html="article_mythe-reussite-instantanee_p2">Everyone wants overnight success. But overnight success is a myth. Behind every 'sudden' success are years of invisible work. Learn the truth.</div>
+<div data-i18n-html="article_mythe-reussite-instantanee_p2">Everyone wants overnight success. But overnight success is a myth. Behind every 'sudden' success are years of invisible work. Learn the truth. More in <a href="/topics/success/">Success</a>.</div>
 
 <div data-i18n-html="article_mythe-reussite-instantanee_p3">We hear stories about people who "made it overnight." The reality? There is no such thing. Behind every overnight success are years of invisible work, failures, and persistence.</div>
 

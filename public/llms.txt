@@ -51,7 +51,7 @@
 - Article, BreadcrumbList, and ItemList structured data implemented
 - Canonical URLs set for all pages
 - Language: English (`/`) and French (`/fr/`) with hreflang pairs
-- 432 indexed URLs total (215 EN + 217 FR)
+- 450 indexed URLs total
 
 ## Contact
 

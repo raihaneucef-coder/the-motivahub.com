@@ -46,7 +46,7 @@ relatedArticles:
   - "small-wins-big-life"
 ---
 
-<div data-i18n-html="article_habit-stacking-routine_p2">I stacked three habits on one anchor and ran the chain for 30 days. Two of them stuck — one didn't, and I'll show you exactly where it broke. That experiment is why I trust habit stacking more than any motivational system: it needs no willpower, only the right sequence.</div>
+<div data-i18n-html="article_habit-stacking-routine_p2">I stacked three habits on one anchor and ran the chain for 30 days. Two of them stuck — one didn't, and I'll show you exactly where it broke. That experiment is why I trust habit stacking more than any motivational system: it needs no willpower, only the right sequence. More in <a href="/topics/habits/">Habits</a>.</div>
 
 <div data-i18n-html="article_habit-stacking-routine_p3">You already have dozens of habits. You wake up, brush your teeth, make coffee, check your phone. These behaviors run on autopilot. The key to building new habits is to <strong>attach them to the ones that already exist</strong>.</div>
 

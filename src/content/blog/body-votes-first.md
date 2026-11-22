@@ -51,7 +51,7 @@ relatedArticles:
   - "strength-is-a-skill"
 ---
 
-<div data-i18n-html="article_body-votes-first_p2">Your body votes before your mind does. Learn why physical training is not vanity — it is the maintenance of the instrument that does everything else.</div>
+<div data-i18n-html="article_body-votes-first_p2">Your body votes before your mind does. Learn why physical training is not vanity — it is the maintenance of the instrument that does everything else. More in <a href="/topics/sport/">Sport</a>.</div>
 
 <div data-i18n-html="article_body-votes-first_p4">We like to believe the mind is in charge.</div>
 

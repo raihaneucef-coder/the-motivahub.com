@@ -43,7 +43,7 @@ relatedArticles:
   - "two-friends-one-promise"
 ---
 
-<div data-i18n-html="article_histoire-athlete-recommence_p2">She lost her medal, her sponsor, and her reputation. But she gained something more valuable — the ability to start again.</div>
+<div data-i18n-html="article_histoire-athlete-recommence_p2">She lost her medal, her sponsor, and her reputation. But she gained something more valuable — the ability to start again. More in <a href="/topics/stories/">Stories</a>.</div>
 
 <div data-i18n-html="article_histoire-athlete-recommence_p15"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
 
