@@ -88,7 +88,7 @@ export const books: Book[] = [
     group: "STOICISM",
     title: "The Daily Stoic",
     cover: "/images/books/covers/daily-stoic.jpg",
-    width: 302,
+    width: 331,
     height: 500,
     description: "Three hundred and sixty-six meditations, one for each day.",
     reason: "A practical doorway into a tradition that has guided disciplined minds for two thousand years.",
