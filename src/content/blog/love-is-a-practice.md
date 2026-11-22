@@ -45,7 +45,7 @@ relatedArticles:
   - "resolution-conflits"
 ---
 
-<div data-i18n-html="article_love-is-a-practice_p2">We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows.</div>
+<div data-i18n-html="article_love-is-a-practice_p2">We wait to feel loving before we act loving. It works the other way — act with care daily and the feeling follows. More in <a href="/topics/relationships/">Relationships</a>.</div>
 
 <div data-i18n-html="article_love-is-a-practice_h2a"><h2>The feeling follows the action</h2></div>
 

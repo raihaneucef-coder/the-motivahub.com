@@ -46,7 +46,7 @@ relatedArticles:
   - "love-is-a-practice"
 ---
 
-<div data-i18n-html="article_five-minute-friendship-habit_p2">Friendship does not require weekends away — it requires five minutes of real attention, repeated.</div>
+<div data-i18n-html="article_five-minute-friendship-habit_p2">Friendship does not require weekends away — it requires five minutes of real attention, repeated. More in <a href="/topics/relationships/">Relationships</a>.</div>
 
 <div data-i18n-html="article_five-minute-friendship-habit_h2a"><h2>Friendships go hungry quietly</h2></div>
 

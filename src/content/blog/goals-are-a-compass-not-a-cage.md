@@ -45,7 +45,7 @@ relatedArticles:
   - "smart-goals"
 ---
 
-<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p2">A good goal does not trap you — it points you. Learn how to set goals that pull you forward without breaking you.</div>
+<div data-i18n-html="article_goals-are-a-compass-not-a-cage_p2">A good goal does not trap you — it points you. Learn how to set goals that pull you forward without breaking you. More in <a href="/topics/goals/">Goals</a>.</div>
 
 <div data-i18n-html="article_goals-are-a-compass-not-a-cage_h2a"><h2>A goal is not a cage</h2></div>
 

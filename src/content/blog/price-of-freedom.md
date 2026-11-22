@@ -45,7 +45,7 @@ relatedArticles:
   - "regle-50-30-20"
 ---
 
-<div data-i18n-html="article_price-of-freedom_p2">Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns.</div>
+<div data-i18n-html="article_price-of-freedom_p2">Freedom is not bought once — it is rented every day with small, boring payments. Miss them and the debt returns. More in <a href="/topics/finance/">Finance</a>.</div>
 
 <div data-i18n-html="article_price-of-freedom_h2a"><h2>Freedom is not a finish line</h2></div>
 

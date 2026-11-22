@@ -45,7 +45,7 @@ relatedArticles:
   - "regarder-intentionnellement"
 ---
 
-<div data-i18n-html="article_play-on-purpose_p2">Leisure that leaves you emptier is not rest. Choose entertainment the way champions choose training — deliberately — and recovery becomes a weapon instead of a leak.</div>
+<div data-i18n-html="article_play-on-purpose_p2">Leisure that leaves you emptier is not rest. Choose entertainment the way champions choose training — deliberately — and recovery becomes a weapon instead of a leak. More in <a href="/topics/entertainment/">Entertainment</a>.</div>
 
 <div data-i18n-html="article_play-on-purpose_h2a"><h2>Rest can be exhausting</h2></div>
 

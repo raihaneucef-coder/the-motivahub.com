@@ -2,7 +2,7 @@
 title: "Intermittent Fasting: Does It Really Work?"
 description: "Intermittent fasting is the most popular eating pattern in the world. Does it actually work? The evidence is promising — and more modest than the headlines."
 titleFr: "Jeûne intermittent : est-ce que ça marche vraiment ?"
-seoTitle: "Intermittent Fasting: Does It Really Work? (Evidence)"
+seoTitle: "Intermittent Fasting: Does It Work? (Evidence)"
 seoTitleFr: "Jeûne intermittent : ce que disent les preuves"
 descriptionFr: "Le jeûne intermittent est le mode alimentaire le plus populaire au monde. Les preuves sont prometteuses — et plus modestes que les gros titres."
 pubDate: 2026-08-24

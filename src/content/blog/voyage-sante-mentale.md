@@ -45,7 +45,7 @@ relatedArticles:
   - "voyage-solo"
 ---
 
-<div data-i18n-html="article_voyage-sante-mentale_p2">Travel is not a luxury — it is therapy. New environments reduce stress, boost creativity, and improve mental health. Here is the science.</div>
+<div data-i18n-html="article_voyage-sante-mentale_p2">Travel is not a luxury — it is therapy. New environments reduce stress, boost creativity, and improve mental health. Here is the science. More in <a href="/topics/travel/">Travel</a>.</div>
 
 <div data-i18n-html="article_voyage-sante-mentale_p3">Your brain is a pattern-recognition machine. When you are in the same environment every day, your brain goes on autopilot. Travel breaks the pattern — and that is exactly what your mental health needs.</div>
 

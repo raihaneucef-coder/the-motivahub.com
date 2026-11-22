@@ -48,7 +48,7 @@ relatedArticles:
   - "the-plate-that-keeps-you-steady"
 ---
 
-<div data-i18n-html="article_protein-is-not-just-for-athletes_p2">Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive.</div>
+<div data-i18n-html="article_protein-is-not-just-for-athletes_p2">Protein keeps you full, protects muscle, and makes discipline cheaper. Most people eat enough to survive, not enough to thrive. More in <a href="/topics/nutrition/">Nutrition</a>.</div>
 
 <div data-i18n-html="article_protein-is-not-just-for-athletes_h2a"><h2>Protein is not a bodybuilder thing</h2></div>
 

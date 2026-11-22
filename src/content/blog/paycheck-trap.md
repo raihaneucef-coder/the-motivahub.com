@@ -46,7 +46,7 @@ relatedArticles:
   - "price-of-freedom"
 ---
 
-<div data-i18n-html="article_paycheck-trap_p2">A higher income feels like freedom until lifestyle rises with it. Learn how to keep the raise you just earned.</div>
+<div data-i18n-html="article_paycheck-trap_p2">A higher income feels like freedom until lifestyle rises with it. Learn how to keep the raise you just earned. More in <a href="/topics/finance/">Finance</a>.</div>
 
 <div data-i18n-html="article_paycheck-trap_h2a"><h2>Lifestyle inflation arrives first</h2></div>
 

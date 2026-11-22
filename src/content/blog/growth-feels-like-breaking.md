@@ -43,7 +43,7 @@ relatedArticles:
   - "secure-self"
 ---
 
-<div data-i18n-html="article_growth-feels-like-breaking_p2">Growth is not comfortable — it feels like breaking. But breaking is not the end; it is the beginning of becoming.</div>
+<div data-i18n-html="article_growth-feels-like-breaking_p2">Growth is not comfortable — it feels like breaking. But breaking is not the end; it is the beginning of becoming. More in <a href="/topics/personal-growth/">Personal Growth</a>.</div>
 
 <div data-i18n-html="article_growth-feels-like-breaking_h2a"><h2>First, it feels like breaking</h2></div>
 

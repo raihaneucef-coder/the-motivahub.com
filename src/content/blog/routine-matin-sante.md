@@ -46,7 +46,7 @@ relatedArticles:
   - "nervous-system-is-the-boss"
 ---
 
-<div data-i18n-html="article_routine-matin-sante_p2">The world's healthiest people share common morning habits. Learn the routines that transform your energy, focus, and health from day one.</div>
+<div data-i18n-html="article_routine-matin-sante_p2">The world's healthiest people share common morning habits. Learn the routines that transform your energy, focus, and health from day one. More in <a href="/topics/wellness/">Wellness</a>.</div>
 
 <div data-i18n-html="article_routine-matin-sante_p3">The first hour of your day determines the rest. If you start with chaos, you will live in chaos. If you start with intention, you will live with purpose.</div>
 

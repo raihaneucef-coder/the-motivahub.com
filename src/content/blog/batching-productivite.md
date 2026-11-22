@@ -50,7 +50,7 @@ relatedArticles:
   - "technique-pomodoro"
 ---
 
-<div data-i18n-html="article_batching-productivite_p2">Batching is grouping similar tasks together to minimize context switching. Learn how this simple technique can double your productivity.</div>
+<div data-i18n-html="article_batching-productivite_p2">Batching is grouping similar tasks together to minimize context switching. Learn how this simple technique can double your productivity. More in <a href="/topics/productivity/">Productivity</a>.</div>
 
 <div data-i18n-html="article_batching-productivite_p4">Every time you switch between different types of tasks, your brain pays a cognitive tax. It takes time to refocus, reorient, and get back into flow. Batching eliminates this tax.</div>
 

@@ -43,7 +43,7 @@ relatedArticles:
   - "price-of-freedom"
 ---
 
-<div data-i18n-html="article_earn-keep-grow_p2">Money is not one skill but three — earning, keeping and growing. Most people master only one. Freedom begins when you practice all three.</div>
+<div data-i18n-html="article_earn-keep-grow_p2">Money is not one skill but three — earning, keeping and growing. Most people master only one. Freedom begins when you practice all three. More in <a href="/topics/finance/">Finance</a>.</div>
 
 <div data-i18n-html="article_earn-keep-grow_p3">We treat money as if it were a single problem: not enough of it. So we chase the single answer: earn more.</div>
 

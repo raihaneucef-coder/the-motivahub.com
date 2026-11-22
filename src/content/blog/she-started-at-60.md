@@ -45,7 +45,7 @@ relatedArticles:
   - "proof-over-noise"
 ---
 
-<div data-i18n-html="article_she-started-at-60_p2">Everyone told her she was too late. She started anyway, and the late start became the advantage.</div>
+<div data-i18n-html="article_she-started-at-60_p2">Everyone told her she was too late. She started anyway, and the late start became the advantage. More in <a href="/topics/stories/">Stories</a>.</div>
 
 <div data-i18n-html="article_she-started-at-60_p10"><em>Illustrative story</em> — a composite of patterns readers keep describing. The person is not a documented individual; the dynamic is real.</div>
 

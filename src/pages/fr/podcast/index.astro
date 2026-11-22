@@ -68,7 +68,7 @@ const rest = episodes.slice(1);
       {latest && (
         <article class="pc-latest" id={latest.id}>
           <a class="pc-latest-cover" href={latest.podcastUrl} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
-            <img src={latest.cover} alt={`${latest.title} — couverture`} loading="eager" />
+            <img src={latest.cover} alt={`${latest.title} — couverture`} width={latest.width} height={latest.height} loading="eager" />
           </a>
           <div class="pc-latest-body">
             <p class="pc-latest-label">Dernier épisode</p>
@@ -84,7 +84,7 @@ const rest = episodes.slice(1);
         {rest.map((podcast) => (
           <article class="pc-card" id={podcast.id}>
             <div class="pc-cover">
-              <img src={podcast.cover} alt={`${podcast.title} — couverture`} loading="lazy" />
+              <img src={podcast.cover} alt={`${podcast.title} — couverture`} width={podcast.width} height={podcast.height} loading="lazy" />
             </div>
             <div class="pc-card-body">
               <h3 class="pc-card-title">{podcast.title}</h3>

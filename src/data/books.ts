@@ -3,6 +3,8 @@ export interface Book {
   group: string;
   title: string;
   cover: string;
+  width?: number;
+  height?: number;
   description: string;
   reason: string;
   affiliateUrl: string;
@@ -26,6 +28,8 @@ export const books: Book[] = [
     group: "STOICISM",
     title: "Meditations",
     cover: "/images/books/covers/meditations.jpg",
+    width: 324,
+    height: 500,
     description: "The private notebook of an emperor writing to himself.",
     reason: "The closest thing we have to a manual for the inner life.",
     affiliateUrl: "https://www.amazon.fr/dp/0140449337?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
@@ -44,6 +48,8 @@ export const books: Book[] = [
     group: "HABITS",
     title: "Atomic Habits",
     cover: "/images/books/covers/atomic-habits.jpg",
+    width: 331,
+    height: 500,
     description: "A systems thinker's case for identity-based change.",
     reason: "The clearest modern argument that you do not rise to your goals — you fall to your systems.",
     affiliateUrl: "https://www.amazon.fr/dp/0735211299?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
@@ -62,6 +68,8 @@ export const books: Book[] = [
     group: "FOCUS",
     title: "Deep Work",
     cover: "/images/books/covers/deep-work.jpg",
+    width: 331,
+    height: 500,
     description: "The case for treating concentration as a craft.",
     reason: "Focus without distraction is the superpower of the century.",
     affiliateUrl: "https://www.amazon.fr/dp/1455586692?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
@@ -80,6 +88,8 @@ export const books: Book[] = [
     group: "STOICISM",
     title: "The Daily Stoic",
     cover: "/images/books/covers/daily-stoic.jpg",
+    width: 302,
+    height: 500,
     description: "Three hundred and sixty-six meditations, one for each day.",
     reason: "A practical doorway into a tradition that has guided disciplined minds for two thousand years.",
     affiliateUrl: "https://www.amazon.fr/dp/0735211736?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
@@ -98,6 +108,8 @@ export const books: Book[] = [
     group: "HABITS",
     title: "Can't Hurt Me",
     cover: "/images/books/covers/cant-hurt-me.jpg",
+    width: 333,
+    height: 500,
     description: "An unflinching account of self-mastery forged in suffering.",
     reason: "Not a comfortable read, and not meant to be — it is fuel for the days you want to quit.",
     affiliateUrl: "https://www.amazon.fr/dp/1544512287?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
@@ -116,6 +128,8 @@ export const books: Book[] = [
     group: "MINDSET",
     title: "Man's Search for Meaning",
     cover: "/images/books/covers/mans-search-for-meaning.jpg",
+    width: 302,
+    height: 500,
     description: "A psychiatrist's testament from the camps.",
     reason: "The last of the human freedoms — to choose one's attitude — cannot be taken away.",
     affiliateUrl: "https://www.amazon.fr/dp/080701429X?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",

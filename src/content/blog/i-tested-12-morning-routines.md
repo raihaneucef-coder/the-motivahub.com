@@ -4,7 +4,7 @@ seoTitle: "The Minimal Morning Routine That Survived 30 Days"
 description: "I tested a dozen popular morning routines for two weeks, then kept one 8-minute stack for 30 days. Here's what stuck, what failed, and how to try it."
 titleFr: "La routine matinale de 8 minutes qui a tenu 30 jours"
 seoTitleFr: "La routine matinale minimale qui a tenu 30 jours"
-descriptionFr: "Après deux semaines à tester une douzaine de routines matinales populaires, j'ai gardé une routine de 8 minutes pendant 30 jours. Voici ce qui a tenu, ce qui a échoué et comment la tester."
+descriptionFr: "Après deux semaines à tester 12 routines matinales, j'ai gardé une routine de 8 minutes pendant 30 jours. Ce qui a tenu, ce qui a échoué, et comment la tester."
 pubDate: 2026-09-01
 updatedDate: 2026-11-06
 readTime: "12 MIN"

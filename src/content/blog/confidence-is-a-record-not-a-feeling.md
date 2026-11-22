@@ -41,7 +41,7 @@ relatedArticles:
   - "confiance-inbranlable"
 ---
 
-<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p2">Confidence is not a feeling you wait for — it is a record you build, one kept promise at a time.</div>
+<div data-i18n-html="article_confidence-is-a-record-not-a-feeling_p2">Confidence is not a feeling you wait for — it is a record you build, one kept promise at a time. More in <a href="/topics/confidence/">Confidence</a>.</div>
 
 <div data-i18n-html="article_confidence-is-a-record-not-a-feeling_h2a"><h2>We wait to feel ready</h2></div>
 

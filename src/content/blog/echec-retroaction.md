@@ -42,7 +42,7 @@ relatedArticles:
   - "success-leaves-traces"
 ---
 
-<div data-i18n-html="article_echec-retroaction_p2">Every failure contains a lesson. The only true failure is the failure to learn. Learn how to turn setbacks into comebacks.</div>
+<div data-i18n-html="article_echec-retroaction_p2">Every failure contains a lesson. The only true failure is the failure to learn. Learn how to turn setbacks into comebacks. More in <a href="/topics/success/">Success</a>.</div>
 
 <div data-i18n-html="article_echec-retroaction_p3">Thomas Edison is said to have run thousands of failed trials before landing on a practical lightbulb. When asked about the setbacks, he is widely quoted as saying: "I have not failed. I have just found thousands of ways that will not work."</div>
 

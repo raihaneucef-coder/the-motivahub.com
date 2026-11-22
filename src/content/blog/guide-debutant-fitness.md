@@ -53,7 +53,7 @@ relatedArticles:
   - "the-morning-athlete"
 ---
 
-<div data-i18n-html="article_guide-debutant-fitness_p2">Starting a fitness routine is easy. Sticking to one is hard. Here is the beginner-friendly guide to building a fitness habit that lasts.</div>
+<div data-i18n-html="article_guide-debutant-fitness_p2">Starting a fitness routine is easy. Sticking to one is hard. Here is the beginner-friendly guide to building a fitness habit that lasts. More in <a href="/topics/sport/">Sport</a>.</div>
 
 <div data-i18n-html="article_guide-debutant-fitness_p3">You do not need a perfect workout plan. You do not need expensive equipment. You do not need a personal trainer. You need one thing: the ability to show up consistently. Everything else can be learned.</div>
 

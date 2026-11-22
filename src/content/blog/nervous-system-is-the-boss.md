@@ -45,7 +45,7 @@ relatedArticles:
   - "rest-is-a-decision-not-a-collapse"
 ---
 
-<div data-i18n-html="article_nervous-system-is-the-boss_p2">Your mind does not decide how you feel — your nervous system does. Learn to work with it, not against it.</div>
+<div data-i18n-html="article_nervous-system-is-the-boss_p2">Your mind does not decide how you feel — your nervous system does. Learn to work with it, not against it. More in <a href="/topics/wellness/">Wellness</a>.</div>
 
 <div data-i18n-html="article_nervous-system-is-the-boss_h2a"><h2>The body decides first</h2></div>
 

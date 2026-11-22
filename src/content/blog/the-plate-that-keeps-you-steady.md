@@ -48,7 +48,7 @@ relatedArticles:
   - "meal-prep-dimanche"
 ---
 
-<div data-i18n-html="article_the-plate-that-keeps-you-steady_p2">A steady plate makes a steady day. Learn the simple ratio that keeps energy even and cravings quiet.</div>
+<div data-i18n-html="article_the-plate-that-keeps-you-steady_p2">A steady plate makes a steady day. Learn the simple ratio that keeps energy even and cravings quiet. More in <a href="/topics/nutrition/">Nutrition</a>.</div>
 
 <div data-i18n-html="article_the-plate-that-keeps-you-steady_h2a"><h2>Start with the plate</h2></div>
 

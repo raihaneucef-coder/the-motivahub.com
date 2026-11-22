@@ -46,7 +46,7 @@ relatedArticles:
   - "focus-monde-distractions"
 ---
 
-<div data-i18n-html="article_habitudes-mentales-performants_p2">Discover the daily mental routines that separate top performers from everyone else. Practical habits you can start today.</div>
+<div data-i18n-html="article_habitudes-mentales-performants_p2">Discover the daily mental routines that separate top performers from everyone else. Practical habits you can start today. More in <a href="/topics/mindset/">Mindset</a>.</div>
 
 <div data-i18n-html="article_habitudes-mentales-performants_p3">High performers are not lucky. They are consistent. And their consistency is built on invisible mental habits — routines that happen before the day even begins.</div>
 

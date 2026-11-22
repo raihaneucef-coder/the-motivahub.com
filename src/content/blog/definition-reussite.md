@@ -45,7 +45,7 @@ relatedArticles:
   - "psychology-of-money-business"
 ---
 
-<div data-i18n-html="article_definition-reussite_p2">Success is not a one-size-fits-all formula. What works for someone else may not work for you. Learn to define success on your own terms.</div>
+<div data-i18n-html="article_definition-reussite_p2">Success is not a one-size-fits-all formula. What works for someone else may not work for you. Learn to define success on your own terms. More in <a href="/topics/success/">Success</a>.</div>
 
 <div data-i18n-html="article_definition-reussite_p3">The biggest mistake you can make is chasing someone else's version of success. A Ferrari does not make you successful if you hate driving. A corner office does not make you successful if you hate your job.</div>
 

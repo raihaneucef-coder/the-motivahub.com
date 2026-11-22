@@ -46,7 +46,7 @@ relatedArticles:
   - "play-on-purpose"
 ---
 
-<div data-i18n-html="article_reseaux-sociaux-divertissement_p2">Social media is not the enemy — your relationship with it is. Learn how to enjoy social media without letting it control your life.</div>
+<div data-i18n-html="article_reseaux-sociaux-divertissement_p2">Social media is not the enemy — your relationship with it is. Learn how to enjoy social media without letting it control your life. More in <a href="/topics/entertainment/">Entertainment</a>.</div>
 
 <div data-i18n-html="article_reseaux-sociaux-divertissement_p3">Social media is the most powerful tool ever created — and the most dangerous. It connects you to the world and disconnects you from yourself. The key is using it intentionally.</div>
 
