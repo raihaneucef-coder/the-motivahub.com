@@ -351,7 +351,7 @@ export const books: Book[] = [
     id: "focus-on-what-matters",
     group: "STOICISM",
     title: "Focus on What Matters",
-    cover: "/images/cover-fallback.svg",
+    cover: "/images/books/covers/focus-on-what-matters.jpg",
     description: "Short Stoic letters on attention, worry, and living deliberately.",
     reason: "Stoicism reduced to what you can use on an ordinary Tuesday.",
     affiliateUrl: "https://www.amazon.fr/dp/908330180X?tag=motivahub-21&utm_source=motivahub&utm_medium=bookstand&utm_campaign=books",
