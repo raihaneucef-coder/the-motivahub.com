@@ -25,7 +25,7 @@ keywords:
 tags:
   - "habits"
   - "fitness"
-wordCount: 1289
+wordCount: 1668
 faq:
   - q: "How often should I strength train?"
     a: "At least two days a week, covering major muscle groups. Two to three sets per exercise may be better for strength, but one set is a valid start."

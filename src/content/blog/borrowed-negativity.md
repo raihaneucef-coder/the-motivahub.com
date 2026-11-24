@@ -26,7 +26,7 @@ keywords:
 tags:
   - "mindset"
   - "psychology"
-wordCount: 1314
+wordCount: 1393
 faq:
   - q: "Is negativity contagious?"
     a: "Mood and emotional expression can spread through social contact, but the measured effects are usually small and context-dependent. Contagion is an influence, not a takeover."
@@ -79,6 +79,8 @@ relatedArticles:
 <div data-i18n-html="article_borrowed-negativity_p9">You do not need to debate every belief you have. Start with the thoughts that repeat — the ones that show up automatically when you open your phone, enter a room, or imagine the future.</div>
 
 <div data-i18n-html="article_borrowed-negativity_p10"><ol><li><strong>Write the thought down.</strong> Not the mood — the sentence. “Nobody cares about this.” “It always ends badly.” “Everyone is exhausted.”</li><li><strong>Name the source.</strong> A person, a feed, a headline, a repeated conversation. If you cannot name one, write “unclear” and move on.</li><li><strong>Check the evidence.</strong> What do you actually know? Separate a pattern you have observed from a conclusion you absorbed.</li><li><strong>Change the room.</strong> Step away from the trigger for ten minutes. If the thought collapses outside that context, it belongs to the context.</li><li><strong>Ask for one action.</strong> A thought that points to a useful move deserves attention. A thought that only produces paralysis is not insight.</li></ol></div>
+
+<div data-i18n-html="article_borrowed-negativity_p10b"><h3>7-day borrowed-thought audit</h3><ol><li><strong>Days 1–2 — capture.</strong> Each time a thought repeats, write the sentence, not the mood.</li><li><strong>Days 3–4 — name the source.</strong> Mark a person, feed, headline, or repeated conversation. Write “unclear” when needed.</li><li><strong>Days 5–6 — test the context.</strong> Step away from the trigger, then check what evidence supports the sentence and whether it survives outside that setting.</li><li><strong>Day 7 — choose the input.</strong> Select one input to reduce or one counter-example to add. Follow the protocol; do not grade the mood.</li></ol></div>
 
 <div data-i18n-html="article_borrowed-negativity_p11">This is not positive thinking. Positive thinking argues with the sentence. An audit asks where the sentence came from. That is a quieter, more reliable move: you are not forcing a new mood, you are returning ownership of the interpretation.</div>
 
