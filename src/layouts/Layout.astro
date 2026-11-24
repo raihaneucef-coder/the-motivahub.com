@@ -365,7 +365,7 @@ const coreDict = {"en":{"newsletterEmailRequired":"Please enter your email addre
           if(first && !FR_SECTIONS.has(first)) return null;
           if(/^\/journal\/[^/]+\/?$/.test(rest)){
             try{
-              const map = await (await fetch("/i18n/slugs-fr.json")).json();
+              const map = await (await fetch(`/i18n/slugs-fr.json?v=${Date.now()}`, { cache: "no-store" })).json();
               const slug = rest.split("/").filter(Boolean)[1];
               const mapped = lang === "fr" ? (map[slug] || slug) : (Object.keys(map).find((k) => map[k] === slug) || slug);
               rest = rest.endsWith("/") ? "/journal/" + mapped + "/" : "/journal/" + mapped;
