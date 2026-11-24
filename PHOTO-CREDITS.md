@@ -7,6 +7,7 @@ Unified cinematic treatment applied by Motiva Hub.
 
 - `deep-work-ritual.jpg` — "Writing Writer" by Negative Space — CC0 via stocksnap
 - `when-motivation-leaves.jpg` — "dark, stormy sky two lone" by None — CC0 via rawpixel
+- `cdc-what-counts-adults.jpg` — "What Counts as Physical Activity for Adults" — U.S. Centers for Disease Control and Prevention (CDC) — source page: https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html — direct image: https://www.cdc.gov/physical-activity-basics/media/images/PA08022022IMG0526edited16x9.jpg
 
 ## CC-BY (attribution required)
 
