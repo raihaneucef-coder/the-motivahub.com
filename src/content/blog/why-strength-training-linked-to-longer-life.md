@@ -13,7 +13,7 @@ readTime: "5 MIN"
 image: "/images/blog/cdc-what-counts-adults.jpg"
 imageAlt: "CDC image illustrating physical activity guidance for adults"
 featured: false
-draft: true
+draft: false
 keywords:
   - "strength training longevity"
   - "muscle mass mortality"
