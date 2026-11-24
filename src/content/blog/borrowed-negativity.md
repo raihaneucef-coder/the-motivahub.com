@@ -1,10 +1,10 @@
 ---
-title: "Borrowed Negativity: How Your Environment Shapes Your Outlook"
-seoTitle: "Borrowed Negativity: Audit the Thoughts You Inherited"
-description: "Your outlook is not formed in isolation. Emotional contagion, perceived norms, and repeated inputs shape what feels normal — here is how to audit them."
-titleFr: "Négativité empruntée : comment votre entourage façonne votre regard"
-seoTitleFr: "Négativité empruntée : auditer ses pensées"
-descriptionFr: "Votre regard sur la vie ne se construit pas seul. Contagion émotionnelle, normes perçues et inputs répétés façonnent ce qui paraît normal — voici comment les auditer."
+title: "Borrowed Negativity: How Mood and Social Norms Shape Your Outlook"
+seoTitle: "Borrowed Negativity: Audit the Tone You Inherited"
+description: "Your outlook is not formed in isolation. Mood contagion, perceived social norms, and repeated inputs shape what feels normal — here is how to audit them."
+titleFr: "Négativité empruntée : comment l’humeur et les normes sociales façonnent votre regard"
+seoTitleFr: "Négativité empruntée : auditer le ton hérité"
+descriptionFr: "Votre regard sur la vie ne se construit pas seul. Contagion de l’humeur, normes sociales perçues et inputs répétés façonnent ce qui paraît normal — voici comment les auditer."
 pubDate: 2026-11-24
 updatedDate: 2026-11-24
 topic: "Mindset"
@@ -26,7 +26,7 @@ keywords:
 tags:
   - "mindset"
   - "psychology"
-wordCount: 1305
+wordCount: 1314
 faq:
   - q: "Is negativity contagious?"
     a: "Mood and emotional expression can spread through social contact, but the measured effects are usually small and context-dependent. Contagion is an influence, not a takeover."
@@ -52,7 +52,7 @@ relatedArticles:
   - "mindset-etat-esprit"
 ---
 
-<div data-i18n-html="article_borrowed-negativity_p1">You did not wake up one morning deciding that life was mostly disappointing. You absorbed a tone — from conversations, feeds, headlines, and the way people around you describe ordinary setbacks. That is not weakness. It is exposure. The useful question is not “am I negative?” but “which thoughts did I inherit, and do they still earn their place?”</div>
+<div data-i18n-html="article_borrowed-negativity_p1">You did not wake up one morning deciding that life was mostly disappointing. You absorbed a tone — from conversations, feeds, headlines, and the way people around you describe ordinary setbacks. That is not weakness. It is exposure. This is not the same argument as “environment beats willpower,” and it is not the comparison trap in another form. It is about mood and the norms you mistake for agreement. The useful question is not “am I negative?” but “which thoughts did I inherit, and do they still earn their place?”</div>
 
 <div data-i18n-html="article_borrowed-negativity_h2a"><h2>The idea is right, but the label is too big</h2></div>
 
@@ -72,7 +72,7 @@ relatedArticles:
 
 <div data-i18n-html="article_borrowed-negativity_p7">It does not say negativity is a virus with a clean transmission rate. The Facebook effects were small. The long-running network findings are observational and sensitive to modelling choices [2]. Sharing studies show amplification, not mind control [3,4]. A 2017 study of adolescent friendship networks found that both better and worse mood components spread, but the negative direction was not strong enough to significantly raise depression incidence [9].</div>
 
-<div data-i18n-html="article_borrowed-negativity_p8">It also does not say influence travels one way. Better mood spreads too [2,9]. People select environments as well as being shaped by them, and susceptibility differs between individuals [3]. Two people can sit in the same room and leave with different interpretations. Environment is a pressure, not a verdict — a point developed in <a href="/journal/environnement-beat-volonte/">why environment beats willpower</a> and in <a href="/journal/attention-as-asset/">attention as an asset</a>.</div>
+<div data-i18n-html="article_borrowed-negativity_p8">It also does not say influence travels one way. Better mood spreads too [2,9]. People select environments as well as being shaped by them, and susceptibility differs between individuals [3]. Two people can sit in the same room and leave with different interpretations. Environment is a pressure, not a verdict — a point developed in <a href="/journal/environnement-beat-volonte/">why environment beats willpower</a> and in <a href="/journal/attention-as-asset/">attention as an asset</a>. For the other side of proximity, see <a href="/journal/people-who-raise-your-floor/">the people who raise your floor</a>.</div>
 
 <div data-i18n-html="article_borrowed-negativity_h2d"><h2>The 10-minute borrowed-thought audit</h2></div>
 
