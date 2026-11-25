@@ -65,6 +65,12 @@ relatedArticles:
 
 <div data-i18n-html="article_standard-non-negociable_p8">The standard is not a goal. It is a <strong>rule</strong>. Goals can be missed. Rules are followed.</div>
 
+<div data-i18n-html="article_standard-non-negociable_p28"><h2>Non-Negotiable Rules vs. Goals</h2></div>
+
+<div data-i18n-html="article_standard-non-negociable_p29"><p>People often search for "non-negotiable rules" and mean different things. Some mean style rules or boundaries; here, the focus is <strong>personal non-negotiable standards</strong>: simple rules you follow to protect your behavior, time, and identity. A goal is something you aim for — "run a marathon." A non-negotiable rule is something you do — "I train four days a week, even when motivation is low."</p></div>
+
+<div data-i18n-html="article_standard-non-negociable_p30"><p>Good non-negotiable rules are clear, small, and observable. "Be better" is vague. "I write 200 words before checking messages" is a rule. If a rule keeps getting broken, make it smaller or tie it to a cue. The point is not rigidity for its own sake; it is removing daily negotiation so your energy goes to the work, not the debate.</p></div>
+
 <div data-i18n-html="article_standard-non-negociable_p9"><h2>Why Non-Negotiable Standards Work</h2></div>
 
 <div data-i18n-html="article_standard-non-negociable_p10"><h3>1. They Cut Down on Re-Deciding</h3>
@@ -108,6 +114,14 @@ The power of a non-negotiable standard is that it never changes. Rain or shine. 
 <div data-i18n-html="article_standard-non-negociable_p23"><blockquote><em>The standard you set for yourself is the standard you will become. Set it high. Never lower it. Watch what happens.</em></blockquote></div>
 
 <div data-i18n-html="article_standard-non-negociable_p25"><strong>Set your non-negotiable standard.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> gives you 30 standards to practice. Track your consistency with our <a href="/tracker/">Habit Tracker</a>.</div>
+
+<div data-i18n-html="article_standard-non-negociable_p31"><h2>FAQ</h2></div>
+
+<div data-i18n-html="article_standard-non-negociable_p32"><p><strong>What are non-negotiable rules?</strong><br>Non-negotiable rules are personal standards you decide in advance and usually follow even when mood or convenience shifts. They work best when they are specific, small, and tied to identity — for example, "I train before work" instead of "I should exercise more." They can also be adjusted when circumstances genuinely change.</p></div>
+
+<div data-i18n-html="article_standard-non-negociable_p33"><p><strong>How many non-negotiable standards should I have?</strong><br>Start with one to three. Too many rules can make consistency harder. Once a rule becomes automatic, you can add another. The goal is consistency, not an impressive list.</p></div>
+
+<div data-i18n-html="article_standard-non-negociable_p34"><p><strong>What if I break a non-negotiable standard?</strong><br>Do not turn it into punishment. Use the <a href="/journal/discipline-vs-punishment/">discipline vs. punishment</a> test: adjust the rule, make it smaller, and return quickly. A standard is meant to guide behavior, not to create guilt.</p></div>
 
 <div data-i18n-html="article_standard-non-negociable_p26"><h2>Sources</h2></div>
 

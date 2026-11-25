@@ -72,6 +72,12 @@ relatedArticles:
 
 <div data-i18n-html="article_regle-40-pourcent_p12">That's the theory. Here's what happened when I tested it.</div>
 
+<div data-i18n-html="article_regle-40-pourcent_p59"><h2>Is the 40% Rule True or Scientifically Proven?</h2></div>
+
+<div data-i18n-html="article_regle-40-pourcent_p60"><p>Not as a precise measurement. The "40%" number is David Goggins' way of describing a real experience: when your mind wants to quit, you often have more capacity left than it feels like. The closest scientific idea is Tim Noakes' <strong>central governor model</strong>, which suggests the brain limits effort before the body is fully depleted. That model is influential, but it is not a proven formula, and it does not confirm a literal 40% reserve.</p></div>
+
+<div data-i18n-html="article_regle-40-pourcent_p61"><p>The useful takeaway is practical, not universal: <strong>perceived limits can sometimes be conservative</strong>. When the signal is mental resistance — boredom, discomfort, doubt — a small, careful test may show you have a bit more room. But this rule does not apply to every situation. Sharp pain, dizziness, injury, illness, or real exhaustion are reasons to stop, rest, or seek appropriate care.</p></div>
+
 <div data-i18n-html="article_regle-40-pourcent_p13"><h2>My 30-Day Test: The Protocol</h2></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p14">For 30 days, I tracked three things every time I hit a "wall":</div>
@@ -190,6 +196,14 @@ relatedArticles:
 <hr />
 
 <div data-i18n-html="article_regle-40-pourcent_p55"><em>Youssef Raihane has been tracking his own walls and wins for 30 days — and counting. The Cookie Jar is real. The 10-minute negotiation is real. The 40% is real.</em></div>
+
+<div data-i18n-html="article_regle-40-pourcent_p62"><h2>FAQ</h2></div>
+
+<div data-i18n-html="article_regle-40-pourcent_p63"><p><strong>Is the 40% rule scientifically proven?</strong><br>No. The 40% rule is a mental framework from David Goggins, not a scientifically proven percentage. It is related to the central governor idea in exercise science, but there is no evidence that everyone has exactly 40% used and 60% left.</p></div>
+
+<div data-i18n-html="article_regle-40-pourcent_p64"><p><strong>What is the David Goggins 40 percent rule?</strong><br>It is the idea that when your mind first tells you that you are done, you may have only reached an early perceived limit. The rule is a prompt to pause, assess the signal, and test whether you can do a little more safely.</p></div>
+
+<div data-i18n-html="article_regle-40-pourcent_p65"><p><strong>When should you not push past 40%?</strong><br>Do not push through sharp pain, injury signals, dizziness, illness, or severe sleep deprivation. The rule is for mental resistance, not physical damage. If the wall is real, rest is the disciplined choice.</p></div>
 
 <div data-i18n-html="article_regle-40-pourcent_p56"><h2>Sources</h2></div>
 

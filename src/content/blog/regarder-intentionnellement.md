@@ -53,6 +53,8 @@ relatedArticles:
 
 <div data-i18n-html="article_regarder-intentionnellement_p4"><h2>Mindful Entertainment</h2></div>
 
+<div data-i18n-html="article_regarder-intentionnellement_p16"><p>Watching intentionally means deciding <em>why</em> you are watching before you press play. It is the opposite of autoplay, background noise, and scrolling for something to fill silence. The goal is not to make entertainment serious — it is to make it chosen. When you watch with intention, a movie can rest you, teach you, or move you. When you watch on autopilot, it often just takes time.</p></div>
+
 <div data-i18n-html="article_regarder-intentionnellement_p5"><h3>1. Choose with Purpose</h3>
 <a href="/journal/the-movie-that-changed-your-week/">Before pressing play</a>, name what you actually want: inspiration, a good cry, a laugh, real rest, one specific idea. Naming the reason is the difference between picking a film and letting the algorithm pick one for you. If you cannot answer in thirty seconds, close the app — the want is not there yet, and forcing a watch becomes another scroll.</div>
 
@@ -80,3 +82,11 @@ Every story that moves you points at a value you are underfeeding. Take one conc
 <div data-i18n-html="article_regarder-intentionnellement_p13"><blockquote><em>We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Will Durant, paraphrasing Aristotle</em></blockquote></div>
 
 <div data-i18n-html="article_regarder-intentionnellement_p15"><strong>Watch with intention today.</strong> Our <a href="/30-days-discipline/">30 Days of Discipline</a> teaches you to consume mindfully. Track your habits with our <a href="/tracker/">Habit Tracker</a>.</div>
+
+<div data-i18n-html="article_regarder-intentionnellement_p17"><h2>FAQ</h2></div>
+
+<div data-i18n-html="article_regarder-intentionnellement_p18"><p><strong>What does it mean to watch intentionally?</strong><br>It means choosing what to watch, why you are watching it, and when you will stop. Intentional watching replaces passive autoplay with a clear purpose — rest, learning, inspiration, or connection.</p></div>
+
+<div data-i18n-html="article_regarder-intentionnellement_p19"><p><strong>Is watching movies intentionally the same as not watching TV?</strong><br>No. Intentional watching is not about avoiding entertainment. It is about consuming it actively: pick with purpose, give it attention, and notice what it gives you — enjoyment, rest, inspiration, or a useful idea — instead of letting it run in the background.</p></div>
+
+<div data-i18n-html="article_regarder-intentionnellement_p20"><p><strong>How can I make watching more mindful?</strong><br>Before you start, name your reason. During the show, remove distractions like your phone. Afterward, capture one idea, feeling, or action. Even a single sentence or small action turns entertainment into something you actually keep.</p></div>

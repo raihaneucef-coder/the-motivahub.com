@@ -51,6 +51,15 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
       { "@type": "ListItem", "position": 3, "name": "Best Stoicism Books", "item": "https://the-motivahub.com/best/stoicism-books/" }
     ]
   })} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "What is the best Stoicism book for beginners?", "acceptedAnswer": { "@type": "Answer", "text": "Start with Meditations by Marcus Aurelius for the source, or The Daily Stoic by Ryan Holiday for a simple daily format. Both are practical entry points depending on whether you want reflection or routine." } },
+      { "@type": "Question", "name": "Which Stoic book is best for resilience?", "acceptedAnswer": { "@type": "Answer", "text": "Meditations helps with perspective under pressure, while Epictetus' Enchiridion is useful for focusing on what you control. They are short, concrete, and worth rereading." } },
+      { "@type": "Question", "name": "Is Stoicism about suppressing emotions?", "acceptedAnswer": { "@type": "Answer", "text": "No. Stoicism is not emotional suppression. It teaches you to notice your first impression, examine it, and choose a deliberate response aligned with your values instead of reacting on impulse." } }
+    ]
+  })} />
 
   <section class="page-head">
     <div class="container">
@@ -70,7 +79,8 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
       <div class="intro-block">
         <h2 data-i18n="stoicismHowRead">How to read Stoicism without becoming a robot</h2>
         <p data-i18n="stoicismHowReadP1">Stoicism is not about suppressing emotion. It is about choosing which emotion governs your decisions. Marcus Aurelius wrote Meditations as a private morning exercise, not as a performance. Seneca's letters are practical psychology disguised as philosophy.</p>
-        <p data-i18n-html="stoicismHowReadP2">If you want a modern entry point, start with The Daily Stoic. If you want the source text, read our <a href="/journal/morning-routines-12-tested/" data-i18n="stoicismMorningRoutineLink">Stoic morning routine field test</a> — it shows how Meditations works as a daily practice, not a book to finish.</p>
+        <p data-i18n="stoicismHowReadP3">Pick by need: <strong>Meditations</strong> for daily reflection, <strong>The Daily Stoic</strong> for a simple routine, and <strong>Enchiridion</strong> for a clear rule — focus on what you control. Read slowly, revisit one page, and apply one idea in a real situation.</p>
+        <p data-i18n-html="stoicismHowReadP2">For the source, read our <a href="/journal/morning-routines-12-tested/" data-i18n="stoicismMorningRoutineLink">Stoic morning routine field test</a>. To apply the ideas in daily life, see <a href="/journal/calm-is-a-superpower/">Calm Is a Superpower</a> and <a href="/journal/attention-as-asset/">Treat Attention as an Asset</a>.</p>
         <p data-i18n-html="stoicismBrowseFull">Browse the full collection: <a href="/best/books/" data-i18n="stoicismBestBooksLink">best self-help books</a>, <a href="/best/focus-books/" data-i18n="stoicismBestFocusLink">best focus books</a>, and <a href="/best/habit-books/" data-i18n="stoicismBestHabitLink">best habit books</a>.</p>
       </div>
 
@@ -81,6 +91,22 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
             <BookCard book={book} />
           </div>
         ))}
+      </div>
+
+      <div class="faq-block">
+        <h2>Stoicism Books: Frequently Asked Questions</h2>
+        <details>
+          <summary>What is the best Stoicism book for beginners?</summary>
+          <p>Start with <em>Meditations</em> by Marcus Aurelius for the source, or <em>The Daily Stoic</em> by Ryan Holiday for a simple daily format. Both are practical entry points depending on whether you want reflection or routine.</p>
+        </details>
+        <details>
+          <summary>Which Stoic book is best for resilience?</summary>
+          <p><em>Meditations</em> helps with perspective under pressure, while Epictetus' <em>Enchiridion</em> is useful for focusing on what you control. They are short, concrete, and worth rereading.</p>
+        </details>
+        <details>
+          <summary>Is Stoicism about suppressing emotions?</summary>
+          <p>No. Stoicism is not emotional suppression. It teaches you to notice your first impression, examine it, and choose a deliberate response aligned with your values instead of reacting on impulse.</p>
+        </details>
       </div>
     </div>
   </section>
@@ -142,4 +168,17 @@ const description = "The best books on Stoic philosophy — from Marcus Aurelius
     color: var(--gold, #111111);
     font-weight: 600;
   }
+  .faq-block {
+    max-width: 720px;
+    margin: 56px auto 0;
+    padding: 32px 28px;
+    background: var(--cream, #ffffff);
+    border: 1px solid rgba(17,17,17,0.08);
+    border-radius: 8px;
+  }
+  .faq-block h2 { font-family: var(--serif, Georgia, serif); font-size: 24px; margin: 0 0 20px; color: var(--ink, #1a1a1a); }
+  .faq-block details { border-top: 1px solid rgba(17,17,17,0.08); padding: 14px 0; }
+  .faq-block details:last-child { padding-bottom: 0; }
+  .faq-block summary { cursor: pointer; font-family: var(--sans, system-ui, sans-serif); font-size: 15px; font-weight: 600; color: var(--ink, #1a1a1a); }
+  .faq-block p { font-family: var(--sans, system-ui, sans-serif); font-size: 15px; line-height: 1.7; color: var(--ink, #1a1a1a); margin: 10px 0 0; }
 </style>

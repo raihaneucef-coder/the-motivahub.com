@@ -79,6 +79,12 @@ relatedArticles:
 
 <div data-i18n-html="article_discipline-vs-punishment_p13">The two models look identical from the outside. The difference is in the direction of the work. Discipline builds upward. Punishment tears downward. The direction is everything.</div>
 
+<div data-i18n-html="article_discipline-vs-punishment_p48"><h2>Discipline vs Punishment: The Practical Difference</h2></div>
+
+<div data-i18n-html="article_discipline-vs-punishment_p49"><p>The simple difference is this: <strong>discipline is guidance you choose to build yourself</strong>; <strong>punishment is pain used to make yourself pay</strong>. Discipline asks, "What standard will help me become the person I want to be?" Punishment asks, "How hard should I suffer because I fell short?"</p></div>
+
+<div data-i18n-html="article_discipline-vs-punishment_p50"><p>In practice, discipline can still feel hard. Waking up early, training, writing, or keeping a promise can be uncomfortable. The difference is the purpose: discomfort in service of growth is discipline; discomfort used as self-attack is punishment. If you need a concrete rule to keep discipline healthy, use a <a href="/journal/standard-non-negociable/">non-negotiable standard</a> with recovery built in, not a sentence you carry out against yourself.</p></div>
+
 <div data-i18n-html="article_discipline-vs-punishment_p14"><h2>The three tests</h2></div>
 
 <div data-i18n-html="article_discipline-vs-punishment_p15">Three tests to determine if your discipline is discipline or punishment. Apply them honestly. Most people will discover that at least one of their discipline systems is actually punishment.</div>
@@ -142,6 +148,14 @@ relatedArticles:
 <div data-i18n-html="article_discipline-vs-punishment_p44">The discipline that survives the test is the discipline that builds the person. The discipline that fails the test is the discipline that breaks the person. The two look identical from the outside. The difference is in the direction of the work. The direction is the test. The test is the recovery. The recovery is the discipline.</div>
 
 <div data-i18n-html="article_discipline-vs-punishment_p45">The discipline that builds the person is kind. The discipline that breaks the person is cruel. The two look identical. The difference is the kindness. The kindness is the test.</div>
+
+<div data-i18n-html="article_discipline-vs-punishment_p51"><h2>FAQ</h2></div>
+
+<div data-i18n-html="article_discipline-vs-punishment_p52"><p><strong>What is the difference between discipline and punishment?</strong><br>Discipline is a constructive system of chosen standards that helps you grow. Punishment is suffering imposed to pay for a mistake or perceived failure. Discipline tends to support growth and self-respect; punishment tends to create fear, shame, or burnout.</p></div>
+
+<div data-i18n-html="article_discipline-vs-punishment_p53"><p><strong>Can discipline feel uncomfortable without being punishment?</strong><br>Yes. Hard work, restraint, and effort can all be uncomfortable. They become punishment when the purpose shifts from growth to self-attack, or when there is no room for rest, recovery, and kindness.</p></div>
+
+<div data-i18n-html="article_discipline-vs-punishment_p54"><p><strong>How do I know if I crossed the line?</strong><br>Use the three tests: direction, identity, and recovery. If the work tears you down, votes against who you are, or leaves no room for recovery, it has crossed from discipline into punishment.</p></div>
 
 <div data-i18n-html="article_discipline-vs-punishment_p46"><h2>Related reads</h2></div>
 
