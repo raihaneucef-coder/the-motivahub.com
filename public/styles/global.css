@@ -81,10 +81,10 @@ article.card .card-img-wrap {
 /* --- Header over the dark hero image (home EN/FR only) --- */
 body:has(.hero-portrait) .site-header:not(.scrolled) .logo { color:#FFFFFF }
 body:has(.hero-portrait) .site-header:not(.scrolled) .logo .logo-word em { color:#FFFFFF }
-body:has(.hero-portrait) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.45);background:rgba(0,0,0,0.30) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.45);background:rgba(10,10,10,0.62) }
 body:has(.hero-portrait) .site-header:not(.scrolled) .menu-btn:hover { background:#FFFFFF;color:#111111;border-color:#FFFFFF }
-body:has(.hero-portrait) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.35);background:rgba(0,0,0,0.30) }
-body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.78) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.35);background:rgba(10,10,10,0.62) }
+body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.92) }
 body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn:hover { color:#FFFFFF }
 body:has(.hero-portrait) .site-header:not(.scrolled) .lang-btn.active { color:#FFFFFF }
 body:has(.hero-portrait) .site-header:not(.scrolled) .lang-sep { color:rgba(255,255,255,0.72) }
@@ -131,9 +131,9 @@ body:not(:has(.hero-portrait)):not(:has(.journal-hero-banner,.guides-hero-banner
 .lang-sep { color: var(--muted-soft); }
 body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .logo { color:#FFFFFF }
 body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .logo .logo-word em { color:#FFFFFF }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.45);background:rgba(0,0,0,0.30) }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.35);background:rgba(0,0,0,0.30) }
-body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.78) }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .menu-btn { color:#FFFFFF;border-color:rgba(255,255,255,0.45);background:rgba(10,10,10,0.62) }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-switcher { color:#FFFFFF;border-color:rgba(255,255,255,0.35);background:rgba(10,10,10,0.62) }
+body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-btn { color:rgba(255,255,255,0.92) }
 body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .lang-btn.active { color:#FFFFFF }
 body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-search { color:#FFFFFF }
 body:has(.journal-hero-banner,.guides-hero-banner,.tools-hero-banner,.bk-hero,.pc-hero,.ab-hero,.d30-hero,.au-hero) .site-header:not(.scrolled) .header-search:hover { color:#FFFFFF }
