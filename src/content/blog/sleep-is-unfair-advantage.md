@@ -1,5 +1,5 @@
 ---
-title: "Sleep Is Your Unfair Advantage (What Happened When I Tracked It for 60 Days)"
+title: "Sleep Is Your Unfair Advantage (My 60-Day Test)"
 seoTitle: "Sleep as an Unfair Advantage: 60 Days of Tracking"
 description: "Sleep isn't a luxury — it's a performance tool. 60 nights tracked: the data, the failures, and the cheapest tools that actually improved my sleep quality."
 titleFr: "Le Sommeil est votre Avantage Indéfendable (Ce qui s'est passé quand je l'ai suivi pendant 60 jours)"

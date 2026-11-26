@@ -1,5 +1,5 @@
 ---
-title: "If-Then Planning: The Small Sentence That Makes Follow-Through Easier"
+title: "If-Then Planning: A Small Sentence for Follow-Through"
 seoTitle: "If-Then Planning: Turn Intentions Into Action"
 description: "A practical, evidence-based guide to if-then planning: what the 2006 and 2025 meta-analyses found, how to write a plan that works, and where the evidence stops."
 titleFr: "La planification si-alors : la petite phrase qui rend le passage à l’action plus facile"

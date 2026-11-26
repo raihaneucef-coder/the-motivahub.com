@@ -1,5 +1,5 @@
 ---
-title: "I Compared Myself to Strangers Online for 5 Years. Here's What It Cost Me."
+title: "The Comparison Trap: What 5 Years Online Cost Me"
 seoTitle: "I Compared Myself to Strangers for 5 Years"
 description: "Comparison steals joy, focus, savings, friendships and sleep. Five years of tracking my digital habits revealed one cure — not the one I expected."
 titleFr: "Le Piège de la Comparaison : Se Libérer du Regard des Autres"

@@ -1,5 +1,5 @@
 ---
-title: "The Goal Behind the Goal: The Hidden Question That Keeps You Going When the Plan Stops Working"
+title: "The Goal Behind the Goal: What Keeps You Going"
 seoTitle: "The Goal Behind the Goal: Keep Going When Plans Fail"
 description: "Every goal hides a deeper goal — a why beneath the why. Most people chase the surface. The few who arrive are the ones who dug past the first layer."
 titleFr: "L'objectif derrière l'objectif : la question cachée qui vous fait avancer quand le plan ne marche plus"

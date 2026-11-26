@@ -1,5 +1,5 @@
 ---
-title: "Boundaries Are Love in Action: Why Saying No Is the Kindest Thing You Can Do"
+title: "Boundaries Are Love: Why Saying No Is Kind"
 seoTitle: "Boundaries Are Love: Why Saying No Is Kind"
 description: "Loving yourself is a verb. Saying no is the verb. How to build walls that protect relationships instead of breaking them — without losing anyone."
 titleFr: "Les Limites Sont de l'Amour : Fixer des Frontières Saines"

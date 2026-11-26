@@ -1,5 +1,5 @@
 ---
-title: "The Long Ascent: Why Slow Climbers Reach the Top and Sprinters Burn Out"
+title: "The Long Ascent: Why Slow Climbers Reach the Top"
 seoTitle: "The Long Ascent: Why Slow Wins Over Speed"
 description: "There are two kinds of climbers: the sprinters and the ascenders. Sprinters hit a wall; ascenders reach the summit. Here is why the long climb wins."
 titleFr: "La longue ascension : pourquoi les grimpeurs lents atteignent le sommet et les sprinteurs s'épuisent"

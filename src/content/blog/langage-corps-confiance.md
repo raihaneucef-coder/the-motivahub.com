@@ -1,5 +1,5 @@
 ---
-title: "Body Language Secrets: How to Project Confidence Without Saying a Word"
+title: "Body Language: Project Confidence Without Words"
 seoTitle: "Body Language: How to Project Confidence Silently"
 description: "Your body speaks before your mouth opens. Learn the body language techniques that project confidence, authority, and presence."
 titleFr: "Les secrets du langage corporel : comment projeter la confiance sans dire un mot"
