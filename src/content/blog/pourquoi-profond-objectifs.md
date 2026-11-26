@@ -22,7 +22,7 @@ keywords:
   - "deep purpose personal growth"
 tags:
   - "goals"
-wordCount: 415
+wordCount: 397
 faq:
   - q: "Why is a 'deep why' more powerful than a goal?"
     a: "Goals have deadlines — once achieved, motivation collapses. A deep why (protecting your family, proving to yourself it's possible, serving something larger) is inexhaustible. Viktor Frankl observed in concentration camps: those who survived had a 'why' that made any 'how' bearable."

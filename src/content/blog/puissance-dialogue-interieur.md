@@ -22,7 +22,7 @@ keywords:
   - "talk to yourself like a friend"
 tags:
   - "mindset"
-wordCount: 761
+wordCount: 751
 faq:
   - q: "How does inner dialogue affect performance?"
     a: "Research by Hatzigeorgiadis (2011) found self-talk interventions improve performance by 10-18%. Instructional self-talk ('elbow high' during a shot) enhances focus; motivational self-talk ('you can do this') enhances endurance. The inner voice isn't noise — it's the coaching channel your brain actually follows."

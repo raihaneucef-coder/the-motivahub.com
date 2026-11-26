@@ -24,7 +24,7 @@ tags:
   - "mindset"
   - "resilience"
   - "how-to"
-wordCount: 805
+wordCount: 771
 faq:
   - q: "What is mental resilience?"
     a: "Mental resilience is the ability to absorb a hit, process it, and keep moving forward. It is not about being tough — it is about being flexible. Research on stress physiology (Southwick & Charney, 2018) shows that resilience is a trainable skill, not a fixed trait. You can develop it through specific practices like breathwork, reframing, and the 2-day rule."

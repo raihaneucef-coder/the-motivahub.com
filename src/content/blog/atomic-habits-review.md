@@ -25,7 +25,7 @@ keywords:
 tags:
   - "habits"
   - "book-review"
-wordCount: 1365
+wordCount: 1320
 relatedArticles:
   - "atomic-habits-revue-complete"
   - "2-minute-rule-system"

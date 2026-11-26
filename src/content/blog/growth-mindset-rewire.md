@@ -22,7 +22,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 749
+wordCount: 748
 faq:
   - q: "What is a growth mindset?"
     a: "The belief that abilities can be developed through effort and learning, vs a fixed mindset (talent is innate, unchangeable). Carol Dweck's research with Blackwell and Trzesniewski (2007) found that teaching students the brain is malleable improved their math grades and motivation over a semester. Later meta-analyses show the average effect is real but modest, and largest for struggling students — so treat it as a helpful shift in effort, not a guaranteed grade multiplier. The belief changes behavior, which changes results."

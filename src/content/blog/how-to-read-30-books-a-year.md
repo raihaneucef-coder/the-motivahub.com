@@ -28,7 +28,7 @@ tags:
   - "guide"
   - "books"
   - "self-improvement"
-wordCount: 2117
+wordCount: 2062
 faq:
   - q: "How many books should I read per year?"
     a: "For most professionals, 24–30 books per year is a sustainable range if you read 20–30 minutes daily. Fewer than 6 and you're missing compounding knowledge. More than 60 and retention drops. Aim for 2–3 books per month, finished, not just started."

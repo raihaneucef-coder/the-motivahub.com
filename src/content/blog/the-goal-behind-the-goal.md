@@ -24,7 +24,7 @@ keywords:
   - "motivation that lasts beyond achievement"
 tags:
   - "goals"
-wordCount: 332
+wordCount: 337
 faq:
   - q: "What is the goal behind the goal?"
     a: "The surface goal (lose 10kg, earn 100k) is a symbol for a deeper psychological need: safety, recognition, autonomy, or belonging. When you identify the real need, you can fulfill it through multiple paths, including ones you have not yet considered."

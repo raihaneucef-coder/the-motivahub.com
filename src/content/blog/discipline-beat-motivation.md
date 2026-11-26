@@ -22,7 +22,7 @@ keywords:
   - "daily discipline over motivation"
 tags:
   - "discipline"
-wordCount: 578
+wordCount: 555
 faq:
   - q: "Why does discipline beat motivation?"
     a: "Motivation is an emotion — it fluctuates with sleep, stress, and mood. Discipline is a system — it works regardless of how you feel. Motivation peaks right after you feel inspired and then fades, often within days; a system keeps running after the feeling is gone."

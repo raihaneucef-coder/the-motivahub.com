@@ -23,7 +23,7 @@ keywords:
   - "distraction free work setup"
 tags:
   - "productivity"
-wordCount: 799
+wordCount: 774
 faq:
   - q: "What is a deep work ritual?"
     a: "A fixed sequence of actions that signals your brain it's time to focus: same location, same time, same preparation steps (coffee, phone away, timer set, one tab open). With daily repetition the ritual starts cueing the focus state on its own — usually within a few weeks, though a habit in the full sense takes longer (Lally et al., 2010 measured a median of 66 days to automaticity)."

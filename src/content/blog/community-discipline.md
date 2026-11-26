@@ -21,7 +21,7 @@ keywords:
 tags:
   - "confidence"
   - "discipline"
-wordCount: 439
+wordCount: 438
 faq:
   - q: "Why is discipline easier in a community?"
     a: "Because social accountability multiplies willpower. The 'Köhler effect' (2006) shows people exert 78% more effort when being seen by others. A community makes your commitment visible: skipping feels like letting someone down, which is a stronger motivator than breaking a private promise."

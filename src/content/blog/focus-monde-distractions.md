@@ -23,7 +23,7 @@ keywords:
 tags:
   - "mindset"
   - "how-to"
-wordCount: 818
+wordCount: 811
 faq:
   - q: "How do I maintain focus in a world full of distractions?"
     a: "Three evidence-based strategies: (1) Design your environment — phone in another room, website blockers active, single tab open. (2) Work in 90-minute ultradian cycles with 15-minute breaks. (3) Practice 'attention residue' management — finish one task completely before switching."

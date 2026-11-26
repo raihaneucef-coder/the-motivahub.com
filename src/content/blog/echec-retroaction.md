@@ -23,7 +23,7 @@ keywords:
 tags:
   - "success"
   - "how-to"
-wordCount: 590
+wordCount: 578
 faq:
   - q: "How do you turn failure into feedback?"
     a: "After a setback, ask 3 questions: (1) What specifically went wrong? (2) What was within my control? (3) What will I do differently next time? Write the answers. This converts emotional pain into actionable data within 24 hours."

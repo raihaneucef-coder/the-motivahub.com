@@ -22,7 +22,7 @@ keywords:
   - "screen fatigue symptoms and cure"
 tags:
   - "wellness"
-wordCount: 609
+wordCount: 597
 faq:
   - q: "What happens during a digital detox?"
     a: "First 24 hours: anxiety, phantom vibration, compulsive hand-to-pocket reaching (withdrawal). Day 3-5: boredom returns, which triggers creativity. Week 2: attention span measurably improves, sleep deepens, and you notice how much of your 'free time' was actually consumed by scrolling."

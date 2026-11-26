@@ -23,7 +23,7 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 501
+wordCount: 477
 faq:
   - q: "Can you really learn from podcasts?"
     a: "Yes, for narrative content. Deniz et al. (Neuron, 2019, UC Berkeley) mapped fMRI responses to the same stories delivered as audio or text and found highly aligned semantic brain activation. Retention can still favor text for dense, technical or reference material. Podcasts excel for ideas, interviews and frameworks; not for content requiring visuals or heavy note-taking."

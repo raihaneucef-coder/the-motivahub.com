@@ -20,7 +20,7 @@ keywords:
   - "act as if you are already"
 tags:
   - "mindset"
-wordCount: 721
+wordCount: 708
 faq:
   - q: "What does 'identity precedes outcome' mean?"
     a: "Your results match who you believe you are before they match what you want. A person who identifies as 'a writer' writes daily without negotiation. Someone who wants 'to be a writer' waits for inspiration. Change the identity first, and the outcomes follow naturally because behavior aligns with self-concept."

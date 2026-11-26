@@ -22,7 +22,7 @@ keywords:
   - "living on your own terms"
 tags:
   - "success"
-wordCount: 571
+wordCount: 568
 faq:
   - q: "How do you define success for yourself?"
     a: "Ask three questions: 1) What would I do even if no one paid or praised me? 2) Who do I admire and WHY specifically? 3) On my deathbed, what would make me say 'that was a good life'? Your answers reveal your personal success metric — which rarely matches society's template of money + status."

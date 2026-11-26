@@ -21,7 +21,7 @@ keywords:
   - "social muscle atrophy and recovery"
 tags:
   - "personal growth"
-wordCount: 435
+wordCount: 434
 faq:
   - q: "Why is social connection called a 'muscle'?"
     a: "Because it atrophies with disuse and strengthens with consistent exercise. The same principles apply: progressive overload (slightly harder social situations), regularity (weekly contact, not yearly), and recovery (introverts need downtime between). Loneliness literally increases mortality risk by 26% (Holt-Lunstad, 2010)."

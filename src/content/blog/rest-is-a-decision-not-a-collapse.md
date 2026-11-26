@@ -24,7 +24,7 @@ keywords:
   - "rest and productivity science"
 tags:
   - "wellness"
-wordCount: 502
+wordCount: 504
 faq:
   - q: "What's the difference between rest and collapse?"
     a: "Rest is a decision — you stop before you're broken, recover deliberately, and return refreshed. Collapse is what happens when you ignored rest signals for weeks: you crash, feel guilty, and recover poorly. The difference is agency: one is strategic, the other is forced."

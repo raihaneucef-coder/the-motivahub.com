@@ -22,7 +22,7 @@ keywords:
   - "becoming emotionally self-sufficient"
 tags:
   - "personal growth"
-wordCount: 445
+wordCount: 440
 faq:
   - q: "What does it mean to have a 'secure self'?"
     a: "A secure self is someone whose worth doesn't depend on external validation. They can be alone without feeling abandoned, say no without guilt, and focus on their growth without calling it selfish. Attachment theory calls this 'earned security' — developed through consistent self-honesty."

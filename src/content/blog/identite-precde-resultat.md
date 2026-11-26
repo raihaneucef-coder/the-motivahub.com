@@ -22,7 +22,7 @@ keywords:
   - "true identity change process"
 tags:
   - "habits"
-wordCount: 692
+wordCount: 671
 faq:
   - q: "What are identity-based habits?"
     a: "Identity-based habits focus on WHO you want to become rather than WHAT you want to achieve. Instead of 'I want to run a marathon' (outcome), say 'I am a runner' (identity). Every small action becomes a vote for that identity."

@@ -20,7 +20,7 @@ keywords:
   - "motivation is not required for progress"
 tags:
   - "discipline"
-wordCount: 760
+wordCount: 740
 faq:
   - q: "What do I do when motivation completely disappears?"
     a: "Execute the minimum viable action. On zero-motivation days, your only job is to show up for 2 minutes: open the laptop, put on running shoes, read one page. This maintains the identity and the streak. You do not need to feel like it. Feeling follows action, not the other way around."

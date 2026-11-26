@@ -25,7 +25,7 @@ keywords:
   - "recovery routine for athletes"
 tags:
   - "sport"
-wordCount: 710
+wordCount: 713
 faq:
   - q: "Why is recovery considered part of training?"
     a: "Strenuous exercise damages muscle fibers and triggers the signalling that rebuilds them; that rebuilding work happens while you rest, not while you lift. Train the same muscle hard again before it has finished and you add damage instead of adaptation. As a rule of thumb, let soreness from a session fade before you load that muscle hard again — usually a day or two, more after unusually damaging work. The gym is the stimulus; sleep and rest are where the actual growth happens."

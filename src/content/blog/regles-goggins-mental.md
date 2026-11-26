@@ -22,7 +22,7 @@ keywords:
   - "goggins mindset strategies"
 tags:
   - "discipline"
-wordCount: 838
+wordCount: 832
 bookSlug: "cant-hurt-me"
 faq:
   - q: "What are David Goggins' 5 rules?"

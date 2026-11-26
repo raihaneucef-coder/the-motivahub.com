@@ -22,7 +22,7 @@ keywords:
   - "novelty and brain health"
 tags:
   - "travel"
-wordCount: 380
+wordCount: 366
 faq:
   - q: "Does travel actually improve mental health?"
     a: "Yes. Cornell research on anticipation (Kumar et al., 2014, 'Waiting for Merlot') found that looking forward to an experience like a trip makes people measurably happier than looking forward to a material purchase. Travel disrupts rumination cycles, exposes you to novelty, and provides perspective shifts that loosen the 'problem = everything' tunnel vision."

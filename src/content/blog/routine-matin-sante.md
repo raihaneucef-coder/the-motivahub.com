@@ -23,7 +23,7 @@ keywords:
 tags:
   - "wellness"
   - "morning-routine"
-wordCount: 479
+wordCount: 465
 faq:
   - q: "What makes a healthy morning routine?"
     a: "Sleep and circadian research points to five recurring elements: bright light soon after waking, hydration before caffeine, some movement (20+ minutes if you can), a protein-rich breakfast, and no phone for the first 15 minutes. Morning light has the strongest evidence behind it — it helps set your circadian clock — while the others are practical supports for energy and focus rather than proven levers."

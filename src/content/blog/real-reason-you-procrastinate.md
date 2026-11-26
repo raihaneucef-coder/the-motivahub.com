@@ -22,7 +22,7 @@ keywords:
   - "procrastination cure science based"
 tags:
   - "productivity"
-wordCount: 616
+wordCount: 611
 faq:
   - q: "Why do I procrastinate if I'm not lazy?"
     a: "Research (Sirois & Pychyl, 2013) shows procrastination is an emotion-regulation problem, not a time-management one. You avoid the task because it triggers a negative feeling (boredom, anxiety, self-doubt). Your brain chooses short-term mood repair over long-term goal completion."

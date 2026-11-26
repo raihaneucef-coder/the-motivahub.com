@@ -20,7 +20,7 @@ keywords:
   - "starting from zero again"
 tags:
   - "stories"
-wordCount: 341
+wordCount: 334
 faq:
   - q: "How do you start over after losing everything?"
     a: "By separating your identity from your achievement. The athlete's story shows: when medals, sponsors, and status vanish, what remains is the discipline, the love of movement, the person underneath. Start with one small action you control today — the new chapter begins smaller than you expect."

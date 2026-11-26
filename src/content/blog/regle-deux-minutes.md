@@ -22,7 +22,7 @@ keywords:
   - "start small habit building"
 tags:
   - "habits"
-wordCount: 824
+wordCount: 822
 bookSlug: atomic-habits
 faq:
   - q: "What is the 2-minute rule?"

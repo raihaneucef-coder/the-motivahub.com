@@ -28,7 +28,7 @@ tags:
   - "self-improvement"
   - "nervous-system"
   - "somatic"
-wordCount: 2154
+wordCount: 2118
 faq:
   - q: "Why can't I focus even when I want to?"
     a: "Most focus problems aren't willpower issues — they're nervous system issues. When your body is in fight-or-flight mode (chronic stress, poor sleep, screen overload), your prefrontal cortex — the part responsible for focus — is suppressed. You can't think your way into focus. You have to calm the body first."

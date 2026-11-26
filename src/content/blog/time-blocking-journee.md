@@ -23,7 +23,7 @@ keywords:
 tags:
   - "productivity"
   - "how-to"
-wordCount: 470
+wordCount: 451
 faq:
   - q: "What is time blocking?"
     a: "Time blocking is scheduling your day into dedicated blocks, each assigned to one task or category of work. Instead of a to-do list, every task gets a specific time slot on your calendar. Popularized by Cal Newport (Deep Work) and used by executives like Elon Musk and Bill Gates."

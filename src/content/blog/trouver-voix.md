@@ -21,7 +21,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 567
+wordCount: 550
 readTime: "6 MIN"
 faq:
   - q: "How do you find your voice and speak up?"

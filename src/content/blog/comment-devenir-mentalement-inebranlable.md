@@ -23,7 +23,7 @@ keywords:
 tags:
   - "discipline"
   - "how-to"
-wordCount: 778
+wordCount: 776
 faq:
   - q: "How do you become mentally unbreakable?"
     a: "Mental toughness is built through daily practice, not a single event. Start with small voluntary discomforts (cold showers, 10-minute extra effort), keep a non-negotiable standard, and reframe failure as data. Consistency over months creates an unbreakable mind."

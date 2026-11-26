@@ -25,7 +25,7 @@ keywords:
   - "protein breakfast willpower"
 tags:
   - "nutrition"
-wordCount: 477
+wordCount: 480
 faq:
   - q: "Does food affect willpower and self-control?"
     a: "Yes — but through appetite and attention rather than a blood-sugar collapse. Self-control is expensive for the brain, and skipping meals leaves you hungry, tired and more drawn to the fast, easy option. What does not hold up is the popular version in which glucose plummets and willpower switches off: healthy bodies keep blood glucose in a narrow band, and the hangry feeling comes mostly from hunger itself (<a href=\"/journal/eat-on-time-not-on-emotion/\">eating on a schedule</a>). Fix the fuel before you diagnose the character."

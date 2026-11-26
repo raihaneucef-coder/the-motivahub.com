@@ -22,7 +22,7 @@ keywords:
 tags:
   - "habits"
   - "guide"
-wordCount: 1755
+wordCount: 1747
 relatedArticles:
   - "atomic-habits-review"
   - "2-minute-rule-system"

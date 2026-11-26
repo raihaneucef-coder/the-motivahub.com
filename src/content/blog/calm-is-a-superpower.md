@@ -23,7 +23,7 @@ keywords:
   - "mindfulness calm"
 tags:
   - "wellness"
-wordCount: 1537
+wordCount: 1474
 faq:
   - q: "Why is calm a superpower?"
     a: "Because in a world of noise, the ability to stay centered is the rarest skill. Calm people make better decisions, inspire more trust, and recover faster from setbacks. Talent gets attention. Calm gets results."

@@ -22,7 +22,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 534
+wordCount: 527
 faq:
   - q: "How do you say no without feeling guilty?"
     a: "Reframe: every 'yes' to someone else is a 'no' to your own priorities. Say it simply — 'I can't commit to that' — without over-explaining. Guilt fades with repetition: each refusal that doesn't destroy the relationship proves your fear was disproportionate."

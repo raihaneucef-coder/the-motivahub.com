@@ -8,7 +8,7 @@ descriptionFr: "Guide pratique de la répétition espacée : ce que disent les p
 pubDate: 2026-11-20
 updatedDate: 2026-11-20
 readTime: "11 MIN"
-wordCount: 1143
+wordCount: 1102
 image: "/images/blog/spaced-repetition-for-adults.jpg"
 imageAlt: "Blank flashcards held together by a metal ring on a white surface"
 imageAltFr: "Fiches vierges reliées par un anneau métallique sur fond blanc"

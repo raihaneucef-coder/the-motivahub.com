@@ -22,7 +22,7 @@ keywords:
   - "narrow your focus achieve more"
 tags:
   - "goals"
-wordCount: 568
+wordCount: 576
 faq:
   - q: "Why should I focus on one goal at a time?"
     a: "Task-switching carries a measurable 'switching cost' — every interruption forces you to re-load context, which slows you down and raises errors. Widely quoted figures like a '10-point IQ drop' are overstated and not from a single study, but the principle holds: multiple goals compete for the same limited attention. One target with full focus beats five targets with split attention every time."

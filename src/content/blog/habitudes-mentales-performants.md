@@ -22,7 +22,7 @@ keywords:
 tags:
   - "mindset"
   - "habits"
-wordCount: 684
+wordCount: 653
 faq:
   - q: "What mental habits do top performers share?"
     a: "Five research-backed habits: 1) Visualization (mentally rehearsing the process, not just outcome). 2) Self-talk reframing ('I get to' vs 'I have to'). 3) Deliberate recovery blocks. 4) Pre-performance routines. 5) Post-effort review (what worked, what to adjust). These separate consistent winners from one-hit wonders."

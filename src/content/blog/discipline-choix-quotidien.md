@@ -21,7 +21,7 @@ keywords:
   - "build discipline habit"
 tags:
   - "discipline"
-wordCount: 606
+wordCount: 583
 faq:
   - q: "How do I choose discipline every single day?"
     a: "Make it a binary decision, not a negotiation. The moment you wake up, execute your first non-negotiable (bed, water, movement) before the brain starts debating. Discipline isn't a feeling — it's a decision made before emotions have a vote. Use the 5-second rule: count 5-4-3-2-1 and move."

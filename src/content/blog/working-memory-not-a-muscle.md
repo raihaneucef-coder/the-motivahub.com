@@ -7,7 +7,7 @@ seoTitleFr: "Mémoire de travail : pourquoi la surcharge"
 descriptionFr: "Votre mémoire de travail est limitée, pas faible. Surcharge cognitive, entraînement, sommeil, mouvement : ce que dit la recherche et une expérience de 7 jours."
 pubDate: 2026-11-20
 readTime: "11 MIN"
-wordCount: 2711
+wordCount: 2584
 image: "/images/blog/working-memory-not-a-muscle.jpg"
 imageAlt: "Top view of a messy desk with crumpled paper, sticky notes, laptop, books, and a calculator"
 imageAltFr: "Vue de dessus d’un bureau encombré de papiers froissés, notes autocollantes, ordinateur portable, livres et calculatrice"

@@ -22,7 +22,7 @@ keywords:
   - "habit chaining method"
 tags:
   - "habits"
-wordCount: 1118
+wordCount: 1096
 bookSlug: "atomic-habits"
 faq:
   - q: "What is habit stacking?"

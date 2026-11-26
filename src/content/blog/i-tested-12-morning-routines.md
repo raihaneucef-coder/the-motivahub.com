@@ -28,7 +28,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "review"
-wordCount: 1999
+wordCount: 1914
 faq:
   - q: "What is the best morning routine?"
     a: "There is no one-size-fits-all. The best morning routine is the one you can sustain on your worst day. For most people, that's a 15-30 minute stack of 3-4 small habits — not a 90-minute ritual that requires quitting your job."

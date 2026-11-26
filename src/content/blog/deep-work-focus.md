@@ -22,7 +22,7 @@ keywords:
 tags:
   - "productivity"
   - "how-to"
-wordCount: 1255
+wordCount: 1256
 bookSlug: deep-work
 
 faq:

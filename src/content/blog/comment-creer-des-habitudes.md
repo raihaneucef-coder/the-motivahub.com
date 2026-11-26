@@ -23,7 +23,7 @@ keywords:
 tags:
   - "habits"
   - "how-to"
-wordCount: 714
+wordCount: 693
 faq:
   - q: "How long does it take to build a habit?"
     a: "Research from Phillippa Lally (UCL, 2010) shows a median of 66 days, with a range of 18 to 254 days depending on complexity. Simple habits (drinking water) form faster than complex ones (daily exercise)."

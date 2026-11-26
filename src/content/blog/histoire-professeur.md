@@ -23,7 +23,7 @@ keywords:
 tags:
   - "stories"
   - "story"
-wordCount: 346
+wordCount: 352
 faq:
   - q: "How can one person change so many lives?"
     a: "By showing up consistently for one person at a time. The teacher's story isn't about a grand gesture — it's about saying 'you can' to each student who'd been told they couldn't. Impact multiplies through the ripple effect: each student changes other lives, and the teacher's influence extends far beyond the classroom."

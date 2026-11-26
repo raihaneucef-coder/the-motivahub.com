@@ -23,7 +23,7 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 495
+wordCount: 481
 faq:
   - q: "How do I enjoy social media without wasting hours?"
     a: "Set a timer before opening any app (15-20 minutes max). Unfollow accounts that don't educate or genuinely inspire. Turn off all non-human notifications. Use social media only during a pre-planned 'leisure block' — never as a gap-filler between tasks."

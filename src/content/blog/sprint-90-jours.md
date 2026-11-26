@@ -22,7 +22,7 @@ keywords:
   - "compress your timeline productivity"
 tags:
   - "goals"
-wordCount: 1067
+wordCount: 1016
 
 faq:
   - q: "What is a 90-day growth sprint?"

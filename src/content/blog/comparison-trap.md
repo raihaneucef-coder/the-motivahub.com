@@ -22,7 +22,7 @@ keywords:
   - "stop feeling inadequate around others"
 tags:
   - "mindset"
-wordCount: 645
+wordCount: 637
 faq:
   - q: "Why am I always comparing myself to others?"
     a: "Social comparison is automatic — your brain evaluates position by measuring against nearby signals (Festinger, 1954). Social media hacked this by providing 500+ 'nearby' people who are all showing their peak moments. You're comparing your average Tuesday to their curated highlights reel."

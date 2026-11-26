@@ -25,7 +25,7 @@ keywords:
   - "lunch that prevents afternoon slump"
 tags:
   - "nutrition"
-wordCount: 489
+wordCount: 492
 faq:
   - q: "What is the 'steady plate' method?"
     a: "Fill half your plate with vegetables, one quarter with protein (palm-sized), one quarter with slow carbs (rice, potato, whole grain), plus a thumb of healthy fat. The reason it works is satiety, not blood-sugar heroics: protein and fibre are what keep hunger quiet between meals (<a href=\"https://pubmed.ncbi.nlm.nih.gov/25926512/\">Leidy et al., Am J Clin Nutr 2015</a>), and a plate built this way is hard to overeat. Your body keeps glucose in its normal band either way — the plate is a portion and fullness tool, not a medical device."

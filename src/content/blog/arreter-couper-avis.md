@@ -24,7 +24,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 1441
+wordCount: 1403
 faq:
   - q: "How do I stop caring what people think?"
     a: "Start by realizing that most people are focused on themselves, not you. The spotlight effect is real: you think people notice you more than they do. Then, build a small practice of doing one thing daily that you would normally avoid for fear of judgment."

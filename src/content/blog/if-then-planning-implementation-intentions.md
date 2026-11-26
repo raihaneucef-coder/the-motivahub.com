@@ -8,7 +8,7 @@ descriptionFr: "Guide pratique de la planification si-alors : ce que disent les 
 pubDate: 2026-11-20
 updatedDate: 2026-11-20
 readTime: "10 MIN"
-wordCount: 1384
+wordCount: 1365
 image: "/images/blog/if-then-planning-implementation-intentions.jpg"
 imageAlt: "Hand writing a task on a sticky note beside a paper to-do list"
 imageAltFr: "Main écrivant une tâche sur une note autocollante à côté d’une liste papier"

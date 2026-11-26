@@ -22,7 +22,7 @@ keywords:
   - "le voyage en solitaire"
 tags:
   - "travel"
-wordCount: 460
+wordCount: 445
 
 faq:
   - q: "What is solo travel?"

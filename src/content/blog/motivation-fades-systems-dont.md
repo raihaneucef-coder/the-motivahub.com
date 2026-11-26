@@ -22,7 +22,7 @@ keywords:
   - "do the work without feeling like it"
 tags:
   - "mindset"
-wordCount: 531
+wordCount: 527
 faq:
   - q: "What happens when motivation completely disappears?"
     a: "You rely on your system. A system is pre-made decisions: what you do, when, where, for how long. When motivation fades (it always does), you follow the plan mechanically. Athletes don't feel like training daily — they follow a schedule. The system carries you through the 'why bother' phase."

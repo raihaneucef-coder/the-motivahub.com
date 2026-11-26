@@ -22,7 +22,7 @@ keywords:
   - "self mastery shaolin wisdom"
 tags:
   - "mindset"
-wordCount: 657
+wordCount: 640
 
 faq:
   - q: "Who is Shi Heng Yi?"

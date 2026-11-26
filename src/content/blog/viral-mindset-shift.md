@@ -22,7 +22,7 @@ keywords:
   - "self concept determines results"
 tags:
   - "mindset"
-wordCount: 400
+wordCount: 388
 faq:
   - q: "What does 'you fall to your identity' mean?"
     a: "Popularized by James Clear: 'You do not rise to the level of your goals. You fall to the level of your systems.' More precisely, behavior follows identity. If you see yourself as 'a runner', you run without debating it. If you see yourself as 'someone trying to exercise', you quit when motivation fades."
