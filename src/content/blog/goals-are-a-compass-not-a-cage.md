@@ -22,7 +22,7 @@ keywords:
   - "process over outcome goals"
 tags:
   - "goals"
-wordCount: 353
+wordCount: 378
 faq:
   - q: "Why do my goals feel like a prison?"
     a: "Because you framed them as contracts ('I must do X or I fail'). This triggers loss-aversion anxiety. Reframe: a goal is a compass pointing toward a direction. You're allowed to take detours, rest, and adjust the route without abandoning the destination."

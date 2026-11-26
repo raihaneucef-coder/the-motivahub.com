@@ -21,7 +21,7 @@ keywords:
   - "commitment device self discipline"
 tags:
   - "goals"
-wordCount: 553
+wordCount: 563
 faq:
   - q: "What is an accountability partner?"
     a: "A person you check in with weekly to report progress on your goals. Unlike a coach, they don't advise — they simply ask 'did you do what you said?' The familiar 65% and 95% figures come from training-industry estimates (ASTD, later repeated by Gantt) with no published methodology, and they are not from the Dominican University study. What is better supported is the mechanism: pre-committing and reporting to a named person raises follow-through (Gollwitzer & Sheeran, 2006)."

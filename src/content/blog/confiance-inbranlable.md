@@ -21,7 +21,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 442
+wordCount: 373
 
 faq:
   - q: "Is confidence something you are born with or something you build?"

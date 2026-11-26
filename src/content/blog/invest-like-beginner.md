@@ -23,7 +23,7 @@ keywords:
   - "first steps to financial freedom"
 tags:
   - "finance"
-wordCount: 392
+wordCount: 426
 faq:
   - q: "How do beginners start investing?"
     a: "Open a brokerage or tax-advantaged account (ISA, 401k, PEA), set up an automatic monthly transfer (even 50€), and buy a broad-market index fund (S&P 500 or MSCI World). Avoid picking individual stocks until you have at least 6 months of consistent contributions."

@@ -22,7 +22,7 @@ keywords:
   - "stop all or nothing fitness"
 tags:
   - "wellness"
-wordCount: 417
+wordCount: 446
 faq:
   - q: "Is a short imperfect workout better than skipping entirely?"
     a: "Yes. A short walk reliably lifts mood and still counts toward the weekly activity total; the effect on metabolism and sleep quality depends on intensity, duration and timing. More importantly, skipping creates an identity break ('I'm not someone who exercises'), while showing up imperfectly maintains the habit chain and the self-image that sustains long-term consistency."

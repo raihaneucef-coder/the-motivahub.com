@@ -20,7 +20,7 @@ keywords:
   - "the real productivity hack"
 tags:
   - "productivity"
-wordCount: 406
+wordCount: 367
 faq:
   - q: "What is energy management?"
     a: "Prioritizing when you do work over how long you work. Instead of cramming tasks into every free hour, you schedule demanding tasks during peak energy windows (typically 90 min after waking) and low-energy work (email, admin) during slumps. Based on <a href=\"https://openlibrary.org/works/OL34309474W\" target=\"_blank\" rel=\"noopener\">Tony Schwartz's Energy Management model</a>."

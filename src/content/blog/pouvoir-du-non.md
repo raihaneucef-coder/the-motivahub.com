@@ -22,7 +22,7 @@ keywords:
   - "focus by eliminating distractions"
 tags:
   - "discipline"
-wordCount: 500
+wordCount: 435
 faq:
   - q: "Why is saying no a discipline skill?"
     a: "Because every yes costs time and energy from your real priorities. Warren Buffett said 'The difference between successful people and really successful people is that really successful people say no to almost everything.' Saying no is the discipline that protects your yes."

@@ -22,7 +22,7 @@ keywords:
 tags:
   - "productivity"
   - "how-to"
-wordCount: 654
+wordCount: 671
 faq:
   - q: "What's the difference between being busy and being productive?"
     a: "Busy means high activity; productive means high output on what matters. Time-use studies of knowledge workers keep landing on the same picture: only a couple of hours a day go to actual focused work — the rest is email, meetings, and 'admin theatre.' True productivity = doing the few things that move outcomes, not doing many things that feel urgent."

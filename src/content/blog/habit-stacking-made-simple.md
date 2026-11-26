@@ -24,7 +24,7 @@ keywords:
   - "easy way to remember new habits"
 tags:
   - "habits"
-wordCount: 377
+wordCount: 401
 faq:
   - q: "What is habit stacking?"
     a: "A method where you attach a new habit to an existing one using the formula: 'After [CURRENT HABIT], I will [NEW HABIT].' Example: 'After I pour my morning coffee, I will meditate for 1 minute.' The existing habit becomes an automatic cue, removing the need to remember or decide."

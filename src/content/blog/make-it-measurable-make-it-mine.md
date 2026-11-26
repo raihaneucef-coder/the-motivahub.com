@@ -22,7 +22,7 @@ keywords:
   - "quantified self improvement"
 tags:
   - "goals"
-wordCount: 299
+wordCount: 348
 faq:
   - q: "Why does making goals measurable increase achievement?"
     a: "Vague goals ('get fit') activate no specific behavior. Measurable goals ('do 30 pushups daily') create a binary tracking system: you either did it or didn't. The clarity eliminates negotiation, and the data shows you whether you're actually progressing or just feeling busy."

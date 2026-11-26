@@ -23,7 +23,7 @@ keywords:
 tags:
   - "entertainment"
   - "how-to"
-wordCount: 420
+wordCount: 596
 faq:
   - q: "What does it mean to watch intentionally?"
     a: "Choosing content before you're bored, deciding what to watch rather than letting an algorithm decide. Watching with full attention (no phone scrolling simultaneously). Setting a time limit and stopping when it's met. Treating your attention as a budget, not an infinite resource."

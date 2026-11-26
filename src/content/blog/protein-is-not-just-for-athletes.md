@@ -25,7 +25,7 @@ keywords:
   - "cheap high protein foods"
 tags:
   - "nutrition"
-wordCount: 395
+wordCount: 398
 faq:
   - q: "Why does protein matter if you're not an athlete?"
     a: "Protein is the building material of every cell — immune antibodies, gut lining, neurotransmitters, hair and skin. Muscle mass and strength decline with age, and the decline gets steeper from about 65 on, which is why protein matters outside sport too. For adults over 65, the PROT-AGE position paper recommends 1.0-1.2 g/kg per day, above the 0.8 g/kg RDA — and at least 1.2 g/kg for those who train (<a href=\"https://pubmed.ncbi.nlm.nih.gov/23867520/\">Bauer et al., 2013</a>). Healthy younger adults do not need that much; 0.8-1.0 g/kg covers them."

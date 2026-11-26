@@ -22,7 +22,7 @@ keywords:
   - "Jim Rohn you average of five"
 tags:
   - "relationships"
-wordCount: 370
+wordCount: 385
 faq:
   - q: "Who are 'the people who raise your floor'?"
     a: "They're the friends whose standards silently pull you up. Not motivational speakers — just people who train consistently, read regularly, speak with integrity. You don't 'hang out with successful people to get famous' — you simply absorb their non-negotiables as your new baseline."

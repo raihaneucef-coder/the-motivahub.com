@@ -31,7 +31,7 @@ tags:
   - "habits"
   - "atomic-habits"
   - "protocol"
-wordCount: 1652
+wordCount: 1661
 bookSlug: atomic-habits
 faq:
   - q: "What is the 2-minute rule?"

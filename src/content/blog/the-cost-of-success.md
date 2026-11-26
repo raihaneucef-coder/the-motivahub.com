@@ -22,7 +22,7 @@ keywords:
   - "what nobody tells you about winning"
 tags:
   - "success"
-wordCount: 365
+wordCount: 391
 faq:
   - q: "What is the hidden cost of success?"
     a: "Beyond the visible wins: relationships strained by your schedule, identity fused with achievement (collapse when you stop), loss of privacy, and a moving goalpost that never lets you enjoy what you built. The cost is not failure; it is arriving and realizing the prize does not fill the void."

@@ -24,7 +24,7 @@ tags:
   - "stories"
   - "discipline"
   - "story"
-wordCount: 378
+wordCount: 414
 bookSlug: "psychology-of-money"
 
 faq:

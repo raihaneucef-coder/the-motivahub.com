@@ -22,7 +22,7 @@ keywords:
   - "media that inspires growth"
 tags:
   - "entertainment"
-wordCount: 401
+wordCount: 415
 faq:
   - q: "Can a movie actually change your life?"
     a: "Yes: narrative transportation research (Green and Brock, 2000) shows stories can shift beliefs more effectively than arguments. When you emotionally identify with a character facing a dilemma parallel to yours, the resolution provides a behavioral template your brain accepts as experienced rather than instructed."

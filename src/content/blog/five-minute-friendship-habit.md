@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 374
+wordCount: 413
 faq:
   - q: "What is the five-minute friendship habit?"
     a: "A daily 5-minute action to maintain a friendship: one text ('thinking of you'), one voice note, one comment on their post, or one 3-minute call. Rotating through 7 friends per week means everyone in your circle gets consistent attention without it feeling like work."

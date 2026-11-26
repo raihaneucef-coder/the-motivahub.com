@@ -25,7 +25,7 @@ tags:
   - "personal growth"
   - "habits"
   - "self-awareness"
-wordCount: 576
+wordCount: 601
 readTime: "6 MIN"
 faq:
   - q: "How does journaling help with personal growth?"

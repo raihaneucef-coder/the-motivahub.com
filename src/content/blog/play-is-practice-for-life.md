@@ -22,7 +22,7 @@ keywords:
   - "why games matter for growth"
 tags:
   - "entertainment"
-wordCount: 336
+wordCount: 353
 faq:
   - q: "Why is play important for adults?"
     a: "Play is not the opposite of productivity — it is a training ground. Stuart Brown and the National Institute for Play argue, from decades of observational work, that play supports creativity, stress tolerance and social bonding; the strength of that evidence varies by outcome, and it is better described as a well-supported hypothesis than as a proven causal law. What is clear is the pattern: adults who stop playing tend to describe themselves as more rigid, not more mature."

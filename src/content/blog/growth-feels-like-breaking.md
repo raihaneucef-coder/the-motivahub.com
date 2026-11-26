@@ -24,7 +24,7 @@ keywords:
   - "growth before breakdown"
 tags:
   - "personal growth"
-wordCount: 364
+wordCount: 379
 faq:
   - q: "Why does personal growth feel like breaking?"
     a: "Because growth requires dismantling your old identity before building a new one. There's a gap between who you were and who you're becoming — and in that gap, nothing feels stable. Psychologists call this 'liminal space.' It's not a sign of failure; it's the architecture of transformation."

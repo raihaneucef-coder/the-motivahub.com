@@ -21,7 +21,7 @@ keywords:
   - "first investment step by step"
 tags:
   - "finance"
-wordCount: 418
+wordCount: 415
 faq:
   - q: "How do beginners start investing?"
     a: "Open a tax-advantaged account (PEA in France, ISA/401k in US/UK), automate a monthly transfer (even 50€), and buy a broad index fund (MSCI World or S&P 500). That's the entire 'getting started' — complexity comes later. Time in the market beats timing the market, always."

@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "habits"
-wordCount: 478
+wordCount: 479
 faq:
   - q: "What 5-minute daily habit strengthens relationships?"
     a: "One undistracted check-in: ask 'how was your day?' and listen for 3 minutes without your phone. Add 2 minutes of specific appreciation ('I loved how you handled X today'). This tiny ritual creates emotional safety and signals 'you matter' — the kind of small attuned moment Gottman's research links to lasting satisfaction."

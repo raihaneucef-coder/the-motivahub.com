@@ -1,5 +1,5 @@
 ---
-title: "Discipline Over Motivation: Why One Shows Up and the Other Doesn't"
+title: "Discipline Over Motivation: Why One Shows Up"
 seoTitle: "Discipline Over Motivation: Why One Shows Up"
 description: "Motivation gets you started, discipline keeps you going. Why discipline beats motivation — built with the 2-minute rule, the 2-day rule and identity votes."
 titleFr: "La Discipline Dépass la Motivation : Construire des Systèmes"
@@ -26,7 +26,7 @@ tags:
   - "success"
   - "discipline"
   - "habits"
-wordCount: 417
+wordCount: 394
 faq:
   - q: "Why is discipline more reliable than motivation?"
     a: "Motivation is an emotion that comes and goes. Discipline is a skill that can be built and strengthened. Motivation disappears when you are tired, stressed, or discouraged. Discipline shows up regardless. The most successful people do not rely on motivation — they rely on systems that make discipline automatic."

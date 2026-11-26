@@ -1,5 +1,5 @@
 ---
-title: "The Secret of People Who Always Succeed — It Is Not What You Think"
+title: "The Secret of People Who Always Succeed"
 seoTitle: "The Secret of People Who Always Succeed"
 description: "Discover the hidden pattern behind consistent success. It is not talent, luck, or connections — it is something far more simple and powerful."
 titleFr: "Le Secret de la Réussite : Ce que les Gens Performants Font Différemment"
@@ -22,7 +22,7 @@ keywords:
   - "how successful people stay consistent"
 tags:
   - "mindset"
-wordCount: 710
+wordCount: 679
 faq:
   - q: "What is the real secret to success?"
     a: "Boring consistency. Angela Duckworth's research on 'grit' across West Point cadets, spelling bees, and sales teams found: the #1 predictor of success isn't talent, IQ, or opportunity — it's the ability to keep doing the same work day after day when results aren't visible yet."

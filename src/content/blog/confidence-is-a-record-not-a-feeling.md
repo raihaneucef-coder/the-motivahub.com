@@ -22,7 +22,7 @@ keywords:
   - "prove it to yourself"
 tags:
   - "confidence"
-wordCount: 397
+wordCount: 412
 faq:
   - q: "How do you build genuine self-confidence?"
     a: "Stop waiting to 'feel' confident. Confidence is a record of promises you've kept to yourself. Start with tiny commitments (make your bed, do 10 push-ups) and keep them daily. After 30+ kept promises, your brain updates its model of you. Evidence beats affirmation."

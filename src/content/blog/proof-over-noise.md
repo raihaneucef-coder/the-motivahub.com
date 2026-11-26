@@ -24,7 +24,7 @@ keywords:
   - "evidence based self improvement"
 tags:
   - "stories"
-wordCount: 450
+wordCount: 465
 faq:
   - q: "Why is 'proof over noise' a better strategy than self-promotion?"
     a: "Because noise requires constant feeding while proof compounds silently. A person posting 'I wake up at 5am' gets likes; the person who wakes at 5am for 3 years gets a business. Proof creates actual results; noise creates the appearance of progress without the substance."

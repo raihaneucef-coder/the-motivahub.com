@@ -25,7 +25,7 @@ keywords:
 tags:
   - "finance"
   - "story"
-wordCount: 405
+wordCount: 411
 faq:
   - q: "Why do I feel ashamed about debt?"
     a: "Because we confuse numbers with character. Debt is a financial state, not a moral failure. Research on 'financial shame' (University of Florida) shows that self-judgment about debt leads to avoidance — checking statements later, spending to cope. Self-compassion actually increases repayment speed because you face the numbers instead of hiding."

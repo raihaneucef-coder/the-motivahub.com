@@ -22,7 +22,7 @@ keywords:
   - "travel less see more philosophy"
 tags:
   - "travel"
-wordCount: 498
+wordCount: 497
 faq:
   - q: "What is slow travel and why is it better?"
     a: "Staying 2-4 weeks in one location instead of 2 nights in 7 cities. Benefits: 40 percent lower costs (weekly rentals, local prices), deeper cultural connection, language progress, less transit fatigue, and memories that feel lived rather than collected. You actually remember your trip."

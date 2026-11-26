@@ -27,7 +27,7 @@ tags:
   - "guide"
   - "self-help"
   - "performance"
-wordCount: 1279
+wordCount: 1619
 bookSlug: "cant-hurt-me"
 faq:
   - q: "Is the 40% rule scientifically proven?"

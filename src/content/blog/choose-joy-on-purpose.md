@@ -22,7 +22,7 @@ keywords:
   - "delight as a discipline"
 tags:
   - "entertainment"
-wordCount: 352
+wordCount: 363
 faq:
   - q: "Can you really choose to be happy?"
     a: "Not as a forced emotion — but you can choose the conditions that produce it. Research on 'behavioral activation' shows scheduling pleasant activities (walks, music, friends) increases happiness as effectively as medication for mild depression. You can't summon joy, but you can build the path it walks in on."

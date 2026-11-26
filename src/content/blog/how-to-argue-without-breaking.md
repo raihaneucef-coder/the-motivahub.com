@@ -23,7 +23,7 @@ keywords:
 tags:
   - "relationships"
   - "how-to"
-wordCount: 343
+wordCount: 353
 faq:
   - q: "How do you argue without damaging the relationship?"
     a: "Attack the problem, not the person. Use 'I feel' statements instead of 'you always.' Take a 20-minute break when heart rate exceeds 100bpm (physiological flooding makes rational discussion impossible). End with repair: 'We're on the same team — this disagreement is the enemy, not you.'"

@@ -20,7 +20,7 @@ keywords:
   - "emergency fund vs investing"
 tags:
   - "finance"
-wordCount: 533
+wordCount: 527
 faq:
   - q: "How much should I save for an emergency fund?"
     a: "3 to 6 months of essential living expenses (rent, food, utilities, insurance). Start with a 1,000€ mini-fund, then build to one month, then three. A 6-month target applies if you're self-employed; employed workers can often start with 3 months due to more predictable income."

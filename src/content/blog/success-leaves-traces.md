@@ -23,7 +23,7 @@ keywords:
   - "daily habits that lead to achievement"
 tags:
   - "success"
-wordCount: 372
+wordCount: 382
 faq:
   - q: "What does success leaves traces mean?"
     a: "Every achievement has a visible pathway: daily decisions, habits, and routines that preceded it. Successful people do not have magic, they leave breadcrumbs of consistency you can study and follow. The book they wrote had 500 days of early-morning writing. The business had 5 years of compounding. Traces reveal the formula."

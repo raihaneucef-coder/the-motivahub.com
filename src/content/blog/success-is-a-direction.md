@@ -22,7 +22,7 @@ keywords:
   - "what comes after achieving your dream"
 tags:
   - "success"
-wordCount: 353
+wordCount: 369
 faq:
   - q: "Why do successful people often feel empty after achievement?"
     a: "The arrival fallacy (Dan Gilbert's research on affective forecasting): humans overestimate the lasting happiness a single achievement brings. Hedonic adaptation usually pulls you back toward your baseline within weeks to a few months, depending on the event and the person. If success is a destination, you are homeless the moment you arrive. If it is a direction, every day counts."

@@ -22,7 +22,7 @@ keywords:
   - "how much discomfort is too much"
 tags:
   - "personal growth"
-wordCount: 591
+wordCount: 594
 faq:
   - q: "Why do you need to leave your comfort zone to grow?"
     a: "Growth requires what exercise science calls progressive overload: a stimulus slightly beyond your current capacity triggers adaptation. The same applies psychologically. Vygotsky Zone of Proximal Development: optimal learning happens just beyond what you can already do alone."

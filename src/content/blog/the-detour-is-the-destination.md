@@ -22,7 +22,7 @@ keywords:
   - "detour as metaphor for growth"
 tags:
   - "travel"
-wordCount: 311
+wordCount: 322
 faq:
   - q: "What does the detour teach that the direct route does not?"
     a: "Adaptability, presence, and the discovery that your planned destination was never the real goal. The best travel memories (and life lessons) come from breakdowns, wrong turns, and unexpected conversations that only happen when you are forced off-schedule."

@@ -22,7 +22,7 @@ keywords:
   - "reinvent yourself later in life"
 tags:
   - "stories"
-wordCount: 302
+wordCount: 336
 faq:
   - q: "Is it really never too late to start something new?"
     a: "Neuroplasticity research confirms the brain continues forming new connections throughout life. Colonel Sanders franchised KFC at 62, Vera Wang entered fashion at 40, and Ray Kroc started McDonald's at 52. The only real barrier is social permission — not cognitive capacity."

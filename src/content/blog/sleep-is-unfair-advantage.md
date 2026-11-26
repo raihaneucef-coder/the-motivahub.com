@@ -27,7 +27,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "sleep"
-wordCount: 2035
+wordCount: 2037
 faq:
   - q: "How much sleep do I actually need?"
     a: "Research from Matthew Walker and the National Sleep Foundation suggests 7-9 hours for most adults. Less than 6 is associated with cognitive decline, immune dysfunction, and increased mortality risk. Individual needs vary by genetics, but consistency matters more than exact hours."

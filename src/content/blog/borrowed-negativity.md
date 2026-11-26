@@ -4,7 +4,7 @@ seoTitle: "Borrowed Negativity: Audit the Tone You Inherited"
 description: "Your outlook is not formed in isolation. Mood contagion, perceived social norms, and repeated inputs shape what feels normal — here is how to audit them."
 titleFr: "Négativité empruntée : comment l’humeur et les normes sociales façonnent votre regard"
 seoTitleFr: "Négativité empruntée : auditer le ton hérité"
-descriptionFr: "Votre regard sur la vie ne se construit pas seul. Contagion de l’humeur, normes sociales perçues et inputs répétés façonnent ce qui paraît normal — voici comment les auditer."
+descriptionFr: "Votre regard sur la vie se construit aussi par contagion, normes sociales et inputs répétés. Voici comment les repérer et les auditer."
 pubDate: 2026-11-24
 updatedDate: 2026-11-24
 topic: "Mindset"

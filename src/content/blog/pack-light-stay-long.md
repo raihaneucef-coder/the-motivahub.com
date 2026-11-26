@@ -22,7 +22,7 @@ keywords:
   - "travel lighter advice"
 tags:
   - "travel"
-wordCount: 387
+wordCount: 401
 faq:
   - q: "Why should you pack light for long trips?"
     a: "Heavy luggage creates friction at every transition: hauling bags, waiting at check-in, navigating stairs, and paying overweight fees. Long-term travelers who carry one bag move more, spend less, and choose experiences over logistics. The lighter you pack, the longer you can stay anywhere without settling."

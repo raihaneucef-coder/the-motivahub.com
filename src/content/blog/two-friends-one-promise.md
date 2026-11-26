@@ -26,7 +26,7 @@ tags:
   - "stories"
   - "accountability"
   - "habits"
-wordCount: 376
+wordCount: 399
 faq:
   - q: "Does accountability actually help with habits?"
     a: "Yes. Committing to a habit with a partner tends to strengthen follow-through in a way solo willpower often does not. The social commitment creates a different kind of accountability than self-discipline. When you break a promise to yourself, you feel disappointment. When you break a promise to a friend, you feel shame. The stronger emotion protects the habit."

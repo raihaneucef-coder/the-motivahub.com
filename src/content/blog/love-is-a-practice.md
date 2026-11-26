@@ -22,7 +22,7 @@ keywords:
   - "love as a verb discipline"
 tags:
   - "relationships"
-wordCount: 377
+wordCount: 399
 faq:
   - q: "Is love a feeling or a choice?"
     a: "Both — but the sustainable part is choice. The early intense phase (limerence) is often estimated at 12-24 months and involves dopamine and oxytocin, though the timeline varies widely between couples. After that, love becomes a daily practice: showing up, choosing their wellbeing alongside yours, staying when the initial high fades. The couples who thrive treat love as a verb, not a mood."

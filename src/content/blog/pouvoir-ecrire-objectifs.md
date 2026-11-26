@@ -20,7 +20,7 @@ keywords:
   - "dominant goals study harvard"
 tags:
   - "goals"
-wordCount: 591
+wordCount: 629
 faq:
   - q: "Does writing goals down actually increase achievement?"
     a: "One often-cited but unpublished Dominican University study (Gail Matthews, 2015) reported that people who wrote their goals down were more likely to achieve them than those who only thought about them. Treat the exact size of the effect as uncertain — the study was small and not peer-reviewed — but writing makes the goal concrete, which is the first step toward planning and follow-through."

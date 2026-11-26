@@ -27,7 +27,7 @@ tags:
   - "guide"
   - "self-improvement"
   - "deep-work"
-wordCount: 2175
+wordCount: 2224
 faq:
   - q: "What is slow productivity?"
     a: "Cal Newport's philosophy: do fewer things, work at a natural pace, obsess over quality. Three core principles. It rejects hustle culture's assumption that more projects + more hours = better output. Newport argues the opposite: fewer commitments, deeper focus, longer sustainable careers."

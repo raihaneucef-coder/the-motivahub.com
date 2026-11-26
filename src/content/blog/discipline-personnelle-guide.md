@@ -23,7 +23,7 @@ keywords:
 tags:
   - "discipline"
   - "guide"
-wordCount: 782
+wordCount: 779
 faq:
   - q: "How do I build self-discipline that lasts?"
     a: "Start with one tiny non-negotiable habit (e.g., make your bed daily). Stack gradually. Use environment design to reduce friction. Track streaks visually. The key is consistency over intensity — 1% daily beats 100% once a week."

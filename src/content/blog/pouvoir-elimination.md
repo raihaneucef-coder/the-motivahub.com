@@ -22,7 +22,7 @@ keywords:
   - "focus on what matters most"
 tags:
   - "productivity"
-wordCount: 850
+wordCount: 915
 bookSlug: "deep-work"
 faq:
   - q: "What is the power of elimination in productivity?"

@@ -23,7 +23,7 @@ keywords:
 tags:
   - "discipline"
   - "how-to"
-wordCount: 539
+wordCount: 885
 faq:
   - q: "What are non-negotiable standards?"
     a: "Non-negotiable standards are personal rules you follow regardless of mood, weather, or external pressure. Unlike goals, they describe a floor — the minimum behavior you accept from yourself daily. Examples: 'I train 4× per week', 'I never skip writing', 'I am in bed by 11pm'."

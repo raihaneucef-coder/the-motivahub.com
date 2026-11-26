@@ -22,7 +22,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 648
+wordCount: 659
 readTime: "7 MIN"
 faq:
   - q: "What is imposter syndrome and who gets it?"

@@ -21,7 +21,7 @@ keywords:
   - "minimalism productivity method"
 tags:
   - "productivity"
-wordCount: 673
+wordCount: 694
 faq:
   - q: "Why does doing less produce more?"
     a: "Because attention is a finite resource. Each additional task dilutes focus quality (context-switching costs 23 minutes per interruption, per UC Irvine research). Narrowing to 1-3 priorities lets you complete them at a level of depth that 10 scattered tasks never achieve."

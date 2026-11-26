@@ -24,7 +24,7 @@ keywords:
   - "solo female travel safety tips"
 tags:
   - "travel"
-wordCount: 364
+wordCount: 397
 faq:
   - q: "What does solo travel teach you that group travel doesn't?"
     a: "Complete self-reliance. When alone, you make every decision, navigate every problem, and sit with every discomfort, building what psychologists call self-efficacy. You discover you can handle the unknown without a safety net, which transfers directly to career and relationships."

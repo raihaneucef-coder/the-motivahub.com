@@ -23,7 +23,7 @@ keywords:
   - "increase savings rate not income"
 tags:
   - "finance"
-wordCount: 328
+wordCount: 381
 faq:
   - q: "Why don't raises solve money problems?"
     a: "Because of 'lifestyle creep': spending automatically expands to match income (Parkinson's law of money). A 20% raise typically produces 20% more spending — same gap, bigger numbers. The solution isn't earning more; it's keeping a fixed savings percentage before spending whatever remains."

@@ -22,7 +22,7 @@ keywords:
 tags:
   - "personal growth"
   - "how-to"
-wordCount: 417
+wordCount: 405
 faq:
   - q: "What is the 1% rule?"
     a: "The 1% rule means improving by just 1% each day. The math is illustrative: 1.01³⁶⁵ ≈ 37.8, which shows how compounding works across a year — not a literal promise that you become 37 times better. Popularized by James Clear in Atomic Habits, the principle shows that tiny consistent gains compound into extraordinary results over time."

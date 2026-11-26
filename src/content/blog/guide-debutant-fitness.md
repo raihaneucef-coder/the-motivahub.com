@@ -25,7 +25,7 @@ tags:
   - "sport"
   - "habits"
   - "guide"
-wordCount: 727
+wordCount: 730
 
 faq:
   - q: "How do I start going to the gym as a complete beginner?"
