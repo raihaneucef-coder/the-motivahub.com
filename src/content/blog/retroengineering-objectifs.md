@@ -22,7 +22,7 @@ keywords:
 tags:
   - "goals"
   - "how-to"
-wordCount: 484
+wordCount: 442
 faq:
   - q: "What is reverse engineering a goal?"
     a: "Reverse engineering a goal means starting at the desired end result and working backward to today. You define the final outcome, break it into quarterly milestones, then monthly targets, then weekly actions — so every daily task has a direct line to the goal."

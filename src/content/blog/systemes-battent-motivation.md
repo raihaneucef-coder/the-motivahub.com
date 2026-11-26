@@ -21,7 +21,7 @@ keywords:
   - "automatic habits system design"
 tags:
   - "goals"
-wordCount: 438
+wordCount: 402
 faq:
   - q: "What's the difference between a system and a goal?"
     a: "A goal is the desired result ('lose 10 kg'). A system is the repeatable process that produces it ('I walk 8,000 steps daily and eat protein at every meal'). Goals provide direction; systems provide progress. Winners and losers set the same goals — the system is what separates them."

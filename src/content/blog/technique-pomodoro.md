@@ -22,7 +22,7 @@ keywords:
   - "focus timer technique study"
 tags:
   - "productivity"
-wordCount: 469
+wordCount: 435
 bookSlug: deep-work
 faq:
   - q: "What is the Pomodoro Technique?"

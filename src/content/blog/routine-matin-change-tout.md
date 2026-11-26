@@ -22,7 +22,7 @@ keywords:
 tags:
   - "habits"
   - "morning-routine"
-wordCount: 567
+wordCount: 516
 faq:
   - q: "Can a morning routine really change your life?"
     a: "Yes — not because of the specific activities but because of what a routine builds: a sense of control before the world makes demands. Bandura's work on 'self-efficacy' identifies accomplished small wins as a core source of felt efficacy; keeping a promise to yourself first thing makes the next promises of that day easier to keep."

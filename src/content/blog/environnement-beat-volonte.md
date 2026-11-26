@@ -21,7 +21,7 @@ keywords:
   - "atomic habits environment design"
 tags:
   - "habits"
-wordCount: 666
+wordCount: 628
 faq:
   - q: "Why does environment beat willpower?"
     a: "Self-control works better early in the day and under low stress than late in the day and under load. The classic 'ego depletion' model (Baumeister) called willpower a finite resource; a large 2021 preregistered multi-lab replication found little evidence for it, while a 2024 reanalysis argues the effect survives under specific conditions — so the science is genuinely unsettled. Either way, environment works 24/7 without effort. If your kitchen has fruit at eye level and cookies in a high cupboard, you eat better without 'trying.'"

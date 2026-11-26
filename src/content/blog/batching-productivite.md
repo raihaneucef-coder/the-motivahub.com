@@ -24,7 +24,7 @@ keywords:
   - "how to batch tasks"
 tags:
   - "productivity"
-wordCount: 1475
+wordCount: 1399
 faq:
   - q: "What is task batching?"
     a: "Task batching is grouping similar tasks together and doing them in one focused block, instead of switching between different types of tasks throughout the day. It reduces context switching and increases deep work time."

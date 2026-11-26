@@ -23,7 +23,7 @@ keywords:
 tags:
   - "confidence"
   - "how-to"
-wordCount: 512
+wordCount: 482
 faq:
   - q: "Can body language really make you feel confident?"
     a: "Yes — 'embodied cognition' research shows that body posture changes how you feel and how other people read you. Sitting upright nudges up felt assertiveness and energy. The dramatic 'power pose' claim (a 2010 study by Carney, Cuddy and Yap) failed later replication, so treat the effect as real but modest: act confident → feel a bit more confident → perform better."
