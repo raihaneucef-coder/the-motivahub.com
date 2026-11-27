@@ -1,16 +1,29 @@
 #!/usr/bin/env node
-// GA4 Data API pull: users/sessions/sources/bounce last 28 days
+// GA4 Data API pull: users/sessions/sources/bounce last 7/28 days.
+// Requires credentials via GOOGLE_APPLICATION_CREDENTIALS (or ADC) and GA4_PROPERTY_ID.
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const { GoogleAuth } = require('google-auth-library');
 
-const KEY = '/Users/youssefraihane/Downloads/themotivahub1717-598a0dffacbd.json';
-const PROPERTY = 'properties/551052915';
+const keyFile = process.env.GOOGLE_APPLICATION_CREDENTIALS;
+const propertyId = process.env.GA4_PROPERTY_ID;
+if (!propertyId) {
+  console.error('Missing GA4_PROPERTY_ID (e.g. properties/123456789).');
+  process.exit(1);
+}
+const PROPERTY = propertyId.startsWith('properties/') ? propertyId : `properties/${propertyId}`;
 
-const auth = new GoogleAuth({ keyFile: KEY, scopes: ['https://www.googleapis.com/auth/analytics.readonly'] });
+const auth = new GoogleAuth({
+  ...(keyFile ? { keyFile } : {}),
+  scopes: ['https://www.googleapis.com/auth/analytics.readonly'],
+});
 const c = await auth.getClient();
 
-const today = new Date();
+const today = process.env.GA4_END_DATE ? new Date(process.env.GA4_END_DATE) : new Date();
+if (Number.isNaN(today.getTime())) {
+  console.error('Invalid GA4_END_DATE. Use YYYY-MM-DD.');
+  process.exit(1);
+}
 const d28 = new Date(today); d28.setDate(d28.getDate() - 28);
 const d7  = new Date(today); d7.setDate(d7.getDate() - 7);
 const iso = d => d.toISOString().slice(0, 10);
