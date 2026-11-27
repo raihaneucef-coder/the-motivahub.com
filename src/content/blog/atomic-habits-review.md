@@ -1,5 +1,5 @@
 ---
-title: "Atomic Habits Book Review (2026): What 4 Reads in 18 Months Actually Changed"
+title: "Atomic Habits Review (2026): 4 Reads, 18 Months Later"
 seoTitle: "Atomic Habits Book Review: 4 Reads, 18 Months"
 description: "An honest Atomic Habits review: what four reads over 18 months changed in writing, running and identity — with real numbers and who should skip it."
 titleFr: "Revue Atomic Habits : Rapport de Terrain en 4 Lectures"

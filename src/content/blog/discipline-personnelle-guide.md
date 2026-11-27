@@ -1,5 +1,5 @@
 ---
-title: "Personal Discipline: The Complete Guide to Self-Control and Consistency"
+title: "Personal Discipline: Self-Control and Consistency"
 seoTitle: "Personal Discipline: A Guide to Self-Control"
 description: "Personal discipline decoded: 8 systems — identity goals, the 2-minute rule, morning design, voluntary discomfort and the 40% rule — for lasting consistency."
 titleFr: "Discipline Personnelle : 8 Systèmes Plutôt que la Volonté"

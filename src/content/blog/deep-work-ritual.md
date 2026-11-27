@@ -1,5 +1,5 @@
 ---
-title: "I Built a 3-Hour Deep Work Ritual That Actually Works (After 12 Failed Attempts)"
+title: "My 3-Hour Deep Work Ritual: What 12 Failed Attempts Taught Me"
 seoTitle: "The 3-Hour Deep Work Ritual That Actually Works"
 description: "Distraction is the default; focus is the exception. After a dozen failed attempts, here is the deep work stack that survived contact with a real Tuesday."
 titleFr: "Le Rituel Deep Work : Créer un Environnement de Concentration"

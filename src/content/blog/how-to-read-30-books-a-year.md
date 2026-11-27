@@ -1,5 +1,5 @@
 ---
-title: "How to Read 30 Books in a Year (My 90-Day Test of the 20-Minute Habit)"
+title: "Read 30 Books a Year: My 90-Day Test of a 20-Minute Habit"
 seoTitle: "How to Read 30 Books a Year (90-Day Test)"
 description: "I built a daily reading habit over 90 days. What worked, what failed, and the 20-minute system that finished 7 books in 3 months."
 titleFr: "Comment lire 30 livres par an (mon test de 90 jours sur l'habitude de 20 minutes)"

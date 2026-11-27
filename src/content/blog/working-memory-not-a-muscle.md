@@ -1,5 +1,5 @@
 ---
-title: "Working Memory: Why You Feel Mentally Overloaded — and What Actually Helps"
+title: "Working Memory: Why You Feel Overloaded and What Helps"
 seoTitle: "Working Memory: Why You Feel Overloaded"
 description: "Your working memory is small, not weak. What the evidence says about overload, brain-training claims, sleep, movement, and a 7-day experiment."
 titleFr: "Mémoire de travail : pourquoi vous vous sentez surchargé mentalement — et ce qui aide vraiment"

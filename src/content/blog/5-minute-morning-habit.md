@@ -1,5 +1,5 @@
 ---
-title: "The 5-Minute Morning Habit That Saves My Sanity (And 4 Hours a Week)"
+title: "The 5-Minute Morning Habit That Saves Me 4 Hours a Week"
 seoTitle: "The 5-Minute Morning Habit That Saves My Sanity"
 description: "One small habit before 8 AM saved me from unread emails, scattered priorities and creeping chaos. The exact system — and why it works in 5 minutes."
 titleFr: "L'Habitude Matinale de 5 Minutes : Comment Transformer Votre Matinée"

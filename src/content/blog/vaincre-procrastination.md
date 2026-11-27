@@ -1,5 +1,5 @@
 ---
-title: "How to Stop Procrastinating — The Real Science Behind Procrastination"
+title: "How to Stop Procrastinating: The Real Science Behind It"
 seoTitle: "How to Stop Procrastinating: The Real Science"
 description: "Understand why you procrastinate and learn proven techniques to beat it forever. Practical strategies to take action now."
 titleFr: "Comment arrêter de procrastiner — la vraie science derrière la procrastination"

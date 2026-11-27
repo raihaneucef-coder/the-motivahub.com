@@ -1,5 +1,5 @@
 ---
-title: "The Morning Athlete: Why 5 AM Still Wins (And How to Actually Do It)"
+title: "The Morning Athlete: Why 5 AM Works—and How to Start"
 seoTitle: "The Morning Athlete: Why 5 AM Still Wins"
 description: "I've tested early-morning training for 5 years — as athlete, coach, and regular person. What works, what fails, and why 5 AM still beats every other option."
 titleFr: "L'athlète du matin : pourquoi 5h gagne toujours (et comment y arriver vraiment)"

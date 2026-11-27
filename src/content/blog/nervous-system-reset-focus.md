@@ -1,5 +1,5 @@
 ---
-title: "Why You Can't Focus (And the 5-Minute Exercise That Fixed It for Me)"
+title: "Why You Can't Focus (And the 5-Minute Exercise That Helped)"
 seoTitle: "Why You Can't Focus (and a 5-Minute Fix)"
 description: "Why willpower-based productivity failed me — and what finally worked. A body-first approach to focus, backed by neuroscience, with protocols to try tonight."
 titleFr: "Pourquoi tu ne peux pas te concentrer (et l'exercice de 5 minutes qui m'a sauvé)"
